@@ -1,0 +1,29 @@
+>script_prog nothing-new~
+  #
+  say Well, well, back so soon.
+  say You learn fast for a grunt!
+~
+>script_prog notice~
+  #
+  bow $n
+  say Go practice with the other students!
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ismemory($n)
+      if rand(50)
+        mptrigger $n nothing-new
+      endif
+    else
+      mptrigger $n notice
+      mpremember $n
+    endif
+  endif
+~
+>fight_prog 100~
+  if isscript($i)
+    mpstopscript
+  endif
+~
+|

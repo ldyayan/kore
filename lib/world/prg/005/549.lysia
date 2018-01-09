@@ -1,0 +1,8 @@
+>rand_prog 18~
+  if inroom($r) == here
+    if ispoisoned($r)
+    cast 'remove poison' $r
+    endif
+  endif
+~
+|

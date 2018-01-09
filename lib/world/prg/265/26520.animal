@@ -1,0 +1,14 @@
+>greet_prog 20~
+  if rand(40)
+    mpechoaround A giant panther jumps from the brush surrounding the river.
+    mpechoaround It latches onto the body of $r who struggles to get free.
+    mpechoat A giant panther leaps from the underbrush surrounding the river.
+    mpechoat It digs it's teeth into your body and you struggle to break free.
+    mpdamage $r 20d20+10
+  else
+    mpechoaround A long arrow strikes $r from the underbrush of the jungle.
+    mpechoat A long arrow digs into your torso.
+    mpdamage $r 12d12+10
+  endif
+~
+|

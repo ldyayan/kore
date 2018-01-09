@@ -1,0 +1,11 @@
+>command_prog look shards~
+ if level($n) < 24
+  mpecho A chill flows through your body!
+   else
+    mpecho A thousand shards begin to swirl around forming a ghostly being!
+    mppurge shards
+    mpmload 6828
+    mpgoto cleaner
+  endif
+~
+|

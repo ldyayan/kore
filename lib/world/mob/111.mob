@@ -1,0 +1,953 @@
+#11100
+Keris~
+Keris~
+You see Keris' sitting at his desk.
+~
+You see a well dress con man.
+~
+172106 40 -1000 S
+40 0 -1 15d10+1850 4d8+13
+0 0
+8 8 1 13
+#11101
+Luanna~
+Luanna~
+Luanna is busy working.
+~
+You see a rotund, muscular woman with her blonde hair done in two huge braids.
+~
+172106 65536 500 S
+45 -10 -1 25d10+3000 8d4+16
+0 0
+8 8 2 7
+#11102
+a madman~
+a madman~
+You see a madman here looking right through you.
+~
+This man is a raving lunatic. Then again what is mistaken for insanity is
+actually a psionic wild talent.
+~
+43080 4 -200 S
+30 0 0 6d12+853 4d6+8
+0 0
+8 8 1 4
+#11103
+sneak~
+a sneak~
+You see a sneak standing here.
+~
+You see a young woman wearing a long cloak. She carries a large bundle slung
+limply over her shoulders.
+~
+41036 361512 -250 S
+25 2 0 5d10+550 2d10+7
+0 0
+8 8 2
+#11104
+citizen zhentil~
+a citizen~
+You see a citizen standing here.
+~
+You see one of the many towns people here.
+~
+8264 0 1000 S
+20 5 0 3d9+333 2d8+5
+0 0
+8 8 0 13
+#11105
+Artagalor~
+Artagalor~
+You see Artagalor standing here.
+~
+Artagalor Goldbeard is a very dexterous dwarf with an impressive gold
+color beard.
+~
+41034 1192 500 S
+45 -10 -1 25d10+3000 8d4+16
+0 0
+8 8 1 13
+#11106
+Ascot~
+Ascot~
+You see Ascot standing here.
+~
+Ascot Stumblefoot is an extremely polite, impeccably mannered,
+and very stubborn halfling.
+~
+172106 40 250 S
+40 -13 -1 15d10+1850 4d8+13
+0 0
+8 8 1
+#11107
+Rak~
+Rak~
+You see Rak standing here.
+~
+Rak is a crazed gnome illusionist who also happens to be a proficient
+alchemist. He's a fast talker, long-winded, wild-eyed gnome whose hair
+has turned green and frizzy due to chemical exposure.
+~
+319562 65668 500 S
+40 -15 -1 15d10+1850 4d8+13
+0 0
+8 8 1 13
+#11108
+a horse~
+a horse~
+A horse is here.
+~
+The horse is very well kept.
+~
+65610 0 0 S
+20 6 0 3d9+333 2d8+5
+0 0
+8 8 1
+#11109
+a pegasi~
+a pegasi~
+A pegasi is here.
+~
+Before you, you see a beautiful winged horse.
+~
+65610 4194304 0 S
+25 2 0 5d10+550 2d10+7
+0 0
+8 8 2
+#11110
+Cerenna~
+Cerenna~
+You see Cerenna standing here waiting to train you.
+~
+Cerenna True-edge is a 60 year old woman who is a veteran of many
+campaigns. Though age has slowed her down a little, her skills are
+mostly intact and she can beat almost anyone in a fair fight.
+~
+172106 65576 500 S
+50 -20 -2 30d10+4500 5d8+19
+0 0
+8 8 2 3
+#11111
+a barmaid~
+a barmaid~
+You see a barmaid here fixing drinks.
+~
+It looks, err, unfinished.
+~
+57418 0 500 S
+30 -3 0 6d12+853 4d6+8
+0 0
+8 8 2
+#11112
+serving wench~
+serving wench~
+You see a serving wench waiting on people.
+~
+You see a young girl here whom is over worked.
+~
+8266 0 0 S
+20 6 0 3d9+333 2d8+5
+0 0
+8 8 2
+#11113
+a massive warrior~
+a massive warrior~
+A massive warrior is standing here.
+~
+This warrior is mute. He will bow as you come and go.
+~
+106570 40 500 S
+35 -4 -1 10d10+1300 4d7+11
+0 0
+8 8 1 6
+#11114
+Valourish~
+Valourish~
+You see Valourish standing here.
+~
+You are looking at the owner of the bath house. He is very young. The
+ladys always hope he will give a private massage. He has brown hair
+cut short and blue eyes.
+~
+41034 40 1000 S
+40 -8 -1 15d10+1850 4d8+13
+0 0
+8 8 1 13
+#11115
+warrior~
+warrior~
+There is a warrior sleeping here.
+~
+You see one of the warriors in training sleeping here.
+~
+8394 40 250 S
+25 -2 0 5d10+550 2d10+7
+0 0
+4 4 1 13
+#11116
+Barrodar~
+Barrodar~
+You see Barrodar standing here.
+~
+This mans loyalties are only to himself. He does not work for or
+take orders from any exclusive group. He also does not deal in
+info, rumors, or his list of clients.
+~
+59466 40 -500 S
+50 -18 -2 30d10+4500 5d8+19
+0 0
+8 8 1
+#11117
+Shalla~
+Shalla~
+You see Shalla sitting here.
+~
+Shalla is Kornah's pet crow. She also has a mental link as does
+her mistress.
+~
+24650 4194344 0 S
+20 -2 0 3d9+333 2d8+5
+0 0
+8 8 2 4
+#11118
+Olford~
+Olford~
+You see Olford sitting here.
+~
+Olford Thrax is in his late thirties. He is always gossiping
+about anything under the sun.
+~
+24650 40 0 S
+40 -12 -1 15d10+1850 4d8+13
+0 0
+6 8 1 13
+#11119
+10000~
+Kornah~
+You see Kornah standing here.
+~
+She is known as Kornah the crazy an expert Harper agent who
+poses as a city guide.
+~
+190478 65580 -250 S
+60 -30 -20 30d1000+30000 30d127+50
+0 0
+8 8 2
+#11120
+Karyl~
+Karyl~
+You see Karyl standing here.
+~
+She is one of the four serving girls for the bar.
+~
+74 0 500 S
+20 8 0 3d9+333 2d8+5
+0 0
+8 8 2
+#11121
+Lorna~
+Lorna~
+You see Lorna standing here.
+~
+She is one of the four serving girls of the bar.
+~
+74 0 500 S
+20 8 0 3d9+333 2d8+5
+0 0
+8 8 2
+#11122
+Toria~
+Toria~
+You see Toria standing here.
+~
+She is one of the four serving girls of the bar.
+~
+74 0 500 S
+20 8 0 3d9+333 2d8+5
+0 0
+8 8 2
+#11123
+Salena~
+Salena~
+You see Salena standing here.
+~
+She is one of the four serving girls of the bar.
+~
+74 0 500 S
+20 8 0 3d9+333 2d8+5
+0 0
+8 8 2
+#11124
+Zhentilar Guard~
+a Zhentilar Guard~
+You see a Zhentilar Guard standing here.
+~
+undefined~
+188490 40 500 S
+50 -22 -2 30d10+4500 5d8+19
+0 0
+8 8 1
+#11125
+Frrahr~
+Frrahr~
+You see Frrahr standing here.
+~
+Frrahr is the owner of the Burst Boil. He has lived in the
+Keep for the last five years.
+~
+74 0 -500 S
+45 -12 -1 25d10+3000 8d4+16
+0 0
+8 8 1
+#11126
+zeeas~
+zeeas~
+You see a zeeas here.
+~
+The place is guarded by a glyph of warding, a nasty specimen
+called "Zeeas." He will attack all non-evil, that pass under
+the glyph.
+~
+24650 44 0 S
+50 -20 -2 30d10+4500 5d8+19
+0 0
+8 8 0
+#11127
+Orgauth~
+Orgauth~
+You see Orgauth standing here.
+~
+Orgauth uses his pit fiend abilities to warp the wills of
+all present, making them agree to whatever he says, but
+tinkering with your mind so that you believe you had a say
+to what is going on.
+~
+74 0 500 S
+50 -26 -2 30d10+4500 5d8+19
+0 0
+8 8 1
+#11128
+huge spider~
+a huge spider~
+You see a huge spider on the wall.
+~
+You see a huge spider. Eck!!
+~
+8302 525312 -500 S
+20 8 0 3d9+333 2d8+5
+0 0
+5 8 2 4
+#11129
+man~
+a man~
+A man is here.
+~
+  It's just a man.
+~
+41032 0 500 S
+30 -6 0 6d12+853 4d6+8
+0 0
+8 8 1
+#11130
+nimbaud~
+Nimbaud~
+Nimbaud is here.
+~
+Nimbaud it a Zhentarim member, and only remaining contact
+that the Black Network has with the city.
+~
+24586 327720 0 S
+49 -24 -1 30d10+4000 8d4+16
+0 0
+8 8 1
+#11131
+synnda~
+Synnda~
+Synnda is here.
+~
+Before you stands Synnda a cleric of Cyric.
+~
+188490 142606504 -250 S
+35 0 -1 10d10+1300 4d7+11
+0 0
+8 8 2
+#11132
+keltro~
+Keltro~
+Keltro is here.
+~
+  Keltro repairs armor and weapons for the members of
+The Way of the Warrior.
+~
+57354 40 500 S
+59 -26 -1 30d10+4000 4d10+18
+0 0
+8 8 1
+#11133
+rat~
+a rat~
+A rat is moving around.
+~
+You see a brown rat here going through some trash
+that someone has left on the ground.
+~
+72 0 0 S
+10 18 0 2d7+121 2d4+2
+0 0
+8 8 0
+#11134
+skeleton~
+a skeleton~
+A skeleton is here.
+~
+You see a skeleton standing here. It looks as if from the
+bone structure that it may have been a warrior at one time
+~
+72 0 -500 S
+14 16 0 2d10+190 1d12+3
+0 0
+8 8 0
+#11135
+ghoul~
+a ghoul~
+A ghoul is here.
+~
+You see a ghoul standing before you.
+~
+72 0 -500 S
+15 15 0 3d9+208 2d6+3
+0 0
+8 8 0
+#11136
+shadow~
+a shadow~
+A shadow is here.
+~
+Before you is someones shadow. Or maybe it is your own
+shadow. Whos ever it makes the area cold and dark.
+~
+72 0 -300 S
+17 15 0 3d9+258 3d4+4
+0 0
+8 8 0
+#11137
+wight~
+a wight~
+An unfinished mob stands here.
+~
+  A wight is standing before you.
+~
+72 0 -750 S
+17 17 0 3d9+258 3d4+4
+0 0
+8 8 0
+#11138
+spectre~
+a spectre~
+A spectre is here.
+~
+ You see a spectre is looming before you.
+~
+72 0 -500 S
+20 12 0 3d9+333 2d8+5
+0 0
+8 8 0
+#11139
+ghost~
+a ghost~
+A ghost is floating here.
+~
+Before you, floating in the air is a ghost. The vibrations
+coming from the ghost makes the tomb very bone chilling.
+~
+72 4194344 -600 S
+21 10 0 4d10+360 4d4+5
+0 0
+8 8 0
+#11140
+diseased begger~
+a diseased begger~
+A diseased begger is looking for scraps.
+~
+  There is nothing special about this begger. He lives
+in the ruins of Zhentil Keep.
+~
+72 0 0 S
+25 6 0 5d10+550 2d10+7
+0 0
+8 8 1
+#11141
+gnoll staggler~
+a gnoll staggler~
+A gnoll is here.
+~
+  A gnoll staggler is standing before you.
+~
+72 0 -350 S
+23 12 0 5d10+450 3d6+6
+0 0
+8 8 1
+#11142
+will o' wisp~
+a will o' wisp~
+A will o' wisp is here.
+~
+  A will o' wisp is blocking you way.
+~
+72 0 -100 S
+20 12 0 3d9+333 2d8+5
+0 0
+8 8 0
+#11143
+shambling mound~
+a shambling mound~
+A horrendous stench emanates from a shambling mound.
+~
+  A shambling mound looks like a pile of left over food from
+years gone by. The horrendous stench makes your eyes water. 
+~
+72 0 -500 S
+27 10 0 5d10+650 5d4+7
+0 0
+8 8 0
+#11144
+soul ghost~
+a soul~
+A worried soul is floating here.
+~
+  A soul of someones loved one is floating around.
+~
+72 4194304 250 S
+25 20 0 5d10+550 2d10+7
+0 0
+8 8 0
+#11145
+zhentish sewer rat~
+a zhentish sewer rat~
+A rat is picking through a pile of waste.
+~
+You see a brown rat here going through some trash
+that someone has left on the ground.
+~
+72 0 -100 S
+24 10 0 5d10+550 2d10+6
+0 0
+8 8 0
+#11146
+kelemvor priest~
+a priest~
+A priest of Kelemvor is here.
+~
+  Before you stands a Kelemvor priest.
+~
+57418 4264 1000 S
+46 -5 -1 25d10+3250 6d6+16
+0 0
+8 8 1
+#11147
+prisoner~
+a prisoner~
+A prisoner is here.
+~
+  A prisoner is held here against his will. He looks
+as if he hasn't eaten in days.
+~
+72 0 -100 S
+20 12 0 3d9+333 2d8+5
+0 0
+8 8 1
+#11148
+dirge~
+Dirge~
+Dirge is here.
+~
+Dirge is a mage who took to the sewers when the Keep
+fell. He spends his time researching magic, Patiently
+he awaits the final fall of the Keep.
+~
+188490 5160 0 S
+50 -20 -2 30d10+4500 5d8+19
+0 0
+8 8 1
+#11149
+jukar~
+Jukar~
+Jukar the Efreeti is here.
+~
+Before you is Jukar. He is a efreeti whom will promise
+you wishes, riches, whatever it takes to gain compliance.
+~
+188490 8388648 -500 S
+54 -26 -2 30d10+6500 7d6+22
+0 0
+8 8 1
+#11150
+crazy man~
+a crazy man~
+A man is looking about.
+~
+You are looking at a man who is two bricks short
+of a load. He is talking to himself and looking up
+in to the sky.
+~
+26696 0 -250 S
+30 4 0 6d12+853 4d6+8
+0 0
+8 8 1
+#11151
+carrior crawler~
+a carrior crawler~
+A carrior crawler is here.
+~
+  A carrior crawler is resting in the corner of the sewer.
+~
+8266 1064 -500 S
+24 12 0 5d10+500 2d10+6
+0 0
+8 8 0
+#11152
+koleth~
+Koleth~
+Koleth is here.
+~
+Koleth is a middle age man who runs the Tesh-Wave.
+~
+57418 134217768 750 S
+51 -20 -2 30d10+5000 5d8+20
+0 0
+8 8 0
+#11153
+cat black~
+a black cat~
+A black cat is creepin around.
+~
+  A small black cat. His fur is like silk.
+~
+10316 327720 -100 S
+26 10 0 5d10+600 3d7+7
+0 0
+8 8 1 8
+#11154
+drunk~
+a drunk~
+A drunk is singing to himself.
+~
+  This man looks like he is in need of a two week sleep.
+~
+8268 131072 0 S
+29 6 0 6d12+778 2d12+8
+0 0
+8 8 0
+#11155
+Tumarys~
+Tumarys~
+Tumarys is here.
+~
+Tumarys is a druid of Chauntea. He is only interested in
+the restoration of the earth.
+~
+57418 33832 0 S
+44 0 -1 15d10+2750 8d4+15
+0 0
+8 8 1
+#11156
+centipede~
+a centipede~
+A centipede is crawing along the ground.
+~
+A centipede craws along the ground giving you
+a icky feeling.
+~
+8264 1024 -400 S
+24 8 0 5d10+500 2d10+6
+0 0
+8 8 1 1
+#11157
+zhentilar fighter~
+a Zhentilar Fighter~
+A Zhentilar Fighter is watching for any signs of trouble.
+~
+As is well known, the Zhentilar are the armed forces
+of Zhentil Keep. They go through years of training before
+they are ready to patrol the streets of Zhentil Keep.
+~
+188488 1064 500 S
+41 -4 -1 25d10+2000 4d8+14
+0 0
+8 8 1
+#11158
+cleric~
+a cleric~
+A cleric of Tymora is here.
+~
+Standing here is a cleric of Tymora. Always ready to
+help Graddis when ever the need arises.
+~
+57418 134218920 500 S
+35 -2 -1 10d10+1300 4d7+11
+0 0
+8 8 2
+#11159
+lucklady demetria fortunato~
+Demetria Fortunato~
+Luchlady Demetria is here.
+~
+   Demetria Fortunato is vivacious, outgoing, clever
+priestess. She has a short attention span. Some describe
+her as a chaotic force of nature.
+~
+188490 1048616 -250 S
+47 -10 -1 25d10+3500 6d6+17
+0 0
+8 8 2
+#11160
+graddis~
+Graddis~
+Graddis is here making sure all is well.
+~
+Graddis is a werebear. A converted worshiper of Tymora.
+He wanders the casino in human form, making sure all is
+well.
+~
+57416 66600 0 S
+51 -20 -2 30d10+5000 5d8+20
+0 0
+8 8 1
+#11161
+cook~
+a cook~
+The cook is here making the special of the night.
+~
+The dwarven cook is here making the nightly special
+of the casino.
+~
+24650 40 -100 S
+35 -8 -1 10d10+1300 4d7+11
+0 0
+8 8 1 15
+#11162
+kebella priestess~
+Kebella~
+The priestess of Lolth is here.
+~
+Kebella is a drow priestess of Lolth. Unknown to Orgauth she
+wants the city as a staging area for attacks on the elves.
+She also wants to control the Moonsea Coast.
+~
+188426 12648616 -750 S
+50 -22 -2 30d20+4500 5d8+19
+0 0
+8 8 2
+#11163
+taybar consort~
+Taybar~
+The priestess consort is here.
+~
+  Taybar is at Kebella's beck and call. He will not allow
+anyone to harm her.
+~
+57418 1114152 -250 S
+40 -10 -1 1d10+1850 15d8+13
+0 0
+8 8 1
+#11164
+cleric unberlee~
+a cleric~
+A cleric of Unberlee is here.
+~
+  Before you is a cleric of Unberlee.
+~
+57418 138413224 -1000 S
+47 -18 -3 25d10+3500 6d6+17
+0 0
+8 8 2
+#11165
+zombie~
+a zombie~
+A zombie is here.
+~
+  This zombie looks more like a mummy. Part of his flesh is
+is peeling off.
+~
+24648 1064 -250 S
+37 -6 -1 10d10+1500 3d10+12
+0 0
+8 8 1 9
+#11166
+skeleton bones~
+a skeleton~
+A bag of bones is looming before you.
+~
+  This skeleton looks to maybe have been one of the
+Zhentil Keep guards.
+~
+24648 1064 -500 S
+39 -5 -1 15d10+1700 5d6+13
+0 0
+8 8 1
+#11167
+ghoul~
+a ghoul~
+A ghoul is here.
+~
+  A ghoul has one arm hanging off. He look lost as he wanders
+around shipwreak point.
+~
+8 0 -500 S
+42 -4 -1 25d10+2250 3d12+14
+0 0
+8 8 1
+#11168
+Ascot's assistant shopkeeper~
+a assistant~
+Ascot's assistant is here to sell you his goods.
+~
+  The assistant to Ascot spends his time here selling
+potions and goods to all who will buy them.
+~
+319498 1064 1000 S
+50 -10 -2 30d10+4500 5d8+19
+0 0
+8 8 1
+#11169
+receptionist~
+a receptionist~
+A receptionist is sitting behind a counter.
+~
+  Dress all in black a receptionist sits behind a 
+counter renting out cryo rooms for the night.
+~
+24650 40 0 S
+50 -20 -2 30d10+4500 5d8+19
+0 0
+8 8 2
+#11170
+receptionist~
+a receptionist~
+An unfinished mob stands here.
+~
+  A receptionist is sitting behind a counter working on
+the books for the Tesh-Wave.
+~
+24650 40 0 S
+50 -20 -1 30d10+4500 5d8+19
+0 0
+8 8 2
+#11171
+dog~
+a dog~
+A dog is here.
+~
+   A poor old small mut. Paws are dirty and muddy. 
+~
+72 1024 0 S
+10 18 0 2d7+121 2d4+2
+0 0
+8 8 1
+#11172
+child~
+a child~
+A child is here.
+~
+  A small child is here playing around. 
+~
+72 0 0 S
+15 16 0 3d9+208 2d6+3
+0 0
+8 8 0
+#11173
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#11250
+grinch~
+the Grinch~
+The Grinch who stole Christmas is here.
+~
+  The Grinch is big and green with termites in his smile.
+He is wearing a red santa hat and coat.
+~
+778250 328744 0 S
+55 -30 -10 30d10+15000 8d6+30
+10000 0
+8 8 1
+#11251
+Santa Claus~
+Santa Claus~
+Santa Claus is here looking jolly.
+~
+  Santa Claus is here waiting for Christmas Eve when
+he will bring all the good boys and girls gifts from
+the realms.
+~
+188490 8392872 1000 S
+55 -30 -10 30d10+10000 8d6+28
+0 0
+8 8 1
+#11252
+caroler~
+a caroler~
+A caroler is here singing Christmas songs.
+~
+  A christmas caroler is here singing christmas songs. 
+The book the caroler is holding says - 
+      Attack me and Die!
+~
+188426 168 1000 S
+55 -30 -10 30d10+10000 8d6+28
+0 0
+8 8 0
+#11253
+reindeer~
+a reindeer~
+A reindeer is here.
+~
+  A reindeer is here flying around getting ready for
+Christmas Eve.
+~
+188424 12583080 1000 S
+50 -15 -10 30d10+6000 10d4+23
+0 0
+8 8 0 6
+#11254
+dog max ~
+Max~
+The Grinch's dog Max is here.
+~
+  Max is a small dog whom belongs to the Grinch.
+~
+712842 65576 0 S
+40 -10 -10 30d10+8000 4d8+14
+5000 0
+8 8 1
+#11255
+y2k bug~
+Y2K bug ~
+A Y2K bug is here.
+~
+A computer chip gone bad.
+~
+778376 180421800 0 S
+60 -30 -10 30d10+10000 10d10+35
+10000 0
+8 8 0 10
+#11256
+wraith~
+wraith~
+Ayana's wraith is here.
+~
+ Messing with the Goddess is not acceptable.
+~
+778250 147915944 0 S
+60 -30 -15 30d10+15000 10d10+35
+0 0
+8 8 1 6
+#99999
+$~

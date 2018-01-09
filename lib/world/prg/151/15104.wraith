@@ -1,0 +1,45 @@
+>rand_prog 1~
+  mpasound A terrifying wail echoes down the halls..
+  hide
+~
+>command_prog flee~
+  mptrigger $n stalker
+~
+>script_prog stalker~
+@
+@
+@
+  if inroom($n) == here
+    mpechoat $n The wraith settles its hands on your body. They're so COLD!!
+    mpechoat $n You feel your life drain away!
+    mpechoaround $n The wraith quickly approaches $N and reaches out for $m!
+    mpechoaround $n $N loses color as the wraith drains $s life..
+    mpdamage $n 20d19+35
+    mpdrainmove $n 7d12+9
+    mpcallmagic 'heal' $i
+    kill $n
+    mpstopscript
+  else
+    if rand(70)
+      mpecho $I pauses for a second, and then slowly proceeds out of the room in search of someone.
+      mptrackto $n
+      mptrigger $n stalker
+    else
+      if rand(50)
+        mpat $n mpecho An awful moaning sound seems to be coming from above you!
+      else
+        mpat $n mpecho A barely perceptible rustling sound finds its way into the room..
+      endif
+@
+@
+@
+      mpgoto $n
+      mpechoat $n $I languidly emerges from behind a rock wall and attacks you!
+      mpechoaround $n $I appears from behind a rock wall and advances on $N!
+      kill $n
+      mpstopscript
+    endif
+  endif
+~
+|
+

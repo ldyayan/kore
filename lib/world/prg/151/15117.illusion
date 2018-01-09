@@ -1,0 +1,9 @@
+>command_prog north~
+  mpechoat $n You smile to yourself as you walk through the seemingly solid barrier of stone.
+  mpechoaround $n $N confidently exits the room right through a rock wall!
+  mptransfer $n 15178
+  mpforce $n look
+  mpat $n mpechoat $n What is this place?
+  mpstopcommand
+~
+|

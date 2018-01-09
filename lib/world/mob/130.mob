@@ -1,0 +1,36 @@
+#13000
+small grey squirrel~
+a grey squirrel~
+A grey squirrel scurries atop the branches of a nearby tree.
+~
+It's an ugly GREY squirrel. It doesn't deserve to live. Kill it! Kill it!
+Quick!
+~
+72 295936 0 S
+4 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#13001
+spotted owl~
+a spotted owl~
+A spotted owl rests high up in the dense canopy of trees.
+~
+The owl sits and waits for a small rodent to show its ugly face.
+~
+72 4228096 0 S
+4 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#13002
+carrion beetle~
+a carrion beetle~
+A carrion beetle is here, lingering over a fallen log.
+~
+It must be feeding upon the wood pulp. How cute!
+~
+32840 0 0 S
+3 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

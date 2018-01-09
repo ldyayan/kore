@@ -1,0 +1,5 @@
+>fight_prog 5~
+  mpecho You are fried by a blue bolt of electricity!
+  mpdamage all 7d10
+~
+|

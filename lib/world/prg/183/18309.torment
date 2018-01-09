@@ -1,0 +1,17 @@
+>rand_prog 20~
+  mpasound You hear the sounds of agony all around you.
+~
+>fight_prog 20~
+  if ispc($r)
+     mpechoat $r $I drives a pin covered appendage into your gut. Ow!
+     mpechoaround $r $R is pierced by a spiked appendage of $I. Yech!
+     mpadamage $r 15d4
+      if rand(20)
+       mpechoat $r $I drives its arm in deeper.
+       mpechoaround $r $I twists the spiked appendage, inflictimg pain on $r.
+       mpcallmagic 'harm' $r
+       mpforce $r cry
+      endif
+  endif
+~
+|

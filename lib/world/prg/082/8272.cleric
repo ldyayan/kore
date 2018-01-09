@@ -1,0 +1,26 @@
+>command_prog north~
+  if isimmort($n)
+  else
+    tell $n You cannot enter the temple during a summoning!
+    mpecho $I steps in front of $N and blocks $s path.
+    mpstopcommand
+  endif
+~
+>fight_prog 8~
+  if inroom ($r) == here
+    mpecho $I calls on Segojan to heal his wounds!
+    mpecho $I chants and raises his hands.
+    mpecho $I's call is answered, $l wounds are healed.
+    mpcallmagic 'heal' $i
+  endif
+~
+>fight_prog 12~
+  if inroom ($r) == here
+    say Your way is not true!
+    mpecho $I begins chanting and waving his hands about.
+    mpecho $I's hands begin to glow as he waves them in front of you!
+    mpcallmagic 'harm' all
+  endif
+~
+|
+

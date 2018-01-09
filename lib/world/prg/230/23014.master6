@@ -1,0 +1,21 @@
+>script_prog grouping~
+  #
+  say Grouping is a wonderful thing...
+  say Get a poor sap to follow you and '^Ggroup^n' them. Then go mess up some demons.
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ismemory($n)
+    else
+      mptrigger $n grouping
+      mpremember $n
+    endif
+  endif
+~
+>fight_prog 100~
+  if isscript($i)
+    mpstopscript
+  endif
+~
+|

@@ -1,0 +1,19 @@
+>rand_prog 18~
+ if inroom($r) == here
+  if hitprcnt($r) < 100
+    mpechoat $r $I the dryad emerges from behind a tree and lays her hands over your wounds.
+    mpechoaround $r A dryad appears from behind a tree and lays healing hands on $R.   
+    mpsilent mpcallmagic 'cure critical' $r
+    mpcallmagic 'cure critical' $r
+    mpechoaround $r $R looks much better!
+    mpecho $I slowly fades into a large oak tree right before your eyes.
+    hide
+  else
+    if rand(10)
+       mpecho $I appears from behind a tree and splashes playfully in a puddle.
+       hide
+    endif
+  endif
+ endif
+~
+|

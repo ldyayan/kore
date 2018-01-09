@@ -1,0 +1,51 @@
+>fight_prog 10~
+  if level($i) > 9
+    disarm
+  else
+    bash
+  endif
+~
+>fight_prog 20~
+  if level($i) > 39
+    riposte
+  elseif level($i) > 14
+    block
+  else
+    bash
+  endif
+~
+>fight_prog 30~
+  if level($i) > 14
+    berserk
+  else
+    kick
+  endif
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      mptrigger $n warrior-advance
+    endif
+  endif
+~
+>script_prog warrior-advance~
+  #
+@
+  say So you wish to throw away this mortal life and begin anew.
+@
+  say I have lived a long and happy life, blessed by love and wealth.
+@
+  say I would not give up this life for anything.
+@
+  say I encourage you to reconsider.  Mortals were meant to live one life.
+@
+  say You may of course try to proceed, but you will have to get past me.
+@
+  say Nod if you choose to continue, though I believe it a mistake.
+  say And I assure you, I will do my best to prove it to you.
+~
+>command_prog nod~
+  mppurge combatblocker
+~
+|

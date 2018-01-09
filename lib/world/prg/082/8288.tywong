@@ -1,0 +1,92 @@
+>entry_prog 90~
+  if name($n) == zirnozz
+    fear zirnozz
+  else
+    if isimmort($n)
+    else
+      if ispc($n)
+        hide
+        if rand(60)
+          mpsilent mpforce $n remove rug
+          steal rug $n
+          mpsilent mpforce $n remove tray
+          steal tray $n
+          mpsilent mpforce $n remove box
+          steal box $n
+          mpsilent mpforce $n remove bag
+          steal bag $n
+          mpsilent mpforce $n remove backpack
+          steal backpack $n
+          mpsilent mpforce $n remove saddle
+          steal saddle $n
+        else
+          steal coins $n
+          backstab $n
+        endif
+      endif
+    endif
+  endif
+~
+>greet_prog 100~
+  if isimmort($n)
+  else
+    if ispc($n)
+      if rand(30)
+        say Are you following me!?
+      else
+        if rand(40)
+          growl $n
+        else
+          if rand(100)
+            backstab $n
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>rand_prog 3~
+  if rand(10)
+    cast 'blur'
+  endif
+~
+>rand_prog 6~
+  hide
+~
+>fight_prog 13~
+  flee
+  flee
+  hide
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      mpecho $I grins with malice.
+      mpsilent switch $r
+      mpechoat $r $I quickly throws his staff into motion and thrusts it towards you!
+      mpechoat $r $I's dragon tooth staff GORES into your stomach!
+      mpechoat $r $I's elbow jabs into you throat!
+      mpechoaround $r $I snaps into quick motion and places his dragon tooth staff into $R's stomach!
+      mpechoat $r You cough wetly as you spit up blood.
+      mpechoaround $r $R coughs and spits up blood in the process.
+      mpdamage $r 20d20
+      trip $r
+    endif
+  endif
+~
+>command_prog flee~
+  if rand(65)
+    if ispc($n)
+      mpechoat $n You panic and attempt to flee!
+      mpechoaround $n $N panics and attempts to flee!
+      say No! No! No! You may only leave this fight one way!
+      point $n
+      mpechoat $n $I makes a quick move and drags you back into the fight.
+      mpechoaround $n $I quickly moves to grab $N and drags $m unwillingly back into the fight.
+      switch $n
+      stun $n
+      mpstopcommand
+    endif
+  endif
+~
+|

@@ -1,0 +1,105 @@
+#8500
+pelt fur shaggy~
+a shaggy fur pelt~
+A large dark fur pelt lies here on the ground.~
+~
+9 0 1025
+5 0 0 0
+6 200 20
+E
+pelt fur shaggy~
+   This fur pelt is thick and luxurious.  The pelt, from a bear, is dark
+brown in color.  You feel this pelt will keep you warm as well as protect
+you well.
+~
+#8501
+loincloth fur strip infested~
+a fur loincloth~
+An infested strip of fur lies here writhing on the ground.~
+~
+9 128 2049
+1 0 0 0
+1 10 1
+E
+loincloth fur strip infested~
+   This loincloth is absolutely filthy.  It is crusty, and reeks of excreta.
+The loincloth is also infested with vermin, it comes alive as it writhes on
+the ground.
+~
+#8502
+icicle~
+an icicle~
+A small icicle melts here in the snow.~
+~
+5 12288 8193
+0 2 1 11
+2 20 1
+E
+icicle~
+   This icicle looks handy as a weapon.  The point is sharp, and would drive
+into any surface.  You suspect that this icicle has many other uses than a
+mere weapon.
+~
+#8503
+snowball~
+a snowball~
+A small snowball has been dropped here.~
+~
+6 8192 32769
+1 1 10 12
+1 0 0
+E
+snowball~
+This snowball is small and perfectly formed.  You suspect it'll give some
+sinister fun.
+~
+#8504
+icesword sword ice gleaming jagged~
+a gleaming sword of ice~
+A large jagged ice sword lies here on the ground.~
+~
+5 64 8193
+0 3 5 3
+8 2000 20
+E
+icesword sword ice gleaming jagged~
+   This is a large and well-balanced sword you hold in your hands.  The sword,
+made from crystal clear ice with a patina of frost, never seems to melt.  The
+blade is wavy and has a jagged edge to it, in a manner similar to a kris.
+~
+A
+18 2
+#8505
+crown ice~
+a crown of ice~
+A beautiful crown of ice has been left here.~
+~
+9 0 17
+4 0 0 0
+3 2000 20
+E
+crown ice~
+   This crown was beautifully crafted of ice.  Bold diamond shapes were
+carved across the band.  It has delicately carved peaks shaped like tendrils
+of ivy.
+~
+A
+4 1
+#8506
+cape ice shimmering~
+an ice cape~
+A shimmering cape of ice has been left here.~
+~
+9 64 5
+7 0 0 0
+4 2000 20
+E
+cape ice shimmering~
+   This cape was constructed of ice.  It is beautifully designed, and is
+fashionable.  It's many faceted surface will reflect and refract off light
+allowing it to shimmer with a fiery brillance.
+~
+A
+18 1
+#99999
+$~

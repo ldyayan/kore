@@ -1,0 +1,52 @@
+>greet_prog 20~
+  if ispc($n)
+    if hitprcnt($i) < 30
+      say ...Please dont kill me!
+    endif
+    if hitprcnt($i) == 100
+      consider $n
+      if level($n) == 1
+        laugh
+        say Don't you dare hit me, I'll tool you.
+      endif
+      if level($n) == 2
+        smirk
+        say Hey newbie.
+      endif
+      if level($n) == 3
+        say Hi, still picking on training dummies?
+        laugh
+      endif
+      if level($n) == 4
+        smirk
+      endif
+      if level($n) == 5
+        say Hey tough guy.
+        say You a tough guy?
+      endif
+      if level($n) == 6
+        say You a bully huh?
+        say You tough?
+      endif
+      if level($n) == 7
+        say Lets fight
+        hit $n
+      endif
+      if level($n) > 10
+        say Oh man!
+        say You sure are big!
+        flee
+      endif
+    endif
+  endif
+~
+>greet_prog 10~
+  wave $n
+~
+>enter_prog 20~
+  if hitprcnt($i) < 30
+    say Ouch! I'm hurt, I'd better flee from you..!
+    flee
+  endif
+~
+|

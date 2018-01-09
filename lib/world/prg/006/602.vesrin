@@ -1,0 +1,46 @@
+>rand_prog 4~
+  if inroom($r) == here
+    if isaffected($r, blind)
+      cast 'cure blind' $r
+    else
+      if hitprcnt($i) < 20
+        if class($r) == cleric
+          if level($r) > 23
+            if rand(20)
+              tell $r Heal me you pathetic lout! My wounds are many.
+              break
+            endif
+          endif
+        endif
+      endif
+        if clan($r) == coven
+          if hitprcnt($r) < 100
+            mpechoat $r $I takes some of your wounds and transfers them to her body.
+            mpechoaround $r $I places her grimy hands on $R and $L wounds seem to fade.
+            mpsilent mpcallmagic 'cure critic' $r
+            mpsilent mpcallmagic 'cure critic' $r
+            mpechoat $r You feel much better!
+            mpechoaround $r $R looks much better!
+            mpdamage $i 35d35
+            break
+          endif
+        else
+          if rand(80)
+            mpremember $r
+            if clanlevel($r) == leader
+              if rand(30)
+                whisper $r Lucky you.. I shall notify Calis of your attendance.
+              endif
+            else
+              if rand(40)
+                whisper $r You know, you would be a good meal for a grimlock I know.
+                grin $r
+              endif
+            endif
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+|

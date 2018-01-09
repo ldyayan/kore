@@ -1,0 +1,474 @@
+#21200
+Outskirts of a travelling circus~
+     Small children run about you and everyone else in what seems a
+mad rush to towards the north as they drag their parents behind them.
+A loud murmuring sound that is the collection of many people talking
+to each other at the same time is constant in the air.  You can smell
+many different food stuffs being cooked close by, some of it smells
+very exotic, and others are as familiar to you as the waybreads baked
+in Kore.
+     Looking afar to the north you see that a large collection of
+travelling caravans and tents.  The caravans are mostly painted bright
+red while the tents are striped red and white.  There seems to be one
+very large tent in the middle of everything, with many smaller tents
+surrounding it and the caravans are mostly parked next to the smaller
+tents.
+~
+212 0 2
+D0
+~
+~
+0 0 21201
+S
+#21201
+The main gate to the fair~
+     A wooden stand has been set up here, and a man with a very loud
+voice is here selling tickets.  A quick inspection of the both shows that
+it is very worn and has a design to it so that it may be quickly put
+together and quickly taken apart.
+     The surrounding area is very full of activity.  People with
+colourfully painted faces walk by that are dressed very ridiculously,
+many men are about yelling orders at each other as they set up tents or
+maneuver horse drawn caravans about and many children are running
+about cackling with delight at all the wonderful sights at hand.
+~
+212 0 2
+D2
+~
+~
+0 0 21200
+S
+#21202
+An old gypsie's tent~
+     There is a small circular table with a white satin cloth for a table
+cloth in the middle of the tent.  There is a small stand on the center of
+the table with three finely crafted golden dragon claws positioned as
+though to hold a small spherical object.  Two chairs, one on each side
+of the table are set up here so that, if occupied, the people would be
+face to face.  The smell of burning incense fills the air and there are
+many candles set up inside to give off a dim lighting.
+~
+212 8 0
+S
+#21203
+The blacksmith's tent~
+       This tent has been modified so that there is only half an actual
+tent being used.  The other half which is separated by a large oaken
+table is open for all people to walk up to and view the inside of the
+tent.  The inside of the tent has a small furnace and an anvil set up
+clearly being an area to work and forge metal.  The blacksmiths work
+mainly on horse shoes for the horses that pull the caravans and other
+minor things like nails, clamps and spikes to keep the show in repair.
+There are, however, some swords and daggers hanging at the back of
+the tent, which are more likely used for shows.
+~
+212 0 2
+S
+#21204
+Inside of the theatre tent~
+     The inside of this tent it massive.  There has been a quick shift set
+up of many benches and it seems there is seating in here for over three
+hundred people.  All of the benches are placed in a semi-circular
+pattern that surrounds a stage set up at the back of the tent.  The stage
+is a large wooden platform that is held about 5 feet off the ground by
+thick wooden supports.
+~
+212 8 0
+S
+#21205
+On the stage~
+     There are many over head cables running from pulley to pulley and
+being held in place by heavy sand bags. Large cut outs of buildings
+and other props are amongst those being held in place.  The
+background scenery for the play, makes you feel like you are in the
+garden of a very grand castle.  By the looks of things the play will
+involve a scene with some one down in the garden talking with some
+one standing over them in a balcony of the castle. 
+~
+212 8 0
+S
+#21206
+Backstage~
+     This area is very busy.  There are people running about half
+dressed in mad frenzy.  Some are in front of mirrors putting on make
+up, others are getting into costumes for the play, and a few are
+reading to each other in loud voices from large bundles of paper they hold.
+There are even two people that seem to be involved in a relaxed sort
+of sword fight in which no one has any real chance of being hurt.
+~
+212 8 0
+S
+#21207
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 2
+D1
+~
+~
+0 0 21219
+D9
+~
+~
+0 0 21208
+S
+#21208
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D0
+~
+~
+0 0 21209
+D7
+~
+~
+0 0 21207
+S
+#21209
+A lighty worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D0
+~
+~
+0 0 21220
+D2
+~
+~
+0 0 21208
+S
+#21210
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D0
+~
+~
+0 0 21211
+D2
+~
+~
+0 0 21220
+S
+#21211
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D2
+~
+~
+0 0 21210
+D6
+~
+~
+0 0 21212
+S
+#21212
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D1
+~
+~
+0 0 21221
+D8
+~
+~
+0 0 21211
+S
+#21213
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D3
+~
+~
+0 0 21221
+D7
+~
+~
+0 0 21214
+S
+#21214
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D2
+~
+~
+0 0 21215
+D9
+~
+~
+0 0 21213
+S
+#21215
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D0
+~
+~
+0 0 21214
+D2
+~
+~
+0 0 21222
+S
+#21216
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D0
+~
+~
+0 0 21222
+D2
+~
+~
+0 0 21217
+S
+#21217
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D0
+~
+~
+0 0 21216
+D8
+~
+~
+0 0 21218
+S
+#21218
+A lightly worn path about the Big Top~
+     A light path is starting to develop around the outside of the Big
+Top due to the heavy traffic recently experienced from the carnival
+being set up.  The path is worn in the most in a large circle that
+encompasses the Big Top, as though people walk to the entrance from
+all directions.  
+     There are also many smaller, less worn paths leading away from
+the Big Top to smaller tents and caravans that have been set up on the
+side by the gypsies of the carnival.  They are not as large scale as the
+main show, but seem to be attracting a fair amount of people
+none-the-less.
+~
+212 0 0
+D3
+~
+~
+0 0 21219
+D6
+~
+~
+0 0 21217
+S
+#21219
+South entrance to the Big Top~
+    A loud roar of cheers comes rolling out the opening in the Big Top
+that can only be the crowd's approval of some great act that just took
+place with in.  The air is thick with the smell of sugar coated treats
+mixed in together with horses and a thousand other different exotic
+animals. Children anxiously tug on their parent's hands as they wait in
+line to get it as parents warn them to behave, less the leave with out
+getting a chance to go inside. There is a large bouncer here that is
+letting people with tickets in and keeping people without tickets out.
+~
+212 0 2
+D1
+~
+~
+0 0 21218
+D3
+~
+~
+0 0 21207
+S
+#21220
+West entrance to the Big Top~
+    A loud roar of cheers comes rolling out the opening in the Big Top
+that can only be the crowd's approval of some great act that just took
+place with in.  The air is thick with the smell of sugar coated treats
+mixed in together with horses and a thousand other different exotic
+animals. Children anxiously tug on their parent's hands as they wait in
+line to get it as parents warn them to behave, less the leave with out
+getting a chance to go inside. There is a large bouncer here that is
+letting people with tickets in and keeping people without tickets out.
+~
+212 0 2
+D0
+~
+~
+0 0 21210
+D2
+~
+~
+0 0 21209
+S
+#21221
+North entrance to the Big Top~
+A loud roar of cheers comes rolling out the opening in the Big Top
+that can only be the crowd's approval of some great act that just took
+place with in.  The air is thick with the smell of sugar coated treats
+mixed in together with horses and a thousand other different exotic
+animals. Children anxiously tug on their parent's hands as they wait in
+line to get it as parents warn them to behave, less the leave with out
+getting a chance to go inside. There is a large bouncer here that is
+letting people with tickets in and keeping people without tickets out.
+~
+212 0 2
+D1
+~
+~
+0 0 21213
+D3
+~
+~
+0 0 21212
+S
+#21222
+East entrance to the Big Top~
+    A loud roar of cheers comes rolling out the opening in the Big Top
+that can only be the crowd's approval of some great act that just took
+place with in.  The air is thick with the smell of sugar coated treats
+mixed in together with horses and a thousand other different exotic
+animals. Children anxiously tug on their parent's hands as they wait in
+line to get it as parents warn them to behave, less the leave with out
+getting a chance to go inside. There is a large bouncer here that is
+letting people with tickets in and keeping people without tickets out.
+~
+212 0 2
+D0
+~
+~
+0 0 21215
+D2
+~
+~
+0 0 21216
+S
+#21223
+Back end of a caravan~
+     A beautiful caravan with elegant carvings upon its sides and exotic
+looking lanterns hanging from the underside of its roof is parked here.
+It is lead by two horses and has been positioned so that the back of the
+caravan faces towards the lightly trotted path that has lead up to it.
+There door at the back is opened to the path and a haunting
+illumination from inside the caravan only seems to create shadows
+that hide what is inside than reveal them.
+~
+0 0 2
+S
+#99999
+$~

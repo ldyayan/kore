@@ -1,0 +1,62 @@
+>greet_prog 100~
+  if name($n) == maerlyn
+    bow maerlyn
+  endif
+~
+>speech_prog p eli~
+  mpechoat $n The catapult roughly ejects you and you soar effortlessly through the sky.
+  mpechoaround $n $N steps onto the catapult and is shot into the sky screaming like a little girl.
+  mptransfer $n 25510
+  mpat $n mpechoat $n You land unceremoniously on your butt on soft packed earth.
+  mpat $n mpechoaround $n $N screams loudly as he suddenly falls from the sky and topples onto the ground.
+  mpat $n mpforce $n look
+~
+>speech_prog p olympus~
+  mpechoat $n The catapult roughly ejects you and you soar effortlessly through the sky.
+  mpechoaround $n $N steps onto the catapult and is shot into the sky screaming like a little girl.
+  mptransfer $n 404
+  mpat $n mpechoat $n You land unceremoniously on your butt on soft packed earth.
+  mpat $n mpechoaround $n $N screams loudly as he suddenly falls from the sky and topples onto the ground.
+  mpat $n mpforce $n look
+~
+>speech_prog p derlin~
+  mpechoat $n The catapult roughly ejects you and you soar effortlessly through the sky.
+  mpechoaround $n $N steps onto the catapult and is shot into the sky screaming like a little girl.
+  mptransfer $n 12311
+  mpat $n mpechoat $n You land unceremoniously on your butt on soft packed earth.
+  mpat $n mpechoaround $n $N screams loudly as he suddenly falls from the sky and topples onto the ground.
+  mpat $n mpforce $n look
+~
+>speech_prog p shrok~
+  mpechoat $n The catapult roughly ejects you and you soar effortlessly through the sky.
+  mpechoaround $n $N steps onto the catapult and is shot into the sky screaming like a little girl.
+  mptransfer $n 9532
+  mpat $n mpechoat $n You land unceremoniously on your butt on soft packed earth.
+  mpat $n mpechoaround $n $N screams loudly as he suddenly falls from the sky and topples onto the ground.
+  mpat $n mpforce $n look
+~
+>speech_prog p temple~
+  mpechoat $n The catapult roughly ejects you and you soar effortlessly through the sky.
+  mpechoaround $n $N steps onto the catapult and is shot into the sky screaming like a little girl.
+  mptransfer $n 3001
+  mpat $n mpechoat $n You land unceremoniously on your butt on soft packed earth.
+  mpat $n mpechoaround $n $N screams loudly as $e suddenly falls from the sky and topples onto the ground.
+  mpat $n mpforce $n look
+~
+>speech_prog p aesir~
+  mpechoat $n The catapult roughly ejects you and you soar effortlessly through the sky.
+  mpechoaround $n $N steps onto the catapult and is shot into the sky screaming like a little girl.
+  mptransfer $n 26603
+  mpat $n mpechoat $n You land unceremoniously on your butt on soft packed earth.
+  mpat $n mpechoaround $n $N screams loudly as he suddenly falls from the sky and topples onto the ground.
+  mpat $n mpforce $n look
+~
+>speech_prog p thalos~
+  mpechoat $n The catapult roughly ejects you and you soar effortlessly through the sky.
+  mpechoaround $n $N steps onto the catapult and is shot into the sky screaming like a little girl.
+  mptransfer $n 5406
+  mpat $n mpechoat $n You land unceremoniously on your butt on soft packed earth.
+  mpat $n mpechoaround $n $N screams loudly as he suddenly falls from the sky and topples onto the ground.
+  mpat $n mpforce $n look
+~
+|

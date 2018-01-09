@@ -1,0 +1,54 @@
+>entry_prog 75~
+  mpecho A putrid crimson cloud drifts into the cavern.
+~
+>rand_prog 15~
+  if isscript($i)
+  else
+    if inroom($r) == 15184
+    or inroom($r) == 15185
+    or inroom($r) == 15186
+    or inroom($r) == 15187
+    or inroom($r) == 15188
+    or inroom($r) == 15189
+    or inroom($r) == 15190
+    or inroom($r) == 15191
+    or inroom($r) == 15192
+      mptrigger $r lunch
+    endif
+  endif
+~
+>command_prog flee~
+  mptrigger $n time
+~
+>fight_prog 20~
+  if inroom($r) == here
+    mpechoat $r A gaseous tendril billows out of the mist and engulfs you!
+    mpechoaround $r A gaseous tendril from $I swells out and envelopes $R!
+    mpdamage $r 24d10
+    mpsilent mpcallmagic 'heal' $i
+  endif
+~
+>script_prog lunch~
+@
+@
+@
+@
+@ 
+  mpat $n mpecho The acrid smell of old blood fills the air.
+@
+@
+  mptrigger $n time
+~
+>script_prog time~
+@
+@
+@
+  if inroom($n) == here
+    mpkill $n
+    mpstopscript
+  else
+    mptrackto $n
+    mptrigger $n time
+  endif
+~
+|

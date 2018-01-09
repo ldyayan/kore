@@ -1,0 +1,174 @@
+#1100
+Tomb~
+a tomb~
+You see a very old tomb here.~
+You see a very old tomb here. You can't make out whom is buried
+here. As over the years the carvings on the tomb have been eaten
+away by time. What you can make out, looks like it says enter if
+you dare.
+~
+27 2 0
+1171 0 0 0
+100 0 0
+E
+tomb~
+You see a very old tomb here. You can't make out whom is buried
+here, as over the years the name has been eaten away. What you
+can still make out says: Enter if you dare.
+~
+#1101
+sign~
+a sign~
+There is a sign posted here.~
+~
+12 0 1
+0 0 0 0
+0 0 0
+E
+sign~
+The South Cemetery can be a peaceful resting place
+for the dead, but only during daylight hours.
+
+
+Look at the door before entering.
+~
+#1102
+tombstone~
+a tombstone~
+There is a tombstone here.~
+~
+12 0 0
+0 0 0 0
+50 0 0
+E
+tombstone~
+? till 1339
+The Year of the Weeping Moon
+RIP
+~
+#1103
+gravestone~
+a gravestone~
+There is a gravestone sticking out of the dirt here.~
+~
+12 0 0
+0 0 0 0
+50 0 0
+E
+gravestone~
+? till 640
+The Year of the Fanged Beast.
+~
+#1104
+tombstone~
+a tombstone~
+There is a tombstone here.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+tomb~
+? till 1358
+The Year of the Shadows.
+~
+#1105
+gravestone~
+a gravestone~
+You see a gravestone sticking out of the dirt.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+gravestone~
+? till 754
+The Year of Mid-Summer's Dreams.
+~
+#1106
+coffin~
+a coffin~
+There is a coffin here.~
+~
+15 0 1
+100 13 1107 0
+0 0 0
+E
+coffin~
+There is some of the carving that can still be made out.
+Its says: All whom enter will die.
+~
+#1107
+key dead~
+a dead key~
+There is a key lying here.~
+You see a key.
+~
+18 4 1
+0 0 0 0
+1 0 0
+#1108
+bloodstone ring~
+a ^gbloodstone^n ring~
+You see a ring lying here.~
+You see a dark green stone with red flecks.
+~
+9 12288 3
+5 0 0 0
+2 15000 0
+E
+ring bloodstone~
+You see a dark green stone with red flecks. Set in a band of gold.
+~
+A
+1 1
+A
+19 1
+A
+18 1
+A
+5 2
+#1109
+hole~
+a hole~
+There is a hole on the side of the gate.~
+~
+27 0 0
+1174 0 0 0
+0 0 0
+E
+hole~
+You can see the other side of the gate. The hole is
+also big enough for you to enter.
+~
+#1110
+hole~
+a hole~
+There is a hole here.~
+~
+27 0 0
+1173 0 0 0
+0 0 0
+E
+hole~
+When you look through the hole you see the inside of
+Zhentil Keep. The hole is big enough for you to enter.
+~
+#1111
+crystal~
+a crystal~
+You see a crystal floating here.~
+~
+27 1 0
+1177 0 0 0
+0 0 0
+#1113
+tombstone~
+a tombstone~
+There is a tombstone here.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#99999
+$~

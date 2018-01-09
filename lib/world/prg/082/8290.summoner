@@ -1,0 +1,87 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    if isimmort ($n)
+      if name($n) == zirnozz
+        fear zirnozz
+      endif
+    else
+      if ispc ($n)
+        mptrigger $n summoning
+      endif
+    endif
+  endif
+~
+>script_prog summoning~
+@
+@
+  if inroom($n) == here
+    mpecho The summoner stops his chanting suddenly and glares at you incongruously.
+    say How did YOU enter the circle?!
+    mpecho You notice wrinkles appear on the cleric's forehead - he must be considering what to do with you...
+  else
+    mpstopscript
+  endif
+@
+@
+  if inroom($n) == here
+    glare $n
+    say The pendant!
+    say That pendant is a holy object that our king would not give to anyone.
+    say For you to posses it you had to kill my king!
+  else
+    mpstopscript
+  endif
+@
+@
+  if inroom($n) == here
+    mpecho The gnome rocks back on his heals after considering the thought.
+    mpecho The fire in the center of the room blazes as the cleric begins to chant.
+  else
+    mpstopscript
+  endif
+@
+@
+  if inroom($n) == here
+    mpecho The summoner starts to glow with the same ^Ggreen^n light as that of the fire.
+    mpecho He reaches out to the fire and touches it!
+    scream
+  else
+    mpstopscript
+  endif
+@
+@
+  if inroom($n) == here
+    say I will die! But my death will bring about your destruction!
+  else
+    mpstopscript
+  endif
+@
+  if inroom($n) == here
+    mpecho Before your very eyes the deep gnome ages.
+    mpecho His life force is being drawn into the fire in an attempt to summon something extremely powerful..
+  else
+    mpstopscript
+  endif
+@
+@
+@
+  if inroom($n) == here
+    mpecho The summoner's body drops to the ground, a dried and lifeless husk.
+    mpsilent mpoload 8282
+    mpsilent drop husk
+    mpecho The fire crackles and flares...
+  else
+    mpstopscript
+  endif
+@
+  if inroom($n) == here
+    mpecho ...and a huge elemental steps out from within!
+    mpmload 8270
+    mpforce entemoch mpkill $n
+    mpgoto cleaner
+  else
+    mpstopscript
+  endif
+~
+|

@@ -1,0 +1,44 @@
+>command_prog unlock door~
+  if hasobj($n) == 26400
+    mpechoat $n $I stops you from unlocking the door.
+    mpechoaround $n $I stops $N from unlocking the door.
+    say Give me those keys!
+    mpechoat $n $I snatches your keys from you and crushes them!
+    mpechoaround $n $I snatches the keys from $N and crushes them!
+    mpsilent mpforce $n junk all.key
+    mpstopcommand
+  else
+    laugh $n
+  endif
+~
+>fight_prog 15~
+  if hitprcnt($r) < 20
+    switch $r
+    block
+    block
+  else
+    if class($r) == warrior
+      switch $r
+      block
+      riposte
+      speak You have not mastered the warrior arts!!
+    endif
+  endif
+~
+>fight_prog 20~
+  bash
+~
+>death_prog 100~
+  if rand(85)
+    mpecho $I breaks his spear over his knee in a final defiant act!
+    mpjunk spear
+    mptrans $n 26401
+  else
+    mpecho $I falls forward throwing his spear into the ground.
+    mpforce $n take spear
+    mpjunk 26400
+    mptrans $n 26401
+  endif
+~
+|
+

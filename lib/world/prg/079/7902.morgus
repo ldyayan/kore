@@ -1,0 +1,67 @@
+>all_greet_prog 100~
+  mptrigger MorgusSpeak
+~
+>script_prog MorgusSpeak~
+  emote looks up at you and smiles sadistically.
+   @
+  say Fresh meat!
+   @
+    if inroom($r)==here
+      mpkill $r
+    else
+    endif
+~
+>fight_prog 2~
+  if inroom ($r) == here
+    cackle
+    say Come $r, it's time for dinner!
+    mpechoat $r Morgus grabs you and begins to ravish your neck with razor-sharp incisors!
+    mpechoaround $r $R is suddenly lifted into the air and is dined upon by Morgus!
+    mpsilent mpcallmagic 'calm'
+    mpdamage $r 470
+    mppose $r sit
+  endif
+~
+>fight_prog 4~
+  if inroom($r) == here
+    say It's crowded in here!
+    mpechoat $r Morgus picks you up by your head and tosses you out of the room!
+    mpechoaround $r Morgus grabs $R by the head and throws $K out of the room!
+    mpdamage $r 70
+    mppose $r sit
+    mptransfer $r 7904
+    endif
+~
+>fight_prog 3~
+  say Enough!  Now you will pay the ultimate price!
+  emote sweeps his arms across the room, and you are thrown to you knees!
+  mppose all sit
+  emote raises his hands and begins an unholy chant!
+  mpecho Streams of fire leap across the room, burning you!
+  mpdamage all 200
+~
+>fight_prog 2~
+  if inroom($r) == here
+    emote screams, 'I am the greatest cleric that ever was!'
+    mpechoat $r Morgus pierces your face with his razor claws and begins to drain your energy!
+    mpechoaround $r Morgus grabs $R violently by the face, and begins to suck the life from $K!
+    mpdamage $r 150
+    mpsilent mpcallmagic 'heal' $i
+    mpsilent mpcallmagic 'heal' $i
+    emote smacks his lips in satisfaction.
+    say Now thats refreshing!
+  endif
+~
+>death_prog 100~
+  emote shrieks, 'I shall not be denied!'
+  mpecho The fires of hell consume the demon Morgus.
+  holler No!!!!
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

@@ -1,0 +1,16 @@
+>rand_prog 6~
+  if inroom($r) == here
+    if ispc($r)
+      if isaffected ($r, invis)
+        if rand(3)
+          mpecho As you look at $I you think you see it sneer... odd.
+        endif
+      else
+        mpechoaround $r The air around $R shimmers and blurs as $I glows softly.
+        mpechoat $r You notice yourself becoming transparent!
+        mpcallmagic 'invisibility' $r
+      endif
+    endif
+  endif
+~
+|

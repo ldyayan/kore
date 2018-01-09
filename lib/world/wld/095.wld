@@ -1,0 +1,1594 @@
+#9500
+Mountains of Chaos~
+   Mountains of Chaos... the entrance to the zone is on the north edge,
+room #9528.
+~
+95 1024 0
+D5
+~
+~
+0 0 9528
+S
+#9501
+A dark corridor~
+   You are in a dark and damp corridor. The corridor continues east and west. 
+~
+95 33024 5
+D0
+~
+~
+0 0 9502
+D1
+~
+~
+0 0 9580
+D3
+~
+~
+0 0 9507
+S
+#9502
+Storage room~
+   You see shelves lined with alchemist's equipment. Beakers full of liquid, 
+animal parts, and old bones. You see a chest on the ground where someone 
+keeps old research equipment. 
+~
+95 32796 5
+D2
+~
+~
+0 0 9501
+S
+#9503
+A glowing room~
+   You stand inside a glowing room... the strangest white room you've ever
+been in. Your body tingles all over and your eyes see tracers of movement...
+It feels like black magic draws you east...
+~
+95 33024 5
+D1
+~
+~
+0 0 9514
+D3
+~
+~
+0 0 9580
+S
+#9504
+A dark corridor~
+   You are at the end of a dark and damp corridor. You can hear noises from 
+the south and you can smell what seems to be chemicals brewing. 
+~
+95 33024 5
+D0
+~
+~
+0 0 9580
+D2
+~
+~
+0 0 9505
+S
+#9505
+Nahklug's laboratory~
+   You are losing all sense of direction, you can see a bit of light coming 
+from the north. 
+~
+95 32768 0
+D0
+~
+~
+0 0 9504
+D4
+~
+portcullis~
+2 9500 9506
+S
+#9506
+Nahklug's experimentation chamber~
+   You are in the workstation of one of the most evil minds to appear on the 
+face of the planet. You have a sense of dark foreboding about the entire 
+complex. You can see shadows shifting in the corners of the room. 
+~
+95 32768 0
+D5
+You see a tall pillar of black onyx that eminates a low hum...
+~
+portcullis~
+2 9500 9505
+S
+#9507
+A dark corridor~
+   You are in a dark and damp corridor.  You can hear faint noises comming 
+from the north and you can smell what you think is rancid food to the south.
+~
+95 33024 5
+D0
+You see a large steel door meant to keep something in not out...
+
+~
+steel door~
+1 0 9508
+D1
+~
+~
+0 0 9501
+D2
+bla
+~
+~
+0 0 9509
+S
+#9508
+Hobgoblin barracks~
+   You are in the barracks of the goblin guards.  You can see racks of 
+weapons along the walls and a few cots in the corners.  In the center of 
+the room is a very large table meant for feeding time. 
+~
+95 33032 0
+D2
+~
+steel door~
+1 0 9507
+D3
+~
+~
+0 0 9512
+S
+#9509
+A really dark corridor~
+   You can barely see anything but the smell of spoiling has grown 
+stronger.  You are not sure what lies ahead.
+~
+95 33024 0
+D0
+~
+~
+0 0 9507
+D2
+~
+~
+0 0 9510
+S
+#9510
+Hobgoblin kitchen~
+   You are in the kitchen where the food for the guards is prepared.  You 
+can see scraps and left overs strewn all over the floor.  You can see 
+the source of the smell when you look in the corner at a rotting corpse.
+~
+95 33032 0
+D0
+~
+~
+0 0 9509
+D3
+~
+~
+0 0 9511
+S
+#9511
+Food storage~
+   You are in the food storage room for the HobGoblins.  You can see more 
+scraps and dead things littering the floor.  In one corner there is a 
+pile of corpses as high as your head.  You think it is best not to stay 
+here too long.
+~
+95 32776 5
+D1
+~
+~
+0 0 9510
+S
+#9512
+Hobgoblin sleeping quarters~
+   You are standing inside the room where the goblins try to catch a few 
+ticks.  HobGoblins dont need very much sleep so there are only a few 
+cots in this room.
+~
+95 33032 0
+D1
+~
+~
+0 0 9508
+S
+#9513
+The Bottom End of The Stack~
+   You are pressed up against the wall of a large stack which you have
+traversed to this point.  The stack leads up and down.  Below you a large
+cavern full of water awaits the traveller.  Above you can crawl back to the
+surface from where you came.
+~
+95 32768 0
+D4
+~
+~
+0 0 9515
+D5
+~
+~
+0 0 26576
+S
+#9514
+A VERY evil pool...~
+   You seem to sense the evil in the room shapeshifting into the form of a 
+silver Hydra. Unfortulnately this will be your last sense as the Hydra 
+closes in on your nand licks its fangs.... 
+~
+95 32910 8
+D3
+~
+~
+0 0 9503
+S
+#9515
+Part Way Up the Stack~
+   You are climbing in a very narrow fissure in the rock. You hear faint 
+noises down. The rock has many little gem-like stones embedded in it. It 
+makes you dizzy just to look at them. 
+~
+95 32768 0
+D4
+~
+~
+0 0 9516
+D5
+~
+~
+0 0 9513
+S
+#9516
+The Top of the Stack~
+   You are in a very tiny crevice. You can barely breathe. As you go down you 
+can feel the fissure widening but it gets so dark you can hardly see... 
+~
+95 32768 0
+D4
+~
+~
+0 0 9517
+D5
+~
+~
+0 0 9515
+S
+#9517
+A rough ledge~
+   You are standing on a rough ledge over a crevice. You can see down but its 
+very dark. There is a ray of light that you can see to the east. 
+~
+95 32768 0
+D1
+~
+~
+0 0 9518
+D5
+~
+~
+0 0 9516
+S
+#9518
+Dangerous ledge~
+   You are standing on a dangerous ledge. The wind howls and blows shrilly
+down the mountain, threatening to take you over the edge with a strong gust!
+~
+95 32768 0
+D0
+~
+~
+0 0 9519
+D3
+~
+~
+0 0 9517
+S
+#9519
+Moraine~
+   You stand in a deep glacial ravine. You think you see the mountain fall
+off to nothing just south, but an easier trail seems to run east and west.
+~
+95 32768 5
+D0
+~
+~
+0 0 9521
+D2
+~
+~
+0 0 9518
+D3
+~
+~
+0 0 9527
+S
+#9520
+Trail down the mountain~
+   You are on a rugged trail that has been worn by many adventurers before 
+you. This seems to be the only way up or over the Mountains.
+~
+95 32768 5
+D1
+~
+~
+0 0 9527
+D3
+~
+~
+0 0 9522
+S
+#9521
+In the mountains~
+   You are going up into the mountains closer to the peaks with each step.  
+You have heard that on the otherside of the Chaos Mountains that there 
+is a large city of riches and land beyond belief.
+~
+95 32776 5
+D0
+~
+~
+0 0 9528
+D2
+~
+~
+0 0 9519
+S
+#9522
+End of the trail~
+   You are at the end of what seems to be a trail leading up into the 
+Mountains of Chaos.
+~
+95 32776 0
+D1
+~
+~
+0 0 9520
+D5
+~
+~
+0 0 9526
+S
+#9523
+At an intersection~
+   You are on a road that goes north and south.  The road looks as though 
+it is well traveled.
+~
+95 32768 0
+D0
+~
+~
+0 0 9524
+D1
+~
+~
+0 0 9526
+D2
+~
+~
+0 0 9525
+S
+#9524
+On the road to Shrok Morath~
+   You are on a dusty local road. Around are jagged volcanic stones, and
+in the wind and dust are clouds of hot steam. The air reeks of rotten eggs
+and in this bleak and foul wind, no living thing can be seen. North you
+see the dark toothy spires of Shrok Morath.
+~
+95 32768 0
+D0
+~
+~
+0 0 9529
+D2
+~
+~
+0 0 9523
+S
+#9525
+Around the base of the Mountain~
+   You see a hidden trail that goes south.  You have heard of rumors of a 
+hidden mine in the Mountains of Chaos.  Maybe this is a trail to it...
+~
+95 32776 0
+D0
+~
+~
+0 0 9523
+S
+#9526
+The bottom of the trail~
+   You are at the bottom of the Moutain range.  The Mountains of Chaos loom 
+before you and beckon to the adventerous.  Bewary,... many have gone and 
+not returned...
+~
+95 32768 0
+D3
+~
+~
+0 0 9523
+D4
+~
+~
+0 0 9522
+S
+#9527
+On the trail~
+   You are on the Mountain trail.  It continues east and west.
+~
+95 32768 5
+D1
+~
+~
+0 0 9519
+D3
+~
+~
+0 0 9520
+S
+#9528
+On the mountain trail~
+   You are still in the Mountains... you can see the frost-line from here.  
+You hope it doesnt get much colder or you might have to turn back.
+~
+95 32776 5
+D0
+~
+~
+0 0 3554
+D2
+~
+~
+0 0 9521
+S
+#9529
+On the road before Shrok Morath~
+   North loom the black towers of sharp teeth - Shrok Morath. From this fell 
+place have come orc armies innumerable. In the hot plain, the wind whips up a 
+fury around you, and the dust and sulfur sting your eyes. The Mountains of 
+Chaos rise in the south. Dotting the plains here and afar are pits, and 
+smoke-fires. 
+~
+95 32768 1
+D0
+~
+~
+0 0 9530
+D2
+~
+~
+0 0 9524
+S
+#9530
+Grim south gate~
+   You stand at the base of the towers of sharp teeth in awe. The black
+curving majesty of the towers arcs to the sky. A yellow wind of dust blows
+the surface a polished black. High overhead you see a ring of black-eyes
+watching you.
+~
+95 32772 0
+D0
+~
+~
+0 0 9531
+D2
+~
+~
+0 0 9529
+S
+#9531
+Innercourt~
+   The innercourt is a large empty space. Circular and very badly lit, it may 
+once have been beautiful. Around the interior are upper courses that hold 
+slits and windows from which a warrior could fire down on the heads of 
+intruders. Gates lead east and west off the innercourt to the side defensive 
+towers of Shrok Morath. A set of narrow steps leads precariously up to a 
+landing and a percarious door-step. 
+~
+95 32776 0
+D1
+~
+~
+0 0 9539
+D2
+~
+~
+0 0 9530
+D3
+~
+~
+0 0 9538
+D4
+~
+~
+0 0 9536
+S
+#9532
+Spire of Shrok Morath~
+   You stand at the summit of Shrok Morath. Here the upper levels are shaved
+into a grand circular towertop. Down and to the west are concentric layers
+of spikes and battlements and to the east the rising spire and shoulder of the
+towers. You see a great arch east that leads into a ridge down the east side
+of the Narkstal tower.
+~
+95 32768 0
+D0
+~
+~
+0 0 9554
+D1
+~
+~
+0 0 9533
+D3
+~
+~
+0 0 9534
+D4
+~
+~
+0 0 9535
+S
+#9533
+Somewhere inside Shrok Morath~
+   Somewhere in the side crown of the horrifying center tower is this dark 
+chamber. A cold chill, a damp darkness, and the orc smells make it as 
+typically horrid as any chamber you've been in. Strangely melted stone walls 
+become almost intestinal tubes that look full of hideous possibilities and 
+lead off in every direction. A slide-like hole leads down. 
+~
+95 32768 0
+D0
+~
+~
+0 0 9577
+D2
+~
+~
+0 0 9578
+D3
+~
+~
+0 0 9532
+D5
+~
+~
+0 0 9546
+S
+#9534
+Rim of the crown~
+   To the east is the town square where all the villagers meet to plan 
+events such as festivals and sales.
+~
+95 32768 0
+D0
+~
+~
+0 0 9589
+D1
+~
+~
+0 0 9532
+D2
+~
+~
+0 0 9590
+D5
+~
+~
+0 0 9565
+S
+#9535
+Spire of Shrok Morath~
+   The spire curls upwards like a stair with thorned edges lofting into the
+sky. From this high up the view is terrifying.
+~
+95 32768 0
+D4
+~
+~
+0 0 9557
+D5
+~
+~
+0 0 9532
+S
+#9536
+Precarious door-step~
+   Here high on the landing, in the innercourt hall, you feel naked and 
+exposed to the thousands of arrows that could be unleashed upon you...
+From here any combatants would have to fight one at a time just to make an
+attempt at battering down the sturdy iron door that protects the center
+tooth of Shrok Morath. You feel as if you are in the very jaws of death 
+itself ...
+~
+95 32768 1
+D4
+~
+~
+0 0 9537
+D5
+~
+~
+0 0 9531
+S
+#9537
+Innerhall~
+   You stand in a great inner hall, conical, hugely, inconceivably majestic.
+A rain pours almost constanly and the floor is puddled, giving weather indoors.
+The heights above are well lit by whitish yellow sunlight. To the east is a
+parabolic archway that leads grandly into the interior.
+~
+95 32768 0
+D1
+~
+~
+0 0 9550
+D5
+~
+~
+0 0 9536
+S
+#9538
+Tower of the fang~
+   You stand in the tower of the fang. Dark banners of black and red,
+festooned with unspeakable trophies line the wall. The carefully fitted stone
+floor is pitted and blackened by crude cookfires and dried spilt blood.
+The dark bowels of the tower here and smelly, cold, and acrid with smoke.
+~
+95 32768 1
+D0
+~
+~
+0 0 9591
+D1
+~
+~
+0 0 9531
+D3
+~
+~
+0 0 9569
+S
+#9539
+Tower of the claw~
+   You stand in the tower of the claw. Dark banners of black and red,
+festooned with unspeakable trophies line the wall. The carefully fitted stone
+floor is pitted and blackened by crude cookfires and dried spilt blood.
+The dark bowels of the tower here and smelly, cold, and acrid with smoke.
+~
+95 32776 0
+D0
+~
+~
+0 0 9570
+D1
+~
+~
+0 0 9540
+D3
+~
+~
+0 0 9531
+S
+#9540
+Curving hall~
+   Here somewhere at the base of the tower of the claw is a curving hall. 
+It slopes gently upwards to the east and hung from the sides and heaped in
+the many niches are hacked off heads, trophy armor, and banners. You see
+places where ornament has been chiseled off by crude orc tools and shudder;
+the darkness runs deep in orc minds.
+~
+95 32776 0
+D3
+~
+~
+0 0 9539
+D4
+~
+~
+0 0 9541
+S
+#9541
+Curving stairtube~
+   The hook tower hall intersects and its buttressed by the arching causeway
+and the curving stairs that run downwards to the west. An arch soars perilously
+upwards to the north, one that seems to connect the towers to each other.
+~
+95 32776 0
+D0
+~
+~
+0 0 9543
+D4
+~
+~
+0 0 9542
+D5
+~
+~
+0 0 9540
+D9
+~
+~
+0 0 9572
+S
+#9542
+The tower of the claw~
+   Here in the top room the tower of the claw comes to a wicked point. The
+conical roof and walls of this lofty room are slitted by tall cuts for
+grim arrows and spywork. In the floor is weighted a heavy trapdoor, balanced
+to be easy to operate from this side, nigh impossible from the other.
+~
+95 32776 0
+D5
+~
+~
+0 0 9541
+S
+#9543
+Tower archcauseway~
+   The tower bracing here arches between towers and tees up up and over and
+west like a buttress to the Narkstal tower, but then disappears into a gaping
+hole-cave north and the center of the fortress.
+~
+95 32768 0
+D0
+~
+~
+0 0 9544
+D2
+~
+~
+0 0 9541
+S
+#9544
+Tower archcauseway~
+   The tower bracing here arches between towers and tees up up and over and
+west like a buttress to the Narkstal tower.
+~
+95 32768 0
+D2
+~
+~
+0 0 9543
+D9
+~
+~
+0 0 9545
+S
+#9545
+Conical guard chamber~
+   The orcs use this room as a guard chamber since it seems to intersect
+the archcauseways between the towers and the center towers. Strategically
+the room gives defenders in the center a big advantage over attacks from the
+towers, shielding them from missiles and giving good footing compared to the
+dangerous arcing bridges. A short stair leads up and west.
+~
+95 32768 1
+D3
+~
+~
+0 0 9550
+D6
+~
+~
+0 0 9547
+D7
+~
+~
+0 0 9544
+S
+#9546
+Somewhere inside Shrok Morath~
+   Somewhere in the side crown of the horrifying center tower is this dark 
+chamber. A cold chill, a damp darkness, and the orc smells make it as 
+typically horrid as any chamber you've been in. Strangely melted stone walls 
+become almost intestinal tubes that look full of hideous possibilities and 
+lead off in every direction. A slide-like hole leads down. 
+~
+95 32768 0
+D0
+~
+~
+0 0 9576
+D4
+~
+~
+0 0 9533
+D5
+~
+~
+0 0 9550
+S
+#9547
+Tower archcauseway~
+   The tower bracing here arches between towers and tees up up and over and
+south and west to the main Narkstal tower.
+~
+95 32768 0
+D0
+~
+~
+0 0 9548
+D8
+~
+~
+0 0 9545
+S
+#9548
+Tower archcauseway~
+   The tower bracing here arches between towers and tees up up and over and
+south and west to the main Narkstal tower.
+~
+95 32768 0
+D0
+~
+~
+0 0 9549
+D2
+~
+~
+0 0 9547
+S
+#9549
+Pointed spire and battlement~
+   This high lofty battlement is crenellated by sword-like spikes.. deadly
+and impressively horrifying. A spike shoots out from the tower northeast to
+an incredible precipice.. the wind howls with the fury of the elements.
+~
+95 32768 0
+D2
+~
+~
+0 0 9548
+D5
+~
+~
+0 0 9551
+D6
+~
+~
+0 0 9581
+S
+#9550
+Somewhere inside Shrok Morath~
+   Somewhere in the side crown of the horrifying center tower is this dark
+chamber. A cold chill, a damp darkness, and the orc smells make it as
+typically horrid as any chamber you've been in. Strangely melted stone walls
+become almost intestinal tubes that look full of hideous possibilities and
+lead off in every direction.
+~
+95 32768 0
+D0
+~
+~
+0 0 9573
+D1
+~
+~
+0 0 9545
+D2
+~
+~
+0 0 9574
+D3
+~
+~
+0 0 9537
+D4
+~
+~
+0 0 9546
+S
+#9551
+Curving stairtube~
+   The stairs curve downwards... the walls are smooth and flat, like you
+are inside a tube. The stairs are small and inset into the floor.. the black
+walls glisten with condensation and water runs in rivulets from the ceiling.
+A steady drip echoes in the stair. The wind howls from an opening above.
+~
+95 0 0
+D3
+~
+~
+0 0 9552
+D4
+~
+~
+0 0 9549
+S
+#9552
+Curving stairtube~
+   The stairs curve downwards... the walls are smooth and flat, like you
+are inside a tube. The stairs are small and inset into the floor.. the black
+walls glisten with condensation and water runs in rivulets from the ceiling.
+A steady drip echoes in the stair.
+~
+95 32768 0
+D1
+~
+~
+0 0 9551
+D2
+~
+~
+0 0 9580
+D3
+~
+~
+0 0 9553
+S
+#9553
+Curving stairtube~
+   The stairs curve downwards... the walls are smooth and flat, like you
+are inside a tube. The stairs are small and inset into the floor.. the black
+walls glisten with condensation and water runs in rivulets from the ceiling.
+A steady drip echos in the stair.
+~
+95 32768 0
+D1
+~
+~
+0 0 9552
+D2
+~
+~
+0 0 9579
+D3
+~
+~
+0 0 9554
+S
+#9554
+Closed gate~
+   After years of attacks from the north the orcs of Shrok Morath closed the
+north gate with huge stones. Short of knocking the wall down you see no way
+of getting through the gate. The room coils east and west around the blocks
+of stone the orcs have set to block an indefensible gate. A short ramp leads
+upwards to the crown of the towers of the teeth, and you marvel that you are
+so high up.
+~
+95 32768 0
+D1
+~
+~
+0 0 9553
+D2
+~
+~
+0 0 9532
+D3
+~
+~
+0 0 9555
+S
+#9555
+Curving stairtube~
+   The stairs curve downwards... the walls are smooth and flat, like you
+are inside a tube. The stairs are small and inset into the floor.. the black
+walls glisten with condensation and water runs in rivulets from the ceiling.
+A steady drip echos in the stair.
+~
+95 32768 0
+D1
+~
+~
+0 0 9554
+D3
+~
+~
+0 0 9556
+S
+#9556
+Bottom of the Stairtube~
+   The stairs curve upwards east and west... the walls are smooth and flat, 
+like you are inside a tube. The stairs are small and inset into the floor.. 
+the black walls glisten with condensation and water runs in rivulets from the 
+ceiling. A steady drip echos in the stair. A florid cut in the south wall 
+becomes a portal that leads into a side chamber. 
+~
+95 32768 0
+D1
+~
+~
+0 0 9555
+D2
+~
+~
+0 0 9583
+D3
+~
+~
+0 0 9558
+S
+#9557
+Spire of Shrok Morath~
+   The spire curls upwards like a stair with thorned edges lofting into the
+sky. From this high up the view is magnificent.
+~
+95 32768 0
+D5
+~
+~
+0 0 9535
+S
+#9558
+Curving stairtube~
+   The stairs curve downwards... the walls are smooth and flat, like you
+are inside a tube. The stairs are small and inset into the floor.. the black
+walls glisten with condensation and water runs in rivulets from the ceiling.
+A steady drip echos in the stair.
+~
+95 32768 0
+D1
+~
+~
+0 0 9556
+D3
+~
+~
+0 0 9560
+S
+#9559
+Tower of the hook~
+   Here in the top room the tower of the hook comes to a wicked point. The 
+conical roof and walls of this lofty room are slitted by tall cuts for grim 
+arrows and spywork. In the floor is weighted a heavy trapdoor, balanced to be 
+easy to operate from this side, nigh impossible from the other. 
+~
+95 32768 0
+D5
+~
+~
+0 0 9560
+S
+#9560
+Hook tower hall~
+   The hook tower hall intersects and its buttressed by the arching causeway
+and the curving stairs that run downwards around the backside of the fanged
+black tower. The interior is black and drafty, wind-whipped by the lofty
+heights it hooks to. A strange curved stairtube runs down east, and an arch
+soars dangerously upwards to the south.
+~
+95 32768 0
+D1
+~
+~
+0 0 9558
+D2
+~
+~
+0 0 9561
+D4
+~
+~
+0 0 9559
+S
+#9561
+Tower archcauseway~
+   The archcauseway bends downward to the northern towers.
+~
+95 32768 0
+D0
+~
+~
+0 0 9560
+D2
+~
+~
+0 0 9562
+S
+#9562
+Tower archcauseway~
+   The tower bracing here arches between towers and tees up up and over and
+east like a buttress to the Narkstal tower.
+~
+95 32768 0
+D0
+~
+~
+0 0 9561
+D1
+~
+~
+0 0 9563
+D2
+~
+~
+0 0 9566
+S
+#9563
+Narkstal crown~
+   Here in the 'crown' of Shrok Morath are spokes radiating outwards
+defensively from the center Narkstal tower. From here on the west side the
+effect is beautiful and terrifying, for a thousand feet down its nothing
+but far below, the innercourt.
+~
+95 32768 0
+D0
+~
+~
+0 0 9585
+D2
+~
+~
+0 0 9586
+D3
+~
+~
+0 0 9562
+D4
+~
+~
+0 0 9565
+S
+#9564
+Tower of the fang~
+   Here in the top room the tower of the fang comes to a wicked point. The
+conical roof and walls of this lofty room are slitted by tall cuts for
+grim arrows and spywork. In the floor is weighted a heavy trapdoor, balanced
+to be easy to operate from this side, nigh impossible from the other.
+~
+95 32768 0
+D5
+~
+~
+0 0 9566
+S
+#9565
+Narkstal high crown~
+   Here in the 'crown' of Shrok Morath are spokes radiating outwards
+defensively from the center Narkstal tower. From here on the west side the
+effect is beautiful and terrifying, for a thousand feet down its nothing
+but far below, the innercourt.
+~
+95 32768 0
+D0
+~
+~
+0 0 9587
+D2
+~
+~
+0 0 9588
+D4
+~
+~
+0 0 9534
+D5
+~
+~
+0 0 9563
+S
+#9566
+Grimstairs~
+   The Shadok stairs wind upwards through the tower. The stairs look very 
+worn and you see can ruts where the orcs have carelessly trod up the soft 
+stair-stone with metal boots on. A door leads north to a windy archcauseway 
+that arcs dangerously between the towers. 
+~
+95 32768 0
+D0
+~
+~
+0 0 9562
+D4
+~
+~
+0 0 9564
+D5
+~
+~
+0 0 9567
+S
+#9567
+Grimhall~
+   Here at the southwestern corner of Shrok Morath in the tower of the fang,
+the orc defenders can fight and defend the whole western side of the tower.
+The whole architecture is superbly designed for defense.
+~
+95 32768 0
+D4
+~
+~
+0 0 9566
+D5
+~
+~
+0 0 9568
+S
+#9568
+Grimhall~
+   Shrok Moraths weapons and armor forges are legendary, but it is genious
+to have them inside the main fighting tower, the tower of the fang. From here
+an orc army could hold out indefinately, but for food..  On the west wall,
+a set of steps winds to an upper level of the tower.
+~
+95 32768 0
+D0
+~
+~
+0 0 9593
+D1
+~
+~
+0 0 9569
+D4
+~
+~
+0 0 9567
+S
+#9569
+Grimhall~
+   The walls of the hall are hung high above with decorations of armor and
+sculpted armor in the rock. A grand open door, like an ornate pictureframe,
+only blackened and ugly, which one can step through leads into a dark
+side hall.. the main hall runs east-west.
+~
+95 32768 0
+D0
+~
+~
+0 0 9592
+D1
+~
+~
+0 0 9538
+D3
+~
+~
+0 0 9568
+S
+#9570
+Throng room~
+   The throng room; a dingy rat-infested, flea-infested, orc-infested room
+all dark and dirty. A little light shines in from outdoors, but its mostly
+blocked out. Mats and black spots litter the floor. The walls and undamaged
+decoration higher up the wall seem of high quality, not orc work.
+~
+95 32776 0
+D1
+~
+~
+0 0 9571
+D2
+~
+~
+0 0 9539
+S
+#9571
+Guard room~
+   A guard room, very empty. A set of stairs leads gracefully up a level.
+~
+95 32776 0
+D3
+~
+~
+0 0 9570
+D4
+~
+~
+0 0 9572
+S
+#9572
+War deliberations room~
+   You seem to be in Shrok Morath's wartime operations room. There is a very
+large table here, and a model of the Mountains of Chaos. You can even see
+where the tower is..!
+~
+95 32776 0
+D5
+~
+~
+0 0 9571
+D7
+~
+~
+0 0 9541
+S
+#9573
+Orc chamber~
+   The room is strangely curvilinear. It bows out at odd angles, and the
+floor has a strange pitch that's hard to walk on. A two-level floor canters 
+oddly downwards, and then turns. It appears that orcs sleep and live here
+by the trash and refuse thats tossed heedlessly about.
+~
+95 32768 0
+D2
+~
+~
+0 0 9550
+S
+#9574
+Hideous grand chamber~
+   A large chamber, big enough for a small army, dark.. in the center of the
+floor is a raised dais with a tattered chuppa hanging by slender ropes to a
+high high ceiling. Adorning the walls are orc war trophies: captured banners
+hacked heads, gibbets with dead men inside. A pile of litter occupies a corner,
+but the smoke is strangely clear. High balconies lead to dark rooms and you
+sense you are being spied upon.
+~
+95 32768 0
+D0
+~
+~
+0 0 9550
+S
+#9575
+Hole in the wall~
+   Back here in the hole in the wall is a small safe place to hide...
+~
+95 32768 0
+D3
+~
+~
+0 0 9578
+S
+#9576
+A clean room~
+   This room is surprisingly clean and white...it must be a newly discovered
+chamber of Shrok Morath. It smells a little, but is not too dinged. A 
+flickering blue light feebly illuminates the room.
+~
+95 32768 0
+D2
+~
+~
+0 0 9546
+S
+#9577
+Gruesome chamber~
+   The chamber is tall and strangely lit from above. A yellow light shines
+weakly down the slick black walls. The floor is a strange raised mosaic-thing
+that looks like a black star and is grooved and ridged in the oddest way
+imaginable. Sinuous cables, but part of the wall, run up and around features
+and make you wonder about this room.
+~
+95 32768 0
+D2
+~
+~
+0 0 9533
+S
+#9578
+Fetid room~
+   Somewhere in the side crown of the horrifying center tower is this dark
+chamber. A cold chill, a damp darkness, and the orc smells make it as
+typically horrid as any chamber you've been in. In this room is an oddly
+shaped long almost counter like area and protruding lumps are enough to be
+tables.
+~
+95 32768 0
+D0
+~
+~
+0 0 9533
+D1
+~
+~
+0 0 9575
+S
+#9579
+Orc chamber~
+   This black room has almost no light inside it.. but a rank smell of urine
+and sweat.. The interior is curved but somewhat angular. The walls are cool
+and the floor thick with refuse.
+~
+95 32768 0
+D0
+~
+~
+0 0 9553
+S
+#9580
+A dark corridor~
+   You are standing in a dark corridor. Exits lead in all directions. You
+hear a faint sound coming from the south and slight grunting comming from
+the west. A tinkling sound like music seems to come from the east from behind
+a pile of rocks.
+~
+95 32768 0
+D0
+~
+~
+0 0 9552
+D1
+~
+~
+0 0 9503
+D2
+~
+~
+0 0 9504
+D3
+~
+~
+0 0 9501
+S
+#9581
+Long spike~
+   This spire juts crazily out into the wind from the battlements.. it is
+definately wide enough to stand on and offers a terrifying view of the tower
+and the bleak lands around it. Standing in the v-shaped groove is difficult
+but for the sword-like spikes that jut upwards from the walls edge and offer
+good handholds.
+~
+95 32768 0
+D8
+~
+~
+0 0 9549
+S
+#9582
+Once important place~
+   This once grand room is now trashed and blackened. The walls are black
+and the air cold. Here in the darkness you see a high ornament around the
+upper edges of the room and a coffered ceiling. This once majestic room
+has been brought low.
+~
+95 32768 0
+D3
+~
+~
+0 0 9583
+S
+#9583
+Shrok Morath guard barracks~
+   This may once have been a festive room, but all the gaiety has been
+stamped out by its orc occupants. The barracks are large and rude, packed
+with noisome smells. The walls are an arching black with lofty drafty
+heights. To the east is a dais of stairs to an important room and west, a
+crudely bashed out wall extends the barracks into the gloom.
+~
+95 32768 0
+D0
+~
+~
+0 0 9556
+D1
+~
+~
+0 0 9582
+D3
+~
+~
+0 0 9584
+S
+#9584
+Sleeping quarters~
+   A long room, grimed, with many knocked out interior walls. In parts they
+still stand, partly. The room is large enough for a company of orcs, much
+bigger than might be realized, but in the gloom distances are obscured. A
+steady drip rains down from a leaky roof and is blown by a strong draft. The
+darkness and smoke and sweat hangs like a blue pallor in the air.
+~
+95 32768 0
+D1
+~
+~
+0 0 9583
+S
+#9585
+Garthag spike~
+   This spire juts crazily out into the wind from the battlements.. it is
+definately wide enough to stand on and offers a terrifying view of the tower
+and the bleak lands around it. Standing in the v-shaped groove is difficult
+but for the sword-like spikes that jut upwards from the walls edge and offer
+good handholds.
+~
+95 32768 0
+D2
+~
+~
+0 0 9563
+S
+#9586
+Lardosik spike~
+   This spire juts crazily out into the wind from the battlements.. it is
+definately wide enough to stand on and offers a terrifying view of the tower
+and the bleak lands around it. Standing in the v-shaped groove is difficult
+but for the sword-like spikes that jut upwards from the walls edge and offer
+good handholds.
+~
+95 32768 0
+D0
+~
+~
+0 0 9563
+S
+#9587
+Hawethorne spike~
+   This spire juts crazily out into the wind from the battlements.. it is
+definately wide enough to stand on and offers a terrifying view of the tower
+and the bleak lands around it. Standing in the v-shaped groove is difficult
+but for the sword-like spikes that jut upwards from the walls edge and offer
+good handholds.
+~
+95 32768 0
+D2
+~
+~
+0 0 9565
+S
+#9588
+Skynrd spike~
+   This spire juts crazily out into the wind from the battlements.. it is
+definately wide enough to stand on and offers a terrifying view of the tower
+and the bleak lands around it. Standing in the v-shaped groove is difficult
+but for the sword-like spikes that jut upwards from the walls edge and offer
+good handholds.
+~
+95 32768 0
+D0
+~
+~
+0 0 9565
+S
+#9589
+Brekstal spike~
+   This spire juts crazily out into the wind from the battlements.. it is
+definately wide enough to stand on and offers a terrifying view of the tower
+and the bleak lands around it. Standing in the v-shaped groove is difficult
+but for the sword-like spikes that jut upwards from the walls edge and offer
+good handholds.
+~
+95 32768 0
+D2
+~
+~
+0 0 9534
+S
+#9590
+Daknal spike~
+   This spire juts crazily out into the wind from the battlements.. it is
+definately wide enough to stand on and offers a terrifying view of the tower
+and the bleak lands around it. Standing in the v-shaped groove is difficult
+but for the sword-like spikes that jut upwards from the walls edge and offer
+good handholds.
+~
+95 32768 0
+D0
+~
+~
+0 0 9534
+S
+#9591
+Firing balcony~
+   This protected balcony is a bulge on the outside upperbase of the tower
+of the fang, but from the outside it is simply not visible! From inside
+however, it is plain that the balcony has a commanding shot at any trespasser
+in the innercourt.
+~
+95 32768 0
+D2
+~
+~
+0 0 9538
+S
+#9592
+Weaponhall~
+   The entire room is an arsenal of fresh weapons and bows and arrows.
+Clearly, the tower of the fang is expected to last a very long time during 
+a siege and to take the brunt of the fighting, some of it hand-to-hand in
+the innercourt.
+~
+95 32768 0
+D2
+~
+~
+0 0 9569
+S
+#9593
+Armorhall~
+   The hall is stocked and provisioned with all kinds of armor: shields,
+plate, gloves, chain, all orcish: high quality, but rough. A forge is stocked
+with fresh metal, so the orcs can turn out original designs in a hurry if
+needed.
+~
+95 32768 0
+D2
+~
+~
+0 0 9568
+S
+#99999
+$~

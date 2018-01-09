@@ -1,0 +1,416 @@
+#24400
+stableboy boy~
+the stableboy~
+The stableboy is here, sweeping out the stalls.
+~
+   You see a cute kid, a little guy, who'll take your money and sell you a
+fine mount. He spends most of his time just sweeping out the stalls, grooming
+the mounts and counting his riches.
+~
+26698 0 900 S
+53 1 -50 1d1+1 1d1+1
+20000 160000
+8 8 1
+#24401
+smiling goodwife good wife~
+the smiling goodwife~
+A smiling goodwife is here, selling fresh vegetables.
+~
+   You see a sweet old lady, who's selling lots of fresh vegetables from her
+family farm outside Kore. She stacks and arranges lettuce and carrots.
+~
+26698 0 900 S
+53 1 -50 1d1+1 1d1+1
+20000 160000
+8 8 2
+#24402
+master fletcher~
+the master fletcher~
+A master fletcher is here, carving a great bow out of horn.
+~
+   You see a tough woodsman, thin, but with a face lined with care and steady
+experience. He carves now a large bow out of horn.
+~
+26698 0 900 S
+53 1 -50 1d1+1 1d1+1
+20000 160000
+8 8 1
+#24403
+butcher~
+the butcher~
+The butcher is here, laying out choice cuts of meat.
+~
+   You see a large fat man in a bloody apron. He smiles and lays out all
+manner of bloody meats and plucked chicken. He loves his job so much.
+~
+26698 0 900 S
+53 1 -50 1d1+1 1d1+1
+20000 160000
+8 8 1
+#24404
+blacksmith smith~
+the blacksmith~
+The blacksmith is here, hammering on his anvil.
+~
+   You see a large man, his face blackened by soot. He sweats hard, shaping
+recalcitrant iron into objects of art, armor, and weapons. He looks at you
+and sizes you up.
+~
+26698 0 900 S
+53 1 -50 1d1+1 1d1+1
+20000 160000
+8 8 1
+#24405
+beermeister beer meister~
+the beermeister~
+The beermeister is here, drawing huge mugs of beer for paying customers.
+~
+   You see a happy beermeister serving up beer. He fills mugs and pitchers
+from a large keg and enjoys the festivities. He winks to you and fills more
+mugs.
+~
+26698 0 900 S
+53 1 -50 1d1+1 1d1+1
+20000 160000
+8 8 1
+#24406
+musician~
+the musician~
+The musician is here, tuning an instrument.
+~
+   You see a thin old man, tuning a harp with care. He plays a few notes,
+adjusts the strings, plays a few more then considers the sound. When he
+finishes with one instrument he continues with the next. He sees you and
+smiles.
+~
+26698 0 900 S
+53 1 -50 1d1+1 1d1+1
+20000 160000
+8 8 1
+#24407
+commoner~
+the commoner~
+A commoner is here, going about his business.
+~
+   You see a plainly dressed commoner, just minding his own business. He
+whistles a happy tune and seems preoccupied with his own affairs.
+~
+8 0 500 S
+8 10 50 1d1+1 1d1+1
+300 0
+8 8 1
+#24408
+woman~
+the woman~
+A woman is here, going about her business.
+~
+   You see a simple woman, not too badly dressed, minding her affairs. She
+walks about with a simple air. She could be beautiful if she were younger,
+but she's sharp you can tell.
+~
+8 0 500 S
+7 10 50 1d1+1 1d1+1
+250 0
+8 8 2
+#24409
+child~
+the child~
+A rambunctious child is here, playing happily.
+~
+   You see a happy child with flowing hair. He runs around this way and that,
+taking in the sights and sounds of Kore.
+~
+8 0 500 S
+3 10 50 1d1+1 1d1+1
+30 0
+8 8 1
+#24410
+peasant~
+the peasant~
+A peasant is here, carrying straw from the fields.
+~
+   You see a hunch-backed peasant. He wears simple peasant garments and
+carries a heavy load of straw on his back. By the ruddy look of him, he must
+be a hardy man, used to working in the fields.
+~
+8 0 500 S
+10 10 50 1d1+1 1d1+1
+150 0
+8 8 1
+#24411
+peasant woman~
+the peasant woman~
+A peasant woman is here, looking at the sights of Kore.
+~
+   You see a grimy woman, with a thin figure and a bloated stomach. She looks
+at you with bleary but hopeful eyes. She must be a peasant from one of the
+surrounding villages at the outskirts of Kore.
+~
+8 0 500 S
+7 10 50 1d1+1 1d1+1
+50 0
+8 8 2
+#24412
+street urchin~
+the street urchin~
+An impoverished street urchin is here, grubbing in the open sewers.
+~
+   You see a grimy icky street child. He picks at something in the open 
+sewer and eats it, then washes his face in the black smelly water. Then he
+looks at you and gives you a snaggly grin.
+~
+8 0 500 S
+3 10 50 1d1+1 1d1+1
+3 0
+8 8 1
+#24413
+drunken rowdy~
+the drunken rowdy~
+A drunken rowdy is here, gleefully swilling beer.
+~
+   You see a happy man with a full stein of beer, swilling his beer and 
+enjoying the festivities. He looks pretty sauced.
+~
+74 0 500 S
+9 10 0 1d1+1 1d1+1
+1500 0
+8 8 1
+#24414
+actor~
+the actor~
+An actor is here, playing a tragic role.
+~
+   You see a happy harlequin bard, acting out a role in a great play. He's
+all dressed in Bardic colors and doing some kind of Morris dance. It's kinda
+wierd but funny and so you can see why the actors are so popular: they get
+you really drunk on expensive beer then entertain you with second-rate juggling
+and by the end of the night, they are rich and you are poor. Same old story,
+getting rich off of other's folly.
+~
+74 0 500 S
+12 10 0 1d1+1 1d1+1
+2500 0
+8 8 1
+#24415
+actress~
+the actress~
+An actress is here, playing a comic role.
+~
+   You see a happy harlequin bard, acting out a role in a great play. He's
+all dressed in Bardic colors and doing some kind of Morris dance. It's kinda
+wierd but funny and so you can see why the actors are so popular: they get
+you really drunk on expensive beer then entertain you with second-rate juggling
+and by the end of the night, they are rich and you are poor. Same old story,
+getting rich off of other's folly.
+~
+74 0 500 S
+10 10 0 1d1+1 1d1+1
+2000 0
+8 8 2
+#24416
+director~
+the director~
+The director is here, worrying that his actors have forgotten their lines.
+~
+   You see a worried director, an aspiring assistant dean to Doss College.
+He really needs this play to be a success, but plays can never be a big enough
+success. The dialogue is kind of tangled and now he realizes how stilted the
+characters are, but the audience is so drunk they aren't laughing at the jokes
+all in all the director is very worried about this play and his own future.
+~
+74 0 500 S
+15 10 0 1d1+1 1d1+1
+7500 0
+8 8 1
+#24417
+fat merchant~
+the fat merchant~
+A fat merchant is here, checking the pulse of business in Kore.
+~
+   You see a richly dressed fat merchant. He scrutinizes everything and really
+looks pretty concerned about how businesses are doing in Kore. He must be an
+Alderman on the city council or something since he's dressed as a merchant
+but not selling anything.
+~
+136 0 900 S
+15 10 0 1d1+1 1d1+1
+15000 50000
+8 8 1
+#24418
+condemned prisoner~
+the condemned prisoner~
+A condemned prisoner is here, chained to a pole.
+~
+   You see a condemned prisoner here. A felon, his punishment is execution
+by passersby. He looks awful: whipped, beaten, blinded by red-hot pokers..
+His crime was to denouce the Tyrant. Clearly an upstart Royalist, he was
+grabbed, put through a mock jury trial and condemned. Won't someone put him
+out of his misery?
+~
+74 1 -1000 S
+5 10 50 1d1+1 1d1+1
+0 100
+2 2 1
+#24419
+banker~
+the banker~
+A banker is here, counting money on a balance book.
+~
+   You see a portly banker, a smiling happy man with fine clothes. He
+studiously counts up a stack of gold coins into a ledger book and tallies them
+as he counts out each set of five. His hands quake with age and the liver
+spots on them are proof of his age but he has probably counted coins since
+he was a young man and as he looks up he smiles and your deposit.
+~
+26698 0 900 S
+53 1 -50 1d1+1 1d1+1
+20000 160000
+8 8 1
+#24420
+guy robert plant~
+Robert Plant~
+A tall long-haired guy with a guitar is standing here.
+~
+A kinda curly blond-haired guy is standing here singing really cool songs.
+Wow, he seems familiar!
+~
+524298 0 900 S
+45 20 -3 1d1+0 1d1+0
+5000 0
+8 8 1 13
+#24421
+mime~
+a mime~
+A mime is here exploring the sides of an invisible box.
+~
+All dressed in black with white facepaint, the mime feels his way around,
+climbing invisible stairs, feeling out the insides of an invisible box and
+peeking over invisible walls.
+~
+72 0 400 S
+10 5 6 1d1+0 1d1+0
+0 0
+8 8 0 13
+#24450
+sewer rat~
+the sewer rat~
+A sewer rat is here, nosing about.
+~
+   You see a really disgustingly fat rat. You have no idea what its been
+feeding on but it looks unnaturally healthy and desperate. Its slick black fur
+is all wet with sewer water and its yellow teeth red with blood. It looks at
+you with its beady black eyes.
+~
+72 0 -250 S
+3 1 75 1d1+1 1d1+1
+0 30
+8 8 1
+#24451
+fat sow pig~
+the pig~
+A big fat sow is here on the loose, nosing for trash to eat.
+~
+   You see a grimy pig, competing with street people for food. Surely it 
+belongs to someone but you just cant be sure who and its hard to say if the
+guards would keep you from claiming its yours. She's a great big sow with a
+lot of meat on her.
+~
+72 0 1000 S
+5 50 75 1d1+1 1d1+1
+0 500
+8 8 2
+#24452
+black fly~
+the black fly~
+A black fly is here, buzzing annoyingly.
+~
+   You see a great big horsefly. All black with a huge body, it must be three
+inches long! You've never seen such a big fly in your life! This fly is a
+major bloodsucker!
+~
+74 0 -500 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#24453
+bulldog dog~
+the bulldog~
+A bulldog is here, yapping excitedly!
+~
+   You see an excited bulldog, running around! He's animated and he wants 
+blood!! He's a strong dog for his size and really mad! His face looks like it
+was crushed in by a cow's hoof and now he's going to take his brain damage
+induced anger out on anything and anyone he finds!
+~
+234 0 0 S
+3 1 75 1d1+1 1d1+1
+0 500
+8 8 1
+#24454
+chicken hen~
+a chicken~
+A chicken is here, clucking and hunting for some grain.
+~
+   You see a fat white chicken. It looks collosally frightened by all the foot
+traffic but too hungry to run away. It pecks anything it finds on the ground,
+hoping to find something tasty, maybe some grain. Mostly it gets kicked out
+of people's way.
+~
+200 0 0 S
+2 1 10 1d1+1 1d1+1
+0 30
+8 8 0
+#24455
+baby chick chicken~
+a baby chick~
+A cute baby chick is here peeping.
+~
+Aww you see a cute yellow chick and it looks so helpless and cute and peeps
+so sweetly.  Innocence, sigh.
+~
+72 0 0 S
+1 0 10 1d1+0 1d1+0
+0 0
+8 8 0
+#24456
+chicken hen small~
+a small chicken~
+A small chicken is here, clucking and hunting for some grain.
+~
+   You see a small white chicken.  It looks collosally frightened by all the
+foot traffic but too hungry to run away. It pecks anything it finds on the
+ground, hoping to find something tasty, maybe some grain. Mostly it gets kicked
+out of people's way.
+~
+200 0 0 S
+2 1 10 1d1+0 1d1+0
+0 25
+8 8 0
+#24457
+rooster chicken~
+a small rooster~
+A small rooster is here looking proud.
+~
+   You see a small rooster that continually runs underfoot.  He crows
+loudly at the slightest insult and picks fights with other roosters and
+hens.  Perfect for the stewpot.
+~
+8 0 0 S
+2 2 10 1d1+0 1d1+0
+0 40
+8 8 1
+#24458
+grand rooster chicken~
+a rooster~
+A grand rooster is here looking very proud of himself.
+~
+   You see a grand rooster strutting proudly.  His black feathers and
+green neck and proud comb belie his beady black eyes.  He struts and kicks
+dirt and pounces on the other chickens he finds.
+~
+8 0 0 S
+3 3 7 1d1+0 1d1+0
+0 60
+8 8 1
+#99999
+$~

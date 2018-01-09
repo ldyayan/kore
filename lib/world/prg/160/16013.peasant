@@ -1,0 +1,19 @@
+>greet_prog 10~
+  if ispc($n)
+    if sex($n) == male
+      say Excuse me sir...
+    else
+      say Excuse me ma'am...
+    endif
+    say Could you tell me where the temple is?
+  endif
+~
+>rand_prog 2~
+  say WOW! This city is amazing!
+  wonder
+~
+>rand_prog 2~
+  say Where'd that damn map go?!?
+~
+|
+

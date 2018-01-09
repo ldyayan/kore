@@ -1,0 +1,96 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      mptrigger $n warrior-advance
+    endif
+  endif
+~
+>fight_prog 10~
+  if level($i) > 9
+    disarm
+  else
+    bash
+  endif
+~
+>fight_prog 20~
+  if level($i) > 39
+    riposte
+  elseif level($i) > 14
+    block
+  else
+    bash
+  endif
+~
+>fight_prog 30~
+  if level($i) > 14
+    berserk
+  else
+    kick
+  endif
+~
+>fight_prog 40~
+  if inroom($r) == here
+    if class($r) == bard
+      bash $r
+    elseif class($r) == warrior
+      disarm $r
+    elseif class($r) == cleric
+      bash $r
+    elseif class($r) == mage
+      bash $r
+    elseif class($r) == thief
+      disarm $r
+    else
+      bash
+    endif
+  endif
+~
+>script_prog warrior-advance~
+  #
+@
+  say So you wish to throw away this mortal life and begin anew.
+@
+  say I have lived a long and happy life, blessed by love and wealth.
+@
+  say I would not give up this life for anything.
+@
+  say I encourage you to reconsider.  Mortals were meant to live one life.
+@
+  say You may of course try to proceed, but you will have to get past me.
+@
+  say I believe it a mistake, and I assure you, I will do my best to prove it to you.
+@
+  say But if you still wish to continue, say 'begin' when you are ready.
+~
+>command_prog initiate~
+  if isscript($i)
+    emote sighs softly at your interruption.
+    mpstopscript
+  endif
+    mpforce combatblocker mpgoto cleaner
+    emote makes a move for his sword that is too quick for your eyes to follow.
+    say This one is not ready.  This one has not learned respect.
+    mpecho You feel the blade slip soundlessly into your chest.
+    wink $n
+    mppos $n dead
+  endif
+  mpstopcommand
+~
+>speech_prog begin~
+  if isscript($i)
+    mpstopscript
+    mpforce combatblocker mpgoto cleaner
+    emote sighs softly at your interruption.
+    emote makes a move for his sword that is too quick for your eyes to follow.
+    say This one is not ready.  This one has not learned respect.
+    mpecho You feel the blade slip soundlessly into your chest.
+    wink $n
+    mpdamage $n 6000
+    mpcallmagic 'word of death' $n
+  else
+    display
+    say Very well then.  Begin when you are ready challenger.
+  endif
+~
+|

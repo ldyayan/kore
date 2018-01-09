@@ -1,0 +1,659 @@
+#6424
+A vast open plain~
+   A vast plain stretches for miles, the dust constantly shifting around
+you.  A pyramid lies to the east and a snow-capped mountain range to the 
+west.
+~
+64 0 2
+D0
+~
+~
+0 0 6429
+D1
+~
+~
+0 0 6425
+S
+#6425
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the east and a snow-capped mountain range to the 
+west.
+~
+64 0 2
+D0
+~
+~
+0 0 6434
+D1
+~
+~
+0 0 6426
+D3
+~
+~
+0 0 6424
+S
+#6426
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the east and a snow-capped mountain range to the
+west.  The hole which you tumbled out of is too high for you to reach.
+~
+64 0 2
+D0
+~
+~
+0 0 6430
+D1
+~
+~
+0 0 6427
+D3
+~
+~
+0 0 6425
+S
+#6427
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the east and a snow-capped mountain range to the
+west.
+~
+64 0 2
+D0
+~
+~
+0 0 6432
+D1
+~
+~
+0 0 6428
+D3
+~
+~
+0 0 6426
+S
+#6428
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north-east and a snow-capped mountain range to
+the west.  You spy a narrow dirt trail leading away to the west into the
+foothills.
+~
+64 0 2
+D0
+~
+~
+0 0 6433
+D3
+~
+~
+0 0 6427
+S
+#6429
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north-east and a snow-capped mountain range to
+the west.
+~
+64 0 2
+D0
+~
+~
+0 0 6434
+D1
+~
+~
+0 0 6430
+D2
+~
+~
+0 0 6424
+S
+#6430
+A Small Oasis~
+   You stand beside a small pool of crystal-blue water bathed in the
+shade of a few scarce palm trees.  To the north you see a small
+encampment stopped for the day.
+~
+64 0 2
+D0
+~
+~
+0 0 6435
+D1
+~
+~
+0 0 6431
+D2
+~
+~
+0 0 6425
+D3
+~
+~
+0 0 6429
+S
+#6431
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the east.
+~
+64 0 2
+D0
+~
+~
+0 0 6436
+D1
+~
+~
+0 0 6432
+D2
+~
+~
+0 0 6426
+D3
+~
+~
+0 0 6430
+S
+#6432
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the east.
+~
+64 0 2
+D0
+~
+~
+0 0 6437
+D1
+~
+~
+0 0 6433
+D2
+~
+~
+0 0 6427
+D3
+~
+~
+0 0 6431
+S
+#6433
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north-east.
+~
+64 0 2
+D0
+~
+~
+0 0 6438
+D2
+~
+~
+0 0 6428
+D3
+~
+~
+0 0 6432
+S
+#6434
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the south-east.
+~
+64 0 2
+D0
+~
+~
+0 0 6439
+D1
+~
+~
+0 0 6435
+D2
+~
+~
+0 0 6429
+S
+#6435
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the east, it looks enormous, even from this distance.
+~
+64 0 2
+D0
+~
+~
+0 0 6440
+D1
+~
+~
+0 0 6436
+D2
+~
+~
+0 0 6430
+D3
+~
+~
+0 0 6434
+S
+#6436
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north-east.
+~
+64 0 2
+D0
+~
+~
+0 0 6441
+D1
+~
+~
+0 0 6437
+D2
+~
+~
+0 0 6431
+D3
+~
+~
+0 0 6435
+S
+#6437
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north-east.
+~
+64 0 2
+D0
+~
+~
+0 0 6442
+D1
+~
+~
+0 0 6438
+D2
+~
+~
+0 0 6432
+D3
+~
+~
+0 0 6436
+S
+#6438
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the south.
+~
+64 0 2
+D0
+~
+~
+0 0 6443
+D2
+~
+~
+0 0 6433
+D3
+~
+~
+0 0 6437
+S
+#6439
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the south.
+~
+64 0 2
+D0
+~
+~
+0 0 6451
+D1
+~
+~
+0 0 6440
+D2
+~
+~
+0 0 6434
+S
+#6440
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  You are standing near a gigantic pyramid located a couple hundred
+meters west of you.  From here you can sense the great evil which resides
+within the massive structure.
+~
+64 0 2
+D0
+~
+~
+0 0 6452
+D1
+~
+~
+0 0 6441
+D2
+~
+~
+0 0 6435
+D3
+~
+~
+0 0 6439
+S
+#6441
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north.
+~
+64 0 2
+D0
+~
+~
+0 0 6453
+D1
+~
+~
+0 0 6442
+D2
+~
+~
+0 0 6436
+D3
+~
+~
+0 0 6440
+S
+#6442
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north.
+~
+64 0 2
+D0
+~
+~
+0 0 6454
+D1
+~
+~
+0 0 6443
+D2
+~
+~
+0 0 6437
+D3
+~
+~
+0 0 6441
+S
+#6443
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north.
+~
+64 0 2
+D0
+~
+~
+0 0 6455
+D2
+~
+~
+0 0 6438
+D3
+~
+~
+0 0 6442
+S
+#6444
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north and a ruined city to the west.
+~
+64 0 2
+D0
+~
+~
+0 0 6429
+D1
+Sand as far as the eye can see.
+~
+~
+0 -1 6455
+S
+#6445
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the south.
+~
+64 0 2
+D0
+~
+~
+0 0 6433
+D1
+~
+~
+0 0 6453
+D2
+~
+~
+0 0 6437
+D3
+~
+~
+0 0 6428
+S
+#6446
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the south-west.
+~
+64 0 2
+D0
+Sand as far as the eye can see.
+~
+~
+0 -1 6438
+D1
+Sand as far as the eye can see.
+~
+~
+0 -1 6447
+D2
+Sand as far as the eye can see.
+~
+~
+0 -1 6447
+D3
+Sand as far as the eye can see.
+~
+~
+0 -1 6439
+S
+#6447
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the west.
+~
+64 0 2
+D0
+Sand as far as the eye can see.
+~
+~
+0 -1 6446
+D1
+Sand as far as the eye can see.
+~
+~
+0 -1 6451
+D2
+Sand as far as the eye can see.
+~
+~
+0 -1 6453
+D3
+Even from here, you can sense a great evil residing within the pyramid
+protruding from the dust to the west.
+~
+~
+0 -1 6440
+S
+#6448
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the west.
+~
+64 0 2
+D0
+Sand as far as the eye can see.
+~
+~
+0 -1 6439
+D1
+Sand as far as the eye can see.
+~
+~
+0 -1 6448
+D2
+Sand as far as the eye can see.
+~
+~
+0 -1 6453
+D3
+Sand as far as the eye can see.
+~
+~
+0 -1 6441
+S
+#6449
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north-west.
+~
+64 0 2
+D0
+Sand as far as the eye can see.
+~
+~
+0 -1 6453
+D1
+Sand as far as the eye can see.
+~
+~
+0 -1 6454
+D3
+Sand as far as the eye can see.
+~
+~
+0 -1 6442
+S
+#6451
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the south-west and a deep canyon to the east.
+~
+64 0 2
+D1
+~
+~
+0 0 6452
+D2
+~
+~
+0 0 6439
+D3
+~
+~
+0 0 205
+S
+#6452
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the south-west and a deep canyon to the east.  Just
+below you can make out a tiny ledge.
+~
+64 0 2
+D1
+~
+~
+0 0 6453
+D2
+~
+~
+0 0 6440
+D3
+~
+~
+0 0 6451
+S
+#6453
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the west and a deep canyon to the east.
+~
+64 0 2
+D0
+~
+~
+0 0 23549
+D1
+~
+~
+0 0 6454
+D2
+~
+~
+0 0 6441
+D3
+~
+~
+0 0 6452
+S
+#6454
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the west and a deep canyon to the east.
+~
+64 0 2
+D1
+~
+~
+0 0 6455
+D2
+~
+~
+0 0 6442
+D3
+~
+~
+0 0 6453
+S
+#6455
+A vast open plain~
+   A vast plain stretches for miles, the dusts constantly shifting around  
+you.  A pyramid lies to the north-west and a deep canyon to the east.
+~
+64 0 2
+D2
+~
+~
+0 0 6443
+D3
+~
+~
+0 0 6454
+S
+#99999
+$~

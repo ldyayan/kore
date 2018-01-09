@@ -1,0 +1,31 @@
+>greet_prog 100~
+  if ispc($n)
+    if inroom($i) == 18481
+      mpecho $I looks up from his plans, his steely face hardens.
+      say Be gone, Namegiver!
+      say The Halfmen need no help from your kind anymore.
+      mpecho $I stands up and grips his hammer tightly.
+    else
+      say Be gone, Namegiver!
+      mpecho $I lets out a deep growl.
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    say Your flesh is weak Namegiver!
+    berserk $r
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    mpechoat $r $I smashes your face in with a huge steel fist!
+    mpechoaround $r $I smashes $R in the face!
+    mpechoat $r ...you feel dizzy....
+    mpechoaround $r $R reels and falls down.
+    mpdamage $r 10d4
+    mppose $r sit
+    laugh $r
+  endif
+~
+|

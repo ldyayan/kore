@@ -1,0 +1,41 @@
+>rand_prog 5~
+  group remus
+~
+>fight_prog 3~
+  emote miscasts a spell!
+  say oops, my bad!
+  mpdamage $r 30
+  mpdrain $r 3d6
+~
+>fight_prog 1~
+  mpecho A Ronin Lord has arrived to help $I!
+  mpmload 8831
+  mpforce 8831 kill $r
+~
+>fight_prog 3~
+  mpechoat $r You slip, scream, and fall of the Eastern Ruby Wall to the geyser!
+  mpechoaround $r $R slips, screams, and falls off the Eastern Ruby Wall to the geyser!
+  mpdamage $r 350
+  mpdrainmove $r 100
+  mptrans $r 8680
+  mppose $r sit
+~
+>fight_prog 3~
+  cast 'call lightning' $r
+~
+>fight_prog 3~
+  cast 'earthquake' $r
+~
+>fight_prog 3~
+  cast 'harm' $r
+~
+>fight_prog 3~
+  cast 'heal' $i
+~
+>fight_prog 3~
+  cast 'dispel good' $r
+~
+>fight_prog 3~
+  cast 'insect plague' $r
+~
+|

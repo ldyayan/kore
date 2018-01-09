@@ -1,0 +1,22 @@
+>greet_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>rand_prog 20~
+  assist monster
+~
+>fight_prog 10~
+   say Welcome to thy doom!
+~
+>fight_prog 15~
+   mpechoat $r $I points a finger at you as a stream of liquid fire STRIKES YOU HARD!
+   mpechoaround $r $I points a finger at $R and a stream of fire SMITING $K!!
+   mpdamage $r 15d7+15
+~
+>death_prog 100~
+   mpecho $I bellows in pain as you banish him from this plane for 100 years!
+   mpgoto cleaner
+~
+|
+

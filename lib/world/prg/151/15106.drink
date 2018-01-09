@@ -1,0 +1,17 @@
+>command_prog drink pool~
+  if race($n) == undead
+    mpechoat $n You must drink blood!
+    mpstopcommand
+  else
+    if rand(20)
+      mpcallmagic 'cure serious' $n
+    else
+      mpcallmagic 'refresh' $n
+      if ispoisoned($n)
+        mpcallmagic 'remove poison' $n
+      endif
+    endif
+  endif
+~
+|
+

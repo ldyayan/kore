@@ -1,0 +1,675 @@
+#26600
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16458 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26601
+warrior aesir~
+an Aesir Warrior~
+The Aesir Warrior regards you with interest.
+~
+   As you look her over, the warrior boldly meets your gaze with her icy blue
+eyes.  Her delicate features are marred by more than a few scars, even so she is still quite attractive.  A hand axe hangs from her belt, her hand rests
+casually on the haft.
+~
+153672 5124 0 S
+15 1 50 1d1+10 1d1+5
+0 20
+8 8 2
+#26602
+berserker~
+Svana's Berserker~
+Svana's Berserker charges in a frenzy and attacks you!!!
+~
+    You are shocked to see that she is utterly naked.  Her long blonde hair
+streams out behind her as she charges you, screaming a battle cry in a
+foreign tongue.  She has no need for weapons or armor, Valkyr has blessed
+her with extraordinary power.  If you weren't so busy defending yourself,
+you would definitely be admiring her lithe figure...
+~
+587898 66984 0 S
+27 1 30 1d1+15 1d1+20
+0 20
+8 8 2
+#26603
+statue svana lady~
+the Statue of Svana~
+the Statue of Svana is here, inspiring her followers.
+~
+You see a finely carved statue of Svana, the legendary patron of warriors.
+She is depicted with bare arms, wearing a winged helm, breastplate, and a long
+flowing white skirt.  A brilliant gold light seems to come from within the 
+statue.  She holds a gigantic spear high over her head.
+~
+256090 79016 750 S
+53 1 -400 1d1+50 1d1+25
+0 20
+8 8 2
+#26604
+man choreboy~
+a man~
+A man hustles down the street, doing his chores.
+~
+   You see a wiry man carrying a bundle of wood on his shoulders.  His short 
+sandy blonde hair hangs to his shoulders, and his long beard is pulled into
+several braids.  You can see his breath as he puffs along, straining under the
+heavy load.  Still, he turns to smile and nod in your direction as he passes.
+~
+16588 0 350 S
+7 1 80 1d1+1 1d1+2
+0 20
+8 8 1
+#26605
+mistress~
+the house mistress~
+The house mistress smiles broadly and welcomes you to her home.
+~
+   The housemistresses demeanor reminds you very much of your mother.  Her 
+graying hair is pulled back in a loose braid, and her expression is warm and
+genuine.  You notice that she's a little plump, but she still moves extremely 
+gracefully as she rises to greet you.  She wears a simple dress, and a ring of 
+keys hang at her waist.
+~
+16458 1024 250 S
+9 1 75 1d1+2 1d1+2
+0 20
+8 8 2
+#26606
+dog wolf~
+a large wolf-like dog~
+A large wolf-like dog is resting here, its' eyes trained on you.
+~
+   You see a large dog that has an uncanny resemblance to a wolf.  Its thick 
+grey fur protects it from the cold, it seems quite comfortable resting outside
+the house.  As you get closer its eerie yellow eyes seem to bore into you, and 
+you barely hear and deep rumbling growl.
+~
+16714 1036 0 S
+8 1 75 1d1+1 1d1+4
+0 4500
+5 5 0
+#26607
+elite watcher guard~
+an Elite Aesir Watcher~
+The Elite Aesir Watcher is here, guarding the entrance to the Hall.
+~
+You see a dummy Monster.~
+190810 5252 400 S
+20 1 25 1d1+4 1d1+1
+0 20
+8 8 2
+#26608
+berserker~
+Svana's Berserker~
+Svana's Berserker charges in a frenzy and attacks you!!!
+~
+   You are shocked to see that she is utterly naked.  Her long blonde hair
+streams out behind her as she charges you, screaming a battle cry in a 
+foreign tongue.  She has no need for weapons or armor, Valkyr has blessed
+her with extraordinary power.  If you weren't so busy defending yourself,
+you would definitely be admiring her lithe figure...
+~
+587898 66984 0 S
+27 1 30 1d1+15 1d1+20
+0 20
+8 8 2
+#26609
+mistress~
+the house mistress~
+The house mistress smiles broadly and welcomes you to her home.
+~
+   The housemistresses demeanor reminds you very much of your mother.  Her 
+graying hair is pulled back in a loose braid, and her expression is warm and
+genuine.  You notice that she's a little plump, but she still moves extremely 
+gracefully as she rises to greet you.  She wears a simple dress, and a ring of 
+keys hang at her waist.
+~
+16458 1024 250 S
+9 1 75 1d1+2 1d1+2
+0 20
+8 8 2
+#26610
+dog wolf~
+a large wolf-like dog~
+A large wolf-like dog is resting here, its' eyes trained on you.
+~
+   You see a large dog that has an uncanny resemblance to a wolf.  Its thick 
+grey fur protects it from the cold, it seems quite comfortable resting outside
+the house.  As you get closer its eerie yellow eyes seem to bore into you, and 
+you barely hear and deep rumbling growl.
+~
+16714 1036 0 S
+8 1 75 1d1+1 1d1+4
+0 4500
+5 5 0
+#26611
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16458 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26612
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16458 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26613
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16458 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26614
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16458 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26615
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16456 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26616
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16456 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26617
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16456 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26618
+watcher aesir~
+the Aesir Watcher~
+An Aesir Watcher stands here, vigilantly searching for signs of danger.
+~
+   You see a young woman, probably in her late teens or early twenties.  Her 
+long pale blonde hair is pulled in to two neat braids.  She is wearing a bronze
+breastplate etched with a winged dragon, and a short flowing white skirt.  Don't
+let her age and appearance fool you, she seems quite competent with her spear.
+~
+16456 1024 350 S
+11 1 20 1d1+3 1d1+3
+0 20
+8 8 2
+#26619
+warrior aesir~
+an Aesir Warrior~
+The Aesir Warrior regards you with interest.
+~
+   As you look her over, the warrior boldly meets your gaze with her icy blue
+eyes.  Her delicate features are marred by more than a few scars, even so she is still quite attractive.  A hand axe hangs from her belt, her hand rests
+casually on the haft.
+~
+153672 5124 0 S
+15 1 50 1d1+10 1d1+5
+0 20
+8 8 2
+#26620
+warrior aesir~
+an Aesir Warrior~
+The Aesir Warrior regards you with interest.
+~
+   As you look her over, the warrior boldly meets your gaze with her icy blue
+eyes.  Her delicate features are marred by more than a few scars, even so she is still quite attractive.  A hand axe hangs from her belt, her hand rests
+casually on the haft.
+~
+153672 5124 0 S
+15 1 50 1d1+10 1d1+5
+0 20
+8 8 2
+#26621
+warrior aesir~
+an Aesir Warrior~
+The Aesir Warrior regards you with interest.
+~
+   As you look her over, the warrior boldly meets your gaze with her icy blue
+eyes.  Her delicate features are marred by more than a few scars, even so she is still quite attractive.  A hand axe hangs from her belt, her hand rests
+casually on the haft.
+~
+153672 5124 0 S
+15 1 50 1d1+10 1d1+5
+0 20
+8 8 2
+#26622
+warrior aesir~
+an Aesir Warrior~
+The Aesir Warrior regards you with interest.
+~
+   As you look her over, the warrior boldly meets your gaze with her icy blue
+eyes.  Her delicate features are marred by more than a few scars, even so she is still quite attractive.  A hand axe hangs from her belt, her hand rests
+casually on the haft.
+~
+153672 5124 0 S
+15 1 50 1d1+10 1d1+5
+0 20
+8 8 2
+#26623
+warrior aesir~
+an Aesir Warrior~
+The Aesir Warrior regards you with interest.
+~
+   As you look her over, the warrior boldly meets your gaze with her icy blue
+eyes.  Her delicate features are marred by more than a few scars, even so she is still quite attractive.  A hand axe hangs from her belt, her hand rests
+casually on the haft.
+~
+153672 5124 0 S
+15 1 50 1d1+10 1d1+5
+0 20
+8 8 2
+#26624
+man choreboy~
+a man~
+A man hustles down the street, doing his chores.
+~
+   You see a wiry man carrying a bundle of wood on his shoulders.  His short 
+sandy blonde hair hangs to his shoulders, and his long beard is pulled into
+several braids.  You can see his breath as he puffs along, straining under the
+heavy load.  Still, he turns to smile and nod in your direction as he passes.
+~
+16588 0 350 S
+7 1 80 1d1+1 1d1+2
+15 20
+8 8 1
+#26625
+man choreboy~
+a man~
+A man hustles down the street, doing his chores.
+~
+   You see a wiry man carrying a bundle of wood on his shoulders.  His short 
+sandy blonde hair hangs to his shoulders, and his long beard is pulled into
+several braids.  You can see his breath as he puffs along, straining under the
+heavy load.  Still, he turns to smile and nod in your direction as he passes.
+~
+16588 0 350 S
+7 1 80 1d1+1 1d1+2
+15 20
+8 8 1
+#26626
+elite aesir watcher~
+the Aesir Elite Watcher~
+The Aesir Elite Watcher is here, guarding the Great Hall.
+~
+   You see a powerful looking middle-aged woman.  She never changes her gaze,
+or moves a muscle as you approach, but you are quite sure she knows exactly
+where you are.  She is wearing an extremely ornate golden breastplate, a
+winged helm, and an ankle length white skirt.
+~
+59466 70792 400 S
+32 1 -20 1d1+12 1d1+1
+15 20
+8 8 2
+#26627
+jarl sigyn aesir QQQQQ~
+Sigyn, the Jarl of Aesir~
+Sigyn, the Jarl of Aesir, demands to know what your business is.
+~
+    You see a formidable woman that reminds you somewhat of the pictures you
+have seen of Valkyr. There is no way to tell her age, she looks neither young
+nor old. Her long blonde hair hangs down to her waist. As she looks up at you
+you catch a glimpse of her unnaturally pale blue eyes. She has a stern
+expression on her face, and she looks quite unhappy that you barged in
+without an appointment.
+~
+720206 70828 500 S
+53 1 -100 1d1+20 1d1+1
+0 20
+8 8 2
+#26628
+raven giant munin~
+the giant raven Munin~
+Munin the giant raven is here whispering in the Jarl's ear.
+~
+   You see a gigantic raven, he is almost as tall as the Jarl.  He serves as
+her spy, flying over the land gathering information.  His feathers are a rich
+glossy black, and his beak looks very sharp.  He turns to regard you with
+his small beady eyes.
+~
+751690 525484 400 S
+35 1 10 1d1+1 1d1+25
+0 20
+8 8 1
+#26629
+asegier elder~
+the Asegier~
+The Asegier, elder of Aesir, is here going over some notes.
+~
+   You see a very old man, his hair and beard are pure white.  He has a very
+gentle demeanor, he smiles as you enter and asks you to sit.  He gets up to
+offer you a drink, and you notice that he seems very agile for a man of his
+age.  He is neatly dressed in white robes, which he somehow manages to keep
+clean even with the ink smudges on his hands and fingers.  He is rumored to
+be the oldest person in Aesir, no one is sure how old he really is.
+~
+190538 1086636 800 S
+35 1 -30 1d1+1 1d1+10
+0 20
+8 8 1
+#26630
+wolf fijir fenris~
+Fijir Wolf~
+The famed Fijir Wolf is lying here, bound by a magical cord.
+~
+   You see an enormous wolf, he is larger than you even imagined.  With every
+breath he blows your hair back from your face.  His thick shaggy coat is 
+gorgeous, it picks up and reflects the light as he moves.  He lifts his 
+massive head to regard you, his eyes possess a great intelligence.  To
+your suprise, he politely asks you to loosen his bonds a bit, so he can 
+better entertain you as his 'guest'.  He pulls his lips back in a wolfish
+grin that reveals razor sharp fangs about as long as your arm.  Maybe it 
+is time for you to politely excuse yourself, and run away as fast as your
+legs will carry you...
+~
+780382 4293804 0 S
+53 1 -500 1d1+150 1d1+40
+0 20
+5 5 1
+#26631
+child~
+a small child~
+A small child is running around playing games.
+~
+   You see a small fair haired child wearing a wooden play axe.  She shouts
+what is supposed to be a battle cry, although its rather pitiful, as she runs
+past you.
+~
+16524 0 350 S
+3 1 80 1d1+1 1d1+1
+0 20
+8 8 2
+#26632
+child~
+a small child~
+A small child is running around playing games.
+~
+   You see a small fair haired child wearing a wooden play axe.  She shouts
+what is supposed to be a battle cry, although its rather pitiful, as she runs
+past you.
+~
+16524 0 350 S
+3 1 80 1d1+1 1d1+1
+0 20
+8 8 2
+#26633
+goat~
+a spotted goat~
+A spotted goat meanders around searching for scraps.
+~
+   You see a small goat, probably used for milk.  It is chewing on a fabric
+scrap right now, and eyeing your clothing with a hungry stare.
+~
+16520 0 100 S
+4 1 75 1d1+1 1d1+1
+0 20
+8 8 0
+#26634
+goat~
+a spotted goat~
+A spotted goat meanders around searching for scraps.
+~
+   You see a small goat, probably used for milk.  It is chewing on a fabric
+scrap right now, and eyeing your clothing with a hungry stare.
+~
+16520 0 100 S
+4 1 75 1d1+1 1d1+1
+0 20
+8 8 0
+#26635
+adventurer weary~
+the weary adventurer~
+An adventurer is resting here after a long day's travel.
+~
+   You notice that he looks very similar to you, dressed in adventurer's garb
+and definitely an outsider.  He has a small broadsword tucked in his belt, and
+a large walking staff.  He can barely stay awake, his head is nodding and you
+notice a tiny string of drool hanging from his lower lip.
+~
+16458 1024 0 S
+10 1 50 1d1+30 1d1+1
+0 20
+8 8 1
+#26636
+adventurer weary~
+the weary adventurer~
+An adventurer is resting here after a long day's travel.
+~
+   You notice that he looks very similar to you, dressed in adventurer's garb
+and definitely an outsider.  He has a small broadsword tucked in his belt, and
+a large walking staff.  He can barely stay awake, his head is nodding and you
+notice a tiny string of drool hanging from his lower lip.
+~
+16458 1024 0 S
+10 1 50 1d1+30 1d1+1
+0 20
+8 8 1
+#26637
+reindeer fat~
+a reindeer~
+A fat reindeer grazes contentedly on the dry grasses.
+~
+   This reindeer is in excellent shape.  Its coat is shiny, and it has quite a
+belly.  It is far too busy eating to notice your presence.  The Aesir take 
+very good care of their stock animals.
+~
+16520 0 20 S
+6 1 75 1d1+1 1d1+1
+0 20
+8 8 0
+#26638
+reindeer fat~
+a reindeer~
+A fat reindeer grazes contentedly on the dry grasses.
+~
+   This reindeer is in excellent shape.  Its coat is shiny, and it has quite a
+belly.  It is far too busy eating to notice your presence.  The Aesir take 
+very good care of their stock animals.
+~
+16520 0 20 S
+6 1 75 1d1+1 1d1+1
+0 20
+8 8 0
+#26639
+reindeer fat~
+a reindeer~
+A fat reindeer grazes contentedly on the dry grasses.
+~
+   This reindeer is in excellent shape.  Its coat is shiny, and it has quite a
+belly.  It is far too busy eating to notice your presence.  The Aesir take 
+very good care of their stock animals.
+~
+16520 0 20 S
+6 1 75 1d1+1 1d1+1
+0 20
+8 8 0
+#26640
+reindeer fat~
+a reindeer~
+A fat reindeer grazes contentedly on the dry grasses.
+~
+   This reindeer is in excellent shape.  Its coat is shiny, and it has quite a
+belly.  It is far too busy eating to notice your presence.  The Aesir take 
+very good care of their stock animals.
+~
+16520 0 20 S
+6 1 75 1d1+1 1d1+1
+0 20
+8 8 0
+#26641
+skadi shopkeeper~
+Skadi~
+Skadi the shopkeeper is here stocking her shelves.
+~
+   Skadi stands well over six feet tall, she is tall even for an Aesir.  She
+wears a heavy apron over her white dress, and she has a thin sheen of 
+perspiration on her forehead.  Her long pale blonde hair is pulled back in
+a frazzled braid, and she is constantly pushing stray wisps of hair back 
+behind her ears.  She smiles as you enter, and asks what she can get for you.
+~
+1040474 66696 400 S
+55 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#26642
+minstrel bjorndal bard bragi~
+Bjorndal~
+A minstrel is sitting on a stool in the back corner, humming a tune.
+~
+   You see a young minstrel with shoulder length golden hair and fair skin.
+His face is perfectly chiseled, and he gets more than a few looks from the
+female patrons.  He is humming softly, you find it odd that he has no
+instrument.
+~
+745562 5312680 999 S
+59 1 -999 1d1+1 1d1+50
+0 20
+8 8 1
+#26643
+wolf spectral~
+a spectral wolf~
+A spectral wolf is staring at you with smoldering red eyes.
+~
+  You can only see it if you squint your eyes, it looks like a wolf spirit.
+It shifts from slighly visible to completely invisible, making it impossible
+to follow it's movements.  The only time you get a good fix on its 
+location is when it looks directly at you, and you see it's deep red eyes.
+~
+587850 69640 200 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#26644
+skymere watcher~
+Skymere the Watcher~
+Skymere the Watcher is here, her agile hands on the haft of her axe.
+~
+ Skymere is the Watcher of the Great Hall. A life long servant of the Jarl,
+Skymere was born into servitude, as her mother was the Jarl's previous
+Watcher. Skymere stands about six feet tall, her long golden hair runs down
+her back in two fine braids. Her skin is so smooth and fine, it makes you
+think that there is no way this woman has ever seen battle. A coat of wolf
+fur covers a fine suit of dwarven chainmail. Her hands both rest upon a large
+axe that she wears on her belt. She follows your every move carefully, for
+she is the Watcher.
+~
+702792 102572 400 S
+45 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#26645
+receptionist woman~
+the receptionist~
+A pretty young woman with striking blue eyes sits here folding linens.
+~
+   This pretty thing is probably in her late teens or early twenties.  She has
+a pale blue skirt on, and high laced leather boots.  Her hair is long and 
+so blonde that it looks almost unnatural.  She gives you a short smile and looks
+up at you quickly with her gorgeous blue eyes.
+~
+2621450 0 0 S
+55 20 10 1d1+0 1d1+50
+0 0
+6 6 2
+#26646
+asleif protector casting~
+a casting of Asleif the Protector~
+A lifelike casting of the legendary hero Asleif stands here.
+~
+   This statue is almost as finely carved as the one of the deity Svana.
+Asleif stands next to Svana, with her staff in hand.  Standing a little over
+six feet in height, Asleif was known as a protector and healer of the
+warriors of Aesir.  It is rumored that she could wade through the thick of a
+battle and remained untouched.
+~
+2865162 0 375 S
+55 -30 10 1d1+0 5d10+50
+0 0
+8 8 2 9
+#26647
+thyre sculpture bard~
+a sculpture of Thyre~
+A sculpture of Thyre stands here, her beauty is almost overwhelming.
+~
+Thyre was brought into Aesir as a child.  She had supposedly been raised by
+the animals in the surrounding forests.  While she could not speak at all, her
+singing voice made the birds envious and her ability to play the lyre was 
+unmatched. During the Minotaur wars, Thyre joined the Aesirian army as a
+musician.  It is legend that her inspiring songs led the small army to overcome
+incredible odds and regain all that had been lost to the horned ones.
+~
+19642378 0 400 S
+55 -30 10 1d1+0 10d10+50
+0 0
+8 8 2 13
+#99999
+$~

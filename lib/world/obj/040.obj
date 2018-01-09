@@ -1,0 +1,287 @@
+#4000
+ring yellow green~
+a ^yyellow^n and ^ggreen^n ring~
+A small ring of ^yyellow^n and ^ggreen^n lies on the floor.~
+~
+9 65672 3
+2 0 0 0
+1 0 1
+E
+ring yellow green~
+   Upon closer inspection this ring is made from two interwoven
+strands of a yellow and green material, one which you have never
+seen before. Each bands seems to be the body of a snake with 
+visible scales yet continuous. As you hold the ring in your hand
+you feel as though some sort of bond has formed between the two.
+~
+A
+1 1
+A
+5 -2
+#4001
+corpse goblin~
+a goblin's corpse~
+A goblin corpse roots here.~
+~
+15 0 1
+50 1 -1 0
+20 0 500
+#4002
+coins~
+a small pile of coins~
+A small pile of coins is here.~
+~
+20 0 1
+700 0 0 0
+0 0 0
+E
+corpse~
+Some small bones and bits of flesh are all that remain
+of this hobgoblin. You think to yourself that it was
+as much a victim of natural selection as it was the snake.
+~
+#4003
+shit feces rat~
+a pile of rat feces~
+A smoking pile of warm rat feces oozes on the floor.~
+~
+10 0 16401
+0 0 0 0
+0 0 0
+#4004
+tooth sabre~
+a sabre tooth~
+A large lion tooth gleams in the sunlight.~
+~
+12 0 16385
+0 0 0 0
+0 0 0
+E
+tooth sabre~
+   A large tooth from a lion, you think it might be useful as a 
+weapon in combat. The tip of the tooth is razor sharp and must
+have served its purpose well. Luckily you where observing this
+tooth while it is no longer attached.
+~
+A
+19 2
+A
+18 1
+#4005
+tough leather helmet~
+a tough leather helmet~
+An old and batter leather helmet waits to be worn.~
+~
+9 0 17
+8 0 0 0
+8 0 0
+E
+leather helmet~
+  A small leather helmet, it has been worn down by many years of
+hard use. It seems to have seen several harsh battles as the leather
+is scraped and scarred in certain areas. However even with all its
+damage it still looks very useable.
+~
+A
+1 1
+A
+5 1
+#4006
+ring iron~
+a small iron ring~
+A small iron ring.~
+~
+11 32 3
+0 0 0 0
+2 200 0
+A
+5 2
+#4007
+Bag~
+a small embroidered bag~
+A small black bag with purple embroider lies here.~
+~
+15 32 16385
+20 1 -1 0
+2 0 0
+E
+embroidered bag~
+  A small black bag, it is embroidered with deep purple in
+patterns of interweving images of air and water. The bag is
+quite soft and would probably carry very delicate items.
+The workmanship is very fine and you consider how much this
+bag would fetch in the markets of Kore.
+~
+#4008
+black vial fluid~
+a vial of black fluid~
+A small vial of jet black fluid sits here.~
+~
+10 0 1
+40 58 115 0
+0 5000 0
+E
+black fluid~
+   You have heard stories of powerful sorcerers using thier
+life force to split their own image in combat. Supposedly
+this great spell was taken and make into a potion using
+ingredients from all corners of the known world. This does
+seem to be one of those potions but there is only one
+way to find out...
+~
+#4009
+Beaker fluid black o4009~
+a beaker of black fluid~
+A small beeker filled with black fluid.~
+~
+10 0 1
+20 63 43 0
+2 700 0 500
+#4010
+small bent key~
+a small bent key~
+A small key that is slightly bent.~
+~
+18 0 1
+0 0 0 0
+4 0 0
+#4011
+chest wooden~
+a large wooden chest~
+A large battered wooden chest is here.~
+2343
+~
+15 0 1
+120 5 -1 0
+500 10 0
+E
+chest~
+  A huge wooden chest rests on the floor of the
+cave. The wood has several stained runes carved into the
+front side while the remaining sides are bare. A large
+metal lock rests broken on the latch of the chest. 
+~
+#4012
+coins~
+a small pile of coins~
+A small pile of coins is here.~
+~
+20 0 1
+500 0 0 0
+0 0 0
+#4013
+hammer clay o4013~
+a small clay hammer~
+A small clay hammer the size of your palm~
+~
+3 1048576 16385
+50 1 1 56
+3 700 0 350
+#4014
+jar o4014~
+a seemingly empty jar~
+A small glass jar that looks empty.~
+~
+10 0 1
+50 27 109 0
+3 4000 0 175
+#4015
+beaker red o4015~
+a beaker of red fluid~
+A beaker of ^Rred^n fluid.~
+~
+10 0 1
+50 3 0 0
+3 1500 0 400
+#4050
+potion purple~
+a ^Mpurple^n potion~
+A ^Mpurple^n potion is here.~
+~
+10 65537 16385
+25 36 14 33
+1 2500 250 800
+E
+potion purple~
+   A small purple colored potion in a spiral shaped
+vial emits a soft glow. Legend speaks of how the hobgoblin
+slaves used ancient magic to protect themselves from the
+harsh conditions in these caves. Hobgoblin shamans created
+these potions in mass quantities thousands of years ago
+but only a few remain today.
+~
+#4051
+helmet metal~
+a metal helmet~
+A large, dented iron helmet rests on the floor.~
+~
+9 64 17
+5 0 0 0
+6 1000 0
+E
+helmet metal~
+A small iron helmet, it looks very ordinary.  However you look
+on the inner side of the crown and you see some ancient runes
+leading you to believe that this helmet may be magical.
+~
+A
+2 -2
+A
+24 3
+A
+13 3
+#4052
+mushroom~
+a mushroom~
+A small mushroom is here.~
+~
+19 0 16385
+5 0 0 1
+1 9 3
+E
+mushroom~
+   As a child you where taught not to eat strange mushrooms
+that you found in the forest. Thinking back you decide that
+that was probably good advice. The mushroom is grey except
+for a deep red color underneath the broad cap. You have
+heard that some mushrooms can cause a sense of euphoria and
+cause hallucinations, but you have never seen any of those.
+~
+#4053
+dirk~
+a thieves' dirk~
+A beautifully crafted dirk is lying here.~
+~
+5 8630848 8193
+4 3 3 14
+5 850 500
+E
+dirk~
+It is a medium sized, beautifully crafted dirk made from some greyish alloy.
+Its blade is double-edged and very thin... this looks like a good thieves'
+weapon.
+~
+A
+18 1
+A
+19 1
+S
+33 10 3
+#4054
+potion verm ver vermillion 4054~
+a vermillion potion~
+A vermillion potion has been left here.~
+~
+10 65537 1
+45 64 0 0
+3 1 0 900
+#4099
+vial crack~
+a vial of crack~
+A half full vial of high-quality crack.~
+~
+10 0 1
+50 64 81 39
+0 0 0
+#99999
+$~

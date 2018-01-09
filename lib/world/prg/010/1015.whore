@@ -1,0 +1,68 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    say Praise!! My creator Zirnozz has arrived!
+  endif
+~
+>command_prog look wh~
+  if sex($n) == male
+    if ismemory($n)
+      say Relax, $N. You're making me nervous...
+    else
+      say See anything you like?
+      mpremember $n
+    endif
+  else
+    if ismemory($n)
+      slap $n
+      say I TOLD you to mind your own business, you bitch!
+    else
+      say Don't look at me, tramp!
+      mpremember $n
+    endif
+  endif
+~
+>rand_prog 3~
+  if inroom($r) == here
+    if ismemory($r)
+      if sex($r) == male
+        if rand(50)
+          whisper $r Are you just going to stand there then?
+        else
+          whisper $r Come on, you're starting to bore me.
+        endif
+      else
+        say You should've left when you had the chance, girl...
+        mpkill $r
+      endif
+    else
+      roll $r
+    endif
+  endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+    if isfight($r)
+      shout Someone help! $R is assaulting me!
+    endif
+  endif
+~
+>fight_prog 6~
+  if inroom($r) == here
+    if isfight($r)
+      if ismemory($r)
+        if sex($r) == female
+          say DIE YOU ANNOYING HUSSY!!!
+          bash $r
+          mpforget $r
+        else
+          tell $r I thought you LIKED me?!
+          mpforget $r
+        endif
+      else
+        say Leave me alone! I don't want to fight!
+      endif
+    endif
+  endif
+~
+|
+

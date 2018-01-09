@@ -1,0 +1,15 @@
+>rand_prog 2~
+  if inroom($i) == 16166
+    mpecho $I wipes a glass and puts it under the counter.
+  endif
+~
+>greet_prog 50~
+  if ispc($n)
+    say What you want?
+    say Let me guess, a shot of rum right?
+    say Well... thanks to the guards we're all out of rum.
+    say Got some water in the back though, and it's almost as bad as the rum!
+  endif
+~
+|
+

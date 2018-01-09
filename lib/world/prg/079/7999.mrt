@@ -1,0 +1,51 @@
+>fight_prog 15~
+  if inroom($r) == here
+    say You be crazier than Murdoch, fool!
+    mpechoaround $r Mr. T grabs $R and gives $K a ferocious bearhug!
+    mpechoat $r Mr. T lunges towards you and places you in a bearhug!
+    mpdamage $r 120
+    mpechoaround $r $R collapses to the floor in a tidy heap.
+    mpechoat $r As he lets go, the world goes black..
+    mppose $r sleep
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    emote lets out a high-pitched whistle, and a grey 1982 GMC conversion van comes out of nowhere!
+    say My van is helluva fast, fools!
+    mpechoaround $r The GMC van careens into $R, sending him flying!
+    mpechoat $r As the giant van barrels down on you, one thought crosses your mind:  Mommy.
+    mpdamage $r 200
+    mppose $r stun
+    mptrans $r nearby
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    say It's time to fly, sucka fool!
+    mpechoaround $r Mr. T snags $R by the face, winds up, and tosses $K skyward!
+    mpechoat $r Oh no!  You smell Mr. T's sweaty palm as he whips your body around like a ragdoll, then suddenly you're airborn!
+    mptrans $r 3001
+    mpat $r mpechoaround $r Faint screaming grows louder as $R plummets to the earth!  SLAM!!!
+    mpat $r mpechoat $r You shit your pants as you see yourself plummeting toward Kore.. AHHHHHHH!!!
+  endif
+~
+>rand_prog 4~
+  mpasound You hear the faint jingling of chains from nearby.
+~
+>kill_prog 15~
+  gossip You betta drink summo milk, fool!
+~
+>kill_prog 20~
+  gossip Quit yo jibba-jabba $R, it's T's turn to talk!
+~
+>kill_prog 35~
+  gossip Yo fool, I'm helluva tough!  Come on back after you works out at tha YMCA!
+~
+>kill_prog 40~
+  gossip Damn, them gold chains is GOOD!!!!
+~
+>kill_prog 55~
+  gossip Hey $R!  Donchu wish you had a helluva fast 1982 GMC conversion van too?
+~
+|

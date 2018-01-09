@@ -1,0 +1,9 @@
+>greet_prog 100~
+  if hasworn($n) == 3431
+    say Ah! You are brave!
+    say I will not stop you...
+    unlock door
+    open door
+  endif
+~
+|

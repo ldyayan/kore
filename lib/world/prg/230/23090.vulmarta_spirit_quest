@@ -1,0 +1,7 @@
+>command_prog kill~
+  mpecho Within your mind a voice speaks out...
+  mpecho No please...
+  mpstopcommand
+~
+|
+

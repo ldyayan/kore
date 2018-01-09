@@ -1,0 +1,98 @@
+#123
+The Mining City of Derlin~
+12399 40 1 35
+O 0 12333   101 12311            a large granite fountain
+M 0 12308     8 12311            a Derlin cityguard
+E 1 12310    14    16                    wield a gold and steel compound axe
+E 1 12334    35     0                    light a gold lantern
+E 1 12323   100    17                    held a large gold brick
+M 0 12312     6 12311            a young peasant boy
+E 1 12322   100    17                    held a small gold brick
+D 0 12372     3     2            Before the Gates of the Mine door west
+M 0 12315     1 12372            Crix, the guard of the mine
+E 1 12341   101    19                    wield 2 a thrikreen claw
+E 1 12341   101    16                    wield a thrikreen claw
+E 1 12335     3    17                    held a fine steel and gold key
+E 1 12309    40    17                    held a ^Ygold^n and steel dagger
+G 1 12323   101    -1                    give a large gold brick
+O 0 12343   100 12372            a large wagon
+O 0 12304     1 12380            a massive chunk of gold
+M 0 12317     4 12380            a miner
+M 0 12318     5 12380            a large thrikreen miner
+O 0 12342   100 12371            a large wagon
+M 0 12314     1 12382            the blast furnace loader
+E 1 12320   101    16                    wield a shovel
+E 1 12307   101    17                    held a small key
+G 1 12323   100    -1                    give a large gold brick
+E 1 12308     4     0                    light a hot chunk of coal
+O 0 12305   101 12381            the blast furnace
+M 0 12322     2 12381            a gold pourer
+E 1 12306    70    17                    held a gold pouring pail
+M 0 12316     5 12351            a serving girl
+O 1 12322   100 12351            a small gold brick
+D 0 12308     1     1            The Main Gates of Derlin door east
+M 0 12309     2 12308            a city of Derlin gateguard
+E 1 12310    14    16                    wield a gold and steel compound axe
+E 1 12323    23    17                    held a large gold brick
+D 0 12309     3     1            Inside the Main Gates of Derlin door west
+M 0 12308     8 12309            a Derlin cityguard
+E 1 12310    14    16                    wield a gold and steel compound axe
+E 1 12334    70     0                    light a gold lantern
+E 1 12323    23    17                    held a large gold brick
+M 0 12308     8 12348            a Derlin cityguard
+E 1 12310    14    16                    wield a gold and steel compound axe
+E 1 12334    70     0                    light a gold lantern
+E 1 12323    23    17                    held a large gold brick
+M 0 12308     8 12360            a Derlin cityguard
+E 1 12310    14    16                    wield a gold and steel compound axe
+E 1 12334    70     0                    light a gold lantern
+E 1 12323    23    17                    held a large gold brick
+M 0 16035     2 12325            the banker
+O 0 16051   100 12325            an evil money changer
+M 0 16032     2 12317            the receptionist
+M 0 12312     8 12356            a young peasant boy
+M 0 12310     5 12361            a dwarven miner
+M 0 12313     1 12340            a large ox and cart
+M 0 12316     6 12313            a serving girl
+M 0 12310     4 12310            a dwarven miner
+M 0 12313     3 12310            a large ox and cart
+O 0 12303   101 12379            a large lever
+M 0 12317     4 12379            a miner
+E 1 12321    50    17                    held a large miners pick
+M 0 12318     5 12379            a large thrikreen miner
+O 0 12329   101 12327            a large vial of liquid silicon
+O 0 12330   101 12327            a large vial of dragons blood
+O 0 12331   101 12327            a small yellow vial
+O 0 12318   101 12327            a vial of bubbling black liquid
+O 0 12336   101 12327            a black pill
+M 0 12321     1 12384            a cleric
+O 0  3096   101 12385            a social bulletin board
+M 0 12320     4 12374            a resting miner
+M 0 12319     6 12376            a puller ox
+D 0 12373     1     2            Within the Confines of the Mine door east
+O 0 12302   101 12378            a large lever
+O 0 12301   101 12377            a large lever
+O 0 12300   101 12375            a large lever
+O 0 12319   101 12383            the lift platform
+O 0 12312   101 12323            a large compound bow
+O 0 12313   101 12323            a large set of bolo balls
+O 0 12314   101 12329            a staff of vulnerability
+O 0 12315   101 12329            a scroll of color
+O 0 12317   101 12329            a scroll of identify
+M 0 12306     1 12328            the wizard, Neva
+M 0 12305     1 12326            Jan, the apothecary
+O 0 12310   101 12321            a gold and steel compound axe
+O 0 12311   101 12321            a gold and steel compound broadsword
+O 0 12332   101 12321            a gold and titanium compound shield
+M 0 12304     1 12320            Screed the blacksmith
+M 0 12303     1 12318            Markus the clothier
+O 0 12324   101 12319            a long flowing black cloak
+O 0 12325   101 12319            a leather jacket
+M 0 12301     1 12324            an exchange teller
+M 0 12300     1 12315            Karride the barkeep
+O 0 12326   101 12316            a bowl of chicken stew
+O 0 12327   101 12316            a loaf of waybread
+O 0 12328   101 12316            a large mug of warm coffee
+S
+#99999
+$~

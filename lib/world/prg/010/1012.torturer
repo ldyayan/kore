@@ -1,0 +1,44 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    bow zirnozz
+  else
+    peer $n
+  endif
+~
+>fight_prog 19~
+  if inroom($r) == here
+    mpechoaround $r $I hits $R with tremendous backhand!
+    mpechoat $r Your head cracks back as $I SLAMS a colossal backhand into you!
+    mpdamage $r 14d8+7
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if hasworn($i) == 1015
+      mpechoaround $r $I darts forward and drives a meat hook into $R's side!
+      mpechoaround $r $R's blood gushes out to the ground. YECH.
+      mpechoat $r $I burrows a hole into your side with his barbed hook!
+      mpforce $r scream
+      mpdamage $r 11d14
+    endif
+  endif
+~
+>fight_prog 21~
+  if inroom($r) == here
+    if hasworn($i) == 1007
+      mpechoaround $r $I rakes a pair of steel pincers down the chest of $R!
+      mpechoat $r $I rakes your skin with a pair of sharp steel pincers!
+      mpdamage $r 12d12
+    endif
+  endif
+~
+>kill_prog 40~
+  emote roars, 'Don't die yet $N, you haven't even begun to feel pain!'
+~
+>kill_prog 50~
+  say Hrmph, at least give me something to remember you by...
+  take all corpse
+  cackle
+~
+|
+

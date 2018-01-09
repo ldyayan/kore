@@ -1,0 +1,521 @@
+#10800
+lava lamp~
+a lava lamp~
+A lava lamp pulsates and bubbles on the desk.~
+~
+27 0 1
+16123 6 0 0
+0 0 0
+#10801
+vial cyanide~
+a vial of cyanide~
+A vial of cyanide lies here.~
+~
+10 0 1
+60 72 72 72
+0 0 0
+#10802
+pill recall rolaid~
+a Rolaid~
+A small white pill, covered in dust, lies on the ground.~
+~
+25 0 1
+50 42 0 0
+0 0 0
+#10806
+portal~
+a darkly glowing portal~
+A darkly glowing portal hovers here, fading out of existance.~
+~
+12 2 0
+0 0 0 0
+0 0 0 1
+E
+portal~
+Peering through the portal, you can vaguely make out the outline of a
+balcony, and a cloaked figure standing in a pentacle made of candles. You
+prod the portal, but meet resistance - you cannot pass through.
+~
+#10807
+white candle 10807~
+a bright white candle~
+A bright white candle, sheathed in flame, burns brightly.~
+~
+1 0 0
+0 0 0 0
+0 0 0
+#10808
+brown candle 10808~
+a brown candle~
+A brown candle, glowing with an unholy light, sits at one vertex.~
+~
+1 0 0
+0 0 0 0
+0 0 0
+#10809
+green candle 10809~
+a dark green candle~
+A dark green candle defines a point of the pentacle.~
+~
+1 0 0
+0 0 0 0
+0 0 0
+#10810
+candle black 10810~
+a black candle~
+A black candle stands on the north corner of the pentacle.~
+~
+1 0 0
+0 0 0 0
+0 0 0
+#10811
+candle red 10811~
+a red candle~
+A red candle sits half-melted into the stone floor.~
+~
+1 0 0
+0 0 0 0
+0 0 0
+#10812
+roll heroes~
+the Roll of Heroes~
+The Roll of Heroes hangs here on the victory wall!~
+Week 1: The Initiation was won by the mighty Rufus!
+Week 2: Calis the Callous ruled the scene with double the kills of
+his nearest rival!
+Week 3: Hampo overcame severe vision problems and claimed victory
+while others stumbled about!
+Week 4: Rufus dominated the arena yet again!
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+roll heroes~
+This massive plaque lists the victors of the traditional sword and staff melee's
+that are held regularly in the arena of Kore. The heroes gather and test their
+mettle, and skill, not strength, decides the battle.
+     1. Week 1-3 Results
+     2. Week 4-6 Results
+~
+E
+1~
+Week 1: The Initiation was won by the mighty Rufus!
+Week 2: Calis the Callous ruled the scene with double the kills of
+        his nearest rival!
+Week 3: Hampo overcame severe vision problems and claimed victory
+~
+E
+2~
+Week 4: Rufus dominated the arena in a repeat performance!
+~
+#10813
+head xenophobe flaming pike skull~
+the skull of Xenophobe~
+The skull of Xenophobe hangs, impaled on a flaming spike.~
+Let this be a warning to all!
+~
+0 0 0
+0 0 0 0
+0 0 0
+#10815
+bloody warhammer hammer~
+a bloody warhammer~
+A huge warhammer lies here.~
+~
+5 77826 8193
+1 8 8 7
+15 25000 0
+A
+19 4
+#10816
+cherry cheese cake~
+a piece of cherry cheese cake~
+A piece of cherry cheese cake is lying here.~
+~
+19 0 1
+24 0 0 0
+0 0 0
+E
+cherry cheese cake~
+  A nice size piece of homemake cherry cheese cake.
+~
+#10817
+voodoo doll~
+a ceddy voodoo doll~
+A doll with pins stuck in it is lying here.~
+~
+8 0 16385
+0 0 0 0
+1 0 0
+E
+voodoo doll~
+A Ceddy voodoo doll complete with pins!
+~
+#10818
+voodoo doll mogwai~
+a mogwai voodoo doll~
+A voodoo doll is lying here.~
+~
+8 0 16385
+0 0 0 0
+0 0 0
+E
+voodoo doll mogwai~
+    A Mogwai voodoo doll complete with pins for the times when he
+pisses you off.
+~
+#10819
+doll voodoo ~
+Ayana's voodoo doll~
+A voodoo doll is lying here.~
+~
+8 0 16385
+0 0 0 0
+0 0 0
+E
+voodoo doll~
+    A voodoo doll in the likeness of Pandarus right after he had 
+been bolted by Ayana.
+~
+#10820
+box candycanes~
+a box of candycanes~
+Wow, is it full!~
+~
+12 0 1
+0 0 0 0
+1000 0 0
+#10821
+voodoo doll~
+a domi voodoo doll~
+A voodoo doll is lying here.~
+~
+8 0 16385
+0 0 0 0
+0 0 0
+E
+voodoo doll~
+    A voodoo doll of Domi complete with pins for when he pisses
+you off.
+~
+#10822
+voodoo doll~
+a mazer voodoo doll~
+A voodoo doll is lying here.~
+~
+8 0 16385
+0 0 0 0
+0 0 0
+E
+voodoo doll~
+  A voodoo doll of Mazer complete with pins for when the time
+comes and he pisses you off.
+~
+#10830
+box cigars~
+a box of cigars~
+A half-open box of cigars sits on the table.~
+~
+15 0 1
+28 1 -1 0
+3 0 0
+#10831
+cigar~
+a cigar~
+A fine Cuban cigar rests in an ashtray.~
+~
+25 0 1
+50 124 92 92
+1 0 0
+#10832
+shovel~
+a shovel~
+A shovel lies here.~
+~
+12 0 16385
+0 0 0 0
+10 20 0
+#10845
+american flag~
+an ^rAmeri^n^bcan^n ^wflag^n~
+An American flag is stuck in the ground, waving in the wind.~
+~
+12 0 16385
+0 0 0 0
+1 0 0 99
+A
+18 4
+A
+19 4
+A
+5 2
+A
+14 100
+#10846
+gravestone~
+a gravestone~
+A gravestone is half-buried in the ground.~
+~
+11 0 65537
+0 0 0 0
+1 0 0
+#10847
+rope~
+a rope~
+A rope dangles from above.~
+~
+27 0 0
+16123 6 0 0
+0 0 0
+#10850
+wand salvation~
+a wand of salvation~
+A salvation wand has been lost here!~
+~
+3 67 16385
+50 20 20 49
+1 50 0
+#10854
+goddess vulmarta box~
+Vulmarta-in-a-box (r)~
+The Vulmarta-In-A-Box is on the floor!~
+~
+26 0 0
+1 16012 0 0
+0 0 0 1
+#10855
+jolt cola coke caffeine soda can~
+a can of Jolt~
+A can of Jolt Cola(tm) is vibrating rapidly on the ground.~
+~
+10 0 1
+60 64 0 0
+0 0 0
+#10856
+jolt plus can cola sugar caffeine energy~
+a can of Jolt Plus(tm)~
+A can of Jolt Plus is bouncing off the walls.~
+~
+10 0 1
+60 64 68 132
+0 0 0
+#10857
+six six-pack pack soda~
+a six-pack of soda~
+A six-pack of soda is lying here, probably empty~
+~
+15 0 1
+12 0 -1 0
+0 0 0
+#10866
+couch beast~
+the couch beast~
+A old, tattered green couch grins at you evilly.~
+~
+12 0 0
+0 0 0 0
+1 0 0
+E
+couch beast~
+You're not sure if you trust it...It looks sturdy enough, but there's something
+about it...
+~
+#10870
+chuckzilla~
+a ^rquest^n flag~
+A ^rquest^n flag is stuck into the ground here!~
+~
+0 4194304 1
+0 0 0 0
+0 0 0
+#10871
+squishy bug~
+a squishy bug~
+A bug squirms about.~
+~
+12 0 65537
+0 0 0 0
+0 0 0
+#10872
+lever~
+a big lever~
+A large metal lever sticks out of the wall.~
+It's big and metal and in the wall. What more do you want?
+~
+27 0 0
+1204 3 0 0
+1 0 0
+#10876
+padan thing~
+Padan's Special Thing~
+An unfinished object is lying here.~
+~
+11 0 2049
+0 0 0 0
+0 0 0
+A
+13 127
+A
+13 127
+A
+13 127
+A
+13 127
+A
+13 127
+A
+13 127
+#10877
+gift certificate rename~
+a gift certificate, valid for the renaming of one (1) object~
+A valuable gift certificate flaps in the wind!~
+~
+16 0 1
+0 0 0 0
+0 0 0
+E
+gift certificate rename~
+The bearer of this gift certificate may redeem it for the custom renaming
+of one (1) piece of equipment, subject to approval of name by the redeeming
+immortal. Present this to any immortal of level fifty-nine (59) or greater,
+with the piece of equipment in your possession. Transferable. Void where
+prohibited by law. This certificate may be revoked at any time by an
+immortal. No cash value.
+
+~
+#10878
+band gold~
+a band of gold~
+A band of gold lies here, covered in dust.~
+~
+11 1 3
+0 0 0 0
+1 7500 0
+A
+19 3
+A
+2 3
+#10888
+bug kicking boots~
+bug kicking super boots~
+A pair of BUG KICKING SUPER BOOTS circles your head.~
+Ah yes, standard issue wear among the stellar immortals of this fine mud!
+~
+11 0 65
+0 0 0 0
+0 0 0
+#10889
+bug thwacking super gloves~
+bug thwacking super gloves~
+A pair of BUG THWACKING SUPER GLOVES circles your head.~
+~
+9 0 129
+0 0 0 0
+0 0 0
+#10890
+woven vest souls~
+the woven vest of captured souls~
+The dark chain mail vest of Calis is lying here!~
+~
+9 2 9
+13 0 0 0
+1 1 1
+E
+woven vest souls~
+The vest is fashioned with chain mail interwoven with dark gems, each said to
+contain the essence of a foe conquered in battle by Calis.  The armor emanates
+with ancient power.
+~
+A
+12 30
+A
+9 15
+A
+19 2
+#10895
+white chip~
+a white gambling chip~
+Some poor fellow dropped a white chip here.~
+This crude wooden disc has the seal of the casino stamped on one side, and
+the number 100 carved into the other.
+~
+12 0 1
+0 0 0 0
+0 0 0
+#10896
+blue chip~
+a blue gambling chip~
+Some clumsy soul has dropped a blue chip here.~
+This chip has the casino's seal on one side, and the number 500 stamped in
+silver on the other.
+~
+5 0 1
+10 10 10 15
+0 0 0
+A
+19 10
+A
+19 10
+A
+19 10
+A
+19 10
+A
+19 10
+A
+19 10
+#10897
+red chip~
+a red gambling chip~
+Some fool has dropped a red chip here!~
+The small wooden disk has the casino's seal on one side, and the number "1000"
+stamped in gold on the other.
+~
+12 0 1
+0 0 0 0
+0 0 0
+A
+18 127
+A
+18 127
+A
+18 127
+A
+18 127
+A
+18 127
+A
+18 127
+#10898
+blade hobbit~
+the Blade of the Hobbit~
+The Blade of the Hobbit floats nearby.~
+WOAH! DUDE!
+~
+5 65544 8193
+1 1 0 3
+0 0 0
+A
+1 20
+A
+19 15
+A
+13 120
+A
+13 120
+A
+13 120
+A
+13 120
+#10899
+plastic blade hobbit~
+the plastic Blade of the Hobbit~
+The plastic Blade of the Hobbit is here.~
+What a nice souvenir!
+~
+5 0 65537
+0 1 1 3
+0 0 0
+#99999
+$~

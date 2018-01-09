@@ -1,0 +1,9 @@
+>command_prog se~
+  mpechoaround $n $N steps through the shadows and disappears.
+  mptrans $n 2100
+  mpat $n mpechoat $n You step through a field of shadows and find yourself in a new place.
+  mpat $n mpechoaround $n $N has arrived.
+  mpforce $n look
+  mpstopcommand
+~
+|

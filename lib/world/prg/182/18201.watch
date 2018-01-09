@@ -1,0 +1,18 @@
+>greet_prog 80~
+  if ispc($n)
+   smile $n
+   say Come, be seated. How may I help you?
+  endif
+~
+>fight_prog 10~
+  emote gets a terrified look on his face.
+  emote screams 'GUARDS!'
+  if rand(30)
+   mpecho Two guards bust in the room to assist their master.
+   mpmload 18223
+   mpmload 18223
+   mpforce 18223 kill $r
+   mpforce 18223 kill $r
+  endif
+~
+|

@@ -1,0 +1,43 @@
+>rand_prog 5~
+  emote hisses evilly.
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  if ispc($n)
+    kill $n
+  endif
+~
+>entry_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>death_prog 100~
+  if rand(20)
+    mpecho $I is dead! R.I.P.
+    mpecho Your blood freezes as you hear $I's death cry, and watch in horror as it turns to stone, trapping your weapon!!
+    mpasound Your blood freezes as you hear someone's death cry and a cracking sound.
+    mpoload 2070
+    mppose $i stand
+    mpsilent remove all
+    mpsilent put all.coins statue
+    mpsilent put all statue    
+    mppose $i dead
+    mpgoto cleaner
+  else
+    mpecho $I is dead! R.I.P.
+    mpecho Your blood freezes as you hear $I's death cry, and watch in horror as it turns to stone!!
+    mpasound Your blood freezes as you hear someone's death cry and a cracking sound.
+    mpoload 2071
+    mppose $i stand
+    mpsilent remove all
+    mpsilent put all.coins statue
+    mpsilent put all statue
+    mppose $i dead
+    mpgoto cleaner
+  endif
+~
+|

@@ -1,0 +1,17 @@
+>rand_prog 5~
+  if rand(50)
+    mpmload 10807
+    mpecho A portal opens, and a skeleton claws its way out of it!
+  else
+    mpmload 10808
+    mpecho A zombie clambers out of a magical portal!
+  endif
+  if rand(5)
+    mpecho The portal shimmers and starts to fade away.
+    mpoload 10806
+    drop all
+  else
+    mpecho The portal winks out of existance, leaving a dingy scent.
+  endif
+~
+|

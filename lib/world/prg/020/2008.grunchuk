@@ -1,0 +1,32 @@
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+>rand_prog 6~
+  if isfight($i)
+    break
+  else
+    if hitprcnt($i) < 100
+      mpecho Wounds close on Grunchuk's body as he bandages himself.
+      mpsilent mpcallmagic 'heal' $i
+    else
+      emote mutters something about the cold and pulls a cloak tight about his body.
+    endif
+  endif
+~
+>fight_prog 20~
+  bash
+~
+>fight_prog 40~
+  disarm
+~
+>fight_prog 60~
+  berserk
+~
+|

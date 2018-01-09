@@ -1,0 +1,14 @@
+>fight_prog 100~
+  if var(candlesleft) == 0
+    mpecho The shield surrounding Thandgrind shatters and splinters with^\a blinding light! The last shadows of magic force fade from the^\pentacle, and you see a look of fear creep over Thandgrind's face.
+    mpcallmagic 'blind' $n
+    mpcallmagic 'blind' $r
+    mpmload 18605
+  else
+    mpecho Thandgrind's pentacle glows to protect him in a burst of energy!
+    mpmload 10810
+    mpdamage $n 40d20
+  endif
+  mpgoto cleaner
+~
+|

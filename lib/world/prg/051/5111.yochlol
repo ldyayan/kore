@@ -1,0 +1,15 @@
+>greet_prog 100~
+  if hasworn($n) == 5120
+    bow $n
+  else
+    if hasobj($n) == 5120
+      mpechoat $n $I starts to attack but realizes you have a spider brooch..
+      mpechoaround $n $I starts to attack but realizes $N has a spider brooch..
+      bow $n
+    else
+      emote attacks!
+      hit $n
+    endif
+  endif
+~
+|

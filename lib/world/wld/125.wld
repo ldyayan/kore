@@ -1,0 +1,1665 @@
+#12500
+The Slums of Kore~
+   You enter a dark alley filled with the stench of excrements of people and
+animals, as if you could tell the difference. You see beggars, drunks, and
+black lotus addicts littering the streets like garbage. You are overwhelmed
+with the feelings of dispair and disgust as you enter this forsaken area.
+~
+125 32768 1
+D0
+~
+~
+0 0 12590
+D2
+Dark Alley~
+~
+0 0 12502
+S
+#12501
+The Dirk and Shiv Tavern~
+   You step into a low-lit room, noticing that on the far wall there is a
+bar set up, with a bartender standing behind it.  Shifty-eyed patrons are
+scattered around the room, tight lipped and vigilant.  The murmurs last for
+only a second as you enter the bar.  Across the room you see a beggar sitting
+at a table and scanning the room with practiced ease. This must be the
+Thieve's Guildmaster.  You find the nearest empty table and sit down.
+~
+125 32845 1
+D2
+~
+~
+0 -1 12509
+S
+#12502
+Dark Alley~
+   As you enter the dark alley, you feel very unsafe by the desperate looking
+eyes peering covetously your gear and money pouch. To the north, you see the
+exit from the slums to the city. To the south, you see darken alley.
+~
+125 32768 1
+D0
+Enterence to the Slums of Kore~
+~
+0 0 12500
+D2
+Darker Alley~
+~
+0 0 12503
+S
+#12503
+Darker Alley~
+As you enter the dark alley, you feel very unsafe by the desperate looking
+eyes peering covetously your gear and money pouch. To the north, you see
+the dark alleyway. To the south, you see an open street. To the west, you see
+a graffiti-covered door.
+~
+125 32768 1
+D0
+Dark Alley~
+~
+0 0 12502
+D2
+Street of Hope~
+~
+0 0 12504
+D3
+graffiti-covered door~
+door graffiti~
+1 -1 12505
+S
+#12504
+Street of Hope~
+   As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up. To the north, you see the dark
+alley. The street runs from east to west.
+~
+125 32768 0
+D0
+Dark Alley~
+~
+0 0 12503
+D1
+Street of Hope~
+~
+0 0 12508
+D2
+~
+~
+0 0 3504
+D3
+Street of Hope~
+~
+0 0 12509
+S
+#12505
+Poor Man's House~
+   As you enter the room, you are surprised to see the humble, but very clean
+room. The family who lives here is very poor, as you can tell by the spartan
+furnishings. However, they are trying their best to survive in the harshness
+of the slums. To the east, you see the exit back to the alley. To the north,
+you see the kitchen. To the south, you see the bedroom.
+~
+125 32776 0
+D0
+Kitchen~
+~
+0 0 12506
+D1
+Darker Alley~
+door~
+1 -1 12503
+D2
+Bedroom~
+~
+0 0 12507
+S
+#12506
+Kitchen~
+   You see a simple, but clean kitchen. You can see that the family can at
+least put enough food on the table to keep them alive. To the south, you see
+the main room.
+~
+125 32768 0
+D2
+Main Room~
+~
+0 0 12505
+S
+#12507
+Bedroom~
+   You see a bed made of straw lying in the corner of the room. The room is
+very sparse, but somewhat clean and comfortable. To the north, you see the
+main room.
+~
+125 32768 0
+D0
+Main Room~
+~
+0 0 12505
+S
+#12508
+Street of Hope~
+   As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up. The street runs east to west.
+~
+125 32768 1
+D1
+Street of Hope~
+~
+0 0 12510
+D3
+Street of Hope~
+~
+0 0 12504
+S
+#12509
+Street of Hope~
+   As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up. The street runs east to west.
+~
+125 32768 0
+D0
+~
+~
+0 0 12501
+D1
+Street of Hope~
+~
+0 0 12504
+D3
+~
+~
+0 0 12515
+S
+#12510
+Street of Hope~
+   As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up. To the north, you see an open 
+doorway into a building. The street runs east to west.
+~
+125 32768 1
+D0
+~
+~
+0 0 12514
+D1
+Street of Hope~
+~
+0 0 12512
+D3
+Street of Hope~
+~
+0 0 12508
+S
+#12511
+Street of Hope~
+     As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up.
+~
+125 32768 0
+D1
+~
+~
+0 0 12513
+D3
+~
+~
+0 0 12534
+S
+#12512
+Street of Hope~
+   As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up. The street runs east to west.
+~
+125 32768 1
+D1
+Street of Hope~
+~
+0 0 12534
+D3
+~
+~
+0 0 12510
+S
+#12513
+Street of Hope~
+     As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up.
+~
+125 32768 0
+D0
+~
+~
+0 0 12521
+D1
+~
+~
+0 0 12525
+D3
+~
+~
+0 0 12511
+S
+#12514
+Abandoned House~
+   You stand in an abandoned house.  The room is covered with unmentionable
+filth. The room has been destroyed; anything of value or of use has been
+stripped long ago. Now it is a whorehouse, where prostitutes sell their bodies
+in order to support their black lotus addiction. Black lotus has become the
+the new drug of choice of the denizens of the slums. To the south, you see the
+main street. To the north you see a large bedroom. You see rickety old stairs
+going up to the second story.
+~
+125 32777 0
+D0
+Large Bedroom~
+~
+0 0 12516
+D2
+~
+~
+0 0 12510
+D4
+Second Floor Stairs~
+~
+0 0 12518
+S
+#12515
+Street of Hope~
+   As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up. The street runs east to west.
+~
+125 32768 0
+D1
+~
+~
+0 0 12509
+D2
+~
+~
+0 0 12517
+S
+#12516
+Large Bedroom~
+   You see nothing but garbage in this room. Used condoms from hookers turning
+tricks litter the floor. You see the stems of black lotus covering the floor.
+You feel dismayed that these people were once human beings.
+~
+125 32769 0
+D2
+Main Room~
+~
+0 0 12514
+S
+#12517
+Kore Guard Post #7~
+   You are standing in the guard house for the slums. You see many guards
+who are drinking and gambling, instead of patroling the slums for trouble.
+The air is thick with the smells of smoke and alcohol. A few of the guards
+look at you and yell at you to get out.
+~
+125 32768 0
+D0
+~
+~
+0 0 12515
+D1
+~
+~
+0 0 12536
+D3
+~
+~
+0 0 12519
+S
+#12518
+Second Floor~
+   You are on the second story of this house. You can smell the pungent, earthy
+smell of the black lotus drifting in the house. To the east, you see the 
+hallway around the corner of the stairway. You see the stairs going down to the
+first floor of the house.
+~
+125 32769 0
+D1
+Hallway~
+~
+0 0 12520
+D5
+Stairs to the First Floor~
+~
+0 0 12514
+S
+#12519
+Lieutenant's Office~
+     The office is well decorated with nice teak and oak furniture. You see
+weapons and head trophies of evil looking monsters hanging on the walls.
+This office seems too well decorated for a mere junior officer. You see huge 
+piles of coins on his desk which the lieutenant is counting very carefully.
+~
+125 32768 0
+D1
+~
+~
+0 0 12517
+S
+#12520
+Hallway~
+   You are in a hallway the goes east to west. To the north, you see a broken
+door.
+~
+125 32769 0
+D0
+Bedroom~
+~
+0 0 12522
+D1
+Hallway~
+~
+0 0 12524
+D2
+Bedroom
+~
+~
+0 0 12530
+D3
+Second Floor Stairs~
+~
+0 0 12518
+S
+#12521
+Burned Out House~
+     Charred rubble litters the floor. This house has been gutted by a firebomb
+by the Black Lotus guild. The former (and dead) residents refused to pay the
+"protection money" to the guild. This house was made an example to those who
+are not protected.
+~
+125 32768 0
+D0
+~
+~
+0 0 12523
+D2
+~
+~
+0 0 12513
+S
+#12522
+Bedroom~
+   You see an old, stained bed covered with filth and lice. You realize that
+this room is where the prostitutes turn their tricks in order to feed their
+black lotus hunger. To the south, you see the hallway.
+~
+125 32769 0
+D2
+Hallway~
+~
+0 0 12520
+S
+#12523
+The Burning Bedroom~
+     The room is still smoldering with the ambers of the fire. You see the 
+charred remains of the former residents. The room is black from the smoke of the
+fire.
+~
+125 32768 0
+D2
+~
+~
+0 0 12521
+S
+#12524
+Hallway~
+   You are in a hallway the goes east to west. To the south, you see a hole
+in the wall.
+~
+125 32768 0
+D0
+Bedroom~
+~
+0 0 12532
+D2
+Hole in the Wall~
+wall~
+1 0 12526
+D3
+Hallway~
+~
+0 0 12520
+S
+#12525
+Street of Hope~
+     As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up.
+~
+125 32768 0
+D1
+~
+~
+0 0 12531
+D2
+~
+~
+0 0 12527
+D3
+~
+~
+0 0 12513
+S
+#12526
+Secret Room in the Wall~
+   You are in a room made by knocking part of the wall down. You see a trapdoor
+which leads up to the attic of the house. To the north, you see the hallway.
+~
+125 32777 0
+D0
+Hallway~
+wall~
+1 0 12524
+D4
+Attic Trapdoor~
+door attic~
+2 12500 12528
+S
+#12527
+Another Burned Out House~
+     Charred rubble litters the floor. This house has been gutted by a firebomb
+by the Black Lotus guild. You see cobwebs and rat droppings covering the floor.
+This place has been burned out for many years.
+~
+125 32769 0
+D0
+~
+~
+0 0 12525
+D1
+~
+plank door~
+1 0 12529
+S
+#12528
+Attic~
+   You are in the attic of the house. This is the HQ of the madam of the whore
+house. You wonder if you can get a freebie if you don't kill her. Hmm...
+~
+125 32768 0
+D5
+Down from the Attic~
+door attic~
+2 12500 12526
+S
+#12529
+Black Lotus Thieves's Guild~
+     You have found the secret entrance to the Black Lotus guild. They have
+been using this house as cover for many years. Only members and potential
+members know this place exists. If you can not make membership, your life will
+be revoked. You see a sign on the wall.
+~
+125 32773 0
+D3
+~
+plank door~
+1 0 12527
+D5
+~
+~
+0 0 12537
+E
+sign~
+     You look at the sign and read the flowing script:
+
+     Black Lotus Thieves' Guild. No solicitors. No trespassing.
+~
+S
+#12530
+Bedroom~
+   You see an old, stained bed covered with filth and lice. You realize that
+this room is where the prostitutes turn their tricks in order to feed their
+black lotus hunger. To the north, you see the hallway.
+~
+125 32777 0
+D0
+Hallway~
+~
+0 0 12520
+S
+#12531
+Street of Hope~
+     As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up. The street ends here.
+~
+125 32768 0
+D0
+~
+~
+0 0 12533
+D3
+~
+~
+0 0 12525
+S
+#12532
+Bedroom~
+   You see an old, stained bed covered with filth and lice. You realize that
+this room is where the prostitutes turn their tricks in order to feed their
+black lotus hunger. To the south, you see a hallway.
+~
+125 32768 0
+D2
+Hallway~
+~
+0 0 12524
+S
+#12533
+Burned Out House~
+     Charred rubble litters the floor. This house has been gutted by a firebomb
+by the Black Lotus guild. The former (and dead) residents refused to pay the
+"protection money" to the guild. This house was made an example to those who
+are not protected.
+~
+125 32768 0
+D1
+~
+~
+0 0 12535
+D2
+~
+~
+0 0 12531
+S
+#12534
+Street of Hope~
+   As you emerge from the dark alley, you enter the ironically named main
+street of the lower slums. You are overwhelmed by the stench of the garbage and
+other refuse littering the street. You have the feeling utter revoltion, as
+you cover mouth preventing from throwing up. To the south, you see an entrance
+to the Street of Hope House of Alms. The street runs from east to west.
+~
+125 32768 0
+D1
+~
+~
+0 0 12511
+D2
+House of Alms~
+~
+0 0 12538
+D3
+Street of Hope~
+~
+0 0 12512
+S
+#12535
+Empty Room~
+     You are standing in a burned out room. Anything of value has been taken
+long ago. 
+~
+125 32768 0
+D3
+~
+~
+0 0 12533
+S
+#12536
+Barracks~
+     You see rows of bunks and other furniture along the walls. The place has
+the god awful stench of puke and urine. Basically, the guards come here to
+sleep off the alcohol or black lotus high. 
+~
+125 32768 0
+D3
+~
+~
+0 0 12517
+S
+#12537
+Underground Tunnel~
+     You are in a dark, damp tunnel. The air is quite stale and musty.
+~
+125 32769 0
+D1
+~
+~
+0 0 12539
+D4
+~
+~
+0 0 12529
+S
+#12538
+House of Alms~
+   You see many people who are down on their luck, looking for some help to
+survive. However, you soon realize that most of these people are lazy drunks
+or drug addicts, looking for a quick and easy handout. You feel indignant and
+want to "cleanse" this city of this kind of riffraff. To the north, you see
+the street. To the east, you see the director's office.
+~
+125 32768 0
+D0
+Street of Hope~
+~
+0 0 12534
+D1
+Director's Office
+~
+door~
+2 12501 12540
+D2
+Cafeteria~
+~
+0 0 12542
+D4
+Second Floor Stairs~
+~
+0 0 12548
+S
+#12539
+Underground Tunnel~
+     You are in a dark, damp tunnel. The air is quite stale and musty.
+~
+125 32769 0
+D0
+~
+~
+0 0 12541
+D1
+~
+~
+0 0 12547
+D3
+~
+~
+0 0 12537
+S
+#12540
+Director's Office~
+ You are shocked by the lavish furnishings of this office. You would think that
+this is the office of a nobleman or very wealthy merchant. You start to wonder
+how can a director of an alms house afford such luxuries in such a poverty
+stricken area.
+~
+125 32768 0
+D3
+House of Alms~
+door~
+2 12501 12538
+S
+#12541
+Underground Tunnel~
+     You are in a dark, damp tunnel. The air is quite stale and musty.
+~
+125 32769 0
+D0
+~
+~
+0 0 12543
+D2
+~
+~
+0 0 12539
+S
+#12542
+Cafeteria~
+   You enter a very packed room full of hungry people waiting for their free
+meal of the day. You see the utter scrouge of society standing in line like
+mindless zombies waiting to be feed. You notice a god-forsaken odor drifting
+in the cafeteria. You want to flee the horrible place before you pass out from
+the noxious gases. To the north, you see the exit from the cafeteria. To the
+east, you see a guarded door.
+~
+125 32768 0
+D0
+Main Lobby~
+~
+0 0 12538
+D1
+Guarded Door
+~
+guarded door~
+2 12502 12544
+S
+#12543
+Underground Tunnel~
+     You are in a dark, damp tunnel. The air is quite stale and musty.
+You see a huge yellow and black sign on the wall.
+~
+125 32769 0
+D2
+~
+~
+0 0 12541
+D3
+~
+~
+0 0 12545
+E
+yellow black sign~
+     You look at the sign and read the following:
+
+     DO NOT ENTER!!! VERY DANGEROUS AREA!!! WE WILL NOT BE HELD RESPONSIBLE!!!
+~
+S
+#12544
+Lavish Dining Room~
+   As you enter this room, you are shocked by the lavish decor and furnishing
+of this dining room. After you rubbed your eyes in disbelief, you think that
+you are in a four star restaurant. You see waiters busily taking and delivering
+orders of food. You start to drool as you smell the delicious aroma of fine
+cuisine. You hear your stomach start to rubble..HOW RUDE! To the west, you see
+the cafeteria room. To the north, you see the kitchen doors.
+~
+125 32768 0
+D0
+Kitchen~
+~
+0 0 12546
+D3
+Cafeteria
+~
+guarded door~
+2 12502 12542
+S
+#12545
+DO NOT ENTER!!! (under construction)~
+     CRASH!!!
+      CRASH!!!
+       CRASH!!!
+      CRASH!!!
+     CRASH!!!
+
+     As you enter the unfinished tunnel, you accidently kick a support beam
+holding up the dirt roof. As tons and tons of dirt and rock come crashing
+down upon you, you recall your mother telling you to ALWAYS read signs.
+
+*****SPLAT******
+~
+125 32782 0
+D1
+~
+~
+0 0 12543
+S
+#12546
+Kitchen~
+   You are inside a gourmet style kitchen. You see all types of cooking ware
+and utensiles. You see cooks busily preparing meals, while the waiters quickly
+deliver the meals. However, you see some men carrying trash cans from this
+kitchen with the labels, "Food for the House of the Alms Cafeteria". Hmmmmm
+~
+125 32768 0
+D2
+Lavish Dining Room~
+~
+0 0 12544
+S
+#12547
+Underground Tunnel~
+     You are in a dark, damp tunnel. The air is quite stale and musty. You see
+bright light from the south.
+~
+125 32769 0
+D2
+~
+~
+0 0 12549
+D3
+~
+~
+0 0 12539
+S
+#12548
+Top of the Second Floor~
+   You are standing on the second floor of the alms house. To the east, you see
+a hallway. To the north, you see a hallway.
+~
+125 32768 0
+D0
+Hallway~
+~
+0 0 12556
+D1
+Hallway~
+~
+0 0 12550
+D5
+Stairs to the First Floor~
+~
+0 0 12538
+S
+#12549
+Underground Tunnel~
+     You are in a dark, damp tunnel. The air is quite stale and musty. The
+tunnel seems to end here.
+~
+125 32769 0
+D0
+~
+~
+0 0 12547
+D1
+Rusted Iron Door
+~
+Rusted Iron Door~
+1 -1 12551
+S
+#12550
+Hallway~
+   You are standing in the hallway of the second floor of the alms house. 
+To the west, you the stairs leading down to the first floor. To the north, you
+see a hospital room.
+~
+125 32768 0
+D0
+Hospital
+~
+~
+0 0 12552
+D3
+Stairs to the First Floor~
+~
+0 0 12548
+S
+#12551
+Hallway~
+     You are inside the Black Lotus guildhouse. The floors are covered with
+blackish grey marble tiles. Glowing lanterns line the walls, illuminating the
+hallway. The hallway continues east.
+~
+125 32768 0
+D1
+~
+~
+0 0 12553
+D3
+Rusted Iron Door
+~
+rusted iron door~
+1 -1 12549
+S
+#12552
+Hospital~
+   A cold shiver runs down your spine as you see the diseased, sick, and insane
+littering the room like corpses. The room is filthy and looks like it has not 
+been cleaned for many years. You see rotting and putrified body parts lying on
+the floor, while vicious chihuahuas greedily guard their treasure of flesh.
+You want to flee this room, but you hear blood curdling scream for mercy echo
+throughout the room. You hear the screams coming from a room to the east.
+~
+125 32768 0
+D1
+Doctor's Office (Operation Room)~
+~
+0 0 12554
+D2
+Hallway~
+~
+0 0 12550
+S
+#12553
+Hallway~
+     The floors are covered with blackish grey marble tiles. Glowing lanterns
+line the walls, illuminating the hall. You see bright lights coming from under
+the doors to the north and south. The hallway continues west and east.
+~
+125 32768 0
+D0
+~
+~
+0 0 12555
+D1
+~
+~
+0 0 12559
+D2
+~
+~
+0 0 12557
+D3
+~
+~
+0 0 12551
+S
+#12554
+Doctor's Office~
+   The room is covered in coagulated blood and putified flesh. Mutilated corpses
+are stacked in a nice and tidy pile. You see an operating table in the middle
+of the room with a bloody, screaming man straped down. He looks at you with
+pleading eyes to end his suffering. You see a tray of weird blades and operating
+tools to extract body parts from the patients. Separating bins line walls where
+the body parts are placed accordingly. However, you do not see any forms of
+pain-killers used while the doctor operates.
+~
+125 32772 0
+D3
+Hospital~
+~
+0 0 12552
+S
+#12555
+Barracks of the 1st Circle~
+     You are inside the barracks of the 1st circle. You see rows of bunk beds
+and furniture in the room. This room is quite very clean and well organized.
+It is quite plain and spartan.
+~
+125 32768 0
+D2
+~
+~
+0 0 12553
+S
+#12556
+Hallway~
+   You are standing in the hallway of the second floor of the alms house. To the
+south, you see the stairs to the first floor. To the north, you see the hallway
+continue.
+~
+125 32768 0
+D0
+Hallway~
+~
+0 0 12558
+D2
+Stairs to the First Floor~
+~
+0 0 12548
+S
+#12557
+Barracks of the 2nd Circle~
+     You are inside the barracks of the 2nd circle. You see many beds lining
+the walls. This room is quite large for the number of beds within. The 
+furniture and surroundings is much nicer and more comfortable than in the
+1st circle barracks.
+~
+125 32768 0
+D0
+~
+~
+0 0 12553
+S
+#12558
+End of the Hallway~
+   You are standing in the hallway of the second floor of the alms house. To the
+south, you see a hallway.
+~
+125 32776 0
+D0
+~
+panel~
+2 12503 12560
+D2
+Hallway~
+~
+0 0 12556
+S
+#12559
+Hallway~
+     The floors are covered with blackish grey marble tiles. Glowing lanterns
+line the walls, illuminating the hall. You see bright lights coming from under
+the doors to the north and south. The hallway continues west and east.
+~
+125 32768 0
+D0
+~
+~
+0 0 12561
+D1
+~
+~
+0 0 12565
+D2
+~
+~
+0 0 12563
+D3
+~
+~
+0 0 12553
+S
+#12560
+Secret Passage~
+   You are standing in a secret passage of the alms house. You have a sinking
+feeling that you should not be here. To the north, you see further down the
+passage.
+~
+125 32777 0
+D0
+~
+~
+0 0 12562
+D2
+Hallway~
+panel~
+2 12503 12558
+S
+#12561
+Training Room~
+     The room is full of equipment to train thieves in the fine arts. You see
+locks of various kinds to practice on. Also, you see straw dummies to work on
+the infamous backstab and pickpocket. This room appears to be well used.
+~
+125 32768 0
+D2
+~
+~
+0 0 12559
+S
+#12562
+Secret Passage~
+    You are standing in a secret passage of the alms house. You have a sinking
+feeling that you should not be here. To the east, you see a T intersection.
+To the south, you see further down the passage way.
+~
+125 32777 0
+D1
+T-Intersection of the Passageway~
+~
+0 0 12564
+D2
+~
+~
+0 0 12560
+S
+#12563
+Training Room~
+     The room is full of equipment to train thieves in the fine arts. You see
+locks of various kinds to practice on. Also, you see straw dummies to work on
+the infamous backstab and pickpocket. This room appears to be well used.
+~
+125 32768 0
+D0
+~
+~
+0 0 12559
+S
+#12564
+T-Intersection of the Passageway~
+     You are standing in a secret passage of the alms house. You have a sinking
+feeling that you should not be here. To the west, you see more passageway.
+To the west, you see a dimly lit room. To the south, you see more passageway.
+~
+125 32777 0
+D1
+Dimly-Lit Room~
+~
+0 0 12566
+D2
+Secret Passage~
+~
+0 0 12568
+D3
+Secret Passage~
+~
+0 0 12562
+S
+#12565
+Hallway~
+     The floors are covered with blackish grey marble tiles. Glowing lanterns
+line the walls, illuminating the hall. You see bright lights coming from under
+the doors to the north and south. The hallway continues west and east.
+~
+125 32768 0
+D0
+~
+~
+0 0 12567
+D1
+~
+~
+0 0 12571
+D2
+~
+~
+0 0 12569
+D3
+~
+~
+0 0 12559
+S
+#12566
+Secret Passage~
+     ou are standing in a secret passage of the alms house. You have a sinking
+feeling that you should not be here. To the west, you see a T-intersection.
+~
+125 32777 0
+D0
+Secret Passage
+~
+secret~
+2 12504 12576
+D1
+~
+~
+0 -1 12582
+D3
+T-intersection
+~
+~
+0 -1 12564
+S
+#12567
+Barrack of the 3rd Circle~
+     You are inside the barracks of the 3rd circle. You see bunk bed and other
+furniture against the walls. The rooms is surprising clean and warm.
+~
+125 32768 0
+D2
+~
+~
+0 0 12565
+S
+#12568
+Revolving Room~
+   As you enter this room, you almost lose your balance as the room spins
+around. As the room stops spinning, you do not know exactly which way you
+entered the room. You feel very confused. To the east, you see a dark hallway.
+To the south, you see a dark hallway. You also notice a trapdoor the leads
+downwards.
+~
+125 32773 0
+D1
+Too dark to see~
+~
+0 0 12570
+D2
+Too dark to see~
+~
+0 0 12572
+D5
+Garbage Compactor Shute~
+trapdoor~
+1 0 12574
+S
+#12569
+Barracks of the 4th Circle~
+     You are inside the barracks of the 4rd circle. You see bunk bed and other
+furniture against the walls. The rooms is surprising clean and warm. You notice
+that there are fewer beds in this room.
+~
+125 32768 0
+D0
+~
+~
+0 0 12565
+S
+#12570
+Fire Escape Slide~
+   WHEE!!! You slide down an emergency fire escape slide. You land roughly as
+you come flying off the slide. You are dazed, but somewhat excited by the
+thrill ride. (Remember when you were a kid?) The slide is way too slippery
+to climb back up. The only exit you see is to the south.
+~
+125 32768 0
+D2
+Well-Lit Exit~
+~
+0 0 12534
+S
+#12571
+Hallway~
+     The floors are covered with blackish grey marble tiles. Glowing lanterns
+line the walls, illuminating the hall. You see bright lights coming from under
+the doors to the north and south. The hallway continues west and east.
+~
+125 32768 0
+D0
+~
+~
+0 0 12573
+D1
+~
+~
+0 0 12577
+D2
+~
+~
+0 0 12575
+D3
+~
+~
+0 0 12565
+S
+#12572
+Fire Escape Slide~
+    WHEE!!! You slide down an emergency fire escape slide. You land roughly as
+you come flying off the slide. You are dazed, but somewhat excited by the
+thrill ride. (Remember when you were a kid?) The slide is way too slippery
+to climb back up. The only exit you see is to the west.
+~
+125 32768 0
+D3
+Well-Lit Exit~
+~
+0 0 12512
+S
+#12573
+Mess Hall~
+     You see many rows of tables and benches in the room. You see kegs of water
+and other beverages along the walls. This room is very clean and warm.
+~
+125 32768 0
+D0
+~
+~
+0 0 12579
+D2
+~
+~
+0 0 12571
+S
+#12574
+GARBAGE COMPACTOR~
+aieee
+    aieee
+        aieee
+            aieee
+                aieee
+                    aieee
+                         aieee
+                    aieee
+                aieee
+            aieee
+        aieee
+    aieee
+aieee
+
+   You slide down a very slippery garbage shute, until you are shot and land
+on a huge pile of garbage. As your heart sinks to your stomach, you see the
+opposing walls start coming towards each other. You try stop the walls by
+bracing them with your body. However, your arms and legs snap like dry twigs
+as the walls come closer. As you scream your last cry for help, you realize
+that there is no little blue droid to stop this compactor. *SLAM*
+~
+125 32974 0
+D4
+~
+~
+0 0 12568
+S
+#12575
+Barracks of the Final Circle: Black Lotus~
+    You are in the barracks of the Final Circle: Black Lotus. These thieves
+are the graduates of the guild. They are full members of the guild. The room
+is quite large, but only a few beds are present here. Only the best become part
+of the Final Circle.
+~
+125 32768 0
+D0
+~
+~
+0 0 12571
+S
+#12576
+Secret Passage~
+    You are standing in a secret passage of the alms house. You have a sinking
+feeling that you should not be here. To the south, you see more passageways.
+You see dirt covered stairs going up into a pitch dark room.
+~
+125 32777 0
+D2
+Secret Passage
+~
+secret~
+2 12504 12566
+D4
+Dirty Stairs
+~
+~
+0 0 12578
+S
+#12577
+Hallway~
+     The floors are covered with blackish grey marble tiles. Glowing lanterns
+line the walls, illuminating the hall. The hallway continues west and south.
+~
+125 32768 0
+D0
+~
+~
+0 0 12581
+D2
+~
+~
+0 0 12583
+D3
+~
+~
+0 0 12571
+S
+#12578
+Pitch Dark Room~
+     You are standing on top of the stairs. Stale and musky smells of uncovered
+earth fills the air. To the east, you hear halted moans of pleasure and cries
+of esctacy echoing out of the room. You see stairs leading down.
+~
+125 32909 0
+D1
+~
+~
+0 0 12580
+D5
+Dirty Stairs
+~
+~
+0 0 12576
+S
+#12579
+Kitchen~
+     The room has many stoves and other cooking utensiles. You see storage 
+cabinets full of food and other goods. The room has a delicious aroma of fresh
+baked bread.
+~
+125 32768 0
+D2
+~
+~
+0 0 12573
+S
+#12580
+Interview With a Vampire~
+     Fools", bellows the tall, dark man as he withdraws his fangs from the
+throat of the beautiful girl. The crimson flow dribbles slowly off his chin as
+he places the comely lass into his coffin. You see a richly decorated room
+filled with beautifully spunned tapestries and rugs. In the center of the room,
+you see magnificiently carved coffin.
+~
+125 32841 0
+D3
+~
+~
+0 0 12578
+S
+#12581
+Storage Room~
+     This room is used to store extra supplies for the guild.
+~
+125 32768 0
+D2
+~
+~
+0 0 12577
+S
+#12582
+Secret Passage~
+     You are standing in a secret passage of the alms house. You have a sinking
+feeling that you should not be here. To the west, you see more passageway. To
+the south, you see more passageway.
+~
+125 32777 0
+D2
+~
+~
+0 0 12584
+D3
+~
+~
+0 0 12566
+S
+#12583
+Hallway~
+     The floors are covered with blackish grey marble tiles. Glowing lanterns
+line the walls, illuminating the hall. The hallway continues north and south.
+~
+125 32768 0
+D0
+~
+~
+0 0 12577
+D1
+~
+~
+0 0 12587
+D2
+~
+~
+0 0 12585
+S
+#12584
+Secret Passage~
+     You are standing in a secret passage of the alms house. You have a sinking
+feeling that you should not be here. To the north, you see more passageway.
+To the east, you see more passageway.
+~
+125 32921 0
+D0
+~
+~
+0 0 12582
+D1
+~
+~
+0 0 12586
+S
+#12585
+Hallway~
+     The floors are covered with blackish grey marble tiles. Glowing lanterns
+line the walls, illuminating the hall. You see a huge double door to the east.
+~
+125 32768 0
+D0
+~
+~
+0 0 12583
+D1
+~
+~
+0 0 12589
+D2
+~
+~
+0 0 12592
+S
+#12586
+Guarded Room~
+     You are standing in a dark room with a huge steel door to the north. In
+front of the door, you see two towering stone statues with crimson glowing eyes.
+As you enter the room, the statues come to life and lumber towards you with a
+evil glee in their eyes.
+~
+125 32777 0
+D0
+~
+Steel Doors~
+1 0 12588
+D3
+~
+~
+0 0 12584
+S
+#12587
+Black Lotus Lab~
+     As you enter the room, the distinct smell of Black Lotus assaults your
+senses. This room is the main refining center for Black Lotus. Raw Black Lotus
+is purified and packaged for sell here. You see various chemicals and alchemist
+equipment throughout the room.
+~
+125 32768 0
+D3
+~
+~
+0 0 12583
+S
+#12588
+Lavish Bedroom~
+     A you enter the room, you are in awe with the luxurious decor and ambiance
+of the room. The room is filled with treasures that a mere handful would make
+you rich as a king. However, all this pales in comparison with the most
+beautiful woman you have ever seen. She lies on her warm feather bed and beckons
+you.
+~
+125 32777 0
+D2
+~
+Steel Doors~
+1 0 12586
+S
+#12589
+Office of the Guildleader ~
+     The room is well decorated and furnished. You see beautifully carved teak
+and mahogony furniture well arranged in the room. A huge oak desk with a 
+comfortable leather chair is in the middle of the room. Many weapons hang on the
+walls. You see piles of paper and books stacked high on the desk. You barely
+notice a man behind the desk.
+~
+125 32768 0
+D1
+~
+~
+0 0 12591
+D3
+~
+~
+0 0 12585
+S
+#12590
+On A Road~
+This is the main land route through the land.  Merchants can bring
+their goods to the coastline and have them ferried onto ships for
+export.  Travel by foot west will take you to into the forest of Haon Dor.
+~
+125 32772 1
+D1
+~
+~
+0 0 3052
+D2
+~
+~
+0 0 12500
+D3
+~
+~
+0 0 899
+S
+#12591
+Bedroom~
+     You see a well furnished room with a luxurious featherbed in the corner
+of the room. A beautiful giant ferret rug overs the floor. You see blocks of
+jasmine incense slowly burning, filling the room with aromatic smoke. The room
+feels quite comfortable.
+~
+125 32768 0
+D3
+~
+~
+0 0 12589
+S
+#12592
+Office of the Guildmaster of the Black Lotus~
+     You are quite stunned by the pure opulence of the room. You see ancient
+weapons and armor hanging on the walls. Head trophies of powerful monsters
+hang proudly on the walls. You see a beautifully craved desk from the bones of
+a dragon. This room could easily be a throneroom for a great king.
+~
+125 32768 0
+D0
+~
+~
+0 0 12585
+D1
+~
+~
+0 0 12594
+D2
+~
+~
+0 0 12593
+S
+#12593
+Study~
+     This room is quite disorganized. Huge piles of scrolls and books litter the
+room and on the large oak desk. It seems that many hours of paperwork has been
+done in this room.
+~
+125 32769 0
+D0
+~
+~
+0 0 12592
+D1
+~
+~
+0 0 12595
+D4
+~
+ceiling door~
+1 -1 12597
+S
+#12594
+War Room~
+     You see many detailed maps on the walls. They are well marked with battle
+plans. Various scrolls litter the long conference table. You see many burnt-out
+candles throughout the room.
+~
+125 32768 0
+D3
+~
+~
+0 0 12592
+S
+#12595
+Bedroom~
+     You see a well furnished room with a luxurious featherbed in the corner
+of the room. A beautiful giant ferret rug covers the floor. You see blocks of
+jasmine incense slowly burning, filling the room with aromatic smoke. The room
+feels quite comfortable.
+~
+125 32768 0
+D2
+~
+~
+0 0 12596
+D3
+~
+~
+0 0 12593
+S
+#12596
+Practice Room~
+     You see many cloth dummies with numerous stab wounds. Locks and chests of
+all kinds litter the floor. Books with various topics about thievery are neatly
+stacked on a shelf. This room is used to hone the skills of the guildmaster.
+If he should ever appear weak or frail...
+~
+125 32768 0
+D0
+~
+~
+0 0 12595
+S
+#12597
+Secret Escape Route~
+     The room was designed as a emergency escape route for the guildmaster. 
+The room was built by a wizard with powerful magic. Nobody knows about this
+secret room (except the Guildmaster); not even the former wizard.
+~
+125 33025 0
+D4
+~
+~
+0 -1 12501
+D5
+~
+ceiling door~
+1 -1 12593
+S
+#99999
+$~

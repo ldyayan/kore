@@ -1,0 +1,13 @@
+>command_prog east~
+  if ispc($n)
+    if isimmort($n)
+      bow
+    else
+      say Sorry, authorized personnel only.
+      smirk
+      mpstopcommand
+    endif  
+  endif
+~
+|
+

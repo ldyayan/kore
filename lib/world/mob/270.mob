@@ -1,0 +1,75 @@
+#27000
+obe gaurdian man dark keeper small figure~
+Obe, gaurdian of the hillside keeper of the keys~
+A small figure dressed in dark robes rests on a chair in the far corner.
+~
+The figure is small and dressed in dark robes, as he turns his head
+you notice an eerie blue light come from his face and around his eyes.
+He is carrying a set of keys on a belt around his waist.
+~
+702478 8454312 200 S
+40 -30 -20 1d1+8999 20d20+40
+20 500000
+5 5 1 9
+#27001
+gauntlet keeper man tall lanky~
+the gauntlet keeper~
+A tall lanky man rests in a chair behind a large oak desk at the far end of the room.
+~
+The man is lanky and stands about eight feet high.  He is wearing an old 
+dusty waistcoat, his face is drawn and pale and small tuffs of curly hair
+escape from his tall top hat.  When he smiles it sends a shiver down your
+spine and you try as hard as you can to avoid looking at him.
+~
+565262 4260992 100 S
+50 -10 0 1d1+19999 1d1+50
+3000 400000
+5 5 0
+#27002
+gluttony mob~
+gluttony mob~
+gluttony mob is here
+~
+It looks, err, unfinished.
+~
+8388616 0 0 S
+50 10 10 1d1+0 1d1+0
+0 100000
+8 8 0
+#27003
+greed mob~
+greed mob~
+greed mob is here
+~
+It looks, err, unfinished.
+~
+8388616 0 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#27004
+man dieing old dead~
+an old dieing man~
+A man is lying in the center of the room nearly dead.
+~
+He is dressed in the best armor you have ever seen and is wielding
+a sword you would kill your own mother to get.  Also he is nearly dead
+you could kill him in one blow to the head and he wouldn't notice a thing..
+~
+188426 1024 0 S
+50 -30 10 1d1+20000 1d1+50
+0 1
+1 1 1
+#27005
+kim~
+kim the young man~
+A young boy on roller skates is here
+~
+Hmm, he looks a bit strange?!?!?
+~
+8 65664 0 S
+10 0 10 1d1+500 1d1+10
+0 10000000
+8 8 2 2
+#99999
+$~

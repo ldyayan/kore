@@ -1,0 +1,71 @@
+#75
+Enclave~
+7599 25 2
+M 0  7500  3  7519		a deer
+M 0  7501  2  7519		a rabbit
+M 0  7500  3  7524		a deer
+M 0  7501  2  7524		a rabbit
+M 0  7502  3  7524		a squirrel
+M 0  7500  3  7518		a deer
+M 0  7502  3  7527		a squirrel
+M 0  7502  3  7538		a squirrel
+M 0  7503 10  7534		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7540		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7536		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7529		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7512		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7521		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7523		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7525		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7514		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7503 10  7530		the orc hunter
+E 1  7504 10 16				wield a club
+M 0  7504  1  7552		the orc chief
+E 1  7504 10 16				wield a club
+M 0  7505  3  7553		an orc woman
+M 0  7507  1  7553		an orc woman
+M 0  7505  3  7550		an orc woman
+M 0  7509  3  7550		the mutant orc
+E 1  7504 10 16				wield a club
+M 0  7505  3  7549		an orc woman
+M 0  7506  2  7546		an orc child
+M 0  7506  2  7551		an orc child
+M 0  7509  3  7551		the mutant orc
+E 1  7504 10 16				wield a club
+M 0  7508  2  7554		the mutant orc
+M 0  7508  2  7554		the mutant orc
+M 0  7509  3  7544		the mutant orc
+E 1  7504 10 16				wield a club
+M 0  7510  1  7559		Elstar
+E 1  7505 10 16				wield Starkblade
+E 1  7503 10 17				hold a runestone
+M 0  7511  1  7516		the elven child
+G 1  7500 10				give a key
+M 0  7512  4  7567		the mutant thing
+D 0  7567  3  1			Cage Door West 
+M 0  7512  4  7564		the mutant thing
+D 0  7564  3  1			Cage Door West 
+M 0  7512  4  7561		the mutant thing
+D 0  7561  3  1			Cage Door West 
+M 0  7513  1  7565		a mutant thing
+E 1  7501 10  9				hands a set of manacles
+E 1  7502 10  8				feet a set of shackles
+D 0  7555  3  2			Tunnel Door West 
+D 0  7556  1  2			Tunnel Door East 
+D 0  7556  3  1			Tunnel Door West 
+D 0  7557  1  1			Bedroom Door East 
+D 0  7566  1  1			Laboratory Door East 
+D 0  7563  1  1			Laboratory Door East 
+D 0  7560  1  1			Laboratory Door East 
+S
+#99999
+$~

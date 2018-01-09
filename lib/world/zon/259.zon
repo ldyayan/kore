@@ -1,0 +1,22 @@
+#259
+Silvas Woods~
+25999 30 2 0
+M 0 25900     1 25901            a sparrow
+M 0 25900     2 25905            a sparrow
+M 0 25901     1 25907            the squirrel
+M 0 25900     3 25910            a sparrow
+M 0 25901     2 25930            the squirrel
+M 0 25901     3 25931            the squirrel
+M 0 25900     4 25931            a sparrow
+M 0 25900     5 25946            a sparrow
+M 0 25901     4 25946            the squirrel
+M 0 25900     6 25944            a sparrow
+M 0 25900     7 25939            a sparrow
+M 0 25901     5 25934            the squirrel
+M 0 25901     7 25983            the squirrel
+M 0 25900     9 25983            a sparrow
+M 0 25900    10 25972            a sparrow
+M 0 25901     8 25972            the squirrel
+S
+#99999
+$~

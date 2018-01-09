@@ -1,0 +1,959 @@
+#29000
+wagon broken~
+an old, broken-down wagon~
+An old, broken-down wagon lies here at the side of the road.~
+~
+15 0 0
+150 0 -1 0
+50 1 0
+E
+wagon broken~
+  This old wagon appears to have been lying along this path for over 
+ten years.  Anything beyond that, and there probably would be nothing left
+of the wagon at all.  Perhaps there are still supplies hidden inside.
+~
+#29001
+dirty clothes~
+dirty clothes~
+Some old, dirty rags lie here.~
+~
+9 0 9
+10 0 0 0
+2 1 0
+A
+2 1
+#29002
+brass ring~
+a tarnished brass ring~
+A dirty looking brass ring is lying here.~
+~
+9 0 131075
+3 0 0 0
+1 100 0
+A
+13 5
+#29003
+huge tree fallen block~
+a huge, fallen tree~
+A giant tree lies here blocking the path.~
+~
+12 0 0
+0 0 0 0
+250 1 0
+E
+tree huge fallen~
+  This tree must once have been truly grand, but now it lies dead across
+the path.  Closer inspection of the tree reveals scorching near the
+base that seems to be the cause of its untimely demise.  Perhaps some
+powerful mage was responsible for this aberration.
+~
+#29004
+sign~
+a small roadsign~
+A small sign with black lettering stands at the side of the road.~
+~
+12 0 0
+0 0 0 0
+10 1 0
+E
+sign road roadsign~
+  _______________________________________________________
+ /                                                      /
+/                                                       \
+\                The Way of the Djabarim                /
+ \                                                      \
+ /______________________________________________________/
+~
+#29005
+water well~
+a well~
+The village well is here, poorly built but functional.~
+~
+23 0 0
+99999 99999 0 0
+1000 1 0
+E
+well water~
+  This well is not built particularly well.  Stones from its
+body litter the surrounding ground, but this well still serves
+its purpose of gathering water for the villagers.
+~
+#29006
+pig roasted~
+a large, roasted pig~
+A large roasted pig is here, carved out for a feast.~
+~
+15 0 1
+250 0 -1 0
+150 100 0
+E
+roast pig~
+  It was once a large pig, a wild boar actually.  Now it is
+just a carcass, holding the meat that will help to sustain
+the tribe.
+~
+#29007
+rib roasted~
+a roasted rib~
+The roasted rib of an unfortunate swine lies here.~
+~
+19 0 1
+24 0 0 0
+5 1 0
+E
+rib roast pig~
+  This is a meat laden rib of a once large pig or boar.
+~
+#29008
+bookcase shelf~
+a bookshelf~
+A dusty, old bookshelf sits in a corner.~
+~
+15 0 0
+100 1 -1 0
+10 10 0
+E
+bookshelf shelf~
+  A simply constructed, wood bookshelf that has been sitting
+here for quite some time gathering dust.
+~
+#29009
+key brass old~
+an old, brass key~
+A small, frail looking brass key lies here.~
+~
+18 4 16385
+1 0 0 0
+1 1 0
+E
+brass key old frail~
+  A small brass key.  It looks old and worn, but not 
+necessarily from use.
+~
+#29010
+tooth bear black~
+a tooth of the black bear~
+A large, strong, sharp looking tooth lies here.~
+~
+5 8258 24577
+0 5 5 11
+5 1000 0
+A
+19 2
+A
+1 2
+S
+39 50 2
+#29011
+hide grizzly bear~
+the hide of a grizzly bear~
+A thick rug of grey-speckled, brown fur lies here.~
+~
+9 1 9
+20 0 0 0
+10 1000 0
+A
+19 1
+A
+13 20
+#29012
+lightweight bola~
+a lightweight bola~
+A tanlged mass of ropes and balls lies here.~
+~
+6 0 32769
+0 2 5 12
+5 100 0
+E
+lightweight bola~
+  A traditional weapon of three equally weighted balls
+at the end of fine ropes.  When spun above the head and
+hurled at the target, they can have a substantial impact.
+~
+#29013
+brown wolf hide~
+a brown wolf hide~
+A thin mat of brown fur lies on the ground.~
+~
+9 0 9
+10 0 0 0
+10 1000 0
+E
+brown wolf hide~
+  Armor fashioned from the hide of a brown wolf, it is 
+both durable and functional.
+~
+A
+19 1
+A
+1 1
+#29014
+red fox hide~
+a ^rred^n fox hide~
+A thin fug of ^rred^n fur lies on the ground.~
+~
+9 0 1025
+10 0 0 0
+10 1000 0
+E
+red fox hide~
+  A cloak made from the hide of a red fox.  It is fairly
+thin and quite comfortable.
+~
+A
+19 1
+A
+2 2
+#29015
+large stone axe~
+a large stone axe~
+A large axe made of stone is lying here.~
+~
+5 12288 8193
+0 4 10 15
+20 1000 0
+E
+large stone axe~
+  A fairly crude weapon, simply a sharpened stone axe-
+head attached to a wooden handle.
+~
+A
+19 2
+A
+13 15
+#29016
+dirty animal hide~
+a dirty animal hide~
+The unidentifiable remains of some animal lie here in a heap.~
+~
+9 0 9
+10 0 0 0
+5 100 0
+E
+dirty animal hide~
+  The hide of some unfortunate animal.  From enough wear
+and tear, the hide has toughened extremely, but no longer
+resembles the animal it once was a part of.
+~
+A
+5 2
+#29017
+water jug~
+a small water jug~
+An old, clay water jug is sitting here on the floor.~
+~
+17 0 1
+20 20 0 0
+3 3 0
+E
+water jug~
+  An old clay water jug that is designed for functionality
+over aesthetics.
+~
+#29018
+sturdy longbow~
+a sturdy longbow~
+A large, sturdy looking wooden bow is here.~
+~
+6 8258 32769
+0 5 5 11
+10 1000 0
+E
+sturdy longbow~
+  A basic longbow, built from a large piece of wood stretched
+by a thick drawstring.
+~
+A
+5 3
+#29019
+bone ring~
+a ring of bone~
+A small ring fashioned from bone is lying here.~
+~
+9 66 3
+1 0 0 0
+1 1000 0
+E
+bone ring~
+  A ring that has been crated from the bones of some
+unfortunate animal.
+~
+A
+3 2
+A
+4 2
+#29020
+bearskin boots~
+bearskin boots~
+Boots from some furry animal lie here.~
+~
+9 66 65
+5 0 0 0
+3 1000 0
+E
+bearskin boots~
+  Boots made from the skin of a dead bear.  They are 
+actually quite attractive when worn.
+~
+A
+6 2
+#29060
+chest box glowing~
+a glowing chest~
+A small, glowing chest sits here in the corner.~
+~
+15 1 16385
+500 5 -1 0
+1 25000 0
+E
+chest box glowing~
+  A small chest, fashioned out of a mysterious black material. 
+There are no visible hinges, but yet it opens and closes 
+as you would expect any chest to operate.  Some magical force
+must have created this chest to hold something valuable.
+~
+#29061
+mirror portal~
+a mirror~
+A large mirror stands along the wall.~
+~
+27 0 0
+29067 0 0 0
+1 1 0
+E
+mirror portal~
+  As you gaze into the mirror, you see your own reflection.
+The closer you look though, you realize that the backdrop
+behind your image in the mirror is not the same as rooms and
+doors behind you should look.
+~
+#29062
+mirror portal~
+a mirror~
+A large mirror stands along the wall.~
+~
+27 0 0
+29060 0 0 0
+1 1 0
+E
+mirror portal~
+  As you gaze into the mirror, you see your own reflection.
+The closer you look though, you realize that the backdrop
+behind your image in the mirror is not the same as rooms and
+doors behind you should look.
+~
+#29063
+mirror portal~
+a mirror~
+A large mirror stands along the wall.~
+~
+27 0 0
+29046 0 0 0
+1 1 0
+E
+mirror portal~
+  As you gaze into the mirror, you see your own reflection.
+The closer you look though, you realize that the backdrop
+behind your image in the mirror is not the same as rooms and
+doors behind you should look.
+~
+#29064
+mirror portal~
+a mirror~
+A large mirror stands along the wall.~
+~
+27 0 0
+29056 0 0 0
+1 1 0
+E
+mirror portal~
+  As you gaze into the mirror, you see your own reflection.
+The closer you look though, you realize that the backdrop
+behind your image in the mirror is not the same as rooms and
+doors behind you should look.
+~
+#29065
+small dragon statue~
+a small dragon statue~
+A small statue of a dragon rests here, drawing your eyes.~
+~
+8 268435456 0
+0 0 0 0
+100 1 0
+E
+statue small dragon~
+  As you gaze at the statue, it seems to come alive,
+though only in your head.  You hear a voice calling you,
+drawing your eyes up to the scene on the wall.
+~
+#29066
+marvelous fountain water~
+the fountain~
+A magnificent fountain is here, carved right into the floor.~
+~
+23 0 0
+99999 99999 0 0
+1 1 0
+E
+fountain marvelous~
+  The fountain is carved out of the same giant piece of
+marble as floor.  Its basin rests below the floor level,
+but a statue of a powerful dragon stands at its center.
+~
+#29070
+purple dragon amulet power~
+a ^mpurple^n amulet of dragon power~
+A ^mpurple^n amulet lies here.~
+~
+18 5 5
+1 0 0 0
+1 100000 0
+E
+amulet purple dragon power~
+  The amulet itself looks unremarkable, but there is an 
+aura of power surrounding it.  If you try to absorb some
+of the power, you can almost hear a voice calling you,
+beckoning you to some unknown fate.
+~
+A
+1 3
+A
+2 3
+A
+3 3
+A
+4 3
+A
+5 3
+A
+6 3
+#29071
+turqoise amulet dragon power~
+a ^cturquoise^n amulet of dragon power~
+A ^cblue-green^n amulet lies here.~
+~
+18 5 5
+1 0 0 0
+1 100000 0
+E
+turqoise amulet dragon power~
+  The amulet itself looks unremarkable, but there is an 
+aura of power surrounding it.  If you try to absorb some
+of the power, you can almost hear a voice calling you,
+beckoning you to some unknown fate.
+~
+A
+13 50
+A
+19 2
+A
+18 2
+#29072
+gold amulet dragon power~
+a ^Ygold^n amulet of dragon power~
+A ^Ygolden^n amulet lies here.~
+~
+18 5 5
+1 0 0 0
+1 100000 0
+E
+gold amulet dragon power~
+  The amulet itself looks unremarkable, but there is an 
+aura of power surrounding it.  If you try to absorb some
+of the power, you can almost hear a voice calling you,
+beckoning you to some unknown fate.
+~
+A
+12 50
+A
+3 2
+A
+4 2
+#29073
+silver amulet dragon power~
+a ^Wsilver^n amulet of dragon power~
+A ^Wsilver^n amulet lies here.~
+~
+18 5 5
+1 0 0 0
+1 100000 0
+E
+silver amulet dragon power~
+  The amulet itself looks unremarkable, but there is an 
+aura of power surrounding it.  If you try to absorb some
+of the power, you can almost hear a voice calling you,
+beckoning you to some unknown fate.
+~
+B
+8388736
+#29074
+colorless amulet~
+a colorless amulet~
+A colorless amulet lies here.~
+~
+18 0 5
+1 1 0 0
+1 1 0
+#29075
+purple wings dragoon~
+^mpurple^n wings of the dragoon~
+Some purple dragon wings are lying here.~
+~
+9 335544321 1025
+1 0 0 0
+1 1 0
+E
+purple wings dragoon~
+  Large purple wings, the sign of a dragoons binding to a
+powerful dragon.  By combining the power of the dragon and
+its champion, both gain enormous strength.
+~
+A
+2 10
+B
+4194304
+#29076
+turquoise wings dragoon~
+^cturqoise^n wings of the dragoon~
+Some ^cblue-green^n dragons wings are lying here.~
+~
+9 335544321 1025
+1 0 0 0
+1 1 0
+E
+turqoise wings dragoon~
+  Large turqoise wings, the sign of a dragoons binding to
+a powerful dragon.  By combining the power of the dragon 
+and its champion, both gain enormous strength.
+~
+A
+1 5
+A
+2 5
+B
+4194304
+#29077
+gold dragoon wings~
+^Ygold^n wings of the dragoon~
+Some ^Ygolden^n wings are lying here.~
+~
+9 335544321 1025
+1 0 0 0
+1 1 0
+E
+gold dragoon wings~
+  Large gold wings, the sign of a dragoons binding to a
+powerful dragon.  By combining the power of the dragon and
+its champion, both gain enormous strength.
+~
+A
+2 5
+A
+3 5
+B
+4194304
+#29078
+silver dragoon wings~
+^Wsilver^n wings of the dragoon~
+Some ^Wsilver^n dragon wings are lying here.~
+~
+9 335544321 1025
+1 0 0 0
+1 1 0
+E
+silver dragoon wings~
+  Large silver wings, the sign of a dragoons binding to a
+powerful dragon.  By combining the power of the dragon and
+its champion, both gain enormous strength.
+~
+A
+1 10
+B
+4194304
+#29079
+wings dragoon dragon knight~
+the wings of the dragoon~
+Some dragon wings, fitted for human use are lying here.~
+~
+9 2097217 1025
+15 0 0 0
+5 10000 0
+E
+wings dragoon~
+  The dragoon's wings, the very symbol of the powerful
+bond between dragon and knight.  
+~
+A
+13 25
+A
+12 25
+A
+1 2
+A
+2 2
+A
+3 2
+A
+4 2
+#29080
+poisoned dagger~
+a ^Mpoisoned^n dagger~
+A small dagger laced with poison is lying here.~
+~
+5 8396866 8193
+0 6 5 11
+3 10000 0
+E
+poisoned dagger~
+  A small, silver dagger laced with a deadly poison.
+~
+A
+19 3
+A
+5 -3
+S
+33 50 20
+S
+33 110 2
+#29081
+peacemaker longbow bow~
+a peacemaker's longbow~
+A magnificent golden bow lies here.~
+~
+6 49217 32769
+0 4 5 4
+5 10000 0
+E
+peacemaker longbow bow~
+  A magnificent golden bow, used to instill fear in its
+targets, the better to discourage or defeat them.
+~
+A
+19 1
+A
+12 10
+A
+13 10
+#29082
+dragoon dragon knight spear~
+a dragon knight's spear~
+A glimmering spear lies here.~
+~
+5 21505 8193
+0 8 6 14
+7 10000 0
+E
+spear dragon knight dragoon~
+  A hefty spear, once used by a dragon knight.
+~
+A
+18 2
+A
+19 2
+A
+23 -5
+B
+32
+#29083
+katana dragon hilted carved~
+a katana with a carved dragon hilt~
+A katana hilted by a carved dragon head lies here.~
+~
+5 8400898 8193
+0 5 9 15
+5 10000 0
+E
+dragon hilted katana~
+  A black blade atop the head and neck of a dragon 
+fashioned in valuable gems. 
+~
+A
+19 4
+A
+18 4
+A
+13 20
+#29084
+unfinished object~
+a ^Ygold dragonscale^n shield~
+A glowing shield fashioned from old dragon scales lies here.~
+~
+9 65 513
+10 0 0 0
+6 10000 0
+E
+gold dragonscale shield~
+  A wonderful shield created from the scales of a 
+golden dragon.
+~
+A
+12 30
+#29085
+dragonscale bracer~
+a dragonscale bracer~
+A wristband of dragonscales lies here.~
+~
+9 65 4097
+0 0 0 0
+4 10000 0
+E
+dragon bracer~
+A wristband of dragonscales.
+~
+A
+19 1
+A
+12 10
+A
+13 10
+#29086
+dragonscale leggings~
+dragonscale leggings~
+Leggings fashioned from dragonscales lie here.~
+~
+9 65 33
+0 0 0 0
+7 10000 0
+A
+19 1
+A
+12 10
+A
+13 10
+#29087
+dragonscale helmet~
+a dragonscale helmet~
+A helmet of dragonscales lies here.~
+~
+9 65 17
+8 0 0 0
+5 10000 0
+E
+dragonscale helmet~
+  A helmet created out of dragon scales.
+~
+A
+19 1
+A
+12 10
+A
+13 10
+#29088
+dragonscale ring~
+a dragonscale ring~
+A ring crafted from a dragon's scales lies here.~
+~
+9 65 3
+0 0 0 0
+1 10000 0
+E
+dragonscale ring~
+  Someone has actually managed to craft a ring from pure
+dragonscales.  It has a warm sense of power to it.
+~
+A
+19 1
+A
+12 10
+A
+13 10
+#29089
+ackularn spellbook book tome~
+Ackularn's spellbook~
+A powerful and ancient tome lies here.~
+~
+5 268435522 8192
+0 2 2 4
+1 10000 0
+E
+dragonmaster wand~
+  An old book with ancient incantations.  Inside is the accumulated
+knowledge of the mage Ackularn.
+~
+A
+3 3
+B
+8388608
+S
+118 50 10
+S
+150 50 10
+S
+161 50 10
+#29090
+potion glowing~
+a glowing potion~
+A small vial of glowing liquid lies here.~
+~
+10 1 1
+50 14 44 0
+1 1000 0
+E
+glowing potion~
+  A small glass vial of glowing liquid.  It is mostly a clear, somewhat 
+colorless liquid that gives off a light of its own.
+~
+#29097
+orb giant glowing ~
+a giant, glowing orb~
+A huge orb, swirling with magical images, lies here.~
+~
+8 0 0
+0 0 0 0
+1 1 0
+E
+orb giant glowing~
+  As you gaze into the giant orb, the images therein swirl violently,
+and then in a moment of clarity, the images halt and you see a reflection
+of yourself.  It is not a true reflection however, but a reflection of 
+potential.  The image in the orb represents everything you could become,
+and leaves you wondering how to achieve that end.
+~
+#29098
+ackularn diary book~
+Ackularn's diary~
+An old, worn book lies here.~
+~
+8 0 1
+0 0 0 0
+1 1 0
+E
+chapter 10 ten end beginning~
+  Mopono's companions have erected for me a glowing fortress, and a 
+spacious laboratory, locked within a labyrinth.  Here I shall live 
+and work, while Mopono's human tribe, the Djabarim, settle down into 
+a village far above our heads.  This will be the final entry into this 
+journal, as I go into isolation.  Perhaps whoever takes the time to 
+read this will venture forth and join our ranks.
+~
+E
+chapter 9 nine home~
+  Mopono led me deep into the ground, to a huge cavern that would 
+become our home.  I was introduced to his campanions, an interesting 
+array of dragons.  We all discussed the plans I have in my head, and 
+while some were more receptive than others, all were at least 
+interested.  For my part, I will isolate myself to perfect the 
+enchantment of the amulets, while Mopono will gather his human tribe 
+of worshipers to provide our potential champions.
+~
+E
+chapter 8 eight sleeping dragon~
+  Having escaped, I proceeded deeper into the woods, eventually coming 
+to a large clearing.  As I stood there in serenity, something caught my 
+eye.  I could hardly believe it, right there in that clearing, was a 
+huge sleeping dragon.  I approached with apprehension, but as I placed 
+my hand upon its head, we began to speak, and somehow understanding 
+each other, I explained to him my dreams.  The great dragon, Mopono, 
+shared my vision, and we left the clearing allies.  
+~
+E
+chapter 7 seven escape~
+  Disaster.  I barely escaped with my life and the basis of my research.
+It seems the guards learned of my activity and didn't take lightly to 
+the death of one of their comrades.  While I could easily have killed 
+them, I will not do so without good cause.  I fled.  I'm sure my 
+laboratory was destroyed and my young dragon slaughtered, but I escaped,
+fleeing west along the great forest road.  Eventually, with a bit of 
+cunning, I misdirected my pursuers.  I was safe, but at what cost?
+~
+E
+chapter 6 six progress~
+  As I had hoped, I enlisted a volunteer, a strong and very capable
+member of the corps.  He fought the small dragon bravely and
+effectively.  The dragon gazed into the amulet, seeming to contemplate
+the possible path open to it, when the fool dropped his guard and the
+dragon, not missing the opportunity, struck.  On the verge of deafeat,
+the dragon summoned its inner power and won.  Perhaps I need further
+mastery of the enchantment in order to succeed.
+~
+E
+chapter 5 five initial failure~
+  I'm afraid my efforts at using the town peasants were somewhat 
+disastrous, and very gruesome.  The young dragon is far more capable 
+than I had initially expected.  Perhaps for a fair wage I could entice 
+some of the guards of the city to take a chance.  They are underpaid 
+and frequently in search alternate sources of income.
+~
+E
+Chater 4 four first tests~
+  The process is quite simple if the enchantment and the combatants are
+truly ready.  A person dons the amulet and enters into combat with the
+dragon.  If the dragon is weakened to the point of death, it may choose
+to merge its power with that of the combatant, therby uniting their 
+strengths and augmenting them.  Some of the lowly peasants of town will
+do almost anything for some wine, perhaps even enter combat with a 
+baby dragon...
+~
+E
+preparations chapter 3 three~
+  With a dragon soon to be in my possession, I am almost ready for
+initial testing.  I shall have to establish a laboratory of my own
+however, as my master, the fool Belbrecht, cannot learn of this.  While
+the old man has taught me much, I fear his wits are slipping away
+rapidly.  I surely would hate to be around when he snaps.  I have
+picked a location on the outskirts of town to begin my work.
+~
+E
+chapter 2 two beginnings humble~
+  Today I acquired the key piece to the puzzle.  To proceed with my
+testing, I needed a dragon, still young and weak.  A travelling
+merchant of some worth came to town, and under a cover of darkness I
+approached the guards of his caravan.  The fools were completely
+unaware.  Before they knew anything was wrong they were asleep, and
+they will awake tomorrow with no recollection.  I walked right out with
+what I can only assume is a genuine dragon egg.
+~
+E
+chapter 1 one research~
+  Today I came upon a local peddling a book of myth and adventure as he
+called it.  It is truly amazing.  On the surface it chronicles the tale
+of the dragon knights of yore, the ancient dragoons.  But more 
+importantly, it contains the enchantments and spells that bound the 
+power of the dragons to their champions.  As for how this book made it 
+into the hands of a lowly peddler, I can only thank the fates. 
+~
+E
+read contents page 2 second~
+The contents of this journal are as follows:
+      ^cChapter 1^n: Research
+      ^cChapter 2^n: Humble Beginnings
+      ^cChapter 3^n: Preparations
+      ^cChapter 4^n: First Tests
+      ^cChapter 5^n: Initial Failure
+      ^cChapter 6^n: Progress
+      ^cChapter 7^n: Escape
+      ^cChapter 8^n: The Sleeping Dragon
+      ^cChapter 9^n: Home
+      ^cChapter 10^n: The End of the Beginning
+~
+E
+read diary book ackularn somebody~
+  A piece of paper has been inserted into the front of the book.
+In fine penmanship is written:
+
+Here I chronicle the grand adventure that my life has become.
+Starting innocently enough, as a simple apprentice, I have
+become far more, and now have truly grand apirations.  Herein
+I shall detail the history of my actions, so that those who 
+will someday judge me will understand what had to be done.
+-  Ackularn  -
+
+The second page lists the ^ccontents^n of the diary.
+~
+#29099
+mazemaster key~
+the mazemaster's key~
+A small key, fashioned from an unknown black material lies here.~
+~
+18 6 16385
+1 1 0 0
+1 10000 0
+E
+mazemaster key~
+  A small key of a mysterious black material.  It looks 
+extremely frail, and even one use might dissolve it.
+~
+A
+4 5
+#99999
+$~

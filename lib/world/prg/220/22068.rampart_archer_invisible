@@ -1,0 +1,15 @@
+>all_greet_prog 40~
+  if ispc($n)
+    mpechoat $n An arrow zooms out of the darkness and strikes you!
+    mpechoaround $n An arrow zooms from the darkness and strikes $N!
+    mpdamage $n  10d6+15
+  endif
+~
+>rand_prog 20~
+  if inroom($r) == here
+    mpechoat $r An arrow whistles out of the darkness and strikes you!
+    mpechoaround $r An arrow whistles from the darkness and strikes $R!
+    mpdamage $r 10d6+15
+  endif
+~
+|

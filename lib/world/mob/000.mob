@@ -1,0 +1,35 @@
+#1
+jitesh fugitive~
+Jitesh~
+Jitesh is here practicing buttorping.
+~
+He sure plays netrek a lot!
+~
+253962 33800 1000 S
+5 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 1
+#2
+auctioneer~
+the auctioneer~
+An auctioneer stands here, auctioning off items.
+~
+He sure looks like he's doing an ok business!
+~
+524362 0 1000 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#99
+death reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 33960 0 S
+30 0 -10 1d1+665 10d15+20
+0 500000
+8 8 1
+#99999
+$~

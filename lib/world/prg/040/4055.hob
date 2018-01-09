@@ -1,0 +1,22 @@
+>greet_prog 100~
+  if name($n) == Proteus
+    cheer proteus
+    say Our creator has come!
+    say He truly is a ^RSuperstar!!!^n 
+  else
+    if isimmort($n)
+    else
+      if ispc($n)
+        if rand(10)
+          say Oh no!
+          sneak
+          flee
+          flee
+          sneak
+          hide
+        endif
+      endif
+    endif 
+  endif
+~
+|

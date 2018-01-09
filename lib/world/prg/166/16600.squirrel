@@ -1,0 +1,39 @@
+>greet_prog 100~
+  if isimmort($n)
+    if name($n) == zirnozz
+     grovel zirnozz
+    else
+      if ispc($n)
+       say Ah, what a mistake, you really don't belong here.
+       say Only I know the way, but I'm not telling!
+       say Certainly not to the likes of you, anyway!
+       say Well, not unless you have some gold, that is, and a good amount at that.
+       say But I'm not making any promises.
+       scratch self
+      endif
+    endif
+  endif
+~ 
+>bribe_prog 2000~
+  say Well, thank you, you're very kind..
+  say I don't know what I'm going to do with this gold, but what the hey.
+  say Okay, bear this in mind!
+  Say From where we stand, go from the north to the south.
+  say Then go, hmm.. let's see, east, yes, that's it, east..
+  say It's been so long.
+  say There's one more direction from there I believe.
+  Say Oh forget it, figure it out yourself!
+  say Why are you bribing a squirrel anyway!?
+  emote mutters something about stupid people under his breath.
+~
+>bribe_prog 10~
+  say Why must you insult me!?
+~
+>command_prog kill squirrel~
+  say Fight me will you?
+  say Well if that's how you feel..
+  grumble
+  mpecho The squirrel's eyes glow bright yellow and then it vanishes.
+  mpgoto cleaner
+~
+|

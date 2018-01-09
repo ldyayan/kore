@@ -1,0 +1,76 @@
+>greet_prog 100~
+  if name($n) == ayana
+   bow ayana
+   break
+  else
+  endif
+~
+
+>greet_prog 100~
+  if isscript($i)
+  else
+   if ispc($n)
+     mptrigger $n whereabouts
+   endif
+  endif
+~
+
+>script_prog whereabouts~
+ #
+@
+ say You are here to find out the whereabouts of the crystals, no?
+@
+ say Well you will need to buy a colored rune from me.
+@
+ say Each rune has a color which represents the color of the crystal.
+@
+ say Read these runes to find out where the crystals are located.
+@
+ say Bring these crystals back to me and I will reward you.
+@
+ say Be warned thou, if you decide to give me the crystal.
+@
+ say I will be forced to judge you. 
+@
+ say If you have to many horrid sins you shall DIE!
+@
+ say The choice will be yours to make.
+@
+ say Keep the crystal you have or have me pass judgement on you.
+@
+ say The rewards will be great if you pass my judgement.
+@
+ say Now be on your way before I pass judgement on you now!
+~
+
+>give_prog rainbow crystal~
+ if rand(50)
+   say The Overlord smiles on you this day. You have passed judgement!
+   say You have been rewarded!
+   mpsilent junk crystal
+   mpoload 21974
+   give crystal $n 
+ else
+ if rand(50)
+   say The Overlord smile on you this day. You have passed judgement!
+   say You have been rewarded!
+   mpsilent junk crystal
+   mpoload 21975
+   give power $n
+ else
+ if rand(5)
+   say The Overlord frowns on you this day. You failed and must DIE!
+   mpsilent junk crystal
+   lick $n
+   mpdamage $n 6000
+ else
+   say Hmm I don't know what to do with you little one.
+   say You walk on thin ice. I spare you this time.
+   mpsilent junk crystal
+   mpoload 21976
+   give orb $n
+  endif
+ endif
+endif
+~
+|

@@ -1,0 +1,53 @@
+>greet_prog 100~
+  if isimmort($n)
+  else
+    say You will go no further.
+    kill $r
+  endif
+~
+>command_prog bash~
+  mpechoat $n The body of $I turns immaterial as you attempt to bash into him.
+  tell $n You are too SLOW!!!!!
+  mpechoaround $n As $n tries to bash into $I, Toraschs body turn immaterial and $n falls to the floor.
+  mpechoaround $n $N seems a little sluggish.
+  mpcallmagic 'slow' $n
+  mppose $n sit
+  mpstopcommand
+~
+>fight_prog 9~
+  if inroom($r) == here
+    mpechoaround $r At a gesture from $I, a great wind sweeps $R from the battle!
+    mpechoat $r At the gesture of $I a great wind carries you from the battle.
+    mpechoat $r You flip end over end until you land sprawled out on the ground.
+    mppose $r sit
+    mptransfer $r 16509
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoaround $r $R doubles over as $I gouges a chunk of flesh from his body.
+    mpechoat $r The claw of $I moves lightning fast and rips a chunk of flesh from your body.
+    mpechoat $r You double over in pain, falling to your knees.
+    mpdamage $r 8d10+10
+    mppose $r sit
+  endif
+~
+>fight_prog 22~
+  mpecho $I raises his hands into the air and the air crackles with energy.
+  say All must die!!!
+  mpecho $I gestures towards you and flames envelope your body.
+  mpdamage all 16d10+70
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I shimmers and disappears...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

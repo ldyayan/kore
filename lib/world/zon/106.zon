@@ -1,0 +1,120 @@
+#106
+Vice Island~
+10699 25 1 3
+M 0 10601     5 10604            the woman in pink
+E 1 10600    10     5                    body a pretty pink taffeta dress
+M 0 10602     5 10604            the woman in blue
+E 1 10601    10     5                    body a pretty blue silk dress
+M 0 10602     5 10604            the woman in blue
+E 1 10601    10     5                    body a pretty blue silk dress
+M 0 10603     5 10604            the woman in pristine white
+E 1 10602    10     5                    body a pretty pristine white cotton dress
+M 0 10604     5 10604            the woman in a drab beige dress
+E 1 10603    10     5                    body an ugly beige burlap dress
+M 0 10604     5 10604            the woman in a drab beige dress
+E 1 10603    10     5                    body an ugly beige burlap dress
+M 0 10605     1 10604            the special slave of the master
+E 1 10604    10     5                    body a beautiful swirling multi-colored dress
+M 0 10606     1 10604            a fat harem master
+E 1 10606    10     5                    body a robe of leisure
+E 1 10630    10    17                    held a stone key
+G 1 10605    10    -1                    give a demon-faced talisman
+M 0 10607     5 10601            a small, red crab
+M 0 10607     5 10601            a small, red crab
+M 0 10607     5 10601            a small, red crab
+M 0 10607     5 10601            a small, red crab
+M 0 10608     1 10625            a cuddly little tar baby
+E 1 10607    10    17                    held a tar rattle
+M 0 10609     2 10641            a seagull
+M 0 10609     2 10640            a seagull
+M 0 10610     1 10658            the Priest of Fear
+E 1 10609    10     6                    head a Crown of Spikes
+E 1 10610    10    12                    about a black, bloodstained robe
+E 1 10613    10    17                    held a cellkey
+G 1 10608    10    -1                    give a screaming scroll
+D 0 10658     3     2            Office of the High Priest of Fear door west
+M 0 10611     1 10651            a wailing ghost
+G 1 10631    10    -1                    give a redwood key
+M 0 10612     1 10652            the prisoner
+E 1 10611    10     8                    feet a ball and chain
+E 1 10612    10     9                    hands some manacles
+D 0 10652     0     2            Cell door north
+M 0 10613     1 10649            the butcher
+E 1 10614    10    16                    wield a huge butcher knife
+E 1 10629    10    17                    held a transparent glass key
+D 0 10649     0     4            Dressing Room door north
+M 0 10614     1 10695            the High Priest of Terror
+E 1 10615    10    10                    arms a pair of pitch black armbands
+E 1 10616    10     7                    legs a pair of pitch black leggings
+E 1 10617    10     8                    feet a pair of pitch black boots
+E 1 10618    10     9                    hands a pair of pitch black gloves
+E 1 10619    10    16                    wield the terror-blade
+E 1 10620    10     5                    body a pitch-black plate armor
+E 1 10621    10     6                    head the Headdress of Terror
+E 1 10622    10     1                    left finger a ring of pitch-black metal
+E 1 10623    10     3                    neck 1 a cloak of the purest black
+G 1 10628    10    -1                    give a pitch-black key
+M 0 10615     1 10699            the Keeper of the Shrine of Vice
+E 1 10625    10    16                    wield a cat o' nine tails
+M 0 10617     1 10665            a torturer
+E 1 10625    10    16                    wield a cat o' nine tails
+G 1 10636    10    -1                    give a shining blue potion
+G 1 10635    10    -1                    give a glowing red potion
+M 0 10618    20 10666            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10670            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10670            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10672            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10672            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10676            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10676            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+G 1 10637    10    -1                    give a green potion
+M 0 10618    20 10678            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10678            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10678            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10618    20 10678            an interrogator
+E 1 10626    10     6                    head a pair of wire-rimmed spectacles
+M 0 10619     1 10671            the Grand Inquisitor
+E 1 10638    10    17                    held a purple potion of full restoration
+E 1 10639    10     3                    neck 1 a cloak of wisdom
+M 0 10620     1 10683            the Priest of Hopelessness
+E 1 10640    10     3                    neck 1 a cloak of forgetfulness
+G 1 10635    10    -1                    give a glowing red potion
+D 0 10683     3     3            Dark Room door west
+O 0 10633     1 10667            a tiny key
+D 0 10667     0     4            Outlay door north
+D 0 10638     2     2            Trail of Terror door south
+D 0 10648     0     2            Trophy Room door north
+D 0 10648     2     4            Trophy Room door south
+D 0 10653     0     1            Strangely shaped hallway. door north
+D 0 10653     1     2            Strangely shaped hallway. door east
+D 0 10653     2     2            Strangely shaped hallway. door south
+D 0 10654     2     1            Open Hearth door south
+D 0 10655     3     2            Supply Room door west
+D 0 10656     0     1            Deserted Bedroom door north
+D 0 10657     1     2            Creepy Hallway door east
+D 0 10657     2     1            Creepy Hallway door south
+D 0 10659     0     1            Creepy Hallway door north
+D 0 10660     2     1            Closet door south
+D 0 10668     2     4            Outlay door south
+D 0 10673     0     4            Outlay door north
+D 0 10677     2     4            Outlay door south
+D 0 10680     1     3            Deserted Corridor door east
+D 0 10681     1     3            Deserted Corridor door east
+D 0 10682     1     3            Deserted Corridor door east
+D 0 10692     0     2            Entrance to the Office of the High Priest of Terror door north
+D 0 10694     2     2            Hall of Death door south
+D 0 10697     0     2            Entrance to the Temple of Terror door north
+* M 0 10616     1 10704            the Grand Dragon of Terror
+S
+#99999
+$~

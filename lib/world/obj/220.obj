@@ -1,0 +1,1224 @@
+#22000
+steel key~
+a steel key~
+A steel key lies here shining on the ground.~
+~
+18 65580 1
+0 0 0 0
+4 1 1
+#22002
+long silver key~
+a long ^Wsilver^n key~
+A long ^Wsilver^n key lies here on the ground waiting to be picked up.~
+~
+18 12 1
+0 0 0 0
+1 1 1
+#22003
+heavy iron key~
+a heavy iron key~
+A heavy iron key lies here in the dust getting rusty.~
+~
+18 140 1
+0 0 0 0
+1 1 1
+#22004
+large hollow log~
+a hollow log~
+The large hollow log might make a nice backrest.~
+~
+27 92 0
+22045 0 0 0
+99999 1 1
+E
+large hollow log~
+   The trunk of a tall conifer, its bark uncorrupted, hollow but sound.
+A blue-black the color of a crows wings dazzles your eyes when you
+peer inside.  What lies there or where it might lead is large a mystery
+as how it came to rest atop the treeless butte.
+~
+#22005
+simple zinc key~
+a simple zinc key~
+A plain zinc key rests here.~
+~
+18 81932 1
+0 0 0 0
+2 1 1
+#22006
+small brass key~
+a small brass key~
+A small brass key lies here, you hardly notice it.~
+~
+18 65564 1
+0 0 0 0
+1 1 1
+#22007
+glowing steel rod~
+a red-hot steel rod~
+A red-hot steel rod emits a pulsing glow.~
+~
+1 9646088 1
+0 0 -1 0
+18 1 1 2
+E
+red hot glowing steel rod~
+   It glows red hot illuminating the area that surrounds it.  It is cool to
+the touch as though infused with wierd and powerful magic.
+~
+A
+19 5
+A
+13 25
+B
+1024 0
+#22008
+large hammer~
+a large hammer~
+A large hammer was laid on the ground.~
+~
+5 1167384 8193
+5 6 6 5
+18 1 1
+A
+12 35
+A
+19 4
+S
+71 50 2
+#22009
+brass gate key~
+a large brass key~
+A large brass key, discarded by some fool, rests here.~
+~
+18 65804 1
+0 0 0 0
+3 1 1
+#22010
+lever~
+lever~
+A metal lever protrudes from a slot in the wall of the lift.~
+~
+27 322 0
+22088 3 0 0
+99999 0 0
+E
+lever~
+   The metal lever occupies the end of the slot decorated by an arrow pointing
+down.  If you 'pull' the lever toward yourself, it will occupy the end
+of the slot decorated with an arrow that points upward.
+~
+#22011
+lever~
+lever~
+A lever rises from a slot in the floor of the lift.~
+~
+27 0 0
+22097 3 0 0
+99999 0 0
+E
+lever~
+   The lever juts from the slot in the floor at an easterly angle.  A gentle
+pull will set it to a westerly angle.
+~
+#22012
+blue green skirt algae~
+a skirt of algae~
+A blue-green skirt lies here in a slimy heap.~
+~
+22 16546 2049
+0 0 0 0
+6 1 1
+A
+17 3
+#22013
+empty tortoise shell~
+a tortoise shell~
+An empty tortise shell lies upturned here.~
+~
+9 1042 17
+9 0 0 0
+6 1 0
+E
+tortoise shell empty~
+   A smart armourer could turn this shell into a fine helmet.
+~
+#22014
+crawdad crawdads claw shell~
+a crawdads claw~
+A large claw-shaped shell rests here.~
+~
+5 0 8193
+3 3 4 6
+7 1 1
+E
+claw crawdad shell huge~
+   A skilled weaponsmith could turn these empty pincers into an awesome
+weapon.
+~
+A
+19 2
+A
+18 -2
+#22015
+chunk crawdad~
+a chunk of crawdad~
+A chunk of succulent meat awaits a hungry adventurer.~
+~
+19 65540 1
+24 0 0 0
+1 1 1
+#22016
+harridan harridans egg~
+a harridan egg~
+A large, brown egg wobbles on the floor here.~
+~
+19 65536 1
+6 0 0 0
+2 1 1
+#22017
+enormous drumstick~
+an enormous drumstick~
+The leg of a large bird lies here, attracting flies.~
+~
+19 0 1
+10 0 0 0
+3 1 1
+#22018
+rat pelt~
+a grey rat pelt~
+The pelt of a small grey animal lies here gathering dust.~
+~
+11 0 4097
+0 0 0 0
+5 1 1
+A
+18 1
+A
+2 1
+#22019
+harridan's~
+a harridan's feather~
+A harridan's feather descended from the heavens.~
+~
+11 65542 17
+0 0 0 0
+5 1 0
+E
+harridan's~
+  The feather looks like trash at first glance.  But when you pick it up and
+stroke it your skull is suddenly filled with an odd music and your heart
+rises in your throat.  You are consumed with a child-like glee.  Perhaps
+this feather is worth keeping.  Perhaps it might be exchanged for something
+of great value.
+~
+#22020
+miners drill~
+a miners drill~
+A long metal bar lies here in a pool of rust-colored water.~
+~
+5 78466 8193
+0 3 6 11
+12 0 0
+#22021
+miners headlamp lamp~
+a miners headlamp~
+A rusty lantern rests here, attracting moths.~
+~
+11 82497 17
+0 0 0 0
+1 1 1
+A
+17 -2
+A
+18 1
+#22022
+tiller~
+the tiller~
+The tiller awaits the boatman's guiding hand.~
+~
+12 65684 1
+22023 22026 22026 0
+99999 1 1
+E
+tiller~
+  A wooden arm, one end worn shiny-smooth from years of use, attached
+to a stout post that vanishes beneath the floorboards.  
+~
+#22023
+packet boat~
+the packet boat~
+The packet boat is ready to board.~
+~
+27 0 0
+22026 1 0 0
+999 1 1
+E
+packet boat~
+little ascii illustration of the boat.
+~
+#22024
+short handled axe sturmbeil beil~
+a short axe~
+A short-handled axe rests upon the ground.~
+~
+5 9792 8193
+2 3 9 3
+13 1 1
+A
+18 3
+A
+19 2
+#22025
+plate breastplate~
+an azure breastplate~
+A shimmering azure breastplate awaits a new owner.~
+~
+9 8402432 9
+10 0 0 0
+9 1 0
+E
+breastplate plate light sturdy~
+  The batwing crest embossed into this high-nickel steel breastplate
+makes it unique as well as providing additional strength.  This piece
+of armor is deceptively light considering the punishment it can take.
+~
+A
+13 15
+A
+2 2
+A
+1 2
+#22026
+oberst brass cap~
+the obersts brass cap~
+A peaked brass cap lies here.~
+~
+9 13411 17
+4 0 0 0
+8 1 1
+A
+19 1
+A
+5 2
+A
+13 15
+#22027
+oberst baton~
+the obersts baton~
+A baton, crested with a small figurine, lies here.~
+~
+9 8925184 16385
+2 0 0 0
+10 1 1
+A
+18 5
+A
+1 2
+A
+2 1
+#22028
+azure batwing vambraces~
+azure batwing vambraces~
+A set of azure batwing vambraces lie here on the ground.~
+~
+9 524418 257
+12 0 0 0
+9 2500 0
+E
+batwing vambraces~
+   A fringe of jagged metal teeth decorate the forward edge of the blue
+steel vambraces.  The fringe is functional as well as decorative: the teeth
+can saw at an enemy's armor or catch and damage his weapon when he strikes.
+~
+A
+1 1
+A
+12 -50
+A
+19 1
+#22029
+helm stollekommando gargoyle steel~
+a winged helm~
+A small steel gargoyle's head lies upturned.~
+~
+9 9597570 17
+10 0 0 0
+8 1 1
+E
+stollekommando helm gargoyle steel head~
+   A steel helm with a wide brim that extends backward affording extra pro-
+tection for the wearer's neck.  The crown is pressed in the shape of a gar-
+goyle with rubies set into the eyes and mouth.
+~
+A
+13 15
+A
+5 1
+A
+1 2
+#22030
+violet shortsword blade short sword~
+a shimmering violet shortsword~
+A violet blade shimmers like oil on a pool of water.~
+~
+5 8396928 8193
+3 6 4 3
+10 1 1
+A
+19 3
+A
+2 1
+#22031
+narrow leather belt shoulder strap~
+a martinets belt and shoulder strap~
+A leather belt and shoulder strap lie on the ground.~
+~
+11 1049730 2049
+0 0 0 0
+5 1 0
+E
+leather belt shoulder strap martinet~
+   Black leather polished to a ceremonial mirror sheen.  The strap crosses
+the wearer's chest from the right hip over the left shoulder.  The strap,
+while providing a minimum of additional support, projects an air of strength
+and confidence.  Authority.
+~
+A
+1 1
+A
+13 25
+A
+11 1
+#22032
+bung mallet wooden~
+a bung mallet~
+A mallet with a narrow wooden head lies on the ground.~
+~
+18 1026 16385
+1 1 0 0
+5 1 1
+A
+19 1
+A
+18 2
+#22033
+heavy green ledgerbook tome~
+a heavy ledgerbook~
+A tome-sized ledgerbook rest here.~
+~
+5 34322 8193
+0 3 5 5
+10 1 1
+A
+13 15
+A
+19 2
+#22034
+wachtmeisters greatcoat coat~
+a Wachtmeisters greatcoat~
+A heavy coat lies here in a wooly heap.~
+~
+9 1536 1025
+4 0 0 0
+5 1 1
+A
+4 2
+A
+9 1
+#22035
+shiny brass whistle~
+a shiny brass whistle~
+A watchmans whistle was carelessly abandoned here.~
+~
+3 0 16385
+35 1 1 139
+9 1 1
+#22036
+sturdy archers gloves~
+a pair of archers gloves~
+A sturdy pair of gloves lies here.~
+~
+9 525442 129
+9 0 0 0
+1 1 1
+E
+sturdy archers gloves~
+   The palm and inner side of the fingers of these steel mesh gloves are
+padded with leather topped with moleskin which affords the wearer a better
+grip on his or her weapon and prevents fatigue.
+~
+A
+18 3
+A
+1 2
+A
+2 2
+A
+12 -50
+#22037
+dangerous bracelet azure spined~
+an azure spined bracelet~
+A dangerous-looking bracelet was carelessly dropped on the ground.~
+~
+9 8926338 4097
+7 0 0 0
+6 1 1
+E
+rasiersturmband bracelet dangerous~
+   A triple comb of razor-sharp teeth rise from the blue steel band.  The
+teeth on the center comb are hooked slightly.  A steel flange extends from
+the top of the bracelet providing extra protection for the wearer's hands.
+~
+A
+19 2
+A
+5 -2
+#22038
+odd contraption compound bow~
+a compound bow~
+An odd-looking contraption lies on the ground.~
+~
+6 525458 32769
+4 5 6 11
+12 1 1
+E
+compound bow~
+   The bowstrings run like a cat's cradle through a series of pulleys; the
+draw on this bow is light in relation to it's range and striking power.
+~
+A
+19 4
+A
+2 1
+A
+12 -50
+#22039
+black iron fist~
+a black iron fist~
+A large iron fist rests here, waiting for you to pick it up and punch someone.~
+~
+5 18049 8193
+0 3 5 13
+1 1 1
+A
+13 10
+A
+19 3
+#22040
+azure enamel tap handle~
+a tap handle~
+A strange azure sceptre lies here.~
+~
+12 529427 16385
+0 0 0 0
+7 1 1
+A
+1 2
+A
+6 3
+#22041
+several pink gold ribbons~
+several pink and ^Ygold^n ribbons~
+Several pink and ^Ygold^n ribbons have been abandoned here.~
+~
+11 8211 17
+0 0 0 0
+3 1 1
+A
+12 25
+A
+6 4
+#22042
+bass drum~
+a bass drum~
+A bass drum lies on its side.~
+~
+24 8451072 8193
+0 0 0 0
+12 1 1
+A
+12 15
+A
+19 1
+#22043
+smelly turban~
+a smelly turban~
+A grey, sweat-stained turban lies in a smelly heap~
+~
+9 45568 17
+7 0 0 0
+9 1 1
+A
+12 20
+A
+18 2
+#22044
+tiny leather patch apron~
+a tiny leather apron~
+A patch of scorched leather, the size of a hand towel, lies here.~
+~
+9 30354 2049
+15 0 0 0
+10 1 1
+A
+1 2
+A
+19 2
+#22045
+glowing spur hook chain ~
+a spur hook and chain~
+A large hook and a glowing length of chain.~
+~
+5 28866 24577
+2 10 2 10
+15 1 1 1500
+E
+glowing spur hook chain~
+   A thick metal rod bent into a hook with several links of stout chain 
+attached.  It glows as though exposed to a fire for so long a wierd 
+residual heat remains.
+~
+A
+19 4
+A
+2 1
+A
+18 4
+#22046
+pulsing violet amulet~
+a violet amulet~
+A small stone emits pulses of violet light.~
+~
+11 2 5
+0 0 0 0
+7 1 1
+A
+12 75
+A
+4 2
+A
+1 2
+B
+1152 0
+#22047
+lethal blade dirk retribution~
+a Dirk of Retribution~
+A lethal-looking blade lies here, misplaced by an assassin.~
+~
+5 45522 8193
+0 4 5 11
+7 1 1
+A
+18 1
+A
+19 2
+#22048
+shining brass clarion~
+a clarion~
+A large shiny horn lies here, waiting for someone to blow upon it.~
+~
+24 9499651 8193
+0 0 0 0
+12 1 1
+E
+clarion shiny horn~
+   The brass horn looks like a large bugle.  The brass tubing curves in a 
+circle rather than an oval and it's bell is much larger.  This instrument
+can both warn allies and instill fear in enemies, depending in the skill
+of the player.
+~
+A
+12 50
+A
+13 20
+A
+6 3
+#22049
+shiny brass box lamp signalmans lamp~
+a signalmans lamp~
+A shiny brass box rests on the ground.~
+~
+1 1102865 16385
+0 0 -1 0
+7 1 1
+E
+signalmans lamp~
+   A wheel atop the large brass box adjusts a set of convex mirrors inside,
+adjusting the beam from a bright broadcast glow to a narrow shaft that 
+pierces the darkness well beyond the bearer.  At close range this beam is
+brilliant enough to blind opponents.
+~
+A
+4 3
+A
+12 30
+A
+2 1
+#22050
+golden brocaded robes~
+^Ygolden^n brocaded robes~
+A robe, exquisitely detailed in ^Ygold^n, lies here in a heap.~
+~
+9 168977 1025
+15 0 0 0
+11 1 1
+A
+1 3
+A
+2 4
+#22051
+rod golden rule~
+the rod of the golden rule~
+A stout, golden rod was stupidly dropped here.~
+~
+5 676945 8193
+5 7 8 15
+15 1 1
+A
+13 25
+A
+19 5
+#22052
+large oval shield~
+a large oval shield~
+A large oval shield lies here.~
+~
+9 205952 513
+10 0 0 0
+1 1 1
+A
+13 15
+#22053
+nickel studded war club~
+nickel studded war club~
+A large ebony club, studded with nickel power-points lies here.~
+~
+5 0 8193
+4 5 7 6
+20 1 1
+E
+ebony nickel studded warclub~
+   Three bands of pyramidally-shaped nickel studs ring the delivery end
+of the stout ebony club.  A large nickel stud caps the top end, magnifying
+the impact of butt strokes.  The base is knurled with a diamond checker
+providing a firm grip.  
+~
+A
+19 1
+A
+18 2
+A
+13 15
+#22054
+short twin bladed spear~
+a short twin bladed spear~
+A twin bladed spear lies here, waiting to fork someone.~
+~
+5 8832 8193
+0 2 8 11
+1 1 1
+A
+18 1
+A
+19 2
+#22055
+azure steel leg plates~
+azure steel leg plates~
+A pair of azure steel leg plates with a comb of wide teeth.~
+~
+9 524416 33
+10 0 0 0
+10 1 1
+E
+azure steel leg plates~
+   The plates are light weight but incredibly strong.  A comb of wide sharp
+teeth rise from the shins.
+~
+A
+19 1
+A
+13 15
+A
+2 -2
+#22056
+bloody boots~
+a pair of bloody boots~
+A pair of blood-covered steel boots awaits a good scrubbing.~
+~
+9 533122 65
+8 0 0 0
+12 1 1
+E
+bloody boots blutbefleckt bohrerstiefelen~
+   Azure steel scales crawl down the shank and across the toes like the plates
+on the belly of a serpent.  An auger-like spire extends from each toe.  The
+boots are comfortable, in spite of their wicked appearance, lined with thick
+felt that cushions the blows of ten thousand footfalls upon stone floors.
+~
+A
+19 1
+A
+1 1
+A
+6 -3
+#22057
+overseers flail~
+an overseers flail~
+A small flail lies here.~
+~
+5 34432 8193
+3 4 7 10
+6 1 1
+E
+overseers flail~
+   A wicked festoon of barbed chains sprout from a sprocket at the end of
+a thick wooden handle.  The chains bunch together with a flick of the wrist
+and strike as a unit.  Otherwise the chains strike the victim like a hundred
+talons.
+~
+A
+1 2
+A
+19 2
+#22058
+lever~
+the lever~
+A lever rises from a slot in the floor of the lift.~
+~
+27 0 0
+22098 2 0 0
+99999 1 1
+E
+lever~
+   The lever juts from the floor at a westerly angle.  A gentle push would
+set it to an easterly angle.
+~
+#22059
+black large flat stone~
+a large flat stone~
+A flat black rock sits here, it's streaked with dried slime.~
+~
+5 164482 8193
+0 3 3 6
+8 1 1
+A
+13 5
+A
+19 1
+#22060
+large warhammer~
+a large warhammer~
+A large warhammer lies here.~
+~
+5 5248 1
+0 5 3 7
+8 1 1
+A
+18 2
+A
+19 1
+#22061
+double bitted battle axe~
+a double bitted battle axe~
+An enourmous axe lies here, it looks pretty heavy~
+~
+5 9857 8193
+0 6 3 15
+17 1 1
+A
+19 4
+A
+1 -1
+#22062
+blood soaked rag~
+a rag soaked in blood~
+A rag lies here in a bloody heap.~
+~
+11 524930 16401
+0 0 0 0
+4 1 1
+E
+rag soaked blood~
+  A once white linen kerchief.  The former wearer dipped it in the blood
+of those he slew.  It hums now with their last essence.
+~
+A
+12 25
+A
+13 25
+A
+4 -4
+A
+6 -2
+#22063
+black iron gauntlets~
+a pair of black iron gauntlets~
+A pair of black gauntlets was dropped here.~
+~
+9 1680 129
+8 0 0 0
+8 1 1
+A
+18 -1
+#22064
+dog meat~
+some dog meat~
+A piece of meat lies here.~
+~
+19 0 1
+4 0 0 0
+1 1 1
+#22065
+khaki skirt~
+a khaki skirt~
+A khaki skirt lies here~
+~
+9 1537 33
+10 0 0 0
+1 1 1
+A
+24 3
+A
+18 3
+#22066
+claspboard board~
+a claspboard~
+A martinet set his claspboard down here.~
+~
+15 2 16385
+75 5 -1 0
+7 1 1
+E
+claspboard board~
+   A thin rectangle of oak with a spring-metal clasp at the top.
+~
+#22067
+sheet parchment orders watch scroll~
+orders of the watch~
+A sheet of parchment imprinted with unfamiliar markings was left behind.~
+~
+2 130 1
+50 125 131 0
+5 1 1
+E
+sheet parchment orders watch scroll~
+   A sheet of parchment imprinted with well ordered but totally indecipherable
+markings.
+~
+#22068
+half finished sword~
+a half finished sword~
+An unfinished sword lies here.~
+~
+4 1664 24577
+50 99 20 12
+10 1 1
+A
+18 -1
+A
+19 3
+#22069
+slaves tunic~
+a slaves tunic~
+A sackcloth tunic lies here.~
+~
+11 129 1
+0 0 0 0
+1 1 1
+A
+18 -6
+A
+13 -20
+#22070
+floppy sandals~
+a pair of floppy sandals~
+A pair of floppy sandals was discarded here.~
+~
+11 0 65
+0 0 0 0
+1 1 1
+A
+14 -100
+A
+1 -5
+#22071
+nickel plated ice tongs~
+nickel plated ice tongs~
+A shiny pair of tongs lie here.~
+~
+5 32897 24577
+0 4 4 4
+4 1 1
+A
+18 2
+A
+19 1
+#22072
+shiny nickel key~
+nickel key~
+A shiny key was dropped here.~
+~
+18 0 1
+0 0 0 0
+3 1 1
+#22073
+ceremonial breastplate plate nickel~
+a nickel ceremonial breastplate~
+A breastplate, shiny as a mirror, was discarded here.~
+~
+9 66049 9
+12 0 0 0
+12 1 1
+E
+nickel platte~
+   The mirror-like plate sports the bat-winged eagle crest in azure enamel.
+It is heavy; functional as well as decorative.
+~
+A
+5 2
+A
+18 4
+#22074
+nickel mesh leggings~
+nickel mesh leggings~
+A length of nickel mesh lies coiled like the shed skin of a horrible serpent.~
+~
+9 53760 33
+9 0 0 0
+6 1 1
+A
+12 30
+A
+6 2
+#22075
+shimmering violet cape~
+a shimmering violet cape~
+A length of violet cloth lies in a shimmering heap.~
+~
+11 0 5
+0 0 0 0
+6 1 1
+E
+shimmering violet cape~
+   The cape is unadorned with any decorations or emblems.  The stitching is
+close and precise.  Your fingertips tingle as you handle the silky cloth.
+~
+A
+12 30
+#22076
+glowing sword decorum~
+sword of decorum~
+A long glowing blade rests here~
+~
+5 9746 8193
+4 3 5 3
+1 1 1
+A
+18 3
+#22077
+onyx nickel ring~
+onyx and nickel ring~
+An onyx stud set in a nickel band was misplaced here.~
+~
+9 1049090 3
+8 0 0 0
+12 1 1
+E
+onyx nickel steel ring power~
+   A filligree of nickel steel strands encase an onyx stud carved
+to the bat-winged crest of the Trust.  An ache races from the base
+of your spine as you slip the ring on your finger.  A blood-lust
+overtakes you as the evil of this ring permeates your soul.
+~
+A
+13 10
+A
+19 2
+A
+1 1
+#22078
+nickel plated corkscrew~
+a nickel plated corkscrew~
+A sturdy corkscrew was abandoned after the festivities.~
+~
+18 65669 1
+1 0 0 0
+7 1 1
+E
+nickel plated corkscrew~
+   A handsome, sturdy corkscrew.  Looks like it could open more than a bottle.
+~
+A
+14 -106
+#22079
+viceroys nickel onyx crown~
+the viceroys onyx studded crown~
+A nickel plated crown, studded with onyx lies here.~
+~
+9 5634 17
+5 0 0 0
+1 1 1
+A
+6 1
+A
+12 15
+#22080
+sensible shoes~
+a pair of sensible shoes~
+A plain, but comfortable-looking, pair of shoes rests here.~
+~
+11 0 65
+0 0 0 0
+8 1 1
+A
+17 9
+A
+1 2
+A
+14 15
+#22081
+officers class ring~
+an officers class ring~
+A ring with a strange crest lies here.~
+~
+9 1050242 3
+10 0 0 0
+7 1 1
+A
+19 2
+A
+2 2
+A
+13 10
+A
+12 -50
+#22082
+fat diamond ring~
+a fat ^Wdiamond^n ring~
+A large ^Wdiamond^n set in a stout band lies here.~
+~
+9 1539 3
+8 0 0 0
+1 1 1
+A
+19 1
+A
+18 1
+#22083
+stout ebony billy club~
+a stout ebony billy~
+A short dark club lies here.~
+~
+5 5120 8193
+0 3 4 7
+1 1 1
+A
+18 1
+A
+19 1
+#22084
+shield obedience~
+a shield of obedience~
+A large shield lies here, it looks pretty sturdy~
+~
+9 1554 513
+12 0 0 0
+12 1 1
+A
+1 1
+A
+6 -4
+#22085
+ceremonial dagger~
+a ceremonial dagger~
+An intricately decorated dagger lies here.~
+~
+5 9745 8193
+0 2 7 14
+10 1 1
+A
+2 3
+A
+19 2
+#22086
+hollow log~
+a hollow log~
+A hollow log rests beneath a blanket of needles and dead leaves.~
+   A tree fell in the woods and there was no one around to hear the sound.
+Now it lies here, a den for forest creatures and lost wayfarers covered by
+a thick blanket of pine needles and other forest detritus.
+~
+13 0 0
+0 0 0 0
+999999 0 0
+#22087
+armbrust crossbow bow~
+an oversized crossbow~
+A stout crossbow lies on the ground.~
+~
+6 1053328 32769
+4 3 6 1
+12 2500 0
+A
+19 3
+A
+2 2
+#22088
+greed heart bullfrog beats~
+a greed filled heart~
+A disembodied heart beats like a croaking bullfrog~
+~
+10 2 1
+50 64 120 129
+7 0 0 25
+#22089
+violet longsword~
+a violet longsword~
+A violet longsword lies on the ground.~
+~
+5 156 8193
+5 5 5 3
+15 0 0
+E
+carton lucky strike cigarettes~
+LSMFT!
+~
+A
+19 6
+A
+18 4
+#22090
+turkey pot pie~
+a turkey pot pie~
+A turkey pot pie gives off a delicious aroma.~
+~
+19 0 1
+12 0 0 0
+4 0 0
+#22091
+dark breastplate plate~
+a dark breastplate~
+A dark breast plate was left here.~
+~
+9 0 9
+15 0 0 0
+12 0 0 1000
+E
+dark breast plate~
+  You could wear this vest of dark magical armor.
+~
+A
+13 40
+#22092
+vest~
+a vest~
+Someone dropped a vest.~
+~
+9 65664 9
+20 0 0 0
+0 50000 0
+A
+13 100
+#99999
+$~

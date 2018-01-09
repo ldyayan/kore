@@ -1,0 +1,706 @@
+#14500
+Dynamic Zone Storage Room~
+   This room is a special god room.  Players found in here will be *FROZEN*
+This room stores the eq that gets left behind by wanderers in the dynamic
+space.  Dynamic space proper starts in the next room...
+   If a person wants to have an exit from a normal room point out into 
+dspace, have that real room point to dspace room #14599 (the last room in
+dspace).
+~
+145 1032 0
+S
+#14501
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14502
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14503
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14504
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14505
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14506
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14507
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14508
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14509
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14510
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14511
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14512
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14513
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14514
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14515
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14516
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14517
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14518
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14519
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14520
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14521
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14522
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14523
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14524
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14525
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14526
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14527
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14528
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14529
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14530
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14531
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14532
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14533
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14534
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14535
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14536
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14537
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14538
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14539
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14540
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14541
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14542
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14543
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14544
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14545
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14546
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14547
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14548
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14549
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14550
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14551
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14552
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14553
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14554
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14555
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14556
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14557
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14558
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14559
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14560
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14561
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14562
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14563
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14564
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14565
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14566
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14567
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14568
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14569
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14570
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14571
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14572
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14573
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14574
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14575
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14576
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14577
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14578
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14579
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14580
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14581
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14582
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14583
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14584
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14585
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14586
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14587
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14588
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14589
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14590
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14591
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14592
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14593
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14594
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14595
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14596
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14597
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14598
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#14599
+Dynamic Room~
+   This room's description should vary constantly depending on where
+dynamic space thinks you are..
+~
+145 0 0
+S
+#99999
+$~

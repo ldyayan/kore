@@ -1,0 +1,8 @@
+>fight_prog 8~
+  if inroom($r) == here
+    mpechoat $r $I butts you with its horn!
+    mpechoaround $r $I butts $R with its horn!
+    mpdamage $r 80
+  endif
+~
+|

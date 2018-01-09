@@ -1,0 +1,43 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    say Who dares disturb Nahk... Oh please, PLEASE spare my puny life, Goddess!!
+    break
+  else
+    if ispc($n)
+      if rand(80)   
+        mpecho $I's head shoots up from his work as you enter the room.
+        say Nahklug didn't give you authorization to be here!!
+        say You die for disturbing me!
+        mpecho $I howls a primitive orcish war cry and charges!
+        kill $n
+      else
+        peer $n
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if class($r) == cleric
+      growl $r
+      switch $r
+      bash
+      riposte
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpecho $I taps his foot on the ground and a sheet of bees appears out of the ceiling and cover you!
+    mpecho You scream in pain as insect after insect stings you!
+    mpdamage all 12d20+25
+    mpcallmagic 'poison' all
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    cackle
+    cast 'disintegrate' $r
+  endif
+~
+|

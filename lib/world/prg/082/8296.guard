@@ -1,0 +1,10 @@
+>command_prog up~
+  if isimmort($n)
+  else
+    tell $n His highness isn't seeing visitors at the moment!
+    mpechoat $n You curse under your breath and back away from the guards.
+    mpechoaround $n $I steps in front of $N and blocks $s path.
+    mpstopcommand
+  endif
+~
+|

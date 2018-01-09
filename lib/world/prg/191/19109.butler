@@ -1,0 +1,9 @@
+>command_prog leave~
+  mpechoaround $n $N steps through a door in the back of the room.
+  mptrans $n 3001
+  mpat $n mpechoat $n You make the long trek from your home to the temple.
+  mpat $n mpechoaround $n $N has arrived from his home.
+  mpat $n mpforce $n look
+  mpstopcommand
+~
+|

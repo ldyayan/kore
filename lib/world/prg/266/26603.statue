@@ -1,0 +1,38 @@
+>rand_prog 4~
+ if inroom($r) == here
+  if sex($r) == male
+    if hitprcnt($r) < 100
+      mpechoaround $r $I glows slightly and smiles at $R.
+      mpechoat $r $I glows slightly and smiles at you.
+      mpcallmagic 'cure light' $r
+      say Be well my son.
+    endif
+   endif
+ endif
+~
+>rand_prog 5~
+   if inroom($r) == here
+    if sex($r) == female
+    if hitprcnt($r) < 100
+      mpechoaround $r $I glows slightly and smiles at $R.
+      mpechoat $r $I glows slightly and smiles at you.
+      say Be well my daughter.
+      mpcallmagic 'cure serious' $r
+    endif
+   endif
+  endif
+~
+>fight_prog 7~
+  bash
+~
+>command_prog west~
+   if level($n) < 25
+    say I'm sorry my child, I cannot let you go in there.
+    mpechoaround $n $I stares at $N intently.
+    mpechoat $n Svana's gaze stops you dead in your tracks.
+    mpstopcommand
+   else
+    say Do as you will my child.
+   endif
+~
+|

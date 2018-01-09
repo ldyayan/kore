@@ -1,0 +1,39 @@
+>fight_prog 10~
+  if level($i) > 9
+    disarm
+  else
+    bash
+  endif
+~
+>fight_prog 20~
+  if level($i) > 39
+    riposte
+  elseif level($i) > 14
+    block
+  else
+    bash
+  endif
+~
+>fight_prog 30~
+  if level($i) > 14
+    berserk
+  else
+    kick
+  endif
+~
+>fight_prog 30~
+  if class($r) == bard
+    bash $r
+  elseif class($r) == warrior
+    disarm $r
+  elseif class($r) == cleric
+    bash $r
+  elseif class($r) == mage
+    bash $r
+  elseif class($r) == thief
+    disarm $r
+  else
+    bash
+  endif
+~
+|

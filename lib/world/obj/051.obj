@@ -1,0 +1,249 @@
+#5100
+longsword drow sword~
+a drow longsword~
+A drow longsword of adamantite has been left here.~
+~
+5 4096 8193
+0 1 8 3
+12 1000 500
+A
+18 1
+A
+19 1
+#5101
+longsword fine sword~
+a fine drow longsword~
+A fine drow longsword of adamantite has been left here.~
+~
+5 4096 8193
+0 1 8 3
+12 1500 800
+A
+18 2
+A
+19 2
+#5102
+whip snake twoheaded~
+a two-headed snake whip~
+A whip with two snakes heads lies here.~
+~
+5 3 8193
+0 2 6 3
+12 1750 1500
+A
+18 2
+A
+19 2
+#5103
+whip snake threeheaded~
+a three-headed snake whip~
+A whip with three snake heads has been left here.~
+~
+5 3 8193
+0 2 7 3
+12 5000 2300
+A
+18 2
+A
+19 2
+#5104
+whip snake fourheaded~
+a four-headed snake whip~
+A whip with four snake heads has been carelessly left here.~
+~
+5 3 8193
+0 2 8 3
+12 10250 4000
+A
+18 2
+A
+19 2
+#5105
+longsword wicked drow sword~
+a wicked drow longsword~
+A wicked drow longsword has been carelessly left here.~
+~
+5 4161 8193
+0 2 8 3
+12 10250 4000
+A
+18 2
+A
+19 2
+S
+124 15 2
+#5106
+whip snake fiveheaded~
+a five-headed snake whip~
+A whip with 5 snake heads has been carelessly dropped here.~
+~
+5 577 8193
+0 3 6 3
+12 12000 4500
+A
+1 -2
+A
+3 -2
+#5107
+whip snake sixheaded~
+a six-headed snake whip~
+A whip with six snake heads has been dropped here very carelessly.~
+~
+5 577 8193
+0 4 5 3
+12 15000 8000
+A
+1 -3
+A
+3 -3
+#5108
+bracers snake~
+a pair of snake bracers~
+A pair of snake bracers has been dropped here.~
+~
+9 65 257
+8 0 0 0
+3 2000 1000
+A
+18 -1
+#5109
+gauntlets drow~
+a pair of drow gauntlets~
+A pair of drow gauntlets are lying on the ground.~
+~
+11 1 129
+0 0 0 0
+2 10000 3000
+A
+1 2
+#5110
+wand blue silver~
+a ^Wsilvery^n ^cblue^n wand~
+A ^Wsilvery^n ^cblue^n wand has been dropped in the dirt.~
+~
+3 64 16385
+10 3 3 30
+1 4000 3000
+#5111
+tiara spider crested spider-crested~
+a spider-crested tiara~
+A spider-crested tiara lies here discarded.~
+~
+9 64 17
+1 0 0 0
+5 6000 3000
+A
+3 3
+#5112
+ring ruby~
+a ^Rruby^n ring~
+A ruby ring lies here in the dirt.~
+~
+11 64 3
+0 0 0 0
+1 20000 8000
+A
+13 25
+#5113
+dagger sacrificial spider spider-shaped~
+a spider shaped dagger~
+A spider-shaped dagger with a wicked blade is here stuck into the ground.~
+~
+5 45632 8193
+0 3 4 11
+8 12000 15000
+A
+18 3
+A
+19 3
+#5114
+bright green pshent hat crown unusual~
+a bright green pshent~
+A bright green unusual crown lies here on the ground.~
+~
+9 128 17
+10 0 0 0
+1 2000 600
+A
+9 -15
+A
+17 -2
+#5115
+key adamantite~
+an adamantite key~
+A key made of a strange metal is lying here.~
+~
+18 4 16385
+5115 0 0 0
+1 0 0
+#5116
+gold treasure coins~
+a pile of golden coins~
+A large pile of golden coins is lying here.~
+~
+20 0 1
+1765 0 0 0
+10 1765 0
+#5117
+spider statue statuette 5117-obj~
+a statuette of a spider~
+A small statuette of a spider is here in a niche.~
+An interesting statuette you have now.
+~
+13 0 1
+0 0 0 0
+99999 150000 15000
+E
+spider statue statuette~
+You take a look at the statuette with its fine adamantite body and pearly
+black opal eyes and shiver because it looks so real, right down to the fur
+on its back and its quick shiny eyes... did it just move a little? Surely
+just a trick of the light..
+~
+#5118
+grey dust~
+a pile of crumbly grey dust~
+A pile of crumbly grey dust is here.~
+~
+25 0 1
+30 66 0 0
+1 0 0
+E
+grey dust~
+You look at the crumby grey dust and wonder if you should eat it.
+~
+#5119
+corpse 5119~
+the corpse of the drow lord~
+The corpse of the drow lord is lying here.~
+~
+15 0 1
+200 0 -1 4
+200 121670 0
+#5120
+platinum spider brooch pendant 5120~
+a platinum spider brooch~
+A platinum spider-shaped pendant is here on the ground.~
+~
+11 64 16389
+0 0 0 0
+1 50000 5000
+#5121
+five headed snake whip~
+a five-headed snake whip~
+A wicked whip of snakes lies tamely on the floor.~
+~
+5 67177280 8193
+23 8 7 2
+5 0 0
+E
+snake whip~
+This is the snake whip of High Priestess Vlondylene, NO ONE ELSE IS TO
+EVER USE IT.
+~
+A
+19 10
+A
+18 10
+#99999
+$~

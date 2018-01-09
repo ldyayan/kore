@@ -1,0 +1,450 @@
+#8600
+mob buggy~
+a buggy mob~
+fucking bugs
+~
+I think tihs is the problem
+~
+8 0 0 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#8601
+ronin shadow shadowy ghost figure 8601~
+a shadow ronin~
+A shadowy figure wielding a black-metal katana snarls at you.
+~
+He seems to have been well built in his previous life...and has 
+received some special care during this one, as his decayed joints
+are covered with some kind of fragrant poultice which partially
+masks the smell of his rotting flesh.
+~
+243902 1122472 -1000 S
+33 -3 -34 90d22+680 6d8+3
+0 32500
+8 8 0
+#8602
+sandling sand buzz buzzing sound form shifting~
+a sandling~
+You sense a buzzing sound and see whirling sand at your feet!
+~
+Its form seems to shift across the floor, and it assails your
+balance as you try to stand upon the uneven cobblestones.
+~
+229434 851968 0 S
+7 6 29 1d50+380 5d3+4
+0 7200
+8 8 0
+#8603
+barkburr tree movement~
+a barkburr~
+A movement in the underbrush scarcely catches your attention.
+~
+This arboreal nightmare is a mass of sappy tendrils and a wooden trunk.
+~
+178366 0 -50 S
+25 -8 -20 90d10+1600 1d20+14
+0 63300
+8 8 0
+#8604
+bulette shark landshark burrowing~
+the burrowing bulette~
+A burrowing bulette rips through the ground at you!!
+~
+Its a walking shark with big rows of nice teeth and you want to get the 
+hell out of the way...
+~
+1216702 1114176 0 S
+27 -9 -90 30d30+360 9d6+5
+0 103000
+8 8 1
+#8605
+bulette shark landshark small baby~
+the baby landshark~
+A small bulette hungrily tears at a morsel of lobster.
+~
+It looks cute...and dangerous as it wiggles row after row of
+shiny milk teeth across its meal.
+~
+1216702 1114176 0 S
+19 -9 -90 30d10+90 5d6+5
+0 29000
+8 8 1
+#8606
+bulette shark landshark~
+the burrowing bulette~
+A burrowing bulette rips through the ground at you!!
+~
+Its a walking shark with big rows of nice teeth and you want to get the 
+hell out of the way...
+~
+1216702 1114176 0 S
+30 -9 -90 30d30+360 9d6+5
+0 103000
+8 8 1
+#8607
+peryton bird dog~
+a peryton~
+An antlered bird with the face of a dog barks at you.
+~
+It's about the size of a large ostrich, and its antlers are quite sharp.
+~
+170168 0 -300 S
+18 -6 -40 30d10+940 7d7+4
+0 16900
+8 8 1
+#8608
+ursine roc bear~
+the ursine roc~
+A hideous cross between a grizzly bear and a roc swoops down towards you!!
+~
+A huge mass of dark fur and feathers seems to swallow you.  But those
+talons are what's going to reach you first...
+~
+38968 1114152 0 S
+35 -5 -67 38d40+2130 9d5+15
+0 93700
+8 8 2
+#8609
+wolfinsheepsclothing sheep wolf stump~
+the wolf-in-sheeps-clothing~
+A stump with a cute bunny sitting on top of it.
+~
+A stump WITH HUGE NASTY TENTACLES with a cute bunny sitting on top of it.
+~
+8 0 -200 S
+40 6 -120 100d40+11200 4d4+20
+0 325000
+8 8 0
+#8610
+beetle watch deathwatch insect~
+a death watch beetle~
+Some insect has not very cleverly used a gold nugget for camouflage.
+~
+Essentially a beetle with large black skin-plates, this kind of 
+insect apparently has an instinct for grabbing a nearby rock and
+using it for camouflage as it moves about.  Unfortunately its
+visual capacity lags behind its instinct...
+~
+2092 0 0 S
+8 5 12 12d20+150 3d3+1
+0 3200
+8 8 0
+#8611
+sword fish swordfish~
+a swordfish~
+A hungry swordfish snaps its jaws and flails in the water!
+~
+The swordfish is about half your size, but doesn't seem to suffer from 
+a sense of inferiority..you brace for impact.
+~
+1085608 0 0 S
+11 1 -20 5d5+200 4d4+4
+0 4700
+8 8 0
+#8612
+black razor lemming beaver dark~
+a black-furred razor lemming~
+A beaver-like creature with a dark fur scurries along the ground.
+~
+It seems to ignore you as it races to its destination.
+~
+6168 0 0 S
+13 10 23 90d1+900 4d2+8
+0 1920
+8 8 0
+#8613
+reptile rock wall piece~
+the rock reptile~
+A piece of the cavern wall appears to be moving.
+~
+It appears to be a reptile of some sort with spiny armored plating.
+~
+8 0 0 S
+14 4 -14 20d10+1100 5d4+0
+0 11000
+8 8 0
+#8614
+otyugh neo young~
+a young neo-otyugh~
+A young neo-otyugh is gleefully doing damage to a swordfish here.
+~
+It is somewhat smaller than the full-grown version, but that doesnt mean
+it isnt damn big anyways.  Its jaws are easily the size of your head.
+~
+39102 0 0 S
+15 7 -20 60d60+2000 5d5+3
+0 16700
+8 8 0
+#8615
+otyugh neo large~
+a large neo-otyugh~
+A gargantuan neo-otyugh dances the happy dance!!
+~
+This fellow must be thirty feet wide at the waist.  If it has a clearly
+definable waist.  You don't check if it does..you get ready to kiss your
+ass goodbye.
+~
+39102 65664 0 S
+48 -7 -90 60d60+11800 10d5+30
+0 367000
+8 8 0
+#8616
+female newt firenewt~
+a female fire-newt~
+A female fire-newt spills some of her handiwork in surprise.
+~
+She seems too stunned to do anything belligerent, and backs away towards the wall.
+~
+170142 0 -100 S
+28 5 -15 370d2+100 1d1+1
+0 20
+8 8 0
+#8617
+toad ice icetoad amphibian white~
+an ice toad~
+A white-skinned amphibian is here catching insects.
+~
+Its skin is so white it stands out against the slush, and it blinks furtively at you.
+~
+1183896 0 0 S
+13 -2 45 30d30+10 5d2+2
+0 14000
+8 8 0
+#8618
+toad ice icetoad papa~
+the Papa Toad~
+A rather LARGE toad is here blinking at you, and making audible slurps.
+~
+Its about the size of a troll, and probably an even match for one.
+~
+1282200 787458 0 S
+19 -3 -5 30d30+700 5d3+4
+0 14000
+8 8 0
+#8619
+turtle dragon small~
+a small turtle dragon~
+A small turtle dragon is snoozing in the warm waters.
+~
+He seems to be peacefully snoring, but that carapace looks like it could
+make a good shield...
+~
+1218700 65696 0 S
+48 -8 -200 60d60+9000 7d4+8
+0 20
+4 4 1
+#8620
+lightning ball wispy wisp~
+a ball lightning~
+The wispy ball lightning skitters over the ground, licking the seaweed with firey bolts!
+~
+You shudder at something you clearly won't be quick enough to dodge...
+~
+239656 0 0 S
+35 -10 -40 1d60+100 4d3+12
+0 9700
+8 8 0
+#8621
+kobold fisherman dog~
+a kobold fisherman~
+A kobold fisherman is here fishing in his boat.
+~
+He seems intent on getting yummy fish for the grill chef.
+~
+140 0 -100 S
+9 -2 70 1d1+1 3d3+3
+0 1900
+8 8 1
+#8622
+elite drider guard spider~
+the elite drider guard~
+A bulky centauriform spider holds a shining crossbow in the direction of the 
+portal, its gaze never wavering for an instant.
+~
+It looks like a large spider with prehensile limbs, and an itchy trigger finger...
+~
+694318 1123496 0 S
+50 -4 -50 1d1+1 1d1+1
+0 37500
+8 8 0
+#8623
+galeb duhr rock~
+a galeb duhr~
+A large rock is slowly moving through the slush here.
+~
+Only after a minute do you see that it has any features...
+~
+39054 65576 0 S
+24 3 -70 50d10+1000 3d7+2
+0 12000
+8 8 0
+#8624
+mouther gibbering mouths mass buzzing~
+the gibbering mouther~
+A buzzing mass of eyes and mouths engulfs you!!
+~
+In this racket its not hard to see how even a mouther could sneak up on you.
+~
+172220 851970 0 S
+22 7 -23 90d10+200 8d2+7
+0 9700
+8 8 0
+#8625
+chaggrin grue porcupine~
+a chaggrin grue~
+Something resembling a large porcupine snarls happily and attacks!
+~
+It's twice the size of a lemming, and covered with prickly spines.
+~
+131260 851970 0 S
+18 4 -23 13d10+200 8d2+1
+0 4400
+8 8 0
+#8626
+varrdig grue blur hoses~
+a varrdig grue~
+A blur of hoses and claws lurches at you in the water!
+~
+It moves too quickly for you to see much, except that its mostly white.
+~
+131260 851970 0 S
+44 5 -23 13d10+200 8d2+4
+0 4400
+8 8 0
+#8627
+boalisk serpent serpentine snake~
+the boalisk~
+A serpentine mass sloshes nearby...
+~
+You can't really see much of it in the dark..it packs a fair wallop with 
+its tail, though.
+~
+37032 851968 0 S
+12 1 -20 5d5+200 4d4+6
+0 4700
+8 8 0
+#8628
+cat displacer beast feline outline~
+the displacer beast~
+The shaky outline of a six-legged feline slinks across the ground.
+~
+You feel it before you see it, as it rubs against you while impossibly
+appearing to be several feet away. Its purring turns to snarls....
+~
+6300 852008 0 S
+25 -2 -33 5d50+700 5d3+5
+0 19000
+8 8 2
+#8629
+kobold elder dog~
+the kobold elder~
+A wizened kobold is here snoring in a hammock.
+~
+The tongue of the grey-bearded figure lolls from its mouth slightly, and
+one paw rests lightly on the walking stick...
+~
+694430 65696 0 S
+48 -5 -200 60d60+4000 7d5+3
+0 20
+4 4 1
+#8630
+kobold youth dog~
+a kobold youth~
+A young kobold is running about doing errands.
+~
+He seems more serious than the unruly kobolds you normally imagine.
+Although he does not wear the kimono that higher functionaries of the
+Wicca traditionally wear, a small violet corsage adorns his 
+leather hauberk which is decorated with many small iron rings 
+stitched into it.  Not such bad protection, actually...
+~
+140 0 -100 S
+7 -2 55 1d1+1 3d3+5
+0 800
+8 8 1
+#8631
+kobold dog~
+a kobold~
+A kobold is wandering about barking orders at the youths.
+~
+This full-sized canine humanoid is dressed in fine chainmail from
+the waist up, and his corsage is darker than that of his juvenile
+compatriots.  From the waist down he wears the same thick
+leather garb as the kobold youths wear.
+~
+140 0 -100 S
+8 -2 45 1d1+1 3d3+6
+0 800
+8 8 1
+#8632
+kobold dog female~
+a female kobold~
+A female kobold steps carefully between the mushrooms here.
+~
+She takes great pains to avoid the hissing saprophytes...
+~
+142 0 -100 S
+6 -2 45 5d50+10 2d3+4
+0 800
+8 8 2
+#8633
+kobold supply shopkeeper dog~
+the kobold shopkeeper~
+A kobold slightly less fat than the cook is here leering at you.
+~
+His plump form barely seems to fit between the showcase and the far wall.
+~
+270494 65664 30 S
+42 -10 -80 50d50+6300 7d8+10
+0 105000
+8 8 1
+#8634
+kobold chef dog~
+the kobold grill-chef~
+A rotund barking kobold in a chef's hat is flipping meat over a fire.
+~
+He's nearly as wide as he is tall -- quite an accomplishment for a kobold.
+~
+8350 1114240 30 S
+36 -5 -65 50d50+3000 4d9+4
+0 63700
+8 8 1
+#8635
+guard dwarf duergar~
+a duergar~
+A lanky duergar guard squints at you and puts his hand on his sword.
+~
+He looks wiry for a dwarf, but handles his heavy bastard sword with
+ease.  Dwarves being of the belief that any floral designs whatsoever
+are for sissies, the duergar under the Wicca's service have
+chosen instead to adorn their helmets with large amethysts.
+~
+47134 0 0 S
+30 -9 -130 300d10+600 8d7+10
+0 42000
+8 8 1
+#8636
+guard elf drow~
+a drow guard~
+A drow guard looks like he has a headache.
+~
+Apparently the drow can't even take overcast sunlight very well :)
+~
+47134 0 0 S
+42 -10 -150 300d10+800 8d7+30
+0 42000
+8 8 1
+#8637
+falling~
+Falling-Effect Mob~
+This is the falling effect mob for area 86.
+~
+Aule will put the falling effect prog on this mob.
+~
+8388618 1024 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

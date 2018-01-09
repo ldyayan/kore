@@ -1,0 +1,13 @@
+>greet_prog 100~
+  if ispc($n)
+    if isfight($n)
+    else
+      mpecho A spider statuette animates and attacks $N!
+      mppurge 5117-obj
+      mpmload 5112
+      mpforce 5112-mob hit $n
+    endif
+    mppurge 5113-mob
+  endif
+~
+|

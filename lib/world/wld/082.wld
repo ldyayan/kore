@@ -1,0 +1,1204 @@
+#8200
+Pebblestone street~
+   You are at the end of Pebblestone street. The gate is to the south and
+the king's throne room is just north and up from here.  The cave here 
+is much cleaner and smells better than it does to the south of here, it
+is also well lit.  The walls and floor of the cave are more ornate as you 
+head north.  You can hear and see the bustle of the city life.
+~
+82 9 1
+D0
+~
+~
+0 0 8285
+D2
+~
+~
+0 0 8240
+S
+#8205
+The gem shop~
+   You enter a small room with a small gnome sitting at a desk.  He
+has a large stone in his hands examining it.  The room has two nice
+chairs for customers to sit in while Grepo the owner examines their 
+wares.
+~
+82 156 0
+D2
+~
+~
+0 0 8212
+S
+#8206
+storage~
+You are in an unfinished room.
+~
+82 393360 0
+S
+#8209
+"The Stone's Drop"~
+   This is the most famous place to eat in all of Blingdenstone.  In fact
+it is the ONLY place to eat in Blingdenstone.  The walls are unadorned and
+there are several magically lit glow globes around the room.  It could
+easily hold dozens of people, although only a handful are here now.
+~
+82 156 0
+D2
+You see the main street.
+~
+~
+0 -1 8213
+D4
+~
+door~
+1 0 8274
+S
+#8210
+Store room~
+If you are here you shouldn't be!
+~
+82 8 0
+S
+#8211
+Instruments of Destruction~
+   You are inside the weapon shop.  There is a small note on the counter.
+~
+82 8 0
+D2
+You see the main street.
+~
+~
+0 -1 8216
+S
+#8212
+Jewel street~
+   Jewel street runs east of here, and west back to the main gate.  This
+is the heart of the city, it's main street.  There is a gem shop to the
+north and the street continues to the east.  This cave is well-lit and
+houses more activity.
+~
+82 8 1
+D0
+~
+~
+0 0 8205
+D1
+You see the main street.
+~
+~
+0 -1 8213
+D3
+You see the city gate.
+~
+~
+0 -1 8240
+S
+#8213
+Jewel street~
+   To the east Jewel street runs into a side street to the city square.
+Smells seem to be wafting from just north of here, from the famous 
+Stone Drop Inn. To the west the street continues and into a some 
+what darker area.
+~
+82 8 1
+D0
+~
+~
+0 0 8209
+D1
+You see the market square.
+~
+~
+0 -1 8214
+D3
+You see the main street.
+~
+~
+0 -1 8212
+S
+#8214
+A side street to the square~
+   You are walking down a well lit side street.  To the south is the
+square and to the east and west Jewel street continues.  The glow globes
+placed along this street make traversing easier.
+~
+82 8 1
+D0
+~
+temple door~
+2 8270 8270
+D1
+You see the main street.
+~
+~
+0 -1 8215
+D2
+You see the common square.
+~
+~
+0 -1 8225
+D3
+You see the main street.
+~
+~
+0 -1 8213
+S
+#8215
+Jewel street~
+   Jewel street continues to the east and west.  A small alley continues
+southward near here.  It leads to the square.  The street is well lighted
+with glow globes and lanterns. To the east Jewel street dead ends.
+~
+82 8 1
+D1
+You see the main street.
+~
+~
+0 -1 8216
+D3
+You see the market square.
+~
+~
+0 -1 8214
+S
+#8216
+Jewel street~
+   Jewel street continues east into a pool of darkness, the guards room
+is east and up from here.  To the west Jewel street leads back to the main 
+gate.  This end of the street isn't as well used as the other.  Only
+the guards and such make their way down here.
+~
+82 8 1
+D1
+You see the city gate.
+~
+~
+0 -1 8241
+D3
+You see the main street leading to the market square.
+~
+~
+0 -1 8215
+S
+#8220
+Somthing is going to be here give me time~
+empty
+~
+82 8 0
+D0
+You see the main street.
+~
+~
+0 -1 8213
+S
+#8224
+Torlin street~
+   Torlin street runs east into the Square, and west into the darkness.  
+The square appears to be well lit, but to the west you hear what appears 
+to be the sound of running water.  The square has many lanterns and lights.
+The cave street is opening much more the closer you get to the square.
+And the temperature is dropping.
+~
+82 9 1
+D1
+You see the common square.
+~
+~
+0 -1 8225
+D3
+You see the poor alley.
+~
+~
+0 -1 8244
+S
+#8225
+Basilisk square~
+   This spacious square is lined with stone statues of the deep gnomes
+frozen in mock battle pose.  They all look strikingly real too.  There is
+a large plaque dominating the center of the square and a glowing light
+above it.
+~
+82 1048584 1
+D0
+You see the market square.
+~
+~
+0 -1 8214
+D1
+You see the dark alley.
+~
+~
+0 -1 8226
+D3
+You see Poor Alley.
+~
+~
+0 -1 8224
+D10
+~
+~
+0 -1 199
+E
+plaque sign~
+   This square is dedicated to our 
+kin that we lost in our great battle.
+The gave their lives to defeat the 
+basilisk Grim'tolak.  We brought 
+back their petrified bodies as a 
+reminder of the sacrifice that we 
+make for each other and for our
+home.
+~
+S
+#8226
+Torlin street~
+   Torlin street runs west into the Square.  East it runs into pools of 
+darkness.  Off to the west a distance you can hear the sounds of rotha 
+beast.  This area is cooler than the rest and the sounds of an underground
+stream can be heard from the east.  The lighting in this part of the cave 
+is not as good as the rest of the caves.
+~
+82 9 1
+D1
+The alley continues east.
+~
+~
+0 -1 8245
+D3
+You see the common square.
+~
+~
+0 -1 8225
+E
+guild~
+It is the thieves' guild, don't enter if you care about your health or money.
+~
+S
+#8227
+The Dive shop~
+  This is the dive shop, run by T'grel.  This finest boats and diving 
+gear are to be had here.  You see all kinds of odd contraptions and devices 
+hanging around.  The room is clean, although a little wet, from 
+so many objects dripping water.
+~
+82 152 0
+D0
+You see the alley.
+~
+~
+0 -1 8226
+S
+#8228
+The summoning circle~
+   Entering the room you feel like you have stepped through water.  The
+platform behind you is blocked by a shimmering veil that prevents you from
+returning that way.  There's a raging fire in the middle of the circle that
+glows intensely green, yet it doesn't seem to produce any heat...
+~
+82 56 0
+S
+#8230
+The archers nook~
+   A bare room, the only sign that it is used for anything are all
+the quivers full of arrows, and the racks of bows.  This room is small,
+barely large enough to hold four people, and short people at that.  One
+side of the wall has small slits in it, that would allow a person to
+shoot arrows down on anyone walking toward the cities main gate.
+~
+82 161 0
+D5
+~
+trapdoor~
+1 0 8240
+S
+#8231
+The Menagerie~
+   The Menagerie is a crowded store, full of cages and pens of animals of
+various sizes.  Dogs, cats, monkeys, snakes, little lizards, tiny birds,
+they all bark, meow, cheep, hiss, croak, and chirp respectively, making an
+immense ruckus.  You see a sign on the wall too.
+~
+82 140 0
+D0
+You see the main street.
+~
+~
+0 -1 8215
+S
+#8232
+Pet Shop Store~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+82 8 0
+S
+#8233
+The Rock Biter Clerical Shoppe~
+  Scattered across the room are arcane magical devices of all sorts.
+Behind the counter you see a beating heart in a jar, next to a floating
+spinning jar that changes color when you look at it.
+~
+82 8 0
+D2
+You see the main street.
+~
+~
+0 -1 8212
+S
+#8234
+The guard room~
+   This is the place where all the city guards meet and come to rest.
+The room is quite sparse, with only two stone beds and a small table
+for the guards to play bones.  There is a glow globe in the middle
+of the table that gives off both light and some small heat.  Being
+next to a underground aquifer this room is quite chilly and damp.
+~
+82 168 1
+D5
+~
+trapdoor~
+0 0 8241
+S
+#8235
+DEATH in cold water~
+   NOOOOOOOOOO!!!!  You are quickly crushed against the rocks and drowned
+under tons of deathly cold water.  R.I.P.
+~
+82 10 0
+D3
+~
+gate~
+1 0 8245
+S
+#8240
+The west gate of the inner wall~
+   The cross roads of the town.  The gate out of town is to the west.
+To the north is the kings hall, while to the south there are the rotha
+stables. The street continues east toward a well lit square.
+~
+82 9 1
+D0
+~
+~
+0 0 8200
+D1
+You see Main Street.
+~
+~
+0 -1 8212
+D2
+~
+~
+0 -1 8243
+D3
+~
+large gate~
+1 0 8268
+D4
+~
+trapdoor~
+1 0 8230
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#8241
+Along the inner wall~
+   The street ends here at the inner wall. The guards room is above.
+You can hear the sounds of them milling about. They do not like to 
+be disturbed. The sounds of the city are much less noticible here. 
+The only light here is from the guards room above here.  You can 
+faintly hear the sound of water running through an underground  
+stream.
+~
+82 9 1
+D3
+You see Main Street.
+~
+~
+0 -1 8216
+D4
+~
+trapdoor~
+0 0 8234
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#8243
+Pebblestone street~
+   The street runs north and south into pools of darkness.  The smell
+of dung and animals is stronger, you are close to the Rotha stables.
+The walls of the cave are cool suggesting an underground stream nearby.
+~
+82 9 1
+D0
+You look north and see Wall Road.
+~
+~
+0 -1 8240
+D1
+Poor Alley leads east.
+~
+~
+0 -1 8244
+D2
+The road continues further south.
+~
+~
+0 -1 8247
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+wall writing letters~
+It says 'Who watches the watchmen?'
+~
+S
+#8244
+Torlin street~
+   To the east lies Pebblestone street while Torlin street is to the west.
+You can hear a bubbling sound from the apothecary to the north of here, as
+well as an occasional curse.  The scent of dung riddles the air, so you
+must also be close to the rotha stables.
+~
+82 9 1
+D0
+~
+~
+0 0 8295
+D1
+The alley leads east.
+~
+~
+0 -1 8224
+D3
+The alley leads west.
+~
+~
+0 -1 8243
+S
+#8245
+Torlin street at the river~
+   You hear the roar of a underground stream and you can see the banks of
+the stream to the south.  The temperature has dropped noticeably and a mist
+is wafting through the grate from the river.  The river surges through at
+an incredible speed.
+~
+82 9 1
+D1
+~
+grate door~
+1 0 8235
+D2
+~
+~
+0 0 8249
+D3
+The alley leads west.
+~
+~
+0 -1 8226
+S
+#8246
+The Eastern End Of The Alley~
+   You are standing at the eastern end of the alley, the city wall is just
+east, blocking any further movement.  A small warehouse is directly south of
+here and a mexican food stand has been set up north of here.
+~
+82 0 1
+D0
+You see the taco stand.
+~
+~
+0 -1 8256
+D3
+You see the alley.
+~
+~
+0 -1 8245
+S
+#8247
+Pebblestone street~
+   Up ahead you can see light. You are near the rotha stables. The ugly
+beast smell bad, and have a mean disposition. But they are the only
+bovine relative that can survive in the underdark. North on Pebblestone
+street is darkness, while the stables to the south are well lit and smelly.
+~
+82 9 1
+D0
+You see the road.
+~
+~
+0 -1 8243
+D2
+You see the bridge.
+~
+~
+0 -1 8251
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#8249
+The greater banks of an underground river~
+   You are standing on the banks of a underground stream.  The water
+is icy cold and perfectly clear, even at its deepest point you can see
+the bottom.  The current isn't as swift here as it is up river.  You
+can make out a small cave like entrance at the bottom of the river.
+~
+82 12 6
+D0
+You see the alley.
+~
+~
+0 -1 8245
+S
+#8251
+Rotha herd stables~
+   The rotha stables are kept quite clean.  The herd here is perhaps
+80 strong.  They mill about the large area, a few are here near the 
+feeding trough.  The fence is made of stone, and so is the trough.
+The rotha beast are just laying around eating the rocks and milling about.
+~
+82 13 0
+D0
+You see the road.
+~
+~
+0 -1 8247
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+S
+#8256
+The Apothecary~
+   You enter the Apothecary looking for strange potions and herbs.  The
+place is crowded from floor to ceiling with jars and vials and stacked
+with boxes of herbs and unguents.  The place is filled with dust and
+strange odors and the floor is spotted with dark stains.  The place though
+is clean and well-kept.  On the wall is a sign.
+~
+82 136 1
+D2
+~
+~
+0 -1 8244
+S
+#8258
+The water shop~
+   You are inside the water shop.  A red robed monk dips water from
+a small stone  pedestal in the middle of the room.  The water is 
+blessed each day and the Svirfneblin swear by its healing effects.
+A shelf with small containers is on the wall, with several hunks of
+carved and uncarved quartz, ready to be made into challice for the 
+holy.
+~
+82 156 0
+D0
+You see the East Gate.
+~
+~
+0 -1 8241
+S
+#8259
+water of life storage~
+storage
+~
+82 393344 0
+S
+#8260
+Entemoch's room~
+You are standing in room where entemoch is and will be summoned to!
+~
+82 393376 0
+S
+#8262
+Advisor's room~
+   This room is quite small, with only a chair and a large table in it.
+The table is piled with papers and a couple of candles. There are four
+candles in the corners lighting the room well. The papers have no sense
+of organization and appear to be just stacked.  The floor itself is 
+littered with papers and files. The room smells of velum and starch.
+~
+82 40 0
+D3
+~
+stone door~
+1 0 8287
+S
+#8267
+Villanus Street~
+   The city lies dark and cold and empty.  The street runs north and south
+into a greasy pool of darkness.
+~
+82 1 1
+D2
+~
+~
+0 0 8200
+S
+#8268
+Outside the western gate~
+   You stand before the large gates of the city.  Up above you see slits in
+the stone, those must be for the archers.  The walls and gate are made up of
+the cave itself, so much that it is impossible to tell where the cave starts
+and the city starts.  These fierce guards, guard the only entrance to
+Bligndenstone.  The wall reaches up clear to the roof of the cave, nearly
+two hundred feet.  The wall is smooth making climbing it impossible, and
+defending it an ease.
+~
+82 12 0
+D1
+~
+large gate~
+1 0 8240
+D3
+~
+~
+0 0 8299
+S
+#8269
+Along the hallway~
+  You walk along the hallway leading toward the platform.  The light
+from the torches lights the hallway well, but you still get this knot
+in your throat as you walk closer to the platform.  The tile here 
+seems to absorb your foot falls as you can't hear anything.
+~
+82 8 0
+D0
+~
+large iron door~
+2 8260 8272
+D2
+~
+~
+0 0 8271
+S
+#8270
+Entrance to the clerical halls of Segojan~
+   You stand before the great temple of Segojan, the god of the elemental
+plane of earth.  This temple was carved to worship him and to summon
+elementals.  The stone walls and ceiling are polished and a coverd
+with runes.  The runes on the floor and ceiling are meant to aid in
+summoning and to protect agianst a bad summoning.
+~
+82 13 0
+D2
+~
+temple door~
+2 8270 8214
+D3
+~
+~
+0 0 8280
+D4
+~
+~
+0 0 8271
+S
+#8271
+A narrow hallway~
+   A well lit hallway with well polished walls.  The floor is made
+up of black and white tiles that shape out runes.  The hallway 
+extends northward toward a large circular room.  There seems to be 
+a greenish light coming from that direction.
+~
+82 8 0
+D0
+~
+~
+0 0 8269
+D5
+~
+~
+0 0 8270
+S
+#8272
+A large platform~
+   The room opens up to a sort of platform, with a large circle below it.
+The platform is only about a foot from the floor, but the two rooms
+seem to be seperated by more than that small space.
+~
+82 28 0
+D2
+~
+large iron door~
+2 8260 8269
+D5
+~
+~
+0 0 8273
+S
+#8273
+The summoning circle~
+   Entering the room you feel like you have stepped through water.  The
+platform behind you is blocked by a shimmering veil that prevents you from
+returning that way.  There's a raging fire in the middle of the circle that
+glows intensely green, yet it doesn't seem to produce any heat...
+~
+82 104 0
+D0
+~
+~
+0 0 8276
+D1
+~
+~
+0 0 8278
+D2
+~
+~
+0 0 8275
+D3
+~
+~
+0 0 8277
+S
+#8274
+The reception~
+   You stand in a large room, and a receptionist stands at the entrance
+waiting to serve you.  She will help you to any of the beds for you to rest
+until you are ready to begin your adventure again.  This place is warm and
+very quiet, perfect for that long-deserved rest.
+~
+82 156 0
+D5
+~
+door~
+1 0 8209
+S
+#8275
+The outer edge of the circle~
+  The outer edge of the summoning circle.  The stone floor is made
+up of alternating squares of white and black.  The circle is perfect,
+with runes carved into each stone tile.  The fire in the center of the 
+room casts an eerie green glow on the whole room.
+~
+82 680 0
+D0
+~
+~
+0 0 8273
+S
+#8276
+The outer edge of the circle~
+  The outer edge of the summoning circle.  The stone floor is made
+up of alternating squares of white and black.  The circle is perfect,
+with runes carved into each stone tile.  The fire in the center of the 
+room casts an eerie green glow on the whole room.
+~
+82 680 0
+D2
+~
+~
+0 0 8273
+S
+#8277
+The outer edge of the circle~
+  The outer edge of the summoning circle.  The stone floor is made
+up of alternating squares of white and black.  The circle is perfect,
+with runes carved into each stone tile.  The fire in the center of the 
+room casts an eerie green glow on the whole room.
+~
+82 680 0
+D1
+~
+~
+0 0 8273
+S
+#8278
+The outer edge of the circle~
+  The outer edge of the summoning circle.  The stone floor is made
+up of alternating squares of white and black.  The circle is perfect,
+with runes carved into each stone tile.  The fire in the center of the 
+room casts an eerie green glow on the whole room.
+~
+82 40 0
+D3
+~
+~
+0 0 8273
+S
+#8279
+Through the GREEN FLAME!~
+You step into the flames and instantly realize that your body wasn't
+meant to pass through stone. You have just entered the elemental plane of
+Earth, where there is no air or water, only rock and earth. You die
+instantly, not knowing that your body will be part of the rock for
+eternity!
+~
+82 163 0
+S
+#8280
+A small passageway~
+   You notice that this hallway is not as ornate as the others and that
+the walls aren't as smooth as the rest.  The lanterns keep the hallway
+bright, and the smell of pitch from the lantern is strong.  The hallway
+continues down from here.
+~
+82 8 0
+D1
+~
+~
+0 0 8270
+D5
+~
+~
+0 0 8281
+S
+#8281
+A narrow passage~
+   You continue down the steep passageway heading further and further
+down.  The light seems to have changed, the lanterns are gone but the
+room is still well lit, but by a different kind of light.  You can see
+the edge of water at the bottom.
+~
+82 8 0
+D4
+~
+~
+0 0 8280
+D9
+~
+~
+0 0 8282
+S
+#8282
+A small landing~
+   You are standing on a landing to a small pool.  It is only about one
+hundred feet in diameter with a small statue in the center.  The water
+is crystal clear and slightly warm... the whole room is slightly warmer
+than the rest of the caves.  The room is shaped into a perfect dome with
+a long stalactite descending over the statue.
+~
+82 12 0
+D5
+~
+~
+0 0 8283
+D7
+~
+~
+0 0 8281
+S
+#8283
+Wading the pool~
+   You enter the pool and the warm water tingles all over your body.
+The pool is very relaxing and as you come closer to the statue you
+recognize it.  The statue is of Segojan, the elemental god of the 
+svirfnebli.  The pool is not hard to wade, being only three feet deep,
+and it is getting shallower the closer you get to the statue.
+~
+82 265 6
+D0
+~
+~
+0 0 8284
+D4
+~
+~
+0 0 8282
+S
+#8284
+A small island~
+   You are standing on a small island about 10 feet in diameter with a
+statue standing in the center.  It's about two and a half feet tall but it
+still seems to dominate the whole room.  A warm glow shines from the
+statue.
+~
+82 1048600 0
+D2
+~
+~
+0 0 8283
+S
+#8285
+A curve in the cave~
+   You are rounding a curve in the cave that leads to the king's throne
+room.  The hallway is well lit, and the walls appear to be smooth.
+The floor is ornate with black and white tile.  Pebblestone street is to the
+south and the throne room is southeast and up from here.
+~
+82 12 0
+D2
+~
+~
+0 0 8200
+D7
+~
+doors~
+2 8245 8286
+S
+#8286
+The base of the throne~
+   You are standing in a large room, the ceiling is about fifty
+feet high, and it is about thirty yards in diameter and is oval shaped.
+In the center of the room is a mound, what appears to be a large rock.
+At the center of the rock, the throne sits, a very intimidating design.
+~
+82 8 0
+D4
+~
+~
+0 0 8287
+D9
+~
+doors~
+2 8245 8285
+S
+#8287
+The throne~
+   You are standing on top of a large rock on which the throne is placed
+in the center.  You can hear every whisper with the way the room is shaped.
+You can also see everyone who enters long before they can see you.  This
+thone was made to imtimidate others.
+~
+82 40 0
+D1
+~
+stone door~
+1 0 8262
+D5
+~
+~
+0 0 8286
+S
+#8288
+A small stream~
+   A small stream only about six to seven feet across.  The water is 
+frigid, and there doesn't seem to be any life in it either.  The stream
+has come from deep in the mountains and is heading down this mountain 
+out to sea.  The water is a brackish color and has an odd smell.
+~
+82 84 6
+D1
+~
+~
+0 0 8289
+D2
+~
+~
+0 0 9969
+S
+#8289
+A small stream~
+   The stream continues to the east and to the west if where you entered
+the stream.  The water is getting deeper and it seems colder.  Up
+ahead you can hear the rush of a water fall.  It might be wise to be
+careful.  
+~
+82 0 6
+D1
+~
+~
+0 0 8290
+D3
+~
+~
+0 0 8288
+S
+#8290
+Atop the water fall~
+   You stand over the top of a waterfall.  The bottom is about sixty
+feet and piled with jagged rocks.  To the left of the water fall it
+appears that you can climb down using the rocks as a sort of ladder.
+~
+82 0 6
+D3
+~
+~
+0 0 8289
+D5
+~
+~
+0 0 8291
+S
+#8291
+The base of the waterfall~
+   You stand at the base of the water fall watching the water roar down
+the fall.  The temperature is almost freezing, with the cold and the 
+mist it is almost to much to stand.
+~
+82 9 0
+S
+#8292
+Guard post~
+   Far in the back in the cavern there appears to be a small stone 
+entrance to something.  The stone is a perfect circle and it meets 
+seamlessly with the smooth cave wall.
+~
+82 9 0
+D5
+A large circular stone door with a small hole in the center.
+~
+circular stone~
+2 8240 8293
+D9
+~
+~
+0 0 13049
+S
+#8293
+A large cavern~
+   After opening the stone you descend down a long tunnel that opens out
+into an immense cavern. The size is daunting, but you can make out a small 
+faint light from a ledge on the other side. The floor of the cave is
+covered with jagged rocks.
+~
+82 9 0
+D0
+~
+~
+0 0 8294
+D4
+A large circular stone door with a small hole in its center.
+~
+circular stone~
+2 8240 8292
+S
+#8294
+The jagged cavern floor~
+   You make your way across the large expanse and meander your way 
+through large boulders and jagged rocks.  The trek to the light at the 
+other side is long and tiresome, but you are close.  The out cropping
+is just above you, and the light is much brighter.
+~
+82 9 0
+D2
+~
+~
+0 0 8293
+D4
+~
+~
+0 0 8299
+S
+#8295
+The Blingdenstone clerical apothecary~
+   You enter the Apothecary looking for strange potions and herbs.  The
+place is crowded from floor to ceiling with jars and vials and stacked
+with boxes of herbs and unguents.  The place is filled with dust and
+strange odors and the floor is spotted with dark stains.
+~
+82 156 0
+D2
+~
+~
+0 0 8244
+S
+#8296
+store room for apothocary~
+Store room!
+~
+82 393884 0
+S
+#8297
+Nash's room~
+   Nashanthra the killer within- he was branded with that name, literally,
+when he was born.  Nashanthra killed his mother at his birth, by ripping
+his way out of her with claws that no minotaur should have.  Nashanthra
+was the son of the Minotaur ruler Mahn-Tor, but after his birth his father
+disowned him and had the Runes 'Killer Within' branded to his hide.
+As Nashanthra grew up in the wild he grew a appreciation for animals and
+a fondness for meat, something his brethren did not like.  He also had
+many other attributes that his kind did not posses.  He could sense hidden
+things, he could see the invisible, and he had a mysterious magic barrier
+that protected him agist magic attacks.  He was also stronger and had  
+more constitution than his fellow minotaurs.
+Nashanthra also possessed fangs and claws.  It was this marked difference
+that made Nashanthra wonder what he truly was.  
+~
+82 1048576 0
+D5
+~
+~
+0 0 8298
+S
+#8298
+HIDDEN HOLE~
+This is the demon lords home away from home, it leads down to his bed chamber, and he has captured the souls of members of the monty python cast and imprisoned them here to play out his whims.
+~
+82 0 0
+D4
+~
+~
+0 0 8297
+D5
+~
+~
+0 0 599
+S
+#8299
+Before the gate~
+   You stand before the guarded gates of the city Blingdenstone.
+The holy city of the deep gnome known as the Svirfnebli.  They live in 
+contrast to the evil underdark.  The wall of the city is huned from 
+rock itself and has a few slits in it, to allow archers free shots
+at people trying to breach the city.  From all reports this is the
+only entrance to the city.
+~
+82 13 0
+D1
+~
+~
+0 0 8268
+D5
+~
+~
+0 0 8294
+S
+#99999
+$~

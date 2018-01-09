@@ -1,0 +1,501 @@
+#400
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#401
+zeus god~
+Zeus~
+Zeus sits here on a throne.
+~
+You see before you the greatest of the Olympians.  It seems as if he could
+destroy you with a thought.  Every glance penetrates deep into your soul.
+You now know what true fear is.
+~
+525646 5575816 1000 S
+58 -5 -40 10d10+900 1d1+60
+0 600000
+8 8 1 9
+#402
+prometheus god~
+Prometheus~
+Prometheus stands before you flickering with fire.
+~
+The mortal who risked the wrath of Zeus stands here for eternity.  He looks up
+as you enter and gives you a knowing smile.
+~
+11594 1119368 1000 S
+45 -6 -40 1d1+1 8d8+22
+0 20
+8 8 1
+#403
+hermes god~
+Hermes~
+Hermes is here, delivering a message to the gods.
+~
+This is the messenger of the Gods.  He wears a winged helm and boots, and
+darts from place to place.  He looks very busy, and it seems as if he doesn't
+even notice your presence.
+~
+9548 787624 1000 S
+50 -8 0 1d1+1 7d7+25
+0 20
+8 8 1
+#404
+poseidon god~
+Poseidon~
+Poseidon is dining here.
+~
+He is the brother of Zeus himself, chosen to rule the seas.  He must be
+visiting Mount Olympus.  He nods at you and motions for you to enter and
+have a seat.
+~
+27978 5308584 1000 S
+50 -8 -50 1d1+1 8d8+25
+0 20
+8 8 1
+#405
+god apollo~
+Apollo~
+Apollo is here, playing a tune.
+~
+This jovial God is strumming on a lyre.  He smiles at you and asks you to
+join him.  You notice a dangerous looking bow by his side, however, and think
+that he knows more than music.
+~
+31562 1115304 1000 S
+50 -10 -60 1d1+1 25d8+24
+0 20
+8 8 1
+#406
+ares god~
+Ares~
+Ares is here.
+~
+The God of War is here, amusing himself with his squires. He snarls angrily as
+you enter and you understand you are not welcome.  You get the feeling it
+is already too late to flee.
+~
+553066 5346474 1000 S
+57 -15 -80 1d1+1 9d9+50
+0 20
+8 8 1
+#407
+goddess athena~
+Athena~
+Athena, daughter of Zeus, emerged through Zeus's cracked head
+and is not too pleased with your presence.
+~
+The mighty goddess Athena screams and attacks you !!!!
+~
+27914 1053832 1000 S
+54 -5 -30 1d1+1 8d8+27
+0 20
+8 8 2
+#408
+hephaestus god~
+Hephaestus~
+Hephaestus the Smith is here, crafting a fine weapon.
+~
+This God is the only one who is not physically perfect.  He is lame and very
+ugly.  You get the impression that he is kind, however, and would go out of his
+way to help you.  He is attended by three golden maidens.
+~
+32010 1114280 1000 S
+55 -8 -40 1d1+1 8d8+25
+0 20
+8 8 1
+#409
+handmaid golden~
+a golden maiden~
+A Handmaid of gold is here.
+~
+As you gaze upon this creation, you realize that she is made from solid
+gold.  She seems to be very lifelike as she assists the smith in his work.
+~
+20554 40 1000 S
+35 1 0 1d1+1 6d6+17
+0 20
+8 8 2
+#410
+deimos squire~
+Deimos~
+A Squire to Ares sees you and attacks.
+~
+This man is fear personified, and is a true squire to Ares. He looks as though
+you made him upset.  Perhaps you'd better flee.
+~
+104 138 0 S
+40 1 0 1d1+1 6d6+20
+0 20
+8 8 1
+#411
+musician apprentice~
+an apprentice musician~
+A musician is here, learning from Apollo.
+~
+This man has mastered his first profession, and is now studying music from the
+immortal Apollo.
+~
+28750 42 0 S
+20 1 0 1d1+1 1d1+10
+0 20
+8 8 1
+#412
+servant boy~
+a serving boy~
+A servant is here.
+~
+This boy is truly lucky to be able to serve the Gods themselves.
+A serving boy is in excellent condition.
+~
+74 4194474 1000 S
+15 1 0 1d1+1 1d1+7
+0 20
+8 8 0
+#413
+large hunting dog~
+a large hunting dog~
+A large hunting dog howls at the moon.
+~
+This great beast can barely be called a dog.  It has been bred to assist the
+moongoddess Arthemis herself in her hunting, and you have no doubt it does its
+job well.
+~
+110 26 0 S
+30 1 0 1d1+1 1d1+15
+0 20
+8 8 0
+#414
+goddess aphrodite~
+Aphrodite~
+Aphrodite stretches out on a white divan here.
+~
+As you gaze at Aphrodite, you realize how ugly you truly are. You find yourself
+already deep in love, there is no way you can bring yourself to kill the one
+and only love of your life.
+~
+27978 4198570 1000 S
+50 1 0 1d1+1 1d1+25
+0 20
+8 8 2
+#415
+julius grocer~
+Julius the Grocer~
+Julius the Green Grocer stands here.
+~
+This jovial man has devoted his life to selling fruit and other foods to the
+inhabitants of this city.  Although he may seem like a wimp, it would be wise
+not to underestimate him.  He smiles warmly at you and shows you his selection
+of delicious looking foods.
+~
+26698 4194472 50 S
+48 1 0 1d1+1 1d1+24
+0 20
+8 8 1
+#416
+alchemist~
+the ancient wizened alchemist~
+The ancient, wizened Alchemist stands here.
+~
+Skilled in all manner of magic, as well as the ancient art of alchemy, he
+stands ready to supply the citizens here (but not you) with all manner of
+arcane supplies.
+~
+24650 5247144 0 S
+50 1 0 1d1+1 1d1+25
+0 20
+8 8 1
+#417
+weaponsmith clive~
+Clive the Weaponsmith~
+Clive the Weapons Master is practicing with his bow and axe.
+~
+Clive looks VERY big and VERY tough.  All those years in the army must have
+paid off.
+~
+330 5312680 0 S
+48 1 0 1d1+1 1d1+24
+0 20
+8 8 1
+#418
+samuel armourer~
+Sameul the Armourer~
+Samuel the Armourer glares at you.
+~
+Samuel looks just like Clive the Weapons Master: VERY big and VERY tough.
+He doesn't like what you've been doing in his city.
+~
+28778 5345448 0 S
+55 1 0 1d1+1 1d1+28
+0 20
+8 8 1
+#419
+goddess moon arthemis~
+Arthemis~
+The moongodess Arthemis whistles on her hunting dogs.
+~
+She is a tall well built woman with intense eyes, you know that the rumors
+were true when you see her.  You notice sparkles of energy around her eyes
+and take a few steps back in fright.
+~
+10346 1138856 0 S
+50 1 0 1d1+1 1d1+25
+0 20
+8 8 2
+#420
+chimera~
+the chimera~
+A chimera prowls the cell.
+~
+This bizarre creature has three heads - one of a goat, one of a lion, and one
+of a dragon.  It growls at you as you enter the cell, then suddenly attacks!
+~
+8266 1114152 0 S
+33 1 0 1d1+1 1d1+17
+0 20
+8 8 0
+#421
+goddess hera~
+Hera~
+Hera is here.
+~
+Hera, the wife of Zeus is here.  She smiles at you as you enter and invites you
+to rest and sit for a while.
+~
+97610 5247146 1000 S
+50 1 0 1d1+1 8d8+25
+0 20
+8 8 2
+#422
+roc~
+the roc~
+A roc is here.
+~
+This is a giant bird.  It looks at you quizzically, then makes a noise and
+looks away.
+~
+8266 4194304 0 S
+35 1 0 1d1+1 1d1+17
+0 20
+8 8 0
+#423
+citizen~
+the citizen~
+A smiling citizen of this town is here.
+~
+He looks happy and carefree.  He smiles and tips his hat to you.
+A citizen is in excellent condition.
+~
+4168 2 500 S
+20 1 2 1d1+1 1d1+10
+0 20
+8 8 0
+#424
+pegasus~
+the pegasus~
+A large horse with wings is here.
+~
+This horse is snow white with large wings.  Although it doesn't look very
+threatening, it seems as though it would be dangerous if provoked.
+~
+8266 5243038 450 S
+30 1 0 1d1+1 1d1+15
+0 20
+8 8 0
+#425
+phobos squire~
+Phobos~
+A Squire to Ares sees you and attacks.
+~
+This man is terror personified, and a true squire to Ares. He looks very fit
+and very ... TERRIFYING !!!!
+~
+104 65704 0 S
+40 1 0 1d1+1 1d1+20
+0 20
+8 8 1
+#426
+jailer~
+the jailer~
+The jailer is here, watching for intruders.
+~
+He looks as though he has spent a lot of time underground, guarding the
+prisoners.
+~
+106 168 0 S
+25 1 0 10d2+100 1d1+12
+0 20
+8 8 1
+#427
+enyo squire~
+Enyo~
+A Squire to Ares sees you and attacks.
+~
+This is a bloodthirsty bitch indeed, almost as bad as Ares.
+She is a true squire to Ares and she doesn't like you !
+~
+76 24744 0 S
+44 1 0 1d1+1 6d6+20
+0 20
+8 8 2
+#428
+eris squire~
+Eris~
+A Squire to Ares sees you and attacks.
+~
+This man is dispute personified, and is a true squire to Ares.
+He doesn't give you the time for you to ponder over that.
+~
+76 24744 0 S
+42 1 0 1d1+1 6d6+20
+0 20
+8 8 1
+#429
+horse unicorn~
+the unicorn~
+A strange white horse stands here.
+~
+A beautiful white stag with a singal spiraling golden horn set into its head.
+~
+74 170 0 S
+35 1 0 1d1+1 1d1+17
+0 20
+8 8 1 10
+#430
+man ascleipos~
+Ascleipos~
+A tall man in white robes stands in front of you.
+~
+You see Ascleipos, the god of medicine.  He is impeccably dressed in a
+white robe, and he smiles compassionately at you.  Wielding his gently
+glowing cross intertwined with serpents, the caduceus, he calls back
+health to the sick, and on occasions he can defy even Death.
+~
+24651 5255336 0 S
+50 1 0 1d1+1 1d1+25
+0 20
+8 8 1
+#431
+turtle silver~
+the turtle~
+A silver coloured turtle is here.
+~
+An ancient turtle with a silvery shell, waddling slowly across the grounds.
+~
+72 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#432
+monkey~
+the monkey~
+A silver-back monkey peers at you here.
+~
+A silver-back monkey, looks at you with disdain.
+~
+72 0 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#433
+parrot~
+the parrot~
+A bluish parrot flies here.
+~
+A blue and green parrot flaps and squawks before you.
+~
+72 0 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#434
+snake~
+the snake~
+A long golden snake slithers here.
+~
+A golden snake lies in the grass, scaley body glistening in the sun.
+~
+72 0 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#435
+rabbit~
+the rabbit~
+A cute white rabbit is here chewing on something.
+~
+A cute little fluffy white bunny.  I doubt he wants to die.
+~
+72 0 0 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#436
+eros~
+Eros~
+Eros peers at you intently.
+~
+Eros hovers just off the ground, he turns to you with fire in his eyes.
+Perhaps it would be best if you left him unaccosted.
+~
+28682 5247106 500 S
+50 1 0 1d1+1 8d8+20
+0 20
+8 8 1
+#437
+eagle~
+Zeus' Eagle~
+Zeus' eagle rests here chewing on something familiar.
+~
+Zeus' eagle is a large bird of prey.  It's talons and beak look razor sharp.
+~
+69710 5832874 0 S
+40 1 0 1d1+1 1d1+20
+0 20
+8 8 1
+#438
+rabbit~
+the rabbit~
+A white rabbit lays here, it seems hurt.
+~
+It seems this furry little rabbit has been attacked by something and left here
+to die.
+~
+8 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+2 8 1
+#439
+hellhound wardog hound dog 439~
+the hellhound~
+A hellhound is here, eager to unleash chaos.
+~
+ Standing before you is a snarling beast of unmatched fury.
+Its eyes glow like embers and its skin is a mass of decayed and
+rotting flesh on a well muscled carcass.  It looks at you with 
+with anger brewing in its highly intellegent eyes.  Oh no!
+~
+173928 1385640 -250 S
+25 1 0 1d1+1 7d7+45
+0 20
+8 8 0
+#440
+cleaner exterminator eraser~
+cleaner~
+A cleaner is here, cleaning up a mess.
+~
+WEll... he purges mobs.. what can i say :)
+~
+20522 99496 0 S
+60 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#99999
+$~

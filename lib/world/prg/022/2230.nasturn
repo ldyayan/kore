@@ -1,0 +1,9 @@
+>fight_prog 6~
+  say I call forth the arctic cold!
+  mpcallmagic 'cone of cold' $r
+~
+>fight_prog 12~
+  say I call forth the volcanic heat!
+  mpcallmagic 'fireball' $r
+~
+|

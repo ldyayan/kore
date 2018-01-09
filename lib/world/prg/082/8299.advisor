@@ -1,0 +1,30 @@
+>command_prog east~
+  if isimmort($n)
+  else
+    tell $n You cannot go in there, who do you think you are!?
+    mpechoat $n $I steps in front of you, stopping your progress east.
+    mpechoaround $n $I steps in front of $N and folds his arms over his chest.
+    mpstopcommand
+  endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+    if isevil($r)
+      mpecho $I closes his eyes and utters a single holy word.
+      mpechoat $r You try to scream but no sound comes out as a mind-racking pain stabs at you!
+      mpechoaround $r The word knocks you to your feet, but has $R screaming in unbearable pain!
+      mpdamage $r 18d18
+      mpdamage all 8d8
+      mpsilent mpforce all sit
+    endif
+  endif
+~
+>fight_prog 13~
+  if hitprcnt($i) < 100
+    mpecho $I raises his hands into the air.
+    say Come to me Segojan, aid me and our King!
+    mpecho $I glows brightly and his wounds seem to heal.
+    mpcallmagic 'heal' $i
+  endif
+~
+|

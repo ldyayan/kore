@@ -1,0 +1,7 @@
+>fight_prog 5~
+  mpechoaround $r $I STOMPS $R !!
+  mpechoat $r $I STOMPS you!
+  mpdamage $r 111
+  mpdrainmove $r 40
+~
+|

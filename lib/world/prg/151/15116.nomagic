@@ -1,0 +1,9 @@
+>command_prog cast~
+  mpechoat $n Okay.
+  mpechoat $n Your magic fizzles out and dies.
+  mpdrainmana $n 7d12+6
+  mpechoaround $n $N utters something softly..
+  mpechoaround $n $N's magic fizzles out and dies.
+  mpstopcommand
+~
+|

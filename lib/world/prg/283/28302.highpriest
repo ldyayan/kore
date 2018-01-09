@@ -1,0 +1,26 @@
+>entry_prog 100~
+if name($n) == ayana
+  bow ayana
+  break
+ else   
+endif
+~
+
+>rand_prog 30~
+if hitprcnt($i) < 50
+  cast 'restore' $i 
+endif
+~
+
+>fight_prog 20~
+if inroom($r) == here
+  mpcallmagic 'dispel magic' $r
+  mpcallmagic 'dispel magic' $r
+endif
+~
+
+>command_prog flee~
+say You are not allowed to leave, as you will be sacrificed!
+mpstopcommand
+~
+|

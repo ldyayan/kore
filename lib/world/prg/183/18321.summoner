@@ -1,0 +1,16 @@
+>greet_prog 5~
+  if ispc($r)
+    if rand(25)
+      mpecho $I chants slowly in the Olde Tounge.
+    else
+      if rand(70)
+       mpecho $I chants the words to bind the Free Spirit.
+      else
+       if rand(100)
+ mpecho $I pours wax over the pentagram on the floor, enhancing the spell.
+  endif
+    endif
+      endif
+       endif
+~
+|

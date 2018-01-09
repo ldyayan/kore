@@ -1,0 +1,252 @@
+#1000
+stick creature~
+a stick creature~
+A creature made of broken branches assembles before you and attacks!
+~
+Bits of moss and wood cling to the shapeless form of the creature.
+You try to find a vunerable spot to stick your sword, but the wooden
+beast defies the accepted laws of anatomy.
+~
+147528 1088 0 S
+30 2 2 0d0+0 2d8+15
+0 160000
+8 8 0
+#1001
+drow warrior~
+a drow warrior~
+A grizzeled drow warrior howls a war cry as he attacks!
+~
+Scarred and battered, this drow warrior has seen many battles and is
+eager to draw his sword for any cause especially the cause which pays
+the most.
+~
+10348 263240 0 S
+35 1 0 1d1+1 1d1+17
+0 20
+8 8 1
+#1002
+gnome warrior~
+a gnome warrior~
+A gnome warrior grins as he draws his blade and attacks!
+~
+Yellow eyes peer greedily back at you.  This gnome mercenary is always
+hungry for gold and looting and will sell himself to the highest bidder.
+~
+10348 1049672 0 S
+35 1 0 1d1+1 17d1+17
+0 20
+8 8 1
+#1003
+priest gnome~
+a gnome priest~
+A gnome priest zealously chants praises to Dh'vral.
+~
+The dark priest of Dh'vral glares at you with bloodshot eyes.  Though
+rank and filthy, the zealot radiates the impression that you have somehow
+defiled him by your presence here in his master's sanctuary.
+~
+176218 1058024 -500 S
+50 1 -30 1d1+1 1d1+25
+0 20
+8 8 1
+#1004
+priestess drow~
+a drow priestess~
+A drow priestess offers a bloody sacrifice to Dh'vral.
+~
+The dark priestess of Dh'vral seems not to notice you, instead her 
+attention seems to be on the mutilated corpse she holds in her hands.
+Suddenly, she starts to cackle insanely as the corpse catches fire in
+her hands.
+~
+178282 1058024 -500 S
+50 1 0 1d1+1 1d1+25
+0 20
+8 8 2
+#1005
+statue black~
+a black statue~
+An ebony statue, animated with the power of Dh'vral, rises over the pit.
+~
+Carved from ebony, the black statue has a life of its own.  The replica of
+Dh'vral is his link to the outside world from his prison within the ancient
+Druid tower.
+~
+237578 1123560 -1000 S
+55 1 0 1d1+1 1d1+27
+0 20
+8 8 0
+#1006
+drow guard~
+a drow guard~
+A lithe drowish guard watches over the encampment.
+~
+Scarred and battered, this drow warrior has seen many battles and is
+eager to draw his sword for any cause especially the cause which pays
+the most.
+~
+106 1088 0 S
+35 1 0 1d1+1 1d1+17
+0 20
+8 8 1
+#1007
+gnome guard~
+a gnome guard~
+A gnome guard sleeps here snoring loudly.
+~
+When asleep this fiercesome warrior takes on an almost gentle look.
+He is sucking on his thumb while the drool dribbles down his tunic and
+mixes with chunks of charred meat from his last meal.
+~
+8266 1088 0 S
+35 1 0 1d1+1 1d1+17
+0 20
+4 4 1
+#1008
+druid guard~
+a druid guard~
+A rotting corpse watches his post, seemingly unaware of your presence.
+~
+After the Great Druid Wars, Dh'vral gathered all of his enemy's bodies
+and infused them with his awesome power.  Now they serve the evil they
+once gave their lives to fight.
+~
+700494 66792 0 S
+40 1 0 1d1+1 1d1+20
+0 20
+8 8 0
+#1009
+drow guard~
+a drow guard~
+A rough drow guard stops gambling to attack!
+~
+Scarred and battered, this drow warrior has seen many battles and is
+eager to draw his sword for any cause especially the cause which pays
+the most.
+~
+4218 1096 -250 S
+40 1 0 1d1+1 1d1+20
+0 20
+8 8 1
+#1010
+gnome guard~
+a gnome guard~
+A gnome guard stops gambling to attack!
+~
+The greed that etched itself in the guards face while gambling fades
+to surprise then grim delight at the thought of disposing of a few
+unwary adventurers that seek illegal entry in his master's tower.
+~
+8314 1096 -250 S
+40 1 0 1d1+1 1d1+20
+0 20
+8 8 1
+#1011
+recruit soldier~
+a new recruit~
+A new recruit scurries by, cleaning implements in hand.
+~
+Although there are no ranks in Dh'vral's army, new recruits must prove 
+themselves worthy of their master.  Their manner seems meek, but their
+eyes reveal ambition to rival the greatest veteran in the Keep.
+~
+4300 0 -50 S
+20 1 0 1d1+1 1d1+10
+0 20
+8 8 1
+#1012
+torturer master~
+the Master Torturer~
+The Master Torturer absently munches on a chunk of human flesh.
+~
+Cruelty and malice come easily to this agent of Dh'vral.  He often tells
+his apprentices, "True torture is breaking a man so completely that he
+thanks you when you slice his belly and feed him his intestines for 
+breakfast."
+~
+145454 66792 -900 S
+52 1 0 1d1+1 1d1+20
+0 20
+8 8 1
+#1013
+apprentice boy~
+the torturer's apprentice~
+A small boy watches the Master Torturer work with adoring eyes.
+~
+Apprenticed since age five, the boy has known nothing but pain and
+suffering for many years.  But the pain is not his.  He creates pain.
+The taste of blood is always on his lips and he hungers for the next
+kill.
+~
+14478 192 -50 S
+30 1 0 1d1+1 1d1+10
+0 20
+8 8 1
+#1014
+prisoner man~
+a prisoner~
+A little man talks to himself while dribbling saliva down his chin.
+~
+Maggots and roaches crawl over his body and through the few tatters of
+clothing left on his body.  In his fervor, the insects and larva remain
+unnoticed until reaching his mouth.  Then he slurps them down with hardly 
+a pause.
+~
+204 0 0 S
+1 1 0 1d1+1 1d1+1
+0 20
+6 6 1
+#1015
+whore~
+a whore~
+A whore reclines on the bed awaiting her master's return.
+~
+Frizzled red hair and garish make-up try to hide the hideous face of
+the whore.  The potmarks and missing teeth don't help the effect 
+either.
+~
+204 1096 0 S
+30 1 0 1d1+1 1d1+15
+0 20
+5 5 2
+#1016
+servant girl 1016~
+a servant girl~
+A servant girl blows bubbles in the tub with a long reed.
+~
+Her eyes are popping out of her face from the effort of blowing the bath
+bubbles.  It is a wonder that she doesn't pass out.
+~
+6220 1048776 0 S
+30 1 0 1d1+1 1d1+15
+0 20
+8 8 2
+#1017
+dh'vral druid 1017~
+Dh'vral~
+Dh'vral cackles madly as he sings feverishly to himself.
+~
+Madness incarnate lies within those black eyes.  A horrible grimace
+plays across his face and quickly switches to a sneer and back again.
+But don't be deceived by his apparent instability, he is a foe to be
+feared and avoided at any cost.
+~
+256108 5350570 -1000 S
+57 1 -100 1d1+1 1d1+28
+0 4000
+8 8 1
+#1018
+druid guard~
+a druid guard~
+A rotting corpse watches his post, seemingly unaware of your presence.
+~
+After the Great Druid Wars, Dh'vral gathered all of his enemy's bodies
+and infused them with his awesome power.  Now they serve the evil they
+once gave their lives to fight.
+~
+700430 66792 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

@@ -1,0 +1,8 @@
+>fight_prog 20~
+  if inroom($r) == here
+    mpecho $I sears you with a breath of steam!!!
+    mpdamage all 222
+    mpcallmagic 'blind' all
+  endif
+~
+|

@@ -1,0 +1,123 @@
+
+>bribe_prog 1000~
+  if rand(30)
+    mptrigger $n sobstory
+  else
+    if rand(30)
+      mptrigger $n panel
+    else
+      if rand(30)
+        mptrigger $n wolfie
+      else
+      mpecho $I sings a melodic song. His voice is the best you have heard.
+    endif
+  endif
+ endif
+~
+>bribe_prog 10~
+  smirk
+  say You'll have to do better than that.
+  say That won't even buy my mead for one night!
+  chuckle
+~
+>script_prog sobstory~
+  mpecho $I looks glumly down into his mug.
+  say I have lost my golden harp.
+@
+  say If you can return it to me...
+v  mpecho $I looks around the room cautiously.
+@
+  mpecho $I whispers 'I will give you the key to great treasures.'
+@
+  mpecho $I leans back in his chair and sips his mead.
+~
+>script_prog panel~
+  mpecho $I leans towards you and peers slowly around the room.
+@
+  say Look for a hidden panel near Valkyr.
+@
+  say You may find riches...
+  say or your death.
+@
+  mpecho $I slowly leans back in his chair and begins to hum.
+~
+>speech_prog fenris~
+   mptrigger $n wolfie
+~
+>speech_prog wolf~
+   mptrigger $n wolfie
+~
+>script_prog wolfie~
+    mpecho Bjorndal glances around the room nervously as you finish talking.
+@
+    say The story of Fenris wolf is as old as the Earth itself...
+@
+   say Fenris Wolf was bound to this world by unbreakable bonds.
+@
+   say It is said that the Gods themselves fear Fenris Wolf.
+@
+   mpecho Bjorndal looks around cooly and leans in closer to you.
+@
+   say Some say the spot where Fenris is bound is close by...
+   say but I know nothing of that.
+@
+   say If you find Fenris Wolf, be wary.
+   say His cunning is as bad as his bite.
+@
+   mpecho Bjorndal runs his hands through his hair and sits back.
+@
+@
+@ 
+  mpecho Somewhere...off in the distance, a wolf can be heard howling...
+~
+>fight_prog 100~
+  if rand(50)   
+    say You dare attack me mortal!
+    say Be gone from my sight!
+    mpecho $I claps his hands suddenly.
+    mpechoaround $r $R suddenly vanishes!
+    mptransfer $r 3001
+    mpechoat $r Whoa...you feel dizzy....
+  else 
+    mpecho $I claps his hands suddenly.
+    mpechoaround $r $R suddenly vanishes!
+    mptransfer $r 3001
+    mpechoat $r Whoa...you feel dizzy....
+  endif
+~
+>greet_prog 100~
+  mptrigger $r greets
+~
+>script_prog greets~
+  mpecho $I tips his mug your way.
+  say Greetings traveler, my name is Bjorndal.
+@
+  say Spare me some of your coin, and I'll tell you a fine story.
+  wink
+  mpjunk all.harp
+~
+>rand_prog 5~
+mpecho $I hums a little tune quietly to himself.
+mpjunk all.harp
+~
+>give_prog 26613~
+   mptrigger $n happy
+~
+>script_prog happy~
+   mpecho $I gets a look of disbelief on his face.
+@   
+   say You have found my harp!
+   mpecho $I holds the harp close and plucks the strings slightly.
+@
+   say Only a little out of tune.
+@
+   say A deal is a deal my friends.
+   mpoload 26621
+   give figurine $n
+@
+   say Be very careful, a wolves belly is no place for the likes of you.
+@
+   mpecho $I sits down and begins to tune his harp.
+~
+|
+

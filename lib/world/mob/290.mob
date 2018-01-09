@@ -1,0 +1,312 @@
+#29001
+bandit~
+a bandit~
+A bandit stands at the side of the road looking for a target.
+~
+  A sly little fellow with an evil smirk on his face.  He appears
+to be sizing you up, but he might want to be careful, as he
+doesnt look terribly strong.
+~
+524 0 0 S
+18 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#29002
+black bear~
+a black bear~
+A large black bear stands here, snarling.
+~
+  All you see of this frantic beast is black fur and sharp teeth.
+He is running around the trap looking very angry.
+~
+557098 66604 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 1 9
+#29003
+grizzly bear~
+a grizzly bear~
+A huge grizzly bear stands here.
+~
+  Much larger than his black neighbor, the grizzly bear is 
+truly menacing as he lumbers toward you.  As he comes closer, 
+all you see is a giant mass of thick, brown fur.
+~
+565290 1192 0 S
+45 20 10 1d1+0 1d1+0
+0 0
+8 8 1 9
+#29010
+djabarim child boy~
+a Djabarim boy~
+A child is here playing.
+~
+  A child of the Djabarim tribe, healthy and strong looking.
+He looks happy.  Perhaps the tribesman have begun to teach
+him the hunting trade that the village seems to rely on.
+~
+72 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#29011
+djabarim child girl~
+a Djabarim girl~
+A child of the Djabarim is walking around.
+~
+  A fairly young girl of the tribe, she is dressed and acts
+exactly like her older peers.  It seems the tribe's young
+learn quickly to mimic the actions of their elders.
+~
+72 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#29012
+djabarim villager resident~
+a Djabarim villager~
+A resident of the settlement is here, going about their business.
+~
+  A typical resident of the village, this one is dressed in
+non-descript animal hides, going about their business almost
+oblivious to your presence.
+~
+72 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#29013
+djabarim hunter~
+a Djabarim hunter~
+One of the hunters is here, resting between outings.
+~
+  Hardy and strong, you imagine this one is a good hunter.
+Dressed in dirty animal hides, he is one of the hunters
+responsible for feeding the tribe.
+~
+2120 0 0 S
+24 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#29014
+djabarim hunter~
+a Djabarim hunter~
+A very strong looking hunter is here, resting on the porch.
+~
+  One of the stronger looking residents of the village, this
+hunter is quite intimidating.  It is easy to imagine this 
+man bringing down powerful forest animals.
+~
+40970 65664 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 1 10
+#29015
+djabarim chief~
+the Djabarim chief~
+The chief of the tribe is sitting here.
+~
+  The chief of the Djabarim tribe, he is clearly an 
+accomplished hunter.  The leader of his people, he is
+both wise and strong.
+~
+172042 65664 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 1 10
+#29020
+idolpho squire ~
+Idolpho~
+Idolpho the squire stands here at the entrance.
+~
+  A wise looking old man, Idolpho appears to have been around for quite
+a while, observing everything that goes on, but not directly 
+participating in it.  His eyes welcome you to his humble corner
+of the world.
+~
+696330 1080 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#29030
+dragoon vonovesk~
+Vonovesk~
+Vonovesk, the dragoon, stands here.
+~
+  Vonovesk, the dragon knight, stands here.  He is a human, standing
+a couple inches shy of six feet.  He looks fairly wirey, but 
+strong.  Dress from head to foot in an organic suit of purple 
+dragonscales, complete with large wings, he looks almost like a
+dragon in human form.  Vonovesk pays little attention as you enter,
+focusing instead on the painting that lines his alcove.  Studying
+its every detail, he seems to draw inspiration from it.
+~
+698382 65664 0 S
+45 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#29031
+dragoon Balamande~
+Balamande~
+Balamande, the dragoon, stands here.
+~
+  Balamande, the dragon knight, stands here.  He is not a 
+large man, but he looks very strong.  He is wearing a suit
+of turqoise dragonscales that move with him, almost a natural
+extension of his skin.  The huge wings that grow out of his back
+pay testament to the powerful bond he has formed with his dragon.
+Balamande disregards your entrance, instead choosing to study
+the battle drawn on the walls.  It is his inspiration, and he
+seems whole-heartedly devoted to it.
+~
+696334 65664 0 S
+45 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#29032
+naserena dragoon~
+Naserena~
+Naserena, the dragoon, stands here.
+~
+  Naserena, the dragon knight, rests here.  She is an attractive
+human, but her charm lies in the warm and peaceful look on her
+face.  Glimmering golden wings tower above her diminuitive form,
+and they meld into a full suit of armor which covers almost
+her entire body.  The portrait of Naserena on the wall, astride
+a huge golden dragon, indicates both her dreams and aspirations.
+She seeks only to be a guardian of peace and prosperity.
+~
+696330 65664 0 S
+45 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#29033
+reyenoord dragoon~
+Reyenoord~
+Reyenoord, the dragoon, stands here.
+~
+  Reyenoord, the dragon knight, stands here.  As large in stature
+as any human, he appears to be quite a force.  The epic painted 
+upon these walls has him standing alongside a huge silver dragon, 
+the two fighting against enormous odds.  If anyone were to have a 
+chance in such a battle, perhaps it would be these two.  The huge
+wings upon his back are raised, casting a shadow over his eyes, 
+which seem constantly affixed on the walls of his alcove.
+~
+696334 65664 0 S
+45 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#29034
+ackularn archmage mage~
+Ackularn~
+Ackularn, the archmage, stands here.
+~
+  Ackularn is here, apparently having a conversation with 
+somebody who is not.  He takes little note of you entrance,
+instead continuing his bizarre discourse.  Though small of 
+stature, he seems to draw enormous power from this location.
+In one hand he holds an ancient tome, perhaps his book of 
+incantations.
+~
+763918 8519808 0 S
+55 20 10 1d1+0 1d1+0
+0 0
+8 8 1 7
+#29040
+dragon Kray purple~
+Kray~
+Kray, the serpentine ^mpurple^n dragon, stands here.
+~
+  Kray is a large purple dragon.  He looks primarily like a giant
+snake with huge wings spanning many times the size of your body.
+He gracefully maneuvers his way around the foliage in the cave,
+coming around to face you, sensing the foreign presence that has
+invaded his sanctuary.
+~
+174094 4259968 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1 8
+#29041
+dragon Plasostro turqoise~
+Plasostro~
+Plasostro, the ^cturqoise^n dragon, stands here.
+~
+  Plasostro is an interesing looking creature, a dragon who 
+spends most of his time close to the ground, resting on four legs.
+His wings are uncharacteristically small, but his scales shine in
+brilliant color.  Though he appears turqoise from a distance, when
+closer, it is apparent that his scales actually fade from green to
+blue and back again, waves of color rippling acrosss his skin.  
+~
+174094 4259968 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1 8
+#29042
+dragon Teera golden~
+Teera~
+Teera, the ^Ygolden^n dragon, stands here.
+~
+  Teera is an average looking dragon by shape, but her scales
+glimmer a bright gold, reflecting light whose source is not even 
+apparent.  Teera moves gracefully, wasting little energy as 
+she turns her body to face the interesting new additions to her
+lair.  While she has a more friendly demeanor than most dragons,
+one cannot doubt the power behind the passive facade.
+~
+174094 4259968 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 2 8
+#29043
+dragon Iago silver~
+Iago~
+Iago, the huge ^Wsilver^n dragon, is here training.
+~
+  Huge, strong, regal, and dangerous.  Iago is a large silver
+dragon, standing on powerful hind legs, his front claws free
+to attack his targets.  He flies and darts around his cave, 
+striking out against unseen foes.  Lashing out with his claws, and
+quickly striking with his jaws.  As he notices you enter, he turns
+and halts his motions.  Bowing his head, he seems to welcome
+you to his training grounds, perhaps hoping for a challenge.
+~
+239630 4259968 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1 8
+#29044
+dragon Mopono master~
+Mopono~
+Mopono, the master dragon, rests here.
+~
+  While not the largest, fastest, or strongest looking dragon,
+there is simply an aura of power about Mopono.  Outwardly, he does
+not appear to be the most dangerous of foes, but something burns
+inside of him, granting strength, vision, and power.  Unlike the
+other dragons in this fortress, he has not formed the dragoon bond.
+Perhaps the inner fire that drives him would consume any person
+that tried.  Certainly if it could be contained, it would be a
+harbinger of greatness.
+~
+763918 4259968 0 S
+55 20 10 1d1+0 1d1+0
+0 0
+8 8 1 8
+#29045
+mopono dragon recovering wounded mopono2~
+Mopono~
+Mopono is here, recovering from the strain of combat.
+~
+  The great dragon Mopono has been humbled, bested in his own lair.
+He has withdrawn to his sanctuary to recover, to contemplate
+his loss, and to gain added strength from his new champion.
+~
+696330 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1 8
+#99999
+$~

@@ -1,0 +1,144 @@
+>rand_prog 7~
+  south
+~
+>rand_prog 7~
+  group all
+~
+>entry_prog 100~
+  if isimmort($n)
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+    if ispc($n)
+      mpforce red_2011 kill $n
+      mpforce red_2011 defend $i
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    emote rears up all five of her heads and focuses her fury on $R!
+    mpechoat $r Tiamat's blue head blasts you with lightning!
+    mpcallmagic 'chain lightning'
+    mpechoat $r Tiamat's white head blasts you with frost!
+    mpcallmagic 'ice storm'
+    mpechoat $r Tiamat's green head lets loose a poisonous cloud!
+    mpcallmagic 'poison'
+    mpcallmagic 'poison'
+    mpechoat $r Tiamat's black head releases a deadly blast of acid!
+    mpcallmagic 'disintegrate'
+    mpechoat $r Tiamat's red head roars and releases dripping fire!
+    mpcallmagic 'fireball'
+    mpechoaround $r $I ANNIHILATES $R with a blast from each of her mighty heads.
+    mpdamage $r 18d19+27
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    mpechoat $r $I sinks her teeth into you, ripping flesh from your bones.
+    mpechoaround $r $I rears back her head and bears her wicked fangs...
+    mpechoaround $r $I sinks her teeth deep into $R!!
+    mpdamage $r 20d20+60
+  endif
+~
+>fight_prog 50~
+  if inroom($r) == here
+    if isaffected($i, blind)
+      mpecho Tiamat looks disoriented for a moment..
+      mpsilent mpcallmagic 'cure blind' $i
+      mpecho Tiamat's eyes widen suddenly and burn with anger as they gaze down upon you!
+    else
+      mpechoaround $r With a THUNDERING CRASH, Tiamat swings her tail into $R, slamming $K against the wall!
+      mpechoat $r Tiamat's enormous tail comes CRASHING into you, knocking you against the stone wall!
+      mppose $r sit
+      mpdamage $r 18d28
+    endif
+  endif
+~
+>fight_prog 100~
+  cast 'dispel magic'
+~
+>command_prog cast~
+  switch $n
+~
+>command_prog sing~
+  switch $n
+~
+>command_prog pray~
+  switch $n
+~
+>fight_prog 100~
+ if inroom($r) == here
+  if rand(20)
+    mpechoaround $r $I's powerful red head pivots and bites $R!
+    mpechoat $r $I's powerfully muscled red head darts out and bites you!
+    mpdamage $r 6d19
+  else
+    mpechoaround $r $I rotates her deadly red head and breathes fire across the room!
+    mpcallmagic 'fireball' $r
+  endif
+  if rand(20)
+    if rand(50)
+      mpechoaround $r tries to bite $R with her white head but misses!
+      mpechoat $r You dive away just in time to avoid a bite from $I's white head.
+    else
+      emote quickly spins her white head around and bites $R!
+      mpdamage $r 8d16
+    endif
+  else
+    mpechoaround $r Tiamat rears back with her white head and blasts the room with frost!
+    mpcallmagic 'cone of cold' $r
+    mpcallmagic 'chill touch' $r
+  endif
+  if rand(20)
+    if rand(60)
+      mpechoaround $r Tiamat feints and dodges in to bite $R with her blue head.
+      mpechoat $r Tiamat's swift blue head gets past your defenses and sinks into your flesh.
+    else
+      mpechoaround $r $R deftly blocks $I's blue head from biting $L!
+      mpechoat $r You block $I's blue head from biting you.
+    endif
+  else
+    mpechoaround $r $I sends a lightning bolt at $R from her blue head.
+    mpechoat $r Tiamat's white head breaths a lightning bolt at you.
+    mpcallmagic 'lightning' $r
+  endif
+  if rand(20)
+    mpecho $I places her green head low to the ground and fills the room with its deadly poison.
+    mpcallmagic 'poison' all
+  endif
+  if rand(20)
+    if rand(70)
+      mpechoaround $r $I bends down with acid coated teeth and bites $R!
+      mpechoat $r Tiamat's black head with acid-dripping fangs sears into your skin.
+    else
+      mpecho Tiamat's black head tries to attack but can't get past the other four!
+    endif
+  else
+    mpecho $I opens her blackened mouth and lets her fangs drip acid over the room!
+    mpdamage all 7d26
+  endif
+ endif
+~
+>death_prog 100~
+  mpoload 2029
+  if rand(3)
+    mpoload 2001
+  else
+    mpoload 2002
+  endif
+  if rand(3)
+    mpoload 2025
+  else
+    mpoload 2055
+  endif
+~
+|

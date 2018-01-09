@@ -1,0 +1,323 @@
+#800
+snake green garter~
+the garter snake~
+A green garter snake is here, slithering in the grass.
+~
+     You see a small and harmless garter snake. It just wants to get away
+from you and hide in the grass.
+~
+72 0 0 S
+1 20 100 1d1+1 1d1+0
+0 0
+8 8 0
+#801
+black squirrel ~
+the black squirrel~
+A black squirrel is here, foraging cautiously.
+~
+     The black squirrel is quite large for a squirrel. It is about 2 feet tall
+from head to tail. You notice a small gleem of intelligence in it eyes. Also,
+you notice something a little more sinister.
+~
+104 0 -351 S
+2 20 100 1d1+1 1d1+0
+0 0
+8 8 0
+#802
+large brown rat~
+the large brown rat~
+A large brown rat is here, scurring away from you.
+~
+     This rat has grown quite large and fat due to the plentiful food in the
+area. It is quite cowardly, except when cornered.
+~
+200 0 0 S
+2 20 100 1d1+1 1d1+0
+0 0
+8 8 1
+#803
+fat raccoon~
+the fat raccoon~
+A fat raccoon is here, foraging for food.
+~
+     This fat masked bandit has grown quite large from bountiful
+food in this area. He is usually shy, except when provoked.
+~
+72 0 0 S
+4 20 8 1d1+1 1d1+0
+0 0
+8 8 1
+#804
+huge slimey slug~
+the huge slug~
+A huge slug is here, leaving a trail of slime.
+~
+     This slug is huge! It is about 2 feet long and about the size of 
+cat. It leaves a slick and sticky trail of mucus as it moves.
+~
+72 0 0 S
+3 20 90 1d1+1 1d1+0
+0 0
+8 8 0
+#805
+red tail redtail red-tail hawk~
+the red-tail hawk~
+A red-tail hawk is here, squaking angrily at you!
+~
+     This bird is quite angry that you have distured it. It is guarding its
+nest from egg stealers, like you!
+~
+42 0 0 S
+7 15 90 1d1+1 1d1+3
+0 0
+8 8 2
+#806
+kobold small~
+the small kobold~
+A small kobold is here, hunting for rabbits.
+~
+     This small humanoid has recently moved to this area. They have found
+good supplies of food in this area. The kobolds are trying to make a new
+tribe in this area. However, they have some competition to domination....
+~
+72 1024 -360 S
+5 20 90 1d1+1 1d1+2
+0 0
+8 8 1
+#807
+kobold captain raiding~
+the kobold captain~
+The kobold captain is here, waiting to raid the rabbit warren.
+~
+     This kobold is large for its kind. He has raised through the ranks
+due its large size and strength. He has been placed in charge to destroy
+the rabbits of Watership Down.
+~
+2122 1024 -360 S
+15 12 9 1d1+1 1d1+5
+0 0
+8 8 1
+#808
+chieftain kobold huge fat~
+the kobold chieftain~
+The fat kobold chieftain is here, groping his concubine.
+~
+     This kobold is huge and grossly fat. But, he looks very strong! He had
+killed his father to take over the tribe. Now, he is looking for a new area
+to lead his people since the elves and dwarves drove his tribe out and 
+almost slaughtered his entire tribe. Now, only a few members remain.
+~
+8270 1024 -1000 S
+20 10 7 1d1+1 1d1+10
+0 0
+8 8 1
+#809
+kobold concubine whore slut female~
+the kobold concubine~
+A kobold concubine is here, nibbling on the chieftain's ear.
+~
+     She is vile, ugly, and stinky. But, she is considered very beautiful
+to the kobolds. She holds a high position since she always has the 
+chieftain's ear to whisper whatever she likes.
+~
+74 1024 -360 S
+7 17 90 1d1+1 1d1+3
+0 0
+8 8 2
+#810
+shaman kobold evil~
+the kobold shaman~
+The evil kobold shaman is here, praying to his evil gods.
+~
+     He is dressed in the skins of elves. He is very old and wise since he has
+been alive for 99 years! 11 times the average lifespand of a kobold! He has seen
+many chieftains come and go; he has always survived. Long ago, he killed the 
+only son of a great elven lord. Thus, the lord is forever searching to slay and
+to take his revenge!
+~
+8298 5252128 -1000 S
+20 10 50 1d1+1 1d1+10
+0 0
+8 8 1
+#811
+large kobold guard~
+the large kobold guard~
+A large kobold guard is here, looking out for elves.
+~
+     This kobold guard is responsible to keep a watch for elves who are
+searching for them. They appear nervous because the elves vowed to slay them
+all.
+~
+8266 1024 -360 S
+10 13 9 1d1+1 1d1+5
+0 0
+8 8 1
+#812
+black squirrel huge~
+the huge black squirrel~
+A huge black squirrel is here, guarding its shiny objects.
+~
+     You see a huge black squirrel who has an unusual intelligence in its
+eyes. He collects anything shiny and hides them in his lair. He is the
+strongest squirrel in his area and he guards his precious shinies.
+~
+8298 0 -360 S
+17 14 90 1d1+1 1d1+7
+0 0
+8 8 1
+#813
+rabbit guard Haefweisen ~
+the rabbit guard~
+A rabbit guard stands here, looking out for kobolds.
+~
+     This rabbit is a member of the Haefweisen, the guards of the warren. They
+are picked for their size and strength. They have maintain order and guard
+the warren against the enemies of the rabbits.
+~
+12616 1024 0 S
+10 14 90 1d1+1 1d1+1
+0 0
+8 8 1
+#814
+rabbit bunny brown white~
+the rabbit~
+A brown and white rabbit is here, looking at you in fear.
+~
+     You see a brown and white rabbit looking at you with fear. She is
+always afraid of being killed and eaten by many enemies of the rabbits.
+She is especially afraid of the newly arrived kobolds in this area.
+~
+72 0 0 S
+3 15 95 1d1+1 1d1+1
+0 20
+8 8 2
+#815
+rabbit bunny brown tan~
+the rabbit~
+A brown and tan rabbit is here, resting peacefully.
+~
+     You see a normal male rabbit resting here. He is not large or strong
+enough to join the guard, but he is still usefull to keep a lookout for
+the kobolds.
+~
+72 1024 0 S
+5 15 10 1d1+1 1d1+1
+0 20
+8 8 1
+#816
+bunny rabbit baby little~
+the baby rabbit~
+The baby rabbit is here, sleeping peacefully.
+~
+     You see a cute, little baby rabbit who was just born a few days ago.
+It is sleeping peacefully, not knowing the danger and evils of the world.
+~
+74 0 0 S
+1 18 10 1d1+1 1d1+1
+0 20
+4 8 2
+#817
+rabbit bunny Bigwig Big Wig~
+Bigwig~
+Bigwig, the Captain of the Haefweisen, is standing guard here.
+~
+     You see a huge brown rabbit who appears to be quite strong and fierce.
+He is the Captain of the Haefweisen and personal guard of Hazel-Ra. You
+don't want to mess with him.
+~
+555082 1024 0 S
+15 13 9 1d1+1 1d1+1
+0 20
+8 8 1
+#818
+Hazel Ra rabbit bunny chief Watership Down Nimh~
+Hazel-Ra~
+Hazel-Ra, the Chief of the rabbits of Watership Down, is here, meditating.
+~
+     He appears to be a normal looking brown rabbit. He does not look
+very strong or very fierce. But, he is very intelligent and wise. He is the
+chief since he has lead the rabbits of Nimh to safety. He was once used in
+a mad mage's experiments to give animals almost human intelligence. He is the
+only rabbit that survived the experiments and escape.
+~
+565322 37928 1000 S
+20 12 10 1d1+1 1d1+1
+15 20
+8 8 1
+#819
+ghost evil~
+the ghost~
+An evil-looking ghost is here, floating towards YOU!
+~
+     The ghost has a painful look on its face; it looks like it had died
+in a most awful death. Now, its sole purpose in life is to kill all living
+things.
+~
+174184 4195370 -1000 S
+8 15 70 1d1+1 1d1+1
+15 20
+8 8 0
+#820
+hungry looking ghoul evil~
+a hungry ghoul~
+A hungry looking ghoul is here, drooling with hunger at YOU!
+~
+     This undead creature used to be human, but now it only knows that
+it must kill and eat bloody flesh. It looks at you and attacks!
+~
+172136 1024 -1000 S
+8 15 90 1d1+1 1d1+1
+15 20
+8 8 0
+#821
+skeleton rotten half~
+the skeleton~
+A half rotten skeleton springs to life and attacks!
+~
+     You see a skeleton with rotten flesh falling off its bones. The
+putrid stench almost overhelms you.
+~
+172136 1024 -1000 S
+8 15 90 1d1+1 1d1+1
+15 20
+8 8 0
+#822
+demon two headed head dog face~
+the two-headed demon~
+A two-headed demon is here, glaring at YOU!
+~
+     You see a two-headed demon with dog-like features. He was summoned
+by the man who owned this house. The demon slaughtered the family and made
+them ghosts and ghouls. He now plans to attack the kobolds and rabbits
+to have total control of the area.
+~
+567402 5252266 -1000 S
+22 10 50 1d1+1 1d1+1
+15 20
+8 8 1
+#823
+rutterkin demon rutter kin limbs~
+the rutterkin~
+A small demon with long limbs is here, guarding his master.
+~
+     You see a long limbed demon who appears to have rubbery skin.
+It is quite weak compared to other demons, but it is useful as guards 
+and servants.
+~
+176234 5252136 -1000 S
+15 1 80 1d1+1 1d1+1
+15 20
+8 8 0
+#899
+fuzzy bunny maerlyn worshiper~
+a fuzzy bunny~
+Fuzzy Bunny, worshiper of Maerlyn Nylream is lying here prostrate.
+~
+It looks like a fuzzy bunny.
+~
+700554 1272808622 1000 S
+50 -30 -10 30d50+50 30d50+50
+1 1
+8 8 0 4
+#99999
+$~

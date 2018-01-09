@@ -1,0 +1,307 @@
+#26400
+stone key 26400~
+a stone key~
+A stone key lies here.~
+~
+18 4 1
+26400 0 0 0
+1 1 1
+#26401
+defender belt~
+the belt of the defender~
+A strong, good looking belt lies here.~
+   This belt looks amazingly similar to Brekstacks, the caption of the
+orcish army. The old legend says that this belt was given to the defender
+so that he may better fulfill his duties. Brekstack was one of many followers
+that Orsus inspired during his reign as the god of vengeance and although he
+appeared infrequently many did follow him.
+~
+9 12801 2049
+10 0 0 0
+15 120000 1
+E
+defender belt~
+   This belt looks amazingly similar to Brekstacks, the caption of the
+orcish army. The old legend says that this belt was given to the defender
+so that he may better fulfill his duties. Brekstack was one of many followers
+that Orsus inspired during his reign as the god of vengeance and although he
+appeared infrequently many did follow him.
+~
+A
+13 15
+A
+19 2
+A
+14 -25
+A
+18 -2
+B
+8 0
+#26402
+tomb orsus casket painting~
+the tomb of Orsus~
+A long stone casket is here with elaborate painting on it.~
+~
+8 0 0
+0 0 0 0
+100000 1 1
+#26403
+spirit eye orsus~
+the eye of the spirit~
+A brightly glowing eye floats here.~
+   The large blood shot eye of Orsus's spirit.  This eye floats on its own
+over your shoulder and provides you with light.  It is said the Spirit of
+Orsus took it from its own socket to give it to a close friend before losing
+it.
+~
+1 131593 16385
+0 0 -1 0
+1 400000 1
+E
+spirit orsus eye~
+   The large blood shot eye of Orsus's spirit.  This eye floats on its own
+over your shoulder and provides you with light.  It is said the Spirit of
+Orsus took it from its own socket to give it to a close friend before losing
+it.
+~
+A
+9 5
+A
+12 40
+B
+8 0
+#26404
+blood mace vengeance~
+^rblood^n tempered mace of Orsus~
+A large mace stained blood red lays here.~
+~
+5 270684738 8193
+4 7 6 9
+20 1000000 1
+E
+mace blood~
+   A large mace stained with the blood of all races.  This is the legendary
+mace that Orsus the orcish God of Vengeance once used to dispence his rage
+on all those that crossed him. It is said his spree was started when his
+wife was caught cheating on him with another man, a human. Following the
+humans demise, he constructed this mace, using the blood of the man to cool
+the heated metal. From then on, he killed everyone who had ever crossed him
+and let their blood dry on the mace.
+~
+A
+19 7
+A
+13 20
+#26406
+thick marble key 26406~
+a thick marble key~
+A thick marble key lies here in the dirt.~
+~
+18 20 16385
+26401 0 0 0
+1 1 1
+#26407
+thick stone key~
+a thick stone key~
+A large heavy looking stone key lies here.~
+~
+18 156 1
+26407 5 0 0
+1 1 1
+#26408
+helm defender~
+the helm of the defender~
+A glinting steel helm sits here awaiting the wraith of age.~
+~
+9 9597504 17
+8 0 0 0
+2 0 5
+E
+helm defender helmet visor~
+   The glinting steel of the defenders helm represents the amassed wealth of
+Orsus.  The helm forged from the strongest of metals was given to the defender
+by Orsus to procure his services in the defense of the temple.  Now battered
+and beaten the helm still maintains its powers.
+~
+A
+19 2
+A
+18 2
+#26409
+orcish small candle vengeance Orsus~
+a small candle of Orsus~
+A candle carved in the shape of a mace sits here.~
+A finely crafted candle of wax in the shape of the blood mace.  It is
+carried by the high priest of Orsus who it was given to before Orsus's death
+at the hands of Aule.
+~
+1 57344 16385
+0 0 -1 0
+1 0 1
+E
+orcish candle vengeance Orsus~
+A finely crafted candle of wax in the shape of the blood mace.  It is
+carried by the high priest of Orsus who it was given to before Orsus's death
+at the hands of Aule.
+~
+A
+12 25
+A
+3 2
+A
+4 2
+#26410
+piece paper letter~
+a piece of paper~
+A piece of paper is here.~
+~
+16 0 1
+0 0 0 0
+0 0 0
+#26411
+feather pen quill~
+a writing quill~
+A writing quill in an ink bottle is here.~
+~
+21 0 1
+0 0 0 0
+0 0 0
+#26412
+flickering key~
+a flickering key~
+A key flickers in and out of existance.~
+~
+18 4 1
+0 1 0 0
+1 0 0 40
+#26413
+stalactite~
+a bloody stalactite~
+A stalactite is here, sprayed with blood.~
+~
+5 67178004 8193
+5 12 12 9
+10 0 0 8
+#26414
+blood portal~
+a bloody portal~
+A portal sits here covered in blood.~
+~
+27 0 0
+26498 0 0 0
+1 0 0
+#26415
+bloody spear broad~
+a ^rbloody^n broadbladed spear~
+A long broadbladed spear sits with blood dripping down the handle.~
+~
+5 64 8193
+6 6 6 11
+5 0 0
+A
+19 4
+A
+18 5
+#26416
+grapple grappling hook 26416~
+a grappling hook~
+A large steel hook with a span of rope sits here.~
+~
+13 4 16385
+0 0 0 0
+1 0 0
+#26417
+pile rubble~
+a large pile of rubble~
+The crumbled remains of the old shop sit here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#26418
+blood fountain~
+a blood fountain~
+A fountain, in the form of a tongue and basin dominates the corner of the room.~
+~
+23 0 0
+999999 999999 13 0
+0 0 0
+#26419
+small dusty box~
+a small dusty box~
+A small dusty box sits here embedded in the ground.~
+~
+15 0 0
+999 15 26406 0
+1 0 0
+#26420
+mace blood orsus~
+a mace tempered in ^rblood^n~
+A large mace, tempered in the blood of Orsus sits here.~
+~
+5 1048576 8193
+5 7 6 5
+4 0 0
+A
+19 7
+A
+13 20
+B
+8388608 0
+#26430
+incense stand smoke~
+a small incense stand~
+A stand sits here with incense smoking.~
+~
+15 64 0
+500 13 26406 0
+0 0 0
+#26431
+gold cash money coins~
+some gold~
+Some gold has been left here.~
+~
+20 0 1
+10000 0 0 0
+0 0 0
+#26450
+crap~
+crap~
+Crap~
+~
+9 0 65535
+0 0 0 0
+1 1 1
+#26451
+stalactite bloody 26451~
+a bloody stalactite~
+A stalactite is here, sprayed with blood.~
+~
+13 0 1
+0 0 0 0
+10000 0 0
+E
+bloody stalactite~
+  You gaze at the stalactite and realize the situation
+is hopeless.  It is piercing you through the abdomen and
+weighs about a ton. Looking at the gruesome scene hurts,
+so you stop.
+~
+#26498
+crap~
+crap~
+Crap~
+~
+5 459 8193
+4 4 4 11
+0 0 0
+#26499
+crap~
+crap~
+Crap crap crap~
+~
+1 1 16385
+0 0 -1 0
+5 0 0
+#99999
+$~

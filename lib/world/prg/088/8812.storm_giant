@@ -1,0 +1,7 @@
+>fight_prog 20~
+  mpechoat $r $I hurls a bolt of lightning at you!!
+  mpechoaround $r $I hurls a bolt of lightning at $R!!
+  mpdamage $r 70
+  mpdrainmana $r 1d4
+~
+|

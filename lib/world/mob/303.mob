@@ -1,0 +1,62 @@
+#30300
+sapcer mob~
+Spacer MOB~
+spacer mob
+~
+undefined~
+17562056 0 500 S
+50 -5 -11 30d10+20000 8d8+30
+1203 300000
+8 8 1 7
+#30301
+Gnome Svirfnebli belwar dissengulp burrow warden~
+Belwar Dissengulp~
+The Most honored burrow warden stands here!
+~
+Belwar Dissengulp is a famos tactician and very wise svirfnebli.  He kept his town from being destroyed by the Drow, and he plans to fight out all evil from the underdark!
+~
+784716 22347780 500 S
+50 -7 -14 10d10+24000 9d12+37
+2001 380000
+8 8 1 6
+#30302
+king schnicktick gnome svirfnebli~
+King Schnicktick~
+King Schnicktick stands here!
+~
+A noble and proud King stands before you.  His Emerald Sceptre and Royal cloak make him appear wise and intelegent.
+~
+784782 0 500 S
+50 -15 -15 10d10+27000 10d14+45
+1500 200000
+8 8 1 10
+#30303
+Drow warrior Uthegentle~
+Uthegentle~
+Uthegentle stands before you!
+~
+Uthegentle is a weaponmaster of Menzo.  He is stronger than any male drow al-
+ive and stronger than most drow women.  He has a crew-cut hair, that spikes
+on top and it a blonde white.  His black skin that glows, the skin that isn't
+coverd by heavy armor.  He is famed to have the strongest stamina of any drow.
+He uses his massive strength to help him in fights and he doesn't fight fair.
+He is a truly evil drow.  And he plans to bring back your skins to his Matron
+Mother.
+~
+19656494 0 -750 S
+50 -10 -9 1d1+28000 10d12+43
+4001 380000
+8 8 1 2
+#30399
+spacer mob~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

@@ -1,0 +1,8 @@
+>rand_prog 100~
+  if inroom($r) == here
+    say wow, $R is here with me
+  else
+    say Darn $R isnt here to see me say this
+  endif
+~
+|

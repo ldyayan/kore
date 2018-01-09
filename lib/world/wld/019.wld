@@ -1,0 +1,1644 @@
+#1900
+Tranquilly~
+As you enter the room you see a Persian carpet spread across the floor.
+Two man size candelabre stand on either side of the door, filling the room
+with moving, golden light. The colors in the room are so bright it looks
+like stained glass. Wall hangings cover the two longest walls. On one wall
+a Unicorn fled from a pack of hounds. The other hanging was a battle scene
+so dimmed with age that parts of the figures have vanished into the cloth.
+Bright silken drapes cover the far end of the room, hung from the ceiling
+with heavy cords. A door is open to the left of the drapes.
+~
+19 393240 0
+S
+#1901
+The River Tavern~
+You have just entered the largest and best tavern in the city. The menu
+here offers a variety of dishes to choose from. This is the only place in
+town that offers private rooms for meetings and or drinking. You feel very
+safe here as no one bothers the clientele.
+~
+19 16 0
+D0
+~
+~
+0 0 1902
+D2
+~
+~
+0 0 1905
+S
+#1902
+Keris' Office~
+As you enter Keris' smoked filled office you see him sitting behind his
+desk. There are papers scatter all over the place. Above him theres a sign
+that reads: Private Rooms available for a small price.
+~
+19 64 0
+D1
+~
+door~
+1 1900 1903
+D2
+~
+~
+0 0 1901
+D3
+~
+door~
+1 1900 1904
+S
+#1903
+Private Room~
+As you walk in the private room there is some kind of meeting going on.
+Everyone turns around to look at you and wondering what you are doing here.
+The room has its own bar with a few waitress and a barmaid.
+~
+19 0 0
+D3
+~
+door~
+1 0 1902
+S
+#1904
+Private Room~
+As you enter the private room no one sees you as there is some type of
+party going on. There are a couple of barmaids and a few waitress waiting
+on the people. There is a bard playing music on the stage in the far side
+of the room
+~
+19 0 0
+D1
+~
+door~
+1 0 1902
+S
+#1905
+Teshwave Street~
+You are on Teshwave Street. There are a few people walking in and out
+of the different buildings. Most of the people you see seem to be very
+nice. To the north you see one of the towns taverns. The River.
+~
+19 0 1
+D0
+~
+~
+0 0 1901
+D1
+~
+~
+0 0 1906
+D3
+~
+~
+0 0 1908
+S
+#1906
+Teshwave Street~
+As you walk father down Teshwave Street you notice you will have to turn
+around as you reached the end of the street. You still see a few people here
+and there. To the south you here loud noises coming from the local blacksmith
+place.
+~
+19 0 1
+D2
+~
+~
+0 0 1907
+D3
+~
+~
+0 0 1905
+S
+#1907
+Lunanna's Forge~
+As you enter Lunanna's you see her busy at work. She is the towns only
+blacksmith. When you speak in here you have to yell due to all the noise.
+There are a few weapons hanging on the wall waiting for their owners to
+pick them up.
+~
+19 0 0
+D0
+~
+~
+0 0 1906
+S
+#1908
+Teshwave Street~
+You are on Teshwave Street. There are not many people around this one
+section of the street. After standing here a little to long you know the
+reason as to why there is no one around. As the wind blows from the south
+you get the racid smell that is coming from the barnlike building to the
+south. You also hear animal sounds coming from the south.
+~
+19 0 1
+D1
+~
+~
+0 0 1905
+D2
+~
+~
+0 0 1909
+D3
+~
+~
+0 0 1911
+S
+#1909
+On Four Feet~
+You enter a large barnlike structure. You see horses, ponies, oxen,
+mules, and other livestock. You are unable to stay in here to long due
+to the smell. There is a sign on the back wall that reads: We will put
+up your animals for a small fee. We house horses and flying mounts such
+as griffins or pegasi.
+~
+19 0 0
+D0
+~
+~
+0 0 1908
+D2
+~
+~
+0 0 1910
+S
+#1910
+Stall~
+The farther you travel to the back of the stall the worst it smells.
+You notice the special stalls that accommodate the flying mounts. There
+are not that may animals in here at the moment.
+~
+19 0 0
+D0
+~
+~
+0 0 1909
+S
+#1911
+Teshware Street~
+You are on Teshware Street. As you walk down the street you see a few
+people here and there. Everyone you have bump into seem to be real nice.
+As the wind blows you get a faint smell of, well you are not really sure
+what of.
+~
+19 0 1
+D1
+~
+~
+0 0 1908
+D3
+~
+~
+0 0 1912
+S
+#1912
+Teshwave Street~
+You are walking now on Teshwave Street. There are still a few people
+here and there. This street is not as busy as the rest of the city. It
+also has a few business on this street. To the south is Mace Way.
+~
+19 0 1
+D1
+~
+~
+0 0 1911
+D2
+~
+~
+0 0 1913
+S
+#1913
+Mace Way~
+You are on Mace Way. One of the shorter streets of the city. You notice
+a few people going in and out of a ornate marble building to your west. To
+the north is Teshwave Street.
+~
+19 0 1
+D0
+~
+~
+0 0 1912
+D2
+~
+~
+0 0 1918
+D3
+~
+door~
+1 0 1914
+S
+#1914
+Bath House~
+You have entered the bath house. One of the only buildings to have
+managed to survive intact the pre-Razing days. The inside of the place
+is much like the outside, made of marble. As you look to the west you
+see a hallway that leads to the private baths.
+~
+19 0 0
+D1
+~
+door~
+1 0 1913
+D3
+~
+~
+0 0 1915
+S
+#1915
+Hallway~
+As you walk down the hallway you see the private baths are to your
+east and west. At both entrances there is a massive eunuch warrior.
+They are here to take you to the proper pools after taking the asking
+price. There is a sign above the door that reads: Pool sessions last
+for two hours, and a massage last 15 minutes.
+~
+19 0 0
+D0
+~
+~
+0 0 1916
+D1
+~
+~
+0 0 1914
+D2
+~
+~
+0 0 1917
+S
+#1916
+Private Bath~
+As you enter the room there is a nice size hot steaming bath in
+the middle of the room. On the one side of the room there is a table
+where you can relax and receive a massage. On the other side of the
+room there are a number of different lotions lined up on a shelf.
+~
+19 0 0
+D2
+~
+~
+0 0 1915
+S
+#1917
+Private Bath~
+As you enter the room you see a nice size steaming pool in the
+middle of the room. On the one side of the room is a table where
+you can relax and receive a massage. On the other side is a shelf
+that has a number of different lotions used for the massages.
+~
+19 0 0
+D0
+~
+~
+0 0 1915
+S
+#1918
+Mace Way~
+You are on Mace Way. The shortess street in Zhentil Keep. There are
+still a lot of people coming and going. To the west of you, you see the
+Way of the Warrior. Mace Way continues to the north and south.
+~
+19 0 1
+D0
+~
+~
+0 0 1913
+D2
+~
+~
+0 0 1919
+D3
+~
+~
+0 0 1925
+S
+#1919
+Mace Way~
+You are on Mace Way. There are people coming and going from the
+different buildings. To the west of you is the Spice of Life. To
+the south of you is the Lodge of the Great Hunt. Center Street is
+to your east.
+~
+19 0 1
+D0
+~
+~
+0 0 1918
+D1
+~
+~
+0 0 1920
+D2
+~
+~
+0 0 1932
+D3
+~
+~
+0 0 1933
+D8
+~
+~
+0 0 1173
+S
+#1920
+Center Street~
+You are now on Center Street. You don't see much around here. There
+are a few people here and there. You don't see any buildings either.
+Other then the building you see far east. To the west is Mace Way.
+~
+19 0 1
+D1
+~
+~
+0 0 1921
+D3
+~
+~
+0 0 1919
+S
+#1921
+Center Street~
+As you walk down Center Street you notice how everything is so quiet.
+You wonder if it is always like this. There are a few benches you can
+sit on and listen to the birds sing. Center Street continues to the east
+and west.
+~
+19 0 1
+D1
+~
+~
+0 0 1922
+D3
+~
+~
+0 0 1920
+S
+#1922
+Center Street~
+As you walk down the street you wonder if it is always this quiet here.
+You see a few benches with people sitting there feeding the birds and just
+have a nice day. Center Street continues to the east and west.
+~
+19 0 1
+D1
+~
+~
+0 0 1923
+D3
+~
+~
+0 0 1921
+S
+#1923
+Center Street~
+You are walking on Center Street. There is not that many buildings.
+Really you have only seen one, which is to the east of you. The sign
+out side of the building reads: The Eye of the Beholder. You have no
+idea what is in there.
+~
+19 0 1
+D1
+~
+~
+0 0 1924
+D3
+~
+~
+0 0 1922
+S
+#1924
+The Eye of the Beholder~
+As you enter the Eye of the Beholder you see that it is a jeweler/gem
+cutter's establishment. There is alot of beautiful gold and silver pieces
+in a glass case on top of the counter. The owner is a craftsman of the
+highest caliber.
+~
+19 0 0
+D3
+~
+~
+0 0 1923
+S
+#1925
+Way of the Warrior~
+As you enter the Way og the Warrior there is a big sign that reads:
+No magic will be allowed within these walls of the Way of the Warrior.
+This hall is open to all. To like south you see the meeting room.
+~
+19 128 0
+D1
+~
+~
+0 0 1918
+D2
+~
+~
+0 0 1926
+S
+#1926
+Meeting Room~
+You have entered the meeting room in the Way of the Warrior. This room
+is where they decide whom may or may not join the Way of the Warrior. In
+the center of the room is a big cherry wood table that sits about 13 people.
+To the east you see the weapon and armour repair shop. To the north is the
+entrance. To the south is a hallway.
+~
+19 128 0
+D0
+~
+~
+0 0 1925
+D2
+~
+~
+0 0 1927
+D3
+~
+~
+0 0 1931
+S
+#1927
+Hallway~
+You are in a hallway. On the walls there are pictures of well know
+warriors. To the south you see the training room. To the east and west
+are the sleeping chambers. North is the meeting room.
+~
+19 128 0
+D0
+~
+~
+0 0 1926
+D1
+~
+~
+0 0 1929
+D2
+~
+~
+0 0 1930
+D3
+~
+~
+0 0 1928
+S
+#1928
+Sleeping Chambers~
+You are in the sleeping chambers. This is a place where the warriors
+can rest their heads after a long day. There are a few bunks on each
+side of the wall. Under the bunks is a place for the warriors to put
+their weapons and armour.
+~
+19 128 0
+D1
+~
+~
+0 0 1927
+S
+#1929
+Sleeping Chambers~
+You are in the sleeping chambers. This is a place where the warriors
+can rest their heads after a long day. There are a few bunks on each
+side of the wall. Under the bunks is a place for the warriors to put
+their weapons and armour.
+~
+19 128 0
+D3
+~
+~
+0 0 1927
+S
+#1930
+Training Room~
+You have entered the training room.  In here fighters learn to unite
+in a pact of mutual support and cooperation. Each member is tattooed
+with a flaming sword on his upper left arm. The trainer here is known
+to beat almost anyone in a fair fight.
+~
+19 128 0
+D0
+~
+~
+0 0 1927
+S
+#1931
+Repair Shop~
+You have entered the repair shop. You see all kinds of weapons hanging
+from the wall. You see knifes, swords, blades, and a few other different
+kinds of weapons. There is also a lot of armour hanging up on a pole that
+goes from one end of the room to the other.
+~
+19 128 0
+D1
+~
+~
+0 0 1926
+S
+#1932
+Lodge of the Great Hunt~
+As you enter the Lodge you see that the interior has been decorated to
+resemble a hunting lodge, with animal skin rugs, and numerous mounted animal
+trophies. On the far side of the room you see a roaring fire in a hearth. To
+the south you see the back door.
+~
+19 0 0
+D0
+~
+~
+0 0 1919
+D2
+~
+door~
+1 0 1934
+S
+#1933
+The Spice of Life~
+As you enter the Spice of Life you are hit with the aroma of fresh herbs
+and spices. There are shelves that go all around the shop that house a big
+amount of herbs, spices, teas and tobaccos from all over the world. As you
+look up you see different kinds of plants hanging from the ceiling. There is
+a sign behind the counter that reads: What you don't see we will order.
+~
+19 0 0
+D1
+~
+~
+0 0 1919
+S
+#1934
+Twilight Street~
+You are on Twilight Street. To the north of you, you see the
+Lodge of the Great Hunt. Twilight Street continues to the east.
+~
+19 0 1
+D0
+~
+~
+0 0 1932
+D1
+~
+~
+0 0 1935
+S
+#1935
+Twilight Street~
+You are on Twilight Street. It continues to your east and west.
+~
+19 0 1
+D1
+~
+~
+0 0 1936
+D3
+~
+~
+0 0 1934
+S
+#1936
+Twilight Street~
+You are on Twilight Street. It continues to your east and west.
+~
+19 0 1
+D1
+~
+~
+0 0 1937
+D3
+~
+~
+0 0 1935
+S
+#1937
+Twilight Street~
+You are on Twilight Street. It continues to your east and west.
+~
+19 0 1
+D1
+~
+~
+0 0 1938
+D3
+~
+~
+0 0 1936
+S
+#1938
+Twilight Street~
+You are on Twilight Street. To the north is the Pride os Zhentil
+Keep. To the south is Zhent Avenue. Twilight Street continues west.
+~
+19 0 1
+D0
+~
+~
+0 0 1939
+D2
+~
+~
+0 0 1940
+D3
+~
+~
+0 0 1937
+S
+#1939
+The Pride of Zhentil Keep~
+You are in an unfinished room.
+~
+19 0 0
+D2
+~
+~
+0 0 1938
+S
+#1940
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the south. To the north
+is Twilight Street.
+~
+19 0 1
+D0
+~
+~
+0 0 1938
+D2
+~
+~
+0 0 1941
+S
+#1941
+Zhent Avenue~
+You are on Zhent Avenue. It continues to your north and south.
+~
+19 0 1
+D0
+~
+~
+0 0 1940
+D2
+~
+~
+0 0 1942
+S
+#1942
+Zhent Avenue~
+You are on Zhent Avenue. It continues to your north and south.
+To the west is Barrodar's Fantastic Fabrics.
+~
+19 0 1
+D0
+~
+~
+0 0 1941
+D2
+~
+~
+0 0 1943
+D3
+~
+~
+0 0 1944
+S
+#1943
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the north and southeast.
+To the south is a deserted orphanage.
+~
+19 0 1
+D0
+~
+~
+0 0 1942
+D2
+~
+~
+0 0 1947
+D7
+~
+~
+0 0 1948
+S
+#1944
+Barrodar's Fantastic Fabrics~
+As you enter the shop there are all kinds of fabrics from all over
+the realm hanging here. From word of mouth from some of the citizens
+of Zhentil Keep, you hear that this place is the towns fence. Also it
+is believed that Barrodar keeps most of his stuff in the cellar with
+the spiders.
+~
+19 64 0
+D1
+~
+~
+0 0 1942
+D4
+~
+~
+0 0 1946
+D5
+~
+floor~
+1 1910 1945
+S
+#1945
+Cellar~
+As you come down the steps in the cellar you can hardly see a thing.
+On one side of the wall you can make out what looks like a safe. There
+is water driping down the wall. That would explain the mildew smell.
+~
+19 1 0
+D4
+~
+door~
+1 0 1944
+S
+#1946
+Apartment~
+You have entered the apartment above Barrodar's. It is not that big.
+It is one big room with a bed on the far side of the wall under the only
+window in the place. You see a small table and a chair on the other side
+of the room.
+~
+19 0 0
+D5
+~
+~
+0 0 1944
+S
+#1947
+Deserted Orphanage~
+You are in an unfinished room.
+~
+19 0 0
+D0
+~
+~
+0 0 1943
+S
+#1948
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the east and northwest.
+To the south is the residence of Kornah the Crazy and her pet crow
+Shalla.
+~
+19 0 1
+D0
+~
+~
+0 0 4304
+D1
+~
+~
+0 0 1949
+D2
+~
+door~
+1 0 1951
+D9
+~
+~
+0 0 1943
+S
+#1949
+Zhent Avenue~
+You are on Zhent Avenue. It continues to your east and west. To
+the north is the Zhentilar Headquarters.
+~
+19 0 1
+D0
+~
+~
+0 0 1952
+D1
+~
+~
+0 0 1950
+D3
+~
+~
+0 0 1948
+S
+#1950
+Zhent Avenue~
+You are on Zhent Avenue. It continues to your east and west.
+~
+19 0 1
+D1
+~
+~
+0 0 1953
+D3
+~
+~
+0 0 1949
+S
+#1951
+Residence of Kornah~
+You have entered the residence of Kornah. She is known to all as
+Kornah the Crazy. The house is a comfortable mess, with various and
+sundry objects scattered everywhere. This house is a known refuge to
+all Harpers who visit the Keep.
+~
+19 2048 0
+D0
+~
+door~
+1 0 1948
+D2
+~
+~
+0 0 1989
+S
+#1952
+Zhentilar Headquarters~
+You are in an unfinished room.
+~
+19 0 0
+D2
+~
+~
+0 0 1949
+S
+#1953
+Zhent Avenue~
+You are on Zhent Avenue. It continues to your west. To your east
+is city square.
+~
+19 0 1
+D1
+~
+~
+0 0 1954
+D3
+~
+~
+0 0 1950
+S
+#1954
+City Square~
+The square is a very popular place, and there is always a small crowd
+here. There are a few benches arranged along the perimeter of the plaza,
+facing a statue of some unknown person. He must of did something of value
+centuries ago. There is a man here in a threadbare robe sitting at a bench
+playing chess.
+~
+19 0 1
+D0
+~
+~
+0 0 1955
+D1
+~
+~
+0 0 1957
+D3
+~
+~
+0 0 1953
+D6
+~
+~
+0 0 1956
+S
+#1955
+City Square~
+The square is a very popular place, and there is always a small crowd
+here. There are a few benches arranged along the perimeter of the plaza,
+facing a statue of some unknown person. He must have did something of value
+centuries ago. There is a man here in a threadbare robe sitting at a bench
+playing chess.
+~
+19 0 1
+D1
+~
+~
+0 0 1956
+D2
+~
+~
+0 0 1954
+D7
+~
+~
+0 0 1957
+S
+#1956
+City Square~
+The square is a very popular place, and there is always a small crowd
+here. There are a few benches arranged along the perimeter of the plaza,
+facing a statue of some unknown person. He must of did something of value
+centuries ago. There is a man here in a threadbare robe sitting at a bench
+playing chess.
+~
+19 0 1
+D2
+~
+~
+0 0 1957
+D3
+~
+~
+0 0 1955
+D8
+~
+~
+0 0 1954
+S
+#1957
+City Square~
+The square is a very popular place, and there is always a small crowd
+here. There are a few benches arranged along the perimeter of the plaza,
+facing a statue of some unknown person. He must of did something of value
+centuries ago. There is a man here in a threadbare robe sitting at a bench
+playing chess.
+~
+19 0 1
+D0
+~
+~
+0 0 1956
+D1
+~
+~
+0 0 1958
+D3
+~
+~
+0 0 1954
+D9
+~
+~
+0 0 1955
+S
+#1958
+Zhent Avenue~
+You are on Zhent Avenue. It continues to you east. To the west is
+the city square.
+~
+19 0 1
+D1
+~
+~
+0 0 1959
+D3
+~
+~
+0 0 1957
+S
+#1959
+Zhent Avenue~
+Yo are on Zhent Avenue. It continues to the east and west. To the
+south you see Rak's Apothecary.
+~
+19 0 1
+D1
+~
+~
+0 0 1961
+D2
+~
+~
+0 0 1960
+D3
+~
+~
+0 0 1958
+S
+#1960
+Rak's Apothecary~
+As you enter Rak's you don't know if you should just turn around and go
+back out, due to all the smoke and the rancid smell. Through all the smoke
+you see all kinds of spell components, medicines, poultices, acids, bases,
+folk remedies, and chemicals lined up behind the counter.
+~
+19 0 0
+D0
+~
+~
+0 0 1959
+S
+#1961
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the east and west. To the
+south is the House of Comfort.
+~
+19 0 1
+D1
+~
+~
+0 0 1963
+D2
+~
+~
+0 0 1962
+D3
+~
+~
+0 0 1959
+S
+#1962
+The House of Comfort~
+You are in an unfinished room.
+~
+19 0 0
+D0
+~
+~
+0 0 1961
+S
+#1963
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the east and west. To the
+north is Tymora's Holy Hall of Good Fortune and Casino.
+~
+19 0 1
+D0
+~
+~
+0 0 1964
+D1
+~
+~
+0 0 1965
+D3
+~
+~
+0 0 1961
+S
+#1964
+Tymora's Holy Hall of Good Fortune and Casino~
+You are in an unfinished room.
+~
+19 0 0
+D2
+~
+~
+0 0 1963
+S
+#1965
+Zhent Avenue~
+You are on Zhent Avenue. It continues to your east and west. To the
+south is the Palace of Sweet Pain.
+~
+19 0 1
+D1
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1966
+D3
+~
+~
+0 0 1963
+S
+#1966
+The Palace of Sweet Pain~
+You are in an unfinished room.
+~
+19 0 0
+D0
+~
+~
+0 0 1965
+S
+#1967
+Zhent Avenue~
+You are on the Zhent Avenue. It continues to the east and west. To
+the south is the Mug and Mutton.
+~
+19 0 1
+D1
+~
+~
+0 0 1969
+D2
+~
+~
+0 0 1968
+D3
+~
+~
+0 0 1965
+S
+#1968
+The Mug and Mutton~
+As you walk in The Mug and Mutton it is very loud. You see people from
+all walks of life: Mages, merchants, thieves, Zhentilar, laborers, and
+adventurers. Everyone is sitting at tables eating and drinking beer. Their
+are a few people at the bar. This is the one tavern in town that you can
+find out all kinds of gossip.
+~
+19 0 0
+D0
+~
+~
+0 0 1967
+D2
+~
+~
+0 0 1990
+S
+#1969
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the east and west. To
+the south is the Battlehall. To the north is Twilight Hall.
+~
+19 0 1
+D0
+~
+~
+0 0 1971
+D1
+~
+~
+0 0 1972
+D2
+~
+~
+0 0 1970
+D3
+~
+~
+0 0 1967
+S
+#1970
+Battlehall~
+You are in an unfinished room.
+~
+19 0 0
+D0
+~
+~
+0 0 1969
+S
+#1971
+Twilight Hall~
+You are in an unfinished room.
+~
+19 0 0
+D2
+~
+~
+0 0 1969
+S
+#1972
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the east and west. To the
+north is the Burst Boil.
+~
+19 0 1
+D0
+~
+~
+0 0 1983
+D1
+~
+~
+0 0 1973
+D3
+~
+~
+0 0 1969
+S
+#1973
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the east and west. To
+the north is the Prosperity House.
+~
+19 0 1
+D0
+~
+~
+0 0 1984
+D1
+~
+~
+0 0 1974
+D3
+~
+~
+0 0 1972
+S
+#1974
+Zhent Avenue~
+You are on Zhent Avenue. It continues to the west. To the east
+you see Bridge Street.
+~
+19 0 1
+D1
+~
+~
+0 0 1975
+D3
+~
+~
+0 0 1973
+S
+#1975
+Bridge Street~
+You are on the main street of the city. To the east of you is
+Lord Orgauth's Complex. Rumors have it that no one is allow in
+there. To the west is Zhent Avenue. Bridge Street continues to
+the north and south.
+~
+19 0 1
+D0
+~
+~
+0 0 1976
+D1
+~
+~
+0 0 1987
+D2
+~
+~
+0 0 1978
+D3
+~
+~
+0 0 1974
+S
+#1976
+Bridge Street~
+You are on Bridge Street. It continues to the north and south.
+~
+19 0 1
+D0
+~
+~
+0 0 1977
+D2
+~
+~
+0 0 1975
+S
+#1977
+Bridge Street~
+You are on the main street in the city. To the east is where you
+can get a good nights sleep, at the Tesh Inn. Over to your west is
+the Crypts. To the north is the South Tesh Gate.
+~
+19 0 1
+D0
+~
+~
+0 0 1980
+D1
+~
+~
+0 0 1986
+D2
+~
+~
+0 0 1976
+D3
+~
+~
+0 0 1982
+S
+#1978
+Bridge Street~
+You are on the main street in Zhentil Keep. To the south of you
+is Throat Gate, the only land entrance into the city. To the west
+is the Custom House. Where all must go when entering of leaving the
+city. To the east is The Hall of Rulership. Bridge Street continues
+to the north.
+~
+19 0 1
+D0
+~
+~
+0 0 1975
+D1
+~
+~
+0 0 1985
+D2
+~
+~
+0 0 1979
+D3
+~
+~
+0 0 1981
+S
+#1979
+Throat Gate~
+This large gate is the only way into Zhentil Keep via land.
+The gate is made of highly polished adamantine-steel alloy, with
+nasty spikes and bas-reliefs of baatezu decorating the front. A
+portcullis drops down to seal the gate off in times of trouble.
+~
+19 0 1
+D0
+~
+~
+0 0 1978
+D1
+~
+~
+0 0 1988
+S
+#1980
+South Tesh Gate~
+You are at the South Tesh Gate. This gate here is closed due to
+the shattered remains of the Tesh Bridge. Guards are still here to
+watch the gate. To the south is Bridge Street.
+~
+19 0 1
+D2
+~
+~
+0 0 1977
+S
+#1981
+Custom House~
+This small, squat fortress was reopened and converted into a custom
+house. All merchants coming to and from Zhentil Keep report here, record
+their activities, and pay entry and exit taxes. The Custom House is open
+from sunrise to sunset. Theres a sign on the wall that reads:
+If you enter or leave when we are closed you will pay Double the Taxes!
+~
+19 2048 0
+D1
+~
+~
+0 0 1978
+D2
+~
+~
+0 0 1991
+S
+#1982
+The Crypts~
+You have entered the Crypts. A nickname given to the constabulary
+because the cells are located below the ground. At one time this was
+a military detention center, with crypts below for the quick burial
+of prisoners. Now it serves as the headquarters of city security.
+~
+19 0 0
+D1
+~
+~
+0 0 1977
+D3
+~
+~
+0 0 1111
+D5
+~
+~
+0 0 1112
+S
+#1983
+The Burst Boil~
+As you enter the Burst Boil you can't believe your eyes, as compared to
+the outside. Which appears unremarkable. The inside is a small, crowded,
+smelly, loud, dirty place with sawdust on the floor and flies in the gruel.
+Humans are not welcome here and usually get mugs hurled at their heads if
+they enter and told to leave immediately.
+~
+19 0 0
+D2
+~
+~
+0 0 1972
+S
+#1984
+Prosperity House~
+You are in an unfinished room.
+~
+19 0 0
+D2
+~
+~
+0 0 1973
+S
+#1985
+The Hall of Rulership~
+The Hall of Rulership was once an ancient fort during the Keep's
+wilder days. Which was centuries ago. This stout building now serves
+as a seat of government for Zhentil Keep.
+~
+19 0 0
+D1
+~
+~
+0 0 1998
+D3
+~
+~
+0 0 1978
+S
+#1986
+The Tesh Inn~
+You are in an unfinished room.
+~
+19 0 0
+D3
+~
+~
+0 0 1977
+S
+#1987
+Lord Orgauth's Complex~
+As you enter Lord Orgauth's Complex you see the interior is
+quite opulent, suitable for the ruler of a city. There is some
+very exotic furnishings placed just right around the room. The
+floor seems to be hollow in one section of the room. East is a
+hallway.
+~
+19 128 0
+D1
+~
+~
+0 0 1104
+D3
+~
+~
+0 0 1975
+D5
+~
+floor~
+1 0 1103
+S
+#1988
+Black Network Headquarters~
+You are in an unfinished room.
+~
+19 0 0
+D1
+~
+~
+0 0 1992
+D3
+~
+~
+0 0 1979
+S
+#1989
+Bedroom~
+As you enter the bedroom you can hardly see as it is so dark in
+here. What you can make out it is not that much difference from the
+front of the house. The bedroom is also a comfortable mess, with
+various and sundry objects scattered everywhere.
+~
+19 2049 0
+D0
+~
+~
+0 0 1951
+S
+#1990
+Bar~
+You have entered the bar in the back of the building. In here is
+where most of the gossip goes on. Olford is usually sitting in here
+and talking about someone. There are a few tables in here along with
+a bar.
+~
+19 0 0
+D0
+~
+~
+0 0 1968
+S
+#1991
+Storage Room~
+As you go to the back of the building you pass boxs and boxs all
+placed in order along the walls. It is not known what is in the boxs
+as they are not labeled. There are a few guards walking up and down
+the hall making sure of no troubles.
+~
+19 0 0
+D0
+~
+~
+0 0 1981
+S
+#1992
+Hallway~
+You are in an unfinished room.
+~
+19 0 0
+D0
+~
+~
+0 0 1994
+D1
+~
+~
+0 0 1995
+D2
+~
+~
+0 0 1993
+D3
+~
+~
+0 0 1988
+S
+#1993
+Room~
+You are in an unfinished room.
+~
+19 0 0
+D0
+~
+~
+0 0 1992
+S
+#1994
+Room~
+You are in an unfinished room.
+~
+19 0 0
+D2
+~
+~
+0 0 1992
+S
+#1995
+Back Entrance~
+You are in an unfinished room.
+~
+19 0 0
+D3
+~
+~
+0 0 1992
+S
+#1996
+The Throne Room~
+You have entered Orgauth's Throne Room. In here is where he
+receives all his visitors, as everyone is forbidden to enter
+his manor. As you walk across the floor it echos through out
+the room.
+~
+19 0 0
+D1
+~
+~
+0 0 1999
+D3
+~
+~
+0 0 1998
+D5
+~
+floor~
+1 0 1100
+S
+#1997
+Office~
+You have entered Orgauth's office. In here is where he does most
+of his work and conducts his less formal business. The size of the
+office is very large. There is a desk in the far corner of the room
+with papers lying all over it.
+~
+19 0 0
+D2
+~
+~
+0 0 1998
+S
+#1998
+Hall of Records~
+You have entered the Hall of Records. This is where Zark got
+stuck watching all the information and reporting back if anything
+of interest should cross his desk. If you are coming here for any
+type of records. Good luck.
+~
+19 0 0
+D0
+~
+~
+0 0 1997
+D1
+~
+~
+0 0 1996
+D3
+~
+~
+0 0 1985
+S
+#1999
+Lord's Room~
+This is the Hall's most impressive room. It is a huge chamber
+dominated by an expensive oak table with a map of Zhentil Keep
+laminated into it surface. In here Lord Orgauth assembles his
+fellow rulers of the city in order to come up with civic plans.
+~
+19 0 0
+D3
+~
+~
+0 0 1996
+S
+#99999
+$~

@@ -1,0 +1,14 @@
+>command_prog cast~
+  mpechoat $n You can't move!
+  mpstopcommand
+~
+>rand_prog 15~
+  if inroom($r) == here
+    mpechoat $r You are spewed out!
+    mpat 3001 mptrans $r
+    mpat 3001 mpechoaround $r The couch beast rears up and spews out $r!
+    mpat 3001 mpforce $r look
+    mpecho $r is expelled!
+  endif
+~
+|

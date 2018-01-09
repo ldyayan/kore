@@ -1,0 +1,13 @@
+>rand_prog 3~
+  mptrackto 22111
+  sneak
+  hide
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      trip $r
+    endif
+  endif
+~
+|

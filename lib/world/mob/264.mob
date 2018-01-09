@@ -1,0 +1,241 @@
+#26400
+monument vengeance statue orc orlon orsus 26400~
+the monument to Orsus~
+A statue of an orc holding a bloody mace over the head of a dead human.
+~
+   Standing twenty feet tall the monument of Orsus towers over the columns and
+other statues that are here.  The solid rock the monument was carved from was
+enchanted in preparation for the encasement of Orlon the god of night and death
+who Orsus had a hatred for.  Now in his eternal form he lives only to control
+the flow of people into the temple and the defend it when it has to be.
+~
+2856970 66696 56 S
+55 -30 -50 12d9+30000 9d9+50
+0 1000000
+8 8 1
+#26401
+orc guard wise defender orsus~
+the defender of Orsus~
+A huge orc stands here, stopping intruders from entering.
+~
+   The defender sits here staring into the crowd of people in the room.  He
+wears an immense belt bestowed upon his by Brekstack.  And a helm finer than
+any you have ever seen despite its many scratches and dents.  He sits in the
+middle of the room on a raise column below which lay a large cavern where the
+rumors say that the real tomb of Orsus is.
+~
+2875466 34677896 0 S
+52 1 0 8d5+1 5d5+1
+0 400000
+8 8 1
+#26402
+orc worshipper orsus~
+an orc worshipper~
+An orc worshipper is here taking in incense and praying.
+~
+   The worshipper looks excited at having finally reached the temple.  Though
+amazingly he does cover the excitement in his face well.  He slowly works his
+way past the other orcs who have gather around the temple toward the Grand
+Hall.
+~
+528906 0 15 S
+22 1 0 1d2+1 4d3+0
+0 10000
+8 8 1
+#26403
+orc high priest vengeance~
+the high priest of Orsus~
+An orc wrapped in elaborate red robes, quite angry at being disturbed.
+~
+  The priest radiates power. Upon seeing you, he spouts at the mouth about
+the tomb of Orsus and points in several different directions. He stops
+suddenly and quickly returns to his praying. After about two minutes, he
+stands and places his hand in the flame of a candle beside him. His face
+winces a little but he says nothing.
+~
+524330 33629320 0 S
+40 1 0 5d4+2 3d4+1
+0 50000
+8 8 1
+#26404
+orc trialer boy warrior~
+an orc trialer~
+An orcish warrior, waiting for a chance to prove himself.
+~
+  A young orc has strapped on his limited equipment in preparation of the 
+trail. He looks to be as old as you, but you doubt that he has as much 
+experience. He turns his head to look you in the eye, but his gaze wavers
+and he returns to his mental preparation.
+~
+10 0 0 S
+20 1 0 2d3+1 2d3+2
+0 5000
+8 8 0
+#26405
+ordus god hunt~
+a statue of Ordus god of the hunt~
+A statue of a god over the body of a dead boar sits here.
+~
+   He tall body sends great shivers up your spine for you fear what he could
+do to it.  You wonder simply looking up at him if in would help the monument
+in a great fight for the mace.
+~
+536618 65664 0 S
+38 20 10 1d1+0 0d1+0
+0 0
+6 6 1
+#26406
+ordolonus god fallen~
+a statue of Ordolonus god of the fallen~
+A statue of a god standing over the corpse of a fallen comrade
+~
+   In his statue he stands over the god of a fallen orc and prays he go to
+middle earth with great haste.  He is far more fair an orc you think but no
+so fair as to let you a shot at the great mace.
+~
+634922 65664 0 S
+38 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#26407
+orc worshipper~
+an orc worshipper~
+A worshipper walks slowly towards the temple, trembling with expectation.
+~
+   He sweats uncontrollably with great expectations of seeing the tomb and
+the altar.  He has great hopes for meeting with the high priest but he fears
+that the long journey here may have been useless.
+~
+65676 65536 0 S
+20 20 10 1d1+0 1d1+0
+0 1
+8 8 1
+#26408
+orc leader tracker~
+the orc tracker~
+An orc tracker sniffs and claws the dirt here.
+~
+He's small, yet tough and alert.
+~
+12300 65664 -300 S
+23 20 10 1d1+0 1d1+0
+0 0
+8 8 1 8
+#26409
+orc guard trackerhelp~
+an orc guard~
+an orc guard walks with the tracker.
+~
+tall and powerful he comes from distant lands further to the south.
+~
+8236 0 0 S
+18 20 10 1d1+0 1d1+0
+0 0
+8 8 1 8
+#26410
+divine !there mob~
+divine !there mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10485768 1064 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#26411
+sacrificial virgin~
+a sacrificial virgin~
+A woman is here, begging for forgiveness.
+~
+   You see a small human woman, bound and gagged begging for forgiveness.
+Her life appears over and their appears nothing that can be done about it.
+~
+74 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#26412
+hook !there mob~
+hook !there mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+10485768 1064 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#26413
+not there scrounge mob~
+not there scounge mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#26414
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#26415
+spirit orsus ghost~
+the spirit of Orsus~
+A long transparent figure hovers over the tomb.
+~
+   Despite his banishment here, many orcs still have an undying devotion to him.
+You can't fully understand this seeing him face to face: Two eyes to one.  Orsus
+gained the respect of all orcs because of his attempts to gain his own vengeance.
+In many orc eyes he is still the god of vengeance.
+~
+139386 5320320 150 S
+53 1 0 1d1+1 1d1+1
+0 3000000
+8 8 0
+#26416
+guardian phantom ghost ghoul~
+a guardian phantom~
+A phantom is here, protecting the catacombs.
+~
+   A mist-like figure materializes in front of you and
+attempts to block your path.  A small hissing voice in
+your head says, 'Leave now!'
+~
+528426 33792 50 S
+20 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#26417
+stalactite_death~
+stalactite_death~
+stalactite_death
+~
+It looks, err, unfinished.
+~
+8388618 1064 5 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#26418
+stalactite_greet~
+stalactite_greet~
+stalactite_greet
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

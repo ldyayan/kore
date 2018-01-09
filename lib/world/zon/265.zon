@@ -1,0 +1,74 @@
+#265
+The Ruins of Imirl Tirith~
+26599 40 2 33
+M 0 26519     5 26522            an orc guard
+M 0 26500     1 26522            an orc master assassin
+O 0 26514     1 26593            a manhole
+M 0 26517     1 26566            a devote monk
+D 0 26568     6     2            At The Temple Gate door northeast
+M 0 26509     1 26568            the orc gateguard
+E 1 26509   101    17                    held a large steel key
+E 1 26501     4    11                    shield an orc ceremonial shield
+D 0 26539     2     2            A Looted Shop door south
+O 0 26417   100 26539            a large pile of rubble
+M 0 26413     1 26539            not there scounge mob
+M 0 26412     3 26535            hook !there mob
+M 0 26412     3 26563            hook !there mob
+M 0 26412     3 26564            hook !there mob
+M 0 26410     1 26560            divine !there mob
+D 0 26519     0     2            The Ruined Gate Of Imirl Tirith door north
+M 0 26518     4 26519            an orc guard
+E 1 26512   101    17                    held a small steel key
+M 0 26518     4 26519            an orc guard
+M 0 26518     4 26519            an orc guard
+M 0 26518     4 26519            an orc guard
+O 0 26513   101 26599            a long broken sign
+M 0 26513     5 26538            a warg
+M 0 26519     5 26538            an orc guard
+D 0 26538     0     2            Nalnestal Street West door north
+D 0 26538     2     2            Nalnestal Street West door south
+D 0 26540     0     2            Another Looted Shop door north
+M 0 26514    10 26561            an orc
+M 0 26514     9 26512            an orc
+M 0 26513     3 26520            a warg
+M 0 26514     8 26520            an orc
+M 0 26514     7 26525            an orc
+M 0 26514     6 26537            an orc
+M 0 26513     8 26587            a warg
+M 0 26514     5 26587            an orc
+M 0 26513     8 26567            a warg
+M 0 26513     7 26528            a warg
+M 0 26519     5 26562            an orc guard
+M 0 26513     6 26562            a warg
+M 0 26519     5 26541            an orc guard
+M 0 26407     5 26511            an orc worshipper
+M 0 26407     5 26573            an orc worshipper
+M 0 26407     5 26571            an orc worshipper
+D 0 26569     8     2            The Trail to the Temple door southwest
+M 0 26407     5 26569            an orc worshipper
+M 0 26520     3 26583            a !there animal
+M 0 26520     3 26581            a !there animal
+M 0 26520     3 26579            a !there animal
+D 0 26513     4     2            The Base of the Old Sentry Tower door up
+M 0 26519     5 26513            an orc guard
+M 0 26513     4 26518            a warg
+M 0 26519     5 26518            an orc guard
+M 0 26512     1 26516            an orc soldier
+D 0 26516     2     2            Nalnestal Street door south
+M 0 26519     5 26516            an orc guard
+M 0 26508     1 26514            the orcish gate watcher
+E 1 26511     5    17                    held a pair of binoculars
+D 0 26514     5     2            The Top of the Old Sentry Tower door down
+D 0 26575     4     2            A Cell Deep Within the Temple door up
+D 0 26575     3     2            A Cell Deep Within the Temple door west
+O 0 26506  1000 26575            a human corpse
+P 1 26507   101 26506                    put a small iron key in a human corpse
+O 0 26502  1000 26543            a deadly looking green paste
+O 0 26503  1000 26543            a sickening piece of bark
+O 0 26504  1000 26543            a small bag of hard rocks
+O 0 26505  1000 26543            a disgusting flower
+M 0 26510     1 26542            Uglark
+M 0 26516     1 26506            a guardian phantom
+S
+#99999
+$~

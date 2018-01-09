@@ -1,0 +1,765 @@
+#18100
+scarecrow~
+a Scarecrow~
+A scarecrow is here in a feeble attempt to drive birds away from the field.~
+~
+13 0 0
+0 0 0 0
+99999 1 1
+#18101
+stick staff highwayman's~
+a HighwayMan's walking stick~
+A stout staff lays here on the ground.~
+~
+5 66624 8193
+0 3 3 7
+5 1 1
+A
+18 2
+A
+14 10
+#18102
+shrine marble love headstone~
+a Shrine~
+A magnificent piece of carved marble is here, its base surrounded by flowers.~
+~
+15 4 16385
+500 0 0 0
+99999 1 1
+E
+marble shrine~
+   The face of a striking young woman has been etched deeply into the marble.
+Under it is some scripting in the Olde Tongue.  This effigy of Selene is
+the final resting place of the WindFinder's lover, the marble headstone is
+a simple shrine to his love.  There seems to be a small hollowed out niche
+in the back of the marble...
+~
+#18103
+key latch latchkey~
+a sturdy latchkey~
+A latchkey made of solid oak lays here.~
+~
+18 4 16385
+18100 0 0 0
+1 1 1
+#18104
+gloves green windfinder~
+the Gloves of the WindFinder~
+A set of deep green gloves is waiting for you to put them on.~
+~
+9 87056 129
+5 0 0 0
+1 1 1
+A
+19 1
+A
+14 25
+B
+4096 0
+#18105
+jerkin leather green~
+a deep green leather jerkin~
+A worn green jerkin made of leather rests against the wall.~
+~
+9 21505 9
+10 0 0 0
+3 1 1
+A
+19 1
+A
+2 2
+A
+1 -1
+B
+4096 0
+#18106
+sign oak~
+a large oak sign~
+A large oak sign is firmly planted here, its colors draw your attention.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+oak sign~
+          BE ALL YE WARNED, THIS SIGN ENDS THE
+          JURISDICTION OF THE FREE CITY OF KORE.
+          THE HIGHWAY GUARDS ARE NOT ALLOWED TO
+          PASS THIS POINT, TRAVEL AT YOUR OWN 
+          RISK.  PLEASE REPORT ANY DISTURBANCES
+          TO THE CITY BARRISTER.
+
+
+		-WindFinder
+
+~
+#18108
+key slate~
+a short slate key~
+A small slate key lays hidden here, under the rug.~
+~
+18 36 16385
+18108 0 0 0
+1 1 1
+#18111
+lyre sarilla's~
+Sarilla's Lyre~
+An intricate Lyre is propped up in the corner of the room, waiting to be played~
+~
+24 8450642 8193
+0 0 0 0
+3 100000 1
+A
+9 5
+A
+6 2
+#18112
+stew bowl~
+a bowl of hearty stew~
+A bowl of thick stew is here, looking rather yummy.~
+~
+19 0 1
+12 0 0 0
+1 60 1
+#18113
+mug porter~
+a mug of dark porter~
+A leather mug sits here, filled with a dark brown porter.~
+~
+17 0 1
+15 15 3 0
+1 10 1
+#18114
+bread waybread honey honeyed~
+a honeyed waybread~
+A warm bun of honey waybread has been left here.~
+~
+19 0 1
+24 0 0 0
+1 95 1
+#18115
+hard tack~
+hard tack~
+Some hard stuff that you would not feed a horse sits here in a pile.~
+~
+19 0 1
+10 0 0 0
+1 18 1
+#18116
+tea dark cup~
+a cup of dark tea~
+A deep cup filled with dark tea is here, letting off a nice smell.~
+~
+17 0 1
+6 6 11 0
+1 4 1
+#18117
+valar armbands quest~
+Armbands of the Valar~
+A set of black, circular armbands lay here, pulsing with power.~
+This is a powerful item. A diety must have given this to you as
+a gift!
+~
+9 65562 257
+13 0 0 0
+10 0 0
+A
+19 3
+A
+18 3
+B
+8388608 0
+#18118
+teeth ugalump handfull quest~
+a handfull of UgaLump teeth~
+A small pile of yellow teeth lays here on the floor.~
+This is apowerful item, given to you by a diety for a quest reward!
+~
+11 65624 16385
+0 0 0 0
+3 0 0
+A
+19 3
+A
+9 5
+B
+8388608 0
+#18119
+essence ugalump rabid musky quest~
+Essence of the Rabid UgaLump~
+A musky ball of light floats here...~
+This is a powerful item that was given to you by a god for a quest reward!
+~
+1 65625 16385
+0 0 -1 0
+1 0 0
+A
+19 2
+A
+6 -4
+A
+2 1
+B
+8388608 0
+#18120
+fable ugalump book rules tome quest~
+the Fable of the UgaLump~
+Type 'get book' then 'read fable' to start the quest!~
+~
+13 12 1
+0 0 0 0
+5 0 0
+E
+fable~
+The Fable of the UgaLump
+    Hundreds of years ago, a mad wizard created a devilish and
+evil creature called the UgaLump.  The UgaLump was intended to
+drive humans and other name-givers from the planet by over populating
+the world.  These creatures reproduce at an incredible rate and
+eat almost anything they can get their hands on.
+Recently, someone has found the mystic receipe for creating the
+   <type read page2>
+~
+E
+page2~
+dreaded UgaLumps and has brought them back into existance.
+You must help me destroy them at all costs! There are four kinds
+of UgaLump. Immature Ugalumps are the easiest to slay, large adult
+UgaLumps are much harder. An adult that does not mate goes crazy, and
+becomes a rabid UgaLump, which is very dangerous.
+   <type read page3>
+~
+E
+page3~
+The biggest threat to our safety is the elusive gravid UgaLump.
+Each gravid UgaLump can have up to 25 babies!
+I value the pelts of the UgaLump in that order (immature, large
+rabid, gravid). The person who brings me the most number of pelts
+will be rewarded handsomely. PLEASE NOTE that the pelts will be
+awarded 1 point for immature, 2 for large, 4 for rabid and 5 for
+gravid.  
+    <type read page4>
+~
+E
+page4~
+I know that the UgaLumps have been seen in the slums of Kore (E & W).
+They have also been spotted in New Thalos, New Shire, King Welmar's
+Castle and in the Homonculus King's Castle.  Please go kill them,
+and help us save Kore!!!
+Prizes will be UNIQUE, as I am dipping into my own private 
+treasure chest.
+~
+#18121
+hide immature ugalump quest~
+a hide of an immature UgaLump~
+A smelly hide lays here.~
+~
+13 4 9
+0 0 0 0
+1 0 0
+#18122
+hide large ugalump quest~
+a hide of a large UgaLump~
+A nasty hide is here.~
+~
+13 4 9
+0 0 0 0
+1 0 0
+#18123
+hide rabid ugalump quest~
+a hide of a rabid ugalump~
+A nasty hide lays here.~
+~
+13 5 9
+0 0 0 0
+0 0 0
+#18124
+hide gravid ugalump quest~
+a hide of a gravid UgaLump~
+A nasty, stretched hide is here.~
+~
+13 4 9
+0 0 0 0
+1 0 0
+#18125
+quest ring serpent (karn_quest_eq)~
+a serpent ring~
+A ring of gold depicting a serpent eating its own tail rests here.~
+~
+9 2097153 3
+12 0 0 0
+1 0 0
+A
+18 3
+A
+19 3
+A
+12 40
+A
+14 30
+A
+24 -3
+#18126
+crown malkier quest (karn_quest_eq)~
+the Crown of Malkier~
+The golden crown of the Malkieri Battle Lords is sitting here.~
+~
+9 2097153 17
+13 0 0 0
+4 24000 230
+A
+18 4
+A
+19 4
+A
+12 -20
+A
+13 55
+A
+1 4
+#18127
+heron marked blade quest (karn_quest_eq)~
+a red heron-marked blade~
+A longsword emblazoned with golden herons sits proudly against a wall.~
+~
+5 18874561 8193
+10 9 9 3
+0 0 0
+A
+1 3
+A
+2 4
+A
+18 7
+A
+19 9
+A
+13 70
+B
+69632 0
+#18128
+ruby dagger quest (karn_quest_eq)~
+a curved dagger with a ruby hilt~
+A dagger with a wicked curving blade and a serpentine hilt topped with a ruby sits here.~
+~
+5 18874562 8193
+5 7 8 11
+2 250000 230
+A
+2 4
+A
+1 -2
+A
+19 8
+A
+18 6
+B
+787072 0
+#18129
+cloak warder quest (karn_quest_eq)~
+a color-shifting warder cloak~
+A cloak which seems to be made of swirling colors blends into the ground.~
+~
+9 2097216 1025
+15 0 0 0
+5 2300 0
+A
+19 4
+A
+18 3
+A
+13 40
+A
+12 -30
+A
+2 3
+B
+2 0
+#18130
+terangrel angreal quest (karn_quest_eq)~
+a ter'angreal~
+A small carving of ivory is here, nearly covered with dust.~
+~
+11 555745344 16385
+0 0 0 0
+1 0 0 20000
+A
+12 80
+A
+13 60
+A
+4 4
+A
+3 4
+A
+14 50
+B
+128 0
+#18131
+pendant talon hawk quest (karn_quest_eq)~
+a hawk talon pendant~
+A pendant in the shape of a hawk rests here.~
+~
+9 2097154 5
+11 0 0 0
+1 45000 4500
+A
+13 20
+A
+12 30
+A
+18 2
+A
+19 2
+A
+17 -12
+#18132
+bow oak quest (karn_quest_eq)~
+a massive oaken longbow~
+A massive oaken longbow rests here unstrung.~
+~
+6 2097216 32769
+0 10 10 12
+12 0 0
+A
+19 5
+A
+18 5
+A
+1 3
+A
+5 3
+A
+13 34
+#18133
+gauntlets blademaster quest (karn_quest_eq)~
+blademaster's gauntlets~
+A pair of gauntlets, intended for use by a swordmaster, is sitting here.~
+~
+9 555745360 129
+10 0 0 0
+4 0 0
+A
+2 4
+A
+1 4
+A
+12 35
+A
+13 28
+A
+18 6
+A
+19 4
+#18134
+amber plate breastplate (karn_quest_eq)~
+an ^yamber^n breastplate~
+A gemstone breastplate of the purest yellow glimmers here dully.~
+~
+9 0 9
+15 0 0 0
+7 80000 8000
+A
+1 2
+A
+2 3
+A
+18 4
+A
+19 3
+A
+13 35
+#18135
+amber rod (karn_quest_eq)~
+a small amber rod~
+A solid rod of amber, it seems to glow with an inner light.~
+~
+3 277033088 16385
+60 100 20 120
+1 200000 20000
+#18136
+shoufa~
+a shoufa~
+A sand colored cloth is lying here.~
+~
+9 2162888 21
+10 0 0 0
+2 0 0
+E
+shoufa~
+ This garment is made of cloth and is the color of sand. 
+It wraps around the head and neck leaving the face bare.
+~
+A
+22 -4
+A
+20 -4
+A
+24 -4
+A
+21 -4
+A
+23 -4
+A
+12 -10
+B
+8388610 0
+#18137
+amulet goddess magic~
+a amulet of the goddess of magic~
+A amulet is lying here.~
+~
+9 2097473 5
+8 0 0 0
+2 0 0
+E
+goddess magic amulet~
+  The amulet is made of pure gold. On the back it is engraved
+with these words - A amulet of the Goddess of Magic, Ayana.
+The wearer of this amulet protected by the Goddess of Magic.
+~
+A
+12 20
+A
+19 2
+A
+2 2
+A
+13 20
+A
+17 -5
+A
+24 -2
+B
+4096 0
+#18138
+hide neonate ugalump~
+a hide of an UgaLump neonate.~
+A hide of a neonate ugalump is here.~
+~
+13 65548 9
+0 0 0 0
+0 0 0
+#18139
+tiny hide ugalump hatchling~
+a tiny hide of a UgaLump hatchling.~
+A tiny hide of an UgaLump hatchling is here.~
+~
+13 65548 9
+0 0 0 0
+0 0 0
+#18140
+hide giant matriarch ugalump~
+the giant hide of the UgaLump Matriarch~
+A giant UgaLump hide is here~
+~
+13 65612 9
+0 0 0 0
+0 0 0
+#18141
+book revenge ugalump~
+Revenge of the UgaLumps~
+Type 'get book' and 'read book' to start the Quest!~
+type 'read book' to start the quest!
+~
+13 65548 1
+0 0 0 0
+0 0 0
+E
+book~
+Years ago, in the previous Age when the Tyrant did not rule, the eccentic genius Malchot was one of Kore's
+premier mages.  Having lost his family during the siege of Bone Hill, Malchot silently plotted revenge his whole
+life.  While mastering the art of creating artificial life, Malchot created a self reproducing warrior entity.
+- Type 'read page2' to continue - 
+~
+E
+page2~
+ He named these creations 'UgaLumps' because it was a term his now deceased young daughter used to use.  These creatures were organic, reproduced and grew quickly and were voracious hunters, however they had a short life span. The idea was that a group of UgaLumps could be released to destroy the residents of Bone Hill, then die out shortly after that.
+-type 'read page3' to continue -
+~
+E
+page3~
+The UgaLumps were released, and most of the vile residents of Bone Hill were destroyed. The UgaLumps, however, did not die, they continued to thrive. This was the first Scourge of UgaLumps. It took hundreds of Heroes and many months to destroy the UgaLump threat.
+- type 'read page4' to continue
+~
+E
+page4~
+Malchot could never bring himself to destroy something he had created, so instead he created a meta-plane and stocked it full of wildlife. He then released the last of the UgaLumps to this meta-plane where they could thrive and not do damage to the residents of Kore. The meta-planed remained sealed for hundreds of years.
+- type 'read page5' to continue -
+~
+E
+page5~
+About four years ago, an insane mage obssesed with Malchot's creations opened the portal of the meta-plane and released a small group of UgaLumps to our plane. This was the second Scourge. Fortunately for Kore, the heroes dispatched the UgaLumps and resealed the plane. The insane mage, named Darius, was never found and assumed dead.
+-type 'read page6' to continue -
+~
+E
+page6~
+Recently the High Seer of the Tyrant has predicted that a portal to the UgaLump's plane has just been opened. It is required that all able bodied men and women assemble immediately to thwart the UgaLump threat. There are six types you will encounter:
+- type 'read page7' to continue
+~
+E
+page7~
+Hatchlings : easy to kill when generally less than a few hours old. Neonates: large enough to kill a man, but relatively easy to dispatch.  Immature : More than a challenge for normal men.  Large : the standard Adult form, ferocious in battle.  Rabid : An un-mated adult goes insane, and is very dangerous.
+-type 'read page8' to continue -
+~
+E
+page8~
+Gravid : Eggbearing Adults, destroy these by any means possible.   the Matriarch : only one Matriarch exists, she is the source of all the UgaLumps. Destroy her or all is lost.
+-type 'read rules' to continue
+~
+E
+points~
+The rules: Points are awarded for each UgaLump hide turned in. Hatchlings are worth 1 point. Neonates, 2. Immature worth 4. Large worth 6, Rabid worth 8, Gravid worth 12 and Matriarch is worth 20. If grouped for any kills, points will be split amoung group members. The Quest will last one hour, or until all UgaLumps are dead, whichever occurs first.
+-type 'read rules2' to continue -
+~
+E
+rules2~
+Prizes - the winner is the person with the most points in the following level brackets: 8-15, 16-25, 
+26-40,40-50.First place prizes will be UNIQUE, and appropriate for the level bracket. All non-wining quest participants will recieve consolation prizes. Hatchling hides only count for the 8-15 bracket.
+-type read locations' to continue
+~
+E
+locations~
+Locations-  UgaLumps can be found in: the Newbie area, E&W slums of Kore, Shire, New Thalos, Rome, Estate of the Artificer, Jitter Park, Abandoned House, Bone Hill, Western Highway, Shade's Tower, Aesir, and King Welmar's. Also look for UgaLumps in other locations, especially Gravids who ike to wander.
+GOOD LUCK!
+~
+#18142
+key blob~
+a blob of color~
+If you have this in your possesion, prepare to die~
+~
+18 1 5
+18142 0 0 0
+0 0 0
+#18143
+skull helmet ugalump hollow hollowed~
+a hollowed out UgaLump skull~
+A skull of some creepy creature rests here.~
+this was the 1st bracket award for the quest "Revenge of the UgaLumps"
+~
+9 65 17
+12 0 0 0
+3 0 0
+E
+skull ugalump~
+this was the 1st bracket award for the quest "Revenge of the UgaLumps"
+~
+A
+13 35
+A
+18 4
+#18144
+teeth earring painted ugalump pair~
+a pair of painted UgaLump teeth~
+Two brightly colored teeth are here.~
+this was the 2nd bracket award for the quest "Revenge of the UgaLumps"
+~
+9 65 131073
+10 0 0 0
+1 0 0
+E
+earrings ugalump~
+this was the 2nd bracket award for the quest "Revenge of the UgaLumps"
+~
+A
+6 3
+A
+12 25
+A
+13 25
+#18145
+armband ugalump claws~
+an armband made of UgaLump claws~
+An armband made of sharp claws rests here in the sun.~
+this was the 3nd bracket award for the quest "Revenge of the UgaLumps"
+~
+9 64 257
+20 0 0 0
+1 0 0
+E
+armband ugalump~
+this was the 3rd bracket award for the quest "Revenge of the UgaLumps"
+~
+A
+9 5
+A
+12 35
+A
+13 25
+A
+19 2
+B
+4104 0
+#18146
+hide enchanted matriarch ugalump~
+the enchanted hide of the UgaLump Matriarch~
+A large glowing hide lays here.~
+this was the 4th bracket award for the quest "Revenge of the UgaLumps"
+~
+9 67 1025
+25 0 0 0
+8 0 0
+E
+hide ugalump~
+this was the 4th bracket award for the quest "Revenge of the UgaLumps"
+~
+A
+19 3
+A
+13 30
+A
+12 30
+A
+14 100
+#18147
+city kore key ugalump~
+the key to the city of Kore~
+A big gold key sits here, looking rather silly.~
+~
+9 65544 18437
+35 0 0 0
+1 0 0 35
+E
+key city kore~
+Thanks for helping defeat the vile UgaLumps!
+~
+A
+12 50
+A
+13 50
+A
+19 5
+A
+18 5
+A
+9 15
+B
+139460608 0
+#18148
+bracer ugalump spiny skin~
+a spiny UgaLump skin bracer~
+A spined bracer rests here~
+~
+9 65 4097
+20 0 0 0
+2 0 0
+A
+19 4
+A
+18 -2
+A
+13 25
+A
+6 -5
+#18199
+rod bottle achivey~
+a cold bottle of Achivey~
+ACHIVEY!   I'M BLIND !~
+~
+5 81 8193
+0 6 5 12
+5 10000 0
+A
+9 10
+#99999
+$~

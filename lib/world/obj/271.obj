@@ -1,0 +1,26 @@
+#27100
+key~
+front gate key~
+The front gate key~
+~
+18 0 1
+0 0 0 0
+1 1 0
+#27101
+key~
+Upstairs door key~
+The upstairs door key.~
+~
+18 0 1
+0 1 0 0
+1 0 0
+#27102
+key~
+bed key~
+The bed key~
+~
+18 4194304 1
+0 0 0 0
+0 0 0
+#99999
+$~

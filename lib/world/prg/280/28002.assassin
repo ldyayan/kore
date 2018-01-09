@@ -1,0 +1,67 @@
+>greet_prog 100~
+  if ispc($n)
+    if rand(85)
+      if rand(50)
+        mpecho A flash of light catches the corner of your eye.
+      endif
+      backstab $n
+    else
+      growl
+      gauge $n
+      hide
+    endif
+  endif
+~
+>entry_prog 100~
+  if ispc($n)
+    if rand(85)
+      if rand(50)
+        speak Ahh! Feel my touch, pig!
+      endif
+      backstab $n
+    else
+      mutter
+      gauge $n
+      hide
+    endif
+  endif
+~
+>rand_prog 15~
+  if isaffected($i, sanct)
+  else
+    mpecho $I takes something from $s pack...
+    mpecho $I quaffs a ^Mpurple^n potion in one fast swig.
+    mpat 18379 mpsilent mpcallmagic 'sanctuary' $i
+    mpecho $I is surrounded by a white aura.
+    wield dagger
+  endif
+  hide
+~
+>fight_prog 25~
+  if inroom($r) == here
+    stun $r
+    flee
+    flee
+    mpsilent mpcallmagic 'calm' $i
+    hide
+  endif
+~
+>death_prog 100~
+  if rand(50)
+    mpecho $I clutches $s wounds, and staggers backwards before falling down.
+  else
+    mpechoaround $n As $N delivers the killing blow, $I coughs up blood and drops to one knee.
+    mpechoat $n As you finish $I off, $e coughs up blood and drops to one knee..
+    spit $n
+    speak ...this will not go unpunished!
+    cough
+  endif
+  mppose $i stand
+  mpjunk test
+  mppose $i dead
+~
+>kill_prog 100~
+  get all all.corpse
+  wear all
+~
+|

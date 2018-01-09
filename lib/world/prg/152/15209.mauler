@@ -1,0 +1,41 @@
+>greet_prog 100~
+  if ispc($n)
+    say Hello little ones... have you come to be fixed up?
+    emote practically glows with pleasure.
+    close door north
+    close door east
+    close door south
+    say Now don't you kids get bored and wander off.
+    smile
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoat $r $I swings his hamlike fist which connects solidly with your face!  You see stars!!
+    mpechoaround $r $I's haymaker smacks $R and flattens $K with crushing force!
+    mpdamage $r 8d8+30
+    mppose $r sit
+    shout Mauler Special Anesthesia Technique!
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I pulls out an enormous syringe filled with a sickly yellow liquid.
+    say You know what this is?  It makes bad people like you go to sleep...
+    mpechoat $r $I plunges the tip of the needle deep into your flesh, CRUCIFYING you!
+    mpechoaround $r $I plunges the tip of the needle deep into $R's flesh, CRUCIFYING $K!
+    mpechoat $r Even as you begin to become sluggish, your blood begins to BURN!
+    mpechoaround $r $R gradually slows down, and $L face begins to turn blue!
+    mpdamage $r 20d10+10
+    mpcallmagic 'slow' $r
+    mpcallmagic 'poison' $r
+    mpforce $r shiver
+  endif
+~
+>fight_prog 20~
+  close door north
+  close door east
+  close door south
+  smirk
+~
+|

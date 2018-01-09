@@ -1,0 +1,60 @@
+#6
+Clan Zone 2~
+699 10 2 59
+M 0   642     1   642            the shopkeep Tallon
+E 1   572   101    11                    shield the shield of ^GNavigation^n
+O 0   660    99   627            red grapes
+M 0   629     1   627            a cryogenicist
+M 0   508     1   661            the receptionist
+M 0   600     1   602            Jerzeba
+M 0   601     1   602            Selran
+M 0   602     1   602            Vesrin
+M 0   606     1   602            the wraith
+M 0   605     1   602            portal_up
+O 0   605   101   602            a black cauldron
+D 0   602     2     1            The gathering door south
+O 0   622   101   637            a massive rock fountain
+O 0   567   101   637            some dingy brown moss
+O 0   538   101   637            a phosphorescent mushroom
+M 0   613     1   644            a goblin slave
+O 0   618   101   644            a wall with shelves
+M 0   618     1   645            an ancient kuo-toan
+M 0   612     1   645            a kuo-toan servant
+O 0   620   101   606            a small wooden desk
+P 1   621   101   620                    put a small spider in a small wooden desk
+M 0   608     1   605            a cryogenicist
+O 0   604   101   605            the coffin of Calis
+M 0   515     2   652            a cryogenicist
+M 0   627     1   652            a cryogenicist
+O 0   617   101   651            a tree branch overhanging Kore
+O 0   528   101   660            a social bulletin board
+O 0   529   101   650            a social bulletin board
+M 0   625     1   630            gold dragon statue
+M 0   626     1   630            silver dragon statue
+O 0   539   101   625            a social bulletin board
+M 0   614     1   641            VU portal mob
+O 0   566   101   647            clan board
+O 0   609   101   600            a cavern entrance
+O 0   572   101   643            the shield of ^GNavigation^n
+O 0   576   100   643            the Harpoon, '^BSea^n^Wraiser^n'
+O 0   607    99   608            a mandrake root
+O 0   608    99   608            some blood moss
+D 0   619     4     1            A stone-worked cavern door up
+D 0   638     2     1            A musty chamber door south
+M 0   610     1   607            the statue of Xenophobe
+D 0   607     0     1            A chasm in the rock door north
+D 0   604     0     1            The oracle of the coven door north
+O 0   603   101   604            an idol of Calis
+D 0   621     5     1            A hidden crevice door down
+O 0   659   100   623            a lava rock
+O 0   658   100   628            a mirror
+O 0   657   100   629            a fountain
+O 0   611   101   622            a pool of blood
+D 0   620     4     1            The catacombs door up
+O 0  2091   101   610            the gates of castle TOOT
+M 0   609     1   603            someone
+O 0   600   101   601            a social bulletin board
+O 0   601   101   609            a banker
+S
+#99999
+$~

@@ -1,0 +1,40 @@
+#2101
+spirit listless~
+a listless spirit~
+A listless spiirit shuffles mechanically down the street.
+~
+   This spirit has given up all hope of redemption.  He shuffles along the
+streets of the iron city with his eyes downcast and his shoulders slumped.
+Every few steps he lets out a small moan that sounds as if he is confessing
+the sins of his life.
+~
+72 65536 -500 S
+35 1 -200 1d1+1 6d8+15
+15 20
+8 8 1
+#2102
+woman sad~
+the sad woman~
+A saddened woman stands here.  She looks like she lost something.
+~
+The woman smiles as you look at her.  Perhaps you should say 'hello'
+~
+74 184 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 2 13
+#2103
+titivilus guard duke~
+Titivilus~
+Titivilus, Duke of Dis, stands here guarding its gates from intruders.
+~
+   Titivilus is the right hand of Dispater, lord of Dis.  He is ruthless in currying
+the favour of his master.  He has been known, on occasion, to gamble for the lives
+of those he has caught trespassing on his master's domain.
+~
+17328138 4272296 -1000 S
+58 -20 10 1d1+0 12d12+40
+0 0
+8 8 1 8
+#99999
+$~

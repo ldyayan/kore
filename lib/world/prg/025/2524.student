@@ -1,0 +1,35 @@
+>rand_prog 20~
+  emote looks up from his reading and mumbles some arcane words.
+  if rand(50)
+    emote performs a magical gesture and conjures forth a brilliant glow.
+    break
+  else
+    emote makes a hurried gesture and howls in pain and frustration.
+    break
+  endif
+~
+>fight_prog 10~
+  cast 'magic missile'
+~
+>fight_prog 20~
+  cast 'burning hands'
+~
+>fight_prog 30~
+  cast 'shocking grasp'
+~
+>fight_prog 40~
+  cast 'lightning bolt'
+~
+>fight_prog 50~
+  cast 'fireball'
+~
+>fight_prog 60~
+  cast 'cone'
+~
+>fight_prog 70~
+  cast 'chain'
+~
+>fight_prog 80~
+  cast 'word of death'
+~
+|

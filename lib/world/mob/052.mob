@@ -1,0 +1,244 @@
+#5200
+orc receptionist~
+a dirty orc receptionist~
+A dirty old orc receptionist stands here awaiting your coins.
+~
+This orc is apparently female and you don't wonder if she has other ways of 
+making coins in this room full of drunks.  She looks like she wants some gold
+to allow you to sleep here.
+~
+155659 128 0 S
+57 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#5201
+orc thrungol~
+the thrungol orc~
+An orc stands here going about his business.
+~
+Typical of the orcs of this area, he has dark skin and is large and muscular.
+He stands just taller than an average human, but has powerful legs and a 
+huge chest.
+~
+2280 0 -800 S
+20 12 3 1d10+120 2d5+1
+0 10500
+8 8 1
+#5202
+statue thrungol~
+the statue of Thrungol~
+The Statue of mighty Thrungol stands here tending to orcs harmed in battle.
+~
+   The statue is the likeness of Thrungol, mightiest of the orcs.  It was for
+him that the orcs of this area were named.  Thrungol led the orcs to glorious
+victory over the dwarves that once commanded this keep.  It was he that 
+personally slew the great dwarf Borgad in single combat.
+~
+253963 128 -1000 S
+57 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#5206
+sentry orc thrungol sleep~
+the thrungol sentry~
+A thrungol sentry is here.  Probably off-duty since he's not at his post.
+~
+He is large even for an orc.  His skin is black and leathery.  He wears a patch
+on his shoulder that looks like a black skull on a red background.
+~
+59434 132136 -750 S
+28 0 -5 6d6+500 4d7+3
+0 145000
+4 8 0
+#5207
+wolf~
+the mangy wolf~
+A large wolf lurks in the shadows looking for a scrap of meat.
+~
+The wolf has wickedly sharp teeth and mottled gray and brown fur.  His eyes 
+are a dull yellow.  As he turns to stare in your direction you get the feeling
+that he is actually sizing you up.
+~
+136 32768 -200 S
+10 17 4 1d14+30 2d4+0
+0 500
+8 8 0
+#5208
+sentry orc thrungol~
+the thrungol sentry~
+A large orc stands here looking out over the city wall onto the plains below.
+~
+He is large even for an orc.  His skin is black and leathery.  He wears a patch
+on his shoulder that looks like a black skull on a red background.
+~
+59434 1064 -750 S
+30 0 -5 6d6+500 4d7+3
+0 145000
+8 8 0
+#5209
+orc thrungol soldier~
+the thrungol soldier~
+The thrungol soldier stands here looking for any signs of trouble.
+~
+The soldier wears the insignia of the thrungol army, a black skull on a red
+background.  He walks with the confidence of a well-trained killer.
+~
+36970 1048608 -800 S
+22 10 3 1d12+120 1d4+5
+0 7000
+8 8 1
+#5210
+sergeant orc thrungol~
+the thrungol drill sergeant~
+The orc drill sergeant stands here barking orders at his troops.
+~
+The orc sergeant demands respect and fear froom his troops.  He has a cruel
+twist to his face and there are scars up and down his body from the many
+battles he has seen.  You wonder how many men have fell to his blade.
+~
+63530 1064 -850 S
+24 0 -5 6d6+500 4d7+3
+0 145000
+8 8 0
+#5211
+battlemaster orc thrungol~
+the thrungol battlemaster~
+The thrungol battlemaster sits here going over maps of the surrounding area.
+~
+The orc battlemaster appears more intelligent than the average thrungol orc.
+He is looking over maps of the surrounding areas, drawing up patrols and
+attack plans to give to his sergeants.
+~
+63498 1064 -850 S
+26 0 -5 6d6+500 4d7+3
+0 145000
+6 8 1
+#5212
+wolf guardian~
+the large grey wolf~
+A large silvery-grey wolf stands here guarding the throne.
+~
+The wolf before you is as large as you've ever seen.  It's yellow green eyes
+track your every move.  It would probably be dangerous to take any agressive
+action as long as he's watching you.
+~
+262202 98304 -200 S
+20 17 4 1d14+30 2d4+0
+0 500
+8 8 0
+#5213
+chieftain orc thrungol~
+the Thrungol Chieftain~
+The Thrungol Chieftain stands here, furious at your intrusion.
+~
+The orc chieftain is the largest orc you've ever seen.  It's obvious that he
+is able to rule his minions by brute force.  He is covered with battle scars
+and his eyes reflect his hate for all humans.
+~
+63530 74920 -850 S
+26 0 -5 6d6+500 4d7+3
+0 145000
+6 8 0
+#5220
+orc guildmaster master cleric~
+a master orc cleric~
+The high cleric of the Thrungol tribe is here practicing incantations.
+~
+The orc is a follower of the evil Morgoth.  He has a crazy look in his eyes
+and is ugly to the core.  Looking at him sends a bit of revulsion down your 
+spine.
+~
+155658 128 0 S
+57 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#5221
+orc master guildmaster thief assassin~
+a master assassin~
+The master of the Thrungol assassins sits here watching you.
+~
+  The master assassin sits comfortably in the center of the room watching your
+movements.  He is relaxed and calm, yet you sense a power in his eyes.  When
+he moves it is with a catlike quickness and grace.  You feel in your heart that
+if he chose, he could kill you without you ever sensing his actions.
+~
+155658 128 0 S
+57 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#5225
+orc thrungol soldier~
+the thrungol soldier~
+The sentry stands here protecting the clerics at work.
+~
+The soldier wears the insignia of the thrungol army, a black skull on a red
+background.  He walks with the confidence of a well-trained killer.
+~
+36970 1048608 -800 S
+35 10 3 1d12+120 1d4+5
+0 7000
+8 8 1
+#5226
+orc thrungol soldier~
+the thrungol soldier~
+The sentry stands here, barring entry to the war room.
+~
+The soldier wears the insignia of the thrungol army, a black skull on a red
+background.  He walks with the confidence of a well-trained killer.
+~
+36970 1048608 -800 S
+35 10 3 1d12+120 1d4+5
+0 7000
+8 8 1
+#5227
+orc shifty assassin thief guard~
+a shifty looking assassin~
+A shifty assassin clings to the shadows tracing your movements with his eyes.
+~
+He has on a dark cloak and soft leather boots.  He makes no noise and seems to
+ignore the fact that you are here, yet his eyes trace your every move with a
+fixed determination.
+~
+36970 1048608 -800 S
+35 10 3 1d12+120 1d4+5
+0 7000
+8 8 1
+#5228
+gadush storekeeper shopkeeper ~
+Gadush~
+Gadush is here.
+~
+  Gadush has been around for a while. One of the oldest orcs
+in the city. His shop here carries a unlimited amounts of
+scrolls of recall.
+~
+438346 0 0 S
+50 20 -2 30d10+4500 5d8+19
+0 0
+8 8 1
+#5229
+rinak shopkeeper storekeeper~
+Rinak~
+Rinak is here.
+~
+   Rinak is Gadush's wife. She can bake, fry or broil the
+best tasting fish in the realms.
+~
+438346 40 0 S
+50 20 -2 30d10+4500 5d8+19
+0 0
+8 8 1
+#5230
+sentry orc thrungol~
+the thrungol sentry~
+A large orc stands here looking out over the city wall onto the plains below.
+~
+He is large even for an orc.  His skin is black and leathery.  He wears a patch
+on his shoulder that looks like a black skull on a red background.
+~
+59434 1064 -750 S
+30 20 -5 1d1+0 6d7+0
+0 0
+8 8 0
+#99999
+$~

@@ -1,0 +1,32 @@
+>rand_prog 4~
+  if inroom($r) == here
+    mpechoat $r $I looks you over carefully.
+    mpechoaround $r $I looks over $R carefully.
+    say You dont belong here.
+    mpechoat $r $I glows with a pale blue light and you feel yourself spinning wildly!
+    mpechoaround $r $I glows with a pale blue light and $R spins violently and disappears!
+    mpechoat $r You land so hard that it nearly knocks the wind out of you!!
+    mppose $r sit
+    mptransfer $r 11002
+    mpat $r mpechoaround $r A swirling vortex opens above your head as $R^\comes flying through it and lands extrememly hard!
+    mpat $r mpecho The swirling vortex closes above you.
+  endif
+~
+>rand_prog 50~
+  if inroom($r) == here
+    if hasworn($r) == 11040
+      mpechoat $r The amulet of planar stability glows brightly around your neck.
+      mpechoaround $r The amulet of planar stability glows brightly around $R's neck.
+      say Gah!  Where did you get that!
+      mpechoat $r $I glows with a pale blue light and you feel yourself spinning wildly!
+      mpechoaround $r $I glows with a pale blue light and $R spins violently and disappears!
+      mpechoat $r You land so hard that it nearly knocks the wind out of you!!
+      mppose $r sit
+      mptransfer $r 11002
+      mpat $r mpechoaround $r A swirling vortex opens above your head as $R^\comes flying through it and lands extrememly hard!
+      mpat $r mpecho The swirling vortex closes above you.
+    endif
+  endif
+~
+|
+

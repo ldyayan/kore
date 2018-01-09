@@ -1,0 +1,435 @@
+#6800
+cat black~
+a black cat~
+A shadowy cat.
+~
+   A large black cat with long sharp claws and a bushy tail.
+~
+72 263208 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 2 8
+#6801
+spirit~
+a spirit~
+A spirit is floating around.
+~
+   A mass of shadows floating in thin air. Swirling through the matters
+of air to form a mass of a transparent human.
+~
+122952 4195370 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6802
+spirit wasteland warrior~
+a spirit of a wasteland warrior.~
+A spirit of a wasteland warrior.
+~
+   A once wasteland warrior. Ordered to guard the gates to this small
+city. Loyal to his cause, even after death the wasteland warrior still
+guards and defends the goddess.
+~
+61514 4195370 0 S
+33 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#6803
+spirit wasteland warrior~
+a spirit of a wasteland warrior~
+A spirit of a wasteland warrior.
+~
+   A once wasteland warrior. Ordered to guard the gates to this small
+city. Loyal to his cause, even after death the wasteland warrior still
+guards and defends the goddess.
+~
+61450 4195370 0 S
+33 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#6804
+thief shady person~
+a thief~
+A shady looking person.
+~
+   Dress in all black, it makes it hard to see this person as he creeps
+and sneaks around looking for things of value to steal.
+~
+57420 361512 -250 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 1 11
+#6805
+fish~
+a fish~
+A fish is swimming through the water.
+~
+  A large fish.
+~
+3145800 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6806
+bird yellow small~
+a small yellow bird~
+A small yellow bird.
+~
+  A small yellow bird. 
+~
+72 4194304 0 S
+12 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6807
+small rabbit~
+a small rabbit~
+A small rabbit.
+~
+    A small brown rabbit with a fluffy tail.
+~
+72 0 0 S
+11 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6808
+seagull~
+a seagull~
+Wings spread out, a seagull looks on.
+~
+   A white seagull with a wingspan of about two feet.
+~
+72 4194304 0 S
+16 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#6809
+butterfly~
+a butterfly~
+A butterfly is flying around.
+~
+   A butterfly of many colors.
+~
+72 4194304 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6810
+citizen spirit~
+a spirit citizen~
+A spirit of a citizen roams around.
+~
+   A spirit of a citizen whom has lost his or her way to the after
+would. Floating around they seem at a lost.
+~
+188488 4195370 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6811
+spirit child~
+a spirit of a child~
+A spirit of a child is floating around.
+~
+   A spirit of a small child who somehow has not left for the after
+world. Floating around looking lost a spirit child looks sad.
+~
+188488 4195370 0 S
+17 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6812
+spirit dockworker~
+a spirit of a dockworker~
+A spirit of a dockworker is floating here.
+~
+   A spirit of a dockworker is still busy at work. In shock and not
+knowing what happen he has yet to go to the after world.
+~
+188488 4195370 0 S
+25 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6813
+Cadilari receptionist~
+Cadilari~
+Cadilari is rambling on to herself.
+~
+  Looking busy and mumbling to herself is what she always does. Believed
+to be the only living person left in town she refuses to leave her home
+and offers her extra rooms to the few people that have traveled to this
+town.
+~
+33611851 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#6814
+notthere seasounds_1~
+seasounds_1~
+seasounds_1
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6815
+notthere seasounds_2~
+seasounds_2~
+seasounds_2
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6816
+nothere fountain_6816~
+a nothere mob fountain~
+Not there mob.
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6817
+tumbleweed notthere~
+a not there mob tumbleweed~
+A not here mob.
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6818
+nothere seasounds_6818~
+a nothere seasounds~
+a nothere mob
+~
+It looks, err, unfinished.
+~
+57418 0 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6819
+spirit healer~
+a spirit healer~
+Floating, a Spirit Healer still tends wounded ones in his afterlife.
+~
+   A great healer of the lost Temple. Lost his life all to remain in
+his afterlife to continue healing the wounded ones.
+~
+254026 146867368 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#6820
+notthere statue_1~
+statue_1~
+statue_1
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6821
+notthere statue_2~
+statue_2~
+statue_2
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6822
+notthere statue_3~
+statue_3~
+statue_3
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6823
+notthere statue_4~
+statue_4~
+statue_4
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6824
+notthere statue_5~
+statue_5~
+statue_5
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6825
+notthere statue_6~
+statue_6~
+statue_6
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6826
+notthere statue_7~
+statue_7~
+statue_7
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6827
+notthere statue_8~
+statue_8~
+statue_8
+~
+It looks, err, unfinished.
+~
+8388682 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6828
+spirit statue_1 cleric ~
+a spirit of a mighty cleric~
+A spirit of a once mighty cleric.
+~
+   A leader in himself, he once lead a mighty clan.  Known to the realms as a
+very small but very powerful clan one didn't like crossing anyone within the
+that clan.  He was the healer, who would always have your back when you needed
+healing.  Very rarely did anyone get hurt or die when he was around.  
+Woolheaded at times he always was there in times of need. 
+~
+254058 4195496 0 S
+29 20 10 1d1+0 1d1+0
+0 0
+8 8 1 5
+#6829
+spirit statue_2 mage ~
+a spirit of a great mage~
+A spirit of a once great mage.
+~
+   She was one to believe that ultimate power lies in fair play and close friends,
+without either you are nothing.  It is the ultimate goal and the ultimate testament 
+to power.
+~
+41066 12649512 0 S
+29 20 10 1d1+0 1d1+0
+0 0
+8 8 2 6
+#6830
+spirit statue_3 warrior~
+a spirit of a strong warrior~
+A spirit of a strong warrior.
+~
+   He followed in the foot steps of the mage. Once to lead a clan after the depart of its leader.
+His strong hold kept his clan intack. He was filled with power and loyality.
+~
+24682 4195368 0 S
+27 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#6831
+spirit statue_4 dwarf cleric~
+a spirit of a dwarf cleric~
+A very large and powerful cleric is here.
+~
+   He was the largest dwarf one has ever seen. The founder of his clan all looked up to him. Even after
+his disappearance they still worship him. 
+~
+24682 4195496 0 S
+28 20 10 1d1+0 1d1+0
+0 0
+8 8 1 5
+#6832
+spirit statue_5 god~
+a spirit of a mighty god~
+A mighty god is floating here.
+~
+   Once a force behind the creation of this temple. Always there to fix any problems when deemed 
+fit. He gave sunshine to the temple.
+~
+57450 13698216 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#6833
+spirit statue_6 mage~
+a spirit of a mage~
+A spirit of a mage is here.
+~
+   Once to have dabbled into the Art's of Magic he was also known to have gotten involved
+with the black arts.
+~
+57450 12649512 0 S
+26 20 10 1d1+0 1d1+0
+0 0
+8 8 1 6
+#6834
+spirit statue_7 mage~
+a spirit of a powerful mage~
+A spirit of a powerful mage is here.
+~
+   He was one of the oldest members of a respected clan. He would spend most of his days learning
+his art of magic. 
+~
+57450 12649512 0 S
+27 20 10 1d1+0 1d1+0
+0 0
+8 8 1 6
+#6835
+spirit statue_8 knight warrior ~
+a spirit of a mighty warrior~
+A few powerful knight fades in and out of the shadows.
+~
+  Once a true warrior at heart and one that always defended her clan and
+it's founder.  Times grew a little tough but she pulled through and she
+always remained on top in her pride for the clan she called home.
+~
+254058 12649512 0 S
+28 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#6836
+spirit lost~
+a lost spirit~
+A lost spirit looms about.
+~
+   A spirit long lost from it's place. Looms around looking sad.
+~
+8200 4195368 0 S
+22 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

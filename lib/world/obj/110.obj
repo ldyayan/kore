@@ -1,0 +1,815 @@
+#11001
+gauntlets chaos~
+the Gauntlets of Chaos~
+A metal pair of gauntlets glowing bright red with power!~
+~
+9 276983875 129
+10 0 0 0
+10 2000000 1
+E
+gauntlets chaos~
+These glowing metal gauntlets have runes of power etched along the knuckles.
+~
+A
+19 5
+A
+18 3
+#11002
+trokair medallion~
+a ^WTrokair^n ^Ymedallion^n~
+A gleaming gold medallion lays here.~
+~
+11 180288 16389
+2 0 0 0
+1 10000 1
+E
+medallion pendant~
+You look at the gleaming gold visage of the last Ruler of Trokair.  This 
+medallion was given to the highest mages of the Trokair court.
+~
+A
+4 3
+A
+12 25
+#11003
+slimy key~
+a slimy key~
+A slimy key lays here, covered in refuse.~
+~
+18 4 1
+11003 1 0 0
+1 1 1
+E
+slimy key~
+This key has seen better days.  Who knows how long this key has been sitting
+in the slime that now covers it.  I would wash my hands after handling such
+filth.  YEEECHH!!!
+~
+#11004
+tome storage~
+a tome of storage~
+A large golden book covered in holy symbols rests here on a podium.~
+~
+15 65 1
+600 5 -1 0
+1 1 1
+E
+book tome~
+This gold trimmed red tome has the symbol of the kingdom of Trokair seared 
+on its leather cover.
+~
+#11005
+skull jeweled~
+a ^rj^n^we^n^cw^n^ye^n^gl^n^be^n^rd^n skull~
+A ^mb^n^be^n^rj^n^we^n^cw^n^ye^n^gl^n^be^n^rd^n skull rests here, emitting intense light.~
+~
+1 8396819 16385
+0 0 -1 0
+1 100000 1
+E
+skull orm~
+	The skull is enlaided with gold and jewels and seems to be staring 
+and smiling at you with its toothy grin.
+~
+A
+19 2
+A
+12 30
+#11006
+oil painting~
+an oil painting of Rulios~
+A large oil painting with a small plaque on the bottom of the frame.~
+~
+15 0 0
+1000002 5 -1 0
+1000000 1 0
+E
+painting paint picture~
+   Your eyes are drawn to this splendid painting of one of the
+most beautiful elven women you have ever seen.  The painting
+shows here in the midst of delivering a lecture in a very large
+assembly hall with an audience composed entirely of mages, some
+unknown but others easily recognizable and identified as some
+of the most powerful mages in the land.  The seem to be listening
+intently to the treatise she is presenting and appear to hold her
+in high regard.
+~
+E
+plaque~
+Enscribed on the plaque, you can make out these words:
+
+The Royal Mage Rulious presenting her theory on the
+bounds of time and the methods possible to circumvent
+their limitations to the College of Magicks.
+~
+#11007
+key fading fade~
+a fading key~
+A key rests here fading in and out of existence.~
+~
+18 71 1
+11007 1 0 0
+2 1 1
+E
+key fade fading~
+You see a key here, crafted out of nether and powerful magic.
+~
+#11008
+key shadowy shadow~
+a key made of shadow~
+A key lays here, becoming one with its shadow.~
+~
+18 71 1
+11008 1 0 0
+2 1 1
+E
+key shadow shadowy~
+You see a key magically created from the plane of shadows.
+~
+#11009
+storm bringer stormbringer sword famed~
+a sword named '^bStorm^n ^WBringer^n'~
+A longsword lies here, crackling with electricity.~
+~
+5 279081537 8193
+0 8 7 15
+15 5000000 1
+E
+storm seeker sword famed~
+You look upon this sword in awe.  The blade is intricately crafted of mithril
+and is inscribed with many many runes.  Sporadically, electricity crackles
+along its length, making it glow with extreme power.
+~
+A
+19 6
+A
+13 40
+A
+18 4
+A
+5 -3
+#11010
+life chisel stabber 11010~
+the Life Chisel~
+A dagger lies here, its point gleaming with untold sharpness.~
+~
+5 277000258 8193
+0 7 6 11
+1 5000000 1
+E
+chisel life dagger dirk stabber~
+You gaze upon the nastiest dagger you have ever seen.  Its point is so sharp,
+it cuts your vision in half.  In the hands of an experienced assassin, this
+weapon looks potent indeed!
+~
+A
+19 7
+A
+13 -60
+B
+32 0
+S
+33 50 6
+#11011
+fountain~
+a fountain~
+A fountain is here, the plaster of its moldings cracked with age.~
+~
+23 0 1
+1410065408 1410065408 0 1
+100000000 1 1
+E
+fountain~
+     You look at this polluted fountain the rests in the center of town.
+It would be unwise to drink such water.
+~
+#11012
+jeweled stylus jewel pen bejeweled~
+a ^rj^n^we^n^cw^n^ye^n^gl^n^be^n^rd^n stylus~
+A stylus covered in ^rj^n^we^n^cw^n^ye^n^gl^n^bs^n lies here in the dust.~
+   You see a small writing instrument covered in jewels.
+The edge is very very sharp, sharp enough to cut a hair.
+~
+24 8450561 24577
+0 5 5 14
+2 5000000 1
+E
+jeweled stylus jewel pen bejeweled~
+This writing instrument is covered in the most expensive
+jewels you have seen. The point of the stylus is extremely sharp.
+Better watch out,  you might do more then just tear the paper you
+you are writing on.
+~
+A
+9 5
+A
+12 30
+#11013
+wax tablet~
+a wax tablet~
+A wax tablet covered in mystic runes lies here.~
+~
+2 65601 16385
+50 36 64 120
+1 1 1
+E
+wax tablet~
+This large square tablet radiates power beyond belief.
+You look at the runes and finally make out something...
+
+     ---------------
+     |#@$RECITE!#*&|
+     |@^$@ ME! @&'$|
+     |!#@$!#$!#$$#!|
+     |!@YOU WONT!@#|
+     |'&*REGRET IT!|
+     |''$&^#$&''*&#|
+     ---------------
+~
+#11014
+cloak nether shadow~
+the Cloak of Nether Shadow~
+A piece of shadow is here, vagually resembling a cloak.~
+~
+9 8433697 1025
+5 0 0 0
+1 1000000 1
+E
+cloak nether shadow~
+     Here is a thiefs perfect companion. A cape designed to conceal
+the wearer in shadow, and it is made of shadow itself.
+~
+A
+1 2
+A
+19 3
+B
+262144 0
+#11015
+fiery mane~
+a ^Yfiery^n ^Rmane^n~
+A blazing mane of hair burns your eyes with its intensity.~
+~
+11 8393217 5
+0 0 0 0
+3 1000000 1
+E
+fiery mane~
+     The flames flicker and dance in the breeze, flowing from the
+deepest red to the brightest yellow. You approach the flames and
+notice that there is no smoke. Testing your sanity, you quickly
+run your hand through the flames: it produces no heat.
+~
+A
+19 2
+A
+5 -2
+#11016
+gloves glove master thief thievery~
+the Gloves of Master Thievery~
+Soft leather gloves with velvet palms lie here.~
+~
+9 8433698 129
+4 0 0 0
+1 5000000 1
+E
+glove gloves master thief thievery~
+   These gloves are made of exceptionally supple, thin calfskin,
+and when put on they blend with the skin and become virtually
+undetectable.
+~
+A
+2 2
+A
+19 2
+#11017
+saddlebags saddle bags~
+the saddlebags of night~
+Saddlebags made of pitch-black leather rest here, absorbing the light.~
+~
+15 65561 18433
+500 5 -1 0
+10 10000 1
+E
+saddlebags saddle bag~
+     The saddlebags are made of leather, darkened with age and black oil.
+Golden runes are written on the edge of the flap.  The words are easy
+to read -- I Dare You To Find An End
+~
+A
+14 80
+A
+1 1
+#11018
+crown bones bone~
+a crown of bones~
+A crown made of entwined human finger bones rests here.~
+~
+9 8634882 17
+3 0 0 0
+4 100000 1
+E
+crown bone bones~
+     This crown is the nastiest thing you have seen. You hope that one
+of these fingers isnt on the the ones 3-finger Jones is missing.
+~
+A
+12 25
+A
+6 -3
+#11019
+flaming horseshoes horseshoe shoe~
+a pair of ^Rfl^n^Ya^n^Wm^n^Yin^n^Rg^n horseshoes~
+A pair of jet-black horseshoes flaming brightly.~
+~
+11 8397329 65
+0 0 0 0
+10 1000000 0
+A
+1 4
+A
+14 40
+#11020
+contract below~
+a contract from below~
+A scroll is here, its lettering scrawled in blood.~
+~
+2 1 16385
+50 110 110 110
+1 100000 1
+E
+contract below~
+     This yellow parchment has lettering written in blood.  Illustrations
+of demons and elementals adorn the scroll, in various shapes, sizes and
+colors.  Shouldnt be too hard to figure out what this does. :)
+~
+#11021
+fire red key~
+a fire red key~
+A red hot key lays here, smoldering in the dirt.~
+~
+18 1 1
+11021 1 0 0
+1 1 1
+#11022
+key secrets silver~
+the key of secrets~
+A silver key lays here, trying to conceal its secrets.~
+~
+18 2 16385
+11022 1 0 0
+1 1 1
+#11023
+spectral cloak~
+the ^Rs^n^Yp^n^Ce^n^Wc^n^Rt^n^Yr^n^Ca^n^Wl^n cloak~
+A cloak is here, changing from color to color.~
+~
+11 180737 1025
+0 0 0 0
+2 5000000 1
+E
+spectral cloak~
+     This irredescent cloak changes to all the colors of the rainbow. The
+spectral shifts of color are dazzling to your eyes.
+~
+A
+1 3
+A
+12 47
+#11024
+jet amulet stone~
+an amulet made of jet-black stone~
+A piece of jet with a golden chain attached is here, glowing brightly.~
+~
+11 245761 5
+0 0 0 0
+1 1 1
+E
+jet amulet~
+     This large chunk of jet has a gleaming golden chain attached.  It
+is warm to the touch and glows with bright power.
+~
+A
+12 50
+#11025
+blood sceptre silver~
+a ^rblood^n covered ^Wsilver^n sceptre~
+A ^Wsilver^n sceptre is here dripping with ^rblood^n.~
+~
+5 8569363 8193
+0 6 5 9
+15 100000 1
+E
+dispotic sceptre~
+   This sceptre is highly decorated, with swirls and pictures of historic
+battles. The head of this awesome spectacle is covered with spikes, currently
+dripping with some vanquished foes blood.
+~
+A
+9 10
+A
+12 30
+#11026
+throne bone~
+the Throne of Bone~
+A massive throne composed entirely of bones stands here.~
+~
+13 3 0
+0 0 0 0
+100000000 1 1
+E
+throne bone~
+  Before you stands a massive throne of human bones. The skulls that
+are part of its composition seem to grin at you wickedly, certain that 
+soon your bones will be added to the throne they construct.
+~
+#11027
+boots muck mud~
+muck covered boots~
+A pair of boots are here, heavily covered in mud.~
+~
+11 65705 65
+0 0 0 0
+1 1 1
+A
+14 -50
+A
+17 -6
+#11028
+stone power~
+a stone ^Wpulsating^n with ^Rpower^n~
+A bright red stone of the nether regions is here, glowing with power.~
+~
+11 8392705 16385
+0 0 0 0
+9 60000 1
+A
+18 3
+A
+19 5
+A
+1 2
+A
+10 -100
+#11029
+sign warning~
+a sign~
+A sign is here, warning you to read it before going further.~
+~
+16 1 0
+0 0 0 0
+10000000 1 1
+E
+sign warning~
+   You look at the sign, its letters written in dried blood.
+
+It says:
+              WARNING!!! WARNING!!! WARNING!!! WARNING!!!
+
+         If you are not at least level 40 -- leave now!
+         If you are not grouped with at least 3 -- leave now!
+         If you are the faint of heart    -- leave now!
+
+                                        -- Kasmir
+   
+         The land of Trokair has, by the divine judgement of the
+tyrant of kore, may his name cause herpes, been given to his sister
+for her help in gaining control of the kingdom kore. All properties
+beyond this point are hers, and any persons on these lands not without
+her permission will be subject to punishment. Heed her, her wrath is
+great!   
+                        -- the tyrants personal scribe
+
+~
+#11030
+dagger knife test~
+a sharp dagger~
+A dagger is here that you should never have.~
+~
+5 37 8193
+0 5 6 11
+1 1 1
+A
+19 3
+A
+13 25
+#11031
+broken chair 11031~
+a broken chair~
+A chair lies here in pieces, shattered by some unwitting fools head.~
+~
+13 72 16385
+0 0 0 0
+15 1 1
+E
+chair broken~
+This is a worthless broken chair.  Only a daft idiot would carry it.
+~
+A
+3 -3
+A
+4 -5
+#11032
+leg human food 11032~
+a bloody human leg~
+A bloody human leg is here, ready to be devoured!~
+~
+19 0 1
+1 0 0 0
+1 1 1
+#11033
+dust pile~
+a pile of bone dust~
+A pile of dust is here, getting scattered by the wind.~
+~
+13 5 1
+0 0 0 0
+0 0 0
+E
+pile dust~
+  You gaze at the remains of the horror you just defeated.
+Some magical winds have stirred up from nowhere and are
+spreading the dust all over. You cover your mouth quickly
+to avoid inhaling the filth.
+~
+#11034
+black armband~
+a black armband~
+A black armband is here, fluttering in rememberance.~
+~
+9 1 257
+9 0 0 0
+0 0 0
+E
+black armband~
+You see a black armband, fluttering about in the breeze.
+You pick it up casually and read the inscription sewn
+on the inseam.
+
+' To my grandmother and grandfather,
+  I love you both with all my heart and it is with
+  great sadness that we must say good-bye.
+  May your love for each other spread eternally
+  Until we meet again.'
+
+    Kasmir
+
+~
+A
+19 1
+A
+2 1
+#11035
+crack~
+a crack in the shadow wall~
+A shimmering wall of shadow, rising to the sky.~
+~
+27 0 0
+11048 0 0 0
+0 0 0
+E
+wall shadow~
+  This shimmering wall stretches as far as the eye can see.
+It obstructs your path and prevents you from going any 
+further.  Approaching with caution, you discern a narrow
+crack in an otherwise featureless greyness. Barely wide 
+enough to accomodate a single person, it beckons mockingly
+into unexplored darkness.
+~
+#11036
+crack~
+a crack in the shadow wall~
+A large crack in the wall is here, creating a way out.~
+~
+27 0 0
+11068 0 0 0
+0 0 0
+E
+crack~
+  A large crack has formed here though some flaw
+in the magic that created it.  You think that you
+may be able to squeeze throught it and out of this
+wall of gloom.
+~
+#11037
+crack~
+a crack in the shadow wall~
+A crack has formed in the wall, creating a passage in.~
+~
+27 0 0
+11065 0 0 0
+0 0 0
+E
+crack~
+  A crack has formed in the wall by some
+flaw in the magic that created it.  Perhaps
+you can fit into the crack and walk in the wall.
+~
+#11038
+hole~
+a smoldering hole~
+Through the smoke and haze, you see a large hole in the ceiling.~
+~
+27 0 0
+11002 0 0 0
+0 0 0
+E
+ceiling hole~
+  Looking above you, you see a gaping hole that leads
+into the main keep that you believe lies above.  Some
+inhuman snarling comes from the darkness above you.
+~
+#11039
+wall goodwall~
+a wall of pure shadow~
+A shimmering wall of shadow, rising to the sky.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+wall shadow~
+  Before lies a wall of pure shadow, obstructing
+your progress.  You scan the height and length
+and see no end to each.  This wall appears
+impassable.
+~
+#11040
+amulet planar stability 11040~
+an amulet of planar stability~
+An amulet lays here, absorbing any traces of Nether.~
+~
+11 1 5
+0 0 0 0
+3 0 0
+E
+amulet nether~
+  The amulet seems to absorb light rather 
+then reflect it, yet it glows and reflects
+as if a light is present nearby. The runes
+along the face of the amulet are in some
+mystic tongue long forgotten.. yet the power
+seems to still have it's grasp on the object.
+~
+A
+24 -3
+A
+12 10
+A
+13 5
+A
+9 3
+A
+18 -3
+#11041
+trash refuse garbage~
+the refuse spread on the floor~
+The floor is covered with an assortment of debris and refuse.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+floor trash refuse garbage~
+  You begin scanning the floor in earnest for
+anything of value.  Perhaps if you sifted through
+this filth you may find something.
+~
+#11042
+gift glenn ivory broach~
+an ^Wivory^n broach~
+A glowing ivory broach lays here on the ground.~
+~
+9 65 5
+10 0 0 0
+0 0 0
+E
+amulet broach ivory gift glenn~
+  You stare down in amazement at the wonder before you.  The ivory
+broach is enlaid with the strongest metal in existance...adamantite. But
+the force that holds this creation together is stronger still...love.
+It radiates with purity and clarity that only true love can...and binds you
+with similar feelings. This love has no bonds.. and time with do nothing but
+strengthen it's intensity.
+~
+A
+19 5
+A
+13 50
+B
+40 0
+#11043
+blue bell collar ribbon~
+a ^Bblue^n ribbon collar with a bell~
+A blue satin ribbon lays on the ground, a bell dangling from it.~
+~
+12 268500994 5
+0 0 0 0
+0 0 0
+E
+blue bell collar~
+You see a collar made out of satin ribbon, with a bell dangling from its center.
+There is an inscription on the bell. It says 'Juno's dragon, please return to
+owner if found, do not feed cookies'. 
+~
+#11044
+diaphanous robe gown tulle~
+a ^wdiaphanous^n gown~
+A translucent garment lays on the ground in a small heap.~
+~
+9 64 9
+0 0 0 0
+0 0 0
+B
+8388608 0
+#11045
+mistletoe~
+a sprig of mistletoe~
+^g                      ,^\       ,  ,           |\_.'/^\       )`-'\__,    |\_/ .`(_^\       / `.   (   _| . '_.-'`^\      '--. `'. '-^n^r(_)^n^g'  (^\          /.-. `^n^r(_)(_)^n^g`--'^\          `   \/ / . '-.^\               '`)  :  (^\                `-. ' .-'^\                   )'/^\                   `;^n^\     A sprig of mistletoe hangs above your head.~
+~
+8 1 0
+0 0 0 0
+0 0 0
+E
+mistletoe sprig smoochies plant~
+    The Druids considered the mistletoe to be a sacred plant and believed it had 
+miraculous properties which could cure illnesses, and protect against the ill 
+effects of witchcraft. Moreover, whenever enemies met under the mistletoe in 
+the forest, they had to lay down their arms and observe a truce until the next 
+day. From this has seemingly come the custom of hanging a ball of mistletoe 
+from the ceiling and exchanging kisses under it as a sign of friendship and goodwill.
+~
+#11096
+white flag stick piece handkerchief fabric~
+a stick with a ^Wwhite^n handkerchief attached~
+A ^Wwhite^n piece of fabric tied to the end of a long stick.~
+~
+4 268500992 16385
+60 3 3 135
+10 0 0
+#11097
+flag piece fabric white stick handkerchief~
+a stick with a ^Wwhite^n handkerchief attached~
+A ^Wwhite^n piece of fabric attached to a long stick lies here.~
+~
+4 268500992 16385
+60 10000 9999 135
+1 0 0
+#11098
+fishnet stockings pair~
+a pair of black fishnet stockings~
+A pile of string rests here.~
+~
+11 0 33
+0 0 0 0
+0 0 0
+E
+stockings fishnet~
+You gaze down at the scantiest pair of stockings in existence that was no doubtedly 
+put here by a perverted mind.  The seem to be missing thecrotch from them.
+~
+A
+2 10
+A
+13 20
+A
+9 -10
+A
+14 100
+#11099
+shotgun 12 gauge~
+a pump action 12 gauge~
+You gaze upon the wonder of futuristic weaponary.~
+  It sorta looks like a club with two metal tubes sticking
+out of one end.  There is a piece of wood the moves freely
+along the tubes, and a small piece of metal sticking out
+of the bottom. The locals call it a bang stick. Looks sorta
+stupid to you.
+~
+5 320 57345
+15 20 15 11
+0 0 0
+E
+shotgun 12 guage~
+  It sorta looks like a club with two metal tubes sticking
+out of one end.  There is a piece of wood the moves freely
+along the tubes, and a small piece of metal sticking out
+of the bottom. The locals call it a bang stick. Looks sorta
+stupid to you.
+~
+A
+19 30
+A
+2 5
+A
+1 5
+A
+18 20
+B
+1090617480 0
+S
+128 60 75
+S
+128 60 75
+#99999
+$~

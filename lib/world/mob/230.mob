@@ -1,0 +1,435 @@
+#23000
+cleric guard protector~
+a cleric~
+A cleric hired by the Tyrant scrambles to heal the wounded.
+~
+   The cleric is old and wise yet he doesn't look like a spring chicken.
+He'll probably last a year or two longer before he finally retires.
+~
+10 136 0 S
+50 -10 0 1d1+1 7d6+5
+0 0
+8 8 1
+#23001
+dummy training dummies~
+a training dummy~
+A tattered and torn training dummy is here waiting for a good beating.
+~
+  He's taken a beating and probably won't last much longer.
+~
+10 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23002
+battlemaster master warrior~
+the Battlemaster~
+The battlemaster is here waiting to teach you how to survive
+~
+   The battlemaster look old and wise.  You guess he is probably a retired
+warrior who wanted to pass on his knowledge of fighting and winning to a
+new generation of fighters.
+~
+10 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#23003
+battlemaster master teacher warrior~
+the Battlemaster~
+A battlemaster is here beating his students so they can learn their lesson.
+~
+  The battlemaster really looks like the one in the first training room.
+Except he looks a little older and has a few more battle scars.  He conveys
+his information to the students by taking them from the crowd and systematically
+beating them till they learn their lesson, or at least thats what it looks
+like.
+~
+10 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#23004
+untried warrior newbie~
+a young untried warrior~
+A young untried warrior is here waiting for the fighting to start.
+~
+   The warrior before you stands here sharpening his sword and tightening
+the straps on his equipment in preparation for the coming fight.  One that
+he figures he'll probably not win.
+~
+8 0 0 S
+2 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23005
+experienced warrior~
+an experienced warrior~
+An experienced warrior has survived the fighting to stand here.
+~
+   The young warrior has fought in a battle or two and gained a little
+experience.  He carries no scars of battle but you know in future he will gain
+some and he will be accepted.  He could be a bit more difficult fight then you
+realize despite his tender age.
+~
+8 131072 0 S
+4 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23006
+battlemaster master teacher warrior~
+the Battlemaster~
+The battlemaster is here waiting to teach you how to survive
+~
+   The battlemaster looks old and wise.  You guess he is probably a retired
+warrior who wanted to pass on his knowledge of fighting and winning to a
+new generation of fighters.
+~
+10 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#23007
+demon ghoul goblin small~
+a small demon~
+A small demon goes on a rampage here.
+~
+  The little red demon runs from one side of the room to the other.  Lighting
+fires with his flaming fingers.  The little guy looks so cute but a little
+warm to the touch.
+~
+8 131072 0 S
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23008
+battlemaster master teacher warrior~
+the Battlemaster~
+The battlemaster is here waiting to teach you how to survive.
+~
+   The battlemaster looks old and wise.  You guess he is probably a retired
+warrior who wanted to pass on his knowledge of fighting and winning
+to a new generation of fighters.
+~
+10 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#23009
+demon ghoul goblin large~
+a large demon~
+A large demon goes on a rampage here.
+~
+   The big red demon sits here and flares it nostrils.  He points at bushes
+and a small flame leaps from his fingertip and lights the bush aflame.
+~
+42 0 0 S
+6 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23010
+warrior combatant~
+a young combatant~
+A young warrior stands here preparing for the battle to come.
+~
+  You recognize this warrior from sometime in the past.  Perhaps when you fought
+the demons near the barracks.  He has a few scars from battles fought but he
+still looks pretty young.
+~
+8 0 0 S
+6 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23011
+battlemaster warrior master~
+the battlemaster~
+The battlemaster is here instilling knowledge and discipline.
+~
+   He stands here conveying his years of experience in the field.  He knows
+things that some other less experienced might not.
+~
+524298 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23012
+man elder battlemaster master~
+the elder battlemaster~
+The man is old and wrinkled yet he is the same battlemaster.
+~
+  The features of his face have become wrinkled and old yet underneath he
+is still a raging warrior wanting to take all comers.
+~
+8 0 0 S
+10 10 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23013
+young guard warrior combatant~
+a young guard~
+A young guard stands here ready for the final assault.
+~
+   He isn't new but isn't as well trained as the rest of the warriors here.
+His movements are quite slow and you assume that he would be an easy target
+for demons.
+~
+10 0 0 S
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23014
+battlemaster master warrior~
+the battlemaster~
+The battlemaster stands here dispencing his knowledge.
+~
+   He is no longer the spring chicken you once knew.  No now he is old showing
+his age.  In fact if you didn't know better you'd never recognize him as a
+warrior.  His armor is dented and bent yet he still looks as though he could
+hold his own in a fight.  His once powerful sword has been replaced by a cane
+as he nurses his old painfilled legs.
+~
+10 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+6 6 0
+#23015
+demon ghoul goblin warrior~
+a demon warrior~
+A demon warrior is here taunting you.
+~
+  The short demon sits here sticking out his tongue at you.  His thick hide
+offers better armor then any plate you have ever seen.
+~
+8 0 0 S
+6 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23016
+warrior combatant boy~
+a young warrior~
+A young experienced warrior is here picking a fight with a demon.
+~
+  The boy looks like he could hold his own against any demon.  His muscles
+bulged under his armor and you realize this boy works out most every day.
+~
+8 0 0 S
+7 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23017
+senior battlemaster master warrior~
+the senior battlemaster~
+The battlemaster is a senior now but still fighting.
+~
+  He leans on his cane when he's not fighting.  When he is his cane becomes a
+ruthless weapon as he strikes down demon after demon.
+~
+10 0 0 S
+9 20 10 1d1+0 1d1+0
+0 0
+6 8 0
+#23018
+ringil secretary~
+Ringil's secretary~
+Ringil's secretary sits here sorting papers and looking busy.
+~
+Amazingly, even when doing nothing, she is extremely busy.
+~
+524298 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#23019
+dud mob test test~
+a testers mobile~
+You'd be right if you said it looked unfinished
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23084
+sultan guard~
+the Sultan's Guard~
+A guard stands here, oblivious to what is around him.
+~
+   The guard looks mean.  Perhaps far meaner than any of the other guards around
+the area.
+~
+202 0 0 S
+12 20 10 1d1+0 1d1+0
+0 11500
+8 8 1
+#23085
+sultan guard~
+the Sultan's Guard~
+A guard stand here, oblivious to what is around him.
+~
+   He looks mean almost meaner then the guards that surround him.
+~
+202 0 1000 S
+12 20 7 1d1+0 1d1+0
+0 0
+8 8 1
+#23086
+Sultan guard~
+the Sultan's Guard~
+A guard stands here, oblivious to what is around him.
+~
+A strong mean guard he doesn't bare much resemblance to the other guards.
+~
+200 0 1000 S
+12 20 7 1d1+0 1d1+0
+0 9000
+8 8 1
+#23087
+leader resistance new thalos~
+the Leader of the New Thalos Resistance~
+An unfinished mob stands here.
+~
+   He stands for what he believes in, and he believes that the monarchy in
+New Thalos must fall and he is willing and able to go to any extent to do it.
+~
+761866 65704 0 S
+42 20 10 1d1+0 1d1+0
+0 100
+8 8 1
+#23088
+gremlin fire~
+a flaming gremlin~
+Flames shoot around the body of a flaming gremlin.
+~
+A swirling mass of flames surrounds the body of the gremlin.
+~
+241674 66696 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23089
+portal portalkeeper keeper~
+the PortalKeeper~
+The portalkeeper sits here protecting the portal to Fears realm.
+~
+He is quick and exeptionally agile.
+~
+40970 65704 0 S
+59 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#23090
+spirit of vulmarta 7777777~
+the spirit of Vulmarta~
+She sits here attempting to hold her form.
+~
+She looks beautiful despite her flickering in and out of existance.
+~
+2105354 34 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#23091
+spirit of vulmarta~
+the spirit of Vulmarta~
+the spirit of Vulmarta flickers in and out of existance here.
+~
+She looks as though she is in great pain.
+~
+8202 40 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#23092
+darkfriend~
+a darkfriend~
+This man has pledged himself to the Father of Lies, and will serve till death.
+~
+   The skin around this man's face is pulled back into a grimmace, yet his
+eyes burn with a maddening determination.  Whatever he has that you want, he
+will not give it up easily.
+~
+702506 372904 0 S
+54 -10 1 1d1+0 1d1+30
+0 0
+8 8 1 10
+#23093
+gremlin fire 5555555~
+a flaming gremlin~
+Flames shoot around the body of a flaming gremlin.
+~
+A swirling mass of flames surrounds the body of the gremlin.
+~
+176138 65664 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23094
+gremlin fire 4444444~
+a flaming gremlin~
+Flames shoot around the body of a flaming gremlin.
+~
+A swirling mass of flames surrounds the body of the gremlin.
+~
+159754 65664 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23095
+gremlin fire 3333333~
+a flaming gremlin~
+Flames shoot around the body of a flaming gremlin.
+~
+A swirling mass of flames surrounds the body of the gremlin.
+~
+176138 65664 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23096
+gremlin fire 2222222~
+a flaming gremlin~
+Flames shoot around the body of a flaming gremlin.
+~
+A swirling mass of flames surrounds the body of the gremlin.
+~
+700426 65664 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23097
+gremlin fire 1111111~
+a flaming gremlin~
+Flames shoot around the body of a flaming gremlin.
+~
+A swirling mass of flames surrounds the body of the gremlin.
+~
+176138 65664 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#23098
+Xlita~
+Xlita~
+The insane mage Xlita sits here attempting to find his purpose.
+~
+It looks, err, unfinished.
+~
+138 198247592 0 S
+59 20 10 1d1+0 1d1+0
+0 100000
+8 8 1
+#23099
+Terror 0000000~
+the Dragon called 'Terror'~
+A massive horned dragon sits here surrounded by swirling flames.
+~
+   Deep in his eyes you see a terror you had not seen since your childhood.
+He laughs at your old terrors and preys upon it once again.
+~
+17367050 25232552 -1000 S
+59 20 -20 9d9+10 12d14+5
+0 100000
+8 8 1 10
+#99999
+$~

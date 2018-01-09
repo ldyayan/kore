@@ -1,0 +1,760 @@
+#30100
+spear war bloody~
+a ^rBloody^n War-Spear~
+A long sturdy looking spear lies here in a pool of blood.~
+~
+5 0 24577
+0 2 8 11
+10 50 0
+A
+19 2
+A
+18 3
+A
+1 1
+#30101
+sign skull warning~
+a sign~
+A skeleton stands here held up by a large stake holding a sign~
+          Don't venture any farther unless you like
+          seeing your guts fall out of your stomach.
+                ^RBloodBane^n War-Captain of the Bloodspear
+~
+16 0 0
+0 0 0 0
+999999 0 0
+#30102
+vial pure clear blue water~
+a vial of crystal clear blue liquid~
+A glass vial rests here glowing with purity.~
+A glass vial.
+~
+10 1 1
+50 28 14 43
+2 400 0
+#30103
+wand blood tongue vampire~
+the dried tongue of a vampire~
+The tongue of a once great vampire lies here dehydrated.~
+~
+3 64 16385
+50 4 4 137
+2 125 0
+#30104
+shard of ice~
+a shard of ice~
+On the ground sits a sharp shard of ice, not melting one bit.~
+~
+3 0 16385
+50 7 7 161
+1 500 0
+#30105
+a piece of hardened molten lava~
+a piece of hardened molten lava~
+The ground is smoking under a small blackened rock.~
+~
+3 0 16385
+35 7 7 158
+1 400 0
+#30106
+claws bobcat sharp~
+claws of the bobcat~
+The claws of a once great animal lie here.~
+~
+5 0 24577
+5 3 6 8
+2 10 0
+A
+19 1
+A
+18 2
+#30107
+green battle vest~
+a ^ggreen^n battle vest~
+A large green vest, superbly armoured, lies here discarded.~
+~
+9 12289 9
+15 0 0 0
+3 150 0
+A
+1 2
+A
+18 2
+A
+5 2
+#30108
+guard spear great~
+a great guard's spear~
+An enourmous spear which looks like it's good for pokin people, lies here.~
+~
+5 0 8193
+0 4 5 11
+3 200 0
+A
+19 3
+A
+2 -1
+A
+18 2
+#30109
+key small metal~
+a small metal key~
+A small piece of metal in the shape of a key lies here.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#30110
+a slender mithril blade~
+a slender ^Wmithril^N blade~
+A very thin mithril sword hums here.~
+~
+5 8401410 8193
+0 3 9 3
+3 0 0
+A
+18 5
+A
+19 4
+#30111
+flash pure adrenaline~
+a flask of pure adrenaline~
+Empty~
+~
+10 0 1
+50 64 134 120
+0 0 0
+#30112
+key dragon shaped~
+a dragon-shaped key~
+A large key in the shape of a dragon glows here innocently.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#30113
+rubied black bracer~
+a ^Rrubied^n black bracer~
+A black bracer with pulsing red rubies glows a dull red.~
+~
+9 1 4097
+10 0 0 0
+2 0 0
+A
+12 25
+A
+13 25
+B
+512
+#30114
+wyrm hide cloak~
+a Wyrm hide cloak~
+A thick cloak of the hide of a Great Wyrm waits for an owner.~
+~
+9 1 1025
+10 0 0 0
+4 0 0
+A
+19 1
+A
+13 15
+A
+5 2
+A
+18 -2
+#30115
+vial of demons blood~
+a vial of demons blood~
+A vial of the brightest red liquid you have ever seen sits here enticinng you.~
+~
+10 1 16385
+50 46 75 120
+1 0 0
+#30116
+shield titanium dark diamond~
+a dark titanium shield studded with black diamonds~
+A shield with mesmerizing black diamonds hypnotizes you.~
+~
+9 49664 513
+8 0 0 0
+2 0 0
+A
+12 20
+B
+8192
+#30117
+black marble fountain~
+a black marble fountain~
+A large black marble fountain sits in the center of town square.~
+~
+23 0 0
+999999 999999 0 0
+999 0 0
+#30118
+blue steel boots~
+a pair of blue steel boots~
+There is a pair of lightly colored blue steel boots here.~
+~
+9 512 65
+7 0 0 0
+3 0 0
+A
+5 2
+A
+14 -20
+A
+18 2
+B
+32768
+#30119
+black opaque crystal~
+an opaque black crystal~
+A hand-sized mysterious looking black crystal lays here.~
+~
+8 49153 1025
+0 0 0 0
+1 0 0
+A
+1 2
+A
+3 2
+A
+12 25
+A
+13 25
+B
+32
+#30120
+swordsmans gloves~
+a pair of swordsmans gloves~
+A pair of brown leather gloves sit on a nearby table.~
+~
+9 8548352 129
+6 0 0 0
+2 0 0
+A
+2 1
+A
+19 1
+A
+17 -20
+#30121
+scroll of great blessing~
+the scroll of great blessings~
+A scroll with a warm holy glow lies here.~
+~
+2 1 1
+50 133 143 0
+1 0 0
+#30122
+rune sword wrath talos~
+the runesword, '^MWr^Bat^bh of T^Bal^Mos^N'~
+A thick long blade, sharp on both edges pulsates a multitude of colors.~
+~
+5 9073153 8193
+0 9 6 3
+15 0 0
+A
+19 7
+A
+1 2
+A
+18 3
+A
+13 25
+A
+5 -5
+S
+23 50 2
+S
+161 50 2
+S
+118 50 2
+#30123
+a shimmering ball of raw magic~
+a ^Bs^Rh^Bi^Rm^Bm^Re^Br^Ri^Bn^Rg^N ball of raw magic~
+A blue and red ball constantly changing colors lies here.~
+~
+18 49221 16385
+0 1 0 0
+1 0 0
+A
+12 100
+#30124
+ruby enlayed silver circlet~
+a ruby enlayed silver circlet~
+A silver circlet enlayed with 4 rubies floats inches off the ground.~
+~
+9 8577025 17
+7 0 0 0
+4 0 0
+A
+3 2
+A
+12 25
+#30125
+robe of chaos~
+the Robe of ^rC^Rh^Wa^Ro^rS^N~
+A red robe covered in unreadable runes lies here.~
+~
+9 49665 1025
+6 0 0 0
+2 0 0
+A
+12 25
+A
+1 1
+A
+19 1
+#30126
+fiery magma ring~
+a ^Rf^n^Yi^n^We^n^Yr^n^Ry^n magma ring~
+A steaming ring of semi-hardened magma scroches the ground.~
+~
+9 144385 3
+5 0 0 0
+3 0 0
+A
+19 1
+A
+1 1
+A
+13 25
+#30127
+misty blue ring~
+a misty blue ring~
+A ring surrounded by a fine blue mist glows peacefully.~
+~
+9 50178 3
+5 0 0 0
+3 0 0
+A
+6 2
+A
+12 25
+#30128
+diamond studded ivory staff~
+a ^Wdiamond^N studded ivory staff~
+A long ivory staff home to many diamonds stands upright here.~
+~
+4 1 24577
+50 3 3 28
+0 0 0
+#30129
+withered staff encrusted crystals~
+a withered staff encrusted with crystals~
+A withered oaken staff encrusted with glowing crystals hums at your presence.~
+~
+5 2 24577
+0 2 6 7
+7 0 0
+A
+3 3
+A
+9 2
+A
+12 15
+S
+10 50 2
+#30130
+key glowing steel~
+a glowing steel key~
+A large steel key stained with specks of blood illuminates the area.~
+~
+18 65 16385
+0 0 0 0
+3 0 0
+#30131
+an enormous steel key~
+an enormous steel key~
+A steel key larger than your hand rests against a nearby wall.~
+~
+18 0 1
+0 0 0 0
+4 0 0
+#30132
+fang beast tooth~
+the fang of the beast~
+A long sharp fang of the forgotten beast decays here.~
+~
+5 53761 24577
+0 4 8 14
+3 0 0 5000
+A
+19 3
+A
+4 3
+A
+12 25
+#30133
+glass weapons cabinet~
+a glass weapons cabinet~
+A large glass cabinet hangs here on the wall.~
+~
+15 0 0
+999 10 30134 0
+99999 0 0
+#30134
+iron key~
+an iron key~
+A regular looking iron key sits here.~
+~
+18 0 16385
+0 0 0 0
+0 0 0
+#30135
+shard gaia life force~
+a shard of ^GGaia's^n life force~
+A perfectly symmetric green shard of crystal lies here.~
+~
+5 193537 24577
+0 15 2 12
+5 0 0
+A
+1 3
+A
+9 3
+A
+13 20
+A
+12 20
+A
+18 3
+A
+19 3
+S
+148 50 5
+#30136
+the prison master key~
+the prison master key~
+A large key lies here.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#30137
+nothing~
+nothing~
+nothing~
+~
+8 0 1
+0 0 0 0
+1 0 0
+#30138
+ruby chalice~
+the ^Rruby^n chalice~
+A beautifull ruby chalice glows here with a certain charm.~
+~
+17 1 16385
+750 750 0 0
+1 0 0
+A
+12 40
+#30139
+orb lightning~
+the orb of lightning~
+You shouldnt see this~
+~
+3 577 16385
+50 10 10 30
+2 0 0
+#30140
+storm star morning star~
+the Storm Star~
+A large morning star floats inches above the ground.~
+~
+5 147970 8193
+0 4 7 10
+10 0 0
+A
+13 25
+A
+13 25
+A
+1 2
+S
+30 50 2
+S
+6 50 25
+#30141
+thunderclap gloves~
+^WThunder^N^BClap^n gloves~
+A pair of blue gloves with white lightning bolts hum here.~
+~
+9 49729 129
+6 0 0 0
+3 0 0
+A
+12 30
+A
+13 30
+#30142
+talisman terror~
+the Talisman of Terror~
+A large talisman of opaque black crystal pierces your soul with pure fear.~
+~
+9 1 5
+8 0 0 0
+5 0 0
+A
+19 2
+A
+13 25
+A
+18 -3
+A
+6 -5
+#30143
+pulsing heart draken~
+the pulsing ^Rheart^n of Draken~
+The still beating heart of Draken sits here in a pool of blood.~
+~
+8 0 16385
+0 0 0 0
+5 0 0 10000
+A
+1 1
+A
+2 1
+A
+3 1
+A
+4 1
+A
+5 1
+A
+6 1
+#30144
+axe dragonslayer bloody~
+Axe of the Dragonslayer~
+An extremely large bloody axe awaits a dragons flesh.~
+~
+5 8548353 8193
+0 5 6 15
+10 0 0
+A
+1 2
+A
+19 3
+A
+18 3
+S
+10 50 5
+#30145
+fencing sword training~
+a training sword~
+A fencing sword used for training awaits a student.~
+~
+5 0 8193
+0 4 6 11
+3 0 0
+#30146
+blood stained adamantium sleeves~
+blood-stained adamantium sleeves~
+A pair of adamantium sleeves stained in blood from battle.~
+~
+9 12800 257
+7 0 0 0
+4 0 0
+A
+19 1
+A
+18 1
+A
+13 20
+#30147
+syringe pure adrenaline~
+a syringe of pure adrenaline~
+Nothing~
+~
+3 0 16385
+50 3 3 64
+1 0 0
+#30148
+blood stained adamantium helm~
+a blood-stained adamantium helm~
+A helm stained with the blood of battle lies here.~
+~
+9 12800 1
+5 0 0 0
+3 0 0
+A
+1 1
+A
+24 -3
+A
+13 25
+#30149
+blood stained adamantium armor~
+blood-stained adamantium armor~
+A suit of armor stained with the blood of battle lies here.~
+~
+9 12800 1
+10 0 0 0
+5 0 0
+A
+19 1
+A
+2 -1
+A
+13 25
+A
+18 2
+#30150
+lifeless heart draken~
+the lifeless heart of Draken~
+The lifeless heart of Draken lies here in a pool of blood.~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#30151
+ruby talon dragon bloody~
+the ^Rruby^n talon of the chaos dragon~
+The bloodied ruby talon of the chaos dragon Draken lies here forgotten.~
+~
+5 1053185 24577
+0 5 6 11
+7 0 0
+A
+19 5
+A
+2 2
+A
+1 1
+S
+27 50 2
+#30152
+hide bloody chimera~
+the ^Rbloody^n hide of a chimera~
+The coal black hide of a large chimera sits here in a pile.~
+~
+9 49728 1025
+8 0 0 0
+4 0 0
+A
+12 50
+A
+13 -25
+A
+1 3
+#30153
+pile blackmane blood bones flesh~
+a pile of blackmanes blood, bones and flesh~
+A pile of bones blood and flesh lie here in a heap.~
+~
+13 0 1
+0 0 0 0
+10 0 0
+#30154
+amulet storms~
+the amulet of storms~
+An electrified blue crystal amulet illuminates the ground.~
+~
+9 180737 5
+8 0 0 0
+2 0 0
+A
+12 40
+A
+13 30
+A
+6 2
+#30155
+adamantium key~
+an adamantium key~
+A large adamantium key collects dust here.~
+~
+18 0 16385
+0 0 0 0
+0 0 0
+#30156
+bloodbane treasure~
+BloodBane's Treasure~
+A huge pile of loot from many raids fills the room.~
+~
+20 0 1
+75000 0 0 0
+0 0 0
+#30157
+vortex lightning~
+vortex of lightning~
+A crackling vortex of dangerous lightning appears in front of you.~
+~
+27 0 0
+30182 0 0 0
+9999 0 0
+#30158
+vortex swirling red black~
+a swirling red and black vortex~
+A swirling red and black vortex hums in the middle of the room.~
+~
+27 0 0
+30136 0 0 0
+9999 0 0
+#30159
+ruby studded key~
+a ruby studded key~
+A ruby studded key catches your eye.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#30160
+key bark~
+key made of bark~
+A fragile key made of the bark of an oak decays here.~
+~
+18 0 1
+0 0 0 0
+0 0 0
+#30161
+black diamond key~
+a black diamond key~
+A key carved from a rare black diamond entices your curiousity.~
+~
+18 0 16385
+0 0 0 0
+0 0 0
+#30162
+pulsing ivory key~
+a pulsing ivory key~
+A key made from the purest ivory radiates the power of good.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#30196
+the shriveled up carrot on heinrich's desk~
+the shriveled up carrot on heinrich's desk~
+A nasty looking old carrot sits here looking scrumptious.~
+~
+25 0 1
+50 33 33 33
+0 0 0 100
+#30197
+Lee Dungarees~
+Lee Dungarees, Can't Bust Em'~
+An unfinished object is lying here.~
+~
+9 0 33
+0 0 0 0
+0 0 0
+#30198
+Heinrich's Bag of Goodies~
+Heinrich's Bag of Goodies~
+A large bag is chillin here.~
+~
+15 1 16385
+999 1 -1 0
+1 0 0
+#30199
+sword~
+sword~
+An unfinished object is lying here.~
+~
+8 0 8193
+0 0 0 0
+0 0 0
+#99999
+$~

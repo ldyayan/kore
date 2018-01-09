@@ -1,0 +1,5 @@
+>rand_prog 3~
+  mpechoaround $r The mountain goat looks up at $R and starts to chew some cud.
+  mpechoat $r The mountain goat looks up at you and starts to chew some cud.
+~
+|

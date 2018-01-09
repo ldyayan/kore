@@ -1,0 +1,13 @@
+>command_prog enter tunnel~
+  mpechoaround $n You hear a soft voice beckoning you back into consciousness as you walk into the tunnel.
+  mptransfer $n 16692
+  mpechoat $n Everything is white, so white..
+  mpechoat $n As the world returns to you, you look to find a beautiful woman dabbing your face with a wet flannel.
+  mpat $n mpforce bwoman smile $n
+  mpat $n mpforce bwoman tell $n I found you lying unconscious on the rope bridge.
+  mpat $n mpforce bwoman tell $n I hope you don't mind, I just thought you needed some help..
+  mpat $n mpforce bwoman tell $n Oh I nearly forgot! I found some items on the floor around you.
+  mpat $n mpforce bwoman give all $n
+  mpstopcommand
+~
+|

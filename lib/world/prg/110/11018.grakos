@@ -1,0 +1,73 @@
+>fight_prog 11~
+  mpecho $I glows with rage as he howls a howl from the depths of hell that puts you on your knees!
+  mpecho The screams of one hundred tormented souls breaks your will as you collapse like a ragdoll.
+  mpdamage all 50d5+80
+  mppose all sit
+~
+>fight_prog 12~
+  mpechoat $r $I raises his decayed hands toward you. It glows red with arcane power as you feel your life force ebb away!
+  mpechoaround $r $I raises his decayed hands toward $R. It glows red with power as you see the essence of $R get sucked away!
+  mpdamage $r 50d7+115
+  mpcallmagic 'restore' $i
+  mpecho Grakos cackles loudly as he heals his wounds with the lifeforce of $R!
+  say TASTY!
+~
+>fight_prog 11~
+  mpecho $I utters a gutteral cry in an arcane tongue!
+  mpecho A skeleton warrior bursts throught the floor to serve it's master!
+  mpmload 11021
+  mpforce 11021 kill $r
+~
+>fight_prog 10~
+  mptrigger $r fright
+~
+>fight_prog 10~
+ if hitprcnt($r) < 40
+   switch $r
+   riposte
+   riposte
+   disarm
+ else
+   if class($r) == cleric
+     switch $r
+     riposte
+     disarm
+     say Where's your god now!!
+   endif
+ endif
+~
+>script_prog fright~
+  say I am death arisen! I am night in flesh! I am horror in mind!
+@
+  say FEAR ME!
+@
+  mpforce all flee
+  mpforce all flee
+  mpforce all flee
+~
+>greet_prog 10~
+  mpecho $I looks up from his plans, sees you and a smile plays across his decayed lips.
+  say Welcome to your death, fools!
+  say I was expecting someone.... more worthy.
+  say Oh well, so as to not waste your trip...
+~
+>rand_prog 4~
+  mpecho $I slowly looks over his maps, flips a page, makes a mark, and begins again.
+~
+>rand_prog 4~
+  mpecho $I mutters something under his breath, scratches something out, and redraws it somewhere else.
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho The burning embers of the deathknight's eyes slowly fade to nothing as his bones crack suddenly and turn to dust...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mpoload 11033
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

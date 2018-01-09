@@ -1,0 +1,13 @@
+>all_greet_prog 100~ 
+  if isnpc ($n) 
+    break
+  else
+    if level ($n) > 25 
+      mpechoat $n You dont belong here, its for level 25 and lower! 
+      mpechoat $n You walk past all the wimpy monsters to get to where you really should go.
+      mptransfer $n 20356 
+      mpforce $n look
+    endif
+  endif
+~
+|

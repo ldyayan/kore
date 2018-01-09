@@ -1,0 +1,54 @@
+>greet_prog 100~
+  if isimmort($n)
+  else
+    mpecho Hyraenecus eyes glow red with blood-lust.
+    say Your souls freedom ends now.  Come, let us battle, that I may drink of your soul.
+    mpecho $I beckons for you to approach.
+  endif
+~
+>fight_prog 9~
+  say My wounds are but temporary problems.
+  mpecho $I speaks a rune and his body knits broken tissue and bone.
+  c 'heal' $i
+~
+>rand_prog 15~
+    if isaffected($i, stoneskin)
+    else
+	cast 'stoneskin'
+    endif
+~
+>rand_prog 20~
+    if isaffected($i, haste)
+    else
+	cast 'haste'
+    endif
+~
+>fight_prog 10~
+  say You cannot fight if you cannot stand!!
+  mpecho The ground quakes beneath your feet and you lose your footing.
+  c 'earthquake' $r
+  mppose $r sit
+~
+>fight_prog 8~
+  say You have not only me to battle, but also my servants.
+  mpmload 142
+  mpecho $I clasps his hands, mutters something, and a Glabrezou steps through a portal.
+  mpforce Glabrezou kill $r
+~
+>fight_prog 4~
+  mpechoat $r Your protection is no match for my power.
+  mpechoat $r You will feel the full brunt of my anger!!!!!!!!
+  c 'dispel sanctuary' $r
+  mpechoaround $r A violet-hued beam of energy hits $R and his aura flickers and dies.
+~
+>command_prog backstab~
+  cackle
+  mpstopcommand
+  mpechoat $r DONT even try it!!!!
+  mpechoat $r AWAY WITH YOU!!
+  mpechoat $r Hyraenecus knocks you out of the room.
+  mpechoaround $r Hyraenecus knocks $R clear out of the room.
+  mptransfer $r 16581
+  mppose $r sit
+~
+|

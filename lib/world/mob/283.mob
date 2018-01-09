@@ -1,0 +1,229 @@
+#28300
+acolytes~
+acolytes~
+A acolytes stands guard waiting for any intruders.
+~
+ You are looking at one of the acolytes of the temple. Their
+main job is monitoring the temple's entryway.
+~
+8298 1064 -500 S
+34 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#28301
+undead guardian~
+a undead guardian~
+A undead guardian lurks in the shadows.
+~
+  Under the control of the High Priest the undead guardian will
+risk his life to serve and protect his god.
+~
+43082 525352 -750 S
+44 20 10 1d1+0 1d1+0
+0 0
+8 8 1 6
+#28302
+High Priest~
+the High Priest~
+The High Priest stands behind the altar.
+~
+  The High Priest stands behind the altar. His presence demands
+the up most respect. His aura shines with the darkest of evils.
+~
+43018 134218920 -1000 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#28303
+under priest underpriest~
+a underpriest~
+a underpriest
+~
+  The underpriest is a mid-level priest of the temple. He is
+busy here making potions of fly.
+~
+8394 4195368 -500 S
+29 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#28304
+cleric~
+a cleric~
+a cleric
+~
+  Flying by you, you see a cleric of the temple. He is busy
+getting ready for one of the temple's ceremonies.
+~
+63560 12583976 -600 S
+38 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28305
+prisoner~
+a prisoner~
+A sleeping prisoner.
+~
+  Lying in a makeshift bed made of dirt and ridden with lice 
+the prisoner looks like he hasn't ate in days.
+~
+8392 132096 -250 S
+23 20 10 1d1+0 1d1+0
+0 0
+4 8 1
+#28306
+black dragon~
+a black dragon~
+a large black dragon
+~
+   The black dragon towers over you. Looking to be way over a
+hundred years old. What you can see of his wing span they can
+reach over a 100 feet or more.
+~
+41034 4195368 -500 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#28307
+gryphon~
+a gryphon~
+a gryphon
+~
+  What looks like part lion but yet part eagle the gryphon
+is a wierd sort.
+~
+41032 4195368 -500 S
+26 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#28308
+manticore~
+a manticore~
+a manticore
+~
+  You see before you a manticore. The monster is made up 
+of a number of different things. It has wings, tail, legs
+arms, a head. 
+~
+41032 1064 -650 S
+27 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28309
+bugbear~
+a bugbear~
+a bugbear
+~
+  Roaming around the forest a bugbear just moves along. 
+~
+41032 1064 -500 S
+25 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28310
+spider~
+a spider~
+a spider
+~
+   With eight large legs this spider looks like one you should
+advoid. The spider looks to be of the deadly kind.
+~
+41032 1064 -400 S
+25 10 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28311
+roommob~
+roommob~
+roommob
+~
+It looks, err, unfinished.
+~
+41959498 1064 0 S
+58 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28312
+acolytes~
+acolytes~
+A acolytes stands guard waiting for any intruders.
+~
+ You are looking at one of the acolytes of the temple. Their
+main job is monitoring the temple's entryway.
+~
+8298 1064 -500 S
+34 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#28313
+deer~
+a deer~
+A deer is a few feet away.
+~
+  A large brown deer.
+~
+8264 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 9
+#28314
+young cleric~
+a young cleric~
+A young cleric wanders around.
+~
+   A young cleric is fresh out of the starting books of learning.
+Here to learn the final steps of becoming a cleric.
+~
+8264 4195368 0 S
+32 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28390
+zombie~
+a zombie~
+A zombie is draging about.
+~
+   A zombie has risen for the Last Harvest.
+~
+40968 1064 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28391
+ghost~
+a ghost~
+A ghost is hovering about.
+~
+   A ghost has returned for the Last Harvest.
+~
+8200 4195368 0 S
+12 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28392
+ghoul~
+a ghoul~
+A ghoul is lurking about.
+~
+   A ghoul has arrived for the Last Harvest.
+~
+8200 1064 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28399
+baby tiamat~
+baby tiamat~
+Little Tiamat rests here.
+~
+  You see before you a baby five-headed dragon. At least one of
+her five heads stays focused on you at all times. Her aura sends
+off a sense of pride and power. One day she will grow to be as
+big and strong as the Dark Lady herself. But until that time she
+will be under the care of the Goddess of Magic, Ayana.
+~
+180232 4456488 -500 S
+30 0 -10 5d10+10000 5d8+10
+0 0
+8 8 2
+#99999
+$~

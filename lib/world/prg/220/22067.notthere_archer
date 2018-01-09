@@ -1,0 +1,15 @@
+>all_greet_prog 20~
+  if ispc($n)
+    mpechoat $n An arrow whistles down from above and strikes you!
+    mpechoaround $n An arrow whistles down from above and strikes $N!
+    mpdamage $n 5d10+10
+  endif
+~
+>rand_prog 100~
+  if inroom($r) == here
+    mpechoat $r An arrow whistles down from above and strikes you!
+    mpechoaround $r An arrow whistles down from above and strikes $R!
+    mpdamage $r 5d10+10
+  endif
+~
+|

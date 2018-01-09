@@ -1,0 +1,97 @@
+>greet_prog 100~
+  if isscript($i)
+  or isfight($i)
+  or isnpc($n)
+  else
+    mptrigger $n hello
+  endif
+~
+>script_prog hello~
+  say Welcome...
+@
+  say Is this your nightmare?
+@
+  say no?
+@
+  if inroom($r) == here
+    say Let me make it more like your nightmares $N.
+    mpmload 23088
+    mpmload 23088
+    mpmload 23088
+    mpmload 23088
+  else
+    mpstopscript
+  endif
+@
+@
+  say Better...
+@
+  say Good...
+@
+  say So you have come for Vulmartas spirit...
+  say Even if I die do you think you will be able to bind her spirit to her statue?
+@
+  say Only one person can do that...
+  say and you'll never find him...
+@
+  laugh
+  hit $r
+  mpforce all.gremlin assist 0000000
+~
+>fight_prog 1~
+  mpechoaround A fiery hand blows $r from the room.
+  mpechoat A fiery hand blows you from the room.
+  mpdamage $r 200
+  mptransfer $r 23091
+~
+>fight_prog 2~
+  cast 'poison' $r
+  cast 'curse' $r
+~
+>fight_prog 3~
+  cast 'dispel sanc' $r
+~
+>fight_prog 4~
+  mpechoat A fiery cloak surrounds you and drains your energy.
+  mpechoaround A fiery cloak surrounds $r.
+  mpdamage $r 100
+~
+>fight_prog 5~
+  cast 'fireball' $r
+~
+>fight_prog 6~
+  if class($r) == mage
+    cast 'feeblemind' $r
+    cast 'feeblemind' $r
+    cast 'feeblemind' $r
+  else
+    cast 'fireball' $r
+  endif
+~
+>fight_prog 7~
+  cast 'area scare' $r
+~
+>fight_prog 8~
+  cast 'word of death' $r
+~
+>fight_prog 10~
+  berserk
+  berserk
+  berserk
+~    
+>death_prog 100~
+  mpecho $I is dead!  Or he is...
+  say So you have finally killed me...
+  say bah I don't die...
+  say and you don't get the honor of killing me...
+  say I just disappear to reappear again sometime when you don't expect it...
+  mpecho A glowing blue orb appears where Terror just stood.
+  mpsilent mpoload 23092
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

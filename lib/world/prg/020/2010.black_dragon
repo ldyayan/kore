@@ -1,0 +1,36 @@
+>rand_prog 7~
+  north
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow $n
+    break
+  else
+  if ispc($n)
+    kill $n
+  endif
+~
+>entry_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>fight_prog 35~
+  moechoat $r The black dragon spits acid all over you!
+  mpechoaround $r The black dragon covers $R in acid.
+  mpdamage $r 6d20+20
+~
+>death_prog 100~
+  if rand(5)
+    mpoload 2079
+  else
+    mpoload 2054
+  endif
+  mppose $i stand
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpsilent drop all.coins
+  mpsilent drop all
+  mpgoto cleaner
+  mppose $i dead
+~
+|

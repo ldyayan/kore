@@ -1,0 +1,5 @@
+>command_prog drop~
+  mpechoat $n Hey! No litter is allowed here!
+  mpstopcommand
+~
+|

@@ -1,0 +1,62 @@
+#3800
+lich belliard~
+Belliard, the Lich~
+Belliard, the Lich rises from the dust and attacks!
+~
+He was once a powerful mage, and advisor to the Tyrant
+~
+43051 66560 -1000 S
+25 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#3869
+lich belliard~
+Belliard, the Lich~
+Belliard, the Lich rises from the dust and attacks!
+~
+He was once a powerful mage, and advisor to the Tyrant
+~
+43051 66560 -1000 S
+25 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#3880
+grave digger robber gravedigger~
+the Graverobber~
+A Gravedigger stands here.
+~
+   You see a gravedigger.. but hmmm, he actually doesnt seem to be digging
+graves so much as digging them up.
+~
+8 0 0 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#3896
+care taker caretaker~
+the caretaker~
+The caretaker doesnt look too pleased about being disturbed..!
+~
+   This man in his sackcloth clothes, looking so grimy, is the headmaster
+of the gravedigger's guild.  He looks at you with a squinty eye and tries
+to determine if you're really a relative of the dead, cause he cant sell
+corpses to just anyone!
+~
+40970 1376256 0 S
+55 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#3897
+wraith~
+a wraith~
+A wraith claws its way from an open grave and attacks!
+~
+A black mist in the form of a man, can drain a mortal of all life force with
+but one touch.
+~
+108 262144 -800 S
+8 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#99999
+$~

@@ -1,0 +1,32 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+  endif
+~
+>rand_prog 4~
+  if rand(70)
+    hide
+  else
+    up
+  endif
+~
+>fight_prog 6~
+  if inroom($r) == here
+    if hasworn($i) == 25550
+      mpechoaround $r Altheas reaches into a bag strapped to his side and throws a handful of dust into $R's face!
+      mpechoaround $r $R clutches $L chest and starts to cough.
+      mpechoat $r You begin to cough uncontrollably as Altheas flings some powder into your face!
+      mpsilent mpcallmagic 'calm' $r
+      gauge $r
+      backstab $r
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      stun $r
+    endif
+  endif
+~
+|

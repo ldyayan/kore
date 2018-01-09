@@ -1,0 +1,6 @@
+>fight_prog 6~
+  growl
+  mpmload 2235
+  mpforce 2235 rescue sumaron
+~
+|

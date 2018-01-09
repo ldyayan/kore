@@ -1,0 +1,146 @@
+>rand_prog 35~
+  if inroom($n) == here
+    mpechoat $n You bleed profusely as you try to keep your entrails from falling out.
+    mpdamage $n 150
+  else
+    mppurge 26451
+    mpmload 26418
+    mpgoto cleaner
+  endif
+~
+>command_prog north~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog south~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog east~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog west~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog up~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog down~
+  if inroom($n) == here
+    mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+    mpdamage $n 150
+    mpstopcommand
+  endif
+~
+>command_prog northeast~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog northwest~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog southeast~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog southwest~
+  mpecho You try in vain to move yourself, but the ripping sensation in your stomach provides an interesting arguement.
+  mpdamage $n 150
+  mpstopcommand
+~
+>command_prog cast~
+  mpecho You try to concentrate on your spell, but the pain is too great.
+  mpstopcommand
+~
+>command_prog pray~
+  mpecho You try to concentrate on your spell, but the pain is too great.
+  mpstopcommand
+~
+>command_prog sing~
+  mpecho You try to concentrate on your spell, but the pain is too great.
+  mpstopcommand
+~
+>command_prog sleep~
+  mpecho You give up in desperation and slowly close your eyes until all is black...
+  mpecho Septic shock sets in and you succumb in loud convulsions.
+  mpdamage $n 1000d1+1000
+  mpdamage $n 1000d1+1000
+  mpdamage $n 1000d1+1000
+  mpstopcommand
+~
+>command_prog recite~
+  mpecho You try to read the parchment, but the pain blurs the words.
+  mpstopcommand
+~
+>command_prog gsay~
+  mpecho You speech is incomprehensible.
+  # mpforce $n gsay *Gurgle* *Gurgle*
+  mpstopcommand
+~
+>command_prog gtell~
+  mpecho Your speech is incomprehensible.
+  # mpforce $n gtell *Gurgle* *Gurgle*
+  mpstopcommand
+~
+>command_prog csay~
+  mpecho You speech is incomprehensible.
+  # mpforce $n csay *Gurgle* *Gurgle*
+  mpstopcommand
+~
+>command_prog gossip~
+    mpecho Your speech is incomprehensible.
+  # mpforce $n gossip *Gurgle* *Gurgle*
+  mpstopcommand
+~
+>command_prog holler~
+  mpecho You take a deep breath and attempt to holler, but the excertion is painful!
+  mpdamage $n 50
+  mpstopcommand
+~
+>command_prog shout~
+  mpecho You take a deep breath and attempt to shout, but the excertion is painful!
+  mpdamage $n 50
+  mpstopcommand
+~
+>command_prog quaff~
+  mpecho You try to drink down the liquid, but the ripping in your stomach forces you to stop.
+  mpdamage $n 25
+  mpstopcommand
+~
+>command_prog drink~
+  mpecho You try to drink down the liquid, but the ripping in your stomach forces you to stop.
+  mpdamage $n 25
+  mpstopcommand
+~
+>command_prog auction~
+  mpecho You are in no condition to sell anything.
+  mpstopcommand
+~
+>command_prog bid~
+  mpecho You are in no condition to buy anything.
+  mpstopcommand
+~
+>command_prog yell~
+  mpecho You take a big breath to yell.. but it HURTS so bad!
+  mpdamage $n 25
+  mpstopcommand
+~
+>command_prog stand~
+  mpecho You attempt to stand up, but the huge pointy rock in your chest stops you.
+  mpdamage $n 50
+  mpstopcommand
+~
+|
+

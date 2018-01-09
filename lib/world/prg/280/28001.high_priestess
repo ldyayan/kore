@@ -1,0 +1,294 @@
+>greet_prog 100~
+  ### the first rule of this mobprog is that you do not copy this mobprog ###
+  ### the second rule of this mobprog is that YOU DO NOT COPY THIS MOBPROG ###
+  if isimmort($n)
+    if name($n) == zirnozz
+      grovel zirnozz
+      break
+    endif
+  else
+    if ispc($n)
+      if race($n) == drow
+        if ismemory($n)
+          growl $n
+          mpechoat $n $I outlines you in dancing pink faerie fire.
+          mpsilent mpcallmagic 'faerie fire' $n
+          mpkill $n
+        else
+          if rand(20)
+            peer $n
+            hide
+          endif
+        endif
+      else
+        if hitprcnt($i) < 98
+          speak You haven't fled yet? You fool!
+          emote shakes her head incredulously.
+          speak No matter, I would have come for you anyway!
+          if rand(60)
+            cast 'restore'
+            mpkill $n
+          else
+            cast 'web' $n
+            mpkill $n
+          endif
+        else
+          if isimmort($n)
+          else
+            if rand(50)
+              mpecho $I's eyes open widely and she huffs excitedly at the sight of your entrance.
+              speak How DARE you disturb me!!!
+              mpecho $I's eyes narrow in a menacing gaze upon you.
+              mpecho A grin surfaces on $I's face and she says calmly, 'You shall pay for this offense, I will see to it that your soul is tormented for the rest of eternity.'
+              mpecho $I laughs icily.
+              mpecho $I clutches the snake whip on her belt and it comes to life!
+              mpecho A cold shiver runs down your spine, what have you gotten yourself into this time?
+              mpkill $n
+            else
+              mpecho $I's eyes open widely and she huffs excitedly at the sight of your entrance.
+              speak How did YOU slink through my defenses?!!
+              mpecho $I looks utterly insane for a moment, and then she catches her senses.
+              speak So be it! I will enjoy stripping the soul from your wretched body, dog!
+              mpecho $I cackles madly and brandishes the whip from her belt!
+              mpkill $n
+            endif
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>entry_prog 100~
+  if isimmort($n)
+    if name($n) == zirnozz
+      grovel zirnozz
+      break
+    endif
+  else
+    if ispc($n)
+      if race($n) == drow
+        if ismemory($n)
+          if sex($n) == male
+            mpechoaround $n $I says something to $N.
+            tell $n You will make a good slave!
+            mpkill $n
+            mpforget $n
+          else
+            mpechoaround $n $I says something to $N.
+            tell $n You shall die for attacking me!
+            mpkill $n
+            mpforget $n
+          endif
+        else
+          if rand(20)
+            peer $n
+            hide
+          endif
+        endif
+      else
+        if isimmort($n)
+        else
+          if rand(70)
+            speak Trying to hide from me again?
+            cackle
+            cast 'web' $n
+            mpkill $n
+          else
+            mpecho What's that sound?!
+            mpforce $n shiver
+            hide
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>command_prog bash~
+  mpechoat $n The mere thought of bashing this woman makes you shiver. You refrain.
+  mpstopcommand
+~
+>rand_prog 2~
+  if rand(50)
+    mpasound Hissssssssssssss........
+    hide
+  else
+    mpasound A small spider skitters by.
+    hide
+  endif
+~
+>rand_prog 30~
+  if inroom($i) == 18379
+  else
+    mpecho $I looks around.
+    mpecho $I sneers and darts from the room quickly.
+    mptransfer $i 18379
+  endif
+~
+>fight_prog 6~
+  if inroom($r) == here
+    if isfight($r)
+      if race($r) == drow
+        speak Why do you fight me, $R? I might have allowed you to live!
+        mpremember $r
+      else
+        emote screeches, 'Kneel before me!!'
+      endif
+    endif
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    if isfight($r)
+      shout I WILL KILL YOU ALL, INFIDELS!!
+      emote hisses violently.
+      mpcallmagic 'curse' all
+      mpcallmagic 'faerie fire' all
+    endif
+  endif
+~
+>fight_prog 8~
+  if inroom($r) == here
+    if isfight($r)
+      mpecho $I produces a translucent orb from her robe and tosses it in the air..
+      mpecho instead of catching it, she covers her eyes and laughs as it explodes in front of her feet!
+      mpecho A brilliant flash ignites the room!
+      mpdrainmana all 15d18+30
+      mpcallmagic 'feeblemind' all
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I screams, 'COME, MY PETS!'
+    mpecho Hundreds of spiders rush out from cracks in the wall and cover you!!
+    mpdamage all 30d6+50
+    mpdrainmove all 30d6
+    mpcallmagic 'web' all
+    mpsilent mpcallmagic 'web' all
+    mpsilent mpcallmagic 'web' all
+    mpsilent mpcallmagic 'web' all
+    mpsilent mpcallmagic 'web' all
+    mpcallmagic 'slow' all
+  endif
+~
+>fight_prog 13~
+  if inroom($r) == here
+    if isfight($r)
+      cast 'petrify' $r
+      mpsilent mpcallmagic 'petrify' $r 
+    endif
+  endif
+~
+>fight_prog 14~
+  if inroom($r) == here
+    if isfight($r)
+      if isgood($r)
+        cast 'dispel good' $r
+        mpcallmagic 'dispel good' $r
+        mpcallmagic 'dispel good' $r
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      if class($r) == cleric
+        mpechoat $r You notice $I mouth some words while wagging a long finger in your direction.
+        mpechoat $r Suddenly everything is quiet... so serene, why are you even fighting this beautiful creature?
+        mpechoat $r She needs your help, people are attacking her!!
+        mpechoat $r You must help her, MUST hellllppp...
+        mpechoaround $r $I silently speaks a prayer while glaring at $R.
+        mpechoaround $r $R's face seems to soften while $J sorrowfully stares at $I.
+        mpsilent mpforce $r stand
+        if level($r) > 45
+          mpforce $r cast 'restore' $i
+        else
+          mpforce $r cast 'heal' $i
+        endif
+      endif
+    endif
+  endif
+~
+>fight_prog 18~
+  if inroom($r) == here
+    if isfight($r)
+      if rand(70)
+        mpechoat $r $I thrashes out with her whip and TWO snake heads bite you on the neck!!
+        mpechoat $r You instantly fall to the ground and vomit heavily.
+        mpechoaround $r $I lashes her whip of fangs out and two snake heads tear into $R's neck!
+        mpechoaround $r $R collapses to the floor and starts to vomit. EWWW.
+        mppose $r sit
+        mpdamage $r 10d20+70
+        mpcallmagic 'poison' $r
+      else
+        mpechoat $r You watch in horror as FOUR snakes from $I's whip bite into you!!
+        mpechoat $r You feel your limbs getting heavy as the poison flows through them.
+        mpechoaround $r $I screams in glee as four snake heads bite into $R!
+        mpechoaround $r $R stumbles around on the verge of consciousness.
+        mpdamage $r 20d20+90
+        mpcallmagic 'poison' $r
+        mpcallmagic 'poison' $r
+      endif
+    endif
+  endif
+~
+>fight_prog 18~
+  if inroom($r) == here
+    if class($r) == warrior
+      if isaffected($r, rage)
+      else
+        mpechoat $r A mounting feeling of pure hatred develops within you.
+        mpechoat $r The world turns black as you involuntarily rush in to attack $I!!
+        mpechoaround $r $R shouts wildly and runs in at $I, arms flailing!
+        mpsilent mpforce $r rage
+        mpsilent mpforce $r kill Vlondylene
+        switch $r
+        mpecho $I cries out with maniacal fervor!!
+        if race($r) == elf
+          switch $r
+          say Die, elven maggot!
+        else
+          if class($r) == druid
+            switch $r
+            say You were foolish to come here, druid!
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isfight($r)
+      if race($r) == drow
+        mpremember $r
+      endif
+    endif
+  endif
+~
+>kill_prog 100~
+  if rand(60)
+    emote sneers as $N gasps $s last breath of air and drops dead to the ground.
+    say A person that weak didn't deserve to live anyway!
+    emote spits on the twitching corpse of $N.
+  else
+    emote zestfully kicks the corpse of $N.
+    gossip Rejoice! $N has been slain!
+  endif
+~
+>death_prog 100~
+  mpecho $I looks in disbelief as her lifeblood pours out onto the ground.
+  mppose $i stand
+  say Please... take me, Zirnozz. I am ...sorry... *gurgle*
+  mpecho ^bSearing blue flames descend from the sky and swallow up $I.^n
+  mpdamage all 8d7+9
+  mpecho You hear an undulating laugh come from within the fire, and then the flames disappear abruptly.
+  mpsilent remove all
+  mpsilent junk whip
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

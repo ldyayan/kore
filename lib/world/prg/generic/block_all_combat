@@ -1,0 +1,43 @@
+>command_prog hit~
+  mpstopcommand
+~
+>command_prog kill~
+  mpstopcommand
+~
+>command_prog bash~
+  mpstopcommand
+~
+>command_prog backstab~
+  mpstopcommand
+~
+>command_prog cast~
+  mpstopcommand
+~
+>command_prog sing~
+  mpstopcommand
+~
+>command_prog use~
+  mpstopcommand
+~
+>command_prog berserk~
+  mpstopcommand
+~
+>command_prog bite~
+  mpstopcommand
+~
+>command_prog trip~
+  mpstopcommand
+~
+>command_prog steal~
+  mpstopcommand
+~
+>command_prog kick~
+  mpstopcommand
+~
+>command_prog gauge~
+  mpstopcommand
+~
+>command_prog breathe~
+  mpstopcommand
+~
+|

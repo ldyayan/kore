@@ -1,0 +1,22 @@
+>greet_prog 15~
+  if ispc($n)
+    if level($n) > 20
+      smile $n
+      say Welcome friend! You look as though you know a deal when you see one!
+    endif
+  endif
+~
+>rand_prog 2~
+  say Fresh breads! Fresh pastries! Get 'em while they're hot!
+~
+>rand_prog 2~
+  say Thou shant find a better pastry in the whole of the kingdom!
+~
+>rand_prog 2~
+  say Lowest prices around!
+~
+>rand_prog 2~
+  say Apple pastries! Cookies! Breads! All freshly baked and steaming hot!
+~  
+|
+

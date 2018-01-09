@@ -1,0 +1,49 @@
+#61
+Haon-Dor, Dark Forest~
+6199 30 2 32
+M 0  6115     1  6100            Shargugh
+E 1  6114     1     1                    left finger an iron ring
+M 0  6114     1  6134            the Queen spider
+G 1  6109    60    -1                    give a blue potion
+G 1  6113    50    -1                    give an iron sceptre
+M 0  6117     1  6134            Isha the Dark Elf
+E 1  6116    80     5                    body a black dragon scale shirt
+E 1  6117    75     7                    legs a black dragon scale skirt
+E 1  6118    70     3                    neck 1 a black, hooded cloak
+E 1  6119    65    13                    waist a broad ^Wsilver^n belt
+E 1  6120    60    16                    wield a long, slender sword
+M 0  6100     2  6116            the vicious warg
+M 0  6100     2  6116            the vicious warg
+M 0  6101     2  6127            the ferocious warg
+M 0  6101     2  6127            the ferocious warg
+M 0  6102     4  6108            the large, grey wolf
+M 0  6102     4  6108            the large, grey wolf
+M 0  6102     4  6104            the large, grey wolf
+M 0  6102     4  6104            the large, grey wolf
+M 0  6103     4  6112            the large, black wolf
+M 0  6103     4  6112            the large, black wolf
+M 0  6103     4  6118            the large, black wolf
+M 0  6103     4  6118            the large, black wolf
+M 0  6110     4  6120            the ancient tree
+M 0  6110     4  6123            the ancient tree
+M 0  6111     4  6109            the ancient tree
+M 0  6111     4  6105            the ancient tree
+M 0  6113     3  6133            the huge, poisonous spider
+M 0  6113     3  6133            the huge, poisonous spider
+M 0  6113     3  6133            the huge, poisonous spider
+M 0  6116     1  6155            the Elder druid
+E 1  6115     1    16                    wield the morning star
+G 1  3055     3    -1                    give a metal staff
+O 0  6102   101  6103            a colossal tree
+O 0  6103   101  6113            a long, grey branch
+O 0  6104   101  6125            a long, grey branch
+O 0  6105   101  6105            a long, grey branch
+O 0  6106   104  6104            a toadstool
+O 0  6106   104  6111            a toadstool
+O 0  6106   104  6122            a toadstool
+O 0  6107   104  6119            a toadstool
+D 1  6152     1     1            The Circle Of Trees door east
+D 1  6153     3     1            Inside The Great Tree door west
+S
+#99999
+$~

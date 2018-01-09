@@ -1,0 +1,26 @@
+>greet_prog 100~
+  if ispc($n)
+    mpecho $I looks up as you interrupt his torture.
+    mpecho $I slashes his victim, and draws power from her misery.
+    mpcallmagic 'inspire' $i
+    mpcallmagic 'strength' $i
+  endif
+~
+>rand_prog 6~
+  mpasound You hear screams of agony coming from all directions. 
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpechoat $r $I drives his filthy claws deep into your flesh.
+        mpechoat $r $I draws power from your pain!
+        mpechoaround $r $I rakes $R with his claws, leaving deep gashes.
+        mpechoaround $r $I draws power from the pain inflicted upon $R!
+        mpdamage $r 3d20
+        mpcallmagic 'heal' $i
+      endif
+    endif
+  endif
+~
+|

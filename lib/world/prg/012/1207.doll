@@ -1,0 +1,82 @@
+>social_prog listen~
+  if isscript($i)
+  else
+    if name($n) == zirnozz
+      mpechoaround $n $N looks at $I and motions for it to speak.
+      say Greetings, master.
+      mpstopcommand
+    else
+      if ismemory($n)
+        mpechoaround $n $N listens to what $I has to say.
+        say Are you still here? My master shall know of your insolence.
+        mpechoaround $n $I waves a hand and $N disappears!
+        mptransfer $n 1204
+        mpforce $n look
+        mpforget $n
+        mpstopcommand
+      else
+        mpechoaround $n $N listens to what $I has to say.
+        say You are not my master. Do not disturb me.
+        mpremember $n
+        mpstopcommand
+      endif
+    endif
+  endif
+~
+>social_prog chat~
+  if isscript($i)
+  else
+    mpecho $I moves slightly but doesn't seem to recognize your words.
+    mpstopcommand
+  endif
+~
+>social_prog chat orders~
+  if isscript($i)
+  else
+    if name($n) == zirnozz
+      mpechoaround $n $N speaks a few words to $I which sound like orders.
+      mptrigger $n routine
+      mpstopcommand
+    else
+      mpechoaround $n $N attempts to speak with $I.
+      growl
+      say Do not attempt to issue orders to me, fool. You might anger my master.
+      mpstopcommand
+    endif
+  endif
+~
+>script_prog routine~
+  emote jumps up and runs off.
+  mpgoto 1209
+  emote has arrived.
+  get board
+  south
+  down
+  get board
+  east
+  get board
+  east
+  get board
+  emote laughs madly.
+  emote vanishes with a poof of smoke.
+  mpgoto 1222
+  emote has arrived.
+  if ischarhere(Zirnozz)
+    say Master, I have arrived with your items.
+    drop all
+    emote falls lifeless to the ground.
+  else
+    emote looks confused for a moment.
+    emote slumps motionless to the ground.
+    mpjunk all.board
+  endif
+~
+>command_prog mpstat d~
+  mpforce $n mpstat artemis
+  mpstopcommand
+~
+>command_prog mpstat g~
+  mpforce $n mpstat vulmarta
+  mpstopcommand
+~
+|

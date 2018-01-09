@@ -1,0 +1,29 @@
+>death_prog 100~
+  mpecho A horrible cry rises up from the skeleton warrior's body as its^\bones decay. The remaining dust rises up and flows towards Thandgrind's^\castle, and you see a plume of smoke rising to the heavens.
+  mpgoto 18612
+  mpecho A candle disappears in a thick cloud of black smoke, choking you!
+  mpdamage all 4d4
+  mppurge candle
+  mpset candlesleft -1
+  mpgoto cleaner
+~
+>fight_prog 50~
+  if rand(50)
+    cast 'burning hands' $n
+  else
+    if rand(50)
+      cast 'fireball' $n
+    else
+      if rand(50)
+        cast 'power word stun' $n
+      else
+        if rand(50)
+          cast 'word of death' $n
+        else
+          cast 'area word of death' $n
+        endif
+      endif
+    endif
+  endif
+~
+|

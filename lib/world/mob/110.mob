@@ -1,0 +1,370 @@
+#11001
+zombie undead~
+the zombie~
+A wandering zombie, moaning and walking aimlessly.
+~
+     This poor citizen of Trokair is one of the many victims of the wicked
+necromatic experiments done by the queen.  Perhaps you should put it out of 
+its misery!
+
+~
+6668 1024 -500 S
+4 9 45 1d1+1 1d1+2
+0 20
+8 8 0
+#11002
+banshee~
+the banshee~
+The banshee wails in anger at your presence!
+~
+The banshee has a feminine form of an elf, though the beauty and
+grace of that race reside here no more.  Her ghastly appearance
+is both terrifying and sad to behold.  She wears the robes of a
+mage that bears the royal sigil of Trokair.  Perhaps once a
+powerful mage to the once great kingdom, now all that remains
+is the horrid being before you.
+~
+43114 107656 -500 S
+45 0 -30 1d1+1 1d1+30
+0 20
+8 8 2
+#11003
+bog wraith~
+the bog wraith~
+The bog wraith SMASHES your GUTS OUT with its monstrous bludgeon!!!
+~
+     This scared the piss out of you... didnt it... dont lie..  :)
+
+~
+178892 336896 -100 S
+17 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11004
+scavenging ghoul~
+the ghoul~
+You see a scavenging ghoul sifting through some refuse.
+~
+     This poor citizen of Trokair is one of the many victims of the wicked
+necromatic experiments done by the queen.  Perhaps you should put it out of
+its misery!
+
+~
+6668 1024 -500 S
+4 9 45 1d1+1 1d1+2
+0 20
+8 8 0
+#11005
+undead lord king~
+the Undead Lord~
+The Undead Lord is here, chewing contently on a human leg.
+~
+      You stare open jawed at the largest zombie you have ever seen.  With
+a wave of his decomposing hand the hordes of undead part, clearing a path
+between you and him.  It seems he wants to get a better look at what is
+going to be SUPPER!!
+
+~
+701054 1156232 -500 S
+43 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#11006
+dark knight~
+a dark knight~
+A knight made of shadow, glaring at you in hatred!!!
+~
+     A creature of pure shadow crafted by the evil queen, a dark knight
+attacks anyone who dares violate its charge--and that means YOU!
+~
+176234 1066 -500 S
+18 5 0 1d1+100 1d1+10
+0 20
+8 8 0
+#11007
+muckdweller muck lizard dweller~
+a muckdweller~
+A muckdweller is here, attempting to hide in the bog.
+~
+     You see what looks like a large walking lizard.  It has a back of mottled
+gray and a pale yellowish underbelly.  It also has a mouth full of sharp teeth
+that seem very excited at the prospect of biting you!
+
+~
+6136 787560 250 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11008
+shadow mastiff~
+the shadow mastiff~
+A shadow mastiff is here, hiding in the shadows.
+~
+     This hound-like creature is made completely of shadow.  It is hiding,
+blending perfectly in his environment.  He watches you expectantly, waiting
+for you to make the first move..... or maybe not.
+~
+176248 591016 -250 S
+30 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11009
+nightmare horse demon 11009~
+the nightmare~
+A pitch-black horse is here, stamping his flaming hooves at your presence.
+~
+     This large, powerful horse has a jet black coat, glowing red eyes, flaming
+orange nostrils, and hooves that are aflame.  He glares at you with hateful eyes
+and snorts disdainly
+
+~
+720458 5350540 -1000 S
+36 1 0 1d1+1 1d1+25
+0 20
+8 8 1
+#11010
+man chained prisoner~
+the chained man~
+A man is here, chained to the walls.
+~
+     The man hears your approaching steps and opens his eyes slowly,
+as if moving his eyelids was strenuous and painful.   He says not a
+word, for fear of drawing the 'doctors' attention.  He just stares
+at you with pleading eyes, begging for mercy.
+
+~
+172106 164864 1000 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#11011
+small girl prisoner~
+the tortured soul~
+A small girl is chained here, being deprived of sleep.
+~
+     You gaze upon the face of this child with sorrowful eyes.  The
+cruelty of this torture makes you cry out in vengance, but until you
+can exact punishment, you feel you should help ease her pain the only
+way you know how.
+
+~
+172106 164864 1000 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#11012
+statue healer mishakal~
+the statue of Mishakal~
+A delicate statue of a woman draped in flowing robes.
+~
+     A polished statue of singular grace and beauty.  Carved from pure
+marble, the statue stands about 5 feet tall.  Her hair cascades about
+her shoulders and neck, which is adorned by a detailed amulet.  The 
+look on her face is one of radiant hope tempered with sadness.
+
+~
+256074 1152168 1000 S
+55 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#11013
+doctor scientist caldern~
+Doctor Caldern~
+A doctor is sitting behind the desk, writing something on wax tablets.
+~
+   You quickly size up the man behind the desk and reach a conclusion.
+This man should not be trifled with.
+~
+714842 33960 -100 S
+45 1 0 1d1+1 1d1+35
+0 20
+6 6 1
+#11014
+demon monster death~
+the Death Demon~
+A HUGE demon stares at you intently, its eyes glowing like smoldering coals.
+~
+     The Death Demon is ten feet tall with a dull gray scaly skin,  Its
+gaunt body is hairless and covered in sinewy muscle.  Large ivory fangs
+protrude from its mouth and its fingers end in metallic talons.
+
+~
+712810 107688 -750 S
+47 1 0 1d1+1 1d1+30
+0 20
+8 8 0
+#11015
+guardian spirit ghost~
+the guardian spirit~
+A spirit is here, guarding its master with its existence.
+~
+   This spirit has been conjured from the depths of hell to serve one
+purpose.... protect its King at all costs.
+
+~
+178298 5252266 0 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11016
+thief assassin Artemis killer 11016~
+Artemis~
+An assassin is here, stalking your every move.
+~
+   You carefully look this man up and down and tremble with fear. His
+reputation has done little justice for the fear that he cast upon your
+heart. He moves so deftly and quietly, you begin to wonder if he moves
+at all. Artemis, the assassin of the queen of Trokair examines you quickly,
+dissecting your strengths and weaknesses in a blink of an eye. If he
+is part of the Queen's army and is training her troops, you realize that
+Kore has no chance.
+~
+698600 1942698 -500 S
+54 1 0 1d1+1 1d1+45
+0 20
+8 8 1
+#11017
+queen sorceress irinia~
+Irinia, the Sorceress Queen~
+A beautiful woman clad in elegant black robes sits here.
+~
+   Resting on the bones of her victims, Irinia the Sorceress Queen awaits
+your arrival. The feeling of extremely powerful magic is abound, and all
+of it seems to be centered around her. She waves a sceptre at you with
+contempt and begins casting a spell that will soon mean your demise.
+~
+2287743 1094816 0 S
+55 1 0 1d1+1 1d1+30
+0 20
+8 8 2 8
+#11018
+death knight undead lord grakos~
+Grakos the Deathknight~
+A horrendous undead knight stands here, plotting an attack on Kore.
+~
+   You lay your eyes on a deathknight, the only one you have truly seen, if
+that is what this really is. Its face is a blackened skull covered with
+shards of shriveled, rotting flesh. It has two tiny, glowing orange-red
+pinpoints for eyes, and its armour is scorched black as if it has spent some
+time in hell. It's deep, chilling voice seems to echo from the depths of
+a bottomless cavern as it utters a curse at you and attacks.
+~
+16951402 1156264 -1000 S
+57 1 0 1d1+1 1d1+50
+0 20
+8 8 0
+#11019
+ghost bartender~
+the bartender~
+A ghost is here, tending bar.
+~
+   The ghost moves rapidly behind the deserted bar serving customers that
+you cant see. It is apparent that it was once the bartender here, for it
+seems to be much at ease.
+~
+172122 1049738 0 S
+20 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11020
+death helper 11020 fiend~
+a medium sized death fiend~
+A death fiend is here, serving it's master by killing you!!
+~
+   The fiend that stands before you is obviously inferior and serves those
+more powerful. But those years of servitutde has done little to improve
+it's outlook on life and looks forward to his small stint on the prmime material
+plane to cas cause as much havoc as possible. Unfortunately, you are its 
+target.
+~
+2799438 74920 -250 S
+30 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11021
+skeleton warrior 11021~
+a skeleton warrior~
+A skeleton warrior is here, looking for new recruits...
+~
+   You stare wide eyed at the shambling mass of bones walking towards
+you.  Incredulous as it is that it can even move, it seems to be 
+holding a sword of some type and swinging it rather proficietnntly.
+~
+174206 1123496 -100 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11022
+large skeleton warrior 11022~
+a LARGE skeleton warrior~
+A LARGE skeleton warrior is here, proud that it actually did it...
+~
+  A larger version of itself, the skeleton warrior seems
+to have a huge grin and seems to be very proud of itself.
+~
+174698 1123496 -100 S
+34 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11023
+bone rat bonerat 11023~
+a bone rat~
+A bone rat is here, trying to hide anywhere.
+~
+   You gaze down at this puny creature and almost feel sorry
+for it...
+
+Almost.
+~
+74 0 100 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11024
+essence nether void 11024~
+the essence of the nether void~
+The essence of the Nether Void is here, observing you calmly.
+~
+   You look upon one of the strangest sentiant life forms no one has 
+really seen.  The pulsating ridges of gray along owith the nautral
+gray atmosphere make it nearly impossible to see.
+~
+2793562 590954 55 S
+55 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#11025
+scrounge_mob~
+notthere scrounge_mob~
+scrounge_mob is here.
+~
+It looks, err, unfinished.
+~
+8388618 1032 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#11036
+nothere reset_wall~
+notthere wall_reset~
+wall_reset is here.
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#11037
+trapdoor nothere blocker~
+trapdoor blocker~
+not_there trapdoor blocker
+~
+It looks, err, unfinished.
+~
+8912970 40 60 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

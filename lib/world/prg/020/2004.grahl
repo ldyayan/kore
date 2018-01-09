@@ -1,0 +1,97 @@
+>entry_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      mptrigger $n grahl-story
+    endif
+  endif
+~
+>script_prog grahl-story~
+  #
+@
+  say Foolish mortals!  Why have you come?!
+@
+  say I have guarded this realm for a thousand years..
+@
+  say Believe me when I say this...
+  say You shall not pass!!
+@
+  mpechoat $n $I folds his arms and snarls!
+  mpechoaround $n $I folds his arms and snarls at $N.
+@
+  say This is your last chance mortals.  Stay here and you shall die!
+@
+  #
+@
+  #
+@
+  if name($n) == karn
+    bow karn
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+>command_prog steal~
+  mpstopcommand
+~
+>command_prog wield~
+  if isscript($i)
+  else
+    say How dare you draw weapons before me!
+    say Now I destroy you!!
+    kill $n
+  endif
+~
+>rand_prog 20~
+    if isaffected($i, sanct)
+    else
+        cast 'sanctuary'
+    endif
+~
+>fight_prog 20~
+  emote gets a wild look in his eyes.
+  berserk
+~
+>fight_prog 40~
+  emote lifts off the grounds with his powerful wings summoning an icy breeze.
+  mpecho You are blasted by the chilling force of Grahl's wings.
+  mpcallmagic 'chill touch' $r
+  mpcallmagic 'chill touch' $r
+~
+>fight_prog 60~
+  disarm
+~
+>fight_prog 80~
+  emote calls upon his faith and prays for Tiamat's aid.
+  emote lays a hand upon his body and is covered in a warm glow.
+  mpcallmagic 'heal' $i
+  mpcallmagic 'heal' $i
+~
+>fight_prog 100~
+  emote attempts to curse $T with Tiamat's fury.
+  emote reaches forth a gnarled hand.
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+~
+>death_prog 100~
+  mppose $i stand
+  say Father! I have been defeated..  I have failed!
+  emote casts his eyes to the stars and resigns himself to death.
+  mpecho As the light of life leaves the eyes of Grahl, you notice a glimmering
+  mpecho patch of light falling from his hands and coming to rest before you.
+  mpoload 2006
+  drop orb
+  if rand(20)
+    mpoload 2008
+  endif
+  mppose $i dead
+~
+|

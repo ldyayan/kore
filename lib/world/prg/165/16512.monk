@@ -1,0 +1,12 @@
+>rand_prog 6~
+  mpecho $I looks up and grins.
+~
+>entry_prog 20~
+  grin
+  say Die in the name of my lord Raczon.
+  mkill $r
+~
+>greet_prog 20~
+  mpecho $I mutters Death to mortals, death to all......
+~
+|

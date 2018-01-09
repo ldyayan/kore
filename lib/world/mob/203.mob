@@ -1,0 +1,363 @@
+#20300
+spider big guard~
+a big spider guard~
+A really big spider guard is here guarding the passage.
+~
+This spider was obviously selected for guard duty because of its size. Its
+pretty large (even in giant spider terms) You dont want to meet this spider
+in a dark corner.. Oh.. whoops..
+~
+42 32768 -400 S
+15 7 -2 0d0+420 2d2+7
+700 30000
+8 8 1 8
+#20301
+guardian mob park kore~
+guardian mob mortals can't see~
+guardian mob mortals cant see
+~
+Warrior
+~
+8388618 0 60 S
+59 20 10 0d0+0 30d50+50
+560000 0
+8 8 1 13
+#20302
+hermit mapmaker~
+an old hermit~
+An old hermit sits here writing on some maps and ignores you.
+~
+He looks real old, for a human. He's probably near 80 years old, and has grey
+hair and a grey beard on his face. He totally ignores you and keeps writing
+on his maps.
+~
+1048586 512 0 S
+25 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#20304
+Nuts crazed crazy man~
+Crazy looking man~
+A crazy looking man walks around trying to sell stuff to... who i wonder?
+~
+This guy must be crazy to think he can sell stuff to .. whoever..all the way up here..
+He Squawks every 30 seconds or so.. Strange....
+~
+5242952 2128475902 1000 S
+59 20 10 1d1+0 30d50+50
+0 999999999
+8 8 1 6
+#20306
+rabbit big huge large~
+the largish rabbit~
+A largish rabbit is here eatting grasses.
+~
+This rabbit is very large.. about 4 feet tall if it stood on its hind legs.
+Its coat is very white.. its very bright white.
+It ignores you totally.
+~
+1048588 0 0 S
+13 20 10 1d1+0 1d1+0
+500 14000
+8 8 1 4
+#20307
+small witch~
+a small witch~
+A small witch is here learning how to brew a new potion.
+~
+You can tell its a 'young' witch.. she is still learning how to make new potions.. she cant be a day over 50.
+She doesnt like strangers.
+~
+42 0 -450 S
+15 7 10 1d1+0 1d1+0
+0 0
+8 8 2
+#20308
+larger large witch~
+a larger witch~
+A larger older looking witch is here brewing potions and doesnt see you come in
+~
+She is middle aged (in witch terms of age) and you can tell she knows a lot
+including how to fight, but not very well... mostly how to brew potions.
+She is so involved in brewing potions she doesnt see you come in.
+~
+14 0 -500 S
+18 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#20309
+Huge roc bird~
+a huge roc~
+A huge bird sits in the nest here.
+~
+A huge bird sits here on its eggs waiting for them to hatch. Its very protective, it sees you and attacks!!
+~
+42 0 0 S
+19 20 -1 1d1+0 1d1+0
+900 40000
+8 8 0 8
+#20310
+witchmaster witch master~
+a witchmaster~
+A very old and haggard witch sits here supervising the other witches.
+~
+She is OLD (Even in witch terms!). And very ugly with warts all over her face
+and a rough look to her skin.
+She is yelling at the other witches when they make a little mistake.
+Then she suddenly notices you and yells to the other witches to attack.
+She doesnt want to deal with you herself.
+~
+142 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#20311
+small faerie fearie farie~
+a small faerie~
+A small faerie is floating about here.
+~
+This faerie is very small (compared to you), large is faerie standards.
+It may not be good in hand to hand combat, but you have heard tales of
+faeries killing wolves with a mere thought.
+~
+14 0 500 S
+14 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#20312
+baby roc bird~
+a baby roc~
+A large bird is here... you think it might be a baby roc.
+~
+It would be considered a large bird, but its a baby roc.. you can tell because its feathers shimmer in the dim light.
+~
+140 132160 -600 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1 4
+#20313
+spider small roaming~
+a small spider~
+A small roaming spider is roaming around here.
+~
+This spider is small (compared the the guards) and totally ignores you.
+He seems to be looking for something... and cant find it.
+~
+140 132136 -500 S
+9 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#20314
+bigger big spider guard even~
+a very big spider~
+A spider even bigger then the spider guards is here guarding the gate.
+~
+You cant believe how big this spider is! He's the size of a small human child
+except his legs make him look much bigger.. He doesnt have any fangs.. that you can see.. Thank heavens!
+He notices you looking at you and says, 'Hey! What are you doing in here?!' then prompty attacks you.
+~
+46 4326440 0 S
+17 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#20315
+faerie guard~
+a faerie guard~
+A faerie guard is here guarding the gate.
+~
+This faerie is beautiful, and very small.. she hovers around the gate with
+all the other guards..
+~
+142 132136 750 S
+12 20 10 1d1+0 1d1+0
+0 0
+8 8 0 1
+#20316
+large faerie~
+a large faerie~
+A large faerie flits about outside the gate talking to the guards.
+~
+This faerie wants to know about the outside world, and the guards know the
+most about that because they guard the gate and shoo off outsiders.. and sometimes they talk to them.
+~
+14 132106 0 S
+14 20 10 1d1+0 1d1+0
+0 0
+8 8 1 13
+#20317
+bard musician music~
+a bard~
+A bard is here playing beautiful music for all to enjoy.
+~
+This bard is human (what a surprise) and pretty large, and has a beautiful
+voice and is strumming on a lute a happy little tune.
+He sees you and smiles at you and invites you to sit down and listen.
+~
+12 0 1000 S
+17 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#20318
+human warrior~
+a human warrior~
+A human warrior is here resting listening to the bards... he's dozing off.
+~
+This warrior is very rough looking, has a big dirty beard on his face.
+He is almost asleep because the music is so beautiful and he's tired.
+He sees you and waves his hand sleepily..
+~
+14 72 600 S
+19 20 10 1d1+0 1d1+0
+0 0
+4 4 1
+#20319
+dwarf~
+a wandering dwarf~
+A wandering dwarf relaxes here listening to the music
+~
+He is a stout dwarf (are there any that arent?) and he looks old, very old
+even for dwarves you think.
+He is thinking and ignores most everything except the music.
+~
+12 40 0 S
+16 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#20320
+master bard~
+a master bard~
+A master bard is here playing music for the play.
+~
+This bard is a human, who might be old, but doesnt look it.
+He is playing music for the play.. he is very good at it.
+~
+142 56 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#20321
+actor~
+an actor~
+An actor is here playing a part.
+~
+This actos isnt a very good actor, he keeps tripping over himself and stepping on other peoples toes in plays.
+You cant help it. You chortle to yourself.
+~
+142 131072 0 S
+14 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#20322
+actress beautiful~
+a beautiful actress~
+A beautiful actress is here playing here role with grace and finess.
+~
+She is a very lovely actress, who knows how to act very well.
+She has long flowing blonde hair, and blue eyes.
+She sees you staring at her and smiles quickly so no one else sees and it
+doesnt interrupt the play.
+~
+142 131072 0 S
+16 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#20323
+lonely bard~
+a lonely bard~
+A lonely bard is here mumbling to himself.
+~
+He is very lonely, he sits around and 'sings' to himself all day... he cant
+sing very well, so all people hear is mumbling..
+Poor guy
+~
+142 0 0 S
+14 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#20330
+A faerie stands here.~
+a faerie~
+A faerie flits about here.
+~
+It is a very large faerie. It's trying to get you to buy its wares. Take a look at them. Come on you know you want to.
+~
+262152 591018 0 S
+59 20 10 1d1+0 1d1+0
+4000000 0
+8 8 2
+#20389
+test mob~
+Adjutorus~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+262152 0 0 S
+0 20 10 1d1+0 30d100+0
+6002929 50000
+8 8 1 1
+#20395
+female larger squirrel~
+a larger squirrel with lighter fur~
+A larger squirrel with lighter fur is here, being chased.
+~
+This squirrel is large, and has light fur, she is being chased by the other larger squirrels, with darker fur.
+She is sly though, and faster, so he is having a hard time catching her.
+She is so involved in running away she doesnt see you.
+~
+8 0 0 S
+11 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#20396
+female squirrel~
+a squirrel with lighter fur~
+A squirrel with lighter fur is being chased by another squirrel.
+~
+This squirrel is running away from another squirrel which has dark fur, she is
+sneaky though, and keeps turning a different direction just when he gets almost close enough to get her.
+~
+8 131072 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#20397
+larger squirrel~
+a larger squirrel~
+A larger squirrel is here chasing another larger squirrel.
+~
+This larger squirrel would almost make a meal by itself. It is chasing another
+large squirrel, but the other squirrel keeps out of his grip just barely, they
+are having a lot of fun it look like, they dont notice you at all.
+~
+8 131072 0 S
+12 20 10 1d1+0 1d1+0
+0 0
+8 8 1 4
+#20398
+squirrel~
+a squirrel~
+A squirrel is here chasing another squirrel.
+~
+This small little squirrel looks like its having a hard time catching the squirrel he's chasing.
+Just when he gets close to the other squirrel, it darts a different direction in  the tree.
+~
+8 131072 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1 4
+#20399
+guard park kore~
+a guard of kore~
+A guard of kore assigned to the park is wandering here.
+~
+This guard is medium sized, as are most of the guards of kore.
+He is wandering around waiting for someone to break the law.
+Better not be you!
+~
+8 0 150 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#99999
+$~

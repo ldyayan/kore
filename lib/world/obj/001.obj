@@ -1,0 +1,531 @@
+#101
+shiny dagger newbie~
+a shiny dagger~
+A shiny newbie dagger has been left here.~
+~
+5 65544 8193
+2 3 4 11
+4 1 1
+E
+dagger~
+A shiny little dagger with a sharp point.
+~
+A
+5 1
+A
+18 1
+#102
+robe ugly baggy newbie~
+an ugly baggy robe~
+An ugly, baggy robe sits here in the dust.~
+~
+9 0 9
+5 0 0 0
+6 1 1
+E
+robe~
+It's a black piece of cloth that can be worn about the body for some armor.
+~
+#103
+dunce cap newbie~
+a dunce cap~
+A cone-shaped cap has been left here.~
+~
+9 0 17
+5 0 0 0
+8 1 1
+E
+cap~
+The cap is pointy and made of cloth.  Should be worn on head.
+~
+#104
+cloth pouch newbie~
+a cloth pouch~
+A cloth pouch has been left here.~
+~
+15 0 1
+40 1 0 0
+9 1 1
+E
+pouch~
+It looks like the innards of some pig.  You can probably put things in it.
+~
+#105
+bottle water newbie~
+a water bottle~
+A water bottle has been left here.~
+~
+17 0 1
+30 30 0 0
+10 1 1
+E
+bottle~
+A small bottle that is to be filled with milk is here.
+~
+#106
+stone glow glowing newbie~
+a glowing stone~
+A small glowing stone has been left here.~
+~
+9 65536 16385
+0 0 0 0
+1 1 1
+E
+stone glowing~
+The glowing stone looks like you can HOLD IT.
+~
+A
+12 5
+#107
+holy mace newbie~
+a holy mace~
+A bright mace has been left here.~
+~
+5 0 8193
+2 4 3 5
+7 1 1
+E
+mace holy~
+Thy holy maace radiates with the divine power of youth.
+~
+A
+18 1
+A
+5 1
+#108
+golden cross newbie~
+a golden cross~
+A golden cross has been left here.~
+~
+11 184321 16385
+0 0 0 0
+6 1 1
+E
+golden cross~
+The golden cross looks like you can HOLD IT.
+~
+A
+12 5
+#109
+newbie water bottle~
+a water bottle~
+A water bottle has been left here.~
+~
+17 0 1
+30 30 0 0
+10 1 1
+E
+chalice~
+A small iron chalice to contain water.  It's rather plain looking.
+~
+#110
+wax candle newbie~
+a wax candle~
+A wax candle has been left here.~
+~
+1 0 16385
+0 0 100 0
+5 1 1
+E
+candle~
+A small light source.  It doesn't look like it will last long.
+~
+#111
+white cotton robe~
+a white cotton robe~
+A white cotton robe has been left here.~
+~
+9 0 9
+5 0 0 0
+6 1 1
+E
+holy robe~
+A holy robe, given to clerics of the lowest order.
+~
+#112
+newbie black rye bread loaf~
+a loaf of black rye bread~
+A loaf of black bread has been left here.~
+~
+19 0 1
+10 0 0 0
+1 5 1
+E
+holy wafer~
+Mmmm.... Yummie, Eat it, eat it.
+~
+#113
+leather gloves newbie~
+a pair of leather gloves~
+A pair of leather gloves have been discarded here.~
+~
+9 0 129
+1 0 0 0
+1 10 2
+#114
+black stiletto newbie~
+a black stiletto~
+A black stiletto has been left here.~
+~
+5 8433664 40961
+0 1 3 11
+3 40 4
+#115
+leather cap newbie~
+a leather cap~
+A leather cap has been left here.~
+~
+9 0 17
+1 0 0 0
+0 5 1
+#116
+leather jerkin newbie~
+a leather jerkin~
+A leather jerkin has been left here.~
+~
+9 0 9
+3 0 0 0
+10 1 10
+#117
+cloak plaid newbie~
+a plaid cloak~
+A plaid cloak is here on the ground.~
+~
+9 0 5
+1 0 0 0
+2 1 20
+#118
+four leafed clover newbie~
+a four-leafed clover~
+A four-leafed clover has been left here.~
+It looks like you can hold it.
+~
+13 65536 16385
+0 0 0 0
+0 10 1
+E
+leaf clover four leafed~
+It looks like you can HOLD the clover in your hands.
+~
+A
+18 1
+#119
+short bow shortbow newbie~
+a shortbow~
+A shortbow has been left here by its owner.~
+~
+6 12288 32769
+0 1 6 11
+10 20000 10000
+#120
+shield wooden newbie~
+a wooden shield~
+A small wooden shield is laying on the ground.~
+~
+9 0 513
+2 0 0 0
+3 10 10
+#121
+sword long newbie~
+a long sword~
+A long sword has been left here.~
+~
+5 0 8193
+2 4 3 3
+8 100 10
+A
+5 1
+A
+18 1
+#122
+leather girth newbie~
+a leather girth~
+A leather girth has been left here.~
+~
+9 0 2049
+1 0 0 0
+1 10 1
+#123
+kazoo newbie~
+a kazoo~
+A kazoo has been left here.~
+~
+24 0 8193
+0 1 6 7
+1 1 1
+#124
+green felt hat newbie~
+a green felt hat~
+A green hat has been left here.~
+~
+9 0 17
+1 0 0 0
+1 10 1
+#125
+harlequin tights newbie~
+a pair of harlequin tights~
+A pair of harlequin tights have been left here.~
+~
+9 0 33
+1 0 0 0
+0 20 2
+#126
+small waterskin water skin newbie~
+a small waterskin~
+A small waterskin has been left here.~
+~
+17 0 1
+30 30 0 0
+10 10 5
+#127
+sling leather newbie~
+a leather sling~
+A leather sling has been left here.~
+~
+6 4096 32769
+0 1 2 12
+1 5000 500
+#128
+mighty elven bow~
+a mighty elven bow~
+A mighty elven bow of glowing mellyrn wood glows here.~
+~
+6 12289 32769
+0 2 6 12
+18 100000 100000
+#129
+darts set newbie~
+a set of darts~
+A set of throwing darts has been thrown into the ground.~
+~
+6 8192 32769
+0 1 4 12
+3 5000 500
+#130
+marvellous tambourine~
+a marvellous tambourine~
+A marvellous tambourine has been left here.~
+~
+24 0 8193
+0 1 6 7
+1 1 1
+A
+12 25
+A
+9 10
+#131
+cheese hunk newbie~
+a hunk of cheese~
+A hunk of cheese has been left here.~
+~
+19 0 1
+5 0 0 0
+1 5 10
+#132
+dried blueberries blue berries newbie pile~
+a pile of dried blueberries~
+A small pile of dried blueberries has been left here.~
+~
+19 0 1
+5 0 0 0
+1 1 10
+#133
+thin leather jacket newbie~
+a thin leather jacket~
+A thin leather jacket is lying on the ground.~
+~
+9 0 9
+2 0 0 0
+20 250 5
+#134
+green apple newbie~
+a green apple~
+A green apple has been left here.~
+~
+19 0 1
+4 0 0 0
+1 5 5
+#135
+iron rations newbie packet~
+a packet of iron rations~
+A small packet of iron rations has been left here.~
+~
+19 0 1
+25 0 0 0
+3 25 50
+#136
+water jug newbie~
+a water jug~
+A water jug has been left here.~
+~
+17 0 1
+40 40 0 0
+20 45 15
+E
+jug~
+It's a pretty big jug.  Looks like it can hold a lot of brown water.
+~
+#137
+green meat~
+a piece of green meat~
+A piece of green meat that looks really bad is here lying on the ground.~
+~
+19 65536 1
+3 0 0 1
+1 0 0
+#138
+jar yellow mayonnaise~
+a jar of yellow mayonnaise~
+A jar of yellow mayonnaise that smells pretty old is here, discarded.~
+~
+19 65536 1
+3 0 0 1
+1 0 0
+#139
+meaty bone rubbish~
+a meaty bone~
+A meaty bone that someone threw away for the dogs is here, but just rubbish.~
+~
+19 65536 1
+1 0 0 0
+1 0 0
+#140
+ball light~
+a glowing ball of light~
+A ball of light hovers here in midair.~
+~
+1 65621 16385
+0 0 0 0
+1 1 1 25
+E
+ball light~
+A ball of magical light, summoned up by some caster.
+~
+#141
+empty bottle beer dregs~
+the dregs of someone's beer~
+An almost empty bottle of beer, with only dregs at the bottom is here.~
+~
+17 65536 1
+8 1 1 0
+1 0 0
+#142
+coin gold~
+a gold coin~
+One miserable gold coin is lying here.~
+~
+20 0 1
+0 0 0 0
+0 1 0
+#143
+cheese stinky~
+a lump of stinky cheese~
+A lump of stinky cheese lies here.~
+~
+19 0 1
+5 0 0 0
+1 5 10
+#144
+half apple core~
+a half an apple~
+A half an apple is here that someone threw away.~
+~
+19 0 1
+2 0 0 0
+1 5 10
+#145
+soft tomato~
+a soft tomato~
+A soft tomato has been left to rot where someone threw it away.~
+~
+19 0 1
+3 0 0 0
+1 5 10
+#146
+bread slice moldy~
+a slice of moldy bread~
+A slice of moldy bread has been dropped here on the ground.~
+~
+19 0 1
+3 0 0 0
+1 5 10
+#147
+sandwich half eaten~
+a half-eaten sandwich~
+A half-eaten sandwich has been left here by someone who wasnt so hungry.~
+~
+19 0 1
+4 0 0 0
+1 5 10
+#148
+tart cherry~
+a cherry tart~
+A tasty cherry tart has been left here by someone in a hurry.~
+~
+19 0 1
+2 0 0 0
+1 10 20
+#149
+pie apple hot~
+a slice of hot apple pie~
+A slice of hot apple pie has been left here by someone in a hurry.~
+~
+19 0 1
+3 0 0 0
+1 10 20
+#150
+spring water~
+a magical spring~
+A magical spring flows from the ground.~
+~
+23 0 0
+10000 10000 0 0
+999 0 0 10
+#151
+spring blood~
+a blood spring~
+A spring of blood trickles sickeningly from the earth.~
+~
+23 0 0
+10000 10000 13 0
+999 0 0 2
+#152
+hammer~
+a spiritual hammer~
+A glowing hammer of light hovers before you.~
+~
+5 3137 8193
+3 5 5 7
+1 0 0 100
+A
+19 3
+#153
+quest skin flute skinflute~
+a skin flute~
+A skin flute is here, ready to be played.~
+Wow!  This must be Zamfir's magical skin flute!
+You found it!
+~
+24 64 24577
+0 0 0 0
+1 100000 20000
+A
+9 1
+A
+12 20
+A
+14 40
+#154
+short sword newbie~
+a short sword~
+A short sword has been left here.~
+~
+5 0 8193
+2 3 2 11
+5 1 1
+A
+5 1
+A
+18 1
+#99999
+$~

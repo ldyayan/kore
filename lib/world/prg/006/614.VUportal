@@ -1,0 +1,63 @@
+>speech_prog olympus~
+  mpechoat $n A small vortex opens up in mid-air and you step through.
+  mpechoaround $n A small trans-dimensional vortex opens, and $N steps into it.
+  mptransfer $n 404
+  mpat $n mpechoat $n Your vision blurs and your stomach rebels.. you are in someplace different!
+  mpat $n mpechoaround $n $N steps out of a retreating trans-dimensional vortex.
+  mpat $n mpforce $n look
+~
+>speech_prog new thalos~
+  mpechoat $n A small vortex opens up in mid-air and you step through.
+  mpechoaround $n A small trans-dimensional vortex opens, and $N steps into it.
+  mptransfer $n 5406
+  mpat $n mpechoat $n Your vision blurs and your stomach rebels.. you are in someplace different!
+  mpat $n mpechoaround $n $N steps out of a retreating trans-dimensional vortex.
+  mpat $n mpforce $n look
+~
+>speech_prog shrok~
+  mpechoat $n A small vortex opens up in mid-air and you step through.
+  mpechoaround $n A small trans-dimensional vortex opens, and $N steps into it.
+  mptransfer $n 9532
+  mpat $n mpechoat $n Your vision blurs and your stomach rebels.. you are in someplace different!
+  mpat $n mpechoaround $n $N steps out of a retreating trans-dimensional vortex.
+  mpat $n mpforce $n look
+~
+>speech_prog temple~
+  mpechoat $n A small vortex opens up in mid-air and you step through.
+  mpechoaround $n A small trans-dimensional vortex opens, and $N steps into it.
+  mptransfer $n 3001
+  mpat $n mpechoat $n Your vision blurs and your stomach rebels.. you are in someplace different!
+  mpat $n mpechoaround $n $N steps out of a retreating trans-dimensional vortex.
+  mpat $n mpforce $n look
+~
+>speech_prog eli~
+  mpechoat $n A small vortex opens up in mid-air and you step through.
+  mpechoaround $n A small trans-dimensional vortex opens, and $N steps into it.
+  mptransfer $n 25510
+  mpat $n mpechoat $n Your vision blurs and your stomach rebels.. you are in someplace different!
+  mpat $n mpechoaround $n $N steps out of a retreating trans-dimensional vortex.
+  mpat $n mpforce $n look
+~
+>speech_prog derlin~
+  mpechoat $n A small vortex opens up in mid-air and you step through.
+  mpechoaround $n A small trans-dimensional vortex opens, and $N steps into it.
+  mptransfer $n 12311
+  mpat $n mpechoat $n Your vision blurs and your stomach rebels.. you are in someplace different!
+  mpat $n mpechoaround $n $N steps out of a retreating trans-dimensional vortex.
+  mpat $n mpforce $n look
+~
+>speech_prog aesir~
+  mpechoat $n A small vortex opens up in mid-air and you step through.
+  mpechoaround $n A small trans-dimensional vortex opens, and $N steps into it.
+  mptransfer $n 26603
+  mpat $n mpechoat $n Your vision blurs and your stomach rebels.. you are in someplace different!
+  mpat $n mpforce $n look
+~
+>speech_prog list~
+  if race($n) == drow
+    mpecho The room suddenly comes to life with sound!^\You hear the words "Aesir, Derlin, Eli, Olympus, Shrok, Temple, and New Thalos,"^\each right after the last, and each resounding in quality.
+  else
+    say you are not drow, dog!
+  endif
+~
+|

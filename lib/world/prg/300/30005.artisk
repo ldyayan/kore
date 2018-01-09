@@ -1,0 +1,29 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    mpecho $I falls backwards over himself upon seeing Zirnozz enter the room!
+    cower Zirnozz
+    break
+  else
+    if ispc($n)
+      say For 27 years I've been trapped in this cell..
+      say ..and AT LAST, the gods be praised, a visitor arrives!
+      say Now, one of us is leaving here, and I'm not for thinking it will be you!
+        if rand(60)
+          cast 'word of death' $n
+        else
+          cast 'area word of death' $n
+        endif
+      mpsilent close door
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    say It's a bit chilly in here, don't you think?
+    mpecho $I rubs his hands together and grins.
+    cast 'fire storm' $r
+    mpsilent cast 'fire storm' $r
+  endif
+~
+|
+

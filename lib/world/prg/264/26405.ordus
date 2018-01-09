@@ -1,0 +1,35 @@
+>rand_prog 10~
+  fol monument
+~
+>greet_prog 100~
+  cackle
+  mpsilent rem stalactite
+  mpsilent junk stalactite
+  mpsilent mpoload 26413
+  mpsilent wield stalactite
+~
+>fight_prog 13~
+  if hitprcnt($r) < 20
+    switch $r
+    block
+    block
+    switch
+  else
+    if class($r) == warrior
+      switch $r
+      block
+      riposte
+      speak You have not mastered the warrior arts!!
+    endif
+  endif
+~
+>fight_prog 18~
+  bash
+~
+>death_prog 100~
+  mpsilent rem stalactite
+  mpsilent junk stalactite
+  say ORSUS SHALL HAVE VENGEANCE ON MY DEATH!
+  cackle
+~
+|

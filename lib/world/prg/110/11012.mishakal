@@ -1,0 +1,22 @@
+>rand_prog 5~
+  mpecho The ivory statue's eyes open suddenly, looking for the wounded.
+    if hitprcnt($r) < 100
+     if inroom($r) == here
+      say Your help in freeing these lands is appreciated.
+      say Let me give you a sign of that thanks.
+      mpecho $I glows with intense purity!
+      mpcallmagic 'cure critical' $r
+      mpcallmagic 'aid' $r
+      mpechoaround $r $R looks purified!
+      smile
+     endif
+    endif
+~
+>greet_prog 50~
+  say Welcome to my hidden sanctum!
+  say My name is Mishakal, and I was once the high priestess here in Trokair.
+  say Before the fall of the city, I put my lifeforce inside this statue to help stalwart adventurers on their way to glory.
+  say So please make yourself comfortable and relax.
+~
+|
+

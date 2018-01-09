@@ -1,0 +1,8 @@
+>fight_prog 12~
+  mpechoat $r $I steals your thoughts!!
+  mpechoaround $r $I steals $R's thoughts!!
+  mpcallmagic 'feeblemind' $r
+  mpdamage $r 35
+  mpdrainmana $r 6d6
+~
+|

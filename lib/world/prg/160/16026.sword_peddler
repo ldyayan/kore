@@ -1,0 +1,7 @@
+>rand_prog 2~
+  mpecho $I pulls a sword from his bag and fights his shadow.
+~
+>rand_prog 2~
+ say Excuse me sir, would you be interested in a new sword?
+~
+|

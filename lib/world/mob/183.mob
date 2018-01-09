@@ -1,0 +1,502 @@
+#18300
+halfling guard~
+a halfling guard~
+A halfling sits here, reading a small book by the candle light.
+~
+   An average sized halfling sits atop a crate here, two candles rest at 
+either side of him.  He holds a small book which he is apparently reading.
+His other hand rests on his chin.  A glint of metal shows beneath his
+leather shirt...could it be a key?
+~
+43530 327680 -200 S
+30 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18301
+strom orc large~
+Strom~
+Strom, the owner of the Lofty Crow, eyes you warily as you enter his room.
+~
+   Strom...that is all they call him...This large orc is famous throughout
+the land. He is a 'businessman', some say one of the most powerful of his
+type too. His ties to all kinds of people make him very strong. He can pull
+strings in the thieves guild, the town council, the guards of Kore and the
+HighwayMen, all the way up to the Tyrant himself. Many stories speak of his
+brutal acension through the underworld, while everything he does now may
+appear legal, you can tell he knows his way around a battle.  Apparently he
+is now in the business of hiding and helping a cult of Virmene, which is
+not a good thing...or a sane thing.  Strom must be getting more than just
+money for what he is doing for the Cult.
+~
+765464 1417388 -900 S
+50 1 0 1d1+1 1d1+50
+0 20
+8 8 1
+#18302
+elemental earth bound slave~
+a bound earth elemental~
+An Earth Elemental is here, methodically digging a new extension to the hall.
+~
+   A large, roughly humanoid figure is here. Its body is made up wholly of
+earth. Large stones jut from underneath its torso, it doesn't seem to have
+any eyes, ears, or any features for that matter.  Large chunks of granite
+line the end of its 'arms'. Apparently the purpose of this elemental is to
+dig, and it does it pretty well as far as you can tell from these halls.
+~
+65546 65536 0 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18303
+creature furry strange assembler~
+an assembler~
+A strange furry creature walks around, making a strange clicking noise.
+~
+   These little creatures don't seem to notice anything around them.  They
+wander back and forth, carrying objects and various oddities.  They make
+a strange clicking noise, but it doesnt seem to be a form of communication.
+They are about twenty inches tall, covered in brown fur, with long nimble arms
+and squat legs.  Insectoid eyes dominate their head.
+~
+12300 4096 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18304
+creature furry strange assembler~
+an assembler~
+An Assembler is here, carrying large pieces of bone.
+~
+   These little creatures don't seem to notice anything around them.  They
+wander back and forth, carrying objects and various oddities.  They make
+a strange clicking noise, but it doesnt seem to be a form of communication.
+They are about twenty inches tall, covered in brown fur, with long nimble arms
+and squat legs.  Insectoid eyes dominate their head.
+~
+12300 4096 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18305
+creature furry strange assembler~
+an assembler~
+An odd furry creature stands here, its fur is matted with a deep red fluid.
+~
+   These little creatures don't seem to notice anything around them.  They
+wander back and forth, carrying objects and various oddities.  They make
+a strange clicking noise, but it doesnt seem to be a form of communication.
+They are about twenty inches tall, covered in brown fur, with long nimble arms
+and squat legs.  Insectoid eyes dominate their head.
+~
+12300 4096 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18306
+bone horror~
+the Bone Horror~
+The Bone Horror raises its bladed appendages and roars in anger!
+~
+   This Horror is quite large, topping out at about nine feet tall.  It is
+made out of human bones.  Four long, bladed appendages swing from its torso,
+and four thick legs hold it four feet of the ground.  A large hole,
+presumably its mouth, opens up revealing long jagged teeth made of sharpened
+finger bones.  It lets out a loud scream as it spins its arms at you in
+a rage of fury.
+~
+259610 4268168 -600 S
+33 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18307
+spirit guardian~
+the guardian spirit~
+A horrifying spirit is here, its lithe form leaping for your neck.
+~
+   A small lithe spirit stands in front of you. It stands about five feet
+tall, and is very skinny. It appears to be totally wrapped in thorn covered
+reeds. It has very long arms, each arm ending in foot long thorn covered
+fingers. A pair of red eyes peer out at you, as the spirit suddenly whips its
+long arms towards your neck.
+~
+73000 73858 -400 S
+31 1 0 30d1+1 1d1+50
+0 20
+8 8 0 1
+#18308
+spirit shifting~
+a shifting spirit~
+A little spirit is here, blending in perfectly with the mahogany walls.
+~
+   These little critters stand only about a foot tall. They don't really seem
+to have a constant form. Its shape and color both are in constant flux. It is
+hard to get a good look at it, it seems to become one with the mahogany wall.
+Every once in a while you catch a glimpse of a toothy maw and little wicked
+claws.
+~
+6664 795008 -350 S
+17 1 0 1d1+1 1d1+25
+0 20
+8 8 0
+#18309
+machine torment strange~
+Torment~
+A strange machine made of wood, metal and flesh is here torturing its victims.
+~
+   This is a strange and disgusting sight indeed. A large contraption is
+roughly shaped like a box, its back is made of thick planks of wood, bound by
+sharp metal wire. Two large wooden wheels hold up the back of the beast, two
+skinless human legs hold up the front. A large metal clamp, expelling bursts
+of steam, is loctaed about where a head would be. Two withered human arms
+hold a set of torture tools. A half dozen other appendages made of wood and
+metal also line the machines body, each ends in a scalpel, needle, or some
+other horrid device. The contraption is here torturing people, its movements
+are very precise. It moves with horrid grace, never killing its victims, just
+making them endure immense pain and suffering.
+~
+245592 4265128 -1090 S
+31 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18310
+spirit shifting~
+a shifting spirit~
+A little spirit is here, blending in perfectly with the mahogany walls.
+~
+   These little critters stand only about a foot tall. They don't really seem
+to have a constant form. Its shape and color both are in constant flux. It is
+hard to get a good look at it, it seems to become one with the mahogany wall.
+Every once in a while you catch a glimpse of a toothy maw and little wicked
+claws.
+~
+6664 795008 -350 S
+16 1 0 1d1+1 1d1+25
+0 20
+8 8 0 8
+#18311
+horror chantrel's~
+Chantrel's Horror~
+Chantrel's Horror hisses as you enter the room and interrupt his torture.
+~
+   Chantrel's Horror is about five feet tall.  He is very skinny, his ribcage
+almost pierces his thin skin.  His jet black hair is long and unkempt, it
+contrasts against his cold grey skin.  Unusually long arms end in long nasty
+looking claws, which are by no means human.  It is rumored that Chantrel's
+Horror was once a bard who followed Virmene so he could learn stories to
+sing about him.  Eventually, Virmene's twisted reach tainted Chantrel and
+turned him into a horrid creature who gains power and pleasure from the pain
+and suffering that is inflicted on others.  You can tell by the horrible
+tortures you have just seen that this statement is probably true.
+~
+763512 1418408 -1000 S
+43 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18312
+golem wood polished~
+a wooden golem~
+A highly polished wooden golem is here mixing bread dough.
+~
+   This golem looks like it was made out of oak dowels.  Its torso is only
+two inches in diameter, the same with its arms and legs.  Its head is simply
+a featureless stump.  A good amount of detail was put into the fingers of
+the golem, it seems to have a wide range of motions it can preform with them.
+~
+163850 5242880 500 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18313
+demon mihzrou~
+the mihzrou~
+A Mihzrou is chained to the wall here, it shreiks loudly as you come into view.
+~
+   Mihzrou are popular guardian demons, manifested spirits that are bound into
+service by their summoner.  Mihzrou are evil and devious beasts, but dumb as 
+rocks.  They are squat creatures with powerful rear legs, much like a toads.
+They have two long front arms, both of which end in chitinous spikes.  They
+have small eyes, and are rumored to have poor eyesight.  Their mouths are
+very similar to a leech or lamprey, a circle of muscle lined with a few deep
+rows of sharpened teeth.  Supposedly, Mihzrou's teeth often break off in their
+victims flesh and cause horrible infections and some say insanity.
+~
+540218 73868 -1000 S
+33 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18314
+cultist brown~
+a cultist of Virmene~
+A brown robed Cultist of Virmene sneers at you as you enter the room.
+~
+   A human cultist of the Horror Virmene is here, dressed in somber brown
+robes.  A thin sacrificial dagger is attached to the small white belt that
+is tied around his waist.  A hood is pulled up over his head, a sash around
+his neck bears inticate runes woven deep into the fabric.  As he notices you
+in his room, he grabs the hilt of the dagger and draws the thin blade.
+~
+15658 8192 -450 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18315
+cultist brown~
+a cultist of Virmene~
+A brown robed Cultist of Virmene sneers at you as you enter the room.
+~
+   A human cultist of the Horror Virmene is here, dressed in somber brown
+robes.  A thin sacrificial dagger is attached to the small white belt that
+is tied around his waist.  A hood is pulled up over his head, a sash around
+his neck bears inticate runes woven deep into the fabric.  As he notices you
+in his room, he grabs the hilt of the dagger and draws the thin blade.
+~
+15658 8192 -450 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18316
+cultist brown~
+a cultist of Virmene~
+A brown robed Cultist of Virmene sneers at you as you enter the room.
+~
+   A human cultist of the Horror Virmene is here, dressed in somber brown
+robes.  A thin sacrificial dagger is attached to the small white belt that
+is tied around his waist.  A hood is pulled up over his head, a sash around
+his neck bears inticate runes woven deep into the fabric.  As he notices you
+in his room, he grabs the hilt of the dagger and draws the thin blade.
+~
+15658 8192 -450 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18317
+cultist brown~
+a cultist of Virmene~
+A brown robed Cultist of Virmene sneers at you as you enter the room.
+~
+   A human cultist of the Horror Virmene is here, dressed in somber brown
+robes.  A thin sacrificial dagger is attached to the small white belt that
+is tied around his waist.  A hood is pulled up over his head, a sash around
+his neck bears inticate runes woven deep into the fabric.  As he notices you
+in his room, he grabs the hilt of the dagger and draws the thin blade.
+~
+15656 8192 -450 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18318
+spirit shifting~
+a shifting spirit~
+A little spirit is here, blending in perfectly with the mahogany walls.
+~
+   These little critters stand only about a foot tall. They don't really seem
+to have a constant form. Its shape and color both are in constant flux. It is
+hard to get a good look at it, it seems to become one with the mahogany wall.
+Every once in a while you catch a glimpse of a toothy maw and little wicked
+claws.
+~
+6664 795008 -350 S
+17 1 0 1d1+1 1d1+25
+0 20
+8 8 0
+#18319
+spirit free~
+the Free Spirit~
+A free spirit is here, bound only by the summoning circle and ritual magic.
+~
+   This free spirit is huge!  It stands at least fifteen feet tall, and must
+weigh tons.  It looks like a mixture of an earth and fire elemental, with the
+head and claws of a greater demon.  Its face is very canine looking, its lips
+curled back revealing long stained teeth.  It almost has a mocking look upon
+its snout.  Only the ritual magic of the cultists and the summoning circle
+keep this spirit from roaming free and wreaking havoc on this plane.  It knows
+that the cultists summoned it for a reason, it must have something they value.
+~
+761882 66698 -200 S
+30 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18320
+cultist summoner ~
+a summoner of Virmene~
+A cultist stands here chanting, binding the free spirit with ritual magic.
+~
+    this brown robed cultist stands on an edge of the pentagram, four other
+cultists just like him stand on each of the other points.  His face is covered
+in sweat, his eyes closed and arms raised above his head.  He chants in a deep
+tone, all in unison with his brothers.  It looks like they are on the last
+part of the incantation to bind the free spirit to their service.
+~
+14858 1122304 -375 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18321
+cultist summoner ~
+a summoner of Virmene~
+A cultist stands here chanting, binding the free spirit with ritual magic.
+~
+    this brown robed cultist stands on an edge of the pentagram, four other
+cultists just like him stand on each of the other points.  His face is covered
+in sweat, his eyes closed and arms raised above his head.  He chants in a deep
+tone, all in unison with his brothers.  It looks like they are on the last
+part of the incantation to bind the free spirit to their service.
+~
+14858 1122304 -375 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18322
+cultist summoner ~
+a summoner of Virmene~
+A cultist stands here chanting, binding the free spirit with ritual magic.
+~
+    this brown robed cultist stands on an edge of the pentagram, four other
+cultists just like him stand on each of the other points.  His face is covered
+in sweat, his eyes closed and arms raised above his head.  He chants in a deep
+tone, all in unison with his brothers.  It looks like they are on the last
+part of the incantation to bind the free spirit to their service.
+~
+14858 1122304 -375 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18323
+cultist summoner ~
+a summoner of Virmene~
+A cultist stands here chanting, binding the free spirit with ritual magic.
+~
+    this brown robed cultist stands on an edge of the pentagram, four other
+cultists just like him stand on each of the other points.  His face is covered
+in sweat, his eyes closed and arms raised above his head.  He chants in a deep
+tone, all in unison with his brothers.  It looks like they are on the last
+part of the incantation to bind the free spirit to their service.
+~
+14858 1122304 -375 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18324
+cultist summoner ~
+a summoner of Virmene~
+A cultist stands here chanting, binding the free spirit with ritual magic.
+~
+    this brown robed cultist stands on an edge of the pentagram, four other
+cultists just like him stand on each of the other points.  His face is covered
+in sweat, his eyes closed and arms raised above his head.  He chants in a deep
+tone, all in unison with his brothers.  It looks like they are on the last
+part of the incantation to bind the free spirit to their service.
+~
+14858 1122304 -375 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18325
+victim ~
+a victim of Torment~
+A victim of Torment is laying here helplessly in a bloody heap.
+~
+   This poor soul is in horrible condition. You wouldn't wish this upon
+anyone, even your worst enemies. Dried blood covers his whole body. He is
+still alive, yet in essence..dead. It would be the right thing to end his
+misery, if he could talk, I'm sure he would ask you to do the same.
+~
+10 131584 500 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18326
+victim ~
+a victim of Torment~
+A victim of Torment is laying here helplessly in a bloody heap.
+~
+   This poor soul is in horrible condition. You wouldn't wish this upon
+anyone, even your worst enemies. Dried blood covers his whole body. He is
+still alive, yet in essence..dead. It would be the right thing to end his
+misery, if he could talk, I'm sure he would ask you to do the same.
+~
+10 131584 500 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18327
+victim ~
+a victim of Torment~
+A victim of Torment is laying here helplessly in a bloody heap.
+~
+   This poor soul is in horrible condition. You wouldn't wish this upon
+anyone, even your worst enemies. Dried blood covers his whole body. He is
+still alive, yet in essence..dead. It would be the right thing to end his
+misery, if he could talk, I'm sure he would ask you to do the same.
+~
+10 131584 500 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18328
+victim ~
+a victim of Torment~
+A victim of Torment is laying here helplessly in a bloody heap.
+~
+   This poor soul is in horrible condition. You wouldn't wish this upon
+anyone, even your worst enemies. Dried blood covers his whole body. He is
+still alive, yet in essence..dead. It would be the right thing to end his
+misery, if he could talk, I'm sure he would ask you to do the same.
+~
+10 131584 500 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18329
+victim chorror~
+a victim of Torment~
+An unfortunate person is hung up by a hook here, being tortured by the Horror.
+~
+   This poor soul is in horrible condition. You wouldn't wish this upon
+anyone, even your worst enemies. Dried blood covers his whole body. He is
+still alive, yet in essence..dead. It would be the right thing to end his
+misery, if he could talk, I'm sure he would ask you to do the same.
+~
+10 131584 500 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18330
+spirit stalker vaporous~
+a vaporous stalker~
+A spirit made of noxious green gas is here, floating towards you menacingly.
+~
+   These spirits do not appear to have any solid form. Made of the noxious
+gasses that spill out of the fissures in the ground, these spirits can be
+deadly by just being near them. Their touch feels like icicles have been
+driven into your body. The noxious gasses make you gag, and you almost fall
+over as the shifty spirit keeps on with its attack.
+~
+5644 860296 -400 S
+17 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18331
+virmene horror~
+Virmene~
+The Horror Virmene sits upon his throne, chuckling at the sight of you.
+~
+   The Horror Virmene looks a lot like the paintings you have seen of him. He
+stands about fifteen feet tall. Two powerful legs end in taloned feet. He has
+six arms, two human, two that end in bony blades, and two long grey
+tentacles. Two heads top his powerful torso. One head is humanoid, but the
+skin is rotten and the features sunken. The second head is completely covered
+in beetles, which pour off his head and run over his torso. A cloud of green
+vapors and flys constantly swarm around his body. Thick yellow mucus drips
+from the long tentacles, and the light of the orange sky gleams of the
+sharpened edge of his bone bladed appendages. A deep laughter, seeming to
+come from nowhere, and everywhere at once, rumbles the ground beneath you.
+You start to think that this was a bad idea, its never to late to try to
+flee...
+~
+757274 1384620 -2000 S
+55 1 0 1d1+1 1d1+38
+0 20
+8 8 1
+#99999
+$~

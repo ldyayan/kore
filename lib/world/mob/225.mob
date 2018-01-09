@@ -1,0 +1,30 @@
+#22500
+man hunchback boatkeeper lattimer~
+Lattimer the boatkeeper~
+A hunchbacked little man tends a small fleet of boats.
+~
+   A lumpy little man clad in a dun-colored shift, worn thin from many washings.
+Little is known about Lattimer: where he came from or why he's here, tending
+his little fleet of boats kept exclusively for young adventurers.  His eyes
+are the color of the water: deep blue and reflective.  They smile first
+when he smiles
+~
+598090 168 0 S
+55 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#22501
+hyena~
+a hyena~
+A hyena circles probing your weaknesses.
+~
+   A squat, boxy dog-like creature.  Whorls and stripes of dark fur sprout
+from his leathery hide.  The bristles ripple like animated warpaint as he
+circles and circles around you, probing for an opening.
+~
+45164 263200 -50 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#99999
+$~

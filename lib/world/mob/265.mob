@@ -1,0 +1,189 @@
+#26500
+master assassin orc~
+an orc master assassin~
+An orc assassin is here in the shadows.
+~
+Despite many years of killing, the assassin still looks beleagered at
+the thought of killing another.
+~
+42 1107918976 -1000 S
+48 10 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#26505
+orc army assassin~
+an orcish army assassin~
+A large orc in black clothing looks furtively about, wielding a strange weapon.
+~
+You see a large strong Orc where black clothing and wielding strange and painful looking weapons.
+~
+4106 537395200 20 S
+20 1 0 1d1+1 1d1+1
+20 20
+8 8 0
+#26506
+human captive~
+a human captive~
+A human captive is waiting here for the death blow begging it be painless.
+~
+   You see a human captive, he looks back at you with hollowed eye as if
+ready to take the final death blow and not even caring.  You feel sorry for
+these men knowning they were only trying to do what you are going.
+~
+10 0 0 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#26507
+orc warrior training~
+an orc warrior in training~
+An Orc warrior in training stands here.
+~
+   You see a large orc warrior in training.  His muscles despite his young age
+ripple through his cheap armor.  You wonder what this boy will look like in a
+few years time with some fighting under his belt.
+~
+67594 0 100 S
+13 1 0 1d1+1 1d1+1
+0 1000
+8 8 1
+#26508
+orc gate watcher guard~
+the orcish gate watcher~
+A small orc stands here peering beyond the gates of the city.
+~
+   You see a small orc standing here that looks unfit for service in the orc
+army.  He occassionally peers out beyond the gates watching for intruders and
+attackers.
+~
+10 136 100 S
+30 1 0 1d1+1 1d1+1
+100 2000
+8 8 1
+#26509
+orc gate guard gateguard thwack~
+the orc gateguard~
+An orcish gateguard stands here ready to defend his post.
+~
+   The gateguard appears unable to control his anger as you look at him.  He
+turns he head and nods to leave now.
+~
+602154 168898688 100 S
+52 1 0 1d1+1 1d1+1
+100 2000
+8 8 1 7
+#26510
+Uglark~
+Uglark~
+Uglark snarls at the patrons of his store while he puts together some herbs.
+~
+   An old orc set in new ways, Paladrm sells the knowledge he has in herbs and
+has made a tidy sum doing it.  He wears robes that establish his power within
+the community.  You doubt that he has a lot of underground contacts but you can
+be sure he has political connections.
+~
+2883592 128 100 S
+15 1 0 1d1+1 1d1+1
+200 20
+8 8 1
+#26512
+orc soldier~
+an orc soldier~
+An orc soldier sits here with him clawed hand wrapped around a human limb.
+~
+   The young soldier apparently has just come from the forest to the north
+where an unaware human wandered into his reach.  His scimitar is splashed
+with the blood of the human as though he had cut him off at the neck.
+~
+10 0 60 S
+25 1 0 1d1+1 1d1+1
+4500 20
+6 6 1
+#26513
+warg wolf~
+a warg~
+A massive warg walks here looking for its rider.
+~
+   The grey warg walks along the path here.  Unmounts he wanders aimlessly
+looking for a rider or some prey to eat.  He scowls at you as you look and
+then pounces to attack.
+~
+163880 524320 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#26514
+orc~
+an orc~
+An orc walks along the path here.
+~
+   He stands and snarls.  He pulls out his scimitar and prepares to run you
+through.  His clawed hands grasp at the shield he has clasped to his belt as
+he prepares to strike.
+~
+4136 32768 0 S
+9 1 0 1d1+1 1d1+1
+15 20
+8 8 1 3
+#26516
+guardian phantom ghost ghoul~
+a guardian phantom~
+A phantom is here protecting something within the Catacombs.
+~
+   A mist-like figure materializes in front of you and
+attempts to block your path.  A small hissing voice in
+your head says, 'Leave now!'
+~
+528488 33792 50 S
+20 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#26517
+monk orsus human man 26517~
+a devote monk~
+An old human, he would appear to not mind the constant threat of the orcs below.
+~
+   The man appears old and powerful. His eyes glow blue unlike most.
+He can see the past, present and future through the eyes of others. He
+sit here telling the future and muttering about the end of the reign of
+Morgoth
+~
+73738 65676 0 S
+45 0 10 1d1+0 1d1+0
+0 0
+5 5 1 10
+#26518
+orc guard chump~
+an orc guard~
+An orc guard walks along the streets here protecting the innocent.
+~
+   He's big, very big. Kinda mean too.
+~
+108586 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#26519
+orc guard snarl~
+an orc guard~
+An orc guard walks along the street protecting the innocent.
+~
+   He's big, very big, Kinda mean too.
+~
+108584 0 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#26520
+croc animal~
+a !there animal~
+A mob that simulates an animal attack
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#99999
+$~

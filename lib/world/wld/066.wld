@@ -1,0 +1,1829 @@
+#6600
+Ruins of the Ancient Temple~
+   You are walking through what was once a great temple.  Many tapestries
+describing horrible creatures coming and destroying the world hang on the
+walls. In the center of the temple there is a large dais, and behind it an
+altar made of a silvery-white material.  Hanging over the altar is a large
+ebony statue of a horrible fiend holding the head of a human child in one
+hand and a huge sword in the other.  The black ebony sword seems to be 
+surrounded by a dim red glow that illuminates the dark temple.  To the
+northeast, there is an exit leading back to civilization and there is an
+aisle leading directly south.
+~
+66 13 0
+D2
+South you see the center aisle of the Temple.
+~
+~
+0 -1 6601
+S
+#6601
+The Center Aisle~
+   You are walking down the center aisle of the temple.  Large marble
+benches lay both to the right and the left.  In from of it is a short
+wooden staircase leading up to the dais.  The aisle continues around the
+dais, and south towards thee altar.
+~
+66 9 0
+D0
+North you see the ruins of an ancient temple.
+~
+~
+0 -1 6600
+D1
+East you see more of the temple.
+~
+~
+0 -1 6602
+D2
+~
+~
+0 0 6606
+D3
+West you see more of the temple.
+~
+~
+0 -1 6603
+S
+#6602
+Aisle Around the Dais~
+   You are walking through a narrow aisle between the large marble benches and
+the huge wooden dais.  The glow of the sword held by the statue is becoming
+brighter as you get closer to it, and the silvery altar now had a light red
+glow as well.  Obviously, whatever deity was worshiped in this temple is aware
+that you are here, and is probably not very happy about it, so you'd better
+watch your step.
+~
+66 9 0
+D2
+To the south you see the Aisle continue.
+~
+~
+0 -1 6604
+D3
+To the west you see the center aisle.
+~
+~
+0 -1 6601
+S
+#6603
+Aisle Around the Dais~
+   You are walking through a narrow aisle between the large marble benches and
+the huge wooden dais.  The glow of the sword held by the statue is becoming
+brighter as you get closer to it, and the silvery altar now had a light red
+glow as well.  Obviously, whatever deity was worshiped in this temple is aware
+that you are here, and is probably not very happy about it, so you'd better
+watch your step.
+~
+66 9 0
+D1
+To the east you see the center aisle.
+~
+~
+0 -1 6601
+D2
+To the south you see aisle continue.
+~
+~
+0 -1 6605
+S
+#6604
+Aisle Around the Dais~
+   As you walk the length of the dais, you realize that it is really not that
+large, just high and wide.  There are more runes carved along the sides of
+the dais, probably more prayers or words of praise that the makers had for
+their god.  The altar is now in clear view, and you realize that there is a
+fire-scorched skeleton of a human child laying on the altar.  This must have
+been a temple to a very cruel and evil god.
+~
+66 9 0
+D0
+North you see the aisle continue.
+~
+~
+0 -1 6602
+D3
+West is the Center Aisle.
+~
+~
+0 -1 6606
+S
+#6605
+Aisle around the Dais~
+   As you walk the length of the dais, you realize that it is really not that
+large, just high and wide.  There are more runes carved along the sides of
+the dais, probably more prayers or words of praise that the makers had for
+their god.  The altar is now in clear view, and you realize that there is a
+fire-scorched skeleton of a human child laying on the altar.  This must have
+been a temple to a very cruel and evil god.
+~
+66 9 0
+D0
+The aisle continues north.
+~
+~
+0 -1 6603
+D1
+The center aisle is to the east.
+~
+~
+0 -1 6606
+S
+#6606
+The Center Aisle~
+You are now in the canter aisle again, closing on the huge altar.  The glow
+from the sword is even brighter now, bathing the entire temple in a bright
+red light.  In this new light you realize that the statue is of a huge winged
+fiend from the Abyss, probably a high minion of the deity these people had
+worshiped.
+~
+66 9 0
+D0
+The aisle continues north.
+~
+~
+0 -1 6601
+D1
+East the aisle continues.
+~
+~
+0 -1 6604
+D2
+South approaches the altar.
+~
+~
+0 -1 6607
+D3
+West the aisle continues.
+~
+~
+0 -1 6605
+S
+#6607
+By the Altar~
+    The altar is huge.  It is large enough for three humans to lay on it at
+once.  It is made of a glowing bright colored metal, probably silver or 
+platinum.  The large ebony statue hangs above the altar with it's glowing 
+blade pointing down at the center of the altar.  There seems to be a trapdoor
+in the floor beyond the altar.
+~
+66 8 0
+D0
+North you see the Center Aisle.
+~
+~
+0 -1 6606
+D2
+South is the altar.
+~
+~
+0 -1 6608
+S
+#6608
+Behind the Altar~
+   As you walk around the altar towards the trapdoor, you feel as if the giant
+statue is watching you, it's blazing red eyes glaring down at you from high
+above.  The trapdoor looks as if it could be easily opened by anyone, or at
+least anyone foolish enough to wish to do so.  You can feel a great evil
+coming from beyond the trapdoor.
+~
+66 8 1
+D0
+~
+~
+0 -1 6607
+D5
+~
+trapdoor~
+2 -1 6609
+S
+#6609
+The Dark Pit~
+   As you descend the pitch-black staircase, which is barely visible in the
+darkness of this room, you are pulled down by a magical force which drags
+you down into a very dark pit.  You can make out is a bright red glow coming
+from beyond an archway to the north.
+~
+66 9 2
+D0
+~
+~
+0 -1 6610
+D4
+~
+trapdoor~
+1 0 6608
+S
+#6610
+The Gate of the Abyss~
+   Before you stands a great archway, standing over five hundred feet tall,
+and three hundred feet wide at the bottom.  The entrance does not seem to
+be guarded,  but you can still feel a great evil coming from within.  Since
+there is no point staying in this pit much longer, and there is no way to
+reach the dark stairway that brought you here, your only option is to enter
+the gate and face what lies beyond.
+~
+66 8 2
+D0
+~
+~
+0 -1 6611
+D2
+~
+~
+0 0 6609
+S
+#6611
+The Abyss~
+   The Abyss is a most horrifying place.  The ground is smooth and black as
+obsidian, and the skies are a dark black with deep red swirls of noxious
+gasses that would be deadly to any mortal.  Many winged demons fly high
+above you in the dark skies, and many other undead fiends walk the dark
+ground.
+~
+66 8 2
+D0
+~
+~
+0 -1 6614
+D1
+~
+~
+0 -1 6613
+D2
+~
+~
+0 0 6610
+D3
+~
+~
+0 -1 6612
+S
+#6612
+The Abyss~
+   The flat, pitch-black plane of ebony stone of the Abyss seems to continue on
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The river continues
+on westward, where you can see an old bridge crossing it.
+~
+66 9 2
+D1
+~
+~
+0 -1 6611
+D3
+~
+~
+0 -1 6615
+S
+#6613
+The Abyss~
+   The flat, pitch-black plane of ebony stone of the Abyss seems to continue on
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  A river of
+pitch-black waters blocks your way north, and a strange magical force blocks
+your passage south.
+~
+66 9 2
+D1
+~
+~
+0 -1 6623
+D3
+~
+~
+0 -1 6611
+S
+#6614
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue on
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out a
+bright red glow far to the north.  Streams of dark ebony water block your
+passage east and west.
+~
+66 9 0
+D0
+~
+~
+0 0 6625
+D2
+~
+~
+0 0 6611
+S
+#6615
+By the Old Bridge~
+   This is an old stone bridge, crossing about a foot over the black waters.
+Since there are no boats around, and swimming in those waters would be nothing
+less than suicide, this bridge is the only way accross.  Some magical force
+blocks your passage south and west.  The river seems to bend northward beyond
+the bridge, as if the river also wished to avoid the magical barrier.
+~
+66 9 2
+D0
+~
+~
+0 -1 6616
+D1
+~
+~
+0 -1 6612
+S
+#6616
+On the Old Bridge~
+   As you cross the bridge, you suddenly have an overwhelming urge to jump
+in the water.  Perhaps the magical forces here are affecting your mind?
+Or maybe the waters are just naturally tempting.  But either way, you feel
+that you have lived your entire life just to jump into this river.
+~
+66 9 2
+D0
+~
+~
+0 -1 6617
+D2
+~
+~
+0 -1 6615
+D5
+~
+~
+0 -1 6618
+S
+#6617
+The Abyss~
+   The flat, pitch-black plane of ebony stone of the Abyss seems to comtinue on
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  Once again the
+river seems to follow you, blocking your path north and west.  The only other
+exit is east
+~
+66 9 2
+D1
+~
+~
+0 -1 6619
+D2
+~
+~
+0 -1 6616
+S
+#6618
+Into the Black River of Death~
+   You plunge foolishly into the black water, as the acid burns
+your body away you scream in agony as the demons snicker and
+cheer.
+~
+66 14 3
+D4
+~
+~
+0 -1 6616
+S
+#6619
+The Abyss~
+   The flat, pitch-black plane of ebony stone of the Abyss seems to continue on
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can see a small
+cave not far to the north.
+~
+66 8 2
+D0
+~
+~
+0 -1 6620
+D3
+~
+~
+0 -1 6617
+S
+#6620
+Outside a Small Cave~
+   Popping out of the flat ground like a large wart, the mountain is only about
+twenty feet high, and the cave entrance is ten.  This must be the lair of a
+large creature, or of many small ones.  The river seems to flow around the
+cave, almost like a pitch-black moat surrounding a castle.
+~
+66 9 2
+D0
+~
+~
+0 -1 6621
+D2
+~
+~
+0 -1 6619
+S
+#6621
+The Gargoyle's Lair~
+   This cave is very large, considering the size of the mountain.  On the floor
+lie many bones of different creatures that have served as a meal for whatever
+lives here.  There is a large trapdoor in the northern end of the cave, with a
+golden lock hanging from the handle.  The key is nowhere in sight.  There is a
+large pile of straw in one corner, obviously where the abomination that lives
+here sleeps, and a small well in another corner.
+~
+66 9 2
+D2
+~
+~
+0 -1 6620
+D5
+~
+trapdoor~
+1 -1 6622
+S
+#6622
+The Storage Room~
+   This seemed to have served as a storage room for someone, many years ago.
+There are many rusty or broken swords and shields on the ground, and many
+coins scattered around the room.  There is one large shelf in the northern
+end of the room, and a small chest in a corner.  The lock on the chest looks
+much like the lock on the trapdoor.
+~
+66 9 3
+D4
+~
+trapdoor~
+1 -1 6621
+S
+#6623
+The Abyss~
+   The flat, pitch-black plane of ebony stone of the Abyss seems to continue on
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  A river of
+pitch-black waters blocks your way north, and a strange magical force blocks
+your passage south.
+~
+66 9 2
+D1
+~
+~
+0 0 6624
+D3
+~
+~
+0 0 6613
+S
+#6624
+The Abyss~
+The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+on as far as you can see.  For some strange reason, the horrible demons that
+fly in the dark skies seem to watch over you, but not attack.  A river of
+pitch-black waters blocks your way north, and a strange magical force blocks
+your passage south.  The river suddenly becoms much wider, blocking all exits
+except the one you came from, to the west.
+~
+66 9 0
+D3
+~
+~
+0 0 6623
+S
+#6625
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue on
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out a
+bright red glow far to the north.  Streams of dark ebony water block your
+passage east and west.
+~
+66 9 0
+D0
+~
+~
+0 0 6626
+D2
+~
+~
+0 0 6614
+S
+#6626
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out a
+bright red glow far to the north.  Streams of dark ebony water block your
+passage east and west.
+~
+66 9 0
+D0
+~
+~
+0 0 6627
+D2
+~
+~
+0 0 6625
+S
+#6627
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The red glow seems
+to have dimmed slightly as you near it, but is still glowing clearly in the
+black fog of this dreaded place.  Streams of ebony black water block your
+passage east and west.
+~
+66 9 0
+D0
+~
+~
+0 0 6628
+D2
+~
+~
+0 0 6626
+S
+#6628
+The Spiral Staircase~
+    You have come across the top of a spiral staircase which continues down as
+far as you can see.  The bright red glow seems to be coming from something
+far at the bottom of the staircase.
+~
+66 9 0
+D2
+~
+~
+0 0 6627
+D5
+~
+~
+0 0 6629
+S
+#6629
+The Spiral Staircase~
+    You begin descending the narrow, seemingly unending staircase.  Many
+specteral figures fly around you, as if in some sort of ritual, but, like the
+flying demons, they do not attack.  It is a very unnerving experience.
+~
+66 9 0
+D4
+~
+~
+0 0 6628
+D5
+~
+~
+0 0 6630
+S
+#6630
+The Spiral Staircase~
+    You begin descending the narrow, seemingly unending staircase.  Many
+specteral figures fly around you, as if in some sort of ritual, but, like the
+flying demons, they do not attack.  It is a very unnerving experience.  Looking
+down over the rail, you can see the staircase ending at a black stone surface,
+probably another level of the Abyss.
+~
+66 9 0
+D4
+~
+~
+0 0 6629
+D5
+~
+~
+0 0 6631
+S
+#6631
+The Spiral Staircase~
+You have reached the end of the spiral staircase.  Although there is a level
+above you, the sky still looks like it did before, covered with pitch-black
+clouds and red swirls of gasses.  More rivers cover this level as they did the
+first one.  The only difference between this level and the first, is that the
+demons in the sky are flying lower, closer to you.
+~
+66 9 0
+D1
+~
+~
+0 0 6632
+D2
+~
+~
+0 0 6633
+D3
+~
+~
+0 0 6634
+D4
+~
+~
+0 0 6630
+S
+#6632
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The black river
+blocks your passage south, and another magical force blocks your way north.
+You can either return the way you came, or continue east towards a large cave.
+~
+66 9 0
+D1
+~
+~
+0 0 6635
+D3
+~
+~
+0 0 6631
+S
+#6633
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out
+another spiral staircase, far off to the south, a red glow eminating from it.
+~
+66 9 0
+D0
+~
+~
+0 0 6631
+D2
+~
+~
+0 0 6646
+S
+#6634
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The black river
+blocks your passage south, and another magical force blocks your way north.
+Farther to the west, the river bends southward, allowing passage to the south.
+~
+66 9 0
+D1
+~
+~
+0 0 6631
+D3
+~
+~
+0 0 6639
+S
+#6635
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The black river
+blocks your passage south, and another magical force blocks your way north.
+You can either return the way you came, or continue east towards a large cave.
+~
+66 9 0
+D1
+~
+~
+0 0 6636
+D3
+~
+~
+0 0 6632
+S
+#6636
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The black river
+blocks your passage south, and another magical force blocks your way north.
+You can either return the way you came, or continue east towards a large cave.
+A disgusting wight leaps out of nowhere.
+~
+66 9 0
+D1
+~
+~
+0 0 6637
+D3
+~
+~
+0 0 6635
+S
+#6637
+Outside the Large Cave~
+    This is actually more of a pit than a cave.  It is a large hole in the
+ground, with a narrow staircase leading down into the deep darkness.  As you
+attempt to make out what lay at the bottom, you see something reflect your
+light.
+~
+66 9 0
+D0
+~
+~
+0 0 6638
+D3
+~
+~
+0 0 6636
+S
+#6638
+The Grotto of the Dracolich~
+As you reach the bottom of the stairs, you stumble and trip over a small
+round object.  Then you realize, that the object is a human skull.  As you look
+around, you see many more skulls, lying on a huge pile of money and gems in
+the center of the room.  As you approach the pile, it begins to shift, and
+before you can escape, the stairs you came down crumble and turn to dust.
+Looks like you're going to join those skulls pretty soon.
+~
+66 9 0
+D2
+~
+~
+0 0 6637
+S
+#6639
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The black river
+blocks your passage south, and another magical force blocks your way north.
+Farther to the west, the river bends southward, allowing passage to the south.
+~
+66 9 0
+D1
+~
+~
+0 0 6634
+D3
+~
+~
+0 0 6640
+S
+#6640
+Bend in the Black River~
+    Here the river bends to the south, allowing passage.  Another magic barrier
+prevents you from continuing west, so the only other exit would be to follow
+the river to the south, where you notice a small cave.
+~
+66 9 0
+D1
+~
+~
+0 0 6639
+D2
+~
+~
+0 0 6641
+S
+#6641
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The black river
+blocks your passage south, and another magical force blocks your way north.
+As you follow the river to the south, you see the cave getting closer and
+closer.
+~
+66 9 0
+D0
+~
+~
+0 0 6640
+D2
+~
+~
+0 0 6642
+S
+#6642
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The black river
+blocks your passage south, and another magical force blocks your way north.
+As you follow the river to the south, you see the cave getting closer and
+closer.
+~
+66 9 0
+D0
+~
+~
+0 0 6641
+D2
+~
+~
+0 0 6643
+S
+#6643
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The black river
+blocks your passage south, and another magical force blocks your way north.
+As you follow the river to the south, you see the cave getting closer and
+closer.
+~
+66 9 0
+D0
+~
+~
+0 0 6642
+D2
+~
+~
+0 0 6644
+S
+#6644
+Outside a Small Cave~
+    Again, a small cave emerges out of the flat surface of the Abyss.  This one
+seems very small, as it probably lairs a smaller beast.  You can see two
+blazing red eyes glaring at you from the darkness of the cave.
+~
+66 9 0
+D0
+~
+~
+0 0 6643
+D2
+~
+~
+0 0 6645
+S
+#6645
+The Laboratory~
+    This seems to be an old lab of some type of wizard.  You can see many
+abominations of what were once frogs, toads, fish, rabbits and other
+creatures you can't even identify.  Whoever this lab does belong to,
+must be a cruel and evil sorcerer, or perhaps, considering the state
+of this place, an undead lich!
+~
+66 9 0
+D0
+~
+~
+0 0 6644
+S
+#6646
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out
+another spiral staircase, far off to the south, a red glow eminating from it.
+~
+66 0 0
+D0
+~
+~
+0 0 6633
+D2
+~
+~
+0 0 6647
+S
+#6647
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out
+another spiral staircase, far off to the south, a red glow eminating from it.
+~
+66 9 0
+D0
+~
+~
+0 0 6646
+D2
+~
+~
+0 0 6648
+S
+#6648
+The Spiral Staircase~
+    You have come across another spiral staircase, like the first, leading down
+into unending blackness.  Again, you can see that the red aura is coming not
+from the staircase itsale, but from what lies within, at the lower levels of
+the Abyss.  Like on the bridge, you have an overwhelming urge to descend the
+stairs and see what lay beyond.
+~
+66 9 0
+D0
+~
+~
+0 0 6647
+D5
+~
+~
+0 0 6649
+S
+#6649
+The Spiral Staircase~
+    You begin descending the narrow, seemingly unending staircase.  Many
+specteral figures fly around you, as if in some sort of ritual, but, like the
+flying demons, they do not attack.  It is a very unnerving experience.  Looking
+down over the rail, you can see the staircase ending at a black stone surface,
+probably another level of the Abyss.
+~
+66 9 0
+D4
+~
+~
+0 0 6648
+D5
+~
+~
+0 0 6650
+S
+#6650
+The Spiral Staircase~
+    Again, you descend into the darkness, with ghostly wraiths and misty
+specters dancing around you.  When you listen closely, you hear that they seem
+to be chanting a prayer or some sort, as if they were about to sacrifice you to
+some evil deity, perhaps the one worshiped in the temple that brought you to
+this awful place.  Looking down, again you see the black ground of yet another
+level of the Abyss.
+~
+66 9 0
+D4
+~
+~
+0 0 6649
+D5
+~
+~
+0 0 6651
+S
+#6651
+The Spiral Staircase~
+    Again, you descend into the darkness, with ghostly wraiths and misty
+specters dancing around you.  When you listen closely, you hear that they seem
+to be chanting a prayer or some sort, as if they were about to sacrifice you to
+some evil deity, perhaps the one worshiped in the temple that brought you to
+this awful place.  Looking down, again you see the black ground of yet another
+level of the Abyss.
+~
+66 9 0
+D4
+~
+~
+0 0 6650
+D5
+~
+~
+0 0 6652
+S
+#6652
+The Spiral Staircase~
+   You have reached the end of the spiral staircase.  Although there is a level
+above you, the sky still looks like it did before, covered with pitch-black
+clouds and red swirls of gasses.  More rivers cover this level as they did the
+first one.  As you look up, you realize that the demons are nearly upon you,
+and will probably attack at any minute.
+~
+66 9 0
+D0
+~
+~
+0 0 6653
+D1
+~
+~
+0 0 6654
+D3
+~
+~
+0 0 6655
+D4
+~
+~
+0 0 6651
+S
+#6653
+The Abyss~
+     The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out
+another spiral staircase, far off to the north, a red glow eminating from it.
+Black streams block your passage east and west.
+~
+66 9 0
+D0
+~
+~
+0 0 6667
+D2
+~
+~
+0 0 6652
+S
+#6654
+By a Pool~
+    You are standing by a small pond into which all the rivers on this level
+spill. The water is pitch-black, so you can't tell if there is anything inside,
+but you can feel that something is about to jump out and attack you.  Better
+watch your step.
+~
+66 9 0
+D3
+~
+~
+0 0 6652
+D5
+~
+pool~
+2 6613 6695
+S
+#6655
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  There is a bright
+white light coming from the west.  Black streams block your passage north, and
+the magical force blocks the way south.
+~
+66 9 0
+D1
+~
+~
+0 0 6652
+D3
+~
+~
+0 0 6656
+S
+#6656
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  There is a bright
+white light coming from the west.  The magical force blocks the way south,
+and another old bridge crosses the river to the north.
+~
+66 9 0
+D0
+~
+~
+0 0 6658
+D1
+~
+~
+0 0 6655
+D3
+~
+~
+0 0 6657
+S
+#6657
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  There is a bright
+white light coming from the west.  Black streams block your passage north, and
+the magical force blocks the way south.
+~
+66 9 0
+D1
+~
+~
+0 0 6656
+D3
+~
+~
+0 0 6666
+S
+#6658
+On the Old Bridge~
+    As you cross the bridge, you suddenly have an overwhelming urge to jump in
+the water.  Perhaps the magical forces here are affecting your mind?  Or maybe
+the waters are just naturally tempting.  But either way, you feel that you have
+lived your entire life just to jump into this river.
+~
+66 9 0
+D0
+~
+~
+0 0 6660
+D2
+~
+~
+0 0 6656
+D5
+~
+~
+0 0 6659
+S
+#6659
+Into the Black River of Death~
+    You plunge foolishly into the black water, as the acid burns
+your body away you scream in agony as the demons snicker and
+cheer.
+~
+66 76 12
+D0
+~
+~
+0 0 6698
+D1
+~
+~
+0 0 6697
+S
+#6660
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You notice that
+after the bridge, the river branches out and now blocks your passage east and
+west, but you see an eastward bend far up to the north.
+~
+66 9 0
+D0
+~
+~
+0 0 6661
+D2
+~
+~
+0 0 6658
+S
+#6661
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You notice that
+after the bridge, the river branches out and now blocks your passage east and
+west, but you see an eastward bend far up to the north.
+~
+66 9 0
+D0
+~
+~
+0 0 6662
+D2
+~
+~
+0 0 6660
+S
+#6662
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You notice that
+after the bridge, the river branches out and now blocks your passage east and
+west, but you see an eastward bend far up to the north.
+~
+66 9 0
+D0
+~
+~
+0 0 6663
+D2
+~
+~
+0 0 6661
+S
+#6663
+Bend in the Black River~
+    The streams around you bend to the east allowing passage in that direction,
+but also blocking passage to the north.  Looking eastward, you can see another
+dark cave, large enough to be the lair of a demon, which, considering your
+luck so far, it probably is one.
+~
+66 9 0
+D1
+~
+~
+0 0 6664
+D2
+~
+~
+0 0 6662
+S
+#6664
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  The cave to the
+east seems alot closer than before, and you can actually make out two small
+human-looking eyes, the color of deep blue sappires.
+~
+66 9 0
+D1
+~
+~
+0 0 6665
+D3
+~
+~
+0 0 6663
+S
+#6665
+The Lair of the Erinyes~
+    This cave is almost completely empty.  Exceot for a few pillows in a corner
+and a small well in another, this cavern is vacant.  Whatever does lair here
+is either a very clean eater, of a very powerful magic-user.  Either way, if
+it lives in this Abyss, it can't be too friendly.
+~
+66 8 0
+D3
+~
+~
+0 0 6664
+S
+#6666
+The Portal~
+    This appears to be a teleportation portal.  If you walk through it, you may
+end up anywhere, and there is no way of knowing it's destination without
+walking through it.  It could be your way out of this horrible Abyss, but it
+may also bring you to the Pit.  Or it might just be an illusion set up by an
+evil mage to trap you here, forever.
+~
+66 9 0
+D1
+~
+~
+0 0 6657
+D3
+~
+~
+0 0 6697
+S
+#6667
+The Abyss~
+     The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out
+another spiral staircase, far off to the north, a red glow eminating from it.
+Black streams block your passage east and west.
+~
+66 9 0
+D0
+~
+~
+0 0 6668
+D2
+~
+~
+0 0 6653
+S
+#6668
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out
+another spiral staircase, far off to the north, a red glow eminating from it.
+Black streams block your passage east and west.
+~
+66 9 0
+D0
+~
+~
+0 0 6669
+D2
+~
+~
+0 0 6667
+S
+#6669
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  For some strange reason, the horrible demons that fly
+in the dark skies seem to watch over you, but not attack.  You can make out
+another spiral staircase, far off to the north, a red glow eminating from it.
+Black streams block your passage east and west.
+~
+66 9 0
+D0
+~
+~
+0 0 6670
+D2
+~
+~
+0 0 6668
+S
+#6670
+The Spiral Staircase~
+   ou have come across another spiral staircase, like the first, leading down
+into unending blackness.  Again, you can see that the red aura is coming not
+from the staircase itsale, but from what lies within, at the lower levels of
+the Abyss.  Like on the bridge, you have an overwhelming urge to descend the
+stairs and see what lay beyond.
+~
+66 9 0
+D2
+~
+~
+0 0 6669
+D5
+~
+~
+0 0 6671
+S
+#6671
+The Spiral Staircase~
+    You begin descending the narrow, seemingly unending staircase.  Many
+specteral figures fly around you, as if in some sort of ritual, but, like the
+flying demons, they do not attack.  It is a very unnerving experience.
+Suddenly, the specteral demons begin to scream very loudly, an ear-shattering
+cry that pierces your very soul.  Then, they all charge towards you.  Right
+before you are sure they will tear you apart, they stop.  Then they all turn
+a misty white, and dissapear.  Everything is silent, and even more unnerving
+than when the ghosts were around.
+~
+66 9 0
+D4
+~
+~
+0 0 6670
+D5
+~
+~
+0 0 6672
+S
+#6672
+The Spiral Staircase~
+    his is the final level of the Abyss.  The rivers here have a faint red glow
+around them.  The ebony ground here reflects back the light coming from the
+red gasses in the dark skies.  And after all the time in the Abyss, the flying
+demons finally fly down to attack you.  You can see no more staircases in any
+direction you look, and that portal may have been your only way out.  Now all
+you can do is continue on into the Pit of the Abyss.
+~
+66 9 0
+D1
+~
+~
+0 0 6673
+D2
+~
+~
+0 0 6675
+D3
+~
+~
+0 0 6674
+D4
+~
+~
+0 0 6671
+S
+#6673
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  You can
+hear the cries of undead rising and the ear-piercing laughs of the fiends that
+raise them.  There is another cave not far to the east.
+~
+66 9 0
+D1
+~
+~
+0 0 6676
+D3
+~
+~
+0 0 6672
+S
+#6674
+The Abyss~
+    he flat, pitch-black plane of ebony stone of the Abyss seems to cotinue
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  You can
+hear the crys of undead rising and the ear-piercing laughs of the fiends that
+raise them.
+~
+66 9 0
+D1
+~
+~
+0 0 6672
+D3
+~
+~
+0 0 6680
+S
+#6675
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to comtinue on
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  A very
+dark cloud of fog can be seen far to the south, no doubt the entrance to the
+Pit.  You can hear the crys of undead rising and the ear-piercing laughs of
+the fiends that raise them.
+~
+66 9 0
+D0
+~
+~
+0 0 6672
+D2
+~
+~
+0 0 6688
+S
+#6676
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  You can
+hear the crys of undead rising and the ear-piercing laughs of the fiends that
+raise them.  There is another cave not far to the east.
+~
+66 9 0
+D1
+~
+~
+0 0 6677
+D3
+~
+~
+0 0 6673
+S
+#6677
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  You can
+hear the crys of undead rising and the ear-piercing laughs of the fiends that
+raise them.  There is another cave not far to the east.
+~
+66 9 0
+D1
+~
+~
+0 0 6678
+D3
+~
+~
+0 0 6676
+S
+#6678
+Outside a Dark Cave~
+    This cave is very small, with an entrance you can barely fit into.  You can
+see nothing but black darkness inside, and whatever does dwell within is
+probably not very fond of light.  You sense a very powerful presence waiting
+inside the cave.
+~
+66 9 0
+D0
+~
+~
+0 0 6679
+D3
+~
+~
+0 0 6677
+S
+#6679
+The Dark Cave~
+   Even with you light, you cannot see a thing.  There is a magical darkness in
+this cave, which cannot be dispelled without magic of equal power.  As you
+stumble around the room, you bump into a large coffin in the center of the
+cave.  There is no more doubt, this is the lair of a vampire!
+~
+66 9 0
+D2
+~
+~
+0 0 6678
+S
+#6680
+The Abyss~
+   The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  You can
+hear the crys of undead rising and the ear-piercing laughs of the fiends that
+raise them.  Another black stream blocks your path westward, and the only
+other exit is south, where you notice another small cave.
+~
+66 9 0
+D1
+~
+~
+0 0 6674
+D2
+~
+~
+0 0 6681
+S
+#6681
+The Abyss~
+   The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  You can
+hear the crys of undead rising and the ear-piercing laughs of the fiends that
+raise them.  A black stream blocks your path westward, and the only other exit
+is south, moving towards the small cave.
+~
+66 9 0
+D0
+~
+~
+0 0 6680
+D2
+~
+~
+0 0 6682
+S
+#6682
+The Abyss~
+   The flat, pitch-black plane of ebony stone of the Abyss seems to continue
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  You can
+hear the crys of undead rising and the ear-piercing laughs of the fiends that
+raise them.  A black stream blocks your path westward, and the only other exit
+is south, moving towards the small cave.
+~
+66 9 0
+D0
+~
+~
+0 0 6681
+D2
+~
+~
+0 0 6683
+S
+#6683
+Outside a Small Cave~
+   Like most of the other caves, this one is not large, but not very small
+either. It must be the lair of a fiend, which is not a very comforting thought
+The entire cave is surrounded by a red aura, and the flying demons seem to
+cringe away from it.  Either it is a solace in this evil place, or something
+very fierce lairs inside.
+~
+66 9 0
+D0
+~
+~
+0 0 6682
+D2
+~
+~
+0 0 6684
+S
+#6684
+The Fiends' Lair~
+   This cave is empty except for three large acolves, one in the south end,
+one in the east, and one in the west.  Each alcove is an ivory white, with a
+grim black aura surrounding it.
+~
+66 9 0
+D0
+~
+~
+0 0 6683
+D1
+~
+~
+0 0 6685
+D2
+~
+~
+0 0 6686
+D3
+~
+~
+0 0 6687
+S
+#6685
+The Third Alcove~
+   This alcove is very small, and obviously the fiend that dwells within cares
+little for comfort.  There are red runes on the white walls, and a dark
+cloud floating above you.
+~
+66 9 0
+D3
+~
+~
+0 0 6684
+S
+#6686
+The First Alcove~
+   This alcove is very small, and obviously the fiend that dwells within cares
+little for comfort.  There are black runes on the white walls, and a dark
+cloud floating above you.
+~
+66 9 0
+D0
+~
+~
+0 0 6684
+S
+#6687
+The Second Alcove~
+   This alcove is very small, and obviously the fiend that dwells within cares
+little for comfort.  There are green runes on the white walls, and a dark
+cloud floating above you.
+~
+66 9 0
+D1
+~
+~
+0 0 6684
+S
+#6688
+The Abyss~
+    The flat, pitch-black plane of ebony stone of the Abyss seems to comtinue on
+as far as you can see.  The horrible demons that fly in the dark skies begin
+to glide down towards you, rage and fury burning in their red eyes.  A very
+dark cloud of fog can be seen far to the south, no doubt the entrance to the
+Pit.  You can hear the crys of undead rising and the ear-piercing laughs of
+the fiends that raise them.
+~
+66 9 0
+D0
+~
+~
+0 0 6675
+D2
+~
+~
+0 0 6689
+S
+#6689
+The Pit of the Abyss~
+   As you enter the dark cloud, you are totally engulfed by the black vapor and
+magically pulled into the darkest place you have ever seen, the Pit of the
+Abyss.  Even with your light, this place remains pitch-black, and the only was
+you can find your way around is by feeling the ground.  Better hope there are
+no rivers here.
+~
+66 9 0
+D0
+~
+~
+0 0 6688
+D1
+~
+~
+0 0 6690
+D3
+~
+~
+0 0 6691
+S
+#6690
+The Pit of the Abyss~
+    The floor here is very smooth, which is all you can tell, since it is
+pitch-black and you can't see a thing.  You hear alot of chanting all around
+you, and have a bad feeling that this is where the most horrible fiends in the
+Abyss dwell, and where sacrifices like yourself are brought by their
+worshipers.  As you feel around, you find exits to the west and south.
+~
+66 9 0
+D2
+~
+~
+0 0 6692
+D3
+~
+~
+0 0 6689
+S
+#6691
+The Abyss~
+    The floor here is very smooth, which is all you can tell, since it is
+pitch-black and you can't see a thing.  You hear alot of chanting all around
+you, and have a bad feeling that this is where the most horrible fiends in the
+Abyss dwell, and where sacrifices like yourself are brought by their
+worshipers.  As you feel around, you find exits to the east and south.
+~
+66 9 0
+D1
+~
+~
+0 0 6689
+D2
+~
+~
+0 0 6694
+S
+#6692
+The Pit of the Abyss~
+    The floor here is very smooth, which is all you can tell, since it is
+pitch-black and you can't see a thing.  You hear alot of chanting all around
+you, and have a bad feeling that this is where the most horrible fiends in the
+Abyss dwell, and where sacrifices like yourself are brought by their
+worshipers.  As you feel around, you find exits to the west and north.
+~
+66 9 0
+D0
+~
+~
+0 0 6690
+D3
+~
+~
+0 0 6693
+S
+#6693
+The Ancient Temple~
+   This temple looks as if it were over a million years old.  It is filled with
+statues of different fiends, and other forms of undead that come here to
+worship their deity.  In the center you see the same statue you saw in the
+temple back in Kore.  Then, you realize that this is no statue.  It is,
+however, the most feared fiend in all of the Abyss, and a sight no mortal eyes
+should see.  The fiend stands before a large golden door, probably the way out
+of this Abyss.
+~
+66 9 0
+D0
+~
+~
+0 0 6689
+D1
+~
+~
+0 0 6692
+D3
+~
+~
+0 0 6694
+S
+#6694
+The Pit of the Abyss~
+    The floor here is very smooth, which is all you can tell, since it is
+pitch-black and you can't see a thing.  You hear alot of chanting all around
+you, and have a bad feeling that this is where the most horrible fiends in the
+Abyss dwell, and where sacrifices like yourself are brought by their
+worshipers.  As you feel around, you find exits to the east and north.
+~
+66 9 0
+D0
+~
+~
+0 0 6691
+D1
+~
+~
+0 0 6693
+S
+#6695
+Inside the Pool.~
+    You plunge into the murky depths of the pool and you wonder if
+this was such a good idea. The water is unpleasant in some way you
+cant quite define, but you see something glowing softly at the bottom
+of the pool and you reach out and grab onto it.
+~
+66 9 8
+D4
+~
+pool~
+2 6613 6654
+S
+#6696
+The River Lethe~
+   The River Lethe flows into and through the abyss.  Its water are dark
+and oily and death to mortals.
+~
+66 8 12
+D1
+~
+~
+0 0 6698
+D3
+~
+~
+0 0 6699
+S
+#6697
+The Obsidian Beach~
+   Bleached bones line the beach where unwary creatures touched the
+lethal waters.
+~
+66 8 6
+D3
+~
+~
+0 0 6659
+D4
+~
+~
+0 0 6658
+S
+#6698
+The River Lethe~
+   The River Lethe flows into and through the abyss.  Its water are dark
+and oily and death to mortals.
+~
+66 8 12
+D2
+~
+~
+0 0 6659
+D3
+~
+~
+0 0 6696
+S
+#6699
+The River Lethe~
+   The River Lethe flows into and through the abyss.  Its water are dark
+and oily and death to mortals.
+~
+66 8 12
+D1
+~
+~
+0 0 6696
+D3
+~
+gate iron~
+1 -1 5696
+S
+#99999
+$~

@@ -1,0 +1,315 @@
+>script_prog tour~
+  stand
+@
+@
+  say Ok, lets see if any other people want to go on the tour too.
+@
+@
+  mepechoaround $n The guide says, 'If any of you others want to go, type 'follow guide''
+@
+@
+  say Lets wait just a bit to see if others are interested.
+@
+@
+@
+@
+@
+@
+@
+@
+@
+@
+@
+@
+@
+@
+@
+  say Ok lets go.
+  group all
+@
+@
+  gsay Take a look at your maps, we'll be following that.
+@
+  gsay Right now we're one south of the temple.
+@
+@
+  gsay Rent is just east and up, so lets go there first.
+@
+@
+  east
+@
+  up
+@
+  gsay On this mud you have to rent.  (Don't rent now though!) 
+@
+@
+  gsay Later, when you want to rent out, just find a receptionist and type 'rent'.
+@
+@
+  gsay Sometimes you'll have equipment that's cursed or unrentable, and you might have to drop that stuff to rent.
+@
+@
+  gsay If that happens to you, just type 'offer' to get an idea of what you can't rent.
+@
+@
+  gsay Ok, back to the main tour.
+@
+@
+  down
+@
+  west
+@
+  gsay Ok this room (where we started) has a fountain in it..
+@
+@
+  gsay If you get thirsty, you can either find a fountain like this...
+  gsay (type 'drink fountain' to drink from it)
+@
+@
+  gsay ...or you can buy a canteen from Wally the Watermaster
+@
+@
+  gsay It's handier to have water on you. You regen faster when you're not hungry and thirsty.
+@
+@
+  gsay He's on the tour a little later, but I'll point him out.
+@
+@
+  gsay Lets go visit the baker and buy some bread to eat.
+@
+@
+  south
+@
+  south
+@
+  south
+@
+  south
+@
+  gsay Ok, we're 5 south of the temple now, at the West Gate.
+@
+@
+  gsay Once you get some levels the gates are great places to kill guards.
+  grin
+@
+@
+  gsay West out the gate and then south is the entrance to the slums of Kore.
+@
+@
+  gsay There's some good equipment in there and its a good place to go to when you're level 8-15.
+  wink
+@
+@
+  gsay The slums are 5 south, 2 west, 1 south from temple.
+@
+@
+  gsay The baker is just 2 east, 1 north of here...
+@
+@
+  east
+@
+  east
+@
+  north
+@
+  gsay Ok the baker's shop...
+@
+@
+  gsay In here, just type 'list' to see what he sells (Breads and stuff).
+@
+@
+  gsay and then to buy bread, just type 'buy bread'.
+@
+@
+  gsay There's some cool features so you can buy by number, and you can buy in bulk..
+@
+@
+  gsay so you can do things like 'buy 10 bread' which is pretty cool.
+@
+@
+  gsay Anyway, try 'help buy' if you have any problems.
+@
+@
+  gsay The baker is 5 south 2 east 1 north from temple.
+@
+@
+  gsay Ok lets continue...
+@
+@
+  gsay The armory is just a couple south of here, across the street ... so lets go there.
+@
+@
+  south
+@
+@
+  south
+@
+@
+  gsay Ok this is where you can buy armor...
+@
+@
+  gsay The equipment is so-so, kinda for beginners.
+@
+@
+  gsay Again, 'list' and 'buy' if you want anything.
+@
+@
+  north
+@
+  east
+@
+  east
+@
+  east
+@
+  north
+@
+  gsay Here's the weapon shop, you can buy OK weapons in here.
+@
+@
+  gsay This stuff is all equipment you 'wield'
+@
+@
+  gsay Ok lets continue..
+@
+@
+  south
+@
+  east
+@
+  south
+@
+  gsay Ok here's The water shop, you can buy canteens and things here.
+@
+@
+  gsay Ok let's go back to the temple..
+@
+@
+  gsay 1 north
+@
+@
+  north
+@
+  gsay 6 west to the west gate..
+@
+@
+  west
+  west
+  west
+  west
+  west
+  west
+@
+  gsay ...Then just 5 north to the temple of Vulmarta.
+@
+@
+  north
+  north
+  north
+  north
+  north  
+@
+@
+  gsay Vulmarta's pretty cool..
+@
+  gsay If you're hurt, come back to this room and she'll heal you.
+@ 
+@
+  gsay She'll even cure you if you get poisoned.
+@
+@
+  gsay Sometimes there's cool equipment in the donation room.
+@
+  gsay so let's go there, thats just west of here.
+@
+@
+  west
+@
+  gsay Maybe there's something good here, you never know.
+@
+@
+@
+@
+@
+@
+@
+@
+  east
+@
+  gsay Anyway, the newbie zone is 3 south, 1 west of temple.
+@
+@
+  south
+  south
+  south
+  west
+@
+  wave secretary
+@
+@
+  gsay Ok down is the entrance to the newbie zone.
+@
+@
+  gsay Lets go explore it.
+@
+@
+  down
+@
+  gsay Ok sometimes in the bin there are some waybreads.
+@ 
+@
+  gsay Waybreads come in handy when you are hungry.
+@
+@
+  gsay 'look in bin' to see if there are any,
+@
+@
+  gsay and if there are, type 'get waybread bin' to get em.
+@
+@
+  gsay One thing you can do in here is just wander around..
+@
+@
+  gsay consider all the mobs by name (like 'consider rabbit') and try to guess how hard they are.
+@
+@
+  gsay If they look like an even fight or easier, then 'hit dummy'
+@
+@
+  gsay Oh now would be a good time to 'wear all'
+@
+@
+  gsay and to 'wield' your weapons
+@
+@
+  smile
+@
+@
+  gsay Well that ends the tour, I hope you liked it.
+@
+@
+  up
+@
+  east
+@
+  north
+@
+  north
+@
+  ungroup all
+  sit
+~
+>command_prog follow~
+  group $n
+  if isscript($i)
+  else
+    mptrigger $n tour
+  endif
+~
+>rand_prog 10~
+  if isscript($i)
+  else
+    mpgoto 3005
+  endif
+~
+|

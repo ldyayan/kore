@@ -1,0 +1,35 @@
+#38
+the graveyard~
+3899 15 2 32
+M 0  3897    15  3894            a wraith
+O 0  3888   115  3894            a human skull
+M 0  3800     1  3834            Belliard, the Lich
+G 1  3862    99    -1                    give a black onyx sword
+D 0  3834     4     2            Inside a Large Sepulchre door up
+M 0  3896     1  3880            the caretaker
+G 1  3856    99    -1                    give a dirty key
+D 0  3880     2     1            Inside a Small Cottage door south
+M 0  3897    15  3875            a wraith
+D 0  3875     5     2            Before a Large Sepulchre door down
+M 0  3897     5  3877            a wraith
+M 0  3897     5  3878            a wraith
+D 0  3879     0     1            Before a small cottage door north
+M 0  3897    15  3898            a wraith
+D 0  3898     2     1            The Graveyard door south
+O 0  3888   115  3899            a human skull
+D 0  3899     0     1            The South Fence of the Graveyard door north
+M 0  3897    15  3896            a wraith
+M 0  3897    15  3897            a wraith
+M 0  3897    15  3888            a wraith
+M 0  3897    15  3893            a wraith
+M 0  3897    15  3891            a wraith
+M 0  3897    15  3874            a wraith
+M 0  3897    15  3884            a wraith
+M 0  3897    15  3885            a wraith
+M 0  3897    15  3895            a wraith
+M 0  3880     2  3886            the Graverobber
+M 0  3880     2  3886            the Graverobber
+M 0  3897    18  3831            a wraith
+S
+#99999
+$~

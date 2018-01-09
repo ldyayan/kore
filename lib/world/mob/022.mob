@@ -1,0 +1,436 @@
+#2200
+knight ethereal dark~
+the dark ethereal knight~
+A dark ethereal knight hovers over the bloody clearing.
+~
+The ethereal knight is clad in shadowy black armor. It appears as though he
+was involved in the carnage that occured here. His soul is trapped here, as
+he waits for release.
+~
+10 136 -1000 S
+25 0 -5 550d1+75 1d1+1
+0 100000
+8 8 1
+#2201
+treant tree~
+the old treant~
+A huge, gnarled tree stands here, battered by age and nature.
+~
+The old tree looks as though the wind has battered and torn at it for years.
+Very few leaves remain. Its limbs are crooked and gnarled. It moans as the 
+wind pushes it back and forth.
+~
+10 0 250 S
+20 0 -3 250d1+50 3d6+5
+0 35000
+8 8 0
+#2202
+dweller cave~
+the cave dweller~
+A slimy, gross creature is here munching on a corpse.
+~
+The cave dweller looks like a mixture of several disgusting monsters. It has
+a bird's beak, huge white eyes, a furry body, and long clawed hands and feet.
+It sees you and snarls.
+~
+8234 33554432 0 S
+15 5 2 150d1+75 3d6+3
+0 21000
+8 8 0
+#2203
+toad rock~
+the rock toad~
+A rather large rock toad sits here, croaking loudly.
+~
+A grey toad. Its about the size of a cow. Small horns grow all over its body.
+~
+10 1048576 250 S
+14 6 4 150d1+35 2d8+3
+0 17500
+6 6 1
+#2204
+weeping willow tree~
+the weeping willow~
+A large willow tree stands here, weeping.
+~
+The weeping willow has long thins branches. These branches seem to droop in
+anguish and dismay. You hear a faint sound of crying.
+~
+10 136 1000 S
+25 0 -5 550d1+50 4d6+5
+0 150000
+8 8 2
+#2205
+mist mistling~
+the mistling~
+A mistling emerges from the mist surrounding you.
+~
+It looks like a thin wisp of mist that has gained substance and size.
+~
+42 524298 0 S
+15 1 5 200d1+20 2d9+3
+0 22000
+8 8 0
+#2206
+swamp wraith~
+the swamp wraith~
+A swamp wraith emerges from the mist here.
+~
+The swamp wraith is made of mist and is in the image of a great warrior. He
+appears to emerge from the mist. You feel the cold radiating from his form as
+he nears you.
+~
+46 1573002 -1000 S
+20 0 -10 250d1+25 6d4+5
+0 50000
+8 8 0
+#2207
+ogre villager~
+the ogre villager~
+The ogre villager is here, going about its chores.
+~
+You see a pitifully overworked ogre. It is dressed in rags and shuffles along
+with its head hung low. It sees you and cringes in mortal terror.
+~
+4296 0 200 S
+10 11 3 100d1+20 2d6+2
+0 10000
+8 8 0
+#2208
+warrior ogre~
+the ogre warrior~
+The ogre warrior stands here, growling fiercely.
+~
+The ogre warrior is dressed in thick fur armor. He looks quite large and
+formidable.
+~
+4332 0 -350 S
+19 6 1 175d1+25 3d6+3
+0 22000
+8 8 1
+#2209
+guard ogre~
+the ogre guard~
+The ogre guard is here manning his post faithfully.
+~
+The ogre guard stands here manning his post. It appears as though he would
+fight to the death before abandoning his post.
+~
+4206 0 -500 S
+19 0 2 200d1+50 3d6+5
+0 35000
+8 8 1
+#2210
+shaman ogre~
+the ogre shaman~
+The ogre shaman is here chanting arcane words and waving his arms.
+~
+The ogre shaman is draped in thick fur cloaks and pelts. He has all types of
+charms and holy symbols draped about him. He looks at you and snarls.
+~
+4334 136 -750 S
+20 0 1 250d1+50 4d6+5
+0 45000
+8 8 1
+#2211
+chief chieftain ogre~
+the ogre chieftain~
+The ogre chieftain is here, observing his subjects.
+~
+   This is the biggest ogre you have ever seen. He is heavily equipped and 
+looks quite formidable. He towers high above you and growls menacingly.
+~
+131310 525480 -1000 S
+35 -4 0 550d1+50 5d5+5
+0 145000
+8 8 1
+#2212
+barbarian~
+the plains barbarian~
+A plains barbarian is here, clad in heavy furs.
+~
+The plains barbarian is clad in heavy furs. He seems used to the chilling cold
+and icy wastes.
+~
+238 1572864 0 S
+20 0 1 250d1+50 3d1+50
+0 3
+8 8 1
+#2213
+yeti white~
+the white yeti~
+The white yeti crouches here snarling.
+~
+The white yeti looks like a huge white snow ape. Its long arms end in long
+curved talons and its mouth is full of sharp teeth.
+~
+238 1572864 -350 S
+16 1 5 200d1+25 3d7+3
+0 28000
+8 8 0
+#2214
+worm ice white iceworm~
+the ice worm~
+A huge ice worm burrows through the ice and snow here. It rears up and
+attacks!
+~
+The huge worm is almost 50 feet long. Its huge gaping mouth spews ice and snow
+as it charges directly at you.
+~
+110 1572864 3500 S
+20 0 -5 250d1+75 3d6+5
+0 45000
+8 8 1
+#2215
+citizen minotaur~
+the minotaur citizen~
+A minotaur citizen is here, hurrying through the icy streets.
+~
+You see a rather ragged and cold minotaur. It appears to be looking for a warm
+place to seek refuge from the cold.
+~
+206 0 500 S
+15 5 3 100d1+90 2d5+5
+0 15000
+8 8 1
+#2216
+guard minotaur~
+the minotaur guard~
+A minotaur guard catches you trespassing and attacks!
+~
+The minotaur is clad in heavy furs. Beneath these furs, you see the gleam of
+his armor.
+~
+110 0 -330 S
+22 -2 0 400d1+40 4d6+5
+0 90000
+8 8 1
+#2217
+warrior minotaur~
+the minotaur warrior~
+A minotaur warrior is here looking for intruders.
+~
+You see a huge minotaur that is dressed in thick furs and armor. He has black
+fur and red eyes. He looks quite capable of protecting the city.
+~
+238 0 -330 S
+21 -1 0 300d1+50 3d7+5
+0 65000
+8 8 1
+#2218
+minotaur gatekeeper~
+the minotaur gatekeeper~
+A minotaur is here guarding the Keep of Mahn-Tor.
+~
+The minotaur stands rigidly before the gates of the keep. It looks quite
+miserable standing in the driven snow and ice.
+~
+548942 8 -330 S
+25 -4 -5 550d1+50 5d5+5
+0 100000
+8 8 1
+#2219
+minotaur high guard~
+the High Minotaur Guard~
+The high minotaur guard is here guarding the Keep.
+~
+The high guard is dressed in blue plate armour. He looks quite dangerous and
+skilled.
+~
+110 8 -330 S
+25 -4 -5 600d1+20 4d7+4
+0 130000
+8 8 1
+#2220
+minotaur royal guard~
+the Royal Minotaur Guard~
+The royal minotaur guard considers you an intruder and attacks!
+~
+The royal guard is quite huge. He is dressed in heavy red armor and wields a
+huge glaive. He looks quite capable of protecting the keep.
+~
+110 8 -330 S
+26 -6 -7 650d1+50 5d5+4
+0 160000
+8 8 1
+#2221
+guard minotaur elite~
+the Elite Minotaur Guard~
+The elite minotaur guard sees you and attacks!
+~
+This minotaur wields a huge morningstar and is clad in heavy crimson plate and
+furs.
+~
+110 8 -250 S
+28 -8 -8 800d1+50 6d5+5
+0 300000
+8 8 1
+#2222
+girl haremgirl harem slave~
+the harem girl~
+A harem girl cowers here in fear.
+~
+She looks quite attractive. Her low cut gown reveals why she was chosen to be
+in the harem.
+~
+206 0 1000 S
+2 20 10 50d1+10 3d1+5
+0 100
+8 8 1
+#2223
+butler minotaur~
+the minotaur butler~
+A minotaur butler stands here rigidly, awaiting orders.
+~
+He looks quite regal and refined to be a minotaur.
+~
+206 0 250 S
+20 1 0 1d12+247 3d6+4
+0 40000
+8 8 1
+#2224
+keeper minotaur ring-keeper~
+the Minotaur Ring-Keeper~
+The Minotaur Ring-Keeper stands guarding his post.
+~
+The ring-keeper is a huge minotaur. You notice a huge ring of multicolored
+keys hanging from his belt. He wears huge, spiked brass knuckles.
+~
+8270 136 -300 S
+35 -9 -9 100d3+700 5d7+5
+0 400000
+8 8 1
+#2225
+gorak minotaur warrior master~
+Gorak~
+Gorak, the Minotaur Master Warrior, is here practicing his skills.
+~
+Gorak is HUGE. His bulging muscles are confined beneath heavy armor. He is the
+master of the warrior guild of Mahn-Tor.
+~
+8234 136 -300 S
+40 -9 -10 2500d1+500 7d8+15
+0 800000
+8 8 1
+#2226
+darkoth minotaur anti-paladin master~
+Darkoth~
+Darkoth, the minotaur anti-paladin, stands here grinning wickedly.
+~
+Darkoth is a living incarnation of evil. He radiates a dark aura and a cold
+chill runs down your spine. He is the master of the Mahn-Tor anti-paladins.
+~
+8234 136 -1000 S
+40 -9 -10 2500d1+500 7d8+20
+0 800000
+8 8 1
+#2227
+tyrgoth minotaur paladin master~
+Tyrgoth~
+Tyrgoth, the minotaur paladin, is here worshipping silently.
+~
+Tyrgoth is the minotaur incarnation of good. You feel safe and at ease in his
+presence. He is the leader of the Mahn-Tor paladins.
+~
+8202 136 1000 S
+40 -9 -10 2500d1+500 7d8+15
+0 800000
+8 8 1
+#2228
+amyrok minotaur mage master~
+Amyrok~
+Amyrok, the minotaur archmage, is here chanting arcane spells.
+~
+Amyrok is a small minotaur. He is clad in loose robes and emits an aura of
+power. He appears quite dangerous, despite his size. He is the leader of the
+mages of Mahn-Tor.
+~
+8234 136 300 S
+48 -9 -10 2500d1+500 7d8+6
+0 800000
+8 8 1
+#2229
+sumaron minotaur cleric master~
+Sumaron~
+Sumaron, master cleric of Mahn-Tor, is here looking holy.
+~
+Sumaron is clad in white glowing robes. He is goodness incarnate. He is the
+master of all the clerics of Mahn-Tor.
+~
+8234 136 1000 S
+48 -9 -10 2500d1+500 7d8+5
+0 800000
+8 8 1
+#2230
+nasturn minotaur druid master~
+Nasturn~
+Nasturn, the minotaur druid, is here studying the arts of nature.
+~
+Nasturn is quite a natural looking minotaur. He is dressed in leather and
+wears no metal of any type. He looks at you and smiles.
+~
+8202 136 500 S
+40 -9 -10 2500d1+500 7d8+10
+0 800000
+8 8 1
+#2231
+belrak minotaur ranger master~
+Belrak~
+Belrak, the minotaur ranger, looks unhappy about having visitors.
+~
+Belrak is clad in green and brown leather. He looks quite agile and thin, when
+compared to the normal minotaur. He looks at you with a slight smirk.
+~
+8234 136 500 S
+40 -9 -10 2500d1+500 7d8+15
+0 800000
+8 8 1
+#2232
+dorgar minotaur thief master~
+Dorgar~
+Dorgar, the minotaur thief, is here hiding in the shadows.
+~
+Dorgar is clad all in black. He is tall and slender, unlike most minotaurs. He
+appears to be quite a skilled thief.
+~
+532526 1573000 -500 S
+40 -9 -10 2500d1+500 6d6+5
+0 800000
+8 8 1
+#2233
+mahn-tor minotaur grand master~
+Mahn-Tor~
+Mahn-Tor, the minotaur grand master, is here looking down at you.
+~
+Mahn-Tor towers above you. He is simply huge. Mahn-Tor is clad in the best of
+armor and robes. He wields the largest axe you have ever seen. You can see why
+Mahn-Tor is the leader of the minotaurs. He is awe-inspiring.
+~
+16777230 1573002 -500 S
+55 -10 -10 3000d1+500 9d9+40
+0 900000
+8 8 1
+#2234
+elemental~
+an elemental~
+An elemental stands here ready to assist Amyrok
+~
+A nice lookin elemental
+~
+4138 66600 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#2235
+dog glabrezou demon 2235~
+a glabrezou~
+A glabrezou is here growling with contempt.
+~
+A nice lookin dog.
+~
+4138 66600 0 S
+20 -30 10 4d5+5 4d5+5
+0 0
+8 8 0
+#99999
+$~

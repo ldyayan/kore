@@ -1,0 +1,85 @@
+>greet_prog 100~
+    emote smiles warmly as he looks up from his forge.
+~
+>rand_prog 4~
+    emote grumbles loudly about having to leave Kandelspire.
+~
+>rand_prog 4~
+    emote raises his hammer high overhead and brings it ringing down on some hot iron.
+~
+>give_prog redarmorpiece~
+    emote eyes the red dragon torso for a minute before disappearing into the back room.
+    emote returns and smiles happily.
+    mpsilent junk redarmorpiece
+    mpsilent mpoload 2020
+    give platemail $n
+    drop platemail
+~
+>give_prog red dragon torso hacked~
+    emote eyes the red dragon torso for a minute before disappearing into the back room.
+    emote returns and says, 'Sorry, but this is too badly damaged.  I'll give you 100 gold for it.'
+    mpsilent mpoload 2080
+    mpsilent junk hacked
+    give coins $n
+~~
+>give_prog greenarmorpiece~
+    emote eyes the green dragon torso for a minute before disappearing into the back room.
+    emote returns and smiles happily.
+    mpsilent junk greenarmorpiece
+    mpsilent mpoload 2021
+    give platemail $n
+    drop platemail
+~
+>give_prog green dragon torso hacked~
+    emote eyes the green dragon torso for a minute before disappearing into the back room.
+    emote returns and says, 'Sorry, but this is too badly damaged.  I'll give you 100 gold for it.'
+    mpsilent mpoload 2080
+    mpsilent junk hacked
+    give coins $n
+~
+>give_prog whitearmorpiece~
+    emote eyes the white dragon torso for a minute before disappearing into the back room.
+    emote returns and smiles happily.
+    mpsilent junk whitearmorpiece
+    mpsilent mpoload 2022
+    give platemail $n
+    drop platemail
+~
+>give_prog white dragon torso hacked~
+    emote eyes the white dragon torso for a minute before disappearing into the back room.
+    emote returns and says, 'Sorry, but this is too badly damaged.  I'll give you 100 gold for it.'
+    mpsilent mpoload 2080
+    mpsilent junk hacked
+    give coins $n
+~
+>give_prog bluearmorpiece~
+    emote eyes the blue dragon torso for a minute before disappearing into the back room.
+    emote returns and smiles happily.
+    mpsilent junk bluearmorpiece
+    mpsilent mpoload 2023
+    give platemail $n
+    drop platemail
+~
+>give_prog blue dragon torso hacked~
+    emote eyes the blue dragon torso for a minute before disappearing into the back room.
+    emote returns and says, 'Sorry, but this is too badly damaged.  I'll give you 100 gold for it.'
+    mpsilent mpoload 2080
+    mpsilent junk hacked
+    give coins $n
+~
+>give_prog blackarmorpiece~
+    emote eyes the black dragon torso for a minute before disappearing into the back room.
+    emote returns and smiles happily.
+    mpsilent junk blackarmorpiece
+    mpsilent mpoload 2024
+    give platemail $n
+    drop platemail
+~
+>give_prog black dragon torso hacked~
+    emote eyes the black dragon torso for a minute before disappearing into the back room.
+    emote returns and says, 'Sorry, but this is too badly damaged.  I'll give you 100 gold for it.'
+    mpsilent mpoload 2080
+    mpsilent junk hacked
+    give coins $n
+~
+|

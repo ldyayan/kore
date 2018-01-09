@@ -1,0 +1,26 @@
+>greet_prog 100~
+  if ispc($n)
+    say So we have guests who dare to bring implements of war into my presence when it is strictly forbidden.
+    say They must be very brave souls...or very foolish....
+  endif
+~
+>fight_prog 10~
+  if isfight($r)
+    mpecho $I beats her mighty wings!
+    mpechoat $r The force has blown you from the chamber!
+    mpechoaround $r $R is blown from the room!
+    mptransfer $r nearby
+  endif
+~
+>fight_prog 15~
+  if isfight($r)
+    if isaffected($r, sanctuary)
+      mpecho $I folds her wings up around her body tightly and mutters the words to a spell.
+      speak this is garbage!
+      mpcallmagic 'dispel sanctuary' $r
+      mpechoat $r Your aura flickers and dies!
+      mpechoaround $r The aura around $R flickers and dies!
+    endif
+  endif
+~
+|

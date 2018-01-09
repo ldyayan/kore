@@ -1,0 +1,120 @@
+#230
+The Training Arena~
+23099 12 2 35
+R 0 23000 23000    -1            remove a large marble box
+M 0 23000     1 23000            a cleric
+O 0 23000   101 23000            a large marble box
+P 1   510   101 23000                    put a waybread in a large marble box
+P 1   510   101 23000                    put a waybread in a large marble box
+P 1   510    99 23000                    put a waybread in a large marble box
+O 0 23001   101 23000            a deep marble fountain
+M 0 23013    50 23077            a young guard
+M 0 23015    30 23077            a demon warrior
+M 0 23015    30 23077            a demon warrior
+M 0 23016    30 23077            a young warrior
+O 0 23007   100 23002            a desk
+M 0 23018     1 23002            Ringil's secretary
+O 0 23087   101 23001            the seat of the Leader of Coven
+O 0 23086   101 23001            the seat of the Leader of TOOT
+O 0 23084   101 23001            the seat of the Leader of DragonLiege
+O 0 23083   101 23001            the seat of the Leader of Dynasty
+O 0 23085   101 23001            the seat of the Matron of House Vherin'Ultrin
+M 0 23012     1 23090            the elder battlemaster
+E 1 23015   101    17                    held an ornate walking cane
+E 1 23016    10    10                    arms a pair of shining gold armlets
+M 0 23013    15 23078            a young guard
+M 0 23015    30 23078            a demon warrior
+M 0 23015    30 23078            a demon warrior
+M 0 23016    15 23078            a young warrior
+D 0 23096     0     2            The Depths Of Your Own Mind door north
+M 0 23099     1 23096            the Dragon called 'Terror'
+M 0 23007    10 23045            a small demon
+M 0 23005    15 23045            an experienced warrior
+E 1 23010  1000     3                    neck 1 a short brown cloak
+M 0 23007    10 23048            a small demon
+M 0 23005    15 23048            an experienced warrior
+E 1 23009  1000     3                    neck 1 a long black cloak
+M 0 23017     1 23070            the senior battlemaster
+M 0 23013    50 23073            a young guard
+M 0 23015    30 23073            a demon warrior
+M 0 23015    30 23073            a demon warrior
+M 0 23016    30 23073            a young warrior
+M 0 23013    50 23075            a young guard
+M 0 23015    30 23075            a demon warrior
+M 0 23015    30 23075            a demon warrior
+M 0 23016    30 23075            a young warrior
+M 0 23013    50 23071            a young guard
+M 0 23015    30 23071            a demon warrior
+M 0 23015    30 23071            a demon warrior
+M 0 23016    30 23071            a young warrior
+M 0 23004    15 23021            a young untried warrior
+E 1 23006   100    16                    wield a killers blade
+M 0 23004    15 23026            a young untried warrior
+E 1 23005   100    16                    wield a long wooden staff
+M 0 23013    50 23068            a young guard
+M 0 23015    15 23068            a demon warrior
+M 0 23015    15 23068            a demon warrior
+M 0 23015    15 23068            a demon warrior
+M 0 23014     1 23060            the battlemaster
+M 0 23013    50 23067            a young guard
+M 0 23013    50 23065            a young guard
+M 0 23013    50 23061            a young guard
+M 0 23013    50 23063            a young guard
+M 0 23013    50 23057            a young guard
+M 0 23013    50 23051            a young guard
+M 0 23013    50 23053            a young guard
+M 0 23013    50 23055            a young guard
+M 0 23010    10 23058            a young combatant
+M 0 23010    10 23058            a young combatant
+M 0 23010    10 23058            a young combatant
+M 0 23013    50 23058            a young guard
+M 0 23005    15 23038            an experienced warrior
+M 0 23005    15 23038            an experienced warrior
+M 0 23005    15 23038            an experienced warrior
+E 1 23005   100    16                    wield a long wooden staff
+M 0 23004    15 23024            a young untried warrior
+E 1 23003   100     1                    left finger a ^Wsilver^n wire ring
+M 0 23004    15 23028            a young untried warrior
+G 1 23004   100    -1                    give a ball and chain
+M 0 23011     1 23050            the battlemaster
+M 0 23005    15 23031            an experienced warrior
+G 1 23002   850    -1                    give a bag of green powder
+M 0 23005    15 23037            an experienced warrior
+G 1 23002   850    -1                    give a bag of green powder
+M 0 23005    15 23036            an experienced warrior
+M 0 23005    15 23035            an experienced warrior
+G 1 23002   850    -1                    give a bag of green powder
+M 0 23005    15 23034            an experienced warrior
+G 1 23002   850    -1                    give a bag of green powder
+M 0 23005    15 23033            an experienced warrior
+M 0 23005    15 23032            an experienced warrior
+M 0 23007    10 23047            a small demon
+M 0 23005    15 23047            an experienced warrior
+M 0 23007    10 23043            a small demon
+M 0 23005    15 23043            an experienced warrior
+M 0 23007    10 23041            a small demon
+M 0 23009     1 23041            a large demon
+G 1 23002  1000    -1                    give a bag of green powder
+M 0 23005    15 23041            an experienced warrior
+M 0 23008     1 23040            the Battlemaster
+M 0 23007    10 23046            a small demon
+M 0 23007    10 23044            a small demon
+M 0 23007    10 23042            a small demon
+M 0 23006     1 23030            the Battlemaster
+M 0 23004    15 23027            a young untried warrior
+M 0 23004    15 23025            a young untried warrior
+M 0 23004    15 23023            a young untried warrior
+M 0 23004    15 23022            a young untried warrior
+M 0 23003     1 23020            the Battlemaster
+M 0 23001    20 23018            a training dummy
+M 0 23001    20 23017            a training dummy
+M 0 23002     1 23010            the Battlemaster
+M 0 23001    20 23016            a training dummy
+M 0 23001    20 23015            a training dummy
+M 0 23001    20 23014            a training dummy
+M 0 23001    20 23013            a training dummy
+M 0 23001    20 23012            a training dummy
+M 0 23001    20 23011            a training dummy
+S
+#99999
+$~

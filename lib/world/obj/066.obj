@@ -1,0 +1,153 @@
+#6600
+blood red broadsword broad sword agarwaen~
+a ^rblood-red^n broadsword~
+A broadsword slaked with ^rblood^n for immortal ages lies here...~
+~
+5 1 24577
+0 3 4 3
+11 1 1
+E
+agarwaen runes broad sword broadsword~
+You look with fear and dread on the cursed steel you see before you ...
+for etched into the blade's unearthly black metal are the runes
+'|``' >< |``' |>, |> |`` `|.' .. this is Agarwaen, the bloodsoaked sword
+of the great demon reaver!!
+~
+#6601
+key bronze~
+a bronze key~
+A bronze key has been carelessly left here.~
+~
+18 4 16385
+2 0 0 0
+10 1 1
+#6602
+chest~
+an ironbound chest.~
+An ironbound chest sits in the corner, burned and covered in blood.~
+~
+15 0 1
+100 11 6601 0
+30 1 1
+#6603
+bracelet ogre~
+a bracelet of ogre strength~
+A shining bracelet catches your eye.~
+~
+9 1 4097
+7 0 0 0
+4 1 1
+A
+1 2
+A
+13 20
+#6604
+armor diamond suit~
+^Wdiamond^n armor~
+A glittering suit of ^Wdiamond^n armor lies here.~
+~
+9 65 9
+9 0 0 0
+10 1 1
+A
+1 2
+A
+19 1
+#6605
+sapphire shield~
+a ^Csapphire^n shield~
+A ^Csapphire^n shield lies here in the dust.~
+~
+9 1089 513
+8 0 0 0
+8 12000 3000
+A
+19 3
+#6606
+skirt hide fiend~
+a skirt made of fiend hide~
+A white leather skirt made of some strange animal lies here.~
+~
+9 512 33
+5 0 0 0
+5 1 1
+E
+skirt hide fiend~
+  A skirt made of fiend hide.
+~
+A
+1 1
+A
+6 3
+#6607
+shirt hide fiend~
+a shirt made of fiend hide~
+A white leather shirt made of some strange animal lies here.~
+~
+9 0 9
+5 0 0 0
+5 1 1
+A
+6 3
+A
+3 2
+#6608
+candle baby tallow~
+a candle made of baby tallow~
+A strange looking candle lies here.~
+~
+1 577 1
+0 0 -1 0
+5 1 1
+A
+2 2
+A
+9 5
+#6609
+fiend talon~
+the fiend's talon~
+A Fiend's talon is lying here.~
+~
+5 513 8193
+0 7 2 11
+15 1 1
+#6610
+ruby red amulet~
+a ^rred^n amulet~
+A ^Rruby^n amulet lies here.~
+~
+9 65 5
+6 0 0 0
+8 10000 1
+A
+18 2
+#6611
+ochre black amulet~
+a black amulet~
+An ochre amulet lies here.~
+~
+9 0 5
+7 0 0 0
+6 10000 1
+A
+13 15
+#6612
+emerald green amulet~
+a ^ggreen^n amulet~
+An ^Gemerald^n amulet lies here.~
+~
+9 0 5
+7 0 0 0
+7 10000 1
+A
+19 -2
+#6613
+crystal key~
+a crystal key~
+A clear shiny key is here on the ground.~
+~
+18 44 16385
+6613 0 0 0
+1 0 0
+#99999
+$~

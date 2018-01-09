@@ -1,0 +1,16 @@
+>fight_prog 20~
+  mpechoat $r Your mind reels under the onslaught of a psionic blast!!
+  mpechoaround $r $R's mind reels in agony!!!
+  mpcallmagic 'feeblemind' $r
+  if rand(30) 
+    mpcallmagic 'scare' $r
+  endif
+  mpdamage $r 3d5+30
+~
+>fight_prog 10~
+  cast 'ice storm' $r
+~
+>fight_prog 20~
+  cast 'haste' $i
+~
+|

@@ -1,0 +1,19 @@
+>greet_prog 20~
+  if sex($r) == male
+    say excuse me sonny...
+    say could you tell me which of these houses are mine?
+    confuse
+  endif
+~
+>rand_prog 3~
+  say where is that house?
+  confuse $r
+~
+>fight_prog 15~
+  say HELP! HELP! I'M BEING ASSAULTED!
+  mpechoaround $r $I bashes $R with her purse.
+  mpechoat $r $I bashes you with her purse.
+  mpdamage $r 2d2+1
+~
+|
+

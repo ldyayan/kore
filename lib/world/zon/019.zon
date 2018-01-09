@@ -1,0 +1,81 @@
+#19
+Zhentil Keep~
+1999 30 2 3
+M 0  1919     1  1989            Kornah
+E 1  1915    50    10                    arms ^Wdiamond^n bracers
+E 1  1916    50    13                    waist a chainmail wrap
+D 0  1987     5     1            Lord Orgauth's Complex door down
+D 0  1996     5     1            The Throne Room door down
+O 0  1911   100  1945            a safe
+P 1  1913   100  1911                    put gold in a safe
+P 1  1914    50  1911                    put a cloak of darkness in a safe
+D 0  1945     4     1            Cellar door up
+M 0  1928     2  1945            a huge spider
+M 0  1928     2  1945            a huge spider
+M 0  1927     1  1997            Orgauth
+M 0  1926     2  1995            zeeas
+M 0  1926     2  1988            zeeas
+M 0  1920     1  1990            Karyl
+M 0  1921     1  1990            Lorna
+M 0  1918     1  1990            Olford
+M 0  1917     1  1951            Shalla
+O 0  1909   100  1917            a pool
+M 0  1903    15  1919            a sneak!
+M 0  1925     1  1983            Frrahr
+M 0  1922     1  1968            Toria
+M 0  1923     1  1968            Salena
+D 0  1948     2     1            Zhent Avenue door south
+M 0  1916     1  1944            Barrodar
+G 1  1910   100    -1                    give cellar key
+G 1  1912   100    -1                    give a key
+D 0  1944     5     2            Barrodar's Fantastic Fabrics door down
+M 0  1915     4  1928            warrior
+M 0  1915     4  1928            warrior
+M 0  1915     4  1929            warrior
+M 0  1915     4  1929            warrior
+O 0  1909   100  1916            a pool
+M 0  1914     1  1914            Valourish
+E 1  1908    75    13                    waist a bath towel
+D 0  1913     3     1            Mace Way door west
+M 0  1913     2  1915            a massive warrior
+E 1  1907   100    16                    wield a saber
+M 0  1913     2  1915            a massive warrior
+E 1  1907   100    16                    wield a saber
+M 0  1911     3  1903            a barmaid
+M 0  1912     4  1903            serving wench
+M 0  1912     4  1903            serving wench
+M 0  1911     3  1904            a barmaid
+M 0  1911     3  1904            a barmaid
+M 0  1912     4  1904            serving wench
+M 0  1912     4  1904            serving wench
+M 0  1910     1  1930            Cerenna
+E 1  1906    15    16                    wield a flaming sword
+M 0  1909     2  1910            a pegasi
+M 0  1909     2  1910            a pegasi
+M 0  1908     2  1909            a horse
+M 0  1908     2  1909            a horse
+M 0  1907     1  1960            Rak
+G 1  1905   100    -1                    give a ^rred^n potion
+G 1  1905   100    -1                    give a ^rred^n potion
+M 0  1906     1  1933            Ascot
+E 1  1904    25     3                    neck 1 a necklace of ^gherbs^n
+M 0  1905     1  1924            Artagalor
+E 1  1903    25     0                    light a shining light
+M 0  1904    20  1906            a citizen
+M 0  1904    20  1925            a citizen
+M 0  1904    20  1950            a citizen
+M 0  1904    20  1978            a citizen
+M 0  1904    20  1936            a citizen
+M 0  1903    15  1938            a sneak!
+M 0  1903    15  1905            a sneak!
+E 1  1902    15     3                    neck 1 a long ^ggreen^n cloak
+M 0  1901     1  1907            Luanna
+E 1  1901    25    16                    wield Massive two handed warhammer
+D 0  1902     1     2            Keris' Office door east
+D 0  1902     3     2            Keris' Office door west
+M 0  1900     1  1902            Keris
+G 1  1900   100    -1                    give a private key
+D 0  1932     2     1            Lodge of the Great Hunt door south
+S
+#99999
+$~

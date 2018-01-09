@@ -1,0 +1,537 @@
+#3700
+Temple Street~
+    Stalls and businesses are all around Farmer's Row, bringing in produce and
+farm animales from all around, along with village crafts and music. Up and down
+the street you see colorful shops and rustic folk selling their country wares.
+The air has a light scent of manure and good food. To the west you see the white
+pillared Temple of Vulmarta and looking east a ways you see the titanic North
+Gate.
+~
+37 0 1
+D0
+~
+~
+0 0 3701
+D1
+~
+~
+0 0 3720
+D2
+~
+~
+0 0 3054
+D3
+~
+~
+0 0 3703
+S
+#3701
+Stables~
+    All around the stalls are magnificent riding creatures. Chargers, ponies,
+donkeys, and thoroughbreds amoung other magnificent riding animals are well
+kept within the stalls. The stables and stalls are very clean and well kept.
+A few of the horses look like bad-quality swaybacks, however they are well 
+feed.
+~
+37 136 0
+D2
+~
+~
+0 0 3700
+S
+#3702
+Stable Store~
+   This is the small dark room where the stable keeps the mounts for sale.
+It is vital that this room's virtual number is one larger than the stable's
+number.
+~
+37 1032 0
+S
+#3703
+Farm Fresh Produce~
+   Foods from far away places as well as locally grown food are well-stocked
+into the vegetable stall. Heaped high in bins and attractively stacked are 
+mounds of gorgeous vegetables. Every thing in the stall looks very fresh as 
+if just picked.
+~
+37 152 0
+D1
+~
+~
+0 0 3700
+S
+#3704
+Temple Street~
+   All along Temple Street east and west up and down the street there are a
+great many little stalls and shops.  North is a little shop that looks to be a
+fletchers where bows and arrows are sold and south you see huge pools of blood
+in the street where the butcher sells fresh meat.  Just east is the looming
+grey granite North Gate.
+~
+37 0 1
+D0
+~
+~
+0 0 3705
+D1
+~
+~
+0 0 3707
+D2
+~
+~
+0 0 3706
+D3
+~
+~
+0 0 3720
+S
+#3705
+Fletcher Shop~
+   Huge bows and delicate little bows adorn the wall.  Here and there are
+slings and staff- slings, crossbows and throwing knives lying aroung.  In all
+this profusion of weaponry, are actual craftsmen at work on making new bows,
+carving them out of horn and wood, and other craftsmen at a grinder, balancing
+and grinding thrown knives.
+~
+37 136 0
+D2
+~
+~
+0 0 3704
+S
+#3706
+Butcher Shop~
+   Blood runs cold in thick pools to the gutter.  In the air is the strong
+sickly sweet smell of blood and corpse meat.  Huge red slabs of meat hang on
+hooks around the shop.  Near the back you see horseheads on a shelf, up front
+here you see mostly choice cuts of various meats.
+~
+37 136 0
+D0
+~
+~
+0 0 3704
+D1
+~
+~
+0 0 3708
+D2
+~
+~
+0 0 3712
+S
+#3707
+Gate Square~
+   Massive gates stand tall to the north.  Shops and bazaars run along Farmer's
+Row.  Music and revelry are coming from the different shops.  South is a awful
+spectacle of pilloried criminals.  Passed the gates to the north a tunnel leads
+down to the lands outside of Kore Springs.
+~
+37 0 1
+D0
+~
+gate~
+1 3112 3718
+D1
+~
+~
+0 0 3709
+D2
+~
+~
+0 0 3708
+D3
+~
+~
+0 0 3704
+D4
+~
+~
+0 0 3719
+S
+#3708
+Public Pillories~
+  In the stocks is a small gaggle of mostly men but a few women, watched over
+by guards.  They are in various conditions of helplessness, each with a note
+pinned on them proclaiming their crime.  North is Gate Square and the North
+Gate.  South is the back of the Palace of the Tyrant and a porch patio where
+the Tryant of Kore decrees the punishment of major offenders and off to the
+west are some sort of slaughtering pen behind the butcher shop.
+~
+37 0 1
+D0
+~
+~
+0 0 3707
+D1
+~
+~
+0 0 3711
+D3
+~
+~
+0 0 3706
+S
+#3709
+Temple Street~
+   Here on Temple Street you hear the sounds of revelry and the ringing of
+a blacksmith's hammer. Just north is the open blacksmith's shop. You see all
+kinds of iron objects offered for sale. Looking south you see a large outdoor
+beer garden in front of the public stage that the university puts out. Looking
+east you see a large cluster of brick buildings on the campus that must be
+the Bardic Colleges. Looming north and west just a ways is the North Gate and
+Gate Square.
+~
+37 0 1
+D0
+~
+~
+0 0 3710
+D1
+~
+~
+0 0 3715
+D2
+~
+~
+0 0 3711
+D3
+~
+~
+0 0 3707
+S
+#3710
+Blacksmith's Shop~
+   Inside the black and sooty blacksmiths shop.  A huge bellows near the back
+stokes a glowing pile of orange coals.  Around the room is a massive anvil, a
+wall of tongs and other instruments for working iron, and some various items
+under construction like gates and cages.  There is also a huge bucket of nails
+and horseshoes and various other odds and ends made of iron, probably made by
+his apprentices.
+~
+37 140 0
+D2
+~
+~
+0 0 3709
+S
+#3711
+Beer Gardens~
+   A large and cheerful beer garden with a pavilion with chairs and places to
+sit and listen to music and watch plays on the stage.  This is where the Bardic
+College's public performance area plays music and has festivals which run
+non-stop year round.  In the beer gardens is where patrons may order beer and
+edibles and relax.  Talking and laughter is encouraged and the atmosphere is
+slightly drunk.
+~
+37 128 1
+D0
+~
+~
+0 0 3709
+D1
+~
+~
+0 0 3713
+D3
+~
+~
+0 0 3708
+S
+#3712
+Slaughter Pen~
+   This is a wild and crazy slaughter pen.  Animals run amok here in the dirt
+and mud behind the butcher shop.  The pen is a nasty affair where the animals
+are usually held by the lips or snout by a dog and then roughly butchered where
+they stand.  Piles of offal and innards draw flies like crazy. 
+~
+37 0 2
+D0
+~
+~
+0 0 3706
+S
+#3713
+Outdoor Stage~
+   A wide raised stage takes up alot of space.  There are props about and ropes
+and barrels for scenery, but all that is somewhat hidden from the audience.  
+Up here you see the crowds out in the beer gardens west and sense people behind
+you backstage.
+~
+37 4 1
+D0
+~
+~
+0 0 3715
+D1
+~
+~
+0 0 3714
+D3
+~
+~
+0 0 3711
+S
+#3714
+Backstage~
+   Backstage gives you an entirely different perspective on the performance.
+It's in some ways almost more interesting. Looking around you see the ropes
+and pulleys that control the stage curtains and the various movable props like
+the sun and moon. Looking west you see out over the stage and into the beer
+gardens and the crowds.
+~
+37 8 0
+D3
+~
+~
+0 0 3713
+S
+#3715
+Temple Street~
+   Looking around the North End, you see just east the west entrance of the
+Bardic college campus. Looking north you see their public musical instruments
+shop, where magical bardic instruments are sold to raise money for the school,
+and south you see their public playhouse where most of their revenue besides
+guild fees are collected. The stage is just south but where you're standing
+isn't where the audience normally is; they usually watch the performances from
+the beer gardens just west and south. Looking west down temple street you see
+the North Gate and much farther, the white temple of Vulmarta.
+~
+37 0 1
+D0
+~
+~
+0 0 3716
+D2
+~
+~
+0 0 3713
+D3
+~
+~
+0 0 3709
+S
+#3716
+Music Shop~
+   A small but well-lit music shop has instruments which are hung around the
+wall and under display cases.  You see all manners of musical instruments, all
+obviously of fine quality.  Not true Bardic instruments, they are nonetheless
+very special.
+~
+37 156 0
+D2
+~
+~
+0 0 3715
+S
+#3717
+Outside the North Gate~
+   Looming edifice of solid granite, cold and forbidding.  Strangely bedecked
+with dark banners, the gate looks almost tattered yet strong beneath like a
+hulking behemoth.  On the upper levels rows upon rows of defensive arrow slits.
+It is easily the most massive gatehouse ever built.  A portcullis covers the
+north entrance which is little more than a tunnel that passes under it.  North
+is the wide open fields of the surrounding countryside.
+~
+37 0 2
+D0
+~
+~
+0 0 3722
+D2
+~
+portcullis~
+1 3112 3718
+S
+#3718
+Under the Murder Holes~
+   Inside the great north gate of Kore Springs black granite surrounds the the
+great gate.  Murder holes are hovering above where once boiling oil could pour
+out of them at any time.  To the south is Gate Square, north is the open
+countryside of Kore Springs.
+~
+37 4 1
+D0
+~
+portcullis~
+1 3112 3717
+D2
+~
+gate~
+1 3112 3707
+S
+#3719
+Exposed landing~
+   You stand on an exposed landing. A stairway down leads back to the street.
+But up here all there is is a door into the gatehouse. Right next to you you
+see an arrow slit where a crossbow could peg you point-blank and next to that
+slit an intriguing array of slits that overlook the square ... to be able
+to fire on people in the square?
+~
+37 4 1
+D5
+~
+~
+0 0 3707
+S
+#3720
+Temple Street~
+   Temple Street traffic goes briskly by, with commoners and peasants and
+wealthier merchants pressing together and bustling about.  Looking north you
+see a bankers shop.  Kore is famous for its merchant banks and loans and its
+innovative bank book systems where a person can keep track of their account 
+and make deposits and such like.  Looking east and west you see the Temple 
+of Vulmarta west and east you see the North Gate and far far east the Bardic
+Colleges.  
+~
+37 0 1
+D0
+~
+~
+0 0 3721
+D1
+~
+~
+0 0 3704
+D2
+~
+~
+0 0 531
+D3
+~
+~
+0 0 3700
+S
+#3721
+Bank of Kore~
+    Marvelous white marble makes up the bank of Kore. The interior is hushed
+like a temple and oddly it is similarly decorated. Counting tables fill the
+room and large cabinets filled with counted gold placed in sacks are lined
+the room.
+~
+37 12 0
+D2
+~
+~
+0 0 3720
+S
+#3722
+On a Path North of Kore~
+   You are on a dirt path leading away from Kore.  South you see the high 
+walls of Kore, and there, in the wall, is an arch that leads into the
+Temple of Vulmarta.  Strangely, the wall is open there to the coast to the
+north.  The countryside is lush and the path leads to the Dragonspine 
+Mountains far off to the north.
+~
+37 0 2
+D0
+~
+~
+0 0 3723
+D2
+~
+~
+0 0 3717
+S
+#3723
+Northern Kore Countryside~
+   You are walking on a wide dirt path through the lush, green, fresh
+Kore countryside.  You can see to the horizon to the north, east,
+and west; the busy city of Kore lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   The path you are on continues north through the field and south back
+to Kore.
+~
+37 0 2
+D0
+~
+~
+0 0 3724
+D2
+~
+~
+0 0 3722
+S
+#3724
+Northern Kore Countryside~
+   You are walking on a wide dirt path through the lush, green, fresh
+Kore countryside.  You can see to the horizon to the north, east,
+and west; the busy city of Kore lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   There is a strange structure on the eastern side of the path.  A small
+dirt path splits off of the main path and leads off to the west.
+~
+37 0 2
+D0
+~
+~
+0 0 3726
+D1
+~
+~
+0 0 18600
+D2
+~
+~
+0 0 3723
+D3
+~
+~
+0 0 3725
+S
+#3725
+A Dirt Path~
+  You are walking along a narrow dirt path north of Kore. The little path
+leads a winding way into a light forest to the west. To the east is a
+trail running back to the city.  To the north is a patch of untamed
+underbrush blocking your way... wait, there seems to be a small path just
+big enough for a single person to pass through.  Except for the rustling
+of the wind, all is quiet, and there is a sense of expectancy in the air.
+~
+37 0 2
+D0
+~
+~
+0 0 4296
+D1
+~
+~
+0 0 3724
+D3
+~
+~
+0 0 22100
+S
+#3726
+Northern Kore Countryside~
+   You are walking on a wide dirt path through the lush, green, fresh
+Kore countryside.  You can see to the horizon to the north, east,
+and west; the busy city of Kore lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   A small path lined by stands of poplar trees extends to the north.
+~
+37 0 2
+D0
+~
+~
+0 0 221
+D2
+~
+~
+0 0 3724
+S
+#99999
+$~

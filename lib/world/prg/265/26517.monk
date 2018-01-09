@@ -1,0 +1,18 @@
+>greet_prog 25~
+  say The day cometh Orsus shall walk among mortals into the City of Kore!
+  say Be you here to help him?
+~
+>death_prog 100~
+  if hasobj($i) == 26406
+    mpecho A ray of light shines down through the ceiling.
+    mpecho You have answered my riddle be on your way and make haste.
+    mpsilent drop 26406
+    mpecho Seconds after the last word, the light is gone.
+  else
+    mpecho A ray of light shines down through the ceiling.
+    mpecho Someone says, 'The words I have spoken were clear.'
+    mpecho Someone says, 'Yet you know not the answer.'
+    mpecho Seconds after the last word, the light is gone.
+  endif
+~
+|

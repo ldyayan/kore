@@ -1,0 +1,648 @@
+#18700
+Sammath Nimfthrond the Whitehall Chambers~
+   You stand in awe of the great throneroom here deep inside of Nimfthrond.
+Tall spires of impossibly beautiful columns hold up a ceiling so high and
+grand as to take your breath away. The white walls are covered by silk
+tapestries depicting the ancient lineage of the kings and queens of the
+kingdom of elves since time immemorial.
+   The eastern side of the room rises in a dais to the royal presence, the
+north opens out to an incredible tower balcony, and south you see a walkway-
+bridge that leads straight out of the tower to the clouds and ends in a door
+of ineffable darkness that fills you with unease.
+~
+187 136 0
+D0
+~
+~
+0 0 18703
+D1
+~
+~
+0 0 18702
+D2
+~
+~
+0 0 18704
+D3
+~
+~
+0 0 18701
+S
+#18701
+Antechamber~
+   You look about a sumptuous antechamber. Carpeted with regal greens and gold,
+decorated with filligree and shields and armor-work of ancient elves in all
+their regal splendor. High up on the black walls your eyes light on silk
+tapestries of the noble houses.
+~
+187 8 0
+D1
+~
+~
+0 0 18700
+D5
+~
+~
+0 0 18705
+S
+#18702
+Sammath Giliath the Chamber of the Starhost~
+   You look about the dais of the Starlords whereon sits the thrones, both
+made of onyx with sparlking with diamonds. A shimmering, sparkling shield 
+magically protects the king and queen from magic cast from the main room, and
+magical ensorcelment keeps the uninvited from approaching the throne this
+close.
+~
+187 520 0
+D3
+~
+~
+0 0 18700
+S
+#18703
+Talandon the High Platform~
+   Out here looking out over the balcony, you see the wind and clouds over the
+great island. The balcony is spacious and open to the sky. The finely wrought
+grill shows scrolling vinework and ivy leaves and through it you look out over
+the dark sea.
+~
+187 8 0
+D2
+~
+~
+0 0 18700
+S
+#18704
+Vilyiant the Sky Bridge~
+   You stand out on a windy bridge with no guardrails high high over the
+island hill of Tol Eldar. North is the entrance cut into the great royal
+tower, and south the bridge ends in a black open space that from
+a distance could resemble a door but is in fact, ineffable darkness...
+   Far below you you see the town and shudder at how far down it is...
+~
+187 8 0
+D0
+~
+~
+0 0 18700
+D2
+~
+~
+0 0 18713
+S
+#18705
+Stairwell~
+   The grand stairwell turns grandly up and down, curling upwards up and
+around clockwise.  The stairs and walls are made of warm white stone, with
+streaks of silver, that feel pleasant to the touch.  Occasional slits for
+windows illuminate it with a glow.
+~
+187 8 0
+D4
+~
+~
+0 0 18701
+D5
+~
+~
+0 0 18706
+S
+#18706
+Baranthrond the Brownhall~
+   You stand in a great hall, the uppermost hall by your judgement; it has
+a wide vista to the north of stained glass windows showing scenes from the
+court of the grey elves' glorious past. Unicorns and maidens, elven knights
+riding dragons, first elves' riding griffins, sailing ships that travel a
+black sky studded with diamond stars ...
+   The Brownhall is panelled with dark wood that seems to glow, and hung with
+red silks and bronzework. You see a set of stairs, a fireplace, long tables,
+fine cabinets, two sets of balconies east and west, and an arch north to a
+solarium, and a partly screened arch south.
+~
+187 8 0
+D0
+~
+~
+0 0 18707
+D1
+~
+~
+0 0 18712
+D2
+~
+~
+0 0 18708
+D3
+~
+~
+0 0 18710
+D4
+~
+~
+0 0 18705
+D5
+~
+~
+0 0 18714
+S
+#18707
+Sammath Anor the solarium~
+   You stand inside of a grand solarium enclosed by walls of stained glass.
+Finely worked and brilliantly illuminated. Just looking at them is inspiring,
+and you feel new strength inside - some of the images make you feel glad,
+others sad, but you feel protected, just being near them.
+~
+187 8 0
+D2
+~
+~
+0 0 18706
+S
+#18708
+Mellontalan a guest room~
+   You come inside a private room, lovingly and suptuously decorated in high
+grey elven style. The entirety of the room is carpeted in a pattern of royal
+white and green, and the walls are panelled with glowing mellyrn wood. About
+the room is a desk and fireplace, bed and dresser and basin, and beyond
+is a tapestried exit to a verandah.
+~
+187 524 0
+D0
+~
+~
+0 0 18706
+D2
+~
+~
+0 0 18709
+S
+#18709
+Talan~
+   Looking around, you see you are on a wind-swept verandah. Looking down the
+side of the royal castle tower, you see the hilly island of Tol Eldar...
+and all about the bottom you stand amazed, for the garden that seems so large
+from the bottom is nothing but a encircling moat of green trees from here...
+it seems like you are miles and miles up.
+~
+187 520 0
+D0
+~
+~
+0 0 18708
+S
+#18710
+Aewiant the Bird Bridge~
+   You walk out onto a precarious flying bridge which arches between the
+massive central tower and a jutting side tower. Looking down, you see the
+city miles below you while wind whips a fury around you. Looking west you
+see the entrace to the wing tower and looking east you see an arch which cuts
+into the greatest hall.
+~
+187 8 0
+D1
+~
+~
+0 0 18706
+D3
+~
+~
+0 0 18711
+S
+#18711
+Tol Echen~
+   You stand inside a marvelous tower, filled with ornament. All about are
+hanging silks and hunting trophies; here the royal guard rest and keep watch
+for the safety of the royal state. Apparent in the design of the tower is
+that works of art fascinate elves - sculpture, pottery, painting, games,
+calligraphy, musical instruments ... are here arranged or moved about as the
+elves play with them, contemplate them, and admire and debate, while keeping
+guard too.
+~
+187 8 0
+D1
+~
+~
+0 0 18710
+S
+#18712
+Corthrond the Ringhall~
+   You come into the Hall of Rings, where the Grey Elves hold council with
+the noble houses of Tol Eldar. The room is large and spacious, with marble
+floors and a table made of wedges of multi-colored marble. The walls are
+draped with silks showing the history of the grey elves, the times of strife,
+peaceful mountain scenes, portratures of their great heroes flying ships in
+a starry night sky...
+   West you see Baranthrond, the Brownhall.
+~
+187 8 0
+D3
+~
+~
+0 0 18706
+S
+#18713
+Pellon Annon Ia, Beyond the Door to the Void~
+   You sink into darkness, beyond the door of the void. You feel like 
+you are tumbling and falling, and your hair is whipped by an unseen wind...
+All around you are gorgeous stars, and you see all of the world spread out
+below you but you dont fall, you simply seem to float in silence.
+~
+187 8 0
+D4
+~
+~
+0 0 18704
+S
+#18714
+Amonthrond hillhall~
+   You come into a great hall, with beautiful blue double doors south, and a
+set of stairs heading up. All about the hall are windows and sparkling silver
+objects, too wondrous to touch. A table decorated with living flowers occupies
+the center of the room and the whole place has a marvelous marble-white shine.
+~
+187 8 0
+D2
+~
+~
+0 0 18715
+D4
+~
+~
+0 0 18706
+S
+#18715
+Before Nimfthrond~
+   You stand before a glowing palace, with two beautiful blue doors to the
+north. The walls are a shimmering white stone that makes your heart quake, and
+under your feet your eyes water with joy at the sight of perfect grass here
+only to walk on. You shake your head at the wondrous elf-magic, and reflect
+for a moment on their power over imagination.
+~
+187 0 0
+D0
+~
+~
+0 0 18714
+D1
+~
+~
+0 0 18716
+D3
+~
+~
+0 0 18718
+D5
+~
+~
+0 0 18717
+S
+#18716
+A grassy vale~
+   You come to a grassy vale. Out on this spit of land you see looking down
+each side, terrible precipices, but looking out over the great sea, you see 
+that you have a marvelous view. A trail leads west before the blue doors to
+Nimfthrond, the elven-king's castle.
+~
+187 0 0
+D3
+~
+~
+0 0 18715
+S
+#18717
+Pinnath~
+You walk on a precarious set of wind-blown steps called the Pinnath. This
+ridge of stairs stands up and way from the mountain, twisting sinuously
+down its side. Raised by elfin magic, the stairs have steep sides that
+keep one eager to stay in the middle. Looking out over the stairs and to
+the east you see a small grove and a red-roofed house of some kind. Looking
+off the stairs far down and to the west, you see a tower and grove of trees.
+The stairs run up and down.
+~
+187 0 0
+D4
+~
+~
+0 0 18715
+D5
+~
+~
+0 0 18720
+S
+#18718
+Along the Castle Wall~
+   You walk along the south side of the wondrous elven castle. The air is cool
+and fresh and from these heights you see the magical elven sea churning around
+the island of the elves. A small path leads down and to the west out to a spit
+of a shoulder, very barren, but an excellent vantage point. To the east you
+see the castles bright blue doors.
+~
+187 0 0
+D1
+~
+~
+0 0 18715
+D3
+~
+~
+0 0 18719
+S
+#18719
+A Desolate Spur of Land~
+   You stand out in the hard-biting cold winds on a spur of land, like the
+mountains shoulder, and look out over the wide expanses of magical elfsea.
+The heather hugs the ground and is shaken almost from its roots. The place
+is desolate, no one could live here, and yet it does seem as though one
+stands guard here, standing sentinel...
+~
+187 0 0
+D1
+~
+~
+0 0 18718
+S
+#18720
+On the Pinnath by the Shrine~
+You stand on the Pinnath, a great set of stairs that leads right up Tol Eldar.
+East on a small hump of rock is a red-roofed shrine of some kind, that almost
+seems to glow with light. Looking off that direction you see more paths past
+the house as well. Some sound like bronze roars comes from the small red
+house.
+~
+187 0 0
+D1
+~
+~
+0 0 18721
+D4
+~
+~
+0 0 18717
+D5
+~
+~
+0 0 18722
+S
+#18721
+Carnagon Ahathrond~
+You stand inside a marvelous red and gold structure. It is *huge* inside,
+with massive red-painted timbers rising to the ceiling. On every timber
+is a symbol of sun and light and power and flame. In the center of the room,
+too huge and too bright to look at directly is a white fireball suspended
+in midair.
+~
+187 8 0
+D3
+~
+~
+0 0 18720
+S
+#18722
+Pinnathgond~
+You stand outside in the open air next to a very large rock where the stairs
+turn. You look around yourself on the Pinnath stairs at the immense mountain
+island of Tol Eldar. Looking up a ways and to the east you see a red house
+and a much much farther up the stairs you see a castle that shines with light.
+The stairs run up and down.
+~
+187 0 0
+D3
+~
+~
+0 0 18723
+D4
+~
+~
+0 0 18720
+S
+#18723
+Winding Stairs~
+   You stand on a turn in the pinnath, where elf-magic wound the stairs
+around an outcropping of rock rather than assimilate it. Looking east and 
+up and around you see a golden red structure, like a house. Looking down
+you see the stairs run right down the side of Tol Eldar.
+~
+187 0 0
+D1
+~
+~
+0 0 18722
+D5
+~
+~
+0 0 18724
+S
+#18724
+Stately Grove~
+   You enter a grove of trees on the side of the mountain Tol Eldar.  The
+pinnath runs right through it, winding up and to the east. All around in the
+trees you hear birds and see glimpses of wondrous creatures. Between the trees
+and far off the pinnath you see a house to the west. From here you dont see
+a direct route, but perhaps around the base of Tol Eldar ...
+The stairs run down and down and curve off to the east.
+~
+187 0 0
+D4
+~
+~
+0 0 18723
+D5
+~
+~
+0 0 18725
+S
+#18725
+On the Open Stairs~
+   You stand in a precarious position on the open stairs .. to either side,
+east and west you see quite a fall .. Here at this spot is a small landing
+where the stairs turn, a perfect place to guard and to defend it. Up the 
+stairs a ways you see a grove of trees and down the stairs not too far
+you see a dark forest at the base of the mountain. South and off the stairs
+you look down into a great castle while north is but the face of the mountain.
+~
+187 0 0
+D4
+~
+~
+0 0 18724
+D5
+~
+~
+0 0 18726
+S
+#18726
+On the Stairs Down the Mountain~
+   The stairs start to come up from the ground .. and you see now that they
+rise up out of the rock like a spine almost ... and curl and wind their way
+up the side of the mountain. The stairs are surprisingly easy to climb -
+you hardly feel winded just walking up. To the south you see a dark forest.
+And high high up the hill you get a glimpse of a glowing castle with blue
+trim.
+~
+187 0 0
+D1
+~
+~
+0 0 18728
+D4
+~
+~
+0 0 18725
+S
+#18727
+Guard Talan~
+You stand on a lookout platform down to the ground below.
+~
+187 0 0
+D1
+~
+~
+0 0 18729
+D3
+~
+~
+0 0 18726
+D5
+~
+~
+0 0 18728
+S
+#18728
+Rocky Path~
+You climb the rocky path on the side of Tol Eldar. The going is a little steep
+but not bad, with tall trees to the south. And in those trees, you think you
+spy lookout platforms ... and above you more of these talans. You are being
+watched..
+~
+187 0 4
+D1
+~
+~
+0 0 18729
+D3
+~
+~
+0 0 18726
+S
+#18729
+Flowering Field~
+You come out into a hillside meadow, filled with wondrous flowers and dazzling
+with color. The bare rockside face of Tol Eldar looms to the north, and cut
+out of the rock you see a path of steps. The meadow spills out at its end,
+and makes for a wondrous welcome to the visitors and guests of whosoever must
+live at the top of this magical mountain.
+~
+187 0 2
+D1
+~
+~
+0 0 18730
+D3
+~
+~
+0 0 18728
+S
+#18730
+Dark Forest~
+You stand on a curving path inside a dark dark wood. You dont feel any danger
+just a sense of great mystery. The trail begins to slope uphill to the west
+and climb the summit of a majestic mountain - impassable but for this trail.
+To the south the trail winds deeper into the dark woods and from that direction
+you hear a faint buzz or hum.
+~
+187 0 3
+D2
+~
+~
+0 0 18731
+D3
+~
+~
+0 0 18729
+S
+#18731
+Woodwoses Shrine~
+You stand in quiet awe of an incredible natural shrine. It seems as if
+someone or some agent of forest power has stacked slate in such a way as
+to create a huge arch of rock, the strangest thing you've ever seen!
+Tracks lead to and from it and something inside you quakes at the idea of
+getting too close to it, for it eminates a radiating power that does not
+make you feel altogether comfortable .. but you dont sense anything sinister
+about it either ...
+~
+187 1 3
+D0
+~
+~
+0 0 18730
+D2
+~
+~
+0 0 18732
+S
+#18732
+In Thick Woods~
+You stand amongst a copse of tall pines. Looking around into the deeping
+darkness between the trees you really don't see a way about or around.
+All that is left to follow is the path.
+~
+187 1 3
+D0
+~
+~
+0 0 18731
+D2
+~
+~
+0 0 18733
+S
+#18733
+On a rock table~
+You stand on a wierd rock table just west of an immensely beautiful lake.
+The waters as you look out over them seem to shine with a silvery light.
+The lake is ringed with reeds, reeds that rustle without wind and somewhere
+far off you hear laughter. .. are you being watched?
+To the north you see a space like a door into thick woods; the trail runs
+south to a large and wondrous white city, all roofed with blue tile.
+~
+187 0 2
+D0
+~
+~
+0 0 18732
+D1
+~
+~
+0 0 18734
+D2
+~
+~
+0 0 18735
+S
+#18734
+Nyphaelin, the White Lake~
+You stand on the shores of a great greyish lake. In sunlight and moonlight it
+sparkles like a diamond and every so often it shines like one solid silver
+platter. Its waters are calm and still and seem unusually deep.
+~
+187 0 6
+D3
+~
+~
+0 0 18733
+S
+#18735
+Before Annon Rhun, the East Gate~
+   You stand outside the bright white walls of the city of Nimfaerlonn. Over
+its walls you see tall poplars and the roofs of stately houses. A wilderland
+spreads out to the east and to the north is a forest. A path here turns west
+into the great city and north to the forest past a smooth lake.
+~
+187 0 0
+D0
+~
+~
+0 0 18733
+S
+#99999
+$~

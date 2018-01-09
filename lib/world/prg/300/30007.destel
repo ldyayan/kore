@@ -1,0 +1,54 @@
+>greet_prog 70~
+  if ifscript($i)
+  else
+    mptrigger $n greeting
+  endif
+~
+>script_prog greeting~
+  emote jumps up in surprise at your entrance!
+  say Hello, what's all this, come to rescue me?
+  emote waits patiently for a response. 
+@ 
+@
+  say Well, I'm not waiting to find out.
+  say I'm outta here, get out of my way!
+  mpechoaround $n $N stands in front of Destel, preventing him from leaving.
+  mpechoat $n You move to block Destel's exit from the cell.
+@
+  shout I said get out of way!
+  growl
+  say No one stands in my way!
+  backstab $n
+~
+>fight_prog 5~
+  if inroom($r) == here
+    shout You're no match for me!
+    mpecho Destel holds a serrated dragons claw out stretched.
+    mpecho Destel begins to spin around, slicing your chest with the claw!
+    mpdamage all 10d5+50
+    roar
+  endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+    berserk
+  endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+    mpechoaround $r Destel cunningly avoids $R's blows and strikes $K hard in the neck.
+    mpechoat $r Destel cunningly avoids your blows and strikes you hard in the neck.
+    mpsilent riposte
+  endif
+~
+>fight_prog 7~
+  if hasworn($i) == 30014
+    mpechoaround $r Destel pins $R against the wall and drives a serrated dragons claw into $L chest.
+    mpechoat $r Destel pins you against the wall and drives a serrated dragons claw into your chest!
+    mpechoaround $r $R screams out in pain and falls to $L knees.
+    mpechoat $r You scream out in pain and fall to your knees.
+    mpdamage $r 1d1+200
+    mppose $r sit
+  endif
+~ 
+|

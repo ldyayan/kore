@@ -1,0 +1,50 @@
+>entry_prog 100~
+  if race($n) == orc
+    if rand(20)
+      speak i am lowly do not hurt me
+    endif
+    grunt
+  else
+    if race($n) == elf
+      speak die elf die!!
+      hit $n
+    else
+      if rand(50)
+        hit $n
+      else
+        flee
+        flee
+        flee
+      endif
+    endif
+  endif
+~
+>greet_prog 100~
+  if race($n) == orc
+    if rand(10)
+      speak i am lowly do not hurt me
+    endif
+    grunt
+  else
+    if race($n) == elf
+      speak die elf die!!
+      hit $n
+    else
+      if rand(50)
+        hit $n
+      else
+        flee
+        flee
+        flee
+      endif
+    endif
+  endif
+~
+>fight_prog 10~
+  claw $r
+  mpdamage $r 5d10
+~
+>fight_prog 10~
+  flee
+~
+|

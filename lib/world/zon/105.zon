@@ -1,0 +1,29 @@
+#105
+Oceania~
+10599 25 1 3
+M 0 10500     1 10500            the crusty old Captain
+M 0 10501    10 10506            the huge, green Sea Serpent
+M 0 10501    10 10511            the huge, green Sea Serpent
+M 0 10501    10 10548            the huge, green Sea Serpent
+E 1 10500    10     5                    body a beautiful green-metallic scale armor
+E 1 10501    10    16                    wield a pair of dragon's claws
+M 0 10501    10 10545            the huge, green Sea Serpent
+M 0 10501    10 10519            the huge, green Sea Serpent
+M 0 10501    10 10516            the huge, green Sea Serpent
+M 0 10501    10 10525            the huge, green Sea Serpent
+E 1 10500    10     5                    body a beautiful green-metallic scale armor
+E 1 10501    10    16                    wield a pair of dragon's claws
+M 0 10501    10 10534            the huge, green Sea Serpent
+M 0 10502    20 10501            a viscious barracuda
+M 0 10502    20 10514            a viscious barracuda
+M 0 10502    20 10528            a viscious barracuda
+M 0 10502    20 10531            a viscious barracuda
+M 0 10503     1 10542            the demigod Leviathan
+E 1 10502    10    17                    held the Staff of Illumination
+E 1 10503    10     9                    hands some green gauntlets
+E 1 10504    10     7                    legs some green leggings
+E 1 10505    10     6                    head the Coral Crown
+E 1 10506    10    16                    wield the Crystal Trident
+S
+#99999
+$~

@@ -1,0 +1,58 @@
+>rand_prog 5~
+  emote hisses evilly.
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  if ispc($n)
+    kill $n
+  endif
+~
+>entry_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>rand_prog 5~
+  if hitprcnt($i) < 100
+    cast 'cure critic' $i
+  endif
+~
+>rand_prog 5~
+  if isfight($i)
+    emote hisses evilly and decides to run for it..!
+    flee
+  else
+    if hitprcnt($i) == 100
+      if rand(50)
+        mpecho $I seems to melt into a new shape...
+        mpecho ...that of an innocent adventurer..!
+        mpmload 2031
+        mpgoto cleaner
+      else
+        mpecho $I seems to melt into a new shape...
+        mpecho ...that of an elven maiden..!
+        mpmload 2032
+        mpgoto cleaner
+      endif
+    endif
+  endif
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I suddenly explodes and splashes you with acid!!
+  mpasound Your blood freezes as you hear someone's death cry.
+  mpasound ...followed by a wet explosion!!
+  mpdamage all 4d25+50
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpoload 2032
+  mpgoto cleaner
+~
+|

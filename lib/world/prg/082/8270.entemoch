@@ -1,0 +1,59 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    cower zirnozz
+  else
+    if name($n) == maerlyn
+      squeal maerlyn
+    endif
+  endif
+~
+>fight_prog 7~
+  if inroom ($r) == here
+    mpecho $I reaches into the fire and draws strength!
+    mpcallmagic 'restore' $i
+  endif
+~ 
+>fight_prog 15~
+  if inroom ($r) == here
+    mpecho Rocks begin chipping away from $I.
+    mpecho A small boulder with legs breaks away from Entemoch and charges you!
+    mpecho Chunks of rock fly everywhere!
+    mpdamage all 14d20 
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    mpecho $I pounds the ground forcefully with two clenched hands.
+    mpecho The floor rumbles violently and rocks fall from the ceiling!
+    mpdamage all 13d19
+    mppurge rubble
+    mpoload 8262
+    mpsilent drop rubble
+  endif
+~
+>fight_prog 22~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoat $r $I PUMMELS you with a vicious swipe!!
+      mpechoat $r You close your eyes before you see yourself collide into the far wall.
+      mpechoaround $r $I sluggishly swings one of its arms over and sends $N flying into a wall!
+      mptransfer $r nearby
+      mpat $r mpdamage $r 20d15
+      mpat $r mppose $r sit
+    endif
+  endif
+~
+>fight_prog 100~
+  if isnpc($n)
+    switch $n
+    mpecho $I hurls $N into the blazing fire!
+    mpecho $N screams as it is pulled into the elemental plane of earth and lost forever!!
+    mppurge $n
+  endif
+~
+>death_prog 6~
+  if inroom($r) == here
+    mpoload 8210
+  endif
+~
+|

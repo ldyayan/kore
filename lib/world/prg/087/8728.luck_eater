@@ -1,0 +1,7 @@
+>fight_prog 10~
+  mpechoat $r $I eats your luck!
+  mpcallmagic 'curse' $r
+  mpcallmagic 'slow' $r
+  mpcallmagic 'chill touch' $r
+~
+|

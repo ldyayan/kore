@@ -1,0 +1,232 @@
+#12200
+slum resident~
+a resident of the Eastern Slum~
+A local resident sits here, wishing you weren't here.
+~
+You see a slum resident.
+~
+206 0 0 S
+10 1 0 1d1+1 1d1+1
+20 20
+8 8 1
+#12201
+filthy wino~
+a filthy wino~
+A filthy wino sings to himself quietly here.
+~
+You see a filthy wino.
+~
+204 0 0 S
+6 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#12202
+shifty hood~
+a shifty-looking hood~
+A shifty-looking hood sizes you up...maybe he could take you.
+~
+You see a shifty hood.
+~
+34892 0 -100 S
+12 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#12203
+thug~
+a nasty thug~
+A nasty thug stands here, grinning menacingly at you.
+~
+You see a nasty thug.
+~
+2074 0 -700 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#12204
+junkie~
+a Tsang junkie~
+A Tsang junkie lies here, blissfully unaware.
+~
+You see a Tsang junkie.
+~
+138 1 0 S
+1 1 0 1d1+1 1d1+1
+0 20
+6 8 0
+#12205
+dealer~
+a Tsang dealer~
+A Tsang dealer sits here, quietly cutting Tsang root.
+~
+You see a Tsang dealer.
+~
+133146 0 -500 S
+17 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#12206
+junkie~
+a Tsang junkie~
+A Tsang junkie stands here, twitching.
+~
+You see a Tsang junkie.
+~
+42 0 0 S
+1 1 0 1d1+1 1d1+1
+0 20
+6 8 0
+#12207
+barkeep~
+a Barkeep~
+The Barkeep of the Black Nag Tavern stands here, cleaning a glass.
+~
+You see the Barkeep of the Black Nag Tavern. How much would you like to bet that
+he's got a weapon?
+~
+16410 40 0 S
+30 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#12208
+old man~
+a wizened old man~
+A wizened old man sits here, waiting for his supper.
+~
+   You see an old man. The first thing that strikes you about him is his age,
+how is it that something not originally a grape became so wrinkled? Then you
+notice the tattoo on the left side of his face, marking him as a shock trooper
+for the Vilosians during the Greywoods Wars. You might think twice about beating
+THIS defenseless old man.
+~
+2058 0 0 S
+17 1 0 1d1+1 6d3+1
+0 20
+8 8 1
+#12209
+ferret small~
+a small ferret~
+A small ferret hops around in the clutter here.
+~
+    You see a small, cute ferret with a black mask over its eyes. It looks
+right back at you.
+~
+26 1056 0 S
+10 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#12210
+ferret large~
+a large ferret~
+A large ferret chuckles at your entrance.
+~
+     You see a larger ferret, nearly eighteen inches from tail to tip!
+~
+26 1056 0 S
+12 1 0 1d1+1 1d1+1
+20 20
+8 8 0
+#12211
+ferret huge~
+a huge ferret~
+A huge ferret slides around some garbage and looks at you slyly.
+~
+    You see a huge ferret, almost three feet in length!
+~
+26 1056 0 S
+14 1 0 1d1+1 1d1+1
+20 20
+8 8 0
+#12212
+ferret monstrous~
+a monstrous ferret~
+A monstrous ferret sneers at you.
+~
+    You see the most immmense ferret possible, a full eight feet long, and
+probably twice your weight.
+~
+139290 1056 0 S
+18 1 0 1d1+1 1d1+1
+20 20
+8 8 0
+#12213
+fishwife wife~
+the Fishwife~
+A Fishwife is here, bitterly cooking cod for her husband.
+~
+   You see a disgusting old woman with a huge mole on her cheek. She looks 
+quite frightening, even without that nasty pan she's holding.
+~
+2074 0 0 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#12214
+vandal~
+a vandal~
+A vandal stands here, acting innocent.
+~
+  You see a young kid who wastes his time vandalizing public property.
+~
+140 0 0 S
+6 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#12215
+filthy wino~
+a sleeping filthy wino~
+A filthy wino sleeps in a puddle of his own vomit here.
+~
+You see a filthy wino.
+~
+206 0 0 S
+6 1 0 1d1+1 1d1+1
+0 20
+4 8 1
+#12216
+dirty kid~
+a dirty kid~
+A dirty kid sits here, picking his nose with a grubby finger.
+~
+    You see a cute little kid. You wonder what could possibly have made this
+child run away. Or maybe he didn't run away. . .
+~
+142 0 100 S
+5 1 0 1d1+1 1d1+1
+15 20
+6 8 1
+#12217
+teen tramp~
+a teen tramp~
+A teen-aged tramp sits here amid the muck, polishing her fingernails.
+~
+   You see a young girl, maybe thirteen years old, who has obviously seen a lot
+more than she should have at her age.
+~
+138 0 100 S
+5 1 0 1d1+1 1d1+1
+0 20
+5 8 2
+#12228
+old bum~
+an Old Bum~
+An Old Bum sits here in his own urine. He seems to be pondering life.
+~
+   You see an old smelly bum. You can tell he's seen a lot of life.
+~
+74 128 0 S
+15 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#12236
+otto dealer~
+Otto the Dealer~
+Otto the Dealer sits here, counting his money.
+~
+You see Otto the Dealer, a nasty man with a twitch under his left eye.
+~
+18522 0 -500 S
+20 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#99999
+$~

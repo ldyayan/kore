@@ -1,0 +1,56 @@
+>command_prog west~
+  if rand(66)
+    mpechoat $n $I stares at you with eerily glowing eyes and you lose your will!
+    echoaround $n $I stares at $N with eerily glowing eyes and $s face grows blank while lifeforce drains out of $m!
+    mpstopcommand
+    mppose $n sit
+    mpdamage $n 12d30+40
+ endif
+~
+>fight_prog 20~
+  switch $r
+~
+>fight_prog 6~
+  cast 'area word of death' $r
+  mpcallmagic 'dispel sanc' $r
+~
+>fight_prog 10~
+  mpecho $I opens his jaws wide and you feel your life forced drawn into his gaping jaw!
+  mpdamage all 12d10+50
+  mpcallmagic 'heal' $i
+  mpecho $I's pallid skin begins to glow with unholy life!
+~
+>fight_prog 5~
+  mpecho $I roars out a word of command and a pair of stone golems arrive to assist him!
+  mpmload 12516
+  mpmload 15216
+  mpforce golem bash $r
+  mpforce 2.golem bash $r
+~
+>rand_prog 20~
+  get all corpse
+  get all 2.corpse
+  get all 3.corpse
+  if rand(50)
+    wear agrametto
+    wear agrametto
+    wear enlayed
+    wear enlayed
+  else
+    if rand(40)
+      junk agrametto
+      junk agrametto
+      junk enlayed
+      junk enlayed
+    else
+      wear all
+    endif
+  endif
+~
+>rand_prog 50~
+  if hasworn($i) == 12558
+    stand
+    cast 'restore' $i
+  endif
+~
+| 

@@ -1,0 +1,24 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+  endif
+~
+>rand_prog 4~
+  if rand(20)
+    cast 'invis'
+  else
+    up
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpcallmagic 'color spray' all
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    cast 'shocking grasp' $r
+    mpsilent mpcallmagic 'shocking grasp' $r
+  endif
+~
+|

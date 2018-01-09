@@ -1,0 +1,1973 @@
+#29000
+Hadrian's workspace~
+  Clutter litters the floor of this small, cramped workspace.  All sorts of very
+strange building tools and materials are laying about.
+~
+290 393240 0
+D5
+~
+~
+0 0 29001
+S
+#29001
+A Small, Overgrown Path Through the Forest~
+  There is a narrow path here leading to the north through the thick
+forest growth.  It seems few travellers have passed this way recently.
+Once apon a time, this may have been a primary forest road, but now the
+path lays dormant, steadily being grown over by the surrounding trees.
+~
+290 0 3
+D0
+~
+~
+0 0 29002
+D4
+~
+~
+0 0 29000
+S
+#29002
+Along the Overgrown Path~
+  The path narrows here, but continues to the north.  An old wagon
+lies abandoned at the side of the road.  The rotting wood and general state
+of disrepair indicate that the wagon has been lying here for a long time.
+~
+290 0 0
+D0
+~
+~
+0 0 29003
+D2
+~
+~
+0 0 29001
+S
+#29003
+Continuing Along the Overgrown Path~
+  The path through the thick undergrowth has become almost a tunnel.  
+Trees and bushes rise up like walls only a few feet on either side of the
+hard-packed dirt that once made up the road.
+~
+290 0 0
+D0
+~
+~
+0 0 29004
+D2
+~
+~
+0 0 29002
+S
+#29004
+A Turn in the Path~
+  What remains of the path takes a gentle turn toward the west here.
+Travelling becomes somewhat slower here, and even a seasoned woodsman
+would probably slow his pace.  Clearly nobody seems to have been 
+overly concerned with maintaining a path to whatever lies deeper in
+this forest.
+~
+290 0 3
+D2
+~
+~
+0 0 29003
+D9
+~
+~
+0 0 29005
+S
+#29005
+An East-West Path Through the Forest~
+  The path here is a straight line through the forest, which is
+growing even thicker here.  It is quite a remarkable sight, as the
+path forms a virtual canyon through the tall trees that line it.
+~
+290 0 3
+D3
+~
+~
+0 0 29006
+D7
+~
+~
+0 0 29004
+S
+#29006
+An East-West Path Through the Forest~
+  The trees on either side of the path grow closely enough together
+as to form virtual walls that seem almost impassable.  There appears
+to be a few openings to your north that a person could perhaps slip
+through, but danger could easity lurk behind any of a hundred trees.
+~
+290 0 3
+D0
+  Someone seems to have cleared an opening in the forest wall to the north,
+and then hastily covered their tracks by pulling branches closed behind them.
+~
+branches~
+1 0 29009
+D1
+~
+~
+0 0 29005
+D3
+~
+~
+0 0 29007
+S
+#29007
+An East-West Path Through the Forest~
+  Glancing north or south off the path, there appears to be practically
+a wall of trees and bushes.  The trees grow mere feet apart, and their
+upper branches meld in to a thick canopy that barely lets light
+pass through to reach you, standing far below on the path.
+~
+290 0 3
+D1
+~
+~
+0 0 29006
+D3
+~
+~
+0 0 29008
+S
+#29008
+The End of the Path~
+  Here the path comes to an abrupt halt.  A huge tree, at least ten
+feet at the base lies fallen across the way.  It is difficult to believe
+that such a massive tree could fall from this thick forestation.  Perhaps
+it was not a random occurrence at all.
+~
+290 0 3
+D1
+~
+~
+0 0 29007
+S
+#29009
+A Tiny Opening in the Tangled Undergrowth~
+  There is barely a path here at all, and any but the smallest forest
+creature would stuggle to pass.  The bushes and trees on either side seem
+to reach out to snag anything passing by.  Should anything unfortunate
+happen, there is a distinct chance nobody will ever follow this path
+to discover it.
+~
+290 96 3
+D0
+~
+~
+0 0 29010
+D2
+~
+branches~
+1 0 29006
+S
+#29010
+Through the Thick Undergrowth~
+  The tangled undergrowth seems to part, forming what feels like
+a small cave.  There is no telling if this cave is actually leading
+somewhere, but it actually seems to thin out somewhat ahead. With
+luck, this isn't just an illusion brought on by the cramped environment.
+~
+290 0 3
+D0
+~
+~
+0 0 29011
+D2
+~
+~
+0 0 29009
+S
+#29011
+Into a Clearing Atop a Small Hill~
+  The thick undergrowth did, in fact, widen quickly.  Now clear of
+the forest, the surrounding area has come into full view.  From atop
+this small hill, a settlement is visible in the distance to the north.
+Looking around further, there are sparse footprints leading both
+to the north, and to the east, down the hill toward the forest.
+~
+290 0 4
+D0
+~
+~
+0 0 29015
+D1
+~
+~
+0 0 29012
+D2
+~
+~
+0 0 29010
+S
+#29012
+Down the Hill Toward the Forest~
+  Here the footprints are more prevelent.  Intermingled with the 
+footprints though are patches of matted down grass, as if something
+large was recently dragged through here.
+~
+290 0 4
+D1
+~
+~
+0 0 29013
+D3
+~
+~
+0 0 29011
+S
+#29013
+A Clearing Near the Forest~
+  Now it is clear why the footprints led in this direction.  The
+audible growls of a trapped bear can be heard above the din of 
+the nearby woods.  Somebody has been trapping and hunting all manner
+of wildlife in this area.
+~
+290 0 2
+D3
+~
+~
+0 0 29012
+D5
+~
+~
+0 0 29014
+S
+#29014
+Inside the Bear Trap~
+  Upon climbing down the ladder on the west face of this trap, 
+everything inside the pit seems to be much closer.  A few corpses,
+both animal and apparently human lie here rotting, but the pit's
+living inhabitants are a more pressing concern.
+~
+290 1 4
+D4
+~
+~
+0 0 29013
+S
+#29015
+Down the Hill Toward the Settlement~
+  At this distance, sounds and smells from the nearby 
+village are just perceptible over the din of the surrounding
+forest.  While it is difficult to make out the shapes moving
+through the town, they appear to be humans.
+~
+290 0 4
+D0
+~
+~
+0 0 29016
+D2
+~
+~
+0 0 29011
+S
+#29016
+In the Fields Before the Settlement~
+  Crossing the fields toward the settlment, nobody has taken much
+notice of your presence.  The inhabitants of the settlement are simply
+going about their business.  The village itself is comprised of
+mostly small huts lining one central avenue.
+~
+290 0 0
+D0
+~
+~
+0 0 29017
+D2
+~
+~
+0 0 29015
+S
+#29017
+The Entrance to the Settlement~
+  Now at the edge of the settlement, the inhabitants,
+who appear to be a hunting and gathering tribe of humans,
+have noticed your presence, but taken little interest.  
+Generally, such tribes would take a keen interest in outside
+visitors, but these people treat your presence casually, 
+almost as if they were expecting somebody to tredge through
+the forest to their remote location.
+~
+290 0 2
+D0
+~
+~
+0 0 29018
+D2
+~
+~
+0 0 29016
+S
+#29018
+The Way of the Djarbarim~
+  This steet is aptly named.  While it is the main avenue 
+through the village, to this tribe, it is also the focal point
+of their way of life.  People congregate here, meet to trade
+their food and wares, and welcome back the hunters who are
+constantly returning from the surrounding areas.
+~
+290 0 1
+D0
+~
+~
+0 0 29020
+D2
+~
+~
+0 0 29017
+D3
+~
+~
+0 0 29019
+S
+#29019
+A small hut~
+  This is a small hut along the road, clearly built with
+efficiency in mind.  There are cots and a small fireplace,
+the minimal requirements for a home.
+~
+290 8 0
+D1
+~
+~
+0 0 29018
+S
+#29020
+The Way of the Djabarim~
+  Coninuing along the road, most of the village is now in
+view.  There is a gathering place of sorts directly ahead,
+small huts on either side of the path, and a large lodge
+at the north end of the street.
+~
+290 0 1
+D0
+~
+~
+0 0 29022
+D1
+~
+~
+0 0 29021
+D2
+~
+~
+0 0 29018
+S
+#29021
+A small hut~
+  Inside a small hut of the village, it is bare of comforts.
+There are cots to sleep on, a fireplace to warm the hut,
+and jars in the corner to hold the families necessities.
+~
+290 0 0
+D3
+~
+~
+0 0 29020
+S
+#29022
+The Way of the Djabarim~
+  The road here widens into something of a marketplace. The
+inhabitants of the village wander here trading their wares
+and services.  Most of them are congregating around the large
+fire pit to your east.
+~
+290 0 1
+D0
+~
+~
+0 0 29027
+D1
+~
+~
+0 0 29024
+D2
+~
+~
+0 0 29020
+D3
+~
+~
+0 0 29023
+S
+#29023
+The Village Well~
+  Here a small well, poorly built but functional, supplies the
+settlement with drinking water.  Many of the village residents
+are carrying small waterjugs with them.
+~
+290 0 1
+D1
+~
+~
+0 0 29022
+S
+#29024
+An Open Square in the Settlement~
+  Here many tribesmen are gathered passing their time.  Some appear to
+be trading, but it is difficult to quantify any transactions.  It seems
+these people are operating on some sort of barter system, and know
+nothing of money.
+~
+290 0 1
+D0
+~
+~
+0 0 29026
+D1
+~
+~
+0 0 29025
+D3
+~
+~
+0 0 29022
+S
+#29025
+The Fire Pit~
+  The village inhabitants gather here in hopes of a good
+return from the hunting trips.  Here they roast their daily
+catch and prepare feasts for the families of the settlement.
+~
+290 0 1
+D3
+~
+~
+0 0 29024
+S
+#29026
+A dingy residence~
+  While most of the huts in this village are small
+and barren, this one appears to be in some disrepair,
+as if its residents havent been here in quite some
+time.  Why the hut has remained vacant and untended
+is a mystery.
+~
+290 0 0
+D2
+~
+~
+0 0 29024
+S
+#29027
+The Way of the Djabarim~
+  North of the main square, the focal point of the settlement
+appears to be the large lodge somewhat up the street.  Right now,
+nobody is coming in or out, but it clearly is an important place
+to the tribe.
+~
+290 0 1
+D0
+~
+~
+0 0 29028
+D2
+~
+~
+0 0 29022
+S
+#29028
+Before the Lodge~
+  Unlike the other habitations in the village, the lodge appears to be
+the equal of any country home in the realms.  Fine hides are hanging
+outside drying in the sunlight and there are two chairs outside on
+the porch, generally occupied by resting hunters.
+~
+290 0 1
+D0
+~
+~
+0 0 29029
+D2
+~
+~
+0 0 29027
+S
+#29029
+The Outside Porch of the Lodge~
+  There are hides hanging here, skins from dead bears, deer,
+foxes, and all manner of forest animals.  From here you can
+see into the lodge, and it appears to contain most of the items
+the villages have collected and deemed worthy of keeping.
+~
+290 0 0
+D0
+~
+~
+0 0 29030
+D2
+~
+~
+0 0 29028
+S
+#29030
+Inside the Lodge~
+  The inside of the lodge is sure to impress almost any 
+intrepid adventurer.  Heads of many exotic animals from 
+various regions of the realm are mounted and hung on the walls.
+Most of them are bears and the like from the surrounding
+forest, but there are some more exotic, from lowly kobolds
+to powerful wyverns.  The floor below you is made of wood 
+planks that creak under the weight of the lodge's new guests.
+~
+290 0 0
+D2
+~
+~
+0 0 29029
+D5
+  The wooden floor creaks under your weight.  It appears that
+there is a room below.
+~
+floor~
+5 0 29031
+S
+#29031
+In the Cellar~
+  Below the lodge is a dark cellar, filled mostly with boxes
+and shelves.  Why these people would be storing boxes and
+materials is an interesting question, but the lack of 
+communication makes it unlikely that anyone will find out.
+~
+290 1 0
+D0
+A wall of mud and wood
+~
+wall~
+2 29009 29032
+D4
+~
+~
+0 0 29030
+S
+#29032
+A Small Cave~
+  Behind the wall of the cellar, there is a small cave, leading deeper
+and to the north.  The cave itself seems to be almost perfectly round,
+certainly unnatural.  Whatever man or animal crafted this cave surely
+must be a strong, and hopefully friendly creature.
+~
+290 1 0
+D0
+~
+~
+0 0 29033
+D2
+A wall of mud and wood
+~
+wall~
+2 29009 29031
+S
+#29033
+Following the Cave~
+  Continuing along the tunnel, there is something of a curve.  There is
+not a single edge anywhere in the cave, it simply curves gracefully
+to the northeast.  While it is somewhat unnerving to walk through
+such a pristine cave, there are far worse caves that adventurers
+could find themselves trudging through.
+~
+290 1 0
+D2
+~
+~
+0 0 29032
+D6
+~
+~
+0 0 29034
+S
+#29034
+Continuing Down the Tunnel~
+  The cave continues on, with no end in sight.  With the gentle
+slope and smooth surfaces, one could probably roll a cart all
+the way to the bottom, wherever that might be.  While such an action
+would be possible, it hardly seems tempting to advance faster
+into the darkness below.
+~
+290 1 0
+D6
+~
+~
+0 0 29035
+D8
+~
+~
+0 0 29033
+S
+#29035
+A Sharp Curve in the Tunnel~
+  In what amounts to a sharp curve, the immaculately rounded tunnel
+takes a hard turn to the west.  It seems a very logical question 
+to wonder why someone powerful enough to create this tunnel would
+make it snake through the ground like this.  Perhaps it was
+designed to create uncertainty and fear in any would be visitors.
+~
+290 1 0
+D3
+~
+~
+0 0 29036
+D8
+~
+~
+0 0 29034
+S
+#29036
+A Widening of the Passage~
+  Here the Tunnel widens, smoothly and symmetrically.  While
+there is still no sign of light, or of an endpoint, but this is
+the first sign of progress in quite some time.
+~
+290 1 0
+D1
+~
+~
+0 0 29035
+D3
+~
+~
+0 0 29037
+S
+#29037
+Deep in the Passage~
+  Having been in this cave for quite some time, any sign of progress
+is welcome.  But here, deep in the cave, there is no sound, no light,
+and no sign of life. 
+~
+290 1 0
+D0
+~
+~
+0 0 29038
+D1
+~
+~
+0 0 29036
+S
+#29038
+A light in the distance~
+  Finally, some indication of an end may be in sight.  Ahead to
+the north, there is a faint light.  There is no indication yet of
+the nature of its source, but it is a welcome sight regardless.
+~
+290 1 0
+D0
+~
+~
+0 0 29039
+D2
+~
+~
+0 0 29037
+S
+#29039
+Approaching the Light~
+  Continuing down the tunnel toward the light, it looks like it 
+might be the natural light of day, but there is no certainty as yet.
+The cave here is actually illuminated from the light, allowing
+everyone to lower their own light sources.
+~
+290 0 0
+D0
+~
+~
+0 0 29040
+D2
+~
+~
+0 0 29038
+S
+#29040
+The End of the Tunnel~
+  Words cannot fully describe the scene before you.  You have 
+exited the unnatural tunnel into an absolutely enormous cavern.
+Light emanates from the very walls of the cavern, producing an
+amazing false daylight.  Looking forward down the path, there appears
+to be a large maze, but there is an eerie mist hanging just above
+it, obscuring your view.  Beyond the mist, however, there is a 
+glowing fortress, surely the home of this caverns creator.
+~
+290 0 0
+D0
+~
+~
+0 0 29041
+D2
+~
+~
+0 0 29039
+S
+#29041
+Toward the Maze~
+  Proceeding into the cavern, the path narrows again, pointing in the
+direction of the maze entrance.  The ground here is as smooth as the
+cave leading down here, so it is not at all difficult to keep moving.
+~
+290 0 0
+D0
+~
+~
+0 0 29042
+D2
+~
+~
+0 0 29040
+S
+#29042
+The Maze Entrance~
+  Sheer black walls rise from the stone below.  Perfectly squared
+at every edge, the walls are in stark contrast to the cavern
+surrounding them.  A doorway, with no visible door stands open
+in front of you.
+~
+290 0 0
+D0
+~
+~
+0 0 29043
+D2
+~
+~
+0 0 29041
+S
+#29043
+Inside the Maze~
+  Smooth, shiny black walls of some unknown material rise right
+out of the rock.  Small square shapes are carved out of the 
+walls at every turn.  Some walls are open, some are closed. 
+There seems to be no rhyme or reason to it.  Glancing upward,
+in the hopes of climbing out, the tops of the walls seem to be
+just out of reach, taunting you.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29048
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29045
+D2
+~
+~
+0 0 29042
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29044
+S
+#29044
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29049
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29043
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29046
+S
+#29045
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29051
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29047
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29043
+S
+#29046
+Inside the Maze~
+  Like any other room in this maze, there are walls, some open
+and some closed.  In this room, however, stands a large mirror.
+Everyone in the room can see themselves reflected therein,
+but in the backdrop, the halls and doorways look unfamiliar.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29050
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29044
+S
+#29047
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29052
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29045
+S
+#29048
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29053
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29051
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29043
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29049
+S
+#29049
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29054
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29048
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29044
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29050
+S
+#29050
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29055
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29049
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29046
+S
+#29051
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29056
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29052
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29045
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29048
+S
+#29052
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29057
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29047
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29051
+S
+#29053
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29058
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29056
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29048
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29054
+S
+#29054
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29059
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29053
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29049
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29055
+S
+#29055
+The Heart of the Maze~
+  This room for some reason or another has been lock away
+from the rest of this bizarre labyrinth.  This room alone
+contains anything that would distinguish it from its 
+neighbors.  Tile patterns and tapestries line the floors
+and walls, and a variety of strange mechanations, drawings,
+and books are scattered about.  The room has the general
+appearance of a laboratory.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29060
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29054
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29050
+S
+#29056
+Inside the Maze~
+  Like any other room in this maze, there are walls, some open
+and some closed.  In this room, however, stands a large mirror.
+Everyone in the room can see themselves reflected therein,
+but in the backdrop, the halls and doorways look unfamiliar.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29061
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29057
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29051
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29053
+S
+#29057
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29062
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29052
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29056
+S
+#29058
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29063
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29061
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29053
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29059
+S
+#29059
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29064
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29058
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29054
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29060
+S
+#29060
+Inside the Maze~
+  Like any other room in this maze, there are walls, some open
+and some closed.  In this room, however, stands a large mirror.
+Everyone in the room can see themselves reflected therein,
+but in the backdrop, the halls and doorways look unfamiliar.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29065
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29059
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29055
+S
+#29061
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29066
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29062
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29056
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29058
+S
+#29062
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D0
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29067
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29057
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29061
+S
+#29063
+Inside the Maze~
+  Walls and doorways still surround the room, but there is a brighter
+light flowing in through the door to the north.  Perhaps this is the 
+exit of the maze, or perhaps it is simply a false glimmer of hope.
+~
+290 0 0
+D0
+~
+~
+0 0 29068
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29066
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29058
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29064
+S
+#29064
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29063
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29059
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29065
+S
+#29065
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29064
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29060
+S
+#29066
+Inside the Maze~
+  Walls and doorways are all around.  There is no indication of
+distance or direction.  The only sound audible is the sound
+of your footsteps, and even that is somehow dampened by the
+immense walls that surround the area.
+~
+290 0 0
+D1
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29067
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29061
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29063
+S
+#29067
+Inside the Maze~
+  Like any other room in this maze, there are walls, some open
+and some closed.  In this room, however, stands a large mirror.
+Everyone in the room can see themselves reflected therein,
+but in the backdrop, the halls and doorways look unfamiliar.
+~
+290 0 0
+D2
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29062
+D3
+  A door-sized panel of the wall is cut out, but no hinges 
+or handles are in sight.
+~
+wall~
+2 29099 29066
+S
+#29068
+Exiting the Maze~
+  Moving through yet another doorway, the maze ends, and a magnificent
+walkway extends northward to a glowing fortress.  Even the stone you
+walk over seems to give off an eerie glow.  At the end of the walkway,
+huge entry gates stand open, but there is nobody in sight.
+~
+290 0 0
+D0
+~
+~
+0 0 29069
+D2
+~
+~
+0 0 29063
+S
+#29069
+Grand Entrance Hall~
+  The entrance to the glowing fortress is as magnificent as its external
+appearance.  The floors are white marble, and the columns are the same
+black material that comprised the maze. Carvings of dragons and humans
+fighting alongside each other appear on almost every surface.  Some of 
+the inhabitants of the fortress have come into view for the first time.  
+To the east is an old man tending a counter that appears to be a shop,
+and to the north, people serving as squires scurry about.
+~
+290 208 0
+D0
+~
+~
+0 0 29071
+D2
+~
+~
+0 0 29068
+S
+#29070
+an empty room~
+  an empty room, currently unused.
+~
+290 152 0
+D3
+~
+~
+0 0 29069
+S
+#29071
+The Grand Hall~
+  Huge columns line the hall, supporting a massive arched ceiling.  
+On the ceiling is a masterful painting, portraying a grand epic.  The 
+scene describes an epic battle, where dragons and humans fought together 
+to rid the realm of injustice.  Nowhere in your memory have you heard 
+such a tale, so perhaps this painting portrays a potential future 
+rather than a history.
+~
+290 16 0
+D0
+~
+~
+0 0 29074
+D1
+~
+~
+0 0 29072
+D2
+~
+~
+0 0 29069
+D3
+~
+~
+0 0 29073
+E
+ceiling painting epic~
+  The scene sprawls from one end of the great hall to the
+other.  On one end of the field stands a solitary man,
+observing the battle from a distance with a gentle, content
+smile on his face.  The battle itself is being fought all
+across the realms.  The force of dragons, with their
+human champions is struggling, but gaining victory over 
+both the forces of evil, and the unjust who crusade 
+falsely in the name of goodness.
+~
+S
+#29072
+An Alcove off the Grand Hall~
+  Slightly off from the grand hall is a small alcove. Within this alcove
+rests a small statue of a dragon, and on the walls of the alcove a scene
+is beautifully rendered.  The scene itself looks familiar, but yet 
+distant.  While you recognize the location, a battle is raging, the 
+likes of which you have never heard or dreamed.
+~
+290 0 0
+D1
+  A large door is here, barely visible behind the 
+beautiful painting.
+~
+door~
+2 29071 29081
+D3
+~
+~
+0 0 29071
+E
+wall painting scene epic alcove battle~
+  Before you is a humbling scene.  A solitary champion 
+rides atop a great dragon, reeking havoc through the ruined
+streets and fields of Trokair.  The dragon and his 
+counterpart fight bravely, and find many victories, but
+as your eyes are drawn to the climax of the image, you
+are not satisfied with an end to the tale.  What is there,
+is the foreboding image of the dragon and his champion,
+heavily scarred from the raging battle, set to challenge
+none other than Grakos, the Deathknight himself.
+~
+S
+#29073
+An Alcove off the Grand Hall~
+  Slightly off from the grand hall is a small alcove. Within this alcove
+rests a small statue of a dragon, and on the walls of the alcove a scene
+is beautifully rendered.  The scene itself looks familiar, but yet 
+distant.  While you recognize the location, a battle is raging, the 
+likes of which you have never heard or dreamed.
+~
+290 0 0
+D1
+~
+~
+0 0 29071
+D3
+  A large door is here, almost invisible behind the scene 
+depicted on the wall.
+~
+door~
+2 29070 29078
+E
+wall epic battle scene painting alcove~
+  On the wall before you is depicted a battle of truly 
+astounding proportions.  As you scan the painting, you 
+see dragons and knights fighting against the orcish hordes 
+in the ruined city of Imirl Tirith.  As you continue to 
+gaze however, you realize it is not many dragons and 
+knights, but solely one of each, rampaging across the 
+battlefield like divine crusaders.  The painting leaves
+the outcome in doubt however, a sign that sheer will alone
+cannot triumph in battle.
+~
+S
+#29074
+The Grand Hall~
+  The grand hall continues to the north, lined by columns down its 
+entire length.  You now stand below one end of the battlefield depiced 
+on the ceiling.  There stands a solitary man, silently observing that 
+battle with a content look on his face.  
+~
+290 0 0
+D0
+~
+~
+0 0 29077
+D1
+~
+~
+0 0 29076
+D2
+~
+~
+0 0 29071
+D3
+~
+~
+0 0 29075
+E
+ceiling painting epic battleground~
+  The scene sprawls from one end of the great hall to the
+other.  On one end of the field stands a solitary man,
+observing the battle from a distance with a gentle, content
+smile on his face.  The battle itself is being fought all
+across the realms.  The force of dragons, with their
+human champions is struggling, but gaining victory over 
+both the forces of evil, and the unjust who crusade 
+falsely in the name of goodness.
+~
+S
+#29075
+An Alcove off the Grand Hall~
+  Slightly off from the grand hall is a small alcove.  Within this 
+alcove rests a small statue of a dragon, and on the walls of the alcove 
+a scene of beauty and serenity is rendered in meticulous detail.  
+~
+290 0 0
+D1
+~
+~
+0 0 29074
+D3
+  A large door is here, barely visible behind the 
+magnificent painting on the wall.
+~
+door~
+2 29072 29084
+E
+wall alcove scene painting~
+  The scene on the walls is magnificient.  A female in
+shining armor rides atop a massive gold dragon, unlike
+any you have seen before.  The fields and planes below 
+them look familiar, perhaps even places you know, but 
+there are subtle differences that draw your eyes.  In the 
+cities, no guards and defences are visible, and in fact,
+nobody carries weapons at all.  This woman and her dragon 
+fly as serene, regal guardians over a peaceful world.
+~
+S
+#29076
+An Alcove off the Grand Hall~
+  Slightly off from the grand hall is a small alcove.  Within this 
+alcove rests a small statue of a great dragon, and on the walls of the 
+alcove a foreboding scene has been drawn with remarkable precision.  
+While it must have taken years, an unknown artist has created a scene 
+that could inspire an army.
+~
+290 0 0
+D1
+  A large door is here, barely visible behind the facade
+of the glorious painting.
+~
+door~
+2 29072 29087
+D3
+~
+~
+0 0 29074
+E
+scene battle wall painting alcove epic~
+  Even if the other scenes depicted in this fortress 
+could not inspire one to greatness, the scene laid out
+on this wall could raise an army.  An unfathomable army 
+of evil is marching across a nameless field, and there 
+to great them are two brave souls, a knight in glowing 
+armor brandishing a spear, and a huge silver dragon.  
+Behind them cower supposedly great men, kings and knights, 
+huddled in their protection.  These two heroic beings are
+fighting the final battle to free the realms forever.
+~
+S
+#29077
+The End of the Grand Hall~
+  The air at the end of the grand hall is unmistakeably heavy.  
+An aura of power surrounds this place, or perhaps, if your senses do 
+not deceive you, below this place.  While difficult to localize, it is 
+becoming clear that whoever is responsible for the cave, the cavern, 
+this fortress, and who knows how much else, is very close at hand.
+~
+290 0 0
+D0
+  A huge door is here carved into the back wall of the
+grand hall.
+~
+door~
+2 29074 29090
+D2
+~
+~
+0 0 29074
+S
+#29078
+Another Cave~
+  Leaving the glowing fortress though a door at the side, a cave carved 
+out of solid rock extends into the depths. The air here grows thicker 
+and warmer, an area much better suited to dragons than to adventurers.
+~
+290 0 0
+D1
+  A large door is here, carved into the side of the 
+glowing fortress.
+~
+door~
+2 29070 29073
+D5
+~
+~
+0 0 29079
+S
+#29079
+The Base of the Drop-Off~
+  The cave slants dramatically downward, and from here turns back under
+the fortress.  It is obvious now that this is, in fact, the den of a 
+large dragon, who makes his home under the alcove above.
+~
+290 0 0
+D1
+~
+~
+0 0 29080
+D4
+~
+~
+0 0 29078
+S
+#29080
+The Dragon's Den~
+  As impressive as the glowing fortress above is, this cavern is easily 
+its equal in natural beauty.  A spring of crystal clear water rises out 
+of nowhere, and all forms of plantlife have rooted in the rocks nearby.  
+The inhabitant of this cave clearly enjoys spending his time among 
+things of natural beauty.
+~
+290 32 3
+D3
+~
+~
+0 0 29079
+S
+#29081
+Another Cave~
+  Leaving the glowing fortress though a door at the side, a cave carved 
+out of solid rock extends into the depths. The air here grows thicker 
+and warmer, an area much better suited to dragons than to adventurers.
+~
+290 0 0
+D3
+  A door is here, carved out of the fortress wall.
+~
+door~
+2 29071 29072
+D5
+~
+~
+0 0 29082
+S
+#29082
+The Base of the Drop-Off~
+  The cave slants dramatically downward, and from here turns back under
+the fortress.  It is obvious now that this is, in fact, the den of a 
+large dragon, who makes his home under the alcove above.
+~
+290 0 0
+D3
+~
+~
+0 0 29083
+D4
+~
+~
+0 0 29081
+S
+#29083
+The Dragon's Den~
+  Here below the glowing fortress, is the lair of a large, and from 
+the looks of the cave, well travelled dragon.  All manner of objects 
+collected over hundreds of years line the walls of this cave.  Some of 
+them are displayed as trophies, while others simply lie piled up in 
+the corner.
+~
+290 0 0
+D1
+~
+~
+0 0 29082
+S
+#29084
+Another Cave~
+  Leaving the glowing fortress though a door at the side, a cave carved 
+out of solid rock extends into the depths. The air here grows thicker 
+and warmer, an area much better suited to dragons than to adventurers.
+~
+290 0 0
+D1
+  A large door is here, carved out of the fortress walls.
+~
+door~
+2 29072 29075
+D5
+~
+~
+0 0 29085
+S
+#29085
+The Base of the Drop-Off~
+  The cave slants dramatically downward, and from here turns back under
+the fortress.  It is obvious now that this is, in fact, the den of a 
+large dragon, who makes his home under the alcove above.
+~
+290 0 0
+D1
+~
+~
+0 0 29086
+D4
+~
+~
+0 0 29084
+S
+#29086
+The Dragon's Den~
+  There is no decoration or adornment in this den.  It is almost a 
+perfectly rounded dome, and a aura of light surrounds it.  The 
+inhabitant of this cave is clearly content to live in peaceful serenity.
+~
+290 0 0
+D3
+~
+~
+0 0 29085
+S
+#29087
+Another Cave~
+  Leaving the glowing fortress though a door at the side, a cave carved 
+out of solid rock extends into the depths. The air here grows thicker 
+and warmer, an area much better suited to dragons than to adventurers.
+~
+290 0 0
+D3
+  A large door is here, carved out of the fortress wall.
+~
+door~
+2 29073 29076
+D5
+~
+~
+0 0 29088
+S
+#29088
+The Base of the Drop-Off~
+  The cave slants dramatically downward, and from here turns back under
+the fortress.  It is obvious now that this is, in fact, the den of a 
+large dragon, who makes his home under the alcove above.
+~
+290 0 0
+D3
+~
+~
+0 0 29089
+D4
+~
+~
+0 0 29087
+S
+#29089
+The Dragon's Den~
+  This cavern is clearly designed for functionality over beauty.  
+There is a large area for the den's inhabitant to roam and train.  
+While you find it hard to believe that a dragon would need to train in 
+preparation, this one apparently has devoted his life to training for 
+the battle represented in the alcove above.
+~
+290 0 0
+D1
+~
+~
+0 0 29088
+S
+#29090
+A Large Cave~
+  An enormous cave extends behind the grand hall of the glowing 
+fortress, but it drops off almost vertically within a few feet.  
+The air is very thick and hot, and coming from below is an 
+unmistakable aura of power.
+~
+290 0 0
+D2
+  A huge door is carved into the end of the grand hall.
+~
+door~
+2 29074 29077
+D5
+~
+~
+0 0 29091
+S
+#29091
+The Base of the Drop-Off~
+  The cave slants dramatically downward, and from here turns back 
+under the fortress.  It is obvious now that this is, in fact, the den 
+of a large dragon, who makes his home under the alcove above.
+~
+290 0 0
+D2
+~
+~
+0 0 29092
+D4
+~
+~
+0 0 29090
+S
+#29092
+The Den of the Great Dragon~
+  This den is the source of the powerful aura that emanates to the 
+glowing fortress above.  The resident of this den appears to be the 
+leader of the group.  At the heart of the den is a giant orb.  
+Swirling within it are images of battles yet to be fought, heros yet 
+to be born, and champions yet to establish their greatness.
+~
+290 0 0
+D0
+~
+~
+0 0 29091
+D2
+~
+~
+0 0 29093
+S
+#29093
+Mopono's Sanctuary~
+  A small cavern just offset from the main lair of Mopono, this
+sanctuary provides a haven for the great dragon to rest.  The
+walls seem to hum in a rhythmic tune, creating an atmosphere of
+relaxation and meditative bliss.
+~
+290 1048760 0
+D0
+~
+~
+0 0 29092
+S
+#99999
+$~

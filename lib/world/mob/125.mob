@@ -1,0 +1,494 @@
+#12500
+director alm~
+the Alm's director~
+The director is surprised to see you here.
+~
+     You see a handsome older gentleman who is quite surprised to see you
+inside his office. He is dressed in the finest clothing that money can buy.
+He has a beautifully crafted platinum medallion encrusted with precious jewels
+around his neck. You are puzzled how a man who works for the poor can afford
+such luxuries.
+~
+256026 1081480 -600 S
+27 -2 -5 1d1+1 6d5+10
+0 20
+8 8 1
+#12501
+guard one eye ugly~
+the one-eyed guard~
+The mean and ugly one-eyed guard is standing here, looking for trouble.
+~
+     You see a very ugly and mean looking man with only one-eye; the other eye
+is covered with a patch. He is covered with many battle scars which obviously
+he was the victor. His breath could kill most men.
+~
+190554 1048584 -640 S
+10 0 30 1d300+30 5d4+3
+0 20
+8 8 1
+#12502
+cafeteria guard~
+the cafeteria guard~
+The cafeteria guard is here, blocking the door.
+~
+     You see a tough and scary-looking man who keeps the hoi-poli from entering
+the posh dining room. 
+~
+57418 0 -640 S
+10 1 0 1d1+1 4d4+4
+0 20
+8 8 1
+#12503
+girl beautiful blonde bimbo~
+a blonde bimbo~
+A blonde bimbo is sitting at the table.
+~
+     You see a beautiful blonde girl with HUGE ... tracts of land. She is
+drinking and eating merrily. 
+~
+72 0 0 S
+3 10 70 1d1+1 1d1+1
+0 20
+6 8 2
+#12504
+head waiter~
+the head waiter~
+The head waiter is here, looking at you smugly.
+~
+     You see the head waiter taking orders and making sure that everything is
+fine. He looks at you and laughs.
+     "I am sorry, but you do not have a reservation," said the waiter mockingly.
+~
+190554 1114240 -600 S
+35 -15 -5 1d1+1 1d1+5
+0 20
+8 8 1
+#12505
+cook~
+the cook~
+The cook is here...well cooking!
+~
+     You see a young cook working hard to fill the orders.
+~
+72 0 -300 S
+3 10 70 1d1+1 1d1+1
+0 20
+8 8 1
+#12506
+waiter~
+a waiter~
+A waiter is here, carrying around food.
+~
+     You see a hard working man carrying food to the customers.
+~
+72 0 -300 S
+3 10 70 1d1+1 1d1+1
+0 20
+8 8 1
+#12507
+homeless beggar~
+a homeless beggar~
+A homeless beggar is here asking for spare change.
+~
+     You see a dirty, homeless beggar who has god-awful stench of urine and
+puke. You feel sorry for him, but then you notice his arms full of needle tracks
+of black lotus.
+~
+76 0 -530 S
+3 12 60 1d1+1 1d1+1
+0 20
+8 8 1
+#12508
+unemployed scum~
+the unemployed scum~
+The unemployed scum is here waiting for a handout.
+~
+     You see an able-bodied man who does not want to work. He is just lazy and
+wants everything given to him.
+~
+12 0 -580 S
+3 12 80 1d1+1 1d1+1
+0 20
+8 8 1
+#12509
+prostitute hooker~
+a prostitute~
+A strung-out prostitute is here licking her lips.
+~
+     You see a street hooker desperately trying to sell her body. She was once
+quite pretty at one time, but the rages of the black lotus have taken its toll.
+~
+76 0 -545 S
+3 12 80 1d1+1 1d1+1
+0 20
+8 8 2
+#12510
+diseased leper~
+a diseased leper~
+A diseased leper is lurching towards you.
+~
+     You see a leper in the very advanced stages of leprosy. His whole body
+seems like falling apart. He has the stench of warm death.
+~
+76 0 -1000 S
+3 12 80 1d1+1 1d1+1
+0 20
+8 8 0
+#12511
+greedy dog chihuahua~
+a greedy chihuahua~
+A greedy chihuahua is here viciously growling at you.
+~
+     You see a little hairless dog viciously guarding his treasure of meat.
+~
+108 0 -560 S
+1 17 100 1d1+1 1d1+1
+0 20
+8 8 0
+#12512
+insane man crazy~
+an insane man~
+An insane man is here babbling to himself.
+~
+     You see a dirty, insane looking man trying to eat his own hands.
+~
+76 0 -250 S
+3 12 90 1d1+1 1d1+1
+0 20
+8 8 1
+#12513
+doctor Mengel Angel Death~
+the bloody doctor~
+The bloody doctor is here carving up his patient.
+~
+     You see a man in scrubs covered with fresh and dried blood and gore. He
+is about to make an incision with his scapel into his screaming patient. He
+looks strangely familiar; he looks like a man who has a secret, dark past that
+nobody knows about. All those who knew about him are dead like his final
+victim on the operating table. You notice that he was rewarded the Iron Cross
+which he wears proudly. Who is this doctor? Hmm..
+~
+256122 1115306 -1000 S
+35 -5 -5 1d1+1 1d1+14
+0 20
+8 8 1
+#12514
+black lotus addict~
+a black lotus addict~
+A black lotus addict is looking for his next score.
+~
+     You see a black lotus addict in the advanced stages; he doesn't appear
+human anymore. The only thing that matters to him is his next fix of lotus.
+~
+18636 0 -300 S
+5 10 80 1d1+1 1d1+1
+0 20
+8 8 1
+#12515
+vampire Baron Vladimir~
+Baron Vladimir~
+Baron Vladimir beckons you to come closer.
+~
+     You see a tall, powerful looking man peering at you pure hate. You notice
+sharp, bloody fangs coming from his mouth. He radiates an aura of pure evil; he
+will surely wilt anyone who is weak of heart or bravery. You notice a black,
+flowing cape around his body; you notice a beautiful ring made of platinum and
+emerals. He points at YOU, becking to come closer.
+~
+780399 5612718 -1000 S
+52 -20 -9 1d1+1 1d1+40
+0 20
+8 8 1
+#12516
+stone golem~
+the stone golem~
+The stone golem comes toward you with fists raised.
+~
+     You see a golem made of grey stone. It has been ordered to kill all i 
+intruders. You are an intruder, so you die.
+~
+258155 66600 0 S
+20 1 -5 1d1+1 1d1+5
+1000 20
+8 8 0
+#12517
+woman beautiful vampire Cassandra~
+the beautiful woman~
+The beautiful woman is here, winking at you seductively.
+~
+     Her name is Cassandra. This woman would have brought Helen of Troy to
+shame. She has a pure soft aura of love and desire around her. Even the elven
+maidens would have turned green with envy by her prescence. She is dressed in
+the finest of silks and has beautiful golden sandals on her tiny feet. However,
+you notice that her cainine teeth are a bit long. Hmm...
+~
+239834 6095016 -1000 S
+33 -10 -4 1d1+1 1d1+14
+0 20
+8 8 2
+#12518
+Gorik bodyguard stupid~
+Gorik~
+Gorik the bodyguard is here, eyeing you suspiciously.
+~
+     You see a very stupid looking huge man who being paid by the madam to
+guard her business from intruders like you.
+~
+188490 1152 -630 S
+10 -5 -1 1d1+1 1d1+7
+0 20
+8 8 1
+#12519
+Madam Buttafucco hooker slut~
+Madam Buttafucco~
+Madam Buttafucco is here, winking at you suggestively.
+~
+     You see an aging madam who was once the best hooker on the streets of Kore.
+Now, she runs a very profitable whore house. She is so rich that she can afford
+a nice diamond bracelet.
+~
+254154 328712 -500 S
+20 -1 -1 1d1+1 1d1+5
+0 20
+8 8 2
+#12520
+humble man poor~
+the poor, humble man~
+The poor, humble man is here, trying to survive.
+~
+     You see a poor man who is trying to make ends meet here in the slums. He
+is very hard and determined worker who is trying to support his family. He is
+a very strong-willed man who was once a famous warrior, but decided to quit
+adventuring and start a family. All his wealth was taken away by the Tyrant.
+Thus, he is now a very poor man. However, he is most troubled by the fact that
+the Baron has taken his daughter away; he has not seen her for many days now.
+     He still has his trusty sword from his adventuring days.
+~
+188490 1024 500 S
+20 2 0 1d1+1 1d1+8
+0 20
+8 8 1
+#12521
+poor wife~
+the poor man's wife~
+The poor man's wife is here cooking dinner.
+~
+     She was once a great beauty that once kings and lords courted her. Now,
+she is quite improvished, but she still is quite loyal to her husband. She works
+hard and tries to keep the family together.
+~
+16458 0 500 S
+13 6 50 1d1+1 1d1+4
+0 20
+8 8 2
+#12522
+child kid~
+the child~
+The child is here, waiting for dinner.
+~
+     You see a hungry child who is waiting for its dinner.
+~
+72 0 500 S
+2 18 90 1d1+1 1d1+1
+0 20
+8 8 2
+#12523
+guildmaster master beggar thief~
+the thieves' guildmaster~
+A beggar is sitting here, could she be a guildmaster?
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+59418 136 1000 S
+34 0 -10 6d10+640 1d8+34
+0 100000
+8 8 2
+#12524
+seductive woman angie~
+Angie~
+A seductive woman dressed in leathers is here, pulling on a bottle of beer.
+~
+    Her name is Angie. She stands tall and aloof with really big hair. With
+her tight leathers she looks so cool. She waits for passersby and hits on the
+or kicks their asses. She looks tough and she licks her lips at the thought
+of doing something to you.
+~
+2137 0 -300 S
+25 -10 -4 1d1+1 1d1+7
+0 20
+8 8 2
+#12525
+assassin~
+the assassin~
+A deadly looking assassin sulks here cloaked in shadows.
+~
+He wear soft black clothing and moves without making a sound.  You try to
+detect whether or not he is armed, but can see nothing about the shapeless
+form.
+~
+59403 524424 -900 S
+33 0 -5 6d10+990 1d8+22
+0 60000
+8 8 1
+#12526
+arrogant thug~
+the arrogant thug~
+The arrogant thug is here looking for trouble.
+~
+     You see a very cocky young man who swaggers down the street like he is a
+prince. He is part of the Black Lotus thieves' guild. He robs from the rich;
+he steals from the poor. He would even steal the pennies from a dead man's eyes.
+~
+16460 0 -1000 S
+10 6 50 1d1+1 1d1+3
+0 20
+8 8 1
+#12527
+ghost sad~
+the sad ghost~
+The sad ghost is floating here.
+~
+     You see a sad looking ghost. They are the former residents of this house.
+~
+188490 4195362 -649 S
+15 4 30 1d1+10 1d1+7
+0 20
+8 8 0
+#12528
+wandering guard~
+the wandering guard~
+The wandering guard is here patroling the grounds.
+~
+     You see a mean looking guard who would sell his mother for a mug of mead.
+~
+22600 5243904 -900 S
+15 2 20 1d1+20 7d1+7
+0 20
+8 8 1
+#12529
+initiate thief 1st circle first~
+the initiate thief~
+The initiate thief of the 1st circle is standing here.
+~
+     You see a newly initiated thief of the Black Lotus. He is quite young and
+inexperienced in the ways of the guild.
+~
+18442 5243904 -1000 S
+8 5 70 1d1+1 1d1+5
+0 20
+8 8 1
+#12530
+thief 2nd circle second~
+the thief of the 2nd circle~
+The thief of the 2nd circle is here relaxing.
+~
+     You see a rather young thief who is a little more experinced in the ways
+of the world.
+~
+18506 1049600 -500 S
+12 4 40 1d1+1 1d1+8
+0 20
+8 8 1
+#12531
+thief circle 3rd third~
+the thief of the 3rd circle~
+The thief of 3rd circle looks at you smugly.
+~
+     You see a more mature young man who is getting more skilled in the art of
+thievery.
+~
+18504 1049600 -1000 S
+15 2 20 1d1+1 1d1+10
+0 20
+8 8 1
+#12532
+thief circle 4th fourth~
+the thief of the 4th circle~
+The harden thief of the 4th circle is here laughing at you.
+~
+     You see a mature man who is honing his skills of thievery.
+~
+18508 1049608 -700 S
+17 -1 0 1d1+1 1d1+12
+0 20
+8 8 1
+#12533
+thief Black Lotus circle final~
+the thief of the Black Lotus~
+The thief of the Black Lotus glares at you with hatred.
+~
+     This thief is a full member of the Black Lotus guild. He is quite skilled
+in all arts of thievery. He is quite arrogant and has the skills to back it up.
+~
+22634 1049608 -1000 S
+22 -2 -10 1d1+1 1d1+15
+0 20
+8 8 1
+#12534
+alchemist Black Lotus~
+the alchemist~
+The alchemist is here purifying the black lotus.
+~
+     You see an old man who is working hard to get the best yields out of the
+black lotus. He is well trusted by the guildmaster, thus he is a powerful man
+in the guild.
+~
+256110 5342442 -1000 S
+35 -10 -40 1d1+1 1d1+30
+0 20
+8 8 1
+#12535
+thief guildleader Black Lotus leader guild~
+the guildleader~
+The guildleader of the Black Lotus is here reading some scrolls.
+~
+     You see a tall, evil looking man of great strength and agility. He is the
+number two man in the guild. He wishes to be the guildmaster, but he realizes
+that he can not defeat the current guildmaster in single combat. Otherwise,
+he is quite loyal and hardworking to the guild.
+~
+256094 5342442 -1000 S
+35 -13 -50 20d20+40 1d1+30
+0 20
+8 8 1
+#12536
+thief guildmaster Black Lotus~
+the guildmaster~
+The guildmaster of the Black Lotus stands with a troubled brow.
+~
+      You see a strikingly beautiful woman confidently staring back at you.
+She appears quite strong and powerful. She is the ONLY female to be 
+guildmaster of the Black Lotus. She defeated the former guildmaster in single
+combat with a mighty backstab with her beautifully made Durian blade.
+~
+256078 5604586 -1000 S
+40 -16 -100 20d20+20 1d1+40
+0 20
+8 8 2
+#12537
+guard kore~
+the guard~
+The guard of Kore is here looking for trouble makers.
+~
+You see a mean and not so friendly guard.
+~
+18504 0 -100 S
+15 4 20 1d1+1 1d1+8
+0 20
+8 8 1
+#12538
+guard Lieutenant Kore~
+the lieutenant~
+The lieutenant is here counting the tax money
+~
+     You see a greedy looking man who is counting the tax money with great
+vigor. He is an officer because he is a distant relative of the Tyrant.
+~
+26702 5309480 -1000 S
+25 -5 -30 1d1+1 1d1+20
+0 20
+8 8 1
+#99999
+$~

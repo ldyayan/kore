@@ -1,0 +1,25 @@
+>rand_prog 5~
+  mpecho The pool of radiance begins to bubble with aggitation.  The air is filled ^\with a hovering yellow cloud which quickly dissipates.
+~
+>command_prog down~
+  if isscript ($i)
+    mpechoat $n Someone is in the pool, you can't enter.
+    mpstopcommand
+    break
+  else
+    mptrigger $n down-script
+    mpstopcommand
+  endif
+~
+>script_prog down-script~
+  mpechoaround $n $n steps into the pool of radiance and slowly begins to fade from sight.
+  mpechoat $n As you step into the portal you begin to lose conciousness.
+  mpechoat $n Your eyelids begin dropping heavily and you feel yourself drifting away.
+@
+  mpechoat $n Your body seems to fade away and pull itself back together.
+  mpechoat $n The drifting stops and you feel yourself come to rest.
+  mppose $n sleep
+  mpechoaround $n $n disappears from sight.
+  mptrans $n 2097
+~
+|

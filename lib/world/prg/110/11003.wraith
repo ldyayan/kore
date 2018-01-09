@@ -1,0 +1,19 @@
+>fight_prog 25~
+  mpecho The bog wraith SMASHES your GUTS OUT with its monstrous bludgeon!!!
+~
+>rand_prog 2~
+  mpasound The bog wraith SMASHES your GUTS OUT with its monstrous bludgeon!!!
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I shimmers and disappears...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

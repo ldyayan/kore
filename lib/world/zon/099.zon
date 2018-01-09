@@ -1,0 +1,140 @@
+#99
+Ghenna~
+9999 40 1 32
+M 0  9915     2  9987            an orc
+M 0  9912     1  9987            the errant drow
+M 0  9987     1  9987            a wicked drow
+M 0  9901     1  9900            the barrow wight
+G 1  9903    10    -1                    give a dead fly
+M 0  9910     1  9937            the deep dragon
+E 1  9917    10     1                    left finger a ring made of viscera
+E 1  9913    20     0                    light the jawbone of the Deep Dragon
+D 0  9937     4     1            A lair full of corpses door up
+O 0  9905   101  9902            the fountain of tears
+M 0  9904    15  9902            a bugbear
+M 0  9918     1  9902            the streetwalking old lady
+G 1  9904    10    -1                    give a heart shaped box
+M 0  9917     2  9902            a wandering drow
+M 0  9916     1  9916            the barkeep
+E 1  9916    75     6                    head a dangling skeleton earring
+M 0  9923     1  9952            the Ghenna Swordmistress
+E 1  9923    20    16                    wield the kris 'Nosferatu'
+E 1  9924    60     8                    feet some razor tipped boots
+E 1  9925    45     7                    legs chrome leggings
+E 1  9926    38    10                    arms chrome sleeves
+E 1  9927    81    11                    shield a chrome shield
+E 1  9928    82    12                    about a vermillion cloak
+E 1  9929    52     9                    hands chrome gauntlets
+E 1  9930    94     6                    head a chrome helm
+E 1  9999    41    17                    held a voodoo totem
+M 0  9915     2  9901            an orc
+E 1  9911    10    16                    wield a bullywug spear
+M 0  9917     2  9901            a wandering drow
+M 0  9900     1  9901            the evil merchant
+E 1  9902    10    16                    wield a bardiche
+O 0  9977     1  9901            sign
+O 0  9908     1  9901            a rotting hand
+M 0  9907     1  9907            a man-eating plant
+G 1  9909    10    -1                    give a dead fly
+O 0  9998     1  9907            a skull
+D 0  9907     5     1            The twisting alleyways door down
+O 0  9900     9  9922            a candelabra
+O 0  9965     1  9965            a shoe
+D 0  9965     5     2            A vandalized closet door down
+M 0  9902     5  9910            the banshee
+M 0  9905     9  9910            a mongrelman
+M 0  9914     1  9920            the medusa
+E 1  9920    10     6                    head a crown of woven snakes
+G 1  9966    30    -1                    give a voodoo totem
+M 0  9906     9  9935            the bullywug
+E 1  9911    10    16                    wield a bullywug spear
+M 0  9906     9  9935            the bullywug
+E 1  9911    10    16                    wield a bullywug spear
+M 0  9906     9  9935            the bullywug
+E 1  9911    10    16                    wield a bullywug spear
+M 0  9906     9  9935            the bullywug
+M 0  9911     2  9935            the derro
+E 1  9902    10    16                    wield a bardiche
+M 0  9911     2  9935            the derro
+E 1  9902    10    16                    wield a bardiche
+M 0  9904    15  9903            a bugbear
+M 0  9989     2  9903            a gargoyle
+M 0  9902     1  9903            the banshee
+D 0  9903     5     1            The smell of death door down
+M 0  9908     1  9936            the gorgimera
+E 1  9912    10     5                    body a pair of dragon's wings
+M 0  9913     1  9941            the efreeti
+E 1  9910    10    12                    about a genie's cinch
+E 1  9921    20     6                    head a prizmatic bracelet
+E 1  9922    40     7                    legs baggy purple pants
+O 0  9901     2  9941            a pillow
+O 0  9900     2  9941            a candelabra
+O 0  9919     2  9941            an oriental rug
+O 0  9931     1  9950            the footlocker
+P 1  9932    10  9931                    put the Book of the Wyrm in the footlocker
+M 0  9958     1  9958            the dominatrix
+E 1  9958    15    13                    waist a black leather thong
+E 1  9933    45    16                    wield a cat 'o nine tails
+E 1  9934    35     5                    body a black leather push-up bra
+E 1  9935    30     8                    feet spiked heels
+M 0  9915     1  9957            an orc
+M 0  9917     3  9957            a wandering drow
+M 0  9912     1  9957            the errant drow
+D 0  9957     0     1            The streets of Ghenna door north
+M 0  9915     1  9959            an orc
+M 0  9903     3  9959            the gibbering mouther
+M 0  9933     1  9933            the stone golem
+D 0  9933     5     1            The mouth of a large cave door down
+M 0  9964     1  9964            the doll golem
+E 1  9964    15    16                    wield a hatpin
+M 0  9975     1  9975            the whore
+M 0  9975     1  9977            the whore
+M 0  9905     9  9908            a mongrelman
+M 0  9971     3  9971            the prostitute
+E 1  9915    10     3                    neck 1 a scrimshaw cameo
+M 0  9972     1  9972            a crazy sicko
+D 0  9991     3     1            An east-west tunnel door west
+M 0  9997     1  9997            the deepspawn
+E 1  9996    10    12                    about gelatinous skin
+E 1  9997    20     7                    legs gelatinous leggings
+M 0  9917     3  9998            a wandering drow
+D 0  9998     2     1            A dead end door south
+M 0  9981     1  9981            the dying dwarf
+E 1  9981    10    13                    waist a mithril belt
+M 0  9985     5  9985            the Maedar
+M 0  9986     3  9985            the Maedar Master
+E 1  9986    10    12                    about a translucent tunic
+M 0  9989     1  9989            a gargoyle
+M 0  9915     1  9927            an orc
+M 0  9931     5  9927            a claw toed foot
+M 0  9932     5  9927            a claw fingered arm
+M 0  9904    10  9906            a bugbear
+D 0  9906     5     1            The twisting alleyways door down
+M 0  9994     1  9994            the cockroach
+M 0  9986     2  9986            the Maedar Master
+M 0  9989     1  9909            a gargoyle
+M 0  9903     1  9988            the gibbering mouther
+M 0  9917     5  9954            a wandering drow
+M 0  9917     5  9955            a wandering drow
+M 0  9917     5  9955            a wandering drow
+M 0  9932     5  9932            a claw fingered arm
+M 0  9932     5  9926            a claw fingered arm
+M 0  9931     5  9926            a claw toed foot
+M 0  9932     5  9926            a claw fingered arm
+M 0  9931     5  9931            a claw toed foot
+M 0  9932     5  9929            a claw fingered arm
+M 0  9931     5  9929            a claw toed foot
+M 0  9909     1  9956            Von the Deathknight
+E 1  9914    10     5                    body an impermeable carapace
+E 1  9966    10    17                    held a voodoo totem
+D 0  9921     2     2            An upstairs hallway door south
+D 0  9904     0     1            A culdesac door north
+D 0  9915     2     1            Blood Tavern door south
+D 0  9919     0     2            An upstairs hallway door north
+D 0  9923     0     1            The bathroom door north
+D 0  9934     4     1            Inside the cave entrance door up
+D 0  9947     2     1            A backwall niche door south
+D 0  9948     5     1            Free fall door down
+S
+#99999
+$~

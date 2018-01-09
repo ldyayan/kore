@@ -1,0 +1,690 @@
+#600
+clan COVEN social bulletin board~
+a social bulletin board~
+A board of dark markings is here, indicating a raw sense of civility.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#601
+clan GENERIC banker man~
+a banker~
+A small man sits behind a bank counter and a pile of your money.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#602
+clan COVEN cauldron pot kettle~
+a black cauldron~
+A large indigo-black cauldron is perched upon a burning fire.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+cauldron kettle pot~
+   The boiling water glows faintly green, lit from below by some unknown source.
+~
+#603
+statue immense idol Calis COVEN~
+an idol of Calis~
+Cut into the rear wall of the cavern is an immense idol.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+statue immense idol Calis~
+Measuring over a fifty feet in height, it is hard to imagine the great
+work it must have taken to carve such a monument.  The figure is a man in
+long sweeping robes sitting on a throne erected upon a mound of bodies,
+and the face is almost frightening in its near-perfect beauty.  Even being
+inanimate, the eyes carry a visage of pure evil, and they almost seem to
+follow your movement around the cave.
+~
+#604
+coffin COVEN casket bed~
+the coffin of Calis~
+A large and magnificent wooden coffin is here, raised upon a dais.~
+~
+15 0 0
+1000 5 -1 0
+400 1 1
+E
+coffin casket bed~
+Engraved elegantly by the finest of artisans, this reddish-brown casket
+is a work of art all unto itself.  Every inch of its casing is marked
+with carvings, light and deep, depicting scenes of mass death, dying, and
+destruction.  Through the representations one figure is notably at center,
+his eyes glazed over, his hands gushing with ruinous energy so great that
+they're unrecognizable.  The blood of others covers his entire body.
+~
+#605
+cauldron COVEN fountain water~
+a black cauldron~
+A large indigo-black cauldron is perched upon a burning fire here.~
+~
+23 0 0
+999999 999999 0 0
+1 1 1
+E
+cauldron fountain water~
+The boiling water faintly glows green, lit from below from some unseen
+source.  It is believed that the souls of the dead killed by the coven
+are held in this bottomless cauldron, and upon looking deep into the
+murky waters and viewing movement therein, it is not a hard to give
+credence to.
+~
+#606
+clan COVEN dolere mandrax statue~
+a granite statue of Mandrax~
+Rising high above you, a statue of gray-black granite rests against the wall.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+mandrax statue dolere~
+    The statue was carved by a master, possibly by magic. The attention to
+detail is remarkable and the polished surface seems to glow softly. The
+light of the room plays off the visible portion of the face and give you
+an eerie feeling of being watched. Gazing over the sculpted figure you
+see that it is garbed in thick concealing robes with a hood that shadows
+the face. Sitting in a throne next to another statue, just as impressive,
+the figure clutches a staff with a crystal at the top. Moving across the
+room to get a better view of the figure's face, you jump in surprise as
+the head follows your movements, and a glowing red eye appears in the
+visible portion of the face. You know who this is now, and you feel
+afraid. For you have found the statue of the Nosferatu Mandrax, founder
+of Dolere. Kneel manling... and pay homage to your history.
+~
+#607
+clan COVEN root dried mandrake~
+a mandrake root~
+A dried out root lies on a shelf here.~
+~
+19 0 1
+24 0 0 0
+1 1 1
+#608
+clan blood moss fungus COVEN~
+some blood moss~
+Some reddish fungus grows from a crack in the wall.~
+~
+19 0 1
+24 24 13 0
+1 1 1
+#609
+cave COVEN entrance~
+a cavern entrance~
+Barely discernable, the concealed entrance to a cave lies in front of you.~
+~
+27 0 0
+601 0 0 0
+0 0 0
+E
+cave~
+Because of the pitch-blackness of the cave, you almost don't notice the 
+presence of a tunnel which leads into the rock eastward. Looking down
+it you can see that it branches off into a larger tunnel, and then
+darkness.
+~
+#610
+newbie map kore~
+a map of Kore~
+A map of Kore is lying here.~
+~
+13 0 16385
+0 0 0 0
+1 1 1
+E
+map kore~
+                             \|/
+O   O---O---O---O---O---O-----O-----O---O---O---O---O---O   O
+ \ /                          |                          \ /
+  O                           O                           O
+  |                           |                           |
+  O                           O                           O
+  |                           |                           |
+  O                           O                           O
+  |                           |                           |
+  O                       S S O S                         O
+  |                        \| | |                         |
+  O                       S-O-O-O-S   O                   O
+  |                         | | |     |                   |
+ -O-O-O---O------O------O---O-O-O-O-O-O-O-------O---------O-
+ /|       |                 | | |       |                 |\
+O O-O     |               S-O-O-O-S   C-O                 | O
+  | |     |                /| | |\      |                 |
+  | S     |               S S | S S     |                 |
+  O       O                 O-O O O     O-C               O
+  |       |                   | | |     |                 |
+  O       O   O       O       O-O-O     O                 O
+  |       |   |       |       | |       |                 |
+  O       O   O       O   O-O | O       O-O-O C   C       O
+  |\    | |   |       |   |   |             | |   |       |
+  | O-O-O-O-O-O-O-O-O-O-O-O O-X-O           O-O-O-O-O-O-C O
+  |/  |   |       |     |     |             |   |   | |  /|
+  O O-O-O O       O     O     O             |   C   C O-O |
+  |       |       |                         |            \|
+  O       O       O                         |             O
+  |       |                                 |             |
+  O       O                                 |             O
+ / \      |                                 |             |
+O   \     |                                 |             O
+     O    O                                 |            / \
+      \   |                   O             |           O   O
+       \  |                   |             |          /
+        O-O----O----O----O----O-----O-------O--O---O--O
+       /                     /|\                       \
+      O                     O | O                       O
+--------------
+O : room
+X : temple
+S : shop
+C : clan hall
+-------------
+Originally mapped by Spock, after the Rising.
+Updated and imped by Mink.
+~
+#611
+fountain COVEN pool blood~
+a pool of blood~
+A multi-leveled fountain is here, spurting pools of blood.~
+~
+23 0 0
+999999 999999 13 0
+600 1 1
+E
+pool blood fountain~
+Warm blood courses from the top of the fountain, to be constantly
+filtered through endless cycles of the many levels.  The blood is hot,
+as if it was just consumed from a live body.
+~
+#612
+ledge EE cliff~
+a high ledge~
+A high ledge looms many feet above your head.~
+~
+27 0 0
+634 6 0 0
+1 0 0
+E
+ledge cliff~
+While it does hold a slight possibility of danger, the ledge does look
+climbable.  It is nearly twenty feet up, and you cannot see what lies
+beyond.
+~
+#613
+house bulletin board~
+a house auction bulletin board~
+A board for bidding on houses floats in the air here.~
+~
+0 16 0
+0 0 0 0
+1 0 0
+#614
+flickering portal VU temple~
+a flickering portal~
+A flickering portal hangs in the air.~
+~
+27 64 0
+16123 0 0 0
+0 0 0
+E
+flickering portal~
+A foreign city looms beyond the portal...
+~
+#615
+portal vortex house vherin ultrin olympus~
+a flickering portal~
+A flickering portal of the house of the gods hangs here, humming softly.~
+~
+27 64 0
+404 0 0 0
+0 1 0
+E
+portal rift~
+Like a tear in worn fabric, the gap in the area above the circle of
+stones is dark, and the other side's destination is concealed in the
+darkness.
+~
+#616
+portal vortex house vherin ultrin aesir~
+a flickering portal~
+A flickering portal showing a windy northern city hangs here, humming softly.~
+~
+27 0 0
+26603 0 0 0
+1 0 0
+#617
+tree branch kore ELLCRYS HAVEN~
+a tree branch overhanging Kore~
+A branch on a large tree overhangs the city of Kore.~
+~
+27 0 0
+3001 6 0 0
+1 0 0
+E
+tree branch kore~
+You see a large branch that extends to overhang a distant city.
+~
+#618
+shelves shelf wall~
+a wall with shelves~
+There are shelves built into the wall here.~
+~
+15 0 0
+1000 0 -1 0
+0 0 0
+E
+shelves shelf wall~
+These shelves were built here so that you could place things on them.
+Litter and be whipped.
+~
+#619
+sheer metallic sleeves coven~
+sheer metallic sleeves~
+A pair of metallic sleeves lie in the dust here.~
+~
+9 67108864 257
+7 0 0 0
+10 50000 0
+A
+19 4
+A
+18 2
+A
+2 2
+A
+13 40
+A
+12 40
+A
+9 5
+#620
+desk wooden~
+a small wooden desk~
+A small wooden desk covered in cobwebs, concealed in a forgotten corner.~
+~
+15 0 0
+500 0 -1 0
+10 0 0
+E
+desk wooden~
+    A small wooden desk covered in cobwebs, concealed in a forgotten
+corner. With at least five hundred years of undisturbed dust upon it
+and five hundred years of decay set in, this ancient desk has truely
+been forgotten. A small spider can be seen crawley around inside it.
+~
+#621
+spider~
+a small spider~
+A small spider.~
+~
+13 0 0
+0 0 0 0
+10000 0 0
+E
+spider~
+    A small spider.
+~
+#622
+black fountain spring spider VU~
+a massive rock fountain~
+An enormous black fountain, carefully carved from the cavern floor.~
+~
+23 0 0
+999999 999999 0 0
+0 0 0
+E
+black fountain spring spider~
+Dominating the area, you see a massive fountain carved from the floor 
+itself over what must be a natural spring below. It has a huge, ornately 
+carved bowl with a large pedestal in the center. Set atop the pedestal you 
+see a spider, intricately carved with painstaking detail from a single 
+enormous block of obsidian; from the end of each leg, crystal clear water 
+pours into the bowl below.
+~
+#651
+wings demon quest~
+Wings of the Demon~
+A set of leathery wings lies here in a heap.~
+~
+9 83886336 1025
+15 0 0 0
+1 1000000 0
+A
+18 3
+A
+19 3
+A
+13 20
+B
+4194304 0
+#652
+dagger serpent venom~
+Calis' forked tongue~
+A glimmering dagger, dripping with venom glistens evilly from the shadows.~
+~
+5 64 8193
+4 5 6 11
+1 800000 0
+A
+2 4
+A
+19 2
+S
+33 50 100
+#653
+tesseract wand quest~
+the tesseract~
+A glowing silver device pulsates in the dust.~
+~
+3 0 1
+60 20 20 131
+1 400000 0
+#654
+homonculus shield quest~
+the homonculus shield~
+A small string-like creature is resting on the floor, deprived of its master.~
+~
+9 0 17
+10 0 0 0
+1 1000000 0
+A
+12 100
+A
+12 100
+#655
+shield hemispherical force quest~
+a hemispherical forceshield~
+A pulsating half-circle of light hovers in mid-air before you.~
+~
+9 1 513
+16 0 0 0
+1 600000 0
+A
+19 4
+A
+12 30
+A
+24 -4
+B
+2 0
+#656
+katana chunin quest~
+a katana~
+The majestic sword of the samaurai chunin rests here in its stand.~
+~
+5 69206080 8193
+6 8 8 11
+3 600000 0
+#657
+fountain dragon~
+a fountain~
+A dragon shaped fountain rests in the center of the forest.~
+~
+23 0 0
+5000 5000 15 0
+0 0 0
+#658
+a mirror~
+a mirror~
+A oval mirror of ancient construction hangs on the far wall.~
+~
+27 64 0
+3001 0 0 0
+0 0 0
+E
+mirror~
+Framed in ornate, tarnished silver, the mirror radiates 
+alteration magic if detected for. At first glance the 
+mirror seems unremarkable. If one enters the mirror they
+will arrive at the Temple of the Goddess of Vulmarta.
+~
+#659
+lava rock cave stone~
+a lava rock~
+A large piece of lave rock is neatly placed on the far wall.~
+~
+27 0 0
+624 0 0 0
+0 0 0
+E
+lava rock~
+The lava rock serves as a entrance way to the clanhall
+of Dragionleige. It you are a member, push the rock.
+~
+#660
+red grapes~
+red grapes~
+A bunch of red grapes are on the counter top.~
+~
+19 0 1
+24 0 0 0
+1 0 0
+#661
+layer fog VU cloud~
+a cloud of thick fog~
+A dense layer of fog lies dormant about the fence.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+layer fog cloud~
+Is that a fence beyond the fog?
+~
+#662
+mace avalanche~
+a mace named, 'Avalanche'~
+A rectangular granite macehead rests atop a rune carved wooden haft.~
+~
+5 302055528 24577
+9 9 9 5
+23 8000000 0
+A
+17 -9
+A
+18 9
+A
+19 9
+A
+13 90
+S
+117 60 25
+S
+161 60 20
+#670
+leather belt~
+a leather belt worked with silver runes~
+A slender brown belt of leather rests upon the ground here.~
+~
+9 1090519248 2049
+12 0 0 0
+2 45000 4500
+E
+belt leather~
+The soft leather of this belt has been carefully tooled with runes
+in a softly glowing silver pattern.  The language it has been written
+in has long since been lost, but a slight tingle runs up your arm as
+you run your fingers over the letters.
+~
+A
+14 35
+A
+24 -2
+A
+18 3
+A
+19 2
+B
+4194304 0
+#671
+high soft boots~
+knee high soft leather boots~
+Supple leather boots lie in one corner of the room.~
+These are the high soft boots favored by the Aiel.  Their soft
+soles can pass over the most uneven ground without creating
+so much as a whisper of a sound.
+~
+9 1090519248 65
+10 0 0 0
+3 14000 1400
+A
+2 3
+A
+24 -2
+A
+13 20
+A
+19 2
+A
+18 2
+B
+262144 0
+#672
+silver arm clasps~
+some silver arm clasps etched with ivy~
+Resting on a small table lie some silver armclasps.~
+~
+9 1090519248 257
+8 0 0 0
+4 20000 2000
+E
+ivy armclasps clasps~
+These heavy armclasps are deeply engraved with scrolling ivy leaves.  As you
+trace a finger around the leaves, they feel strangely warm to the touch.
+~
+A
+1 1
+A
+13 20
+A
+12 25
+A
+18 3
+A
+19 2
+A
+24 -2
+B
+4096 0
+#673
+scratched gauntlets~
+heavily scratched gauntlets~
+Covered in thick dust, some dark iron gauntlets lie here.~
+~
+9 1090519248 129
+10 0 0 0
+5 15000 1500
+E
+scratched gauntlets~
+These heavy iron gauntlets look like they have seen a great deal
+of use.  Sliding them onto your hands, they feel remarkably flexible
+for heavy metal.
+~
+A
+1 1
+A
+18 3
+A
+19 3
+A
+24 -2
+A
+13 20
+B
+65536 0
+#674
+black ice visor~
+a black ice visor~
+A small shard of blackened ice lies here glistening.~
+~
+9 1090519248 262145
+4 0 0 0
+1 12000 1200
+E
+black ice visor~
+This visor is slightly opaque as you hold it in your hands.  It feels
+cold to the touch, but remarkably, it does not seem to melt.  As you
+hold it up and peer through it, you can see with remarkable clarity.
+~
+A
+12 35
+A
+24 -3
+A
+22 -4
+B
+8 0
+#690
+leaf avensedora~
+a leaf of avensedora~
+Lightly covered in dust, you can just make out a small green leaf.~
+~
+8 285212804 1
+0 0 0 0
+1 0 0 60
+#691
+disc cuendillar~
+a small disc of cuendillar~
+Resting on the ground is a small disc made from cuendillar.~
+~
+8 285212804 1
+0 0 0 0
+1 0 0 60
+#692
+amber gemstone stone~
+an amber gemstone~
+A gemstone of amber is lying here neglected.~
+~
+8 285212804 1
+0 0 0 0
+1 0 0 60
+#693
+silk rose~
+a silk rose~
+An elaborately sewn rose of silk rests here.~
+~
+8 285212804 1
+0 0 0 0
+1 0 0 60
+#694
+brocaded broach ivory~
+an ivory brocaded broach~
+A small bit of ivory fixed to a clasp of some sort lies undisturbed on the ground.~
+~
+8 285212804 1
+0 0 0 0
+1 0 0 60
+#695
+table white tablecloth~
+a table for the wedding presents~
+An oak table covered with a white cloth awaits the wedding presents.~
+  Expert elven craftsmanship is evident in the exquisite design
+of this oak table. The table has been covered with a delicate
+embroidered pattern of leaves and flowers in shimmering white
+and silver thread. It awaits to hold the wedding presents for 
+the new happy couple.
+~
+15 0 0
+9999 0 -1 0
+0 0 0
+#696
+Laurel Ring of Love~
+Laurel Ring of Love~
+You see a ring that shimmers with elven love~
+some weirdo must have made this for charity
+~
+9 65641 3
+0 0 0 0
+0 0 0
+A
+12 25
+A
+13 20
+#99999
+$~

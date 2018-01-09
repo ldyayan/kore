@@ -1,0 +1,1539 @@
+#26900
+Base of the Mountain~
+You are at the south gates of the city.
+~
+269 0 5
+D1
+~
+~
+0 0 26901
+D3
+~
+~
+0 0 26933
+S
+#26901
+Base of the Mountain~
+You are in an unfinished room.
+~
+269 0 5
+D1
+~
+~
+0 0 26902
+D3
+~
+~
+0 0 26900
+S
+#26902
+Base of the Mountain~
+You are in an unfinished room.
+~
+269 0 5
+D1
+~
+~
+0 0 26905
+D3
+~
+~
+0 0 26901
+D4
+~
+~
+0 0 26903
+S
+#26903
+Small Rocky Trail~
+You are in an unfinished room.
+~
+269 0 5
+D4
+~
+~
+0 0 26904
+D5
+~
+~
+0 0 26902
+S
+#26904
+Mountain Trail~
+You are in an unfinished room.
+~
+269 0 5
+D4
+~
+~
+0 0 26949
+D5
+~
+~
+0 0 26903
+S
+#26905
+Base of the Mountain~
+You are in an unfinished room.
+~
+269 0 5
+D1
+~
+~
+0 0 26906
+D3
+~
+~
+0 0 26902
+S
+#26906
+Base of the Mountain~
+You are in an unfinished room.
+~
+269 0 5
+D0
+~
+~
+0 0 26907
+D1
+~
+~
+0 0 26909
+D3
+~
+~
+0 0 26905
+S
+#26907
+Small Cave Entrance~
+You are in an unfinished room.
+~
+269 264 0
+D0
+~
+~
+0 0 26908
+D2
+~
+~
+0 0 26906
+S
+#26908
+Back of the Cave~
+You are in an unfinished room.
+~
+269 265 0
+D2
+~
+~
+0 0 26907
+S
+#26909
+Base of the Mountain~
+You are in an unfinished room.
+~
+269 0 5
+D1
+~
+~
+0 0 26910
+D3
+~
+~
+0 0 26906
+S
+#26910
+Base of the Mountain~
+You are in an unfinished room.
+~
+269 0 5
+D3
+~
+~
+0 0 26909
+D6
+~
+~
+0 0 26911
+S
+#26911
+Base of the Mountain~
+You are in an unfinished room.
+~
+269 0 5
+D6
+~
+~
+0 0 26912
+D8
+~
+~
+0 0 26910
+S
+#26912
+Base of the Mountain~
+You are in an unfinished room.
+~
+269 0 5
+D0
+~
+~
+0 0 26913
+D8
+~
+~
+0 0 26911
+S
+#26913
+Small Valley~
+You are at the end of a flourishing green valley that stretches to the East.
+Above you to the North is a small copse of evergreen trees stretching toward
+the sunlight.  The edge of the valley is to steep at this point to climb up and into the
+tree line, but perhaps you can make your way up further to the East, the slope appears
+to be at a less severe angle.  To the South, the valley narrows to a small pathway curving
+along the base of a mountain.
+~
+269 0 2
+D1
+~
+~
+0 0 26914
+D2
+~
+~
+0 0 26912
+S
+#26914
+Small Valley~
+You are in the middle of a flourishing green valley that stretches to the East and
+West.  Above you to the North is a small copse of evergreen trees stretching toward
+the sunlight.  The edge of the valley is to steep at this point to climb up and into the
+tree line, but perhaps you can make your way up further to the East, the slope appears
+to be at a less severe angle.
+~
+269 0 2
+D1
+~
+~
+0 0 26915
+D3
+~
+~
+0 0 26913
+S
+#26915
+Small Valley~
+You're at the Eastern end of a flourishing green valley.  To the North is a steep hill
+leading up to what seems to be a small copse of evergreen trees.  The valley runs
+to the West, eventually running into a large mountain.
+~
+269 0 2
+D3
+~
+~
+0 0 26914
+D4
+~
+~
+0 0 26916
+S
+#26916
+Steep Hill~
+You're at the top of a steep hill that leads down into a nice looking green valley.
+Northwest of you is a small copse of dark evergreen trees.  Heading down into the valley
+looks to be the favoured choice of the animals.  Glancing around you can see many small
+critters leaping around in the tall green grass, however to the Northwest, you don't
+seem to see any animals at all.  Not even any birds or squirrels.
+~
+269 0 4
+D5
+~
+~
+0 0 26915
+D9
+~
+~
+0 0 26917
+S
+#26917
+Evergreen Forest~
+You are standing within a small copse of tightly packed evergreen trees.
+There's plenty of room to maneuver around, however the constant battle of the trees
+trying to reach the sun has made them stretch well over your height, blocking out most
+of the sunlight.  The deadly quiet, and eerie movements of the trees in the wind send
+a chill through your spine.  Oddly, you see no animals within the brances of the
+trees, again giving you the sensation that something isn't quite right.
+The clearest path through the forest takes you West of here, or to the Southeast
+you can see a small hill leading into a nice green valley.
+~
+269 0 3
+D3
+~
+~
+0 0 26918
+D7
+~
+~
+0 0 26916
+S
+#26918
+Evergreen Forest~
+You are standing within a small copse of tightly packed evergreen trees.
+There's plenty of room to maneuver around, however the constant battle of the trees
+trying to reach the sun has made them stretch well over your height, blocking out most
+of the sunlight.  The deadly quiet, and eerie movements of the trees in the wind send
+a chill through your spine.  Oddly, you see no animals within the brances of the
+trees, again giving you the sensation that something isn't quite right.
+The clearest path through the forest takes you East or West from this point.
+~
+269 0 3
+D1
+~
+~
+0 0 26917
+D3
+~
+~
+0 0 26919
+S
+#26919
+Evergreen Forest~
+You are standing within a small copse of tightly packed evergreen trees.
+There's plenty of room to maneuver around, however the constant battle of the trees
+trying to reach the sun has made them stretch well over your height, blocking out most
+of the sunlight.  The deadly quiet, and eerie movements of the trees in the wind send
+a chill through your spine.  Oddly, you see no animals within the brances of the
+trees, again giving you the sensation that something isn't quite right.
+The clearest path through the forest takes you to the East.  Northwest, you can see
+the treeline of the forest, and a path leading around the mountain.
+~
+269 0 3
+D1
+~
+~
+0 0 26918
+D9
+~
+~
+0 0 26920
+S
+#26920
+Base of the Mountain~
+You're following a path that appears to lead along the base of the mountain.
+It contiunes on to the North and Southeast from this point.  The scenery is nothing
+spectacular, there's sparse trees growing out of the rocky formation towering above you,
+and off in a Easterly direction, you can see a small copse of evergreen trees.
+~
+269 0 5
+D0
+~
+~
+0 0 26921
+D7
+~
+~
+0 0 26919
+S
+#26921
+Base of the Mountain~
+You're following a path that appears to lead along the base of the mountain.
+It contiunes on to the North and South from this point.  The scenery is nothing
+spectacular, there's sparse trees growing out of the rocky formation towering above you,
+and off in a Easterly direction, you can see a small copse of evergreen trees.
+~
+269 0 5
+D0
+~
+~
+0 0 26922
+D2
+~
+~
+0 0 26920
+S
+#26922
+Base of the Mountain~
+You're following a path that appears to lead along the base of the mountain.
+It contiunes on to the North and South from this point.  The scenery is nothing
+spectacular, there's sparse trees growing out of the rocky formation towering above you,
+and off in a Easterly direction, you can see a small copse of evergreen trees.
+~
+269 0 5
+D0
+~
+~
+0 0 26923
+D2
+~
+~
+0 0 26921
+S
+#26923
+Base of the Mountain~
+You're following a path that appears to lead along the base of the mountain.
+It contiunes on to the South and Northwest from this point.  The scenery is nothing
+spectacular, there's sparse trees growing out of the rocky formation towering above you,
+and off in a Easterly direction, you can see a small copse of evergreen trees.
+~
+269 0 5
+D2
+~
+~
+0 0 26922
+D9
+~
+~
+0 0 26924
+S
+#26924
+Base of the Mountain~
+You're following a path that appears to lead along the base of the mountain.
+It contiunes on to the Southeast and Northwest from this point.  The scenery is nothing
+spectacular, there's sparse trees growing out of the rocky formation towering above you,
+and off in a Easterly direction, you can see a small copse of evergreen trees.
+~
+269 0 5
+D7
+~
+~
+0 0 26923
+D9
+~
+~
+0 0 26925
+S
+#26925
+Base of the Mountain~
+You're following a path that appears to lead along the base of the mountain.
+It contiunes on to the Southeast and West from this point.  The scenery is nothing
+spectacular, there's sparse trees growing out of the rocky formation towering above you,
+and off in a Easterly direction, you can see a small copse of evergreen trees.
+~
+269 0 5
+D3
+~
+~
+0 0 26926
+D7
+~
+~
+0 0 26924
+S
+#26926
+Base of the Mountain~
+You're following a path that appears to lead along the base of the mountain.
+It contiunes on to the East and West from this point.  The scenery is nothing
+spectacular, there's sparse trees growing out of the rocky formation towering above you,
+and off in a Easterly direction, you can see a small copse of evergreen trees.
+~
+269 0 5
+D1
+~
+~
+0 0 26925
+D3
+~
+~
+0 0 26927
+S
+#26927
+Base of the Mountain~
+You're following a path that appears to lead along the base of the mountain.
+It contiunes on to the East and West from this point.  The scenery is nothing
+spectacular, there's sparse trees growing out of the rocky formation towering above you,
+and off in a Easterly direction, you can see a small copse of evergreen trees.
+West of you is a small rocky path leading to a small ledge that curves around the
+Northwest side of the mountain.
+~
+269 0 5
+D1
+~
+~
+0 0 26926
+D3
+~
+~
+0 0 26928
+S
+#26928
+Rocky Path~
+You are on a rocky path that stretches out onto a dirt path following around the base
+of the mountain, and the other way, West, it turns into a narrow ledge running around
+the base of the mountain aswell.  East of here you can see a small copse of trees.
+~
+269 0 5
+D1
+~
+~
+0 0 26927
+D3
+~
+~
+0 0 26929
+S
+#26929
+Narrow Ledge~
+You are at the beginnings of a narrow ledge that stretches along the base of the mountain.
+East of you is a rocky path that continues on in that direction and looks like it might
+lead to a small wooded area that you can see in the distance.  To the West all you can
+see is the narrow ledge running along the base of the mountain.
+~
+269 0 5
+D1
+~
+~
+0 0 26928
+D3
+~
+~
+0 0 26930
+S
+#26930
+Narrow Ledge~
+You are on a narrow ledge running along the base of the mountain.  To the East you can
+see the ledge widening out and eventually meeting with even ground all around.  West of
+here however, the ledge continues to follow along the base of the mountian.  Not to far
+to the West, things are looking a little unstable.
+~
+269 0 5
+D1
+~
+~
+0 0 26929
+D3
+~
+~
+0 0 26931
+S
+#26931
+Narrow Ledge~
+You are standing on a narrow ledge that from here, runs to the East and West.  Further
+West, past some unstable looking rocks, you can see the path veer toward the South as
+it follows along the base of the mountain.  East of here, way in the distance, it seems
+that the ledge comes to an end, and opens up onto a path on solid ground.
+~
+269 0 5
+D1
+~
+~
+0 0 26930
+D3
+~
+~
+0 0 26932
+S
+#26932
+VERY Unstable Looking Ledge~
+You start walking onto the rocky, unstable looking ledge.  At first it seems alright,
+but then you hear a few rocks tumbling down the mountain side.  Rocks that just
+happened to be adding to the support of the ledge.  A few more rocks fall and before
+you can manage to jump out of the way, the ground falls out beneath your feet.
+You desperatly claw at the side of the mountain in the hopes of grabbing something
+solid and hauling yourself out of trouble.  You manage to find no such thing and you
+start sliding down the face of the mountain, slowly at first, but you gradually build
+up speed as the slope increases.  You begin to think that it might not be all that bad
+but then once again, the ground falls out from beneath you and you find yourself
+in mid air.  The jagged rocks below you come into view as you fall closer and closer.
+Some quick thinking on your part and you're able to decide on the fact that they're not
+going to cushion your fall at all.  You land on the jagged rocks and die instantly.
+~
+269 131074 5
+D1
+~
+~
+0 0 26931
+D3
+~
+~
+0 0 26948
+S
+#26933
+Base of the Mountain~
+You are standing at the base of a large rocky mountain.  Glancing upwards, you can see
+a few patches of trees among the rocks but other than the trees, it seems like an endless
+stretch of rocky terrain.  To the West you can see the trail around the base of the
+mountain start to angle upwards and rocks are strewn about, making the walk a dangerous
+and difficult one.
+~
+269 0 5
+D1
+~
+~
+0 0 26900
+D3
+~
+~
+0 0 26934
+S
+#26934
+Rocky Slope~
+Your at the bottom of a rocky slope that angles upwards the further West you go.  Rocks
+are strewn about, making travel in these parts dangerous and slow going.  To the East you
+can see that the trail evens out a little and continues along the base of the mountain.
+~
+269 0 5
+D1
+~
+~
+0 0 26933
+D3
+~
+~
+0 0 26935
+S
+#26935
+Rocky Slope~
+You're on a rocky slope that angles downward the further East you go.  Rocks are strewn
+about making the hike dangerous and slow going.  West of here you can see the trail
+start to clear up of stray rocks and boulders, however the South side of the trail starts
+to drop, creating a rather dangerous looking ledge.  You can manage your way around by
+sticking close to the mountain wall and continuing along the ledge, or heading East down
+the rocky slope.
+~
+269 0 5
+D1
+~
+~
+0 0 26934
+D9
+~
+~
+0 0 26936
+S
+#26936
+Narrow Ledge~
+You're standing on a narrow ledge that runs along the side of the mountain.  South of you
+is the long drop off that would definately carry you to your death, however it seems
+that you'll be able to manage quite well, as long as you stick to the side of the mountain
+and watch your footing.  The ledge continues toward the Northwest and ends to the Southeast,
+coming to a rocky slope that heads downwards toward a trail along the base of the mountain.
+~
+269 0 5
+D7
+~
+~
+0 0 26935
+D9
+~
+~
+0 0 26937
+S
+#26937
+Narrow Ledge~
+You're walking along a narrow ledge that stretches around the Western side of the mountain.
+There's a rather large drop off toward the West that you'd rather not see the bottom of
+therefore you think it might be best to make your way around the ledge by sticking close
+to the mountain wall.  The ledge stretches North and Southeast from where you stand.
+~
+269 0 5
+D0
+~
+~
+0 0 26938
+D7
+~
+~
+0 0 26936
+S
+#26938
+Narrow Ledge~
+You're walking along a narrow ledge that stretches around the Western side of the mountain.
+There's a rather large drop off toward the West that you'd rather not see the bottom of
+therefore you think it might be best to make your way around the ledge by sticking close
+to the mountain wall.  The ledge stretches North and South from where you stand.
+~
+269 0 5
+D0
+~
+~
+0 0 26939
+D2
+~
+~
+0 0 26937
+S
+#26939
+Narrow Ledge~
+You're walking along a narrow ledge that stretches around the Western side of the mountain.
+There's a rather large drop off toward the West that you'd rather not see the bottom of
+therefore you think it might be best to make your way around the ledge by sticking close
+to the mountain wall.  The ledge stretches Northeast and South from where you stand.
+~
+269 0 5
+D2
+~
+~
+0 0 26938
+D6
+~
+~
+0 0 26940
+S
+#26940
+Narrow Ledge~
+You're standing on a narrow ledge that is located on the Western side of the large mountain.
+East of you, is the mountain wall to which the ledge seems firmly attached.  To the West
+however is a vast vacant space to which you can spot many trees and jagged rocks just below
+that vacant space.  You think it would be in your best interest to stay close to the mountain
+wall, rather than take a dive off the ledge to the West.  North of you, you notice an old
+bridge that seems to be entirely made of rope.  It spans across from where you stand, to
+another ledge on the other side of the rope bridge.  By the looks of things, it was put
+in place after some unfortunate sole discovered that one part of the very ledge you stand
+on wasn't so safe.  Southwest, the narrow ledge continues.
+~
+269 0 5
+D0
+~
+~
+0 0 26941
+D8
+~
+~
+0 0 26939
+S
+#26941
+Old Rope Bridge~
+You're standing, or rather balancing on what seems to be a nice, sturdy rope bridge.
+The rope has been pulled taught from end to end, and stretchs across the open space between
+two ledges making it possible for people to cross.  The design of the bridge is rather simple.
+It's made up of three ropes stretching vertically across the space, two on each of your
+sides for you to hold on to, and one under your feet for you to walk on.  Each rope is
+then tied together by several smaller ropes, forming an almost V shaped bridge.  The
+bridge continues North and to the South, you can step off onto a narrow ledge.
+~
+269 0 13
+D0
+~
+~
+0 0 26942
+D2
+~
+~
+0 0 26940
+S
+#26942
+Old Rope Bridge~
+You're standing, or rather balancing on what seems to be a nice, sturdy rope bridge.
+The rope has been pulled taught from end to end, and stretchs across the open space between
+two ledges making it possible for people to cross.  The design of the bridge is rather simple.
+It's made up of three ropes stretching vertically across the space, two on each of your
+sides for you to hold on to, and one under your feet for you to walk on.  Each rope is
+then tied together by several smaller ropes, forming an almost V shaped bridge.  The
+bridge continues both North and South.  As you take a step on the bridge, you look down
+to watch your footing and happen to notice yet another rope dangling down from bridge.
+It seems to lead down to a small ledge underneath the bridge.
+~
+269 0 13
+D0
+~
+~
+0 0 26943
+D2
+~
+~
+0 0 26941
+D5
+~
+~
+0 0 26945
+S
+#26943
+Old Rope Bridge~
+You're standing, or rather balancing on what seems to be a nice, sturdy rope bridge.
+The rope has been pulled taught from end to end, and stretchs across the open space between
+two ledges making it possible for people to cross.  The design of the bridge is rather simple.
+It's made up of three ropes stretching vertically across the space, two on each of your
+sides for you to hold on to, and one under your feet for you to walk on.  Each rope is
+then tied together by several smaller ropes, forming an almost V shaped bridge.  The
+bridge continues South and to the North, you can step off onto a narrow ledge.
+~
+269 0 13
+D2
+~
+~
+0 0 26942
+D6
+~
+~
+0 0 26944
+S
+#26944
+Narrow Ledge~
+You're standing on a narrow ledge that runs parllel to the Western side of the
+mountain.  South of you is a rope bridge that looks to have been hastily constructed.
+The narrow ledge you are standing on continues around the side of the mountain toward
+the Northeast.
+~
+269 0 5
+D6
+~
+~
+0 0 26947
+D8
+~
+~
+0 0 26943
+S
+#26945
+A Dangling Rope~
+You're hanging from a rope thats fastened at the top to a rope bridge spanning across
+a gap between a mountain trail.  Above you is the bridge, and below you is a small ledge.
+~
+269 452 13
+D4
+~
+~
+0 0 26942
+D5
+~
+~
+0 0 26946
+S
+#26946
+A Ledge Under the Rope Bridge~
+You are at the bottom of a rope bridge which hangs above your head.  Theres a rope dangling
+down from the bridge that is within arms reach.  There isn't much here, except a spectacular
+view of the terrain below the mountain, out toward the West.
+~
+269 0 5
+D4
+~
+~
+0 0 26945
+S
+#26947
+Narrow Ledge~
+You are standing on a narrow ledge that seems to lead around the mountian as far
+as your eye can see.  From where you stand it runs to the East, and Southwest.
+~
+269 0 5
+D1
+~
+~
+0 0 26948
+D8
+~
+~
+0 0 26944
+S
+#26948
+Narrow Ledge~
+You are standing on a narrow ledge that seems to be leading you around the base of
+the mountain.  The ledge runs East and West from where you stand, and glancing in
+both directions you spot that the ledge to the East eventually leads to some stable
+ground, and the West leads you around to the Western side of the mountain.  Closer
+inspection reveals that the ledge to the East doesn't look very stable and it might
+be a good idea to try and find another way around.  However it would be a lot quicker
+if you just went straight through.
+~
+269 0 5
+D1
+~
+~
+0 0 26932
+D3
+~
+~
+0 0 26947
+S
+#26949
+Mountain Trail~
+You are in an unfinished room.
+~
+269 0 5
+D3
+~
+~
+0 0 26950
+D5
+~
+~
+0 0 26904
+S
+#26950
+Mountain Trail~
+You are in an unfinished room.
+~
+269 0 5
+D1
+~
+~
+0 0 26949
+D3
+~
+~
+0 0 26951
+S
+#26951
+Mountain Trail~
+You are in an unfinished room.
+~
+269 0 3
+D0
+~
+~
+0 0 26952
+D1
+~
+~
+0 0 26950
+S
+#26952
+Mountain Trail~
+You are in an unfinished room.
+~
+269 0 3
+D2
+~
+~
+0 0 26951
+D3
+~
+~
+0 0 26953
+D5
+~
+~
+5 1 26955
+S
+#26953
+Walkway Toward a Small House~
+You are in an unfinished room.
+~
+269 0 0
+D0
+~
+door~
+2 26902 26954
+D1
+~
+~
+0 0 26952
+S
+#26954
+A Small House~
+You are in an unfinished room.
+~
+269 8 3
+D2
+~
+door~
+2 26902 26953
+S
+#26955
+Old Mineshaft~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26956
+S
+#26956
+Old Mineshaft~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26957
+D2
+~
+~
+0 0 26955
+S
+#26957
+Old Mineshaft~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26958
+D2
+~
+~
+0 0 26956
+S
+#26958
+Old Mineshaft~
+You are in an unfinished room.
+~
+269 8 1
+D2
+~
+~
+0 0 26957
+D5
+~
+~
+0 0 26959
+S
+#26959
+Ladder~
+You are in an unfinished room.
+~
+269 8 13
+D4
+~
+~
+0 0 26958
+D5
+~
+~
+0 0 26960
+S
+#26960
+Corridor~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26961
+D4
+~
+~
+0 0 26959
+S
+#26961
+Corridor~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26962
+D2
+~
+~
+0 0 26960
+S
+#26962
+Corridor~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26963
+D2
+~
+~
+0 0 26961
+S
+#26963
+Corridor~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+wooden door~
+1 0 26964
+D2
+~
+~
+0 0 26962
+S
+#26964
+Seventh Street~
+You are in an unfinished room.
+~
+269 8 1
+D1
+~
+~
+0 0 26965
+D2
+~
+wooden door~
+1 26900 26963
+D3
+~
+~
+0 0 26968
+S
+#26965
+Seventh Street~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26986
+D1
+~
+~
+0 0 26966
+D3
+~
+~
+0 0 26964
+S
+#26966
+Seventh Street~
+You are in an unfinished room.
+~
+269 8 1
+D1
+~
+~
+0 0 26967
+D3
+~
+~
+0 0 26965
+S
+#26967
+Seventh Street~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26995
+D3
+~
+~
+0 0 26966
+S
+#26968
+Seventh Street~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26969
+D1
+~
+~
+0 0 26964
+S
+#26969
+Fifth Avenue~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26970
+D2
+~
+~
+0 0 26968
+S
+#26970
+Fifth Avenue~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26971
+D2
+~
+~
+0 0 26969
+D3
+~
+~
+0 0 26976
+S
+#26971
+Fifth Avenue~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26972
+D2
+~
+~
+0 0 26970
+D3
+~
+~
+0 0 26979
+S
+#26972
+Fifth Avenue~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26973
+D2
+~
+~
+0 0 26971
+D3
+~
+~
+0 0 26981
+S
+#26973
+Fifth Avenue~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26974
+D2
+~
+~
+0 0 26972
+D3
+~
+~
+0 0 26983
+S
+#26974
+Fifth Avenue~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26975
+D2
+~
+~
+0 0 26973
+D3
+~
+~
+0 0 26985
+S
+#26975
+Fifth Avenue~
+You are in an unfinished room.
+~
+269 8 1
+D2
+~
+~
+0 0 26974
+D3
+~
+~
+0 0 26990
+S
+#26976
+Delcina's Dwarven Spirits~
+You are in an unfinished room.
+~
+269 24 1
+D1
+~
+~
+0 0 26970
+D3
+~
+door~
+1 0 26978
+S
+#26977
+Delcinas Storage Room~
+You are in an unfinished room.
+~
+269 917512 1
+S
+#26978
+Kitchen      ~
+You are in an unfinished room.
+~
+269 8 1
+D1
+~
+door~
+1 0 26976
+D3
+~
+panel~
+1 0 26946
+S
+#26979
+Weapon Smiths~
+You are in an unfinished room.
+~
+269 24 1
+D1
+~
+~
+0 0 26971
+S
+#26980
+Weapon Smiths Storage    ~
+Weapon Smiths Storage Room
+~
+269 917512 1
+S
+#26981
+Clothiers~
+You are in an unfinished room.
+~
+269 24 1
+D1
+~
+~
+0 0 26972
+D3
+~
+~
+0 0 26994
+S
+#26982
+Clothiers Storage Room    ~
+You are in an unfinished room.
+~
+269 917512 1
+S
+#26983
+Bakery~
+You are in an unfinished room.
+~
+269 24 1
+D1
+~
+~
+0 0 26973
+S
+#26984
+Bakery Storage Room    ~
+You are in an unfinished room.
+~
+269 917512 1
+S
+#26985
+Singing Seal Inn~
+You are in an unfinished room.
+~
+269 24 1
+D1
+~
+~
+0 0 26974
+S
+#26986
+Slope Street~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26987
+D2
+~
+~
+0 0 26965
+S
+#26987
+Slope Street~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26988
+D2
+~
+~
+0 0 26986
+S
+#26988
+Slope Street~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26989
+D2
+~
+~
+0 0 26987
+S
+#26989
+Slope Street~
+You are in an unfinished room.
+~
+269 8 1
+D2
+~
+~
+0 0 26988
+S
+#26990
+Jewelers~
+You are in an unfinished room.
+~
+269 408 1
+D1
+~
+~
+0 0 26975
+S
+#26991
+Jewelers Storage Room~
+You are in an unfinished room.
+~
+269 917512 1
+S
+#26992
+USE ME~
+You are in an unfinished room.
+~
+269 0 1
+S
+#26993
+USE ME~
+You are in an unfinished room.
+~
+269 0 1
+S
+#26994
+Storage Room~
+You are in an unfinished room.
+~
+269 280 1
+D1
+~
+~
+0 0 26981
+S
+#26995
+Baileys Court~
+You are in an unfinished room.
+~
+269 8 1
+D0
+~
+~
+0 0 26996
+D2
+~
+~
+0 0 26967
+E
+grass brown~
+It's just some ordinary looking grass that was allowed to grow rather long and
+eventually died out, turning brown in color.  A thought enters your head as you look
+at it, then around you.  You're in the depths of a mountain, and standing in a large
+field of grass.  How in the world did grass ever begin to grow down here?  The thought
+slips from your mind as you begin to think of your task at hand.
+~
+S
+#26996
+Baileys Court~
+You are in an unfinished room.
+~
+269 24 1
+D0
+~
+~
+0 0 26997
+D1
+~
+~
+0 0 26998
+D2
+~
+~
+0 0 26995
+D3
+~
+~
+0 0 26999
+E
+plaque sign~
+
+It's in some kind of ancient language, you can't understand what it says.
+~
+E
+grass brown~
+It's just some ordinary looking grass that was allowed to grow rather long and
+eventually died out, turning brown in color.  A thought enters your head as you look
+at it, then around you.  You're in the depths of a mountain, and standing in a large
+field of grass.  How in the world did grass ever begin to grow down here?  The thought
+slips from your mind as you begin to think of your task at hand.
+~
+S
+#26997
+Baileys Court~
+You are in an unfinished room.
+~
+269 8 1
+D2
+~
+~
+0 0 26996
+E
+grass brown~
+It's just some ordinary looking grass that was allowed to grow rather long and
+eventually died out, turning brown in color.  A thought enters your head as you look
+at it, then around you.  You're in the depths of a mountain, and standing in a large
+field of grass.  How in the world did grass ever begin to grow down here?  The thought
+slips from your mind as you begin to think of your task at hand.
+~
+S
+#26998
+Baileys Court~
+You are in an unfinished room.
+~
+269 8 1
+D3
+~
+~
+0 0 26996
+E
+grass brown~
+It's just some ordinary looking grass that was allowed to grow rather long and
+eventually died out, turning brown in color.  A thought enters your head as you look
+at it, then around you.  You're in the depths of a mountain, and standing in a large
+field of grass.  How in the world did grass ever begin to grow down here?  The thought
+slips from your mind as you begin to think of your task at hand.
+~
+S
+#26999
+Baileys Court~
+You are in an unfinished room.
+~
+269 8 1
+D1
+~
+~
+0 0 26996
+E
+grass brown~
+It's just some ordinary looking grass that was allowed to grow rather long and
+eventually died out, turning brown in color.  A thought enters your head as you look
+at it, then around you.  You're in the depths of a mountain, and standing in a large
+field of grass.  How in the world did grass ever begin to grow down here?  The thought
+slips from your mind as you begin to think of your task at hand.
+~
+S
+#99999
+$~

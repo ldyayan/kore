@@ -1,0 +1,1648 @@
+#24300
+Villanus Street~
+   Villanus Street runs north south along the west side of the inner wall
+of Kore.  The Castle of the Tyrant towers above to the northeast.  To the
+north is the temple to a goddess of the city.
+~
+243 0 8
+D0
+~
+~
+0 0 24367
+D2
+~
+~
+0 0 24340
+S
+#24301
+A Hallway to Reality~
+   This long hallway is lined with dark stones.  They are symmetrical, and seem
+to be made of some dark shiny rock, maybe obsidian.  All light seems to be 
+absorbed by the walls and floor, yet off in the distance you see a bright
+white light.  You can also hear laughter and talking, why it sounds just like
+the Temple of Vulmarta.....if you just go down a little you can reach it....
+~
+243 28 8
+D0
+~
+~
+0 0 24354
+D1
+~
+~
+0 0 24359
+D2
+~
+~
+0 0 24305
+D3
+~
+~
+0 0 24363
+S
+#24302
+The Clerics' Inner Sanctum~
+   This is the inner sanctum.  A picture of the mighty Thor, is hanging on
+the wall, just above the altar which is set against the western wall.  A well
+in the middle of the floor leads down into darkness.  Vile smells waft from
+the depths.
+~
+243 12 8
+D1
+~
+~
+0 -1 24303
+D5
+You can't see what is down there, it is too dark.  Looks like it would be
+impossible to climb back up.
+~
+~
+0 -1 8292
+S
+#24303
+The Bar Of Divination~
+   The bar is one of the finest in the land, lucky it is members only.  Fine
+furniture is set all around the room.  A small sign is hanging on the wall.
+~
+243 140 8
+D2
+~
+~
+0 -1 24304
+D3
+~
+~
+0 -1 24302
+E
+sign~
+The sign reads:
+Free instructions provided by the waiter:
+
+   Buy  - Buy something (drinkable) from the waiter.
+   List - The waiter will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+S
+#24304
+The Entrance To The Clerics' Guild~
+   The entrance hall is a small modest room, reflecting the true nature of
+the Clerics.  The exit leads east to the temple square.  A small entrance to
+the bar is in the northern wall.
+~
+243 8 8
+D0
+~
+~
+0 -1 24303
+D1
+You see the Temple Square.
+~
+~
+0 -1 24305
+S
+#24305
+The Temple Square~
+   You are standing in the wide temple square.  Huge marble steps to the
+north lead up to the temple sanctum.  To the west is a large brick and marble
+structure where the priestesses of Vulmarta train all holy men and women of
+their order.  To the east you see the Inn of the Friend of the People,
+a place where weary travellers may find rest in the safe grounds of the 
+goddess.
+~
+243 0 8
+D0
+~
+~
+0 -1 24301
+D1
+~
+~
+0 -1 24306
+D2
+~
+~
+0 -1 24368
+D3
+~
+~
+0 -1 24304
+S
+#24306
+The Entrance Hall of the Inn of the Friend of the People~
+   You are standing in the enterance hall of the Inn of the Friend of the
+People.  The hall is warm and decorated with soft furniture.  The heavy smell
+of dust and aging paper drifts in from the Post Office to the north. A small
+staircase leads up to the reception and the bar is to the east.
+~
+243 8 8
+D0
+~
+~
+0 -1 24362
+D1
+~
+~
+0 -1 24307
+D3
+~
+~
+0 -1 24305
+D4
+~
+~
+0 -1 24308
+S
+#24307
+The Bar~
+   You are standing in the bar.  The bar is set against the northern wall, old
+archaic writing, carvings and symbols cover its top.  A fireplace is built into
+the western wall, and through the southeastern windows you can see the temple
+square.  This place makes you feel like home.
+A small sign with big letters is fastened to the bar.
+~
+243 136 8
+D3
+~
+~
+0 -1 24306
+E
+sign~
+The sign reads:
+Free instructions provided by the Grunting Boar Inn.
+
+   Buy  - Buy something (drinkable) from the bartender.
+   List - The bartender will show you all the different drinks and
+          specialties, and tell the price of each.
+~
+E
+writing carving carvings symbols symbol~
+Although it is very hard to understand, you think it looks a lot like beer,
+poems about beer, and small beer-mugs.
+~
+S
+#24308
+The Reception~
+   You are standing in the reception.  The staircase leads down to the
+entrance hall.  An exit to the north leads to the Cryogenic Center.
+There is a small sign on the counter.
+~
+243 8 8
+D0
+~
+~
+0 -1 24364
+D5
+~
+~
+0 -1 24306
+E
+sign~
+Rooms are expensive but good!  You may:
+
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+           minimum charge is one day.
+
+
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+~
+S
+#24309
+The Bakery~
+   You are standing inside a small bakery.  The smell of bread of dough
+fills the room.  The bread and crackers made here are of fine quality and
+line the shelves and countertops through the room.
+A small sign is on the counter.
+~
+243 136 8
+D2
+~
+~
+0 -1 24313
+E
+danish pastry~
+You see that this is truly delicious pastry.  Must be made by a Dane from
+Denmark (which surely is not the capital of Sweden!).  Former ruler of
+Scandinavia, England, Northern Germany, Northern France, Russia, Greenland,
+Iceland, Estonia etc.  etc.
+   The sight of those large, wholesome chokoladeboller makes your mouth water
+and your soul sing.
+~
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you some bread or pastry.
+   List - The baker will kindly tell you the price and sort of the bread in
+          his bakery.
+~
+S
+#24310
+The General Store~
+   You are inside the general store.  All sorts of items are stacked on shelves
+behind the counter, safely out of your reach.
+A small note hangs on the wall.
+~
+243 136 8
+D2
+~
+~
+0 -1 24315
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#24311
+The Weapon Shop~
+   You are inside the weapon shop.  There is a small note on the counter.
+~
+243 136 8
+D2
+~
+~
+0 -1 24316
+E
+note~
+The note reads:
+
+  List  - Show which various items are in the store.
+  Buy   - Buy an item.
+  Value - The shopkeeper will (free of charge) tell how much he will
+          pay for your item.
+  Sell  - Sell an item.
+~
+S
+#24312
+Arkanum Street~
+   You are on the main street passing through the Citadel of the Tyrant.  The
+Statue of the Tyrant casts its long shadow over the city.  Arkanum street
+continues west toward the inner gates, and east towards Merkani Square. The
+magic shoppe is to the north to the south is the Tower of High Sorcery.
+~
+243 0 8
+D0
+~
+~
+0 -1 24333
+D1
+~
+~
+0 -1 24313
+D2
+~
+~
+0 -1 24317
+D3
+~
+~
+0 -1 24340
+S
+#24313
+Arkanum Street~
+   You are on the main street passing through the Citadel of the Tyrant.  The
+Statue of the Tyrant casts its long shadow over the city.  South of here is
+the enterance to the Armoury, and the Bakery is to the north.  East of here
+is the first guard post before the Palace of the Tyrant.
+~
+243 0 8
+D0
+~
+~
+0 -1 24309
+D1
+~
+~
+0 -1 24314
+D2
+~
+~
+0 -1 24320
+D3
+~
+~
+0 -1 24312
+S
+#24314
+In Front of the Palace of the Tyrant~
+   You stand in front of the Palace of the Tyrant, he has ruled Kore
+as long as anyone can remember.  It is rumored that he has lived a
+thousand years.  The Statue of the Tyrant looms above you, and its shadow
+covers half the city.  Arkanum Street runs east and west around the palace
+and many shops are set up along it.  The merchants feel safe with so many
+guards around.  To the south is Merkani Square.
+~
+243 0 8
+D0
+~
+~
+0 0 24342
+D1
+~
+~
+0 -1 24315
+D2
+~
+~
+0 -1 24325
+D3
+~
+~
+0 -1 24313
+D4
+~
+~
+0 -1 8292
+S
+#24315
+Arkanum Street~
+   You are on the main street of the Citadel of the Tyrant. The Statue of the
+Tyrant casts its long shadow over the city. To the north is the general
+store, and Arkanum street continues east.  To the west you see the first guard
+post before the Palace of the Tyrant. To the south you see the pet shop.
+~
+243 0 8
+D0
+~
+~
+0 -1 24310
+D1
+~
+~
+0 -1 24316
+D2
+~
+~
+0 -1 24331
+D3
+~
+~
+0 -1 24314
+S
+#24316
+Arkanum Street~
+You are on the main street of the Citadel of the Tyrant. The Statue of the
+Tyrant casts its long shadow over the city. To the north is the weapon shop and 
+to the south is the Guild of Swordsmen.  To the east you leave town and to
+the west the street leads to Merkani square.
+~
+243 0 8
+D0
+~
+~
+0 -1 24311
+D1
+~
+~
+0 -1 24341
+D2
+~
+~
+0 -1 24321
+D3
+~
+~
+0 -1 24315
+S
+#24317
+The Entrance to the Tower of High Sorcery~
+   You stand outside an enormous pillar tower of black stone.  The tower
+stands one hundred feet high with many slits and slots for its defense,
+and decorated and defended by mysterious runes and magical symbols.  The
+entrance to the tower is an open arch for, by its magic, only mages may
+enter.
+~
+243 0 8
+D0
+~
+~
+0 -1 24312
+D2
+~
+~
+0 -1 24318
+S
+#24318
+Inside the Tower of High Sorcery~
+   The ground floor of the tower is immensely grand!  From the outside it
+appears to be nothing but a simple tower, but inside it is cavernous.
+Spacious, well-lit, and well-furnished.  The ground floor of the tower is
+as grand as a King's feasting hall.  Across the floor is an immense red
+carpet embroidered with thaumaturigal designs, and across the room is a
+fireplace large enough to roast three oxen.  A set of stairs curves around
+the interior to an upper level and as your eye follows it to the ceiling,
+you realize that the place is lit by unseen but wondrous lights.  When
+you look at the designs on the floor, sometimes your eye sees a magical way
+down.
+~
+243 140 8
+D0
+~
+~
+0 -1 24317
+D4
+~
+~
+0 -1 24319
+D5
+~
+~
+0 -1 8292
+S
+#24319
+The High Sorcery Library~
+   This is the Magical studies library.  Dark smoke-stained stones arch over
+numerous huge oaken tables, most of these cluttered with strange-looking
+pipes and flasks and open books.  The floor is covered with half-erased
+pentagrams and even weirder symbols, and a blackboard in a dark corner has
+only been partially cleaned, some painful-looking letters faintly visible.
+A set of stairs leads down to the entry hall.
+~
+243 12 8
+D5
+~
+~
+0 -1 24318
+S
+#24320
+The Armory~
+   The armory is filled with all kinds of armor, some from far away, other
+pieces produced here in the workshop.  The proprietor's specialty is clearly
+bronze, for many of the pieces gleam with the bright shine of good quality
+bronze.  On the wall is a small note.
+   To the north you see the main street of Kore.
+~
+243 136 8
+D0
+~
+~
+0 -1 24313
+E
+note~
+You can use these commands for trading:
+
+  value <item>     To get the price of an item in your possession.
+  sell <item>      To sell something.
+  buy <item>       To buy something (provided that the shop has it in store).
+  list             Gives you a listing of the shop's inventory.
+
+        WE DON'T GIVE CREDIT; WE DON'T EXPECT TO RECEIVE CREDIT!
+                             NO HAGGLING
+~
+S
+#24321
+The Entrance Hall To The Guild Of Swordsmen~
+   The entrance hall to the Guild of Swordsmen.  A place where one has to be
+careful not to say something wrong (or right).  To the east is the bar and to
+the north is the main street.
+~
+243 8 8
+D0
+~
+~
+0 -1 24316
+D1
+~
+~
+0 -1 24322
+S
+#24322
+The Serpent Sword Tavern~
+   This bar of swordsmen was once beautifully furnished.  But after numerous
+bar fights and battles between the patrons, not much of it is left.  Amongst
+the rubble of the room stands a waiter, waiting to take your order.
+~
+243 140 8
+D2
+~
+~
+0 -1 24323
+D3
+~
+~
+0 -1 24321
+S
+#24323
+The Tournament And Practice Yard~
+   This is the practice yard of the fighters.  To the north is the bar.
+A well leads down into darkness.
+~
+243 12 8
+D0
+~
+~
+0 -1 24322
+D5
+~
+~
+0 -1 8292
+S
+#24324
+Aquanus Street~
+   Aquanus Street runs east and west through the city of the Tyrant. The
+Statue of the Tyrant casts its shadow over you.  South of here is a noble's
+mansion.
+~
+243 0 8
+D1
+~
+~
+0 -1 24325
+D2
+~
+~
+0 -1 24348
+D3
+~
+~
+0 -1 24344
+S
+#24325
+Merkani Square~
+   This is Merkani Square, dedicated to the victory over some ancient
+long forgotten foe.  In the center is a statue of the Tyrant, in his
+earlier years apparently. The statue is easily 10 times your height and
+casts its shadow across half the city.  To the south is the graveyard,
+and Aquanus Street runs east and west, crossing the river to the east.
+~
+243 0 8
+D0
+~
+~
+0 -1 24314
+D1
+~
+~
+0 -1 24326
+D2
+~
+~
+0 -1 8292
+D3
+~
+~
+0 -1 24324
+D10
+~
+~
+0 -1 8292
+S
+#24326
+Aquanus Street~
+   Aquanus Street runs east and west through the city of the Tyrant. The
+Statue of the Tyrant casts its shadow over you.  To the south is the boat
+shoppe and the alley continues east.
+~
+243 0 8
+D1
+~
+~
+0 -1 24345
+D2
+~
+~
+0 -1 24327
+D3
+~
+~
+0 -1 24325
+E
+guild~
+It is the thieves' guild, don't enter if you care about your health or money.
+~
+S
+#24327
+Captain Stolar's Boat Shoppe~
+   This is Captain Stolar's Boat Shoppe.  The finest (and only) boats in
+Kore.  To the north is Aquanus Street.
+~
+243 136 8
+D0
+~
+~
+0 -1 24326
+D2
+~
+~
+0 0 8292
+S
+#24328
+The Thieves' Bar~
+   The bar of the thieves.  Once upon a time this place was beautifully
+furnished, but now it seems almost empty.  To the south is the yard, and to
+the west is the entrance hall.
+   (Maybe the furniture has been stolen?!)
+~
+243 140 8
+D2
+~
+~
+0 -1 24329
+D3
+~
+~
+0 -1 24327
+E
+furniture~
+As you look at the furniture, the chair you sit on disappears.
+~
+S
+#24329
+The Secret Yard~
+   The secret practice yard of thieves and assassins.  To the north is the
+bar.  A well leads down into darkness.
+~
+243 12 8
+D0
+~
+~
+0 -1 24328
+D5
+~
+~
+0 -1 8292
+S
+#24330
+An unfinished room.~
+It looks unfinished.
+~
+243 0 8
+D0
+~
+~
+0 0 24301
+S
+#24331
+The Menagerie~
+   The Menagerie is a crowded store, full of cages and pens of animals of
+various sizes.  Dogs, cats, monkeys, snakes, little lizards, tiny birds,
+they all bark, meow, cheep, hiss, croak, and chirp respectively, making an
+immense ruckus.  You see a sign on the wall too.
+~
+243 140 8
+D0
+~
+~
+0 -1 24315
+E
+sign~
+The sign reads:
+
+  Use 'List' to see the available pets.
+  Use 'Buy <pet>' to buy yourself a pet.
+
+  Instructions for having pets:
+
+  You can use 'order <pet> <instructions>' to order your pets around.
+  If you abuse your pet, it will no longer regard you as its master.
+  If you have several pets you may use 'order followers <instructions>'
+
+  You can name the pet you buy with: 'buy <pet> <name>'
+
+ Regards,
+
+ The Shopkeeper
+
+~
+S
+#24332
+Pet Shop Store~
+   This  is the small dark room in which the Pet shop keeps his pets.
+It is vital that this room's virtual number is exactly one larger
+than the Pet Shop number.
+~
+243 1032 8
+S
+#24333
+The Magic Shop~
+   All about the room you see strange objects beyond all description or
+comprehension.  Spinning hypnotizing disks, stuffed animals, eyeballs in
+a jar, dried bats, sticks (wands?), rods (magical?), roll after roll of 
+scrolls and strange glass balls for peering into the future.  You see a
+few items marked for sale ... and a sign on the counter.
+~
+243 136 8
+D2
+~
+~
+0 -1 24312
+E
+sign~
+You look at the sign and read the flowing script:
+
+   Buy  - to purchase a particular item.
+   List - to inventory what is for sale in the shop.
+
+~
+S
+#24334
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 8
+S
+#24335
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 8
+S
+#24336
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 8
+S
+#24337
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 8
+S
+#24338
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 8
+S
+#24339
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 8
+S
+#24340
+The West Gate of the Inner Wall of Kore~
+   You stand under two daunting towers that guard the inner gates of Kore.
+The inner gates have never been breached by an enemy.  Tarkanus Street leads
+north.
+~
+243 0 8
+D0
+~
+~
+0 0 24300
+D1
+~
+~
+0 -1 24312
+D2
+You see the road running along the inner side of the city wall.  You notice
+that it is called Wall Road.
+~
+~
+0 -1 24343
+D3
+~
+gate~
+0 3112 24352
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#24341
+East Gate of the Inner Wall of Kore~
+   You stand under two daunting towers that guard the inner gates of Kore.
+The inner gates have never been breached by an enemy.  Certani Street leads
+north to the Bardic College of Fochlucan.  To the south you see the Water Shop.
+East is outside the inner gates.
+~
+243 0 8
+D0
+~
+~
+0 -1 24381
+D1
+~
+gate~
+0 3112 24353
+D2
+~
+~
+0 -1 24358
+D3
+~
+~
+0 -1 24316
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#24342
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+243 0 8
+D0
+~
+~
+0 0 8292
+D2
+~
+~
+0 0 24314
+S
+#24343
+Villanus Street~
+   Villanus Street runs north south along the west side of the inner wall
+of Kore.  The Castle of the Tyrant towers above to the northeast.  Aquanus
+Street leads east.
+~
+243 0 8
+D0
+~
+~
+0 -1 24340
+D1
+~
+~
+0 -1 24344
+D2
+~
+~
+0 -1 24347
+E
+wall writing letters~
+It says 'Who watches the watchmen?'
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#24344
+Aquanus Street~
+   Aquanus Street runs east and west through the city of the Tyrant. The
+Statue of the Tyrant casts its shadow over you.  To the north you see 
+an Apothecary's shop.
+~
+243 0 8
+D0
+~
+~
+0 -1 24356
+D1
+~
+~
+0 -1 24324
+D3
+~
+~
+0 -1 24343
+S
+#24345
+Aquanus Street at the River~
+   Aquanus Street ends here at the River.  The river runs NE through the
+city, then doubles back and forms the moat for the Castle of the Tyrant
+before it ends in a large lake.  The Street leads back west.
+~
+243 0 8
+D2
+~
+~
+0 -1 24349
+D3
+~
+~
+0 -1 24326
+S
+#24346
+The Eastern End Of The Alley~
+   You are standing at the eastern end of the alley, the city wall is just
+east, blocking any further movement.  A small warehouse is directly south of
+here and a mexican food stand has been set up north of here.
+~
+243 0 8
+D0
+~
+~
+0 -1 24356
+D2
+~
+~
+0 -1 24350
+D3
+~
+~
+0 -1 24345
+S
+#24347
+Villanus Street~
+   Villanus Street runs north south along the west side of the inner wall
+of Kore.  The Castle of the Tyrant towers above to the northeast.  South
+of here you can see the Graveyard.
+~
+243 0 8
+D0
+~
+~
+0 -1 24343
+D2
+~
+~
+0 -1 24351
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#24348
+Before a Noble Estate~
+   You are before a noble estate.  Stately trees line a shady walk that
+leads to the mansion.  You sense powerful magic protecting the premisces.
+Guards stand watch over the gate.
+~
+243 136 8
+D0
+~
+~
+0 -1 24324
+D2
+~
+gate~
+1 24305 24350
+S
+#24349
+The Levee~
+   You are at the levee.  South of here you see the river gently flowing west.
+The river bank is very low making it possible to enter the river.
+~
+243 0 8
+D0
+~
+~
+0 -1 24345
+D2
+~
+~
+0 0 24387
+S
+#24350
+Inside a Noble Estate~
+   You are inside a Noble Estate but suddenly you feel no interest in it
+and decide to leave.  In the back of your mind you wonder if its the magic
+but you really dont think about it.
+~
+243 8 8
+D0
+~
+gate~
+0 24305 24348
+S
+#24351
+Villanus Street bordering the Graveyard~
+   Villanus Street runs north south along the west side of the inner wall
+of Kore.  The Castle of the Tyrant towers above to the northeast.  You come
+up to the fence bordering the Graveyard, but you'll have to go around to
+the enterance if you are dying to get in.  To the east is a tiny cottage,
+the corpse shop where the gravedigger's guild sells corpses...
+~
+243 0 8
+D0
+~
+~
+0 -1 24347
+D1
+~
+~
+0 0 8292
+D2
+~
+~
+0 0 8292
+E
+bridge~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar, just like the wall.
+~
+E
+opening~
+You cannot really see it from here as it is somewhere beneath your feet.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#24352
+Outside the West Gate of Kore~
+   You are by two small towers that have been built into the city wall and
+connected with a footbridge across the heavy wooden gate.  To the west you
+can see the edge of a big forest.
+~
+243 4 8
+D1
+~
+gate~
+0 3112 24340
+D3
+~
+~
+0 -1 8292
+D10
+~
+~
+0 -1 8292
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#24353
+Outside the East Gate of the Inner Wall~
+   You stand under two daunting towers that guard the inner gates of Kore.
+The inner gates have never been breached by an enemy.  To the east the
+slums out on Dysteri Street crowd in.  At least the area in front of the
+East Gate is kept clear though.
+~
+243 4 8
+D1
+~
+~
+0 0 8292
+D3
+~
+gate~
+0 3112 24341
+D10
+~
+~
+0 -1 8292
+E
+bridge footbridge~
+It is too high up to reach but it looks as if one easily could walk across it
+from one tower to the other.
+~
+E
+gate~
+It is a set of very big double doors made from hard wood.  They have been
+reinforced with large iron bands to make them even more sturdy.  One of the
+doors is equipped with a very big lock.
+~
+E
+tower towers~
+Both of the towers are built from large grey rocks that have been fastened to
+each other with some kind of mortar, just like the city wall.
+~
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#24354
+By The Temple Altar~
+   You stand by the temple statue of Vulmarta.  Her worshippers use the 
+flat marble at her feet to kneel and give offerings of flowers, wine, food,
+incense, and orphans.  Gifts to the goddess are lovingly acknowledged and
+cared for by the entire community of priestesses of Vulmarta.
+   To the north you see the bustle of Temple Street.
+~
+243 28 8
+D0
+~
+~
+0 0 24400
+D2
+~
+~
+0 -1 24301
+S
+#24355
+Vulmarta's Secret Place~
+   This is the small dark room in which Vulmarta keeps the olives the she
+takes care of.  It is vital that this room's virtual number is exactly one
+larger than the room by the temple altar.
+~
+243 520 8
+S
+#24356
+The Apothecary~
+   You enter the Apothecary looking for strange potions and herbs.  The
+place is crowded from floor to ceiling with jars and vials and stacked
+with boxes of herbs and unguents.  The place is filled with dust and
+strange odors and the floor is spotted with dark stains.  The place though
+is clean and well-kept.  On the wall is a sign.
+~
+243 136 8
+D2
+~
+~
+0 -1 24344
+E
+sign~
+Free instructions provided by the store:
+
+   Buy  - Will buy you a potion.
+   List - The apothecary  will kindly tell you the price and sort of the
+          potions in his shop.
+
+~
+S
+#24357
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 8
+S
+#24358
+Ye Olde Water Shoppe~
+   You are in Wally's World O' Water, whose proprietor, Wally, is sure to
+have something to meet all of your water needs.
+~
+243 136 8
+D0
+~
+~
+0 -1 24341
+S
+#24359
+Prayer Room~
+   This quiet room is set off from the main temple halls and pilgrims
+come and go, writing notes on a board.  The notes are prayers to the gods
+of Kore, notes that are like wishes that things could be different.  You
+know the gods respond to ^Cbug^n ^Ctypo^n and ^Cidea^n but here is a place
+where you can really vent your grievances to the gods or make an elaborate
+wish...
+~
+243 24 8
+D3
+~
+~
+0 0 24301
+S
+#24360
+Garbage~
+garbage room
+~
+243 1024 8
+S
+#24361
+Garbage~
+garbage room
+~
+243 1024 8
+S
+#24362
+The Post Office~
+   You are in the central post office for Kore.  Piles of assorted mail
+lay untouched in the corners, collecting cobwebs.  Several large crates have
+been pried open by curious customs agents, and are now stacked along the west
+wall, hiding plenty of 'WANTED' posters.
+There is a sign posted on the wall here.
+~
+243 136 8
+D2
+~
+~
+0 -1 24306
+E
+WANTED posters poster wall~
+Faces of various known Killers and Thieves can barely be seen behind the
+crates on the west wall.  Some of them look quite familar, sorta like that
+guy who you saw in the Reception a minute ago... but then again, they are
+rather hard to see past the crates.
+~
+E
+crates opened large~
+As you know, it is illegal to send contraband items through the Kore
+Mail.  The customs agents use this as a great excuse to seize liquor,
+rare spices, and just about anything they might find useful or profitable.
+~
+E
+cobwebs~
+They seem to cover everything here, even the Postmaster himself.
+~
+E
+letters envelopes assorted~
+Envelopes of all sizes are heaped into hugh piles around the room.  As you
+look closer, you see a letter that you had posted a full week ago, laying
+unnoticed and slightly rat-chewed towards the bottom of the pile.
+~
+E
+sign~
+**********************************************************
+*     							 *
+*    Mail Instructions:                                  *
+*							 *
+*      To send a note to someone:                        *
+*         MAIL <playername>				 *
+*     							 *
+*      To see if you have any mail:                      *
+*         CHECK						 *
+*							 *
+*      To get the Postmaster to give you your mail:      *
+*         RECEIVE					 *
+*							 *
+*         Stamps cost 150 coins per letter               *
+*         Type 'HELP MAIL' for more info                 *
+**********************************************************
+~
+S
+#24363
+Temple Donation Room~
+   You are in a small, undecorated room just off of the altar of Vulmarta.
+Here the poor gather hoping for free food or items that they can sell at the
+market or use.  Vulmarta's clerics take pains to see that the items donated
+will help the people that need them.
+~
+243 12 8
+D1
+~
+~
+0 0 24301
+S
+#24364
+The Cryogenic Center~
+   You are standing in an impossible white sterile room with cylindrical
+body-length canisters lined up against the walls.  The Reception is to the
+south.
+~
+243 8 8
+D2
+~
+~
+0 -1 24308
+S
+#24365
+Garbage~
+garbage room
+~
+243 1024 8
+S
+#24366
+Garbage~
+garbage room
+~
+243 1024 8
+S
+#24367
+Villanus Street~
+    Villanus Street runs north south along the west side of the inner wall
+of Kore.  The Castle of the Tyrant towers above to the northeast.  To the
+north is a temple to the goddess of the city.
+~
+243 0 8
+D0
+~
+~
+0 0 24368
+D1
+~
+~
+0 0 24390
+D2
+~
+~
+0 0 24300
+D3
+~
+~
+0 0 8292
+D10
+~
+~
+0 -1 8292
+S
+#24368
+Before the Temple of Vulmarta~
+   You stand before the Temple of Vulmarta, who in the legends of the city
+made the stars in the sky and the seasons upon the earth.  The temple is a
+gorgeous clean white pillared affair with a dim interior.
+   To the south is Villanus Street and the temple square is to the north.
+~
+243 0 8
+D0
+~
+~
+0 0 24305
+D2
+~
+~
+0 0 24367
+S
+#24369
+The Temple Ossuary~
+    Here in the darkness under the temple you stand in an ancient ossuary.
+Huge piles of bones fill entire vaults back into the gloom.  Morbid or perhaps
+holy piles of skulls leer out of the darkness, moved into shapes resembling
+religious symbols.  The bones are brown with time, and somewhere off in the 
+distance you hear a squeaking rat.  On your face though, you feel a slight
+breeze, sulferous, from below...
+~
+243 41 8
+D4
+~
+trapdoor~
+1 24399 24301
+D5
+~
+~
+0 0 8292
+S
+#24370
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24371
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24372
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24373
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24374
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24375
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24376
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24377
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24378
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+S
+#24381
+Before the Bardic College Campus~
+   You stand outside the grand and wonderful brick wall that marks the 
+boundaries of the famed Bardic Colleges.  Beginning bards, Rhymers, come
+here to earn their first instruments and degrees.  The place is stately
+and well-kept, and from the other side you hear laughter, music, and
+the ringing of swords at practice fencing.
+~
+243 0 8
+D0
+~
+~
+0 -1 24382
+D2
+~
+~
+0 -1 24341
+S
+#24382
+On the Bardic College Campus~
+   You stand inside the grand, wonderful and worthy College of the Bards.
+The halls are high and majestic, and the inside of the College is a massive
+loftly hall, much like a cathedral, with excellent acoustics.  Men and
+women sing and compose here in the hall, practicing for the festival of
+Eisteddfod, the great yearly poetry contest.
+   Upstairs you see a choir and south you see the grounds in front of the
+college.
+~
+243 136 8
+D2
+~
+~
+0 -1 24381
+D3
+~
+~
+0 -1 8292
+D4
+~
+~
+0 -1 24383
+S
+#24383
+The Choir~
+   You stand here in the choir of Fochlucan college and admire the incredible
+works of common art that adorn and filigree and ornament all parts of it.
+On the walls hang tapestries of unicorns and maidens, on the benches are
+carved leaves and birds and pinecones, on the floor is a vast mosaic of a
+troubador playing for his lady, and the entire place fills you with a kind
+of happiness.
+   A short flight of stairs leads down.
+~
+243 8 8
+D5
+~
+~
+0 -1 24382
+S
+#24384
+Under The Bridge~
+   The arch under the bridge is covered by seaweed about a foot above the
+surface of the river.  The water gently flows through an opening in the lower
+part of the city wall.
+~
+243 0 8
+D1
+~
+~
+0 0 24385
+S
+#24385
+On The River Quiavel~
+   North of here you see the miserable buildings of Poor Alley.  The
+river flows west towards the bridge.  The riverbanks are too steep to
+climb.
+~
+243 0 8
+D1
+~
+~
+0 0 24386
+D3
+~
+~
+0 0 24384
+S
+#24386
+On The River Quiavel~
+   North of here you see the dump.  The river flows from east to west.  The
+riverbanks are too steep to climb.
+~
+243 0 8
+D1
+~
+~
+0 0 24387
+D3
+~
+~
+0 0 24385
+S
+#24387
+On The River Quiavel~
+   The wharf is directly south of here.  The river flows in an east west
+direction.
+~
+243 0 8
+D1
+~
+~
+0 0 24388
+D2
+~
+~
+0 0 16181
+D3
+~
+~
+0 0 24386
+S
+#24388
+On The River Quiavel~
+   You see the warehouse on the northern riverbank.  East of here you see the
+city wall.  The river flows west towards the levee.
+~
+243 0 8
+D1
+~
+~
+0 0 24389
+D3
+~
+~
+0 0 24387
+S
+#24389
+On The River Quiavel~
+   The river enters from a hole in the eastern city wall.  The hole has been
+blocked by several vertically positioned iron bars set into the wall.
+~
+243 0 8
+D1
+~
+~
+0 0 8292
+D3
+~
+~
+0 0 24388
+S
+#24390
+Sarafina's Bridal Shoppe~
+   You are standing in a small shop with a hardwood floor that
+is swept clean.  Along the walls are rolls of delicate fabrics
+and shelves with precious and semi-precious stones.  There is
+a small counter near the back of the shop and a small door
+that appears to lead into a back yard.
+~
+243 148 8
+D3
+~
+~
+0 0 24367
+S
+#24391
+sarafina's backroom~
+You are in an unfinished room.
+~
+243 1024 8
+S
+#24399
+Cleaner Plus~
+   A better idea for getting rid of mobs.
+~
+243 393401 0
+S
+#99999
+$~

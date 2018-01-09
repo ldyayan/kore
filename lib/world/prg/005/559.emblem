@@ -1,0 +1,35 @@
+>rand_prog 18~
+  if inroom($r) == here
+    if ispc($r)
+      if level($r) > 50
+      else
+        mpechoat $r Spirits of the past have granted you the gift of enhanced armor.
+        mpcallmagic 'armor' $r
+        if isaffected($r, blind)
+          mpechoat $r Spirits of the past have granted you the gift of sight.
+          mpcallmagic 'cure blindness' $r
+        endif
+        if isaffected($r, fly)
+        else
+          mpechoat $r Spirits of the past have granted you the gift of flight.
+          mpcallmagic  'fly' $r
+        endif
+        if isaffected($r, poison)
+          mpechoat $r Spirits of the past have granted you the gift of health.
+          mpcallmagic 'remove poison' $r
+        endif
+        if isaffected($r, invis)
+        else
+          mpechoat $r Spirits of the past have granted you the gift of stealth.
+          mpcallmagic 'invisibility' $r
+        endif
+        if isaffected($r, infra)
+        else
+          mpechoat $r Spirits of the past have granted you the gift of enhanced sight.
+          mpcallmagic 'infravision' $r
+        endif
+     endif
+    endif
+  endif
+~
+|

@@ -1,0 +1,25 @@
+>command_prog pull lever~
+  if rand(80)
+    mpat 15143 mpecho You are sent flying back into the wall as a great blast of wind roars into the room!
+    mpat 15143 mpecho You hear something in your back snap at the impact, and then you slump unconsciously to the ground..
+    mpat 15143 mpdamage all 32d33
+    mpat 15143 mppose all stun
+    mpechoat $n The lever snaps back with a loud *CLANG*.
+    if isanycharat(15143)
+      mpechoat $n You hear faint cries somewhere far away.
+    endif
+    mpechoaround $n $N smirks and pulls back on the lever, which creaks loudly in protest.
+    mpstopcommand
+  else
+    mpechoat $n The ground below you suddenly collapses and you fall through the floor!
+    mpechoaround $n $N shrieks in surprise as the floor falls out from beneath $m!
+    mptrans $n 15170
+    mpforce $n down
+    mpstopcommand
+  endif
+~
+>command_prog push lever~
+  mpechoat $n You can't budge the lever by pushing, maybe pulling would work.
+~
+|
+

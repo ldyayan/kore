@@ -1,0 +1,21 @@
+>rand_prog 1~
+  mpecho $I clucks.
+  mpoload 3728
+  sit
+~
+>rand_prog 10~
+  if hasobj($i) == 3728
+    mpecho $I clucks.
+    stand
+    mppurge egg
+    mpoload 3727
+  endif
+~
+>death_prog 100~
+  mpoload 3703
+  mpoload 3702
+  mpoload 3702
+  mpoload 3704
+  mpoload 3704
+~
+|

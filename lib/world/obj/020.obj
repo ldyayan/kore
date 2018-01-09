@@ -1,0 +1,1927 @@
+#2001
+crystal eye tiamat~
+a ^Wcrystal^n dragon's eye~
+A beautiful crystal in the shape of a teardrop lies here.~
+~
+1 64 16385
+0 0 -1 0
+1 1 1
+E
+eye tiamat~
+The eye of Tiamat is a beautiful crystal teardrop.  At your command it flares
+up brilliantly, illuminating all of your surroundings.~
+A
+13 35
+A
+24 -3
+A
+18 1
+A
+19 2
+#2002
+gouged eye tiamat~
+a gouged eye of Tiamat~
+A bloody and skewered eye rests here in a puddle of blood.~
+~
+1 1 16385
+0 0 64 0
+3 10 0
+E
+eye tiamat gouged~
+Your attempts to get the eye off of Tiamat result in its 
+destruction. The bloody orb is all that you get for your 
+efforts.
+~
+#2003
+yeenoghu flail~
+the Flail of Yeenoghu~
+A large three-headed flail is lying here.~
+~
+5 16962 8193
+4 5 6 7
+25 65000 1
+E
+yeenoghu flail~
+This is the powerful flail belonging to Yeenoghu, the Demon Lord of Gnolls.~
+A
+5 -1
+A
+19 2
+S
+60 50 20
+S
+32 50 5
+S
+81 40 12
+#2004
+spring~
+an underground spring~
+An underground spring trickles out through the stone, forming a shimmering pool.~
+~
+23 0 0
+0 0 0 0
+9999 1 1
+E
+spring pool~
+   The underground spring you see before you flows out from a crack in the
+stone.  It fills a small pool that it has cut into the stone over the
+centuries and then flows back into the rock a short distance away.
+~
+#2005
+cactus petting~
+a ^gpetting cactus^n~
+A petting cactus rests here in a sapphire blue pot.~
+~
+13 0 16385
+0 0 0 0
+1 1 1
+#2006
+portal orb~
+a hovering orb of blackness~
+An orb of blackness hovers in the center of the room.~
+~
+27 0 0
+2079 0 0 0
+15 1 1 15
+#2007
+medallion bronze trigger_item_1~
+a ^ybronze^n medallion~
+A hideous bronze medallion emblazoned with a grinning skull lies here.~
+~
+8 0 1
+0 0 0 0
+3 10000 1
+#2008
+wings demon~
+Wings of the Demon~
+A leathery set of wings lies resting in a pile.~
+~
+9 1048640 1025
+10 0 0 0
+2 38450 0 8000
+E
+wings~
+The wings of Grahl are said to possess a great power.  To simply place
+these wings about one's body is said to grant the power of flight.  The
+wings themselves have a wingspan of well over ten feet.
+~
+A
+18 2
+A
+19 3
+B
+4194304 0
+#2009
+spear grahl~
+a blood-encrusted longspear~
+A short-hafted spear with an enormous head flames brightly before you.~
+~
+5 268578881 8193
+3 5 9 14
+18 125250 0
+E
+spear fiery broad bladed broadbladed~
+
+   This flaming spear has a head as wide as a man's body.  The shimmering
+shaft is of polished hardwood and flames lick up and down its length.  It
+is said that when wielding this weapon the magic actually leaps out of the
+item to attack the wielder's opponents.
+~
+#2010
+fountain statue dragon~
+the bronze statue~
+A bronze statue of a fearsome five-headed dragon dominates the landscape.~
+~
+23 64 0
+9999 9999 0 0
+1 1 1
+E
+dragon statue fountain~
+The statue almost seems alive as you look at it.  If you didn't know 
+better you'd swear the ruby eyes were tracking you movement around the room.~
+#2011
+demonbane bastard sword~
+a heavy ^Wsilver^n bastard sword~
+A great ^Wsilver^n bastard sword lies here glowing a soft ^cblue^n.~
+~
+5 270548288 8193
+6 7 8 3
+15 325000 0
+E
+sword demon demonbane~
+Legend speaks of a great, many-hued blade of which the origin has been
+forgotten, but which was wielded by the great paladin Nord in his single
+handed destruction of the Citadel of Conjurers.  There he overthrew
+succubi and glabrezou 'beyond number' with his sword "Demonbane", and
+caused the summoned demon-lord Ndulu to flee this plane.
+~
+A
+24 -4
+A
+18 5
+A
+19 4
+B
+4096 0
+#2012
+bow spell warbow~
+a compound warbow~
+A mighty bow of polished oak lies here.  It's faintly glowing with power.~
+~
+6 270532608 32769
+4 4 4 12
+2 20500 0
+E
+bow spell amduscias~
+Forged by the archmagi of Gennin in times lost before the great flood, this
+bow of power was presented to their master Amduscias by Jirwar the Red, 
+head of his order.  It's told that, upon its presentation, Amduscias took
+the mage by his throat with one hand and disembowled him with the other.
+He then replaced the finely crafted bowstring with a length of the man's
+small intestine.
+~
+A
+12 35
+A
+9 5
+A
+24 -4
+A
+3 2
+B
+16 0
+#2013
+portal pool down~
+a pool of radiance~
+A glimmering pool of radiance is set into the floor.~
+~
+13 0 0
+2097 -1 0 0
+0 0 0
+E
+portal pool down~
+   The pool before you is fashioned of pale marble.  It is filled with
+what appears to be liquid and energy at the same time.  You could enter
+the pool from here simply by stepping 'down'
+~
+#2014
+table stone~
+a stone table~
+A large stone table dominates the room.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+E
+table~
+   The table is smooth, but unfinished.  There is no glossy finish or fine
+craftwork.  The surface is a slab of granite that looks foreign among the
+obsidian and onyx that makes up most of these chambers.
+~
+#2015
+ring hematite~
+a hematite ring~
+A delicate circlet of gistening black stone lies here.~
+~
+9 270713344 3
+7 0 0 0
+1 12520 0
+E
+ring hematite~
+The ring is made of a blackened substance that at first glance appears to be
+glass.  Closer inspection reveals that it is actually honed of a polished
+smooth stone.  Oddly enough, there is no reflection from it, as if it is
+actually absorbing the light around it.
+~
+A
+12 30
+A
+4 2
+A
+3 2
+A
+24 -2
+A
+13 15
+#2016
+band ring karn~
+Karn's band of gold~
+A plain golden band lies here.  It must have been dropped by someone.~
+~
+9 0 3
+10 0 0 0
+1 0 0
+E
+band karn ring~
+   The ring is made of a pure gold and is unadorned.  There is no gem set
+into it, yet it is still beautiful.  Looking closely you can see there is
+an inscription inside the band.  It reads:
+
+           'To Ayana with all my Love   --  Karn'
+~
+A
+18 5
+A
+19 5
+A
+13 100
+A
+1 8
+A
+17 -30
+A
+2 8
+B
+16 4
+#2017
+key gold massive heavy~
+a massive ^Ygold^n key~
+A massive ^Ygold^n key lies on the floor, it is at least a pace in length!~
+~
+18 0 1
+0 0 0 0
+50 0 0
+#2018
+red disk~
+a small red disk~
+A small disk of red stone rests on the floor.~
+~
+18 0 16385
+0 0 0 0
+15 0 0
+#2019
+tablet copper~
+a copper tablet~
+A tablet etched on copper rests upright in the room.~
+~
+18 0 16385
+0 0 0 0
+10 0 0
+#2020
+armor red dragonscale platemail~
+^Rred dragonscale^n platemail~
+A heap of dull red scales lies here gathering dust.~
+~
+9 9596928 9
+14 0 0 0
+5 1 1
+E
+red dragon torso~
+   The scales of an ancient red dragon appear to have been stitched
+together to form a suit of armor.  It is amazingly light and flexible
+yet appears to have all the toughness of a fine suit of dwarven 
+platemail.
+~
+A
+1 2
+A
+19 3
+A
+13 30
+#2021
+armor green dragonscale platemail~
+^Ggreen dragonscale^n platemail~
+A small pile of green scales lies here gleaming.~
+~
+9 9498624 9
+13 0 0 0
+4 1 1
+E
+green dragon torso~
+   You see a suit of light platemail made from the scales of a 
+powerful green dragon.  The suit is light and flexible, yet
+incredibly resilient.  The scales are sewn in a pattern that
+would be nearly impenetrable by a point.
+~
+A
+1 3
+A
+12 20
+A
+9 5
+A
+18 2
+#2022
+armor white dragonscale platemail~
+^Wwhite dragonscale^n platemail~
+A suit of white silky scales rests here.~
+~
+9 1232897 9
+13 0 0 0
+1 1 1
+E
+white dragon plate~
+   The scales of an ancient frost dragon have been mended together
+to form this suit of armor.  The scales gleam with an icy light
+and the edges are tarnished a bit black.
+~
+A
+12 30
+A
+9 15
+A
+19 2
+#2023
+armor blue dragonscale platemail~
+^Bblue dragonscale^n platemail~
+A set of blue dragon scales is piled up here.~
+~
+9 9625602 9
+15 0 0 0
+1 1 1
+E
+blue dragon torso~
+   This suit of armor was constructed from the remains of a blue
+dragon.  You feel a slight tingling as you pick it up, as if it
+still held some electricity from the mighty lightning breather
+it was from.
+~
+A
+13 20
+A
+12 25
+A
+9 5
+A
+3 1
+#2024
+armor black dragonscale platemail~
+black dragonscale platemail~
+A dull set of scales lies here in the shadows.~
+~
+9 9613312 9
+14 0 0 0
+1 1 1
+E
+black dragon torso~
+   Black scales from a dragon have been sewn together to form
+a light suit of platemail.  This particular suit is light
+and allows a great deal of movement.
+~
+A
+2 2
+A
+18 4
+A
+19 2
+#2025
+hide colored multi tiamat~
+the ^rm^n^bu^n^gl^n^wt^n^ci^n^rc^n^bo^n^gl^n^wo^n^cr^n^re^n^bd^n ^gh^n^wi^n^cd^n^re^n of Tiamat~
+A hide of multiple colors lies here.~
+~
+9 2097409 9
+20 0 0 0
+6 40000 1
+E
+hide multi~
+   The hide of tiamat is coated in metallic scales.  There is
+a bit of blood on it here and there.  As you turn it over in
+your hands, it begins to shift and reshape.  You watch in 
+amazement as it forms itself to fit your body.
+~
+A
+13 40
+A
+18 4
+A
+3 2
+A
+1 1
+A
+6 1
+#2026
+shield tower lapis~
+a lapis tower shield~
+A tremendous shield of a lightweight material lies here.~
+~
+9 268573184 513
+14 0 0 0
+6 12035 0
+E
+shield lapis tower~
+   This powerful shield is crafted of lapis, a lightweight stone that
+can be worked only by the finest smiths over an iceforge.  Heating the
+stone actually causes it to harden, so lapis must be worked with the
+coldest of ice.  The edges are ringed with gold and there are large
+studs protruding from the surface of the shield that can be used to
+strike an opponent with a powerful sweep.
+~
+A
+17 -6
+A
+18 1
+A
+19 4
+A
+1 2
+#2027
+ring~
+ring~
+An unfinished object is lying here.~
+~
+9 0 3
+0 0 0 0
+0 0 0
+B
+32 0
+#2028
+portal dis gateway~
+a portal to the iron city of Dis~
+A shimmering gateway of blackness engulfs the southern wall of the room.~
+~
+27 0 0
+2117 0 0 0
+5 0 0
+E
+portal dis~
+Through the shimmering gateway of blackness you can see the iron city of Dis,
+home of Dispater, ruler of the second of the Nine Hells.  A chill runs down
+your spine as you gaze upon the twisted wreckage of that savage city.
+~
+#2029
+key bloodstained~
+a bloodstained key~
+A key that appears to be covered in dried blood is lying here forgotten.~
+~
+18 0 1
+0 1 0 0
+1 0 0
+E
+key bloodstained~
+This small silver key is tarnished from the blood that covers its surface.  It
+appears that at one time it was quite elegant, but now it simply looks hideous.
+~
+#2031
+scorpion stinger~
+a scorpion stinger~
+The stinger of a what looks like a scorpion lies here.~
+~
+5 0 8193
+0 5 3 1
+9 45000 1
+A
+19 3
+#2032
+green pool acid~
+a green pool of acid~
+A green pool of acid is here, bubbling and steaming.~
+~
+13 65540 0
+0 0 0 0
+99999 0 0
+#2033
+stalagmite stalactite~
+an obsidian stalagmite~
+A stalagmite of smooth obsidian dominates the center of the hallway.~
+~
+23 0 0
+9999 9999 13 0
+0 0 0
+E
+obsidian stalagmite stalactite~
+The smooth surface of the stalagmite is of the purest black.  It has
+traces of deep red swirled throughout the stone.  On the floor
+surrounding the object is a dark red stain that appears almost black
+in the faint light.
+~
+#2044
+ruby key~
+a ^rruby red^n key~
+A ruby red key lies in the dirt.~
+~
+18 0 16385
+0 0 0 0
+1 1 1
+#2045
+key silver~
+a glimmering ^Wsilver^n key~
+A glimmering ^Wsilver^n key lies on the floor and shines with light.~
+~
+18 0 1
+0 0 0 0
+1 0 0 200
+#2050
+red dragon torso hacked~
+a hacked up ^rred dragon^n's torso~
+A hacked up heap of dull red scales lies here gathering dust.~
+~
+9 512 9
+10 0 0 0
+5 1 1
+E
+red dragon torso~
+  The torso of a dead red dragon rests here, it appears it could be
+worn.  It would have been great armour if it wasnt so HACKED up!
+~
+#2051
+green dragon torso hacked~
+a hacked up ^ggreen dragon^n's torso~
+A small hacked up pile of green scales lies here gleaming.~
+~
+9 512 9
+9 0 0 0
+4 1 1
+E
+green dragon torso~
+  The body of the dragon seems to morph to your size as you pick it
+up. It is in good shape... if you dont count those HUGE gashes
+all over it.
+~
+#2052
+white dragon torso hacked~
+a hacked up ^wwhite dragon^n's torso~
+A hacked up suit of white silky scales rests here.~
+~
+9 513 9
+9 0 0 0
+1 3000 300
+E
+white dragon torso~
+  A white suit of silky scales is here.  It is horribly
+scarred in the battle to take it away from the owner.
+Too bad it is basically worthless now.
+~
+#2053
+blue dragon torso hacked~
+a hacked up ^bblue dragon^n's torso~
+A set of hacked up blue dragon scales is piled up here.~
+~
+9 514 9
+11 0 0 0
+1 1 1
+E
+blue dragon torso~
+  The dragon scales are a midnight blue. They are blackened and
+burned from intense heat, and gouged and slashed up from your
+weapons.
+~
+#2054
+black dragon torso hacked~
+a hacked up black dragon's torso~
+A dull set of hacked up scales lies here in the shadows.~
+~
+9 512 9
+10 0 0 0
+1 1 1
+E
+black dragon torso~
+  A suit of black scales, heavy and spiked, lies here
+full of holes.
+~
+#2055
+hide colored multi tiamat hacked~
+a hacked up multicolored hide~
+A hacked up hide of multiple colors lies here.~
+~
+9 289 9
+16 0 0 0
+6 40000 1
+E
+hide multi~
+  The multicolored hide of Tiamat looks like it would make fine armor.
+IF it wasnt so hacked up.
+~
+#2061
+spear draconian~
+a draconian spear~
+A wicked looking draconian spear rests here.~
+~
+5 64 24577
+0 4 4 11
+4 1150 1
+#2062
+axe draconian~
+a draconian war axe~
+A large axe with a chipped blade gleams here.~
+~
+5 64 24577
+0 3 5 15
+5 1200 1
+#2063
+whip draconian~
+a draconian whip~
+A tattered whip with a barbed end lies here in a coil.~
+~
+5 64 24577
+0 2 9 1
+5 900 1
+#2064
+hammer~
+a draconian hammer~
+A large, heavy-looking hammer sits here.~
+~
+5 0 24577
+0 5 2 5
+4 950 1
+#2065
+sword two-haneded two~
+a draconian two-handed sword~
+A draconian two-handed war sword is here, dropped by someone.~
+~
+5 21057 8193
+0 4 5 3
+15 10000 1000
+A
+18 2
+A
+14 -10
+#2066
+shadows field shadow~
+a shadowy field~
+A writhing field of shadows churns to the northwest.~
+~
+27 0 0
+2087 0 0 0
+0 0 0
+#2067
+scroll tablet granite~
+a granite tablet~
+A stone tablet with something chiseled into it rests here.~
+~
+2 0 1
+60 147 28 43
+1 0 0
+#2070
+statue baaz draconian~
+a statue of a baaz draconian with a weapon stuck in it~
+A statue of a baaz draconian is here, with a weapon stuck in it!~
+~
+15 16 0
+100 1 -1 0
+99999 0 0
+#2071
+statue baaz draconian~
+a statue of a baaz draconian~
+A statue of a baaz draconian is here.~
+~
+15 16 0
+100 1 -1 0
+99999 0 0
+#2072
+corpse 2072~
+the corpse of Yeenoghu~
+The corpse of Yeenoghu is lying here.~
+~
+15 0 1
+50 0 -1 4
+50 1250000 0 20
+#2073
+hammer doom~
+a doom hammer~
+A blood encrusted warhammer lies here in the dirt.~
+   The hammer is large and unwieldy.  It would be fit for the
+likes of an orc to wield.  Along the handle are carved grotesque
+scenes of murder and chaos.
+~
+5 160256 8193
+3 4 5 6
+20 0 0
+#2074
+horns~
+a set of large horns~
+A large set of horns rests here.~
+The set of horns you are looking at is made up of two
+foot long horns, and a smaller horn set between them.
+The horns themselves curve slightly, coming to a needle
+sharp blackened point.
+~
+9 526848 17
+6 0 0 0
+10 35000 0
+A
+1 1
+A
+14 -100
+A
+13 25
+A
+12 20
+#2075
+torso red dragon redarmorpiece~
+a ^rred^n dragons torso~
+A heap of red metallic scales rests here collecting dust.~
+~
+8 0 1
+0 0 0 0
+0 0 0
+E
+torso~
+The scales are still in good condition.  It appears that perhaps
+a blacksmith of some skill could take this torso and fashion it
+into a suit of formidable armor.
+~
+#2076
+torso green dragon greenarmorpiece~
+a ^ggreen^n dragons torso~
+Piled in the center of the room lies a stack of green scales.~
+~
+8 0 1
+0 0 0 0
+0 0 0
+E
+torso~
+The scales are still in good condition.  It appears that perhaps
+a blacksmith of some skill could take this torso and fashion it
+into a suit of formidable armor.
+~
+#2077
+torso white dragon whitearmorpiece~
+a ^wwhite^n dragons torso~
+Piled in the center of the room lies a mess of white scales.~
+~
+8 0 1
+0 0 0 0
+0 0 0
+E
+torso~
+The scales are still in good condition.  It appears that perhaps
+a blacksmith of some skill could take this torso and fashion it
+into a suit of formidable armor.
+~
+#2078
+torso blue dragon bluearmorpiece~
+a ^bblue^n dragons torso~
+A heap of blue dragonscales clutters up the walkway.~
+~
+8 0 1
+0 0 0 0
+0 0 0
+E
+torso~
+The scales are still in good condition.  It appears that perhaps
+a blacksmith of some skill could take this torso and fashion it
+into a suit of formidable armor.
+~
+#2079
+torso black dragon blackarmorpiece~
+a black dragons torso~
+Black scales lie in a mound just to your left.~
+~
+8 0 1
+0 0 0 0
+0 0 0
+E
+torso~
+The scales are still in good condition.  It appears that perhaps
+a blacksmith of some skill could take this torso and fashion it
+into a suit of formidable armor.
+~
+#2080
+coins~
+a small pile of coins~
+A small pile of coins was dropped here.~
+~
+20 0 1
+100 0 0 0
+0 0 0
+#2081
+armor leather draconian~
+draconian leather armor~
+A ripped-up suit of leather armor lies here reeking.~
+~
+9 0 9
+5 0 0 0
+1 650 1
+#2082
+boots draconian~
+draconian marching boots~
+A pair of lightweight boots stand upright here.~
+~
+9 0 65
+4 0 0 0
+1 900 1
+A
+5 2
+A
+2 -1
+#2083
+cape leather~
+a tattered leather cape~
+A dirty tattered leather cape lies here in a heap.~
+~
+9 0 5
+4 0 0 0
+1 675 1
+#2084
+helm battle draconian~
+a draconian battle helm~
+A great helm with dragon wings protruding from the sides sits here.~
+~
+9 0 17
+5 0 0 0
+1 950 1
+A
+4 2
+#2085
+dagger~
+a small silver dagger~
+A small wicked dagger gleans at you evilly.~
+~
+5 67108864 8193
+3 5 11 11
+1 1350 1
+A
+19 3
+#2086
+chainsaw edgar~
+Edgar's bloody chainsaw~
+Edgar's bloody chainsaw lies here idling.~
+~
+5 0 8193
+3 5 6 10
+0 0 0
+A
+19 3
+#2087
+sapphire gem sapphiregem~
+a sapphire spell component~
+A sapphire~
+~
+8 0 16385
+0 0 0 0
+0 0 0
+#2088
+birthday cake~
+a slice of birthday cake~
+A slice of colorful birthday cake lies here.~
+~
+25 0 1
+60 36 64 147
+0 0 0 600
+#2089
+crown white-gold~
+an elegant white-gold crown~
+A delicate crown wrought of white gold lies here.~
+~
+9 0 17
+50 0 0 0
+0 0 0
+A
+1 25
+B
+12923008 0
+#2090
+ring jitter signet age~
+a Jitter signet ring~
+A small brass ring lies here.~
+~
+9 128 3
+8 0 0 0
+1 10 0 1000
+E
+ring jitter signet~
+  The Jitter signet ring is a token of a veteran adventurer in the realms
+of Kore.  Jitter is symbolic of the virtual space the world used to occupy
+prior to the catacalysm that moved kore to it's present location.  This
+item was given to those players at that time and is not to be shared.
+~
+A
+9 25
+#2091
+castle clanhall toot gates~
+the gates of castle TOOT~
+An impressive old stone castle stands before you welcoming travellers.~
+~
+27 0 0
+524 0 0 0
+0 0 0
+E
+castle toot clanhall~
+   You step back and take a good long look at this castle beside the lake.
+It's surface is smooth and looks weathered, yet it appears to have aged
+kindly.  The yards around the castle are well maintained, and the gates
+that stand wide open before you are highly polished.  It appears that the
+caretakers of this castle think on it very fondly.
+~
+#2092
+ferry barge ship boat~
+Charon's ferry~
+(,\               ``:<^\       |         \      |^\       |\         \    /|^\  ^^^^^^^^ \ `---------\--' / ^^^^^^^^^^^^^^^^^\  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\  Charon's ferry floats here on the water.~
+~
+27 93 1
+2092 1 0 0
+99999 500000 50000
+#2093
+duck ducky rubber~
+a rubber ducky~
+A rubber ducky is here floating happily in the bathtub.~
+~
+22 0 16385
+0 0 0 0
+1 1 1
+E
+rubber duck ducky~
+It is a little yellow piece of rubber that is normally used in the bathtub.
+~
+A
+3 15
+#2094
+treasure~
+a vast treasure~
+A vast heap of gold.~
+~
+20 0 1
+4000 0 0 0
+1 1 1
+#2095
+tiller tiller-2095~
+the tiller~
+A steering tiller awaits the commands of Charon.~
+~
+20 65564 0
+2092 2092 2092 0
+999999 999999 99999
+E
+tiller~
+You look at the tiller and wonder if you could 'steer' the barge.
+Hmmmmmm....
+~
+#2096
+computer 486~
+Marilyn's beat up old 486 computer~
+You see a dinosaur walking across the room and realize it's Marilyn's computer.  It should have scrapped long ago.~
+~
+13 0 16385
+0 0 0 0
+0 0 0
+E
+computer dinosaur 486~
+This is Marilyn's beat up computer.  The keys are worn with love but the
+hard drive makes scarey whirring sounds as you try to start it up.  You
+do notice that it has some lights flickering in the monitor and, though
+it might take a miracle, it looks like you could log in from here.
+~
+A
+1 -2
+A
+3 -2
+A
+4 -2
+A
+2 -2
+#2097
+ring one power~
+the One ring of Power~
+Do not touch this item.  If you have it you will be frozen.~
+~
+9 0 3
+-100 0 0 0
+0 0 0
+B
+1024 0
+#2098
+newbie map kore~
+a map of Kore~
+A map of Kore is lying here~
+~
+13 0 16385
+0 0 0 0
+1 1 1
+E
+map kore~
+The City Of Kore                      North of Kore     
+---------------                             ^
+          --------- --------- --------- ----|---- --------- ---------
+          |Stables| | Bank  | |Fletchr| |Murder | |BlkSmth| | Music |
+          |       | |       | | Shop  | | Hole  | | Shop  | | Shop  |
+          ----|---- ----|---- ----|---- ----|---- ----|---- ----|----
+--------- ----|---- ----|---- ----|---- ----|---- ----|---- ----|---- ---------
+| Farm  | |Temple | |Temple | |Temple | | North | |Temple | |Temple | |Bard's |
+| Fresh ---  St.  ---  St   ---  St.  --- Gate  ---  St.  ---  St.  --- (G)+@ |
+--------- ----|---- --------- ----|---- ----|---- ----|---- ----|---- ---------
+--------- ----|----           ----|---- ----|---- ----|---- ----|---- ---------
+| Train | | Altar |           |Butcher| |Public | | Beer  | |Outdoor| |Directr|
+| Area+ ---  (B)  |           | Shop  ---Pillory---Gardens--- Stage ---Office |
+--------- ----|----           --------- --------- --------- --------- ---------
+--------- ----|----      ---------          Legends
+|       | |Temple |      | Rent  |          -------
+|  (D)  ---  (*)  |      | Area  |          (D) : Donation Room
+--------- ----|----      --/------          (G) : Guild  (B) : Note Board
+--------- ----|---- ------/-- ---------     (*) : Recall (F) : Fountain
+|Clerics| |Temple | |  Inn  | |  Bar  |      +  : larger than shown
+|  (G)+ ---Sq. (F)---       ---       |     [ ] : Door/Gate
+--------- ----|---- --------- ---------     [+] : Locked Door/Gate
+          ----|----                          @  : Bard's guild is connected
+          |Before |
+          | Temple|
+          ----|----
+          ----|----
+          |Vilanus|
+          |  St.  |
+          ----|----
+          ----|---- --------- ---------           --------- --------- ---------
+          |Vilanus| | Magic | |Bakery |           |General| |Weapon | |Bard's |
+          |  St.  | |  Shop | |       |   Palace  | Store | | Shop  | | (G)+@ |
+          ----|---- ----|---- ----|----      /    ----|---- ----|---- ----|----
+          ----|---- ----|---- ----|---- ----/---- ----|---- ----|---- ----|----
+          | West  | |Arkanum| |Arkanum| |Tyrants| |Arkanum| |Arkanum| | East  |
+ Slums  <-- Gate  ---  St.  ---  St.  ---Palace ---  St.  ---  St.  --- Gate  >
+          ----|---- ----|---- ----|---- ----|---- ----|---- ----|---- ----|----
+              |     ----|---- ----|----     |     ----|---- ----|---- ----|----
+              |     | Mages | |Armory |     |     |  Pet  | |Sword's| | Water |
+              |     | (G)+  | |       |     |     | Shop  | | (G)+  | | Shop  |
+              |     --------- ---------     |     --------- --------- ---------
+              |     ---------               |
+              |     |Potion |               |
+              |     |  Shop |               |
+              |     ----|----               |
+          ----|---- ----|---- --------- ----|---- --------- ---------
+          |Vilanus| |Aquanas| |Aquanas| |Merkani| |Aquanas| |Aquanas|
+          |  St.  ---  St.  ---  St.  ---Square ---  St.  ---  St.  --> River
+          ----|---- --------- ----|---- ----|---- ----|---- ----|----
+          ----|----           ----|---- ----|---- ----|----     |
+          |Vilanus|           | Noble | | Grave | | Boat  |    \_/
+          |  St.  |           | Estate| | Yard  | | Shop  |   River
+          ----|----           ---[+]--- ---[|]--- ---------
+          ----|----              [+]       [|]
+          |Vilanus|               |         |
+          |byGrave|              \_/       \_/
+          ---------            Estate   Graveyard
+ 
+                                  -Original version by Tristan       
+                                  -Revised and condensed by Sheeta~
+#2099
+tome guide kore heroes faq newbie~
+the guide to Heroes of Kore  <-- ^Cread guide^n~
+A large tome titled 'Heroes of Kore Guide' lies here  <-- ^Cread guide^n.~
+~
+13 256 1
+0 0 0 0
+4 0 0
+E
+chapter-9 chap-9 ideas more~
+^GIDEAS AND MORE?^n
+
+   If you have some good ideas for Kore, we *definitely* *definitely* want
+to know... just post on the mortal board in the room 1 north of temple.
+~
+E
+chapter-8 chap-8 building~
+^GBUILDING^n
+
+   (Temporarily, Kore has enough builders, but if we need more we'll
+advertise!!), take a look at the map of Kore by the way to see the layout
+of just the city..
+~
+E
+chapter-7 chap-7 remorting~
+^GREMORTING^n
+
+   50th level players can run a gauntlet and become a special class
+unavailable to mere mortals: Vampire or (soon to come) Knight.
+~
+E
+chapter-6 chap-6 clans~
+^GCLANS^n
+
+   This section has gotten so involved... that this part of the newbie guide
+now refers you to '^Cclanhelp^n'  <-- check it out.  In clanhelp
+there are lists of clans, clan histories, and clan prices...  if you ever
+dream of having a big house with your friends (a guaranteed adventuring group)
+or forming a club on a mud, a clan is for you.
+~
+E
+chapter-5 chap-5 the different classes~
+^GTHE DIFFERENT CLASSES^n
+
+   ^CMagic-users^n begin as novices and become very powerful.  They are probably
+one of the easiest classes to level.
+   ^CClerics^n are pretty powerful, and a real must-have for a group to stay
+healthy and healed.
+   ^CThieves^n have good damage from their backstabs but have the special ability
+to pick locks which can get them through doors without keys...(and to the
+rare eq behind the doors)
+   ^CWarriors^n at low levels are pretty buff and at high levels in groups, can
+take on very very hard mobs and win pretty easily.
+   ^CBards^n are mix, a jack of all trades with some thief skills, some mage
+skills and some warriors skills... actually they are not a bad mix at all..
+~
+E
+chapter-4 chap-4 combat~
+^GCOMBAT ON KORE^n
+
+   If you've never played a mud before, combat goes like this: Find a 
+monster around you by looking or scanning, go to the monster, ^Cconsider^n it to
+see how strong or weak it is, ^Cdiagnose^n it to see how hurt or fresh it is,
+^Clook^n at it to see if its wearing any equipment you might want, and if it
+meets your goals, ^Ckill^n it and ^Cget all from corpse^n.
+
+   Besides hack and slash, the spellcasters (Mage, Cleric) can ^Ccast^n spells
+onto mobs to do good damage.  As a general rule though, the spellcasters 
+tend to run out of mana pretty fast, and all classes are better off in a ^Cgroup^n
+to kill hard mobs.
+
+   One last special twist though that Kore offers is ranged attacks via
+readied weapons and ranged spells.. If you experiment, you may find that some
+items can be used as ranged weapons (^Cready bow^n) and some spells can be fired
+at nearby mobs... this gives you a little flexibility in attacks...
+~
+E
+chapter-3 chap-3 differences~
+^GDIFFERENCES BETWEEN KORE AND OTHER ONLINE GAMES^n
+
+   Kore has action a-plenty, but its not an arcade game exactly.  A players
+goals vary depending on the person but typically players are: gaining levels,
+hoarding gold so they can buy a clan, running around killing monsters for
+experience, gold, or equipment, or solving a quest.
+
+   The work that the wizards and immortals have put into Kore set it apart
+from other muds.  Kore does not try to be 'realistic' and it can never be
+complete, but it can get better, and if you stay on Kore a while, you will
+see the game improving around you.
+
+   Compared to other combat muds, Kore's combat is pretty hectic, compared
+to purely social muds, Kore has more action -- WAY more action.  But you can
+make fast friends here too, like anywhere.
+~
+E
+chapter-2 chap-2 what~
+^GWHAT IS HEROES OF KORE ALL ABOUT?^n
+
+The theme:
+   ^rHeroes of Kore^n is a mud set in the mythic world of Kore.  Players start
+in the City of Kore.  The city is in a crisis, the Tyrant of Kore has
+seized power from Kore's ancestral monarch and beheaded him.  Sympathizers
+are executed by the Tyrant's Black Guards.  The Tyrant has banished his
+equally evil sister Irinia.. and for now a kind of tyrannical peace has 
+come over the city.
+
+   As a mud, Kore is trying for: balance, inspired gameplay, lots of combat,
+and lots of player amenities.
+~
+E
+chapter-1 chap-1 what~
+^GWHAT IS A MUD?^n
+
+   Muds are online roleplaying games.  There are lots of different kinds,
+there are dikumuds, moos, mushes, muses, mucks, lpmuds, circlemuds, roms,
+mercs, many many different kinds.  The combat-orinted muds (dikumuds, 
+lpmuds, circlemuds, roms, mercs and that kind) borrow concepts from role
+playing games like Dungeons and Dragons, but because of the nature of Muds
+(online and multiplayer and real-time) they are really only RPG-inspired,
+not copies of them.
+
+   ^rHeroes of Kore^n is a circlemud.  Circlemuds have good code, good fighting
+and good adventuring.
+~
+E
+introduction first~
+^GFIRST THINGS FIRST!^n
+
+1) type '^Cinv^n' for inventory to see your stuff.
+   type '^Ceq^n' to see what you are equipped with.
+   type '^Cwear all^n' to put on your gear.
+   type '^Cwield sword^n' or '^Cwield dagger^n' or '^Cwield mace^n' or similar.
+   type '^Cready bow^n' or '^Cready stiletto^n' or similar to ready your ranged weapon.
+2) to see whats around you type '^Clook^n' and '^Cscan^n'.
+   to see if you are high enough in levels compared to a mob, '^Cconsider^n ^R<mob>^n'
+   to see if the mob is hurt.. type '^Cdiagnose^n ^R<mob>^n'
+   to see if the mob has equipment you might want, '^Clook^n ^R<mob>^n' 
+3) to start hurting a mob, '^Ckill^n ^R<mob>^n'
+   To use a spell: ^Ccast ^G'spellname'^n ^R<mob>^n
+   Like: ^Ccast^n ^G'magic missile'^n ^Rrabbit^n
+4) the newbie zone is just one ^Cnorth^n and one ^Cwest^n of the temple where
+   Vulmarta stands; beyond that is a newbie zone with some easy mobs to kill.
+   If you get hurt, '^Cflee^n' and try to make your way back to Vulmarta.  If you
+   wait in her room, she'll heal you up again. 
+5) for more help, type '^Chelp^n' or ask someone using '^Csay^n' or '^Cgossip^n'
+~
+E
+tome guide kore heroes faq~
+You turn the pages of the guide to the table of contents:
+
+^GTABLE OF CONTENTS^n
+
+    ^G<topic>^n      ^G<title>^n
+    intro        First things first!
+    chapter-1    What is a ^rmud^n?
+    chapter-2    What is ^rHeroes of Kore^n about?
+    chapter-3    Differences between ^rKore^n and other online games
+    chapter-4    Combat on ^rKore^n
+    chapter-5    The different classes
+    chapter-6    Clans
+    chapter-7    Remorting
+    chapter-8    Building
+    chapter-9    Ideas and more?
+
+'^Cread^n ^G<topic>^n' to read any of the titles...
+~
+#2100
+key dis elaborate iron~
+an elaborately carved iron wrought key~
+A large iron key, elaborately carved with an unknown script, lies here.~
+~
+18 268435456 1
+0 1 0 0
+3 2000 200 3
+#2101
+shard ivory~
+an ivory shard~
+Before you hovers a shard of pure ivory, glowing with a soft white light.~
+~
+5 67633217 8193
+-2 5 6 14
+8 2000000 100000
+A
+19 -2
+A
+17 5
+B
+128 0
+S
+124 50 10
+#2102
+boots silk black~
+jet black silken boots~
+A soft pair of boots, woven from silk lie here.~
+~
+9 524320 65
+9 0 0 0
+1 750000 100000
+A
+10 -50
+A
+2 1
+B
+262144 0
+#2103
+halo silver~
+a ^Wsilver^n halo~
+A ^wsilver^n halo gleams brightly here.~
+~
+9 67108930 17
+15 0 0 0
+1 2000000 0
+E
+silver halo~
+Glimmering softly, this silver halo seems to shift in your hands, adjusting
+its own size to fit your head.
+~
+A
+2 5
+A
+1 5
+A
+5 5
+A
+18 5
+A
+18 5
+A
+12 100
+B
+4522112 0
+#2104
+rod heavens~
+the rod of the heavens~
+A mighty golden rod sits here on the ground, pulsating.~
+~
+5 65616 8193
+0 2 2 1
+8 1000000 0
+A
+21 -10
+A
+12 15
+S
+118 50 5
+S
+30 50 12
+S
+37 50 45
+#2105
+sword rune pestilence suffering (karn_quest_eq)~
+the ^mrune sword^n of pestilence~
+A jet black sword, engraved with ancient runes, hums quietly on the floor.~
+~
+5 18940547 24577
+6 6 9 3
+16 0 0
+E
+rune sword pestilence~
+   The moment you lay your hands upon this sword, stabbing feelings
+of pain and agony surge through your body. Legend tells of how the
+great dragon of the underworld, Proteus, crafted this blade to lay
+waste to the borderlands hundreds of years ago. Borne of the most
+powerful magic, this sword can only be wielded by the most powerful
+of souls. Many arrogant warriors have died holding this blade, not
+at the hands of their enemies, but from the sword itself. Beware.
+~
+A
+19 6
+A
+5 -3
+A
+18 4
+B
+10240 0
+S
+33 55 100
+#2106
+crenshinibon crystal shard~
+an opaque shard of crystal~
+Glimmering brightly before you rests a shard of crystal.~
+~
+8 10936897 16385
+0 0 0 0
+1 1000000 0
+E
+crystal shard crenshinibon~
+   Older than recorded time, Crenshinibon the crystal shard is
+a relice of incredible power.  Forged by the most powerful mages
+to wield the force in the history of the Realms, this crystal
+has been at the heart of some of the most destructive wars in
+history.  With a desire for blood and conquest that drives its
+existence, Crenshinibon imbues its wielder with the power
+to destroy.
+~
+A
+3 5
+A
+6 4
+A
+9 20
+A
+12 80
+A
+1 4
+A
+24 -15
+B
+8388626 0
+#2107
+glasses true seeing delicate wire~
+a delicate pair of wire rimmed glasses~
+A delicate pair of glasses rests here undistrubed.~
+~
+11 1048640 262145
+0 0 0 0
+1 500000 0
+A
+24 -5
+B
+56 0
+#2108
+shroud domination~
+the Shroud of Domination~
+A wispy thin shroud lays here in a pile.~
+~
+9 65617 1025
+5 0 0 0
+2 100000 0
+A
+1 3
+A
+3 3
+A
+4 3
+A
+2 3
+A
+5 3
+A
+6 3
+B
+1024 0
+#2109
+pendant stone smiling goddess~
+a stone pendant of a smiling goddess~
+A stone pendant depicting a smiling goddess is resting here.~
+~
+11 65 16389
+0 0 0 0
+4 0 0
+E
+pendant necklace smiling goddess stone~
+   At first it looks old and ordinarry, a small trinket battered by the
+years.  But a more careful perusal reveals that the tiny stone chains were
+chiseled down painstakingly from a single piece of rock so that they
+remain unbroken.  And the gentle smile of the ageless godness shines
+on, undimmed by time, offering its wearer unquited gift of comfort and
+protection.
+~
+A
+9 3
+A
+24 -4
+A
+17 -10
+A
+4 1
+A
+23 -3
+A
+20 -2
+B
+135266304 0
+#2110
+helmet battered dwarven mining~
+a battered dwarven mining helmet~
+A battered helmet of dwarven design is collecting water here.~
+~
+1 65561 17
+0 0 -1 0
+10 0 0
+E
+hammer battered dwarven mining~
+
+   Dwarven craftsmanship imbues this old mining helmet with its special
+charm: its lines are angular and yet elegant, and it is filled to every
+corner with designs and gadgets both practical and mystifying.  Alas,
+a gaping dent on one side of the helmet severely mars its beauty.  Was it
+a result of an heavy object hitting it--or the other way around?
+Nevertheless, judging by the faint whirring inside the helmet, it is
+safe to say that at least some of the helmet's powers remain intact.
+~
+A
+14 60
+A
+17 -20
+A
+1 4
+A
+5 2
+A
+4 1
+A
+2 -2
+B
+1056 0
+#2111
+belt dragonhide mithril buckle~
+a ^Rred dragonhide^n belt with a ^Wmithril^n buckle~
+A belt of ^Rred dragonhide^n set with a ^Wmithril^n dragon buckle coils here.~
+~
+5 10563776 10241
+3 6 6 2
+20 500000 0
+E
+belt dragonhide mithril buckle~
+   The body of the belt is made of the finest scales of an elder red
+dragon, melded and polished by magic so that they fit snugly about the
+wearer's waist.  The massive buckle is solid mithril, carved in the
+form of a rearing dragon's head, with such presicion that it must be the
+old wyrm himself.  Ruby eyes and tongue glower evilly from its maw,
+where you find curious depressions shaped to fit a hand... to be wielded?
+Flaring wingtips extend from the sides, humming under their own power.
+~
+A
+19 3
+A
+23 -6
+A
+24 -2
+A
+6 1
+A
+17 -15
+A
+13 25
+B
+4194304 0
+S
+26 50 4
+S
+5 50 20
+S
+126 50 8
+#2112
+sash black silk (karn_quest_eq)~
+a black silken sash~
+A short length of the blackest silk rests here.  It appears to be surrounded by a soft glow.~
+~
+9 620757057 2049
+12 0 0 0
+1 20000 10000
+E
+sash black silken~
+This elegant sash is made of the finest silk, yet it feels incredibly durable.
+~
+A
+18 3
+A
+19 3
+A
+12 34
+A
+13 16
+A
+3 3
+A
+1 2
+#2113
+power godspoken (karn_quest_eq)~
+the Power of the god-spoken~
+Shimmering lights coallesce into a writhing form of power before you.~
+~
+5 620757057 8193
+6 7 7 12
+6 500000 200000
+E
+power god spoken~
+The holy wrath of Gond takes shape in your hands.  You are unable to tell
+what form of weapon this might be, but as you grasp it, it's solid weight
+reassures you that someone benevolent is watching.
+~
+A
+19 4
+A
+13 30
+A
+12 20
+A
+4 3
+#2114
+band holy light (karn_quest_eq)~
+a band of holy light~
+A gnomish looking gadget surrounded by what appears to be divine light rests here.~
+~
+9 620757057 4097
+11 0 0 0
+3 400000 200000
+E
+gadget band light holy divine~
+This gnomish invention actually traps a bit of the holy light of Gond and
+bathes his faithful in his light while it is worn.
+~
+A
+18 2
+A
+19 2
+A
+13 35
+A
+2 2
+#2115
+box stasis (karn_quest_eq)~
+a stasis box~
+A stasis box rests here, hovering just off the ground.~
+~
+15 64 1
+600 1 0 0
+10 4000 2000
+#2118
+vilya ring sky~
+a ring of pure yellow gold, set with a large ^csapphire^n~
+A ring of the purest gold set with a sapphire is resting here.~
+~
+9 2097216 3
+4 0 0 0
+1 1000000 0
+E
+ring vilya sky~
+Mightiest of the Three Elven Rings of Power, Vilya was given to
+Elrond by Gil-galad just before his departure as co-general of
+the last alliance of Men and Elves against Sauron.  The name
+Vilya actually translates to 'Air' or 'Sky' from the Quenya
+tongue.  Vilya was originally given by Celembrimbor to Gil-galad,
+who held it until he went to war at the end of the Second Age.
+At that time, Gil-galad bequeathed it to Elrond who wielded it
+until the end of the Third Age, at which time it was lost.
+~
+A
+19 4
+A
+18 2
+A
+13 30
+B
+40 0
+#2119
+bow ironwood~
+an ironwood bow~
+A powerful ironwood bow rests here unstrung.~
+~
+6 2 32769
+6 6 6 12
+3 400000 0
+A
+1 2
+A
+14 100
+A
+2 3
+A
+19 4
+#2120
+vial water sparkling~
+a sparkling vial of water~
+A small crystal vial of water rests here.~
+~
+17 0 1
+9999 9999 0 0
+1 250000 0
+#2121
+frosty tri bladed dagger~
+a frost covered tri-bladed dagger~
+A frost covered tri-bladed dagger stands here plunged into the ground.~
+~
+5 8433697 8193
+5 8 7 11
+1 1 0
+E
+frosty tri bladed dagger~
+   The cold of its metal shivers through your spine giving you the feel of
+the cold harshness of the death it brings.  You physically shiver as you begin
+to wield the massive dagger and wonder if you release it, if the cold will
+ever leave you.  You fear that it would not.
+~
+A
+1 3
+A
+2 3
+A
+13 20
+S
+161 50 10
+S
+117 50 1
+#2122
+emerald wand~
+an ^Gemerald^n wand~
+You see a small wand, enlayed with small ^Gemeralds^n.~
+~
+3 1 16385
+50 30 20 58
+4 100000 0
+#2123
+oak tree branch~
+an oak tree branch~
+A small tree branch lies on the floor.~
+~
+3 0 16641
+50 20 20 147
+0 200 0
+#2124
+mystery note~
+the mystery prize~
+The mystery prize sits here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+E
+note mystery~
+This note entitles you to the following:
+
+1 clan room
+1 clan statue
+1 clan portal
+1 clan heal mob
+~
+#2125
+ring gold intertwined snakes~
+a ^Ygold^n ring of intertwined ^Gsnakes^n~
+A ring of ^Ygold^n, covered by intertwined ^Gsnake^n pattern, sits here.~
+~
+11 0 3
+0 0 0 0
+3 0 0
+E
+ring gold intertwined snakes~
+   Although the ring looks brand new, you innately sense that it
+is an object of antiquity.  Formed from pure gold, powerful magic prevents
+it from twisting and bending over the years.  It is free of almost any
+adornment save for the carving of fanciful snakes, chasing on another's
+tails all over the ring itself.  It is mesmerizing to watch the interplay
+of light on their golden bodies, and to admire how the entire process
+never seems to end.
+~
+A
+19 1
+A
+13 50
+#2150
+disc amulet shar holy symbol black purple~
+an amulet depicting a black disc with a deep purple border~
+There is an amulet depicting a black disc with a deep purple border lying here surrounded by shadows.~
+~
+9 8 5
+-10 0 0 0
+1 1 0
+E
+amulet disc purple black holy symbol shar~
+   This amulet with the black disc with purple border is the holy
+symbol of Shar, goddess of the night and of shadows.  The disc
+seems to radiate an aura of darkness.
+~
+A
+18 3
+#2151
+quest flag green~
+a ^ggreen^n quest flag~
+A ^ggreen^n quest flag lies here on the ground.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#2152
+quest flag blue~
+a ^bblue^n quest flag~
+A ^bblue^n quest flag lies here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#2153
+quest flag yellow~
+a ^yyellow^n quest flag~
+A ^yyellow^n quest flag lies here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#2154
+quest flag gold~
+a ^Ygold^n quest flag~
+A ^Ygold^n quest flag lies here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#2155
+quest flag elite~
+an Elite quest flag~
+A powerful flag shimmers with a magical aura.~
+~
+0 28 16385
+0 0 0 0
+1 0 0
+#2161
+potion green~
+a green potion~
+A green potion swirls sickeningly before you.~
+~
+10 0 1
+60 28 28 28
+1 0 0
+#2162
+potion blue~
+a blue potion~
+A blue potion hums quietly, filled with power.~
+~
+10 0 1
+60 132 132 132
+1 0 0
+#2163
+potion yellow~
+a yellow potion~
+A yellow potion rests here on a pedestal.~
+~
+10 0 1
+60 147 58 84
+1 0 0
+#2164
+potion gold~
+a gold potion~
+A golden potion rests in the dust, glowing quietly.~
+~
+10 1 1
+60 131 152 125
+1 0 0
+#2191
+ring twist titivilus~
+Titivilus' Twist~
+You shouldn't have this.~
+~
+9 1361051776 3
+12 0 0 0
+1 200000 0
+A
+12 40
+A
+13 35
+A
+18 3
+A
+19 3
+A
+24 -3
+#2192
+fluted staff~
+a fluted glass staff~
+An unfinished object is lying here.~
+~
+5 0 8193
+4 6 6 6
+3 30000 3000
+A
+12 30
+A
+13 20
+A
+24 -4
+A
+4 3
+S
+15 85 75
+#2193
+spectacles glasses~
+a pair of wire rimmed spectacles~
+An unfinished object is lying here.~
+~
+9 192 262145
+15 0 0 0
+1 0 0
+A
+3 3
+B
+8 0
+#2194
+potion blue swirling~
+a swirling blue potion~
+A swirling blue potion is sitting here, maybe you should try it.~
+~
+10 24 1
+50 15 68 132
+1 300 30
+#2195
+wand shocking grasp~
+a wand of shocking grasp~
+A wand of shocking grasp rests here.~
+~
+3 0 1
+14 20 20 37
+0 0 0
+#2196
+scroll remove curse~
+a scroll of remove curse~
+An unfinished object is lying here.~
+~
+2 0 1
+40 92 0 0
+0 0 0
+#2197
+sword vampiric regeneration (karn_quest_eq)~
+a longsword of vampiric regeneration~
+This sword drinks in the life force of an opponent.~
+~
+5 620757056 8193
+8 8 8 3
+10 200000 20000
+A
+18 4
+A
+19 5
+A
+13 45
+S
+16 80 45
+#2198
+quest flag token~
+a shiny quest token~
+A shiny quest token is lying here.~
+~
+8 285278216 1
+0 0 0 0
+0 0 0
+#2199
+scroll~
+scroll~
+Scroll~
+~
+2 0 1
+50 31 0 0
+0 0 0
+#99999
+$~

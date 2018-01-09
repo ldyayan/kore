@@ -1,0 +1,406 @@
+#16600
+curious rodent black squirrel~
+a small squirrel~
+A curious black rodent stares at you with red eyes from the undergrowth.
+~
+The rodent is hard to make out in the darkness but it appears to 
+be a small squirrel.  Its small eyes are red and its body mostly
+black, you almost sense it could help you in some way.. Maybe
+it knows the way out of this neverending darkness.  As you go
+to get a closer look it scuttles off into the trees and sits
+on a branch, looking down on you from far above your head.
+~
+26702 525482 500 S
+34 -5 0 1d1+9000 10d10+30
+100 150000
+8 8 1 13
+#16601
+guardian huge man~
+the Blithe Guardian~
+A huge man with flowing grey hair and glistening armor guards the way.
+~
+The guardian stands at least eight feet high,  his armor bulges
+to fit around the his huge muscles.  He does not move at your
+approach but instead he just looks at you, as if he was summing
+up what kind of a person you are, if your the wrong kind i would
+leave now and not chance crossing his path.
+~
+649482 541663402 1000 S
+40 -20 -1 1d1+10000 10d10+50
+1000 200000
+8 8 1 6
+#16602
+guard sleeping blithian man~
+a Blithian guard~
+A guard dozes in the sun here.
+~
+The guard is quite fat and rounded, he does not look as though he
+has been needed for quite some time, and is probably not as quick
+on his feet as he should be.  However he does move slightly with
+your approach, his snoring slightly changing in rhythm.
+~
+14730 0 700 S
+20 -10 0 1d1+1000 10d10+10
+40 50000
+4 4 1 6
+#16603
+wise old man bow master blithian~
+the Blithian Bow Master~
+A wisened old man sits here playing chess with himself.
+~
+The Bow Master is small and frail, he has a long grey beard that
+flows down under the table.  He is wearing dull grey robes and
+a small blue hat that stands up tall slightly bent over at the
+top.  He is readying one of most magnificent bows you have ever
+seen.
+~
+188746 98472 1000 S
+50 -30 -5 1d1+15000 10d10+50
+5000 200000
+6 6 0 10
+#16604
+shopkeeper man elf short little~
+a small Brithian baker~
+A small baker stands behind a large counter, nearly hidden from sight.
+~
+The shopkeeper is small and has large pointy ears.  He is wearing
+white clothes and some bakers mits, his face is rounded and cheery
+and he beems a smile at you as you enter.
+~
+321610 4260008 1000 S
+30 -5 0 1d1+12000 10d10+30
+5000 200000
+8 8 0 12
+#16605
+man blithian villager elf~
+a Blithian villager~
+A small Blithian villager wanders past you smiling happily.
+~
+The villager is quite short compared to most you have encountered
+so far.  It has small pointy ears and a small hat, covered by the
+cowl of some large robes.
+~
+328 0 1000 S
+15 2 3 1d1+799 2d2+8
+200 12000
+8 8 1 13
+#16606
+guard wandering fat mob16606~
+a fat wandering guard~
+A fat little guard wanders past you, not aware of whats going on around him.
+~
+The guard is short and fat with little pointy ears that stick out
+the sides of his helmet.  He looks nd you curiously for a second
+but continues to wander down the path, not taking much notice.
+~
+4428 1064 1000 S
+25 20 0 1d1+1 1d1+10
+0 0
+8 8 1 6
+#16607
+tree imp one~
+a small tree imp~
+A small tree imp is here.
+~
+You try to look at the imp but it disappears from view too quick.
+~
+8388616 4981802 1000 S
+50 -30 0 1d1+3999 5d5+30
+400 200000
+8 8 0 4
+#16608
+winged kickshaw guardian demon~
+Kickshaw's guardian demon~
+A huge winged demon guards the way into the tree.
+~
+The guardian resembles a huge bat deformed by time.  It's huge
+fangs drip with saliva and it's eyes glow red.  It breathes
+slowly with a heavy rasping noise.
+~
+579850 0 1000 S
+40 -30 -5 1d1+19999 20d20+50
+7000 200000
+8 8 0 8
+#16609
+pickett thief master man~
+Pickett, the Master Thief~
+Pickett, the Master Thief sits here, fiddling the chest's lock.
+~
+He is a tall man, dressed in a dark blue cloak with a large cowl
+that covers nearly all his face.  He is startled by your arrival
+and stands up to face you, obviously he is not used to having
+company.
+~
+62794 0 1000 S
+50 -25 -20 1d1+19999 20d20+50
+10000 200000
+8 8 1 14
+#16610
+tree imp two~
+a small tree imp~
+A small tree imp is here.
+~
+hehe, why bother?
+~
+8388616 4457512 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16611
+tree imp three~
+a small tree imp~
+A small tree imp is here.
+~
+hehe, why bother?
+~
+8388616 4457512 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16612
+chest man~
+chest man~
+the chest man is here
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16613
+kickshaw man huge guardian~
+Kickshaw, the raging Demon.~
+A huge man lurks in the room, his eye's glow with a peircing red color as he gazes upon your weak mortal body..
+~
+The man is at least eight feet tall, he is wearing shiny armor
+made from the finest jewels you have ever seen.  He is weilding
+the most amazing sword you have ever seen.  It glows and twitches
+in its sheaf, and seems to try and move towards you.
+~
+256264 591016 1000 S
+60 -30 -20 30d300+30000 30d127+50
+20000 500000
+8 8 1 12
+#16614
+shopkeeper magician man short~
+the Blithian Magician~
+A small man stands behind a large wooden desk stroking his beard.
+~
+As you look at the small man you notice him writing on a scrap of
+paper.  He pauses every so often to make sure your not stealing any
+of his goods and then returns back to his writing.
+~
+262154 0 1000 S
+30 -10 0 4d4+4000 4d4+15
+2000 123000
+8 8 1 14
+#16615
+blithian fletchers man shopkeeper~
+the Blithian Fletcher~
+A large muscular man sits behind a large wooden desk carving an elm bow
+~
+The shopkeeper is big and strong.  He rests on a small chair behind
+a large wooden counter, he does not take much notice of you and
+continues to carve a large elm bow he has secured between his
+large legs
+~
+262154 65704 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16616
+blithian child boy small~
+a small blithian boy~
+A small blithian bow boy is here playing with a wooden horse.
+~
+The boy is sitting on the floor smiling to himself as he makes his
+small little wooden horse jump between the branches of the nearby
+trees like a squirrel, you don't have the heart to tell him horses
+can't actually do that and leave him in his own little world.
+~
+18760 0 1000 S
+10 0 4 1d1+699 2d2+14
+24 12333
+8 8 1 13
+#16617
+huge giant eagle hawk emock~
+Emock, queen of the eagles~
+Emock, queen of the eagles rests here caring for her young.
+~
+Even when shes sitting down the huge eagle towers high above your
+head, her beak is the same size as your hole body and her eyes glow
+with a bright blue light.  She has what looks like a dear in her
+beak which she is tearing up to feed to the young that run around
+and continually knock you over.
+~
+2861322 589994 1000 S
+54 -25 -10 1d1+24999 10d10+50
+10000 20000
+8 8 2 3
+#16618
+old man tired worn~
+a tired old man~
+A small tired old man sits here rocking in his chair.
+~
+The man is old and worn.  His skin looks rough and wrinkled, but
+as he looks up at you from his chair you notice a faint blue glow
+come from his eyes...
+~
+713038 0 1000 S
+45 -25 0 1d1+15999 10d10+50
+3000 35000
+8 8 1
+#16619
+grock dragon small green~
+Grock, the small green chillin' machine~
+A small green dragon is resting in his throne blowing smoke rings.
+~
+Grock is a small green dragon about five feet high.  He is resting
+in his throne blowing small smoke rings out of his nose that rise
+to the roof and pop just before they hit.  He is wearing a pair
+of dark glasses and is tapping his feet to the sound of da' beat.
+~
+190730 66730 1000 S
+50 -30 -10 1d1+23999 30d30+50
+1000 400000
+8 8 1 8
+#16620
+blithian receptionist woman beautiful~
+the Blithian receptionist~
+A beautiful woman stands behind a large oak desk here smiling at you.
+~
+The receptionist is one of the most beatiful women you have ever
+seen, she is dressed in clean white robes and her flowing blond
+hair covers her shoulders.  She beams a smile at you, as you look
+into her eyes you think you see them glow with a soft blue light.
+~
+188490 98432 1000 S
+55 -20 0 1d1+19999 10d10+50
+4000 300000
+8 8 2
+#16621
+man guard private~
+the Mayor's private guard~
+A huge man stands here guarding the door north.
+~
+The guard is big and strong he towers over you in hight and dominates
+the room.  He is wearing armor made from solid silver that shines
+in the bright sunlight that is coming through the window on the west wall.
+~
+780554 0 1000 S
+37 -15 -5 1d1+17999 15d10+40
+5000 300000
+8 8 1 5
+#16622
+mayor man blithe small little~
+the Mayor of Blithe~
+A small man sits behind a big desk signing documents furiously.
+~
+The Maor of Blithe is not a big man, he sits behind his big desk
+signing huge stacks of ducuments furiously.  As you look at him
+he looks most flustered by the amount of work he has to do, and is
+not happy with being disturbed by you... As you look at him closely 
+you notice a faint blue glow coming from his eyes.
+~
+715018 0 1000 S
+55 -15 -5 1d1+21999 25d25+50
+2000 500000
+8 8 1 13
+#16623
+chick eagle small~
+a small eagle chick~
+A small eagle chick is here scrambling around trying to find warmth.
+~
+The small chick can only just open its eyes, it has not got its
+flying feathers yet and just looks like one big ball of fur.
+~
+528458 0 1000 S
+25 20 6 1d1+1 1d1+10
+0 0
+8 8 0 8
+#16624
+trapped spirit~
+a trapped spirit~
+A wailing spirit floats around in the air here.
+~
+The spirit looks in emense pain trapped in these deep caves long
+ago by the old blithian people.
+~
+4200 4981802 -100 S
+20 -20 0 1d1+1 1d1+1
+0 0
+8 8 0 1
+#16625
+preist white robed large~
+a preist dressed in white~
+A large preist dressed in white robes rests behind the alter praying to his god.
+~
+The preist is quite large and has a drawn tired face.
+He is dressed in bright white robes and is wearing a small crown 
+made from small twigs.
+~
+532746 0 1000 S
+37 -20 0 1d1+11999 5d5+50
+1000 200000
+6 6 1 5
+#16626
+sleeper man~
+the sleeper man~
+the sleeper is here
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+55 20 10 1d1+1000 1d1+0
+0 0
+8 8 0
+#16627
+awakening man~
+awakening man~
+awakening man is here
+~
+It looks, err, unfinished.
+~
+8388682 4195368 0 S
+50 10 10 1d1+999 1d1+0
+0 10
+8 8 0
+#16628
+beautiful woman bwoman~
+the beautiful woman~
+A beutiful woman is resting here in a small chair dressed in bear skins.
+~
+The woman is one of the most beautiful that you have ever seen.  She
+is dressed in a two peice bear skin dress and has long blond hair
+that drapes down over her shoulders, she looks up at you and smiles
+but you are too lost in her deep blue eyes to respond..
+~
+188426 66728 1000 S
+50 0 10 1d1+9999 1d1+0
+0 200000
+8 8 2 3
+#16629
+flee mob~
+the !flee mob~
+mob to stop people finding exits by FLEEing
+~
+It looks, err, unfinished.
+~
+8388618 40 0 S
+50 20 10 1d1+1 1d1+0
+0 0
+8 8 0
+#16630
+mob evacuation~
+evacuation mob~
+evacuation mob
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

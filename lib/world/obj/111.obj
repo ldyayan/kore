@@ -1,0 +1,644 @@
+#11100
+Key~
+a private key~
+You see a key lying here.~
+~
+18 4 1
+0 0 0 0
+1 0 0
+E
+key~
+You hold a key to a private room.
+~
+#11101
+Warhammer~
+Massive two handed warhammer~
+You see a warhammer lying here.~
+This warhammer is Luanna's pride and joy. A gift to her by a dwarf admirer.
+It is a massive two-handed war hammer.
+~
+5 77826 8193
+1 7 7 7
+15 25000 0
+E
+warhammer~
+This warhammer is Luanna's pride and joy. A gift to her by a dwarf admirer.
+It is a massive two-handed war hammer.
+~
+A
+19 4
+#11102
+green cloak~
+a long ^ggreen^n cloak~
+You see a long cloak lying here.~
+You see a long cloak.
+~
+9 28736 5
+10 0 0 0
+2 50000 0
+B
+262144
+#11103
+A shining light~
+a shining light~
+You see a light lying here.~
+As you look closer you notice that the light is made up of some
+type of stone or crystal.
+~
+1 2109505 16385
+0 0 -1 0
+1 30000 0
+E
+light~
+  As you look closer you notice that the light is made up of some
+type of stone or crystal.
+~
+A
+2 4
+A
+19 4
+#11104
+necklace herbs~
+a necklace of ^gherbs^n~
+You see a necklace of herbs.~
+You see a necklace made out of herbs.
+~
+11 0 5
+0 0 0 0
+0 0 0
+A
+1 2
+A
+19 2
+#11105
+a ^rred^n potion~
+a ^rred^n potion~
+You see a ^rred^n potion lying here.~
+You see a potion of some sorts.
+~
+10 1 1
+40 62 28 28
+0 25000 0
+#11106
+a flaming sword~
+a flaming sword~
+You see a sword lying here.~
+You see a sword of power. The flaming sword is known to be the symbol
+of the members of the Way of the Warrior.
+~
+5 8400898 8193
+1 6 8 3
+5 100000 0
+A
+1 2
+A
+5 3
+A
+19 3
+S
+33 40 10
+#11107
+a saber~
+a saber~
+You see a saber lying here.~
+As you look at the saber you see it is but a light weight sword.
+~
+5 0 8193
+6 8 6 3
+1 20000 0
+E
+saber~
+  A saber is nothing but a light weighted sword.
+~
+A
+1 3
+A
+14 20
+A
+18 3
+A
+12 -20
+A
+20 -2
+#11108
+bath towel~
+a bath towel~
+You see a towel lying here.~
+~
+11 147456 2049
+0 0 0 0
+1 10000 0
+E
+bath towel~
+  A light off white bath towel. Large enough to wrap
+around your waist.
+~
+A
+6 5
+A
+4 2
+A
+3 2
+A
+1 -2
+A
+2 -1
+#11109
+pool~
+a pool~
+A pool with hot steaming water is in the center of the room.~
+You see a pool with hot steaming water.
+~
+12 65 0
+0 0 0 0
+50 0 0
+E
+pool~
+  Hot steaming water is swirling around in the pool.
+~
+#11110
+cellar key~
+cellar key~
+You see a key lying here.~
+You are holding the key to the cellar.
+~
+18 4 1
+0 0 0 0
+0 0 0
+#11111
+safe~
+a safe~
+You see a safe on the wall.~
+You see a safe on the wall.
+~
+15 1 0
+100 13 11112 0
+15 0 0
+E
+safe~
+  A locked closed safe is on the wall.
+~
+#11112
+key~
+a key~
+You see a key lying here.~
+You have the key to the chest in the cellar.
+~
+18 12 1
+0 0 0 0
+0 0 0
+E
+key~
+A key to the safe in the cellar.
+~
+#11113
+gold coins~
+gold~
+You see a pile of gold coins lying here.~
+You see alot of gold coins.
+~
+20 0 1
+20000 0 0 0
+0 0 0
+E
+gold coins~
+There is alot of gold coins lying in the safe.
+~
+#11114
+cloak~
+a cloak of darkness~
+You see a cloak lying here.~
+~
+9 8532000 1025
+10 0 0 0
+3 50000 0
+A
+1 1
+A
+19 1
+B
+8
+#11115
+diamond bracers~
+^Wdiamond^n bracers~
+You see a pair of ^Wdiamond^n bracers lying here.~
+You see a pair of bracers embeded with diamonds.
+~
+9 8548353 257
+15 0 0 0
+5 75000 0
+E
+diamond bracers~
+ You see a pair of bracers enlayed with diamonds.
+~
+A
+19 3
+A
+5 2
+A
+24 -3
+A
+3 -2
+#11116
+chainmail wrap~
+a chainmail wrap~
+You see a pile of chainmail lying here.~
+You see a belt made of chainmail.
+~
+9 28672 2049
+5 0 0 0
+5 10000 0
+E
+chainmail wrap~
+  A belt made of chainmail.
+~
+A
+5 2
+A
+19 2
+A
+23 -3
+A
+14 -10
+#11117
+white liquid bottle potion~
+a bottle of white liquid~
+A glass bottle is lying here.~
+~
+10 0 1
+40 36 0 0
+1 10000 0
+E
+white liquid bottle~
+  A small glass bottle of white liquid.
+~
+#11118
+bottle energy blue potion~
+a blue bottle of energy~
+A glass bottle is lying here.~
+~
+10 0 1
+50 132 132 132
+1 25000 0
+E
+bottle blue energy~
+  A small glass bottle filled with a blue radiant liquid.
+~
+#11119
+scroll return~
+a scroll of return~
+A scroll is lying here.~
+~
+2 0 1
+12 42 0 0
+1 200 0
+E
+scroll return~
+  A scroll has the word return scribe on it.
+~
+#11120
+potion health~
+a potion of health~
+A potion is lying here.~
+~
+10 0 1
+40 28 28 0
+1 2000 0
+E
+potion health~
+  A potion of double heal.
+~
+#11121
+rose~
+a rose~
+A red rose is lying here.~
+~
+13 0 1
+0 0 0 0
+1 50 0
+E
+red rose~
+ A red rose.
+~
+#11122
+fountain crystal~
+a crystal fountain~
+Clear water shoots up from the center of a fountain.~
+~
+23 0 1
+99999 99999 15 0
+5000 0 0
+E
+water fountain crystal~
+   A crystal fountain shoots clear water from its center. 
+Green gemstones are enlayed around the base.
+~
+#11123
+crystal orb~
+a crystal orb~
+A crystal orb is lying here.~
+~
+11 0 16385
+0 0 0 0
+0 0 0
+E
+crystal orb~
+ A small crystal orb shines from the reflection of the light.
+~
+A
+12 25
+#11124
+hole~
+a hole~
+A hole in the gate leads to the other side.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+hole gate~
+  The hole is big enough for you to enter it. You can see the
+road that continues on the other side.
+~
+#11125
+robe hooded~
+a hooded robe~
+A robe is lying here.~
+~
+9 192513 1025
+10 0 0 0
+3 30000 0
+E
+hooded robe~
+  A druids hooded robe. Made of a silk like cotton.
+~
+A
+24 -4
+A
+3 2
+A
+13 10
+A
+2 -2
+#11126
+staff striking~
+a staff of striking~
+A staff is lying here.~
+~
+4 0 16385
+20 6 6 30
+0 15000 0
+E
+staff striking~
+ A staff of striking vibrates from electrical charges.
+~
+A
+13 10
+#11127
+symbols~
+symbols~
+A series of symbols are written upon the wall.~
+~
+13 0 0
+0 0 0 0
+100 0 0
+E
+symbols~
+Outflow Room: Do Not advance beyond this point.
+~
+#11128
+robes archmagi~
+robes of the archmagi~
+A pile of cloth is lying here.~
+~
+9 0 9
+14 0 0 0
+5 60000 0
+E
+robes archmagi~
+  Robes of the archmagi are made of a heavy material.
+~
+A
+13 25
+A
+12 30
+#11129
+ring protection~
+a ring of protection~
+A ring is lying here.~
+~
+9 256 3
+10 0 0 0
+2 35000 0
+E
+ring protection~
+  A small golden ring with words scribe on the inside
+which read - a ring of protection.
+~
+A
+2 4
+#11130
+gem brightness~
+a gem of brightness~
+Some sort of stone is lying here.~
+~
+9 0 17
+8 0 0 0
+2 50000 0
+E
+gem brightness~
+  A gem the size of a coin has a strap attached to 
+it so you may wear it as a head piece.
+~
+A
+4 2
+A
+3 2
+A
+12 30
+A
+1 -1
+#11131
+golden dagger~
+a golden dagger~
+A dagger is lying here.~
+~
+5 0 8193
+5 7 7 11
+4 100000 0
+E
+dagger~
+  A small golden color dagger. 
+~
+A
+19 6
+A
+18 2
+A
+23 -2
+A
+12 -25
+#11132
+sword white~
+a white sword~
+A beautiful white sword is lying here.~
+~
+5 0 8193
+7 7 7 3
+5 200000 0
+E
+sword white~
+A beautiful white sword that has a aura of power around it.
+~
+A
+19 8
+A
+3 3
+A
+14 -15
+B
+8388608
+#11198
+claws death~
+the claws of death~
+You see a pair of claws lying here.~
+~
+9 0 129
+25 0 0 0
+5 500000 0
+A
+19 10
+A
+1 10
+A
+2 10
+#11199
+diamond collar~
+a ^wdiamond^n collar~
+You see a ^wdiamond^n collar lying here.~
+~
+9 65548 1
+25 0 0 0
+5 1000000 0
+A
+19 10
+A
+18 10
+A
+1 10
+A
+19 10
+A
+2 5
+B
+262272
+#11250
+cookie magical~
+Ayana's Magical Cookie~
+A homemade cookie is lying here.~
+~
+25 65544 1
+50 36 0 0
+0 0 0
+E
+cookie christmas~
+  One of Ayana's yummy homemade Christmas Cookie.
+~
+#11251
+mistletoe~
+some mistletoe~
+A small bough of mistletoe hangs from an overhead beam.~
+~
+19 0 0
+1 0 0 1
+1 0 0
+#11252
+christmas present~
+a christmas present~
+A Christmas present is lying here.~
+~
+15 335609864 1
+100 1 -1 0
+2 0 0
+#11253
+red christmas ball~
+a shiny ^Rred^n Christmas ball~
+A ^Rred^n Christmas ball is lying here.~
+  A shiny red christmas ball is made of a extra strong crystal.
+It shines so bright it may also be used as a light.
+~
+1 337707017 16385
+0 0 -1 0
+1 1000000 0
+E
+red christmas ball~
+  A shiny red christmas ball is made of a extra strong crystal.
+It shines so bright it may used as a light.
+~
+A
+24 -4
+A
+23 -4
+A
+14 25
+A
+19 4
+#11254
+antlers deer~
+deer antlers~
+A pair of antlers is lying here.~
+~
+9 67174408 17
+6 0 0 0
+4 100000 0
+E
+deer antlers~
+  A pair of deer antlers is mounted on what looks like
+something you can wear on your head.
+~
+A
+22 -2
+B
+4194304
+#11255
+y2k bug~
+Y2K bug~
+Y2K bug has crashed here.~
+~
+11 33 16385
+0 0 0 0
+2 2000 0
+E
+y2k bug~
+  A Y2K bug glows and hides deep within the source as it
+waits to crash.
+~
+A
+1 2
+A
+3 2
+A
+19 2
+A
+21 -2
+A
+17 -2
+A
+9 -2
+#11499
+black dress silk~
+black silk dress~
+A dress is lying here.~
+~
+9 268435457 9
+10 0 0 0
+0 250000 0
+E
+black dress silk~
+  A long silk black dress reflects the light bringing a aura
+of moonlight around the wearer.
+~
+B
+262144
+#99999
+$~

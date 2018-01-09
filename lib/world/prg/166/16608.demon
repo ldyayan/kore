@@ -1,0 +1,18 @@
+>greet_prog 70~
+  if inroom($i) == 16635
+   say HAHA, none shall pass without the ruby key!
+   say And as I posses one of the keys to get the ruby key, there's not much chance of YOU getting it!
+   cackle
+  endif
+~
+>fight_prog 8~
+  mpecho $I screams "GUARDS!!" at the top of his lungs.
+  mpecho A few fat little guards come scuttling around the corner.
+  shout ATTACK!!!
+  mpsilent mpmload 16606
+  mpforce guard assist $i
+  mpsilent mpmload 16606
+  mpforce guard assist $i
+~ 
+|
+

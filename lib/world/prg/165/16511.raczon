@@ -1,0 +1,111 @@
+>greet_prog 100~
+  if isimmort($n)
+  else
+    say This will be the tomb of your soul, and on your bones shall I feed.
+    mpecho Raczons eyes flash red, then yellow, and a beam of energy envelopes you.
+    mpdamage all 5d10
+    mpkill $r
+  endif
+~
+>rand_prog 15~
+    if isaffected($i, stoneskin)
+    else
+        cast 'stoneskin'
+    endif
+~
+>rand_prog 20~
+    if isaffected($i, haste)
+    else
+        cast 'haste'
+    endif
+~
+>rand_prog 25~
+    if isaffected($i, fly)
+    else
+        cast 'fly'
+    endif
+~
+>fight_prog 1~
+  tell $r You are not worthy of my wrath.  Darpac will handle your execution.
+  mpechoat $r Raczon gestures towards you and speaks a rune of power.
+  mpechoat $r Your vision blurs, and when it clears you realize you are in a different room.
+  mpechoaround $r Raczon gestures towards $R and speaks a rune.
+  mpechoaround $r $R disappears.
+  mptransfer $r 16565
+~
+>fight_prog 1~
+  tell $r You are not worthy of my wrath.  Sonaris will handle your execution.
+  mpechoat $r Raczon gestures towards you and speaks a rune of power.
+  mpechoat $r Your vision blurs, and when it clears you realize you are in a different room.
+  mpechoaround $r Raczon gestures towards $R and speaks a rune.
+  mpechoaround $r $R disappears.
+  mptransfer $r 16576
+~
+>fight_prog 1~
+  tell $r You are not worthy of my wrath.  Yaxcor will handle your execution.
+  mpechoat $r Raczon gestures towards you and speaks a rune of power.
+  mpechoat $r Your vision blurs, and when it clears you realize you are in a different room.
+  mpechoaround $r Raczon gestures towards $R and speaks a rune. 
+  mpechoaround $r $R disappears.
+  mptransfer $r 16575
+~
+>fight_prog 1~
+  tell $r You are not worthy of my wrath.  Katrae will handle your execution.
+  mpechoat $r Raczon gestures towards you and speaks a rune of power.
+  mpechoat $r Your vision blurs, and when it clears you realize you are in a different room.
+  mpechoaround $r Raczon gestures towards $R and speaks a rune.
+  mpechoaround $r $R disappears.
+  mptransfer $r 16577
+~
+>fight_prog 4~
+   mpechoat $r Raczon BACKHANDS you out of the room.
+   mpechoaround $r Raczon BACKHANDS $r.
+   mpdamage $r 9d18+20
+   mppose $r sit
+   mptransfer $r 16563
+~
+>fight_prog 5~
+   smirk
+   say You seem to think your mortal spells can defend you against my might.
+   shrug
+   say Your mistake.
+   mpecho Raczon commands your aura to die, and with a gesture your fall to the ground, your soul ripped asunder.
+   c 'dispel sanctuary' $r
+   c 'word of death' $r
+   mppose $r sit
+~
+>fight_prog 5~
+   mpecho Raczon pulls up the sleeves of his robe, revealing runes carved into his flesh.  
+   mpecho The runes burst into flames and speed from his body to BLAST INTO YOU!!!!!!!
+   mpdamage all 5d17+15
+~
+>fight_prog 8~
+  mpechoat $r Raczon SMITES YOU DOWN with his deadly blow.
+  mpechoaround $r Raczon SMITES $R with his powerful attack.
+  mpdamage $r 13d20
+  mppose $r sit
+~
+>fight_prog 9~
+  speak Your body will sate the appetites of my demon hounds.
+  mpechoat $r Raczon speaks a rune as he draws it in the air.  It catches fire and streaks towards you, blasting into your chest. 
+  mpechoaround $r Raczon speaks a rune as he draws it in the air.  It catches fire and streaks towards $R, blasting $K in the chest.
+  c 'word of death' $r
+~
+>fight_prog 10~
+  mpechoat $r Raczon breathes in your direction and he FREEZES YOUR SOUL!!!!!!!
+  mpechoaround $r Raczon breathes in the direction of $r and $L pallor turns blue.
+  mpdamage $r 10d20
+~
+>death_prog 100~
+  scream
+  say This is not the end.  I will be reborn again!!!!!!!!
+  mpecho Raczon looks towards the heavens and screams as the essence of the demon leaves his body.
+  mpecho The remains of Raczons body crumbles to dust as a gust of wind blows it away.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

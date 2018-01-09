@@ -1,0 +1,20 @@
+>rand_prog 100~
+  if ischarhere(11009)
+  else
+    mpgoto cleaner
+  endif
+~
+>command_prog down~
+  if isimmort($n)
+    bow $n
+else
+    mpechoat $n You attempt to go down the stairs leading into the dungeon of the keep
+    mpechoat $n but a nightmare gives you a big kick, sending you flying!
+    mpechoaround $n A nightmare gives $N a big kick, sending $K flying!
+    mpdamage $n 6d10+10
+    mppose $n sit
+    mptransfer $n 11072
+    mpat $n mpechoaround $n $N comes flying out of the stable, and lands with an audible THUMP!!
+  endif
+~
+|

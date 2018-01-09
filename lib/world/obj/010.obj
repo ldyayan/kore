@@ -1,0 +1,305 @@
+#1000
+sign zone~
+a rotting sign~
+A rotting sign draws your attention.~
+~
+12 0 0
+0 0 0 0
+1 1 1
+E
+sign~
+Please enter this area with extreme caution!!!  Anyone lower than
+level 30 go back NOW!  If you are above level 30, you might consider
+getting a group before taking me on...
+                        Signed,
+                        Dh'vral the Damned
+~
+#1001
+toadstool mushroom~
+a toadstool~
+A juicy toadstool grows here sprouting from a dead log.~
+~
+19 0 1
+1 50 1 1
+0 0 0
+E
+mushroom toadstool~
+Purple blotches spot the brownish skin.  It doesn't look very appetizing.
+~
+#1002
+sword gnome~
+a gnome sword~
+A smallish sword lays here rusting.~
+~
+5 0 8193
+0 2 2 11
+10 500 75
+E
+sword small~
+In size, this sword seems made for a child.  But an adept gnome warrior
+can prove the blade just as deadly as any long sword.
+~
+#1003
+sword drow~
+a drow sword~
+A short sword is here sticking tip first into the ground.~
+~
+5 8256 8193
+0 5 5 3
+4 1000 100
+E
+sword drow~
+Made from drow steel, this blade is as dark as the warrior himself.
+In war, the drow's believe the sword an extension of themselves and
+the coloring is only a part of that belief for skill makes up the rest.
+~
+#1004
+knife sacrificial~
+a sacrificial knife~
+A cruel-looking knife coated in blood lays discarded here.~
+~
+5 1 8193
+0 8 4 11
+2 1000 1
+E
+knife sacrificial~
+Its jagged edge still has chunks of flesh dangling from it.
+~
+A
+19 2
+A
+2 1
+#1005
+medallion ebony~
+an ebony medallion~
+A wooden necklace lays half-buried in the dirt.~
+~
+11 2721 5
+0 0 0 0
+1 2500 1
+E
+medallion ebony~
+The medallion head bears the ancient symbol of the druids.
+~
+A
+1 2
+A
+5 2
+#1006
+mace steel~
+a steel mace~
+A mace lies here waiting for a new owner.~
+~
+5 34 8193
+0 6 6 5
+10 7500 1
+E
+mace steel~
+The tip of the mace boasts a set of curved spikes remeniscent of a 
+porcupine's quills.
+~
+A
+1 2
+A
+19 6
+#1007
+pincers steel 1007~
+sharp steel pincers~
+Freshly used steel pincers lie here oozing blood.~
+~
+5 8396864 8193
+0 5 6 9
+5 500 1
+E
+pincers~
+A small engraving on the handle marks these as property of the Master
+Torturer.
+~
+A
+19 4
+#1008
+skeleton~
+a skeleton~
+The skeleton of some poor woman lies in one corner.~
+~
+9 32 9
+0 0 0 0
+20 1000 1
+E
+skeleton~
+The skeleton seems to be joined by heavy metal links.
+~
+A
+17 -20
+A
+13 10
+#1009
+book red large~
+a large red book~
+A large red book sits to one side on a waist-high shelf.~
+~
+15 32 0
+5 5 -1 0
+5 1 1
+#1010
+coins stack~
+a large stack of coins~
+A neat pile of coins sits precisely in the center of the room.~
+~
+20 0 1
+10000 0 0 0
+1 0 1
+#1011
+robe black~
+a black robe~
+A simple black robe lies in a heap.~
+~
+9 0 1025
+0 0 0 0
+3 250 1
+E
+robe black~
+There is a white patch on the left breast which reads 'Dh'vral's 
+Property'.
+~
+A
+17 -8
+#1012
+towel bath~
+a bath towel~
+A wet towel is here drying.~
+~
+11 0 2049
+0 0 0 0
+3 20 1
+E
+towel bath~
+The towel is neon green and has 'Dh'vral' written on it in big pink
+bubble letters.
+~
+#1013
+robe whisper-thin whisper thin transparent~
+a whisper-thin robe~
+A robe made from transparent material catches the eye.~
+~
+11 0 1025
+0 0 0 0
+1 1500 1
+E
+robe~
+Even the thinnest silks could not come close to the revealing nature of
+this garment.  The robe clings like a second skin and is guaranteed to
+drive even eunichs crazy with lust.
+~
+A
+6 7
+#1014
+stone key~
+a decrepit key~
+An aged stone key lies at your feet.~
+~
+18 4 16385
+0 1 0 0
+1 0 0
+#1015
+meat hook 1015~
+a barbed meat hook~
+A dingy metal hook is lying uselessly on the ground.~
+~
+5 8397376 24577
+3 8 4 14
+5 0 0
+E
+barbed meat hook~
+It looks hideous. This is the weapon of a madman.
+~
+A
+19 4
+A
+1 2
+A
+6 -2
+B
+4 0
+#1016
+steel mace~
+the steel mace of Dh'vral~
+A nasty-looking mace lies here waiting to claim a new owner.~
+~
+5 610 8193
+0 7 6 5
+10 7500 1
+E
+steel mace~
+The tip of the mace boasts a set of curved spikes remeniscent of a 
+porcupine's quills.
+~
+A
+1 2
+A
+19 6
+S
+124 50 5
+#1028
+gnomish iron key~
+a gnomish iron key~
+A large gnomish iron key is here tainting the ground beneath.~
+~
+18 141 1
+0 0 0 0
+1 1 1
+E
+key~
+Intricate designs cover the surface of the key and the key's teeth seem
+more like fangs.
+~
+#1050
+gnomish key heavy steel~
+a gnomish steel key~
+A gnomish steel key lies forgotten on the ground.~
+~
+18 65548 1
+0 0 0 0
+5 1 1
+E
+key steel~
+A small tag attached to the handle reads, 'Dungeon'.
+~
+#1090
+gnomish key gold golden~
+a gnomish ^Ygolden^n key~
+A gnomish ^Ygolden^n key twinkles and shines with a life of its own.~
+~
+18 13 16385
+0 0 0 0
+1 1 1 35
+E
+key gold~
+The key is a figurine of a small cobra.
+~
+#1095
+gnomish key silver~
+a gnomish ^wsilver^n key~
+A large gnomish silver key lies here and it's at least a pace in length!~
+~
+18 13 16385
+0 0 0 0
+10 1 1
+E
+key silver~
+The large key is as long as and weighs the same as a small child!
+~
+#1096
+key soap~
+a soap on a rope~
+A slightly used soap-on-a-rope rests here in a horde of bubbles.~
+~
+18 65548 5
+0 1 0 0
+2 1 1
+E
+key soap~
+MMMMMMMM!!!!   It smells like wildflowers!!
+~
+#99999
+$~

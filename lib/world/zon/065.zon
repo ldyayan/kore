@@ -1,0 +1,79 @@
+#65
+Kandelspire~
+6599 20 2 3
+M 0  6502     4  6529            the watchtower guard
+D 0  6529     5     1            Top of the Southeast Tower of Kandelspire door down
+M 0  6502     4  6544            the watchtower guard
+D 0  6544     5     1            Top of the Southwest Tower of Kandelspire door down
+M 0  6502     4  6546            the watchtower guard
+M 0  6502     4  6531            the watchtower guard
+D 0  6531     5     1            Top of the Northeast Tower of Kandelspire door down
+D 0  6514     0     1            Dwarven Barracks of Kandelspire door north
+D 0  6514     2     1            Dwarven Barracks of Kandelspire door south
+M 0  6510    10  6514            the dwarven peon
+M 0  6501     5  6557            the dwarven guard
+M 0  6508     9  6549            a small hungry dwarf
+M 0  6505    12  6549            the giant lizard
+M 0  6501     5  6520            the dwarven guard
+D 0  6520     0     1            Rec Room door north
+D 0  6520     1     1            Rec Room door east
+D 0  6520     2     1            Rec Room door south
+D 0  6520     3     1            Rec Room door west
+D 0  6520     5     1            Rec Room door down
+M 0  6501     5  6520            the dwarven guard
+O 0  6519   101  6503            an unfinished catapult
+M 0  6501     5  6503            the dwarven guard
+M 0  6520     1  6503            a dwarven engineer
+M 0  6503     1  6515            Fandagnir
+D 0  6501     2     1            Inside the gates of Kandelspire door south
+M 0  6508     9  6501            a small hungry dwarf
+M 0  6510    10  6501            the dwarven peon
+D 0  6525     3     1            Officers' Mess Hall door west
+M 0  6508     9  6525            a small hungry dwarf
+D 0  6521     2     1            Orc-slayers Barracks door south
+M 0  6531     1  6564            Modsogner
+O 0   500   101  6563            the banker
+M 0  6504     1  6563            Granitehead
+M 0  6530     1  6547            Kos
+D 0  6524     1     1            Mess Hall door east
+O 0  6516   100  6517            an old key
+M 0  6509     1  6517            the High Priest of Kandelspire
+D 0  6527     3     1            Captain's Quarters door west
+M 0  6512     1  6527            the Captain of the Watch
+E 1  6523     1    13                    waist a old worn belt
+E 1  6522     1     0                    light a lantern
+D 0  6532     1     1            Officers' Quarters door east
+M 0  6513     6  6532            a dwarven officer
+D 0  6528     1     2            Jail Cell door east
+M 0  6521     1  6528            an orcish prisoner
+E 1  6502     5     8                    feet a pair of old looking boots
+D 0  6500     0     2            Before the Gates of Kandelspire door north
+M 0  6500     2  6500            the dwarven gateguard
+M 0  6500     2  6500            the dwarven gateguard
+E 1  6521  9999    17                    held a strange key
+D 0  6559     3     1            Drill and Training Yard door west
+D 0  6522     1     1            Silvertree Barracks door east
+D 0  6522     2     1            Silvertree Barracks door south
+D 0  6523     3     1            Weapons Room door west
+D 0  6548     0     1            Bathroom door north
+D 0  6548     3     1            Bathroom door west
+D 0  6519     4     1            Northeast Tower of Kandelspire door up
+O 0  6517   101  6508            a granite fountain
+O 0  6518   101  6508            a flagpole with a waving ^wsilver^n and ^Ygold^n flag
+D 0  6508     0     1            Central Square of Kandelspire door north
+D 0  6550     1     1            Smelly Latrine door east
+D 0  6533     0     1            Bathroom door north
+D 0  6538     2     1            Before the Gates of Thorbardin door south
+D 0  6526     3     2            Stockade Room door west
+D 0  6526     4     1            Stockade Room door up
+D 0  6530     0     1            Second Floor door north
+D 0  6530     1     1            Second Floor door east
+D 0  6530     3     1            Second Floor door west
+D 0  6536     1     1            Office of the Captain of the Watch door east
+D 0  6536     2     1            Office of the Captain of the Watch door south
+D 0  6504     4     1            Southwest Tower of Kandelspire door up
+D 0  6518     4     1            Northwest Tower of Kandelspire door up
+D 0  6505     4     1            Southeast Tower of Kandelspire door up
+S
+#99999
+$~

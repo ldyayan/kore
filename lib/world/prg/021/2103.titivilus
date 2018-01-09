@@ -1,0 +1,123 @@
+>entry_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  endif
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  endif
+~
+>fight_prog 80~
+  mpcallmagic 'curse' $n
+~
+>speech_prog rules~
+     say The rules are as follows:
+     say You give me a token, I decide your fate.  Maybe I reward you, maybe you die.
+     say If I kill you, you must return here under your own power to retrieve your things.
+     say Though I will not attack you when you return.
+     say You may not play naked or with an alternate character.
+     say The prizes are as great as the risk.
+     say The choice is yours.
+~
+>give_prog quest flag token~
+   if rand(40)
+     mpsilent junk token
+     say Luck doesn't seem to smile on you today.
+     mpcallmagic 'curse' $n
+     mpcallmagic 'curse' $n
+     mpcallmagic 'curse' $n
+     kill $n
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 651
+     give all $n
+     drop all
+     break
+   endif
+   if rand(1)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 2103
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 21964
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 2113
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 2112
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 2114
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 18117
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 1211
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 12591
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     say Tymora's light surrounds this one.  You shall live .. for now.
+     mpsilent junk token
+     mpoload 2118
+     give all $n
+     drop all
+     break
+   endif
+     say You escape with your life, but little more.
+     mpsilent junk token
+     mpoload 2164
+     give all $n
+     drop all
+~
+|

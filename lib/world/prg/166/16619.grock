@@ -1,0 +1,58 @@
+>greet_prog 80~
+  if ispc($n)
+    emote blows a small smoke ring out of his nose and lowers his head to look at you.
+    smile
+  endif
+~ 
+>rand_prog 1~
+  emote blows a small smoke ring that floats to the roof and across the ceiling.
+~ 
+>rand_prog 2~
+  if inroom($r) == here
+    mpechoat $r Grock hiccups and a small ball of fire flies from his nose and right into YOU!
+    mpechoaround $r Grock hiccups and sends a small fire ball flying from his nose and straight into $R!!
+    mpdamage $r 6d6+150
+    apologize $r
+  endif
+~ 
+>fight_prog 5~
+  if inroom($r)
+    mpechoat $r Grock takes in a huge breath of air and blows a MIGHTY LARGE flame at you!
+    mpechoaround $r Grok takes in a huge breath of air and blows a RED and ^yYELLOW^N lick of fire at $R!!
+    mpechoat $r Your body is set on ^rFIRE^N and you run around madly trying to put it out!
+    mpechoaround $r $R runs around trying to put out the fire that is burning all of $L clothes.
+    mpdamage $r 3d4 + 90
+    mpforce $r flee
+  endif
+~ 
+>fight_prog 6~
+  if inroom($r) == here
+    mpechoaround $r Grock kicks $R so hard that $J flies out the top of the castle!
+    mpechoat $r Grock kicks you so hard that you fly out the top of the castle and land with a thump in the city of Kore!
+    mpdamage $r 1d1 + 350
+    mptransfer $r 3001
+    mpat 3001 mpechoaround $r $R falls through the ceiling and lands with a very loud THUMP on the ground!
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    emote starts break dancing trying to avoid your hits!
+    mpsilent riposte
+  endif
+~ 
+>death_prog 100~
+  mpgoto 16692
+  mpoload 16638
+  mpsilent remove all
+  mpsilent give all woman
+  mpsilent drop all
+  mpgoto 16668
+  mpecho Grock starts to fade away and disappears.
+  mpecho You here a chuckling that seems to be coming from somewhere nearby.
+  mpecho Your dream starts to fade away and a small tunnel of light appears before your eyes.
+  mpoload 16640
+  mpsilent drop tunnel
+  mpgoto cleaner
+~
+|
+

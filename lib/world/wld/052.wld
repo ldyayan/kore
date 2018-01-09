@@ -1,0 +1,1430 @@
+#5200
+The Main Gate Of Agarost~
+   Moving through the archway of a gigantic stone portal two granite
+gates stand open before you. A hollow gust of wind blows by you into
+the keep. From inside the noises of guttural speech are coming from
+the orcs that inhabit the city.
+~
+52 0 1
+D1
+~
+~
+0 0 5271
+D3
+You see devastation everywhere.  Houses lie in ruin and skeletons litter
+the streets.  You see strange beasts stalking the shadows.
+~
+~
+0 -1 5201
+S
+#5201
+The Road Through the Keep~
+   The main road through the keep is a wide cobblestone avenue.  There are
+buildings along either side that appear to be well constructed.  It would
+seem that the keep was taken over by the orcs long ago.
+~
+52 0 1
+D0
+It seems to be a dark alley.
+~
+~
+0 -1 5239
+D1
+The entrance to the city lies this way.
+~
+~
+0 -1 5200
+D2
+A ruined shack lies to the south.
+~
+~
+0 -1 5235
+D3
+Main Street lies this way.
+~
+~
+0 -1 5202
+S
+#5202
+The Road Through the Keep~
+   The main road through the keep is a wide cobblestone avenue.  There are
+buildings along either side that appear to be well constructed.  It would
+seem that the keep was taken over by the orcs long ago.  To the north is
+a small house.  To the south you see what you believe is the orc leaders
+palace.
+~
+52 0 1
+D0
+The remnants of a store lie this way.
+~
+~
+0 -1 5236
+D1
+~
+~
+0 -1 5201
+D2
+It looks like what used to be the main building in the city.
+~
+~
+0 -1 5232
+D3
+A withered garden path lies this way.
+~
+~
+0 -1 5203
+S
+#5203
+The Temple Garden~
+   A well-tended garden surrounds a massive temple in the center of the
+keep.  Obviously the orcs place a tremendous amount of importance on what
+lies inside.  The path here is kept neat and clean.  There isn't a bit of
+trash to be seen anywhere near the temple.
+~
+52 0 1
+D0
+~
+~
+0 0 5251
+D1
+This is the main street leading to the city's entrance.
+~
+~
+0 -1 5202
+D2
+~
+~
+0 0 5252
+D3
+Inside the temple, small patches of light shoot through each doorway as
+well as a few holes in the ceiling.
+~
+~
+0 -1 5250
+S
+#5204
+The Temple Garden~
+   A well-tended garden surrounds a massive temple in the center of the
+keep.  Obviously the orcs place a tremendous amount of importance on what
+lies inside.  The path here is kept neat and clean.  There isn't a bit of
+trash to be seen anywhere near the temple.
+~
+52 0 1
+D0
+~
+~
+0 0 5211
+D1
+~
+~
+0 0 5251
+D3
+The garden path continues around the building.
+~
+~
+0 -1 5254
+S
+#5205
+The Temple Garden~
+   A well-tended garden surrounds a massive temple in the center of the 
+keep.  Obviously the orcs place a tremendous amount of importance on what
+lies inside.  The path here is kept neat and clean.  There isn't a bit of
+trash to be seen anywhere near the temple.
+~
+52 0 1
+D0
+~
+~
+0 0 5254
+D2
+~
+~
+0 0 5253
+D3
+What looks like a market place lies this way.
+~
+~
+0 -1 5207
+S
+#5206
+The Temple Garden~
+   A well-tended garden surrounds a massive temple in the center of the
+keep.  Obviously the orcs place a tremendous amount of importance on what
+lies inside.  The path here is kept neat and clean.  There isn't a bit of
+trash to be seen anywhere near the temple.
+~
+52 0 1
+D1
+~
+~
+0 0 5252
+D2
+A small side street leads to the southern half of the city.
+~
+~
+0 -1 5212
+D3
+~
+~
+0 0 5253
+S
+#5207
+The Drill Field~
+  Within the confounds of a large drill field the orcs are being put
+through the rigors of training by large drill sergeants. There are
+obstacle courses and fighting dummies everywhere. The din of battle
+and the clouds of dust that lingers in air is almost unbearable.
+~
+52 0 1
+D0
+A small table has been toppled over, spilling fine jewellery and gems
+onto the ground.
+~
+~
+0 -1 5225
+D1
+A small garden path encircles a large domed temple in the center of the 
+city.
+~
+~
+0 -1 5205
+D2
+Rotted remains of fruits and vegetables lie strewn about.
+~
+~
+0 -1 5220
+D3
+The market place continues.
+~
+~
+0 -1 5208
+S
+#5208
+The Drill Field~
+  Within the confounds of a large drill field the orcs are being put
+through the rigors of training by large drill sergeants. There are
+obstacle courses and fighting dummies everywhere. The din of battle
+and the clouds of dust that lingers in air is almost unbearable.
+~
+52 0 1
+D0
+Tattered carpets and ruined bales of silk sit idly by a run down stand.
+~
+~
+0 -1 5222
+D1
+The center of the market lies this way.
+~
+~
+0 -1 5207
+D2
+From the massive stench, this must have been a meat and poultry stand.
+It lies totally bare.
+~
+~
+0 -1 5217
+S
+#5209
+The Road Around the Wall~
+   This small path leads east and west around the city wall or south
+to the temple.  You can see guards atop the walls and soldiers walking 
+to and from their duties.
+~
+52 0 1
+D1
+~
+~
+0 -1 5243
+D2
+~
+~
+0 -1 5210
+D3
+~
+~
+0 -1 5260
+S
+#5210
+A Dirt Path~
+  A small dirt path leads through the heart of the keep. The buildings
+are all constructed from stone. The city wall lies to the north, and a
+little farther to the south is the temple.
+~
+52 0 1
+D0
+~
+~
+0 -1 5209
+D1
+A small doorway leads into a partially collapsed house.
+~
+~
+0 -1 5244
+D2
+~
+~
+0 -1 5211
+D3
+A small clay dwelling sits here.
+~
+~
+0 -1 5226
+S
+#5211
+A Dirt Path~
+   The small path leads away from the temple, heading north past the
+former town hall, now in a sad state of disrepair.
+~
+52 0 1
+D0
+~
+~
+0 -1 5210
+D1
+An unusually tall dwelling stands looming over you.
+~
+~
+0 -1 5237
+D2
+A garden path circles around the temple.
+~
+~
+0 -1 5204
+D3
+Here lies a small stone house with a thatched roof.
+~
+~
+0 -1 5227
+S
+#5212
+A Dirt Path~
+   This small side street leads south away from the temple into the
+business section of town.  The destruction that leveled this city was not
+biased; these important looking buildings have been almost totally
+destroyed.  There is a hole in the wall of a very large structure to the
+east.
+~
+52 0 1
+D0
+A small garden path encircles the temple.
+~
+~
+0 -1 5206
+D1
+~
+~
+0 0 5279
+D2
+~
+~
+0 -1 5213
+D3
+Inside the building you see long pieces of metal, an oven, and some
+anvils.
+~
+~
+0 -1 5221
+S
+#5213
+A Dirt Path~
+   This small side street is lined with the remains of once great
+buildings.  To the west is a dark, foreboding structure while to the
+east lies the entrance to a small tavern.  The street continues north
+and south.
+~
+52 0 1
+D0
+~
+~
+0 -1 5212
+D1
+From the looks of it, this was once a two story abode.  The entire second
+floor has collapsed leaving a very little part of the bar still free
+from debris.
+~
+~
+0 -1 5230
+D2
+~
+~
+0 -1 5214
+D3
+This seems to be the only guild house in the entire city.  Its dark nature
+makes you wonder about its origins.
+~
+~
+0 -1 5219
+S
+#5214
+The Road Around the Wall~
+  At the end of a long street leading to the center of the city. A
+long dark alley runs to the west.
+~
+52 0 1
+D0
+~
+~
+0 -1 5213
+D1
+~
+~
+0 0 5277
+D2
+~
+~
+0 0 5229
+D3
+~
+~
+0 -1 5262
+S
+#5215
+Under the Southwest Watchtower~
+  Towering into the sky the watchtower was built to protect the city
+from invaders. A strong looking wooden ladder leads up into the tower.
+From above, the noise of a sentry pacing back and forth keeping his
+vigil echos throughout the tower.
+~
+52 0 1
+D0
+~
+~
+0 -1 5216
+D1
+~
+~
+0 -1 5218
+D4
+~
+~
+0 -1 5247
+S
+#5216
+A Back Alley~
+   The small path leads north along the inside of the city wall.  Just to
+the south is one of the city's four watchtowers.  From the east you hear
+the sound of orcs being drilled in combat.
+~
+52 0 1
+D0
+You see the back-side of the market place meat stand.
+~
+~
+0 -1 5268
+D2
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0 -1 5215
+S
+#5217
+The Drill Field~
+  Within the confounds of a large drill field the orcs are being put
+through the rigors of training by large drill sergeants. There are
+obstacle courses and fighting dummies everywhere. The din of battle
+and the clouds of dust that lingers in air is almost unbearable.
+~
+52 0 1
+D0
+The market place lies this way.
+~
+~
+0 -1 5208
+D1
+This is a cart full of rotted vegetables and fruits.
+~
+~
+0 -1 5220
+S
+#5218
+The Road Around the Wall~
+   This small path leads east and west around the city wall.  The guards
+above you walk back and forth along the wall, keeping watch.  To the west
+is one of the city's watchtowers.
+~
+52 0 1
+D1
+A small side street greets you.
+~
+~
+0 -1 5263
+D3
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0 -1 5215
+S
+#5219
+The Warriors Guild House~
+   You stand in the anteroom to the guild of the Thrungol clerics.  West you
+can hear strange mutterings and incantations.  To the east is the road that
+runs through the keep itself.
+~
+52 8 1
+D1
+A small side street runs past the building.
+~
+~
+0 -1 5213
+D3
+~
+~
+0 0 5256
+S
+#5220
+The Drill Field~
+  Within the confounds of a large drill field the orcs are being put
+through the rigors of training by large drill sergeants. There are
+obstacle courses and fighting dummies everywhere. The din of battle
+and the clouds of dust that lingers in air is almost unbearable.
+~
+52 0 1
+D0
+The market place is deserted.
+~
+~
+0 -1 5207
+D3
+A strong stench emanates from the meat stand next to you.
+~
+~
+0 -1 5217
+S
+#5221
+The Smithy~
+   In here you find tools and anvils used to make various weapons and 
+items.  The walls are black from the smoke that fills the air.  There
+are several incomplete or broken weapons lying around.  All are of 
+questionable quality at best.
+~
+52 8 1
+D1
+A small side street runs past the building.
+~
+~
+0 -1 5212
+S
+#5222
+The Drill Field~
+  Within the confounds of a large drill field the orcs are being put
+through the rigors of training by large drill sergeants. There are
+obstacle courses and fighting dummies everywhere. The din of battle
+and the clouds of dust that lingers in air is almost unbearable.
+~
+52 0 1
+D1
+A fine jewellery stand lies in ruin next to you.
+~
+~
+0 -1 5225
+D2
+The market place is deserted.
+~
+~
+0 -1 5208
+S
+#5223
+The Road Around the Wall~
+   The small path leads north and south along the inside of the city wall.
+Not much further to the north is the northwest watchtower.  From the drill
+field to the east you hear the sergeants barking orders at the troops.
+~
+52 0 1
+D0
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0 -1 5224
+D2
+~
+~
+0 -1 5264
+S
+#5224
+Under The Watchtower~
+  Towering into the sky the watchtower was built to protect the city
+from invaders. From what is left of the tower it failed to server its
+purpose.
+~
+52 0 1
+D1
+~
+~
+0 -1 5228
+D2
+~
+~
+0 -1 5223
+D4
+Above you looms a tall watchtower.
+~
+~
+0 -1 5246
+S
+#5225
+The Drill Field~
+  Within the confounds of a large drill field the orcs are being put
+through the rigors of training by large drill sergeants. There are
+obstacle courses and fighting dummies everywhere. The din of battle
+and the clouds of dust that lingers in air is almost unbearable.
+~
+52 0 1
+D2
+The market place is deserted.
+~
+~
+0 -1 5207
+D3
+Next to you is a stand full of ruined clothes and rugs.
+~
+~
+0 -1 5222
+S
+#5226
+A Small Home~
+   This home is like all the others you've seen since you arrived here.  It
+is a simple one-room structure with a small fireplace.  The floor is dirt
+and the furniture is made of rough-cut wood.
+~
+52 8 1
+D1
+~
+~
+0 0 5210
+S
+#5227
+A Collapsed Stone Dwelling~
+   This small house has completely collapsed upon itself leaving piles
+of debris here and there.  A few rafters still stand with thatched straw
+hanging down and a hot wind gusts through the hollow dwelling.
+~
+52 0 1
+D1
+A small side street runs past the house.
+~
+~
+0 -1 5211
+S
+#5228
+The Road Around the Wall~
+   A narrow alley leads west to one of the city watchtowers and east to
+a small side street.
+~
+52 0 1
+D1
+~
+~
+0 -1 5261
+D3
+~
+~
+0 -1 5224
+S
+#5229
+An Abandoned Shop~
+   From the outside this place looks like an ordinary pile of rubble,
+but inside these cramped quarters you discover what used to be a shop
+filled with armor, weapons, and various other goods.  A small sign
+flutters in the wind.
+~
+52 8 1
+D0
+~
+~
+0 0 5214
+S
+#5230
+The Rusty Hinge~
+   Known around as one of the dirtiest bars in the lands, this place is filled
+with unscrupulous killers and thieves.  The bartender looks more than willing
+to order you up some firebreather though.
+~
+52 0 1
+D1
+~
+~
+0 0 5255
+D3
+A small side street runs past the tavern.
+~
+~
+0 -1 5213
+D4
+~
+~
+0 0 5249
+S
+#5231
+The Throne Room of the Thrungol Chieftain~
+   The room is dark and gloomy.  A large fire burns in the center of the
+room, providing heat and light that barely reaches the cold stone walls.
+The center of the room is dominated by a large oaken throne.  Next to the
+throne normally stand two well-trained wolves.
+~
+52 8 0
+D0
+The long hallway leads back to the main reception area of the city hall.
+~
+~
+0 -1 5232
+D1
+~
+~
+0 -1 5234
+S
+#5232
+The Chieftain's Hall~
+   This is the main reception area of Agarost's city hall.  The walls have
+been chipped away from orcs rough play and combat inside.  Seems the orcish
+judicial system believes might makes right.  Most cases brought before the
+chieftain are decided in combat held here in this hall.
+~
+52 8 0
+D0
+Main street runs past the city hall.
+~
+~
+0 -1 5202
+D1
+A hallway leads to the east wing of the city hall.
+~
+~
+0 -1 5233
+D2
+A hallway leads to the south wing of the city hall.
+~
+~
+0 -1 5231
+S
+#5233
+The Anteroom~
+   This small anteroom off of the chieftain's hall was once used by the dwarves
+to help special ceremonies such as weddings.  The floor is covered with dust
+and the windows filled with cobwebs.  Nothing of interest apparently takes place
+here now.
+~
+52 8 0
+D3
+~
+~
+0 -1 5232
+S
+#5234
+The Private Gardens And Courtyard Of Agarost~
+   This small garden was well-maintained when the dwarves inhabited Agarost. It
+has fallen into ruin and is choked and tangled with weeds under the care of its
+new owners.  Wild ivy climbs the elaborate stone walls and grass and mosses
+cover most of the ground.
+~
+52 8 0
+D3
+~
+~
+0 -1 5231
+S
+#5235
+A Small Barracks~
+   This small barracks is like so many in the keep.  There are a few small
+rough-hewn beds along the walls.  A card table sits in the middle of the 
+room.  There are no windows to look out of and only the one exit to the 
+north.
+~
+52 8 1
+D0
+Main street runs by this building.
+~
+~
+0 -1 5201
+S
+#5236
+A Small Home~
+  Upon entering a small one-room home the dirt and dust blows into the
+air. There is a fireplace against the east wall with some foul-smelling
+brew bubbling in a pot. The floor is covered with dirt and dust.
+~
+52 8 1
+D2
+~
+~
+0 -1 5202
+S
+#5237
+The Town Hall~
+  Within the center of a large auditorium there are rows upon rows of
+wooden benches. Most likely for spectators, or perhaps for soldiers
+during briefings. The auditorium appears also to serve as a court and
+gathering center or where less formal affairs of the city take place.
+~
+52 8 1
+D1
+~
+~
+0 -1 5238
+D3
+A small side street winds past the dwelling.
+~
+~
+0 -1 5211
+D4
+The stairs and even the entire second floor itself looks very unsafe
+for travel.  Gusts of wind make them creak and shudder.
+~
+~
+0 -1 5245
+S
+#5238
+The War Room~
+   This office is small and dirty.  There are weapons hanging along the 
+walls and the Thrungol symbol of the skull is prominently displayed on
+the door as you enter.  This is apparently where the orcs battle plans
+are made.
+~
+52 24 1
+D3
+~
+~
+0 -1 5237
+S
+#5239
+The Road Around the Wall~
+   A shadowy alley leads north towards the city wall.  You can go south to the
+main gate.  From somewhere in the distance you hear an orc sergeant barking
+orders at his troops.
+~
+52 0 1
+D0
+~
+~
+0 -1 5269
+D2
+Main street runs past here.
+~
+~
+0 -1 5201
+S
+#5240
+The Road Around the Wall~
+   A shadowy alley leads you north to the city wall.  You can see a watch
+tower just ahead.  Farther to the south you can see the main road and the 
+city gate.
+~
+52 0 1
+D0
+A tall watchtower stands a silent vigil over the city.
+~
+~
+0 -1 5241
+D2
+~
+~
+0 -1 5269
+S
+#5241
+Under A Watchtower~
+  Towering into the sky the watchtower was built to protect the city
+from invaders. A strong looking wooden ladder leads up into the tower.
+From above, the noise of a sentry pacing back and forth keeping his
+vigil echos throughout the tower.
+~
+52 0 1
+D2
+~
+~
+0 -1 5240
+D3
+~
+~
+0 -1 5270
+D4
+Winds howl high above your head in the tower above.  You hear the screams
+of tens of howling lamias above you!
+~
+~
+0 -1 5248
+S
+#5242
+A Small Barracks~
+   This is a small barracks.  Probably the sentries sleep here when they
+are off duty and not out carrousing.  There are simple wooden beds along
+each wall, and a small fireplace for heating and cooking located in the
+center of the room.
+~
+52 8 1
+D0
+~
+~
+0 -1 5270
+S
+#5243
+The Road Around the Wall~
+   A shadowy alley leads west to a small path or east to the north-east
+watchtower.  Directly to the south of you is a small guard barracks.
+~
+52 0 1
+D1
+A watchtower stands a silent vigil over the city.
+~
+~
+0 -1 5270
+D3
+A side street runs by here.
+~
+~
+0 -1 5209
+S
+#5244
+A Small Home~
+   This home is like all the others you've seen since you arrived here.  It
+is a simple one-room structure with a small fireplace.  The floor is dirt
+and the furniture is made of rough-cut wood.
+~
+52 8 1
+D3
+A small side street runs past the house.
+~
+~
+0 -1 5210
+S
+#5245
+The Hall Tower~
+   At the top of the tower in the town hall you can see the entire keep
+and surrounding contryside. From here the keep looks almost impenetrable
+The guards walking the walls never turn their eyes from the surrounding
+fields and every tower is manned.
+~
+52 8 1
+D5
+~
+~
+0 0 5237
+S
+#5246
+The North-West Watchtower~
+  On the top of one of the cities watchtowers. The view is magnificent
+from here, you can see all the way to the western mountains. No wonder
+this place stood for so long.
+~
+52 8 1
+D5
+~
+~
+0 0 5224
+S
+#5247
+The South-West Watchtower~
+  On the top of one of the cities watchtowers. The view is magnificent
+from here, you can see all the way to the western mountains. To the
+south the forest stretches away to the horizon. No wonder this keep
+has stood for so long.
+~
+52 0 1
+D5
+The city lies below.
+~
+~
+0 -1 5215
+S
+#5248
+The North-East Watchtower~
+  On top of one of the cities watchtowers you have the vantage point of
+seeing for miles around. You wonder how the dwarves who built the keep
+were ever taken by surprise.
+~
+52 0 1
+D5
+The city lies below... far, far below.
+~
+~
+0 -1 5241
+S
+#5249
+A Cramped Bunkhouse~
+   A small room is filled with sleeping orcs. There is a foul smell,
+apparently coming from the patrons. There is a dim light in the room
+that illuminates a small path through the sleeping bodies.
+~
+52 24 0
+D5
+~
+~
+0 0 5230
+S
+#5250
+The Temple Of Agarost~
+   The temple of Agarost is a tribute to the mighty orc Thrungol.  Orc
+warriors from the surrounding hills come here to worship his likeness before
+enterring battle.  It is said that to drink from this temple would ensure
+any orc bravery and might on the battlefield.
+~
+52 28 1
+D1
+~
+~
+0 0 5203
+S
+#5251
+The Temple Garden~
+   A well-tended garden surrounds a massive temple in the center of the
+keep.  Obviously the orcs place a tremendous amount of importance on what
+lies inside.  The path here is kept neat and clean.  There isn't a bit of
+trash to be seen anywhere near the temple.
+~
+52 0 1
+D2
+Inside the temple, small patches of light shoot through each doorway as
+well as a few holes in the ceiling.
+~
+~
+0 -1 5203
+D3
+The garden path continues around the building.
+~
+~
+0 -1 5204
+S
+#5252
+The Temple Garden~
+   A well-tended garden surrounds a massive temple in the center of the
+keep.  Obviously the orcs place a tremendous amount of importance on what
+lies inside.  The path here is kept neat and clean.  There isn't a bit of
+trash to be seen anywhere near the temple.
+~
+52 0 1
+D0
+~
+~
+0 0 5203
+D3
+The garden path continues around the building.
+~
+~
+0 -1 5206
+S
+#5253
+The Temple Garden~
+   A well-tended garden surrounds a massive temple in the center of the
+keep.  Obviously the orcs place a tremendous amount of importance on what
+lies inside.  The path here is kept neat and clean.  There isn't a bit of
+trash to be seen anywhere near the temple.
+~
+52 0 1
+D0
+~
+~
+0 0 5205
+D1
+~
+~
+0 0 5206
+S
+#5254
+The Temple Garden~
+   A well-tended garden surrounds a massive temple in the center of the
+keep.  Obviously the orcs place a tremendous amount of importance on what
+lies inside.  The path here is kept neat and clean.  There isn't a bit of
+trash to be seen anywhere near the temple.
+~
+52 0 1
+D1
+~
+~
+0 0 5204
+D2
+Inside the temple, small patches of light shoot through each doorway as
+well as a few holes in the ceiling.
+~
+~
+0 -1 5205
+S
+#5255
+The Dining Hall~
+   The room is dimly lit (possibly to keep you from seeing the food?) and there
+are long tables everywhere.  Small animals hide under the tables stealing food
+bits offered by diners.  
+~
+52 0 0
+D3
+~
+~
+0 0 5230
+S
+#5256
+The Guild of Clerics~
+   This is the room in which the clerics of Thrungol make sacrafices to their
+deity Morgoth.  There is a small cauldron containing a thick red substance
+you assume is blood in the center of the room on a raised dais.  There are
+various sacraficial instruments lying around, and a small fire in the corner.
+~
+52 8 0
+D1
+~
+~
+0 0 5219
+S
+#5257
+An Underground Dwelling~
+  Entering a dark room the ceiling is low and there are cloth bags lying
+around. There is a large rug on the floor that is worn and frayed on the
+endges. On one wall is a symbol strangely similar to the one you've seen
+the Thrungol soldiers wearing, but there is a dagger thrust through the
+skull and blood dripping from the table. The only obvious exit is back up.
+~
+52 0 0
+D4
+~
+~
+0 0 5268
+D5
+~
+rug~
+1 0 5258
+S
+#5258
+The Den of Thieves~
+   This is the lair of the Thrungol assassins.  They are hired by the chieftain
+when their skills in slaying are required.  While they are a part of the forces
+of the Thrungol army, they are left primarily to administrate themselves.  One
+of their favorite pastimes is to make raids into Kore and surrounding villages
+killing and looting.
+~
+52 1 0
+D0
+~
+~
+0 0 5259
+D4
+~
+rug~
+1 0 5257
+S
+#5259
+Assasin Training Chamber~
+   This is where the Thrungols train their assassins.  They are taught not only
+to steal, but to stalk and endure hunger and pain.  They are known to be some
+of the hardiest killers in the lands, and most people would rather face Tiamat
+then a ack of Thrungol assassins in a dark place.
+~
+52 0 0
+D2
+~
+~
+0 0 5258
+S
+#5260
+The Road Around the Wall~
+   This small path leads east and west around the city wall or south
+to the temple.  You can see guards atop the walls and soldiers walking 
+to and from their duties.
+~
+52 0 1
+D1
+~
+~
+0 -1 5209
+D3
+~
+~
+0 -1 5261
+S
+#5261
+The Road Around the Wall~
+   This small path leads east and west around the city wall or south
+to the temple.  You can see guards atop the walls and soldiers walking 
+to and from their duties.
+~
+52 0 1
+D1
+~
+~
+0 -1 5260
+D3
+~
+~
+0 -1 5228
+S
+#5262
+The Road Around the Wall~
+   This small path leads east and west around the city wall.  To the east
+is a dirt path leading north to the temple.  The path continues on further
+around the wall to the west.
+~
+52 0 1
+D1
+~
+~
+0 -1 5214
+D3
+~
+~
+0 -1 5263
+S
+#5263
+The Road Around the Wall~
+   This small path leads east and west around the city wall.  The guards
+above you walk back and forth along the wall, keeping watch.  A ways to the
+east is the path leading north to the temple.
+~
+52 0 1
+D1
+~
+~
+0 -1 5262
+D3
+~
+~
+0 -1 5218
+S
+#5264
+The Road Around the Wall~
+   The small path leads north and south along the inside of the city wall.
+Not much further to the north is the northwest watchtower.  From the drill
+field to the east you hear the sergeants barking orders at the troops.
+~
+52 0 1
+D0
+~
+~
+0 0 5223
+D2
+~
+~
+0 0 5265
+S
+#5265
+The Road Around the Wall~
+   This small path leads north and south around the city wall.  Atop the 
+walls a sentry calls out to you, but doesn't wait for a response.  Here
+and there are piles of bones lying next to the wall.  Either remnants of
+some failed siege or some sort of sacrafice.
+~
+52 0 1
+D0
+~
+~
+0 0 5264
+D2
+~
+~
+0 0 5266
+S
+#5266
+The Road Around the Wall~
+   The small path leads north and south along the inside of the city wall.
+Not much further to the south is the southwest watchtower.  From the drill
+field to the east you hear the sergeants barking orders at the troops.
+~
+52 0 1
+D0
+~
+~
+0 0 5265
+D2
+~
+~
+0 0 5267
+S
+#5267
+The Road Around the Wall~
+   The small path leads north and south along the inside of the city wall.
+Not much further to the south is the southwest watchtower.  From the drill
+field to the east you hear the sergeants barking orders at the troops.
+~
+52 0 1
+D0
+~
+~
+0 0 5266
+D2
+~
+~
+0 0 5268
+S
+#5268
+The Road Around the Wall~
+   The small path leads north along the inside of the city wall.  Just to
+the south is one of the city's four watchtowers.  From the east you hear
+the sound of orcs being drilled in combat.
+~
+52 0 1
+D0
+~
+~
+0 0 5267
+D2
+~
+~
+0 0 5216
+D5
+~
+~
+0 0 5257
+S
+#5269
+The Road Around the Wall~
+   A shadowy alley leads north towards the city wall.  You can go south to the
+main gate.  From somewhere in the distance you hear an orc sergeant barking
+orders at his troops.
+~
+52 0 1
+D0
+~
+~
+0 0 5240
+D2
+~
+~
+0 0 5239
+S
+#5270
+The Road Around the Wall~
+   This small path leads east and west around the city wall or south
+to the temple.  You can see guards atop the walls and soldiers walking 
+to and from their duties.
+~
+52 0 1
+D1
+~
+~
+0 0 5241
+D2
+~
+~
+0 0 5242
+D3
+~
+~
+0 0 5243
+S
+#5271
+Winding Road through the Mountains~
+   A winding road twists its way into the mountains.  It seems not
+so much as a road, as a path beaten down by heavy feet.
+~
+52 0 5
+D1
+~
+~
+0 0 5272
+D3
+~
+~
+0 0 5200
+S
+#5272
+Winding Road through the Mountains~
+   A winding road twists its way into the mountains.  It seems not
+so much as a road, as a path beaten down by heavy feet.
+~
+52 0 0
+D2
+~
+~
+0 0 5273
+D3
+~
+~
+0 0 5271
+S
+#5273
+Winding Road through the Mountains~
+   A winding road twists its way into the mountains.  It seems not
+so much as a road, as a path beaten down by heavy feet.
+~
+52 0 5
+D0
+~
+~
+0 0 5272
+D1
+~
+~
+0 0 5274
+S
+#5274
+Winding Road through the Mountains~
+   A winding road twists its way into the mountains.  It seems not
+so much as a road, as a path beaten down by heavy feet.
+~
+52 0 5
+D2
+~
+~
+0 0 5275
+D3
+~
+~
+0 0 5273
+S
+#5275
+Winding Road through the Mountains~
+   A winding road twists its way into the mountains.  It seems not
+so much as a road, as a path beaten down by heavy feet.
+~
+52 0 5
+D0
+~
+~
+0 0 5274
+D2
+~
+~
+0 0 5276
+S
+#5276
+Winding Road through the Mountains~
+   A winding road twists its way into the mountains.  It seems not
+so much as a road, as a path beaten down by heavy feet.
+~
+52 0 5
+D0
+~
+~
+0 0 5275
+D2
+~
+~
+0 0 12029
+S
+#5277
+Gadush's Supplies~
+  Rows and rows of shelves crammed with multilated texts line the
+walls of Gadush's Supplies. The texts are of a variety of subjects
+dealing with pleasant topics such as animal sacrifice, cannibalism
+and demonic summonings. Most have been rendered quite illegible by
+the numerous stains that have been inflicted upon them.
+~
+52 152 0
+D3
+~
+~
+0 0 5214
+S
+#5278
+Gadush's Storage~
+You are in an unfinished room.
+~
+52 394240 0
+S
+#5279
+Rinak's Smelly Fish~
+  A aroma stings your sensitive nostrils as you enter Rinak's. A
+vile combination of burning animal fat and sulfurous chemicals fill
+the store. Smoke fills the store from a large stove in the back of
+the room. This place is known to have the best tasting fish in the
+realms. 
+~
+52 152 0
+D3
+  A dirt path.
+~
+~
+0 0 5212
+S
+#5280
+Rinak's Storage~
+You are in an unfinished room.
+~
+52 394248 0
+S
+#99999
+$~

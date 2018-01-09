@@ -1,0 +1,73 @@
+>time_prog 0~
+  say 0 hour -- 0 hour midnight..!
+~
+>time_prog 1~
+  say 1 hour
+~
+>time_prog 2~
+  say 2 hour
+~
+>time_prog 3~
+  say 3 hour
+~
+>time_prog 4~
+  say 4 hour
+~
+>time_prog 5~
+  say cock a doodle doo!
+~
+>time_prog 6~
+  say ah sunshine
+~
+>time_prog 7~
+  say 7 hour
+~
+>time_prog 8~
+  say 8 hour
+~
+>time_prog 9~
+  say 9 hour
+~
+>time_prog 10~
+  say 10 hour
+~
+>time_prog 11~
+  say 11 hour
+~
+>time_prog 12~
+  say NOON!!
+~
+>time_prog 13~
+  say 1 pm
+~
+>time_prog 14~
+  say 2 pm
+~
+>time_prog 15~
+  say 3 pm
+~
+>time_prog 16~
+  say 4 pm
+~
+>time_prog 17~
+  say 5 pm
+~
+>time_prog 18~
+  say 6 pm
+~
+>time_prog 19~
+  say 7 pm
+~
+>time_prog 20~
+  say 8 pm
+~
+>time_prog 21~
+  say 9 pm ... getting dark out
+~
+>time_prog 22~
+  say wow is it dark, 10 pm
+~
+>time_prog 23~
+  say 11 pm..
+~
+|

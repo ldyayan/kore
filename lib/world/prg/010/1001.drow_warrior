@@ -1,0 +1,57 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    say Goddess!
+    grovel zirnozz
+  else
+    if ismemory($n)
+      say Back for more, $R?!
+      mpkill $r
+    endif
+  endif
+~
+>fight_prog 14~
+  if inroom($r) == here
+    if race($r) == drow
+      speak You shall die for assaulting your own race, drow!
+      spit $r
+      mpremember $r
+    else
+      if rand(50)
+        say This isn't even a challenge...
+        mpechoaround $r $I suddenly whirls around and hooks a fierce kick into $R's face!
+        mpechoat $r With an amazing burst of speed, $I twirls around and delivers a kick right to your face!
+        mpdamage $r 11d9+20 
+      else
+        if isaffected($i, inspire)
+        else
+          mpecho A look of determination crosses $I's face.
+          mpcallmagic 'inspire' $i
+          howl
+      endif
+    endif
+  endif
+~
+>fight_prog 16~
+  if inroom($r) == here
+    if ismemory($r)
+      switch $r
+      tell $r You are nothing! Die, you dog!
+      bash $r
+    endif
+  endif
+~
+>command_prog flee~
+  if ismemory($n)
+    if rand(80)
+      say Hah! You shall not escape so quickly this time!
+      stun $n
+      mppose $n stun
+      mpstopcommand
+      mpforget $n
+    else
+      mpremember $n
+    endif
+  endif
+~
+|
+

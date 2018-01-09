@@ -1,0 +1,16 @@
+>command_prog scrounge~
+  if isfight($n)
+  else
+    if class($n) == thief
+      if rand(3)
+        mpechoat $n You scrounge up a grappling hook!
+        mpechoaround $n $N scrounges up a grappling hook!
+        mpoload 26416
+        mpsilent drop grapple
+        mpgoto cleaner
+        mpstopcommand
+      endif
+    endif
+  endif
+~
+|

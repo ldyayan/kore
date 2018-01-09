@@ -1,0 +1,45 @@
+>fight_prog 13~
+ if inroom($r) == here
+  mpechoat $r $I gives you a big kick, sending you flying!
+  mpechoaround $r $I gives $R a big kick, sending $K flying!
+  mpdamage $r 6d10+10
+  mppose $r sit
+  mptransfer $r 11072
+  mpat $r mpechoaround $r $R comes flying out of the stable, and lands with an audible THUMP!!
+ endif
+~
+>fight_prog 13~
+ if inroom($r) == here
+  mpechoat $r $I snorts disdainly as he bites you with his teeth!
+  mpechoaround $r $I snorts loudly as he takes a bite out of $R!!
+  mpdamage $r 5d12+5
+ endif
+~
+>fight_prog 13~
+ if inroom($r) == here
+  mpecho $I emits a strange sulfurous gas that gathers in a cloud!
+  mpechoat $r The cloud surrounds your head and you quickly collapse in a heap!!
+  mpechoaround $r The cloud drifts lazily over $R's head, causing $K to collapse!
+  mpcallmagic 'poison' $r
+  mpforce $r cough
+  mpforce $r cough
+  mppose $r sit
+  mpdamage $r 8d10+25
+ endif
+~
+>rand_prog 6~
+  mpat 11071 mpecho You hear what sounds like the faint wheeny of a horse coming from the trail...
+  south
+~
+>rand_prog 6~
+  mpasound You hear something moving from within the stable.
+  south
+~
+>command_prog open trapdoor~
+  mpechoat $n You attempt to open the trapdoor leading into the dungeon of the keep
+  mpechoat $n but a nightmare is currently standing on it!
+  mpechoaround $n $N struggles in vain to open the trapdoor. The weight of
+  mpechoaround $n the nightmare standing on it must be too great.
+  mpstopcommand
+~
+|

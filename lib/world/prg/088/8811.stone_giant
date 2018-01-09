@@ -1,0 +1,6 @@
+>fight_prog 20~
+  mpechoat $r $I throws a giant boulder at you!!
+  mpechoaround $r $I throws a giant boulder at $R!!
+  mpdamage $r 1d8+50
+~
+|

@@ -1,0 +1,22 @@
+>greet_prog 15~
+  if ispc($n)
+    if level($n) > 20
+      nod $n
+      say Hello there my friend! Have you ever thought of changing your wardrobe?
+    endif
+  endif
+~
+>rand_prog 2~
+  say Fine clothing for sale! Low prices, very high quality!
+~
+>rand_prog 2~
+  say Tunics, surcotes, and headwear! All at low low prices!
+~
+>rand_prog 2~
+  say Made from the finest cloth in all the realm!
+~
+>rand_prog 2~
+  say Clothing in festive colors!
+~
+|
+

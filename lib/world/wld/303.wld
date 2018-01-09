@@ -1,0 +1,292 @@
+#30300
+Intersection of Rolan and Torak street~
+You stand at the intersection of Rolan and Torak. The hussle of the street seems to denote some terrible danger. Perhaps it would be a good idea to explore more of the town?
+~
+303 262233 0
+D0
+Further up Rolan Street!
+~
+Rolan Street~
+0 0 30301
+D5
+~
+foutain portal door~
+2 30310 30311
+S
+#30301
+Rolan Street~
+You are in an unfinished room.
+~
+303 0 0
+D0
+~
+~
+0 0 30302
+D2
+South to the Intersection of Rolan and Torak!
+~
+~
+0 0 30300
+S
+#30302
+Rolan Street~
+You are in an unfinished room.
+~
+303 0 0
+D0
+~
+~
+0 0 30303
+D2
+~
+~
+0 0 30301
+S
+#30303
+Rolan Street~
+You are in an unfinished room.
+~
+303 0 0
+D0
+~
+~
+0 0 30304
+D2
+Southern Rolan Street!
+~
+~
+0 0 30302
+S
+#30304
+Rolan Street~
+You are in an unfinished room.
+~
+303 0 0
+D2
+~
+~
+0 0 30303
+D9
+~
+~
+0 0 30305
+S
+#30305
+Rolan Street~
+You are in an unfinished room.
+~
+303 0 0
+D5
+~
+~
+0 0 30306
+D7
+~
+~
+0 0 30304
+S
+#30306
+The lowwer end of Rolan Street~
+You are in an unfinished room.
+~
+303 0 0
+D4
+~
+~
+0 0 30305
+D7
+~
+~
+0 0 30307
+S
+#30307
+The lowwer end of Rolan Street~
+You are in an unfinished room.
+~
+303 0 0
+D0
+~
+~
+0 0 30308
+D9
+~
+~
+0 0 30306
+S
+#30308
+The Grand Atrium~
+You are in an unfinished room.
+~
+303 0 0
+D0
+~
+~
+0 0 30309
+D2
+~
+~
+0 0 30307
+S
+#30309
+The Grand Atrium~
+You are in an unfinished room.
+~
+303 0 0
+D0
+~
+~
+0 0 30310
+D2
+~
+~
+0 0 30308
+S
+#30310
+The Throne~
+You  stand in a Large open atrium with the centermost part being the throne room before you.  The atrium is at least 40 meters high and the walls apear to be smooth and polished.  The Throne before you stands ok in the room, even though the room is so lar
+~
+303 0 0
+D2
+~
+~
+0 0 30309
+S
+#30311
+The entrance to the hidden cavern.~
+You are in an unfinished room.
+~
+303 458877 0
+D4
+~
+door fountain portal~
+2 30309 30300
+D5
+~
+~
+0 0 30312
+S
+#30312
+Dark Cavern~
+You are in an unfinished room.
+~
+303 0 0
+D4
+~
+~
+0 0 30311
+D7
+~
+~
+0 0 30313
+S
+#30313
+Dark Cavern~
+You are in an unfinished room.
+~
+303 0 0
+D5
+~
+~
+0 0 30314
+D9
+~
+~
+0 0 30312
+S
+#30314
+Dark Cavern~
+You are in an unfinished room.
+~
+303 0 0
+D0
+~
+~
+0 0 30316
+D4
+~
+~
+0 0 30313
+D6
+~
+~
+0 0 30315
+S
+#30315
+Dark Cavern~
+You are in an unfinished room.
+~
+0 105 0
+D5
+~
+~
+0 0 30317
+D8
+~
+~
+0 0 30314
+S
+#30316
+Dark Cavern~
+You are standing in a long and dark cavern.  King Schnicktick kept the keys
+to this place to prevent people from coming down here, and to keep what ever
+it is down here.  You can't hear many sounds, other than the sound of your 
+boots and the sound of water dripping somewhere in the dark.  You proceed
+with caution.  This tunnel looks as if it hasn't been used in ages.  You eye 
+seem to have become adjusted to the lack of light, and you can see a faint 
+glow of something on the walls.  This is a not a place for the weak or coward-
+ly. I good idea would be to leave this place and to never return!
+~
+0 105 0
+D2
+~
+~
+0 0 30314
+S
+#30317
+Dark Cavern~
+You are in an unfinished room.
+~
+0 0 0
+D4
+~
+~
+0 0 30315
+D5
+~
+~
+0 0 30318
+S
+#30318
+Before a Large opening!~
+You desended down a wall of rubble that looks like someone tried to colapse
+the cave.  It doesn't appear that there is anyway back up that rubble you came
+down on. There is a strange endentation into the Cave wall just a bit north
+of here.  It might bare examining more closely.
+~
+0 253 0
+D2
+~
+~
+0 0 30319
+S
+#30319
+A pecuilar endentation of the wall~
+There appears to be a small crack in the wall. If you remeber correctly, you
+remeber hearing about how drow could turn into a mist and walk through such
+crackes as this.  Perhaps it would be good to leave now. Before some wandering party finds you here. ^RWAIT^N! To late, you see a mist ooze from the crack.
+A large heavily armored ^WDrow^N stands ready to kill you!
+~
+0 105 0
+D0
+~
+~
+0 0 30318
+S
+#30399
+a spacer room~
+You are in an unfinished room.
+~
+303 0 0
+S
+#99999
+$~

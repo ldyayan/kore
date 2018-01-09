@@ -1,0 +1,31 @@
+>fight_prog 10~
+  mpechoat $n $I hisses at you!
+  mpechoaround $n $I hisses at $N!
+~
+>fight_prog 10~
+  mpechoat $n $I gives you a nasty bite!
+  mpechoaround $n $I gives $N a nasty bite!
+  mpcallmagic 'poison' $n
+  mpdamage $n 2d8
+~
+>death_prog 100~
+  mppose $i stand
+  mpecho $I squeals horribly and crumbles to dust!
+  mpoload 5118
+  mpsilent remove all
+  mpsilent drop all.coins
+  mpsilent drop all
+  mpgoto cleaner
+  mppose $i dead
+~
+>rand_prog 100~
+  if isfight($i)
+  else
+    mpecho $I runs back into its niche and slowly becomes a statue again...
+    mpoload 5117
+    mpsilent remove all
+    mpsilent drop all
+    mpgoto cleaner
+  endif
+~
+|

@@ -1,0 +1,238 @@
+>greet_prog 100~
+if isimmort($n)
+  say immortal!
+  bow $n
+  break
+else
+  if isnpc($n)
+    break
+  endif
+  if isscript($i)
+    mpstopscript
+  else
+    if rand(15)
+       say I am feeling generous today, flee while you can.
+    else
+      if ispc($n)
+        if rand(50)
+          say Don't worry $n, this will only hurt a for a second...
+          if isaffected($n, stoneskin)
+	     mpsilent mpcallmagic 'dispel magic' $n
+	     backstab $n
+          else
+             backstab $n
+          endif
+        else
+          if rand(100)   
+            tell $n I can promise you this will be quick.
+            if isaffected($n, stoneskin)
+	       mpsilent mpcallmagic 'dispel magic' $n
+	       backstab $n
+	    else
+               backstab $n
+	    endif
+          endif
+        endif
+      endif
+    endif
+  endif
+endif
+~
+>fight_prog 4~
+  grin
+  say You have much to learn!
+~
+>fight_prog 6~
+  cackle
+  say Your attempts are both pathetic and futile!
+~
+>fight_prog 8~
+  say It is not I who shall kill you
+  say It is I who shall make you afraid to live!
+~
+>fight_prog 10~
+  say It is night and death has awakened...
+~
+>fight_prog 12~
+  mpcallmagic 'calm'
+  mpcallmagic 'calm'
+  mpecho Artemis steps back and fades into the shadows...
+  mpcallmagic 'calm'
+  mpsilent mpcallmagic 'restore' $i
+  mpcallmagic 'calm'
+  say Did you miss me?
+  backstab $n
+~
+>fight_prog 15~
+  trip $r
+  mpechoat $r As you fall to the ground, Artemis lunges at you and sticks you in the side!
+  mpechoaround $r As $R falls to the ground, Artemis lunges forward quickly and stabs $K!
+  mpdamage $r 20d30 + 50
+~
+>fight_prog 18~
+  mpechoat $r Artemis kicks some dirt into your eyes!
+  mpechoaround $r Artemis kicks some dirt into $R's eyes!
+  mpcallmagic 'blindness' $r
+  mpcallmagic 'blindness' $r
+  mpcallmagic 'blindness' $r
+~
+>entry_prog 15~
+if isimmort($n)
+  bow $n
+else
+ if isscript($i)
+ else
+  say You had better leave..... NOW!!
+ endif
+endif
+~
+>entry_prog 50~
+if isimmort($n)
+  bow $n
+else
+ if isscript($i)
+ mpstopscript
+ else
+  say Why, who do we have here?
+   if isaffected($n, stoneskin)
+      mpsilent mpcallmagic 'dispel magic' $n
+      backstab $n
+   else
+      backstab $n
+   endif
+ endif
+endif
+~
+>entry_prog 100~
+if isimmort($n)
+  bow $n
+else
+ if isscript($i)
+  mpstopscript
+ else
+  tag $n
+    if isaffected($n, stoneskin)
+      mpsilent mpcallmagic 'dispel magic' $n
+      backstab $n
+    else
+      backstab $n
+    endif
+ endif
+endif
+~
+>death_prog 100~
+  say Curse you $n!! Don't ever close your eyes again, for revenge will be mine!!
+  mppose $i stand
+  mpjunk test
+  mppose $i dead
+~
+>fight_prog 6~
+  mpecho $I waves $l arms and a pillar of flame and smoke rises before him violently.
+  mpecho When the smoke clears he is gone.
+  mpcallmagic 'calm'
+  mpcallmagic 'calm'
+  mptransfer $i nearby
+  mpcallmagic 'calm'
+~
+>rand_prog 6~
+  if isscript($i)
+  else
+    mpasound You hear a muffled laugh in the distance.
+    if hasobj($i) == 11010
+      remove test
+      wield life
+    endif
+  endif
+~
+>rand_prog 6~
+  if isscript($i)
+  else
+    mpasound Something brushes past your leg!
+    if hasobj($i) == 11010
+      remove test
+      wield life
+    endif
+  endif
+~
+>rand_prog 6~
+  if isscript($i)
+  else
+    mpasound You feel someone breathing on the back of your neck!
+    if hasobj($i) == 11010
+      remove test
+      wield life
+    endif
+  endif
+~
+>rand_prog 6~
+  if isscript($i)
+  else
+    mpasound Someone grins wickedly.
+    if hasobj($i) == 11010
+      remove test
+      wield life
+    endif
+  endif
+~
+>command_prog backstab~
+  sigh
+  mpechoat $n Never try to master the MASTER!
+  mpechoat $n $I grabs your measly weapon from your hands, quickly reverses your stroke and places it neatly into your heart!
+  mpechoaround $n With lightning speed, $I grabs $N's weapon and places it securely in $s chest!
+  mpdamage $n 1000d20 + 1000
+  mpstopcommand
+~
+>command_prog flee~
+  mpsilent cast 'calm' $n
+  say I will be right back!
+  mptrigger $n run-and-hide
+~
+>command_prog recite~
+ mpechoat $I deftly snatches your scroll out of your hands!
+ mpsilent mpforce $n give artemis scroll
+ mpstopcommand
+~
+>script_prog run-and-hide~
+  #
+@
+  if inroom($n) == here
+    say You can never run!
+    backstab $n
+    mpstopscript
+  else
+    mpecho Artemis studies the ground intently for some sign of $N.
+    mptrackto $n
+    mptrigger $n run-and-hide
+  endif
+~
+>kill_prog 10~
+ gossip You have lost your edge $N...
+~
+>kill_prog 12~
+ gossip Heh Heh Heh... Thanks for your company. It was refreshing.
+~
+>kill_prog 14~
+ gossip Oh the humanity!
+~
+>kill_prog 17~
+ gossip Go home and be a family man!
+~
+>kill_prog 20~
+ gossip Get up $N!  I'm not done with you yet!
+~
+>kill_prog 25~
+ gossip HAHA! Please come back again $N! I always enjoy watching you suffer!
+~
+>kill_prog 33~
+ gossip OOOOOO... That had to hurt.
+ laugh
+~
+>kill_prog 50~
+ gossip Chalk up another one...
+~
+>kill_prog 100~
+ gossip Geesh!  I was hoping this time I would have been challenged.
+ gossip Oh well... come back if you are man enough.
+~
+|
+

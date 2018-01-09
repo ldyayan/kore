@@ -1,0 +1,26 @@
+>give_prog chunk gold massive~
+ say My my my, that is a large one isn't it?
+ emote scrambles back to the vault to retrieve a sack of gold.
+ say Here is your gold sir.
+ mpsilent junk chunk
+ mpsilent mpoload 12339
+ give coins $n
+~
+>give_prog small gold brick~
+ say Ah good good.
+ emote scrounges through the drawers of his desk.
+ say Here is 400 gold coins for that small rock.
+ mpsilent junk small
+ mpsilent mpoload 12337
+ give coins $n
+~
+>give_prog large gold brick~
+ say That's a nice piece of gold.
+ emote walks to the vault and obtains a small bag of gold.
+ say Here is 1000 gold coins for your gold.
+ mpsilent junk large
+ mpsilent mpoload 12338
+ give coins $n
+~
+|
+ 

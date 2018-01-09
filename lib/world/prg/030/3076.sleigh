@@ -1,0 +1,113 @@
+>command_prog follow~
+  mpecho The elf perks up and cracks the reins for a fun ride to Mahn-tor!!
+  mpecho The elf giggles happily...!
+  mptrigger $n sleigh-ride-from-3707
+~
+>script_prog sleigh-ride-from-3707~
+  n
+  n
+  n
+  n
+  n
+  n
+  n
+  w
+  n
+  n
+  n
+  w
+  n
+  n
+  n
+  n
+  n
+  w
+  w
+  n
+  n
+  n
+  w
+  n
+  w
+  n
+  e
+  s
+  s
+  e
+  s
+  s
+  w
+  s
+  s
+  s
+  d
+  s
+  s
+  s
+  s
+  s
+  n
+  n
+  s
+  mpecho The elf says, 'Here we are!!'
+  mpecho The elf says, 'Just up the hill is the gates of Mahn-tor!!'
+  mpecho The elf says, 'I'll wait here a little bit, but not long!'
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  mpecho The elf says, 'Well I guess I'll go back now'
+  mpecho The elf cracks the reins, happy to be gone from here!!
+  n
+  s
+  s
+  n
+  n
+  n
+  n
+  n
+  u
+  n
+  n
+  n
+  e
+  n
+  n
+  w
+  n
+  n
+  w
+  s
+  e
+  s
+  e
+  s
+  s
+  s
+  e
+  e
+  s
+  s
+  s
+  s
+  s
+  e
+  s
+  s
+  s
+  e
+  s
+  s
+  s
+  s
+  s
+  s
+  s
+~
+|

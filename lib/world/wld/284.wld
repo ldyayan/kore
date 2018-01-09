@@ -1,0 +1,662 @@
+#28400
+Home of Thoyana~
+   A small stone tower, this is home to the village's ruler and
+only constable, Thoyana. Not much is in the squat stone home. It
+has one small picture hanging on the wall. Out the back window
+you can see a constabulary adjacent to the house. 
+~
+284 8 0
+D1
+~
+~
+0 0 28403
+S
+#28401
+Thoy and Dock St~
+ Dock St is definitely the busiest street in Elmwood. Merchants
+occasionally stop here to trade for the exquisite woodcarvings
+that Elmwood is known for. The sounds of a incoming ferry rings
+through out Elmwood.
+~
+284 0 1
+D1
+~
+~
+0 0 28437
+D2
+~
+~
+0 0 28402
+S
+#28402
+Thoy St.~
+  Thoy St. is the longest street in the town. It is also named
+after Thoyana. She being the Village's ruler and only constable.
+Along the street you will also find her home. The squat stone
+tower that it is. The Grove is located to the southern end and
+to the northern end you can find the docks.
+~
+284 0 1
+D0
+~
+~
+0 0 28401
+D2
+~
+~
+0 0 28403
+S
+#28403
+Thoy St.~
+You are in an unfinished room.
+~
+284 0 1
+D0
+~
+~
+0 0 28402
+D2
+~
+~
+0 0 28404
+D3
+~
+~
+0 0 28400
+S
+#28404
+Thoy St.~
+You are in an unfinished room.
+~
+284 0 1
+D0
+~
+~
+0 0 28403
+D2
+~
+~
+0 0 28405
+S
+#28405
+Thoy St.~
+You are in an unfinished room.
+~
+284 0 1
+D0
+~
+~
+0 0 28404
+D2
+~
+~
+0 0 28406
+S
+#28406
+Thoy St. and Moonway~
+You are in an unfinished room.
+~
+284 0 1
+D0
+~
+~
+0 0 28405
+D2
+~
+~
+0 0 28407
+S
+#28407
+Thoy St.~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28408
+Thoy St. and Grange Ave.~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28409
+Thoy St.~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28410
+Grove~
+You are in an unfinished room.
+~
+284 0 3
+S
+#28411
+Grange Ave.~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28412
+Grange Ave.~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28413
+Grange Ave.~
+It looks unfinished.
+~
+284 0 1
+S
+#28414
+Grange Ave.~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28415
+Grange Ave.~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28416
+The Grange~
+You are in an unfinished room.
+~
+284 8 0
+S
+#28417
+Grange Ave~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28418
+Grange Ave.~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28419
+Old Well~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28420
+Moonway~
+You are in an unfinished room.
+~
+284 0 1
+S
+#28422
+Moonway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28423
+Moonway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28424
+Moonway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28425
+Moonway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28426
+Moonway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28427
+Waterway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28428
+Waterway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28429
+Waterway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28430
+Waterway~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28431
+Waterway and Dock St.~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28432
+Still Waters~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28433
+Dock St.~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28434
+Dock St.~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28435
+Dock St.~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28436
+Dock St.~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28437
+Dock St.~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28438
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28439
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28440
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28441
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28442
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28443
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28444
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28445
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28446
+Pier~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28447
+Temple of the Half-Moon~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28448
+Primary Chambers~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28449
+Scribes Chamber~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28450
+Ruined Chamber~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28451
+Atrium~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28452
+Atrium~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28453
+Chamber of the Dawn~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28454
+Sunset Chambers~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28455
+Library~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28456
+Library~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28457
+Library~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28458
+Library~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28459
+Tunnel~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28460
+Tunnel~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28461
+Tunnel~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28462
+Tunnel~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28463
+Tunnel~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28464
+Tunnel~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28465
+Tunnel~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28466
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28467
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28468
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28469
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28470
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28471
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28472
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28473
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28474
+Park~
+You are in an unfinished room.
+~
+0 0 1
+S
+#28475
+A House~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28476
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28477
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28478
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28479
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28480
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28481
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28482
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28483
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28484
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28485
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28486
+River Lis~
+You are in an unfinished room.
+~
+0 0 6
+S
+#28487
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28488
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28489
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28490
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28491
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28492
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28493
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28494
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28495
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28496
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28497
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28498
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#28499
+Aboard a Ferry~
+You are in an unfinished room.
+~
+0 0 0
+S
+#99999
+$~

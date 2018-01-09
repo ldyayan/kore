@@ -1,0 +1,178 @@
+#87
+Wicca Island II~
+8799 40 2 35
+M 0  8751     4  8711            a kobold archer
+M 0  8751     4  8710            a kobold archer
+M 0  8704     8  8700            a kobold fisherman
+M 0  8704     8  8700            a kobold fisherman
+M 0  8701     1  8755            the Wicca Herbalist
+E 1  8701    10    16                    wield a sharp looking set of trimming shears
+E 1  8708    10     2                    right finger ring of wizardry
+D 0  8755     0     2            The Ceremonial Chamber of the Wicca door north
+D 0  8755     1     2            The Ceremonial Chamber of the Wicca door east
+D 0  8755     3     2            The Ceremonial Chamber of the Wicca door west
+D 0  8755     2     2            The Ceremonial Chamber of the Wicca door south
+M 0  8702     4  8754            the kobold lancer
+E 1  8713    99    17                    held a wooden key
+E 1  8702    10    16                    wield a ^Rruby^n-tipped lance
+M 0  8702     4  8754            the kobold lancer
+E 1  8702    10    16                    wield a ^Rruby^n-tipped lance
+D 0  8754     0     2            The waiting room door north
+M 0  8706     1  8718            the mind flayer warden
+E 1  8715    99    17                    held an obsidian key
+E 1  8705     3     5                    body a lavender kimono
+D 0  8718     9     1            In the northwest greenhouse door northwest
+M 0  8710     1  8736            the lich warden
+E 1  8715    99    17                    held an obsidian key
+E 1  8706     1     5                    body a dark purple kimono
+D 0  8736     6     1            In the northeast greenhouse door northeast
+M 0  8752     6  8774            the falling room effect
+M 0  8752     6  8779            the falling room effect
+M 0  8752     6  8778            the falling room effect
+M 0  8752     6  8777            the falling room effect
+M 0  8752     6  8776            the falling room effect
+M 0  8752     6  8775            the falling room effect
+M 0  8712     1  8745            the steam mephit warden
+E 1  8705    45     5                    body a lavender kimono
+E 1  8711    10    16                    wield a lead wiffle bat
+D 0  8745     7     1            In the southeast greenhouse door southeast
+M 0  8708     1  8727            the githyanki warden
+E 1  8705     3     5                    body a lavender kimono
+D 0  8727     8     1            In the southwest greenhouse door southwest
+O 0  8627   101  8757            the Wicca papers
+M 0  8714     2  8757            a kobold alchemist
+E 1  8714    99    17                    held a green glass key
+E 1  8707     9     9                    hands mercury-soaked gloves
+D 0  8757     1     2            The dry goods storage room door east
+M 0  8711     5  8739            the lich gardener
+E 1  8706     1     5                    body a dark purple kimono
+M 0  8711     5  8739            the lich gardener
+E 1  8706     1     5                    body a dark purple kimono
+M 0  8711     5  8739            the lich gardener
+E 1  8706     1     5                    body a dark purple kimono
+M 0  8711     5  8739            the lich gardener
+E 1  8706     1     5                    body a dark purple kimono
+M 0  8711     5  8739            the lich gardener
+E 1  8706     1     5                    body a dark purple kimono
+M 0  8732     1  8739            a strangleweed
+D 0  8739     8     1            The bamboo vines door southwest
+M 0  8713     5  8748            a steam mephit gardener
+E 1  8705    13     5                    body a lavender kimono
+M 0  8713     5  8748            a steam mephit gardener
+E 1  8705    13     5                    body a lavender kimono
+M 0  8713     5  8748            a steam mephit gardener
+E 1  8705    13     5                    body a lavender kimono
+E 1  8712     5     6                    head an iron-tipped boot
+M 0  8713     5  8748            a steam mephit gardener
+E 1  8705    13     5                    body a lavender kimono
+M 0  8713     5  8748            a steam mephit gardener
+E 1  8705    13     5                    body a lavender kimono
+E 1  8712    11     6                    head an iron-tipped boot
+M 0  8740     3  8748            a Moon Dog
+E 1  8710     8     3                    neck 1 a jeweled collar of amethysts
+M 0  8740     3  8748            a Moon Dog
+E 1  8710     8     3                    neck 1 a jeweled collar of amethysts
+M 0  8740     3  8748            a Moon Dog
+E 1  8710     8     3                    neck 1 a jeweled collar of amethysts
+D 0  8748     9     1            The garlic patch door northwest
+M 0  8714     2  8758            a kobold alchemist
+E 1  8714    99    17                    held a green glass key
+E 1  8707     9     9                    hands mercury-soaked gloves
+D 0  8758     3     2            The liquid goods storage room door west
+M 0  8720     3  8725            the foxwoman
+E 1  8709    10     3                    neck 1 a ^Wsilver^n crescent-moon shaped pendant
+M 0  8703     1  8704            a large turtle dragon
+E 1  8703    14     5                    body ^golive^n colored plate armor
+M 0  8748     8  8787            the ghost of a young mage 
+M 0  8748     8  8787            the ghost of a young mage 
+M 0  8748     8  8787            the ghost of a young mage 
+M 0  8748     8  8787            the ghost of a young mage 
+M 0  8748     8  8784            the ghost of a young mage 
+M 0  8748     8  8784            the ghost of a young mage 
+M 0  8748     8  8784            the ghost of a young mage 
+M 0  8748     8  8784            the ghost of a young mage 
+M 0  8746    10  8770            the bully cloud
+M 1  8746    10  8770            the bully cloud
+M 0  8746    10  8770            the bully cloud
+M 0  8746    10  8770            the bully cloud
+M 0  8746     3  8768            the bully cloud
+M 1  8746     3  8768            the bully cloud
+M 0  8746     3  8764            the bully cloud
+M 0  8746     3  8764            the bully cloud
+M 0  8746     3  8764            the bully cloud
+M 0  8741     2  8749            an owlbear
+M 0  8741     2  8749            an owlbear
+M 0  8739     2  8747            a large neo-otyugh
+M 0  8739     2  8747            a large neo-otyugh
+M 0  8737     4  8744            a faerie dragon
+M 0  8737     4  8744            a faerie dragon
+M 1  8737     4  8744            a faerie dragon
+M 0  8737     4  8744            a faerie dragon
+M 0  8735     1  8742            the deadly dun pudding
+M 0  8736     3  8742            a shambling mound
+M 0  8736     3  8742            a shambling mound
+M 0  8736     3  8742            a shambling mound
+M 0  8728     2  8734            a carnivorous squirrel
+M 0  8728     2  8734            a carnivorous squirrel
+M 0  8709     5  8730            a githyanki gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8709     5  8730            a githyanki gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8709     5  8730            a githyanki gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8709     5  8730            a githyanki gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8709     5  8730            a githyanki gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8724     1  8730            a behemoth
+D 0  8730     6     1            The olive patch door northeast
+M 0  8707     5  8721            a mind flayer gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8707     5  8721            a mind flayer gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8707     5  8721            a mind flayer gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8707     5  8721            a mind flayer gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8707     5  8721            a mind flayer gardener
+E 1  8705     3     5                    body a lavender kimono
+M 0  8717     1  8721            the kampfult
+D 0  8721     7     1            The carrot patch door southeast
+M 0  8705     3  8714            a mind flayer
+E 1  8705     1     5                    body a lavender kimono
+M 0  8705     3  8714            a mind flayer
+E 1  8705     1     5                    body a lavender kimono
+M 0  8705     3  8714            a mind flayer
+E 1  8705     1     5                    body a lavender kimono
+M 0  8745     6  8702            a swordfish
+M 0  8745     6  8702            a swordfish
+D 0  8797     4     2            In an elemental vortex door up
+D 0  8759     2     2            Palace courtyard door south
+D 0  8781     0     1            A misty path door north
+D 0  8782     4     1            A misty path door up
+D 0  8796     5     2            A dark rocky overhang door down
+M 0  8715     1  8719            the roper
+M 0  8716     1  8720            a water-logged harginn
+M 0  8718     1  8722            the nutmeg treant
+M 0  8719     1  8723            the sea hag
+M 0  8721     1  8726            the deadly mustard jelly
+M 0  8722     1  8728            the luck eater
+M 0  8724     1  8729            a behemoth
+M 0  8725     1  8731            a basidirond
+M 0  8726     1  8732            the hangman tree
+M 0  8727     1  8733            the gargantuan slug
+M 0  8729     1  8735            a drider
+M 0  8730     1  8737            the umber hulk
+M 0  8731     1  8738            a quivering horde of rot grubs
+M 0  8734     1  8740            the chestnut treant
+M 0  8733     1  8741            the troglodyte
+M 0  8738     1  8746            the cinnamon laurel treant
+M 0  8742     1  8750            the thought eater
+M 0  8743     1  8751            the orange myconid
+M 0  8744     1  8752            the derghodaemon
+M 0  8747     1  8789            the Ruby Statue
+M 0  8749     1  8798            the xeg-ya
+M 0  8750     1  8798            the xeg-yi
+S
+#99999
+$~

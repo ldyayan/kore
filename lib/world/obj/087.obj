@@ -1,0 +1,282 @@
+#8701
+shears trimming ~
+a sharp looking set of trimming shears~
+A sharp looking set of trimming shears is sitting here, abandoned.~
+The shears ferociously rake through your target!
+~
+5 33314 24577
+0 6 3 8
+2 3262 1
+E
+shears trimming~
+These shears made of mithril look fairly sharp despite obvious use..a slight stain of
+some sort of green liquid, probably poisonous, permeates the blades.
+~
+A
+9 5
+A
+12 36
+#8702
+lance ruby~
+a ^Rruby^n-tipped lance~
+A ^Rruby^n-tipped lance looks hot to the touch.~
+The lance scorches its opponent with its stab!
+~
+5 160738 8193
+0 7 3 14
+15 1 1
+E
+lance ruby~
+This lance has a finely crafted and very sharp oblong ruby gem attached to it.
+The ruby glows with a bright pink light...
+~
+A
+18 4
+A
+19 2
+#8703
+shell turtle plate armor olive~
+^golive^n colored plate armor~
+A gigantic turtle shell rests on the floor here.~
+~
+9 8454144 9
+10 0 0 0
+35 25000 1
+E
+shell turtle plate armor~
+The massive plates are an olive green in color, and the seams are of
+a somewhat lighter color.
+~
+A
+5 1
+A
+1 2
+A
+19 1
+#8704
+siege arbalest bow crossbow~
+a miniature siege-arbalest~
+A gigantic fire-arm sits on the ground here.~
+~
+6 8474624 32769
+5 2 6 12
+15 74000 1
+E
+siege arbalest bow crossbow~
+This bulky firearm seems extraordinarily light when you pick it up.
+However, it vibrates with an irritating hum when readied with a bolt...
+~
+A
+19 4
+A
+2 -1
+#8705
+kimono lavender~
+a lavender kimono~
+A lavender kimono bearing the crest of the nightshade is lying here.~
+~
+9 188544 9
+6 0 0 0
+6 2300 1
+E
+kimono lavender~
+Only one place where you can get silk this fine -- 
+Spiders belonging to dear Queen Lolth herself.
+~
+A
+12 12
+A
+9 2
+#8706
+kimono purple~
+a dark purple kimono~
+A dark purple kimono bearing the crest of the nightshade is lying here.~
+~
+9 53376 9
+8 0 0 0
+6 2000 1
+E
+kimono purple~
+Like the lavender kimonos, these must have been crafted by Lolth's spiders
+but they give off a peculiar un-light that hints at some special 
+enchantment...
+~
+A
+12 17
+A
+9 2
+#8707
+gloves mercury soaked ~
+mercury-soaked gloves~
+A bit of fabric soaked in a metallic substance rests here.~
+~
+11 245761 129
+0 0 0 0
+4 25000 1
+E
+gloves mercury soaked~
+Although clearly made of fabric and merely coated with mercury, they seem
+uncannily to look as though they are gauntlets of cast silver.
+~
+A
+9 3
+A
+12 27
+#8708
+ring amber wizardry~
+ring of wizardry~
+A small loop of amber sits in the dust.~
+~
+11 188418 3
+0 0 0 0
+2 8400 15
+E
+ring amber wizardry~
+The top of the ring is shaped into a carving of a frog with its
+tongue outstretched...
+~
+A
+9 3
+A
+12 31
+#8709
+crescent moon silver pendant~
+a ^Wsilver^n crescent-moon shaped pendant~
+A small sliver of ^Wsilver^n lies on the ground.~
+~
+11 57346 5
+0 0 0 0
+6 5000 1
+E
+crescent moon silver pendant~
+It has bits of cameo mica set into it that scintillate in the darkness...
+~
+A
+6 2
+A
+13 15
+#8710
+collar jeweled amethyst~
+a jeweled collar of amethysts~
+A small ring of gems sits in the dirt.~
+~
+11 20513 5
+0 0 0 0
+6 5000 1
+E
+collar jewels ring jeweled gems~
+The stones on this collar look exceedingly sharp, and seem to stand on their points
+without adequate fastening to the collar, which is of the finest polished silver.
+~
+A
+18 3
+A
+14 16
+A
+12 5
+#8711
+bat lead wiffle~
+a lead wiffle bat~
+A lead tube with little holes in it is sitting here.~
+~
+5 151552 8193
+0 7 5 10
+15 1 35
+E
+bat lead wiffle~
+The bat makes whistling noises through its holes as you swing it,
+almost as if it were cheerfully involved in its work.
+~
+A
+19 4
+A
+18 4
+#8712
+boot tipped iron~
+an iron-tipped boot~
+An iron-tipped boot sits on the ground here.~
+~
+9 129 17
+0 0 0 0
+13 2500 1
+E
+boot tipped iron~
+It must have been made for a giant, for it fits on your head quite nicely.
+*boggle*
+~
+A
+3 -3
+A
+19 1
+A
+13 11
+#8713
+key wooden mahogany~
+a wooden key~
+A key made of a dark finished wood is here.~
+A mahogany key is here.
+~
+18 0 1
+0 0 0 0
+0 0 0
+#8714
+key green glass~
+a green glass key~
+A green glass key is here.~
+A green glass key is here.
+~
+18 0 1
+0 0 0 0
+0 0 0
+E
+key green glass~
+It's made of a clear green material.
+~
+#8715
+key black obsidian~
+an obsidian key~
+An obsidian key is here.~
+An obsidian key is here.
+~
+18 0 1
+0 0 0 0
+0 0 0
+E
+key black obsidian~
+This key seems to be made of a dark volcanic rock.
+~
+#8716
+key plant nightshade~
+the nightshade key~
+A reeking clump of nightshade is here.~
+It's a rather unassuming clump of plant matter.
+~
+18 3 16385
+0 0 0 0
+0 0 0
+E
+key plant nightshade~
+It is lacquered with a special glistening finish, which seems to be
+the source of its odor, and you find yourself wanting to handle it 
+with a cloth or something, just in case its poisoned...
+~
+B
+2048
+#8717
+puck sundae fudge~
+a fudge sundae for puck!!~
+A delicious fudge sundae sits here!!~
+~
+25 0 1
+60 92 92 92
+0 0 0
+#8718
+bag junk junkbag~
+Junkbag for cursed items for dirtdobber~
+A nice looking bag is here.~
+~
+15 0 1
+100 0 -1 0
+0 0 0
+#99999
+$~

@@ -1,0 +1,53 @@
+#3200
+candycane~
+a candycane~
+A cheerful candycane has been left lying here. (sticky)~
+~
+19 0 1
+1 0 0 0
+0 1 0
+#3201
+christmas tree~
+a Christmas tree~
+    ^Y()^n
+         ^G/^g\^n
+        ^G/^ro^g \^n
+       ^G/  ^MO ^g\^n
+       ^G/ ^B.  ^g\^n
+      ^G/      ^g\^n
+      ^G/ ^W' ^Co  ^g\^n
+     ^G/     ^r*^Mo ^g\^n
+     ^G/^C* ^Mo ^W: ^B. ^g\^n
+    ^G/__________^g\^n
+         ^y||^w       ^W(glows)^w (ornaments) (^rb^gl^wi^Rn^Gk^Wi^gn^rg ^Yl^Ci^Yg^Ch^Yt^Cs^w)^n~
+  The fresh smell of ^gever^Ggreen^n overruns your senses as your
+eyes become transfixed on the ^mm^cyr^mi^ca^md^n of blinking ^Ylights^n
+and ^Rmul^Gti-^Rcol^Gored^n glass globes hanging from it's branches.
+You look expentantly under the tree for a gift with your
+name on it, but alas, ^RC^Wh^Gr^Wi^Rs^Wt^Gm^Wa^Rs^n is still a few days away.
+~
+15 16 0
+500 1 -1 0
+99999 1 0
+E
+tree christmas~
+  The fresh smell of ^gever^Ggreen^w overruns your senses as your
+eyes become transfixed on the ^mm^cy^mr^mi^ca^md^w of blinking ^Ylights^w
+and ^Rmul^Gti-^Rcol^Gored^w glass globes hanging from it's branches.
+You look expectantly under the ^gtree^w for a gift with your name
+on it, but alas, ^RC^Wh^Gr^Wi^Rs^Wt^Gm^Wa^Rs^w is still a few days away.
+~
+#3202
+parrot bird dead norwegian blue~
+a Norwegian Blue parrot~
+A beautiful blue parrot, as stiff as a board.~
+~
+13 0 1
+0 0 0 0
+1 0 0
+E
+dead bird parrot norwegian blue~
+  This bird is dead...  Trust me.
+~
+#99999
+$~

@@ -1,0 +1,17 @@
+>fight_prog 8~
+  if inroom($r) == here
+    cast 'ice storm' $r
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    mpechoat $r Your mind reels under the onslaught of a psionic blast!!
+    mpechoaround $r $R's mind reels in agony!!!
+    mpcallmagic 'feeblemind' $r
+    if rand(30) 
+      mpcallmagic 'scare' $r
+    endif
+    mpdamage $r 3d5+30
+  endif
+~
+|

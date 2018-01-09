@@ -1,0 +1,34 @@
+>rand_prog 5~
+  emote looks really lost!
+~
+>rand_prog 5~
+  emote weakly cries for help!
+  mpasound You hear faint far off cries for help!
+~
+>rand_prog 5~
+  emote looks like he's about to give up...
+~
+>fight_prog 100~
+  cackle
+  mpecho $I seems to melt into a new shape...
+  mpecho ...that of a hideous kapak draconian..!
+  mpmload 2022
+  mpforce 2022 kill $n
+  mpgoto cleaner
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I suddenly explodes and splashes you with acid!!
+  mpasound Your blood freezes as you hear someone's death cry.
+  mpasound ...followed by a wet explosion!!
+  mpdamage all 4d25+50
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpoload 2032
+  mpgoto cleaner
+~
+|

@@ -1,0 +1,678 @@
+#800
+shiny jade ring~
+a shiny ^Gjade^n ring~
+A shiny ^Gjade^n ring has been left here.~
+~
+11 17 3
+0 0 0 0
+1 30000 3000
+E
+jade ring~
+   A small green ring made of the finest jade in all the realms.
+~
+A
+5 2
+#801
+bow uskwood shortbow short uskbow~
+an uskwood shortbow~
+A yellowish shortbow has been left here.~
+~
+6 12304 32769
+1 1 6 11
+15 2000 1
+A
+18 2
+A
+19 1
+#802
+black hornwood crown~
+a black hornwood crown~
+A black wooden crown has been left here.~
+~
+9 4112 17
+3 0 0 0
+1 1000 5
+A
+1 1
+A
+18 1
+#803
+skins elven elf elves cloak leather skin~
+a leather cloak of elvenskin~
+A leather cloak has been left here.~
+~
+9 49680 1025
+2 0 0 0
+1 3 3
+A
+12 10
+A
+19 -1
+#804
+medallion medal Haefweisen captain golden~
+the captain's medallion of the Haefweisen~
+A golden medallion has been left here.~
+~
+9 12305 5
+3 0 0 0
+1 1000 1
+A
+13 10
+A
+12 -10
+#805
+shattered rod Nimh~
+a shattered rod of Nimh~
+A shattered rod has been left here.~
+~
+1 49168 16385
+0 0 -1 0
+5 1000 1
+A
+9 1
+A
+12 15
+#806
+dried acorns acorn~
+some dried acorns~
+A small pile of acorns has been left here.~
+~
+19 0 17
+3 0 0 0
+1 1 1
+#807
+chains chain rusty~
+some rusty chains~
+Some rusty chains has been left here.~
+~
+9 81 4097
+3 0 0 0
+15 10 1
+A
+18 1
+A
+14 -10
+#808
+whip flaming black~
+a black flaming whip~
+You see a black flaming whip here on the ground.~
+~
+5 673 8193
+0 5 4 2
+8 10000 1
+A
+18 3
+A
+19 3
+#810
+test item~
+a test item~
+A test item is here and had better fucking save~
+~
+5 0 1
+1 1 1 1
+0 0 0
+#811
+steel candle candlestick caster_25~
+a steel candlestick~
+A steel candlestick sits here in the dust glowing lightly.~
+~
+1 0 16385
+0 0 -1 0
+3 35000 0
+A
+9 3
+A
+12 15
+A
+3 1
+A
+4 1
+#812
+enchanted steel ring caster_25~
+an enchanted steel ring~
+An enchanted steel ring sits here in the dust.~
+~
+9 0 3
+6 0 0 0
+4 40000 0
+A
+13 10
+A
+12 15
+#813
+cloak chain mail chainmail spiked fighter_25~
+a cloak of spiked chainmail~
+A cloak of spiked chainmail sits here caught on some twigs.~
+~
+9 0 1025
+4 0 0 0
+8 45000 0
+A
+19 1
+#814
+rigid collar steel necklace amulet caster_25~
+a rigid steel necklace~
+A rigid steel necklace sits here in dust.~
+~
+9 0 5
+4 0 0 0
+4 55000 0
+A
+12 15
+A
+13 5
+#815
+steel helm pot caster_25~
+a steel helm~
+A steel helm sits here on the ground.~
+~
+9 0 17
+5 0 0 0
+5 30000 0
+A
+4 1
+A
+3 1
+A
+9 3
+#816
+pair steel legs leggings armor caster_25 fighter_25~
+a pair of steel legs~
+Some steel leg armor sits here in the dust.~
+~
+9 0 33
+10 0 0 0
+10 20000 4000
+A
+14 20
+A
+17 5
+#817
+steel gauntlets caster_25 fighter_25~
+a pair of steel gauntlets~
+A pair of steel gauntlets sits on the ground here.~
+~
+9 0 129
+5 0 0 0
+5 15000 0
+A
+19 1
+#818
+spiked steel sleeves caster_25 fighter_25~
+some spiked steel sleeves~
+A pair of spiked steel sleeves sit here ready to rust.~
+~
+9 0 257
+4 0 0 0
+5 15000 0
+A
+19 1
+A
+18 -1
+#819
+razor belt fighter_25~
+a razor belt~
+A razor belt sits in the dust.~
+~
+11 0 2049
+0 0 0 0
+3 40000 0
+A
+19 1
+A
+13 10
+#820
+steel bracelet enchanted caster_25~
+an enchanted steel bracelet~
+An enchanted steel bracelet sits in the middle of your path.~
+~
+11 0 4097
+0 0 0 0
+3 1000 0
+E
+steel bracelet enchanted~
+  A small bracelet crafted out of the finest steel.
+~
+A
+12 15
+A
+13 10
+#821
+poormans steel mace man poor caster_25 fighter_25~
+a poormans steel mace~
+A cheap steel mace sits here in the dust.~
+~
+5 0 8193
+2 5 6 7
+5 50000 0
+A
+18 3
+A
+19 3
+#822
+steel longbow bow caster_25 fighter_25~
+a steel longbow~
+A steel longbow sits here with arrows beside it.~
+~
+6 0 32769
+0 3 3 11
+5 75000 0
+A
+19 2
+A
+18 2
+#823
+steel claw talon caster_25 fighter_25~
+a steel claw~
+A steel claw sits here rusting slowly.~
+~
+5 0 24577
+0 3 3 8
+10 15000 0
+A
+18 2
+A
+19 2
+#824
+steel pick glowing fighter_25~
+a glowing steel pick~
+A glowing steel pick is stuck into the ground here.~
+~
+1 1 16385
+0 0 -1 0
+12 50000 0
+A
+18 2
+A
+19 2
+#825
+spiked steel bracelet fighter_25~
+a spiked steel bracelet~
+A spiked steel bracelet sits here in the dust.~
+~
+9 0 4097
+5 0 0 0
+2 35000 0
+A
+19 1
+A
+13 15
+#826
+spiked steel ring fighter_25~
+a spiked steel ring~
+A spiked steel ring sits in your path.~
+~
+9 0 3
+5 0 0 0
+1 45000 0
+A
+19 1
+A
+13 10
+#827
+clawed steel necklace fighter_25~
+a clawed steel necklace~
+The claws of the steel necklace are plunged into the ground.~
+~
+11 0 5
+0 0 0 0
+4 75000 0
+A
+19 1
+A
+13 15
+#828
+spiked steel helm fighter_25~
+a spiked steel helm~
+A spiked steel helm sits here waits from someones head.~
+~
+9 0 17
+5 0 0 0
+4 15000 0
+A
+5 1
+#829
+shining steel dagger fighter_25~
+a shining steel dagger~
+A shining steel dagger is here plunged into the ground.~
+~
+5 0 8193
+2 5 6 11
+5 75000 0
+A
+18 3
+A
+19 3
+#830
+steel girdle caster_25~
+a steel girdle~
+A steel girdle sits here in the dust.~
+~
+11 0 2049
+0 0 0 0
+5 35000 0
+A
+13 10
+A
+12 15
+#831
+steel tray holding caster_25 fighter_25~
+a steel tray of holding~
+A steel tray of holding sits here waiting for a new owner.~
+~
+15 0 18433
+200 0 -1 0
+0 0 0
+#832
+red cloak magical origin caster_25~
+a red cloak of magical origin~
+A red cloak sits here in your path.~
+~
+11 0 1025
+0 0 0 0
+3 75000 0
+A
+13 5
+A
+12 15
+#833
+enchanted steel shield caster_25~
+an enchanted steel shield~
+An enchanted shield glows lightly here.~
+~
+9 0 513
+10 0 0 0
+10 50000 0
+A
+12 20
+#834
+spiked steel shield fighter_25~
+a spiked steel shield~
+A spiked steel shield sits here in the dust.~
+~
+9 0 513
+10 0 0 0
+10 75000 0
+A
+19 1
+A
+13 5
+#835
+iron candlestick candle stick caster_1~
+an iron candlestick~
+An iron candlestick sits here in the dust.~
+~
+1 0 16385
+0 0 -1 0
+3 15000 0
+A
+12 15
+#836
+enchanted iron ring caster_1~
+an enchanted iron ring~
+An enchanted iron ring sits here in your path.~
+~
+9 0 3
+5 0 0 0
+3 15000 0
+A
+12 10
+#837
+cloak spiked mail fighter_1~
+a cloak of spiked mail~
+A cloak of spiked mail is sitting here.~
+~
+9 0 1025
+4 0 0 0
+3 15000 0
+A
+19 1
+#838
+rigid iron necklace caster_1~
+a rigid iron necklace~
+A rigid iron necklace sits here in the dust waiting for a new owner.~
+~
+9 0 5
+4 0 0 0
+3 15000 0
+A
+12 15
+#839
+iron helm caster_1~
+an iron helm~
+A mages iron helm sits here rusting.~
+~
+9 0 17
+4 0 0 0
+3 15000 0
+A
+3 1
+A
+4 1
+#840
+iron legs caster_1 fighter_1~
+a pair of iron legs~
+A pair of iron leg armor sits here.~
+~
+9 0 33
+5 0 0 0
+4 15000 0
+A
+14 5
+A
+17 5
+#841
+pair iron gauntlets caster_1 fighter_1~
+a pair of iron gauntlets~
+A pair of iron gauntlets sit here in the dust.~
+~
+9 0 129
+5 0 0 0
+4 15000 0
+#842
+pair poor iron sleeves caster_1 fighter_1~
+a pair of poor iron sleeves~
+A pair of poor iron sleeves sits in your path.~
+~
+9 0 257
+8 0 0 0
+4 15000 0
+#843
+iron girth fighter_1~
+an iron girth~
+An dented and beat iron girth sits here.~
+~
+9 0 2049
+5 0 0 0
+4 15000 0
+A
+13 5
+A
+18 1
+#844
+enchanted iron bracelet caster_1~
+an enchanted iron bracelet~
+An enchanted iron bracelet is starting to rust.~
+~
+9 0 4097
+5 0 0 0
+4 15000 0
+A
+12 10
+#845
+iron mace caster_1 fighter_1~
+an iron mace~
+An iron mace sits here against a tree.~
+~
+5 0 8193
+0 3 4 5
+4 15000 0
+A
+19 1
+A
+18 1
+#846
+iron longbow bow caster_1 fighter_1~
+an iron longbow~
+An iron longbow sits here ready for use.~
+~
+6 0 32769
+0 2 2 11
+4 15000 0
+A
+18 1
+A
+19 1
+#847
+iron claw caster_1 fighter_1~
+an iron claw~
+An iron claw is plunged into the ground here.~
+~
+5 0 24577
+0 2 2 8
+4 15000 0
+A
+18 1
+A
+19 1
+#848
+glowing iron pick fighter_1~
+a glowing iron pick~
+A glowing iron pick is plunged into the ground here.~
+~
+1 0 16385
+0 0 -1 0
+4 15000 0
+A
+19 1
+A
+18 1
+#849
+spiked iron bracelet fighter_1~
+a spiked iron bracelet~
+A spiked iron bracelet sits here.~
+~
+9 0 4097
+0 0 0 0
+4 15000 0
+A
+18 1
+A
+19 1
+#850
+spiked iron ring fighter_1~
+a spiked iron ring~
+A spiked iron ring sits here in the dust.~
+~
+9 0 3
+5 0 0 0
+4 15000 0
+A
+18 1
+A
+13 10
+#851
+clawed iron necklace fighter_1~
+a clawed iron necklace~
+A clawed iron necklace sits in your path.~
+~
+9 0 5
+4 0 0 0
+4 15000 0
+A
+13 10
+#852
+spiked iron helm fighter_1~
+a spiked iron helm~
+A spiked iron helm sits here waiting for a head to adopt.~
+~
+9 0 17
+5 0 0 0
+5 15000 0
+A
+5 1
+#853
+shining iron dagger fighter_1~
+a shining iron dagger~
+A shining iron dagger is plunged into the ground here.~
+~
+5 0 8193
+0 3 4 11
+4 15000 0
+A
+18 1
+A
+19 1
+#854
+iron girdle caster_1~
+an iron girdle~
+An iron girdle sits here unused.~
+~
+9 0 2049
+5 0 0 0
+4 15000 0
+A
+13 5
+A
+12 5
+#855
+blue cloak magical origin caster_1~
+a blue cloak of magical origin~
+A blue cloak sits here.~
+~
+11 0 1025
+0 0 0 0
+4 15000 0
+A
+12 10
+#856
+enchanted iron shield caster_1~
+an enchanted iron shield~
+An enchanted iron shield sits up against a tree here.~
+~
+9 0 513
+10 0 0 0
+4 15000 0
+#857
+spiked iron shield fighter_1~
+a spiked iron shield~
+A spiked iron shield sits here.~
+~
+9 0 513
+10 0 0 0
+4 15000 0
+A
+18 1
+A
+13 2
+#858
+iron tray holding caster_1 fighter_1~
+an iron tray of holding~
+An iron tray of holding sits here.~
+~
+15 0 18433
+150 0 -1 0
+4 15000 0
+#859
+steel breastplate plate~
+a spiked steel breastplate~
+A spiked steel breastplate sits here in the dust.~
+~
+9 0 9
+10 0 0 0
+10 20000 0
+A
+18 -1
+A
+19 1
+#860
+garbage bag~
+garbage bag~
+A garbage bag~
+~
+17 0 1
+25000 25000 13 0
+3 50 0
+#99999
+$~

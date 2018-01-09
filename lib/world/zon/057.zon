@@ -1,0 +1,133 @@
+#57
+Greza Ship~
+5799 30 1 32
+M 0  5704     1  5715            the Greza Captain
+E 1  5707     8     0                    light the compass 'windfinder'
+M 0  5700     1  5704            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+O 0  5701   101  5704            the tiller
+M 0  5700     2  5710            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700     3  5710            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700     4  5706            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700     5  5706            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700     6  5709            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700     7  5709            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700     8  5708            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700     9  5708            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    10  5705            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    11  5705            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    12  5701            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    13  5701            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    14  5703            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    15  5703            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5701     1  5726            the Greza Chef
+M 0  5702     1  5726            a Greza Officer
+E 1  5702     0    16                    wield an officer's sword
+M 0  5700    16  5725            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    17  5725            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5702     2  5717            a Greza Officer
+E 1  5702     0    16                    wield an officer's sword
+M 0  5702     3  5718            a Greza Officer
+E 1  5702     0    16                    wield an officer's sword
+M 0  5702     4  5720            a Greza Officer
+E 1  5702    10    16                    wield an officer's sword
+M 0  5703     1  5721            the Greza Warlock
+E 1  5706     0    12                    about Warlock's Cloak
+M 0  5700    18  5714            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    19  5712            the Greza Sailor
+M 0  5702     5  5702            a Greza Officer
+E 1  5702     0    16                    wield an officer's sword
+M 0  5700    20  5723            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    21  5711            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    22  5711            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    23  5707            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    24  5707            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5705     1  5737            the Greza Doctor
+E 1  5708     0    17                    held a glowing greza skull
+M 0  5706     1  5736            a sick Greza Sailor
+M 0  5706     2  5736            a sick Greza Sailor
+M 0  5706     3  5736            a sick Greza Sailor
+M 0  5706     4  5736            a sick Greza Sailor
+M 0  5700    25  5738            the Greza Sailor
+M 0  5700    26  5739            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5700    27  5742            the Greza Sailor
+M 0  5700    28  5744            the Greza Sailor
+E 1  5703     0     9                    hands a pair of tattered gloves
+E 1  5704     0     6                    head a tattered helmet
+E 1  5705     0     8                    feet a pair of tattered boots
+M 0  5702    29  5747            a Greza Officer
+E 1  5702     0    16                    wield an officer's sword
+S
+#99999
+$~

@@ -1,0 +1,45 @@
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      emote raises his hands to the heavens!
+      mpecho $I has called an ice storm from the heavens!
+      mpecho You are pounded by chunks of ice!
+      mpdamage all 100d3
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpecho $I whips his hand across your face!
+    mpecho A cold wind comes from nowhere and chills you to the bone!
+    mpdamage all 40d10
+    if rand(50)
+      mpecho The cold wind knocks you to the floor!
+      mppose all sit
+    endif
+  endif
+~
+>fight_prog 10~
+  if hitprcnt($i) < 20  
+    say Oh my, this is getting messy.
+    think
+    flee
+    flee
+    mpcallmagic 'invis' $i
+  endif
+~
+>command_prog cast~
+  if rand(33) 
+    emote gets a concerned look on his face.
+    mpechoat $n $I mutters a single word that botches your spell!
+    mpechoaround $n $I has somehow disrupted the spell of $N!
+    mpstopcommand
+  else
+    if rand(33)
+      say I'm sorry $N, I'll have none of that.
+      shake
+      mpstopcommand
+    endif
+  endif
+~
+|

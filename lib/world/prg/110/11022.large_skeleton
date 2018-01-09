@@ -1,0 +1,16 @@
+>fight_prog 15~
+  say The legends were true!  Feel my wrath!
+~
+>fight_prog 20~
+  mpecho $I eyeless sockets glow bright red as the room fills with fire!
+  mpecho OUCH! Why do these demon things always use fire!  OUCH!
+  mpdamage all 15d8+5
+~
+>death_prog 100~
+  mpecho $I says, 'HAH!  Watch this! No wait!'
+  mpecho $I says, 'Crap.   Not 667!  I hate being a bone rat!'
+  mpmload 11023
+  mpecho The shattered bones of the skeleton shrink down to reform a harmless bone rat.
+  mpgoto cleaner
+~
+|

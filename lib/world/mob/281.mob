@@ -1,0 +1,41 @@
+#28100
+city guard~
+a city guard~
+A guard patrols the city streets here.
+~
+  The guard looks to be your average fighter, armed with a mace and a
+metal breastplate.  He continously wanders about the area, checking for
+any mishaps and offering assistance.
+~
+6216 0 375 S
+16 10 5 2d2+450 2d3+5
+200 15000
+8 8 1
+#28101
+bird~
+a bird~
+A lone bird rests on the railing of the balcony.
+~
+  Its feathers are white speckled with spots of black, even moreso near
+the tips of its wings.  It is a small bird, no larger than the size of an
+average fist, and it sits patiently on the railing as it overlooks the
+cliffs.
+~
+10 0 0 S
+1 20 10 1d1+0 1d1+0
+0 1
+8 8 2 8
+#28102
+innkeep grindle~
+Grindle the Innkeep~
+Grindle, the old innkeep, sits behind a wooden counter here.
+~
+  He is dressed in simple attire, mostly tan and brown with a balding
+spot on his head.
+~
+10 40 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

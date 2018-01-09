@@ -1,0 +1,330 @@
+#4200
+small fish~
+a small fish~
+A small fish darts about in a silvery blur.
+~
+   You see a small fish that exists here in plentiful numbers.  Its body
+glistens silver as it darts about in the water almost too quickly to see.
+~
+3145736 64 0 S
+2 1 10 1d1+1 1d1+1
+0 20
+8 8 0
+#4201
+mallard duck~
+a mallard~
+A colorful mallard swims on the water.
+~
+   You see a colorful mallard swimming in a carefree fashion on the still
+water.  Occasionally it dips its head into the water, searching for fish, but
+usually it comes up empty, which doesn't seem to bother it one bit.
+~
+8 4194304 0 S
+4 1 9 1d1+1 1d1+1
+0 20
+8 8 0
+#4202
+unicorn~
+the Unicorn~
+The Unicorn stamps her cloven hooves, warning you to stay away.
+~
+   Trembling, you behold the sight of the Unicorn.  Physically, she might be
+mistaken for a small horse, but her dainty cloven hooves, her glowing white
+mane, and her pearlescant horn mark her as one of the nobler breed.  She
+exudes an aura of peace and security, but when you begin to pass her by, she
+stamps her hooves and lowers her head--so that her horn is now pointing toward
+you.  To enter the White Tower, you must defeat her, grievous as that thought
+may be.
+~
+174362 8458472 500 S
+32 0 -20 1d1+1 1d1+7
+0 20
+8 8 2
+#4203
+erasmus wizard mage~
+Erasmus the Curious~
+Erasmus the Curious stares into the darkness.
+~
+   You see an bearded and bespectacled gentleman wearing a gaudy robe found
+on clowns and wizards.  You immediately sense that this can be none other than
+the famous wizard Erasmus the Curious, especially when the name is neatly
+embroidered onto the front of the robe.  At this moment, Erasmus is sitting
+very still and staring intently into the blackness as if seeking hidden
+answers.  From the cobweb in his beard, he's been seeking for a while.
+~
+178376 200 0 S
+30 2 -30 1d1+1 1d1+7
+0 20
+8 8 1
+#4204
+beast~
+the beast~
+The beast growls menacingly and snaps its shark-like jaws.
+~
+   You see a creature born of your deepest nightmares.  It has the head of a
+lion, the body of a constrictor snake, out of which sprout the talons of an
+eagle and the tail of a scorpion.  It senses fresh meat nearby and whirls
+in an eyeblink, growling a challenge almost too low to hear.  Then it gathers
+itself and pounces upon you, opening its jaws far wider than is possible for a
+natural creature, revealing a triple bow of barbed teeth.
+~
+172094 66792 -1000 S
+34 -2 -20 1d1+1 1d1+9
+0 20
+8 8 0
+#4205
+first priestess~
+the First Priestess~
+The First Priestess stands motionless in deep meditation.
+~
+   You see the foremost of the priestesses, human guardians of Avalon.
+Deep in concentration, she draws the magical energy gathered by the Circle and
+channels it into the land.  For the duty of the priestesses is balancing of
+magic, both good and evil, to preserve the isle which the Goddess created.
+Without opening her eyes, she senses your presence, and she turns toward you,
+disapproval etched upon her face, her work momentarily forgotten.
+~
+172810 13480 0 S
+36 -1 -20 1d1+1 1d1+12
+0 20
+8 8 2
+#4206
+husband man herder farmer~
+a hard-working man~
+The husband of the farmhouse works on the field.
+~
+   You see a muscular man in his late thirties working on his land.  His
+craggy face is good natured and open, and he tips his wide-brimmed hat when
+he notices your scrutiny, then returns to his work.
+~
+4168 0 350 S
+15 1 6 1d1+1 1d1+1
+0 20
+8 8 1
+#4207
+wife woman cook farmwife farm~
+a farmwife~
+A farmwife cheerfully examines the cooking food.
+~
+   You see a woman who must be the matron of this farmhouse.  Despite her
+weathered face, you know she is no more than thirty-five.  She takes care
+of the chores around the house with obvious familiarity and skill.  She
+curtseys, a little awkwardly, and offers you her food with a smile of pride.
+~
+138 0 350 S
+10 1 8 1d1+1 1d1+1
+0 20
+8 8 2
+#4208
+child boy girl~
+a young child~
+A young child wanders about, helping with household chores.
+~
+   You see a young child wandering about the farmhouse.  He (or she--it is
+hard to tell) wanders about the garden,  chasing small animals or studying
+something with the utmost fascination, until a parent calls, causing a burst
+of giggling and running into the house.
+~
+72 0 350 S
+9 1 9 1d1+1 1d1+1
+0 20
+8 8 0
+#4209
+horse~
+a horse~
+A horse grazes docilely on some grass.
+~
+   You see a horse, slowing munching on some grass.  It is a big animal, and
+despite its docileness, you do not doubt that it will be a formidable enemy
+in a fight with those powerful legs and teeth.  It snorts at you, apparently
+not too impressed by your smell.
+~
+72 0 0 S
+14 1 8 1d1+1 1d1+1
+0 20
+8 8 0
+#4210
+cow bull~
+a cow~
+A cow moos at you while chewing on some regurgitated cud.
+~
+   You see a typical cow: large, spotted black and white, chewing on food ever
+so constantly.  It moos plaintively at you and then walks away slowly.  It was
+then that you detects an unpleasant odor and notices that said cow had dropped
+its "gift" on your brand new boots.  Yuck!
+~
+74 0 0 S
+12 1 8 1d1+1 1d1+1
+0 20
+8 8 0
+#4211
+woodchuck wood chuck~
+a woodchuck~
+A woodchuck pops out of its hole to peer around.
+~
+   You see a large, healthy, and happy-looking woodchuck.  It wiggles its
+nose at you, stands up on its hind legs for a few seconds, then slides out
+of its home to go... chuck some wood.
+~
+72 0 0 S
+8 5 8 1d1+1 1d1+1
+0 20
+8 8 0
+#4212
+hawk bird prey sparrow sparrowhawk predator~
+a sparrowhawk~
+A sparrowhawk scans the ground for suitable prey.
+~
+   You see a sparrowhawk resting on a tree branch, preening its speckled
+feathers.  It scans about briefly...  and is suddenly flying in a
+brown blur motion.  Moments later, it returns, still swallowing the remains of
+some unlucky prey.
+~
+72 4194304 0 S
+10 3 8 1d1+1 1d1+1
+0 20
+8 8 0
+#4213
+priestess gray grey~
+a priestess in gray~
+A priestess in gray tends to the land.
+~
+   You see a priestess in gray, a follower of the natural way of Avalon.
+Dressed in featureless gray clothing, she maintains the balance of life and
+death of the land.  She moves slowly in deep thought, seemingly oblivious to
+your intrusion.
+~
+45064 1024 0 S
+20 20 0 1d1+0 1d1+2
+0 20
+8 8 2
+#4214
+acolyte priestess gray~
+an acolyte in gray~
+An acolyte in gray sits here in deep thought.
+~
+   You see a young woman dressed in a simple gray robe.  Her eyes are closed
+in contemplation of all that she has seen and learned today.  Still keeping
+her eyes shut, she leans over to her neighbor and whispers something
+unintelligible, and they both giggle over a shared secret.
+~
+14 1024 0 S
+15 20 4 1d1+0 1d1+0
+0 20
+6 6 2
+#4215
+pilgrim worshipper~
+a pilgrim~
+A bundle of unwashed limbs snores loudly.
+~
+   You see a man wrapped up in a ragged, scratchy robe.  His face is deeply
+lined with the marks of travel, and an impressive beard grows on his face.
+He has journeyed from distant lands to find peace here in fabled Avalon,
+and from the looks of it, he has found it in slumber.
+~
+10 0 0 S
+12 20 6 1d1+0 1d1+0
+0 20
+4 4 1
+#4216
+old elderly man shopkeeper~
+the elderly shopkeeper~
+The elderly shopkeeper of the outpost shop stands here.
+~
+   You see the elderly shopkeeper who runs the little outpost shop.  He looks
+older than most of the merchandise, although not by much.  Despite his age,
+he is rather busy climbing a rickety ladder to check the status of his
+inventory.  Noticing your entrance, he climbs down, brushes off the
+ubiquitous dust from his apron, and waits patiently.
+~
+262154 1064 500 S
+0 20 10 1d1+0 1d1+0
+0 20
+8 8 1
+#4217
+grizzly bear~
+a grizzly bear~
+A huge grizzly roars at your intrusion and charges!
+~
+   You see an incredibly gigantic grizzly bear roaming in the dark forest.
+You see the scars of vicious wounds on its body, yet it moves as if
+unaffected by its injuries.  Sensing you, it rises on its hind feet to
+twice your height and charges with frightening quickness.
+~
+73768 1056 -400 S
+24 20 0 1d1+0 1d1+0
+0 20
+8 8 0
+#4218
+fat cat~
+a fat cat~
+A fat lazy cat rests peacefully in the sunshine.
+~
+   Although his ancestors might have once belonged to some proud pedigree,
+they have lost any influence on this undistinguished specimen.  It turns
+its head slowly to meet your gaze, thinks about rising to rub against your
+legs, decides that you are not worth the effort, and returns to dozing in the
+sun.
+~
+8 1024 0 S
+6 20 8 1d1+0 1d1+0
+0 20
+5 5 0
+#4219
+eagle giant hawk~
+an eagle~
+A giant eagle circles overhead.
+~
+   You see a dark shadow of an eagle circling overhead, barely discernible
+against the lightless sky over the forest.  You idly admire its form as it
+folds its wings and dives toward its intended prey.  Then you realize two
+things as the shape becomes larger: this eagle is far more gigantic than its
+normal brethren, and you are its intended prey.
+~
+40 4195336 -400 S
+20 20 0 1d1+0 1d1+0
+0 20
+8 8 0
+#4220
+timber wolf timberwolf~
+a timberwolf~
+A gray timberwolf lopes among the shadows.
+~
+   Padding silently on its four paws, the timberwolf traverses the shadowy
+realm of the dark forest like a gray ghost.  Pacing its prey without their
+knowledge, it waits patiently for the optimal moment when the prey finally
+let down their guard.  Then it strikes.
+~
+40 263170 -400 S
+22 20 0 1d1+0 1d1+0
+0 20
+8 8 0
+#4221
+high lord faerie~
+the high lord of the Faerie~
+The high lord of the Faerie stands here.
+~
+   From a distance, he might be mistaken for a prince from an exotic land with
+his dashing appearance and haughty bearing.  He is clad in a dazzling armor
+that seemed all gold and silver, and clothing made from silk shimmers in
+the light.  Somewhat closer, his blue-tinged skin, upsweft ears, and
+impossibly fair hair break the illusion of humanity.  Almost too late do
+you notice the maliciously amused glint in his lambent cat-pupiled eyes.
+~
+704524 66728 -500 S
+40 20 10 1d1+0 1d1+16
+0 20
+8 8 1
+#4299
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

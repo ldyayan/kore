@@ -1,0 +1,29 @@
+>rand_prog 18~
+  if ispc($r)
+    if inroom($r) == here
+      if isaffected($r, blind)
+        cast 'cure blind' $r
+      endif
+      if isaffected($r, curse)
+        cast 'remove curse' $r
+      endif
+      if isaffected($r, fly)
+        say It is good that you are well. May the gods speed you on your way.
+      else
+        cast 'fly' $r
+      endif
+    endif
+  endif
+~
+
+>rand_prog 20~
+  if ispc($r)
+    if inroom($r) == here
+      if isaffected($r, infra)
+      else
+      cast 'infravision' $r
+      endif
+    endif
+  endif
+~
+|

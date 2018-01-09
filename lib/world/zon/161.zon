@@ -1,0 +1,74 @@
+#161
+Aringill II~
+16199 40 2 48
+M 0 16037    14 16100            an ogier
+M 0 16012     1 16123            Yirenia
+M 0 16050     1 16124            notthere !junk mob
+M 0 16001     5 16101            a townguard of Aringill
+O 0 16051   101 16190            an evil money changer
+M 0 16035     2 16190            the banker
+M 0 16032     2 16193            the receptionist
+M 0 16025     6 16156            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+O 0 16054   101 16198            a lute
+O 0 16055   101 16198            a harp
+O 0 16056   101 16198            a kazoo
+M 0 16044     1 16197            the master musician
+M 0 16037     2 16120            an ogier
+M 0 16014    10 16122            an old lady
+M 0 16015     5 16122            a janitor
+M 0 16037     1 16122            an ogier
+M 0 16013    14 16119            a young man
+M 0 16036     1 16119            a stout miner
+O 0  3088   101 16194            an idea board
+M 0 16002    20 16162            a townguard of Aringill
+M 0 16034     1 16189            the postmaster
+M 0 16033     1 16192            the cryogenicist
+O 0 16052   101 16191            a balance sheet
+D 0 16166     0     1            Falebaen's Rum and Ale Bar door north
+M 0 16027     1 16166            a barkeep
+E 1 16033    10    17                    held a corkscrew
+M 0 16006     6 16166            a drunk
+O 0  3096   101 16125            a social bulletin board
+O 0  3060   101 16187            a raft
+O 0  3061   101 16187            a canoe
+M 0 16031     1 16186            captain
+D 0 16167     2     1            The Back Room of Falebaen's Rum and Ale Bar door south
+M 0 16003    12 16132            a townguard captain
+M 0 16003    12 16130            a townguard captain
+M 0 16003    12 16129            a townguard captain
+M 0 16003    12 16131            a townguard captain
+M 0 16003    12 16128            a townguard captain
+M 0 16003    12 16127            a townguard captain
+M 0 16023     5 16110            a dealer
+M 0 16022     5 16106            a wench
+M 0 16024     5 16106            a tsang addict
+M 0 16025    12 16160            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16025    12 16137            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16025    12 16142            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16025    12 16146            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16002    20 16136            a townguard of Aringill
+M 0 16002    20 16148            a townguard of Aringill
+M 0 16002    20 16164            a townguard of Aringill
+M 0 16002    20 16134            a townguard of Aringill
+M 0 16002    20 16135            a townguard of Aringill
+M 0 16002    20 16144            a townguard of Aringill
+M 0 16002    20 16152            a townguard of Aringill
+M 0 16002    20 16155            a townguard of Aringill
+M 0 16002    20 16159            a townguard of Aringill
+M 0 16025     7 16151            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16017     2 16107            a townguard of Aringill
+M 0 16024     5 16107            a tsang addict
+M 0 16015    10 16118            a janitor
+M 0 16016     5 16118            an ox drawn cart
+M 0 16015    10 16112            a janitor
+M 0 16015    10 16115            a janitor
+M 0 16013    25 16117            a young man
+S
+#99999
+$~

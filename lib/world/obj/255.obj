@@ -1,0 +1,675 @@
+#25501
+vallenwood sword~
+a vallenwood sword~
+A stiff wooden sword lies here, forgotten over time.~
+~
+5 322 8193
+0 2 4 1
+10 1000 1
+A
+19 2
+A
+18 2
+#25502
+vallenwood fountain~
+a vallenwood fountain~
+A circular wooden fountain is here, pouring forth crystal clear water.~
+~
+23 64 0
+100000 100000 15 0
+9999 1 1
+#25503
+luminous potion~
+a luminous potion~
+A luminous potion is here, glowing with a soft silver light.~
+~
+10 65 1
+50 19 20 44
+3 10000 1
+#25504
+sparkling potion~
+a sparkling potion~
+Twinkling with a strange aura, a beautiful potion lies here.~
+~
+10 65 1
+50 14 35 43
+3 15000 1
+#25505
+humming potion~
+a humming potion~
+Rumbling with a deep low voice, a dusty potion lies here, forgotten.~
+~
+10 67 1
+50 69 1 3
+3 20000 1
+#25506
+silvery blue silver potion~
+a ^Wsilvery^n ^cblue^n potion~
+A ^Wsilvery^n ^cblue^n potion rests here on the ground.~
+~
+10 64 1
+50 29 33 120
+3 27000 1
+#25507
+aspen potion~
+an aspen potion~
+A beautiful green potion lays in the sun, it seems almost alive.~
+~
+10 65 1
+50 36 4 33
+3 80000 1
+#25508
+flat bread~
+a piece of flat bread~
+A piece of bread lies here, looking distasteful.~
+~
+19 0 1
+4 0 0 0
+1 50 1
+#25509
+pocket vegetable bread~
+a vegetable pocket~
+A small little lump of bread sits here, untouched.~
+~
+19 0 1
+48 0 0 0
+1 250 1
+#25510
+sweet bread~
+a piece of sweet bread~
+A piece of bread covered with confectioner's sugar sits here, looking tasty.~
+~
+19 0 1
+12 0 0 0
+1 78 1
+#25511
+apple pastry strudle~
+an apple pastry~
+Sitting in the sun, a tasty looking pastry with apples sets here.~
+~
+19 0 1
+100 0 0 0
+1 500 1
+#25512
+lunitari cookie~
+a Lunitari cookie~
+A bright red cookie sits in a tray, waiting to be munched.~
+~
+19 0 1
+1 0 0 0
+1 13 1
+#25513
+solinari cookie~
+a Solinari cookie~
+A beautifully sculpted white cookie sits here, ready to be tasted.~
+~
+19 0 1
+1 0 0 0
+1 13 1
+#25514
+nuitari cookie~
+a Nuitari cookie~
+A black moon-shaped cookie is here, waiting to be crunched.~
+~
+19 0 1
+1 0 0 0
+1 13 1
+#25515
+silver flute~
+a ^Wsilver^n flute~
+A ^Wsilver^n flute lies here glinting in the light.~
+~
+24 353 8193
+0 0 0 0
+8 30000 1
+A
+18 3
+A
+19 3
+#25516
+wooden flute~
+a wooden flute~
+Twinkling with a very soft light, a wooden flute lays in the dust.~
+~
+24 0 8193
+0 0 0 0
+10 5000 1
+A
+3 1
+A
+4 1
+#25517
+vallenwood lyre~
+a vallenwood lyre~
+Sculpted from living tree, this heavenly instrument truly mimicks the heavens.~
+~
+12 65 8193
+0 0 0 0
+15 2 1
+A
+13 10
+A
+17 10
+#25521
+sack rations ration quith-pa~
+a sack of Quith-Pa~
+A small sack of tasty looking treats is here.~
+~
+19 256 1
+18 0 0 0
+1 121 1
+#25522
+flask granite~
+a granite flask~
+A tough looking granite flask sits here.~
+~
+17 0 1
+50 50 0 0
+5 500 1
+#25524
+griffon figurine~
+a griffon figurine~
+You see an ornate statuette of a powerful Griffon.~
+~
+3 64 16385
+50 3 3 69
+3 5000 1
+A
+14 10
+#25525
+phoenix marble figurine~
+a marble phoenix~
+Carved from a single piece of marble, this small sculpture is truly marvelous.~
+~
+3 64 16385
+50 3 3 10
+10 30000 1
+A
+19 -1
+A
+18 1
+#25526
+iron key dull~
+a dull iron key~
+A dull iron key sits in the dust here.~
+~
+18 65564 1
+25526 0 0 0
+4 1 1
+#25527
+aspen leaf sculpture wand~
+an aspen leaf sculpture~
+Made of the delicate aspen leaves, this sculpture is truly the work of a master.~
+~
+3 64 16385
+50 5 5 30
+10 50000 1
+#25528
+granite dagger~
+a granite dagger~
+A very sharp looking rock dagger is here.~
+~
+5 8515 8193
+0 2 5 11
+8 1000 1
+A
+18 1
+A
+2 1
+#25532
+recall scroll~
+a scroll of recall~
+You see a simple looking scroll bound with a red string.~
+~
+2 65 1
+50 42 0 0
+2 2500 1
+#25533
+modify scroll~
+a scroll of modify~
+You see a purple bound scroll with a deep green seal.~
+~
+2 67 1
+50 1 3 69
+2 20000 1
+#25534
+wand blue~
+a shimmering blue wand~
+Glowing with a blue aura, a shimmering blue wand lays in the dust.~
+~
+3 99 16385
+50 3 3 29
+3 7500 1
+#25536
+silver wand~
+a ^Wsilver^n wand~
+A sparkling ^Wsilver^n wand lies here in the dust.~
+~
+3 0 16385
+50 3 3 38
+3 8000 1
+#25537
+granite wand~
+a hard granite wand~
+Looking plain, a simple rock wand sets against a rock here.~
+~
+3 67 16385
+50 3 3 50
+3 8000 1
+#25538
+boots wind~
+boots of the wind~
+A pair of stunningly beautiful woven boots sits here in pristeen condition.~
+~
+9 353 65
+7 0 0 0
+15 1 1
+A
+14 50
+A
+13 10
+#25539
+sword longsword vallenwood runed~
+a runed vallenwood longsword~
+You see a vallenwood longsword, inscribed with shifting runes.~
+~
+5 8401251 8193
+0 4 5 3
+13 1 1
+E
+sword longsword vallenwood runed~
+Peering closely at the blade, the runes inscribed onto it constantly shift
+and intermingle with each other.  This mystifying action, leaves you breathless
+and you have to close your mouth while thinking about it.  The vallenwood
+material of which it is made of seems to pulsate within a rhythm followed by
+the dancing runes. 
+~
+A
+1 1
+A
+19 3
+#25540
+spina sword silver~
+a ^wsilver^n spina~
+A ^Wsilver^n sword lies here in a ^Ygolden^n light.~
+~
+5 12643 8193
+0 5 4 4
+17 1 1
+A
+18 3
+A
+19 5
+S
+37 40 5
+S
+60 40 12
+S
+124 40 18
+#25541
+silver chainmail chain suit~
+a suit of ^Wsilver^n chainmail~
+A suit of ^Wsilver^n chainmail lies here in a shining heap.~
+~
+9 8476003 9
+12 0 0 0
+25 1 1
+A
+18 1
+A
+13 20
+#25542
+nuts peanuts~
+a hand full of nuts~
+A handful of nuts lies here, looking quite tasty.~
+~
+19 64 1
+2 0 0 0
+1 1 1
+#25543
+apple fruit~
+an apple~
+Laying on the ground, a shiny looking apple catches your eye.~
+~
+19 1 1
+6 0 0 0
+2 1 1
+#25544
+pear fruit~
+a pear~
+A dingy looking piece of fruit is here, looking nasty.~
+~
+19 64 1
+24 0 0 0
+1 1 1
+#25545
+orange fruit~
+an orange~
+A bright orange orange is here, looking very apetizing.~
+~
+19 0 1
+12 0 0 0
+1 1 1
+#25546
+light bonsai shrub plant tree~
+an ornate shrub~
+You see a small little shrub that seems to glow with a soft white light.~
+~
+1 1121 16385
+0 0 -1 0
+7 1 1
+A
+19 1
+A
+13 20
+#25548
+staff ivory~
+a gleaming ivory staff~
+An ivory staff is here on the ground, glowing with power.~
+~
+5 254059 8193
+0 5 6 12
+10 1 1
+E
+staff ivory~
+A smooth staff, made entirely of the finest ivory, is decorated with various
+runes enchanting it with magical power.  The entire stave gives off a pale
+white aura, and can only be seen through the corner of your eye.  When you
+grab it, energy begins to travel up your arm.  You feel somehow changed, a
+little smarter and more powerful than before.
+~
+A
+9 10
+A
+3 1
+#25549
+sword huge longsword black 25549~
+a huge black longsword~
+Resting in the shadows lies a sword that seems to absorb all light.~
+~
+5 9138185 8193
+0 6 6 3
+15 1 1
+E
+sword huge longsword black~
+This weapon is made of the darkest obsidian that you have ever seen.  Humming
+with magical power, the scratches marring the blade seem to glow a pale white.
+As you grasp the longsword, searing pain floods into your mind, then almost
+instantly, a numbing peacefulness.  Without fear, you feel as if you can take
+on the whole world with this enchanting blade.
+~
+A
+19 5
+A
+1 2
+A
+13 20
+B
+1024 0
+#25550
+talon black dragon 25550~
+a black dragon's talon~
+A shadowy black talon sits here, humming with fierce power.~
+~
+5 8631130 24577
+0 4 8 11
+5 1 1
+A
+18 5
+A
+19 4
+A
+2 1
+#25551
+vortex staff~
+the torrential staff of the ^CVortex^n~
+Surrounded by a black aura, a grand staff is here collecting dust.~
+~
+5 250217 8193
+0 6 6 7
+8 1 1
+E
+staff ornate black~
+This is the darkest staff you have ever seen.  It seems to have been forged
+from a black hole, and its black radiating aura gives conformation.  Strange
+runes carved along its length pulsate with white energy, and the staff seems
+to vibrate slightly.  Grasping it makes you feel uneasy, as if you hold a
+corner of the universe in your small hands.
+~
+A
+9 8
+A
+19 4
+#25552
+lute silver~
+a ^Wsilvery^n lute~
+A ^Wsilvery^n lute sparkles in the light.~
+~
+24 8515657 8193
+0 0 0 0
+8 1 1
+E
+banjo silver~
+Upon exaimining the interior of the instrument, you see the name "Forn Light-
+singer" etched into the side, just as you expected.  Forn, the famous elven
+bard of the Seven Mage-Kings court, was one of the greatest in all the land.
+His linguistics skills were unmatched in his day, as he was able to turn away
+countless hoards with his enchating banjo.  With this magnificent weapon in
+your arsenal, no adversary can stand in your way.
+~
+A
+12 20
+A
+6 3
+#25553
+little ornate pen~
+an ornate pen~
+A small diminutive little pen lies here, doing nothing.~
+~
+21 2 1
+0 0 0 0
+1 1 1
+#25554
+amulet gold green~
+a ^ggreen^n and ^Ygold^n enlayed amulet~
+A ^ggreen^n and ^Ygold^n enlayed amulet lies here, burning with a fierce inner light.~
+~
+9 268505449 5
+10 0 0 0
+5 1 1
+E
+amulet green gold~
+This amulet seems to shine by its own light source, and a soft humming sound
+seems to be coming from a large jewel attached to the chain.  As you move your
+head closer, you begin to see swirls deep inside the gem.  You realize that
+the amulet is not actually humming, but is a series of low wails given off
+from the large emerald.  The swirls begin to coalesce, and the shapes of wraith
+like figures move past the viewport.
+~
+A
+13 50
+A
+19 1
+#25555
+note sign warning beast~
+a small painted sign~
+A small little sign with bright letters floats past you.~
+~
+16 0 0
+0 0 0 0
+100000 1 1
+E
+sign board post warning~
+   Be warned all of thee who dare enter these chambers. The only safe place to
+go from here is up and back from whence ye came. Nothing but sorrow waits for
+you here. Go now and save yourself! I have found out too late, what this new
+world truly is, and it has cost me my life. Now with my own blood I write
+out this warning flee but always remem.....
+                           <The blood is smudged and a hand print trails off>
+~
+#25556
+raft~
+a raft~
+A small makeshift raft sits here.~
+~
+22 0 1
+0 0 0 0
+60 350 1
+#25557
+canoe~
+a canoe~
+A sturdy, hand carved canoe sets on its side here.~
+~
+22 0 1
+0 0 0 0
+20 800 1
+#25559
+canteen~
+a canteen~
+A small travelers canteen sits here, filled with liquid.~
+~
+17 0 1
+50 50 15 0
+10 200 1
+#25560
+lantern light lamp~
+a lantern~
+A glass enclosed candle sits here in the dark.~
+~
+1 0 16385
+0 0 35 0
+7 165 1
+#25561
+torch stick~
+a torch~
+A piece of wood wrapped in old rags sets here, unlit.~
+~
+1 0 16385
+0 0 2 0
+2 12 1
+#25562
+bag sack pouch~
+a brown cloth bag~
+A small pile of brown cloth sits here, unmoving.~
+~
+15 0 1
+30 1 -1 0
+2 38 1
+#25563
+backpack pack sack bag~
+a tough leather backpack~
+A small heap of leather with, tough looking straps is here.~
+~
+15 0 1
+80 1 -1 0
+14 176 1
+#25564
+small sharp dinky dagger~
+a dinky dagger~
+A small sharp, dinky looking dagger rests here.~
+~
+5 8192 8193
+0 1 5 11
+3 64 1
+#25565
+shortsword sword blade~
+a shortsword~
+A small sword a little less than a yard long sits in the dust here.~
+~
+5 8192 8193
+0 1 8 14
+10 160 1
+#25566
+sword longsword blade~
+a longsword~
+   A long straight, bladed weapon gleams in the light.~
+~
+5 8400896 8193
+0 2 6 3
+20 425 1
+A
+19 1
+A
+18 1
+#25567
+two-handed two handed sword longsword ~
+a two-handed sword~
+A very long, sharp and pointy looking weapon rests against a table here.~
+~
+5 8400896 8193
+0 3 5 15
+30 690 1
+A
+19 2
+A
+2 -2
+#25569
+harmonica instrument~
+a wooden harmonica~
+A small piece of wood, filled with holes has been discarded here.~
+~
+24 0 8193
+0 0 0 0
+2 145 1
+#25570
+fife flute wooden instrument~
+a wooden fife~
+A small stick with holes punched in it lies in the dirt~
+~
+24 0 8193
+0 0 0 0
+3 740 1
+A
+3 1
+#25571
+flower rose emerald gem~
+an ^Gemerald^n rose~
+A hand-carved ^Gemerald^n rose glistens in the light.~
+~
+8 0 16385
+0 0 0 0
+1 500 1
+A
+6 1
+#25572
+sword shaped key~
+a sword-shaped key~
+A sword-shaped key is here on the ground.~
+~
+18 65565 1
+25572 0 0 0
+1 1 1
+#25573
+staff shaped key~
+a staff-shaped key~
+A staff-shaped key is here on the ground.~
+~
+18 65565 1
+25573 0 0 0
+1 1 1
+#25574
+dagger shaped key~
+a dagger-shaped key~
+A dagger-shaped key is here on the ground.~
+~
+18 65565 1
+25574 0 0 0
+1 1 1
+#25575
+lute shaped key~
+a lute-shaped key~
+A lute-shaped key is here on the ground.~
+~
+18 65565 1
+25575 0 0 0
+1 1 1
+#25576
+mace shaped key~
+a mace-shaped key~
+A mace-shaped key is here on the ground.~
+~
+18 65565 1
+25576 0 0 0
+1 1 1
+#99999
+$~

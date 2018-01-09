@@ -1,0 +1,5 @@
+>fight_prog 15~
+  mpecho You are blasted by the frost from the mouth of $I!
+  mpdamage all 5d8+32
+~
+|

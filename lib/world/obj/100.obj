@@ -1,0 +1,36 @@
+#10000
+rusty sword~
+a rusty sword~
+A long rusty useless looking sword.~
+~
+5 12288 8193
+0 2 6 3
+10 200 1
+A
+18 -1
+A
+19 -1
+#10001
+rusty platemail plate mail~
+rusty platemail~
+The remains of some very rusted plate.~
+~
+9 8388608 9
+8 0 0 0
+12 300 1
+A
+18 -1
+#10002
+spiked arm plates~
+a pair of spiked arm plates~
+A set of spiked arm plates lies on the ground.~
+~
+9 8388608 257
+7 0 0 0
+10 2450 500
+A
+18 -1
+A
+19 2
+#99999
+$~

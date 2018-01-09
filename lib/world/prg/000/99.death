@@ -1,0 +1,40 @@
+>rand_prog 8~
+  beckon
+~
+>fight_prog 25~
+  say You will join me!
+~
+>bribe_prog 10000~
+  say So, you would cheat Death eh?
+  say ...another time, mortal...
+~
+>bribe_prog 100~
+  say Barely enough for passage across the Styx.
+  mpkill $n
+~
+>bribe_prog 1~
+  laugh
+  mpkill $n
+~
+>give_prog 3030~
+  say A torch?? 
+  say Do you mock me mortal!?!
+~
+>give_prog all~
+  say whats this?
+~
+>greet_prog 80~
+  if isgood($n)
+    smile
+    say How you like my coche?
+  else
+    growl $n
+    say Evil is not wanted here!
+  endif
+~
+>death_prog 80~
+  cackle
+  say All we are is dust in the wind...!
+  mpoload 3888
+~
+|

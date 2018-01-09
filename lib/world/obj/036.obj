@@ -1,0 +1,186 @@
+#3600
+armour black pawn~
+some black pawn armour~
+A pile of black armour is here.~
+~
+9 512 9
+5 0 0 0
+13 50 1
+#3601
+armour white pawn~
+some white pawn armour~
+A pile of white armour is here.~
+~
+9 1024 9
+6 0 0 0
+13 50 1
+#3602
+sword black pawn~
+a black pawn's sword~
+The sword of a black pawn lies here.~
+~
+5 512 8193
+0 3 4 3
+10 50 50
+#3603
+sword white pawn~
+a white pawn's sword~
+The sword of a white pawn lies here.~
+~
+5 1024 8193
+0 3 4 3
+10 50 1
+#3604
+armour black rook~
+some black rook armour~
+Some armour made from the remains of a black rook lies heaped on the floor.~
+~
+9 641 9
+5 0 0 0
+60 500 5
+A
+17 -5
+A
+5 1
+#3605
+armour white rook~
+some white rook armour~
+Some armour made from the remains of a white rook lies heaped on the floor.~
+~
+9 1089 9
+-5 0 0 0
+60 500 250
+A
+17 2
+A
+5 1
+#3606
+lance black knight~
+the Lance of the Black Knight~
+The Lance of the Black Knight lies here, waiting to rust.~
+~
+5 578 8193
+0 3 6 6
+18 100 3
+A
+19 2
+A
+23 5
+#3607
+lance white knight~
+the Lance of the White Knight~
+The Lance of the White Knight lies here, waiting to rust.~
+~
+5 1090 8193
+0 3 6 6
+18 250 0
+A
+19 2
+A
+23 5
+#3608
+staff black bishop~
+the Staff of the Black Bishop~
+The Black Bishop's Staff is lying here.~
+~
+4 577 16385
+20 2 2 64
+3 1000 6
+E
+staff black bishop~
+  A staff of the black bishop.
+~
+#3609
+staff white bishop~
+the Staff of the White Bishop~
+The White Bishop's Staff is lying here.~
+~
+4 1089 16385
+20 2 2 36
+3 1000 6
+E
+white staff bishop~
+  A staff of the white bishop.
+~
+#3610
+crown black queen~
+the Crown of the Black Queen~
+The Crown of the Black Queen lies here, looking neglected.~
+~
+9 578 17
+2 0 0 0
+4 400 5
+A
+3 1
+A
+4 1
+#3611
+crown white queen~
+the Crown of the White Queen~
+The Crown of the White Queen lies here, looking neglected.~
+~
+9 1090 17
+2 0 0 0
+4 400 5
+A
+3 1
+A
+4 1
+#3612
+sceptre black king~
+the Black King's Sceptre~
+The Sceptre of the Black King lies here, collecting dust.~
+~
+1 610 16385
+0 0 -1 0
+10 700 1
+A
+1 1
+A
+18 1
+#3613
+sceptre white king~
+the White King's Sceptre~
+The Sceptre of the White King lies here, collecting dust.~
+~
+1 1122 16385
+0 0 -1 0
+10 700 10
+A
+1 1
+A
+18 1
+#3614
+key black treasury~
+the key to the black treasury~
+There is a sinister black key lying here.~
+~
+18 65580 16385
+3614 0 0 0
+1 0 0
+#3615
+key white treasury~
+the key to the white treasury~
+There is a bright white key lying here.~
+~
+18 65580 16385
+3615 0 0 0
+1 0 0
+#3616
+gold coins black royal treasure~
+the black royal treasure~
+There are a LOT of coins here.~
+~
+20 0 1
+1000 0 0 0
+10 1000 0
+#3617
+coins gold white royal treasure~
+the white royal treasure~
+There are a LOT of coins here.~
+~
+20 0 1
+1000 0 0 0
+10 1000 0
+#99999
+$~

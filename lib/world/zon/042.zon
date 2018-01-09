@@ -1,0 +1,165 @@
+#42
+Avalon~
+4299 20 1 32
+O 0  4218   101  4277            a razor sharp hoe
+O 0  5412   101  4277            a two-handed bastard sword
+O 0  5417   101  4277            a suit of field plate
+O 0  3070   101  4277            a pair of bronze gauntlets
+O 0  3085   101  4277            a pair of bronze sleeves
+O 0  3080   101  4277            a pair of bronze leggings
+O 0  5487   101  4277            a horseshoe
+O 0  3052   101  4277            a scroll of recall
+O 0  3050   101  4277            a scroll of identify
+O 0  3051   101  4277            a yellow potion of see invisible
+O 0  5443   101  4277            some iron rations
+O 0  5440   101  4277            a hunk of cheese
+O 0  4219   101  4277            some sunflower seeds
+O 0  3104   101  4277            a canteen
+O 0  5435   101  4277            an oil lamp
+O 0   123   101  4277            a kazoo
+O 0  5436   101  4277            a backpack
+M 0  4221     1  4294            the high lord of the Faerie
+E 1  4221    10    16                    wield a ^Wsilver^n rapier 'Whispers'
+E 1  4222    15    17                    held a gift from the Faerie
+D 0  4294     0     2            A Faerie Ring door north
+M 0  4200    12  4201            a small fish
+M 0  4200    12  4201            a small fish
+M 0  4200    12  4201            a small fish
+M 0  4200    12  4201            a small fish
+M 0  4201     6  4201            a mallard
+M 0  4201     6  4201            a mallard
+R 0  4215  4203    -1            remove a tome of magic
+M 0  4203     1  4215            Erasmus the Curious
+E 1  4204    16    17                    held the wand of Erasmus
+E 1  4205    50    10                    arms a pair of gaudy silk shirt sleeves
+O 0  4203   101  4215            a tome of magic
+P 1  4202   101  4203                    put an ugly key in a tome of magic
+D 0  4215     4     2            Near the Top of White Tower door up
+D 0  4290     4     2            In the Dark Forest door up
+D 0  4290     5     2            In the Dark Forest door down
+D 0  4296     1     1            A Path Through the Tangled Underbrush door east
+O 0  4227   101  4273            a granite altar
+O 1  4223   100  4273            a chain of daisies
+D 0  4273     0     2            Meditation Room door north
+M 0  4213    12  4228            a priestess in gray
+M 0  4213    12  4228            a priestess in gray
+M 0  4213    12  4228            a priestess in gray
+M 0  4213    12  4228            a priestess in gray
+E 1  4208    10    12                    about a gray cowl
+M 0  4213    12  4228            a priestess in gray
+E 1  4208    10    12                    about a gray cowl
+G 1  4217    50    -1                    give a wooden key
+M 0  4213    12  4228            a priestess in gray
+E 1  4208    10    12                    about a gray cowl
+G 1  4217    50    -1                    give a wooden key
+M 0  4205     1  4229            the First Priestess
+E 1  4208    40    12                    about a gray cowl
+E 1  4209    30     3                    neck 1 a stone necklace
+E 1  4210    20     4                    neck 2 the Essence of Avalon
+M 0  4204     1  4216            the beast
+E 1  4206    20    12                    about the hide of the beast
+E 1  4207    20    16                    wield the talon of the beast
+D 0  4216     5     2            Lair of the Beast door down
+M 0  4202     1  4212            the Unicorn
+G 1  4201    99    -1                    give a white key
+E 1  4200    10    16                    wield Horn of the Unicorn
+D 0  4212     0     2            In Front of the White Tower door north
+M 0  4209    18  4252            a horse
+M 0  4209    18  4252            a horse
+M 0  4209    18  4252            a horse
+M 0  4209    18  4252            a horse
+M 0  4211    18  4252            a woodchuck
+M 0  4211    18  4252            a woodchuck
+M 0  4211    18  4252            a woodchuck
+M 0  4211    18  4252            a woodchuck
+M 0  4211    18  4252            a woodchuck
+M 0  4211    18  4252            a woodchuck
+M 0  4211    18  4252            a woodchuck
+M 0  4211    18  4252            a woodchuck
+M 0  4211    18  4252            a woodchuck
+M 0  4212    18  4252            a sparrowhawk
+M 0  4212    18  4252            a sparrowhawk
+M 0  4212    18  4252            a sparrowhawk
+M 0  4212    18  4252            a sparrowhawk
+M 0  4212    18  4252            a sparrowhawk
+M 0  4212    18  4252            a sparrowhawk
+M 0  4212    18  4252            a sparrowhawk
+M 0  4212    18  4252            a sparrowhawk
+M 0  4212    18  4252            a sparrowhawk
+O 0  4216   101  4252            a bubbling spring
+O 0  4220   101  4270            a warning sign
+D 0  4270     0     1            A Road in the Woods door north
+O 0  4213   101  4244            a milk bottle
+D 0  4244     0     1            A Stable door north
+D 0  4244     2     1            A Stable door south
+D 0  4213     2     2            Bottom of White Tower door south
+M 0  4207     1  4243            a farmwife
+E 1  4215    10    16                    wield a large spatula
+O 0  4211   101  4243            a pot of beef stew
+O 0  4212   101  4243            a pot pie
+D 0  4242     0     1            A Small Farmhouse door north
+M 0  4206     1  4245            a hard-working man
+E 1  4214    10    16                    wield a pitchfork
+M 0  4209     8  4245            a horse
+M 0  4209     8  4245            a horse
+M 0  4209     8  4245            a horse
+M 0  4209     8  4245            a horse
+M 0  4210     3  4245            a cow
+M 0  4210     3  4245            a cow
+M 0  4210     3  4245            a cow
+D 0  4245     2     1            Enclosed Meadow door south
+O 0  4213   101  4260            a milk bottle
+D 0  4260     0     1            A Stable door north
+M 0  4206     2  4261            a hard-working man
+E 1  4214    10    16                    wield a pitchfork
+M 0  4210     8  4261            a cow
+M 0  4210     8  4261            a cow
+M 0  4210     8  4261            a cow
+M 0  4210     8  4261            a cow
+M 0  4209     3  4261            a horse
+M 0  4209     3  4261            a horse
+M 0  4209     3  4261            a horse
+D 0  4261     2     1            Enclosed Meadow door south
+M 0  4207     2  4259            a farmwife
+E 1  4215    10    16                    wield a large spatula
+M 0  4208     1  4263            a young child
+G 1  4212    10    -1                    give a pot pie
+M 0  4208     2  4263            a young child
+G 1  4212    10    -1                    give a pot pie
+M 0  4208     3  4263            a young child
+G 1  4212    10    -1                    give a pot pie
+M 0  4208     4  4247            a young child
+G 1  4212    10    -1                    give a pot pie
+M 0  4208     5  4247            a young child
+G 1  4212    10    -1                    give a pot pie
+M 0  4208     6  4247            a young child
+G 1  4212    10    -1                    give a pot pie
+M 0  4214    14  4271            an acolyte in gray
+M 0  4214    14  4272            an acolyte in gray
+M 0  4214    14  4271            an acolyte in gray
+M 0  4214    14  4272            an acolyte in gray
+M 0  4214    14  4271            an acolyte in gray
+D 0  4272     2     2            A Small Chapel door south
+M 0  4215    16  4274            a pilgrim
+M 0  4215    16  4275            a pilgrim
+M 0  4215    16  4274            a pilgrim
+M 0  4215    16  4275            a pilgrim
+M 0  4215    16  4274            a pilgrim
+M 0  4215    16  4275            a pilgrim
+M 0  4215    16  4274            a pilgrim
+M 0  4215    16  4275            a pilgrim
+M 0  4215    16  4274            a pilgrim
+D 0  4293     5     2            A Small Sanctuary door down
+M 0  4217     4  4284            a grizzly bear
+G 1  4224    10    -1                    give a crooked key
+M 0  4219     4  4284            an eagle
+G 1  4224    10    -1                    give a crooked key
+M 0  4220     4  4284            a timberwolf
+G 1  4224    10    -1                    give a crooked key
+M 0  4216     1  4276            the elderly shopkeeper
+M 0  4218     2  4276            a fat cat
+O 0  4225    10  4295            the faerie treasure
+O 0  4226     4  4295            an umbra ring
+S
+#99999
+$~

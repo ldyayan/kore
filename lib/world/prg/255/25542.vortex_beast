@@ -1,0 +1,105 @@
+>fight_prog 1~
+  if inroom($r) == here
+    mpechoat $r A sudden gust of wind blows everything you were wearing right off you!
+    mpechoaround $r A sudden gust of wind blows all the equipment right off $R!
+    mpforce $r remove all
+  endif
+~
+>fight_prog 4~
+  if inroom($r) == here
+    mpechoat $r You are SMACKED by a chunk of flying debris!
+    mpechoaround $r $R is SMACKED by a chunk of flying debris!
+    mpdamage $r 5d20+20
+  endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+    mpecho Freezing cold winds tear at you!
+    mpdamage all 7d10+10
+  endif
+~
+>fight_prog 6~
+  if inroom($r) == here
+    mpecho $I assails the room with a wild wind of Oblivion!
+    mpdamage all 4d20+20
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    mpechoat $r $I RENDS you with her terrible vortex claws!
+    mpechoaround $r $I RENDS $R with her terrible vortex claws!
+    mpdamage $r 6d20+20
+  endif
+~
+>fight_prog 8~
+  mpecho $I roars savagely!
+~
+>fight_prog 25~
+  if inroom($r) == here
+    cast 'word of death' $r
+  endif
+~
+>fight_prog 30~
+  if isscript($i)
+  else
+    mptrigger $r vortex-flush
+  endif
+~
+>script_prog vortex-flush~
+  #
+@
+  if inroom($n) == here
+    mpechoat $n You are lifted and thrown..!
+    mpechoaround $n $N is lifted and thrown..!
+  else
+    mpstopscript
+  endif
+@
+  if inroom($n) == here
+    mpechoat $n You are buffted by the heavy winds!!
+    mpechoaround $n $N is buffeted by the heavy winds!!
+    mpdamage $n 3d8+4
+  else
+    mpstopscript
+  endif
+@
+  if inroom($n) == here
+    mpechoat $n You spin round and round..
+    mpechoaround $n $N spins round and round..
+  else
+    mpstopscript
+  endif
+@
+  if inroom($n) == here
+    mpechoat $n Faster and faster, you start to spin downwards..!
+    mpechoaround $n Faster and faster, $N starts to spin downwards..!
+  else
+    mpstopscript
+  endif
+@
+  if inroom($n) == here
+    mpechoat $n You swirl in the Vortex!!  Ouch that hurts!
+    mpechoaround $n $N swirls in the Vortex!! ..and you see blood spray!
+    mpdamage $n 3d8+4
+  else
+    mpstopscript
+  endif
+@
+  if inroom($n) == here
+    mpechoat $n You GRIND in the Vortex!!!!
+    mpechoaround $n $N GRINDS in the Vortex!!!!
+    mpdamage $n 20d50+100
+  else
+    mpstopscript
+  endif
+@
+  if inroom($n) == here
+    mpechoat $n You're shot out of the Vortex!
+    mpechoaround $n $N is shot out of the Vortex!
+    mptrans $n nearby
+  else
+    mpstopscript
+  endif
+~
+| 
+

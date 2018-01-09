@@ -1,0 +1,56 @@
+#264
+The Temple of Orsus~
+26499 40 1 32
+M 0 26401     1 26400            the defender of Orsus
+E 1 26400   101    17                    held a stone key
+E 1 26415   101    16                    wield a ^rbloody^n broadbladed spear
+E 1 26401     5    13                    waist the belt of the defender
+E 1 26408     2     6                    head the helm of the defender
+D 0 26400     0     2            Entrance to the Temple of Orsus door north
+M 0 26415     1 26498            the spirit of Orsus
+M 0 26416     8 26498            a guardian phantom
+O 0 26402     1 26498            the tomb of Orsus
+D 0 26406     5     2            The Grand Hall of Orsus door down
+M 0 26400     1 26406            the monument to Orsus
+E 1 26420     3    16                    wield a mace tempered in ^rblood^n
+O 0 26430   100 26406            a small incense stand
+P 1 26431   100 26430                    put some gold in a small incense stand
+O 0 26419   100 26445            a small dusty box
+P 1 26412   100 26419                    put a flickering key in a small dusty box
+M 0 26403     1 26431            the high priest of Orsus
+E 1 26409    15     0                    light a small candle of Orsus
+M 0 26402     7 26431            an orc worshipper
+O 0 26418   100 26431            a blood fountain
+D 0 26495     2     2            In the Catacombs door south
+D 0 26494     0     2            In the Catacombs door north
+O 0 26508  1000 26421            a portal
+O 0 26402   101 26415            the tomb of Orsus
+M 0 26402    10 26415            an orc worshipper
+M 0 26402     0 26403            an orc worshipper
+M 0 26404     4 26419            an orc trialer
+M 0 26402    10 26401            an orc worshipper
+D 0 26401     2     2            The Foyer of the Temple of Orsus door south
+M 0 26402     5 26404            an orc worshipper
+M 0 26402    10 26402            an orc worshipper
+D 0 26434     4     2            Into the Catacombs door up
+D 0 26424     5     2            Corridor in the Temple of Orsus door down
+D 0 26409     2     2            Corridor in the Temple of Orsus door south
+M 0 26416     8 26476            a guardian phantom
+M 0 26416     8 26443            a guardian phantom
+D 0 26408     0     2            Corridor in the Temple of Orsus door north
+M 0 26402    10 26429            an orc worshipper
+M 0 26402    10 26429            an orc worshipper
+M 0 26406     1 26429            a statue of Ordolonus god of the fallen
+M 0 26401     1 26405            the defender of Orsus
+E 1 26401     9    13                    waist the belt of the defender
+G 1 26406     2    -1                    give a thick marble key
+M 0 26402     4 26425            an orc worshipper
+M 0 26402     5 26425            an orc worshipper
+M 0 26402     6 26425            an orc worshipper
+M 0 26404     1 26433            an orc trialer
+M 0 26404     2 26433            an orc trialer
+M 0 26404     3 26433            an orc trialer
+M 0 26416     5 26461            a guardian phantom
+S
+#99999
+$~

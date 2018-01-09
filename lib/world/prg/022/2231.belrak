@@ -1,0 +1,11 @@
+>fight_prog 6~
+  chuckle
+  say Let me demonstrate this to you.
+  berserk $r
+  berserk $r
+~
+>fight_prog 12~
+  riposte $r
+  riposte $r
+~
+|

@@ -1,0 +1,66 @@
+>greet_prog 50~
+  if ispc($n)
+    say If you pay me five thousand coins, I'll ferry you around.
+  endif
+~
+>bribe_prog 5000~
+  if isscript($i)
+    say Thanks, but I've already been paid.
+  else
+    say Ok let's go.
+    mptrigger $n ferry-ride
+  endif
+~
+>script_prog ferry-ride~
+  say Board the boat!
+  board boat
+  #
+  #
+  #
+  say Ok let's go.
+  #
+  steer east
+  #
+  steer north
+  #
+  steer north
+  #
+  steer north
+  #
+  steer northeast
+  #
+  say Ok get out. Leave.
+  #
+  #
+  #
+  #
+  say Ok whatever, I'm going back now.
+  #
+  steer southwest
+  #
+  steer south
+  #
+  steer south
+  #
+  steer south
+  #
+  steer west
+  #
+  say Everyone out.
+  #
+  disembark
+~
+>command_prog steer~
+  mpechoat $n $I slaps your hand!
+  mpechoaround $n $N tries to steer the boat but $I slaps $s hand!
+  mpstopcommand
+~
+>command_prog board~
+  if inroom($i) == 22026
+    say Settle down, we're almost there.
+  else
+    say Hey you gotta pay me if you wanna board the boat.
+    mpstopcommand
+  endif
+~
+|

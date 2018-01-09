@@ -1,0 +1,1930 @@
+#8600
+The Choppy Reefs~
+   The water here is especially cold, but what is interesting is that the 
+reefs are so numerous that you can stand waist-deep in the water, and see the 
+outline of a shore split by a river-delta some distance to the north. 
+~
+86 32836 4
+D0
+~
+~
+0 0 8601
+D8
+~
+~
+0 0 5697
+S
+#8601
+Estuary of the River Qix~
+   Driftwood and other debris, including the remains of hapless sailors, lead 
+you to the conclusion that a ship recently charged the reefs. As you ponder 
+the fate of the lost crew, and wade through what's left of them, you shudder 
+with the feeling that you are shome    omehow being watched... 
+~
+86 32832 6
+D0
+~
+~
+0 0 8602
+D2
+~
+~
+0 0 8600
+S
+#8602
+Before the Delta~
+   The water here is again shallow enough to stand in, and considerably 
+warmer that that beyond the reefs. As you face the delta of grey silt to your 
+north, it suddenly hits you like a ton of bricks: no naturally formed river 
+empties *from* the sea inward. As     
+~
+86 32832 4
+D0
+~
+~
+0 0 8603
+D2
+~
+~
+0 0 8601
+D6
+~
+~
+0 0 8611
+D9
+~
+~
+0 0 8604
+S
+#8603
+Delta of the River Qix~
+   As the water trickles past the muddy surface that you are standing on, you 
+ponder what kind of rock would last very long in the midst of all these tidal 
+forces. A quick scuffing of your foot into the sand reveals the impossible: 
+the delta is essentially one large diamond weighing countless tons. Reeling 
+from this discovery, you reevaluate your sanity and whether to continue on. 
+~
+86 32836 0
+D0
+~
+~
+0 0 8618
+D1
+~
+~
+0 0 8611
+D2
+~
+~
+0 0 8602
+D3
+~
+~
+0 0 8604
+S
+#8604
+Near the Western Causeway~
+   The water gently laps your feet here, and it seems almost too quiet. To 
+the west upon the riverbank one can see a causeway structure not unlike a 
+castle wall, complete witha  a cobblestone road and occasional stone 
+guard-posts. Immediately to the north of the cas useway entrance, however, 
+the height of the riverbank rises steeply, blocking any northwest progress. 
+~
+86 32832 6
+D1
+~
+~
+0 0 8603
+D3
+~
+~
+0 0 8605
+D6
+~
+~
+0 0 8618
+D7
+~
+~
+0 0 8602
+S
+#8605
+On the Western Causeway~
+   The riverbank rises sheerly to the north of you, but you get the 
+impression that the causeway is not particularly effective at keeping the 
+tide out, as the obsidian stones beneath your feet are covered in seaweed. 
+But there is little sand, so someone must be cleaning it off occasionally... 
+~
+86 32768 0
+D1
+~
+~
+0 0 8604
+D3
+~
+~
+0 0 8606
+S
+#8606
+On the Western Causeway~
+   Looking over the side of the causeway to the north you note that the land 
+drops away steeply, such that although the shoreline is almost level with 
+you, the north wall of the causeway is several hundred feet high. You find 
+yourself thanking fate that you did not arrive at high tide. 
+~
+86 32768 0
+D1
+~
+~
+0 0 8605
+D3
+~
+~
+0 0 8607
+S
+#8607
+On the Western Causeway~
+   Crunching through the barnacles beneath your feet is not particularly 
+stealthy...and the results of this are standing here, glowering at you. 
+Before you can react you realize further progress away from the river is 
+blocked by the causeway's mysterious custodians. They don't look too happy... 
+~
+86 32768 0
+D1
+~
+~
+0 0 8606
+D3
+~
+~
+0 0 8608
+S
+#8608
+A stone overhang on the Western Causeway~
+   You are in the remains of what looks to have been a guard post on the 
+causeway. After your recent tangle with the undead, a rest against the 
+overhang seems attractive despite the foul breeze coming in from the sea, and 
+anyways alertness seems to be a watchword today. You shake your head in 
+wistful amusement as a crab crawls across the shady floor. 
+~
+86 32768 0
+D1
+~
+~
+0 0 8607
+D3
+~
+~
+0 0 8609
+S
+#8609
+On the Western Causeway~
+   The floodplain to the north begins to rise here, and an odd assortment of 
+lichen-covered boulders and saltwater horse-tail plants (some of these taller 
+than the causeway, and wider than the road you're standing on!) confront your 
+senses. With a start you realize what was missing from the usual shore 
+experience: no shore birds of any kind... The huge nests atop the horse-tails 
+must hold something predatory that drives them off, you conclude. But what? 
+~
+86 32768 0
+D1
+~
+~
+0 0 8608
+D3
+~
+~
+0 0 8610
+S
+#8610
+Western end of the Causeway ~
+   A down-sloped section of the causeway meets with the western hio lls 
+that border the flood plain here. Lare ge amounts of sticky clay adhere to 
+your footwear up past yuor an      our ankles, making it slow 
+going. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8625
+D1
+~
+~
+0 0 8609
+S
+#8611
+Near the Eastern Causeway~
+   The water gently laps against your feet here, and it seems almost too 
+quiet. To the east upon the riverbank one can see a causeway structure not 
+unlike a castle wall,.    complete with a cobblestone road and occasional 
+stone guard-posts. Immediately to the north of the causeway entrance, 
+however, the height of the riverbank rises steeply, blocking any northeast 
+progress. 
+~
+86 32836 6
+D1
+~
+~
+0 0 8612
+D3
+~
+~
+0 0 8603
+D8
+~
+~
+0 0 8602
+D9
+~
+~
+0 0 8618
+S
+#8612
+On the Eastern Causeway~
+   The riverbank rises sheerly to the north of you, but you get the 
+impression that the causeway is not particularly effective at keeping the 
+tide out, as the obsidian stones beneath your feet are covered in seaweed. 
+But there is little sand, so someone must be cleaning it off occasionally... 
+~
+86 32768 0
+D1
+~
+~
+0 0 8613
+D3
+~
+~
+0 0 8611
+S
+#8613
+On the Eastern Causeway~
+   Looking over the side of the causeway to the north you note that the land 
+drops away steeply, such that although the shoreline is almost level with 
+you, the north wall of the causeway is several hundred feet high. You find 
+yourself thanking fate that you did not arrive at high tide. 
+~
+86 32768 0
+D1
+~
+~
+0 0 8614
+D3
+~
+~
+0 0 8612
+S
+#8614
+On the Eastern Causeway~
+   Crunching through the barnacles beneath your feet is not particularly 
+stealthy...and the results of this are standing here, glowering at you. 
+Before you can react you realize further progress away from the river is 
+blocked by the causeway's mysterious custodians. They don't look too happy... 
+~
+86 32768 0
+D1
+~
+~
+0 0 8615
+D3
+~
+~
+0 0 8613
+S
+#8615
+A stone overhang on the Eastern Causeway~
+   You are in the remains of what looks to have been a guard post on the 
+causeway. After your recent tangle with the undead, a rest against the 
+overhang seems attractive despite the foul breeze coming in from the sea, and 
+anyways alertness seems to be a watchword today. You shake your head in 
+wistful amusement as a crab crawls across the shady floor. 
+~
+86 32768 0
+D1
+~
+~
+0 0 8616
+D3
+~
+~
+0 0 8614
+S
+#8616
+On the Eastern Causeway~
+   The floodplain to the north begins to rise here, and an odd assortment of 
+lichen-covered boulders and saltwater horse-tail plants (some of these taller 
+than the causeway, and wider than the road you're standing on!) confront your 
+senses. With a start you realize what was missing from the usual shore 
+experience: no shore birds of any kind... The huge nests atop the horse-tails 
+must hold something predatory that drives them off, you conclude. But what? 
+~
+86 32768 0
+D1
+~
+~
+0 0 8617
+D3
+~
+~
+0 0 8615
+S
+#8617
+Eastern end of the Causeway~
+   A down-sloped section of th  e causeway meets with the eastern hills 
+that border the flood plain here. Lare ge amounts of sticky clay adhere to 
+your footwear up past your ankles, making it slow going. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8640
+D1
+~
+~
+0 0 8900
+D3
+~
+~
+0 0 8616
+S
+#8618
+On the River Qix~
+   The river starts to pick up speed, and you find keeping your balance is 
+not as easy as it was to the south of you. Odd rock formations in the stream 
+bed give the water a sky blue tinge. You notice that th  e riverbanks are 
+now so high above the water that climbing them is flatly impossible. 
+~
+86 32832 6
+D0
+~
+~
+0 0 8619
+D2
+~
+~
+0 0 8603
+D7
+~
+~
+0 0 8611
+D8
+~
+~
+0 0 8604
+S
+#8619
+On the River Qix~
+   Jagged pieces of rock extrude out of the surface of the ever-speeding 
+river at various points, almost distracting you from the other significant 
+danger: there are a fair number of carnivorous fish in this river. Having 
+found the river now too deep to walk through, the only option seems to be to 
+float down it to discover whatever else is to the north of the flood plain, 
+as the mountains are certainly impassable. 
+~
+86 32832 6
+D2
+~
+~
+0 0 8618
+D9
+~
+~
+0 0 8620
+S
+#8620
+On the River Qix~
+   Your heart skips a few beats as you are shoved through a hollow rock 
+formation, along with a good-sized swordfish! It seems to be having a 
+thankless time as well, as it gets scraped along the wall, bloodying the 
+surrounding water and snapping its jaws at you. Before you can count all its 
+teeth, you are expelled into a wider section of the river once again. 
+~
+86 32832 6
+D6
+~
+~
+0 0 8621
+D7
+~
+~
+0 0 8619
+S
+#8621
+On the River Qix~
+   A sky normally devoid of all but the occasional huge predator is suddenly 
+filled with a torrent of black furry creatures resembling tailless beavers. 
+Quite apart from the swordfish in the river, these seem to take off like a 
+shot for the cave-mouth as soon as they hit the water, instead of moving 
+about in a search for prey. You fight to stay afloat as they occasionally hit 
+you, some weighing more than a decent-sized sack of gold coins. 
+~
+86 32832 6
+D8
+~
+~
+0 0 8620
+D9
+~
+~
+0 0 8622
+S
+#8622
+A Bend in the River Qix~
+   The walls of the river become smoother and closer together, and you are 
+bounced out of the river into the air several times due probably to 
+formations on the bottom. Hoping that a reverse result does not occur, you 
+notice that at least there are fewer rocks near the surface than there were 
+to the south... 
+~
+86 32832 6
+D1
+~
+~
+0 0 8623
+D7
+~
+~
+0 0 8621
+S
+#8623
+On the River Qix~
+   Just when you thought things could not become more bizarre, You hear a 
+deafening buzz of electricity as a ball lightning the size of a musket ball 
+tears out of the western side of the riverbank and nicely toasts a falling 
+lemming. As its ashes scatter on the foam of the rapids, you gag at the smell 
+and ponder what could produce lightning with enough charge to rip through the 
+ground like that. 
+~
+86 32832 6
+D0
+~
+~
+0 0 8624
+D3
+~
+~
+0 0 8622
+S
+#8624
+River Qix before the Cavern~
+   As you hurtle towards the mountain to the north, you don't see the actual
+point where the river is to become subterranean...you hope it's big enough to
+admit you, since you don't seem to have much choice. The aerial lemming
+assault seems to thin out, but on the other hand, the swordfish have somewhat
+less distraction now.
+~
+86 32832 6
+D0
+~
+~
+0 0 8649
+D2
+~
+~
+0 0 8623
+S
+#8625
+The western foothills~
+   Having ventured north from the causeway, you enter the western fringe of
+what is clearly a saltwater flood-plain, although right where you're standing
+has all the features of an ordinary conifer forest. Surveying the surrounding
+area, you see some species that ordinarily shouldn't withstand repeated dousing
+in saltwater. You shake your head as a flying squirrel pounces on a lobster.
+~
+86 32772 0
+D0
+~
+~
+0 0 8629
+D1
+~
+~
+0 0 8626
+D2
+~
+~
+0 0 8610
+S
+#8626
+On the western floodplain~
+   The ground is strewn with boulders twice your size, and these are covered 
+with an assortment of colored slimes and seaweed. You find yourself expending 
+a great deal of effort trying not to slip and mash your skull against them. A 
+dank mist surrounds the rocks, and you can't quite see the ground off to the 
+distance. 
+~
+86 32768 4
+D0
+~
+~
+0 0 8630
+D1
+~
+~
+0 0 8627
+D3
+~
+~
+0 0 8625
+S
+#8627
+On the western floodplain~
+   The flood-plain begins to level out as you enter a muddy area thickly 
+covered with horse-tail plants, the bases of which are easily wider than your 
+body and which rise what seems like an endless length into the mist. 
+Something above the mist makes a loud bellow, and you wonder what kind of 
+avian creature would make such a noise... 
+~
+86 32768 0
+D0
+~
+~
+0 0 8631
+D1
+~
+~
+0 0 8628
+D3
+~
+~
+0 0 8626
+S
+#8628
+On the western floodplain~
+   The ground here becomes a mire of wet clay, as you stand before the jagged 
+rock formation which makes travelling east to the riverbank impossible. You 
+do a doubletake as a creature resembling a cross between a roc and a grizzly 
+bear perched atop the rocks lets out a magnificent howl. You shiver in your 
+boots... 
+~
+86 32768 0
+D0
+~
+~
+0 0 8632
+D3
+~
+~
+0 0 8627
+S
+#8629
+The western foothills~
+   What immediately grabs your attention as you move further into the small 
+strip of forest is a patch of charred ground, and a complicated series of 
+drag marks and heavy foot-prints. Oddly, your gut instinct is in doubt about 
+whether the firebreather was the predator in this instance, as the burn marks 
+are not very large. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8633
+D1
+~
+~
+0 0 8630
+D2
+~
+~
+0 0 8625
+S
+#8630
+On the western floodplain~
+   Further hints as to the builders of the causeway tantalize your interest 
+as a series of huge obsidian blocks are strewn across the plain. A horde of 
+large scorpions scuttle by, stemming your archaeological interests for a 
+moment as you stand ready to confront whatever might be lurking behind the 
+stones. 
+~
+86 32768 4
+D0
+~
+~
+0 0 8634
+D1
+~
+~
+0 0 8631
+D2
+~
+~
+0 0 8626
+D3
+~
+~
+0 0 8629
+S
+#8631
+On the western floodplain~
+   The stones think  out here , , and you regret moving out of their 
+cover as the sound of something resembling a bear emanates from above tehe 
+top of the cattails to the south and southeast. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8635
+D1
+~
+~
+0 0 8632
+D2
+~
+~
+0 0 8627
+D3
+~
+~
+0 0 8630
+S
+#8632
+On the western floodplain~
+   The clay here is a bit firmer than it is to the south, and a number of odd 
+outcroppings resembling barnacles crunch beneath your feet. The mist is a 
+little lighter, and you can see that the rock formations to the east are not 
+nearly as tall as those closer to the sea. To the north you can see odd 
+hexagonal rock formations of basalt mark off the edge of the flood plain. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8636
+D2
+~
+~
+0 0 8628
+D3
+~
+~
+0 0 8631
+S
+#8633
+The western foothills~
+   Dark obsidian cliffs block your progress to the north, as the forested 
+area abruptly ceases. You feel that you are being watched... 
+~
+86 32768 0
+D1
+~
+~
+0 0 8634
+D2
+~
+~
+0 0 8629
+S
+#8634
+On the western floodplain~
+   The sheer walls of the rock face continue eastward towards the river, and 
+some of the mosses that live in the forest to the west spill over into this 
+area. Saltwater amphibians croak at you and hop about. 
+~
+86 32768 4
+D1
+~
+~
+0 0 8635
+D2
+~
+~
+0 0 8630
+D3
+~
+~
+0 0 8633
+S
+#8635
+On the western floodplain~
+   There is somewhat less firm ground here, as the clay more characteristic 
+of the flood-plain covers the surface and rises to meet the rocks. A large 
+mound of clay to the east attracts your attention, as does a strange 
+sensation of heat from that direction... 
+~
+86 32768 0
+D1
+~
+~
+0 0 8636
+D2
+~
+~
+0 0 8631
+D3
+~
+~
+0 0 8634
+S
+#8636
+A mound on the western floodplain~
+   Lumps of molten clay and shards of glowing glass litter the surface of the 
+sand, surrounding a raised crater in the ground. It looks like something 
+first sailed into the ground, stopped, rose again, and tore off eastward to 
+the river. Smoke rises from pieces of burning plant matter as you contemplate 
+the meaning of this spectacle. 
+~
+86 32768 0
+D2
+~
+~
+0 0 8632
+D3
+~
+~
+0 0 8635
+S
+#8637
+Among the jagged boulders~
+   Amid the assortment of jagged formations which make up the east bank of 
+the river you find one final piece of the ship you saw smashed at the 
+estuary, the tip of the foremast, which has attached to it the tattered 
+remains of a samurai crest. It is indisputably the crest of the TacO, a great 
+samurai warrior who frequented a land far to the east of here -- five hundred 
+leagues at least. What he was doing here recently is a question burning in 
+your mind as you hold the wet fibers of the flag in your hand. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8641
+D1
+~
+~
+0 0 8638
+S
+#8638
+On the eastern floodplain~
+   At this point the eastern half of the floodplain meets the rocks bordering 
+the river. The causeway rises steeply to the south of you, and a single tall 
+horse-tail plant with a large nest in the top rises from the center of this 
+small quagmire. 
+~
+86 32768 0
+D1
+~
+~
+0 0 8639
+D3
+~
+~
+0 0 8637
+S
+#8639
+On the eastern floodplain~
+   The ground here is much wetter than the forested area to the east, but the
+downward sloping to the west is far less dramatic than that toward the sink
+to the north. Several parallel ruts in the ground wheel about in complex
+patterns, but you guess that the ultimately originate to the north.
+~
+86 32768 0
+D0
+~
+~
+0 0 8643
+D1
+~
+~
+0 0 8640
+D3
+~
+~
+0 0 8638
+S
+#8640
+The eastern foothills~
+   The ground here extends north from the causeway on an almost even level, 
+and you sense that this half of the flood-plain is far less erratic terrain 
+than that on the western half of the river. To the north you see a finely 
+constructed shack, and you note that this part of the foothills virtually 
+never sees any water from the sea. 
+~
+86 32772 0
+D0
+~
+~
+0 0 8644
+D2
+~
+~
+0 0 8617
+D3
+~
+~
+0 0 8639
+S
+#8641
+On the eastern floodplain~
+   The riverbank takes a slight westward veer as you find yourself standing 
+upon clay once more. Small patches of crab-grass break through the surface in 
+irregular patches. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8645
+D1
+~
+~
+0 0 8642
+D2
+~
+~
+0 0 8637
+S
+#8642
+On the eastern floodplain~
+   You are on the eastern floodplain bordering a large sink in the ground. To 
+the west you can hear the river and to the north you can see the dark 
+obsidian mountain which seems to melt into the overcast sky. Unfortunate 
+victims of land predators are strewn about here, with teethmarks in them the 
+size of your fist. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8646
+D1
+~
+~
+0 0 8643
+D3
+~
+~
+0 0 8641
+S
+#8643
+A sink in the eastern floodplain~
+   Confirming your worst suspicions, to the west of the shack you find a 
+bulette burrow. Several broods of them are tended by their loving, rapacious 
+guardians, who waste no time in preparing their lunch! 
+~
+86 32768 0
+D0
+~
+~
+0 0 8647
+D1
+~
+~
+0 0 8644
+D2
+~
+~
+0 0 8639
+D3
+~
+~
+0 0 8642
+S
+#8644
+A shack in the eastern foothills~
+   Despite the simplicity of the dwelling you have just entered, you find 
+that it is impeccably clean and neat. Several rather utilitarian-looking 
+pieces of furniture adorn the single-room shack, and it even sports a small 
+stove-and-chimney. From the look of the dust on the table, the place seems to 
+have been deserted for perhaps a month, but there are no cobwebs. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8648
+D2
+~
+~
+0 0 8640
+D3
+~
+~
+0 0 8643
+S
+#8645
+On the eastern floodplain~
+   You wander into this part of the flood plain only to be nearly over-run by 
+hordes of black-furred lemmings! As long as you ignore them, they continue to 
+treat you likewise, but their rather shiny teeth seem a convincing deterrant 
+to your attacking them, especially as they seem to have a sort of hive 
+intelligence. You watch as an unfortunate peryton tries to pounce on the 
+crowd: within a matter of perhaps a second, it is immolated and its antlers 
+are systematically crushed against what is actually not particularly rocky 
+ground. The lemmings involved in the attack abruptly move in an expanding 
+spiral from the carcass and resume their mad dash westward... 
+~
+86 32768 0
+D1
+~
+~
+0 0 8646
+D2
+~
+~
+0 0 8641
+S
+#8646
+On the eastern floodplain~
+   The rumbling of the lemmings' traversal of the ground is punctuated by the 
+stomping of several large bulettes, in which the hive mentality of the 
+lemmings has perhaps met its match. Several of the furry creatures haplessly 
+dangle from the largest land-shark, as it thrashes about and devours one of 
+their comrades. 
+~
+86 32768 0
+D1
+~
+~
+0 0 8647
+D2
+~
+~
+0 0 8642
+D3
+~
+~
+0 0 8645
+S
+#8647
+A bluff in the eastern foothills~
+   The foothills abruptly descend into a small cliff-face, as the clay of the 
+flood-plains meets the grass of the foothills. The ground rumbles slightly 
+beneath your feet, and you watch with surprise as a stream of dark-furred 
+creatures burst out of the cliff face and run westward towards the river. 
+~
+86 32768 0
+D1
+~
+~
+0 0 8648
+D2
+~
+~
+0 0 8643
+S
+#8648
+The eastern foothills~
+   Alpine flowers cover this grassy meadow in the foothills. The flood-plain 
+actually does not extend quite this far north, so the forest continues in 
+some degree to the west. To the south you can see a small shack. 
+~
+86 32768 0
+D2
+~
+~
+0 0 8644
+D3
+~
+~
+0 0 8647
+S
+#8649
+At the mouth of the river cave~
+   By this point on the river there is a terrific din of clamoring predators, 
+prey, and the noise of the river's flow comi bined, and the foam on the 
+surface is so thick you have difficulty seeing much of anything... 
+~
+86 32832 6
+D1
+~
+~
+0 0 8650
+D2
+~
+~
+0 0 8624
+D3
+~
+~
+0 0 8651
+S
+#8650
+On the dark rapids~
+   And then all at once the noise ceases abruptly. Anything much bigger than 
+yourself gets ground against the rocks at the mouth of the cave, and 
+accompanies you into the darkness as a thick red paste. Before you can decide 
+what that smells like, you realize that you are completely underwater and 
+shooting through a tube only a few feet wide,,,   ... 
+~
+86 32833 6
+D3
+~
+~
+0 0 8651
+S
+#8651
+On the dark rapids~
+   Having sustained some nice bruises on your trip through the tube, you 
+suddenly sense that you are no longer closely confined, and can breathe 
+freely again. Otherwise things are still completely dark, and the eerie 
+hooting of something resembling neo-otyughs fills the air. ...Nah, couldn't 
+be. They dont like the water, right? 
+~
+86 32833 6
+D6
+~
+~
+0 0 8652
+S
+#8652
+A vortex on the dark rapids~
+   The cold is not the only reason you're shivering...the hooting noises are
+getting louder, and you fear that it will be only a matter of time before the
+omnivorous beasts track you down. On the positive side of things, your eyes
+have adjusted a bit better to the dark, and you can see the jagged walls of
+the cavern, which contain large chunks of pure metals and gem deposits. Of
+course, greed is somewhere down on your list of priorities right now...
+~
+86 32833 6
+D1
+~
+~
+0 0 8653
+D2
+~
+~
+0 0 8652
+D3
+~
+~
+0 0 8652
+D6
+~
+~
+0 0 8654
+S
+#8653
+On the dark rapids~
+ The dark rapids seem to continue endlessly...Things seem a little brighter
+to the north, and a little warmer to the south. Otherwise it's pretty
+miserable.
+~
+86 32833 6
+D0
+~
+~
+0 0 8654
+D1
+~
+~
+0 0 8656
+D2
+~
+~
+0 0 8657
+D3
+~
+~
+0 0 8652
+S
+#8654
+A vortex on the dark rapids~
+   The speed of the river picks up, and the walls take on an eerie light as 
+some kind of natural phosphor deposits shine, revealing some fascinating 
+scenes along the sides of the rapids. You briefly glimpse what is 
+unmistakably a fire-newt fishing kayak, and above it past the edge of the 
+river you see a small cave. You judge that you can just barely sail over the 
+boat into the cavern if you jockey yourself to slide across a large flat rock 
+near you -- not the most pleasant of schemes, but the cold has deadened the 
+pain of recent events, and curiosity steals over you. 
+~
+86 32833 6
+D0
+~
+~
+0 0 8654
+D2
+~
+~
+0 0 8653
+D6
+~
+~
+0 0 8662
+D9
+~
+~
+0 0 8655
+S
+#8655
+A waterfall in the dark rapids~
+   The darkness of the tunnel abruptly ends -- perhaps prematurely -- with 
+two sources of light. The brighter of the two is an amazing star-shaped 
+formation in the ceiling, which lets in a dull overcast light. What's amazing 
+about it is the huge pieces of cut emerald which outline the hole, and cast 
+green rays of light upon the water. This almost distracts you from the fact 
+that you are about ten seconds from falling towards the second source of 
+light, which is several hundred feet beneath you. Unperturbed, the lemmings 
+cheerfully dart up, pockmarking the light from the hole and skipping the 
+actual edge of the waterfall in their dive. 
+~
+86 32833 6
+D5
+~
+~
+0 0 8663
+D7
+~
+~
+0 0 8654
+S
+#8656
+On the dark rapids~
+   The river sounds louder to the northeast, and you can see that not all of 
+the predators which followed you into the darkness perished. Swordfish 
+occasionally dart out of the water and splash near you, but you are too 
+dulled by recent history to really be more afraid of them. 
+~
+86 32833 6
+D3
+~
+~
+0 0 8653
+D6
+~
+~
+0 0 8661
+S
+#8657
+A stinking morass~
+   Having almost become accustomed to the cold and dark of the river, you are 
+suddenly jarred as you realize you have hit a pocket of warm mud. The next 
+thing you notice is the unbelievable miasma rising from it, and you hope 
+nothing lives here...as much as the warmth is a relief, you couldnt escape 
+very quickly. 
+~
+86 32833 6
+D0
+~
+~
+0 0 8653
+D1
+~
+~
+0 0 8658
+D5
+~
+~
+0 0 8660
+S
+#8658
+Air pocket in the morass~
+   In order to see if your fortunes change any, you roll across the top of 
+the mud and end up being briefly in danger of suffocating yourself, only to 
+fall into some kind of enclosed space within the mud layer. After noting that 
+the smell here is the worst it's been so far, you listen carefully and note 
+that the sound of the river seems somehow..underneath you by some distance. 
+~
+86 32833 6
+D1
+~
+~
+0 0 8656
+D2
+~
+~
+0 0 8659
+S
+#8659
+Somewhere above the dark rapids~
+   As you tumble out of the mud, completely covered in it and struggling to 
+clean it out of your eyes, you are additionally thrown off balance by a 
+deafening call from the beast you have been fearing for some minutes now. 
+Although the agitation from the stomping of the neo-otyugh is helping shake 
+the mud off, this is *not* the best way to enter a fight... 
+~
+86 32833 0
+D5
+~
+~
+0 0 8661
+S
+#8660
+The CRUSHING mud layer~
+   Your last thought as the mud engulfs you is that you've never been this 
+thin before... 
+~
+86 32770 0
+D4
+~
+~
+0 0 8657
+S
+#8661
+A wide chamber in the dark rapids~
+   The echoing howls now carry an odd reverberation, and you can make out the 
+outlines of a large chamber in which you can see several neo-otyughs, 
+juveniles it would seem, feeding on swordfish. As you brush aside dismembered 
+rows of shark teeth trying not to get cut on them, you wish you had the dark 
+fur of the lemmings to protect you from their sight. The water seems to be a 
+little warmer off to your right, and you wonder if that change is for the 
+better. 
+~
+86 32833 6
+D1
+~
+~
+0 0 8657
+D4
+~
+~
+0 0 8659
+D8
+~
+~
+0 0 8656
+S
+#8662
+A narrow tunnel near the rapids~
+   The last object your head expected to smack into today was a pillow -- but 
+there it is. You continue to sail through the fire-newts' living room across 
+their cooking fire, setting half the pillow on fire. However, before the 
+burning pillow does any serious damage to your face, the impact with the far 
+wall of the tunnel nicely stamps out the flames, and you slide to the ground 
+in front of some fairly stunned inhabitants. 
+~
+86 32832 0
+D6
+~
+~
+0 0 8655
+S
+#8663
+Falling in the dark~
+   The abuse continues..You bounce alternately between the opposing wall of 
+the cave, which now rather mercifully consists of a degree of moss and dirt 
+instead of sharp obsidian, the lemmings, whose squeals elicit what little 
+humor you've had so far on this trip, and the surface of the waterfall, which 
+is actually a rather thin layer of water. The light beneath you increases as 
+you hurtle downward. 
+~
+86 32833 0
+D4
+~
+~
+0 0 8655
+D5
+~
+~
+0 0 8664
+S
+#8664
+Falling in the dark~
+   The abuse continues..You bounce alternately between the opposing wall of 
+the cave, which now rather mercifully consists of a degree of moss and dirt 
+instead of sharp obsidian, the lemmings, whose squeals elicit what little 
+humor you've had so far on this trip, and the surface of the waterfall, which 
+is actually a rather thin layer of water. The light beneath you increases as 
+you hurtle downward. 
+~
+86 32833 0
+D4
+~
+~
+0 0 8663
+D5
+~
+~
+0 0 8665
+S
+#8665
+Falling in the dark~
+   The abuse continues..You bounce alternately between the opposing wall of 
+the cave, which now rather mercifully consists of a degree of moss and dirt 
+instead of sharp obsidian, the lemmings, whose squeals elicit what little 
+humor you've had so far on this trip, and the surface of the waterfall, which 
+is actually a rather thin layer of water. The light beneath you increases as 
+you hurtle downward.
+~
+86 32833 0
+D4
+~
+~
+0 0 8664
+D5
+~
+~
+0 0 8666
+S
+#8666
+Falling in the dark~
+   It's now bright enough to see the base of the waterfall, and for whatever 
+reason most of the noise you're now hearing is the intermittent splashing of 
+the lemmings hitting the bottom. To your relief, a fair amount of waterborne 
+moss is at the bottom, promising to soften your impact. 
+~
+86 32833 0
+D4
+~
+~
+0 0 8665
+D5
+~
+~
+0 0 8667
+S
+#8667
+The northern mouth of the dark rapids~
+   It's not the impact that is to be feared. It's the fact that the upward 
+fight through the moss takes more than a minute after the initial squish. 
+Taking a hint from the lemmings and grabbing one, you traverse the last half 
+of the distance in a matter of seconds and emerge to see the bright exit from 
+the rapids. Some of the lemmings yap and frolic near the entrance, apparently 
+having completed their journey. 
+~
+86 32832 6
+D0
+~
+~
+0 0 8668
+D4
+~
+~
+0 0 8666
+S
+#8668
+A Bizarre Sight~
+   Having let go of your bawling friend, you stand upon a small islet just to 
+the north of the cave and survey the new lands to the north. The river 
+continues, albeit at a much slower pace, through a chilly forested area 
+dotted with gingkos and various thorny-looking weeds. Off to the distance you 
+can see a pair of streams empty into the river consisting of frozen slush. 
+The water-moss formations continue into the river to the north, and the 
+lemmings rest on these to catch warmth from a sun which is otherwise 
+completely obscured by overcast clouds elsewhere. 
+~
+86 32832 6
+D0
+~
+~
+0 0 8669
+D2
+~
+~
+0 0 8667
+S
+#8669
+Wading through the thick moss~
+   Taking time to survey the new area you have stumbled upon, you are taken
+aback by the eastern and western edges of this hidden river valley, which
+consist of sheer walls made apparently of solid ruby gems which rise at least
+a mile into the clouds. This boggling display of what must be some very
+powerful magic indeed causes you to wonder whether coming here and meddling
+in what is behind it might not be a mistake...the view one sees now, of
+course, is nothing compared to the carvings you might see close-up if you
+could climb there...
+~
+86 32832 6
+D0
+~
+~
+0 0 8670
+D2
+~
+~
+0 0 8668
+S
+#8670
+Wading through the thick moss~
+   The moss here seems colder, and the sun no longer shines through to the 
+water. Up ahead to the north, the stream of slush empties silently into the 
+river from the left. 
+~
+86 32832 6
+D0
+~
+~
+0 0 8671
+D2
+~
+~
+0 0 8669
+S
+#8671
+Thick moss near the cold slurry~
+   Your initial impression that these two bodies of slush were separate and 
+that both emptied into the river was incorrect, as the current from the west 
+is strong enough to shove the slush through the river mostly and continue 
+onward to the east. The moss here seems to barely be able to take the 
+punishment and remain rooted in the riverbed. Nature can be deceiving, 
+however... 
+~
+86 32836 6
+D0
+~
+~
+0 0 8681
+D1
+~
+~
+0 0 8676
+D2
+~
+~
+0 0 8670
+D3
+~
+~
+0 0 8672
+S
+#8672
+On the cold slurry~
+   Fighting your way upstream, you find that there are creatures that enjoy 
+even colder surroundings than do the ice toads. Odd shelled creatures 
+resembling starfish scamper about the surface of the slurry, oblivious to 
+your presence for the most part. 
+~
+86 32768 6
+D1
+~
+~
+0 0 8671
+D3
+~
+~
+0 0 8673
+S
+#8673
+On the cold slurry~
+   This section of the brook is bordered with a mix of deciduous trees and 
+alders, and odd looking primates peer out from their branches, as if trying 
+to fathom your intrusion into their abode. 
+~
+86 32768 6
+D1
+~
+~
+0 0 8672
+D8
+~
+~
+0 0 8674
+S
+#8674
+On the cold slurry~
+   The ice here is painfully cryogenic, and you fight the numb cold and the 
+stiff current while trying to press on to the origin of the brook. 
+~
+86 32768 6
+D6
+~
+~
+0 0 8673
+D9
+~
+~
+0 0 8675
+S
+#8675
+The falling column of slush~
+   You are met by a bizarre sight: the slush seems to originate from a portal 
+about twenty feet in the air and right next to a ledge on the western ruby 
+wall, which is as richly adorned as the eastern one. What appear to be 
+flailing limbs of hapless elementals cut through the air with powerful swipes 
+as they sail downward into a jagged pit of rocks. Whoever built the portal 
+had an at best ambivalent relationship with ice elementals, you surmise, and 
+the ones in front of you seem none to happy! 
+~
+86 32768 6
+D7
+~
+~
+0 0 8674
+S
+#8676
+On the cold slurry~
+   This small icy brook continues east from the river...small amphibious 
+creatures defy your expectation that nothing would want to live in such a 
+cold environment. The trees along the bank become denser as you trudge east. 
+~
+86 32768 6
+D3
+~
+~
+0 0 8671
+D7
+~
+~
+0 0 8677
+S
+#8677
+On the cold slurry~
+   The brook turns slightly southward here, and the slush takes on a brownish 
+color as the slightly warmer ice starts pulling some mud with it. Several 
+rather impressive looking birds alight on the nearby treetops, signaling 
+that ordinary flying creatures have a bit better time of it in this area. 
+~
+86 32768 6
+D1
+~
+~
+0 0 8678
+D9
+~
+~
+0 0 8676
+S
+#8678
+On the cold slurry~
+   The brook seems choked with boulders in this section of the river..as you
+look closely at some of them, they seem to have humanoid features. The final
+signal that convinces you that they are in fact living beings is when one
+suddenly makes a slow step out onto the grass of the riverbank, its grey
+trunk clearly contrasting with the blue-green background.
+~
+86 32768 6
+D0
+~
+~
+0 0 8679
+D3
+~
+~
+0 0 8677
+S
+#8679
+The tepid brook~
+   The remainder of the slush starts to melt altogether as you can finally 
+see the floor of the brook is actually very uneven, and has all sorts of 
+strange tubular formations which must extend hundreds of feet down. You 
+wonder how you did not step in one of them and perish by now. Having moved a 
+fair distance east from the river, you survey the ruby wall and see that it 
+contains thousands of magnificent runic inscriptions, some of which can 
+clearly be recognized by clerics and mages as alternative or precursor 
+formula for spells like armor and sanctuary. Whoever built the wall 
+originally must have been interested in being a patron of magic to some 
+degree, you guess... 
+~
+86 32768 6
+D2
+~
+~
+0 0 8678
+D6
+~
+~
+0 0 8680
+S
+#8680
+A blue geyser~
+   The brook here disappears into a deep pool with a magnificent green-plated 
+rock in the center. One catch: the rock seems to be snoring... As you try to 
+dogpaddle around the turtle dragon without annoying it, You see that further 
+progress either up the wall or into it is unfeasible. 
+~
+86 32768 6
+D8
+~
+~
+0 0 8679
+S
+#8681
+Before the lake-settlement~
+   The moss thins out here as you enter a cobalt-colored basin bordering a 
+large lake. In the center of the lake you see an impressive wooden structure 
+in the shape of an "X" upon a large island covered with brilliant patches of 
+flowers. Surrounding the lake is a settlement of relatively crude buildings, 
+and several hundred humanoids of various descriptions are wandering about and 
+fishing on the lake. You find that either side of the lake-shore is 
+accessible from this point, or you can take the risky approach and head 
+straight for the island. 
+~
+86 32836 6
+D0
+~
+~
+0 0 8696
+D2
+~
+~
+0 0 8671
+D6
+~
+~
+0 0 8689
+D9
+~
+~
+0 0 8682
+S
+#8682
+Western lake shore~
+   This side of the settlement seems to house the more civilian aspects of 
+whatever is transpiring. A number of thatched huts with various emblems 
+mounted outside their doorways dot the landscape, and pairs of guards of 
+various races stand alertly in front of them. Some kind of 'foreign quarter'
+has been set up here, and a large magic portal for unloading cargo from 
+faraway places has been set up in the northwest corner, heavily guarded. 
+Everything from driders to yagnodaemons are plying their wares, as a sort of 
+mercantile plaza on a dusty but otherwise flat clearing clashes with what you 
+expected to be a simple kobold village.
+~
+86 32768 0
+D7
+~
+~
+0 0 8681
+D9
+~
+~
+0 0 8683
+S
+#8683
+Western lake shore~
+   To the east of the trading square you find yourself struggling to stay out
+of the way of hordes of kobold workers carrying crates of merchandise on wooden
+pallets into a large skiff.  Looking into the skiff (if you are detecting
+invisible at the moment) you see that this is a cover-up for merely moving the
+crates through another portal.  Someone is apparently going to fair lengths to
+disguise their trading operations as mere food shipments to the village.  In
+disbelief you watch as a crate full of about fifty man-sized mithril chainmails
+whizzes past, carried by half a dozen panting kobolds.
+~
+86 32768 0
+D0
+~
+~
+0 0 8684
+D3
+~
+~
+0 0 8686
+D7
+~
+~
+0 0 8682
+S
+#8684
+Western dock~
+   The hut of the Drow embassy is off to the left, but to the east you see 
+the same assortment of crude kobold fishing boats as you can find on the 
+eastern shore of the settlement. There is a restrained air here, however as 
+the natives try to ignore the forbidding slender guards. Not that the guards 
+would care very much to venture from the shade of the doorway :) 
+~
+86 32768 0
+D2
+~
+~
+0 0 8683
+S
+#8685
+Kobold elder's hut~
+   This rather crude circular room contains the elder's personal effects, 
+such as his jars of herbs and masks for carrying out ceremonies, and a thick 
+walking stick adorns the far wall next to his bed where he sleeps. The elder 
+is reputedly a light sleeper, however. :) 
+~
+86 32768 0
+D3
+~
+~
+0 0 8688
+S
+#8686
+Trading Square~
+   A chatter of hundreds of different languages fills the air as you see an 
+unbelievable panorama of people wandering the square. About half of them are 
+wearing neat lavender kimonos bearing the seal of the herbalist, and carrying 
+parchments, evidently organized materiel requests...the other half are rather 
+sinister types from the lower planes, and you hope you don't have a bad 
+record with anyone they work for.
+~
+86 32768 0
+D0
+~
+~
+0 0 8687
+D1
+~
+~
+0 0 8683
+S
+#8687
+Cargo Portal~
+   The portal is roughly two hundred feet in diameter, and a large wedge 
+shaped basalt stone in front of it serves as a ramp for offloading cargo. 
+Lining the ramp on either side are a dozen elite drider guards carrying 
+rather nasty, efficient-looking steel crossbows, and you are thankful that 
+they have other duties today instead of looking for trespassers. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8688
+D2
+~
+~
+0 0 8686
+S
+#8688
+Muddy road outside a large hut~
+   Ducking behind the rather grandiose and forbidding scene of the portal, 
+you discover the now-tame looking wilderness again, and note that the village 
+elder's hut is to the east. Its style of construction is for once typical of 
+kobold architecture -- a simple circular arrangement of poles crowned with 
+leaves of trees much like those seen near the slurry. 
+~
+86 32768 0
+D1
+~
+~
+0 0 8685
+D2
+~
+~
+0 0 8687
+S
+#8689
+Eastern lake shore~
+   Surveying the settlement, you find that the majority of the inhabitants 
+are kobolds, but of some strain that seems more dignified than normal...if 
+one patronized them and taught them cleanliness and some technology, this is 
+how they'd turn out. But to what purpose, you wonder...clean shaven kobold 
+lancers wander about in twos and threes, obviously on the way to performing 
+some organized task. 
+~
+86 32768 0
+D6
+~
+~
+0 0 8690
+D8
+~
+~
+0 0 8681
+S
+#8690
+Eastern lake shore~
+   This seems to be the southern end of the moorings for the kobold fishing
+boats. As you wander down the dusty lane and look to your west, the crude
+vessels seem to be well laden with swordfish and some of the black lemmings.
+A number of kobold youths are jabbering at each other and hauling the
+carcasses ashore, and one or two stare quizzically at you as you pass.
+~
+86 32768 0
+D0
+~
+~
+0 0 8691
+D1
+~
+~
+0 0 8693
+D8
+~
+~
+0 0 8689
+S
+#8691
+Eastern dock~
+   Here at the north end of the fishing docks is a large skiff that you guess 
+must belong to the wicca herself, as a large painted symbol of the deadly 
+nightshade plant proudly gleams from the port bow. Several rather muscular 
+guards -- apparently duergar, the wonders never cease -- stand guard, holding 
+rather nasty looking long-hammers. To the north you see a large fire, and the 
+pleasing smell of cooked meat emanates from that general direction. 
+~
+86 32768 0
+D0
+~
+~
+0 0 8692
+D2
+~
+~
+0 0 8690
+S
+#8692
+At the common grill-pit~
+   Having arrived at the source of the smoke, you discover something you 
+probably wouldn't have guessed: Kobolds actually aren't such bad cooks.. 
+Several dozen skewers laid over a huge fire hold a multitude of fare. One 
+kobold, somewhat plumper than your usual image of the race, barks orders at 
+his subordinates as they tend the fire, and a fair number of village dwellers 
+mill about munching on their handiwork. 
+~
+86 32768 0
+D2
+~
+~
+0 0 8691
+S
+#8693
+The kobold supply shop~
+   Stepping into the hut's crude doorway, you find that the walls are covered 
+with various implements for fishing, butchering, and various agricultural 
+tasks, as well as an assortment of things not usually expected in a kobold 
+settlement, such as spell components and alcoholic beverages. A lean kobold 
+wearing the seal of the wicca turns his sharp gaze upon you from behind a 
+crudely constructed glass case. 
+~
+86 32912 0
+D0
+~
+~
+0 0 8695
+D3
+~
+~
+0 0 8690
+S
+#8694
+Kobold supply shop storage room~
+Hello mortals. You're about to be spending some time in the cold nether
+regions if you've been foolish enough to find this room. see POLICY.
+~
+86 1024 0
+S
+#8695
+The mushroom patch~
+   Here in the northeast corner of the kobold settlement stands a large field 
+of mushrooms, of bright fluorescent colors unlike any you have ever seen. 
+Some seem to shine with their own light in the dark, and you realize that 
+several of them are carnivorous, catching fireflies in a method similar to 
+that of a venus fly-trap. Female kobolds wander the field, deftly uprooting 
+the mushrooms with long shear-like instruments so as not to get bitten. 
+~
+86 32768 0
+D2
+~
+~
+0 0 8693
+S
+#8696
+The lake before the palace of the wicca~
+   The warm waters of the lake seem to be naturally effervescent... across 
+the bubbling surface of the water to the north you see a muddy trail rise 
+around the perimeter of the island. 
+~
+86 32832 6
+D0
+~
+~
+0 0 8705
+D2
+~
+~
+0 0 8681
+D6
+~
+~
+0 0 8700
+D9
+~
+~
+0 0 8697
+S
+#8697
+In a placid lake~
+   The still waters of the lake are a welcome respite from the recent assault 
+of cold and rapids, and you almost doze on the surface as you watch kobolds 
+fish for large salmon from their boats. 
+~
+86 32832 6
+D0
+~
+~
+0 0 8698
+D7
+~
+~
+0 0 8696
+S
+#8698
+In a placid lake~
+   The still waters of the lake are a welcome respite from the recent assault 
+of cold and rapids, and you almost doze on the surface as you watch kobolds 
+fish for large salmon from their boats. 
+~
+86 32832 6
+D0
+~
+~
+0 0 8699
+D2
+~
+~
+0 0 8697
+S
+#8699
+In a placid lake~
+   As the fishing boats become less common, so do the salmon, but a thick 
+stream of bubbles emanates from the northeast... 
+~
+86 32836 6
+D2
+~
+~
+0 0 8698
+D6
+~
+~
+0 0 8704
+S
+#99999
+$~

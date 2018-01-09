@@ -1,0 +1,35 @@
+>fight_prog 3~
+  mpechoat $r $I stares at you funny and cleans his ear.
+  mpechoaround $r $I stares at $R funny and cleans his ear.
+  mpdamage $r 50
+  mpdrainmana $r 4d5
+~
+>fight_prog 1~
+  mpecho A storm giant has arrived to help $I!
+  mpmload 8812
+  mpforce 8812 kill $r
+~
+>fight_prog 3~
+  mpechoat $r You slip, scream, and fall of the Eastern Ruby Wall to the geyser!
+  mpechoaround $r $R slips, screams, and falls off the Eastern Ruby Wall to the geyser!
+  mpdamage $r 350
+  mpdrainmove $r 100
+  mptrans $r 8680
+  mppose $r sit
+~
+>fight_prog 3~
+  cast 'word of death' $r
+~
+>fight_prog 3~
+  cast 'chain lightning' $r
+~
+>fight_prog 3~
+  cast 'curse' $r
+~
+>fight_prog 3~
+  cast 'disintegrate' $r
+~
+>fight_prog 3~
+  cast 'petrify' $r
+~
+|

@@ -1,0 +1,118 @@
+>all_greet_prog 100~
+  if isscript($i)
+  else
+    mptrigger $n greeting
+  endif
+~
+>script_prog greeting~
+  mpechoat $n A brilliant light shines down about you.
+  mpechoaround $n A brilliant light shines down about $n.
+  say You come for what purpose?
+@
+  say Divinity?
+@
+  say Power?
+@
+@
+  say Passage?
+~
+>fight_prog 5~
+  bash
+~
+>speech_prog divinity~
+  if isscript($i)
+  else
+    mptrigger $n divinity
+  endif
+~
+>speech_prog power~
+  if isscript($i)
+  else
+    mptrigger $n power
+  endif
+~
+>speech_prog passage~
+  if rand(40)
+    if isscript($i)
+    else
+      mptrigger $n passage
+    endif
+    break
+  endif
+  if isscript($i)
+  else
+    mptrigger $n passage2
+  endif
+~
+>script_prog passage~
+  #
+  say Passage to where?
+@
+  say Here, there and everywhere?
+@
+  cackle
+@
+  say Perhaps to the Crypt?
+@
+@
+    say In a church, upon a mountain, a candle grows dim.
+    say Find the man, by the candle, there you will find your passage.
+@
+    mpecho With his final words the light disappears.
+    mpgoto 26566
+    mpoload 26406
+    mpforce monk rem all.key
+    mpforce monk junk all.key
+    give key monk
+    mpforce monk hold key
+    mpgoto cleaner
+    break
+~
+>script_prog passage2~
+  #
+@
+@
+  say You claim the right of passage to where?
+@
+  say The city of Derlin? A lovely little city.
+@
+@
+  say A riddle for your troubles.
+@
+@
+    say A stone orc, like an orc of old, but of stone.
+    say His might will impress, his mace address.
+    mpecho With it's final words the light disappears.
+@
+    mpgoto 26406
+    mpoload 26406
+    mpforce monument rem all.key
+    mpforce monument junk all.key
+    give key monument
+    mpforce monument hold key
+    mpgoto cleaner
+    break
+~
+>script_prog power~
+  #
+  say Power hungry are we, know not that greed be a cardinal sin?
+@
+@
+  say I was once a man like yourself, wanter of this and that.
+@
+  say Until one day, that want was turned and I wanted nothing.
+  say May you yourself one day know that feeling.
+~
+>script_prog divinity~
+  #
+  say Ah divinity, it is something I offer my followers.
+  say They lead a life where they need nothing, and want for nothing.
+@
+  say Alas your mind is more free than that of my followers.
+@
+@
+  say I would offer you this life of divinity if you were not so.
+~
+|
+
+

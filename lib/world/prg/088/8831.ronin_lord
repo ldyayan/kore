@@ -1,0 +1,51 @@
+>fight_prog 3~
+  if rand(50)
+    mpecho Another Ronin Lord joins the attack with $I!
+    mpmload 8831
+    mpforce 8831 kill $r
+  else
+    mpecho A shadow ronin joins the attack with $I!
+    mpmload 8601
+    mpforce 8601 kill $r
+  endif
+~
+>fight_prog 5~
+  mpecho $I makes a ghostly howl..!
+  if rand(33)
+    mpcallmagic 'scare' all
+  endif
+~
+>fight_prog 3~
+  cast 'blindness' $r
+~
+>fight_prog 3~
+  cast 'colorspray' $r
+~
+>fight_prog 3~
+  cast 'forget' $r
+~
+>fight_prog 3~
+  cast 'sleep' $r
+~
+>fight_prog 3~
+  cast 'web' $r
+~
+>fight_prog 3~
+  cast 'burning hands' $r
+~
+>fight_prog 3~
+  cast 'strength' $i
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I shimmers and disappears...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

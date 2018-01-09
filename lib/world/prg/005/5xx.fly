@@ -1,0 +1,8 @@
+>rand_prog 100~
+if isaffected($r, fly)
+  smile $r
+else
+  cast 'fly' $r
+endif
+~
+|

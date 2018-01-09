@@ -1,0 +1,1634 @@
+#30100
+A Dusty Path in the Plains~
+  You have turned off the rough path behind you and are now walking on
+a dry dusty path.  It is amazing how the tall grasses live in this immese
+heat.  The hot wind is blowing from the south, and the bright sun is 
+beating down from a clear blue sky. The path continues south/
+~
+301 0 0
+D2
+~
+~
+0 0 30101
+S
+#30101
+A Dusty Path in the Plains~
+  The path you procede on is dry and dusty, the grass and weeds growing
+on the rim of the trail is high and dry, so dry it breaks at the slightest
+touch.  The path continues south for what seems forever.
+~
+301 0 2
+D0
+~
+~
+0 0 30100
+D2
+~
+~
+0 0 30102
+S
+#30102
+A Dusty Path in the Plains~
+  The path you procede on is dry and dusty.  The grass and weeds growing
+on the rim of the trail are high and dry, so dry they break at the
+slightest touch.  The path continues south for what seems forever.
+~
+301 0 2
+D0
+~
+~
+0 0 30101
+D2
+~
+~
+0 0 30103
+S
+#30103
+A Dusty Path in the Plains~
+  The path you procede on is dry and dusty.  The grass and weeds growing
+on the rim of the trail are high and dry, so dry they crumble at the 
+slightest touch.  The path continues south for what seems forever.
+~
+301 0 2
+D0
+~
+~
+0 0 30102
+D2
+~
+~
+0 0 30104
+S
+#30104
+An Intersection on the Dusty Path~
+  You have come to an intersection in the path.  You may go east, west
+south and from where you came north.  Looking east and west it seems
+as though the trail has no end.  To the south you notice a line of tall 
+trees.  
+~
+301 0 2
+D0
+~
+~
+0 0 30103
+D1
+~
+~
+0 0 30107
+D2
+~
+~
+0 0 30109
+D3
+~
+~
+0 0 30105
+S
+#30105
+A Western Path in the Plains~
+  You are now walking to the west on the dusty path.  You
+can see forever in front of you.  The blistering heat isnt letting up
+and your feet are getting tired. You may continue further west if
+you dare.
+~
+301 0 2
+D1
+~
+~
+0 0 30104
+D3
+~
+~
+0 0 30106
+S
+#30106
+A Western Path in the Plains~
+  You are still walkin on this same western path.  You are starting 
+to feel the affects of the sun on your body, hunger, thirst, fatigue, it
+might be best to turn back.
+~
+301 0 2
+D1
+~
+~
+0 0 30105
+D3
+~
+~
+0 0 30106
+S
+#30107
+An Eastern Path in the Plains~
+  You are now walking to the east on the dusty path.  You can see
+forever in front of you.  The blistering heat isn't letting up and  
+your feet are getting tired.  You may continue further east if you 
+dare.
+~
+301 0 2
+D1
+~
+~
+0 0 30108
+D3
+~
+~
+0 0 30104
+S
+#30108
+An Eastern Path in the Plains~
+  You are still walking on this same eastern path.  You are starting
+to feel the affects of the sun on your body, hunger, thirst, fatigue, it
+might be best to turn back,
+~
+301 0 2
+D1
+~
+~
+0 0 30108
+D3
+~
+~
+0 0 30107
+S
+#30109
+A Dusty Path in the Plains~
+  Travelling south past the intersection you notice the foliage seems
+to look more healthy, it isn't as hot, and there is a nice breeze 
+blowing from the south-east.  You see a copse of trees way south yonder.
+~
+301 0 2
+D0
+~
+~
+0 0 30104
+D7
+~
+~
+0 0 30110
+S
+#30110
+A Bend in the Dusty Path~
+  The path makes a subtle turn to the east.  The air is cool, the sun
+is warm, it is a small paradise.  Your nose can pick up a faint aroma
+of burning wood.  The path continues south-east further.
+~
+301 0 2
+D7
+~
+~
+0 0 30111
+D9
+~
+~
+0 0 30109
+S
+#30111
+A Bend in the Dusty Path~
+  The bend in the path seems to straighten out ahead.  You are very
+close to the forest now.  The treese, bushes and grass looks very healthy
+and not one plant seems to be suffering.  There is a faint smell of
+burning wood in the air today.
+~
+301 0 2
+D8
+~
+~
+0 0 30112
+D9
+~
+~
+0 0 30110
+S
+#30112
+The End of the Dusty Path~
+  You have come to the end of the dusty path.  Directly in front of you
+is the forest, green and full.  To the East and West there are small
+footpaths, although there seems to be a small path going south.
+~
+301 4 2
+D1
+~
+~
+0 0 30113
+D2
+~
+~
+0 0 30126
+D3
+~
+~
+0 0 30192
+D6
+~
+~
+0 0 30111
+E
+(null)~
+
+~
+S
+#30113
+The Eastern Footpath~
+  You are traveling on the eastern pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beutiful, and
+plentifull.  The path is not very large, possibly rarely used. 
+The path continues east.
+~
+301 0 3
+D1
+~
+~
+0 0 30115
+D3
+~
+~
+0 0 30112
+D6
+~
+~
+0 0 30114
+S
+#30114
+Leaves of Three Let it be~
+  You have just walked into a large patch of ridiculously sized 
+plants of Poison Ivy.  Don't you remember what mom used to say? Leaves
+of three let it be.
+~
+301 0 3
+D8
+~
+~
+0 0 30113
+S
+#30115
+The Eastern Footpath~
+  You are travelling on the eastern pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beautifull, and
+plentifull.  The path is not very large, possibly rarely used.
+The path continues east.
+~
+301 0 3
+D1
+~
+~
+0 0 30116
+D3
+~
+~
+0 0 30113
+S
+#30116
+The Eastern Footpath~
+  You are travelling on the eastern pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beautifull, and
+plentifull.  The path is not very large, possibly rarely used.
+The path continues north-east.
+~
+301 0 3
+D3
+~
+~
+0 0 30115
+D6
+~
+~
+0 0 30117
+S
+#30117
+The Eastern Footpath~
+  You are travelling on the eastern pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beautifull, and
+plentifull.  The path is not very large, possibly rarely used.
+The path continues north-east.
+~
+301 0 3
+D6
+~
+~
+0 0 30118
+D8
+~
+~
+0 0 30116
+S
+#30118
+The End of the Eastern Footpath~
+  You have reached what seems to be the end of the path.  As you peer
+to every side of you the thick forest seems too crowded to travel.  In
+front of you appears a mysterious man draped in coal black robes.
+~
+301 16 3
+D8
+~
+~
+0 0 30117
+S
+#30119
+Under Asmodian's Cloak~
+storage room for asmodian
+~
+301 0 3
+S
+#30120
+The Western Footpath~
+  You are travelling on the western pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beautifull, and 
+plentifull.  The path is not very large, possibly never used.
+The path continues further north-west.
+~
+301 0 3
+D1
+~
+~
+0 0 30192
+D9
+~
+~
+0 0 30121
+S
+#30121
+The Western Footpath~
+  You are travelling on the western pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beautifull, and
+plentifull.  The path is not very large, possibly never used.
+The path continues further west.
+~
+301 0 3
+D3
+~
+~
+0 0 30122
+D7
+~
+~
+0 0 30120
+S
+#30122
+The Western Footpath~
+  You are travelling on the western pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beautifull, and
+plentifull.  The path is not very large, probably never used.
+The path continues further west.
+~
+301 0 3
+D1
+~
+~
+0 0 30121
+D3
+~
+~
+0 0 30123
+S
+#30123
+The Western Footpath~
+  You are travelling in the western pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are uttlery beautifull, and
+plentifull.  The path is not very large, probably never used.
+The path continues further south-west.
+~
+301 0 3
+D1
+~
+~
+0 0 30122
+D8
+~
+~
+0 0 30124
+S
+#30124
+The Western Footpath~
+  You are travelling on the western pathway, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beautifull, and
+plentifull.  To the south you can see a small creek, it's babbling is
+quite soothing yo your mind.  
+The path continues further south.
+~
+301 0 3
+D2
+~
+~
+0 0 30125
+D6
+~
+~
+0 0 30123
+S
+#30125
+A small creek~
+  You have reached what seems to be the end of the path, a small creek
+flows before you to the south.  To travel past the creek seems silly
+as there is nothing as far as you can tell up ahead.  
+~
+301 0 3
+D0
+~
+~
+0 0 30124
+S
+#30126
+The Southern Path~
+  You are travelling on the southern path now.  To the south you see
+a large gate with what seems to be 2 guards guarding it.  To
+the north you see a path that intersects with an east and west.
+~
+301 0 3
+D0
+~
+~
+0 0 30112
+D2
+~
+~
+0 0 30127
+S
+#30127
+The Ghakis Town Gate~
+  You are travelling on the southern path now, in the middle of the
+woods.  Up ahead you can see what appears to be two guards standing in 
+front of a large wooden gate inbetween a row of large trees, and in-
+passable brush.
+~
+301 0 3
+D0
+~
+~
+0 0 30126
+D2
+~
+gate~
+2 30109 30128
+S
+#30128
+Crimson Street~
+  You are on the main street of the town Ghakis, Crimson Street.  It
+runs far south quite a bit, with small huts on each side.  The street
+in plain dirt with weeds sprouted randomly, and bones scattered
+throughout the walkway.
+~
+301 0 1
+D0
+~
+gate~
+2 30109 30127
+D2
+~
+0~
+0 0 30129
+S
+#30129
+Crimson Street~
+  You are on the main street of the town Ghakis, Crimson Street.  It
+runs far south quite a bit, with small huts on each side.  The street
+is plain dirt with weeds sprouted randomly, and bones scattered 
+throughout the walkway.
+~
+301 0 1
+D0
+~
+~
+0 0 30128
+D1
+~
+flimsy wooden door~
+1 0 30130
+D2
+~
+~
+0 0 30132
+D3
+~
+flimsy wooden door~
+1 0 30131
+S
+#30130
+A Small Hut~
+  You are in a small hut, very plain in design.  There is a bed on the
+left wall, and a small table on the right.  Chairs are scattered about
+wherever the resident decides to sit.
+~
+301 0 0
+D3
+~
+flimsy wooden door~
+1 0 30129
+S
+#30131
+A Small Hut~
+  You are in a small hut, very plain in design.  There is a bed on the 
+left wall, and a small table to the right.  Chairs are scattered about
+wherever the resident decides to sit.
+~
+301 0 0
+D1
+~
+flimsy wooden door~
+1 0 30129
+S
+#30132
+Crimson Street~
+  You are on the main street of the town Ghakis, Crimson Street.  It
+runs far south quite a bit, with small huts on each side.  The street
+is plain dirt with weeds sprouted randomly, and bones scattered 
+throughout the walkway.
+~
+301 0 0
+D0
+~
+~
+0 0 30129
+D1
+~
+~
+0 0 30135
+D2
+~
+~
+0 0 30133
+D3
+~
+huge oak door~
+1 0 30134
+S
+#30133
+Crimson Street~
+  You are on the main street of the town Ghakis, Crimson Street.  It
+runs far south quite a bit, with small huts on each side.  The
+street is plain dirt with weeds sprouted randomly, and bones
+scattered throughout the walkway.
+~
+301 0 1
+D0
+~
+~
+0 0 30132
+D1
+~
+sturdy steel door~
+1 0 30138
+D2
+~
+~
+0 0 30136
+D3
+~
+thick steel door~
+1 0 30137
+S
+#30134
+A Sturdy Looking Hut~
+  You have entered a large room, obviously owned by a warrior.  There
+is a large selection of weapons scattered about, swords, maces, axes and 
+what not.  A large table occupies most of the space, it is covered in maps
+and diagrams, mostly about Dragons.
+~
+301 0 0
+D1
+~
+huge oak door~
+2 0 30132
+S
+#30135
+An Odd Smelling Hut~
+  You enter a hut and instantly cover your nose, the smell could
+wake the dead, and probably has.  All around the hut are vials of
+many different liquids, and a man in completely covered in a robe
+in the far end of the hut.
+~
+301 1 0
+D3
+~
+~
+0 0 30132
+S
+#30136
+Ghakis Town Square~
+  You are stading in the town square, the center of Ghakis.  A large
+fountain occupies most of the space, with small benches around the 
+perimeter.  You notice guards looking your way, making sure there
+is no trouble, while citizens rush about doing thier duties.
+~
+301 0 1
+D0
+~
+~
+0 0 30133
+D1
+~
+0~
+0 0 30139
+D2
+~
+~
+0 0 30178
+D3
+~
+~
+0 0 30143
+S
+#30137
+Skag's Armours~
+  You have entered Skag's armours, the walls and floor are covered
+with a variety of armor, breast plates, leggings, gauntlets, helms
+and what not.  Skag standing behind a small desk, he dosen't look
+like someone to mess with.
+~
+301 0 0
+D1
+~
+thick steel door~
+1 0 30133
+S
+#30138
+Kaon's Weaponry~
+  You have entered a weapons shop, noticing the wide array of
+death dealing devices scattered about.  You can find anything from swords
+to maces to knives or daggers.  On the left wall you notice a ladder
+that leads to a trap door not hidden too well
+~
+301 0 0
+D1
+~
+thick metal door~
+2 0 30161
+D3
+~
+sturdy steel door~
+1 0 30133
+S
+#30139
+Vuchar Avenue~
+  You are on Vuchar Avenue, travelling east.  Vuchar Avenue runs to
+the east and the west.  There are huts on both sides of the road, and
+far far ahead you can see the east wall.
+~
+301 0 1
+D0
+~
+~
+0 0 30158
+D1
+~
+~
+0 0 30140
+D2
+~
+~
+0 0 30159
+D3
+~
+~
+0 0 30136
+S
+#30140
+Vuchar Avenue~
+  You are on Vuchar Avenue, travelling east.  Vuchar Avenue runs
+to the east and west.  There are huts on both sides of the road, and 
+far ahead you see the east wall.
+~
+301 0 1
+D0
+~
+thick metal door~
+2 30130 30160
+D1
+~
+~
+0 0 30141
+D2
+~
+~
+0 0 30162
+D3
+~
+~
+0 0 30139
+S
+#30141
+Vuchar Avenue~
+  You are on Vuchar Avenue, travelling east.  Vuchar Avenue runs
+to the east and west.  There are small huts on both sides of the
+road, and ahead you can see the east wall.
+~
+301 0 1
+D0
+~
+~
+0 0 30163
+D1
+~
+~
+0 0 30142
+D3
+~
+~
+0 0 30139
+S
+#30142
+The East Wall~
+  You are at the eastern most side of the town, at the wall.  It 
+is a tall wall, the stone seems very sturdy yet old.  Atop the
+wall there are large metal spikes, most likely to deter intruders.
+~
+301 0 1
+D3
+~
+~
+0 0 30141
+S
+#30143
+Vuchar Avenue~
+  You are on Vuchar Avenue, travelling west.  The road seems to come
+to and end abruptly up ahead.  There seems to be a large blue shimmering
+wall, it is somewhat transparent, but the images you see on the other
+side are distorted due to the nature of the wall.
+~
+301 0 1
+D1
+~
+~
+0 0 30136
+D3
+~
+illusion~
+2 30123 30144
+S
+#30144
+A Bright Yellow Road~
+  You may still be on Vuchar Avenue but it is much different now.  The
+road is glowing a bright yellow.  There are still small huts on each
+side of the road but they are much nicer.  This area of the town has a
+certain wierd feeling to it, as if you are being watched.
+~
+301 1 1
+D0
+~
+curtain~
+2 30162 30145
+D1
+~
+illusion~
+2 30123 30143
+D2
+~
+vine covered door~
+2 30160 30146
+D3
+~
+~
+0 0 30147
+S
+#30145
+A Red Glowing Hut~
+  The hut you have entered is certainly different than anything you've 
+ever seen.  There is a small swirling vortex on the far wall covered
+by a large gate, locked of course.  The right and left of the hut is
+comprised of tables covered in a variety of flasks, potions, and body
+parts.  
+~
+301 0 0
+D2
+~
+curtain~
+2 30162 30144
+D5
+~
+grate~
+1 0 30149
+S
+#30146
+An Elementalists Hut~
+  The hut you have entered has a strong smell of the earth.  On the far
+wall, where Vorto stands, are 4 books.  The four books appear to be 
+of the four differnt elements of nature, earth, wind, fire and water.
+~
+301 0 0
+D0
+~
+vine covered door~
+2 30160 30144
+S
+#30147
+A Bright Yellow Road~
+  You are walking on the bright yellow road that seems to have continued
+where Vuchar Avenue ended.  There are small huts, yet much nicer than the
+rest of the town.  This area of the town has a certain wierd feeling to it
+as if your being watched.
+~
+301 0 1
+D0
+~
+~
+0 0 30148
+D1
+~
+~
+0 0 30144
+D2
+~
+rotted door~
+2 30161 30150
+D3
+~
+~
+0 0 30151
+S
+#30148
+A Holy Hut~
+  You have entered a hut which is very bright and warm.  On the walls
+there are many crosses, challices and various other religous
+artifacts.  Directly in the back is a man kneeling, most likely praying
+on a small altar.
+~
+301 0 0
+D2
+~
+~
+0 0 30147
+S
+#30149
+A Rank Pit~
+  You have entered Turagar's secret kennel of horrible beings.  There is 
+a metal ladder leading up to the hut above, of course the dog-like beasts
+cannot climb it.  The pit is littered with bones and decaying corpses most
+likely due to the mutant dogs filling the room.
+~
+301 1 0
+D4
+~
+grate~
+1 0 30145
+S
+#30150
+A Dark Hut~
+  You have entered a very dark hut.  You cannot see more than a foot in 
+front of you.  The smell filling the room is almost unbearable, the
+smell of rotting corpses.  In the far end of the hut you notice two 
+glowing dots floating in mid air.
+~
+301 1 0
+D0
+~
+rotted door~
+2 30161 30147
+S
+#30151
+Before the Great Tower~
+  Before you stands a great tower.  It is an incredible structure, with
+it's bricks on the lower portion light colored and the bricks on the higher
+portions dark, a sort of subtle blend the whole way up.  At the top you
+can see a large window with light bearing out, and small amounts of smoke
+shooting out every once in a while.
+~
+301 16 1
+D1
+~
+~
+0 0 30147
+D3
+~
+enourmous steel door~
+2 30131 30152
+S
+#30152
+Inside the Tower~
+  You enter the tower door and the room is very large, yet vacant of 
+furniture.  You can see all the way to the top, and you notice the 
+top of the tower is divided in half.  Half of the upper tower is floor
+while the other half is open.  There are stairs that go up to the ledge
+but they are right against the wall spiraling upwards.  Even though you
+can see to the top, it is very dark.
+~
+301 5 0
+D1
+~
+enormous steel door~
+2 30131 30151
+D4
+~
+~
+0 0 30153
+S
+#30153
+The Circular Staircase~
+  The staircase you are on is attached to the wall, it spirals upwards
+against the wall all the way to the top.  It looks very unsafe mainly
+because there is no rail on one side making it very easy to fall.
+~
+301 0 0
+D4
+~
+~
+0 0 30154
+D5
+~
+~
+0 0 30152
+S
+#30154
+The Circular Staircase~
+  The staircase you are on is attached to the wall, it spirals upward
+against the wall all the way to the top.  It looks very unsafe mainly
+because there is no rail on one side making it very easy to fall.
+~
+301 4 0
+D4
+~
+~
+0 0 30155
+D5
+~
+~
+0 0 30153
+S
+#30155
+The Top of the Staircase~
+  You have reached the top of the staircase, and are standing on the
+top step.  You notice there is no ceiling to this tower, only a slightly
+blurry bubble covering the opening.  near the southern wall you see a 
+small bed of hay, and a very large saddle.
+~
+301 0 0
+D1
+~
+~
+0 0 30156
+D5
+~
+~
+0 0 30154
+S
+#30156
+The West Side of the Ledge~
+  The area you have entered gives you a sudden surge of magical energy.
+There is no ceiling to this tower, only a slightly blurry bubble
+covering the large openeing.  The sky is as black as night above the tower
+and you can hear the thunder, and see the crackling lightning.
+~
+301 1 0
+D1
+~
+~
+0 0 30157
+D3
+~
+~
+0 0 30155
+S
+#30157
+The East Side of the Edge~
+  You have entered the eastern side of the ledge and a large throne of bronzed bones has come into focus.  A dark figure sits at the throne, it is very hard 
+to see him.  To each side of the throne stands two large men in black and 
+red robes.  Directly behind the throne you notice an altar, perhaps the
+place of worship for these vile beasts.  To the left of the altar you see
+a large desk littered with books, scrolls and various parchments.
+~
+301 5 0
+D1
+~
+~
+0 0 30177
+D3
+~
+~
+0 0 30156
+S
+#30158
+Bloodspear Warrior Training Facility~
+  You have entered the Ghakis Guard Trainee room.  There are many 
+novice fighters practicing swordfighting with each other, and there
+are a few people who look quite dangerous, most likely the teachers.
+~
+301 0 0
+D2
+~
+~
+0 0 30139
+S
+#30159
+The Officers Training Room~
+  You have entered the Ghakis officers training room.  There are many
+dangerous looking guards sparring about with each other.  On the east 
+wall you notice a large array of weapons and armor, the towns best.
+~
+301 0 0
+D0
+~
+~
+0 0 30139
+S
+#30160
+The Residence of BloodBane~
+  You have entered the living area of the Bloodspear War-Captain
+BloodBane.  On the walls are hang various weapons which he has obviously
+mastered, and on a small altar in the left hand corner of the hut sits
+a very well crafted and vile looking suit of armor.
+~
+301 0 0
+D0
+~
+adamantium door~
+2 0 30191
+D2
+~
+thick metal door~
+2 30130 30140
+S
+#30161
+Kaon's Weapons Room~
+  As you enter through the thick metal door you see a large locked
+glass cabinet on the far wall.  On the left and right walls are various
+other weapons, the weapons in the cabinet look much more appealing.
+~
+301 0 0
+D3
+~
+thick metal door~
+2 0 30138
+S
+#30162
+The Proving Grounds~
+  You have entered a large spacious hut, it has every variety of weapon
+you could possibly imagine.  In the center on the ground you see a 
+large crest, the same crest worn on Kaon's armor.  This happens to
+be the place where warriors who believe they are worthy come to
+challence Kaon.
+~
+301 0 0
+D0
+~
+~
+0 0 30140
+S
+#30163
+Before The Prison~
+  This area is offset from the hut next door.  And it is not really a
+hut but a stone building.  It has metal bars over the windows, a large
+metal door in the front and a guard sitting on a chair in front of the 
+building.  This is obviously a jail of some sort.
+~
+301 0 1
+D0
+~
+prison door~
+2 30136 30164
+D2
+~
+0~
+0 0 30141
+S
+#30164
+The Prison Hallway~
+  You are in the main hall of the Prison, it is a very simple building 
+with one main hallway and cells on each side.  The cells are
+closed with a thick metal gate, the gate dosen't seem to be steel but
+rather something more sturdy, something you have never seen.
+~
+301 1 0
+D0
+~
+~
+0 0 30167
+D1
+~
+cell~
+2 30130 30165
+D2
+~
+the prison door~
+2 0 30163
+D3
+~
+cell~
+2 30155 30166
+S
+#30165
+A Cell~
+  You are standing in a prison cell.  There is a window on the far wall
+with metal bars making escape impossible.  There is a small bunk on the
+left wall to sleep on and a chair in one of the corners.  On the wall 
+opposite the bunk there are chains bolted to the wall, just in case a 
+prisoner gets a little out of hand.
+~
+301 0 0
+D3
+~
+cell~
+2 30130 30164
+S
+#30166
+A Cell~
+  You are standing in a prison cell.  There is a window on the far wall
+with metal bars to make escape impossible.  On the left wall there is a
+bunk for sleeping and on the right wall there are chains bolted on
+just in case a prisoner gets a little rowdy.
+~
+301 1 0
+D1
+~
+cell~
+2 30155 30164
+S
+#30167
+End of the Short Prison Hallway~
+  You are at the end of the very short hallway in the small prison.  It
+has a locked metal grate, most likely a door, but it has a large lock
+on it.  This small part of the prison has a lot of dust and appears to be
+somewhat of an abandoned area, no one treads on this grate.
+~
+301 5 0
+D2
+~
+~
+0 0 30164
+D5
+~
+grate~
+2 30130 30168
+S
+#30168
+The Prison Basement~
+  You are in the prison's basement.  It is dark, damp and cold.
+~
+301 1 0
+D0
+~
+~
+0 0 30169
+D1
+~
+~
+0 0 30175
+D2
+~
+~
+0 0 30173
+D3
+~
+~
+0 0 30171
+D4
+~
+grate~
+2 30130 30167
+S
+#30169
+The Prison Basement~
+  You are in the prison's basement. It is dark, damp and cold.
+~
+301 129 0
+D1
+~
+~
+0 0 30176
+D2
+~
+~
+0 0 30168
+D3
+~
+~
+0 0 30170
+S
+#30170
+The Prison Basement~
+  You are in the prison's basement.  It is dark, damp and cold.
+~
+301 1 0
+D1
+~
+~
+0 0 30169
+D2
+~
+~
+0 0 30171
+S
+#30171
+The Prison Basement~
+  You are in the prison's basement.  It is dark, damp and cold.
+~
+301 129 0
+D0
+~
+~
+0 0 30170
+D1
+~
+~
+0 0 30168
+D2
+~
+~
+0 0 30172
+S
+#30172
+The Prison Basement~
+  You are in the prison's basement.  It is dark, damp and cold.
+~
+301 1 0
+D0
+~
+~
+0 0 30171
+D1
+~
+~
+0 0 30173
+S
+#30173
+The Prison Basement~
+  You are in the prison's basement.  It is dark, damp and cold.
+~
+301 129 0
+D0
+~
+~
+0 0 30168
+D1
+~
+~
+0 0 30174
+D3
+~
+~
+0 0 30172
+S
+#30174
+The Prison Basement~
+  You are in the prison's basement.  It is dark, damp and cold.
+~
+301 1 0
+D0
+~
+~
+0 0 30175
+D3
+~
+~
+0 0 30173
+S
+#30175
+The Prison Basement~
+  You are in the prison's basement.  It is dark, damp and cold.
+~
+301 129 0
+D0
+~
+~
+0 0 30176
+D2
+~
+~
+0 0 30174
+D3
+~
+~
+0 0 30168
+S
+#30176
+The Prison Basement~
+  You are in the prison's basement.  It is dark, damp and cold.
+~
+301 1 0
+D2
+~
+~
+0 0 30175
+D3
+~
+~
+0 0 30169
+S
+#30177
+The Throne Room of Lord Havok~
+  You have entered the throne room of the archmage Havok.  What you
+thought you had seen a few steps back is gone.  You are in an empty room
+with a mirror on each wall surrounding you.  Arcs of electricity leap
+around the mirrors and sometimes leap across the room.  The center of the 
+room seems to be charred in a perfect circle.
+~
+301 33 0
+D3
+~
+~
+0 0 30157
+S
+#30178
+Crimson Street~
+  You are on the main street of the town Ghakis, Crimson Street.  It
+runs far south quite a bit, with huts occasionally on each side.  The
+street is plain dirt with weeds sprouted randomly and bones scattered
+throughout the street.
+~
+301 0 1
+D0
+~
+~
+0 0 30136
+D2
+~
+~
+0 0 30179
+S
+#30179
+Crimson Street~
+  You are on the main street of the town Ghakis, Crimson Street.  It runs
+south for a little bit more, and up ahead you see a large gate.  
+~
+301 0 1
+D0
+~
+~
+0 0 30178
+D2
+~
+~
+0 0 30180
+S
+#30180
+The Forbidden Gate~
+  This is the end of Crimson Street.  In front of you is a large gate with
+no visible lock.  The gate looks old, but still sturdy.  It crackles with
+harmless arcs of electricity.  
+~
+301 0 1
+D0
+~
+~
+0 0 30179
+S
+#30181
+Bazrakk's Study~
+  Upon reaching the top of the ladder you notice the room is well
+lit and quite neat.  This is perhaps the only habitable room in the
+whole town.  There are many swords and maces and other various weapons
+all around the room, even a few staves.  On the far wall is a chair and in 
+it sits a man wearing a clean red robe and a by his side sits
+a large book.  
+~
+301 152 0
+S
+#30182
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the 
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D0
+~
+~
+0 0 30183
+D1
+~
+~
+0 0 30185
+D2
+~
+~
+0 0 30187
+D3
+~
+~
+0 0 30189
+D6
+~
+~
+0 0 30184
+D7
+~
+~
+0 0 30186
+D8
+~
+~
+0 0 30188
+D9
+~
+~
+0 0 30190
+S
+#30183
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D1
+~
+~
+0 0 30184
+D2
+~
+~
+0 0 30182
+D3
+~
+~
+0 0 30190
+S
+#30184
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D2
+~
+~
+0 0 30185
+D3
+~
+~
+0 0 30183
+D8
+~
+~
+0 0 30182
+S
+#30185
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D0
+~
+~
+0 0 30184
+D2
+~
+~
+0 0 30186
+D3
+~
+~
+0 0 30182
+S
+#30186
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D0
+~
+~
+0 0 30185
+D3
+~
+~
+0 0 30187
+D9
+~
+~
+0 0 30182
+S
+#30187
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D0
+~
+~
+0 0 30182
+D1
+~
+~
+0 0 30186
+D3
+~
+~
+0 0 30188
+S
+#30188
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D0
+~
+~
+0 0 30189
+D1
+~
+~
+0 0 30187
+D6
+~
+~
+0 0 30182
+S
+#30189
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D0
+~
+~
+0 0 30190
+D1
+~
+~
+0 0 30182
+D2
+~
+~
+0 0 30188
+S
+#30190
+Atop the Mountain of Storms~
+  You are standing on what seems to be the top of a mountain.  In all
+directions as far as you can see it is dark with storms.  Every so
+often you can feel the reverberations of vicious earthquakes and the
+stinging smell of sulfer from active volcanoes is in the air.  As the
+powerful thunder booms across the land your heart skips a beat.
+~
+301 33 5
+D1
+~
+~
+0 0 30183
+D2
+~
+~
+0 0 30189
+D7
+~
+~
+0 0 30182
+S
+#30191
+BloodBane's Treasure Room~
+  This is the treasure room of the War-Captain.  It contains most
+of the gold from their victories and it also has a couple nice looking
+objects.  This is of course the left overs from after the men get paid.
+~
+301 0 0
+D2
+~
+adamantium door~
+2 0 30160
+S
+#30192
+The Western Footpath~
+  You are travelling on the westen footpath, in front of the forest.  The
+lucious green grasses and tall growing trees are utterly beautiful, and
+plentifull.  The path is not very large, possibly never used.
+~
+301 0 3
+D1
+~
+~
+0 0 30112
+D3
+~
+~
+0 0 30120
+S
+#30193
+Super-Charger Heaven~
+  You are in Heinrich's room.  The walls are covered with White Zombie
+Metallica and Skynyrd posters.  The music is so loud you can barely hear yourself think.  In the corner there is a computer, Heinrich's pathetic
+Dell 486 he uses to play around on Kore with.
+~
+301 393393 0
+S
+#30199
+a spacer room~
+You are in an unfinished room.
+~
+301 0 0
+S
+#99999
+$~

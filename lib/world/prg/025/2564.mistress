@@ -1,0 +1,76 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+  endif
+~
+>rand_prog 1~
+  purr
+~
+>rand_prog 2~
+  if inroom($r) == here
+    glare $r
+    say What do you want with me?
+    mpecho $I shifts about on her emerald throne.
+  endif
+~
+>rand_prog 3~
+  if inroom($r) == here
+    if rand(20)
+      cast 'armor'
+    else
+      if isaffected($i, haste)
+      else
+        if rand(20)
+          cast 'haste'
+        endif
+      endif
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    say Leave here, peons!
+    if rand(30)
+      cast 'cone of cold' $r
+    else
+      if rand(60)
+        cast 'fireball' $r
+      else
+        if rand(100)
+          cast 'chain lightning' $r
+        endif
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoaround $r $I snatches some of the energy bolts from the air and hurls them at $R!
+      mpechoat $r $I channels some of the energy from the room into you!
+      mpcallmagic 'magic missile' $r
+      mpcallmagic 'magic missile' $r
+      mpcallmagic 'magic missile' $r
+      mpcallmagic 'magic missile' $r
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoaround $r $I claps her hands together and a blaze of colors bursts in $R's face!
+      mpechoat $r $I claps her hands joyfully together and sends a burst of colors into your face!
+      mpcallmagic 'color spray' $r
+      mpcallmagic 'color spray' $r
+    endif
+  endif
+~
+>death_prog 100~
+  mppose $i stand
+  mpecho With her dying breath, the Mistress opens a portal to another plane!
+  mpsilent mppurge portal
+  mpoload 2596
+  mpsilent drop portal
+  mppose $i dead
+~
+|

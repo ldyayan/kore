@@ -1,0 +1,39 @@
+                          )                       (
+                         /|\       ,     ,       /|\
+                        / | \      |\___/|      / | \
+   ,                   /  |  \     (/\|/\)     /  |  \                   ,
+   |\_________________________o_____\`|'/_____o_________________________/|
+   |                         ''`     \|/     ''`                         |
+   |    /\  /\___ _ __ ___  ___  ___  V ___  / _|   /\ /\___  _ __ ___   |
+   |   / /_/ / _ \ '__/ _ \/ _ \/ __|  / _ \| |_   / //_/ _ \| '__/ _ \  |
+   |  / __  /  __/ | | (_)|  __/\__ /~\ (_) |  _| / __ \ (_) | | |  __/  |
+   |  \/ /_/ \___|_|  \___/\___||__//~\\___/|_|   \/  \/\___/|_|  \___|  |
+   | _____________________________//___\\_______________________________ |
+   |/                            ((     \\_//                           \|
+   '                              \\     `-'                             ` 
+----------------------------------\/------------------------------------------
+^Gmovement^n:                          V ^Gcommunication^n:
+NORTH SOUTH EAST WEST UP DOWN      | SAY GSAY SHOUT HOLLER TELL ASK WHISPER
+LOOK SCAN EXITS ENTER LEAVE        | MAIL RECEIVE CHECK GOSSIP GRATS AUCTION
+SLEEP WAKE REST SIT STAND          | NOTELL NOSHOUT NOGOSSIP NOGRATS NOAUCTION
+(LOCK UNLOCK OPEN CLOSE)           | CLANSAY LISTEN CHAT
+------------------------------------------------------------------------------
+^Gobjects^n:                           | ^Ginformation^n:
+GET DROP JUNK DONATE PUT GIVE WEAR | SCORE HELP INFO WHO NEWS TIME WEATHER
+GRAB INVENTORY EQUIPMENT REMOVE    | WHERE CONSIDER LEVELS WIZLIST IMMLIST
+EXAMINE EAT DRINK TASTE SAC POUR   | CREDITS TOGGLE FLAGS WIZHELP CLANHELP
+SEARCH                             | AREAHELP CHANGES IMMORTALS QUOTES
+------------------------------------------------------------------------------
+^Gcombat^n:                            | ^Gutility^n:
+KILL WIELD FLEE ASSIST TRACK       | ! BUG IDEA TYPO QUIT SAVE BRIEF COLOR
+(KICK BASH RESCUE BACKSTAB CAST)   | TITLE NOSUMMON COMMANDS SOCIALS PROMPT
+RANGED LINK                        | ANSI
+------------------------------------------------------------------------------
+^Graces^n:
+DWARF DROW DUERGAR ELF GIANT GNOME HOBBIT HUMAN MINOTAUR ORC TROLL
+
+^Gremort races^n:
+ANGEL UNDEAD THRI-KREEN
+
+Help is available on (or through) all of the topics listed above.
+-------------------------------------------------------------------------------

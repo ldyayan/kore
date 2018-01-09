@@ -1,0 +1,499 @@
+#18200
+guard keeper~
+keeper of the tower~
+A keeper of the tower stands here
+~
+Loyal is the only word you would use to describe the man that stands
+before you.  He has pledged his life to the defense of the tower behind
+him and will attack anyone who presents a threat to it.  However, they
+would never stop a sick or wounded person be denied healing here.  At
+his side is a finely worked blade that you are sure the knows how to use,
+and use well.
+~
+6234 128 0 S
+15 20 3 1d1+0 1d1+0
+0 0
+8 8 1 3
+#18201
+keeper watch~
+keeper of the watch~
+Before you stands the keeper of the watch.
+~
+The keeper of the watch is one of the most important people in the day
+to day running of the tower of Demariv.  He takes care of all the little
+things as well as defending the tower from any threat.  He is a very
+tall man and looks to have a few years on him.  He seems very busy at
+work and wonders why you have disturbed him.  He looks at you and says,
+'What is your business here?'
+~
+145754 65720 0 S
+40 20 0 1d1+0 1d1+1
+0 0
+8 8 1 3
+#18202
+peasant sick~
+a sick peasant~
+A sick peasant is waiting for healing.
+~
+You se a small man who looks deathly pale.  As you eye him more closely you
+notice his difficulty in just standing up.  You have heard that many have
+become sick from the disease that the evil has brought from the borderlands
+and the Demariv clerics try tirelessly to cure them.
+~
+72 0 0 S
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#18203
+cleric demariv~
+a demariv cleric~
+A demariv cleric is here.
+~
+A Demariv Cleric is here healing the sick and wounded.
+He pays you no attention.
+
+~
+72 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1 13
+#18204
+Guardian Keep~
+guardian of the keep~
+You see a guardian of the keep.
+~
+As you look at the woman standing in front of you it is obvious that those
+who defend the tower from attack can be either female or male.  However,
+these do not look like ordinary females.  Covered from head to toe in armor
+with only thier eyes exposed you only realize its a woman when one of them
+steps foward and says, 'You must return to the healing chambers.'
+~
+2103386 128 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#18205
+Noest Master~
+Noest, master of the chamber~
+Noest, master of the chamber
+~
+Before you stands a small man, garbed in plain white robes.  The only
+thing that sets him apart from the other clerics in the chamber is
+his ornate staff.  He smiles at you and says, 'How may I heal you my 
+son?'
+~
+178506 168 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#18206
+Fear Creature~
+Fear~
+Fear shakes your soul to its core.
+~
+As you look at this creature you become aware that you don't see any features
+at all yet are overwhelmed by feelings of fear.  You look at it and have no
+idea what it is.  Is a humaniod? or a beast of another sort? will it try to
+kill you? or is it friendly?  They fact that you have no idea what is it runs
+shivers down your spine and you think this might be a good time to leave.
+~
+188510 33960 0 S
+35 20 0 1d1+0 1d1+0
+0 0
+8 8 0
+#18207
+Sickness Creature~
+Sickness~
+A lesion covered creature moves towards you.
+~
+A small creature garbed only in a ragged tunic seems to be covered with
+lesions.  It's "eyes" are dulled and bloodshot as drools all over itself.
+It leans foward and whispers, 'Ahhhh.  Another healthy soul to infect.'  You
+shuffle backward as the man's stench hits you like a wall of smoke.  The only
+thing that keeps you from vommiting is the fear of what this creature might
+do to you while you are.
+~
+256094 33960 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#18208
+Greed creature man GREED_18208~
+Greed~
+A small man in a cloak studies you intently.
+~
+  Before you stands a small man who is cloaked in plain grey garb. He seems
+very ordinary until your gaze meets his lack of eyes. You feel your skin
+crawl as the sensation that he is watching you crawls into the back of
+your mind. For all your experience in combat, the sight of this man leaves
+you with only the primal instict to survive.
+~
+778270 99496 0 S
+55 20 0 1d1+0 1d1+50
+0 0
+8 8 0
+#18209
+Keeper Trials cloaked figure~
+keeper of the trials~
+A cloaked figure stands here.
+~
+Slightly shorter than you stands a man who is complete covered in a woolen
+cloak.  His face is obscured and the only flesh you can see is his small
+withered hands which rest at his side.  You would almost think this person
+was a statue due to its complete and utter stillness.
+~
+43098 0 0 S
+30 20 2 1d1+0 1d1+0
+0 0
+8 8 0
+#18210
+Band Thieves~
+a band of thieves~
+A small group of goblin thieves jumps on you!
+~
+Small and weak individually, these goblins look menacing when grouped
+with each other.
+~
+6270 557056 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#18211
+Troll~
+the troll~
+A small troll is smiling at you.
+~
+It looks, err, unfinished.
+~
+94 32768 0 S
+3 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#18212
+Guardian~
+the guardian~
+The guardian blocks your way.
+~
+You hardly notice that there is a creature before you at all.  It seems to
+just be a tangle of dirt and roots yet it moves with decent speed and 
+agility.  It doesn't seems to be at all interested in your movements and
+you find yourself wondering if it is even sentient.  You wonder what such
+a creature is doin down here and even more so, why a creature like this
+even exists.
+~
+761946 65666 0 S
+34 20 0 1d1+0 1d1+0
+0 0
+8 8 0 7
+#18213
+Woodlock beast~
+a woodlock beast~
+You see a long hairy beast eye his next meal.
+~
+You have never seen a creature like this before.  It you had to place it you
+would describe it as a large beaver of sorts.  Yet this "beaver" is twice
+your size and no legs to speak of.  Even with this apparent shortcoming it
+moves with speed and agility.  It seems as if its entire body is just brown
+hair until it rears what you assume is its head and shows you its multiple
+rows of razor sharp teeth.  This might be a good time to leave...
+~
+669738 622752 0 S
+25 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#18214
+Lim Master~
+Lim, the grand master~
+Lim, the grand master of Demariv asks you purpose here.
+~
+Before you stands a small man who's balding white hair shows he has see the
+passage of many ages.  It is rumored the he is over five-hundred years old
+and posseses great magical powers.  He is garbed in an ornately woven robe
+that is embroidered with symbols that you have never seen before.  He seems
+suprised at your intrusion you he shows no signs of fear as he ask you your
+business here.  
+~
+702814 134321338 0 S
+55 20 0 1d1+0 1d1+50
+0 0
+8 8 1 12
+#18215
+Member Simba~
+Simba, member of the council~
+Simba, member of the council stands here.
+~
+Before you is Simba, one of the 7 members of the council of Lim.
+He is very old as are most members of the council but he's seems
+to have a youthful glow about him.  He wanders and discusses
+issues pertaining to the Demariv guild as well as issues of the
+realm.  He eyes you suspiciously knowing that you should probably
+not be here.
+~
+178520 135303296 0 S
+35 20 0 1d1+0 1d1+0
+0 0
+8 8 1 12
+#18216
+Member Uladir~
+Uladir, member of the council~
+Uladir, member of the council eyes you suspiciously.
+~
+Uladir is the oldest member of the council of Lim.  He is second only 
+to Lim himself.  He wanders the council halls, as do the other members,
+discussing issues with his fellow members.  He wears the traditional
+robes of a council members with a few distinguishing bands on his arm
+to show his seniority.  
+~
+178524 135300264 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#18217
+Member Trulaim~
+Trulaim, member of the council~
+Trulaim, member of the council stands here.
+~
+Before you stands Trulaim, one of the 7 members of the council of Lim.  He
+is the youngest member of the council yet he seems much older than you.
+It is rumored that Trulaim like the other members of the council are the
+oldest men in the land.  As Trulaim sees you he nods and countinues on his
+way.
+~
+178520 135300248 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#18218
+Member Sarrod~
+Sarrod, member of the council~
+Sarrod, member of the council stands here.
+~
+Beauty and grace define Sarrod.  One of only two female members of the
+council she is held in high regard by all members, including Lim.  She is
+dress in the same attire as the other members, which is partially covered
+by her long black hair.  She eyes you cautiously, knowing that few are
+allowed here, yet also with a look of warmth and welcome.
+~
+178520 135299256 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 2 12
+#18219
+Member Tabas~
+Tabas, member of the council~
+Tabas, member of the council stands here.
+~
+Tabas is the youngest and most vocal member of the council.  Although often
+hotheaded he is extremely intellegent and wise, which is why he rose to a
+seat on the council.  At the moment he seems to be talking to himself and
+doesn't even notice you.  
+~
+178520 135300280 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#18220
+Member Brunna~
+Brunna, member of the council~
+Brunna, member of the council stands here.
+~
+Brunna is a very wise and cunning woman.  She is easily as old as the other
+members of the council yet her face is sullen beauty.  She rarely speak
+yet when she does all the council members listen.  She is apparently writing in 
+a small parchment and only glances in your direction.
+~
+178520 135300280 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 2 12
+#18221
+Peddler~
+a peddler~
+A poor peddler tries to sell you his goods.
+~
+A middle aged man attempts to sell his wares.  From what you can tell all
+he has is some poorly made pottery but by the sound of his sales pitch you
+think it was the finest pottery in the land.  He eagerly anticpates your
+purchase and you decide it's probably best to leave now.
+~
+8 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#18222
+Diseased Leper~
+a Leper~
+A hideously deformed person asks you for spare change.
+~
+It looks, err, unfinished.
+~
+4172 512 0 S
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 0 13
+#18223
+Keeper guard~
+an off-duty keeper of the tower~
+An off-duty keeper of the tower sees you and attacks!
+~
+You see a very large and angry warrior who realizes that you should not
+be in this room.  He is armed with a keepers blade like the gate guards
+wore and swings it with grace and power.  You think that he has seen battle
+before as he shows no fear and thrusts at you midsection....
+~
+14458 128 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1 3
+#18224
+Keeper guard~
+keeper of the tower~
+You see a keeper of the tower here.
+~
+   This keeper of the tower looks like the one's you saw at the entrance. His
+face shows nothing but duty as he attempts, without much sucess, to keep 
+order amongst all the peasants around him. However he shows no signs of anger
+or fustration towards them, but only tries to quell disputes and quarrels with
+justice and fairness.
+~
+6488 128 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1 3
+#18225
+merchant man traveling~
+the traveling merchant~
+You see a man on horseback which is pulling a small cart.
+~
+You see a merchant dressed in traveling clothes riding a strong workhorse 
+which is pulling a wagon.  He has most likely come to trade his goods at the
+tower.   Although the tower is for healing the sick and wounded, merchants
+know that where there are people there is profit.  He doesn't seem to pay you
+any mind and continues on his way.
+~
+2136 0 0 S
+10 20 6 1d1+0 1d1+0
+0 0
+8 8 1 8
+#18226
+Keeper tower guard~
+keeper of the tower~
+A keeper of the tower stands here directing the crowd.
+~
+This keeper of the tower looks like the one's you saw at the entrance.  His
+face shows nothing but duty as he attempts to keep order amonst all the
+peasant before him.  However he shows no signs of anger or malice towards
+them but only tries to quell disputes and quarrels with justice and fairness.
+~
+6488 128 0 S
+15 20 3 1d1+0 1d1+0
+0 0
+8 8 1 3
+#18227
+White Dragon Damodred DAMODRED_18227~
+Damodred, the white dragon~
+A huge white dragon sits atop an altar here eyeing your every move.
+~
+Impressive.  That is the only word that you would use to describe the creature
+that sits before you.  With claws that measure the length of your forearm
+she scares you even more now then from the stories you heard of dragons when
+you where a child.  Comfort only comes when she speaks and tells you that
+she will not harm you.  And you do believe she could if she so wished...
+~
+763998 75596984 0 S
+55 20 10 1d1+0 1d1+50
+0 0
+6 6 2 8
+#18228
+Deer~
+a deer~
+A medium sized deer leaps away at the sight of you.
+~
+It appears to be just an ordinary dear who is extremely frightened at the
+sight of you.  He stares for an instant then darts away.
+~
+72 0 0 S
+2 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#18229
+Scribe man small~
+Damodred's scribe~
+A small man sits at a desk.
+~
+This man's only apparent duty is to record everything that Damodred wants
+him too.  He says nothing and just nods when the great white dragon asks
+him something.  He doesn't even turn his head as you approach.
+~
+10 0 0 S
+5 20 10 1d1+0 1d1+0
+0 0
+6 6 1 7
+#18230
+Sleeping Cleric Demariv~
+a sleeping Demariv cleric~
+You see a Demariv cleric sleeping here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 10 10 1d1+0 1d1+0
+0 0
+4 4 1
+#18231
+Refugee~
+a refugee from the northern lands~
+A refugee from the northern land huddles with his family.
+~
+Desperate and tired are the two emotions you put to this man.  He looks
+as if he hasn't slept in days and from the look of his fellow family members
+that is a very likely possiblity.  He looks embrassed as he asks you for
+spare change to feed his family and then angers when you refuse.  His 
+attention is only distract by the keeper who steps in and tells you both
+to move along.
+~
+8 0 0 S
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#18232
+Librarian man~
+Lim's librarian~
+An elderly man slowly organizes the books here.
+~
+Whoever this man is it seems he is in no hurry as he moves books around
+the room.  Apparently he is some sort of librarian for all of the books
+around you.  
+~
+106 32768 0 S
+8 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#18233
+Assistant Lab man~
+Lim's lab assistant~
+A large burly man in a lab smock seems startled by your intrusion.
+~
+ You enterance seems to have startled the man standing behind the table
+filled with potions.  The look on his face is one of fear and concern for
+he is pretty sure your not supposed to be here.  He backs away from you, a
+beaker of purple liquid still in his hands.  
+~
+2058 32768 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#18299
+OSA~
+Osa, the attack Rottwieler~
+Osa, the attack rottwieler, guards the entertaiment system.
+~
+You see a huge female rottwieler who looks as if she would tear you head
+off if you even looked at her wrong.  Just dont touch her chewtoy!!!!
+~
+763998 135364736 0 S
+55 20 -10 1d1+0 1d1+0
+0 0
+6 0 2 4
+#99999
+$~

@@ -1,0 +1,47 @@
+>greet_prog 69~
+  if name($n) == zirnozz
+    bow zirnozz
+  else
+    if isimmort($n)
+    else
+      if ispc($n)
+        if isaffected($n, fly)
+          mpechoaround $n $I suddenly springs its barbed tail out of the water and stings $N!
+          mpechoat $n Before you have a chance to react, a sharp tail bursts out of the water and stings you!
+          mpdamage $n 22d4
+          mpsilent mpcallmagic 'dispel magic' $n
+          mpkill $n
+        else
+          mpechoaround $n $I springs into action as $N swims over it.
+          mpechoaround $n $I tears into $N's flesh with a vicious bite!
+          mpechoat $n All of a sudden you feel something latching onto your back.
+          mpechoat $n Something is BITING you!
+          mpdamage $n 22d6
+          mpkill $n
+        endif
+      endif
+    endif
+  endif
+~
+>rand_prog 3~
+  if hitprcnt($i) < 100
+    cast 'wild heal' $i
+    hide
+  else
+    if isaffected($i, invis)
+      break
+    else
+      mpcallmagic 'invis' $i
+      hide
+    endif
+  endif
+~
+>fight_prog 10~
+  cast 'wild heal' $i
+~
+>death_prog 17~
+  mpecho The tail of the ixitxachitl detaches from its body as you watch it die.
+  mpecho Perhaps you could take it?
+  mpoload 5497
+~
+|

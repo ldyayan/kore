@@ -1,0 +1,148 @@
+#2300
+A Dusty Abode~
+   Standing inside the tiny abode you see a small bed, dresser and closet.
+A small basin and bread sit on the table opposite the bed. Someone was
+here recently as dust sits on the floor near the door. You suspect they
+will return soon as dusk nears.
+~
+23 530440 0
+D0
+~
+~
+0 0 22179
+S
+#2301
+Aunt Pol's Igaloo~
+You are in an unfinished room.
+~
+23 1185800 0
+D0
+~
+~
+0 0 22180
+D2
+~
+~
+0 0 2302
+S
+#2302
+Aunt Pol's Closet of Gidgets~
+You are in an unfinished room.
+~
+23 661504 0
+D0
+~
+~
+0 0 2301
+S
+#2303
+Wild Horse Inn~
+   You see a nicely constructed wooden room here. The smells of a pine
+tree let you relax in quiet, comfortable surroundings.
+~
+23 1050632 0
+D0
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 22126
+S
+#2304
+Saleen's Walk-in Toolbox~
+   You see various tools hanging on the walls. You have to watch out
+walking in this room, you might step on some widgets left on the
+floor...
+~
+23 530440 0
+D2
+~
+~
+0 0 2303
+S
+#2305
+The chamber of darkness~
+This room exists as a portal between the 'real' world and the astral plane.
+It's very dark.  In fact, it's so dark you can't see this room description.
+Here is it that some select few restless wanderers come to leave the game for
+a little while.    You also notice ketchup stains on the walls, half-empty
+beer bottles strewn about the room, and pizza pieces lodged into the carpet.
+~
+23 458829 15
+D0
+Xemc's chamber of storing.
+~
+~
+0 0 2306
+D1
+Xemc's wide, refreshing patio.
+~
+~
+0 0 2307
+E
+dark~
+Yes, It's very dark in here.  You can't see anything.
+~
+S
+#2306
+Xemc's unfinished storage room~
+like the roomname?  Well, it works.
+This is the storage room.  Objects are strewn about the room.
+Amid the fray is a mole of junk, but you see some usable items still.
+There's about 10 stuffed into his trans-dimensional holding circle.
+~
+23 917576 0
+S
+#2307
+The Patio of the House by the River~
+The patio of this quaint and peaceful house is vast in size.  You feel the
+cool breeze coming off of the river Quaivel, and it refreshes your mind as
+well as your body.
+~
+23 1443920 2
+D3
+Xemc's room of Sleeping
+~
+~
+0 0 2305
+D8
+This is just a plain dead end, close to the river.
+~
+~
+0 0 16180
+S
+#2308
+An empty building~
+2
+send your description to zirnozz NOW. HURRY THE SHIT UP.
+~
+23 1185804 0
+D0
+~
+wooden door~
+1 0 18125
+D5
+~
+~
+0 0 2309
+S
+#2309
+Cellar~
+same deal as above, now get off your fat ass and send me a descrip.
+~
+23 661512 0
+D4
+~
+~
+0 0 2308
+S
+#2310
+Dummy room.~
+You are in an unfinished room.
+~
+0 0 0
+S
+#99999
+$~

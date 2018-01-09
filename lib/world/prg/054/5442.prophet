@@ -1,0 +1,22 @@
+>rand_prog 2~
+  if isscript($i)
+  else
+    mptrigger $i prophecy
+  endif
+~
+>script_prog prophecy~
+  mpsilent sit
+  say There will come a day, when Kore will be torn...
+  say and the armies of the Dead shall march on her..
+  say Sister of the Tyrant, she shall bring her knights
+  say and slay all living things..
+  say and slake her thirst with the blood of living creatures!
+  emote trembles with this vision..!
+  #
+  say THIS is the prophecy!!
+  #
+  #
+  #
+  mpsilent stand
+~
+|

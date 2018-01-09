@@ -1,0 +1,60 @@
+>command_prog display~
+  mpgoto cleaner
+~
+>command_prog hit~
+  mpstopcommand
+  mpforce $n initiate
+~
+>command_prog kill~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog bash~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog backstab~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog cast~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog sing~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog use~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog berserk~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog bite~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog trip~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog steal~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog kick~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog gauge~
+  mpforce $n initiate
+  mpstopcommand
+~
+>command_prog breathe~
+  mpforce $n initiate
+  mpstopcommand
+~
+|

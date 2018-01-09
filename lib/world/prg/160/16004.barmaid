@@ -1,0 +1,67 @@
+>greet_prog 3~
+  if ispc($n)
+    if level($n) > 20
+      smile $n
+      say Hello $n, it is good to see you again.
+    endif
+  endif
+else
+  if ispc($n)
+    if level($n) < 20
+      smile $n
+      say Hello friend. Welcome to the Drunken Virgin.
+    endif
+  endif
+~
+>rand_prog 3~
+  mpecho The barmaid scurries back into the kitchen and returns with some ale.
+~
+>rand_prog 3~
+  say Whose hand was that?
+~
+>rand_prog 3~
+  mpecho $I sets her tray down to smooth her skirts and hair.
+~
+>social_prog goose~
+  mpechoat $n $I slaps your hand away and gives you a dirty look.
+  mpechoaround $n $N gets his hand swatted by $I.
+~
+>social_prog pinch~
+  mpechoat $n You are whacked in the head with a serving tray.
+  mpechoaround $n $N is whacked in the head with a serving tray.
+~
+>social_prog kiss~
+  mpechoat $n $I kicks you in your shin and stalks away angrily.
+  mpechoaround $n $N hops up and down after getting kicked by $I.
+~
+>social_prog bkiss~
+  blush $n
+~
+>social_prog ekiss~
+  slap $n
+  mpasound $n You hear a loud *SLAP* from somewhere nearby.
+~
+>social_prog rose~
+  say Aww... how sweet...
+  mpechoat $n $I gives you a kiss on the cheek and a smile for your gift.
+  mpechoaround $n $N receives a kiss on the cheek from $I.
+~
+>social_prog flirt~
+  giggle $n
+  wink $n
+~
+>social_prog lust~
+  glare $n
+~
+>social_prog french~
+  mpechoat $n $I plants a fist right in your nose.
+  mpechoaround $n $N gets a fist right in the nose. OW!
+~
+>social_prog hand~
+  blush $n
+  swoon
+~
+>social_prog greet~
+  smile $n
+~
+|

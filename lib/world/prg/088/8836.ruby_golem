@@ -1,0 +1,115 @@
+>greet_prog 100~
+  if isnpc($n)
+  else
+    if isscript($i)
+    else
+      if isfight($i)
+      else
+        if ismemory($n)
+          peer $n
+        else
+          mpremember $n
+          mptrigger $n story
+        endif
+      endif
+    endif
+  endif  
+~
+>rand_prog 20~
+    if isaffected($i, sanct)
+    else
+      cast 'sanctuary'
+    endif
+~
+>script_prog story~
+  #
+  say Welcome, future sevants of Ulmo.
+  say Or past servants.
+  say Or both.
+  say Whatever...
+  chuckle
+  #
+  say I was the tutor to the Wicca and her sister when they were children in the Giant Castle.
+  say When the Grand Mistress took up her abode in the High Tower of Magic,
+  say I went and lived with her.
+  #
+  say Now, it is time to reveal my true purpose and origin.
+  say I was a gift from Aule,
+  say Lord of Earth and mastersmith of the Valar,
+  say to Eonwe, their herald, early in the first Age of this World.
+  say The Aratar who shaped the World in its beginning continue to craft it even unto this day and beyond,
+  say moving back and forth through the rivulets of Time using portals.
+  say Occasionally, it has pleased the Valar to take lesser spirits of their order,
+  say who have been made to forget their true origin and been hidden some time in the Future,
+  say and reawaken them to their purpose,
+  say and draw them back in Time to assist in their works.
+  #
+  say If you are in fact one of these spirits,
+  say and are therefore the rightful owners of this Key that I hold,
+  say then defeat me in combat, and I will surrender it.
+~
+>fight_prog 5~
+  mpecho $I emits a stream of mind-numbing gas!!
+  mpdamage all 50
+  mpdrainmana all 4d10+10
+  mpcallmagic 'feeblemind' all
+~
+>fight_prog 5~
+  mpechoat $r $I scrapes your skin.  You feel chilled by the cold gemstones...
+  mpechoaround $r $I scrapes $R's skin up!
+  mpdamage all 30
+  mpdrainmove all 3d8
+  # drain some strenth away
+  mpcallmagic 'chill touch' all
+  mpcallmagic 'chill touch' all
+  mpcallmagic 'chill touch' all
+~
+>fight_prog 3~
+  if inroom($r) == here
+    cast 'word of death' $r
+  endif
+~
+>fight_prog 6~
+  if inroom($r) == here
+    cast 'chain lightning' $r
+  endif
+~
+>fight_prog 9~
+  if inroom($r) == here
+    cast 'fireball' $r
+  endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+    cast 'dispel sanct' $r
+  endif
+~
+>fight_prog 15~
+  cast 'restore' $i
+~
+>fight_prog 18~
+  if inroom($r) == here
+    cast 'earthquake' $r
+  endif
+~
+>fight_prog 100~
+  if isscript($i)
+    growl
+    mpstopscript
+  endif
+~
+>death_prog 100~
+  say Congratulations.
+  say But the test is not over.
+  say You must travel to a personal audience with the Lord of Waters in his chief domain,
+  say a place that has long since been sundered to mortals.
+  say This will require the usage of several portals besides the one that uses this key.
+  remove key
+  give key $r
+  drop key
+  say To use this key,
+  say return to the mouth of the river Qix and travel due east to the portal.
+  say Farewell,
+  say I return to the bosom of the Earth from which I was fashioned...
+~
+|

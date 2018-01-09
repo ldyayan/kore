@@ -1,0 +1,654 @@
+#16000
+beer drink mug~
+a mug of beer~
+A beer mug lies, unloved, in the dirt filled with dark amber liquid.~
+~
+17 0 1
+1 1 1 0
+1 20 1
+#16001
+red wine glass~
+a glass of red wine~
+A crystal glass rests here, filled with blood red liquid, smelling of grapes.~
+~
+17 0 1
+1 1 2 0
+1 90 1
+#16002
+ale mug glass~
+a mug of ale~
+A golden brown mug filled with brown liquid rests on a table here.~
+~
+17 0 1
+1 1 3 0
+1 55 1
+#16003
+dark ale mug glass~
+a mug of dark ale~
+A mug filled with very dark brown liquid stands on the counter.~
+~
+17 0 1
+1 1 4 0
+1 85 1
+#16004
+whiskey bottle amber~
+a bottle of whiskey~
+An unlabeled bottle lies in the corner, unopened and dusty.~
+~
+17 0 1
+5 5 5 0
+1 150 1
+#16005
+local specialty liquor~
+a bottle of liquor~
+A bottle of liquor with a skull and crossbones on it sits on a chair.~
+~
+17 0 1
+3 3 8 0
+1 250 1
+#16006
+cup coffee caffeine~
+a cup of coffee~
+A cup of pitch black coffee steams visibly in front of you.~
+~
+17 0 1
+1 1 12 0
+1 15 1
+#16007
+sword longsword ornate~
+an ornate longsword~
+A delicately crafted longsword lies in the dirt here, partially sheathed.~
+~
+5 29760 8193
+0 4 3 3
+15 2200 1
+A
+2 1
+A
+19 1
+#16008
+bread waybread~
+a piece of waybread~
+A small chunk of plain bread lies on a plate here.~
+~
+19 0 1
+3 0 0 0
+1 5 1
+#16009
+loaf bread waybread~
+a loaf of waybread~
+A loaf and golden brown bread sits in the dust.~
+~
+19 0 1
+24 0 0 0
+1 15 1
+#16010
+bread flat~
+a piece of flat bread~
+A slab of bread baked flat and crisp has been set on a table.~
+~
+19 0 1
+20 0 0 0
+1 10 1
+#16011
+apple pastry sugar~
+an apple pastry~
+Sprinkled with soft powdered sugar, a small flaky pastry sits on a plate.~
+~
+19 0 1
+10 0 0 0
+1 23 1
+#16012
+vanilla cookie wafer~
+a vanilla cookie~
+A powdered and sugared cookie steams softly in the cool air.~
+~
+19 0 1
+1 0 0 0
+1 9 1
+#16013
+chocolate cookie wafer~
+a chocolate cookie~
+A dark choclate cookie rests on a cooling rack, steaming softly.~
+~
+19 0 1
+1 0 0 0
+1 9 1
+#16014
+strawberry cake shortcake~
+a strawberry cake~
+A small white cake with cream and strawberries sits here alluringly.~
+~
+19 0 1
+3 0 0 0
+1 65 1
+#16015
+leather waterskin skin~
+a leather waterskin~
+A leather waterskin has been left here.~
+~
+17 0 1
+20 0 0 0
+3 10 1
+#16016
+leather vest shirt~
+a leather vest~
+A leather vest has been left here.~
+~
+9 0 9
+1 0 0 0
+5 40 1
+#16017
+leather boots soft~
+a pair of leather boots~
+A pair of soft leather boots has been left here.~
+~
+9 0 65
+1 0 0 0
+3 20 1
+#16018
+leather pouch ~
+a leather pouch~
+A small leather pouch has fallen from somones belt to rest in the dirt.~
+~
+15 0 1
+15 5 -1 0
+1 5 1
+#16019
+leather pack backpack bp~
+a leather backpack~
+A small leather pack with a clasp hangs from a chair back.~
+~
+15 0 1025
+120 5 -1 0
+1 20 1
+#16020
+leather belt~
+a leather belt~
+A leather belt has been left here.~
+~
+9 0 2049
+1 0 0 0
+1 10 1
+#16021
+leather leggings pants~
+a pair of leather leggings~
+A pair of leather leggings has been left here.~
+~
+9 0 33
+1 0 0 0
+1 20 1
+#16022
+leather cloak cape~
+a leather cloak~
+A leather cloak has been left here.~
+~
+9 0 1025
+1 0 0 0
+1 15 1
+#16023
+jug clay water~
+a clay jug~
+A large clay jug with a cork rests on a table.~
+~
+17 0 1
+40 40 0 0
+15 129 1
+#16024
+flask clay~
+a clay flask~
+A small clay flask sits on its side on the ground.~
+~
+17 0 1
+20 20 0 0
+5 68 1
+#16025
+shirt blue tunic clothes~
+a nice blue shirt~
+A nice blue shirt sits here, folded clean and neatly.~
+~
+9 16 9
+1 0 0 0
+4 450 1
+E
+shirt blue tunic~
+    You see a finely tailored blue shirt in your hands. It is made of a very 
+smooth and sturdy cloth. The sleevs are long and the neckline is cut in a 'V'
+shape. The sleeves billow out nicely and are ridged and uffled to make them
+comfortable and cool.
+~
+#16026
+shirt green tunic clothes~
+a dark green shirt~
+A very deep and rich green shirt rests, half-folded, on a nearby table.~
+~
+9 16 9
+1 0 0 0
+4 500 1
+E
+shirt green tunic~
+    It is crafty of a slightly coarse, but very sturdy fabric. The is stiff and
+feeled almost starched, yet it feels cool against the skin of your hands as you
+hold and examine it. The sleeves are long and billowing and the neckline is a
+deep-cut 'V'.
+~
+#16027
+shirt white tunic clothes~
+a billowing white shirt~
+A mass of white cloth hangs from a nearby wall.~
+~
+9 16 9
+1 0 0 0
+4 390 1
+E
+shirt white tunic~
+    You hold in your hands the smoothest and most silken shirt you have ever
+felt. Its white fabric flows like butter in your hands as you hold and examine
+it. It has billowing long sleeves, a 'V' neckline, and it ruffles with the
+slightest breeze of movement.
+~
+#16028
+cloak black raincoat baladrana~
+a black baladrana~
+A black cloak lies in a heap on the floor before you.~
+~
+9 16 1025
+4 0 0 0
+8 725 1
+E
+cloak black raincoat baladrana~
+    The cloth in your hands has been expertly stitched together to make a heavy
+black baladrana. The cloak has a deep-set hood and is lined in a silken cloth
+fabric. A tie clasp secures it around the shoulders in front of the chest. It is 
+smooth in your hands yet you can feel the oiled coat that makes it waterproof.
+~
+#16029
+breeches green leggins clothes~
+a pair of green breeches~
+A pair of green leggings lay spread across a nearby table.~
+~
+9 16 33
+1 0 0 0
+2 340 1
+#16030
+cassock cap hat clothes~
+a woolen cassock~
+A dark brown woolen cap rests here in a corner.~
+~
+9 16 17
+1 0 0 0
+1 165 1
+#16031
+embroidered surcote cote clothes tabard~
+an embroidered surcote~
+A brightly embroidered surcote has been lain out on a nearby table.~
+~
+9 16 1025
+1 0 0 0
+5 990 1
+#16032
+plaza fountain~
+the plaza fountain~
+A majestic fountain spurts forth a great plume of water high into the air.~
+~
+23 80 0
+999999 999999 0 0
+1 1 1
+E
+fountain pool water waters plume~
+    Before you stands the most strikingly beautiful display of expert
+craftsmanship you have ever seen. Crafted from carved tiles and colored
+mosaic chips, the water fills a basin roughly eighteen inches deep and
+nine feet across. A tiered cascade sculpture rises from the center
+creating a trickling fall of water down through each of the four levels of 
+basin. Out of the very top, a great plume of water erupts straight up in
+regular intervals. The water forms a mushroom before raining down to
+collect in each of the basins. The water itself is crystal clear with its
+ripples focusing shadows down across the bottom of the main basin.
+Tenatively you dip a finger in the water and find it cool and, most likely
+very tasty.
+~
+#16033
+corkscrew screw cork~
+a corkscrew~
+A corkscrew sits here in the dust.~
+~
+5 8768 24577
+4 4 3 11
+4 10000 0
+A
+6 2
+A
+13 -10
+#16034
+wooden longbow bow~
+a wooden longbow~
+A wooden longbow sits here in the dust.~
+~
+6 0 32769
+0 3 2 11
+5 1500 0
+#16035
+flail large~
+a flail~
+A large flail is here.~
+~
+5 0 8193
+0 2 4 7
+6 625 10
+#16036
+warhammer hammer~
+a warhammer~
+A medium sized warhammer is here.~
+~
+5 0 8193
+0 1 5 7
+6 50 10
+#16037
+club wooden~
+a wooden club~
+A simple looking wooden club is here.~
+~
+5 0 8193
+0 1 3 7
+3 12 10
+#16038
+small sword~
+a small sword~
+A small sword lies here.~
+~
+5 8192 8193
+0 1 6 11
+3 60 10
+#16039
+long sword~
+a long sword~
+A long sword has been left here.~
+~
+5 8192 8193
+0 1 8 3
+8 600 10
+#16040
+dagger~
+a dagger~
+A dagger with a long thin blade is here.~
+~
+5 8192 8193
+0 1 4 11
+1 10 10
+E
+dagger~
+  A small silver dagger.
+~
+#16041
+short sword ailos~
+the short sword 'Ailos'~
+A beautiful short sword sits here in the dust.~
+~
+5 0 8193
+0 3 5 15
+1 10000 1000
+A
+5 -2
+A
+19 6
+#16042
+EMPTY SLOT~
+boots of endurance~
+A pair of sturdy leather boots lies here.~
+~
+9 1090 65
+9 0 0 0
+5 8000 1
+A
+5 2
+A
+14 50
+#16043
+scroll identify~
+a scroll of identify~
+A scroll has carelessly been left here.~
+~
+2 64 16385
+12 113 0 0
+1 800 0
+#16044
+potion yellow~
+a yellow potion of see invisible~
+A yellow beaker sits here its contents bubbling slowly.~
+~
+10 64 16385
+12 19 0 0
+1 100 0
+#16045
+scroll recall~
+a scroll of recall~
+A scroll has carelessly been left here.~
+~
+2 64 16385
+12 42 0 0
+1 100 0
+#16046
+wand grey~
+a grey wand of invisibility~
+A grey wand has carelessly been left here.~
+~
+3 64 16385
+12 2 2 29
+2 2000 0
+#16047
+a speckled jug~
+a speckled jug~
+A speckled jug speckles here.~
+~
+10 0 1
+15 15 15 15
+9 3650 0
+#16048
+free potion vial~
+a free vial~
+A free sample vial has been left here.~
+~
+10 68 1
+15 16 0 0
+10 0 0 20
+#16049
+potion speckled~
+a speckled potion~
+A speckled potion speckles here.~
+~
+10 64 1
+15 15 15 0
+6 2500 500
+#16050
+phial speckled~
+a speckled phial~
+A speckled phial speckles here.~
+~
+10 64 1
+15 15 0 0
+3 1300 500
+#16051
+evil money changer~
+an evil money changer~
+An evil money changer has set up a table for business.~
+~
+12 80 0
+0 0 0 0
+0 0 0
+E
+evil money changer~
+The evil man leans close and chuckles!  He looks pretty rich but old and
+evil. He counts money into neater piles than the banker and chuckles
+unwholesomely with each tally in his ledgerbook.
+The evil money changer explains that he can do this for you:
+'BALANCE', 'WITHDRAW <amount>', or 'DEPOSIT <amount>'.
+But then asks, 'Why not just buy a balance sheet and keep track of it
+yourself?!?'
+~
+#16052
+balance sheet~
+a balance sheet~
+A balance sheet sits here in the dust.~
+~
+12 0 1
+0 0 0 0
+2 5000 0
+#16053
+large potion vial~
+a large vial~
+A large vial has been left here.~
+~
+10 64 1
+15 15 0 0
+1 310 0
+#16054
+lute~
+a lute~
+A wooden lute sits here in the dust.~
+~
+24 1 8193
+0 0 0 0
+2 100 0
+#16055
+harp~
+a harp~
+A harp sits here awaiting a player.~
+~
+24 0 8193
+0 0 0 0
+4 120 0
+#16056
+kazoo~
+a kazoo~
+A kazoo sits here.~
+~
+24 0 8193
+0 0 0 0
+1 5 0
+#16057
+fishing trolley~
+a fishing trolley~
+A fishing trolley sits here unattended.~
+~
+27 0 0
+16299 1 0 0
+0 0 0
+#16058
+tiller steering~
+a tiller~
+A tiller sits here waiting for all hands to board.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#16062
+chicken leg~
+a chicken leg~
+A chicken leg that must be farm fresh lays here in the dust.~
+~
+19 0 1
+10 0 0 0
+5 6 10
+#16063
+breast chicken~
+a breast of chicken~
+A breast of chicken that looks really tasty lays here in the dust.~
+~
+19 0 1
+15 0 0 0
+5 35 10
+#16064
+chicken wing~
+a chicken wing~
+A chicken wing that looks really good to eat lays here in the dust.~
+~
+19 0 1
+4 0 0 0
+5 6 1
+#16065
+egg fertilized~
+an egg~
+An egg lies here.~
+~
+26 0 1
+1 16055 0 0
+1 1 0 1
+#16066
+egg unfertilized~
+an egg~
+An egg lies here.~
+~
+19 0 1
+2 0 0 0
+1 3 10
+#16067
+monument gold huge~
+a huge ^ygold^n monument~
+A monument wrought of gold stands in the town square, listing the arena victors.~
+~
+8 0 0
+0 0 0 0
+0 0 0
+E
+scratches~
+Carved near the base of the monument, with what looks a
+small knife, reads:
+
+Fuck all those others, I rule the arena.
+                           -SenorNacho Vherin'Ultrin
+~
+E
+index~
+Index Cleared.
+~
+E
+monument gold huge~
+A large gold warrior, with his sword thrust towards the heavens proclaims
+on a plaque below the names of the people that won the weekly Deathmatch PK
+Tourney. To see the winners, type ^cREAD INDEX^n.
+ 
+ 
+        At the bottom of the monument, you see barely legible ^rscratches^n..
+~
+E
+vvvv~
+yawn, etc
+~
+E
+xxxx~
+yawn
+~
+#16068
+key home~
+a key to a new home~
+The keys to someones front door sits here~
+~
+18 0 1
+0 0 0 0
+0 500000 0
+#16069
+flower petal~
+a flower petal~
+A delicate flower petal lies here.~
+~
+12 0 16385
+0 0 0 0
+0 0 0 3
+E
+flower petal~
+This fragile petal is velvety soft and it feels as though a gust of wind
+might blow it to pieces.
+~
+A
+6 1
+#16070
+good equipment~
+good equipment~
+good equipment~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#99999
+$~

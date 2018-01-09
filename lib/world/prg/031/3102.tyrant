@@ -1,0 +1,50 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    bow zirnozz
+    say How may I best serve you, Goddess?
+    break
+  else
+    if ispc($n)
+      raise $n
+      say What do you think YOU are doing here?
+    endif
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    say Surely you didn't think you could just walk in here and have your way with me!
+    say I AM THE TYRANT OF KORE!
+    say You will die for this offense!!
+    cast 'area word of death' $r
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoat $r $I raises his staff high up in the air and brings it down forcefully on your chest!!
+      mpechoat $r You feel so powerless!
+      mpechoaround $r $I raises his staff high in the air and slams it into $R's chest, stunning them!
+      mppose $r stun
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isfight($r)
+      emote uses his alchemy to create a jug of speckled fluid!
+      mpoload 16047
+      quaff jug
+      mpechoat $r $I belches and heaves the empty jug right at you!!
+      mpechoaround $r $I belches and hurls the empty jug at $R, where it shatters on $L chest!
+      mpdamage $r 13d11+20
+    endif
+  endif
+~
+>death_prog 100~
+  mpecho A look of pure evil flashes in $I's eyes, and then they roll back into his head.
+  mpecho Blood gurgles from his mouth as he falls to the ground -- lifeless.
+  mpsilent junk jug
+  mpsilent junk jug
+  mpsilent junk jug
+~
+|

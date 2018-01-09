@@ -1,0 +1,46 @@
+>all_greet_prog 25~
+  if ispc($n)
+    peer $n
+    say Get lost, punk!
+    mpechoat $n $I hurls you out of the hourglass!
+    mpechoaround $n $I hurls $N of the hourglass!
+    mpstrans $n 22071
+    mpdamage $n 6d15+10
+  endif
+~
+>command_prog unlock~
+  mpechoat $n $I notices you trying to unlock the exit.
+  mpechoaround $n $I notices $N trying to unlock the exit.
+  mpstopcommand
+  mpechoat $n $I laughs then snatches the key from your hand.
+  mpechoaround $n $I laughs then snatches the key from $N's hand.
+  mpsilent mpforce $n drop all.key
+  mpsilent get all.key
+~
+>command_prog steal~
+  mpechoat $n You start reaching for $I's pocket... only to meet $k hand.
+  mpechoaround $n $N starts reaching for $I's pocket... only to meet $k hand.
+  peer $n
+  say Fool.
+  mpforce $n drop all
+  mpechoat $n $I cackles as $j ejects you from the hourglass!
+  mpechoaround $n $I cackles as $j ejects $N from the hourglass!
+  mptransfer $n 22071
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpecho $I pulls a small chain...
+    mpecho And a gout of boiling oil descends from the gargoyle!
+    mpdamage all 8d18+20
+    mpecho OWWWW!!!  That HURT!
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r $I grabs you and spins you out of the hourglass!
+    mpechoaround $r $I grabs $R and spins $L out of the room!
+    disarm $r
+    mptransfer $r 22071
+  endif
+~
+|

@@ -1,0 +1,54 @@
+#35
+the forest of Gol'gorgoth~
+3599 20 2 32
+M 0  3500     3  3521            the wyvern
+M 0  3500     3  3521            the wyvern
+M 0  3500     3  3521            the wyvern
+O 0  3505   103  3521            a mutilated corpse
+O 0  3506   103  3521            a mutilated corpse
+P 1  3507    99  3506                    put an ornate dagger in a mutilated corpse
+O 0  3505   103  3521            a mutilated corpse
+M 0  3501    10  3508            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3509            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3509            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3512            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3512            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3512            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3514            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3516            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3518            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3501    10  3556            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3502     4  3556            the orc lieutenant
+E 1  3500    99    16                    wield a small sword
+M 0  3503     1  3556            the orc chieftain
+E 1  3504    99    16                    wield a small spear
+M 0  3502     4  3551            the orc lieutenant
+E 1  3500    99    16                    wield a small sword
+M 0  3504     1  3575            the small boy
+M 0  3505     1  3576            the Innkeeper
+M 0  3506     3  3577            the solemn bard
+M 0  3507     4  3584            the dark horseman
+E 1  3503    99    12                    about a studded leather jacket
+M 0  3507     4  3584            the dark horseman
+E 1  3503    99    12                    about a studded leather jacket
+M 0  3501    25  3501            the orc
+M 0  3502     5  3515            the orc lieutenant
+E 1  3500    99    16                    wield a small sword
+M 0  3501    25  3515            the orc
+E 1  3502    99    16                    wield a large wooden club
+M 0  3507    15  3582            the dark horseman
+E 1  3503    99     5                    body a studded leather jacket
+E 1  3501    99    16                    wield a fine long sword
+S
+#99999
+$~

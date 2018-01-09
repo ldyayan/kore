@@ -1,0 +1,6 @@
+>fight_prog 30~
+  mpecho $I cheerfully throws a clod of blinding dirt.
+  mpcallmagic 'blindness' all
+  mpdamage all 3d10+20
+~
+|

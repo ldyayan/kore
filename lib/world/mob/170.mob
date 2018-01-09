@@ -1,0 +1,35 @@
+#17000
+forge master royal smith blacksmith armorer armourer man~
+the royal forge master~
+A man is here, his back turned to you, shaping metal at his forge.
+~
+It's the Forge Master.
+~
+669706 99500 1000 S
+40 0 0 30d10+5 10d5+10
+5000 1000000
+8 8 1 5
+#17002
+guard kore gateguard cory~
+a guard of Kore~
+A guard of Kore stands here, watching the gates.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#17099
+buffy vampire slayer~
+Buffy the Vampire Slayer~
+Buffy the Vampire Slayer is lying here in Lightday's arms.
+~
+She looks so Buff.
+~
+10 0 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#99999
+$~

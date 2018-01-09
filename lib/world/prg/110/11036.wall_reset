@@ -1,0 +1,7 @@
+>rand_prog 100~
+  mppurge
+  mpoload 11039
+  mpsilent drop wall
+  mpgoto cleaner
+~
+|

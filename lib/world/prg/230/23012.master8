@@ -1,0 +1,45 @@
+>script_prog kill-me~
+  #
+  say Welcome my friend.
+  say Now you must complete the cycle.
+  say Kill me and become the master.
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ismemory($n)
+    else
+      mptrigger $n kill-me
+      mpremember $n
+    endif
+  endif
+~
+>rand_prog 1~
+  if isscript($i)
+  else
+    sigh
+  endif
+~
+>fight_prog 100~
+  if level($n) > 15
+    say You do not belong here!
+    say TWINK!!!
+    spit $n
+    mpsilent mpcallmagic 'word of recall' $n
+  endif
+  if isscript($i)
+    mpstopscript
+  endif
+~
+>death_prog 100~
+ if level($n) > 15
+   say You do not belong here!
+   say TWINK!!!
+   spit $n
+   mpsilent mpcallmagic 'word of recall' $n
+ else
+   say Bah, this place was starting to bore me anyway.
+   emote gurgles and dies.
+ endif
+~
+|

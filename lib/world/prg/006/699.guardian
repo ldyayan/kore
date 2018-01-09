@@ -1,0 +1,50 @@
+>command_prog east~
+  if isimmort($n)
+  else
+    if clan($n) == Coven
+    else
+      mpechoat $n Only Members of Coven may go that way
+    endif
+  endif
+~
+>command_prog west~
+  if isimmort($n)
+  else
+    if clan($n) == TOOT
+    else
+      mpechoat $n Only Members of TOOT may go that way
+    endif
+  endif
+~
+>command_prog south~
+  if isimmort($n)
+  else
+    if clan($n) == DragonLiege
+    else
+      mpechoat $n Only Members of DragonLiege may go that way
+    endif
+  endif
+~
+>command_prog north~
+  if isimmort($n)
+  else
+    if clan($n) == Clan X
+    else
+      mpechoat $n Only Members of Clan X may go that way
+    endif
+  endif
+~
+>command_prog down~
+  if isimmort($n)
+  else
+    if clan($n) == Emerald Enclave
+    else
+      mpechoat $n Only Members of Emerald Enclave may go that way
+    endif
+  endif
+~
+>command_prog kill~
+  say To die is inevitable, why rush?
+  mpstopcommand
+~
+|

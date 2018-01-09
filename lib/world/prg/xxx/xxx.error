@@ -1,0 +1,128 @@
+>rand_prog 20~
+  if inroom($i) != 2045
+    mpecho Suddenly aware of her surroundings, Tiamat returns to her lair.
+    mpgoto 2045
+    emote arrives through a mystical gate which closes behind her.
+  endif
+~
+>rand_prog 20~
+  group white_2014
+  group red_2011
+  group blue_2013
+  group green_2012
+  group black_2010
+~
+>entry_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>greet_prog 100~
+  if name($n) == greb
+    bow greb
+    break
+  else
+    if ispc($n)
+      mpforce red_2011 kill $n
+      mpforce red_2011 defend $i
+    endif
+  endif
+~
+>fight_prog 5~
+  emote rears up all five of her heads and focuses her fury on $R!
+  mpechoat $r Tiamat's blue head blasts you with lightning!
+  mpcallmagic 'shocking grasp' $r
+  mpechoat $r Tiamat's white head blasts you with frost!
+  mpcallmagic 'chill touch'
+  mpechoat $r Tiamat's green head lets loose a poisonous cloud!
+  mpcallmagic 'poison' $r
+  mpcallmagic 'poison' $r
+  mpechoat $r Tiamat's black head releases a deadly blast of acid!
+  mpcallmagic 'disintegrate' $r
+  mpechoat $r Tiamat's red head roars and releases dripping fire!
+  mpcallmagic 'burning hands'
+  mpechoaround $r $I ANNIHILATES $R with a blast from each of her mighty heads.
+~
+>fight_prog 15~
+  mpechoat $n $I sinks her teeth into you, ripping flesh from your bones.
+  mpecho $I rears back her head and bears her wicked fangs...
+  mpecho $I sinks her teeth deep into $N!!
+  mpdamage $n 20d20+20
+~
+>fight_prog 50~
+  mpechoaround $r With a THUNDERING CRASH, Tiamat swings her tail into $R, slamming $L against the wall!
+  mpechoat $r Tiamat's enormous tail comes CRASHING into you, knocking you against the stone wall!
+  mpdamage $r 15d15
+~
+>command_prog cast~
+  switch $n
+~
+>command_prog sing~
+  switch $n
+~
+>command_prog pray~
+  switch $n
+~
+>fight prog 100~
+  if rand(20)
+    mpechoaround $r $I's powerful red head pivots and bites $R!
+    mpechoat $r $I's powerfully muscled red head darts out and bites you!
+    mpdamage $r 5d5
+  else
+    mpechoaround $r $I rotates her deadly red head and breathes fire across the room!
+    mpcallmagic 'fireball'
+  endif
+  if rand(20)
+    if rand(50)
+      mpechoaround $r tries to bite $R with her white head but misses!
+      mpechoat $r You dive away just in time to avoid a bite from $I's white head.
+    else
+      emote quickly spins here white head around and bites $R!
+      mpdamage $r 5d5
+    endif
+  else
+    mpechoaround $r rears back with her white head and blasts the room with frost!
+    mpcallmagic 'cone of cold'
+    mpcallmagic 'chill touch' $r
+  endif
+  if rand(20)
+    if rand(60)
+      mpechoaround $r Tiamat feints and dodges in to bite $R with her blue head.
+      mpechoat $r Tiamat's swift blue head gets past your defenses and sinks into your flesh.
+    else
+      mpechoaround $r $R deftly blocks $I's blue head from biting $L!
+      mpechoat $r You block $I's blue head from biting you.
+    endif
+  else
+    mpechoaround $r $I sends a lightning bolt at $R from her blue head.
+    mpechoat $r Head breaths a lightning bolt at you.
+    mpcallmagic 'lightning'
+  endif
+  if rand(20)
+    mpecho $I places her green head low to the ground and fills the room with its deadly poison.
+    mpcallmagic 'poison' all
+  if rand(20)
+    if rand(70)
+      mpechoaround $r $I bends down with acid coated teeth and bites $R!
+      mpechoat $r Tiamat's black head with acid-dripping fangs sears into your skin.
+    else
+      mpecho Tiamat's black head tries to attack but can't get past the other four!
+    endif
+  else
+    mpecho $I opens her blackened mouth and lets her fangs drip acid over the room!
+    mpdamage all 5d6
+  endif
+~
+>death_prog 100~
+  if rand(16)
+    mpoload 2001
+  else
+    mpoload 2002
+  endif
+  if rand(16)
+    mpoload 2025
+  else
+    mpoload 2055
+  endif
+~
+|

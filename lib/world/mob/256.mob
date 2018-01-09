@@ -1,0 +1,224 @@
+#25600
+elven child kid boy~
+a small boy~
+A small elven boy is here, running from a small elven girl.
+~
+   You see a cute little kid, no more than 22, being chased without mercy by 
+and even cuter little girl of about the same age. He seems to be afraid but is
+having fun.
+~
+16584 1024 140 S
+2 19 100 1d1+1 1d1+1
+7 20
+8 8 1
+#25601
+elven small girl kid child~
+a small girl~
+A little elven girl is here, chasing after a small elven boy.
+~
+You see a cute elven child with long flowing hair. She is chasing after a
+small elven boy with outstretched hands. She screams, "I'm going to get you!"
+as she pursues the fleeing boy.
+~
+16584 1024 -90 S
+1 19 100 1d1+1 1d1+1
+0 20
+8 8 2
+#25602
+bird sparrow birdie~
+a small yellow bird~
+A small birdie is flittering here, watching you from yonder branch.
+~
+   You see a small yellow birdie with black wings. Could it be the rare and
+mystical, yet highly endagered yellow sapsucking bug munching birdie?
+~
+16456 0 0 S
+1 19 100 1d1+1 1d1+1
+0 20
+8 8 0
+#25603
+mother mater elven woman lady~
+a frazzled mother~
+An elven mother is here, running after her son and daughter.
+~
+   You see a woman who was once extremely beautiful, who has now been run ragged
+by the pains of child bearing and child rearing. She carries herself with
+dignity, but there is a sadness in her eyes.
+~
+18632 0 0 S
+4 17 100 1d1+1 1d1+2
+0 20
+8 8 2
+#25604
+teen trouble boy kid elven~
+a troubled elven teen~
+A tough looking elven teen is here, looking for trouble.
+~
+   You see an elven equivalent to a teenager dressed in a dirty aspen green
+jacket. He regards with a slight arrogance that hints at nobility.
+~
+18504 0 -300 S
+3 18 100 1d1+1 1d1+2
+0 20
+8 8 1
+#25605
+elderly old elf man elven~
+an elderly elven man~
+An elderly elven man is here, blindly wandering around.
+~
+   You see a poor old man with no family to take him in. Left to a life of
+wandering the streets, begging for changes, you think you can see a tear
+rolling down his cheek, all alone in a big world.
+~
+16588 1025 500 S
+7 15 100 1d1+1 1d1+3
+0 20
+8 8 1
+#25606
+kitty kitten cat white fuzzy~
+a small white kitten~
+An small, fuzzy white kitten is here, mewing sadly.
+~
+   You see a small white kitten, scared in this big world and all alone with
+no one to love it. Wont you pet it?
+~
+16476 1024 100 S
+1 20 100 1d1+1 1d1+1
+0 20
+8 8 2
+#25607
+citizen man elf~
+an elven citizen~
+An elven citizen is here, walking through his neighborhood.
+~
+   You see an elven man walking through his neighborhood.
+~
+18632 1024 0 S
+5 17 100 1d1+1 1d1+2
+0 20
+8 8 1
+#25608
+changing woman elven naked~
+a naked elven woman~
+A naked elven woman is here, gasping at YOU.
+~
+Shame on you for looking. You bad man. Get a hobby, go kill something, just
+don't invade people's privacy.
+~
+18506 132128 0 S
+6 17 100 1d1+8 1d1+1
+0 20
+8 8 2
+#25609
+changing man elven naked~
+a naked elven man~
+A naked elven man is here, snapping towels at each other.
+~
+   Shame on you for looking you naughty girl. Get a hobby, go kill something,
+just don't invade peoples privacy.
+~
+18506 132128 0 S
+6 17 100 1d1+8 1d1+1
+0 20
+8 8 1
+#25610
+lifeguard man guard life elven~
+an elven lifeguard~
+An elven lifeguard is here, watching for drowing people.
+~
+   He is too busy watching the water to describe himself.
+~
+24666 0 500 S
+10 14 100 1d1+1 1d1+5
+0 20
+6 8 1
+#25611
+elven elf woman mother~
+an elven woman~
+A elven woman is here, relaxing in the pool.
+~
+   Boy she looks tired!! Perhaps those little rugrats on the street above
+were her children. That would sure explain a few things.
+~
+2122 64 0 S
+5 18 100 1d1+1 1d1+1
+0 20
+8 8 2
+#25612
+man boob guy elf elven~
+an elven man~
+An elven man is here, slashing water in his face.
+~
+   If he wasn't really wet before he is now. You'd better leave him alone for
+a while, at least until the water eases his tenseness.
+~
+2122 64 0 S
+7 16 100 1d1+1 1d1+1
+0 20
+8 8 1
+#25613
+splasher twerp kid child elf elven~
+a small elven child~
+A small elven child is here, splashing water in your face.
+~
+   He is wet, hyper, and seems to have just relieved himself. EWWWW!!!!
+~
+2122 0 0 S
+1 19 100 1d1+1 1d1+1
+0 20
+8 8 0
+#25614
+minstrel bard singer elf elven~
+an elven minstrel~
+An elven minstrel is here, singing a beautiful song.
+~
+   Dressed in bright red and blue clothes, you see a jolly fellow with a
+fair round belly and good capon lined. Spectacles on nose, with pouch on side
+he sits on his chair and plays a crystal flute almost as beautiful as the
+music he plays.
+~
+2122 1152 0 S
+14 10 90 1d1+1 1d1+1
+0 20
+8 8 1
+#25615
+mother mom goodwife wife cook elf elven~
+an elven goodwife~
+An elven goodwife is here, preparing dinner.
+~
+   She looks tired, upset, angry, sad, and lonely. It would be wise to not
+interrupt her preparing dinner.
+~
+2122 0 0 S
+8 16 100 1d1+1 1d1+1
+0 20
+8 8 2
+#25616
+merchant elf elven greedy~
+an elven merchant~
+An elven merchant is here, greedily looking at your equipment.
+~
+   You never thought elves could be corrupt, but this changes everything.
+Looking at this man, you can FEEL his corruptness and evil aura. You think
+twice about crossing this man, and think twice about being in his shack.
+He looks at you, "What do you want, fool?" and grins evily.
+~
+2122 65704 -100 S
+20 8 70 1d1+1 1d1+10
+0 20
+8 8 1
+#25617
+guard villa gateguard elf elven~
+an elven gateguard~
+A powerful looking elven guard is here, blocking your passage.
+~
+   His clothes are bright, his eyes are bright, his teeth are bright, his hair
+is bright, and his sword is bright. This is not a guy you want to cross. He
+is as deadly as he is handsome. Be wary friend...
+~
+225354 4260904 1000 S
+25 5 50 1d1+1 1d1+15
+0 20
+8 8 1
+#99999
+$~

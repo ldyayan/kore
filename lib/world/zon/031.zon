@@ -1,0 +1,100 @@
+#31
+the Palace of the Tyrant~
+3199 20 2 32
+M 0  3102     1  3122            the Tyrant
+E 1  3119    10    17                    held a sorcery node
+M 0  3606     2  3132            the Black Bishop
+E 1  3608    15    17                    held the Staff of the Black Bishop
+M 0  3606     2  3132            the Black Bishop
+E 1  3608    15    17                    held the Staff of the Black Bishop
+M 0  3607     2  3133            the White Bishop
+E 1  3609    15    17                    held the Staff of the White Bishop
+M 0  3607     2  3133            the White Bishop
+E 1  3609    15    17                    held the Staff of the White Bishop
+M 0  3107     1  3134            Lord Aramon
+E 1  3614   101    17                    held the key to the black treasury
+M 0  3108     1  3134            Lord Raphael
+E 1  3615   101    17                    held the key to the white treasury
+M 0  3101    15  3100            a Palace Guard
+M 0  3101    15  3100            a Palace Guard
+D 0  3121     4     1            A Dark Stairway door up
+M 0  3106     1  3119            an Iron Golem
+D 0  3119     0     2            A Plush Study door north
+D 0  3119     5     1            A Plush Study door down
+D 0  3120     2     2            A Palace Corridor door south
+M 0  3103     2  3128            a Treant Guardian
+M 0  3103     2  3128            a Treant Guardian
+O 1  3120   101  3128            a large key
+D 0  3128     0     2            The Garden door north
+M 0  3100     1  3111            Baghtru
+E 1  3100   101    17                    held a palace key
+E 1  3101     5    16                    wield the Axe 'Mhamok'
+M 0  3101    15  3111            a Palace Guard
+O 0  3102   101  3111            the Platinum Throne of the Tyrant
+P 1  3105    99  3102                    put a wicked ^Ygold^n key in the Platinum Throne of the Tyrant
+D 0  3111     0     2            Upon the Dais door north
+M 0  3101    15  3101            a Palace Guard
+M 0  3101    15  3101            a Palace Guard
+M 0  3101    15  3103            a Palace Guard
+M 0  3101    15  3103            a Palace Guard
+M 0  3101    15  3104            a Palace Guard
+M 0  3101    15  3104            a Palace Guard
+M 0  3101    15  3102            a Palace Guard
+M 0  3101    15  3102            a Palace Guard
+M 0  3101    15  3106            a Palace Guard
+M 0  3101    15  3106            a Palace Guard
+M 0  3105     1  3112            a Clay Golem
+D 0  3112     2     2            A Palace Corridor door south
+D 0  3116     2     2            A Palace Corridor door south
+M 0  3104     2  3117            a Stone Golem
+M 0  3104     2  3117            a Stone Golem
+O 0  3121   101  3129            a mahogany desk
+M 0  3101    15  3107            a Palace Guard
+M 0  3101    15  3107            a Palace Guard
+G 1  3122    99    -1                    give a wicked brown key
+M 0  3109     1  3151            a rat
+M 0  3111     3  3151            Skeleton Guard
+E 1  3125    99     6                    head a rusty guard helmet
+E 1  3126    99    16                    wield a shining sword
+M 0  3111     3  3151            Skeleton Guard
+E 1  3125    99     6                    head a rusty guard helmet
+E 1  3126    99    16                    wield a shining sword
+M 0  3111     3  3151            Skeleton Guard
+E 1  3125    99     6                    head a rusty guard helmet
+E 1  3126    99    16                    wield a shining sword
+O 0  3123     1  3151            a deep well
+M 0  3109     3  3139            a rat
+M 0  3109     4  3140            a rat
+M 0  3109     5  3145            a rat
+M 0  3109     6  3148            a rat
+M 0  3109     7  3152            a rat
+M 0  3109     8  3154            a rat
+M 0  3109     9  3157            a rat
+M 0  3109    10  3159            a rat
+M 0  3109    11  3163            a rat
+M 0  3109    12  3169            a rat
+M 0  3109    13  3172            a rat
+M 0  3109    14  3175            a rat
+O 0  3124    99  3138            a torch
+O 0  3124    99  3138            a torch
+M 0  3110     1  3179            a skeleton
+G 1  3052    99    -1                    give a scroll of recall
+M 0  3110     2  3178            a skeleton
+G 1  3052    99    -1                    give a scroll of recall
+M 0  3110     3  3173            a skeleton
+G 1  3052    99    -1                    give a scroll of recall
+M 0  3110     4  3170            a skeleton
+G 1  3052    99    -1                    give a scroll of recall
+M 0  3110     5  3165            a skeleton
+G 1  3052    99    -1                    give a scroll of recall
+M 0  3110     6  3162            a skeleton
+G 1  3052    99    -1                    give a scroll of recall
+M 0  3110     7  3156            a skeleton
+M 0  3110     8  3155            a skeleton
+M 0  3110     9  3150            a skeleton
+M 0  3110    10  3143            a skeleton
+M 0  3112     1  3109            the Stone Gargoyle
+M 0  3112     2  3186            the Stone Gargoyle
+S
+#99999
+$~

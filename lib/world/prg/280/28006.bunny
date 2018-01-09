@@ -1,0 +1,141 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    emote hops madly around as $N enters!
+    grin zir
+  endif
+~
+>social_prog pet~
+  if ismemory($n)
+    speak AAAAAHHHH! You've annoyed me for the last time!
+    hit $n
+    mpforget $n
+  else
+    if level($n) > 40
+      if rand(30)
+        if rand(50)
+          mpechoaround $n $I produces a bright ^Bblue^n egg from somewhere in her fur and hurls it at $N's face!
+          mpechoat $n $I growls and tosses a blue egg at your face before you can react!!
+          mpdamage $n 6d14
+          mpcallmagic 'blindness' $n
+          hit $n
+          break
+        else
+          mpechoaround $n $I produces a bright ^Rred^n egg from somewhere in her fur and hurls it at $N's face!
+          mpechoat $n $I growls and tosses a red egg at your face before you can react!!
+          mpdamage $n 6d14
+          mpcallmagic 'web' $n
+          hit $n
+          break
+        endif          
+      endif
+      hit $n
+    else
+      growl $n
+      mpremember $n
+    endif
+  endif
+~
+>rand_prog 3~
+  mpecho $I sniffs around and then hops wildly into the air!
+  if isaffected($i, curse)
+    mpcallmagic 'remove curse' self
+  endif
+  mpcallmagic 'teleport' self
+  mpecho $I drops from the sky and lands at your feet!
+~
+>rand_prog 10~
+  if isaffected($i, blind)
+    mpecho closes her eyes for a moment.
+    mpcallmagic 'cure blindness' $i
+    lick
+  endif
+~
+>rand_prog 8~
+  if isaffected($i, fireshield)
+  else
+    emote makes some strange magical gestures.
+    mpcallmagic 'fire shield' $i
+    break
+  endif
+  if isaffected($i, manashell)
+  else
+    emote makes some strange magical gestures.
+    mpcallmagic 'mana shell' $i
+    break
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoaround $r $I hops angrily on $R's chest and knocks $K down!
+    mpechoat $r $I hops on your chest and you go down!!
+    mppose $r sit
+    emote makes some strange magical gestures.
+    mpcallmagic 'web' $r
+    switch $r
+  endif
+~
+>fight_prog 75~
+  if inroom($r) == here
+    if rand(10)
+      emote looks for somewhere to go lick her wounds!
+      flee
+      flee
+      emote makes some strange magical gestures.
+      mpcallmagic 'restore' $i
+      break
+    endif
+    if rand(11)
+      emote makes some strange magical gestures.
+      mpcallmagic 'word of death' $r
+      break
+    endif
+    if rand(12)
+      emote makes some strange magical gestures.
+      mpcallmagic 'chain lightning'
+      break
+    endif
+    if rand(13)
+      emote makes some strange magical gestures.
+      mpcallmagic 'web' $r
+      mpcallmagic 'web' $r
+      switch $r
+      break
+    endif
+    if rand(14)
+      if isaffected($r, sanc)
+      emote makes some strange magical gestures.
+      mpcallmagic 'dispel magic' $r
+      else
+        cackle
+        speak Very, VERY foolish, $R!
+        bash $r
+        break
+      endif
+    endif
+    if rand(15)
+      emote makes some strange magical gestures.
+      mpcallmagic 'blindness' $r
+      break
+    endif
+    if rand(16)
+      emote makes some strange magical gestures.
+      mpcallmagic 'petrify' $r
+      break
+    endif
+    if rand(17)
+      emote makes some strange magical gestures.
+      mpcallmagic 'disintegrate' $r
+      break
+    endif
+    emote makes some strange magical gestures.
+    mpcallmagic 'cone of cold'
+  endif
+~
+>fight_prog 80~
+   if isaffected($i, blind)
+     emote makes some magical gestures.
+     mpcallmagic 'cure blindness' $i
+     growl
+  endif
+~
+|

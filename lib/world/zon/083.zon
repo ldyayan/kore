@@ -1,0 +1,40 @@
+#83
+Carpacia (I and II)~
+8499 45 2 3
+M 0  8304     1  8326            Randy King Stenos
+E 1  8304    10    12                    about the Cloak of the Manta Ray
+E 1  8306    10     9                    hands whaleskin gloves
+M 0  8301     1  8300            Carpacian gate guard
+E 1  8301    10    16                    wield a whalebone scimitar
+E 1  8302    10     5                    body a whalebone breastplate
+E 1  8303    10     6                    head a whale skull helm
+E 1  8305    10     8                    feet runed whaletooth shoes
+M 0  8302     1  8300            a stingray
+M 0  8300     1  8300            a narwhal guard
+M 0  8302     2  8303            a stingray
+M 0  8302     3  8343            a stingray
+M 0  8302     4  8343            a stingray
+M 0  8302     5  8371            a stingray
+M 0  8303     1  8357            the mangy dogfish
+M 0  8305     1  8338            Crown Prince Tsuriops
+M 0  8310     1  8338            the cutthroat trout assassin
+M 0  8308     1  8340            Queen Spathis
+M 0  8312     1  8378            the sunfish
+M 0  8311     1  8351            toadstool
+M 0  8311     2  8379            toadstool
+M 0  8311     3  8379            toadstool
+M 0  8311     4  8381            toadstool
+M 0  8311     5  8369            toadstool
+M 0  8311     6  8327            toadstool
+M 0  8309     1  8334            the angel fish
+M 0  8309     2  8334            the angel fish
+M 0  8302     6  8392            a stingray
+M 0  8303     2  8392            the mangy dogfish
+M 0  8313     1  8392            the moray eel guard
+M 0  8303     3  8337            the mangy dogfish
+M 0  8313     2  8391            the moray eel guard
+M 0  8314     1  8395            the palace guard
+M 0  8314     2  8367            the palace guard
+S
+#99999
+$~

@@ -1,0 +1,90 @@
+#27100
+guard gateguard drow~
+a drow gateguard~
+a tough looking drow stands here.
+~
+The drow before you is obviously a veteran of many encounters, as the scars which
+you see on his arms, hands, and face -- that you can see of them -- attest to.
+He looks at you with white eyes blazing their hatred out of his ebony face.
+~
+14346 8389672 -500 S
+30 20 1 30d20+80 9d7+20
+85 0
+8 8 1 6
+#27101
+drow assassin thief~
+the assassin~
+A lethal looking drow is standing here.
+~
+This is a very lethal looking drow.  She moves about the room with neither a sound,
+nor a trace left behind; you can't even make out any footprints in the dust behind
+her.  She must have just finished some task or other for her house, as you can see
+some spots of fresh blood on her clothes, but no sign of a cut or wound.
+~
+16787560 853034 -750 S
+40 20 0 20d15+85 9d9+0
+4 1000000
+8 8 2 14
+#27102
+drow taverngoer~
+a drow taverngoer~
+A drow taverngoer is here, minding his own business and snooping on others'.
+~
+In the darkness of the room, all you can make out about this drow is his white hair,
+and his white eyes which surreptitiously dart around the room, keeping an eye on
+everything at once.
+~
+10 0 -350 S
+10 20 8 8d10+60 3d6+10
+0 0
+8 8 0
+#27103
+spider key 27103~
+animated spider key~
+This was once the nice key you had.  Through some strange power it's now alive.
+~
+This small spider was once an inanimate lump of metal.  The metal part is
+still true, but the inanimate isn't.  It looks up at you with its multifaceted
+eyes, and you'd swear it snarls at you.  It moves incredibly fast to attack.
+~
+16949356 328744 0 S
+20 20 -10 20d20+100 15d4+5
+0 0
+8 8 0 4
+#27104
+drow cutpurse~
+a drow cutpurse~
+A young drow is stalking about here, sneaking from shadow to shadow.
+~
+You see a young drow, he wears no marks of any house affiliations like you've seen
+on most of the others about town.  He looks young, but carries himself with a confidently
+arrogant air.  
+~
+232 262184 -400 S
+12 20 4 15d9+400 12d8+10
+15 0
+8 8 1
+#27105
+drow lieutenant~
+a drow lieutenant~
+A drow lieutenant stand here, going over plans with her leader.
+~
+It looks, err, unfinished.
+~
+16838664 66600 -600 S
+30 20 1 25d12+200 9d10+20
+85 0
+8 8 1
+#27106
+leader captain drow~
+the captain~
+The apparent leader of this small group is standing here, giving some orders.
+~
+It looks, err, unfinished.
+~
+16971912 332968 -700 S
+40 20 0 30d20+1000 30d20+20
+300 0
+8 8 2
+#99999
+$~

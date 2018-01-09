@@ -1,0 +1,478 @@
+#21900
+In the Courtyard of Fort Millenium~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21901
+D2
+~
+~
+0 0 21903
+D3
+~
+~
+0 0 21905
+S
+#21901
+Inside the Walls of Fort Millenium~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21902
+D2
+~
+~
+0 0 21900
+S
+#21902
+Inside the Walls of Fort Millenium~
+You are in an unfinished room.
+~
+0 0 0
+D2
+~
+~
+0 0 21901
+D3
+~
+~
+0 0 21932
+S
+#21903
+Inside the Walls of Fort Millenium~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21900
+D2
+~
+~
+0 0 21904
+S
+#21904
+Inside the Walls of Fort Millenium~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21903
+S
+#21905
+The Front Gates of Fort Millenium~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21900
+S
+#21925
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21926
+D2
+~
+~
+0 0 21998
+S
+#21926
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21927
+D3
+~
+~
+0 0 21925
+S
+#21927
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21928
+D3
+~
+~
+0 0 21926
+S
+#21928
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21929
+D2
+~
+~
+0 0 21938
+D3
+~
+~
+0 0 21927
+S
+#21929
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21930
+D2
+~
+~
+0 0 21936
+D3
+~
+~
+0 0 21928
+S
+#21930
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21931
+D2
+~
+~
+0 0 21935
+D3
+~
+~
+0 0 21929
+S
+#21931
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21932
+D2
+~
+~
+0 0 21934
+D3
+~
+~
+0 0 21930
+S
+#21932
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21902
+D2
+~
+~
+0 0 21933
+D3
+~
+~
+0 0 21931
+S
+#21933
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21932
+D3
+~
+~
+0 0 21934
+S
+#21934
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21931
+D1
+~
+~
+0 0 21933
+D3
+~
+~
+0 0 21935
+S
+#21935
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21930
+D1
+~
+~
+0 0 21934
+D3
+~
+~
+0 0 21936
+S
+#21936
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21929
+D1
+~
+~
+0 0 21935
+D3
+~
+~
+0 0 21937
+S
+#21937
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21928
+D1
+~
+~
+0 0 21936
+D3
+~
+~
+0 0 21938
+S
+#21938
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21927
+D1
+~
+~
+0 0 21937
+D2
+~
+~
+0 0 21940
+D3
+~
+~
+0 0 21939
+S
+#21939
+On the Battlefield~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21927
+D1
+~
+~
+0 0 21938
+S
+#21940
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21938
+D1
+~
+~
+0 0 21941
+D3
+~
+~
+0 0 21997
+S
+#21941
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21937
+D1
+~
+~
+0 0 21942
+D3
+~
+~
+0 0 21940
+S
+#21942
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21936
+D1
+~
+~
+0 0 21943
+D3
+~
+~
+0 0 21941
+S
+#21943
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21935
+D3
+~
+~
+0 0 21942
+S
+#21944
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21934
+D1
+~
+~
+0 0 21905
+D3
+~
+~
+0 0 21943
+S
+#21996
+Around the Walls of Fort Dragonliege~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21999
+S
+#21997
+The Front Gates of Fort Dragonliege~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 21940
+D3
+~
+~
+0 0 21999
+S
+#21998
+Around the Walls of Fort Dragonliege~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21925
+D2
+~
+~
+0 0 21999
+S
+#21999
+In the Courtyard of Fort Dragonliege~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 21998
+D1
+~
+~
+0 0 21997
+D2
+~
+~
+0 0 21996
+S
+#99999
+$~

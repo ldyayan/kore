@@ -1,0 +1,234 @@
+#15100
+jeweled pole arm gythka~
+a jeweled gythka~
+A long pole arm with a blade at each end sits here.~
+~
+5 76161088 8193
+5 8 6 3
+6 0 0
+E
+pole arm gythka~
+Many jewels have been attached to this long weapon, all along the shaft 
+and at each weapon end where there are two impressive blades. This 
+weapon was obviously made for someone with agile hands.
+~
+A
+18 3
+A
+19 7
+A
+5 -1
+#15101
+pronged bone shield~
+a pronged bone shield~
+A shield made entirely of bones rests on the ground.~
+~
+9 8462848 513
+-10 0 0 0
+1 10000 0
+E
+bone shield~
+The bones almost resemble elven, or human bones.
+~
+A
+13 20
+A
+19 3
+A
+2 -1
+#15102
+<><><>~
+<><><> do not load these items <><><>~
+This is not a real object.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#15103
+silver tigereye ring~
+a tigereye ring~
+A silver ring set with a yellowish-brown stone is here.~
+~
+9 122944 3
+0 0 0 0
+1 20000 0
+A
+12 30
+A
+19 2
+#15104
+ice patch~
+a patch of ice~
+A patch of ice slicks the ground.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#15105
+metal iron lever~
+a long metal lever~
+A well-used iron lever stands upright here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+metal iron lever~
+What do you expect, it's a lever. Pull it already!
+~
+#15106
+pool~
+a pool of blue fluid~
+^cA circular pool of flowing blue liquid gurgles here.^n~
+~
+23 0 0
+999999 999999 0 0
+0 0 0
+E
+pool mass blue liquid fluid~
+It looks almost exactly like the floor, except for the fact that it's
+wavering. It's wet to the touch.
+~
+#15107
+ragged torn cord rope~
+a torn cord~
+A ragged cord is lying on the rock floor.~
+~
+13 0 16385
+0 0 0 0
+1 0 0 3
+E
+ragged torn cord rope~
+YECH! It's greasy to the touch..
+~
+A
+6 -2
+#15108
+15108 black cloak~
+a stygian black cloak~
+A lustrous black cloak hangs ominously from the ceiling.~
+~
+12 64 1024
+0 0 0 0
+20 0 0
+E
+stygian lustrous black cloak~
+It's odd, the two rows of dark buttons running down the cloak appear to 
+be moving.
+~
+#15109
+aura essence power~
+an aura of power~
+An essence of pure power hangs in the air.~
+~
+11 65737 65537
+0 0 0 0
+1 0 0
+A
+6 1
+A
+19 1
+#15110
+mantle hide~
+a mantle of ^yki-rin^n hide~
+A luxurious mantle of small golden scales has been foolishly left here.~
+~
+9 50241 1025
+-4 0 0 0
+11 0 0
+A
+12 75
+A
+13 15
+A
+24 -5
+A
+6 -6
+B
+512 0
+#15111
+tatterred ragged cloak~
+a tattered cloak~
+A very worn and ragged black cloak lies on the ground.~
+~
+11 64 1025
+0 0 0 0
+6 0 0 4
+#15112
+metal girdle~
+an elaborate girdle made of metal~
+An intricately designed girdle fastened with metal catches a glimmer of light.~
+~
+9 65616 2049
+-2 0 0 0
+3 0 0
+E
+metal girdle~
+This is a belt for the hip or waist, and it appears as though nobility wore
+it before it came into your possession.
+~
+A
+19 3
+A
+13 20
+A
+12 15
+#15113
+stiletto steel blade~
+a stiletto decorated with semi-precious stones~
+A slender and triangular steel blade is resting on the ground here.~
+~
+5 8397376 8193
+4 8 6 11
+4 0 0
+A
+19 7
+A
+2 1
+A
+1 2
+A
+13 -30
+S
+120 100 3
+#15114
+snowglobe globe~
+a swirling ^wsnowglobe^n~
+The snowy scene of some unknown place swirls inside of this snowglobe.~
+~
+3 81 16385
+60 20 20 2
+3 0 0
+E
+snowglobe globe~
+You can almost make out the shapes of another place inside the swirling
+mists of the snowglobe. If only you could tell for sure...
+~
+#15115
+adamantite chain ruby~
+an adamantite chain adorned with rubies~
+A fine ebon-metal chain studded with rubies is here, waiting to be taken.~
+~
+11 8438336 5
+0 0 0 0
+2 0 0
+A
+12 55
+A
+4 2
+#15116
+gossamer skirt~
+a ^wgossamer^n skirt~
+A small pile of cobwebs lie at your feet.~
+~
+9 8389184 33
+1 0 0 0
+1 0 0
+A
+19 2
+A
+2 2
+A
+18 1
+#99999
+$~

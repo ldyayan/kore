@@ -1,0 +1,31 @@
+>rand_prog 7~
+  north
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  if ispc($n)
+    kill $n
+  endif
+~
+>entry_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>death_prog 100~
+  if rand(5)
+    mpoload 2075
+  else
+    mpoload 2050
+  endif
+  mppose $i stand
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpsilent drop all.coins
+  mpsilent drop all
+  mpgoto cleaner
+  mppose $i dead
+~
+|

@@ -1,0 +1,63 @@
+>greet_prog 100~
+  if isimmort($n)
+    if name($n) == zirnozz
+      say Bah, what no.. Goddess!! UGH!
+      grovel zirnozz
+    break
+  else
+    if rand(50)
+      if level($n) < 31
+        say You are but a little fellow!
+        say You stand no chance against me.
+        say I'll have you for lunch... later.
+        mptransfer $n 2293
+      else
+        say PUNY ONE, LET ME TEACH YOU A LESSON!
+        bash $n
+      endif
+    else
+      say You annoy me...
+      mpechoaround $n $I bashes $N ruthlessly out of the room.
+      mpdamage $n 6d9+10
+      mppose $n sit
+      mptransfer $n 2293
+      mpechoat $n $I bashes you clear from the room!
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if level($r) < 31
+      say You are a tiny one...
+      chuckle
+      say perhaps I shall spare your hide.
+      mptransfer $r 2293
+    else
+      berserk
+      berserk
+      say TIME TO DIE!!
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if level($r) < 41
+      say Tiny one you are brave!!
+      block $r
+    else
+      say You all are poor excuse for warriors!
+      berserk
+      bash $r
+      berserk
+    endif
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    mpechoaround $r $I throws a bag of purple powder at $R.
+    mpechoat $r $I throws a bag of purple powder at you.
+    mpsilent mpcallmagic 'dispel sanc' $r
+    disarm $r
+  endif
+~
+|

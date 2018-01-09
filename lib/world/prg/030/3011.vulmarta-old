@@ -1,0 +1,118 @@
+>rand_prog 7~
+  if inroom($r) == here
+    if isaffected($r, poison)
+      cast 'remove poison' $r
+    else
+      if isaffected($r, blind)
+        cast 'cure blind' $r
+      else
+        if hitprcnt($r) < 100
+          if ismemory($r)
+            say What, $R, you're hurt AGAIN? Didn't I heal you a while ago?
+            mpforget $r
+          endif
+          cast 'cure critic' $r
+         endif
+        endif
+          if hitprcnt($r) == 100
+            mpremember $r
+            say All right, $R, you're all healed up!
+          endif
+        else
+          if ismemory($r)
+            say Now then, $R, I already told you, you don't need healing!
+            if rand(50)
+              glare $r
+            else
+              mppose $r stand
+              mpechoaround $r Vulmarta ushers $R out of the temple.
+              mpechoat $r Vulmarta ushers you out of the temple.
+              mptrans $r down
+              mpat 16297 mpechoaround $r has arrived.
+            endif
+          else
+            if isimmort($r)
+            else
+              mpremember $r
+              say All right, $R, you're all healed up!
+            endif
+          endif
+          if rand(1)
+            mpecho A flower petal falls from somewhere above and lands at $I's feet.
+            mpoload 16069
+            mpsilent drop petal
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>greet_every_prog 100~
+  if isimmort($n)
+    curtsey $n
+  endif
+~
+>social_prog yawn~
+  emote tucks $N in and says, 'Goodnight!'
+  pat $n
+~
+>bribe_prog 1~
+  say Bless you, dear child!
+  if isevil($n)
+    say But do not think that money alone can atone for your evil deeds!
+  else
+    pat $n
+  endif
+  emote puts the money in the collection tray.
+~
+>time_prog 22~
+  yawn
+  say It's getting late...time for bed!
+~
+>time_prog 7~
+  if inroom($r) == here
+    say Good morning, $R!
+  endif
+~
+>social_prog slap~
+  say $n! Thou shalt not abuse thy goddess!
+  mpechoat $n Vulmarta glares at you with a blinding light!
+  mpechoaround $n Vulmarta glares at $n, and a blinding beam of light pours from her eyes!
+  mpcallmagic 'blindness' $n
+  mpdamage $n 2d10+5
+  mppose $n stunned
+~
+>give_prog all~
+  if objtype($o) == trash
+    slap $n
+    say How dare you insult me with such trash?
+    mpjunk $o
+  else
+    if objtype($o) == treasure
+      thank $n
+      say Thank you for your generous donation!
+      mpjunk $o
+      if rand(30)
+        cast 'heal' $n
+      else
+        if rand(60)
+          cast 'bless' $n
+        endif
+      endif
+    else
+      if objtype($o) == food
+        say Food for the poor! Very kind!
+      else
+        say You are very kind.
+      endif
+      mpat 16124 drop $o
+    endif
+  endif
+~
+>social_prog bow~
+  curtsey $n
+~
+>social_prog curtsey~
+  curtsey $n
+~
+|

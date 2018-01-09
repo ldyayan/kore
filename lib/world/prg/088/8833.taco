@@ -1,0 +1,60 @@
+>fight_prog 3~
+  if rand(50)
+    mpecho Another Ronin Lord joins the attack with $I!
+    mpmload 8831
+    mpforce 8831 kill $r
+  else
+    mpecho A shadow ronin joins the attack with $I!
+    mpmload 8601
+    mpforce 8601 kill $r
+  endif
+~
+>fight_prog 5~
+  mpecho $I makes a ghostly howl..!
+  if rand(33)
+    mpcallmagic 'scare' all
+  endif
+~
+>fight_prog 1~
+  mpechoat $r $I touches you with a shadowy hand!!
+  mpechoaround $r $I touches $R with a shadowy hand!!
+  mpdamage $r 30
+  mpdrainmana $r 33
+  mpdrainmove $r 33 
+~
+>fight_prog 3~
+  mpechoat $r You slip, scream, and fall of the Western Ruby Wall to the slush!
+  mpechoaround $r $R slips, screams, and falls off the Western Ruby Wall to the slush!
+  mpdamage $r 350
+  mpdrainmove $r 100
+  mptrans $r 8675
+  mppose $r sit
+~
+>fight_prog 3~
+  cast 'word of death' $r
+~
+>fight_prog 3~
+  cast 'chain lightning' $r
+~
+>fight_prog 3~
+  cast 'haste' $i
+~
+>fight_prog 3~
+  cast 'dispel sanct' $r
+~
+>fight_prog 3~
+  cast 'petrify' $r
+~
+>fight_prog 3~
+  cast 'restore' $i
+~
+>fight_prog 3~
+  cast 'mirror image' $r
+~
+>fight_prog 3~
+  cast 'scare' $r
+~
+>fight_prog 3~
+  cast 'inspire' $i
+~
+|

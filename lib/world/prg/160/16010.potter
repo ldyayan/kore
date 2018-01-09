@@ -1,0 +1,19 @@
+>greet_prog 15~
+  if ispc($n)
+    if level($n) > 20
+      tip $n
+      say Greetings oh wisest of shoppers! Care to examine my wares?
+    endif
+  endif
+~
+>rand_prog 2~
+  say Pottery of the finest quality! Hand crafteed with expert precision!
+~
+>rand_prog 2~
+  say Molded and fired in my own kiln! None finer in the realm!
+~
+>rand_prog 2~
+  say Even the royal families' chefs use my pottery!
+~
+|
+

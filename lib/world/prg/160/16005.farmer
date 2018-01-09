@@ -1,0 +1,13 @@
+>rand_prog 5~
+  echo $I takes a long draught from his mug.
+~
+>rand_prog 5~
+  say So I says to her...
+~
+>rand_prog 5~
+  say More ale, barmaid!
+~
+>rand_prog 5~
+  mpecho $I lets out the sigh of an over-worked man.
+~
+|

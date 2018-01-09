@@ -1,0 +1,838 @@
+#17000
+INTO THE FIRE~
+You enter the forge and try to shield yourself from the intense heat eminating
+from the fire within.  As you proceed further, you can feel your skin begin
+to boil and the very armor that is meant to protect you, begins to melt.  Finally,
+you can stand the heat no longer, and turn around to dash out.  Your feet slip
+on the boiling embers and you fall face first into your eternal grave.
+~
+170 10 1
+S
+#17001
+At the Forge~
+You are in an unfinished room.
+~
+170 8 0
+D2
+~
+~
+0 0 17002
+S
+#17002
+Before the Forge~
+You are in an unfinished room.
+~
+170 8 0
+D0
+~
+~
+0 0 17001
+D2
+~
+heavy metal~
+2 17001 17011
+S
+#17003
+In the Dungeon~
+You are in an unfinished room.
+~
+170 8 0
+D0
+~
+~
+0 0 17011
+D2
+~
+~
+0 0 17010
+D3
+~
+~
+0 0 17004
+S
+#17004
+The Dungeon~
+You are in an unfinished room.
+~
+170 8 0
+D1
+~
+~
+0 0 17003
+D3
+~
+entrance~
+2 17001 17005
+S
+#17005
+Entrance to the Cells~
+You are in an unfinished room.
+~
+170 8 0
+D1
+~
+entrance~
+2 17001 17004
+D3
+~
+~
+0 0 17006
+S
+#17006
+The Dungeon~
+You are in an unfinished room.
+~
+170 8 0
+D0
+~
+cell~
+2 17000 17008
+D1
+~
+0~
+0 0 17005
+D2
+~
+cell~
+2 17000 17009
+D3
+~
+cell~
+2 17000 17007
+S
+#17007
+A Cell~
+You are in an unfinished room.
+~
+170 8 0
+D1
+~
+cell~
+2 17000 17006
+S
+#17008
+A Cell~
+You are in an unfinished room.
+~
+170 8 0
+D2
+~
+cell~
+2 17000 17006
+S
+#17009
+A Cell~
+You are in an unfinished room.
+~
+170 8 0
+D0
+~
+cell~
+2 17000 17006
+S
+#17010
+The Staircase~
+You are in an unfinished room.
+~
+170 8 0
+D0
+~
+~
+0 0 17003
+D4
+~
+~
+0 0 17012
+S
+#17011
+The Dungeon~
+You are in an unfinished room.
+~
+170 8 0
+D0
+~
+heavy metal~
+2 17001 17002
+D2
+~
+~
+0 0 17003
+S
+#17012
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D3
+~
+~
+0 0 17013
+D5
+~
+~
+0 0 17010
+S
+#17013
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17012
+D2
+~
+~
+0 0 17014
+S
+#17014
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17013
+D2
+~
+~
+0 0 17035
+D3
+~
+~
+0 0 17015
+S
+#17015
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17014
+D3
+~
+~
+0 0 17016
+S
+#17016
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17017
+D1
+~
+~
+0 0 17015
+S
+#17017
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17018
+D2
+~
+~
+0 0 17016
+D3
+~
+~
+0 0 17022
+S
+#17018
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17019
+D2
+~
+~
+0 0 17017
+S
+#17019
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17020
+D3
+~
+~
+0 0 17018
+S
+#17020
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17021
+D3
+~
+~
+0 0 17019
+S
+#17021
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D2
+~
+~
+0 0 17020
+S
+#17022
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17023
+D1
+~
+~
+0 0 17017
+S
+#17023
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17024
+D2
+~
+~
+0 0 17022
+D3
+~
+~
+0 0 17027
+S
+#17024
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17025
+D2
+~
+~
+0 0 17023
+S
+#17025
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17026
+D3
+~
+~
+0 0 17024
+S
+#17026
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D3
+~
+~
+0 0 17025
+S
+#17027
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17023
+D2
+~
+~
+0 0 17028
+S
+#17028
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17027
+D2
+~
+~
+0 0 17029
+S
+#17029
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17028
+D1
+~
+~
+0 0 17030
+S
+#17030
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D2
+~
+~
+0 0 17031
+D3
+~
+~
+0 0 17029
+S
+#17031
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17030
+D1
+~
+~
+0 0 17033
+D3
+~
+~
+0 0 17032
+S
+#17032
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17031
+S
+#17033
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17034
+D3
+~
+~
+0 0 17031
+S
+#17034
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D3
+~
+~
+0 0 17033
+S
+#17035
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17014
+D1
+~
+~
+0 0 17036
+S
+#17036
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17037
+D3
+~
+~
+0 0 17035
+S
+#17037
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17038
+D3
+~
+~
+0 0 17036
+S
+#17038
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17039
+D3
+~
+~
+0 0 17037
+S
+#17039
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17046
+D1
+~
+~
+0 0 17040
+D2
+~
+~
+0 0 17038
+S
+#17040
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17041
+D3
+~
+~
+0 0 17039
+S
+#17041
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17044
+D2
+~
+~
+0 0 17042
+D3
+~
+~
+0 0 17040
+S
+#17042
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17041
+D3
+~
+~
+0 0 17043
+S
+#17043
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17042
+S
+#17044
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17045
+D2
+~
+~
+0 0 17041
+S
+#17045
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D2
+~
+~
+0 0 17044
+S
+#17046
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17047
+D2
+~
+~
+0 0 17039
+D3
+~
+~
+0 0 17055
+S
+#17047
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17048
+D3
+~
+~
+0 0 17046
+S
+#17048
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D2
+~
+~
+0 0 17047
+D3
+~
+~
+0 0 17049
+D6
+~
+~
+0 0 17058
+S
+#17049
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17050
+D1
+~
+~
+0 0 17046
+S
+#17050
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D2
+~
+~
+0 0 17049
+D3
+~
+~
+0 0 17051
+S
+#17051
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17050
+D2
+~
+~
+0 0 17052
+S
+#17052
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17051
+D2
+~
+~
+0 0 17055
+D3
+~
+~
+0 0 17053
+S
+#17053
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17054
+D1
+~
+~
+0 0 17052
+S
+#17054
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D2
+~
+~
+0 0 17053
+S
+#17055
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17052
+D1
+~
+~
+0 0 17046
+D2
+~
+~
+0 0 17056
+S
+#17056
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D0
+~
+~
+0 0 17055
+D3
+~
+~
+0 0 17057
+S
+#17057
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17056
+S
+#17058
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D3
+~
+~
+0 0 17059
+D8
+~
+~
+0 0 17048
+S
+#17059
+A Hallway~
+You are in an unfinished room.
+~
+170 0 0
+D1
+~
+~
+0 0 17058
+S
+#99999
+$~

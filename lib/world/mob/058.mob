@@ -1,0 +1,369 @@
+#5800
+ready marine~
+a marine~
+A marine stands ready to fight with his weapons ready.
+~
+   The marine stands proud and ready with his gladius, shield and pilum to
+board enemy vessels and to repel boarders. He looks like a battle-toughened
+veteran who would give you no quarter and fight hard. *gulp*
+~
+2090 0 -300 S
+20 1 0 1d1+1 1d1+10
+0 0
+8 8 1
+#5801
+sailor scans~
+a sailor~
+A sailor scans the horizon for other ships.
+~
+   The sailor keeps a sharp lookout for other ships. His trained eye make
+him invaluable at keeping the ship aware of any dangers..
+~
+26 0 400 S
+30 1 0 1d1+1 1d1+15
+0 0
+8 8 1
+#5802
+archer ready~
+an archer~
+An archer stands with a ready bow to loose a volley with his squad.
+~
+   The archers are a special breed of men. Practiced in the art of archery
+and coordinated as a team to fire in synchronization, men of this art are
+cool headed perfectionists. Still, they are lightly armored, and not known
+for their bravery in a hand to hand fight...
+~
+2186 0 0 S
+15 1 0 1d1+1 1d1+8
+0 0
+8 8 1
+#5803
+sailor bristol~
+the sailor~
+A sailor is here keeping the ship in bristol fashion.
+~
+   This sea dog looks raggety and tired of being pushed around by Marines.
+Probably some poor sad sack picked up by a press gang near the docks, now
+he's stuck on this rotten galley swabbing the deck.
+~
+2056 0 500 S
+12 1 0 1d1+1 1d1+6
+0 0
+8 8 1
+#5804
+marine officer stares~
+a marine officer~
+A marine officer stares you down with a air of command.
+~
+   The marine officer has a face like a fierce eagle. He commands respect
+and his presence is mighty! He almost dares you to flout his command..!
+~
+10280 0 -600 S
+30 1 0 1d1+1 1d1+15
+0 0
+8 8 1
+#5805
+marine patrol~
+a marine~
+A marine patrols from station to station, ready to fight.
+~
+   The marine looks at you with a steady gaze. He keeps his weapon drawn and
+looks like he will wait for more marines to arrive before taking you on...
+~
+40 0 -400 S
+20 1 0 1d1+1 1d1+10
+0 0
+8 8 1
+#5806
+marine officer relaxes~
+a marine officer~
+A marine officer relaxes in his cabin reading.
+~
+   The officer looks up from his book surprised..!
+~
+10282 0 -600 S
+30 1 0 1d1+1 1d1+15
+0 0
+6 6 1
+#5807
+marine officer sleeps~
+a marine officer~
+A marine officer sleeps peacefully in his bed.
+~
+   The marine officer sleeps soundly in his bed ... ZZZZ.
+~
+2090 0 -600 S
+25 1 0 1d1+1 1d1+13
+0 0
+4 4 1
+#5808
+petty officer plays~
+a petty officer~
+A petty officer relaxes in a game of cards.
+~
+   The petty officer was engrossed in a game of cards but now he looks 
+really pissed off and grabs his chips off the table and attacks!!!
+~
+2090 0 -600 S
+25 1 0 1d1+1 1d1+13
+0 0
+8 8 1
+#5809
+petty officer sleeps~
+a petty officer~
+A petty officer sleeps fitfully in his berth.
+~
+   You see a petty officer fast asleep ... ZZZZ....
+~
+2090 0 -600 S
+25 1 0 1d1+1 1d1+13
+0 0
+4 4 1
+#5810
+slave girl~
+a slave girl~
+A frightened slave girl looks up at you in fear...!
+~
+   Dressed in scanty gauzes and chains, clearly a girl for the comfort of
+the despicable general supreme commander, she looks at you in fear...!
+~
+8 0 800 S
+8 1 0 1d1+1 1d1+4
+0 0
+8 8 2
+#5811
+navigator~
+the navigator~
+The ship's navigator is here looking at a chart.
+~
+   The ships navigator is a finely dressed man. He looks through his books,
+not sure exactly which route he will take the ship along, but with a good
+idea. Taking todays soundings and recording them, he improves the ships
+maps. Why, he hardly noticed you arrived.
+~
+2058 0 300 S
+20 1 0 1d1+1 1d1+10
+0 0
+8 8 1
+#5812
+bull mastiff~
+a bull mastiff~
+A bull mastiff stands guard!
+~
+The dog is rough and tough and looks like he's ready to take on anyone -
+or anything - that crosses him.
+~
+46 0 -400 S
+20 1 0 1d1+1 1d1+8
+0 0
+8 8 1 8
+#5813
+pilot~
+the pilot~
+The ship's pilot is here steering the vessel.
+~
+   The ship's pilot looks like a swarthy man with a lot of experience. He
+holds the tiller tight and steers the ship with a steady hand.
+~
+2058 0 500 S
+18 1 0 1d1+1 1d1+9
+0 0
+8 8 1
+#5814
+marine relaxes~
+a marine~
+A marine relaxes in his cabin, caring for his equipment.
+~
+   The marine looks up in suprise at you..! 
+~
+2090 0 -400 S
+20 1 0 1d1+1 1d1+10
+0 0
+8 8 1
+#5815
+supreme command general~
+the supreme general commander~
+The supreme general commander is here, plotting his strategy.
+~
+   The supreme general commander looks at you and laughs. You *dare* to
+intrude on his super sneaky plans?! You will pay for your insolence!
+~
+2106 128 -950 S
+50 0 -100 1d1+1 1d1+25
+0 0
+8 8 1
+#5816
+lord captain commander~
+the lord captain commander~
+The lord captain commander is here, directing the sailors.
+~
+   The lord captain commander is here, talking over the daily works of
+the ship and watching out for heresy in the crew.
+~
+10282 65696 -950 S
+40 1 0 1d1+1 1d1+20
+0 0
+8 8 1
+#5817
+marine sleeps~
+a marine~
+A marine sleeps soundly in his bunk.
+~
+   ZZZZ....
+~
+2090 0 -400 S
+20 1 0 1d1+1 1d1+10
+0 0
+8 8 1
+#5818
+sailor carves~
+a sailor~
+A sailor relaxes carving scrimshaw.
+~
+   The sailor carves his scrimshaw happily without really noticing you.
+~
+2058 0 300 S
+17 1 0 1d1+1 1d1+8
+0 0
+8 8 1
+#5819
+sailor sleeps~
+a sailor~
+A sailor sleeps fitfully in his berth.
+~
+   *mmpf* *grumble* *snore* ZZZ *toss n turn* ZZZ...
+~
+2058 0 300 S
+17 1 0 1d1+1 1d1+8
+0 0
+8 8 1
+#5820
+sailor smokes~
+a sailor~
+A sailor relaxes smoking a pipe.
+~
+   The sailor sits and smokes thagweed with a look of perplexity on his face.
+~
+2058 0 300 S
+16 1 0 1d1+1 1d1+8
+0 0
+8 8 1
+#5821
+carpenter~
+the Carpenter~
+A carpenter works on a set of broken block and tackle.
+~
+   The carpenter sweats and fusses so much with his work he didnt notice
+you come in.
+~
+2058 0 500 S
+25 1 0 1d1+1 1d1+13
+0 0
+8 8 1
+#5822
+cook chef~
+the cook~
+A cook stirs up some slop for the crew.
+~
+   The fat cook stirs up his pot of gruel.
+~
+2090 0 500 S
+25 1 0 1d1+1 1d1+12
+0 20
+8 8 1
+#5823
+sailor drunk~
+a drunken sailor~
+A shivering drunk lies here in the straw.
+~
+   The drunk sits chained in his little cell and looks like he's on the
+verge of collapse...! You feel sorry for him.
+~
+170 0 300 S
+9 1 0 1d1+1 1d1+5
+0 0
+8 8 1
+#5824
+strong angry slave~
+the strong angry slave~
+A strong angry slave is here going crazy in the little box.
+~
+   The strong angry slave gives you a mad look and charges..!
+~
+65592 0 500 S
+18 1 0 1d1+1 1d1+9
+0 0
+8 8 1
+#5825
+starving wretch man~
+the wretched man~
+A starving wretch is here dying of exhaustion.
+~
+   The starving wretch barely breathes and looks like he'd rather be dead.
+~
+10 0 300 S
+7 1 0 1d1+1 1d1+4
+0 0
+8 8 1
+#5826
+marine sergeant~
+a marine sergeant~
+A marine sergeant stands alert guard with the men.
+~
+   The marine sergeant stands boldly with the men and directs them to 
+pay attention to what they are doing.
+~
+2088 0 -700 S
+25 1 0 1d1+1 1d1+12
+0 0
+8 8 1
+#5827
+miserable slave~
+the slave~
+A miserable slave is here rowing the galley.
+~
+   The slave sits chained on a bench with so many others. He puts all his
+back into the oars and complains bitterly under his breath at the misery
+on the ship.
+~
+8 0 200 S
+15 1 0 1d1+1 1d1+8
+0 0
+6 6 1
+#5828
+handsome slave ben hur~
+Ben Hur~
+A handsome slave looks at you with scorn but rows.
+~
+   The strong handsome slave looks at you with a face full of unbowed 
+dignity and almost dares you with a look to deny him his humanity! his
+freedom!
+~
+2312 128 1000 S
+30 1 0 1d1+1 1d1+15
+0 30000
+8 8 1
+#5829
+slave driver~
+the slave driver~
+A slave driver walks the aisle, whipping the slaves cruelly.
+~
+   With a mouthful of bad teeth he yells at the slaves to row harder!
+~
+168 8192 -750 S
+25 1 0 1d1+1 1d1+1
+0 25000
+8 8 1
+#5830
+task master~
+the task master~
+The task master beats his drum to time the slaves' rowing.
+~
+   The big bare-chested man beats the drum to time the rowing of the slaves.
+~
+10282 0 -500 S
+30 1 0 1d1+1 1d1+15
+0 0
+8 8 1
+#99999
+$~

@@ -1,0 +1,64 @@
+>command_prog look~
+  if isscript ($i)
+    break
+  else
+    mptrigger $n deva-story
+  endif
+~
+>script_prog deva-story~
+  emote weakly raises his head to look at you and smiles.
+@
+  say What torment have you brought me this time dark one?
+@
+  say I have not seen you in this form before.
+@
+  #
+@
+  #
+@
+  emote seems to consider you for a moment.
+@
+  say You are no devil.  Why are you here?
+@
+  say Please, if you give me a hammer to smash these chains, I will not forget you when I am freed.
+@
+~
+>give_prog hammer~
+  mptrigger $n deva-free-story
+~
+>script_prog deva-free-story~
+  emote raises the hammer high and smashes the chains from his wrists.
+  emote shouts, 'Free at last!'
+@
+  mpechoat $n The deva turns to you and stares at you, it feels like he's scanning your soul.
+  mpechoaround $n The deva peers into the eyes of $n.
+@
+  say Thank you my friends.  You will not be forgotten.
+@
+  mpechoat $n  you feel completely healthy.
+  mpsilent mpcallmagic 'restore' $n
+  mpsilent mpcallmagic 'restore' $n
+  mpsilent mpcallmagic 'bless' $n
+  mpsilent mpcallmagic 'sanc' $n
+  mpsilent mpcallmagic 'haste' $n
+  mpsilent mpcallmagic 'inspire' $n
+  mpsilent mpcallmagic 'armor' $n
+  mpsilent mpcallmagic 'aid' $n
+  mpsilent mpcallmagic 'strength' $n
+  mpsilent mpcallmagic 'strength' $n
+  mpsilent mpcallmagic 'strength' $n
+  mpsilent mpcallmagic 'infra' $n
+  mpsilent mpcallmagic 'cure critic' $n
+@
+  emote withdraws his hand and drops it to his side.
+@
+  say Now I must return to my home.
+@
+  mpecho The blinding light flares brilliantly and you are forced to shield your eyes.
+  mpecho When the light fades and your eyes adjust, the deva is gone.  Where he stood ^\is a small silver key.
+@
+  mpoload 2045
+  mpsilent drop key
+  mpgoto cleaner
+~
+|

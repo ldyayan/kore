@@ -1,0 +1,24 @@
+#262
+Titanium Mine~
+26299 50 2 3
+D 0 26200     2     1            Mine Entrance door south
+D 0 26248     3     2            Dark Narrow Tunnel door west
+O 0 26206  1000 26246            a large wooden sign
+D 0 26246     0     2            Grand Hall door north
+M 0 26204     1 26263            Regin's Assistant
+E 1 26207  1000    16                    wield a manual typewriter
+M 0 26204     2 26263            Regin's Assistant
+E 1 26208  1000    16                    wield a ream of paper
+M 0 26204     3 26263            Regin's Assistant
+E 1 26209  1000    16                    wield the Amazing Mechanical Pencil
+M 0 26204     4 26263            Regin's Assistant
+E 1 26210  1000    16                    wield a lead letter opener
+M 0 26204     5 26263            Regin's Assistant
+E 1 26211  1000    16                    wield a high-powered stapler
+M 0 26203     1 26264            Regin, owner of the mine
+E 1 26202    10    11                    shield a titanium shield
+E 1 26201    10    16                    wield a titanium broadsword
+D 0 26264     3     2             Regin's Inner Office door west
+S
+#99999
+$~

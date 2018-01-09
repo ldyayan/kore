@@ -1,0 +1,483 @@
+#2700
+table blood-red~
+a large table~
+A blood-red table sits here, it looks as if something is carved into the wood.~
+                         Welcome to the Death Quest Arena
+
+There are many different sectors in the arena.  Below is an explaination of the sectors.
+
+    ^rSector One^n:
+      This sector is intended for magic users only.  All of the rooms in this sector
+      are magic rooms.
+    ^rSector Two^n:
+      This sector is intended for fighters only.  All of the rooms in this sector are
+      no magic rooms.
+    ^rSector Three^n:
+      This is a free-for-all sector.  Fight at your own risk!!
+
+~
+16 1 0
+0 0 0 0
+0 0 0
+#2701
+trash ignore~
+TRASH: IGNORE ME~
+Mace of Ages glows brightly in your hand~
+A mace built for a god.
+~
+5 2097195 57345
+2 100 15 10
+8 3000000 0
+B
+206635136
+S
+149 50 100
+S
+149 50 100
+S
+149 50 100
+#2702
+trash ignore~
+TRASH:IGNORE ME~
+You see a shield unlike any other.~
+You are blinded by the sight of this shield, holding it gives
+you power unspeakable.
+~
+9 35 2577
+0 0 0 0
+8 2500000 0
+A
+12 100
+A
+12 100
+A
+12 100
+A
+9 50
+A
+14 50
+A
+9 25
+B
+1115717664
+S
+165 50 100
+S
+165 50 100
+#2703
+trash ignore~
+TRASH: IGNORE ME~
+A ^RBloody^n mess of ^BEyes^n lie here, still squirming.~
+As you look at this candle, you almost faint from revulsion.  But as you hold it, your powers suddenly increase.
+~
+1 11 16385
+0 0 -1 0
+3 1500000 0
+A
+9 50
+A
+17 -25
+A
+12 100
+A
+12 100
+A
+12 100
+A
+12 100
+B
+33554472
+#2704
+hole small round~
+a small round hole~
+A small round hole has been dug into the stone wall here.~
+~
+27 0 0
+2750 0 0 0
+999 0 0
+#2705
+ladder thick oak~
+a thick oak ladder~
+A thick oak ladder is leaned against the wall here.~
+~
+27 0 0
+2748 6 0 0
+9999 0 0
+#2706
+ladder thick oak~
+a thick oak ladder~
+A thick oak ladder leads down to floor below.~
+~
+27 0 0
+2747 6 0 0
+9999 0 0
+#2707
+shiny jade bracelet~
+a shiny jade bracelet~
+A shiny jade bracelet sits here, glistening in the sun.~
+~
+9 1 4097
+4 0 0 0
+3 1000 0
+A
+13 20
+A
+1 -1
+#2708
+oricalcum jade anklet swirling~
+a swirling jade and oricalcum anklet~
+A beautiful anklet made of jade and what looks like copper lays here.~
+~
+11 57344 1
+0 0 0 0
+1 3000 0
+A
+6 1
+A
+12 25
+#2709
+oil pool black~
+a deep pool of oil~
+A deep pool of thick oil has formed here in a depression~
+~
+27 0 0
+2770 0 0 0
+0 0 0
+#2710
+duct air circulation~
+an opened circulation duct~
+A circulation duct has been torn from behind the stone walls and lays exposed here.~
+~
+27 0 0
+2704 0 0 0
+9999 0 0
+#2711
+lattice steam ladder~
+a steam lattice~
+A ladder made from steam stands here shimmering under the heat and moisture.~
+~
+27 32 0
+18458 6 0 0
+99999 0 0
+#2712
+gear oily massive~
+a massive oily gear~
+A four foot tall gear sits here, seeping oil.~
+~
+5 49154 24577
+3 4 5 4
+12 0 0
+A
+19 3
+A
+6 -1
+A
+9 5
+#2713
+rope thin hemp~
+a thin hemp rope~
+The thin hemp rope here is your only way out of the pool~
+~
+27 4194304 0
+2734 6 0 0
+9999 1 0
+#2714
+crack thin~
+a thin crack in the rocks~
+Air flows through a thin crack in the rocks here~
+~
+27 0 0
+2704 0 0 0
+9999 0 0
+#2715
+fury memnar fist jade~
+Memnar's Fury~
+A huge jade fist lays here on the ground, broken off of some statue.~
+~
+5 553041 8193
+4 9 3 13
+18 500 0
+A
+19 7
+S
+149 40 5
+#2716
+breastplate plate mithril heavy~
+a heavy mithril breastplate~
+A dull mithril breastplate lays here in the dust.~
+~
+9 8409154 9
+10 0 0 0
+16 0 0
+A
+1 2
+A
+18 2
+A
+2 -1
+#2717
+curse ealioch cloud black~
+Ealioch's Curse~
+A swirling black cloud hangs over the ground here.~
+~
+11 4196064 1041
+0 0 0 0
+5 0 0
+A
+19 3
+A
+14 -30
+A
+10 30
+B
+512
+#2718
+war warhammer hammer battered~
+a battered warhammer~
+A beat up warhammer hangs from a hook on the wall here~
+~
+5 20544 24577
+4 4 5 6
+0 0 0
+A
+19 2
+A
+18 5
+#2719
+myconoid tribal mask~
+a myconoid tribal mask~
+A grey mask made of fungus and algae lays here~
+~
+11 49217 17
+0 0 0 0
+4 0 0
+A
+9 5
+A
+12 10
+A
+6 -3
+#2720
+sack spore red ~
+a light red spore sack~
+A small sack sits here, fuming red dust~
+~
+25 0 1
+25 124 68 63
+1 0 0
+#2721
+mottled spore sack~
+a mottled spore sack~
+A mottled sack of spores sits here, ready to pop.~
+~
+25 0 1
+30 62 132 16
+2 0 0
+#2722
+lichen glowing~
+a piece of glowing lichen~
+A chuck of stinking fungus sits here, letting off an eerie glow.~
+~
+25 1 1
+40 36 22 44
+2 0 0
+#2723
+myconoid spore blowgun reed~
+a myconoid spore blowgun~
+A hollowed out reed lays here, packed full of toxic spores.~
+~
+6 8256 40961
+3 2 3 1
+5 0 0
+A
+12 10
+A
+24 -4
+S
+33 30 8
+S
+71 30 8
+S
+4 30 8
+#2724
+geode sparkling huge~
+a huge sparkling geode~
+A huge geode sits here, sparkling in your torchlight~
+~
+1 1089 1
+0 0 -1 0
+0 0 0
+A
+5 4
+A
+6 1
+#2725
+fang giant tarantula~
+a giant tarantula's fang~
+A foot long fang is plunged into the ground here.~
+~
+3 65544 16385
+35 12 9 33
+3 0 0
+B
+2048
+#2726
+test tube serum brown~
+a test tube filled with thick brown serum~
+A glass test tube filled with a brown fluid sits here under a burner.~
+~
+10 0 1
+30 14 43 35
+2 0 0
+#2727
+hide displacer beast~
+the hide of the displacer beast~
+A thick black fur hide lays here, shimmering in and out of reality.~
+~
+9 8434208 1025
+2 0 0 0
+3 0 0
+A
+13 -25
+B
+2
+#2728
+rod metal conductive~
+an extremely conductive metal rod~
+A metal rod is stuck in the ground here, calling lightning from the skies.~
+~
+3 65 16385
+40 5 5 118
+6 0 0
+#2729
+shard splinter jagged obsidian~
+a jagged splinter of obsidian~
+A sharp shard of shiny obsidian is plunged into the ground here~
+~
+5 8433664 8193
+3 5 3 14
+3 0 0
+A
+19 4
+A
+5 -1
+S
+115 20 3
+#2730
+key shiny marble~
+a shiny marble key~
+A shiny marble key hangs here from a leather thong.~
+~
+18 12 5
+2730 1 0 0
+2 0 0
+#2731
+fungus chunk fleshy~
+a fleshy chunk of fungus~
+A large chunk of fleshy looking fungus lays here on the ground.~
+~
+25 0 1
+30 33 147 81
+5 0 0
+#2756
+twink badge~
+a twink badge~
+An ugly-looking badge sits here on the ground.~
+YOUR A TWINK
+~
+9 0 16389
+21 0 0 0
+2 100 0
+A
+13 10
+A
+19 1
+#2757
+duncan yoyo~
+a brand new, ^bblue^n Duncan(TM) yo-yo~
+A ^bblue^n yo-yo sits here on the ground.~
+It's a Yo-Yo.
+~
+5 3 57345
+20 28 20 9
+2 10000000 0
+A
+13 100
+A
+13 100
+A
+18 10
+A
+19 10
+A
+13 100
+A
+13 100
+B
+620756992
+S
+158 60 100
+S
+128 60 100
+S
+162 60 100
+#2758
+0~
+0~
+0~
+~
+1 0 16385
+0 0 0 0
+0 0 0
+#2759
+0~
+0~
+0~
+~
+9 0 531
+0 0 0 0
+0 0 0
+#2795
+pill black enlightenment~
+a black pill of enlightenment~
+A dark-looking pill is sitting on the ground.~
+~
+25 0 1
+10 14 0 0
+1 1000 0
+#2796
+jug blue water~
+a ^bblue^n jug of pure spring water~
+A ^bblue^n-colored jug is lying on the ground.~
+~
+17 0 1
+2 2 15 0
+0 0 0
+#2797
+way bread waybread piece~
+a piece of waybread~
+A golden piece of bread is here on the ground.~
+~
+19 0 1
+20 0 0 0
+1 87 0
+#2798
+death lantern~
+a death lantern~
+A deadly-looking lantern sits here on the ground.~
+~
+1 143 16385
+0 0 10 0
+1 20000 0
+B
+4194432
+#2799
+potion yellow~
+a ^yyellow^n potion of see invisable~
+A ^yyellow^n vial is lying here on the ground.~
+~
+10 0 1
+10 19 0 0
+1 150 0
+#99999
+$~

@@ -1,0 +1,151 @@
+#95
+Mountains of Chaos~
+9599 34 2 32
+M 0  9500     1  9505            the grimy lab assistant
+G 1  9500    45    -1                    give an onyx key
+E 1  9506    40     5                    body a plush suede tunic
+E 1  9501    15    16                    wield a black beaker
+D 0  9505     4     2            Nahklug's laboratory door up
+M 0  9515    15  9532            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9532            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9532            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9532            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+O 0  9511   101  9532            a stone well
+P 1  9513    10  9511                    put a handful of gems in a stone well
+M 0  9519     1  9539            Shadok
+E 1  9528     3     5                    body the armor of Shadok
+M 0  9520     6  9539            shadoks honor guard
+M 0  9517     1  9574            the chieftain
+E 1  9522    50     5                    body a set of orc chieftain's robes
+E 1  9523    10     6                    head a chieftain's headband
+E 1  9524    40    16                    wield an orcish war banner
+M 0  9501     1  9506            Nahklug
+E 1  9502    55    16                    wield a gnarled staff
+E 1  9503    10     1                    left finger an onyx ring
+E 1  9504    34    12                    about a flowing displacement cloak
+D 0  9506     5     2            Nahklug's experimentation chamber door down
+M 0  9518     1  9582            Brekstack
+E 1  9516    99    16                    wield an orcish pike
+E 1  9519    17    13                    waist a long metal chain
+E 1  9521    25    16                    wield a huge black mace
+E 1  9520    28     8                    feet a pair of ebony boots
+M 0  9516    15  9584            an orc warrior
+E 1  9516    10    16                    wield an orcish pike
+E 1  9518    10     8                    feet a pair of orcish iron boots
+M 0  9516    15  9584            an orc warrior
+E 1  9516    10    16                    wield an orcish pike
+E 1  9518    10     8                    feet a pair of orcish iron boots
+M 0  9516    15  9584            an orc warrior
+E 1  9516    10    16                    wield an orcish pike
+E 1  9518    10     8                    feet a pair of orcish iron boots
+M 0  9516    15  9584            an orc warrior
+E 1  9516    10    16                    wield an orcish pike
+E 1  9518    10     8                    feet a pair of orcish iron boots
+M 0  9516    15  9584            an orc warrior
+E 1  9516    10    16                    wield an orcish pike
+E 1  9518    10     8                    feet a pair of orcish iron boots
+M 0  9516    15  9584            an orc warrior
+E 1  9516    10    16                    wield an orcish pike
+E 1  9518    10     8                    feet a pair of orcish iron boots
+M 0  9514    15  9579            an orc
+M 0  9513    15  9579            an orc woman
+M 0  9512    15  9579            an orc child
+M 0  9514    15  9580            an orc
+M 0  9513    15  9580            an orc woman
+M 0  9512    15  9580            an orc child
+M 0  9514    15  9581            an orc
+M 0  9513    15  9581            an orc woman
+M 0  9512    15  9581            an orc child
+M 0  9514    15  9573            an orc
+M 0  9512    15  9573            an orc child
+M 0  9513    15  9573            an orc woman
+M 0  9514    15  9576            an orc
+M 0  9513    15  9576            an orc woman
+M 0  9512    15  9576            an orc child
+M 0  9514    15  9577            an orc
+M 0  9513    15  9577            an orc woman
+M 0  9512    15  9577            an orc child
+M 0  9515    15  9562            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9562            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9531            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9531            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9545            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9545            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9554            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9554            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9515    15  9554            an orc guard
+E 1  9518    10     8                    feet a pair of orcish iron boots
+E 1  9515    10    16                    wield an orc sword
+M 0  9502     1  9510            hobgoblin orc rat cook
+E 1  9508    10     6                    head a goblin helmet
+E 1  9507    10    16                    wield a Very sharp cleaver
+M 0  9503    15  9508            a hobgoblin guard
+E 1  9508    10     6                    head a goblin helmet
+E 1  9509    10    16                    wield a goblin sword
+M 0  9503    15  9508            a hobgoblin guard
+E 1  9508    10     6                    head a goblin helmet
+E 1  9509    10    16                    wield a goblin sword
+M 0  9503    15  9508            a hobgoblin guard
+E 1  9508    10     6                    head a goblin helmet
+E 1  9509    10    16                    wield a goblin sword
+M 0  9503    15  9508            a hobgoblin guard
+E 1  9508    10     6                    head a goblin helmet
+E 1  9509    10    16                    wield a goblin sword
+D 0  9508     2     1            Hobgoblin barracks door south
+M 0  9503    15  9512            a hobgoblin guard
+E 1  9508    10     6                    head a goblin helmet
+E 1  9509    10    16                    wield a goblin sword
+M 0  9503    15  9512            a hobgoblin guard
+E 1  9508    10     6                    head a goblin helmet
+E 1  9509    10    16                    wield a goblin sword
+M 0  9503    15  9512            a hobgoblin guard
+E 1  9508    10     6                    head a goblin helmet
+E 1  9509    10    16                    wield a goblin sword
+M 0  9503    15  9512            a hobgoblin guard
+E 1  9508    10     6                    head a goblin helmet
+E 1  9509    10    16                    wield a goblin sword
+M 0  9504     3  9520            the displacer beast
+M 0  9504     3  9520            the displacer beast
+M 0  9504     3  9527            the displacer beast
+M 0  9505     3  9528            the hippogriff
+E 1  9510    10     3                    neck 1 a ^Wdiamond^n necklace
+M 0  9505     3  9528            the hippogriff
+O 0  9505   101  9502            a storage locker
+P 1  9513    10  9505                    put a handful of gems in a storage locker
+P 1  9509    10  9505                    put a goblin sword in a storage locker
+P 1  9508    10  9505                    put a goblin helmet in a storage locker
+O 0  9512   101  9511            a rotting corpse
+P 1  9513    10  9512                    put a handful of gems in a rotting corpse
+P 1  9509    10  9512                    put a goblin sword in a rotting corpse
+O 0  9514   125  9518            a torch
+D 0  9507     0     1            A dark corridor door north
+O 0  9525    10  9571            an orcish signal arrow
+O 0  9526   101  9572            a large semicircular table
+O 0  9527   101  9572            a scale model of the Mountains of Chaos
+S
+#99999
+$~

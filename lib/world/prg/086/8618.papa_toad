@@ -1,0 +1,5 @@
+>fight_prog 15~
+  mpecho $I engulfs you in a cone of frost!!
+  mpdamage all 6d8+8
+~
+|

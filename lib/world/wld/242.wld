@@ -1,0 +1,140 @@
+#24200
+Hole In The Hill~
+As you enter the small cave, stale air swirls about carrying the fetid stink of 
+rot and decay. Peering ahead into the darkness, you can faintly make out the 
+flickering of a light. You cautiously back away, wondering if you should proceed
+down this dark, dank corridor or turn back to the relative safty of the outdoors
+~
+242 9 0
+D3
+~
+~
+0 0 24201
+S
+#24201
+Deeper Into Damp Darkness~
+You slowly shuffle into the darkness. The darkness engulfs you cutting your 
+visibility down to the nose on your face. The only thing you can see is a
+flickering light you are using as a guide. Stepping warily, you stumble over
+an obstruction an the floor. Staring into the vast nothingness, you can barely
+discern a skull on the ground. It seems to grin at your idea to go further, 
+as if it had once made the same mistake.
+~
+242 9 0
+D1
+~
+~
+0 0 24200
+D3
+~
+~
+0 0 24202
+S
+#24202
+Towards The Light~
+Stumbling closer to the light, the darkness begins to recede like a slow moving
+tide. The floor here is littered with an emense amount of garbage and the 
+stench is unbearable. Making holding your breath the only way you can keep your
+lunch down. Glancing around the area for a clue to the inhabitants of this 
+area you notice a very large corpse laying amongst the trash.
+~
+242 9 0
+D1
+~
+~
+0 0 24201
+D3
+~
+~
+0 0 24203
+S
+#24203
+Outside The Entrance To The Warrens~
+Reaching the end of the tunnel, you come to a small hole in the cavern wall.
+Ducking down to look into the next cavern your eyes are immediately drawn to
+a raging bonfire in the middle of the cavern. Small green creatures are 
+scurrying around the room in what appeares to be some form of dance. Pulling
+your eyes from the enferno you see many other smaller fires and several 
+tunnels leading out of the area in all directions.
+3
+1
+4
+0
+
+~
+242 9 0
+D1
+~
+~
+0 0 24202
+D3
+~
+~
+0 0 24204
+S
+#24204
+Goblin Warrens~
+Crouching to enter this chamber you are greated with a blast of heat
+from the blaze in the center of the chamber. Quickly scanning the area 
+you notice that this chamber has two levels with more caverns leading off in 
+every direction on both levels. 
+~
+242 8 0
+D1
+~
+~
+0 0 24203
+D8
+~
+~
+0 0 24207
+D9
+~
+~
+0 0 24205
+S
+#24205
+Goblin Warrens~
+small fires all about....ladder leads up to secound level
+fire too south....floor stamped level ....dirty garbage ..ect
+~
+242 8 0
+D7
+~
+~
+0 0 24204
+D8
+~
+~
+0 0 24206
+S
+#24206
+Goblin Warrens~
+see 24205 for ideas...no ladder....fire to the east
+~
+242 8 0
+D6
+~
+~
+0 0 24205
+D7
+~
+~
+0 0 24207
+S
+#24207
+Goblin Warrens~
+see 24205 for ideas...laddder here......fire to north
+~
+242 8 0
+D6
+~
+~
+0 0 24204
+D9
+~
+~
+0 0 24206
+S
+#99999
+$~

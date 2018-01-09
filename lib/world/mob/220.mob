@@ -1,0 +1,940 @@
+#22000
+forge master huge~
+the Huge Forge Master~
+The forgemaster seems to arise from the floor like a genii.
+~
+   A huge, hairless giant.  A wierd wry smirk adorns his otherwise emotionless
+visage, as though he were about to reach into one of the fiery mouths, root
+about with a huge, calloused hand, and extract a palmful of glowing coals
+to eat as a snack.
+~
+714766 1115320 750 S
+50 39 0 1d1+-15076 1d1+1
+0 20
+8 8 1 6
+#22001
+sleek grey rat~
+the marsh rat~
+A sleek grey rat pauses in the water and sniffs in your direction.
+~
+   This skinny little fellow noshes upon anything it finds lying about: dead
+insects, bits of discarded flesh; as well as anything it can kill. The rats
+will also gnaw into cattails and eat their hearts.  When desparate for food,
+or cornered, they'll attack creatures many times their size.
+~
+348 36 0 S
+12 39 0 1d1+720 1d1+1
+0 20
+8 8 0
+#22002
+swarm black biting flies~
+the swarm of biting flies~
+A swarm of biting flies boils in a black buzzing cloud...
+~
+   What awful pests! Each is large as your knuckle, shiny like coal rhymed
+with green. Their unrelenting buzz is nearly painful as their bites. They
+crawl beneath your garments and into your pack. Ugh! 
+~
+120 4195360 0 S
+10 39 0 1d1+500 1d1+1
+0 20
+8 8 0
+#22003
+cloud flying insects~
+the cloud of assorted flying insects~
+A cloud of flying insects is here, waiting to pester you.
+~
+   A host of assorted flying insects hover about or dive at your ears and eyes.
+Some of them bite, while others simply alight upon you; impelling you to 
+twitch and gyrate as if possessed.  What pests!
+~
+122 40 -25 S
+7 39 0 1d1+245 1d1+1
+0 20
+8 8 0
+#22004
+dense reeds~
+the dense reeds~
+The dense reeds impede your progress.
+~
+   The reeds resist your efforts as if they possess self-awareness and
+the ability to defend themselves with an uncanny zeal.
+~
+589902 65576 25 S
+25 39 0 1d1+3125 1d1+1
+0 20
+8 8 0 3
+#22005
+snapper tortoise turtle~
+the grey snapper tortoise~
+A grey tortoise senses your presence and retracts into her shell.
+~
+   Also known as the 'Beaver Tortoise' because mating pairs construct dam-like
+nests which enable their hatchlings to survive early predation.  Mature 
+Greys are hunted for meat, as well as their shells which are prized, by some,
+as headwear.  Greys have powerful jaws and a poison bite...
+~
+166024 160 0 S
+22 39 0 1d1+2420 1d1+1
+0 20
+6 8 2
+#22006
+lightning bolt~
+lightning_bolt generator~
+A bolt of lightning pierces the mist, and strikes the deadly blackened rock.
+~
+The lightning sure looks fearsome.
+~
+8912970 1064 -30 S
+22 39 0 1d1+2420 1d1+1
+0 15
+8 8 0
+#22007
+red grey toad~
+the arrow toad~
+A grey arrow toad yoyos his tongue in and out of the clouds of insects.
+~
+   A pattern of small, interlocking red arrows adorns the slimy flesh at the
+base of the toads skull. It eats mostly insects, but, having a poison sting,
+it has been known to take down rats. Or anything else that attacks it...
+~
+2632 1032 0 S
+12 39 0 1d1+720 1d1+1
+0 20
+8 8 0
+#22008
+yellow blinder snake~
+the blinder snake~
+A yellow-striped blinder snake slithers across the water, seeking prey.
+~
+   Jagged yellow stripes run the lenght of his dark green body. He's happy in 
+the water as he is on land, looking for rats to bite and eggs to swallow 
+whole.  He'd be happy to bite you too!
+~
+139848 36 0 S
+15 39 0 1d1+1125 1d1+1
+0 20
+8 8 1
+#22009
+grey harridan bird~
+a grey harridan~
+A grey harridan belts out a constant horrible screech!
+~
+   This dull-grey bird attacks anyone who enters its territory without regard.
+When injured, it flies to safety but continues to taunt its opponent with
+irritating screeches...
+~
+47338 4259880 -500 S
+20 39 0 1d1+1125 1d1+1
+0 20
+8 8 2 3
+#22010
+barker leaping fish~
+the leaping barker~
+A large, shimmering fish leaps out of the water and barks!
+~
+   This silver-scaled fish arcs from the waters, snapping up insects during
+its short flight.  Their bark, loud and sharp as a small dogs', remains a
+mystery.
+~
+8526 4 0 S
+10 39 0 1d1+500 1d1+1
+0 20
+8 8 0
+#22011
+tiny grey biters school finger fish swarmerfish~
+a tiny grey swarmerfish~
+A school of finger-sized fish dart about beneath the surface, hunting for meat.
+~
+   These palm-sized fish patrol their territory in large swarms.  Rival swarms
+often fight to the death over incursions.  They are fierce fighters and
+voracious eaters. Even a small swarm can devour large creature in minutes.
+~
+4220 4260010 0 S
+15 39 0 1d1+1125 1d1+1
+0 20
+8 8 0
+#22012
+cloud caustic fumes~
+a cloud of caustic fumes~
+A cloud of caustic fumes wafts across the rocks.
+~
+   It arrives off the poison water, tinting the air green, hurting you more
+with each of your breaths.
+~
+17367112 44 0 S
+10 39 0 1d1+3125 1d1+1
+0 20
+8 8 0
+#22013
+porter~
+a porter~
+A porter burdened with supplies trudges along.
+~
+   Built like a wrestler and enormously strong from his task of porting heavy
+loads throughout the fortress.  He delivers meals to the soldiers at their
+posts; hot beverages and whatever else he's told to carry.
+~
+600142 536872064 300 S
+20 39 0 1d1+4500 1d1+1
+0 20
+8 8 1
+#22014
+spag boatman man tattooed~
+Spag the boatman~
+A heavily tattoed man stands atop the stone gate.
+~
+   A heart pierced by a dagger, a drop of blood suspended from its tip,
+illuminates his barrel chest.  Ample-breasted mermaids cavort about
+his belly.  Multi-colored serpents, large jungle cats and baying
+hounds crawl down his enormously powerful arms stopping at his wrists
+like the cuffs of a fantastically-embroidered shirt.  A broad conical
+hat, woven from reeds, perches at a rakish angle atop his pumpkin
+sized head.
+~
+636942 99456 -100 S
+60 39 0 1d1+18375 1d1+1
+0 20
+8 8 1 6
+#22015
+slime eel~
+the slime eel~
+A slime eel coils blindly through the murk, seeking someone it can bore into...
+~
+   Slime eels are blind, but can sense life. They bore into their prey and
+devour it from the inside out.  When the eel is finished, it exits through
+the hole it bores, leaving behind a skeleton suspended in a husk of skin.
+~
+48204 4194349 -35 S
+20 39 0 1d1+2000 1d1+1
+0 20
+8 8 0
+#22016
+enormous crawdad~
+an enormous crawdad~
+An enormous crawdad flexes his deadly claw.
+~
+   This over-size crustacean is mean and deadly.  His massive claw can snap
+your femurs as if they were toothpicks, snatch your weapon and twist it
+easily as a stalk of cheatgrass.  A skilled armorer could transform that
+claw into a lethal weapon you could wield.
+~
+16846924 8388608 50 S
+20 39 0 1d1+500 1d1+1
+0 20
+8 8 1
+#22017
+cermonial guard~
+a ceremonial guard~
+A guard clad in nickel armour stands at attention.
+~
+   He is clad from head to toe in reflective armour.  Does the suit make
+the man, or is he really that tall?
+~
+45198 33920 0 S
+20 39 0 1d1+1125 1d1+1
+0 20
+8 8 1
+#22018
+master arms warrior ~
+the Master of Arms~
+The master of arms is in the middle of a presentation.
+~
+   He's an imposing figure, a classic mezzomorph, clad in a skirt of azure
+steel leaves and a gargoyle-shaped helm.  He presents each weapon to the 
+crowd, then demonstrates it's qualities upon a variety of targets.  You might
+be the next!
+~
+604238 1032 -500 S
+50 39 0 1d1+3125 1d1+1
+0 20
+8 8 1 13
+#22019
+portal sentry~
+the portal sentry~
+A portal sentry stands to one side of the open portal
+~
+   The tall soldier is clad head to toe in shimmering blue armor.  He keeps
+a 'ground-level' watch, turning back the wayward curious traveller and
+thwarting infiltrators.
+~
+530506 8486912 75 S
+30 39 0 1d1+2000 1d1+1
+0 20
+8 8 1
+#22020
+heavy soldier infantry hauptstreitkraafte~
+a heavy soldier~
+A soldier of the heavy infantry patrols pillar to post.
+~
+   A common soldier of the main force, heavily armed and armoured from his
+auger-toed azure steel boots to his sawtooth-spined vambraces.  Most of the
+members of this corps regard shields as a hinderance.  They wield two swords
+or a two-handed heavy axe.
+~
+6252 66568 -75 S
+30 39 0 1d1+2000 1d1+1
+0 20
+8 8 1
+#22021
+warrior heavy seasoned battle~
+a battle seasoned warrior~
+A warrior, many years in the making stands here, with his weapon at ready.
+~
+   An experienced, battle-seasoned warrior.  The left side of his tunic is
+filled with emboidered replicas of decorations awarded for valor and uncanny
+feats of heroism.  A variety of scars adorn his arms and face.  He stands
+at ease but his eyes are bright and alert.  The tedious hours have not dulled
+his well-trained senses.
+~
+768206 8455592 75 S
+35 39 0 1d1+18375 1d1+1
+0 20
+8 8 1
+#22022
+oberst queen~
+the Oberst~
+The Oberst walks around, inspecting her troops.
+~
+   The Oberst appears stern, in control of her troops, but she is delighted
+you are here to witness the exhibition her troops are preparing. She
+enjoys watching her troops in action as well as displaying them for all
+to see.
+~
+138264 65700 -100 S
+40 39 0 1d1+24000 1d1+1
+0 20
+8 8 2
+#22023
+wachtmeister~
+the Wachtmeister~
+The Wachtmeister stands here, keeping a weather eye for trouble.
+~
+   Too advanced in age to serve on the line, but not unfit for light duties.
+He was rewarded for his years of loyal, stouthearted service with this 
+special rank. He is especially eager to demostrate his use to the Company.
+~
+6232 131080 -350 S
+12 39 0 1d1+720 1d1+1
+0 20
+8 8 1
+#22024
+archer~
+an archer~
+An archer peers through his firing slit.
+~
+   He stands naked upon his firing blocks, the stone wall his armor, except
+for a thong and leather cup.  Muscles flair upwards and out from his whippet-
+pinched waist to his shoulders sloped like a wrestler.  An arrow fired from
+his bow will pierce the strongest armor at 200 arms.  He has slayed many,
+shot sternum to anus, clean through, at point blank at the gate below.
+~
+571598 66688 55 S
+40 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22025
+assassin master warrior soldier~
+a master soldier~
+A master of special weapons attempts to meld with the shadows.
+~
+   A squat yet powerfully built soldier specially trained and equipped for
+melee in close quarters.  He wears little armor: a pair of wrist guards
+arrayed with razor-sharp spines, a helm with a flaired brim and a pair of
+spike-soled boots.
+~
+768078 8979752 50 S
+30 39 0 1d1+1125 1d1+1
+0 20
+8 8 1
+#22026
+wizened old man~
+a wizened old man~
+A wizened old man glances at the desktop of his lecturn.
+~
+   His wrinkled face, topped with a mane of thinning wind blown hair, is 
+dwarfed by the cowl of his over-sized violet woolen cloak, giving him the
+appearance of an alley cat peering from inside a barrel.  He glances at
+his lecturn then steps forward and greets each new arrival by name and title.
+~
+761930 1152 -50 S
+35 39 0 1d1+18375 1d1+1
+0 20
+8 8 1
+#22027
+eating guard~
+the guard~
+A guard is seated here, scarfing down his chow.
+~
+   He sits hunched over, his arms circling his plate. On hand grasps a run-
+cible spoon, the other a flagon of ale.  He pauses only to wipe his face or
+laugh at a joke.
+~
+2186 0 -350 S
+15 39 0 1d1+1125 1d1+1
+0 20
+6 8 1
+#22028
+guard play~
+the guard~
+A guard is seated here, involved in a game of cards.
+~
+   He fans out the cards he's drawn wondering how to play this hand.
+~
+2058 0 50 S
+15 39 0 1d1+1125 1d1+1
+0 20
+6 6 1
+#22029
+sleeping guard~
+the guard~
+A guard lies under his blankets, fast asleep.
+~
+  He's just a grey lump beneath his blankets.
+~
+202 16385 -30 S
+25 39 0 1d1+3125 1d1+1
+0 20
+4 4 1
+#22030
+stern-faced martinet~
+the martinet~
+A stern-faced man issues orders to anyone within earshot.
+~
+   His unerringly stern countenance and posture clashes almost hilariously
+with his gnomish build: a hooked beak protrudes from his apple-red cheeks.
+He can't be more than five feet tall.  He quickly inspects each guard that
+emerges from the armoury, telling off those committing even the smallest
+laspse, then barks the order for the day and turns to greet the next gaurd.
+~
+36874 65664 50 S
+40 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22031
+ward boy~
+the boy~
+A ward boy makes his way, loaded down with a heavy platter
+~
+   The platter is quite a load, and he must move quickly to keep up with the
+soldiers' demands.  But he doesn't mind.  He looks forward to the day he will
+be old enough to enlist.
+~
+2202 8 -100 S
+10 39 0 1d1+500 1d1+1
+0 20
+8 8 1
+#22032
+conductor~
+the conductor~
+The conductor uses both hands directing his tiny band of musicians.
+~
+   He leads the little band with the vigor of a maestro conducting a great
+symphonic orchestra: slashing furiously with his baton while scooping
+armloads of air like a soldier rallying his comrades.  He hums along with
+each note, sometimes getting a little ahead of the musicians.
+~
+8330 0 50 S
+20 39 0 1d1+500 1d1+1
+0 20
+8 8 1
+#22033
+sleek grey cat kitty~
+a sleek grey cat~
+A grey cat sleeps in a tight curve atop a stool next to the tiller.
+~
+   A sleek wiry coil of muscle and fur.  Her tail twitches and her
+claws extend and retract in her sleep in a somnulent pantomime of
+stalking.
+~
+176202 65704 500 S
+60 39 0 1d1+1620 1d1+1
+0 20
+8 8 2 8
+#22034
+slave eating~
+the slave~
+A slave stands here, slurping down a bowl of gruel.
+~
+   He's too busy with his meager portion to notice you.
+~
+10 0 5 S
+1 39 0 1d1+5 1d1+1
+0 20
+8 8 0
+#22035
+sleeping slave~
+the slumbering slave~
+A slave sleeps beneath a rough blanket.
+~
+  You see a lump beneath a rough blanket.
+~
+10 0 250 S
+10 39 0 1d1+500 1d1+1
+0 20
+4 4 0
+#22036
+new arrival~
+the new arrival~
+The new arrival stares at the pavement as he shuffles along.
+~
+   His spirit is already completely broken. He'll do anything to avoid 
+the lash. He stares at the pavement and follows orders to the letter.
+~
+10 0 100 S
+10 39 0 1d1+500 1d1+1
+0 20
+8 6 1
+#22037
+slave~
+the slave~
+A slave ignores you and goes about his business.
+~
+  A captive laborer, broken in spirit. It's hard to determine the sex of this
+pitiful creature.
+~
+78 0 0 S
+10 39 0 1d1+500 1d1+1
+0 20
+8 8 0
+#22038
+guide~
+a guide~
+A guide idles, waiting for a group of slaves to lead away.
+~
+   He's not at all happy with his posting out here in the clearing. He'd much
+rather be back at the fortress, dining at a real table and sleeping in a warm
+bunk. He thinks capturing an escapee or intruder might be his ticket home.
+~
+4190 0 -100 S
+15 39 0 1d1+1125 1d1+1
+0 20
+8 8 1
+#22039
+well-armed bodyguard~
+a Bodyguard~
+a well-armed man stands ready for action.
+~
+   This one truly enjoys his post here in the clearing.  The routine
+of garrison duty bores him silly.  There's plenty of action here with
+so many rough traders passing through.
+~
+6218 65536 -50 S
+25 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22040
+zahlmeister meister~
+the zahlmeister~
+The zahlmeister rubs his chin and scowls.
+~
+   His scowling visage is topped with with a frizz of thinning orange
+hair.  The unfortunate passing of the camp manager did not improve
+his disposition.  Now he must assume the managers tasks in addition
+to his own.  His memories of his wife are his only solace.
+~
+6154 128 -50 S
+45 39 0 1d1+20535 1d1+1
+0 20
+6 8 1
+#22041
+receptionist~
+the receptionist~
+The receptionist is here, screening out pests like you.
+~
+   She looks at you the way a barmaid looks at a small tip. Her only in-
+terest right now is making you go away.
+~
+38986 268500992 50 S
+30 39 0 1d1+3125 1d1+1
+0 20
+8 8 2
+#22042
+drunken guard~
+the drunken guard~
+A drunken guard reels about, colliding with anyone in his path.
+~
+   His face has decomposed into a slack jumble. He reels and windmills about,
+colliding with those who aren't quick enough to side-step him. He's hope-
+lessly drunk.  He might vomit at any moment.
+~
+136 0 100 S
+15 39 0 1d1+1125 1d1+1
+0 20
+8 8 1
+#22043
+chief raider~
+the Raiders Chief~
+the chief of a raiding party haggles with the paymaster.
+~
+   His gear reads like an archaeological history of the doomed: most of it
+wrested from the hands of his opponents.  He lives to fight. Even after a long
+day of conquering and enslaving, he's ready to take you on.
+~
+526414 65536 -35 S
+40 39 0 1d1+24000 1d1+1
+0 20
+8 8 1 13
+#22044
+raider~
+the raider~
+A raider waits idly for his cut of the take.
+~
+   He's weary from countless miles of hard travel.  The stench of combat
+rises from him: sweat, fear and adrenaline.  The rag he wears upon his head
+dipped in the blood of each of his kills, has tatooed a thin red line 
+across his brows.
+~
+6220 65536 -750 S
+30 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22045
+raider dog hound~
+a hound dog~
+A hound concentrates on an intresting scent.
+~
+   A cross between a bloodhound and a mastiff.  She's larger than an ox
+calf.  She travels with the raiders, tracking and bringing the most re-
+sistant to ground in her powerful jaws.  She likes meat, and plenty of it!
+~
+567434 32 -500 S
+20 39 0 1d1+125 1d1+1
+0 20
+8 8 2 4
+#22046
+musician band member~
+a musician~
+A musician plays upon his instrument.
+~
+   The bandmember wears a double-breasted violet tunic decorated with brass
+buttons and batwing-shaped shoulderboards.  His eyes appear crossed as he
+reads the notes from a dinky square of parchment, clasped to a rod that
+rises from his horn.
+~
+8330 32768 50 S
+20 39 0 1d1+720 1d1+1
+0 20
+8 8 1
+#22047
+light infantry soldier~
+a soldier of the light infantry~
+A soldier, clad in light armor, wheels from his firing slit to defend.
+~
+   A lightly armoured soldier trained in both ranged and close combat. 
+He wields either a shortsword or a stout-handled spear with a auger-like
+point in addition to his bow.
+~
+528490 8455168 50 S
+30 39 0 1d1+4500 1d1+1
+0 20
+8 8 1
+#22048
+snatcher_harridan~
+a snatcher_harridan~
+Greets players with random chance of transing them to room 22070
+~
+   Ten percent chance of swooping down and snatching a poor player then 
+carrying him off to nest.
+~
+8388618 0 45 S
+20 39 0 1d1+2000 1d1+1
+0 20
+8 8 2
+#22049
+beautiful maiden~
+the beautiful maiden~
+A beautiful maiden is here, filling flagons with ale.
+~
+   She smile broadly and her eyes sparkle merrily as she fills each flagon
+then hands it to a thristy customer. Her chestnut-colored hair is coiled atop
+her head and held in place with several pink and gold ribbons. The light gown
+she wears barely conceals her ripe, youthful body.
+~
+8270 65664 0 S
+50 39 0 1d1+-28036 1d1+1
+0 20
+8 8 2
+#22050
+chief slave driver~
+the chief slave driver~
+The chief slave driver scrutinizes a fresh capture.
+~
+   The shadow cast by the bill of his leather cap conceals his eyes. The
+rest of his face reveals nothing, his lips barely moving when he speaks.
+Now and again he prods the slave he is inspecting with the butt of the curled
+whip he carries.  Sometimes he pauses and shakes his head, the movement barely
+perceptable.  The branding is skipped and the slave is lead out the western
+gate.
+~
+47178 65536 -75 S
+25 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22051
+timjaim drummer~
+Timjaim the Pace Keeper~
+A pair-shaped man sits here, staring at nothing as he beats his drum.
+~
+   This big guy sits here all day, sweating like a pig, keeping the correct
+rythmn for the bellows treaders.  His eyes show nothing but the milky film
+of the blind. Somehow, though, he knows you're here.
+~
+39242 165 250 S
+40 39 0 1d1+24000 1d1+1
+0 20
+6 8 1
+#22052
+glowing coal golem~
+the glowing coal golem~
+An animated heap of white-hot coals pops and seethes.
+~
+   Your eyes burn as you gaze at this creature, summoned from the furnace, 
+animated by evil magic.  A shower of sparks and white hot cinders cascades
+upon you as the golem performs its masters bidding!
+~
+6267 65536 0 S
+30 39 0 1d1+4500 1d1+1
+0 20
+8 8 0
+#22053
+shower flaming coals~
+the shower of flaming coals~
+A shower of flaming coals fly from the furnace and rain upon you.
+~
+   The furnace seems to have come to life in order to repulse your assault.
+It belches great gouts of flaming coals in your direction!
+~
+6270 524458 -100 S
+20 39 0 1d1+2000 1d1+1
+0 20
+8 8 0
+#22054
+forge worker slave~
+the forge slave~
+A forge slave toils in the heat under the direction of the master.
+~
+   He is charmed by the master and will fight you to the death with an uncanny
+fierceness and valor.
+~
+6202 65576 -150 S
+22 39 0 1d1+2420 1d1+1
+0 20
+8 8 1
+#22055
+viceroy~
+the Viceroy~
+The Viceroy stands behind his massive desk.
+~
+   Many men allow their physiques to slacken after they reach middle
+age and a comfortable station.  The Viceroy possesses the enormous
+strength of his youth and perhaps even greater stamina.
+~
+10314 65664 -100 S
+55 39 0 1d1+-20161 1d1+1
+0 20
+8 8 1
+#22056
+bodyguard~
+the Viceroys bodyguard~
+A member of the Viceroy's bodyguard has arrived, happy for some action.
+~
+   A member of the Viceroy's personal bodyguard, an expert in all forms of
+hand to hand combat and a master of weaponry.
+~
+4664 65536 75 S
+25 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22057
+secret enforcer agent~
+a secret enforcer~
+An agent for the Viceroy lurks here, unseen, watching and listening...
+~
+   One of the Viceroy's spies. She sneaks around, observing everyone, seeking
+out and purging any and all who might act against the Viceroy.
+~
+528556 884746 -50 S
+30 39 0 1d1+24000 1d1+1
+0 20
+8 8 2
+#22058
+slave driver~
+a slave driver~
+A slave driver glowers at his charges.
+~
+   Here is a soldier sentenced to a punishment detail. He is eager to earn 
+his retribution and return to his unit. Subsequently, he pays close attenntion
+to his charges and makes certain there is no slacking off.  He noticed you
+right away...
+~
+14378 65544 75 S
+20 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22059
+toiling slave~
+the toiling slave~
+A slave toils away at his labors here.
+~
+   He's been in captivity so long, and is so worn down by the long hours and
+meager diet, he doesn't think about anything but his job.
+~
+202 0 100 S
+12 39 0 1d1+720 1d1+1
+0 20
+8 8 0
+#22060
+arms merchant~
+the arms merchant~
+An arms merchant watches the proceedings with great intrest.
+~
+   His eyes are a little glassy from the free ale, but his expertise is not
+dulled. He knows what sells and how much to pay for each item. He's dressed
+in opulent robes; business is always brisk.
+~
+530570 98304 -100 S
+50 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22061
+signalman~
+the signalman~
+A signalman stands here awaiting orders.
+~
+   The Signalman bears an important task: raise the flags and banners that 
+keep the guard corps posted to their current orders, operate the powerful
+lamps the guide barges past dangerous shoals, and sound the alarm if anything
+appears amiss. He must fight hours of tedium and remain alert always.
+~
+669742 66728 100 S
+35 39 0 1d1+18375 1d1+1
+0 20
+8 8 1
+#22062
+cermonial guard~
+a cermonial guard~
+A ceremonial guard stands at attention.
+~
+   They are the cream of the elite, the Honor Guardsmen. Each is personally
+selected by the Oberst, for his, or her, bravery, fierceness and strict
+attention to decorum.  The Honor Guard are detailed anywhere customers may
+loiter.
+~
+47146 65672 75 S
+35 39 0 1d1+18375 1d1+1
+0 20
+8 8 1
+#22063
+foreign dignitary~
+the foreign dignitary~
+A foreign dignitary stands here, taking some snuff.
+~
+   She is clad, from head to foot, in gold brocaded robes. She examines each
+piece of equipment, even the heaviest armor and axe, then replaces it with
+no wasted effort. Now and again she dips into a small gold box for a bit
+of snuff, then adjusts her monocle and moves along to the next display.
+~
+702602 327808 500 S
+55 39 0 1d1+-20161 1d1+1
+0 20
+8 8 2
+#22064
+coal pusher~
+the coal pusher~
+A slave, covered head to toe in black dust, toils here.
+~
+   Rivulets of sweat cut through the coal dust, revealing the toilers true 
+color. What an awful job.
+~
+4110 0 35 S
+15 39 0 1d1+1125 1d1+1
+0 20
+8 8 0
+#22065
+grinder~
+the grinder~
+A grinder toils here, leaning into a cascade of yellow sparks.
+~
+   He holds a half-finished sword in his hands.
+~
+6154 0 65 S
+25 39 0 1d1+3125 1d1+1
+0 20
+8 8 1
+#22066
+steward~
+the steward~
+A steward is here, attending to the spirits.
+~
+   He's dressed in a crisp white smock. He knows a lot about wines and 
+spirits.
+~
+6158 65536 100 S
+30 39 0 1d1+4500 1d1+1
+0 20
+8 8 1
+#22067
+invisiblearcherfuckingthing~
+an invisible archer~
+this one shoots arrows at players when they enter the room.
+~
+   How much damage?  Repellant, but not devastating.  Every other round
+to simulate 'reloading'.
+~
+8388618 0 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0 11
+#22068
+rampart two_archer~
+rampart_archer_invisible~
+invisible archer for ramparts
+~
+It looks, err, invisible.
+Kinda unseen.
+~
+8388618 1064 0 S
+45 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#22069
+animated glowing coals~
+a handful of animated glowing coals~
+A handful of animated coals burns you!
+~
+   Scooped from the furnace and animated by the forgemaster.  Spectral fire.
+Buring plasma. So hot!
+~
+110696 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0 9
+#22070
+travel weary female captive woman young~
+a female captive~
+A barefoot woman stands looking at the dirt.
+~
+   The young female captive knows a fate worse than enslavement awaits her
+if she doesn't escape.  Her body posture illustrates surrender, but a fire
+burns in her eyes.
+~
+524362 33554432 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#22071
+feral marsh cat~
+a feral cat~
+A feral cat spits and hisses at you.
+~
+   Snaggle-toothed and missing a chunk of one ear, her fur is sleek and her
+claws are sharp.  Unlike domestic cats she is unafraid of water and is 
+a strong swimmer.
+~
+1179656 263200 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 2 8
+#99999
+$~

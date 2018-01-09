@@ -1,0 +1,47 @@
+#181
+The Western Highway~
+18199 22 2 32
+D 0 18199     5     2            Shyft's Technicolor Nightmare door down
+D 0 18125     2     1            The Western Highway door south
+R 0 18145 18102    -1            remove a Shrine
+O 0 18102   101 18145            a Shrine
+P 1 18103   101 18102                    put a sturdy latchkey in a Shrine
+M 0 18120     1 18173            a brithan
+M 0 18108     1 18138            the WindFinder
+E 1 18101    99    16                    wield a HighwayMan's walking stick
+E 1 18104    10     9                    hands the Gloves of the WindFinder
+E 1 18105    50     5                    body a deep green leather jerkin
+D 0 18138     5     2            Office of the WindFinder door down
+M 0 18100     1 18114            Old Lady Henneson
+E 1 18103    10    17                    held a sturdy latchkey
+M 0 18101     1 18105            an old scruffy black dog
+O 0 18100   101 18109            a Scarecrow
+M 0 18106     5 18108            an old horse
+M 0 18107     3 18137            a HighwayMan
+M 0 18102     3 18137            a HighwayMan
+E 1 18101    10    16                    wield a HighwayMan's walking stick
+D 0 18137     4     2            The HighwayMan's Post door up
+O 0 18106   101 18140            a large oak sign
+M 0 18121     1 18167            a Bookie
+E 1 18108    99    13                    waist a short slate key
+D 0 18167     1     2            A Private Room door east
+D 0 18167     5     2            A Private Room door down
+M 0 18115     3 18164            a Serving Wench
+M 0 18117     3 18164            a patron of the Lofty Crow
+M 0 18119     1 18164            Stubby, the Bartender
+D 0 18164     3     2            Common Room of the Lofty Crow door west
+O 0 18112   101 18165            a bowl of hearty stew
+O 0 18113   101 18165            a mug of dark porter
+O 0 18114   101 18165            a honeyed waybread
+O 0 18115   101 18165            hard tack
+O 0 18116   101 18165            a cup of dark tea
+D 0 18170     4     2            Entering the Cellar door up
+M 0 18118     3 18168            a patron of the Lofty Crow
+M 0 18114     1 18168            Sarilla
+E 1 18111    10    16                    wield Sarilla's Lyre
+M 0 18103     3 18116            a peasant
+M 0 18116     3 18154            a Serving Wench
+D 0 18154     0     2            The Kitchen door north
+S
+#99999
+$~

@@ -1,0 +1,103 @@
+#60
+Haon-Dor, Light Forest~
+6099 13 2 32
+O 0  6012   101  6000            a large sign
+M 0  6000     1  6009            John the Lumberjack
+E 1  6000    70    16                    wield a lumber axe
+E 1  6001    70     5                    body a chequered shirt
+E 1  6002    70     8                    feet a pair of worn leather boots
+M 0  6001     6  6012            the rabbit
+G 1  6023    10    -1                    give a piece of rabbit meat
+M 0  6001     6  6015            the rabbit
+G 1  6023    10    -1                    give a piece of rabbit meat
+M 0  6001     6  6017            the rabbit
+G 1  6023    10    -1                    give a piece of rabbit meat
+M 0  6001     6  6019            the rabbit
+G 1  6023    10    -1                    give a piece of rabbit meat
+M 0  6002     1  6022            the brown bear
+M 0  6004     1  6023            the fallow deer
+G 1  6024     4    -1                    give a piece of venison
+M 0  6005     4  6014            the brown fox
+O 0  6003   101  6010            a fireplace
+O 0  6004   101  6010            a hooded brass lantern
+O 0  6013   140  6010            a barrel
+O 0  6010   102  6023            some blackberries
+O 0  6011   110  6006            a mushroom
+O 0  6011   110  6013            a mushroom
+O 0  6011   110  6016            a mushroom
+O 0  6014   106  6006            a small brook
+O 0  6014   106  6007            a small brook
+O 0  6014   106  6008            a small brook
+O 0  6014   106  6013            a small brook
+O 0  6014   106  6014            a small brook
+O 0  6015   102  6025            the lake
+O 0  6015   102  6027            the lake
+O 0  6016   101  6033            an oaken cudgel
+O 0  6017   101  6026            the corpse of a boar
+P 1  6018   101  6017                    put a large slab of meat in the corpse of a boar
+P 1  6019   101  6017                    put a pair of boar tusks in the corpse of a boar
+O 0  6020   101  6067            a hollow log
+O 0  6021   101  6032            the bird's nest
+P 1  6022   103  6021                    put a blue robin's egg in the bird's nest
+P 1  6022   103  6021                    put a blue robin's egg in the bird's nest
+P 1  6022   103  6021                    put a blue robin's egg in the bird's nest
+O 0  6011   115  6019            a mushroom
+O 0  6011   115  6065            a mushroom
+O 0  6011   115  6062            a mushroom
+O 0  6011   115  6069            a mushroom
+O 0  6011   115  6078            a mushroom
+M 0  6006     1  6033            the bird
+M 0  6007     1  6033            the bobcat
+M 0  6008     4  6005            the sparrow
+M 0  6008     4  6013            the sparrow
+M 0  6008     4  6062            the sparrow
+M 0  6009     3  6032            the robin
+M 0  6009     4  6066            the robin
+M 0  6009     4  6013            the robin
+M 0  6009     4  6016            the robin
+M 0  6010     2  6030            the squirrel
+M 0  6010     2  6030            the squirrel
+M 0  6011     1  6067            the sleepy badger
+M 0  6012     7  6003            the grey squirrel
+M 0  6012     7  6007            the grey squirrel
+M 0  6012     7  6028            the grey squirrel
+M 0  6012     7  6032            the grey squirrel
+M 0  6012     7  6030            the grey squirrel
+M 0  6012     7  6064            the grey squirrel
+M 0  6012     7  6075            the grey squirrel
+M 0  6013     4  6030            the small chipmunk
+M 0  6013     4  6021            the small chipmunk
+M 0  6013     4  6067            the small chipmunk
+M 0  6013     4  6061            the small chipmunk
+M 0  6014     4  6026            the large black crow
+M 0  6014     4  6026            the large black crow
+M 0  6014     4  6026            the large black crow
+M 0  6014     4  6027            the large black crow
+M 0  6015     1  6026            the grotesque vulture
+M 0  6016     1  6025            the young buck
+G 1  6024     4    -1                    give a piece of venison
+M 0  6017     3  6027            the fish
+M 0  6017     3  6027            the fish
+M 0  6017     3  6027            the fish
+M 0  6018     2  6027            the duckling
+M 0  6018     2  6027            the duckling
+M 0  6019     2  6027            the duck
+M 0  6019     2  6027            the duck
+M 0  6001    11  6068            the rabbit
+G 1  6023    96    -1                    give a piece of rabbit meat
+M 0  6001    11  6062            the rabbit
+G 1  6023    96    -1                    give a piece of rabbit meat
+M 0  6001    11  6071            the rabbit
+G 1  6023    96    -1                    give a piece of rabbit meat
+M 0  6001    11  6070            the rabbit
+G 1  6023    96    -1                    give a piece of rabbit meat
+M 0  6001    11  6060            the rabbit
+G 1  6023    96    -1                    give a piece of rabbit meat
+M 0  6005     8  6069            the brown fox
+M 0  6005     8  6074            the brown fox
+M 0  6005     8  6060            the brown fox
+D 0  6009     0     1            Outside A Small Cabin In The Forest door north
+D 0  6010     2     1            Inside The Cabin door south
+S
+#99999
+$~

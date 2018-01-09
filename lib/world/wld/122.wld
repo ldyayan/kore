@@ -1,0 +1,608 @@
+#12200
+Beginning of Dyteri Road~
+   You stand at the entrance to another world; a dirty, smelly, nasty world of
+dog-eat-dog lifestyles and unchained human emotion. East of you are the slums,
+where all kinds of life meet equal treatment, and it's all equally bad. Now
+is the best time to go back. After all, there are some things you just don't
+need to see.
+~
+122 0 0
+D1
+~
+~
+0 0 12201
+D3
+~
+~
+0 0 3053
+S
+#12201
+Dyteri Road~
+    You stand on Dyteri Road. The gutters are filled with trash, living and
+otherwise. The road continues East and West, while dilapidated wooden shacks
+lie to your north and south.
+~
+122 0 0
+D0
+~
+~
+0 0 12205
+D1
+~
+~
+0 0 12202
+D2
+~
+~
+0 0 12206
+D3
+~
+~
+0 0 12200
+S
+#12202
+Dyteri Road~
+    You stand on Dyteri Road. The gutters are filled with trash, living and
+otherwise. The road continues East and West, and a disreputable tavern lies
+to your south.
+~
+122 0 0
+D1
+~
+~
+0 0 12203
+D2
+~
+~
+0 0 12207
+D3
+~
+~
+0 0 12201
+S
+#12203
+Dyteri Road~
+    You stand on Dyteri Road. The gutters are filled with trash, living and
+otherwise. The road continues East and West, and a two-storey house lies to
+your north. The house has garbage on the lawn, and nasty-looking hoods sit
+on the front steps, looking mean. It looks like there is a crossroads to your
+east.
+~
+122 0 0
+D0
+~
+~
+0 0 12208
+D1
+~
+~
+0 0 12204
+D3
+~
+~
+0 0 12202
+S
+#12204
+The Crossroads of Dyteri and Kashue~
+    You stand at the crossroads of Dyteri Road and Kashue Street. You can see
+the stone ring of where a well once was, but it has long since been caved in
+and mutilated by vandals.
+~
+122 0 0
+D0
+~
+~
+0 0 12226
+D1
+~
+~
+0 0 12217
+D2
+~
+~
+0 0 12227
+D3
+~
+~
+0 0 12203
+S
+#12205
+A Nasty Wooden Shack~
+    You are standing ankle-deep in garbage. Around you are the rickety walls
+of a small wooden shack made out of scavenged timber and tarpaper. The residents
+stare blearily at you, not caring whether you exist or not, but they would
+obviously rather that you not be here. Dyteri Road lies to your south.
+~
+122 8 0
+D2
+~
+~
+0 0 12201
+S
+#12206
+A Nasty Wooden Shack~
+    You are standing ankle-deep in garbage. Around you are the rickety walls
+of a small wooden shack made out of scavenged timber and tarpaper. The residents
+stare blearily at you, not caring whether you exist or not, but they would
+obviously rather that you not be here. Dyteri Road lies to your north.
+~
+122 8 0
+D0
+~
+~
+0 0 12201
+S
+#12207
+The Black Nag Tavern~
+   You stand in the Black Nag Tavern, a notorious hang-out for petty criminals
+and local winos. The patrons look at you with beetled brows, trying to wish you
+away. They don't like strangers, and you are definitely a stranger.
+~
+122 8 0
+D0
+~
+~
+0 0 12202
+S
+#12208
+The Front Steps~
+    You stand on the front steps of a large, nasty house. The sounds of speech
+and arguing can be heard from within. 
+~
+122 0 0
+D0
+~
+front door~
+1 12202 12209
+D2
+~
+~
+0 0 12203
+S
+#12209
+Inside the Big House~
+    You stand inside the big house. There are doors in all directions, and a
+narrow stair leading up. Several junkies lie around you, their lips blue with
+the telltale signature of Tsang, the local drug of choice.
+~
+122 8 0
+D0
+~
+door~
+1 0 12210
+D1
+~
+door~
+1 0 12211
+D2
+~
+front door~
+1 12202 12208
+D3
+~
+door~
+1 0 12212
+D4
+~
+~
+0 0 12213
+S
+#12210
+The Back Room~
+     You are standing in the back room of the Big House. This is where cleaning
+supplies are kept. By the amount of dust on the buckets and mops, you figure
+that they haven't been used in a while.
+~
+122 8 0
+D2
+~
+door~
+1 0 12209
+S
+#12211
+A Room in the Big House~
+    You stand amidst much garbage in a room in the big house. You can go back
+through the door to the west.
+~
+122 8 0
+D3
+~
+door~
+1 0 12209
+S
+#12212
+A Room in the Big House~
+    You stand amidst much garbage in a room in the big house. You can go back
+through the door to the east.
+~
+122 8 0
+D1
+~
+door~
+1 0 12209
+S
+#12213
+Upstairs in the Big House~
+   You stand inside the second storey of the Big House. There is a pungent smoke
+hanging in the air here. Odd, but its color is a pale green. There are doors
+to the east, west, and south, as well as the stair down.
+~
+122 8 0
+D1
+~
+door~
+1 0 12214
+D2
+~
+door~
+1 -1 12215
+D3
+~
+door~
+1 0 12216
+D5
+~
+~
+0 0 12209
+S
+#12214
+A Second-Level Room in the Big House~
+    You stand amidst much garbage in a room in the big house. You can go back
+through the door to the west. The stench of Tsang smoke seems heavier in here.
+~
+122 8 0
+D3
+~
+door~
+1 0 12213
+S
+#12215
+The Master Bedroom~
+   You stand in the Master Bedroom of the Big House. The walls are covered in
+black cloth, and the windows are covered with tarpaper. As you walk across the
+floor, your boots stick slightly. 
+~
+122 9 0
+D0
+~
+door~
+1 0 12213
+S
+#12216
+A Second-Level Room in the Big House~
+    You stand amidst much garbage in a room in the big house. You can go back
+through the door to the east. The stench of Tsang smoke seems heavier in here.
+~
+122 8 0
+D1
+~
+door~
+1 0 12213
+S
+#12217
+Dyteri Road~
+    You stand on Dyteri Road. The gutters are filled with trash, living and
+otherwise. The road continues East and West. It looks like there is a crossroads
+to your west.
+~
+122 0 0
+D1
+~
+~
+0 0 12218
+D3
+~
+~
+0 0 12204
+S
+#12218
+Dyteri Road~
+    You stand on Dyteri Road. The gutters are filled with trash, living and
+otherwise. The road continues East and West, and you see a small, ramshackle
+hut to the south. It looks like Dyteri Road ends further east.
+~
+122 0 0
+D1
+~
+~
+0 0 12219
+D2
+A tarpaper curtain.
+~
+curtain door~
+1 0 12220
+D3
+~
+~
+0 0 12217
+S
+#12219
+The End of Dyteri Road~
+     You stand at the Eastern end of Dyteri road. It is blocked off by the
+collapsed remains of what was once an impressively large stone building. Funny
+how it looks much more important as a heap of rubble. West of you is Dyteri Road
+while a surprisingly clean hut lies to your north. A strange odor is coming
+from it, almost a musky stench, but somehow different. . . 
+~
+122 0 0
+D0
+~
+~
+0 0 12221
+D1
+~
+~
+0 0 716
+D3
+~
+~
+0 0 12218
+S
+#12220
+A Dark Shack~
+     You stand in a small shack. The windows and doorway are covered over with
+tarpaper, and the smell of incense fills the small room. You may go north to
+Dyteri Road. The faint smell of cooking fish comes from the east.
+~
+122 0 0
+D0
+A tarpaper curtain.
+~
+tarpaper curtain door~
+1 0 12218
+D1
+~
+~
+0 0 12225
+S
+#12221
+A Dark, Smelly Hut~
+    You are standing in a small, dark hut with the strong odor of some
+wild animal assaulting your nostrils. Small, glowing eyes peer at you
+from the clutter in this hut. Strangely, you feel like this is a place
+which welcomes kind people.
+~
+122 9 0
+D0
+~
+~
+0 0 12223
+D2
+~
+~
+0 0 12219
+S
+#12222
+Even Farther Back in the Hut~
+    You are standing in a small, dark hut with the strong odor of some
+wild animal assaulting your nostrils. Small, glowing eyes peer at you
+from the clutter in this hut. You wonder how far back this hut can go!
+~
+122 9 0
+D0
+~
+~
+0 0 12224
+D2
+~
+~
+0 0 12223
+S
+#12223
+Deeper Into the Hut~
+    You are standing in a small, dark hut with the strong odor of some
+wild animal assaulting your nostrils. Small, glowing eyes peer at you
+from the clutter in this hut. You wonder how far back this hut can go!
+~
+122 9 0
+D0
+~
+~
+0 0 12222
+D2
+~
+~
+0 0 12221
+S
+#12224
+The Back of the Hut~
+    You are standing in a small, dark hut with the strong odor of some
+wild animal assaulting your nostrils. Small, glowing eyes peer at you
+from the clutter in this hut. Finally, you are at the back!
+~
+122 9 0
+D2
+~
+~
+0 0 12222
+S
+#12225
+Filthy Kitchen~
+    You are standing in the dirtiest kitchen you've ever seen. Food prepared
+here should never be eaten by anything living! The incense in the main room
+now makes a lot more sense, as the odor of cod grease hangs in the air here
+like a deadly shroud of poison gas.
+~
+122 8 0
+D3
+~
+~
+0 0 12220
+S
+#12226
+Kashue Street~
+   You are standing on Kashue Street, which runs north and south from where you
+are. The stunted, dead trees alongside remind you of the former beauty of this
+renowned avenue. The Crossroads of Dyteri and Kashue lie to your south.
+~
+122 0 0
+D0
+~
+~
+0 0 12229
+D2
+~
+~
+0 0 12204
+S
+#12227
+The Southern End of Kashue Street~
+    You are standing in what was once a beautiful courtyard. South of you is
+what remains of the old City Hall, when this part of the city was incorporated
+in its own right. The ruins look strangely untouched by vandals. Kashue Street
+stops here, but continues to the north.
+~
+122 0 0
+D0
+~
+~
+0 0 12204
+D2
+~
+~
+0 0 12228
+S
+#12228
+Ruins of the City Council Hall~
+   You stand amidst broken pillars and crumbled stairways of what was once the
+local City Council building. Vandals have desecrated everything that might have
+once been of value here. Kashue Street lies to your north.
+~
+122 8 0
+D0
+~
+~
+0 0 12227
+S
+#12229
+Kashue Street~
+   You are standing on Kashue Street, which runs north and south from where you
+are. The stunted, dead trees alongside remind you of the former beauty of this
+renowned avenue. West and east of you lie small, ramshackle huts.
+~
+122 0 0
+D0
+~
+~
+0 0 12230
+D1
+~
+~
+0 0 12232
+D2
+~
+~
+0 0 12226
+D3
+~
+~
+0 0 12233
+S
+#12230
+Kashue Street~
+   You are standing on Kashue Street, which runs north and south from where you
+are. The stunted, dead trees alongside remind you of the former beauty of this
+renowned avenue. West and east of you lie small, ramshackle huts.
+~
+122 0 0
+D0
+~
+~
+0 0 12231
+D1
+~
+~
+0 0 12235
+D2
+~
+~
+0 0 12229
+D3
+~
+~
+0 0 12234
+S
+#12231
+Kashue Street~
+   You are standing on Kashue Street, which runs north and south. The old trees
+which you are used to by now have disappeared.  North of you, a faint dirth path meanders slowly to the east, leading to a copse of trees and underbrush.
+~
+122 0 0
+D1
+~
+~
+0 0 12236
+D2
+~
+~
+0 0 12230
+S
+#12232
+A Dirty Squat~
+     You stand amidst the sleeping wretched. Homeless citizens, junkies, and
+runaways all share this deserted shack in an unusual show of solidarity.
+Kashue street lies to your east.
+~
+122 8 0
+D3
+~
+~
+0 0 12229
+S
+#12233
+A Dirty Squat~
+     You stand amidst the sleeping wretched. Homeless citizens, junkies, and
+runaways all share this deserted shack in an unusual show of solidarity.
+Kashue street lies to your east.
+~
+122 8 0
+D1
+~
+~
+0 0 12229
+S
+#12234
+A Dirty Squat~
+     You stand amidst the sleeping wretched. Homeless citizens, junkies, and
+runaways all share this deserted shack in an unusual show of solidarity.
+Kashue street lies to your east.
+~
+122 8 0
+D1
+~
+~
+0 0 12230
+S
+#12235
+A Dirty Squat~
+     You stand amidst the sleeping wretched. Homeless citizens, junkies, and
+runaways all share this deserted shack in an unusual show of solidarity.
+Kashue street lies to your east.
+~
+122 8 0
+D3
+~
+~
+0 0 12230
+S
+#12236
+The Dark Tent~
+     You are standing in front of a desk in a dark, musty tent. Sunlight
+filters in from Kashue Street to the west.
+~
+122 8 0
+D3
+~
+~
+0 0 12231
+S
+#12299
+Fur's Lair~
+       This is Fur's Lair. The walls are covered in fur, the floor is carpeted
+in fur, and the chairs are laden with fur. In fact, everything here is rather 
+furry.
+~
+122 700 0
+S
+#99999
+$~

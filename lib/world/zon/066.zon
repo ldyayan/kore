@@ -1,0 +1,90 @@
+#66
+Abyss~
+6699 15 2 32
+M 0  6608     1  6654            the HydroDaemon
+E 1  6613    99    17                    held a crystal key
+E 1  6605    10    11                    shield a ^Csapphire^n shield
+D 0  6654     5     2            By a Pool door down
+M 0  6603     1  6621            the gargoyle
+E 1  6603     4    14                    left wrist a bracelet of ogre strength
+D 0  6609     4     1            The Dark Pit door up
+D 0  6609     4     1            The Dark Pit door up
+M 0  6600     1  6608            the Demon Statue
+E 1  6600    20    16                    wield a ^rblood-red^n broadsword
+D 0  6608     5     1            Behind the Altar door down
+M 0  6604    10  6622            a zombie
+M 0  6602     8  6620            a spectre
+M 0  6601    20  6619            a wraith
+M 0  6604    10  6619            a zombie
+M 0  6602     8  6616            a spectre
+M 0  6601    20  6616            a wraith
+M 0  6604    10  6615            a zombie
+M 0  6601    20  6612            a wraith
+M 0  6601    20  6611            a wraith
+M 0  6604    10  6613            a zombie
+M 0  6602     8  6623            a spectre
+M 0  6601    20  6623            a wraith
+M 0  6604    10  6624            a zombie
+M 0  6602     8  6624            a spectre
+M 0  6602     8  6625            a spectre
+M 0  6602     8  6626            a spectre
+M 0  6601    20  6627            a wraith
+M 0  6602     8  6630            a spectre
+M 0  6605    15  6636            a wight
+M 0  6605    15  6637            a wight
+M 0  6605    15  6617            a wight
+M 0  6601    20  6635            a wraith
+M 0  6605    15  6635            a wight
+M 0  6606     1  6638            the Dracolich
+E 1  6604    10     5                    body ^Wdiamond^n armor
+M 0  6602     8  6634            a spectre
+M 0  6604    10  6639            a zombie
+M 0  6601    20  6641            a wraith
+M 0  6604    10  6642            a zombie
+M 0  6605    15  6645            a wight
+M 0  6605    15  6640            a wight
+M 0  6601    20  6646            a wraith
+M 0  6605    15  6647            a wight
+M 0  6607     5  6649            a demon imp
+M 0  6607     5  6651            a demon imp
+M 0  6602     8  6650            a spectre
+M 0  6601    20  6652            a wraith
+M 0  6607     5  6655            a demon imp
+M 0  6601    20  6656            a wraith
+M 0  6604    10  6658            a zombie
+M 0  6607     5  6658            a demon imp
+M 0  6602     8  6660            a spectre
+M 0  6604    10  6661            a zombie
+M 0  6695    10  6662            a skeleton
+M 0  6695    10  6662            a skeleton
+M 0  6695    10  6664            a skeleton
+M 0  6695    10  6664            a skeleton
+M 0  6609     1  6665            the Erinyes
+E 1  6606    20     7                    legs a skirt made of fiend hide
+E 1  6607    20     5                    body a shirt made of fiend hide
+M 0  6695    10  6671            a skeleton
+M 0  6695    10  6671            a skeleton
+M 0  6601    20  6672            a wraith
+M 0  6604    10  6673            a zombie
+M 0  6695    10  6676            a skeleton
+M 0  6607     5  6677            a demon imp
+M 0  6605    15  6678            a wight
+M 0  6605    15  6678            a wight
+M 0  6610     1  6679            Vlad da Impaler
+E 1  6608    10    10                    arms a candle made of baby tallow
+M 0  6695    10  6675            a skeleton
+M 0  6605    15  6688            a wight
+M 0  6601    20  6689            a wraith
+M 0  6611     1  6693            the Pit Fiend
+E 1  6609    10    16                    wield the fiend's talon
+D 0  6695     4     2            Inside the Pool. door up
+M 0  6696     1  6686            the Black Abishai
+E 1  6611    10     3                    neck 1 a black amulet
+M 0  6697     1  6685            the Red Abishai
+E 1  6610    10     3                    neck 1 a ^rred^n amulet
+M 0  6698     1  6687            the Green Abishai
+E 1  6612    10     3                    neck 1 a ^ggreen^n amulet
+D 0  6699     3     1            The River Lethe door west
+S
+#99999
+$~

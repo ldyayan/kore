@@ -1,0 +1,285 @@
+#8300
+narwhal guard~
+A narwhal guard~
+A burly narwhal guard is standing here, sharpening his spearlike horn.
+~
+Here stands a Burly Narwhal guard, Honorably guarding the gates of Carpacia.
+He looks like he eats metal for breakfast. He *will* guard the gates to the
+death if need be.
+He prods you with his horn and shouts, "Move Along, Please!"
+You realize that it is *not* a request.
+~
+14354 32904 450 S
+29 1 0 1d1+1 1d1+1
+500 20
+8 8 1
+#8301
+carpacian gate guard~
+Carpacian gate guard~
+You see a burly gate guard here.
+~
+Here stands a burly gate guard, honorably guarding the gates of Carpacia.
+~
+14354 32904 450 S
+26 1 0 1d1+1 1d1+1
+500 20
+8 8 1
+#8302
+sting ray stingray~
+a stingray~
+A stingray is wandering around here, looking to sting something.
+~
+One of the more odder looking denziens of Carpacia is walking here, looking
+for someone to sting. This "Sting-Ray", as he likes to be called, is a Fishman
+with a long tail that has a stinger on it.
+~
+2052 1024 -100 S
+20 1 0 1d1+1 1d1+1
+100 20
+8 8 0
+#8303
+dogfish fish~
+the mangy dogfish~
+A mangy dogfish is here, searching for catfish to terrorize.
+~
+You see here a medium sized dogfish. It is half dog and half shark. It is
+sniffing at your leg and wondering in that doggy way whether to eat it, shag
+it, or bark at it. It seems to have decided upon the second choice.
+~
+65536 32 -45 S
+19 1 0 1d1+1 1d1+1
+2 20
+8 8 1
+#8304
+randy king stenos~
+Randy King Stenos~
+Randy King Stenos is sitting here, waiting for his harem to recuperate.
+~
+Here stands the Randy King Stenos. He is a handsome, tall, strong looking
+fishman, who has stamina. That is he has exhausted three harems in as many
+weeks. Carpacia is running out of nubile harem girls, due to his needs.
+He came to power by killing his predesessor, he looks like he could take on
+the entire town and win. He is also angry that you interrupted him while he
+was having a bog. And since you are not a nubile harem lass, he launches
+himself at you.
+~
+75810 128 140 S
+52 1 0 1d1+1 1d1+1
+12500 20
+6 8 1
+#8305
+prince tsuriops~
+Crown Prince Tsuriops~
+Crown Prince Tsuriops is here, planning to assassinate his father.
+~
+Prince Tsuriops is a tall but gangly fishman, with a spotty face and
+Brillo-like hair. He looks down over his Huge nose at everyone with an air
+of superiority that is most unbecoming a young monarch.
+He lusts after his fathers power (and harem), so much so he is plotting to
+have the King Eliminated in order to rule. 
+He would not even consider taking the Kingship from his father by force,
+as he is too weak to even hold a dagger, and he Faints at the sight of blood,
+especially his own. He is a coward and therefore will flee if you attempt
+to attack him.
+~
+8322 32896 -1000 S
+37 1 0 1d1+1 1d1+1
+10000 20
+6 8 1
+#8306
+cutthroat trout~
+Cutthroat trout assassin~
+A cutthroat trout assassin is here, waiting to be paid for your death.
+~
+You almost don't notice this assassin at first, he's that good. His clothes
+just meld into the shadows as if they are made of the substance themselves.
+His eyes show no emotion at all, But he is no savage killer.
+This assassin will not kill unless paid to, and finds nothing wrong in his
+craft. He does, however, abhor senseless acts of violence, and will do
+anything to protect innocents from any danger, even if that means sacrificing
+himself to save them.
+He is honorable, but can be bought out... for a price.
+~
+4112 852136 750 S
+38 1 0 1d1+1 1d1+1
+5000 20
+8 8 1
+#8307
+great white north shark~
+The Great White North Shark~
+A Great White North Shark is here, wearing a Toque and drinking a Schlitz.
+~
+Here is a visitor to the waters of Carpacia. This Great white North Shark
+comes from the cold northern waters, where all the fishmen wear Toques,
+drink Labatt's, and go "Eh?" all the time.
+The only differences with this great beast is that he doesn't like to be
+stereotyped, and he likes Schlitz.
+Oh and he will bite your leg off for lunch. He *IS* a Shark after all...
+~
+68608 172 450 S
+28 1 0 1d1+1 1d1+1
+1867 20
+8 8 1
+#8308
+queen spathis~
+Queen Spathis~
+Queen Spathis is here, embroidering something.
+~
+Here is one of the most kindly figures you have ever seen. Queen Spathis
+is a somewhat rotund fishwoman, with a rosy pink coloration to her scales.
+She looks very happy, and very much in love with her husband.
+She is a kind lady who will not have anyone doing nasty and violent things
+while she is around. Her husband the king fell in love with her when she
+tended to his wounds after his battle with her father the previous king.
+Her husband now enjoys his harem more than his wife, and so neglects her.
+Her son the Prince is a vile and bitter fishman, who won't have anything to
+do with her, so she just sits in her room and embroiders.
+She loves company, and immediately offers any one who enters her room tea
+and cookies, which no one has refused so far, her cookies are just that good!.
+~
+253954 128 1000 S
+35 1 0 1d1+1 1d1+1
+12500 20
+8 8 2
+#8309
+angel fish~
+the angel fish~
+Here loiters an angel fish, offering to 'polish your halo'.
+~
+Here is what the slimier denziens of Carpacia call a 'piece of fin'. She
+is a youngish fishwoman, with average fishy looks, and a, shall we say,
+'enhanced' physique. She is also wearing less fabric than a Beywatch
+Burbie <tm> doll wears.
+She will do anything you want for 150 gold pieces, and she really knows
+how to do anything well. This angel fish ain't no angel, if you catch my drift.
+Oh and watch out, if you aren't careful, she *can* give you lampreys.
+~
+132 2097152 -100 S
+25 1 0 1d1+1 1d1+1
+12 20
+8 8 2
+#8310
+assassin trout~
+the cutthroat trout assassin~
+A cutthroat trout assassin is here, waiting to be paid for your death.
+~
+You almost don't notice this assassin at first, he's that good. His clothes
+just meld into the shadows as if they are made of the substance themselves.
+His eyes show no emotion at all, but he is no savage killer.
+This assassin will not kill unless paid to, and finds nothing wrong in his
+craft. He does, however, abhor senseless acts of violence, and will do
+anything to protect innocents from any danger, even if that means sacrificing
+himself to save them.
+He is honorable, but can be bought out... for a price.
+~
+4144 852136 750 S
+38 1 0 1d1+1 1d1+1
+5000 20
+8 8 1
+#8311
+toadstool~
+toadstool~
+A pile of dung sits here, catching flies.
+~
+Uh-oh, it looks like someone has had an unexpected bowel movement on the
+ground here. It looks like your normal pile of dung, it smells like your
+normal pile of dung, it even tas-- you get the idea.
+Taking into consideration the fact that this is a pile of dung, you are utterly 
+flabbergasted when it sprouts a rather long tongue and nabs a fly right out
+of the air!
+Looking at the dung closely, but not too closely as it smells a bit,
+you notice that this is, in fact, a large toad that has taken the guise of
+a pile of fresh dung. This is particularly effective, as what predator will
+eat dung?
+~
+128 786432 500 S
+22 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#8312
+sunfish~
+the sunfish~
+A sunfish is lying here, working on her tan.
+~
+This fishwoman seems to be of a special breed that worships the sun.
+Her scales are a tan colour, and her eyelids are see-through, but they
+darken as the sun gets brighter.
+She also has the annoying tendancy to say 'Like', 'You Know', 'Du-uh',
+and 'Like Oh-My-Gawd!' to everything you say. Her neck also seems to be
+very weak, as her head keeps falling from side to side, as if it is
+bouncing off her shoulders.
+~
+0 0 150 S
+22 1 0 1d1+1 1d1+1
+5000 20
+5 8 2
+#8313
+cityguard~
+the moray eel guard~
+A vicious moray guard is here, watching for miscreants to abuse.
+~
+Here is one of the many moray eel guards that Carpacia uses to keep it's
+streets free of crime. These guards have excellent vision, and can hear the
+sound of a purse string being cut from yards away.
+They are huge, strong, vicious fighters who have no qualms about using
+deadly force to stop a crime in progress. Many criminals don't even make
+it to the gaol.
+Watch your Step around these ones, they don't care who they have to beat
+up to stop crime.
+~
+79888 32936 25 S
+31 1 0 1d1+1 1d1+1
+1500 20
+8 8 1
+#8314
+palace guard~
+the palace guard~
+A palace guard stands gallantly here, guarding the palace from intruders.
+~
+Here stands a burly palace guard, gallantly guarding the palace from intruders.
+He looks as if he has had a bowl of jagged metal Krusty-O's <tm> for breakfast.
+The King has personally chosen this guard for his strength and tenacity.
+He will not let the King down on any account, even if that means guarding
+the palce to the death.
+~
+14354 32904 450 S
+30 1 0 1d1+1 1d1+1
+1531 20
+8 8 1
+#8315
+parrotfish~
+the parrotfish~
+A parrotfish is here, qquawking for a cracker.
+~
+This is a strange animal, as it is half-bird, half-fish. Instead of wings,
+it has fins, and instead of a tail, it has talons and a tail. This parrotfish
+is blue with red fins.
+It squawks in its birdy voice "Awk! Polly wants a cracker you bloody twerp!".
+It is not very polite.
+~
+2180 0 0 S
+19 1 0 1d1+1 1d1+1
+20 20
+8 8 0
+#8388
+executioner~
+the head executioner~
+The head executioner is here, waiting to behead another criminal.
+~
+This is a really big fishman. He is half-great white, half-killer whale,
+half-giant squid, half-man 'o war, and a smidge of electric eel.
+He's that big. He has been created by a crazy wizard just to be a large and
+imposing executioner.
+And this he fits to a tee. His skin is blood proof, he can sever a head
+one-handed (and that's WITHOUT the axe), and he kills without hesitation.
+Once an old woman fell so that her head landed on the chopping block,
+and whack!, he cut it off just like that. Don't get him angry, and whatever
+you do, don't slip on the blood-covered floor next to the block, That's how
+the old lady died.
+~
+104723 4228 50 S
+42 1 0 1d1+1 1d1+1
+10000 20
+8 8 1
+#99999
+$~

@@ -1,0 +1,107 @@
+>greet_prog 50~
+  if ispc($n)
+    if level($n) < 30
+      pat $n
+      say Are you lost, little one?
+    else
+     if isaffected($i, inspire)
+       howl 
+     else
+       say I assume you want something from me.
+       mpcallmagic 'inspire' $i
+       wield halberd
+       grin $n
+     endif
+    endif
+  endif
+~
+>fight_prog 8~
+  if inroom($r) == here
+    if isfight($r)
+      mpecho $I raises her hands skyward and brings them together violently.
+      mpecho A spectral wolf appears from a billowing cloud of smoke.
+      mpmload 26643
+      mpforce 26643 kill $r
+    endif
+  endif
+~
+>rand_prog 5~
+  if inroom($i) == 26650
+  else
+    mpecho Sigyn quickly turns and runs back to her throne room.
+    mpsilent cast 'calm' $n
+    mpgoto 26650
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    if isfight($r) 
+      if sex($r) == male
+        say Remember your place, male!
+        mpechoat $r $I places a heavy boot between your 'jewels'.
+        mpechoaround $r $R grabs his 'jewels' as $I places a boot there!
+        mpechoat $r OW! that smarts...
+        mpdamage $r 150
+        if rand(50) 
+          mpechoat $r $I grabs you by your pants and tosses you out of the room.
+          mpechoaround $r $I throws $R violently from the room.
+          mpdamage $r 10d4
+          mppose $r sit
+          mptransfer $r nearby
+        endif
+      else
+        say You're on the wrong side girlie!
+        mpechoat $r $I grabs you by your pants and tosses you out of the room.
+        mpechoaround $r $I throws $R violently from the room.
+        mpdamage $r 10d4
+        mppose $r sit
+        mptransfer $r nearby
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if ischarhere(skymere)
+      mpforce skymere mptrigger $r defend-sigyn
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoat $r $I smashes your teeth in with the haft of her axe!
+      mpechoaround $r $I charges $R and slams her axe handle right in $K face!!
+      mpechoaround $r $R spits out a few teeth.
+      mpechoat $r You spit out a few teeth.
+      mpdamage $r 20d10
+    endif
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoat $r $I brutally SEVERS one of your limbs from your body!
+      mpechoaround $r $I CHOPS OFF a limb of $R. OW!
+      mpechoaround $r ^r$R SPEWS BLOOD EVERYWHERE!^n
+      mpechoat $r ^rYOU SPEW BLOOD EVERYWHERE!^n
+      mpdamage $r 550
+      mpoload 26627
+      mpsilent drop limb
+      cackle
+    endif
+  endif
+~
+>fight_prog 40~
+  bash
+~
+>rand_prog 1~
+  get all.limb
+  howl
+  mpjunk all.limb
+~
+>rand_prog 6~
+  wield halberd
+  junk axe
+~
+|

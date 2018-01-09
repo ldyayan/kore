@@ -1,0 +1,17 @@
+>fight_prog 5~
+  mpecho $I emits a stream of mind-numbing gas!!
+  mpdamage all 50
+  mpdrainmana all 4d10+10
+  mpcallmagic 'feeblemind' all
+~
+>fight_prog 5~
+  mpechoat $r $I scrapes your skin.  You feel chilled by the cold metal...
+  mpechoaround $r $I scrapes $R's skin up!
+  mpdamage all 30
+  mpdrainmove all 3d8
+  # drain some strength away
+  mpcallmagic 'chill touch' all
+  mpcallmagic 'chill touch' all
+  mpcallmagic 'chill touch' all
+~
+|

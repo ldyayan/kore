@@ -1,0 +1,44 @@
+>greet_prog 20~
+    emote eyes you warily.
+~
+>give_prog torso red dragon redarmorpiece~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog red dragon torso hacked~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog torso green dragon greenarmorpiece~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog green dragon torso hacked~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog torso white dragon whitearmorpiece~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog white dragon torso hacked~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog torso blue dragon bluearmorpiece~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog blue dragon torso hacked~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog torso black dragon blackarmorpiece~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+>give_prog black dragon torso hacked~
+    say I don't know what you want me to do with this.
+    give torso $n
+~
+|

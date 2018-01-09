@@ -1,0 +1,5 @@
+>fight_prog 25~
+  mpecho $I fires a shower of flaming arrows at you!
+  mpdamage all 3d8+10
+~
+|

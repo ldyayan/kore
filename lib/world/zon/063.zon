@@ -1,0 +1,47 @@
+#63
+Arachnos~
+6399 34 2 32
+M 0  6301    10  6301            the young spider
+M 0  6301    10  6306            the young spider
+M 0  6301    10  6306            the young spider
+M 0  6301    10  6304            the young spider
+M 0  6305     1  6303            the queen wasp
+M 0  6310     1  6342            the bird spider
+M 0  6303     1  6313            the wolf spider
+M 0  6308     5  6308            the slave
+M 0  6308     5  6308            the slave
+M 0  6308     5  6308            the slave
+M 0  6308     5  6308            the slave
+M 0  6308     5  6308            the slave
+M 0  6309     2  6327            the quasit
+M 0  6307     5  6335            the ethereal spider
+M 0  6307     5  6333            the ethereal spider
+M 0  6304     1  6332            the orc
+G 1  6300   101    -1                    give a black key
+M 0  6306     3  6321            the drone spider
+G 1  6305    50    -1                    give a thick white potion
+M 0  6306     3  6331            the drone spider
+G 1  6305    50    -1                    give a thick white potion
+M 0  6311     1  6373            the hermit
+G 1  6302    20    -1                    give a wizard's hat
+M 0  6315     1  6350            the Ki-Rin
+G 1  6109    50    -1                    give a blue potion
+G 1  6109    50    -1                    give a blue potion
+M 0  6314     1  6399            Arachnos
+E 1  6303    40    17                    held a pontiff's headress
+E 1  6304    40     6                    head a black knight's visor
+M 0  6312     1  6370            the Donjonkeeper
+E 1  6301    50    16                    wield a very sharp knife
+G 1  6109    50    -1                    give a blue potion
+M 0  6313     1  6367            the guardian
+M 0  6306     3  6330            the drone spider
+M 0  6302     1  6360            Yevaud
+E 1  6304    50     6                    head a black knight's visor
+E 1  7203    50     3                    neck 1 a purple cloak
+M 0  6316     1  6330            the young wormkin
+M 0  6317     1  6340            the elder wormkin
+D 0  6392     0     2            The Great Door door north
+D 0  6399     2     2            The Lair Of Arachnos door south
+S
+#99999
+$~

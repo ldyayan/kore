@@ -1,0 +1,46 @@
+>rand_prog 100~
+  mpgoto 13046
+  if ischarhere(28003)
+  or ischarhere(28004)
+    mpgoto cleaner
+  else
+    mpgoto 13060
+    if ischarhere(28003)
+    or ischarhere(28004)
+      mpgoto cleaner
+    else
+      mpgoto 13061
+      if ischarhere(28003)
+      or ischarhere(28004)
+        mpgoto cleaner
+      else
+        mpgoto 13062
+        if ischarhere(28003)
+        or ischarhere(28004)
+          mpgoto cleaner
+        else
+          if rand(20)
+            mpgoto 13046
+          else
+            if rand(40)
+              mpgoto 13060
+            else
+              if rand(60)
+                mpgoto 13061
+              else
+                if rand(80)
+                  mpgoto 13062
+                else
+                  mpgoto 13049
+                endif
+              endif
+            endif
+          endif
+          mpmload 28003
+          mpgoto cleaner
+        endif
+      endif
+    endif
+  endif
+~
+|

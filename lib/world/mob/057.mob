@@ -1,0 +1,84 @@
+#5700
+greza sailor~
+the Greza Sailor~
+A slime dripping greza sailor stares at you blankly.
+~
+A ghostly rotting sailor with tattered clothes, he stares blankly into
+nothingness as he goes about his duties.
+~
+104 0 -500 S
+18 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#5701
+greza chef~
+the Greza Chef~
+A slimey chef is here oozing into his pot of ancient victuals.
+~
+A half rotted galley chef, he blankly serves sailors imaginary food from
+his pot.
+~
+10250 132232 -500 S
+40 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#5702
+greza officer~
+a Greza Officer~
+A greza officer snarls at you in disgust.
+~
+A half rotted officer, wearing a tattered uniform with rusted metals
+but his sword looks quite sharp.
+~
+8232 1114112 -500 S
+20 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#5703
+greza warlock~
+the Greza Warlock~
+The Greza Warlock snarls at you in hate.
+~
+The half rotted remains of the ship doctor, he liked to experiment with all
+sorts of magic, you wonder if that is what happened to the crew?
+~
+42 1152 -500 S
+39 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#5704
+greza captain~
+the Greza Captain~
+The Greza Captain sorts through his charts.
+~
+The captain is rotted and tattered, but also burned and slashed as if he
+battled a dragon or dracolich.
+~
+42 65664 -500 S
+41 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#5705
+greza doctor~
+the Greza Doctor~
+A slimey visage of a doctor is here trying to examine you.
+~
+The Greza Doctor is tattered and looks half digested.
+~
+2090 66568 -500 S
+36 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#5706
+greza sailor sick~
+a sick Greza Sailor~
+A slimy greza sailor lies here, shivering on a rotten infirmary bed.
+~
+This greza sailor looks deathly ill.
+~
+10 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+4 8 1
+#99999
+$~

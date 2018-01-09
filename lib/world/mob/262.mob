@@ -1,0 +1,148 @@
+#26200
+thri-kreen thri kreen slave~
+a Thri-Kreen slave~
+A Thri-Kreen slave is here mining ore.
+~
+You see a tall, young Thri-Kreen slave. He has been forced into a life of
+slavery by the oppressive management of this mine. You notice that his
+back is scarred, obviously by the many beatings he has received. You feel
+pity for him and wonder how you could kill him.
+~
+72 1024 300 S
+18 1 0 1d1+1 1d1+1
+100 0
+8 8 1
+#26201
+slave supervisor super visor~
+a drow supervisor~
+A drow supervisor is standing here watching over the slaves.
+~
+You see a drow elf standing here. He appears to be focusing all his attention
+on watching the slaves under his command. You notice a rather cruel expression
+on his face as he looks at the slaves. Clearly he is an cruel, evil man.
+~
+2632 0 -1000 S
+20 1 0 1d1+1 1d1+5
+15 20
+8 8 0
+#26202
+minotaur guard mine~
+a minotaur guard~
+The mine guard stands here looking for escaping slaves and intruders.
+~
+You see a minotaur guard. As he stands here he looks at the slaves, he is 
+looking for the signs of someone planning an escape. He seems rather cruel,
+but not near as evil as the supervisors. Clearly he feels some pity for the
+slaves.
+~
+718952 1024 -800 S
+24 1 0 1d1+1 1d1+10
+4000 20
+8 8 1
+#26203
+regin mine owner~
+Regin, owner of the mine~
+Regin, owner of the mine is standing here looking for a book to read.
+~
+You see a tall human, by he bearing you can tell he is a veteran of many 
+adventures. Even thought he now owns and runs this mine you can plainly see
+the warrior in him. You notice he is dressed in a plain black hooded robe,
+yet you are unsure what might be underneath that robe. Something tells you
+you would rather not find out. Just as you turn to leave he notices you and
+says, "Where are you going?"
+~
+780394 168919212 -1000 S
+58 1 0 1d1+1000 1d1+50
+400000 20
+8 8 1
+#26204
+Regin assistant officeworker~
+Regin's Assistant~
+Regin's Assistant hurries about his duties for his master.
+~
+A small balding man looks up at your entrance. As you return his stare you 
+hardly notice that he has gotten up from his seat and is now just a fee feet
+from you. He appears rather aggressive in his stance. He eyes you suspiciously
+and asks, "Yes, how many I help you?"
+~
+540542 135333032 -500 S
+30 10 10 1d1+1000 1d1+15
+20000 0
+8 8 1 5
+#26205
+snake giant~
+a giant snake~
+A giant snake lies here in the rails.
+~
+It looks just like the snake your brother scared you with when you were young.
+It is extremely large, and its skin is red just like that snake from way back
+when. The snake is staring at you with its beady eyes and flicking its tongue
+toward you.
+~
+10 8388616 -100 S
+20 15 1 1d1+100 1d1+5
+0 0
+8 8 0 4
+#26290
+man horse rider dispatch~
+a dispatch rider~
+A very dusty man is riding his horse.
+~
+   You see a man covered in roaddust. He has been riding all day in order
+to deliver his dispatch. You see a wild look in his eyes, like he has been
+severly threatened when given his dispatch. Nothing will stand in his way
+as he attempts to reach his destination. The fear of God himself was put
+into him.
+~
+74 1024 300 S
+18 1 0 1d1+1 1d1+1
+100 0
+8 8 1
+#26297
+drow small assassin~
+a paid drow assassin~
+A smallish, evil looking, drow stands here.
+~
+   A small evil looking drow stands here. He constantly looks around,
+always watching over his shoulder. You decide that this is not the 
+best person to be seen with. Perhaps you should hurry on your way.
+You don't want to be caught with him should he kill someone. You
+think he might be an assassin, and you could easily get in trouble
+with the law through no fault of your own if caught with him.
+~
+718858 152 1000 S
+52 20 -6 1d1+1000 1d1+10
+100000 0
+8 8 0 7
+#26298
+achin thrikreen~
+Achin the Head Thri-Kreen~
+A large thri-kreen stands before you.
+~
+You gaze upon a gigantic insect. As he stares down at you with his compound
+eyes, you see his six limbs, four of which are arms. You are both terror-stricken
+and yet, fascinated by this creature. However, you know that he will be a very
+tough opponent. YOu must ask yourself, do I want to fight him?
+~
+780298 32896 500 S
+55 20 -10 1d1+5000 1d1+10
+100000 0
+8 8 0 4
+#26299
+aldur god race~
+Aldur, God of no race~
+A man of ageless quality stands here.
+~
+  You stand before an old man, yet he has the quality of a person time has
+forgotten. He seems older than time with his grey hair and beard. He appears
+quite happy to see you, like he's been waiting patiently for you for ages.
+He is the God Aldur. You quickly fall to your knees, but he stops you before
+you hit the ground. He says, "There is no need my son. You have other duties
+before you."
+~
+780298 0 0 S
+58 20 10 1d1+10000 1d1+40
+0 0
+8 8 0
+#99999
+$~

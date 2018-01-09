@@ -1,0 +1,17 @@
+>rand_prog 4~
+  if inroom($r) == here
+    if hitprcnt($r) < 100
+      cast 'cure critic' $r
+      cast 'cure critic' $r
+    endif
+  endif
+~
+>rand_prog 4~
+  if inroom($r) == here
+    if isaffected($r, fly)
+    else
+      cast 'fly' $r
+    endif
+  endif
+~
+|

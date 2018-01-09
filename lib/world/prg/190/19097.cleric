@@ -1,0 +1,16 @@
+>speech_prog tiamat~
+  mpsilent c 'restore' $n
+  mpsilent c 'energy flux' $n
+  mptrans $r 19096
+  mpforce $n l
+  tell $n May dragons protect you in your travels.
+~
+>speech_prog y2k~
+  mpsilent c 'restore' $n
+  mpsilent c 'energy flux' $n
+  mptrans $n 19099
+  tell $r The new millenium will be our time Dragonliege will fall.
+  mpforce $n l
+~
+|
+

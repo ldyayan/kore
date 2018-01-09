@@ -1,0 +1,109 @@
+#51
+Drow City~
+5199 30 1 32
+D 0  5100     3     0            The City Entrance door west
+M 0  5106     2  5101            the drow lord
+E 1  5105    42    16                    wield a wicked drow longsword
+M 0  5109     6  5101            the drider
+D 0  5101     1     0            A City Street door east
+O 0  5116   101  5149            a pile of golden coins
+M 0  5111     1  5148            the yochlol
+E 1  5113    41    16                    wield a spider shaped dagger
+E 1  5115    51    17                    held an adamantite key
+D 0  5148     3     2            The Dais door west
+M 0  5102    10  5133            the drow warrior
+E 1  5100    50    16                    wield a drow longsword
+D 0  5133     0     1            The Warriors' Barracks door north
+M 0  5113     1  5126            the spider animator
+O 0  5117   101  5126            a statuette of a spider
+M 0  5100    15  5122            the goblin slave
+M 0  5100    15  5122            the goblin slave
+M 0  5100    15  5122            the goblin slave
+M 0  5100    15  5122            the goblin slave
+M 0  5100    15  5122            the goblin slave
+M 0  5100    15  5122            the goblin slave
+M 0  5100    15  5122            the goblin slave
+M 0  5100    15  5122            the goblin slave
+M 0  5101    10  5118            the drow commoner
+E 1  5100    50    16                    wield a drow longsword
+M 0  5102     4  5104            the drow warrior
+E 1  5101    42    16                    wield a fine drow longsword
+M 0  5102     4  5124            the drow warrior
+E 1  5101    42    16                    wield a fine drow longsword
+M 0  5102     4  5108            the drow warrior
+E 1  5101    42    16                    wield a fine drow longsword
+M 0  5102     4  5111            the drow warrior
+E 1  5101    42    16                    wield a fine drow longsword
+M 0  5103     4  5104            the drow mage
+E 1  5102    42    16                    wield a two-headed snake whip
+M 0  5103     4  5124            the drow mage
+E 1  5102    42    16                    wield a two-headed snake whip
+M 0  5103     4  5108            the drow mage
+E 1  5102    42    16                    wield a two-headed snake whip
+M 0  5103     4  5111            the drow mage
+E 1  5102    42    16                    wield a two-headed snake whip
+M 0  5104     4  5104            the drow priestess
+E 1  5103    42    16                    wield a three-headed snake whip
+M 0  5104     4  5124            the drow priestess
+E 1  5103    42    16                    wield a three-headed snake whip
+M 0  5104     4  5108            the drow priestess
+E 1  5103    42    16                    wield a three-headed snake whip
+M 0  5104     4  5111            the drow priestess
+E 1  5103    42    16                    wield a three-headed snake whip
+M 0  5105     3  5118            the drow master
+E 1  5105    23    16                    wield a wicked drow longsword
+E 1  5110    25    17                    held a ^Wsilvery^n ^cblue^n wand
+M 0  5105     3  5120            the drow master
+E 1  5104    22    16                    wield a four-headed snake whip
+E 1  5110    25    17                    held a ^Wsilvery^n ^cblue^n wand
+M 0  5105     3  5116            the drow master
+E 1  5104    22    16                    wield a four-headed snake whip
+E 1  5110    25    17                    held a ^Wsilvery^n ^cblue^n wand
+M 0  5106     2  5150            the drow lord
+E 1  5105    22    16                    wield a wicked drow longsword
+E 1  5109    15     9                    hands a pair of drow gauntlets
+M 0  5107     3  5125            the Matron Mother
+E 1  5106    23    16                    wield a five-headed snake whip
+G 1  5114    23    -1                    give a bright green pshent
+M 0  5107     3  5105            the Matron Mother
+E 1  5106    23    16                    wield a five-headed snake whip
+E 1  5111    12     6                    head a spider-crested tiara
+M 0  5107     3  5109            the Matron Mother
+E 1  5106    43    16                    wield a five-headed snake whip
+E 1  5108    42    10                    arms a pair of snake bracers
+M 0  5108     1  5113            the Matron Mother
+E 1  5107    40    16                    wield a six-headed snake whip
+E 1  5112    10     1                    left finger a ^Rruby^n ring
+M 0  5109     6  5106            the drider
+M 0  5109     6  5115            the drider
+M 0  5109     6  5121            the drider
+M 0  5110     2  5110            the drider
+M 0  5110     2  5110            the drider
+D 0  5104     2     1            The 3rd House door south
+D 0  5105     0     1            The Throne Room door north
+D 0  5108     3     1            The 2nd House door west
+D 0  5109     1     1            The Throne Room door east
+D 0  5110     3     1            The Main Gate door west
+D 0  5111     1     1            The 1st House door east
+D 0  5112     0     1            The Throne Room door north
+D 0  5113     2     1            The Main Chamber door south
+D 0  5117     0     1            A City Street door north
+D 0  5119     2     1            The Entrance to the Great Fane of Lloth door south
+D 0  5123     0     1            A City Street door north
+D 0  5124     2     1            The 4th House door south
+D 0  5129     0     1            A Long Hallway door north
+D 0  5150     2     1            The Weaponsmaster's Chamber door south
+D 0  5132     2     1            A Long Hallway door south
+D 0  5136     1     1            The Grand Hallway door east
+D 0  5137     3     1            The Mages' Barracks door west
+D 0  5138     3     1            The Grand Hallway door west
+D 0  5139     1     1            The Clerics' Barracks door east
+D 0  5140     0     1            The Grand Stairway door north
+D 0  5141     2     1            The Main Chamber door south
+D 0  5142     1     1            The Eastern Side Of The Main Chamber door east
+D 0  5146     3     1            The Slave Cells door west
+D 0  5146     0     1            The Slave Cells door north
+D 0  5147     2     1            The Slave Pen door south
+S
+#99999
+$~

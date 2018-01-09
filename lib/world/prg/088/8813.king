@@ -1,0 +1,59 @@
+>fight_prog 2~
+  if inroom($r) == here
+    mpechoat $r $I angrily hurls you clean out of the Giant Castle!
+    mpechoaround $r $I angrily hurls $R clean out of the Giant Castle!
+    mptrans $r 8790
+    mpdamage $r 100
+  endif
+~
+>fight_prog 4~
+  if inroom($r) == here
+    cast 'chain lightning' $r
+  endif
+~
+>fight_prog 33~
+  if inroom($r) == here
+    mpechoat $r $I hurls a big bolt of lightning at you!!
+    mpechoaround $r $I hurls a big bolt of lightning at $R!!
+    mpdamage $r 120
+  endif
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      if isfight($i)
+      else
+        mptrigger $n story
+      endif
+    endif
+  endif
+~
+>script_prog story~
+  #
+  say Greetings, and welcome to our castle in the clouds.
+  say This is a difficult time for all of us,
+  say and it was with the greatest reluctance that I finally decided to fight our foster-daughter,
+  say whom you know as the Island Wicca.
+  say She and her sister were the daughters of Pallando the Blue Wizard,
+  say who in ages long since gone by battled for the cause of good
+  say in the eastern half of the ancient continent of Endor.
+  #
+  say When Pallando and his brother Alatar suffered a nearly disastrous setback during one of their battles,
+  say they sent their infant children through a time-portal made by one of their kindred spirits.
+  say The tragedy was, however, that doing so was unneccessary:
+  say they narrowly won their battle against the Easterlings,
+  say and went on to found the kingdoms of Estolad and Hildorien,
+  say namesakes of dominions from yet an earlier Age of the world.
+  say But the irreversible had been done...
+  #
+  say Surrounding this courtyard are the eight portals which we Giants use to access portions of the island below.
+  say I regret to say that the Wicca's sister scrambled their destinations to confound any pursuers,
+  say and then promptly disappeared.
+  say But what she did tell us is that the guardians and the key are located on the Eastern Ruby Cleft,
+  say in the mountains of the island below us.
+  say You have no time to lose,
+  say a band of the foul samurai undead sent by the Wicca has slipped through our defenses and used one of the portals.
+  say Good luck, and farewell.
+~
+|

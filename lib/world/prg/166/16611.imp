@@ -1,0 +1,25 @@
+>greet_prog 30~
+  if ispc($n)
+   mpecho You hear a tree limb creaking rather loudly.. it sounds dangerous.
+  endif
+~
+>entry_prog 30~
+  if ispc($n)
+   mpecho You hear a tree limb creaking rather loudly.. it sounds dangerous.
+  endif
+~
+>rand_prog 1~
+  if isimmort($r)
+  else
+    if ispc($r)
+      if inroom($r) == here
+       mpecho RUN FOR COVER! The trees are moving!!
+       mpechoat $r Too late!! A tree rudely grabs you and throws you high into the air!
+       mptransfer $r nearby
+       mpechoat $r You hit the ground HARD -- your legs ache with pain.
+       mpdamage $r 5d5+15
+      endif
+    endif
+  endif
+~
+|

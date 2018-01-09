@@ -1,0 +1,15 @@
+>greet_prog 50~
+  if isnpc($n)
+    break
+  else
+    mpechoat $n You are affected by the bitter cold!
+    mpdamage $n 1d8+10
+  endif
+~
+>rand_prog 3~
+  if inroom($r) == here
+    mpecho You are affected by the bitter cold!
+    mpdamage all 1d8+10
+  endif
+~
+|

@@ -1,0 +1,332 @@
+#11301
+horse mare steed black~
+a large black mare~
+A magnificent black steed stands here in the stall.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+9 20 10 1d1+0 1d1+0
+0 0
+8 8 2 10
+#11302
+solemn stone golem dusty dust~
+a solemn stone golem~
+A dust covered stone golem stands here, unaware of your presence.
+~
+It looks, err, unfinished.
+~
+65546 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0 5
+#11303
+bat large furry~
+a large furry bat~
+A large furry bat hangs upside down here, its feet clinging to the roots on the ceiling.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#11304
+giant harvest harvestman spider huge~
+a giant harvestman~
+A huge spider with long, spindly legs clings to the muddy walls.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+12 20 0 1d1+0 1d1+0
+0 0
+8 8 0 4
+#11305
+insect scorpion whip whipscorpion strange~
+a whip scorpion~
+A strange insect is on the ceiling here, its legs waving in the air.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+13 20 10 1d1+0 1d1+0
+0 0
+8 8 0 2
+#11306
+grub pasty large giant~
+a giant grub~
+A large pasty grub sticks its toothed maw out of the mud.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+16 20 0 1d1+0 5d1+0
+0 0
+8 8 0 4
+#11307
+dung beetle monstrous~
+a monstrous dung beetle~
+A monstrous dung beetle rummages through the droppings on the floor.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+19 20 10 1d1+0 1d1+0
+0 0
+8 8 0 9
+#11308
+beetle gauno harvester large~
+the gauno harvester~
+A large beetle is here, carrying gauno in its giant pincers.
+~
+It looks, err, unfinished.
+~
+14 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 6
+#11309
+scruffy rat grey~
+a scruffy grey rat~
+A scruffy looking rat scampers away from you.
+~
+It looks, err, unfinished.
+~
+140 0 0 S
+7 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#11310
+servitor servant golem~
+a servitor~
+A servant golem in a long white coat stands here with tools in hand.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+11 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#11311
+unfinished abomination malchot golem flesh~
+Malchot's Abomination~
+An unfinished flesh golem stands here, it's eyelids sewn shut.
+~
+It looks, err, unfinished.
+~
+67594 0 0 S
+16 20 10 1d1+0 1d1+0
+0 0
+8 8 0 7
+#11312
+incomplete crystal golem~
+an incomplete crystal golem~
+An incomplete golem made of crystal sits here atop a wooden table.
+~
+It looks, err, unfinished.
+~
+10 8388608 0 S
+14 20 10 1d1+0 1d1+0
+0 0
+8 8 0 11
+#11313
+female golem flesh bride malchot~
+the Bride of Malchot~
+A female flesh golem dressed in a white gown lays here on a gurney.
+~
+It looks, err, unfinished.
+~
+2058 168 0 S
+16 20 10 1d1+0 1d1+0
+0 0
+8 8 2 13
+#11314
+squat stone golem spikes jailer~
+a squat stone golem~
+A squat stone golem covered in spikes stands here, clutching a key in its thick hand.
+~
+It looks, err, unfinished.
+~
+108554 40 0 S
+13 20 10 1d1+0 1d1+0
+0 0
+8 8 0 10
+#11315
+weathered golem stone construction~
+a construction golem~
+A weathered stone golem walks past you carrying rubbish in it's hands.
+~
+It looks, err, unfinished.
+~
+12 0 0 S
+11 20 10 1d1+0 1d1+0
+0 0
+8 8 0 7
+#11316
+haggered bugbear captive~
+a haggered bugbear~
+A haggered looking bugbear is held captive here.
+~
+It looks, err, unfinished.
+~
+1550 4 0 S
+13 20 10 1d1+0 1d1+0
+0 0
+8 8 0 13
+#11317
+insane gnoll scrawny~
+a scrawny gnoll~
+A scrawny gnoll is here, insane from his imprisonment.
+~
+It looks, err, unfinished.
+~
+42 4 0 S
+14 20 10 1d1+0 1d1+0
+0 0
+8 8 1 10
+#11318
+a battered quasit~
+a battered Quasit~
+A battered quasit screeches at you as you enter the cell.
+~
+It looks, err, unfinished.
+~
+1550 4 0 S
+13 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#11319
+centipede enormous giant~
+an enormous centipede~
+An enormous centipede rears up, venom dripping from its mandibles.
+~
+It looks, err, unfinished.
+~
+43050 135299112 0 S
+19 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#11320
+malchot statue genius artificer~
+a statue of Malchot~
+A statue of Malchot the Artificer is here, gleaming proudly in the torch light.
+~
+It looks, err, unfinished.
+~
+106506 8 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 7
+#11321
+golem automated bibliopolist contraption squat wood librarian~
+an automated bibliopolist~
+A squat wood contraption is here, it's many hands moving books around the Library.
+~
+It looks, err, unfinished.
+~
+40974 67108872 0 S
+19 20 10 1d1+0 1d1+0
+0 0
+8 8 0 10
+#11322
+entity book page swirling tome tome-inator tomeinator~
+the Tome-inator~
+An entity made of swirling books and pages leaps forth from the shelves.
+~
+It looks, err, unfinished.
+~
+41002 67108906 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 9
+#11323
+drone crysalid crystal mantis~
+a crysalid drone~
+A crysalid drone is here, chipping away at the walls with its mandibles.
+~
+It looks, err, unfinished.
+~
+12 262152 0 S
+13 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#11324
+crysalid worker mantis crystal~
+a crysalid worker~
+A crysalid worker is here, carrying large shards of crystals on it's back.
+~
+It looks, err, unfinished.
+~
+8204 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#11325
+crysalid warrior crystal mantis~
+a crysalid warrior~
+A crysalid warrior stands here, it's talons gleaming in the light.
+~
+It looks, err, unfinished.
+~
+10252 0 0 S
+18 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#11326
+large crysalid crystal mantis reaver~
+a crysalid reaver~
+A large crysalid stands here, jagged blades cover it's entire body.
+~
+It looks, err, unfinished.
+~
+10254 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 3
+#11327
+small crysalid crystal mantis purifyer~
+the crysalid purifyer~
+A small crysalid lurks here, its antennae probing all it passes.
+~
+It looks, err, unfinished.
+~
+178220 8650752 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0 1
+#11328
+guardian hive crysalid crystal mantis huge~
+a crysalid hive guardian~
+A huge crysalid stands here, it's talons as large as a human.
+~
+It looks, err, unfinished.
+~
+172046 40 0 S
+24 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#11329
+elder crysalid dull mantis crystal~
+a crysalid elder~
+A dull crysalid rests here on it's haunches, it's head turns towards you.
+~
+It looks, err, unfinished.
+~
+178190 135266344 0 S
+28 20 10 1d1+0 1d1+0
+0 0
+8 8 0 3
+#11330
+crysalid broodmother mother mantis crystal massive~
+the crysalid broodmother~
+A massive crysalid rests here, her abdomen swollen with eggs.
+~
+It looks, err, unfinished.
+~
+174094 202375208 0 S
+32 20 10 1d1+0 1d1+0
+0 0
+8 8 2 10
+#99999
+$~

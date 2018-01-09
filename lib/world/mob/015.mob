@@ -1,0 +1,160 @@
+#1501
+scout thri-kreen~
+a small thri-kreen scout~
+A busy thri-kreen looks at you and clicks its mandibles.
+~
+   This thri-kreen seems to be searching for something.
+~
+88 256 -200 S
+2 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#1502
+green bug giant aphid~
+a giant aphid~
+A giant green bug chews the tasty clippings eagerly.
+~
+   You see a big green bug with shiny green eyes eating the tasty fermented
+leaves. On the bugs behind swells a large sphere of liquid, a sweet-smelling
+sugar sap which the thri-kreen must harvest.
+~
+10 0 0 S
+10 12 0 1d1+1 1d1+1
+0 10000
+8 8 0
+#1503
+giant termite~
+a giant termite~
+A giant termite is here nibbling at a root.
+~
+   You see a giant termite about the size of your shield nibbling on a dirty
+root.
+~
+204 0 -200 S
+2 1 0 2d2+1 3d3+2
+0 800
+8 8 0
+#1504
+thri-kreen winged wing~
+a thri-kreen drone~
+A thri-kreen drone struts and circles, buzzing his wings.
+~
+   You see a thri-kreen drone of the Mahibo.
+~
+72 0 -75 S
+8 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#1508
+tough guard thri-kreen~
+a guard thri-kreen~
+A guard thri-kreen flaunts his mandibles and stands his ground.
+~
+   The guard thri-kreen circles you warily, looking for a moment to grab you in
+his huge pincers. Your scent betrays you as an invader! His unblinking eyes
+seek your weaknesses.
+~
+4424 0 -500 S
+10 1 0 1d1+1 1d1+1
+15 7200
+8 8 1
+#1509
+worker thri-kreen~
+a worker thri-kreen~
+A worker thri-kreen is here carrying leaf clippings back to the nest.
+~
+   You see a worker thri-kreen of the hill here.
+~
+72 0 -500 S
+3 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#1510
+funnel lion strange mandibles scourge~
+a funnel lion~
+You see a strange funnel, and down at the bottom is a pair of mandibles...
+~
+   The fierce funnel lion is a clever hunter! Scourge of thri-kreens,
+he hides in the base of his sandy funnel and waits for prey...
+~
+72 0 -200 S
+14 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#1511
+larva wriggling~
+a larva~
+A larva is here wriggling around.
+~
+   You see a baby thri-kreen beginning to release himself from his egg.
+Being so busy chewing away, he does not notice that you are there. 
+~
+8 0 0 S
+1 1 0 1d1+1 0d0+0
+0 20
+8 8 0
+#1512
+maggot queen thri-kreen~
+the Queen Thri-Kreen~
+You see a HUGE white maggot with beady black eyes contentedly laying eggs.
+~
+   You see a huge expressionless maggot. She looks at you with fear in her
+eyes for she depends on her attendant thri-kreens for defense and for food...!
+~
+72 257 -1000 S
+10 1 0 1d1+1 1d1+1
+15 20
+8 8 2
+#1521
+giant earthworm worm~
+a giant Earthworm~
+A monstrous earthworm charges at you with hate.
+~
+   You see a monstrous beast twice the size of you. Blind, the thri-kreen
+use him as a useful but stupid guard to catch the unwary.
+~
+43114 65664 0 S
+4 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#1526
+statue thri-kreen king praying mantis vzzt'tl'clk~
+the Statue of Vzzt'tl'clk~
+The enormous statue of Vzzt'tl'clk demands a sacrifice!
+~
+   You stand in the shadow of the huge metal statue of Vzzt'tl'clk. Regarded
+as a god by his worshippers, he towers here, clad in augmented chitin armor.
+He looks as if he could scalp you with one swing of his gigantic barbed
+arms. You quiver with fear as he swivels his bug head to face you. You peer
+into his glittering ruby-red eyes and try not to evacuate your bowels.
+~
+174190 4785304 -600 S
+47 1 -50 1d1+1 1d1+1
+0 450000
+8 8 1
+#1527
+thri-kreen new queen~
+a flying queen~
+A flying queen is here, waiting to fly off to another nest.
+~
+   A flying queen is here, waiting to fly off to another nest.
+~
+157768 0 -1000 S
+27 1 0 1d1+1 1d1+1
+15 20
+8 8 2
+#1528
+fierce guard thri-kreen~
+a fierce guard thri-kreen~
+You see a strong thri-kreen guarding the entrance to his god.
+~
+   At the looks of this creature you can tell that he is unswerving in his
+devotion to his god. He shivers with excitement at the thrill of fighting
+you!
+~
+178282 0 -1000 S
+19 1 0 1d1+1 1d1+1
+0 7200
+8 8 1
+#99999
+$~

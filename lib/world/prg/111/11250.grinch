@@ -1,0 +1,28 @@
+>script_prog grinch-song~
+  emote sings, 'Your a mean one Mr. Imp.'
+  emote sings, 'Your heart is a idle socket.'
+  emote sings, 'You're the King of crash bugs!'
+  emote sings, 'Your soul is an core dump heap!'
+  emote sings, 'Overflowing with the most disgraceful assortment of buffers imaginable.'
+  emote sings, 'Mangled up in tangled up errors!'
+  emote sings, 'Ahh lets face it, We love you Mr. Imp.'
+  snicker
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+~
+>rand_prog 1~
+  If isscript($i)
+ else
+  mptrigger $i grinch-song
+endif
+~
+|
+

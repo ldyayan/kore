@@ -1,0 +1,245 @@
+#9500
+grimy orc lab assistant~
+the grimy lab assistant~
+A grimy orc assistant is here testing her masters weaker spells.
+~
+  You see a short and stumpy orc that is running back and forth
+trying to complete twenty experiments at once. I wouldn't bother
+her if I were you.
+~
+43610 4203658 -600 S
+29 1 -6 1d1+0 2d3+20
+0 2000
+8 7 2
+#9501
+Nahklug orc necromancer evil~
+Nahklug~
+A devious-looking orc stands here, grinning at you.
+~
+You see an evil creature that does not like visitors.
+~
+44634 4269242 -1000 S
+43 -5 -100 1d1+0 7d7+15
+0 0
+8 8 1
+#9502
+cook~
+hobgoblin orc rat cook~
+The cook is here waiting for more bodies to prepare.
+~
+You see a nasty rat like creature with beedy little eyes that haven't seen
+the light of day for years.  He doesn't like the fact that you are
+disturbing him.
+~
+2634 9352 -550 S
+17 15 -9 1d1+0 2d4+10
+0 5000
+8 8 1
+#9503
+orc hobgoblin goblin guard~
+a hobgoblin guard~
+A hobgoblin guard is here looking for intruders.
+~
+You see a nasty little rat-like creature with short fangs and smelly breath.
+~
+46 0 -550 S
+9 1 -6 1d1+0 1d1+1
+0 20
+8 8 1
+#9504
+displacer beast mutant blue jaguar~
+the displacer beast~
+A mutant blue jaguar with six legs and two tentacles is here waiting for prey.
+~
+You see something but sense it is not really there.
+~
+126 4273322 0 S
+15 -2 -20 1d1+1 5d5+6
+0 0
+8 8 0
+#9505
+hippogriff~
+the hippogriff~
+A hippogriff is hovering here waiting to tear your head off.
+~
+You see a very large bird like lion with long black talons and a razor sharp
+beak that can cleave diamonds.
+~
+30 4272296 0 S
+20 15 0 1d1+1 5d5+6
+0 20
+8 8 0
+#9506
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#9507
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#9508
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#9509
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#9510
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#9511
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#9512
+orc child~
+an orc child~
+An orc is here looking at you with eyes of hate!
+~
+You see a young orc child and he looks back at you with eyes filled with hate!
+~
+12 0 -500 S
+3 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#9513
+orc woman~
+an orc woman~
+An orc woman is standing here looking ready to fight you. 
+~
+You see an ugly woman-type creature with large tusks and gross hair all over.
+~
+8 0 -500 S
+5 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#9514
+orc~
+an orc~
+An orc stands here watching you with growing rage.
+~
+You see an orc with even larger tusks than the female.  Standing almost seven
+feet tall and is very huskily built.
+~
+8 0 -500 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#9515
+orcish guard~
+an orc guard~
+An orc guard is here watching out for intruders.
+~
+You see a very large orc guard. You wonder how these guards got so big. 
+~
+81944 0 -600 S
+12 1 0 1d1+1 4d4+6
+0 20
+8 8 1
+#9516
+orc warrior~
+an orc warrior~
+An orc warrior is here looking more crafty and strong than a mere guard.
+~
+You see a VERY large orc warrior.  With his armor he only looks bigger. 
+~
+4652 1064 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#9517
+orc chieftain~
+the chieftain~
+The chieftain is here spending his days contemplating a conquest.
+~
+You see a quiet orc chief. He looks angrily at you. You can see many battle
+scars on his arms and legs. He definitely looks experienced.
+~
+24618 13480 -800 S
+40 -30 0 1d1+1 7d7+20
+0 20
+8 8 1
+#9518
+orc captain brekstack~
+Brekstack~
+The captain of the orc armies is here preparing for battle.
+~
+You see a very large orc, well he has to be to be the captain of the orc
+armies. He looks like he could tear your head off with just his tusks.
+~
+550926 66728 -650 S
+47 -6 0 1d1+1 9d8+20
+0 20
+8 8 1
+#9519
+orc warrior shadok~
+Shadok~
+An orc warrior equipped with black platemail and beaked axe growls to fight!
+~
+   You see a scurvy long-tusked orc. In his gleaming black platemail, and
+black leather, he looks quite evil and capable... He scowls and curses you!
+and fights!
+~
+8202 65664 -800 S
+45 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#9520
+honor guard shadok~
+shadoks honor guard~
+Shadoks honor guard follows close at hand ready to assist.
+~
+   The honor guards man wears the best possible equipment available to any
+orc in the mountain range.  These men are all hand chosen from the finest
+warriors and guards and they are completely ready do die for this man.
+~
+8334 65544 -650 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

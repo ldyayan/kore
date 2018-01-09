@@ -1,0 +1,274 @@
+#25000
+The Etorg Inn~
+Not much here.
+~
+250 28 0
+D3
+~
+~
+0 0 24920
+S
+#25001
+The Royal Bank of Etorg~
+You are in an unfinished room.
+~
+250 0 0
+D3
+~
+~
+0 0 24918
+D4
+~
+~
+0 0 16123
+S
+#25002
+Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25003
+D2
+~
+~
+0 0 24962
+S
+#25003
+A Bend in Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D1
+~
+~
+0 0 25004
+D2
+~
+~
+0 0 25002
+S
+#25004
+Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D1
+~
+~
+0 0 25005
+D3
+~
+~
+0 0 25003
+S
+#25005
+A Bend in Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25006
+D3
+~
+~
+0 0 25004
+S
+#25006
+Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25007
+D2
+~
+~
+0 0 25005
+S
+#25007
+A Bend in Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D2
+~
+~
+0 0 25006
+D3
+~
+~
+0 0 25008
+S
+#25008
+Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D1
+~
+~
+0 0 25007
+D3
+~
+~
+0 0 25009
+S
+#25009
+Knife Street at Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25011
+D1
+~
+~
+0 0 25008
+D3
+~
+~
+0 0 25010
+S
+#25010
+Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D1
+~
+~
+0 0 25009
+S
+#25011
+Mae Road near Knife Street~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25012
+D2
+~
+~
+0 0 25009
+S
+#25012
+Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25013
+D2
+~
+~
+0 0 25011
+S
+#25013
+Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25014
+D2
+~
+~
+0 0 25012
+S
+#25014
+A Bend in Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D1
+~
+~
+0 0 25015
+D2
+~
+~
+0 0 25013
+S
+#25015
+Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D1
+~
+~
+0 0 25016
+D3
+~
+~
+0 0 25014
+S
+#25016
+A Bend in Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D2
+~
+~
+0 0 25017
+D3
+~
+~
+0 0 25015
+S
+#25017
+Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25016
+D2
+~
+~
+0 0 25018
+S
+#25018
+A Bend in Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D0
+~
+~
+0 0 25017
+D1
+~
+~
+0 0 25019
+S
+#25019
+Mae Road~
+You are in an unfinished room.
+~
+250 0 0
+D3
+~
+~
+0 0 25018
+S
+#99999
+$~

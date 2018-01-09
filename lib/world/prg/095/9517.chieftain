@@ -1,0 +1,18 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    shiver zirnozz
+  endif
+~
+>rand_prog 2~
+  mpecho $I narrows his eyes as he glances over some battle reports.
+~
+>fight_prog 8~
+  if inroom($r) == here
+    mpecho $I yells loudly and guards come to his assistance!
+    mpmload 9515
+    mpmload 9516
+    mpforce guard assist chieftain
+    mpforce warrior assist chieftain
+  endif
+~
+|

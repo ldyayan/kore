@@ -1,0 +1,7 @@
+>rand_prog 10~
+  if isfight($r)
+  else
+   mpgoto cleaner
+endif
+~
+|

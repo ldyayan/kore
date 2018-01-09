@@ -1,0 +1,32 @@
+>greet_prog 29~
+  if ispc($n)
+    say For Voldov!!
+    mpkill $n  
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    gack
+    say You are no Halfman!
+    flee
+  endif
+~
+>death_prog 33~
+  curse
+  say Rebuild me my comrads!
+~
+>fight_prog 5~
+  if inroom($r) == here
+    say I will crush you!
+    berserk $r
+    riposte $r
+    kick $r
+  endif
+~
+>fight_prog 5~
+  if hitprcnt($i) < 25
+    say My master will return to destroy you!
+    flee
+  endif
+~
+|

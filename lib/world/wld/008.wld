@@ -1,0 +1,839 @@
+#800
+Dirt Road~
+   This road once was lined with cobbled stones. However, this road has gone 
+through many years of neglect. Almost all of the cobbled stones were stolen 
+or washed away. In the distance, you see a dark brown building. 
+~
+8 32768 2
+D0
+~
+~
+0 -1 801
+D2
+~
+~
+0 0 898
+S
+#801
+Dirt Road~
+     This road once was lined with cobbled stones. However, this road has gone
+through many years of neglect. Almost all of the cobbled stones were stolen
+or washed away. Ahead, you see an old abandoned house.
+You see a sign posted here.
+~
+8 32772 2
+D0
+~
+~
+0 -1 806
+D1
+~
+~
+0 0 839
+D2
+~
+~
+0 -1 800
+D3
+~
+~
+0 -1 802
+E
+sign ~
+   Welcome to the Abandoned House.  This area is for levels 5 - 15.
+It has been changed due to some errors and is not the same as it was.
+
+-Real
+~
+S
+#802
+Overgrown Yard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. 
+~
+8 32768 2
+D1
+~
+~
+0 -1 801
+D2
+~
+~
+0 -1 803
+D3
+~
+~
+0 -1 804
+S
+#803
+Overgrown Yard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. 
+~
+8 32768 2
+D0
+~
+~
+0 -1 802
+D3
+~
+~
+0 -1 805
+S
+#804
+Overgrown Yard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. 
+~
+8 32768 2
+D0
+~
+~
+0 -1 835
+D1
+~
+~
+0 0 802
+D2
+~
+~
+0 -1 805
+S
+#805
+Overgrown Yard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. 
+~
+8 32768 2
+D0
+~
+~
+0 -1 804
+D1
+~
+~
+0 -1 803
+S
+#806
+Entrance to the House~
+   You see a run-down brown house that has been abandoned for many years. You 
+see broken windows and wooden planks that have fallen from the sides. This 
+house was once very comfortable and well-maintained. But, you feel something 
+horrible had happened. 
+~
+8 32769 2
+D0
+You see a broken door.
+~
+door broken~
+1 -1 807
+D2
+~
+~
+0 -1 801
+S
+#807
+Dusty Foyer~
+   As you enter the foyer, you notice a thick film of dust covering the 
+floors. It appears nobody has been inside of this house for many years. 
+Anything of worth had long since been stolen. You notice a closet door to the 
+west. You see a living room to the east. 
+~
+8 32781 0
+D1
+~
+~
+0 -1 818
+D2
+You see a broken door.
+~
+door broken~
+1 -1 806
+D3
+~
+door double~
+1 -1 808
+S
+#808
+Family Room~
+   The room is covered with dust and has not been used for many years. There 
+is nothing in the room. 
+~
+8 32777 0
+D1
+~
+door double~
+1 -1 807
+D4
+~
+~
+0 0 809
+S
+#809
+Hall~
+   You are in a hallway. Dust covers the floors and walls. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 810
+D5
+~
+~
+0 0 808
+S
+#810
+Hall~
+   You are in a hallway. Dust covers the floors and walls. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 812
+D1
+~
+door~
+1 -1 811
+D2
+~
+~
+0 -1 809
+S
+#811
+Bedroom~
+   You are inside a bedroom. Anything of value had been long stolen or 
+destroyed. You sense something terrible had occured in this room. You notice 
+dried blood splattered across the walls and floors. 
+~
+8 32777 0
+D3
+~
+door~
+1 -1 810
+S
+#812
+Hall~
+     You are in a hallway. Dust covers the floors and walls.
+~
+8 32777 0
+D0
+~
+door~
+1 -1 814
+D1
+~
+double door~
+1 -1 813
+D2
+~
+~
+0 -1 810
+S
+#813
+Bedroom~
+   You are inside a bedroom. Anything of value had been long stolen or 
+destroyed. You sense something terrible had occured in this room. You notice 
+dried blood splattered across the walls and floors. 
+~
+8 32777 0
+D3
+~
+door~
+1 -1 812
+S
+#814
+Dressing Room~
+   You notice that this room has been untouched by thieves or vandals. The 
+room is full of furniture. This room has not been touched for many years due 
+to the dust. However, you have an awful feeling about this room. You feel 
+like fleeing and leaving this house, but you steady your nerves. 
+~
+8 32777 0
+D0
+~
+door~
+1 -1 817
+D1
+~
+~
+0 -1 815
+D2
+~
+door~
+1 -1 812
+D3
+~
+~
+0 -1 816
+S
+#815
+Closet~
+     You see clothes still hanging in the closet. They are all moth eaten and
+ruined.
+~
+8 32777 0
+D3
+~
+~
+0 -1 814
+S
+#816
+Lavatory~
+   You see an indoor latrine in the middle of the room. This place has not 
+been used in many years. 
+~
+8 32777 0
+D1
+~
+~
+0 -1 814
+S
+#817
+Master Bedroom~
+   This room had once been tastefully decorated and furnished. However, 
+everything is in a sad condition. You sense a very evil presence in this 
+room. You feel your pulse race as you want to flee this room. 
+~
+8 32781 0
+D2
+~
+door~
+1 -1 814
+S
+#818
+Burned-out Living Room~
+   This living room has been through a terrible fire. You see many burned 
+furniture and charred remains of bodies. You feel something unnatural had 
+occurred here you want to leave this room. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 819
+D3
+~
+~
+0 -1 807
+S
+#819
+Dining Room~
+   You see a large dining table in the middle of room. It seems all the 
+chairs are missing from the table. You notice piles of gnawed bones around 
+the table. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 825
+D1
+~
+~
+0 -1 820
+D2
+~
+~
+0 -1 818
+D3
+~
+~
+0 -1 821
+S
+#820
+Washroom~
+   This room used to be the washroom where one could clean himself before 
+eating dinner. This room has long since been in disuse. You notice dried 
+blood all over the floors and walls. You see a thick dried trail of blood 
+northward. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 826
+D3
+~
+~
+0 -1 819
+E
+vat~
+It is big.  It is a vat.  It is filled.
+
+
+What else do you want to know?
+~
+S
+#821
+Kitchen~
+   This room used to be the kitchen. The room is completely empty. But, you 
+notice dried blood and splinters of bone on the counters. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 824
+D1
+~
+~
+0 -1 819
+D3
+~
+door~
+1 -1 822
+E
+book~
+Hmm... an introduction to a new magic!  You sit down with the
+book, and awake several hours later, well rested.  Blinking,
+you sit up to find the book is gone.  Oh well.
+~
+S
+#822
+Maid's Quarters~
+   This room used to be the maid's room. It has been abandoned for many 
+years. 
+~
+8 32777 0
+D1
+~
+door~
+1 -1 821
+E
+machine pigeon~
+No really, you don't want to know.
+~
+S
+#823
+Pantry~
+   This room used to storage daily baked goods. Now, it is completely empty. 
+~
+8 32777 0
+D1
+~
+~
+0 -1 824
+E
+machine~
+Parchment in one end, scrolls out the other.  No moving
+parts that you can see!  Magic!  Ain't it wonderful???
+~
+E
+box~
+Wow! The twin power-mages Black and Decker themselves
+couldn't get into this box if they tried!  This isn't a 
+safe... it is a safer!
+~
+S
+#824
+Kitchen~
+   This room used to be the kitchen. The room is completely empty. But, you 
+notice dried blood and splinters of bone on the counters. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 838
+D1
+~
+~
+0 -1 825
+D2
+~
+~
+0 -1 821
+D3
+~
+~
+0 -1 823
+D4
+~
+~
+0 -1 831
+D5
+~
+~
+0 -1 827
+S
+#825
+Smaller Dining Room~
+   You are inside a smaller dining room. This room must have been the 
+children's dining room. The room is covered with thick dust. 
+~
+8 32777 0
+D2
+~
+~
+0 -1 819
+D3
+~
+~
+0 -1 824
+E
+grinder~
+Looks real disgusting.  Looks real painful.  You are glad you are
+not going anywhere near it, aren't you?
+~
+E
+crates crates~
+On the side of the crate, barely legible from scratchmarks and age,
+is the legend:
+
+             'stbusters Inc.  One Type III enclosed.
+             DANGER.
+             This end up.
+
+~
+S
+#826
+Latrine~
+   You are surprised to see an indoor latrine in the house. This house must 
+have belonged to a wealthy family. You notice thick pools of dried blood in 
+the middle of the floor where the blood had once collected. 
+~
+8 32777 0
+D2
+~
+~
+0 -1 820
+E
+junk~
+Looks like a lot of odd and ends.  Most appear harmless... it
+would take quite an imagination to create something dangerous
+with these, like a...!!!  Nah, it'll never work.
+~
+S
+#827
+Basement~
+   You are in the dark basement of the house. The room is covered with 
+cobwebs and dust. 
+~
+8 32777 0
+D1
+~
+~
+0 -1 828
+D2
+~
+~
+0 -1 829
+D4
+~
+~
+0 -1 824
+S
+#828
+Basement~
+   You are in the dark basement of the house. The room is covered with 
+cobwebs and dust. 
+~
+8 32777 0
+D3
+~
+~
+0 -1 827
+E
+door writing~
+The writing on the door is in large yellow print and reads:
+
+            DANGER!!!  DO NOT ENTER!!!
+
+~
+S
+#829
+Basement~
+   You are in the dark basement of the house. The room is covered with 
+cobwebs and dust. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 827
+D1
+~
+door~
+1 -1 830
+E
+door writing~
+The writing on the door is in large yellow print and reads:
+
+            DANGER!!!  DO NOT ENTER!!!
+
+~
+E
+magazines~
+These magazines seem to be filled with pictures of woman
+in various clothing crises.  Hmm.
+~
+S
+#830
+Storage Cellar~
+   This room used to be root and food storage cellar. The room is completely 
+empty, except for the cobwebs and dust. 
+~
+8 32777 0
+D3
+~
+door west~
+1 -1 829
+S
+#831
+Second Floor~
+   This is the second floor of the house. This place is dark and feel very 
+eerie. Nothing had disturbed this area for many years. 
+~
+8 32777 0
+D1
+~
+~
+0 -1 832
+D2
+~
+door~
+1 -1 834
+D5
+~
+~
+0 -1 824
+S
+#832
+Sewing Room~
+   This room was used by the women of this house to do all their sewing and 
+needlework. Now, it covered with dust and cobwebs. 
+~
+8 32777 0
+D2
+~
+~
+0 -1 833
+D3
+~
+~
+0 -1 831
+S
+#833
+Children's Playroom~
+   Children used to laugh and play in this room, under the careful eyes of 
+the sewing ladies. You notice splinters of bone all over the floors and dried 
+blood stains splattered on the walls. You feel something tragic had occurred 
+in this house. 
+~
+8 32777 0
+D0
+~
+~
+0 -1 832
+S
+#834
+Reading Room~
+   This room was used when someone need time alone to read and to reflect. 
+The room is completely empty, except for the dust and cobwebs. 
+~
+8 32777 0
+D0
+~
+door~
+1 -1 831
+S
+#835
+Overgrown Yard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. You notice a stone path that leads to the back of the 
+house. 
+~
+8 32768 2
+D0
+~
+~
+0 -1 836
+D2
+~
+~
+0 -1 804
+S
+#836
+Overgrown Yard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. You see a stone path that continues east. 
+~
+8 32772 2
+D1
+~
+~
+0 -1 837
+D2
+~
+~
+0 -1 835
+S
+#837
+Backyard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. You see a backdoor to the house. 
+~
+8 32769 2
+D2
+~
+backdoor door back~
+1 -1 838
+D3
+~
+~
+0 -1 836
+S
+#838
+Delivery Entrance~
+   This entrance is used by the servants and people making deliveries to the 
+house. You notice that this entrance has not been used for many years. 
+~
+8 32781 0
+D0
+~
+door backdoor back~
+1 -1 837
+D2
+~
+~
+0 -1 824
+S
+#839
+Overgrown Yard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. 
+~
+8 32768 0
+D2
+~
+~
+0 0 840
+D3
+~
+~
+0 0 801
+S
+#840
+Overgrown Yard~
+   This yard is full of overgrown weeds and grasses. You can barely walk 
+through this jungle of plants. You notice creepy bugs and insects crawling on 
+your legs and arms. 
+~
+8 32768 0
+D0
+~
+~
+0 0 839
+D1
+~
+~
+0 0 841
+S
+#841
+The Base of A Huge Tree~
+   You stand at the based of a massive oak tree.  Above you, you hear
+the sounds of wildlife.  It appears to have had a set of stairs carved
+out of the side of the tree.
+~
+8 32768 0
+D3
+~
+~
+0 0 840
+D4
+~
+~
+0 0 842
+S
+#842
+Part Way Up the Huge Tree~
+   You have climbed the steps to near the top of the huge tree.  Around you
+you see the wildlife that you had heard below.  You hear the creaking of the
+branches around you and wonder if the tree can hold your weight.
+~
+8 32768 0
+D4
+~
+~
+0 0 843
+D5
+~
+~
+0 0 841
+S
+#843
+The Top of the Huge Tree~
+   You stand at the top of the huge tree.  Around you, you watch as life on the
+tree continues as it has for years.  The tree seems to have a life of its own as
+sounds from inside the tree make there was out.
+~
+8 32768 0
+D3
+bark door
+~
+bark door~
+1 0 844
+D5
+~
+~
+0 0 842
+S
+#844
+The abode of the Squirrel~
+   Around you many shiny objects that the huge squirrel has collected
+sit.  He apparently is drawn to taking things of great value.
+~
+8 32769 0
+D1
+~
+bark door~
+1 0 843
+S
+#898
+On a Road~
+   This road once was lined with cobbled stones. However, this road has gone 
+through many years of neglect. Almost all of the cobbled stones were stolen 
+or washed away. In the distance, you see a dark brown building. 
+~
+8 32768 0
+D0
+~
+~
+0 0 800
+D1
+~
+~
+0 0 899
+D3
+~
+~
+0 0 18198
+S
+#899
+On a Road~
+   This road once was lined with cobbled stones. However, this road has gone 
+through many years of neglect. Almost all of the cobbled stones were stolen 
+or washed away. In the distance, you see a dark brown building. 
+~
+8 32768 0
+D1
+~
+~
+0 0 12590
+D3
+~
+~
+0 0 898
+S
+#99999
+$~

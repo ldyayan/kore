@@ -1,0 +1,35 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    say Goddess!
+    grovel zirnozz
+  endif
+~
+>rand_prog 6~
+  if inzone($i) == 13
+  or inzone($i) == 151
+    mptransfer $i nearby
+    if rand(50)
+      mpecho $I has arrived.
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isfight($r)
+      if rand(20)
+        speak Die so that I may send your soul to Lolth, $R!
+        fume $r
+      endif
+      cast 'call lightning' $r
+      mpcallmagic 'call lightning' $r
+      mpcallmagic 'call lightning' $r
+    endif
+  endif
+~
+>fight_prog 25~
+  cast 'wild heal'
+~
+>kill_prog 20~
+  cackle
+~
+|

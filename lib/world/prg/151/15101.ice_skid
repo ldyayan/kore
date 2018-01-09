@@ -1,0 +1,22 @@
+>greet_prog 100~
+  if isimmort($n)
+  else
+    if isaffected($n, fly)
+    else
+      if ispc($n)
+        if rand(50)
+          mpechoat $n Your feet fly out from under you as you slip on a patch of ice in the room!!
+          mpechoat $n You try to brace yourself but you manage to smack the ground extra hard.
+          mpechoaround $n $N loses $s footing as $e skids over a patch of ice on the ground!
+          mpechoaround $n $N falls gracefully face first onto the stone floor. *laugh*
+          mppose $n sit
+          mpdamage $n 8d14+9
+        else
+          mpechoat $n You slide over the ice floor but manage to stay on your feet!
+          mpechoaround $n $N slides over the ice on the floor but stays on $s feet!
+        endif
+      endif
+    endif
+  endif
+~
+|

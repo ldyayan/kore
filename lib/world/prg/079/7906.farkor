@@ -1,0 +1,59 @@
+>all_greet_prog 100~
+  mptrigger $n FarkorSpeak
+~
+>script_prog FarkorSpeak~
+  mutter
+   @
+  say You.. there's nothing for you here..
+   @
+   @
+  say Didn't you hear me?  You can't have any!
+  growl
+   @
+  say Why won't you leave me and my treasure alone?!?
+    if inroom($r) == here
+      mpkill $r
+    else
+    endif
+~
+>fight_prog 3~
+  emote raises his small fist to the heavens.
+  emote whispers, 'farnam blor tu.'
+  mpecho The ceiling seems to open up, and bolts of lightning surge through your body!
+  mpdamage all 350
+~
+>fight_prog 5~
+  emote sweeps his open hand across the room.
+  emote whispers, 'terr da nor.'
+  mpecho The ground rocks and splinters under your feet, sending you sprawling!
+  mpdamage all 100
+  mppose all sit
+~
+>fight_prog 4~
+  emote makes a flowing gesture with his hand.
+  emote whispers, 'awq dal.'
+  mpecho An icestorm forms from nothing and pelts you with icicles!
+  mpdamage all 225
+~
+>fight_prog 5~
+  emote wiggles his pudgy fingers in the air.
+  emote whispers, 'garn xeq.'
+  mpecho The room is suddenly bathed with flames, and your body burns!
+  mpdamage all 150
+~
+>fight_prog 1~
+  if inroom($r) == here
+    emote suddenly dives to the floor and picks up a strange object!
+    say Now you face the wrath of technology!
+    mpechoat $r Farkor points the strange device at you, and pulls the trigger.
+    mpechoaround $r Farkor aims the device at $R-- there is a loud crack and a
+    mpechoaround bloody hole appears where $R's face used to be.
+    mpdamage $r 5000
+    mpechoaround $r falls to the floor, a pool of blood seeping from $L ruined face.
+  endif
+~
+>death_prog 100~
+  pout
+  emote sobs, 'My beautiful treasures..'
+~
+|

@@ -1,0 +1,1820 @@
+#19000
+Northern Border of Lorien~
+   This deep growth of Mallorn and underbrush is characteristic of the
+northern expanse of Lorien, a region called the Northern Fences. Only a
+hundred yards or so from the plains which seperate Lorien from the foothills
+of the Misties... but it might as well be a thousand yards, considering how
+tangled, overgrown and confusing travel here is. For instance, to continue
+into Lorien past this one particularly sprawling tree, which looks awfully
+familiar, you've narrowed your options to getting past the hedge.
+~
+190 65664 0
+D2
+~
+~
+0 0 19001
+D3
+~
+wooden gate~
+1 19099 19099
+S
+#19001
+Forest Path~
+   The feeling of being watched is intense now, making you almost want to run
+from this land in spite of its beauty. The mallorns stretch high into the
+sky, their golden leaves framing the blue sky, but you can not escape the
+strange feeling of being watched by eyes that are not altogether friendly. A
+bird flutters through the trees, singing a loud mating song, and you forget
+the eyes for a moment, fascinated by its beautiful plummage and song.
+~
+190 65536 0
+D0
+~
+~
+0 0 19000
+D2
+~
+~
+0 0 19002
+S
+#19002
+Forest Path~
+   The path continues North-South through the towering Mallorns here, and you 
+once again wonder where exactly it leads. Light shimmers through the golden 
+leaves onto the path, casting a nimbus of golden light upon you from above. 
+You find your sincerely wishing to just sit by the side of the path, lean up 
+against the great silver bark, and rest for a long time amongst the warm, 
+filtering sunlight. Yet something, you know not what, compels you to tighten 
+your belt and trudge onwards into the forest. 
+~
+190 65536 0
+D0
+~
+~
+0 0 19001
+D2
+~
+~
+0 0 19003
+S
+#19003
+Forest Path~
+   The well-kept forest path continues onwards here to both the north and
+south. Up ahead, the path appears almost golden by some trick of the light
+and the great Mallorn leaves. There is a fresh, wholesome scent to the air,
+and you feel that those of kind heart and good intentions could never find
+harm in this beautiful place. You shudder at the thought of the fate of those
+with evil in their hearts...a grey-feathered arrow and a quick death...
+~
+190 65536 0
+D0
+~
+~
+0 0 19002
+D2
+~
+~
+0 0 19004
+S
+#19004
+Forest Path~
+   You've reached the part of Lorien where the Naith gives way to the Egladil
+of Lorien, or 'angle', which stretches away for many more miles to the south.
+The pathways here are well travelled, a firm roadway of short golden grass,
+and lead off in many directions. Of most notable distinction, it seems that
+up ahead to the East the forest gives way to some strange sort of hill,
+though you can't make out the details of it from this distance. To be sure,
+though, in all directions the Mallorn trees stand guard along the sides of
+this path, along with whatever it is that seems to have following you and
+watching you while you have walked through this blessed forest, this
+Lothlorien, this Dream-flower.
+~
+190 65536 0
+D0
+~
+~
+0 0 19003
+D1
+~
+~
+0 0 19005
+D3
+~
+~
+0 0 19008
+S
+#19005
+Cerin Amroth~
+   You are standing by a great mound on which grows two rings of trees. The
+trees of the outer ring are leafless with a bark of snowy white; beautiful in
+their shapely nakedness. Those of the inner ring are golden Mallorns. In the
+center of the mound stands the tallest Mallorn of all, and high up in its
+boughs rests a wide flet. There of old was the dwelling of Amroth, Prince of
+Lorien and lover of Nimrodel. He departed over the sea long ago, yet you can
+feel his spirit around you here, lingering still...
+~
+190 65536 0
+D3
+~
+~
+0 0 19004
+D4
+~
+~
+0 0 19006
+S
+#19006
+Top of Mound~
+   You are standing on top of the mound of Cerin Amroth. It is covered with
+fresh springlike grass and strewn with small white and yellow flowers. These
+are the niphredil and the star-shaped elanor, the flowers of Lorien which
+stay in bloom all year long. Beside the center tree stands a broad white
+ladder which leads high up into the branches of the tree.
+~
+190 65536 0
+D4
+~
+~
+0 0 19007
+D5
+~
+~
+0 0 19005
+S
+#19007
+Amroth's Talan~
+   You are standing on a broad white platform nested high in the branches of
+the center Mallorn tree. It is the custom of the elves of Lorien to dwell on
+"talans" such as this in the treetops rather than on the ground. However, it
+is doubtful that many of them are as magnificent as this one. It is about
+forty feet wide and about thirty feet long. From this great height the entire
+forest is in view. To the west you can see the golden bridge you crossed to
+this magical land. Far to the south you see a great hill of Mallorn trees,
+seemingly the tallest in the land, all surrounded by a green wall. It is from
+there, you sense, which emanates the unseen power and enchantment that holds
+all of Lorien in sway.
+~
+190 65536 0
+D5
+~
+~
+0 0 19006
+S
+#19008
+Forest Path~
+   The forest path winds west, through the great Mallyrn trees. All around
+you sense eyes on you. Sylvan creatures scurry away at your approach and
+you are filled with awe at the marvellous forest.
+~
+190 65536 0
+D1
+~
+~
+0 0 19004
+D2
+~
+~
+0 0 19009
+S
+#19009
+Forest Path~
+   The path continues throught the Golden Woods here, and you wonder where it 
+ends within this grove...perhaps the legendary city of the Galadhrim? The 
+path looks well-kept and well-maintained, free from any plant life and any 
+damage caused by weather. Time seems to move so slow here, as though 
+something has forced it to slacken its pace in this strange and beautiful 
+grove. You look up into the trees, at the sunlight reflected off of the 
+golden leaves of the mallorns, and decide that you don't care... 
+~
+190 65536 0
+D0
+~
+~
+0 0 19008
+D7
+~
+~
+0 0 19010
+S
+#19010
+Forest Path~
+   The path through the forest bends here and turns directly south. The
+mallorn trees tower above the sides of the path, forming a canopy of gold
+over it. The silver trunks form a near impenetrable wall along the path, but
+you think for a second that you can just make out a hat bobbing through the
+trees...
+~
+190 65536 0
+D2
+~
+~
+0 0 19011
+D9
+~
+~
+0 0 19009
+S
+#19011
+Forest Path~
+   The path continue to both the north and south, but another path branches 
+off here and disappears into the trees on the East. You try to glean what 
+lies ahead on either direction, but find yourself unable to. All you can make 
+out is the rich dark lustre of the leaves that give the Golden Woods their 
+nickname. The tide of ever-moving golden leaves and silver trunks continues 
+all around you, stirred by a light breeze. 
+~
+190 65536 0
+D0
+~
+~
+0 0 19010
+D1
+~
+~
+0 0 19013
+D2
+~
+~
+0 0 19012
+S
+#19012
+A Meadow in the Forest with a Stream~
+   You stand in a meadow in a summertime forest. The surrounding mallorn
+trees, their leaves and branches forming a light canopy of green to match the
+scattered undergrowth below, are thick about you and form a large clearing
+that is criss-crossed by paths. Looking about the meadow, you see a brook
+with a small waterfall that runs through, bubbling softly as it tumbles over
+some rocks. The light in the meadow comes down slowly as if time in Lorien
+moves more slowly and the world you know outside seems more like a dream...
+~
+190 0 0
+D0
+~
+~
+0 0 19011
+D2
+~
+~
+0 0 19016
+S
+#19013
+Forest Path~
+   The path continues through the woods here, but you notice that the woods
+have become strangely quiet, as though you are near some sort of holy place.
+A breeze blows from out of the south. The quiet is broken, just for a moment,
+by the startled cry of a bird deep in the Mallorns somewhere, although you
+can't make out quite where the cry comes from...the sound of it echoes
+against the silvery bark of the mallorns.
+~
+190 65536 0
+D1
+~
+~
+0 0 19014
+D3
+~
+~
+0 0 19011
+S
+#19014
+Forest Path~
+   The path twists here to the northeast and continues to the west. Up ahead
+to the northeast you can see a faint blue glimmer, as though some body of
+water lies up ahead. The forest is beautiful and bright, filled with the
+light reflected by the golden leaves. There is a quiet to this area, a peace
+even greater, if that's possible, than the rest of the forest.
+~
+190 65536 0
+D3
+~
+~
+0 0 19013
+D6
+~
+~
+0 0 19015
+S
+#19015
+Alqualonde~
+   You are standing by a small lake whose water is blue and clear as crystal.
+The surface sparkles like sapphire where the sun shines on it near the
+center. White swans sail gracefully over the surface of the ailin, as it is
+called in elvish. It is for them that Galadriel christened this place
+Alqualonde, Swan-Haven, a memento of her days in Valinor when the world was
+young and untainted. The lake is surrounded by leafless trees with a snowy
+white bark. There is a feeling of utter peace and tranquility here, almost
+as if time were standing completely still. The fragrant scent of exotic
+flowers fills you with cheer as you rest here.
+~
+190 65536 6
+D8
+~
+~
+0 0 19014
+S
+#19016
+Forest Path~
+  The path ends in a clearing up ahead, where the Mallorns split, revealing
+the sun in its own glory, not as reflected by the golden leaves of the trees.
+You are nearly overwhelmed by a feeling of peace and restfulness, filling
+your heart and making you forget your weary feet and your empty stomach.
+Tightening your belt, you are ready to go on. The primary path continues
+both to the north and the south. A lesser trail strikes off to the east.
+~
+190 0 0
+D0
+~
+~
+0 0 19012
+D1
+~
+~
+0 0 19018
+D2
+~
+~
+0 0 19017
+S
+#19017
+Clearing~
+   You are standing in a small clearing in the forest. Further south you see
+a great hill of Mallorns, the tallest in the land, surrounded by a high green
+wall. You gaze upon Caras Galadon, city and fortress of the elves of Lorien,
+and haven of its noblest inhabitants, including the Lady Galadriel and Lord
+Celeborn. The city is surrounded by a wide blue river, with a white road
+running along its brink.
+~
+190 0 0
+D0
+~
+~
+0 0 19016
+D2
+~
+~
+0 0 19021
+S
+#19018
+Forest Path~
+   This part of the Forest path is strangely quiet, as the leafy canopy seems 
+to increase in thickness of growth. The soft golden light no longer filters 
+in from above, but rather is cast from the main path shining to the west. As 
+odd as this path seems, you sense that it grows quieter still further on to 
+the east... 
+~
+190 0 0
+D1
+~
+~
+0 0 19019
+D3
+~
+~
+0 0 19016
+S
+#19019
+Forest Path~
+   You have arrived at what seems the very deepest part of the forest of
+Lorien. The canopy above is thick for what seems dozens of yards, making you
+believe you'd have a difficult time discerning night from day in this place.
+~
+190 0 0
+D3
+~
+~
+0 0 19018
+S
+#19021
+White Road~
+   You stand on a thin road paved with polished white stones which runs the 
+length of the city. To the north a pathway leads back to a clearing in the 
+forest. The white road forms a frame for the sparkling blue waters, creating 
+a juxtaposition that makes you wonder for a moment at the beauty and simple 
+tranquility of the deep blue waters... 
+~
+190 0 0
+D0
+~
+~
+0 0 19017
+D1
+~
+~
+0 0 19022
+D3
+~
+~
+0 0 19037
+S
+#19022
+White Road~
+   The path continues around the river in both directions, a frame for the
+crystalline blue water. The stones are polished white, unblemished by
+anything, even your passage. A bird cries out from over the Mallorns...you
+wonder what beauty it must see from above...the golden trees giving way to
+the beautiful blue surrounding more trees....
+~
+190 0 0
+D3
+~
+~
+0 0 19021
+D7
+~
+~
+0 0 19024
+S
+#19023
+High Green Wall~
+   You stand now atop a large Green Wall, a natural fence of dense forest 
+greens, which defines the southern cusp of the Egladil of Lorien, or the 
+"Tongue" of Lorien as it has been called by Men. Just beneath the wall, to 
+the south, a large gr een lawn stretches out for a hundred yards until it 
+meets up with the union of two great rivers. One of them, the Celebrant, is 
+brisk and eager, and flows down through the Mallorn thickets to your right. 
+The other, the Anduin, is closer tha n you thought it would be, defining the 
+edge of Lorien as it dominates the eastern horizon for as far as you can see. 
+Looking down across the lawn, you realize the tactical advanatge any bowman 
+woul d have from this hightened post, both as lookout and archer. A small 
+stairway leading to a tunnel-like passage appears to be the egress to reach 
+the lawn itself. 
+~
+190 0 0
+D0
+~
+~
+0 0 19034
+D5
+~
+~
+0 0 19038
+S
+#19024
+White Road~
+   The road continues around the river, a white path surrounding a shimmering 
+blue border for the elven stronghold. You look into the deep blue, and are 
+almost caught by the sea-lust of the elves. You wonder if perhaps the water 
+does not call to Galadriel, remind her of the land where she is forbidden to 
+sail to. A feeling of grief overwhelms you, and you are forced to cast it 
+aside and travel on. 
+~
+190 0 0
+D2
+~
+~
+0 0 19025
+D9
+~
+~
+0 0 19022
+S
+#19025
+White Road~
+   The path continues to the north and south. To one side of the road lies 
+the silver trunks and golden leaves of the mallorns, while to the other side 
+lies the shimmering blue river. You hear a slight whisper in the woods, a 
+lilting sentence near to song and an answering giggle. You try to locate the 
+source of the sounds, but see only the giant trees. 
+~
+190 0 0
+D0
+~
+~
+0 0 19024
+D1
+~
+~
+0 0 19026
+D8
+~
+~
+0 0 19027
+S
+#19026
+Forest Road~
+   This path branches off from the White Road that encircles caras Galadon 
+and heads east towards what appeard to be fields of grapes growing in the 
+middle of the Golden Woods! 
+~
+190 0 0
+D1
+~
+~
+0 0 19028
+D3
+~
+~
+0 0 19025
+S
+#19027
+White Road~
+   The road continues on its circular path around the hill and river. Birds
+flutter in the trees, singing occasionally, and you think you can just make
+out the sounds of an elf-song, but as you try to listen carefully, the sound
+escapes you. You can feel eyes upon you, but they cause no fear. They give
+you a feeling of protection, of safety. Except that you feel that the wood
+itself can feel any malice you harbour in your heart...
+~
+190 0 0
+D3
+~
+~
+0 0 19031
+D6
+~
+~
+0 0 19025
+S
+#19028
+Vineyard Lane~
+   This busy lane is full of elves in the process of making their famous 
+elven wine. To the north, a low wooden building houses the winery, while the 
+bulk of the fields stretch to the south. 
+~
+190 0 0
+D0
+~
+~
+0 0 19030
+D2
+~
+~
+0 0 19029
+D3
+~
+~
+0 0 19026
+S
+#19029
+Vineyard in the Mallyrns~
+   The rows of grapes you expect to find in a vineyard are not present here, 
+instead, the plants grow wild, among the tall Mallorn trees. Here and there, 
+many elves are harvesting grapes for the winery to the north. 
+~
+190 0 0
+D0
+~
+~
+0 0 19028
+S
+#19030
+Winery~
+   This large structure holds thousands of casks of wine in various stages of 
+the fermentation process. The tall, graceful Quendi walk through occasionally 
+with another load of fruit for the presses, or to pick up casks for trade. 
+~
+190 0 0
+D2
+~
+~
+0 0 19028
+S
+#19031
+White Road~
+   You are standing on a road paved with white stone that encircles a huge
+hill, upon which towers a mighty stand of Mallorns. A white bridge stretches
+north, towards the hill, and a white road follows the course of a stream
+which encircles the entire hill. To the south, a infreqently used pathway
+heads off into the forest. Strange lights flicker amongst the mighty
+mallorns, and you wonder what lies beyond the bridge...
+~
+190 0 0
+D1
+~
+~
+0 0 19027
+D9
+~
+~
+0 0 19032
+S
+#19032
+White Road~
+   The long path continues on its circular course. To the east you can see a
+white bridge crossing the river and disappearing into the mallorns on the
+hill. Mighty mallorns ring the outside edge of the path, and you can just
+sense things moving behind the veil of trees.
+~
+190 0 0
+D7
+~
+~
+0 0 19031
+D9
+~
+~
+0 0 19035
+S
+#19033
+On the Bridge~
+   The bridge crosses over the deep blue river, which you can now see to just 
+be some sort of moat. To the south lies the long white road, and northwards 
+you can easily make out the great Gates of Caras Galadon which face off to 
+the southwest. 
+~
+190 0 0
+D6
+~
+~
+0 0 19039
+S
+#19034
+Forest Pathway~
+   This long but peaceful pathway passes through a deep thicket of Mallorn 
+trees to the north, and further on to the south it winds through rolling 
+woodlands with glorious Mallorn groves weaving up and down the slopes, a 
+cascading blanket of s ilver shadow. It's north-to-south travel leans only 
+slightly to the east as it carves its way through the heart of the Egladil of 
+Lorien. 
+~
+190 0 0
+D0
+~
+~
+0 0 19031
+D2
+~
+~
+0 0 19023
+S
+#19035
+White Road~
+   The road continues around the river, leading in both directions. Looking 
+across the river, you can see the mighty mallorns on the hill, and just make 
+out sparkling, dancing lights in their leaves...looking down a little, you 
+stare at your r eflection in the crystaline deep blue waters. You look tired 
+yet strangely at peace... 
+~
+190 0 0
+D7
+~
+~
+0 0 19032
+S
+#19036
+White Road~
+   The road continues onwards...It bends off to the Northeast and disappears 
+off to the South. Across the water lies the great city of Caras Galadon, 
+surrounded by a tall green wall and built amongst the hearty limbs of the 
+towering mallorns. 
+~
+190 128 0
+D2
+~
+wooden gate~
+1 19098 19096
+D6
+~
+~
+0 0 19037
+S
+#19037
+White Road~
+   The road stretches around the river, forming with it a border for the 
+great arboreal city of Caras Galadon. A breeze rustles through the mallorn 
+trees, yet there is another sound that you think is caused by something other 
+than the wind. Th e eyes of the forest stare upon you, and you shudder... 
+~
+190 0 0
+D1
+~
+~
+0 0 19021
+D8
+~
+~
+0 0 19036
+S
+#19038
+Long Lawn~
+   You stand amidst a long lawn of shining grass. It ripples in the gentle 
+river breezes like tresses of golden hair, sprinkled too with hundreds of 
+golden elanor flowers which radiate with the light of the sun. The eastern 
+edge of the lawn fa des into a white-stone beach, lapped upon by the deep and 
+dark waters of the broad Anduin river which flows from the north, continuing 
+southwards forever onto the sea. Joining the Anduin directly to the south is 
+the Celebrant river, which h urries towards you from between the groves of 
+Mallorns to the northwest. Northwards, the lawn is bordered by a high green 
+wall of dense forest growth. With your sharp elven eyes, you spy a small 
+recess in the wall, perhaps a passageway which leads through it. 
+~
+190 0 0
+D4
+~
+~
+0 0 19023
+S
+#19039
+The Gates of Caras Galadon~
+   You stand before the gates of Caras Galadon, a city of mighty mallorns 
+whose leaves and branches form a dome of green upon the hill.. Tall and 
+strong and hung with many lamps, the gates are set southwest where the 
+encircling wall about the city overlaps upon itself. On the gate, the many 
+lamps are lit, bathing the night bridge in a soft light. 
+~
+190 0 0
+D0
+~
+~
+0 0 19040
+D8
+~
+~
+0 0 19033
+S
+#19040
+Bottom of Hill~
+   You stand at the bottom of the hill of Caras Galadon. Stairs lead up into 
+the trees from here, and to the south lie the gates of Caras Galadon. The 
+staircase disappears up into the golden leaves of the mighty Mallorn trees, 
+which tower tall and powerful on this hill. 
+~
+190 0 0
+D2
+~
+~
+0 0 19039
+D4
+~
+~
+0 0 19041
+S
+#19041
+Great Stairway~
+   The stairway stretches up among the Mallorns, up to the arboreal city of 
+Caras Galadan. Braziers shed light on the stairway, and your footsteps echo 
+loudly amongst the trees. The stairway also heads down to the Bottom of the 
+Hill and the ex it from Caras Galadan. You admire for a moment the silver 
+bark of the mallorns, then continue on your way. 
+~
+190 0 0
+D4
+~
+~
+0 0 19042
+D5
+~
+~
+0 0 19040
+S
+#19042
+Great Stairway~
+   Mallorns hug this great stairway, forming a wall around it. There are 
+lights in many of the trees, and although you see no one, you can hear elven 
+voices around you in the trees. The sound of singing and of harps comes to 
+you from all direc tions. A wide roadway perched amongst the trees and paved 
+with gold heads off to the East from here into the trees. 
+~
+190 0 0
+D3
+~
+~
+0 0 19043
+D4
+~
+~
+0 0 19044
+D5
+~
+~
+0 0 19041
+S
+#19043
+Music Shoppe~
+   When you come in you are stunned by the sound of a finely tuned golden 
+harp playing a cheerful melody. In the air you smell the aroma of freshly 
+broiled coffee served to all potential customers. You are amazed by the 
+amount of different instruments you see, many of which you didn't even know 
+existed. To the left of the counter you see Horns, Trumpets, Trombones, 
+Flutes, Bugles, Recorders and a newly constructed instrument you don't 
+recognize, the label says it is called a Saxophone. To the right you see 
+Lutes, Harps, Balalaikas and Sitars. Under the glass counter there are 
+smaller instruments like whistles, Ocarinas, Bells and a lot of accessories. 
+It's a pity nothing is for sale as yet. 
+~
+190 0 0
+D1
+~
+~
+0 0 19042
+S
+#19044
+A Flagged Terrace~
+   Here, midway up the hill, the stair levels off and becomes a narrow 
+terrace before continuing upwards. Wider than it is deep and flagged with 
+marble, the terrance serves as a rendezvous point where many smaller paths 
+converge. Large mellryn trees, whose leaves and branches form a dome of green 
+above you, border this piazza with each containing sizable flets. It is 
+night, and the tree tops of Caras Galadhon twinkle from a multitude of lamps. 
+~
+190 0 0
+D1
+~
+~
+0 0 19046
+D3
+~
+~
+0 0 19047
+D4
+~
+~
+0 0 19045
+D5
+~
+~
+0 0 19042
+S
+#19045
+Great Stairway~
+   The stairway here is surrounded on all sides by giant Mallorns of 
+magnificent height. There are lights flickering in the treetops far above. 
+The sound of singing and of the playing of harps comes to you from many 
+directions and enchants your ears. 
+~
+190 0 0
+D3
+~
+~
+0 0 19057
+D4
+~
+~
+0 0 19058
+D5
+~
+~
+0 0 19044
+S
+#19046
+Marble Roadway~
+   This roadway, with a floor apparently made of marble, stretches through 
+the trees of Caras Galadon. Tall Mallyrn rise around you, filled with bright 
+lights and the soft laughter of elven voices. Platforms span out amongst the 
+trees to the N orth and South and the roadway continues on to the East. Grey 
+ropes dangle from the trees to the side of the roadway, leading up into the 
+limbs of the trees. Small signs sit beneath the various ropes, Sindarian 
+lettering indicating the name s of the inhabitants of the various Telain. 
+~
+190 0 0
+D0
+~
+~
+0 0 19052
+D1
+~
+~
+0 0 19051
+D2
+~
+~
+0 0 19053
+D3
+~
+~
+0 0 19044
+S
+#19047
+Marble Roadway~
+   Here another stairway leads up into the trees. The stairway appears to be 
+made of marble, and it disappears quickly amongst the golden leaves of the 
+great Mallorn trees. 
+~
+190 0 0
+D1
+~
+~
+0 0 19044
+D4
+~
+~
+0 0 19048
+S
+#19048
+Entrance to Hollow~
+   You peer cautiously inside the small hollow. It is filled with a brilliant 
+golden light, and in it are seated a number of elves, singing and harping. 
+~
+190 0 0
+D0
+~
+~
+0 0 19049
+D5
+~
+~
+0 0 19047
+S
+#19049
+Hollow~
+   Bright yellow lamps hang from above and illuminate this place with a 
+brilliant golden light. About seven elves are seated here, singing ancient 
+legends...putting special emphasis on songs about Lady Galadriel and her 
+fabled brother Finarfin . One strikes the melody on a golden harp, and their 
+voices join in a harmony of insurpassable beauty and clarity. They seem to 
+take no notice of your presence. You may want to try 'listen'ing to them.... 
+Ropes dangle from the limbs amongst this hallow, and small signs along the 
+edge indicate the names of the elves who live in the Telains above. Judging 
+from the number of signs written in Quenyan, you guess that perhaps the elves 
+living in the limbs above rank higher than their brothers along the eastern 
+Marble Pathway... 
+~
+190 0 0
+D2
+~
+~
+0 0 19048
+D4
+~
+~
+0 0 19050
+S
+#19050
+Linsul's Chambers~
+   A small room with walls of golden leaves and a floor of sanded wooden 
+planks, Ardana's quarters are sparsely furnished and utilitarian. A dark 
+green hammock is strung between two stout tree limbs, with a large iron-bound 
+oak chest sits near by and a tall wardrobe stands near the entrance. Within a 
+naturally hollowed basin in the tree's bole grow a variety of colorful 
+wildflowers, nurtured by spring water. Next to this is a small but fully 
+equipped cosmetics stand. Below, and a little to the left of the entranceway, 
+the leavy canopy allows for a mysteriously clear view of the Royal Chamber. 
+~
+190 0 0
+D5
+~
+~
+0 0 19049
+S
+#19051
+Marble Roadway~
+   The roadway continues here through the great city, lit by braziers which 
+seem to be constantly burning. Voices speaking in strange tongues lilt 
+through the air, coming down to you softly on the walkway. Many ropes dangle 
+down from the branc hes, and you can see them shoot up to platforms that you 
+assume to be private houses for common grey elves. Little signs, written 
+usually in stylized Sindarian sit beneath the ropes, telling what you guess 
+to be the names of the inhabitants. 
+~
+190 0 0
+D0
+~
+~
+0 0 19056
+D2
+~
+~
+0 0 19055
+D3
+~
+~
+0 0 19046
+S
+#19052
+Among the Trees~
+   You are standing on a platform among the magnificent golden trees of Caras 
+Galadon. You are surrounded by light and song and laughter, the strumming of 
+harps and elvish lutes trickles down to your ears on a soft breeze from 
+above. A sturdy grey rope ladder leads up to one of the many talans in the 
+treetops above. 
+~
+190 0 0
+D2
+~
+~
+0 0 19046
+S
+#19053
+Among the Trees~
+   This platform stands amongst the trees, and a grey rope of Hithlain leads 
+up into the upper branches of the tree directly in its center. Looking up, 
+you can see the brown underside of many platforms above, nestled amongst the 
+limbs of the mighty mallorn tree. 
+~
+190 0 0
+D0
+~
+~
+0 0 19046
+D1
+~
+~
+0 0 19055
+D4
+~
+~
+0 0 19054
+S
+#19054
+Boarding Talan~
+   This talan is common living quarters for new arrivals to Lorien. Numerous 
+elves live here, and it is understood that nobody messes with anyone else's 
+belongings. 
+~
+190 0 0
+D5
+~
+~
+0 0 19053
+S
+#19055
+Among the Trees~
+   This platform too is nestled in the protective huddle of the giant 
+Mallorn. There is a mallorn of truly gargantuan proportions directly to the 
+south, and there is a strange discolouration in the mighty silver trunk. It 
+seems strange that a tree so majestic would have a discolouration... 
+~
+190 0 0
+D0
+~
+~
+0 0 19051
+D3
+~
+~
+0 0 19053
+S
+#19056
+Among the Trees~
+   This is a platform amongst the silver trunks of the Mallorns. Ropes dangle 
+from the branches, leading to the private Telains of various Galadhrim-folk. 
+The names of the inhabitants are lettered on small wooden signs in Sindarian. 
+~
+190 0 0
+D2
+~
+~
+0 0 19051
+S
+#19057
+Lumeniel's Lanterns~
+   A small cottage who's back wall is taken up by the bowl of a mallorn tree, 
+of which it is built against. Hanging by hooks from the rafters are rows of 
+colored beeswax likumar, that is candles, while to one side are stacked 
+torches and oils for delicate elven lamps calmar. The husky smell of wax 
+mingles with the air and fills your nose. 
+~
+190 0 0
+D1
+~
+~
+0 0 19045
+S
+#19058
+Great Stairway~
+   You have almost reached the top of this giant stairway, for you can begin 
+to see some blue from amidst the deep canopy of golden leaves. A roadway 
+leads off the path among the trees to the East. The stairway continues in 
+both directions. 
+~
+190 0 0
+D1
+~
+~
+0 0 19060
+D3
+~
+~
+0 0 19059
+D4
+~
+~
+0 0 19061
+D5
+~
+~
+0 0 19045
+S
+#19059
+The Library, Sammath Teithith~
+   A moderately sized talan for Lorien's scribe and that serves as the 
+Galadhrim's "library". The chamber looks smaller than it really is, however, 
+due all the furniture that fills the space! The center of the room is 
+dominated by a large tabl e that is surrounded by several chairs, and except 
+for an open window, a partition, and a couple small pieces of furniture, all 
+the wall space is filled by shelving. In one corner, a small writing desk has 
+been placed. 
+~
+190 0 0
+D1
+~
+~
+0 0 19058
+S
+#19060
+Marble Roadway~
+   This Marble Roadway is perched amongst the trees, and grey ladders spiral 
+up into the high trees. The roadway stretches to the East towards a set of 
+Mithril gates that stand open... You look at the signs at the bases of each 
+of the ladders and realize that the signs are written in Quenyan, in the 
+High-Elven script. You marvel at the beautiful flowing golden script, and 
+wonder at the inhabitants of the trees above. You recognize some of the names 
+on the small signs and realize this is probably a place for noble guests, 
+also. 
+~
+190 0 0
+D1
+~
+~
+0 0 19062
+D3
+~
+~
+0 0 19058
+S
+#19061
+Lawn~
+   Here the stairway through the mallorns meets the top of a mighty hill. You 
+stand in the middle of a great lawn filled with blue and yellow flowers. A 
+sweet scent fills the air. In the middle of the lawn stands a great 
+shimmering fountain wh ich falls into a basin of silver. From the basin flows 
+a white stream of water out into a small brook, which then trickles away down 
+the hill. Further north stands a Mallorn tree of such magnificent height that 
+it seems to reach even to the clouds. 
+~
+190 0 0
+D0
+~
+~
+0 0 19066
+D1
+~
+~
+0 0 19065
+D5
+~
+~
+0 0 19058
+S
+#19062
+Silver Gates~
+   You stand before the entrance to a great enclosed garden set somehow 
+amongst the trees. The gates are wrought of pure mithril, but traced with 
+veins of gold forming intricate flowery designs which enchant the eye. They 
+are open wide, silently beckoning you to enter. 
+~
+190 0 0
+D1
+~
+~
+0 0 19063
+D3
+~
+~
+0 0 19060
+S
+#19063
+Garden~
+   You stand in the middle of a luscious garden filled with all colors and 
+varieties of plants and flowers, whose sweet scent permeates the air. There 
+are many hummingbirds here flying among the bushes, and even a few scarlet 
+kirinki, tiny Ere ssean finches with high piping voices, are fluttering here 
+and there among the flowers. The garden is walled, for the most part, by a 
+number of tall, sturdy wooden trellises on which grow a type of vine adorned 
+with large white flowers, who se seeds are crushed to produce the flour of 
+which lembas is made. To the west, grassy steps lead up the the silver gates 
+through which you entered. There is a small brook here flowing down from the 
+fountain at the top of the hill, and then trickling away eastward. 
+~
+190 0 0
+D1
+~
+~
+0 0 19064
+D3
+~
+~
+0 0 19062
+S
+#19064
+The Mirror of Galadriel~
+   The strange little brook turns south here and flows beside a wide silver 
+basin set just above the ground on a low marble pedestal. The basin is 
+surrounded by a ring of white lorelli, elven dream-flowers. Nearby, next to 
+the flowing brook, s its an ewer of silver. The very air here is charged with 
+energy, a peaceful aura which surrounds you, and makes you feel rather faint 
+and tired... 
+~
+190 0 0
+D3
+~
+~
+0 0 19063
+S
+#19065
+Flat Lawn~
+   This long flat lawn stretches far in all directions, ringed by tall 
+Mallorn trees, though the view of the sky is unfettered from this point. 
+Stones with inset torches line the arboreal boundary of the lawn, and a 
+strange low-hanging canopy of some dark greyish-silver material hangs 
+suspended from the trees directly to the east. Low well-carved stone benches 
+lay in the grass around this area, and you wonder for a moment how or who 
+carted them up the long stairs and hills of Caras Galadon. 
+~
+190 0 0
+D1
+~
+~
+0 0 19067
+D3
+~
+~
+0 0 19061
+S
+#19066
+Near the Great Tree~
+   You stand next to a giant Mallorn tree, the tallest in the entire world. 
+Its silver bark is beautiful and unblemished, and the golden leaves above are 
+as large as shields. A ladder hangs down from above, leading high up into the 
+branches of the giant tree. Three elves stand guard at the base of the tree. 
+A room is to the rear of the tree, around to the north. 
+~
+190 0 0
+D0
+~
+~
+0 0 19069
+D2
+~
+~
+0 0 19061
+D4
+~
+~
+0 0 19068
+S
+#19067
+Galadhrim Training Facilities Foyer~
+   A room of sorts is formed here by the overhanging canopy of trees, and a 
+strange tarp hung from the branches, woven from some strange silvery cloth. 
+Doors lead to other areas, the names of which are clearly marked in Quenyen 
+above each door. A tapestry hangs from the east wall, showing the great deeds 
+of Finrod and the other brothers and relatives of Lady Galadriel in their 
+heroic deeds against the dark enemy that is chained. Also shown are the 
+glorious deeds of Thingol, the heroic kin of Lord Celeborn. 
+~
+190 0 0
+D3
+~
+~
+0 0 19065
+S
+#19068
+Intersection in the Tree~
+   The ladder meets a first large flet here, though it continues upwards 
+further to a final Talan that absorbs the look up. The talan here is large 
+and flat, supported around the trunk in a circle on eight branches. On each 
+of the branches res ts another large talan. The limb-paths leading to each 
+talan is labeled clearly with the name of some Family or another. 
+~
+190 0 0
+D0
+~
+~
+0 0 19082
+D1
+~
+~
+0 0 19089
+D3
+~
+~
+0 0 19085
+D4
+~
+~
+0 0 19077
+D5
+~
+~
+0 0 19066
+D6
+~
+~
+0 0 19088
+D7
+~
+~
+0 0 19091
+D8
+~
+~
+0 0 19084
+D9
+~
+~
+0 0 19087
+S
+#19069
+Diplomatic Hall~
+   This hallway is grandly decorated with delicate sculptures of elven art 
+and woven tapestries and drapes that give the room a light, misty feeling. 
+The hall leads out in the fashion of a bridge to a landing on a tree a bit 
+away from the hill , thus the platform is nearly level to this hall. The 
+carpet is woven of mist-thin strands of silvery threads, which feel soft 
+beneath your feet. The air is scented with the soothing smell of wind that 
+has caressed leaves and branches. A stairway leads up to the landing. 
+~
+190 0 0
+D0
+~
+~
+0 0 19070
+D2
+~
+~
+0 0 19066
+S
+#19070
+Open Landing~
+   This is a large open landing that circles around half of one of the great 
+trees growing on the hillside. A simple railing borders it, twined with 
+flowering ivy and vines. You see several benches here, some near the trunk of 
+the tree, and so me near the railing. From here, you can see the entrance to 
+the Chamber of Lights, the main conference room, as well as some other 
+chambers and studies. You can see very far down, onto the hillside, which is 
+quite a drop from here, as well as the White Road far below. You see a large 
+staircase going up to a deck above. 
+~
+190 0 0
+D0
+~
+~
+0 0 19071
+D2
+~
+~
+0 0 19069
+D3
+~
+~
+0 0 19072
+D4
+~
+~
+0 0 19076
+S
+#19071
+Chamber of Lights~
+   This is the Chamber of Lights, where honored dignitaries, Elves, and 
+Elf-Friends are taken for negotiations and honoring. There is a table in the 
+center of the floor, long and oaken, carved with beautiful swirls amid images 
+of fantastically symetrical trees. Around the table are several chairs, oaken 
+as well, and quite comfortable-looking. The most interesting thing about this 
+room is that the light that emanates from the walls seems to be coming from 
+nowhere. Occasional ripp les of light, almost like inverse shadows, can be 
+seen as someone moves within the room. It gives an almost under-water look to 
+the room. 
+~
+190 0 0
+D2
+~
+~
+0 0 19070
+S
+#19072
+Guest Chambers Annex~
+   This is a large circular talan, with the huge trunk of a mallorn going up 
+through its middle. Encircling the trunk is a low circular couch, and a few 
+chairs are spread at various places around the room. Elves relax around the 
+talan, chattin g and laughing while younger elves bring in trays of fruit, 
+vegetables, and wine. A few members of the elite Order of Lorien stand guard 
+around the area, making sure no-one gets out of line. The high winds that 
+blow through the trees are bl ocked by large movable screens, which the 
+Guardsmen move with the wind, making sure the talan is warm and comfortable 
+for the guests. 
+~
+190 0 0
+D0
+~
+~
+0 0 19073
+D1
+~
+~
+0 0 19070
+D2
+~
+~
+0 0 19075
+D3
+~
+~
+0 0 19074
+S
+#19073
+Alqualonde Room~
+   This is a large talan, with many beds and comfortable furnishings. Huge 
+movable screens shield out the wind, and the room is very warm and 
+comfortable in spite of being in a tree. 
+~
+190 0 0
+D2
+~
+~
+0 0 19072
+S
+#19074
+Eriant Room~
+   This is a large room with many beds, tables, chairs, and a few dressers. 
+It is sheltered by the overhanging boughs of the Mellyrn tree, and by huge 
+screens which block out the winds. The walls are decorated with tokens from 
+the Eriant Patro l, one of the most elite patrols in the Order of Lorien. 
+There are shields and swords, as well as a few paintings of the Patrol on the 
+walls. Hanging from one wall is the standard of the Order of Lorien. 
+~
+190 0 0
+D1
+~
+~
+0 0 19072
+S
+#19075
+Celebrant Room~
+   This talan is named the Celebrant Room, mostly because a view out of one 
+of the windows (really a closable hole in one of the screens which shelter 
+the talan) looks out onto the Celebrant. The talan is strangely warm, 
+considering it's perch ed on a high tree-branch. There are two large beds in 
+this room, a vanity, and a large dresser with many drawers. Under the bed is 
+a silver bedpan. The beds are neatly made and look very comfortable--it's 
+almost as though someone transporte d a room in a nice Inn to the treetops of 
+Lorien. 
+~
+190 0 0
+D0
+~
+~
+0 0 19072
+S
+#19076
+Upper Landing, Hall of Mirrors~
+   Upon entering the Upper Landing your gaze turns to the south where it is 
+open tothe environment. The only structures are support beams that are 
+delicately carved with elf runes. In the far distance you can see the River 
+Limlight and the Gre at River Anduin. Also, you can see the very edge of 
+Fangorn Forest. Nearer to you, you can see the rest of Caras Galadon and 
+Lorien's Forest. Also, you can see its southern river border, Celebrant, as 
+it makes its way down to its meeting pl ace with the River Anduin. On the 
+oppisite wall are mirrors that run the whole length of the room. You can see 
+the southern view, as well as your own reflection...giving you the illusion 
+of being on the top of the world. 
+~
+190 0 0
+D5
+~
+~
+0 0 19070
+S
+#19077
+Royal Chamber~
+   You catch your breath as you look around at the magnificent chamber you 
+have entered. Its floor is a telain as wide as the deck of a great ship, set 
+high up in the boughs near the center of the Great Mallorn tree. The chamber 
+is oval in sha pe, with walls of gold, the leaves of the Mallorn. The trunk 
+of the tree grows through the center of the chamber. By the side of the 
+chamber is the white ladder which leads down to the bottom of the tree. Two 
+thrones, one of silver and the other of gold, sit at one end of the chamber 
+on a raised dias. 
+~
+190 0 0
+D1
+~
+~
+0 0 19078
+D5
+~
+~
+0 0 19068
+S
+#19078
+Hallway~
+   This small hallway is formed by the arching boughes of the great silver 
+mallorn trees, the deep golden leaves of the Mallorn reflecting the light of 
+a single candle at the end of the hallway and casting light upon the entire 
+length. Doors l ead off to private bedrooms along the sides off into the 
+branches. 
+~
+190 0 0
+D0
+~
+~
+0 0 19079
+D1
+~
+~
+0 0 19080
+D2
+~
+~
+0 0 19081
+D3
+~
+~
+0 0 19077
+S
+#19079
+Galadriel's Bedchamber~
+   This chamber is filled with a soft light, a golden reflection off of the 
+golden walls. Against one wall is a large mirror, rimmed with mithril, and 
+against another is a large bed. Tapestries line the walls, and a large closet 
+lies open agai nst the wall. A silver bed-pan and pitcher lie near the bed. A 
+quiver of grey-feathered arrows and an unstrung bow hang on the wall. 
+~
+190 0 0
+D2
+~
+~
+0 0 19078
+S
+#19080
+Celeborn's Study~
+   This chamber is filled with a soft light, a golden reflection off of the 
+golden walls. Against one wall is a large mirror, rimmed with mithril, and 
+against another is a large bed. Tapestries line the walls, and a large closet 
+lies open against the wall. A silver bed-pan and pitcher lie near the bed. A 
+quiver of grey-feathered arrows and an unstrung bow hang on the wall. 
+~
+190 0 0
+D3
+~
+~
+0 0 19078
+S
+#19081
+Arwen's Chambers~
+   The Lady Arwen's room is decorated with finely made wood furniture. On the 
+bed is placed a hand woven quilt depicting scenes of Elvish history. On the 
+wall is a woven tapestry depicting the members of Arwen's family. 
+~
+190 0 0
+D0
+~
+~
+0 0 19078
+S
+#19082
+Meeting Talan of the Ruling Council~
+   This huge Talan is the meeting area of the Ruling Council of Lorien, which 
+decides on many of the matters of Lorien's rule. A large table dominates the 
+room, with two thrones at one end and three chairs for each of the houses 
+surrounding th e table. By the law of the Council no more than three 
+representatives of each House are allowed to sit at Council--the others are 
+relegated to the Observation Talan which looks down on the Chambers from 
+above. Nameplates in stylized Sindari n read off the names of the houses at 
+the table--Aderthad, Celebithil, Cultasare, Dinlom, Orostanor, and 
+Raavindonserke. Set off to one side of the table is a small desk where the 
+Scribe sits to take the minutes, equipped with many rolls of vellum, jars of 
+ink, and sharpened quills. To the opposite of the Scribe's Desk is a large 
+table where decanters of wine, fresh fruit, and goblets are placed when the 
+Council meets. 
+~
+190 0 0
+D2
+~
+~
+0 0 19068
+D4
+~
+~
+0 0 19083
+S
+#19083
+Observation Gallery~
+   This small Talan is comfortable and well-apportioned, with many chairs 
+lining the edge allowing a clear view of the Council Chambers below. The 
+sounds of the Council drift up from below, and looking down you can see the 
+chambers themselves. 
+~
+190 0 0
+D5
+~
+~
+0 0 19082
+S
+#19084
+Meeting Talan of Daernoss Thangail~
+   A moderately sized talan that looks like it could hold more than a score 
+of people. Three sides are fitted with opaque blinds, with the one towards 
+the great tree's trunk left open. A light 'lean-to' type of roof keeps any 
+foul weather out. The flet is devoid of any furnishings and is really nothing 
+more than an empty platform. 
+~
+190 0 0
+D6
+~
+~
+0 0 19068
+S
+#19085
+Meeting Talan of Daernoss Orostanor~
+   You enter the foyer and notice this talan looks incredibly different from 
+the rest of Lothlorien. Everything is symetrically placed from the murals on 
+the walls to the tables and chairs. On either sides of the foyer are some 
+exotic couches made from a kind of animal skin you have probably never seen 
+before. In the center before the entrence to the rest of the meeting talan is 
+a stone statue of the House Head, Adoniel. He is dressed for war and holds 
+his sword high over-head. On his back is strung his magical lute next to his 
+longbow. His eyes seem to follow you all over the room. Above the staue is a 
+relief of Adoniel surrounded by members of his house. He looks very 
+differently playing his lute and dancing with his family. 
+~
+190 0 0
+D0
+~
+~
+0 0 19086
+D1
+~
+~
+0 0 19068
+S
+#19086
+Council Chamber~
+   This is the Grand Meeting Chamber of The Orostanor. A large slab of 
+granite which is etched with great events in the history of the elves is 
+directly in the center of the chamber, catching the light that comes through 
+the branches of the tr ee tops. Around the slab are cushions where House 
+members sit in moot. At the head of the slab is a special place reserved for 
+the Lord And Lady of the Golden wood. On the opposite end is a place for the 
+leader of the House and his wife or promised. This chamber is serene and 
+peaceful. All around on the walls are murals depicting different moments in 
+the history of the House. A magic fountain that never stops bubbling up sweet 
+tasting water flows from the west end of the cham ber into a small basin. The 
+water mysteriosly never overflows... 
+~
+190 0 0
+D2
+~
+~
+0 0 19085
+S
+#19087
+Gathering Talan of Daernoss Raavindonserke~
+   Upon entering the Talan, you see shafts of sunlight sifting through the 
+branches above and illuminating the room with a warm comforting glow Before 
+you is a large oval oaken table set very low to the ground and you see 
+pillows of every color imaginable set about the floor for sitting. On the 
+table there is a somewhat weathered leather bound book with the etchings of a 
+Lion's claws on the cover. You immediately feel relaxed and at home. 
+~
+190 0 0
+D7
+~
+~
+0 0 19068
+S
+#19088
+Gathering Talan of Daernoss Aderthad~
+   As you step in this Talan, you can see this is the very centre of House 
+Aderthad. Many elves with silver, blue-gem rings are rushing around you. You 
+notice a couple of them wear blue gem amulets instead. It's a place of 
+meeting all the elves of Aderthad, painted in blue and silver colors. That 
+thing, which captures your attention, is a big round table with many elves 
+sitting around it on chairs. 
+~
+190 0 0
+D8
+~
+~
+0 0 19068
+S
+#19089
+Gathering Talan of Daernoss Cultasare~
+   This is a large spacious Talan with a long woven rug on the floor which 
+fills up the whole talan. The rug is golden colored with a crimson willow 
+near the center of the room in fashionable embroidery. This is the Talan of 
+Daernoss Cultasare. The talan has a large meeting table and a hearth, the 
+table is surrounded by many strong chairs, and the hearth is constantly lit 
+with a kettle of hot cider at all times. The air is cozy as the hearth flames 
+flicker their shadows ab out the talan. Open windows let in the beautiful 
+stars at night and the welcomed light of the daytime. There is a desk in one 
+corner of the talan with many scribing materials upon them. 
+~
+190 0 0
+D1
+~
+~
+0 0 19090
+D3
+~
+~
+0 0 19068
+S
+#19090
+Cultasare Barracks and Quarters~
+   This is a spacious section of the large Cultasare Talan. Here, gets and 
+family members may stay in privacy and welcome among their own. While most 
+often used during times of crisis, the quarters is often used to house guests 
+of the family. Several matted and thatched cots line the walls, as well as 
+shelves and wash basins. Windows look out over the great city below, as a 
+bustle of activity occurs. 
+~
+190 0 0
+D3
+~
+~
+0 0 19089
+S
+#19091
+Gathering Talan of Daernoss Dinlom~
+   You are in a large area, enclosed by the branches around you. There is a 
+large, wooden table in the middle of the room. A podium stands at one end of 
+the table, and a large chair at the other. There are smaller chairs lining the 
+sides, and a simple chandalier is hung from a branch above. There is a desk 
+set at one wall, apparently for the Indor. There is also a table by the 
+entrance with a book labled 'Dinlom' 
+~
+190 0 0
+D9
+~
+~
+0 0 19068
+S
+#19092
+The Courtyard of Fort Dragonliege~
+Inside the stones walls of the fort you feel comfort.
+Protect your leader within it.
+~
+190 0 0
+D0
+~
+~
+0 0 19096
+S
+#19094
+An Archers Pillbox~
+Inside the stones walls of the fort you feel comfort.
+Protect your leader within it.
+~
+190 65536 0
+D1
+~
+~
+0 0 19000
+D2
+~
+~
+0 0 19099
+S
+#19095
+An Archers Pillbox~
+Inside the stones walls of the fort you feel comfort.
+Protect your leader within it.
+~
+190 0 0
+D3
+~
+~
+0 0 19096
+S
+#19096
+The Gates of Fort Dragonliege~
+Inside the stones walls of the fort you feel comfort.
+Protect your leader within it.
+~
+190 0 0
+D0
+~
+wooden gate~
+1 19098 19036
+D1
+~
+~
+0 0 19095
+D2
+~
+~
+0 0 19092
+S
+#19098
+The Courtyard of Fort Millenium~
+Inside the stones walls of the fort you feel comfort.
+Protect your leader within it.
+~
+190 1114112 0
+D1
+~
+~
+0 0 19099
+S
+#19099
+The Front Gate of Fort Millenium~
+Inside the stones walls of the fort you feel comfort.
+Protect your leader within it.
+~
+190 65536 0
+D0
+~
+~
+0 0 19094
+D1
+~
+wooden gate~
+1 19099 19000
+D3
+~
+~
+0 0 19098
+S
+#99999
+$~

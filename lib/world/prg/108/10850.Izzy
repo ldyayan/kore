@@ -1,0 +1,19 @@
+>rand_prog 2~
+  mpecho Izzy waves his hands and disappears!
+  mpcallmagic 'teleport' self
+  mpecho Izzy appears in a twinkling!
+~
+>fight_prog 30~
+  emote pulls $n's nose!
+  say Can't catch me!
+  emote laughs insanely!
+  mpgoto 10800
+  mptrigger leave self
+~
+>script_prog leave~
+  cast 'cure blind'
+  mpcallmagic 'remove curse' self
+  mpcallmagic 'teleport' self
+  mpecho Izzy appears in a twinkling!
+~
+|

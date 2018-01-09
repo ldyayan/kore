@@ -1,0 +1,38 @@
+#221
+Dunbar's Road~
+22199 16 2 32
+M 0 22109     1 22122            an idle shiftless youth
+M 0 22116     1 22175            a stag
+E 1 22112    35     6                    head a massive rack of antlers
+M 0 22115     1 22177            a fawn
+M 0 22114     1 22178            a racoon
+M 0 22113     6 22154            a songbird
+M 0 22113     6 22153            a songbird
+M 0 22112     2 22146            a bandit
+M 0 22112     2 22146            a bandit
+M 0 22111     1 22146            the chief bandit
+O 0 22101    99 22105            a juicy sun ripened peach
+M 0 22110     5 22105            a grackle
+M 0 22103     4 22103            a small doe
+M 0 22104     4 22102            a chipmunk
+M 0 22108     1 22124            a large angry bull
+M 0 22102     1 22125            the nasty snarling guard dog
+O 0 22110    99 22125            three cherries on a stem
+O 0 22104    99 22117            a small pool of water
+M 0 22106     1 22110            a grey fox
+M 0 22101     1 22109            the woodcutter
+E 1 22103    50    19                    wield 2 a double bitted axe
+M 0 22103     2 22108            a small doe
+G 1 22105    15    -1                    give a strip of venison
+O 0 22102    50 22108            an ear of corn
+O 0 22100    99 22104            a large red apple
+M 0 22100     1 22106            a farm boy
+O 0 22106    10 22157            a wild onion
+O 0 22107    10 22160            some tasty and nutritious moss
+O 0 22108   101 22161            a natural basin
+M 0 22104     2 22163            a chipmunk
+G 1 22109    20    -1                    give a chipmunk head
+M 0 22105     1 22169            a foul-smelling troll
+S
+#99999
+$~

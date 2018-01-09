@@ -1,0 +1,135 @@
+>greet_prog 100~
+  if isscript($i)
+  or isfight($i)
+  or isnpc($n)
+  else
+    mptrigger $n free-me
+  endif
+~
+>script_prog free-me~
+  #
+  say The forces of evil have unlocked my spirit as well as one other.
+  say Free me from this misery, anyone that can hear.
+  say The peace of the grave calls me but I am blocked from its quiet.
+~
+>speech_prog grave peace~
+  if isscript($i)
+  else
+    mptrigger $n grave-peace
+  endif
+~
+>script_prog grave-peace~
+  #
+  say Yes the grave...
+  say So close, but I cannot leave this world without my son's forgiveness...
+~
+>speech_prog evil demon goblins goblin~
+  if isscript($i)
+  else
+    mptrigger $n explain-evil
+  endif
+~
+>script_prog explain-evil~
+  #
+  say Yes, the evil which I brought upon my own head!
+  cry
+  say Kore was under attack from goblins, and everything looked so hopeless..
+  say I was in my chambers, praying to any god that would answer,
+  say when a smoke filled the room like motes of dust on moonlight
+  say and a tall thin man of malevolent aspect grinned hideously at me
+  say He said that he could make the goblins retreat... for a price.
+~
+>speech_prog price cost~
+    if isscript($i)
+  else
+    mptrigger $n explain-cost
+  endif
+~
+>script_prog explain-cost~
+  #
+  say Oh the dreadful cost!
+  cry
+  say The price this prince of darkness wanted was dear!
+  say The life of my son, prince Demaliv,
+  say Who at that moment was out on horse, fighting the goblins
+  say doing what he could with the host of warriors to fight the evil
+  say hand-to-hand he was winning the fight;
+  say The goblins were already breaking...
+  say I could not know, I'd lost faith, I'd assumed the signal arrows
+  say were the call of retreat, they were the call for Victory!
+  moan
+  say I despaired, my son was lost, my kingdom about to be crushed,
+  say I threw myself at the demons mercy...
+  say Spare me!
+  say Spare my kingdom!
+  say Take my son!
+  emote weeps.
+~
+>speech_prog son prince demaliv~
+  if isscript($i)
+  else
+    mptrigger $n son-prince-demaliv
+  endif
+~
+>script_prog son-prince-demaliv~
+  #
+  say Yes, Demaliv my son.
+  say I betrayed him and the demon took his life.
+  say The very moment I betrayed him the demon's power magnified in a flash.
+  say Laughing, the demon fled.
+  say I felt my son's scream echo through me.
+  say Far away to the south,
+  say In his armor he was lit afire and burned like a torch,
+  say His mount bolted and threw him into the stream in the tumult.
+  say His body sank but was fished out the next day,
+  say and buried here in the Tomb of the Kings.
+  say We'd already won the day,
+  say but he died because I'd lost faith.
+  say I can't depart this earth without my son's forgiveness.
+  say ...and vengeance!
+~
+>speech_prog repent faith~
+  if isscript($i)
+  else
+    mptrigger $n repent
+  endif
+~
+>script_prog repent~
+  #
+  say I am sorry.
+  say I wish I'd had more faith.
+  say that I'd held on, not let go.
+  emote kneels.
+  say If just you $N could say you forgive me,
+  say I could go...
+~
+>speech_prog forgive forgiveness~
+  if isscript($i)
+  else
+    mptrigger $n forgiven
+  endif
+~
+>script_prog forgiven~
+  say Bless you $N...
+@
+  mpecho $I shimmers and fades and where he stood remains a red badge.
+  mpoload 3431
+  mpsilent drop all
+  mpgoto cleaner
+@
+  mpechoat $n A voice from beyond says, 'Wear it proudly.'
+  mpechoaround $n A voice from beyond says, 'Wear it proudly.'
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I shimmers and disappears...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

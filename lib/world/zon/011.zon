@@ -1,0 +1,44 @@
+#11
+Deeper Zhentil Keep~
+1199 30 2 3
+D 0  1118     0     1            Huge Doors door north
+O 0  1101   100  1118            a sign
+O 0  1299   101  1168            a glowing portal
+O 0  1110   100  1174            a hole
+O 0  1109   100  1173            a hole
+D 0  1176     0     1            dirt path door north
+M 0  1106     1  1171            a ghost
+G 1  1107   100    -1                    give a dead key
+O 0  1106   100  1171            a coffin
+P 1  1108    50  1106                    put a ^gbloodstone^n ring in a coffin
+M 0  1102     5  1130            a ghoul
+M 0  1102     5  1134            a ghoul
+M 0  1102     5  1154            a ghoul
+M 0  1102     5  1165            a ghoul
+M 0  1102     5  1160            a ghoul
+M 0  1101     5  1133            a skeleton
+M 0  1101     5  1123            a skeleton
+M 0  1101     5  1145            a skeleton
+M 0  1101     5  1149            a skeleton
+M 0  1101     5  1129            a skeleton
+O 0  1105   100  1155            a gravestone
+O 0  1104   100  1131            a tombstone
+O 0  1103   100  1146            a gravestone
+O 0  1102   100  1140            a tombstone
+M 0  1100    10  1164            a rat
+M 0  1100    10  1125            a rat
+M 0  1100    10  1161            a rat
+M 0  1100    10  1167            a rat
+M 0  1100    10  1156            a rat
+M 0  1100    10  1151            a rat
+O 0  1100   100  1143            a tomb
+M 0  1100    10  1143            a rat
+M 0  1100    10  1135            a rat
+M 0  1100    10  1127            a rat
+M 0  1100    10  1119            a rat
+D 0  1122     2     1            South Cemetery door south
+D 0  1170     3     1            Dirt Path door west
+D 0  1110     1     1            Back Entrance door east
+S
+#99999
+$~

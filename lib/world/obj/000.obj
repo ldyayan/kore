@@ -1,0 +1,130 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please
+report it immediately using the BUG command.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#1
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 17
+6 0 0 0
+0 0 200
+#2
+quest flag~
+a *** QUEST FLAG ***~
+A *** QUEST FLAG *** rests here on the ground.~
+You grab a quest flag!
+~
+13 65565 16385
+0 0 0 0
+0 1 1
+E
+quest flag~
+You need these to win the quest, grab it if you can!
+~
+#3
+white flag~
+a ^wwhite^n flag~
+A ^wwhite^n flag lies unfurled on the ground.~
+~
+3 3328 16385
+25 5 5 10
+8 1000000 100000
+A
+4 3
+A
+9 10
+#4
+blue flag~
+a ^bblue^n flag~
+A ^bblue^n flag lies unfurled on the ground.~
+~
+3 1027 16385
+25 5 5 10
+8 1000000 100000
+A
+3 3
+A
+17 10
+#5
+green flag~
+a ^ggreen^n flag~
+A ^ggreen^n flag lies unfurled on the ground.~
+~
+3 1792 16385
+25 5 5 10
+8 1000000 100000
+A
+5 3
+A
+13 50
+#6
+red flag~
+a ^rred^n flag~
+A ^rred^n flag lies unfurled on the ground.~
+~
+3 578 16385
+25 5 5 10
+8 1000000 100000
+A
+5 3
+A
+13 50
+#7
+black flag~
+a black flag~
+A black flag lies unfurled on the ground.~
+~
+3 2625 16385
+25 5 5 10
+8 1000000 100000
+A
+19 3
+A
+9 10
+#8
+coupon~
+a coupon~
+A coupon redeemable for an object is here.~
+~
+16 0 1
+0 0 0 0
+1 0 0
+#20
+portal gateway gate~
+a glowing portal~
+A glowing portal hovers here forming a gateway to another place.~
+~
+27 0 0
+0 0 0 0
+0 0 0
+#21
+buggy potion~
+a BUGGY potion~
+A BUGGY potion is crawling around! Please report this!~
+~
+10 0 1
+0 0 0 0
+2 0 0
+#99
+scythe death~
+the Scythe of Death~
+The Scythe of Death rests heavily on the ground.~
+~
+5 30220 8193
+0 5 8 5
+40 0 50000
+E
+scythe death~
+It is a very heavy scythe.  The grey handle is made from hard wood and the
+long iron blade is completely smooth from countless years of use.  It feels
+cold to the touch.
+~
+#99999
+$~

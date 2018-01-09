@@ -1,0 +1,403 @@
+#4700
+Don't load normally in game, not finished.~
+Dont load normally in game! none items finished.~
+A bag of peppermint cheeze snacks in tobasco sauce is here.~
+~
+19 3 0
+1 0 0 0
+1 1 1
+#4701
+thermos beefamecto cooler~
+a thermos of beefamecto cooler~
+A thermos filled with beefamecto cooler is here.~
+~
+17 3 0
+1 1 9 0
+1 1 1
+#4702
+chowmein cajun chow mein~
+some cajun chow mein~
+Some cajun chow mein lies here, eating a hole in the floor.~
+~
+19 3 0
+1 0 0 1
+1 1 1
+#4703
+pewter mug~
+a pewter mug of ale~
+A pewter mug sits here on the table, filled with foaming ale.~
+~
+17 0 0
+3 3 3 0
+2 50 5
+#4704
+tuning fork~
+a small tuning fork~
+A small tuning fork lies here in the bottom of a sink.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4705
+coil cello string~
+a coiled cello string~
+A coiled cello string lies here.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4706
+metronome~
+a metronome~
+A metronome sits here on a desk, swaying back and forth.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4707
+musical note~
+a musical note~
+A musical note has fallen off the wall.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4708
+block amber resin~
+a block of resin~
+A small block of amber bow resin lies here.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4709
+sheet music~
+a crumpled piece of sheet music~
+A piece of sheet music is here, crumpled on the floor.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4710
+pitch pipe pitch-pipe pitchpipe~
+a singer's pitch-pipe~
+A singer's pitch-pipe is here in a corner.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4711
+pick bone piece guitarpick~
+a guitar pick~
+A triangular piece of bone lies here.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4712
+reed~
+a small reed~
+A small reed lies here.~
+~
+18 0 0
+0 0 0 0
+1 1 1
+#4713
+magic carpet~
+a magic carpet~
+A magic carpet is here, hovering a few inches off the ground.~
+~
+22 64 64
+0 0 0 0
+2 50000 5000
+A
+5 2
+#4714
+trophy~
+a large trophy~
+A large trophy with designs of battle and war engraved on it is here.~
+~
+15 65792 0
+0 0 0 0
+99999 1 1
+#4715
+recall scroll~
+a scroll of recall~
+A scroll of recall has been left here.~
+~
+2 0 16384
+50 42 -1 -1
+1 1000 1
+#4716
+slice ham pork~
+a slice of ham~
+A slice of ham is here on the ground.~
+~
+19 0 0
+24 0 0 0
+1 50 1
+#4717
+wine skin wineskin leather~
+a leather wineskin~
+A leather wineskin is here on the ground.~
+~
+17 0 0
+100 100 0 0
+5 100 1
+#4718
+yellow potion see invisible "BardTech"~
+a "BardTech" yellow potion of see invisible~
+A yellow potion of see invisible is here on the ground.~
+~
+10 0 16384
+30 19 19 19
+1 800 1
+#4719
+ring bardic ~
+a Bardic Ring~
+A ring with the symbol of the bards has been left here.~
+~
+11 8777745 3
+0 0 0 0
+1 10000 1
+A
+18 1
+A
+19 1
+#4720
+bardic card wisdom~
+a bardic card of wisdom~
+A card of the bards is here on the ground.~
+~
+11 16 16384
+0 0 0 0
+1 3000 1
+A
+4 2
+#4721
+golden circlet bardic~
+a golden circlet~
+A circlet made of gold has been left here.~
+~
+9 8777745 17
+3 0 0 0
+2 10000 0
+A
+18 1
+A
+1 1
+#4722
+hoverboard hover board bardic~
+a hoverboard~
+A shiny board is here hovering above the ground.~
+~
+22 65555 65
+0 0 0 0
+5 10000 0
+A
+5 2
+#4723
+crimson cloak bardic~
+a Crimson cloak~
+A crimson-colored cloak has been left here.~
+~
+9 8777744 1025
+5 0 0 0
+3 10000 0
+A
+19 1
+A
+12 15
+#4724
+hole portal bardic~
+a portal hole~
+A black hole appears on the ground.~
+~
+15 65688 16385
+2000 5 -1 0
+0 100000 0
+#4725
+gauntlets adamantium bardic~
+a pair of Adamantium gauntlets~
+A pair of grey-metallic gauntlets has been left here.~
+~
+9 8777744 129
+10 0 0 0
+10 10000 0
+A
+1 1
+A
+19 2
+#4726
+dreamweaver dream weaver stone bardic~
+a dreamweaver's stone~
+A pulsating grey stone has been left here.~
+~
+11 8777744 16385
+0 0 0 0
+2 0 0
+A
+18 2
+A
+19 2
+A
+6 2
+#4727
+autumn leaf grieves forrester bardic~
+Autumn leaf Grieves of the Forrester~
+A small pile of orange and yellow leaves has been left here.~
+~
+9 8777744 33
+5 0 0 0
+5 10000 0
+A
+19 1
+A
+13 20
+#4728
+armplates arm plates bardic trickery~
+Armplates of Trickery~
+A pair of armplates has been left here.~
+~
+9 8777744 257
+5 0 0 0
+5 10000 0
+A
+2 2
+A
+12 20
+#4729
+boots boot jester green bardic~
+a pair of green Jester's boots~
+An unfinished object is lying here.~
+~
+11 8777744 65
+0 0 0 0
+2 10000 0
+A
+19 2
+A
+14 40
+#4730
+sunburst sun burst pendant bardic~
+a Sunburst Pendant~
+A sun-shaped pendant has been left here.~
+~
+9 8777744 5
+0 0 0 0
+2 10000 0
+A
+13 20
+A
+12 20
+#4731
+signet bardic ring~
+a Bardic Signet ring~
+A beautifully carved ring with the bardic seal has been left here.~
+~
+11 8777744 3
+0 0 0 0
+1 10000 0
+A
+18 2
+A
+19 2
+A
+13 10
+#4732
+musical shield muses bardic~
+a Musical Shield of the Muses~
+A lyre shaped shield has been left here.~
+~
+9 8777744 513
+10 0 0 0
+10 10000 0
+A
+19 2
+A
+13 20
+#4733
+essence humming mist music bardic~
+an Essence of Music~
+A strange humming mist has been left here.~
+~
+1 8777746 16385
+0 0 -1 0
+1 0 100000
+A
+9 20
+#4734
+red black vest checkered minstrel vest~
+a red and black checkered Minstrel's Vest~
+A red and black checkered vest has been left here.~
+~
+11 8777744 9
+0 0 0 0
+5 10 0
+A
+18 1
+A
+19 1
+A
+6 3
+#4735
+harpy talon bracer bardic~
+a Harpy's talon bracer~
+A withered talon bracer has been left here.~
+~
+9 8777744 4097
+5 0 0 0
+2 10000 0
+A
+19 2
+A
+6 2
+A
+13 10
+#4736
+pike Tsukiyomo~
+a Tsukiyomo's Pike~
+A glowing pike has been left here.~
+~
+5 12922899 8193
+0 7 4 11
+15 10000 0
+A
+18 4
+A
+19 4
+A
+2 2
+S
+30 50 100
+#4737
+fine steel rapier~
+a fine steel rapier~
+A well-made rapier has been left here.~
+~
+5 8482832 8193
+0 6 1 14
+7 5000 1
+#4738
+ancient bo staff bamboo~
+an ancient bo staff made of bamboo~
+An old scarred wooden staff has been left here.~
+The staff has been used by Master Po for 120 years of combat.
+~
+5 2541073 8193
+0 10 3 10
+8 0 0
+A
+18 3
+A
+19 5
+A
+9 5
+A
+12 20
+S
+4 50 25
+S
+142 50 10
+#99999
+$~

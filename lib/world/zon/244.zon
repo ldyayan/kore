@@ -1,0 +1,100 @@
+#244
+Northern Kore~
+24499 15 2 1
+M 0 24400     1 24401            the stableboy
+E 1  2507    20    17                    held a straw broom
+M 0 24405     1 24411            the beermeister
+G 1 24300    99    -1                    give a barrel
+G 1 24301    99    -1                    give a bottle
+G 1 12032    99    -1                    give a mug
+G 1 24301    15    -1                    give a bottle
+G 1 12032    15    -1                    give a mug
+M 0 24421     1 24420            a mime
+M 0 24420     1 24413            Robert Plant
+M 0 24401     1 24403            the smiling goodwife
+G 1  5457    99    -1                    give a carrot
+G 1  5458    99    -1                    give a tomato
+G 1 12006    99    -1                    give an apple
+G 1 12007    99    -1                    give an orange
+M 0 24402     1 24405            the master fletcher
+G 1   129    99    -1                    give a set of darts
+G 1   127    99    -1                    give a leather sling
+G 1   119    99    -1                    give a shortbow
+G 1  5036    99    -1                    give a longbow
+G 1   128    99    -1                    give a mighty elven bow
+M 0 24403     1 24406            the butcher
+E 1  5484    99    16                    wield a meat cleaver
+G 1  2505    99    -1                    give a large chunk of meat
+G 1 24315    99    -1                    give a piece of meat
+G 1  6018    99    -1                    give a large slab of meat
+M 0 24452     1 24406            the black fly
+M 0 24404     1 24410            the blacksmith
+G 1  5201    99    -1                    give an iron helm
+G 1  5204    99    -1                    give a pair of iron boots
+G 1  5206    99    -1                    give an iron girth
+G 1  5207    99    -1                    give a battered iron breast plate
+G 1  5208    99    -1                    give a sturdy iron shield
+G 1  6112    99    -1                    give an iron crown
+G 1  5487    99    -1                    give a horseshoe
+M 0 24406     1 24416            the musician
+G 1  2563    99    -1                    give a ^Ygolden^n flute
+G 1   123    99    -1                    give a kazoo
+M 0 24407     1 24400            the commoner
+E 1 24407    15     5                    body a clean tabard
+G 1 24406    15    -1                    give a purse
+M 0 24420     1 24400            Robert Plant
+G 1 24315    15    -1                    give a piece of meat
+M 0 24367     1 24407            a guard of Kore
+E 1 24322    15    16                    wield a long sword
+M 0 24367     2 24407            a guard of Kore
+E 1 24322    15    16                    wield a long sword
+M 0 24410     1 24407            the peasant
+E 1 24413    10     5                    body a grimy sackcloth shirt
+M 0 24454     1 24407            a chicken
+G 1 24402    30    -1                    give a chicken leg
+G 1 24404    30    -1                    give a chicken wing
+G 1 24403    30    -1                    give a breast of chicken
+M 0 24417     1 24407            the fat merchant
+E 1 24419    15     5                    body a purple silk robe
+E 1 24420    15     7                    legs a set of silk stockings
+M 0 24359     1 24408            the Royal Guard
+E 1 24391    10    16                    wield an obsidian longsword
+E 1 24392    10     5                    body an obsidian breastplate
+M 0 24359     2 24408            the Royal Guard
+E 1 24391    10    16                    wield an obsidian longsword
+E 1 24392    10     5                    body an obsidian breastplate
+M 0 24418     1 24408            the condemned prisoner
+G 1  2548    15    -1                    give some chain shackles
+M 0 24408     1 24404            the woman
+E 1 24410    15     5                    body a simple dress
+E 1 24412    15     8                    feet a pair of wooden shoes
+E 1 24409    15     7                    legs some striped stockings
+E 1 24411    15    14                    left wrist a flower corsage
+M 0 24409     1 24404            the child
+M 0 24451     1 24404            the pig
+G 1 24421    30    -1                    give a pigs foot
+G 1 24423    30    -1                    give a sausage
+G 1 24422    30    -1                    give a side of bacon
+M 0 24411     1 24409            the peasant woman
+E 1 24414    20     5                    body a dirty burlap dress
+M 0 24412     1 24409            the street urchin
+M 0 24416     1 24414            the director
+E 1 24416    10     5                    body a somber brown shirt
+E 1 24417    10    10                    arms a set of white silk sleeves
+E 1 24415    10     3                    neck 1 a ruffled collar
+M 0 24372     1 24415            the bard
+M 0 24453     1 24412            the bulldog
+G 1  2505    20    -1                    give a large chunk of meat
+M 0 24452     2 24412            the black fly
+M 0 24367     3 24417            a guard of Kore
+E 1 24322    10    16                    wield a long sword
+M 0 24367     4 24417            a guard of Kore
+E 1 24322    10    16                    wield a long sword
+M 0 24363     1 24419            a guard of Kore
+E 1 24322    10    16                    wield a long sword
+M 0 24419     1 24421            the banker
+G 1 24425    99    -1                    give a balance sheet
+O 0 24424   101 24421            an evil money changer
+S
+#99999
+$~

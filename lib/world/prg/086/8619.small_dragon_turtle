@@ -1,0 +1,6 @@
+>fight_prog 10~
+  mpecho $I sears you with a breath of steam!!!
+  mpdamage all 50
+  mpcallmagic 'blind' all
+~
+|

@@ -1,0 +1,22 @@
+>greet_prog 90~
+  if name($n) == knife
+  or name($n) == dolan
+  or name($n) == fei
+  or name($n) == cross
+  or name($n) == tarbosh
+  or name($n) == tenchi
+    backstab $n
+  else
+    if rand(50)
+      mutter
+      gauge $n
+      hide
+    endif
+  endif
+~
+>death_prog 100~
+  mpsilent remove gyth
+  mpsilent junk gyth
+  snarl
+~
+|

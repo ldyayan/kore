@@ -1,0 +1,34 @@
+>fight_prog 6~
+ if inroom($r) == here
+   mpechoat $r $I picks you up by the neck and slams you to the ground!  OUCH!
+   mpechoaround $r $I picks $R by $L neck and forcefully makes $K eat dirt!
+   mpdamage $r 8d10+10
+   mppose $r sit
+ endif
+~
+>fight_prog 8~
+  mpecho $I laughs wildly as he rejoices in the glory of battle!
+~
+>fight_prog 10~
+ if inroom($r) == here
+   mpecho $I raises his hands and soon the room is a blazing inferno!!
+   mpecho The flames rise high around you as you are FRIED TO A CRISP!!!
+   mpdamage all 11d13+15
+ endif
+~
+>fight_prog 15~
+  mpecho $I roars a mighty battle cry that shakes the heavens!
+  mpecho You are thrown off balance as the ground shakes violently and debris strikes you from above! 
+  mpdamage all 6d20+10
+~
+>fight_prog 10~
+ if inroom($r) == here
+   mpecho $I growls menacingly as he lets loose the dogs of war!!
+   mpecho In a flash of flame the hellhound arrives!
+   mpmload 439
+   mpforce 439 kill $r
+ endif
+~
+|
+
+ 

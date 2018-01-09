@@ -1,0 +1,1597 @@
+#20300
+Path Through The Park~
+   This small dirt path along which you walk is very walked upon and looks very
+old. The dirt is packed hard and yet is springy to your feet. You hear a stream
+off in the distance running smoothly, it soothes your ears.  You see every now
+and  again a small animal, rabbit, squirrel, a bird or two, and always insects
+of some sort. You think you hear someone calling your name from somewhere but
+you guess its the wind.
+~
+203 4 1
+D2
+~
+~
+0 0 20302
+D4
+~
+hole~
+1 0 20307
+D5
+~
+hidden trapdoor~
+1 0 20301
+S
+#20301
+A Passage To A Spider Colony~
+You stand in a tunnel leading deeper into the ground. There are tons of webs 
+all over the place. It seems to get darker as you go farther down the passage 
+and it smells real bad in here. You arent sure if you should go further down 
+this passage... 
+~
+203 65 0
+D1
+~
+~
+0 0 20315
+D4
+test
+~
+trapdoor~
+1 0 20300
+S
+#20302
+Dirt Path Through The Park~
+   The dirt path winds throughout the whole park. It is compact dirt yet
+strangely it is soft to your feet. It feels nice to walk on, you wouldnt get
+tired walking on this all day long. It is very beautiful here, many wonderful
+trees and shrubbery and many many flowers all over the place.
+~
+203 0 1
+D0
+~
+~
+0 0 20300
+D2
+~
+~
+0 0 20303
+S
+#20303
+Dirt Path Through The Park~
+   The dirt path winds throughout the whole park. It is compact dirt yet
+strangely it is soft to your feet. It feels nice to walk on, you wouldnt get
+tired walking on this all day long. It is very beautiful here, many wonderful
+trees and shrubbery and many many flowers all over the place.
+~
+203 0 1
+D0
+~
+~
+0 0 20302
+D2
+~
+~
+0 0 20304
+D3
+~
+~
+0 0 20348
+S
+#20304
+Dirt Path Through The Park~
+   The dirt path winds throughout the whole park. It is compact dirt yet
+strangely it is soft to your feet. It feels nice to walk on, you wouldnt get
+tired walking on this all day long. It is very beautiful here, many wonderful
+trees and shrubbery and many many flowers all over the place.
+~
+203 0 1
+D0
+~
+~
+0 0 20303
+D2
+~
+~
+0 0 20305
+S
+#20305
+The Path With Rose Bushes~
+This is the same dirt path you've been walking on, but there is rose bushes
+lining it here. You take a moment and smell the beautiful roses. Ahhhhhhh.
+The rose bushes are tightly woven together, as if by magic.
+You notice some of the bushes look... openable?!
+~
+203 0 1
+D0
+~
+~
+0 0 20304
+D2
+~
+~
+0 0 20318
+D9
+~
+bushes hidden~
+2 20390 20306
+S
+#20306
+Inside The Circle Of Rose Bushes~
+You stand inside a circle of rose bushes and to your utter amazement you
+see a see through gate with what seems like millions of faeries flying
+behind it. You stand with your mouth gaping open for a few minutes.
+Time seems frozen as you watch the faeries go about thier business.
+Suddenly you are ripped back to reality by a small voice asking 'Hey! What're
+you doing in here!'
+~
+203 1 0
+D7
+~
+bush rose~
+2 20390 20305
+S
+#20307
+Climbing Up The Tree~
+You are inside a tree climbing up holding on to foot holds and hand holds
+where you can find them. You look up and the tree seems to go up forever.
+You see what looks like a giant nest at the top, with ... something moving
+inside it, it make you nervous.
+~
+203 0 13
+D4
+~
+~
+0 0 20308
+D5
+~
+hole~
+1 0 20300
+S
+#20308
+Climbing Up Inside the Tree~
+You are inside a tree climbing up holding on to foot holds and hand holds
+where you can find them. You look up and the tree seems to go up forever.
+You see what looks like a giant nest at the top, with ... something moving
+inside it, it make you nervous.
+~
+203 0 13
+D4
+~
+~
+0 0 20310
+D5
+~
+~
+0 0 20307
+S
+#20309
+Birds Nest~
+You see a bunch of enormous birds, sitting on individual nests in the big nest
+waiting for thier eggs to hatch.
+The nest is a mess, full of things from the City.
+They see you, and think you're after thier eggs, and they attack!
+~
+203 1 0
+D5
+~
+nest~
+1 0 20314
+S
+#20310
+Climbing Up Inside The Tree~
+You are inside a tree climbing up holding on to foot holds and hand holds 
+where you can find them. You look up and the tree seems to go up forever. 
+You see what looks like a giant nest at the top, with ... something moving 
+inside it, it make you nervous. 
+~
+203 0 13
+D4
+~
+~
+0 0 20311
+D5
+~
+~
+0 0 20308
+S
+#20311
+Climbing Up Inside The Tree~
+You are inside a tree climbing up holding on to foot holds and hand holds 
+where you can find them. You look up and the tree seems to go up forever. 
+You see what looks like a giant nest at the top, with ... something moving 
+inside it, it make you nervous. 
+~
+203 0 13
+D4
+~
+~
+0 0 20312
+D5
+~
+~
+0 0 20310
+S
+#20312
+Climbing Up Inside The Tree~
+You are inside a tree climbing up holding on to foot holds and hand holds 
+where you can find them. You look up and the tree seems to go up forever. 
+You see what looks like a giant nest at the top, with ... something moving 
+inside it, it make you nervous. 
+The view from here is incredible, you can see all of the City from here.
+~
+203 0 13
+D4
+~
+~
+0 0 20313
+D5
+~
+~
+0 0 20311
+S
+#20313
+Climbing Up Inside The Tree~
+You are inside a tree climbing up holding on to foot holds and hand holds 
+where you can find them. You look up and the tree seems to go up forever. 
+You see what looks like a giant nest at the top, with ... something moving 
+inside it, it make you nervous. 
+You start getting bored from climbing so long.
+~
+203 0 13
+D4
+~
+~
+0 0 20314
+D5
+~
+~
+0 0 20312
+S
+#20314
+Almost At The Top Of The Tree~
+You are inside a tree climbing up holding on to foot holds and hand holds 
+where you can find them. You look up and see your nearly at the top. 
+The nest you could see before is now looming right above you. 
+And the view is even better from up here! But be careful the branches are weak 
+up here... 
+~
+203 0 13
+D4
+~
+nest~
+1 0 20309
+D5
+~
+~
+0 0 20313
+S
+#20315
+Further Down The Dark Passage Leading to The Colony~
+The passage goes on downwards slowly turning every few paces.
+It is very dark... You hear very strange clicking sounds... Same as the ones you heard from the guard spiders... EEK!
+You had better hurry on along this passage, theres spiders all around you!
+~
+203 1 0
+D2
+~
+~
+0 0 20316
+D3
+~
+~
+0 0 20301
+S
+#20316
+Nearing The Main Gate to The Spider Colony~
+The path ends going south, and another small path goes off northwest towards
+the gate to the spider colony. The clicking sound is getting much louder, and
+you hear many more of them to the northwest... you arent to sure you should be here....
+~
+203 1 0
+D0
+~
+~
+0 0 20315
+D9
+~
+~
+0 0 20317
+S
+#20317
+At the Gate~
+You stand at a gate carved in the dirt, its metal.. which is strange considering spiders made it...
+There are many guards guarding the gate, and the smell here is horrid, and you hear thousands of clicking sounds.
+You are happy you are on THIS side of the gate.
+~
+203 1 0
+D7
+~
+~
+0 0 20316
+S
+#20318
+Dirt Path Near The Stream~
+   There is also roses lining this path, but only on one side. On the other
+side is a stream gurgling. It sounds so peaceful and wonderful.
+You take a moment to listen to it and get lost in a daydream of running
+through a field with your true love. When you come back to reality you notice
+the sun is almost down.
+~
+203 0 1
+D0
+~
+~
+0 0 20305
+D2
+~
+~
+0 0 20320
+D3
+~
+~
+0 0 20319
+S
+#20319
+Small Path Leading To A Small Stream~
+  This small path has the same spoungyness as the main dirt path. Its so nice
+to walk on! You hear the stream to the west gurgling softly from this distance,
+and from here it looks very clear and delicious looking.
+~
+203 4 1
+D1
+~
+~
+0 0 20318
+D3
+~
+~
+0 0 20341
+S
+#20320
+Dirt Path Running Through A Garden~
+The wonderful spoungy dirt path continues here, through a garden with many
+beautiful bushes and roses. Yellow roses, white roses, magenta roses?!?
+But the main type of roses here are of course red.
+You notice many nooks in the corners of the garden, some look sort of strange.
+~
+203 0 1
+D0
+~
+~
+0 0 20318
+D2
+~
+~
+0 0 20327
+D6
+~
+~
+0 0 20321
+D7
+~
+~
+0 0 20322
+D8
+~
+~
+0 0 20323
+D9
+~
+~
+0 0 20324
+S
+#20321
+Corner In The Garden~
+The wonderful spoungy dirt path continues here, through a garden with many
+beautiful bushes and roses. Yellow roses, white roses, magenta roses?!?
+But the main type of roses here are of course red.
+The smell of roses here is overwelming, but overwelming in a nice way, smells
+very good.
+~
+203 0 1
+D8
+~
+~
+0 0 20320
+S
+#20322
+Corner In The Garden~
+The wonderful spoungy dirt path continues here, through a garden with many
+beautiful bushes and roses. Yellow roses, white roses, magenta roses?!?
+But the main type of roses here are of course red.
+The smell of roses here is overwelming, but overwelming in a nice way, smells
+very good.
+~
+203 0 0
+D9
+~
+~
+0 0 20320
+S
+#20323
+Corner In The Garden~
+The wonderful spoungy dirt path continues here, through a garden with many
+beautiful bushes and roses. Yellow roses, white roses, magenta roses?!?
+But the main type of roses here are of course red.
+The smell of roses here is overwelming, but overwelming in a nice way, smells
+very good.
+~
+203 0 1
+D6
+~
+~
+0 0 20320
+S
+#20324
+Corner In The Garden~
+The wonderful spoungy dirt path continues here, through a garden with many
+beautiful bushes and roses. Yellow roses, white roses, magenta roses?!?
+But the main type of roses here are of course red.
+There seems to be a blackness in the corner, but its covered by ivy bushes.
+~
+203 0 1
+D6
+~
+black~
+2 20311 20325
+D7
+~
+~
+0 0 20320
+S
+#20325
+Secret Coven of the Tyrant of Kore~
+You enter a large one room cave. But the one room is HUGE. There are witches
+brewing evil potions for the Tyrant here. You notice that most of the witches
+look pretty weak.
+Then they notice you and attack!
+Your only escape is back southwest. Take it if your smart!
+~
+203 1 0
+D8
+~
+black~
+2 20311 20324
+S
+#20326
+FALLING out of the tree!!~
+               \         A        /
+               \         H        /
+               \         H        /
+               \         H        /
+               \         H        /
+               \         !        /
+               \                  /
+               \         Y        /
+               \         O        /
+               \         U        /
+               \         R        /
+               \                  /
+               \         F        /
+               \         A        /
+               \         L        /
+               \         L        /
+               \         I        /
+               \         N        /
+               \         G        /
+SPLAT! You stopped falling and hit the ground. OUCH!
+You IDIOT! If this was a real death trap your equipment would all be gone!
+Here now have a free trip back to the Temple and be more careful in case
+of a real death trap!
+ 
+ 
+
+~
+203 4 0
+D5
+~
+~
+0 0 3001
+S
+#20327
+Dirt path Through the Park~
+The dirt path winds throughout the whole park. It is compact dirt yet strange
+ly it is soft to your feet. It feels nice to walk on, you wouldnt get tired
+walking on this all day long. It is very beautiful here, many wonderful trees
+and shrubbery and many many flowers all over the place.
+~
+203 0 1
+D0
+~
+~
+0 0 20320
+D2
+~
+~
+0 0 20328
+S
+#20328
+Dirt Path Through The Park~
+The dirt path winds throughout the whole park. It is compact dirt yet strange
+ly it is soft to your feet. It feels nice to walk on, you wouldnt get tired
+walking on this all day long. It is very beautiful here, many wonderful trees
+and shrubbery and many many flowers all over the place.
+~
+203 0 1
+D0
+~
+~
+0 0 20327
+D2
+~
+~
+0 0 20329
+S
+#20329
+Dirt Path Nearing The Pavillion~
+The soft dirt path leads south to a big pavillion where a lot of commotion is
+going on, you feel the need to hurry on.
+It sounds as if a lot of people are having fun drinking and talking about past
+adventures and laughing gleefully.
+~
+203 4 1
+D0
+~
+~
+0 0 20328
+D2
+~
+~
+0 0 20331
+S
+#20330
+A room inside a tree~
+There is some kind of counter here. You dont see anyone behind it... but you
+hear someone pacing... this room is strangely large considering the size of the tree it is in.
+~
+203 1 0
+D3
+~
+hidden door~
+1 0 20318
+S
+#20331
+Just Outside The Pavillion~
+There is much frivolity in the pavillion, looks like a lot of fun!
+You never get over how soft this dirt path is, you wonder who made it, and how
+they did it! Its amazing! Its softer then some beds you've slept in.
+~
+203 4 1
+D0
+~
+~
+0 0 20329
+D2
+~
+~
+0 0 20332
+S
+#20332
+Northeast Corner Of The Pavillion~
+There is a many bards in every corner of this large pavillion, playing
+beautiful music and there is lots of people dancing gleefully to it.
+You notice a large stage in the middle of the pavillion.
+~
+203 0 0
+D0
+~
+~
+0 0 20331
+D2
+~
+~
+0 0 20335
+D3
+~
+~
+0 0 20333
+D8
+~
+~
+0 0 20334
+S
+#20333
+Northern Area Of The Pavillion~
+There are more bards here, playing more beautiful music and there are more listeners here.
+The music is so soothing you could stay here all day and not get bored.
+The listeners seem like zombies, but not in an evil way, in a peaceful way.
+~
+203 0 0
+D1
+~
+~
+0 0 20332
+D2
+~
+~
+0 0 20334
+D3
+~
+~
+0 0 20337
+S
+#20334
+Center Of The Pavillion~
+You see a platform, which is normally used as a stage. There is a play going
+on here.. many people are watching it intently. You take a seat and listen to
+whats going on.
+~
+203 0 0
+D0
+~
+~
+0 0 20333
+D1
+~
+~
+0 0 20335
+D2
+~
+~
+0 0 20339
+D3
+~
+~
+0 0 20336
+D6
+~
+~
+0 0 20332
+D7
+~
+~
+0 0 20340
+D8
+~
+~
+0 0 20338
+D9
+~
+~
+0 0 20337
+S
+#20335
+Eastern Area Of The Pavillion~
+This area is much less busy, and strangely quiet considering how many bards are playing elsewhere in the pavillion.
+The floor is dirty and cluttered full of junk, its a big mess!
+The smell is horrible too, you dont want to linger around here very long.
+~
+203 0 0
+D0
+~
+~
+0 0 20332
+D2
+~
+~
+0 0 20340
+D3
+~
+~
+0 0 20334
+S
+#20336
+Western Area Of The Pavillion~
+There is a many bards in every corner of this large pavillion, playing
+beautiful music and there is lots of people dancing gleefully to it.
+You notice a large stage in the middle of the pavillion.
+~
+203 0 0
+D0
+~
+~
+0 0 20337
+D1
+~
+~
+0 0 20334
+D2
+~
+~
+0 0 20338
+S
+#20337
+Northwest Corner Of the Pavillion~
+There is a many bards in every corner of this large pavillion, playing
+beautiful music and there is lots of people dancing gleefully to it.
+You notice a large stage in the middle of the pavillion.
+~
+203 0 0
+D1
+~
+~
+0 0 20333
+D2
+~
+~
+0 0 20336
+D7
+~
+~
+0 0 20334
+S
+#20338
+Southwestern Corner Of The Pavillion~
+There is a many bards in every corner of this large pavillion, playing
+beautiful music and there is lots of people dancing gleefully to it.
+You notice a large stage in the middle of the pavillion.
+~
+203 0 0
+D0
+~
+~
+0 0 20336
+D1
+~
+~
+0 0 20339
+D6
+~
+~
+0 0 20334
+S
+#20339
+Southern Area Of The Pavillion~
+There is a many bards in every corner of this large pavillion, playing
+beautiful music and there is lots of people dancing gleefully to it.
+You notice a large stage in the middle of the pavillion.
+~
+203 0 0
+D0
+~
+~
+0 0 20334
+D1
+~
+~
+0 0 20340
+D3
+~
+~
+0 0 20338
+S
+#20340
+Southeastern Area Of The Pavillion~
+There is a many bards in every corner of this large pavillion, playing
+beautiful music and there is lots of people dancing gleefully to it.
+You notice a large stage in the middle of the pavillion.
+~
+203 0 0
+D0
+~
+~
+0 0 20335
+D3
+~
+~
+0 0 20339
+D9
+~
+~
+0 0 20334
+S
+#20341
+Right Next To The Stream~
+Your standing right next to a swift flowing stream and the water is very clear
+and looks very nice. You stand listening to the stream for a while...
+You get snapped back to reality when you realize your about to fall into the
+stream because you wandered a little while day dreaming,
+ACK, OOF! SPLASH! Brrrr. Cold!
+~
+203 0 1
+D0
+~
+~
+0 0 20342
+D1
+~
+~
+0 0 20319
+D3
+~
+~
+0 0 20346
+S
+#20342
+Right Next To The Stream~
+Your standing right next to a swift flowing stream and the water is very clear
+and looks very nice. You stand listening to the stream for a while...
+You get snapped back to reality when you realize you're about to fall into the
+stream because you wandered a little while day dreaming...
+ACK, OOF! SPLASH! Brrrr. Cold!
+~
+203 0 1
+D0
+~
+~
+0 0 20343
+D2
+~
+~
+0 0 20341
+S
+#20343
+Right Next To The Stream~
+Your standing right next to a swift flowing stream and the water is very clear
+and looks very nice. You stand listening to the stream for a while...
+You get snapped back to reality when you realize you're about to fall into the
+stream because you wandered a little while day dreaming...
+ACK, OOF! SPLASH! Brrrr. Cold!
+~
+203 0 1
+D0
+~
+~
+0 0 20344
+D2
+~
+~
+0 0 20342
+S
+#20344
+Right Next To The Stream~
+Your standing right next to a swift flowing stream and the water is very clear
+and looks very nice. You stand listening to the stream for a while...
+You get snapped back to reality when you realize you're about to fall into the
+stream because you wandered a little while day dreaming...
+ACK, OOF! SPLASH! Brrrr. Cold!
+~
+203 0 1
+D0
+~
+~
+0 0 20345
+D2
+~
+~
+0 0 20343
+S
+#20345
+Right Next To The Stream~
+Your standing right next to a swift flowing stream and the water is very clear
+and looks very nice. You stand listening to the stream for a while...
+You get snapped back to reality when you realize you're about to fall into the
+stream because you wandered a little while day dreaming...
+ACK, OOF! SPLASH! Brrrr. Cold!
+~
+203 0 1
+D0
+~
+~
+0 0 20347
+D2
+~
+~
+0 0 20344
+S
+#20346
+Bridge Over The Stream~
+You are standing on a wooden bridge over a small stream. The water looks
+fresh and clear and you stoop down and take a sip. Ahhhh it not only looks
+fresh and clear, it tastes wonderful! You take another sip cupping your hands
+and scooping up the water.
+~
+203 4 13
+D1
+~
+~
+0 0 20341
+D3
+~
+~
+0 0 20356
+S
+#20347
+A Small Hut~
+This hut is real small made of straw and mud, but very comfortable looking
+inside it, a bed, a nice table, a fireplace in the back.
+It is scattered with maps and books all over the place, but it looks very
+organized in a chaotic sort of way.
+~
+203 0 0
+D2
+~
+~
+0 0 20345
+S
+#20348
+Bottom Of A Large Tree~
+You are standing at the bottom of a enormous tree which seems to go up in the sky forever, you cant see the top.
+You notice many nooks and crannies you can grab on to to climb up the tree,but it might not be very safe...
+You notice signs of many squirrels, main clue is tons of squirrels climbing all over the tree.
+~
+203 4 1
+D1
+~
+~
+0 0 20303
+D4
+~
+~
+0 0 20349
+S
+#20349
+Climbing Up The Tree Full Of Squirrels~
+You're climbing up the tree and you notice what seems like thousands of
+squirrels running around on the tree chasing each other, and a few of the males
+have caught the females and are umm.... you know......
+The tree goes higher up, or back down.
+~
+203 0 1
+D4
+~
+~
+0 0 20350
+D5
+~
+~
+0 0 20348
+S
+#20350
+Climbing Up The Tree Full Of Squirrels~
+You're climbing up the tree and you notice what seems like thousands of
+squirrels running around on the tree chasing each other, and a few of the males
+have caught the females and are umm.... you know......
+The tree goes higher up, or back down.
+~
+203 0 1
+D4
+~
+~
+0 0 20351
+D5
+~
+~
+0 0 20349
+S
+#20351
+Climbing Up The Tree Full Of Squirrels~
+You're climbing up the tree and you notice what seems like thousands of
+squirrels running around on the tree chasing each other, and a few of the males
+have caught the females and are umm.... you know......
+The tree goes higher up, or back down.
+~
+203 0 1
+D4
+~
+~
+0 0 20352
+D5
+~
+~
+0 0 20350
+S
+#20352
+Climbing Up The Tree Full Of Squirrels~
+You're climbing up the tree and you notice what seems like thousands of
+squirrels running around on the tree chasing each other, and a few of the males
+have caught the females and are umm.... you know......
+The tree goes higher up, or back down.
+~
+203 0 1
+D4
+~
+~
+0 0 20353
+D5
+~
+~
+0 0 20351
+S
+#20353
+Climbing Up The Tree Full Of Squirrels~
+You're climbing up the tree and you notice what seems like thousands of
+squirrels running around on the tree chasing each other, and a few of the males
+have caught the females and are umm.... you know......
+The tree goes higher up, or back down.
+~
+203 0 1
+D4
+~
+~
+0 0 20354
+D5
+~
+~
+0 0 20352
+S
+#20354
+Top Of The Tree Full Of Squirrels~
+You're climbing up the tree and you notice what seems like thousands of
+squirrels running around on the tree chasing each other, and a few of the males
+have caught the females and are umm.... you know......
+The tree ends here at the top, you cannot go any higher.
+~
+203 0 1
+D5
+~
+~
+0 0 20353
+S
+#20355
+Top of the tree~
+There are more squirrels up here, larger squirrels, this tree is huge at the t
+op, the leaves block the sun for a nice shady spot on the ground.
+Be careful, the branches are very weak going higher up.
+~
+203 0 0
+D5
+~
+~
+0 0 20354
+S
+#20356
+Other Side Of The Stream~
+You stand just off the bridge you used to cross the stream, it creaked and groaned under your weight as you walked across...
+Suddenly the bridge collapses and falls into the stream! You cannot go back east now, you can only head west, on the dirt road.
+~
+203 0 0
+D3
+~
+~
+0 0 20357
+S
+#20357
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20356
+D3
+~
+~
+0 0 20358
+S
+#20358
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20357
+D3
+~
+~
+0 0 20359
+S
+#20359
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20358
+D3
+~
+~
+0 0 20360
+S
+#20360
+Dirt road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20359
+D3
+~
+~
+0 0 20361
+S
+#20361
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20360
+D3
+~
+~
+0 0 20362
+S
+#20362
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20361
+D3
+~
+~
+0 0 20363
+S
+#20363
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20362
+D3
+~
+~
+0 0 20364
+S
+#20364
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20363
+D3
+~
+~
+0 0 20365
+S
+#20365
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20364
+D3
+~
+~
+0 0 20366
+S
+#20366
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20365
+D3
+~
+~
+0 0 20367
+S
+#20367
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20366
+D3
+~
+~
+0 0 20368
+S
+#20368
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20367
+D3
+~
+~
+0 0 20369
+S
+#20369
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20368
+D3
+~
+~
+0 0 20370
+S
+#20370
+Dirt Road~
+You stand on a dirt road leading eastward then turning northward toward the
+foothills of a mountain. The snow capped mountains are very tall and look
+majestic against the blue sky.
+~
+203 0 0
+D1
+~
+~
+0 0 20369
+S
+#20390
+-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(~
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-)-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(-(
+~
+203 2 0
+D0
+~
+~
+0 0 20390
+D1
+~
+~
+0 0 20390
+D2
+~
+~
+0 0 20390
+D3
+~
+~
+0 0 20390
+D4
+~
+~
+0 0 20390
+D5
+DOH
+~
+~
+0 0 20390
+D6
+~
+~
+0 0 20390
+D7
+~
+~
+0 0 20390
+D8
+~
+~
+0 0 20390
+D9
+~
+~
+0 0 20390
+S
+#20394
+Cruentus Letum 4~
+Your dead. Dork. Get outta here you dont even deserve to die so quickly.
+~
+203 393218 0
+D0
+~
+~
+0 0 26534
+D1
+~
+~
+0 0 22018
+D2
+~
+~
+0 0 22007
+D3
+~
+~
+0 0 5062
+D4
+~
+~
+0 0 20396
+D5
+~
+~
+0 0 4887
+D6
+~
+~
+0 0 11012
+D7
+~
+~
+0 0 11066
+D8
+~
+~
+0 0 22024
+D9
+~
+~
+0 0 1526
+S
+#20395
+Adjutorus' Relaxin' Room~
+you see many things from his past here.
+~
+203 393216 0
+D0
+~
+~
+0 0 20395
+D1
+~
+~
+0 0 20395
+D2
+~
+~
+0 0 20395
+D3
+~
+~
+0 0 20395
+D4
+~
+~
+0 0 20395
+D5
+~
+~
+0 0 20395
+D6
+~
+~
+0 0 20395
+D7
+~
+~
+0 0 20395
+D8
+~
+~
+0 0 20395
+D9
+~
+~
+0 0 20395
+S
+#20396
+Cruentus Letum 3~
+You die.
+~
+203 458754 15
+D0
+~
+~
+0 0 1038
+D1
+~
+~
+0 0 1059
+D2
+~
+~
+0 0 2099
+D3
+~
+~
+0 0 9999
+D4
+~
+~
+0 0 20397
+D5
+~
+~
+0 0 20394
+D6
+~
+~
+0 0 9767
+D7
+~
+~
+0 0 22018
+D8
+~
+~
+0 0 22007
+D9
+~
+~
+0 0 5062
+S
+#20397
+Cruentus Letum 2~
+You fall into down a pit and land on a bunch of spikes. Your blood splats all
+over the place. EEK! Thats gotta hurt! You DORK. You just DT'd. You should be
+Taken out and shot.
+Good riddence of your equipment you IDIOT!
+~
+203 458754 0
+D0
+~
+~
+0 0 3183
+D1
+~
+~
+0 0 26490
+D2
+~
+~
+0 0 5307
+D3
+~
+~
+0 0 4943
+D4
+~
+~
+0 0 20398
+D5
+~
+~
+0 0 20396
+D6
+~
+~
+0 0 22060
+D7
+~
+~
+0 0 22048
+D8
+~
+~
+0 0 101
+D9
+~
+~
+0 0 10107
+S
+#20398
+Cruentus Letum~
+You come into this room with high hopes of killing something to find that you
+are the one who's going to be killed.
+A HUGE Ogre chef is cutting deer meat with a cleaver.. he sees you, and promptly decapitates you. OUCH! That HURTS! You idiot!
+~
+203 458754 0
+D0
+~
+~
+0 0 25582
+D1
+~
+~
+0 0 25581
+D2
+~
+~
+0 0 25584
+D3
+~
+~
+0 0 6380
+D4
+~
+~
+0 0 2084
+D5
+~
+~
+0 0 20397
+D6
+~
+~
+0 0 6131
+D7
+~
+~
+0 0 12545
+D8
+~
+~
+0 0 23530
+D9
+~
+~
+0 0 9514
+S
+#20399
+)-)-)-)-)-)-)-(-(-(-(-(-(-(~
+If your not an imm get outta here :-)
+~
+203 393216 0
+D0
+~
+~
+0 0 1204
+D1
+~
+~
+0 0 23500
+D2
+~
+~
+0 0 25585
+D3
+~
+~
+0 0 410
+D4
+~
+~
+0 0 2045
+D5
+~
+~
+0 0 20398
+D6
+~
+~
+0 0 2279
+D7
+~
+~
+0 0 9952
+D8
+~
+~
+0 0 438
+D9
+~
+~
+0 0 3001
+S
+#99999
+$~

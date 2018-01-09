@@ -1,0 +1,2089 @@
+#28300
+Entrance~
+   The Temple is hidden from most because of the worshipers of evil deities
+fear retribution by the forces of good.  The worshipers here protect their
+Temple with dogged perseverance.  If one is not of the faith they are not
+welcome here.  Any intruders will be offered up as sacrifice as punishment.
+~
+283 12 0
+D0
+~
+~
+0 0 28346
+D1
+~
+~
+0 0 28301
+D3
+~
+~
+0 0 28302
+D4
+~
+~
+0 0 28355
+S
+#28301
+Guard Room~
+   The walls are draped in plain wall hangings depicting the symbol of the
+temples faith.  The rooms where put here so the acolytes could take turns
+monitoring the temples enterway for the entrance of their fellow brethren
+or some malicious intruders.
+~
+283 8 0
+D1
+~
+door~
+1 0 28304
+D3
+~
+~
+0 0 28300
+S
+#28302
+Guard Room~
+   The walls are draped in plain wall hangings depicting the symbol of the
+temples faith.  The rooms where put here so the acolytes could take turns
+monitoring the temples enterway for the entrance of their fellow brethren
+or some malicious intruders.
+~
+283 8 0
+D1
+~
+~
+0 0 28300
+D3
+~
+door~
+1 0 28303
+S
+#28303
+Acolytes' Chambers~
+   The chambers here is where the acolytes' of the temple sleep.  Along the
+back wall you see two small cots with locked chests at the foot of the cots.  
+It is said that is where the acolytes' keep their belongings In the center
+of the room is a scarred table with two chairs.
+~
+283 0 0
+D1
+~
+door~
+1 0 28302
+S
+#28304
+Acolytes' Chambers~
+   The chambers here is where the acolytes' of the temple sleep.  Along the
+back wall you see two small cots with locked chests at the foot of the cots.  
+It is said that is where the acolytes' keep their belongings In the center 
+of the room is a scarred table with two chairs.
+~
+283 0 0
+D3
+~
+door~
+1 0 28301
+S
+#28305
+Underpriests Chambers~
+   This is a chamber for the mid-level priest of the temple.  At times they are
+also used to accomodate important guests who must sleep over night.  There is a
+small bed on one side of the room.  There is a rug on the floor and a curtain
+that can be pulled across the room to hide the bed from view.  On the other
+side of the room you see a flattopped chest.
+~
+283 8 0
+D1
+~
+~
+0 0 28315
+S
+#28306
+Underpriests Chambers~
+   This is a chamber for the mid-level priest of the temple.  At times they are
+also used to accomodate important guests who must sleep over night.  There is a
+small bed on one side of the room.  There is a rug on the floor and a curtain
+that can be pulled across the room to hide the bed from view.  On the other
+side of the room you see a flattopped chest.
+~
+283 8 0
+D0
+~
+~
+0 0 28315
+S
+#28307
+Underpriests Chambers~
+   This is a chamber for the mid-level priest of the temple.  At times they are
+also used to accomodate important guests who must sleep over night.  There is a
+small bed on one side of the room.  There is a rug on the floor and a curtain
+that can be pulled across the room to hide the bed from view.  On the other
+side of the room you see a flattopped chest.
+~
+283 8 0
+D0
+~
+~
+0 0 28319
+S
+#28308
+Underpriests Chambers~
+   This is a chamber for the mid-level priest of the temple.  At times they are
+also used to accomodate important guests who must sleep over night.  There is a
+small bed on one side of the room.  There is a rug on the floor and a curtain
+that can be pulled across the room to hide the bed from view.  On the other
+side of the room you see a flattopped chest.
+~
+283 8 0
+D3
+~
+~
+0 0 28319
+S
+#28309
+Underpriests Chambers~
+   This is a chamber for the mid-level priest of the temple.  At times they are
+also used to accomodate important guests who must sleep over night.  There is a
+small bed on one side of the room.  There is a rug on the floor and a curtain
+that can be pulled across the room to hide the bed from view.  On the other
+side of the room you see a flattopped chest.
+~
+283 8 0
+D1
+~
+~
+0 0 28335
+S
+#28310
+Underpriests Chambers~
+   This is a chamber for the mid-level priest of the temple.  At times they are
+also used to accomodate important guests who must sleep over night.  There is a
+small bed on one side of the room.  There is a rug on the floor and a curtain
+that can be pulled across the room to hide the bed from view.  On the other
+side of the room you see a flattopped chest.
+~
+283 8 0
+D3
+~
+~
+0 0 28339
+S
+#28311
+Holding Chambers~
+   The holding chambers are used to hold disbelievers or others who are to be
+punished at the hands of those who dwell here.  You notice that the chambers
+are filthy and lice-ridden.  There is a bed of straw in the room that has a
+thin layer of mildew covering it.
+~
+283 8 0
+D2
+~
+~
+0 0 28335
+S
+#28312
+Holding Chambers~
+   The holding chambers are used to hold disbelievers or others who are to be
+punished at the hands of those who dwell here.  You notice that the chambers
+are filthy and lice-ridden.  There is a bed of straw in the room that has a
+thin layer of mildew covering it.
+~
+283 8 0
+D2
+~
+~
+0 0 28336
+S
+#28313
+Holding Chambers~
+   The holding chambers are used to hold disbelievers or others who are to be
+punished at the hands of those who dwell here.  You notice that the chambers
+are filthy and lice-ridden.  There is a bed of straw in the room that has a
+thin layer of mildew covering it.
+~
+283 8 0
+D2
+~
+~
+0 0 28338
+S
+#28314
+Holding Chambers~
+   The holding chambers are used to hold disbelievers or others who are to be
+punished at the hands of those who dwell here.  You notice that the chambers
+are filthy and lice-ridden.  There is a bed of straw in the room that has a
+thin layer of mildew covering it.
+~
+283 8 0
+D2
+~
+~
+0 0 28339
+S
+#28315
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28324
+D1
+~
+~
+0 0 28316
+D2
+~
+chamber~
+1 28312 28306
+D3
+~
+chamber~
+1 28312 28305
+S
+#28316
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28323
+D1
+~
+~
+0 0 28317
+D3
+~
+~
+0 0 28315
+S
+#28317
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28322
+D1
+~
+~
+0 0 28318
+D2
+~
+~
+0 0 28346
+D3
+~
+~
+0 0 28316
+S
+#28318
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28321
+D1
+~
+~
+0 0 28319
+D3
+~
+~
+0 0 28317
+S
+#28319
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28320
+D1
+~
+chamber~
+1 28312 28308
+D2
+~
+chamber~
+1 28312 28307
+D3
+~
+~
+0 0 28318
+S
+#28320
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28329
+D2
+~
+~
+0 0 28319
+D3
+~
+~
+0 0 28321
+S
+#28321
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28328
+D1
+~
+~
+0 0 28320
+D2
+~
+~
+0 0 28318
+D3
+~
+~
+0 0 28322
+S
+#28322
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28327
+D1
+~
+~
+0 0 28321
+D2
+~
+~
+0 0 28317
+D3
+~
+~
+0 0 28323
+S
+#28323
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28326
+D1
+~
+~
+0 0 28322
+D2
+~
+~
+0 0 28316
+D3
+~
+~
+0 0 28324
+S
+#28324
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28325
+D1
+~
+~
+0 0 28323
+D2
+~
+~
+0 0 28315
+S
+#28325
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28334
+D1
+~
+~
+0 0 28326
+D2
+~
+~
+0 0 28324
+D3
+~
+~
+0 0 28341
+S
+#28326
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28333
+D1
+~
+~
+0 0 28327
+D2
+~
+~
+0 0 28323
+D3
+~
+~
+0 0 28325
+S
+#28327
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28332
+D1
+~
+~
+0 0 28328
+D2
+~
+~
+0 0 28322
+D3
+~
+~
+0 0 28326
+S
+#28328
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28331
+D1
+~
+~
+0 0 28329
+D2
+~
+~
+0 0 28321
+D3
+~
+~
+0 0 28327
+S
+#28329
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28330
+D1
+~
+door~
+1 28314 28344
+D2
+~
+~
+0 0 28320
+D3
+~
+~
+0 0 28328
+S
+#28330
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28339
+D2
+~
+~
+0 0 28329
+D3
+~
+~
+0 0 28331
+S
+#28331
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28338
+D1
+~
+~
+0 0 28330
+D2
+~
+~
+0 0 28328
+D3
+~
+~
+0 0 28332
+S
+#28332
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28337
+D1
+~
+~
+0 0 28331
+D2
+~
+~
+0 0 28327
+D3
+~
+~
+0 0 28333
+S
+#28333
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28336
+D1
+~
+~
+0 0 28332
+D2
+~
+~
+0 0 28326
+D3
+~
+~
+0 0 28334
+S
+#28334
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28335
+D1
+~
+~
+0 0 28333
+D2
+~
+~
+0 0 28325
+S
+#28335
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+cell~
+1 28313 28311
+D1
+~
+~
+0 0 28336
+D2
+~
+~
+0 0 28334
+D3
+~
+chamber~
+1 28312 28309
+S
+#28336
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+cell~
+1 28313 28312
+D1
+~
+~
+0 0 28337
+D2
+~
+~
+0 0 28333
+D3
+~
+~
+0 0 28335
+S
+#28337
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+~
+0 0 28340
+D1
+~
+~
+0 0 28338
+D2
+~
+~
+0 0 28332
+D3
+~
+~
+0 0 28336
+S
+#28338
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+cell~
+1 28313 28313
+D1
+~
+~
+0 0 28339
+D2
+~
+~
+0 0 28331
+D3
+~
+~
+0 0 28337
+S
+#28339
+Grand Worship Hall~
+   The walls of the Grand Worship Hall stand tall.  The ceiling is some thirty
+feet in height.  This vast hall is host to ceremonies in the name of the evil
+god worshipped here.  There are large pillars of stone that line either side of
+the chamber.  Two guardians under the control of the high priest can be found
+lurking in the shadows to either side of the pillars.
+~
+283 8 0
+D0
+~
+cell~
+1 28313 28314
+D1
+~
+chamber~
+1 28312 28310
+D2
+~
+~
+0 0 28330
+D3
+~
+~
+0 0 28338
+S
+#28340
+Dark Alter~
+   The Dark Altar is the center of worship in the temple. The alter is crafted
+of dark granite or obsidian.  Dark stains cover the alters surface.  Flanking
+it are two candelabras, an unholy water font is located to its left on the
+floor, and a huge tapestry occupies the entire space behind it from floor to
+ceiling.
+~
+283 8 0
+D0
+~
+passage~
+1 0 28345
+D2
+~
+~
+0 0 28337
+E
+alter~
+   The alter is crafted of dark granite or obsidian. 
+~
+E
+tapestry~
+  The tapestry covers the back wall. Hiding a secret door for one to
+flee through in time of need. One wrong turn in the passage way would
+lead to a sure death.
+~
+S
+#28341
+High Priest's Conference Room~
+   This is the High Priest's Conference Room.  As you look around you notice
+that a large meeting table and chair occupy most of the room.  You notice three
+bookcases along the walls in this room.  As you look closer you see religious
+texts and reference works fill them.
+~
+283 8 0
+D0
+~
+~
+0 0 28342
+D1
+~
+~
+0 0 28325
+S
+#28342
+High Priest's Chambers~
+   Once inside the High Priest's Chambers, one can tell the owner's status
+through the size of the room, not by the furnishings.  There is a small desk
+and chair with writing supplies and candlesticks on it. Also there is a small
+priedieu, and a large comfortable bed here.    
+~
+283 8 0
+D0
+~
+door~
+1 0 28343
+D2
+~
+~
+0 0 28341
+S
+#28343
+Secret Chamber~
+   This is the secret chambers where magical treasures of the temple are stored
+and locked away. Also in this room is where one will find the temple's treasury.
+The amount of the treasury depends on the of the temple's supporters and how
+influential it is in the city.    
+~
+283 8 0
+D2
+~
+door~
+1 0 28342
+S
+#28344
+Storage Room and Armory~
+   Having entered the storage room and armory of the temple.  Supplies of all
+sorts and extra or broken furnishings are stored here.  There are several
+locked chests located against one wall.  They contain fine altar linens,
+beeswax candles, incense, extra ceremonial garments, and other ecclesiastical
+supplies, but nothing of great value.  Also found here is any extra melee or
+missile weapons the temple may have.
+~
+283 8 0
+D3
+~
+door~
+1 0 28329
+S
+#28345
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D1
+~
+~
+0 0 28347
+D2
+~
+~
+0 0 28340
+D3
+~
+~
+0 0 28351
+S
+#28346
+Hallway~
+   This is the hallway in the temple that leads to the Grand Worship Hall.  
+Along the wall are two pictures, one of a god the other of a goddess. Under
+each picture is a brief story about them.
+~
+283 8 0
+D0
+~
+~
+0 0 28317
+D2
+~
+~
+0 0 28300
+E
+picture god goddess~
+   A picture of a god and goddess and a brief story of their life.
+~
+S
+#28347
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D1
+~
+~
+0 0 28348
+D3
+~
+~
+0 0 28345
+S
+#28348
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D1
+~
+~
+0 0 28349
+D3
+~
+~
+0 0 28347
+S
+#28349
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D2
+~
+~
+0 0 28350
+D3
+~
+~
+0 0 28348
+S
+#28350
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D0
+~
+~
+0 0 28349
+S
+#28351
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D1
+~
+~
+0 0 28345
+D3
+~
+~
+0 0 28352
+S
+#28352
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D1
+~
+~
+0 0 28351
+D3
+~
+~
+0 0 28353
+S
+#28353
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D1
+~
+~
+0 0 28352
+D2
+~
+~
+0 0 28354
+S
+#28354
+Secret Passage~
+   If the temple should ever be invaded by superior forces the secret passages
+are known to provide escape for the high priest.  The passages also serve to
+let the high priest spy on certain underpriest and also prisoners through
+peepholes concealed in the walls.
+~
+283 8 0
+D0
+~
+~
+0 0 28353
+D5
+~
+floor~
+5 0 28398
+S
+#28355
+A dirt path~
+   The forest surrounds every directions leaving little room for light.  The
+trees seem to be centuries old.  A small bit of undergrowth grows around the
+trunks of the trees.  North and south, east and west it would seems that this
+path is but a dead end in all directions.  The ground echos as the wind passes
+over it.  Almost as if there is or was a hole dug here.  Over to the west is a
+dark cave.
+~
+283 4 3
+D1
+~
+~
+0 0 28365
+D2
+~
+~
+0 0 28356
+D3
+~
+~
+0 0 28360
+D5
+~
+grate~
+1 28318 28300
+S
+#28356
+A dirt path~
+   The forest surrounds every directions leaving little room for light.  The
+trees seem to be centuries old.  A small bit of undergrowth grows around the
+trunks of the trees.  North and south, east and west it would seems that this
+path is but a dead end in all directions.
+~
+283 0 3
+D0
+~
+~
+0 0 28355
+D1
+~
+~
+0 0 28366
+D2
+~
+~
+0 0 28357
+D3
+~
+~
+0 0 28361
+S
+#28357
+A dirt path~
+   The forest surrounds every directions leaving little room for light.  The
+trees seem to be centuries old.  A small bit of undergrowth grows around the
+trunks of the trees.  North and south, east and west it would seems that this
+path is but a dead end in all directions.
+~
+283 0 3
+D0
+~
+~
+0 0 28356
+D1
+~
+~
+0 0 28367
+D2
+~
+~
+0 0 28358
+D3
+~
+~
+0 0 28362
+S
+#28358
+A dirt path~
+   The forest surrounds every directions leaving little room for light.  The
+trees seem to be centuries old.  A small bit of undergrowth grows around the
+trunks of the trees.  North and south, east and west it would seems that this
+path is but a dead end in all directions.
+~
+283 0 3
+D0
+~
+~
+0 0 28357
+D1
+~
+~
+0 0 28368
+D2
+~
+~
+0 0 28359
+D3
+~
+~
+0 0 28363
+S
+#28359
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28358
+D1
+~
+~
+0 0 28369
+D2
+~
+~
+0 0 28371
+D3
+~
+~
+0 0 28364
+S
+#28360
+A cave~
+   Utter darkness looms through out most of the cave.  Small crystals seem to
+be floating in the center of the cave.  Giving off the only light to the cave.
+Heavy breathing echos, swirling the vibrations around in a whirlwind of
+patterns.
+~
+283 1 0
+D1
+~
+~
+0 0 28355
+S
+#28361
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D1
+~
+~
+0 0 28356
+S
+#28362
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D1
+~
+~
+0 0 28357
+D2
+~
+~
+0 0 28363
+D3
+~
+~
+0 0 28376
+S
+#28363
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28362
+D1
+~
+~
+0 0 28358
+D2
+~
+~
+0 0 28364
+D3
+~
+~
+0 0 28375
+S
+#28364
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28363
+D1
+~
+~
+0 0 28359
+D2
+~
+~
+0 0 28372
+D3
+~
+~
+0 0 28374
+S
+#28365
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D3
+~
+~
+0 0 28355
+S
+#28366
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D3
+~
+~
+0 0 28356
+S
+#28367
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D1
+~
+~
+0 0 28377
+D2
+~
+~
+0 0 28368
+D3
+~
+~
+0 0 28357
+S
+#28368
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28367
+D1
+~
+~
+0 0 28378
+D2
+~
+~
+0 0 28369
+D3
+~
+~
+0 0 28358
+S
+#28369
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28368
+D1
+~
+~
+0 0 28379
+D2
+~
+~
+0 0 28370
+D3
+~
+~
+0 0 28359
+S
+#28370
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28369
+D1
+~
+~
+0 0 28380
+D2
+~
+~
+0 0 28389
+D3
+~
+~
+0 0 28371
+S
+#28371
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28359
+D1
+~
+~
+0 0 28370
+D2
+~
+~
+0 0 28388
+D3
+~
+~
+0 0 28372
+S
+#28372
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28364
+D1
+~
+~
+0 0 28371
+D2
+~
+~
+0 0 28387
+D3
+~
+~
+0 0 28373
+S
+#28373
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28374
+D1
+~
+~
+0 0 28372
+D2
+~
+~
+0 0 28386
+D3
+~
+~
+0 0 28384
+S
+#28374
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28375
+D1
+~
+~
+0 0 28364
+D2
+~
+~
+0 0 28373
+D3
+~
+~
+0 0 28383
+S
+#28375
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28376
+D1
+~
+~
+0 0 28363
+D2
+~
+~
+0 0 28374
+D3
+~
+~
+0 0 28382
+S
+#28376
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D1
+~
+~
+0 0 28362
+D2
+~
+~
+0 0 28375
+D3
+~
+~
+0 0 28381
+S
+#28377
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D1
+~
+~
+0 0 28395
+D2
+~
+~
+0 0 28378
+D3
+~
+~
+0 0 28367
+S
+#28378
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28377
+D1
+~
+~
+0 0 28394
+D2
+~
+~
+0 0 28379
+D3
+~
+~
+0 0 28368
+S
+#28379
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28378
+D1
+~
+~
+0 0 28393
+D2
+~
+~
+0 0 28380
+D3
+~
+~
+0 0 28369
+S
+#28380
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28379
+D1
+~
+~
+0 0 28392
+D2
+~
+~
+0 0 28390
+D3
+~
+~
+0 0 28370
+S
+#28381
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D1
+~
+~
+0 0 28376
+D2
+~
+~
+0 0 28382
+S
+#28382
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28381
+D1
+~
+~
+0 0 28375
+D2
+~
+~
+0 0 28383
+S
+#28383
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28382
+D1
+~
+~
+0 0 28374
+D2
+~
+~
+0 0 28384
+S
+#28384
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28383
+D1
+~
+~
+0 0 28373
+D2
+~
+~
+0 0 28385
+S
+#28385
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28384
+D1
+~
+~
+0 0 28386
+S
+#28386
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28373
+D1
+~
+~
+0 0 28387
+D3
+~
+~
+0 0 28385
+S
+#28387
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28372
+D1
+~
+~
+0 0 28388
+D3
+~
+~
+0 0 28386
+S
+#28388
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28371
+D1
+~
+~
+0 0 28389
+D2
+~
+~
+0 0 28396
+D3
+~
+~
+0 0 28387
+S
+#28389
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28370
+D1
+~
+~
+0 0 28390
+D3
+~
+~
+0 0 28388
+S
+#28390
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28380
+D1
+~
+~
+0 0 28391
+D3
+~
+~
+0 0 28389
+S
+#28391
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28392
+D3
+~
+~
+0 0 28390
+S
+#28392
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28393
+D2
+~
+~
+0 0 28391
+D3
+~
+~
+0 0 28380
+S
+#28393
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28394
+D2
+~
+~
+0 0 28392
+D3
+~
+~
+0 0 28379
+S
+#28394
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28395
+D2
+~
+~
+0 0 28393
+D3
+~
+~
+0 0 28378
+S
+#28395
+Forest~
+   Deeper within the darkness of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making any type of traveling very disorienting at best.
+~
+283 0 3
+D2
+~
+~
+0 0 28394
+D3
+~
+~
+0 0 28377
+S
+#28396
+Forest~
+   Running along the outskirts of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making traveling very disorienting at best.
+~
+283 0 3
+D0
+~
+~
+0 0 28388
+D2
+~
+~
+0 0 28397
+S
+#28397
+Forest~
+   Running along the outskirts of the forest there are a few hollowed-out trees
+lit by glowing globes of soft hues.  The trees of the forest are centuries old
+but have been dead for more then a hundred years.  There are oak, maple, and
+rowan trees.  As time moves on the mist and fog starts to creep down through
+the trees making traveling very disorienting at best.
+~
+283 4 3
+D0
+~
+~
+0 0 28396
+S
+#28398
+Below the secret passage.~
+   Falling through the floor above, landing in a bug infested room.  The walls
+are carved with writings of warnings about the room south and instant death.  
+A few skulls are lying around.
+~
+283 0 0
+D2
+~
+~
+0 0 28399
+S
+#28399
+DEATH TO ALL WHO ENTERS!~
+There goes your equipment!
+~
+283 2 0
+S
+#99999
+$~

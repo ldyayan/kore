@@ -1,0 +1,1072 @@
+#30400
+A Trail To Nara Askna~
+Between sparse shrubs and thick snow, one can see a trail here.
+The trail appears to be leading north, winding its way through snow
+capped montains.  Small holes mark the points where walking staffs
+were needed to climb these endless mountains.
+~
+304 131077 4
+D6
+~
+~
+0 0 30401
+S
+#30401
+A Trail to Nara Askna~
+The trail here has nearly disappeared, and ahead one could
+see the sharp sides of mammoth mountains. Surely the trek
+ahead could bring disaster to an untrained climber.  Still,
+the trail has retained the few prints of past adventurers.
+~
+304 65 4
+D6
+~
+~
+0 0 30402
+D8
+~
+~
+0 0 30400
+S
+#30402
+The Jagged Mountains of Nara Askna~
+High peaks scrape the earth's ceiling and thin clouds struggle
+to raise above these enormous peaks. The air here is rather
+thin, and the staff marks that were quite prominant in the
+foothills have been replaced by worn leather cords discarded
+by past travelers.  Apparently, a rope would be neccessary for
+a common man to scale these cliffs.
+~
+304 131072 9
+D6
+~
+~
+0 0 30403
+D8
+~
+~
+0 0 30401
+S
+#30403
+The Jagged Mountains of Nara Askna~
+High peaks scrape the earth's ceiling and thin clouds struggle
+to raise above these enormous peaks. The air here is rather
+thin, and the staff marks that were quite prominant in the
+foothills have been replaced by worn leather cords discarded
+by past travelers. Apparently, a rope would be neccessary for
+a common man to scale these cliffs.
+~
+304 131072 11
+D1
+~
+~
+0 0 30404
+D8
+~
+~
+0 0 30402
+S
+#30404
+The Jagged Mountains of Nara Askna~
+You are in an unfinished room.
+~
+304 0 11
+D1
+~
+~
+0 0 30405
+D3
+~
+~
+0 0 30403
+S
+#30405
+The Face of a Cliff~
+The rough mountains have come to an abrupt halt and the sheer
+ledge is all that can be seen. This whispy clouds are scattered
+above and below, making visibility here difficult.  Small buckets
+have been carved into the wall below to allow passage down this
+treacherous mountainside.
+~
+304 1 5
+D3
+~
+~
+0 0 30404
+D5
+~
+~
+0 0 30406
+S
+#30406
+Scaling the Ravine~
+Using adept climbing skills, one can scale this wall scattered with
+footholds. The air here is still patchy at best, and the thick clouds
+continue to embrace you in their vapors.  Below the clouds are
+lessening, but visibilty of the ground is minimal.
+~
+304 1 5
+D4
+~
+~
+0 0 30405
+D5
+~
+~
+0 0 30407
+S
+#30407
+Scaling the Ravine~
+Empty~
+304 0 13
+D4
+~
+~
+0 0 30406
+D5
+~
+~
+0 0 30408
+S
+#30408
+Scaling the Ravine~
+You are in an unfinished room.
+~
+304 0 13
+D4
+~
+~
+0 0 30407
+D5
+~
+~
+0 0 30409
+S
+#30409
+The Bottom of the Ravine~
+You are in an unfinished room.
+~
+304 0 2
+D1
+~
+~
+0 0 30410
+D4
+~
+~
+0 0 30408
+S
+#30410
+The Head of a Narrow Canyon~
+You are in an unfinished room.
+~
+304 0 2
+D0
+~
+~
+0 0 30411
+D3
+~
+~
+0 0 30409
+S
+#30411
+The Canyon Floor~
+You are in an unfinished room.
+~
+304 0 2
+D0
+~
+~
+0 0 30412
+D2
+~
+~
+0 0 30410
+S
+#30412
+The Canyon Floor~
+You are in an unfinished room.
+~
+304 0 2
+D0
+~
+~
+0 0 30413
+D2
+~
+~
+0 0 30411
+S
+#30413
+A Joining of Paths~
+You are in an unfinished room.
+~
+304 0 2
+D0
+~
+~
+0 0 30414
+D1
+~
+~
+0 0 30425
+D2
+~
+~
+0 0 30412
+S
+#30414
+A Dry River Bed~
+Thick sand makes traverse over this dry river bed difficult, and
+pockets of dust skittering from the wind can hamper one's vision.
+Still, the once large river has constructed an excellent path within
+the dense canyon walls.
+~
+304 0 10
+D0
+~
+~
+0 0 30415
+D2
+~
+~
+0 0 30413
+S
+#30415
+A Dry River Bed~
+The sand here is less concentrated here, probably due to far
+less footsteps trodding it.  Luckily, the sandstone bedrock can
+be seen in small patches where the sand has been blown away.
+The path north seems to end at a canyon wall.
+~
+304 0 10
+D0
+~
+~
+0 0 30416
+D2
+~
+~
+0 0 30414
+S
+#30416
+A Sheer Canyon Wall~
+Rising up abruptly from the ground is a towering wall of sandstone.
+Constant rains and winds have worn its face smooth, and no trace
+of climber's marks can be seen.  It is composed of red sandstone,
+with the only blemish being a small concave fissure at eye level.
+~
+304 1 10
+D0
+~
+A delicately polished door~
+2 0 30417
+D2
+~
+~
+0 0 30415
+S
+#30417
+Within a Stalagtite Filled Cavern~
+This room is surrounded by stalagtites. There is a faint glow
+emmitted from somewhere to the east, and low muffled sounds
+are ever present.
+~
+304 9 10
+D1
+~
+~
+0 0 30418
+D2
+~
+A delicately polished door.~
+2 0 30416
+S
+#30418
+A Lighted Cavern~
+You are in an unfinished room.
+~
+304 256 0
+D0
+~
+~
+0 0 30419
+D3
+~
+~
+0 0 30417
+S
+#30419
+A Well Lit Cavern~
+You are in an unfinished room.
+~
+304 0 0
+D1
+~
+~
+0 0 30422
+D2
+~
+~
+0 0 30418
+D3
+~
+~
+0 0 30424
+S
+#30420
+The Thieve's Chambers~
+You are in an unfinished room.
+~
+304 0 0
+D1
+~
+~
+0 0 30421
+D2
+~
+~
+0 0 30422
+S
+#30421
+The Treasury~
+You are in an unfinished room.
+~
+304 0 0
+D3
+~
+~
+0 0 30420
+D5
+~
+~
+0 0 30423
+S
+#30422
+A Well Lit Cavern~
+You are in an unfinished room.
+~
+304 257 0
+D0
+~
+~
+0 0 30420
+D3
+~
+~
+0 0 30419
+S
+#30423
+A Dusty Storeroom~
+You are in an unfinished room.
+~
+304 131105 0
+D4
+~
+~
+0 0 30421
+S
+#30424
+A Well Lit Cavern~
+You are in an unfinished room.
+~
+304 0 0
+D1
+~
+~
+0 0 30419
+S
+#30425
+An shrub-crowded trail~
+The canyon walls part here forming a wide plain of tall grass and shrub.
+A narrow trail has been carved through this waist-high sea of green.
+It too has begun to show the wear of battle against the ever extending
+plant life.  A faint sound of water trickling back to the canyon inclinate
+the source of life for this greenery.
+~
+304 0 2
+D1
+~
+~
+0 0 30426
+D3
+~
+~
+0 0 30413
+S
+#30426
+A mud filled trail~
+The thin spring that trickles down from the eastern mountains to the
+canyon basin has eroded its banks and crossed the path here.
+Large ferns have accumulated in the now severely muddy soil.
+Insects and all sorts of creatures buzz and slither through here,
+and only the strongest of the trees have managed to survive these
+damp conditions.
+~
+304 0 16
+D1
+~
+~
+0 0 30427
+D3
+~
+~
+0 0 30425
+S
+#30427
+A large earth-packed bank~
+Mounds of earth and sod have been piled here to hold back
+the currents of the river.  However, the builders have not been
+successful as the tides crash over its walls.  Towards the east
+one can see what appears to be farms dotting the terraced valley.
+~
+304 0 4
+D0
+~
+~
+0 0 30428
+D3
+~
+~
+0 0 30426
+S
+#30428
+The banks of the Askna river~
+Sticky mud and wet sod make up the unstable ground that holds back
+the swift river on the east.  Large tree growth and thick underbrush form
+an impenetrable border to the west.  Shod horse prints indicate the prescence
+of humanity using this bank for travel.
+~
+304 0 16
+D0
+~
+~
+0 0 30429
+D2
+~
+~
+0 0 30427
+S
+#30429
+A firm bank of granite~
+Thick morter and large granite stones make up this supporting back of the
+wide bridge that spans the Askna river.  Two meter tall walls line the edge
+of this bridge, and piles of horse and ox dung steam along its floor due to
+the heavy traffic it supports.
+~
+304 0 1
+D1
+~
+~
+0 0 30430
+D2
+~
+~
+0 0 30428
+S
+#30430
+Crossing the great Askna river~
+Supported by a large span of granite, this bridge allows a great view of
+the snaking banks of the Askna river that provide excellent flood plains
+to the farmers along its banks.  A cobbled road appears to unite with this
+bridge just east of here.
+~
+304 0 1
+D1
+~
+~
+0 0 30431
+D3
+~
+~
+0 0 30429
+S
+#30431
+Crossing the great Askna river~
+Supported by a large span of granite, this bridge allows a great view of
+the snaking banks of the Askna river that provides excellent flood plains
+to the farmers along its banks.  A cobbled road appears to unite this
+bridge just east of here.
+~
+304 0 1
+D1
+~
+~
+0 0 30432
+D3
+~
+~
+0 0 30430
+S
+#30432
+A cobblestone road~
+Smooth stone cemented together with morter makes up this wagon-worn road.
+An endless war of small flowers and weeds battle for sunlight as feet and
+wheels trample them to the earth.  The lapping currents of the Askna river
+can be heard crashing against the eastern bank, and the smell of rotting fish
+permeate the air.
+~
+304 0 1
+D1
+~
+~
+0 0 30433
+D3
+~
+~
+0 0 30431
+S
+#30433
+A cobblestone road~
+Smooth stone cemented together with morter makes up this wagon-worn road.
+An endless war of small flowers and weeds battle for sunlight as feet and
+wheels trample them to the earth.  The lapping currents of the Askna river
+can be heard crashing against the eastern bank.  To the east, the road juts
+over rolling hills blockading further view.
+~
+304 0 1
+D1
+~
+~
+0 0 30434
+D3
+~
+~
+0 0 30432
+S
+#30434
+A brick-cobbled highway~
+Dried adobe bricks, died red, form this incredibly smooth surface under foot.
+The path forms what seems to be the main road from a civilization to the east
+to the river of the west.  Maintained by deep-dug gutters, heavy rains and
+winds, this road is remarkably clean.
+~
+304 0 1
+D1
+~
+~
+0 0 30435
+D3
+~
+~
+0 0 30433
+S
+#30435
+A brick-cobbled highway~
+Dried adobe bricks, died red, form this incredibly smooth surface under foot.
+THe path forms what seems to be the main road from a civilization of the east
+to the river of the west.  Maintained by deep-dug gutters, heavy rains and
+winds, this road is remarkably clean.
+~
+304 0 1
+D1
+~
+~
+0 0 30436
+D3
+~
+~
+0 0 30434
+S
+#30436
+A curve in the highway~
+The red adobe-bricked road curves effortlessly northward and westward here.
+The wings of the road have been reinforced years ago to prevent
+cracking of its joints when it first settled into its foundation.  A deep
+trough-like gutter juts off from the reinforcement, carrying with it debris
+and refuge.  The bricks have been worn to near polish by the traffic it
+holds.  Still, it has maintained it's fortitude excellently.
+~
+304 0 1
+D0
+~
+~
+0 0 30437
+D3
+~
+~
+0 0 30435
+S
+#30437
+A brick-cobbled highway~
+You are in an unfinished room.
+~
+304 0 1
+D0
+~
+~
+0 0 30438
+D2
+~
+~
+0 0 30436
+S
+#30438
+A brick-cobbled highway~
+You are in an unfinished room.
+~
+304 0 1
+D0
+~
+~
+0 0 30439
+D2
+~
+~
+0 0 30437
+S
+#30439
+A brick-cobbled highway~
+You are in an unfinished room.
+~
+304 0 1
+D0
+~
+~
+0 0 30440
+D2
+~
+~
+0 0 30438
+S
+#30440
+A curve in the highway~
+You are in an unfinished room.
+~
+304 0 1
+D1
+~
+~
+0 0 30441
+D2
+~
+~
+0 0 30439
+S
+#30441
+A brick-cobbled highway~
+You are in an unfinished room.
+~
+304 0 1
+D1
+~
+~
+0 0 30442
+D3
+~
+~
+0 0 30440
+S
+#30442
+On a drawbridge~
+Made of thick, iron-bound, oak planks, and large bolts, this bride spanning
+a murky moat is both massive and sturdy.  The water it spans is filled
+with what appears to be jagged pikes, preventing invaders from wading
+through to the city.  Also, there are large chunks of floating dung that
+have most likely been shoveled off the bridge.  The draw bridge is
+further supported by a porticulis to the east.  Obviously, this town
+has prepared for an attack.
+~
+304 0 1
+D1
+~
+An iron porticulis~
+1 0 30443
+D3
+~
+~
+0 0 30441
+S
+#30443
+The west gate of Nara Askna~
+You are in an unfinished room.
+~
+304 0 1
+D0
+~
+~
+0 0 30444
+D2
+~
+~
+0 0 30451
+D3
+~
+An iron porticulis~
+1 0 30442
+S
+#30444
+Burgranbir Boulevard~
+Beneath the hooves of horses and wheels of carts lies a well kept street
+of stone.  Traffic here tends to fluctuate as many patrons of the city walk
+along this and many other corridors.  For all horse-drawn carts and other
+wagons, it is no wonder that the gutters of this road contain many piles
+of animal waste, even though it apparently has been washed by rain
+repeatedly.
+~
+304 0 0
+D0
+~
+~
+0 0 30445
+D2
+~
+~
+0 0 30443
+S
+#30445
+Burgranbir Boulevard~
+Beneath the hooves of horses and wheels of carts lies a well kept street
+of stone.  Traffic here tends to fluctuate as many patrons of the city walk
+along this and many other corridors.  For all the horse-drawn carts and
+other wagons, it is no wonder that the gutters of this road contain many piles
+of animal waste, even though it apparently has been washed by rain
+repeatedly
+~
+304 0 0
+D0
+~
+~
+0 0 30446
+D2
+~
+~
+0 0 30444
+S
+#30446
+Burgranbir Boulevard~
+Beneath the hooves of horses and the wheels of carts lies a well kept street
+of stone.  Traffic here tends to fluctuate as many patrons of the city walk
+along this and many other corridors.  For all the horse-drawn carts and other
+wagons, it is no wonder that the gutters of this road contain many piles
+of animal waste, even though it apparently has been washed by rain
+repeatedly.
+~
+304 0 0
+D0
+~
+~
+0 0 30447
+D2
+~
+~
+0 0 30445
+S
+#30447
+Burganbir Boulevard~
+Empty~
+304 8 0
+D0
+~
+~
+0 0 30448
+D2
+~
+~
+0 0 30446
+S
+#30448
+The Base of the Guard Tower~
+Empty~
+304 0 0
+D2
+~
+~
+0 0 30447
+D4
+~
+~
+0 0 30449
+S
+#30449
+The Guard Tower~
+Empty~
+304 0 0
+D2
+~
+~
+0 0 30468
+D4
+~
+~
+0 0 30450
+D5
+~
+~
+0 0 30448
+S
+#30450
+The Guard Tower Battlements~
+Empty~
+304 0 0
+D5
+~
+~
+0 0 30449
+S
+#30451
+Burganbir Boulevard~
+Empty~
+304 0 0
+D0
+~
+~
+0 0 30443
+D2
+~
+~
+0 0 30452
+S
+#30452
+Burganbir Boulevard~
+Empty~
+304 0 0
+D0
+~
+~
+0 0 30451
+D2
+~
+~
+0 0 30453
+S
+#30453
+Burganbir Boulevard~
+Empty~
+304 0 0
+D0
+~
+~
+0 0 30452
+D2
+~
+~
+0 0 30454
+S
+#30454
+Burganbir Boulevard~
+Empty~
+304 0 0
+D0
+~
+~
+0 0 30453
+D2
+~
+~
+0 0 30455
+S
+#30455
+The Base of the Guard Tower~
+Empty~
+304 0 0
+D0
+~
+~
+0 0 30454
+D4
+~
+~
+0 0 30456
+S
+#30456
+The Guard Tower~
+You are in an unfinished room.
+~
+304 0 0
+D0
+~
+~
+0 0 30458
+D4
+~
+~
+0 0 30457
+D5
+~
+~
+0 0 30455
+S
+#30457
+The Battlements of the Guard Tower~
+Empty~
+304 0 0
+D5
+~
+~
+0 0 30456
+S
+#30458
+The Western Embrasures~
+Empty~
+304 0 1
+D0
+~
+~
+0 0 30459
+D2
+~
+~
+0 0 30456
+S
+#30459
+The Western Embrasures~
+Empty~
+304 0 1
+D0
+~
+~
+0 0 30460
+D2
+~
+~
+0 0 30458
+S
+#30460
+Before the Guard's Barracks~
+Empty~
+304 0 1
+D0
+~
+iron bound door~
+1 0 30461
+D2
+~
+~
+0 0 30459
+S
+#30461
+The Guard's Barracks~
+You are in an unfinished room.
+~
+304 8 0
+D0
+An iron bound door
+~
+iron bound door~
+1 0 30462
+D2
+~
+iron bound door~
+1 0 30460
+D8
+~
+~
+0 0 30464
+D9
+~
+~
+0 0 30463
+S
+#30462
+Before the Guard's Barracks~
+Empty~
+304 0 0
+D0
+~
+~
+0 0 30465
+D2
+an iron bound door
+~
+iron bound door~
+1 0 30461
+S
+#30463
+The Sleeping Quarters~
+~
+0 9 0
+D7
+~
+~
+0 0 30461
+S
+#30464
+The Sleeping Quarters~
+You are in an unfinished room.
+~
+0 9 0
+D6
+~
+~
+0 0 30461
+S
+#30465
+The Western Embrasures~
+You are in an unfinished room.
+~
+0 0 1
+D0
+~
+~
+0 0 30466
+D2
+~
+~
+0 0 30462
+S
+#30466
+The Western Embrasures~
+You are in an unfinished room.
+~
+0 0 1
+D0
+~
+~
+0 0 30467
+D2
+~
+~
+0 0 30465
+S
+#30467
+The Western Embrasures~
+You are in an unfinished room.
+~
+0 0 1
+D0
+~
+~
+0 0 30468
+D2
+~
+~
+0 0 30466
+S
+#30468
+The Western Embrasures~
+You are in an unfinished room.
+~
+0 0 1
+D0
+~
+~
+0 0 30449
+D2
+~
+~
+0 0 30467
+S
+#30498
+the practice room~
+You are in an unfinished room.
+~
+304 0 0
+D0
+~
+~
+0 0 30499
+S
+#30499
+the practice room~
+You are in an unfinished room.
+~
+304 0 0
+D2
+~
+~
+0 0 30498
+S
+#99999
+$~

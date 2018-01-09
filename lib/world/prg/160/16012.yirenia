@@ -1,0 +1,99 @@
+>rand_prog 7~
+  if inroom($r) == here
+    if isaffected($r, poison)
+      cast 'remove poison' $r
+    else
+      if isaffected($r, blind)
+        cast 'cure blind' $r
+      else
+        if hitprcnt($r) < 100
+          if ismemory($r)
+            if inroom($r) == here
+              say Hmm, $R, you're hurt again? I going to start charging you?
+              mpforget $r
+            endif
+          endif
+          cast 'cure critic' $r
+          break
+        else
+          if ismemory($r)
+            if inroom($r) == here
+              say Now then, $R, I already told you, you don't need healing!
+              if rand(70)
+                glare $r
+              else
+                mppose $r stand
+                mpechoaround $r Yirenia throws $R out of the temple.
+                mpechoat $r Yirenia throws you out of the temple.
+                mptrans $r east
+                mpat 3059 mpechoaround $r $r has arrived.
+              endif
+            endif
+          else
+            if isimmort($r)
+            else
+              if inroom($r) == here
+                mpremember $r
+                say All right, $R, you're all healed up!
+              endif
+            endif
+          endif
+          if rand(40)
+            if rand(1)
+              mpecho A flower petal falls from somewhere above and lands at $I's feet.
+              mpoload 16069
+              mpsilent drop petal
+            endif
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+
+>social_prog slap~
+  say $n! Thou shalt not abuse thy goddess!
+  mpechoat $n Yirenia glares at you with a blinding light!
+  mpechoaround $n Yirenia glares at $n, and a blinding beam of light pours from her eyes!
+  mpcallmagic 'blindness' $n
+  mpdamage $n 2d10+5
+  mppose $n stunned
+~
+
+>give_prog all~
+  if objtype($o) == trash
+    slap $n
+    say How dare you insult me with such trash?
+    mpjunk $o
+  else
+    if objtype($o) == treasure
+      thank $n
+      say Thank you for your generous donation!
+      mpjunk $o
+      if rand(30)
+        cast 'heal' $n
+      else
+        if rand(60)
+          cast 'bless' $n
+        endif
+      endif
+    else
+      if objtype($o) == food
+        say Food for the poor! Very kind!
+      else
+        say You are very kind.
+      endif
+      mpat 16124 drop $o
+    endif
+  endif
+~
+>spell_prog scare~
+  mpstopcommand
+  say $n! Thou shalt not cause fear among my people!
+  mpechoat $n Yirenia glares at you with a blinding light!
+  mpechoaround $n Yirenia glares at $n, and a blinding beam of light pours from her eyes!
+  mpcallmagic 'blindness' $n
+  mpdamage $n 4d10+10
+  mppose $n stunned
+~
+|

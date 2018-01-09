@@ -1,0 +1,455 @@
+#28100
+Overlooking the Falls~
+  The stone balcony branches off from the bridge, overlooking the magnificent
+waterfalls of the river Tyrn.  At least 300ft the river drops into a canyon
+that winds away into the horizon southwards, eventually giving way to the rocky
+cliffs of the sea.  Birds of all sorts fly around the base of the falls, 
+occasionally dipping into the wafty mists only to arise again a few seconds
+later, generally with a fish in it's beak.
+~
+281 0 1
+D2
+~
+~
+0 0 28101
+S
+#28101
+On a Bridge~
+  Cobble stones taken from the underlying river have been cemented together to
+form a sturdy bridge of passage.  In the middle branches off a small
+semi-circular balcony, put there to overlook the river as it drops into a
+canyon.  Both east and west several stone houses edge up to the cliffs, forming
+the involuntary northern border of the city.
+~
+281 0 1
+D0
+~
+~
+0 0 28100
+D3
+~
+~
+0 0 28102
+S
+#28102
+Wyvern Street~
+  The cobblestone street is surrounded by buildings on both the northern
+and southern sides, with the street continuing farther west into the city and
+across the river to the east. 
+~
+281 0 1
+D1
+~
+~
+0 0 28101
+D3
+~
+~
+0 0 28103
+S
+#28103
+Wyvern Street~
+  The cobblestone street runs from the east to the west, with a large stone
+building to the north.  Another cobblestone street leads southwards from here,
+running parallel with the river to the east.
+~
+281 0 1
+D1
+~
+~
+0 0 28102
+D2
+~
+~
+0 0 28107
+D3
+~
+~
+0 0 28104
+S
+#28104
+Wyvern Street~
+  The cobblestone street runs parallel to the northern border of the city,
+with large buildings rising several stories high to both the north and south.
+The stones of the street are worn smooth with use, with small holes here
+and there where it is need of repair.
+~
+281 0 1
+D1
+~
+~
+0 0 28103
+D3
+~
+~
+0 0 28105
+S
+#28105
+Wyvern Street~
+  The cobblestone street runs parallel to the northern border of the city,
+with large buildings rising several stories high to both the north and south.
+The stones of the street are worn smooth with use, with small holes here
+and there where it is need of repair.
+~
+281 0 1
+D1
+~
+~
+0 0 28104
+D3
+~
+~
+0 0 28106
+S
+#28106
+Wyvern Street~
+  The cobblestone street runs parallel to the northern border of the city,
+with large buildings rising several stories high to both the north and south.
+The stones of the street are worn smooth with use, with small holes here
+and there where it is need of repair.
+~
+281 0 1
+D1
+~
+~
+0 0 28105
+D3
+~
+~
+0 0 28110
+S
+#28107
+Mator Street~
+  The cobblestone street leads from the north to the south, matching the
+path of the nearby river.  Several stone buildings rising high above your
+head line either sides of the street, their doorways and windows welcoming
+the open air.
+~
+281 0 1
+D0
+~
+~
+0 0 28103
+D2
+~
+~
+0 0 28108
+S
+#28108
+Mator Street~
+  The cobblestone street leads from the north to the south, matching the
+path of the nearby river.  Several stone buildings rising high above your
+head line either sides of the street, their doorways and windows welcoming
+the open air.
+~
+281 0 1
+D0
+~
+~
+0 0 28107
+D2
+~
+~
+0 0 28109
+S
+#28109
+Mator Street~
+  The cobblestone streets leads from the north and then makes a slight turn
+to the west, running southwest towards another street.  A solid stone wall
+about fifteen foot tall sides along to the southeast, enclosing a solid black
+tower that rises up several hundred feet into the air above the city.
+~
+281 0 1
+D0
+~
+~
+0 0 28108
+S
+#28110
+Wyvern Street~
+  The cobblestone street makes an abrupt turn to the south, avoiding
+the city wall that runs from north to south.  Buildings line the
+eastern side of the street that leads southwards, opposing the looming
+wall that surrounds the city.
+~
+281 0 1
+D1
+~
+~
+0 0 28106
+D2
+~
+~
+0 0 28111
+S
+#28111
+Wyvern Street~
+  The cobblestone street in need of repair leads from the south to
+the north.  Tall stone buildings line the eastern side of the street,
+most of them several stories and almost all of them with closed
+wooden doors.
+~
+281 0 1
+D0
+~
+~
+0 0 28110
+D2
+~
+~
+0 0 28112
+S
+#28112
+Wyvern Street~
+  The cobblestone street in need of repair leads from the south to
+the north.  Tall stone buildings line the eastern side of the street,
+most of them several stories and almost all of them with closed
+wooden doors.
+~
+281 0 1
+D0
+~
+~
+0 0 28111
+D2
+~
+~
+0 0 28113
+S
+#28113
+Wyvern Street~
+  The cobblestone street leads from the another street to the south
+northwards along the city wall.  Buildings run in a straight row
+along side the street, packed tightly together so that there is less
+than a foot or so between them.
+~
+281 0 0
+D0
+~
+~
+0 0 28112
+D2
+~
+~
+0 0 28114
+E
+sign~
+  The wooden sign is painted solid black with bright white letters which say:
+            
+                            "Molo's House of Trinkets"
+~
+S
+#28114
+Daegen Street~
+  The wide cobblestone street runs from the large city gates to the west
+towards the central part of the city, east from here.  Another smaller
+street leads off both north and south from here, offering access to the
+many stone buildings that run alongside the street.
+~
+281 0 1
+D0
+~
+~
+0 0 28113
+D1
+~
+~
+0 0 28115
+S
+#28115
+Daegen Street~
+  Buildings line both sides of the street, to the north looks to be
+an inn of sorts with a red painted sign above its doorway, and to the
+south appears a stable.  The cobblestone street leads both east and
+west from here, with a large black tower being noticeably visible to
+the east.
+~
+281 0 1
+D0
+~
+wooden door~
+1 0 28116
+D3
+~
+~
+0 0 28114
+S
+#28116
+Inside the Inn~
+  The interior of this building is a combination of stone walls and wooden
+framework, with bits of furniture and a reception desk fleshing out the
+room.  Stair lead up toward a second story, presumably where the rooms of
+this inn reside, and through an archway on the eastern wall of the room lies
+a tavern.
+~
+281 0 0
+D2
+~
+wooden door~
+1 0 28115
+S
+#28117
+Village Path~
+ A dirt path runs north to south, with a wooden structure to the west and the protective village wall to the east.
+~
+281 0 0
+D0
+~
+~
+0 0 28118
+D2
+~
+~
+0 0 28116
+S
+#28118
+Village Path Intersection~
+  Two paths intersect here, one that runs north to south, and the other from east to west.  Wooden buildings run both east and west, and to the south looms the protective wall that guards the village.
+~
+281 0 0
+D1
+~
+~
+0 0 28119
+D2
+~
+~
+0 0 28117
+D3
+~
+~
+0 0 28120
+S
+#28119
+Eastern Village Gate~
+  A solid wooden gate reinforced with iron ties stands at least 20 feet tall, providing travel through the protective wall that surrounds this isolated village.
+~
+281 0 0
+D3
+~
+~
+0 0 28118
+S
+#28120
+Village Path~
+  A dirt path runs east to west here, with buildings on either side and an intersection of paths to the west.
+~
+281 0 0
+D1
+~
+~
+0 0 28118
+D3
+~
+~
+0 0 28121
+S
+#28121
+Village Path~
+  A dirt path runs east to west here, with buildings on either side and an intersection of paths to the west.
+~
+281 0 0
+D1
+~
+~
+0 0 28120
+D3
+~
+~
+0 0 28100
+S
+#28122
+Village Path~
+  A dirt path runs east to west here, with buildings on either side and an intersection of paths to the west.
+~
+281 0 0
+D1
+~
+~
+0 0 28100
+D3
+~
+~
+0 0 28123
+S
+#28123
+Village Path~
+  A dirt path runs east to west here, with buildings on either side and an intersection of paths to the west.
+~
+281 0 0
+D1
+~
+~
+0 0 28122
+D3
+~
+~
+0 0 28124
+S
+#28124
+Village Path Intersection~
+  Two paths intersect here, one that runs north to south, and the other from east to west.  Wooden buildings run both east and west, and to the south looms the protective wall that guards the village.
+~
+281 0 0
+D1
+~
+~
+0 0 28123
+S
+#28150
+Vrok's Study~
+  Magnificent pillars of solid black stone rise out of the floor in a
+semi-circular fashion around gnarled wooden chair that is covered with
+various tomes and books.  The walls are carved out to provide shelves
+to hold even more tomes, and to one side of the room lies a desk littered
+with parchment.  The only exit is the spiral stairway carved out of the
+floor.
+~
+281 8 0
+D5
+~
+~
+0 0 28151
+S
+#28151
+Vrok's Chambers~
+  Several dressers, a bed, and a desk comprise the furniture of this 
+room.  Clothes are strewn about the floor, along with various books
+and pieces of parchment.  The entire room is in disarray, with only a
+spiraling staircase leading up and a wooden door leading out for exits.
+~
+281 8 0
+D2
+~
+hidden door~
+1 0 28152
+D4
+~
+~
+0 0 28150
+S
+#28152
+Storage Room~
+  Miscellaneous cleaning equipment and detergents line the stained wooden
+shelves of this room.  Dust seems to litter most of the area, enough so that
+only a few footprints are visible on the floor...obvisously the cleaning
+equipment isn't used very often.  A spiral staircase leads down through the
+floor into the lower story.
+~
+281 8 0
+D0
+~
+hidden door~
+1 0 28151
+E
+footprints~
+  The footprints all seem to lead to a single shelf on the northern wall.
+~
+E
+shelf~
+  On closer inspection the shelf appears to be not a shelf, but instead a
+hidden door.
+~
+S
+#99999
+$~

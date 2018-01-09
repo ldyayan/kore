@@ -1,0 +1,6 @@
+>entry_prog 100~
+  if inroom($i) == 6508
+    mpecho $I turns and salutes the flag.
+  endif
+~
+|

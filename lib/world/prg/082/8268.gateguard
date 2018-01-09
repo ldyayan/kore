@@ -1,0 +1,31 @@
+>command_prog east~
+  if isimmort($n)
+    if name($n) == zirnozz
+      bow zirnozz
+    endif
+  else
+    if isnpc($n)
+    else
+      if isgood($n)
+        nod $n
+      else
+        mpechoat $n $I places a hand on your chest and stops you in your tracks.
+        mpechoaround $n $I stops $N from moving through the gates.
+        say Only the righteous shall pass!
+        mpstopcommand
+      endif
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isfight($r)
+      mpat 8230 if ischarhere(8262)
+      mpechoat $r A hail of arrows come streaming down from the slots in the wall, and several find their mark - in YOU!!
+      mpechoaround $r Arrows emerging from slots in the wall rain down upon $R!
+      mpdamage $r 20d10
+      endif
+    endif
+  endif
+~
+|

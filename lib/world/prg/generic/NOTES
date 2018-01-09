@@ -1,0 +1,7 @@
+block_<dir>	block someone unless they're invis or sneaking
+block_all_<dir>	block someone no matter what
+falling_room	makes a person fall down to the next room if they cant fly
+		should check for feather fall (if so, just make em drift down)
+ghost		makes a mob disappear but leave any stuff it had behind
+		a way to make mobs not leave a corpse -- with modifications
+		it could leave a corpse object kind of thing

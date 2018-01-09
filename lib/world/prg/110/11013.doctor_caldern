@@ -1,0 +1,57 @@
+>greet_prog 100~
+  say Hello your Highne.. Who are you?  What are you doing here?
+  mpecho $I gulps as he looks you over.
+  say hmmm... please leave?  please??
+  mpecho $I begs you for his life!
+  say DONT KILL ME!
+~
+>fight_prog 5~
+  cower
+  say NOT IN THE FACE! NOT IN THE FACE!
+~
+>fight_prog 10~
+  mpecho $I grabs a vial of greenish powder and throws it in the air!
+  mpecho The powder is gathered up by a magical wind and blows in your face!
+  mpcallmagic 'poison' all
+~
+>fight_prog 15~
+  mpechoat $r In total desperation, $I grabs a chair and hurls it at you!
+  mpechoaround $r $I screams wildly as he suddenly hurls a chair at $R!
+  mpechoaround $r LOOK OUT!  OUCH! That's going to leave a mark.
+  mpechoat $r You try to duck nimbly, but end up lowering your head into it's path!
+  mpechoat $r CRACK!  OOOOwwwwWWW!!!
+  mpdamage $r 8d15+10
+  mpoload 11031
+  mpsilent drop chair
+~
+>fight_prog 20~
+  mpecho $I spins suddenly, grabs a dark crimson bottle and throws it at you!
+  mpecho The bottle erupts into flame, catching the room in a huge explosion!!
+  mpecho The flames rise high as you smell you skin BUBBLING!
+  mpdamage all 10d15+50
+~
+>fight_prog 35~
+  say Please leave me alone!!
+  mpecho $I spins quickly, grabs a glass jar with bubbling green fluid and hurls it your way!
+  mpecho The jar shatters and the acid SPLATTERS on your face MELTING YOUR FEATURES!!
+  mpdamage all 15d10+5
+  mpcallmagic 'blindness' all
+~
+>rand_prog 7~
+  mpecho $I runs around the room screaming, 'Dont touch me! I don't know anything! The Queen made me do it!'
+  mpsilent purge hole
+~
+>rand_prog 100~
+  # this rand_prog must be the last rand_prog
+  # the idea is to continually purge the hole he loads at death
+  mppurge hole
+~
+>death_prog 100~
+  mpoload 11038
+  mpsilent drop hole
+  mpecho Blood leaking from his lips, $I grabs a large vial of some unknown chemical and slams it into the ground.
+  mpecho KA-BOOOOOOOOOOOM!!!
+  mpecho $I is dead!  R.I.P.
+  mpecho The dust settles down after many violent minutes and all is quiet.
+~
+|

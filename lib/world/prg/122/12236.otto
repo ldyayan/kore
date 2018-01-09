@@ -1,0 +1,49 @@
+>social_prog chat slums~
+  mptrigger $n slums
+~
+>social_prog ask slums~
+  mptrigger $n slums
+~
+>speech_prog slums~
+  mptrigger $n slums
+~
+>script_prog slums~
+  emote scratches his half-grown mustache and grins.
+#
+  say So you want to know about the slums do you?
+#
+  say Well the slums are a dangerous place for the inexperienced and naive.
+#
+  say It's crowded with beggars, prostitutes, and addicts, but thats fine with me... the more money I can make.
+#
+  say Just remember one thing when you're here in the slums ...
+#
+  say Anything goes!
+#
+  emote chuckles and goes back to his business.
+~
+>social_prog ask estate~
+  mptrigger $n estate
+~
+>social_prog chat estate~
+  mptrigger $n estate
+~
+>speech_prog estate~
+  mptrigger $n estate
+~
+>script_prog estate~
+  emote closes his eyes in concentration.
+#
+  say Ahh, yes, the Estate of the Artificer.
+#
+  say A most... unusual sight.
+#
+  think
+#
+  say It's rather easy to find.  You know about that little path known as Dunbar's Road?  Just following it in a southwesterly direction, and you'll see it sooner of later.
+#
+  say Hrm, that's all you want to know?  You sure you don't want to buy something?
+#
+  emote frowns and turns back to his work.
+~
+|

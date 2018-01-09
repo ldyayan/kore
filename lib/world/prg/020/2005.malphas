@@ -1,0 +1,88 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    if name($n) == karn
+      bow karn
+      break
+    else
+      if ispc($n)
+        mptrigger $n malphas-greet
+      endif
+    endif
+  endif
+~
+>command_prog kill~
+  mpechoat $n You try to attack, but your body won't repond.
+  mpstopcommand
+~
+>command_prog hit~
+  mpechoat $n You try to attack, but your body won't repond.
+  mpstopcommand
+~
+>command_prog flee~
+  say You can never flee, never get away, there is no escape!
+  mpstopcommand
+~
+>command_prog cast~
+  cackle
+  say Cast spells in my presence?  Never!
+  mpechoat $n Malphas reaches into your mind and destroys your concentration.
+  mpechoaround $n Malphas the Black stares into $n's eyes and grins.
+  switch $n
+  mpstopcommand
+~
+>command_prog sing~
+  cackle
+  say Cast spells in my presence?  Never!
+  mpechoat $n Malphas reaches into your mind and destroys your concentration.
+  mpechoaround $n Malphas the Black stares into $n's eyes and grins.
+  switch $n
+  mpstopcommand
+~
+>command_prog pray~
+  cackle
+  say Cast spells in my presence?  Never!
+  mpechoat $n Malphas reaches into your mind and destroys your concentration.
+  mpechoaround $n Malphas the Black stares into $n's eyes and grins.
+  switch $n
+  mpstopcommand
+~
+>command_prog north~
+  mpechoat $n Malphas steps in front of you blocking the exit.
+  mpstopcommand
+~
+>script_prog malphas-greet~
+  say Foolish mortals!  Why have you come?!
+@
+  say I'll enjoy this....
+@
+  if ispc($n)
+    kill $n
+  endif
+~
+>fight_prog 3~
+  emote opens a rift and summons help from across the planes.
+  mpmload 2036
+  mpforce helper_malphs assist malphas
+~
+>fight_prog 6~
+  emote opens a rift and summons help from across the planes.
+  mpmload 2037
+  mpforce helper_malphs assist malphas
+~
+>fight_prog 9~
+  emote opens a rift and summons help from across the planes.
+  mpmload 2038
+  mpforce helper_malphas assist malphas
+~
+>fight_prog 12~
+  emote opens a rift and summons help from across the planes.
+  mpmload 2039
+  mpforce helper_malphas assist malphas
+~
+>fight_prog 15~
+  emote opens a rift and summons help from across the planes.
+  mpmload 2040
+  mpforce helper_malphas assist malphas
+~
+|

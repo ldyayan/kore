@@ -1,0 +1,6 @@
+>fight_prog 15~
+  mpecho $I showers you in pus!!
+  mpcallmagic 'blind' all
+  mpdamage all 30
+~
+|

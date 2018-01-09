@@ -1,0 +1,8 @@
+>fight_prog 15~
+   mpechoat $r $I reaches out to touch you, and CHILLS YOU TO THE CORE!
+   mpechoaround $r $I reaches toward $r and you see $K skin turn blue from the cold!
+   mpdamage $r 8d10+10
+   mpechoat $r Brrrrrr.
+~
+|
+

@@ -1,0 +1,35 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+    flee
+  else
+    if ispc($n)
+      if isevil($n)
+        shout Evil will not be tolerated in my city!! $N shall die!
+        kill $n
+      else
+        say I would like to chat but unfortunately I am a bit busy.
+        emote points at the door.
+        say You must leave now.
+      endif
+    endif
+  endif
+~ 
+>rand_prog 1~
+  if isimmort($r)
+  else
+    say I thought I asked you to leave!
+    mptransfer $r nearby
+  endif
+~ 
+>fight_prog 10~
+  if inroom($r) == here
+    shout GUARDS!!!!
+    emote blows on a small whistle and about three guards come running through the door!
+    mpsilent mpmload 16606
+    mpsilent mpmload 16606
+    mpsilent mpmload 16606
+    say Attack! Attack!
+  endif
+~ 
+|

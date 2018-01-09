@@ -1,0 +1,29 @@
+>greet_every_prog 50~
+  if name($n) == zirnozz
+    fear zirnozz
+  else
+    if race($n) == troll
+    or race($n) == giant
+      nod $n
+      hide
+    endif
+  endif
+~
+>fight_prog 11~
+  if hitprcnt($i) < 30
+    cast 'heal'
+  endif
+~
+>fight_prog 17~
+  if inroom($r) == here
+    if isfight($r)
+      if hasworn($i) == 2291
+        mpechoat $r $I brings his massive club around and slugs you in the back!
+        mpechoaround $r $I whacks $R powerfully in the back with his massive club!
+        mpechoaround $r $R screams out and clutches $L back.
+        mpdamage $r 11d7
+      endif
+    endif
+  endif
+~
+|

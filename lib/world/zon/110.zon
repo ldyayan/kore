@@ -1,0 +1,164 @@
+#110
+Ruins of Trokair~
+11099 40 1 35
+M 0 11009     1 11073            the nightmare
+E 1 11015    15     3                    neck 1 a ^Yfiery^n ^Rmane^n
+M 0 11009     2 11073            the nightmare
+E 1 11019    15     8                    feet a pair of ^Rfl^n^Ya^n^Wm^n^Yin^n^Rg^n horseshoes
+M 0 11009     3 11073            the nightmare
+E 1 11017    15    13                    waist the saddlebags of night
+M 0 11037     1 11073            trapdoor blocker
+D 0 11073     5     1            Inside the Stable door down
+M 0 11005     1 11043            the Undead Lord
+E 1 11002     9     3                    neck 1 a ^WTrokair^n ^Ymedallion^n
+E 1 11018    20     6                    head a crown of bones
+M 0 11015     1 11043            the guardian spirit
+M 0 11015     2 11043            the guardian spirit
+M 0 11015     3 11043            the guardian spirit
+D 0 11043     2     1            The Ritual Feast door south
+M 0 11014     1 11002            the Death Demon
+G 1 11020    55    -1                    give a contract from below
+E 1 11028    10    17                    held a stone ^Wpulsating^n with ^Rpower^n
+E 1 11040    30     3                    neck 1 an amulet of planar stability
+G 1 11020    80    -1                    give a contract from below
+M 0 11018     1 11087            Grakos the Deathknight
+E 1 11002     9     3                    neck 1 a ^WTrokair^n ^Ymedallion^n
+E 1 11009    10    16                    wield a sword named '^bStorm^n ^WBringer^n'
+E 1 11001    20     9                    hands the Gauntlets of Chaos
+E 1 11020    99    17                    held a contract from below
+D 0 11087     0     2            The War Chamber door north
+M 0 11002     1 11010            the banshee
+E 1 11002     8     3                    neck 1 a ^WTrokair^n ^Ymedallion^n
+E 1 11005    10    17                    held a ^rj^n^we^n^cw^n^ye^n^gl^n^be^n^rd^n skull
+D 0 11010     0     1            Eerie Wail door north
+D 0 11010     5     2            Eerie Wail door down
+M 0 11025     1 11010            notthere scrounge_mob
+O 0 11041   101 11010            the refuse spread on the floor
+M 0 11017     1 11080            Irinia, the Sorceress Queen
+E 1 11025    45    16                    wield a ^rblood^n covered ^Wsilver^n sceptre
+E 1 11023    15    12                    about the ^Rs^n^Yp^n^Ce^n^Wc^n^Rt^n^Yr^n^Ca^n^Wl^n cloak
+E 1 11024    20     3                    neck 1 an amulet made of jet-black stone
+M 0 11006    17 11080            a dark knight
+M 0 11006    18 11080            a dark knight
+O 0 11026   101 11080            the Throne of Bone
+D 0 11080     0     2            The Throne Room door north
+M 0 11016     1 11088            Artemis
+E 1 11030   101    16                    wield a sharp dagger
+E 1 11016    33     9                    hands the Gloves of Master Thievery
+E 1 11014    20    12                    about the Cloak of Nether Shadow
+E 1 11010    15    16                    wield the Life Chisel
+R 0 11013 11006    -1            remove an oil painting of Rulios
+O 0 11006   101 11013            an oil painting of Rulios
+P 1 11007   101 11006                    put a fading key in an oil painting of Rulios
+D 0 11013     2     2            Rulios' Study door south
+M 0 11013     1 11078            Doctor Caldern
+E 1 11013    80    17                    held a wax tablet
+E 1 11012    17    16                    wield a ^rj^n^we^n^cw^n^ye^n^gl^n^be^n^rd^n stylus
+G 1 11013    55    -1                    give a wax tablet
+M 0 11036     1 11044            notthere wall_reset
+D 0 11074     4     1            Spiral Staircase door up
+M 0 11008     1 11068            the shadow mastiff
+M 0 11008     2 11068            the shadow mastiff
+O 0 11037   101 11068            a crack in the shadow wall
+O 0 11036   101 11065            a crack in the shadow wall
+M 0 11006     7 11040            a dark knight
+M 0 11006     8 11040            a dark knight
+M 0 11006     9 11040            a dark knight
+D 0 11040     2     1            Merchant's Row door south
+M 0 11004     1 11040            the ghoul
+M 0 11004     2 11040            the ghoul
+M 0 11001     1 11040            the zombie
+M 0 11001     2 11040            the zombie
+O 0 11004     3 11011            a tome of storage
+D 0 11011     0     2            Knowledge Vault door north
+D 0 11011     4     2            Knowledge Vault door up
+M 0 11007     1 11001            a muckdweller
+M 0 11007     2 11001            a muckdweller
+M 0 11007     3 11001            a muckdweller
+D 0 11009     2     1            Before a Hut door south
+M 0 11006     1 11027            a dark knight
+M 0 11006     2 11027            a dark knight
+M 0 11006     3 11027            a dark knight
+M 0 11006     4 11027            a dark knight
+M 0 11001     3 11042            the zombie
+M 0 11001     4 11042            the zombie
+M 0 11001     5 11042            the zombie
+M 0 11004     3 11042            the ghoul
+M 0 11004     4 11042            the ghoul
+D 0 11042     0     1            Ruined Courtyard door north
+M 0 11001     6 11030            the zombie
+M 0 11004     5 11030            the ghoul
+M 0 11006     5 11030            a dark knight
+M 0 11006     6 11030            a dark knight
+O 0 11011   101 11030            a fountain
+M 0 11003     1 11003            the bog wraith
+E 1 11027    10     8                    feet muck covered boots
+M 0 11003     2 11003            the bog wraith
+E 1 11027    10     8                    feet muck covered boots
+M 0 11003     3 11003            the bog wraith
+E 1 11027    10     8                    feet muck covered boots
+M 0 11003     4 11003            the bog wraith
+E 1 11027    10     8                    feet muck covered boots
+M 0 11003     5 11003            the bog wraith
+E 1 11027    10     8                    feet muck covered boots
+M 0 11008     3 11069            the shadow mastiff
+M 0 11008     4 11070            the shadow mastiff
+M 0 11008     5 11071            the shadow mastiff
+M 0 11010     1 11077            the chained man
+M 0 11011     1 11076            the tortured soul
+M 0 11012     1 11046            the statue of Mishakal
+D 0 11046     0     1            Temple of Mishakal door north
+M 0 11007     4 11006            a muckdweller
+M 0 11007     5 11006            a muckdweller
+M 0 11003    10 11006            the bog wraith
+O 0 11029   101 11006            a sign
+M 0 11001     7 11026            the zombie
+E 1 11027    10     8                    feet muck covered boots
+M 0 11006    10 11026            a dark knight
+M 0 11004     6 11029            the ghoul
+E 1 11027    10     8                    feet muck covered boots
+M 0 11004     7 11029            the ghoul
+E 1 11027    10     8                    feet muck covered boots
+M 0 11001     8 11029            the zombie
+E 1 11027    10     8                    feet muck covered boots
+M 0 11006    11 11029            a dark knight
+M 0 11019     1 11029            the bartender
+M 0 11004     8 11028            the ghoul
+E 1 11027    10     8                    feet muck covered boots
+M 0 11004     9 11028            the ghoul
+E 1 11027    10     8                    feet muck covered boots
+M 0 11006    12 11028            a dark knight
+M 0 11001     9 11031            the zombie
+E 1 11027    10     8                    feet muck covered boots
+M 0 11006    13 11031            a dark knight
+M 0 11006    14 11031            a dark knight
+M 0 11004    10 11032            the ghoul
+E 1 11027    10     8                    feet muck covered boots
+M 0 11004    12 11032            the ghoul
+M 0 11004    13 11038            the ghoul
+E 1 11027    10     8                    feet muck covered boots
+M 0 11006    15 11038            a dark knight
+M 0 11006    16 11038            a dark knight
+D 0 11086     0     1            A Quiet Hall door north
+D 0 11086     2     2            A Quiet Hall door south
+M 0 11006    27 11084            a dark knight
+M 0 11006    28 11084            a dark knight
+M 0 11006    29 11084            a dark knight
+D 0 11084     2     1            Briefing Room door south
+M 0 11006    19 11036            a dark knight
+M 0 11006    20 11036            a dark knight
+D 0 11036     2     2            Before the Throne Room door south
+M 0 11006    21 11081            a dark knight
+M 0 11006    22 11081            a dark knight
+M 0 11006    23 11082            a dark knight
+M 0 11006    24 11082            a dark knight
+M 0 11006    25 11083            a dark knight
+M 0 11006    26 11083            a dark knight
+M 0 11003     6 11008            the bog wraith
+M 0 11003     7 11008            the bog wraith
+M 0 11003     8 11004            the bog wraith
+M 0 11003     9 11004            the bog wraith
+M 0 11024     1 11099            the essence of the nether void
+S
+#99999
+$~

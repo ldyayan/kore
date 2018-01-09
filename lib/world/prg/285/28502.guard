@@ -1,0 +1,10 @@
+>greet_prog 20~
+ say Welcome to Jitter Park.
+ smile
+~
+>fight_prog 30~
+ mpechoaround $r $I elbows $R in the face!
+ mpechoat $r $I elbows you in the face!
+ mpdamage $r 2d2+4
+~
+|

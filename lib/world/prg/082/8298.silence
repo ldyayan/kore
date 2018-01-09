@@ -1,0 +1,66 @@
+>command_prog cast~
+  if inroom($n) == here
+    if ispc($n)
+      mpechoaround $n $N tries to cast a spell but the globe silences it.
+      mpechoat $n Okay.
+      mpdrainmana $n 6d6
+      mpechoat $n You try to cast a spell but no sound comes from your lips!
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog say~
+  if inroom($n) == here
+    if ispc($n)
+      mpechoaround $n $N tries to speak but can't seem to make any sound.
+      mpechoat $n You try to speak but no sound comes out!
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog speak~
+  if inroom($n) == here
+    if ispc($n)
+      mpechoaround $n $N tries to speak but can't seem to make any sound.
+      mpechoat $n You try to speak but no sound comes out!
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog whisper~
+  if inroom($n) == here
+    if ispc($n)
+      mpechoaround $n $N tries to speak but can't seem to make any sound.
+      mpechoat $n You try to speak but no sound comes out!
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog ask~
+  if inroom($n) == here
+    if ispc($n)
+      mpechoaround $n $N tries to speak but can't seem to make any sound.
+      mpechoat $n You try to speak but no sound comes out!
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog gsay~
+  if inroom($n) == here
+    if ispc($n)
+      mpechoaround $n $N tries to speak but can't seem to make any sound.
+      mpechoat $n You try to speak but no sound comes out!
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog gtell~
+  if inroom($n) == here
+    if ispc($n)
+      mpechoaround $n $N tries to speak but can't seem to make any sound.
+      mpechoat $n You try to speak but no sound comes out!
+      mpstopcommand
+    endif
+  endif
+~
+|

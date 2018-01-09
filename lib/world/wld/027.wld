@@ -1,0 +1,927 @@
+#2700
+The Arena Gathering Room~
+You are in an unfinished room.
+~
+27 131313 0
+D9
+~
+~
+0 0 2799
+S
+#2701
+The Arena Storage Room~
+   You are standing inside a dummy room, which should get real.
+~
+27 0 0
+S
+#2702
+Climbing the Ladder of Death~
+You are in an unfinished room.
+~
+27 131216 13
+D3
+~
+black death door~
+1 0 2705
+D4
+~
+~
+0 0 2703
+D5
+~
+~
+0 0 2799
+S
+#2703
+Climbing the Ladder of Death~
+You are in an unfinished room.
+~
+27 131216 13
+D3
+~
+black death door~
+1 0 2736
+D4
+~
+~
+0 0 2704
+D5
+~
+~
+0 0 2702
+S
+#2704
+Climbing the Ladder of Death~
+You are in an unfinished room.
+~
+27 131216 13
+D3
+~
+black death door~
+1 0 2756
+D5
+~
+~
+0 0 2703
+S
+#2705
+The Killing Fields, Sector One~
+Sector One: Rooms 2705 through 2735
+~
+27 0 2
+D0
+~
+~
+0 0 2706
+D1
+~
+~
+0 0 2702
+S
+#2706
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2707
+D2
+~
+~
+0 0 2705
+S
+#2707
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D2
+~
+~
+0 0 2706
+D3
+~
+~
+0 0 2709
+D9
+~
+~
+0 0 2708
+S
+#2708
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2711
+D3
+none
+~
+~
+0 0 2710
+D7
+~
+~
+0 0 2707
+D8
+~
+~
+0 0 2716
+S
+#2709
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D3
+~
+~
+0 0 2715
+D8
+~
+~
+0 0 2722
+S
+#2710
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D1
+~
+~
+0 0 2708
+D8
+~
+~
+0 0 2721
+S
+#2711
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2712
+D2
+~
+~
+0 0 2708
+S
+#2712
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D2
+~
+~
+0 0 2711
+D3
+~
+~
+0 0 2713
+S
+#2713
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D1
+~
+~
+0 0 2712
+D3
+~
+~
+0 0 2714
+S
+#2714
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D1
+~
+~
+0 0 2713
+D2
+~
+~
+0 0 2715
+S
+#2715
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2714
+D1
+~
+~
+0 0 2708
+D8
+~
+~
+0 0 2720
+S
+#2716
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D3
+~
+~
+0 0 2717
+D6
+~
+~
+0 0 2708
+S
+#2717
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D1
+~
+~
+0 0 2716
+D3
+~
+~
+0 0 2718
+S
+#2718
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2719
+D1
+~
+~
+0 0 2717
+S
+#2719
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2720
+D2
+~
+~
+0 0 2718
+S
+#2720
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D2
+~
+~
+0 0 2719
+D6
+~
+~
+0 0 2715
+S
+#2721
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D3
+~
+~
+0 0 2720
+D6
+~
+~
+0 0 2710
+S
+#2722
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D3
+~
+~
+0 0 2723
+D6
+~
+~
+0 0 2709
+S
+#2723
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2724
+D1
+~
+~
+0 0 2722
+S
+#2724
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2725
+D2
+~
+~
+0 0 2723
+S
+#2725
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2727
+D2
+~
+~
+0 0 2724
+D9
+~
+~
+0 0 2726
+S
+#2726
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D3
+~
+~
+0 0 2728
+D6
+~
+~
+0 0 2729
+D7
+~
+~
+0 0 2725
+S
+#2727
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D2
+~
+~
+0 0 2725
+S
+#2728
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2732
+D2
+~
+~
+0 0 2726
+S
+#2729
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2730
+D8
+~
+~
+0 0 2726
+S
+#2730
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D3
+~
+~
+0 0 2731
+D6
+~
+~
+0 0 2709
+S
+#2731
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D1
+~
+~
+0 0 2730
+D2
+~
+~
+0 0 2715
+S
+#2732
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D2
+~
+~
+0 0 2728
+D9
+~
+~
+0 0 2733
+S
+#2733
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D7
+~
+~
+0 0 2732
+D8
+~
+~
+0 0 2734
+S
+#2734
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2735
+D6
+~
+~
+0 0 2733
+S
+#2735
+The Killing Fields~
+You are in an unfinished room.
+~
+27 1 2
+D0
+~
+~
+0 0 2722
+D2
+~
+~
+0 0 2734
+S
+#2736
+Death Arena~
+Sector Two: rooms 2736 through 2755
+~
+27 0 2
+D1
+~
+~
+0 0 2703
+S
+#2737
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2738
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2739
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2740
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2741
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2742
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2743
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2744
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2745
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2746
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2747
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2748
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2749
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2750
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2751
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2752
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2753
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2754
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2755
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2756
+Death Arena~
+Sector Three: Rooms 2756 through 2785
+~
+27 0 0
+D1
+~
+~
+0 0 2704
+S
+#2757
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2758
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2759
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2760
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2761
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2762
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2763
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2764
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2765
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2766
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2767
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2768
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2769
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2770
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2771
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2772
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2773
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2774
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2775
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2776
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2777
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2778
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2779
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2780
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2781
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2782
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2783
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2784
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2785
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2786
+Death Arena~
+Empty
+~
+27 0 0
+D1
+~
+~
+0 0 2799
+S
+#2787
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2788
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2789
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2790
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2791
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2792
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2793
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2794
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2795
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2796
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2797
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2798
+Death Arena~
+You are in an unfinished room.
+~
+0 0 0
+S
+#2799
+Death Arena~
+You are in an unfinished room.
+~
+27 0 0
+D3
+~
+~
+0 0 2786
+D4
+~
+~
+0 0 2702
+S
+#99999
+$~

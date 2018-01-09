@@ -1,0 +1,121 @@
+#235
+New Shire~
+23599 35 2 32
+M 0 23505     1 23542            a madman
+O 0 23501   101 23500            a sign posted by the Thain
+D 0 23513     2     1            End of Bywater Street door south
+M 0 23515     1 23552            the Grand Master of Thieves in the Shire
+E 1 23507    15    16                    wield a nasty dagger
+M 0 23507     4 23552            a petty thief
+M 0 23508     4 23552            the confident thief
+M 0 23510     6 23552            a deadly assassin
+M 0 23511     2 23552            a bodyguard assassin
+M 0 23511     2 23552            a bodyguard assassin
+D 0 23527     0     2            A run-dorwn old building door north
+M 0 23500     1 23571            Gandalf the Grey
+E 1 23503    40    12                    about a ^Wsilvery^n cloak
+E 1 23502    10    17                    held the ^rr^n^yai^n^gn^n^bb^n^mow^n staff
+M 0 23534     3 23571            a halfling tavern-goer
+O 0 23508   101 23508            a bread
+O 0 23512   101 23508            a cookie
+O 0 23513   101 23508            a slice of cake
+O 0 23514   101 23508            a chocolate eclair
+O 0 23515   101 23508            a crumpet
+O 0 23516   101 23508            a scone
+O 0 23510   101 23506            a sheet of paper
+O 0 23511   101 23506            a feather pen
+M 0 23506     1 23528            the silent beggar
+E 1 23507    15    16                    wield a nasty dagger
+D 0 23528     5     2            A beggar's home door down
+M 0 23545     1 23578            the blacksmith
+M 0 23502     1 23505            the shopkeeper
+E 1 23504    25    16                    wield a halfling short sword
+M 0 23501     7 23577            a halfling youth
+M 0 23503     4 23509            a mill worker
+M 0 23504     1 23509            the mill attendant
+O 0 23509   101 23509            a huge millstone
+M 0 23501     7 23504            a halfling youth
+G 1 23505    70    -1                    give a halfling dagger
+M 0 23507     6 23544            a petty thief
+E 1 23505    70    16                    wield a halfling dagger
+M 0 23507     6 23544            a petty thief
+M 0 23508     6 23544            the confident thief
+D 0 23544     4     2            An Underground Passage door up
+M 0 23507     6 23545            a petty thief
+M 0 23507     6 23545            a petty thief
+M 0 23508     6 23550            the confident thief
+M 0 23508     6 23550            the confident thief
+M 0 23510     6 23550            a deadly assassin
+M 0 23510     6 23550            a deadly assassin
+M 0 23509     4 23551            a hired killer
+M 0 23509     4 23551            a hired killer
+M 0 23510     6 23551            a deadly assassin
+M 0 23510     6 23551            a deadly assassin
+M 0 23509     4 23551            a hired killer
+M 0 23508     6 23551            the confident thief
+M 0 23508     6 23551            the confident thief
+M 0 23507     6 23551            a petty thief
+M 0 23512     7 23553            a halfling shiriff
+M 0 23512     7 23553            a halfling shiriff
+M 0 23512     7 23553            a halfling shiriff
+M 0 23512     7 23553            a halfling shiriff
+M 0 23514     3 23525            a halfling guard
+M 0 23514     3 23525            a halfling guard
+M 0 23514     3 23525            a halfling guard
+M 0 23517     1 23526            the Thain of the Shire
+M 0 23516     7 23518            the halfling shiriff
+M 0 23516     7 23518            the halfling shiriff
+M 0 23516     7 23518            the halfling shiriff
+M 0 23519     1 23557            the Halfling Mage Guildmaster
+M 0 23518     5 23558            the halfling mage
+M 0 23518     5 23558            the halfling mage
+M 0 23518     5 23558            the halfling mage
+M 0 23520     3 23560            a halfling bard
+M 0 23520     3 23560            a halfling bard
+M 0 23520     3 23560            a halfling bard
+M 0 23522     1 23564            Guildmaster of the Red Robes
+M 0 23524     3 23563            a cleric
+M 0 23524     3 23563            a cleric
+M 0 23524     3 23563            a cleric
+M 0 23570     2 23570            an elf
+M 0 23571     2 23570            a dwarf
+M 0 23572     2 23570            a human
+M 0 23573     2 23570            a halfling
+M 0 23570     2 23570            an elf
+M 0 23571     2 23570            a dwarf
+M 0 23572     2 23570            a human
+M 0 23573     2 23570            a halfling
+M 0 23534     3 23561            a halfling tavern-goer
+M 0 23534     3 23561            a halfling tavern-goer
+M 0 23575     1 23561            a young, hobbit thief
+M 0 23530     2 23548            the Wife's Guard
+M 0 23530     2 23548            the Wife's Guard
+M 0 23525     1 23572            the mayor's wife
+M 0 23526     3 23573            a cook
+M 0 23526     3 23573            a cook
+M 0 23526     3 23573            a cook
+M 0 23527     1 23573            the chef
+M 0 23540     1 23521            the mayor's secretary
+M 0 23542     3 23519            a halfling representative
+M 0 23542     3 23519            a halfling representative
+M 0 23542     3 23519            a halfling representative
+M 0 23543     3 23516            a halfling senator
+M 0 23543     3 23516            a halfling senator
+M 0 23543     3 23516            a halfling senator
+M 0 23546     1 23511            the halfling armourer
+M 0 23528     1 23507            the halfling baker
+M 0 23541     1 23522            Mayor Gamgee
+M 0 23565    10 23515            a halfling businessman
+M 0 23565    10 23515            a halfling businessman
+M 0 23565    10 23515            a halfling businessman
+M 0 23565    10 23515            a halfling businessman
+M 0 23566     7 23523            a halfling businesswoman
+M 0 23566     7 23523            a halfling businesswoman
+M 0 23566     7 23523            a halfling businesswoman
+M 0 23567     1 23523            the speaker, a business woman
+M 0 23568    10 23520            a halfling businessman
+M 0 23568    10 23520            a halfling businessman
+M 0 23533     1 23576            the Bard Guildmaster
+S
+#99999
+$~

@@ -1,0 +1,9 @@
+>greet_prog 100~
+  if ispc($n)
+    mpechoat $n You sail through the air like a big rock!!
+    mpechoaround $n $N falls screaming to the ground below...
+    mpforce $n down
+  endif
+~
+|
+

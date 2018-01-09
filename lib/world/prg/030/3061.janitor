@@ -1,0 +1,33 @@
+>rand_prog 3~
+  if isfight($i)
+  else
+    emote whistles a happy tune.
+  endif
+~
+>rand_prog 3~
+  if isfight($i)
+  else
+    emote sweeps up.
+  endif
+~
+>greet_prog 5~
+  if isfight($i)
+    say Help me $N!
+  else
+    nod $n
+  endif
+~
+>greet_prog 5~
+  if isfight($i)
+    say Someone do something!
+  else
+    wave $n
+  endif
+~
+>fight_prog 5~
+  say Help!  I'm being attacked!
+~
+>fight_prog 5~
+  say Help!  Guards!
+~
+|

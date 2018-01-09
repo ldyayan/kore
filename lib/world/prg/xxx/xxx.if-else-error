@@ -1,0 +1,32 @@
+>greet_prog 100~
+  if inroom($r) == here
+    say here
+  else
+    say not here
+  endif
+  if ispc($r)
+    say pc
+  else
+    say not pc
+  endif
+  if isimmort($r)
+    say bow to $R
+  else
+    say whatever loser
+  endif
+  if inroom($r) == here
+    if ispc($r)
+      if isimmort($r)
+        say hi there $R, I havent seen an else, thats my guess
+      else
+        mpechoat $r Hey I dont think you're here
+      endif
+    else
+      mpechoat $r you're not a PC are you?
+      say Not a pc, who is $R then??!
+    endif
+  else
+    mpechoat $r you're not here are you $R?
+  endif
+~
+|

@@ -1,0 +1,80 @@
+#36
+the chessboard of the Tyrant~
+3699 10 1 32
+M 0  3610     1  3605            the Black King
+E 1  3612    15    17                    held the Black King's Sceptre
+M 0  3600     8  3609            the Pawn of the Black Court
+E 1  3602    25     5                    body a black pawn's sword
+E 1  3600    25    16                    wield some black pawn armour
+M 0  3600     8  3610            the Pawn of the Black Court
+E 1  3602    25     5                    body a black pawn's sword
+E 1  3600    25    16                    wield some black pawn armour
+M 0  3600     8  3611            the Pawn of the Black Court
+E 1  3602    25     5                    body a black pawn's sword
+E 1  3600    25    16                    wield some black pawn armour
+M 0  3600     8  3612            the Pawn of the Black Court
+E 1  3602    25     5                    body a black pawn's sword
+E 1  3600    25    16                    wield some black pawn armour
+M 0  3600     8  3613            the Pawn of the Black Court
+E 1  3602    25     5                    body a black pawn's sword
+E 1  3600    25    16                    wield some black pawn armour
+M 0  3600     8  3614            the Pawn of the Black Court
+E 1  3602    25     5                    body a black pawn's sword
+E 1  3600    25    16                    wield some black pawn armour
+M 0  3600     8  3615            the Pawn of the Black Court
+E 1  3602    25     5                    body a black pawn's sword
+E 1  3600    25    16                    wield some black pawn armour
+M 0  3600     8  3616            the Pawn of the Black Court
+E 1  3602    25     5                    body a black pawn's sword
+E 1  3600    25    16                    wield some black pawn armour
+M 0  3601     8  3649            the Pawn of the White Court
+E 1  3603    25     5                    body a white pawn's sword
+E 1  3601    25    16                    wield some white pawn armour
+M 0  3601     8  3650            the Pawn of the White Court
+E 1  3603    25     5                    body a white pawn's sword
+E 1  3601    25    16                    wield some white pawn armour
+M 0  3601     8  3651            the Pawn of the White Court
+E 1  3603    25     5                    body a white pawn's sword
+E 1  3601    25    16                    wield some white pawn armour
+M 0  3601     8  3652            the Pawn of the White Court
+E 1  3603    25     5                    body a white pawn's sword
+E 1  3601    25    16                    wield some white pawn armour
+M 0  3601     8  3653            the Pawn of the White Court
+E 1  3603    25     5                    body a white pawn's sword
+E 1  3601    25    16                    wield some white pawn armour
+M 0  3601     8  3654            the Pawn of the White Court
+E 1  3603    25     5                    body a white pawn's sword
+E 1  3601    25    16                    wield some white pawn armour
+M 0  3601     8  3655            the Pawn of the White Court
+E 1  3603    25     5                    body a white pawn's sword
+E 1  3601    25    16                    wield some white pawn armour
+M 0  3601     8  3656            the Pawn of the White Court
+E 1  3603    25     5                    body a white pawn's sword
+E 1  3601    25    16                    wield some white pawn armour
+M 0  3602     2  3601            the Black Rook
+E 1  3604    10     5                    body some black rook armour
+M 0  3602     2  3608            the Black Rook
+E 1  3604    10     5                    body some black rook armour
+M 0  3603     2  3657            the White Rook
+E 1  3605    10     5                    body some white rook armour
+M 0  3603     2  3664            the White Rook
+E 1  3605    10     5                    body some white rook armour
+M 0  3605     2  3658            the White Knight
+E 1  3607    15    16                    wield the Lance of the White Knight
+M 0  3605     2  3663            the White Knight
+E 1  3607    15    16                    wield the Lance of the White Knight
+M 0  3608     1  3604            the Black Queen
+E 1  3610    15     6                    head the Crown of the Black Queen
+M 0  3609     1  3660            the White Queen
+E 1  3611    15     6                    head the Crown of the White Queen
+M 0  3611     1  3661            the White King
+E 1  3613    15    17                    held the White King's Sceptre
+O 0  3616   101  3665            the black royal treasure
+O 0  3617   101  3666            the white royal treasure
+D 0  3604     5     2            A Black Square door down
+D 0  3665     4     2            The Black Treasury door up
+D 0  3660     5     2            A White Square door down
+D 0  3666     4     2            The White Treasury door up
+S
+#99999
+$~

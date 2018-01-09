@@ -1,0 +1,107 @@
+#256
+Hidden Valley~
+25699 28 1 32
+M 0 25604     1 25609            a troubled elven teen
+M 0 25600     1 25600            a small boy
+M 0 25601     1 25600            a small girl
+M 0 25602     1 25600            a small yellow bird
+M 0 25603     1 25600            a frazzled mother
+M 0 25606     1 25602            a small white kitten
+M 0 25606     2 25602            a small white kitten
+M 0 25602     2 25602            a small yellow bird
+M 0 25607     1 25602            an elven citizen
+G 1 25602    80    -1                    give some yummy nuts
+M 0 25600     2 25619            a small boy
+M 0 25600     3 25619            a small boy
+M 0 25600     4 25619            a small boy
+M 0 25601     2 25619            a small girl
+M 0 25601     3 25619            a small girl
+M 0 25601     4 25622            a small girl
+M 0 25601     5 25622            a small girl
+M 0 25601     6 25622            a small girl
+M 0 25600     5 25622            a small boy
+M 0 25600     6 25620            a small boy
+M 0 25601     7 25620            a small girl
+M 0 25601     8 25621            a small girl
+M 0 25600     7 25621            a small boy
+M 0 25600     8 25621            a small boy
+M 0 25600     9 25621            a small boy
+M 0 25600    10 25621            a small boy
+M 0 25605     1 25615            an elderly elven man
+M 0 25606     3 25615            a small white kitten
+M 0 25604     2 25603            a troubled elven teen
+M 0 25600    11 25603            a small boy
+M 0 25601     9 25603            a small girl
+M 0 25607     2 25603            an elven citizen
+G 1 25602    80    -1                    give some yummy nuts
+M 0 25603     2 25629            a frazzled mother
+M 0 25600    12 25629            a small boy
+M 0 25601    10 25629            a small girl
+M 0 25607     3 25604            an elven citizen
+G 1 25602    80    -1                    give some yummy nuts
+M 0 25603     3 25604            a frazzled mother
+M 0 25605     2 25604            an elderly elven man
+M 0 25607     4 25608            an elven citizen
+G 1 25602    80    -1                    give some yummy nuts
+M 0 25607     5 25608            an elven citizen
+M 0 25604     3 25623            a troubled elven teen
+G 1 25603    25    -1                    give a curved dagger
+M 0 25602     3 25624            a small yellow bird
+M 0 25603     4 25624            a frazzled mother
+M 0 25604     4 25625            a troubled elven teen
+G 1 25603    25    -1                    give a curved dagger
+M 0 25604     5 25625            a troubled elven teen
+M 0 25604     6 25625            a troubled elven teen
+M 0 25604     7 25625            a troubled elven teen
+M 0 25607     6 25625            an elven citizen
+G 1 25602    80    -1                    give some yummy nuts
+M 0 25604     8 25626            a troubled elven teen
+M 0 25616     1 25626            an elven merchant
+E 1 25604    20     1                    left finger a pin ring
+M 0 25606     4 25613            a small white kitten
+M 0 25600    13 25613            a small boy
+M 0 25601    11 25613            a small girl
+M 0 25605     3 25605            an elderly elven man
+M 0 25602     4 25605            a small yellow bird
+M 0 25605     4 25642            an elderly elven man
+M 0 25606     5 25642            a small white kitten
+M 0 25606     6 25642            a small white kitten
+M 0 25602     5 25642            a small yellow bird
+M 0 25600    14 25643            a small boy
+M 0 25605     5 25643            an elderly elven man
+M 0 25607     7 25643            an elven citizen
+M 0 25608     1 25640            a naked elven woman
+E 1 25607    15     5                    body a sandalwood comb
+M 0 25608     2 25640            a naked elven woman
+M 0 25608     3 25640            a naked elven woman
+E 1 25607    15     5                    body a sandalwood comb
+M 0 25608     4 25640            a naked elven woman
+M 0 25609     1 25641            a naked elven man
+M 0 25609     2 25641            a naked elven man
+E 1 25606    15    17                    held a white samite towel
+M 0 25609     3 25641            a naked elven man
+M 0 25609     4 25641            a naked elven man
+E 1 25606    15    17                    held a white samite towel
+M 0 25610     2 25630            an elven lifeguard
+E 1 25605    15    13                    waist a necklace of multi-colored seashells
+M 0 25610     3 25630            an elven lifeguard
+M 0 25611     1 25631            an elven woman
+M 0 25612     1 25631            an elven man
+M 0 25611     2 25635            an elven woman
+M 0 25611     3 25637            an elven woman
+M 0 25612     2 25637            an elven man
+M 0 25611     4 25636            an elven woman
+M 0 25612     3 25636            an elven man
+M 0 25612     4 25634            an elven man
+M 0 25613     1 25639            a small elven child
+M 0 25613     2 25639            a small elven child
+M 0 25613     3 25639            a small elven child
+M 0 25613     4 25639            a small elven child
+M 0 25614     1 25628            an elven minstrel
+E 1 25601    20    16                    wield a crystal flute
+M 0 25615     1 25616            an elven goodwife
+M 0 25617     1 25612            an elven gateguard
+M 0 25617     2 25612            an elven gateguard
+S
+#99999
+$~

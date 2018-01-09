@@ -1,0 +1,15 @@
+>greet_prog 100~
+  if isnpc($n)
+    break
+  else
+    mpechoat $n This room is on fire!
+    mpdamage $n 3d8+10
+  endif
+~
+>rand_prog 20~
+  if inroom($r) == here
+    mpechoat all This room is on fire!
+    mpdamage all 3d8+10
+  endif
+~
+|

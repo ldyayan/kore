@@ -1,0 +1,361 @@
+#4800
+teacher~
+The teacher~
+A teacher is sleeping here, as bored as the students are.
+~
+   You see a bored teacher, dozing placidly. ZZZ...
+~
+66 0 0 S
+10 13 10 1d1+1 1d1+1
+15 20
+4 4 1
+#4801
+student~
+A student~
+A student is here, slowly walking to class.
+~
+   You see a sullen student. He looks really depressed at the thought of
+having to study musical scales. *sigh*
+~
+64 0 0 S
+3 16 10 1d1+1 1d1+1
+15 20
+8 8 1
+#4802
+librarian~
+The librarian~
+A librarian stands here, ready to check out your books for you.
+~
+   The crotchety old librarian scowls at you and wishes you'd just sign
+the check-out card for you books and musical scores. Hey! whats that weapon
+you have!?!
+~
+66 0 0 S
+10 13 10 1d1+1 1d1+1
+15 20
+8 8 2
+#4803
+runner~
+the runner~
+a runner is here working out.
+~
+You see a dummy Monster.~
+0 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4804
+instructor~
+your instructor~
+you instructor stands here, looking awfully mad!
+~
+   You instructor looks enranged that you're so late, and she looks like
+she is going to beat you senseless for your insolence!
+~
+34 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 2
+#4805
+vampire bat~
+the vampire bat~
+You hear something flying around above you.
+~
+   Squeek! the vampire bat lunges blindly at you!
+~
+32 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#4806
+bad note~
+the bad note~
+the bad note is here, waiting to assail your senses!
+~
+   The bad note, in a minor chord, waits to blattttt! itself upon your
+musical sense.
+~
+32 524288 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#4807
+thunder drum~
+the Thunder Drum~
+a Great Thunder Drum is here, pealing off huge deep notes.
+~
+   The drum is huge, nearly a hundred feet across, and its tune is DOOM
+DOOM!
+~
+34 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#4808
+animated recorder~
+the Animated Recorder~
+an Animated Recorder stands here, playing some off-key tune.
+~
+   You see a huge black recorder, piping mad tunes! It attacks!
+~
+2 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#4809
+will wisp light~
+the Will o' Wisp~
+A glowing ball of light hovers here.
+~
+   You see a hovering malignant ball of light. You sense immediately that
+the light hates you and would like nothing better than to lead you astray
+and then when you are helpless and confused to batter you down until you 
+fade into a sleep whence the wisp can suck the life energy from your body
+until you are nothing more than a soulless corpse, HAHAHHA!
+~
+32 130 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#4810
+big-daddy daddy will wisp~
+Big-Daddy Will o' Wisp~
+A huge Will o' Wisp is floating here, he must be the Big-Daddy Wisp.
+~
+   You see the hugest mutha Will o' Wisp you ever did see! The hate is 
+palpable as he rushes to come suck the life out of you!
+~
+32 130 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#4811
+harpy~
+the Harpy~
+a Harpy circles above you, looking for something to eat.
+~
+   You see a flying vulture woman, half woman, half vulture. She screams and
+buffets you with her wings, clawing you with her talons!
+~
+32 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 2
+#4812
+bodyguard guard~
+Ilwar's bodyguard~
+Ilwar's bodyguard is standing here, preventing you from getting inside.
+~
+   The bodyguard flexes then brings a big meaty fist down into your face!
+~
+34 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4813
+ilwar~
+Ilwar~
+Ilwar stands over his latest flute, admiring its perfection.
+~
+   Ilwar the great is here, carving a wonderful flute.
+~
+2 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4814
+office person~
+the office person~
+An insecure, anal retentive, office person stand here, blocking your way.
+~
+   The office person refuses to let you by! Kill her!
+~
+2 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 2
+#4815
+master dagger~
+the Master of the Dagger~
+The Master of the Dagger awaits your challenge.
+~
+   The Master of the Dagger tries to stab you!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4816
+master staff~
+the Master of the Staff~
+The Master of the Staff awaits your challenge.
+~
+   The Master of the Dagger tries to hit you with his staff!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4817
+master shortsword short sword~
+the Master of the Short Sword~
+The Master of the Short Sword awaits your challenge.
+~
+   The Master of the Short Sword takes a swipe at you with his gladius!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4818
+master longsword long sword~
+the Master of the Long Sword~
+The Master of the Long Sword awaits your 'challenge'.
+~
+   The Master of the Long Sword takes a swing at you with his blade!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4819
+master mace~
+the Master of the Mace~
+The Master of the Mace awaits your challenge.
+~
+   The Master of the Mace takes a swing straight at your head!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4820
+master bastard sword~
+the Master of the Bastard Sword~
+The Master of the Bastard Sword awaits your challenge.
+~
+   The Master of the Bastard Sword swings his sword and with one blow
+intends to limb you!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4821
+master two-handed twohanded sword~
+the Master of the Two-handed Sword~
+The Master of the Two-handed Sword awaits your challenge.
+~
+   The Master of the Two-handed Sword swings his blade in a wide swath to
+reap the souls of the hapless few that make it this far!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4822
+master martial arts~
+the Master of Martial Arts~
+The Master of Martial Arts is meditating on his mat.
+~
+   The Master of Martial Arts seems to be sitting peacefully on his mat in
+meditation.  Maybe you could strike him now while he is not ready?  Yet the
+legends say his entire body is his weapon and he is never unawares.
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4823
+master wood-winds wood winds~
+the Master of Wood-Winds~
+the Master of Wood-Winds is ready to administer your test.
+~
+   The Master smiles at you and plays his wood-wind.
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4824
+master brass~
+the Master of Brass~
+the Master of Brass is ready to administer your test.
+~
+   The Master toots on his horn!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4825
+master percussion~
+the Master of Percussion~
+the Master of Percussion is ready to administer your test.
+~
+   The Master beats his drum!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4826
+master strings~
+the Master of Strings~
+the Master of Strings is ready to administer your test.
+~
+   The Master plays her violin~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 2
+#4827
+dean~
+the Dean of Bards~
+the Dean of Bards is ready to test if you are truly worthy of your instrument.
+~
+   The Dean of Bards is curious if you really know how to play..!
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4828
+president bard~
+the President~
+the President of the Bardic Colleges is here to give you your Final Exam.
+~
+   The President would love to give you a diploma, but only if you know
+how to play really well. Now is the time to present your thesis in music.
+~
+2 128 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#4829
+bard shopkeeper master retired~
+A retired bard~
+A retired bard is sitting here, waiting for customers.
+~
+     You see an old bard who has retired from adventuring and has opened
+a supply shop for young bards. Although he is old, he still appears very
+strong and powerful.
+~
+778306 5276712 0 S
+55 1 -10 1d1+1 1d1+1
+15 20
+6 8 1
+#4830
+bard principal Fochlucan~
+The Principal~
+The Principal of Fochlucan is here, examining your records.
+~
+   You see an older bard who has seen young turk bards come and go. He looks
+at you and then glances at your records. He shakes his head sadly.
+~
+8258 1032 0 S
+15 12 85 1d1+1 1d1+1
+15 20
+8 8 1
+#99999
+$~

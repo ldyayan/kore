@@ -1,0 +1,111 @@
+#3500
+wyvern~
+the wyvern~
+A monstrous wyvern slowly circles just above your head.
+~
+This huge winged creature looks strikingly like a dragon as it circles only
+inches above your head, flapping its wings and clawing at you.
+~
+66154 0 -700 S
+14 13 3 2d10+90 2d6+1
+0 3575
+8 8 0
+#3501
+orc mountain~
+the orc~
+A broad shouldered orc is sitting here.  He appears to be waiting for you...
+~
+He is a powerful looking orc with an enormous chest.  His skin is almost 
+black in color.  As you watch him he advances on you.
+~
+6248 1024 -400 S
+8 17 6 1d1+55 1d8+0
+0 600
+8 8 1
+#3502
+orc lieutenant~
+the orc lieutenant~
+An orc lieutenant stands here trying to keep his troops in order.
+~
+The orc lieutenant looks to be in a bad mood.  Perhaps you shouldn't have
+shouldn't have gotten in his way.
+~
+6760 1032 -600 S
+12 15 3 1d12+100 2d5+1
+0 2000
+8 8 1
+#3503
+orc chieftain~
+the orc chieftain~
+The orc chieftain stands before you with a grimace on his face.
+~
+He doesn't appear too pleased that you have disturbed him.  You notice that
+a second after you see him go for his weapon.
+~
+6702 1032 -900 S
+18 10 1 1d12+120 2d5+3
+0 8000
+8 8 1
+#3504
+boy small~
+the small boy~
+A small boy sits here, licking his wounds.
+~
+The poor boy has numerous cuts and scratches, but appears to be all right.
+He is apparently the only survivor of the ambush.
+~
+138 0 500 S
+6 17 6 1d12+47 1d8+0
+0 600
+5 5 1
+#3505
+innkeeper~
+the Innkeeper~
+The Innkeeper stands here, cleaning glasses.
+~
+The Innkeeper now spends most of his days waiting for customers, while the
+nights are spent watching out for goblins.  His inn is no longer the happy
+place that is used to be in days past.
+~
+6218 0 400 S
+24 8 1 1d12+200 2d8+1
+0 7000
+8 8 1
+#3506
+bard 3506~
+the solemn bard~
+A sullen bard is here, drinking away his problems.
+~
+You can smell the alcohol on his breath from across the room.  This poor
+bard has been sitting here quite a while, drinking himself into oblivion.
+~
+6218 8 600 S
+12 13 3 1d12+110 2d6+0
+0 3750
+6 6 1
+#3507
+horseman dark~
+the dark horseman~
+A dark horseman is here, mounted on his black steed.
+~
+The dark horseman whirls his mount about and charges down on you.  You have
+just enough time to spin away and engage.
+~
+4328 294912 -900 S
+13 12 4 1d12+97 1d5+7
+0 4000
+8 8 1
+#3550
+pseudodragon dragon~
+pseudo-dragon~
+The pseudo-dragon flaps its small wings rapidly to remain airborne.
+~
+You see what apears to be a tiny dragon.  It is approximately two feet long
+and its skin is leathery brown.
+~
+8 5309440 500 S
+15 1 0 1d1+70 1d1+10
+0 20
+8 8 2 8
+#99999
+$~

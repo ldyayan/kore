@@ -1,0 +1,2253 @@
+#17100
+Entrance to the Cave~
+  Before you rises a towering mass of rock and earth like a bulge in
+the ground. Foliage prevents any other direction other then the chasm
+behind you or the large entrance to the cave ahead. Faint sounds fill
+the air of metal on rock and it appears to come within the dark tunnel.
+~
+171 20 0
+D2
+~
+~
+0 0 17101
+S
+#17101
+Small Tunnel~
+  The tunnel narrows down almost suddenly only allowing one being to go
+though with great difficulty. The light being absent now makes it more
+difficult to manuver in this closed in passageway.
+~
+171 265 0
+D0
+~
+~
+0 0 17100
+D5
+~
+~
+0 0 17102
+S
+#17102
+Tunnel~
+  The tunnel begins to widen and light manages to seep through and is
+coming from a large room ahead of you to the south. The walls are dark
+and smooth to the touch and they are carved precisly out of the stone
+about you.
+~
+171 9 0
+D2
+~
+~
+0 0 17103
+D4
+~
+~
+0 0 17101
+S
+#17103
+Cavern~
+  This cavern is fairly large and lit by various torches hanged from
+chains on the caves ceiling. It is carved out of stone and the floor 
+is made of dirt. Many tracks in the dirt are leading in all directions.
+There is a passage towards the southwest that opens up into what looks
+like an even larger cavern and paths to the south and southeast that
+lead into darkness.
+~
+171 8 0
+D0
+~
+~
+0 0 17102
+D2
+~
+~
+0 0 17118
+D7
+~
+~
+0 0 17186
+D8
+~
+~
+0 0 17104
+S
+#17104
+Large Cavern~
+  This extremely large cavern is carved into the earth and stone about
+it. There are many different tunnels leading from it. Grand torches are 
+hung from the ceiling to light up the whole room and it casts a faint
+glow on the symbols and markings over all of the walls.
+~
+171 8 0
+D1
+~
+~
+0 0 17117
+D2
+~
+~
+0 0 17105
+D3
+~
+~
+0 0 17109
+D6
+~
+~
+0 0 17103
+D7
+~
+~
+0 0 17114
+D8
+~
+~
+0 0 17106
+S
+#17105
+Cave~
+  The cave is cut into earth and there are only a few trails here. One
+leads upwards towards a lit up cave and the other continues south into
+the immense blackness. It is dark here and the sounds of tools close by
+float about you.
+~
+171 9 0
+D0
+~
+~
+0 0 17104
+D2
+~
+~
+0 0 17110
+D4
+~
+~
+0 0 17113
+S
+#17106
+Narrow Tunnel~
+  The narrow tunnel stretches in only two directions. The walls are
+roughly cut out from dirt and it is very dark within these parts.
+~
+171 73 0
+D2
+~
+~
+0 0 17107
+D6
+~
+~
+0 0 17104
+S
+#17107
+Narrow Tunnel~
+  The narrow tunnel stretches in only two directions. The walls are
+roughly cut out from dirt and it is very dark within these parts.
+~
+171 73 0
+D0
+~
+~
+0 0 17106
+D9
+~
+~
+0 0 17108
+S
+#17108
+Narrow Tunnel~
+  The narrow tunnel stretches in only two directions. The walls are
+roughly cut out from dirt and it is very dark within these parts.
+~
+171 73 0
+D6
+~
+~
+0 0 17109
+D7
+~
+~
+0 0 17107
+S
+#17109
+Narrow Tunnel~
+  The narrow tunnel stretches in only two directions. The walls are
+roughly cut out from dirt and it is very dark within these parts.
+~
+171 73 0
+D1
+~
+~
+0 0 17104
+D8
+~
+~
+0 0 17108
+S
+#17110
+Cave~
+  The cave has strange signs and symbols etched in the earth on all
+of the walls. The blackness presses in from all sides and there is a
+faint sound of tools being used in the distance. The cave extends to
+the north and then south from here.
+~
+171 9 0
+D0
+~
+~
+0 0 17105
+D2
+~
+~
+0 0 17111
+S
+#17111
+Cave~
+  The cave is cut into earth and there are only a few trails here. One
+leads upwards towards a lit up cave and the other continues north into
+the immense blackness. It is dark here and the sounds of tools close by
+break the dark silence of these caves.
+~
+171 9 0
+D0
+~
+~
+0 0 17110
+D4
+~
+~
+0 0 17112
+S
+#17112
+Mining Cave~
+  There are tools scattered all about the floor of the mining cave here.
+Jagged rocks protrude from the floor and walls from which the miners
+search for treasured jewels. There is a pile of rubble to one side that
+might still contain some valuble pieces of stone...
+~
+171 72 0
+D0
+~
+~
+0 0 17113
+D5
+~
+~
+0 0 17111
+S
+#17113
+Mining Cave~
+  There are tools scattered all about the floor of the mining cave here.
+Jagged rocks protrude from the floor and walls from which the miners
+search for treasured jewels. There is a large set of torches hanging
+from the ceiling that lights up the whole mining cave. It continues on
+to the south while a path leads to a dark cave downward.
+~
+171 72 0
+D2
+~
+~
+0 0 17112
+D5
+~
+~
+0 0 17105
+S
+#17114
+Narrow Tunnel~
+  The narrow tunnel stretches in only two directions. The walls are
+roughly cut out from dirt and it is very dark within these parts.
+~
+171 73 0
+D2
+~
+~
+0 0 17115
+D9
+~
+~
+0 0 17104
+S
+#17115
+Narrow Tunnel~
+  The narrow tunnel stretches in only two directions. The walls are
+roughly cut out from dirt and it is very dark within these parts.
+~
+171 73 0
+D0
+~
+~
+0 0 17114
+D6
+~
+~
+0 0 17116
+S
+#17116
+Narrow Tunnel~
+  The narrow tunnel stretches in only two directions. The walls are
+roughly cut out from dirt and it is very dark within these parts.
+~
+171 73 0
+D8
+~
+~
+0 0 17115
+D9
+~
+~
+0 0 17117
+S
+#17117
+Narrow Tunnel~
+  The narrow tunnel stretches in only two directions. The walls are
+roughly cut out from dirt and it is very dark within these parts.
+~
+171 73 0
+D3
+~
+~
+0 0 17104
+D7
+~
+~
+0 0 17116
+S
+#17118
+Dark Passage~
+  The passage here is dark and loomy. It extends to the north and to the
+south which is further into the blackness.
+~
+171 9 0
+D0
+~
+~
+0 0 17103
+D2
+~
+~
+0 0 17119
+S
+#17119
+Dark Passage~
+  The passage here is dark and loomy. It extends to the north and to the
+south which is further into the blackness.
+~
+171 9 0
+D0
+~
+~
+0 0 17118
+D2
+~
+~
+0 0 17120
+S
+#17120
+Dark Passage~
+  The passage here widens out to allow the way of two different doors
+on either side of the main trail. The doors are large and bulky with
+rusty metal hinges that send a shriek through the caverns when the door
+is moved. A large latch is set so that they be locked from the outside
+to prevent things from coming out.
+~
+171 9 0
+D0
+~
+~
+0 0 17119
+D2
+~
+~
+0 0 17129
+D7
+~
+~
+0 0 17125
+D8
+~
+~
+0 0 17121
+S
+#17121
+Large Cage~
+  Standing in a large cage, you can see the remains of prisoners of a
+long time ago that haven't managed to escape with their lives from the
+darkness of these caverns. The large enclosed area is filled with eerie
+shadows of all sorts about you.
+~
+171 9 0
+D2
+~
+~
+0 0 17122
+D3
+~
+~
+0 0 17124
+D6
+~
+~
+0 0 17120
+D8
+~
+~
+0 0 17123
+S
+#17122
+Large Cage~
+  Standing in a large cage, you can see the remains of prisoners of a
+long time ago that haven't managed to escape with their lives from the
+darkness of these caverns. The large enclosed area is filled with eerie
+shadows of all sorts about you.
+~
+171 9 0
+D0
+~
+~
+0 0 17121
+D3
+~
+~
+0 0 17123
+D9
+~
+~
+0 0 17124
+S
+#17123
+Large Cage~
+  Standing in a large cage, you can see the remains of prisoners of a
+long time ago that haven't managed to escape with their lives from the
+darkness of these caverns. The large enclosed area is filled with eerie
+shadows of all sorts about you.
+~
+171 9 0
+D0
+~
+~
+0 0 17124
+D1
+~
+~
+0 0 17122
+D6
+~
+~
+0 0 17121
+S
+#17124
+Large Cage~
+  Standing in a large cage, you can see the remains of prisoners of a
+long time ago that haven't managed to escape with their lives from the
+darkness of these caverns. The large enclosed area is filled with eerie
+shadows of all sorts about you.
+~
+171 9 0
+D1
+~
+~
+0 0 17121
+D2
+~
+~
+0 0 17123
+D7
+~
+~
+0 0 17122
+S
+#17125
+Large Cage~
+  Standing in a large cage, you can see the remains of prisoners of a
+long time ago that haven't managed to escape with their lives from the
+darkness of these caverns. The large enclosed area is filled with eerie
+shadows of all sorts about you.
+~
+171 9 0
+D1
+~
+~
+0 0 17126
+D2
+~
+~
+0 0 17128
+D7
+~
+~
+0 0 17127
+D9
+~
+~
+0 0 17120
+S
+#17126
+Large Cage~
+  Standing in a large cage, you can see the remains of prisoners of a
+long time ago that haven't managed to escape with their lives from the
+darkness of these caverns. The large enclosed area is filled with eerie
+shadows of all sorts about you.
+~
+171 9 0
+D2
+~
+~
+0 0 17127
+D3
+~
+~
+0 0 17125
+D8
+~
+~
+0 0 17128
+S
+#17127
+Large Cage~
+  Standing in a large cage, you can see the remains of prisoners of a
+long time ago that haven't managed to escape with their lives from the
+darkness of these caverns. The large enclosed area is filled with eerie
+shadows of all sorts about you.
+~
+171 9 0
+D0
+~
+~
+0 0 17126
+D3
+~
+~
+0 0 17128
+D9
+~
+~
+0 0 17125
+S
+#17128
+Large Cage~
+  Standing in a large cage, you can see the remains of prisoners of a
+long time ago that haven't managed to escape with their lives from the
+darkness of these caverns. The large enclosed area is filled with eerie
+shadows of all sorts about you.
+~
+171 9 0
+D0
+~
+~
+0 0 17125
+D1
+~
+~
+0 0 17127
+D6
+~
+~
+0 0 17126
+S
+#17129
+Dark Passage~
+  The passage here is dark and loomy. It extends to the north and to the
+south which is further into the blackness.
+~
+171 9 0
+D0
+~
+~
+0 0 17120
+D2
+~
+~
+0 0 17130
+S
+#17130
+Dark Passage~
+  The passage here is dark and loomy. It extends to the north and to the
+southeast which is further into the blackness.
+~
+171 9 0
+D0
+~
+~
+0 0 17129
+D7
+~
+~
+0 0 17131
+S
+#17131
+Dark Passage~
+  The passage here is dark and loomy. It extends to the northwest and to
+the southwest which is further into the blackness.
+~
+171 9 0
+D8
+~
+~
+0 0 17132
+D9
+~
+~
+0 0 17130
+S
+#17132
+Dark Passage~
+  The passage here is dark and loomy. It extends to the northeast and to
+the southwest which is further into the blackness.
+~
+171 9 0
+D6
+~
+~
+0 0 17131
+D8
+~
+~
+0 0 17133
+S
+#17133
+Dark Passage~
+  The passage here is dark and loomy. It extends to the northeast and to
+the southeast which is further into the blackness.
+~
+171 9 0
+D6
+~
+~
+0 0 17132
+D7
+~
+~
+0 0 17134
+S
+#17134
+A Split in the Passage~
+  Here the passage opens into a fairly large cavern. Large torches burn
+a kind of blue flame as they hang from big racks and chains on different
+walls. There is a small archway leading south into another lighted room
+you can see and small path southeast that is hard to notice at first
+to its small size. Entryways lead northwest and southwest into a pure
+shade of blackness.
+~
+171 8 0
+D2
+~
+~
+0 0 17156
+D7
+~
+~
+0 0 17175
+D8
+~
+~
+0 0 17135
+D9
+~
+~
+0 0 17133
+S
+#17135
+Dark Passage~
+  The passage here is dark and loomy. It extends to the northeast and to
+the northwest which is further into the blackness.
+~
+171 9 0
+D6
+~
+~
+0 0 17134
+D9
+~
+~
+0 0 17136
+S
+#17136
+Dark Passage~
+  The passage here is dark and loomy. It extends to the southeast and to
+the west which lead into a dimly lighted up part of these tunnels.
+~
+171 9 0
+D3
+~
+~
+0 0 17137
+D7
+~
+~
+0 0 17135
+S
+#17137
+Dimly Lit Room~
+  The room here is carved into a squarish form with the walls and the
+ceiling coming to meet sharply that gives you the feeling you are trapped
+insided a box. An orb hangs from the ceiling by a single chain that
+gives off a dim glow over the dust strewn floors. The walls seem to have
+wooden planks lining them with old papers tacked there by sharp shards
+of what appears to be bone. There is a sign to one side that you notice
+is easily interpreted.
+~
+171 28 0
+D1
+~
+~
+0 0 17136
+D3
+~
+~
+0 0 17149
+S
+#17138
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D1
+~
+~
+0 0 17139
+D2
+~
+~
+0 0 17142
+D7
+~
+~
+0 0 17143
+S
+#17139
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern. To one of the walls you see a small break in
+the smooth rock.
+~
+171 8 0
+D0
+~
+~
+0 0 17154
+D1
+~
+~
+0 0 17140
+D2
+~
+~
+0 0 17143
+D3
+~
+~
+0 0 17138
+D7
+~
+~
+0 0 17144
+D8
+~
+~
+0 0 17142
+S
+#17140
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D1
+~
+~
+0 0 17141
+D2
+~
+~
+0 0 17144
+D3
+~
+~
+0 0 17139
+D7
+~
+~
+0 0 17145
+D8
+~
+~
+0 0 17143
+S
+#17141
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D2
+~
+~
+0 0 17145
+D3
+~
+~
+0 0 17140
+D8
+~
+~
+0 0 17144
+S
+#17142
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern. To one of the walls you see a small break in
+the smooth rock.
+~
+171 8 0
+D0
+~
+~
+0 0 17138
+D1
+~
+~
+0 0 17143
+D2
+~
+~
+0 0 17146
+D3
+~
+~
+0 0 17155
+D6
+~
+~
+0 0 17139
+D7
+~
+~
+0 0 17147
+S
+#17143
+Training Barracks~
+  Standing in the inner training barracks, you can see the battles and
+fights that have taken place here. There are footprints in the dirt on
+the floor that are all mixed up while little stains of blood are scattered
+in a few spots. The chandelier above is the brightest here, and its steady
+glow falls all around you.
+~
+171 8 0
+D0
+~
+~
+0 0 17139
+D1
+~
+~
+0 0 17144
+D2
+~
+~
+0 0 17147
+D3
+~
+~
+0 0 17142
+D6
+~
+~
+0 0 17140
+D7
+~
+~
+0 0 17148
+D8
+~
+~
+0 0 17146
+D9
+~
+~
+0 0 17138
+S
+#17144
+Training Barracks~
+  Standing in the inner training barracks, you can see the battles and
+fights that have taken place here. There are footprints in the dirt on
+the floor that are all mixed up while little stains of blood are scattered
+in a few spots. The chandelier above is the brightest here, and its steady
+glow falls all around you.
+~
+171 8 0
+D0
+~
+~
+0 0 17140
+D1
+~
+~
+0 0 17145
+D2
+~
+~
+0 0 17148
+D3
+~
+~
+0 0 17143
+D6
+~
+~
+0 0 17141
+D7
+~
+~
+0 0 17149
+D8
+~
+~
+0 0 17147
+D9
+~
+~
+0 0 17139
+S
+#17145
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D0
+~
+~
+0 0 17141
+D2
+~
+~
+0 0 17149
+D3
+~
+~
+0 0 17144
+D8
+~
+~
+0 0 17148
+D9
+~
+~
+0 0 17140
+S
+#17146
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D0
+~
+~
+0 0 17142
+D1
+~
+~
+0 0 17147
+D2
+~
+~
+0 0 17150
+D6
+~
+~
+0 0 17143
+D7
+~
+~
+0 0 17151
+S
+#17147
+Training Barracks~
+  Standing in the inner training barracks, you can see the battles and
+fights that have taken place here. There are footprints in the dirt on
+the floor that are all mixed up while little stains of blood are scattered
+in a few spots. The chandelier above is the brightest here, and its steady
+glow falls all around you.
+~
+171 8 0
+D0
+~
+~
+0 0 17143
+D1
+~
+~
+0 0 17148
+D2
+~
+~
+0 0 17151
+D3
+~
+~
+0 0 17146
+D6
+~
+~
+0 0 17144
+D7
+~
+~
+0 0 17152
+D8
+~
+~
+0 0 17150
+D9
+~
+~
+0 0 17142
+S
+#17148
+Training Barracks~
+  Standing in the inner training barracks, you can see the battles and
+fights that have taken place here. There are footprints in the dirt on
+the floor that are all mixed up while little stains of blood are scattered
+in a few spots. The chandelier above is the brightest here, and its steady
+glow falls all around you.
+~
+171 8 0
+D0
+~
+~
+0 0 17144
+D1
+~
+~
+0 0 17149
+D2
+~
+~
+0 0 17152
+D3
+~
+~
+0 0 17147
+D6
+~
+~
+0 0 17145
+D7
+~
+~
+0 0 17153
+D8
+~
+~
+0 0 17151
+D9
+~
+~
+0 0 17143
+S
+#17149
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D0
+~
+~
+0 0 17145
+D1
+~
+~
+0 0 17137
+D2
+~
+~
+0 0 17153
+D3
+~
+~
+0 0 17148
+D8
+~
+~
+0 0 17152
+D9
+~
+~
+0 0 17144
+S
+#17150
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D0
+~
+~
+0 0 17146
+D1
+~
+~
+0 0 17151
+D6
+~
+~
+0 0 17147
+S
+#17151
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D0
+~
+~
+0 0 17147
+D1
+~
+~
+0 0 17152
+D3
+~
+~
+0 0 17150
+D6
+~
+~
+0 0 17148
+D9
+~
+~
+0 0 17146
+S
+#17152
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D0
+~
+~
+0 0 17148
+D1
+~
+~
+0 0 17153
+D3
+~
+~
+0 0 17151
+D6
+~
+~
+0 0 17149
+D9
+~
+~
+0 0 17147
+S
+#17153
+Training Barracks~
+  The outer limits of the training barracks runs a circle around the
+center. The dirt floors are hard and padded after so many have passed.
+The walls are smooth stone that curve upwards to meet in the middle far
+above with a large chandelier holding a number of orbs that cast a light
+through the whole cavern.
+~
+171 8 0
+D0
+~
+~
+0 0 17149
+D3
+~
+~
+0 0 17152
+D9
+~
+~
+0 0 17148
+S
+#17154
+Lair of Lestat~
+  There is a musty smell crawling through the air and faint scraping
+scraping sounds can be heard. A lone candle of black wax sits on a
+delicately carved obsideon table. Small wooden stools lay scattered
+around and a dusty maroon rug covers over the dirt floor. The walls are
+smooth and soft to the touch as they rise to peak in the center several
+feet above.
+~
+171 8 0
+D2
+~
+~
+0 0 17139
+S
+#17155
+Lair of Demetri~
+  A small room presses closely about as a fetid smell lingures slowly
+around. A bed carved from rock is to the right side of the small cave
+and a number of shelves are embedded in the wall which hold assorted
+liquids in beakers. The ceiling is low and akward and the floor is bumpy
+with clumps of earth protruding the ground.
+~
+171 8 0
+D1
+~
+~
+0 0 17142
+S
+#17156
+Dimly Lit Room~
+  The cave gets brighter here, lit by a dim orb chained from the ceiling.
+Dirt lays about in large clusters, worn and padded down the center of
+the floor. The walls of earth look as if to be crumbling away and there
+is a small sign to one side.
+~
+171 28 0
+D0
+~
+~
+0 0 17134
+D2
+~
+~
+0 0 17158
+S
+#17157
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D1
+~
+~
+0 0 17158
+D2
+~
+~
+0 0 17161
+D7
+~
+~
+0 0 17162
+S
+#17158
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D0
+~
+~
+0 0 17156
+D1
+~
+~
+0 0 17159
+D2
+~
+~
+0 0 17162
+D3
+~
+~
+0 0 17157
+D7
+~
+~
+0 0 17163
+D8
+~
+~
+0 0 17161
+S
+#17159
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D1
+~
+~
+0 0 17160
+D2
+~
+~
+0 0 17163
+D3
+~
+~
+0 0 17158
+D7
+~
+~
+0 0 17164
+D8
+~
+~
+0 0 17162
+S
+#17160
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D2
+~
+~
+0 0 17164
+D3
+~
+~
+0 0 17159
+D8
+~
+~
+0 0 17163
+S
+#17161
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D0
+~
+~
+0 0 17157
+D1
+~
+~
+0 0 17162
+D2
+~
+~
+0 0 17165
+D6
+~
+~
+0 0 17158
+D7
+~
+~
+0 0 17166
+S
+#17162
+Advanced Training Barracks~
+  The mound of dirt rises here as the centre of this barracks seems to be
+something of a sort of arena. Then floor is hard and padded down with little
+whisps of dust and dirt randomly appearing. The cave's ceiling towers high
+above you and light is cast down from the lamp hanging above. A putrid,
+musty smell fills the air and a haze limits sight to a certain extent.
+~
+171 8 0
+D0
+~
+~
+0 0 17158
+D1
+~
+~
+0 0 17163
+D2
+~
+~
+0 0 17166
+D3
+~
+~
+0 0 17161
+D6
+~
+~
+0 0 17159
+D7
+~
+~
+0 0 17167
+D8
+~
+~
+0 0 17165
+D9
+~
+~
+0 0 17157
+S
+#17163
+Advanced Training Barracks~
+  The mound of dirt rises here as the centre of this barracks seems to be
+something of a sort of arena. Then floor is hard and padded down with little
+whisps of dust and dirt randomly appearing. The cave's ceiling towers high
+above you and light is cast down from the lamp hanging above. A putrid,
+musty smell fills the air and a haze limits sight to a certain extent.
+~
+171 8 0
+D0
+~
+~
+0 0 17159
+D1
+~
+~
+0 0 17164
+D2
+~
+~
+0 0 17167
+D3
+~
+~
+0 0 17162
+D6
+~
+~
+0 0 17160
+D7
+~
+~
+0 0 17168
+D8
+~
+~
+0 0 17166
+D9
+~
+~
+0 0 17158
+S
+#17164
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D0
+~
+~
+0 0 17160
+D2
+~
+~
+0 0 17168
+D3
+~
+~
+0 0 17163
+D8
+~
+~
+0 0 17167
+D9
+~
+~
+0 0 17159
+S
+#17165
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D0
+~
+~
+0 0 17161
+D1
+~
+~
+0 0 17166
+D2
+~
+~
+0 0 17169
+D6
+~
+~
+0 0 17162
+D7
+~
+~
+0 0 17170
+S
+#17166
+Advanced Training Barracks~
+  The mound of dirt rises here as the centre of this barracks seems to be
+something of a sort of arena. Then floor is hard and padded down with little
+whisps of dust and dirt randomly appearing. The cave's ceiling towers high
+above you and light is cast down from the lamp hanging above. A putrid,
+musty smell fills the air and a haze limits sight to a certain extent.
+~
+171 8 0
+D0
+~
+~
+0 0 17162
+D1
+~
+~
+0 0 17167
+D2
+~
+~
+0 0 17170
+D3
+~
+~
+0 0 17165
+D6
+~
+~
+0 0 17163
+D7
+~
+~
+0 0 17171
+D8
+~
+~
+0 0 17169
+D9
+~
+~
+0 0 17161
+S
+#17167
+Advanced Training Barracks~
+  The mound of dirt rises here as the centre of this barracks seems to be
+something of a sort of arena. Then floor is hard and padded down with little
+whisps of dust and dirt randomly appearing. The cave's ceiling towers high
+above you and light is cast down from the lamp hanging above. A putrid,
+musty smell fills the air and a haze limits sight to a certain extent.
+~
+171 8 0
+D0
+~
+~
+0 0 17163
+D1
+~
+~
+0 0 17168
+D2
+~
+~
+0 0 17171
+D3
+~
+~
+0 0 17166
+D6
+~
+~
+0 0 17164
+D7
+~
+~
+0 0 17172
+D8
+~
+~
+0 0 17170
+D9
+~
+~
+0 0 17162
+S
+#17168
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D0
+~
+~
+0 0 17164
+D2
+~
+~
+0 0 17172
+D3
+~
+~
+0 0 17167
+D8
+~
+~
+0 0 17171
+D9
+~
+~
+0 0 17163
+S
+#17169
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D0
+~
+~
+0 0 17165
+D1
+~
+~
+0 0 17170
+D6
+~
+~
+0 0 17166
+S
+#17170
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak. A square outline of a trapdoor is visable on the
+ground before you.
+~
+171 8 0
+D0
+~
+~
+0 0 17166
+D1
+~
+~
+0 0 17171
+D3
+~
+~
+0 0 17169
+D5
+~
+~
+0 0 17173
+D6
+~
+~
+0 0 17167
+D9
+~
+~
+0 0 17165
+S
+#17171
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak. A square outline of a trapdoor is visable on the
+ground before you.
+~
+171 8 0
+D0
+~
+~
+0 0 17167
+D1
+~
+~
+0 0 17172
+D3
+~
+~
+0 0 17170
+D5
+~
+~
+0 0 17173
+D6
+~
+~
+0 0 17168
+D9
+~
+~
+0 0 17166
+S
+#17172
+Advanced Training Barracks~
+  A wide trench of this training barracks surrounds the centre as to focus
+the attention on that spot. Footprints in the dusty floor lay scattered
+in a jumbled mess of confusion. The rounded stone walls are smooth save
+for a few scratches etched in the black mass. The ceiling arches high to
+a peak in the centre with a lantern swinging slowly from a chain fastened
+to the tip of the peak.
+~
+171 8 0
+D0
+~
+~
+0 0 17168
+D3
+~
+~
+0 0 17171
+D9
+~
+~
+0 0 17167
+S
+#17173
+Secret Passage~
+  The small passage leading downwards is dark and cramped. It falls steeply
+into the earth and then continues south to open up into a large cavern
+room. The sides of the passage are dirty and rough and grumble easily to
+the touch.
+~
+171 13 0
+D2
+~
+~
+0 0 17174
+D4
+~
+~
+0 0 17170
+S
+#17174
+Lair of Argoth~
+  A large room opens up before you. The walls are carved from stone and
+there are streaks of diamond and gold lining the walls of black rock. An
+oak table, delicatly carved, is placed in the centre of the room with a
+candle and a book sittin next to it. There is a bed to one side and what
+looks to be a pile of rags to the other. It is fairly quiet in this place
+which makes the small cave almost seem comforting.
+~
+171 8 0
+D0
+~
+~
+0 0 17173
+S
+#17175
+Narrow Path~
+  The path is narrow here but is still tall in size. The walls are damp
+and cold to the touch and the floor is loose dirt and earth. The air is
+damp and moist and a musty smell floats around as if it were seeping right
+through the walls.
+~
+171 8 0
+D2
+~
+~
+0 0 17176
+D9
+~
+~
+0 0 17134
+S
+#17176
+Narrow Path~
+  The path is narrow here but is still tall in size. The walls are damp
+and cold to the touch and the floor is loose dirt and earth. The air is
+damp and moist and a musty smell floats around as if it were seeping right
+through the walls.
+~
+171 8 0
+D0
+~
+~
+0 0 17175
+D2
+~
+~
+0 0 17177
+S
+#17177
+Narrow Path~
+  The path is narrow here but is still tall in size. The walls are damp
+and cold to the touch and the floor is loose dirt and earth. The air is
+damp and moist and a musty smell floats around as if it were seeping right
+through the walls.
+~
+171 8 0
+D0
+~
+~
+0 0 17176
+D4
+~
+~
+0 0 17178
+S
+#17178
+Before a Grand Residance~
+  Before you the cavern opens up into an immense chasm. The ceiling curls
+high upwards into blackness and to the sides the floor falls away into
+an endless abyss. Sittin on a large plateau, a mansion towers above. The
+walls are painted black and the windows are boarded over giving a gloomy
+aura to the large structure. A large door arcs high above with great ring
+handles and a key slot in the centre.
+~
+171 12 0
+D2
+~
+~
+0 0 17179
+D5
+~
+~
+0 0 17177
+S
+#17179
+Large Entryway~
+  This is the main hall of the mansion. The stairs leading to the upper
+floors are blocked off by fallin rubble and debris. A large crystal
+chandelier hangs from the arched ceiling with a source of brilliant light
+emitting from the middle. There are strange paintings depicting different
+scenes of battle's of different races being defeated by a vampiric army.
+There is a doorway leading southeast and to the south of the room another
+entry leads to a great hall beyond.
+~
+171 8 0
+D0
+~
+~
+0 0 17178
+D2
+~
+~
+0 0 17181
+D7
+~
+~
+0 0 17180
+S
+#17180
+Master Bedroom~
+  The bedroom is fairly large with on large master bed in the centre with
+a canvas top and the strings drawn back. There are aged sheets scattered
+over the bed that have a rusted color that seems to welcome weary travellers
+to the comfort and warmth they might provide. The floor is made of cold
+wooden planks but the random rugs placed in different spots cover most
+of it.
+~
+171 9 0
+D8
+~
+~
+0 0 17181
+D9
+~
+~
+0 0 17179
+S
+#17181
+Immense Hallway~
+  This room circles about with a number of doors leaving in various
+directions. Each one as similar as the next. There is a flame casting
+a faint glow around the room from a pedistal sitting in the centre. The
+floor looks clean as if it were just swept but the corners show sign of
+age and a cobwebs find their home in the cramped spaces.
+~
+171 8 0
+D0
+~
+~
+0 0 17179
+D2
+~
+~
+0 0 17183
+D6
+~
+~
+0 0 17180
+D7
+~
+~
+0 0 17185
+D8
+~
+~
+0 0 17182
+S
+#17182
+Guard's Post~
+  In the small room there are windows looking out to the front of the
+mansion. From here any being could see all who would try to enter this
+building with the greatest of ease. There are a few chairs strewn about
+but the cramped in walls makes it an unwelcoming place to rest.
+~
+171 8 0
+D6
+~
+~
+0 0 17181
+S
+#17183
+Shaded Hallway~
+  For some reason the hallway gets deadly black. Even with the aid of
+a light it is still difficult to make much more out then the shapes and
+shadows floating about you. To the north and south the hallway runs but
+finding your way through this darkened passage takes skill and concentration.
+~
+171 13 0
+D0
+~
+~
+0 0 17181
+D2
+~
+~
+0 0 17184
+S
+#17184
+Altar of Bones~
+  An immense altar that appears to be made of bone rests here in the
+shadows. Sacrificial creatures and many jewels from long lost times 
+are scattered about the altar as if thrown there hastily to appease
+an angry god. Flickering torches in sconces adorn the walls, but the
+light they emit seems to be absorbed by the altar they surround. The 
+air is stagnant and old, with the smoke from the torches hanging low 
+about you making it even more difficult for your eyes to ajust to the
+murky blackness.
+~
+171 9 0
+D0
+~
+~
+0 0 17183
+S
+#17185
+Guard's Post~
+  In the small room there are windows looking out to the front of the
+mansion. From here any being could see all who would try to enter this
+building with the greatest of ease. There are a few chairs strewn about
+but the cramped in walls makes it an unwelcoming place to rest.
+~
+171 8 0
+D9
+~
+~
+0 0 17181
+S
+#17186
+Narrow Cave~
+  This narrow cave is carved out of a smooth stone and is inlined with
+faint symbols of vapiric worship. The darkness around you is not as
+heavy as in other places but it still surrounds you creating an uneasy
+feeling.
+~
+171 9 0
+D2
+~
+~
+0 0 17187
+D9
+~
+~
+0 0 17103
+S
+#17187
+Narrow Cave~
+  This narrow cave is carved out of a smooth stone and is inlined with
+faint symbols of vapiric worship. The darkness around you is not as
+heavy as in other places but it still surrounds you creating an uneasy
+feeling.
+~
+171 9 0
+D0
+~
+~
+0 0 17186
+D2
+~
+~
+0 0 17188
+S
+#17188
+Busy Crossroads~
+  This is a very large part of the cave with an high arched ceiling.
+The floor is made of dirt and there are many different tracks leading
+in all directions. Tunnels lead off into several directions and they all
+look the same with their deep blackness. There is a large candelabra
+of black candles hanging from the ceiling that lights up the room with
+an eerie glow.
+~
+171 8 0
+D0
+~
+~
+0 0 17187
+D2
+~
+~
+0 0 17197
+D6
+~
+~
+0 0 17191
+D7
+~
+~
+0 0 17195
+D8
+~
+~
+0 0 17193
+D9
+~
+~
+0 0 17189
+S
+#17189
+Narrow Cave~
+  This narrow cave is carved out of a smooth stone and is inlined with
+faint symbols of vapiric worship. The darkness around you is not as
+heavy as in other places but it still surrounds you creating an uneasy
+feeling.
+~
+171 9 0
+D0
+~
+~
+0 0 17190
+D7
+~
+~
+0 0 17188
+S
+#17190
+Mysterious Pool~
+  The cave widens out here to a sort of cavern with a mysterious pool
+in the middle. It emits a faint greenish glow on the whole room and its
+waters are too cloudy to be seen what lies beneath. There is a sign
+planted in the ground to one side.
+~
+171 28 0
+D2
+~
+~
+0 0 17189
+S
+#17191
+Narrow Cave~
+  This narrow cave is carved out of a smooth stone and is inlined with
+faint symbols of vapiric worship. The darkness around you is not as
+heavy as in other places but it still surrounds you creating an uneasy
+feeling.
+~
+171 9 0
+D0
+~
+~
+0 0 17192
+D8
+~
+~
+0 0 17188
+S
+#17192
+Mysterious Pool~
+  Before you stands a strange looking pool. Its flow seems to come from
+below it to the top of the waters. The pool eminates a faint greenish
+glow on the things around you. On the ceiling above there are some strange
+makings of worship to the vampire's god of healing. There is a steep
+slope to the south for you to slide down but return doesn't look all
+that probable.
+~
+171 28 0
+D2
+~
+~
+0 0 17191
+S
+#17193
+Narrow Cave~
+  This narrow cave is carved out of a smooth stone and is inlined with
+faint symbols of vapiric worship. The darkness around you is not as
+heavy as in other places but it still surrounds you creating an uneasy
+feeling.
+~
+171 9 0
+D2
+~
+~
+0 0 17194
+D6
+~
+~
+0 0 17188
+S
+#17194
+Jewel Exchange~
+  A large chandalere hangs down from the ceiling casting and eerie and
+sparkling glow around you. This room is made of old rotting wood but
+seems sturdy enough. There is a counter to one side of the room with a
+lanky looking creature leaning over it grinning evilly at you.
+~
+171 28 0
+D0
+~
+~
+0 0 17193
+S
+#17195
+Narrow Cave~
+  This narrow cave is carved out of a smooth stone and is inlined with
+faint symbols of vapiric worship. The darkness around you is not as
+heavy as in other places but it still surrounds you creating an uneasy
+feeling.
+~
+171 9 0
+D2
+~
+~
+0 0 17196
+D9
+~
+~
+0 0 17188
+S
+#17196
+Eliza's Shop of Enchantments~
+  All around are potions and scrolls scattered on the hardwood, dusty floor.
+The musty smell of the rotting wood and deteriating liquids float about you.
+There is a hazy densness to the air as you squint to see a beuatiful young 
+lady at the other end of the room.
+~
+171 28 0
+D0
+~
+~
+0 0 17195
+S
+#17197
+Narrow Cave~
+  This narrow cave is carved out of a smooth stone and is inlined with
+faint symbols of vapiric worship. The darkness around you is not as
+heavy as in other places but it still surrounds you creating an uneasy
+feeling.
+~
+171 8 0
+D0
+~
+~
+0 0 17188
+D4
+~
+~
+0 0 17198
+S
+#17198
+End of the Cave~
+  After coming to the end of the long cave your eyes take time to ajust
+to the bright sunlight. Just ahead of you the cave opens up into a small
+ridge over looking the land before it. This is the spot where the light
+of the outside world meets the evil lurking in these caves.
+~
+171 4 0
+D0
+~
+~
+0 0 17199
+D5
+~
+~
+0 0 17197
+S
+#17199
+Look Off~
+  The landscape stretches for miles in front of you to uncharted 
+territory that few eyes have seen. The magnificant view is welcoming
+to your straining eyes that have been made a custom to the evil sights
+of the cave behind you. 
+~
+171 4 4
+D2
+~
+~
+0 0 17198
+S
+#99999
+$~

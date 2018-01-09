@@ -1,0 +1,1500 @@
+#15100
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15101
+S
+#15101
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D2
+~
+~
+0 0 15100
+D6
+~
+~
+0 0 15102
+S
+#15102
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless. Strangely the wall to the southeast 
+seems to shimmer, as if it were behind a screen of intense heat.
+~
+151 9 0
+D0
+~
+~
+0 0 15103
+D8
+~
+~
+0 0 15101
+S
+#15103
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15104
+D1
+~
+~
+0 0 15154
+D2
+~
+~
+0 0 15102
+D3
+~
+~
+0 0 15144
+S
+#15104
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15105
+D2
+~
+~
+0 0 15103
+S
+#15105
+A dark tunnel~
+   The patch of ice on the ground MUST have been fabricated with
+magic. There's really no other explanation ... how could there be when 
+it's not even the slightest bit frosty in here. What other tricks lie 
+in wait for your arrival?
+~
+151 9 0
+D2
+~
+~
+0 0 15104
+D3
+~
+~
+0 0 15109
+D6
+~
+~
+0 0 15106
+S
+#15106
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D6
+~
+~
+0 0 15160
+D7
+~
+~
+0 0 15159
+D8
+~
+~
+0 0 15105
+D9
+~
+~
+0 0 15107
+S
+#15107
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15108
+D7
+~
+~
+0 0 15106
+S
+#15108
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15176
+D2
+~
+~
+0 0 15107
+S
+#15109
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15110
+D1
+~
+~
+0 0 15105
+S
+#15110
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D2
+~
+~
+0 0 15109
+D9
+~
+~
+0 0 15111
+S
+#15111
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15112
+D7
+~
+~
+0 0 15110
+D8
+~
+~
+0 0 15142
+S
+#15112
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D1
+~
+~
+0 0 15113
+D2
+~
+~
+0 0 15111
+D3
+~
+~
+0 0 15137
+S
+#15113
+A breezy passageway~
+   Contrary to the stagnant air of the restrictive tunnels, you feel
+a slight gust of wind coming from the north. What could possibly be the
+cause?
+~
+151 9 0
+D0
+~
+~
+0 0 15114
+D3
+~
+~
+0 0 15112
+S
+#15114
+Overlooking the chasm~
+   Rising - a subtle draft of wind carries in a dank, musty odor. It
+is impossible to view the source below by typical means since it's lost
+in the gloom, but it is no doubt a *long* fall to there. One cannot be
+too careful here.
+~
+151 13 0
+D2
+~
+~
+0 0 15113
+D3
+~
+~
+0 0 15115
+S
+#15115
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall. There
+is a large amount of rubble on the floor.
+~
+151 9 0
+D1
+~
+~
+0 0 15114
+D3
+~
+~
+0 0 15116
+D4
+~
+secret~
+1 0 15163
+S
+#15116
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D1
+~
+~
+0 0 15115
+D9
+~
+~
+0 0 15117
+S
+#15117
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D7
+~
+~
+0 0 15116
+D9
+~
+~
+0 0 15118
+S
+#15118
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D0
+~
+~
+0 0 15119
+D7
+~
+~
+0 0 15117
+S
+#15119
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D0
+~
+~
+0 0 15120
+D2
+~
+~
+0 0 15118
+S
+#15120
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D2
+~
+~
+0 0 15119
+D6
+~
+~
+0 0 15121
+S
+#15121
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D6
+~
+~
+0 0 15122
+D8
+~
+~
+0 0 15120
+S
+#15122
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D1
+~
+~
+0 0 15123
+D8
+~
+~
+0 0 15121
+S
+#15123
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall. A foul
+odor lingers in the air here.
+~
+151 9 0
+D1
+~
+~
+0 0 15124
+D3
+~
+~
+0 0 15122
+S
+#15124
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D1
+~
+~
+0 0 15125
+D3
+~
+~
+0 0 15123
+S
+#15125
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D1
+~
+~
+0 0 15126
+D3
+~
+~
+0 0 15124
+S
+#15126
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D3
+~
+~
+0 0 15125
+D7
+~
+~
+0 0 15127
+S
+#15127
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D7
+~
+~
+0 0 15128
+D9
+~
+~
+0 0 15126
+S
+#15128
+A spiral pathway~
+   The incline is steep on this path around the gorge, and it is strangely
+narrow considering the nasty consequences if someone was to fall.
+~
+151 9 0
+D2
+~
+~
+0 0 15129
+D9
+~
+~
+0 0 15127
+S
+#15129
+A side passage~
+   Here the trail around the chasm veers into the mountain. You can spot
+claw marks on the rock around the entrance.
+~
+151 13 0
+D0
+~
+~
+0 0 15128
+D1
+~
+~
+0 0 15130
+S
+#15130
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D1
+~
+~
+0 0 15131
+D3
+~
+~
+0 0 15129
+S
+#15131
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D1
+~
+~
+0 0 15132
+D3
+~
+~
+0 0 15130
+S
+#15132
+A branching of paths~
+   Two tunnels, both alike in every way, fork off to lead in two different
+directions here. The one heading southeast angles downward while to the
+north there is a slight incline.
+~
+151 9 0
+D3
+~
+~
+0 0 15131
+D6
+~
+~
+0 0 15133
+D7
+~
+~
+0 0 15136
+S
+#15133
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15134
+D8
+~
+~
+0 0 15132
+S
+#15134
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D2
+~
+~
+0 0 15133
+D9
+~
+~
+0 0 15135
+S
+#15135
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D7
+~
+~
+0 0 15134
+S
+#15136
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D2
+~
+~
+0 0 15179
+D9
+~
+~
+0 0 15132
+S
+#15137
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D1
+~
+~
+0 0 15112
+D2
+~
+~
+0 0 15139
+D3
+~
+~
+0 0 15138
+S
+#15138
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D1
+~
+~
+0 0 15137
+S
+#15139
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D0
+~
+~
+0 0 15137
+D2
+~
+~
+0 0 15142
+D8
+~
+~
+0 0 15140
+S
+#15140
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D3
+~
+~
+0 0 15141
+D6
+~
+~
+0 0 15139
+S
+#15141
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D1
+~
+~
+0 0 15140
+S
+#15142
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D0
+~
+~
+0 0 15139
+D2
+~
+~
+0 0 15143
+D6
+~
+~
+0 0 15111
+S
+#15143
+A resting place~
+^b   This place is bathed in an eerie bluish hue and everything is nearly
+swallowed up in it. There is something - you can't tell WHAT - in the
+center of the floor. The exit to the north is only noticeable because it's
+consumed by darkness.^N
+~
+151 1179657 0
+D0
+~
+~
+0 0 15142
+S
+#15144
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D0
+~
+~
+0 0 15145
+D1
+~
+~
+0 0 15103
+S
+#15145
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D2
+~
+~
+0 0 15144
+D3
+~
+~
+0 0 15146
+S
+#15146
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D0
+~
+~
+0 0 15147
+D1
+~
+~
+0 0 15145
+D8
+~
+~
+0 0 15148
+S
+#15147
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D2
+~
+~
+0 0 15146
+S
+#15148
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D2
+~
+~
+0 0 15152
+D3
+~
+~
+0 0 15149
+D6
+~
+~
+0 0 15146
+S
+#15149
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D1
+~
+~
+0 0 15148
+D9
+~
+~
+0 0 15150
+S
+#15150
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D0
+~
+~
+0 0 15151
+D7
+~
+~
+0 0 15149
+S
+#15151
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D1
+~
+~
+0 0 15177
+D2
+~
+~
+0 0 15150
+S
+#15152
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D0
+~
+~
+0 0 15148
+D8
+~
+~
+0 0 15153
+S
+#15153
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D6
+~
+~
+0 0 15152
+S
+#15154
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D3
+~
+~
+0 0 15103
+D6
+~
+~
+0 0 15155
+S
+#15155
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D0
+~
+~
+0 0 15159
+D1
+~
+~
+0 0 15156
+D8
+~
+~
+0 0 15154
+S
+#15156
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D3
+~
+~
+0 0 15155
+D7
+~
+~
+0 0 15157
+S
+#15157
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D2
+~
+~
+0 0 15158
+D9
+~
+~
+0 0 15156
+S
+#15158
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D0
+~
+~
+0 0 15157
+S
+#15159
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D2
+~
+~
+0 0 15155
+D9
+~
+~
+0 0 15106
+S
+#15160
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D1
+~
+~
+0 0 15161
+D8
+~
+~
+0 0 15106
+S
+#15161
+Wandering in the dark~
+   All sense of time is lost in this elaborate maze of dark passages and
+tall caverns. A murky haze of darkness hangs in the air, a black so intense
+that even the purest of light cannot penetrate it fully. Bones litter the
+ground.
+~
+151 9 0
+D3
+~
+~
+0 0 15160
+D7
+~
+~
+0 0 15162
+S
+#15162
+A deceptive junction~
+   At first glance this looks like a dead end. Many boulders are piled
+up on the floor as if the tunnel collapsed at this point, but there is an
+opening at the apex of the pile. You could actually scale the rocks and
+go up if you wanted.
+~
+151 9 0
+D4
+~
+~
+0 0 15171
+D9
+~
+~
+0 0 15161
+S
+#15163
+Secluded ledge~
+   Even tighter than the rim around the gorge is this space eight feet
+above the walkway. There is a hole in the rock, perhaps three feet in
+diameter reachable just beyond the area on which you now stand.
+~
+151 131085 0
+D2
+~
+~
+0 0 15164
+D5
+~
+secret~
+1 0 15115
+S
+#15164
+A crawlway~
+   It's baffling how a tunnel could be carved in such a confined space,
+and more so when you look down the adjacent tunnel to the west which is
+even SMALLER! To attempt to squeeze down it would be insane.
+~
+151 131081 0
+D0
+~
+~
+0 0 15163
+D3
+~
+~
+0 0 15165
+S
+#15165
+A crevice in the rock~
+   Due to such a cramped position, there's absolutely *no* way you'd be
+able to turn back now. It looks like there's only one choice..
+~
+151 131337 0
+D1
+~
+~
+0 0 15164
+D3
+~
+iron grating~
+2 0 15166
+S
+#15166
+Nowhere to turn~
+   You are in a tunnel in which you can't turn back and you can't move
+forward. You've come to a dead end, you can't even bring your hands to your
+side! You're dead. You might as well pray for a fast nameless death here in
+the dark.. who knows, maybe your god will be listening.
+~
+151 131337 0
+D1
+~
+iron grating~
+2 0 15165
+S
+#15167
+A mound of skeletons~
+   Along with the countless numbers of skeletons strewn all over the
+room, there are three ancient books perched on high altars. Now what was
+that phrase you were supposed to say when you got here? Klatu Verata..
+It's a "N" word, it HAS to be!
+~
+151 131081 0
+S
+#15168
+A windy channel~
+   Many feet below you see the looming cavern floor. Why is it stained a
+dark red color? That couldn't be good.
+~
+151 131081 0
+D4
+~
+~
+0 0 15170
+D5
+~
+~
+0 0 15169
+S
+#15169
+A windy channel~
+   Many feet below you see the looming cavern floor. Why is it stained a
+dark red color? That couldn't be good.
+~
+151 131081 0
+D4
+~
+~
+0 0 15168
+D5
+~
+~
+0 0 15156
+S
+#15170
+A windy channel~
+   Many feet below you see the looming cavern floor. Why is it stained a
+dark red color? That couldn't be good.
+~
+151 131081 0
+D4
+~
+~
+0 0 15174
+D5
+~
+~
+0 0 15168
+S
+#15171
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D2
+~
+~
+0 0 15172
+D5
+~
+~
+0 0 15162
+S
+#15172
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D0
+~
+~
+0 0 15171
+D3
+~
+~
+0 0 15173
+S
+#15173
+A dark tunnel~
+   A musty scent fills the air as you make way down this otherwise
+unremarkable passage. The tunnel is of uniform size, seven feet tall, six
+feet wide, and seemingly endless.
+~
+151 9 0
+D1
+~
+~
+0 0 15172
+D2
+~
+~
+0 0 15174
+S
+#15174
+The room of choosing~
+   The walls are barren and the floors are dark. There is only one
+distinguishing characteristic of this room, and it's positioned in the
+center.
+~
+151 9 0
+D0
+~
+~
+0 0 15173
+S
+#15175
+A dingy lair~
+   Bones and rubbish are clustered all over the cavern but their 
+concentration is particularly dense in the far corner where there's a 
+mound that almost reaches three feet high. It would appear that 
+something has been living here for a while...
+~
+151 131081 0
+D9
+~
+~
+0 0 15102
+S
+#15176
+A dingy lair~
+   Bones and rubbish are clustered all over the cavern but their 
+concentration is particularly dense in the far corner where there's a 
+mound that almost reaches three feet high. It would appear that 
+something has been living here for a while...
+~
+151 131081 0
+D2
+~
+~
+0 0 15108
+S
+#15177
+A dingy lair~
+   Bones and rubbish are clustered all over the cavern but their 
+concentration is particularly dense in the far corner where there's a 
+mound that almost reaches three feet high. It would appear that 
+something has been living here for a while...
+~
+151 131081 0
+D3
+~
+~
+0 0 15151
+S
+#15178
+A filthy cubby~
+   Bones and rubbish are clustered all over the cavern but their 
+concentration is particularly dense in the far corner where there's a 
+mound that almost reaches three feet high. It would appear that 
+something has been living here for a while...
+~
+151 131081 0
+D2
+~
+~
+0 0 15123
+S
+#15179
+A dingy lair~
+   Bones and rubbish are clustered all over the cavern but their 
+concentration is particularly dense in the far corner where there's a 
+mound that almost reaches three feet high. It would appear that 
+something has been living here for a while...
+~
+151 131081 0
+D0
+~
+~
+0 0 15136
+S
+#15180
+Snared by the cloaker~
+   You are trapped inside the convoluting body of the cloaker!
+~
+151 131241 0
+S
+#15181
+A windy channel~
+   Many feet below you see the looming cavern floor. Why is it stained a
+dark red color? That couldn't be good.
+~
+151 131081 0
+D5
+~
+~
+0 0 15182
+S
+#15182
+A windy channel~
+   Many feet below you see the looming cavern floor. Why is it stained a
+dark red color? That couldn't be good.
+~
+151 131081 0
+D5
+~
+~
+0 0 15183
+S
+#15183
+A windy channel~
+   Many feet below you see the looming cavern floor. Why is it stained a
+dark red color? That couldn't be good.
+~
+151 131081 0
+D5
+~
+~
+0 0 15184
+S
+#15184
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D1
+~
+~
+0 0 15187
+D2
+~
+~
+0 0 15185
+S
+#15185
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D0
+~
+~
+0 0 15184
+D1
+~
+~
+0 0 15186
+D2
+~
+~
+0 0 15192
+S
+#15186
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D0
+~
+~
+0 0 15187
+D1
+~
+~
+0 0 15189
+D2
+~
+~
+0 0 15191
+D3
+~
+~
+0 0 15185
+S
+#15187
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D1
+~
+~
+0 0 15188
+D2
+~
+~
+0 0 15186
+D3
+~
+~
+0 0 15184
+S
+#15188
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D2
+~
+~
+0 0 15189
+D3
+~
+~
+0 0 15187
+S
+#15189
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D0
+~
+~
+0 0 15188
+D2
+~
+~
+0 0 15190
+D3
+~
+~
+0 0 15186
+S
+#15190
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D0
+~
+~
+0 0 15189
+D3
+~
+~
+0 0 15191
+S
+#15191
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D0
+~
+~
+0 0 15186
+D1
+~
+~
+0 0 15190
+D3
+~
+~
+0 0 15192
+S
+#15192
+Rocky cavern floor~
+  It looks like other people before you have made the same blunder, and 
+judging from the vast amount of corpses and skeletons scattered around, 
+they didn't find a way out.
+~
+151 131209 0
+D0
+~
+~
+0 0 15185
+D1
+~
+~
+0 0 15191
+S
+#99999
+$~

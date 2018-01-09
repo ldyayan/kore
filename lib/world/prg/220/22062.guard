@@ -1,0 +1,40 @@
+>greet_prog 100~
+  if ispc($n)
+    mpsilent mpoload 22030
+B
+    mpsilent get sword
+    mpsilent wield sword
+  endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+    riposte $r
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I shouts unintelligibly then attacks you in a frenzy!
+    berserk
+    berserk
+    berserk
+  endif
+~
+>fight_prog 3~
+  if inroom($r) == here
+    mpechoat $r $I takes hold of your arm and spins you down the stairs!
+    mpechoaround $r $I grabs $R and spins $L down the stairs!
+    mpdamage $r 10d15+80
+    mpechoat $r You land with a thud at the base of the stairs!
+    mptransfer $r 22084
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I picks up a settee and hurls it into you!
+    mpdamage all 10d10+50
+    mpecho You go down like a ruined crop!
+    mpforce all sit
+    berserk
+  endif
+~
+|

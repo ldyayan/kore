@@ -1,0 +1,166 @@
+>greet_prog 100~
+  # the coffin is 3475, 3460 is his normal room
+  if isscript($i)
+  or isfight($i)
+  or isnpc($n)
+  else
+    if inroom($i) == 3475
+      mptrigger $n coffin-hello
+    else
+      mptrigger $n hello
+    endif
+  endif
+~
+>script_prog coffin-hello~
+  say Gah!
+  stand
+  hit $n
+~
+>script_prog hello~
+  #
+  mpechoat $n $I looks at you solemnly.
+  mpechoaround $n $I looks at $N solemnly.
+  mpechoat $n $I considers you for a moment..
+  mpechoaround $n $I considers $N for a moment..
+  #
+  say You are here, for what?
+  say Gold?
+  say Power?
+  say Absolution?
+~
+>speech_prog money gold wealth loot treasure~
+  if isscript($i)
+  or isfight($i)
+  or inroom($i) == 3475
+  else
+    mptrigger $n gold
+  endif
+~
+>script_prog gold~
+  #
+  say Gold?
+  say Dead metal.
+  emote scornfully throws a handful of spectral coins at $N.
+  laugh
+  hit $n
+~
+>speech_prog power~
+  if isscript($i)
+  or isfight($i)
+  or inroom($i) == 3475
+  else
+    mptrigger $n power
+  endif
+~
+>script_prog power~
+  #
+  say Oh yes... I'll make you powerful!
+  say You will be my undead slave!!
+  laugh
+  hit $n
+~
+>speech_prog absolution forgive forgiveness~
+  if isscript($i)
+  or isfight($i)
+  or inroom($i) == 3475
+  else
+    mptrigger $n absolution
+  endif
+~
+>script_prog absolution~
+  #
+@
+  say Come to ask my forgiveness?
+  say Evil forgives you.
+@
+  laugh
+@
+  emote gets a look of concern...
+  emote recoils in horror!
+@
+  emote shrieks, 'NO!'
+  emote shrieks, 'I am the Undying One!'
+  emote shrieks, 'I will not die to you!'
+@
+  mpsilent remove all
+  mpsilent junk all.blueflame
+  mpoload 3428
+  wield sword
+  hit $n
+~
+>speech_prog both~
+  say Both?
+  say I said three different things, not two you cretin.
+  hit $n
+~
+>command_prog disarm~
+  if rand(70)
+    mpechoat $n $I nimbly sidesteps out of the way as you attempt to disarm him!
+    mpechoat $n $I picks you up easily with one hand and hurls you out of the room.
+    mpechoaround $n $I grabs $N by the neck and flings $m out of the room with a flick of the wrist!
+    mptransfer $n 3459
+    mpat $n mpechoat $n You collide forcefully with a wall of the catacombs and then fall to the ground!
+    mpat $n mpechoaround $n $N sails into the room and SMACKS $mself against the wall, and then falls hardly to the ground.
+    mpat $n mpdamage $n 13d14
+    mpat $n mppose $n sit
+    mpstopcommand
+  else
+    cast 'shocking grasp' $n
+    mpstopcommand
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    cast 'lightning bolt' $r
+  endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+    cast 'word of death' $r
+  endif
+~
+>hitprcnt_prog 20~
+  if inroom($i) == 3460
+    emote hisses evilly!
+    say Another time...
+    emote becomes a swirling mist like motes of dust on moonlight...
+    emote fades away...
+    mpecho You look again and $I is gone.
+    mpsilent mpcallmagic 'calm' $n
+    mpgoto 3475
+    mpecho A sickly mist fills the coffin..
+    mpecho $I forms and begins to heal.
+    rest
+  endif
+~
+>rand_prog 20~
+  if hitprcnt($i) > 90
+    if inroom($i) == 3475
+      if isfight($i)
+      else
+        mpecho $I becomes a sickly mist and flows out of the coffin.
+        mpsilent mpcallmagic 'calm' $n
+        stand
+        mpgoto 3460
+        mpecho A sickly mist flows out of the coffin and forms into the shape of a tall malevolent man..
+        if inroom($r) == here
+          hit $r
+        endif
+      endif
+    endif
+  endif
+~
+>death_prog 100~
+  emote shrieks, 'NO!!'
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I becomes a vile green smoke and shrieks to oblivion...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

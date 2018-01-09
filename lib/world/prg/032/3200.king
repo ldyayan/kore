@@ -1,0 +1,161 @@
+>speech_prog skit~
+mptrigger $n skit
+~
+>social_prog mpforce skit~
+mptrigger $n skit
+~
+>script_prog skit~
+mpecho A man wearing a crown prances into the room!
+mpecho The man hails a nearby peasant, 'Old Woman!'
+mpforce 3201 mptrigger $n test13
+~
+>script_prog test14~
+say Man. Sorry. What knight lives in that castle over there?
+mpforce 3201 mptrigger $n test15
+~
+>script_prog test16~ 
+say I-- what?
+@
+@
+@
+mpforce 3201 mptrigger $n test17
+~
+>script_prog test18~ 
+say Well, I can't just call you 'Man'.
+@
+@
+@
+mpforce 3201 mptrigger $n test19
+~
+>script_prog test20~
+say Well, I didn't know you were called 'Dennis'.
+@
+@
+mpforce 3201 mptrigger $n test21
+~
+>script_prog test22~
+say  I did say 'sorry' about the 'old woman', but from the behind you looked--
+@
+@
+mpforce 3201 mptrigger $n test23
+~
+>script_prog test24~
+say Well, I am King!
+@
+mpforce 3201 mptrigger $n test25
+~
+>script_prog test27~
+@
+@
+say How do you do, good lady? I am Arthur, King of the Britons. Who's castle is that?
+mpforce 3202 mptrigger $n test28
+~
+>script_prog test29~
+say The Britons.
+@
+mpforce 3202 mptrigger $n test30
+~
+>script_prog test31~
+@
+@
+say Well, we all are. We are all Britons, and I am your king.
+mpforce 3202 mptrigger $n test32
+~
+>script_prog test36~
+@
+say Please! Please, good people. I am in haste. Who lives in that castle?
+@
+@
+mpforce 3202 mptrigger $n test37
+~
+>script_prog test38~
+@
+@
+@
+say Then who is your lord?
+@
+mpforce 3202 mptrigger $n test39
+~
+>script_prog test40~
+say What?
+@
+@
+mpforce 3201 mptrigger $n test41
+~
+>script_prog test42~
+say Yes.
+@
+mpforce 3201 mptrigger $n test43
+~
+>script_prog test44~
+say Yes, I see.
+@
+@
+mpforce 3201 mptrigger $n test45
+~
+>script_prog test46~
+say Be quiet!
+@
+mpforce 3201 mptrigger $n test47
+~
+>script_prog test48~
+say Be quiet! I order you to be quiet!
+@
+mpforce 3202 mptrigger $n test49
+~
+>script_prog test50~
+@
+ #
+say I am your king!
+mpforce 3202 mptrigger $n test51
+~
+>script_prog test52~
+@
+say You don't vote for kings.
+mpforce 3202 mptrigger $n test53
+~
+>script_prog test54~
+mptrigger $n lady
+~
+>script_prog lady~
+say The Lady of the Lake,...
+@
+mpecho Angelic singing wafts from nowhere.
+say ...her arm clad in the purest shimmering samite, held aloft Excalibur from the bosom of the water
+@
+@
+say signifying by Divine Providence that I, Arthur, was to carry Excalibur.
+@
+@
+mpecho The singing stops.
+@
+say That is why I am your king!
+@
+mpforce 3201 mptrigger $n test55
+~
+>script_prog test56~
+say Be quiet!
+@
+mpforce 3201 mptrigger $n test57
+~
+>script_prog test58~
+say Shut up!
+@
+mpforce 3201 mptrigger $n test59
+~
+>script_prog test60~
+say Shut up, will you? Shut up!
+@
+mpforce 3201 mptrigger $n test61
+~
+>script_prog test62~
+say Shut up!
+@
+mpforce 3201 mptrigger $n test63
+~
+>script_prog test64~
+say Bloody peasant!
+boot 3201
+mpforce 3201 mptrigger $n test65
+~
+|

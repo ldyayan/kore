@@ -1,0 +1,478 @@
+#18400
+copper thick collar~
+a thick copper collar~
+A thick copper loop is here, attached to a small pole.~
+~
+9 8400896 5
+-5 0 0 0
+1 1 1
+E
+collar copper thick~
+   This three inch thick band of copper is wide enough to fit around a tree
+trunk, yet adjustable to fit the smallest Gnome.  A band of small oval pegs
+runs along the perimeter of the band.
+~
+A
+13 5
+A
+18 1
+#18401
+key house~
+a house key~
+A key for someones house sits here on the edge of a table.~
+This is a small key, made from sopstone.  It is very smooth and looks as if it
+has been the key to the Artificer's house for quite some time.
+~
+18 4 16385
+18401 0 0 0
+1 1 1
+E
+key house~
+This is a small key, made from sopstone.  It is very smooth and looks as if it
+has been the key to the Artificer's house for quite some time.
+~
+#18402
+sign wooden small~
+a small wooden sign~
+A small wooden sign is staked in the ground here.~
+~
+13 0 1
+0 0 0 0
+9999 1 1
+E
+sign wooden small~
+
+You are entering the property of Malchot the Artificer. Trespassing is
+not allowed, so all unwelcomed guests please leave.
+
+
+    Malchot, the Artificer
+
+~
+#18403
+halo artificer glowing everglowing~
+the halo of the Artificer~
+A glowing halo of yellow light floats here, giving you a warm feeling.~
+~
+9 49185 17
+7 0 0 0
+1 1 1
+E
+halo artificer~
+   A yellowish circlet of fog and light hovers here above your hand.  As you
+reach your fingers out to touch it, a chill runs up your spine.  Almost 
+expecting your fingers to go through it, you can firmly grasp the solid energy
+that makes up the halo.
+~
+A
+3 1
+A
+12 10
+#18404
+necklace remembrance~
+necklace of remembrance~
+A necklace made of glowing balls sits here on the ground.~
+~
+9 33 5
+5 0 0 0
+1 1 1
+E
+necklace rememberance~
+   A series of glowing balls, bound together by some unseen force, lay here
+lightly in your hand.  The balls glow with a dull white light, and emit so much
+energy they almost have a fuzzy feeling.
+~
+A
+4 2
+A
+24 -4
+#18405
+fountain water pool~
+a large marble fountain~
+A large ornate marble fountain sits here surrounded by beautiful flowers.~
+~
+23 0 1
+2000 2000 15 0
+9999 1 1
+E
+fountain~
+   This large marble fountain is seemingly untouched by time.  It looks as if it
+was created yesterday.  The marbel is still highly polished and the carvings
+that line its base have not lost any of their precision edge.  Crystal clear
+water spouts from a large carved fish, and splashes down into a shallow
+basin.
+~
+#18406
+haik thin cotton~
+a thin cotton haik~
+An almost transparent strip of cotton lays here over an armchair.~
+~
+9 17424 1025
+3 0 0 0
+1 1 1
+E
+cotton haik~
+   The haik is a long strip of very thin cotton that is draped around the body.
+However, you assume it is worn over clothing since this fabric is so sheer
+that it is very easy to see through, and would be quite revealing...
+~
+A
+6 2
+A
+10 -10
+#18407
+lash briar tangle tanglebriar~
+a lash made from tangle briars~
+A long thin lash is here, covered in cruel looking briars.~
+~
+6 135248 32769
+0 3 3 2
+5 1 1
+E
+lash briar~
+   This whip like vine is extremely long, and covered in inch long thorns.
+The vine itself folds over on itself many times, giving it an braided
+appearance.  The thorns and briars that are all over it look like they could
+inflict a nasty wound that would take a long time to heal.
+~
+A
+14 -15
+A
+19 1
+#18408
+bucket tears willow~
+a bucket filled with willow tears~
+A brown wooden bucket sits her, filled with tears.~
+~
+10 4 16385
+30 119 3 1
+10 1 1
+E
+bucket willow~
+   The bucket itself is made from the wood of a weeping willow, however it is
+so warped you are surprised to find that it still can contain fluid.
+~
+#18409
+elixir nectar flower~
+an elixir made from flower nectar~
+A small elixir sits here, smelling like flowers.~
+~
+10 0 16385
+15 43 0 0
+1 1 1
+E
+elixir nectar~
+   The elixir is contained in a pod like structure, the likes of which you have
+never seen.  Inside the pod is a thick yellow fluid that smells so sweet it
+almost makes you dizzy.
+~
+#18410
+mantid exoskeleton exo skeleton~
+a mantid's exoskeleton~
+A large green exoskeleton sits here shifting its color ever so slightly.~
+~
+9 151552 9
+7 0 0 0
+5 1 1
+E
+mantid exo exoskeleton~
+   The carapace of the huge mantids looks as if it will easily fit on to your
+body.  It is extremely light, and extremely hard.  Made of green chitin, the 
+color of the exoskeleton never stays the same, it always shifts to different
+hues of green.
+~
+A
+2 1
+A
+14 5
+#18411
+rod dowsing Y~
+a dowsing rod~
+A Y shaped rod is here, pointing towards water.~
+~
+11 0 16385
+0 0 0 0
+1 1 1
+E
+rod dowsing~
+   This strange Y shaped rod is made out of a wood that is so smooth and
+flawless that you thought it was metal at first.  Some healers and clerics say
+that with this rod, one can loctae water very easily by channeling the powers
+of nature through yourself.
+~
+A
+18 2
+A
+19 1
+#18412
+cog oily huge~
+a huge oily cog~
+A huge cog is here, dripping oil all overthe place.~
+~
+5 114754 24577
+2 2 8 4
+7 1 1
+E
+cog oily~
+   This cog must have come off of a huge machine, as it is nearly two feet in
+diameter.  It is covered in a dark gray oil that, despite your efforts, seems to
+always remain on it.  You consider its weight, and the jagged edges and decide
+that it could be used to inflict some serious pain.
+~
+A
+19 3
+A
+9 2
+#18413
+helm pot iron~
+an iron pot helm~
+A little iron pot helm sits here, ready to be worn.~
+~
+9 0 17
+7 0 0 0
+4 1 1
+E
+pot helm~
+   This little iron helm looks like it would only really fit on a gnome or
+halflings head.  However, it has a thick canvas chin strap attached to it, so
+a larger being could also wear it, it would just look a little funny.
+~
+A
+5 1
+#18414
+red banner~
+the Red Banner~
+A large banner is here bearing a huge hammer on a red background.~
+~
+13 0 1
+0 0 0 0
+99999 1 1
+E
+banner red~
+  This torn up banner is made of heavy canvas, dyed a deep red.  Drawn on
+the center of it is a large hammer, layered on top of a pale yellow 
+triangle.  The banner looks like it has been carried into many battles, and
+is just wedge here temporarily.
+~
+#18415
+blue banner~
+the Blue Banner~
+A large banner is here, an orb on a blue background is emblazed upon it.~
+~
+13 0 1
+0 0 0 0
+99999 1 1
+E
+banner blue~
+   This banner is firmly bolted into position, held fast to a enormous
+boulder that makes up the western wall of the passage.  The banner is made
+of a heavy material, with what appears to be flecks of copper woven into it.
+The banner has been dyed a deep blue, with a orange star shape upon it.
+Drawn in chalk on the star shape, is a picture of a powerful hand holding
+an orb that seems to be emitting lightning.
+~
+#18416
+ball hot wax dripping~
+a dripping ball of hot wax~
+A ball of hot wax is here, dripping on the floor.~
+~
+11 69713 16385
+0 0 0 0
+1 1 1 500
+E
+ball wax~
+   This is a nasty pile of lard colored wax.  It oozes between your fingers,
+right on the threshold of causing you pain.  Its hard to contain it in one hand
+as it always seems to be squishing about.
+~
+A
+18 -1
+A
+19 2
+A
+2 -1
+#18417
+plates stone~
+a set of hard stone plates~
+A pile of stone plates sits here in a pile.~
+~
+9 90114 33
+8 0 0 0
+1 1 1
+E
+plates stone~
+   These heavy stone plates are made out of what looks like a petrified 
+volcanic rock of some sort.  Veins of thin copper colored ore run throughout
+the stone, and they almost seem to pulse with some internal power.
+~
+A
+1 1
+A
+2 -1
+#18418
+hammer siege voldov~
+Voldov's siege hammer~
+A huge hammer sits here, made entirely of steel.~
+~
+5 86081 8193
+2 7 3 9
+15 1 1
+E
+hammer steel siege~
+   This huge hammer is made entirely of dull steel.  It is about sixteen inches
+long, and has a wicked spike on its butt end.  The flat of the hammer could
+be used for crushing skulls, or knocking down doors.  This would be a very
+formidable weapon in the hands of a powerful person.
+~
+A
+19 3
+A
+1 2
+#18419
+orb crystaline crystal~
+a crystaline orb~
+An orb made of clear crystal sits here.~
+~
+11 114753 16385
+0 0 0 0
+5 1 1
+E
+orb crystaline~
+   This orb is about the size of a grapefruit, but perfectly round.  It is made
+up of a very clear crystal, through which run thin veins of a copper colored
+ore.  Blue lines of electricity run across the copper colored lines, and pulse
+into your hand as you hold it.
+~
+A
+12 20
+A
+3 2
+A
+9 3
+#18420
+steel shield~
+a steel lined shield~
+A shield lined with steel sits here against the wall.~
+~
+9 8474642 513
+6 0 0 0
+10 1 1
+E
+shield steel lined~
+   The center of this shield is made of a heavy, dark wood the likes of which
+you have never seen before.  The edges are lined with inches of heavy steel,
+bolted deep into the wood.  While this shield is very heavy, it would give
+you excellent protection against most attacks.
+~
+A
+18 2
+A
+13 10
+A
+14 -15
+#18421
+shank metal gleaming~
+a gleaming metal shank~
+A nasty shank made of metal is stuck in the ground.~
+~
+5 8466496 8193
+0 2 6 11
+4 1 1
+E
+shank~
+   This wicked looking piece of metal seems to be homemade.  At least no 
+weaponsmith you know of would claim to have made it.  About a foot long, the
+butt is wrapped in a leather thing and the sharp point looks as if it has been
+honed on the rocky ground.
+~
+A
+19 1
+A
+18 1
+#18422
+sleeves oricalcum~
+polished oricalcum sleeves~
+A set of sleeves is here, its color is similar to that of bronze or copper.~
+~
+9 8437762 257
+3 0 0 0
+6 1 1
+E
+oricalcum sleeves~
+   Oricalcum is a legendary metal that is imbued with magical powers. It is 
+said to be very powerful, even in small amounts.  Threads of a coppery colored
+materail line these sleeves.  It is said that oricalcum is often the color
+of bronze or copper.  Could it be?...
+~
+A
+12 15
+A
+18 1
+A
+3 1
+#18423
+key blue~
+a bright blue key~
+A blue key swings from a short rope here.~
+~
+18 4 16385
+18423 3 0 0
+1 1 2
+#18424
+key red~
+a glowing red key~
+A red key is here on the tabletop.~
+~
+18 5 16385
+18424 3 0 0
+1 1 2
+#18425
+sceptre artificer~
+the sceptre of the Artificer~
+A copper sceptre topped with a multi-colored globe sits here.~
+~
+9 181761 16385
+2 0 0 0
+5 250 0
+E
+sceptre artificer~
+   A foot long sceptre sits here, topped with a fist sized globe that pulses and
+throws out multiple different colors.  The shaft of the sceptre is made of copper, but is engraved with a cryptic looking script that you cannot read.
+The globe itself is crystal clear, yet flashes of all different colors 
+constantly swirl within it.
+~
+A
+12 15
+A
+3 1
+A
+18 1
+#18426
+bag fuck~
+a huge fucking bag~
+A big-ass bag is sitting here.  You could probably stow all your shit in it and still have room for Karn's mom.~
+~
+15 0 16385
+9999999 1 -1 0
+0 0 0
+#18427
+dust marble handful~
+a handful of marble dust~
+A small pile of white powdery dust sits here.~
+~
+25 0 1
+50 65 36 0
+1 0 0
+#18499
+superstar hat~
+a baseball hat that says "Proteus is a Superstar!"~
+You are a Superstar Proteus!~
+Shoot for the stars, Superstar!
+~
+11 0 17
+0 0 0 0
+4 0 0
+A
+6 -4
+#99999
+$~

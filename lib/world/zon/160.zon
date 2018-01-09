@@ -1,0 +1,159 @@
+#160
+Aringill I~
+16099 40 2 48
+M 0 16004     1 16000            a serving girl
+M 0 16005     1 16000            a patron
+M 0 16005     2 16000            a patron
+M 1 16060     5 16085            a townguard of Aringrill
+O 0 16032   101 16041            the plaza fountain
+M 0 16015     5 16001            a janitor
+M 0 16000     1 16011            a bartender
+M 0 16006     1 16011            a drunk
+M 0 16007     1 16011            an offduty townguard
+M 0 16062     5 16003            a townguard of Aringrill
+M 0 16016     5 16069            an ox drawn cart
+M 0 16036     2 16069            a stout miner
+M 1 16061     5 16069            a townguard of Aringrill
+O 0 16023   101 16038            a clay jug
+O 0 16024   101 16038            a clay flask
+O 0  3104   101 16038            a canteen
+M 0 16021     7 16030            a chicken
+M 0 16037    14 16030            an ogier
+M 0 16037    14 16015            an ogier
+M 0 16013    12 16051            a young man
+M 0 16036     3 16051            a stout miner
+M 0 16037    14 16051            an ogier
+M 0 16013    17 16067            a young man
+M 0 16037    10 16067            an ogier
+M 0 16036     5 16087            a stout miner
+M 0 16014    10 16025            an old lady
+M 0 16036     4 16025            a stout miner
+M 0 16036     3 16066            a stout miner
+O 0 16053   101 16043            a large vial
+O 0 16047   101 16043            a speckled jug
+O 0 16049   101 16043            a speckled potion
+O 0 16050   101 16043            a speckled phial
+O 0 16044   101 16043            a yellow potion of see invisible
+M 0 16030     1 16046            the armourer
+M 0 16022     3 16097            a wench
+M 0 16023     3 16097            a dealer
+M 0 16024     3 16097            a tsang addict
+M 0 16017     2 16092            a townguard of Aringill
+M 0 16022     2 16092            a wench
+M 0 16023     5 16092            a dealer
+O 0  3046   101 16047            a bronze breast plate
+O 0  3070   101 16047            a pair of bronze gauntlets
+O 0  3075   101 16047            a bronze helmet
+O 0  3080   101 16047            a pair of bronze leggings
+O 0  3085   101 16047            a pair of bronze sleeves
+O 0 16035   101 16045            a flail
+O 0 16036   101 16045            a warhammer
+O 0 16037   101 16045            a wooden club
+O 0 16038   101 16045            a small sword
+O 0 16039   101 16045            a long sword
+O 0 16040   101 16045            a dagger
+M 0 16026     1 16044            a sword peddler
+M 0 16029     1 16042            the Apothecary
+M 0 16028     1 16048            a wizard
+O 0 16043   101 16049            a scroll of identify
+O 0 16044   101 16049            a yellow potion of see invisible
+O 0 16045   101 16049            a scroll of recall
+O 0 16046   101 16049            a grey wand of invisibility
+M 0 16008     1 16033            a baker
+M 0 16009     1 16035            a leather merchant
+M 0 16010     1 16037            a potter
+M 0 16003    12 16054            a townguard captain
+M 0 16003    12 16017            a townguard captain
+M 0 16003    12 16004            a townguard captain
+E 1 16007    20    16                    wield an ornate longsword
+M 0 16003    12 16056            a townguard captain
+E 1 16007    20    16                    wield an ornate longsword
+M 0 16003    12 16070            a townguard captain
+E 1 16007    20    16                    wield an ornate longsword
+M 0 16003    12 16079            a townguard captain
+E 1 16007    20    16                    wield an ornate longsword
+M 0 16013    17 16055            a young man
+M 0 16014    15 16088            an old lady
+M 0 16002    15 16088            a townguard of Aringill
+M 0 16014    10 16082            an old lady
+M 0 16002    13 16014            a townguard of Aringill
+M 0 16014    10 16014            an old lady
+M 0 16002    14 16013            a townguard of Aringill
+M 0 16021     7 16013            a chicken
+M 0 16013    12 16008            a young man
+M 0 16021     7 16002            a chicken
+M 0 16013    12 16029            a young man
+M 0 16017     5 16094            a townguard of Aringill
+M 0 16024     5 16094            a tsang addict
+M 0 16017     5 16098            a townguard of Aringill
+M 0 16025    12 16063            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16002    20 16005            a townguard of Aringill
+M 0 16025    12 16005            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16002     7 16021            a townguard of Aringill
+M 0 16025    12 16021            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16025    12 16024            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16025    12 16080            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16002    27 16074            a townguard of Aringill
+M 0 16025    12 16074            a townguard
+E 1 16034     5    18                    ready a wooden longbow
+M 0 16021    10 16083            a chicken
+M 0 16002    22 16050            a townguard of Aringill
+M 0 16002    23 16050            a townguard of Aringill
+M 0 16015    10 16050            a janitor
+O 0 16000   101 16012            a mug of beer
+O 0 16001   101 16012            a glass of red wine
+O 0 16002   101 16012            a mug of ale
+O 0 16004   101 16012            a bottle of whiskey
+O 0 16005   101 16012            a bottle of liquor
+O 0 16003   101 16012            a mug of dark ale
+O 0 16006   101 16012            a cup of coffee
+M 0 16002     1 16007            a townguard of Aringill
+M 0 16002     2 16007            a townguard of Aringill
+M 0 16002     3 16006            a townguard of Aringill
+M 0 16002     4 16009            a townguard of Aringill
+M 0 16002     5 16010            a townguard of Aringill
+M 0 16002     6 16022            a townguard of Aringill
+M 0 16002     8 16019            a townguard of Aringill
+M 0 16002     9 16018            a townguard of Aringill
+M 0 16002    12 16016            a townguard of Aringill
+O 0 16008   101 16034            a piece of waybread
+O 0 16009   101 16034            a loaf of waybread
+O 0 16010   101 16034            a piece of flat bread
+O 0 16011   101 16034            an apple pastry
+O 0 16012   101 16034            a vanilla cookie
+O 0 16013   101 16034            a chocolate cookie
+O 0 16014   101 16034            a strawberry cake
+O 0 16015   101 16036            a leather waterskin
+O 0 16016   101 16036            a leather vest
+O 0 16017   101 16036            a pair of leather boots
+O 0 16018   101 16036            a leather pouch
+O 0 16019   101 16036            a leather backpack
+O 0 16020   101 16036            a leather belt
+O 0 16021   101 16036            a pair of leather leggings
+O 0 16022   101 16036            a leather cloak
+O 0 16025   101 16040            a nice blue shirt
+O 0 16026   101 16040            a dark green shirt
+O 0 16027   101 16040            a billowing white shirt
+O 0 16028   101 16040            a black baladrana
+O 0 16029   101 16040            a pair of green breeches
+O 0 16030   101 16040            a woolen cassock
+O 0 16031   101 16040            an embroidered surcote
+M 0 16011     1 16039            a tailor
+M 0 16002    15 16062            a townguard of Aringill
+M 0 16002    16 16062            a townguard of Aringill
+M 0 16002    17 16061            a townguard of Aringill
+M 0 16002    18 16060            a townguard of Aringill
+M 0 16002    19 16058            a townguard of Aringill
+M 0 16002    21 16052            a townguard of Aringill
+M 0 16002    25 16077            a townguard of Aringill
+M 0 16002    26 16076            a townguard of Aringill
+M 0 16002    29 16073            a townguard of Aringill
+M 0 16002    30 16071            a townguard of Aringill
+S
+#99999
+$~

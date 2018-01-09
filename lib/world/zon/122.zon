@@ -1,0 +1,80 @@
+#122
+Eastern Slums of Kore~
+12299 20 2 32
+D 0 12208     0     2            The Front Steps door north
+M 0 12203     2 12208            a nasty thug
+G 1 12202   100    -1                    give a key to the front door
+E 1 12203     8    16                    wield a heavy cudgel
+M 0 12203     2 12208            a nasty thug
+E 1 12203     8    16                    wield a heavy cudgel
+M 0 12206    10 12208            a Tsang junkie
+D 0 12209     2     2            Inside the Big House door south
+M 0 12204    20 12209            a Tsang junkie
+G 1 12204     8    -1                    give a Tsang pipe
+M 0 12201     8 12201            a filthy wino
+G 1 12201     8    -1                    give a dirty bottle of rum
+M 0 12200     4 12206            a resident of the Eastern Slum
+M 0 12200     4 12205            a resident of the Eastern Slum
+M 0 12201     8 12202            a filthy wino
+G 1 12201     8    -1                    give a dirty bottle of rum
+M 0 12202     3 12207            a shifty-looking hood
+E 1 12200     8    16                    wield a nasty shiv
+M 0 12201     8 12207            a filthy wino
+G 1 12201     8    -1                    give a dirty bottle of rum
+M 0 12207     1 12207            a Barkeep
+E 1 12203     8    16                    wield a heavy cudgel
+G 1 12206     8    -1                    give Gutrot Wine
+M 0 12204    20 12211            a Tsang junkie
+G 1 12204     8    -1                    give a Tsang pipe
+M 0 12204    20 12212            a Tsang junkie
+G 1 12204     8    -1                    give a Tsang pipe
+M 0 12204    20 12216            a Tsang junkie
+G 1 12204     8    -1                    give a Tsang pipe
+G 1 12204     8    -1                    give a Tsang pipe
+M 0 12204    20 12216            a Tsang junkie
+M 0 12204    20 12214            a Tsang junkie
+G 1 12204     8    -1                    give a Tsang pipe
+G 1 12204     8    -1                    give a Tsang pipe
+M 0 12204    20 12214            a Tsang junkie
+M 0 12205     1 12215            a Tsang dealer
+G 1 12205     8    -1                    give a piece of Tsang root
+M 0 12206    10 12210            a Tsang junkie
+M 0 12208     1 12220            a wizened old man
+E 1 12207    20    16                    wield a veterans shortsword
+M 0 12209     3 12221            a small ferret
+M 0 12209     3 12221            a small ferret
+M 0 12209     3 12221            a small ferret
+M 0 12210     3 12223            a large ferret
+M 0 12210     3 12223            a large ferret
+M 0 12210     3 12223            a large ferret
+M 0 12211     3 12222            a huge ferret
+M 0 12211     3 12222            a huge ferret
+M 0 12211     3 12222            a huge ferret
+M 0 12212     3 12224            a monstrous ferret
+M 0 12212     3 12224            a monstrous ferret
+M 0 12212     3 12224            a monstrous ferret
+M 0 12213     1 12225            the Fishwife
+E 1 12208     8    16                    wield a greasy frying pan
+M 0 12214     8 12217            a vandal
+M 0 12214     8 12219            a vandal
+M 0 12214     8 12204            a vandal
+M 0 12204    20 12204            a Tsang junkie
+M 0 12215     7 12233            a sleeping filthy wino
+M 0 12216     7 12233            a dirty kid
+M 0 12206    10 12233            a Tsang junkie
+M 0 12217     7 12232            a teen tramp
+M 0 12216     7 12232            a dirty kid
+M 0 12204    20 12232            a Tsang junkie
+M 0 12206    10 12235            a Tsang junkie
+M 0 12206    10 12235            a Tsang junkie
+M 0 12204    20 12235            a Tsang junkie
+M 0 12217     7 12234            a teen tramp
+M 0 12215     7 12234            a sleeping filthy wino
+M 0 12216     7 12234            a dirty kid
+M 0 12204    20 12234            a Tsang junkie
+M 0 12228     8 12228            an Old Bum
+G 1 12209     8    -1                    give a Broken Bottle
+M 0 12236     1 12236            Otto the Dealer
+S
+#99999
+$~

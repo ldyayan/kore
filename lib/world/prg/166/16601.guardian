@@ -1,0 +1,39 @@
+>greet_prog 100~
+  if ispc($n)
+    if isevil($n)
+     say No evil spirits will be allowed here!
+     mpecho $I claps his hands and $n disappears. 
+     mpechoat $n You feel real dizzy and soon realize that you're at the Temple of Vulmarta!
+    else
+      if ispc($n)
+       tell $n Welcome to Blithe, enjoy your stay but DO NOT cause trouble.
+      endif
+    endif
+  endif
+~ 
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I reaches to the sky and brings down a shards splinters on your head!
+    mpdamage all 15d8+70
+  endif
+~ 
+>death_prog 100~
+  scream
+  mpecho $I says, 'How can this be?!'
+  mpecho $I says, 'I have failed you Kickshaw!'
+  mpecho With a deafening cry $I explodes from the inside, showering you with armor.
+  mpecho $I is dead!  R.I.P.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~  
+>fight_prog 10~
+  if isaffected($n, sanctuary)
+   Say Oh, that's just not necessary.
+   cast 'dispel magic' $n 
+  endif
+~ 
+|

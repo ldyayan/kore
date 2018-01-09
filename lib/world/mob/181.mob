@@ -1,0 +1,326 @@
+#18100
+lady old henneson farmer~
+Old Lady Henneson~
+Old lady Henneson stands here, carefully tending to her crops.
+~
+   It is almost impossible for you to judge how old this woman is.  Your best
+guess places her between fourty and eighty.  Her skin is deeply wrinkle and
+tanned from countless years under the relentless sun.  Despite the stories
+of her being a very kind old woman, the wrinkles on her face make her appear
+to be in a perpetual scowl.  She simply snorts lightly as you come into view,
+never stopping her careful maintenence of the vegetables in front of her.
+~
+202 135168 400 S
+22 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#18101
+dog old scruffy black~
+an old scruffy black dog~
+An old scruffy black dog is laying here, tilting his head at your approach.
+~
+   This dog is not very young, not very energetic, and not very pretty.  His
+long black hair is matted up into balls of dirt.  His tounge hangs out of his
+mouth as he raises his head about an inch off the ground, almost as a nod of
+recognition to you.
+~
+10 131072 0 S
+3 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18102
+highwayman guard kore highway~
+a HighwayMan~
+A Highway guard is here, protecting travelers from brigands and bandits.
+~
+   The HighwayMan protects all the travelers of the Western Highway.  These
+guards are employed by the city of Kore, but spend the majority of their time
+patrolling the grounds around the Fields of Gramen.  The Highway guards wear
+light leather armor, and have short swords at their side.  Their walking sticks
+double as formidable weapons.
+~
+6216 36864 330 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18103
+peasant~
+a peasant~
+A peasant hurries down the road with a load of hay on his back.
+~
+   The peasant barely seems to notice your presence as he scurries out of your r
+way.  He is very thin, but carries a large amount of hay upon his back.  He
+mutters something, which you cannot understand.  His bare feet turn up a small cll
+cloud of dust as he moves quickly past you.
+~
+8 131072 0 S
+3 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18106
+horse old~
+an old horse~
+An old horse stands here in its stall.
+~
+   This horse has a bowed back, knobby knees and a noticeable rib cage.  It
+slowly chews on it's cud as it looks lazily your way.  It's tail slowly waves
+back and forth brushing the flies away from its body.
+~
+10 131072 0 S
+4 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#18107
+guard highway highwayman~
+a HighwayMan~
+A Highway Guard is sitting here, taking a break after a long patrol.
+~
+   The HighwayMan protects all the travelers of the Western Highway.  These
+guards are employed by the city of Kore, but spend the majority of their time
+patrolling the grounds around the Fields of Gramen.  The Highway guards wear
+light leather armor, and have short swords at their side.  Their walking sticks
+double as formidable weapons.
+~
+4106 36864 330 S
+15 1 0 1d1+1 1d1+1
+15 20
+5 5 1
+#18108
+windfinder~
+the WindFinder~
+The WindFinder stands here, his stern face hiding his surprise.
+~
+   You have heard stories of the WindFinder.  He was the old Sergeant of the
+guards of Kore, retiring after the acsension of the Tyrant.  It is said that
+he wandered the Gramen fields and the northern woods for years, honing his
+skills as a ranger and woodsman.  The stories say he agreed to train the 
+HighwayMen after his lover was slain by a group of bandits that wandered the
+Western Roads.  He is dressed in a tight fitting green leather jerkin, with
+matching leggings and leather cap.  Worn green gloves adorn his hands, which
+rest easily at his side.  You can tell from the look on his face that he
+could run you through in an instant, or grab his bow and hit you dead from
+three hundred paces.
+~
+243722 4296872 500 S
+40 1 0 1d1+1 1d1+10
+15 20
+8 8 1
+#18114
+sarilla bard troubador~
+Sarilla~
+Sarilla, the lady Bard of the Lofty Crow, plays her lyre to the patrons.
+~
+   Sarilla is as beautiful as her voice.  A thin woman of average height, she
+is dressed in fine flowing skirts.  She plays her Lyre with ease, the sound
+that comes from it can only come from someone with the magical abbility of a
+Troubador.  She sings melodic songs and tells wonderful stories, her voice
+mesmerizing the eager audience that sits in front of her.  Despite her
+appearance of ease, she gives you the feeling that she knows everything that
+is going on here, not just in this room, but all of Kore.
+~
+10394 73896 -500 S
+29 1 0 1d1+100 1d1+1
+0 20
+8 8 2
+#18115
+wench~
+a Serving Wench~
+A serving wench of the Lofty Crow runs to and fro carrying food and drink
+~
+   This pretty young woman spends all of her working day serving the Patrons
+of the Lofty Crow.  The people dont seem to notice how hard she is working,
+people from all the rooms are calling for her service.  The sweat on her head
+shines in the lamplight as she gives you a shy smile and a curt nod.
+~
+140 0 150 S
+6 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#18116
+wench sent~
+a Serving Wench~
+A serving wench of the Lofty Crow is busily cooking and brewing.
+~
+   This pretty young woman spends allof her working day serving the Patrons
+of the Lofty Crow.  The people dont seem to notice how hard she is working,
+people from all the rooms are calling for her service.  The sweat on her head
+shines in the lamplight as she gives you a shy smile and a curt nod.
+~
+142 0 150 S
+6 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#18117
+patron~
+a patron of the Lofty Crow~
+A patron of the lofty crow is here, enjoying the music, food and drink.
+~
+   A common looking chap, happy with his existance, smiles as you enter the
+room.  He seems very happy at just being at 'the Crow', enjoying the talk of
+his friends, the excellent food and drink, and (of course) the excellent
+music coming from Sarilla.  You wonder if you could achieve this state...maybe
+you should order something to drink.
+~
+12 0 0 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18118
+patron~
+a patron of the Lofty Crow~
+A patron of the lofty crow is here, enjoying the music, food and drink.
+~
+   A common looking chap, happy with his existance, smiles as you enter the
+room.  He seems very happy at just being at 'the Crow', enjoying the talk of
+his friends, the excellent food and drink, and (of course) the excellent
+music coming from Sarilla.  You wonder if you could achieve this state...maybe
+you should order something to drink.
+~
+14 0 0 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18119
+stubby bartender~
+Stubby, the Bartender~
+Stubby, the bartender of the Lofty Crow, gives you a wry smile.
+~
+   A tall, thin Thri-Kreen stands here beside a low bar.  His name is Stubby,
+you have heard people yell his name a dozen times since you enterd this
+place.  You would assume he got his name from the fact that he is missing one
+of his main arms.  However, the other three arms he has easily make up for it.
+Clad in fancy brown leather clothes, Stubby looks very at ease in his position.
+He gives you a slight nod, and asks you if you'd like a drink.
+~
+925722 8320 -400 S
+40 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18120
+brithan huge~
+a brithan~
+A huge brithan is here, rooting through the grasses for something to eat.
+~
+   A Brithan is a very odd creature. A magical creation without a doubt, it
+looks like a mix between a bear and an earth element.  While many stories
+say Brithans are violent creatures, this one just seems at ease rooting
+through the grasses looking for some weeds to eat. This doesnt mean you want
+to get too close however...you have seen the nasty wounds inflicted by
+a Brithan's large claws.
+~
+100440 17072128 0 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18121
+bookie dwarf~
+a Bookie~
+A skinny dwarf sits here, pouring over a big stack of books.
+~
+   Now this is a strange sight, a skinny dawrf (a rare sight indeed) sits at
+a oak desk.  His feet dangle off the edge of a plush chair, his chin almost
+buried in a big book.  He glares up at you under his bifocals and abruptly
+closes the book. "Can I help you?" he says in a sarcastic tone.  You notice
+a small key sticking out of the pocket of his waistcoat.
+~
+2186 8 -200 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18122
+ugalump immature quest~
+an immature UgaLump~
+An immature Ugalump stands here, mocking you.
+~
+An immature UgaLump looks very similar to an adult UgaLump, with
+the exception of the fact that immature UgaLumps have less mouths.
+~
+524364 8552448 0 S
+15 0 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#18123
+ugalump large quest~
+a large UgaLump~
+A large UgaLump is here looking for a mate.
+~
+This UgaLump is looking to mate. You think that might hurt.
+~
+591896 13008896 0 S
+22 0 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#18124
+ugalump rabid quest~
+a rabid UgaLump~
+A rabid UgaLump lurches around, foaming at it's mouths.
+~
+This poor UgaLump didn't find a mate in time and now its gone
+stark raving nuts. All that pent up anger is not good for you
+either.
+~
+622712 12693636 0 S
+23 0 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#18125
+ugalump gravid quest~
+a gravid Ugalump~
+A gravid UgaLump is here looking for a place to give birth.
+~
+This UgaLump is real close to giving birth, there must be at 
+least 25 babies in it's pouch. Yuck.
+~
+592024 8486926 0 S
+28 0 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#18126
+shaitan baalzamon dark one~
+Ba'alzamon~
+The Dark Lord stands here, released from his prison at last.
+~
+Ba'alzamon is powerfully built.  Where he should have eyes glow only
+burning embers.  His flesh is blackened and crisp and horribly burned.
+His hands flicker with the power contained in them, and his fingers end
+in wicked talons.  A dark aura of evil surrounds him.
+~
+106538 0 0 S
+59 -30 10 1d1+0 1d1+50
+0 0
+8 8 1 12
+#18127
+hatchling ugalump baby tiny~
+a hatchling UgaLump~
+a tiny UgaLump is here, gnashing it's baby teeth at you.
+~
+About 2 feet long, all teeth and claws. Watch out, they grow real quickly.
+~
+72 32768 0 S
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 0 10
+#18128
+young ugalump neonate~
+an UgaLump neonate~
+a young UgaLump stands here, it's toothy maw big enough to eat your head.
+~
+About one third its adult size, this UgaLump has not yet reached sexual maturity. It is, however, very hungry.
+~
+72 32768 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#18129
+ugalump matriarch giant~
+The UgaLump Matriarch~
+A giant UgaLump squats here, her abdomen filled with tiny babies.
+~
+Thirty feet tall and ready to pop. This is one mean ass momma.
+~
+16877578 98472 0 S
+38 20 10 1d1+0 1d1+0
+0 0
+8 8 2 4
+#99999
+$~

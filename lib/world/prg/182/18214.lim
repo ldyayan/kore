@@ -1,0 +1,53 @@
+>fight_prog 10~
+  if inroom($r) == here
+    say Surely you can't hope to kill ME!
+    if rand(30)
+      emote tries to laugh but ends up coughing instead.
+      say Bah!
+    endif
+    cast 'color spray' $r
+    mpcallmagic 'color spray' $r
+  endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+    say You have sealed your fate!
+    mpecho $I bangs his staff on the ground, opening huge rifts!
+    mpcallmagic 'earthquake' $r
+    mpcallmagic 'earthquake' $r
+  endif
+~
+>fight_prog 14~
+  if inroom($r) == here
+    say Feel the sting of Lim!
+    cast 'fireball' $r
+    mpcallmagic 'fireball' $r
+  endif
+~
+>fight_prog 16~
+  if inroom($i) == 18277
+  else
+    if isscript($i)
+    else
+      if hitprcnt($i) < 15
+        mptrigger $n bigbaby
+      endif
+    endif
+  endif
+~
+>script_prog bigbaby~
+  mpecho $I sneers.
+  mpecho $I taps his staff on the ground and is covered in a thick white mist.
+  mpecho $I has vanished!!
+  mpgoto 18299
+@
+  #
+@
+  #
+@
+  mpgoto 18277
+  cast 'restore' $i
+  cast 'invis' $i
+~
+|
+

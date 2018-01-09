@@ -1,0 +1,163 @@
+#5200
+vest ringmail~
+a ringmail vest~
+A vest made of iron rings lies heaped on the floor.~
+~
+9 65 9
+6 0 0 0
+60 150 0
+A
+17 -1
+#5201
+helm iron~
+an iron helm~
+An iron helm has been left on the ground.~
+~
+9 0 17
+7 0 0 0
+10 100 0
+#5202
+gauntlets iron~
+a pair of iron gauntlets~
+A pair of iron gauntlets rests heavily on the ground.~
+~
+9 0 129
+7 0 0 0
+10 250 0
+A
+18 -1
+A
+19 1
+#5203
+sleeves iron~
+a pair of iron sleeves~
+A set of iron sleeves lies on the ground.~
+~
+9 0 257
+7 0 0 0
+10 500 0
+A
+19 2
+#5204
+boots iron~
+a pair of iron boots~
+A pair of iron boots has been left here.~
+~
+9 0 65
+4 0 0 0
+6 100 0
+#5205
+greaves iron~
+a set of iron greaves~
+A set of iron greaves lie here unattended.~
+~
+9 0 33
+7 0 0 0
+10 140 0
+A
+1 1
+#5206
+girth iron~
+an iron girth~
+A small iron girth lies at your feet.~
+~
+9 0 2049
+4 0 0 0
+6 100 0
+#5207
+plate breast iron~
+a battered iron breast plate~
+A battered iron breast plate lies here.~
+~
+9 8388736 9
+5 0 0 0
+125 50 0
+A
+18 -6
+#5208
+shield iron~
+a sturdy iron shield~
+A small, but sturdy, iron shield has been left here.~
+~
+9 192 513
+5 0 0 0
+5 60 0
+#5209
+broadsword sword~
+a broadsword~
+A sharp looking broadsword lies here.~
+~
+5 0 8193
+0 3 4 3
+18 250 0
+A
+19 4
+#5210
+vest chainmail~
+a chainmail vest~
+A vest made of chainmail lies here on the ground.~
+~
+9 0 9
+4 0 0 0
+30 75 0
+#5211
+sword shortsword~
+a shortsword~
+An orcish shortsword lies here.  It looks like it's been used a lot.~
+~
+5 64 8193
+0 3 3 14
+10 750 0
+A
+19 4
+#5212
+scroll recall~
+a scroll of recall~
+A scroll is lying here.~
+~
+2 0 1
+12 42 0 0
+1 125 0
+E
+scroll recall~
+A scroll of some sorts with the word recall scribe on it.
+~
+#5213
+fish smelly blacken~
+blacken fish~
+A piece of fish is rotting here.~
+~
+19 0 1
+24 0 0 0
+1 75 0
+E
+blacken fish~
+  A small piece of smelly fish that looks like it was left 
+in the oven or fried to long.
+~
+#5214
+fish eggs~
+fish eggs~
+A pile of little black eggs is lying here.~
+~
+19 0 1
+12 0 0 0
+1 50 0
+E
+fish eggs~
+  Small black fish eggs. 
+~
+#5221
+sword two-handed~
+a two-handed sword~
+A large, black two-handed sword lies here in the shadows.~
+~
+5 0 8193
+0 3 6 3
+22 500 0
+A
+18 -2
+A
+19 4
+#99999
+$~

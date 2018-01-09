@@ -1,0 +1,30 @@
+#9
+the River Island of Minos~
+999 39 1 32
+M 0   901     2   916            the swordsman
+M 0   901     2   916            the swordsman
+M 0   902     1   917            the Mummy of Rabscuttle
+M 0   903     1   918            the giant lizard
+M 0   904     1   919            General Woundwort
+M 0   905     1   920            Franz the Henchman
+E 1   905    10    16                    wield a flail
+M 0   906     1   920            Hanz the Henchman
+E 1   907     5    16                    wield a heavy spear
+M 0   907     1   921            King Minos the Minotaur
+E 1   901     8    11                    shield a dark minotaur shield
+E 1   900   100    17                    held a ^Ygolden^n key
+O 1   904   110   922            a platinum ring
+O 1   906   101   922            a great pile of treasure
+M 0   909     2   908            the sea hag
+M 0   909     2   908            the sea hag
+M 0   910     2   909            the merman
+E 1   908    30    16                    wield a trident
+M 0   910     2   909            the merman
+E 1   908    30    16                    wield a trident
+M 0   911     3   910            the crusty crab
+M 0   911     3   910            the crusty crab
+O 0   909   112   910            a pair of boots
+D 0   921     1     2            The Final Trial Of Minos door east
+S
+#99999
+$~

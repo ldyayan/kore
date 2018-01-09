@@ -1,0 +1,88 @@
+#28000
+matron yasbreena drow elf~
+Matron Yasbreena~
+A frail old dark elf stands here with a scowl on her face.
+~
+   This woman looks as though she could be killed with a single blow, but 
+it would not be wise to assume such. She could be deadly indeed - in 
+fact there is something about her that implies that she could kill with 
+merely a thought.
+~
+17465454 9209002 -1000 S
+60 -10 10 1d1+0 1d1+50
+2400 0
+8 8 2
+#28001
+drow elf high priestess woman Vlondylene~
+High Priestess Vlondylene~
+A slender drow high priestess stands here, hand on her whip.
+~
+   She is unquestionably gorgeous. If there is one flaw on her entire
+body, you can't see it. Deep rose-colored robes adorned with spider web
+embroidery embrace her lovely form, and the neck is cut low enough to
+accentuate the House insignia hanging around her neck. But there is
+something vile about her indeed.. something, but what?.. You can't
+literally SEE it, but a purely depraved mien floats over her. She knows
+you're watching her as well. She is probably probing your mind now...
+~
+17432686 9209000 -1000 S
+57 -5 10 1d1+0 1d1+50
+2200 0
+8 8 2
+#28002
+nervous merchant drow portis~
+a drow assassin~
+A nervous-looking merchant stands here, eyes darting to the shadows.
+~
+"To look at me means death!"
+~
+17473708 296040 -1000 S
+50 20 0 1d1+0 1d1+50
+0 0
+8 8 2
+#28003
+tloader 28003~
+trapper loader~
+tloader
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28004
+trapper rock 28004~
+a trapper~
+The cavern floor protrudes up a bit here.
+~
+It looks like nothing more than the rock floor itself.
+~
+761866 33832 0 S
+40 5 10 1d1+0 1d1+30
+0 0
+8 8 0
+#28005
+random mob generator~
+random mob generator~
+random mob generator
+~
+It looks, err, unfinished.
+~
+8388618 1024 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28006
+drowish easter bunny tiny~
+the drowish easter bunny~
+A tiny, adorable bunny with jet-black fur hops around here.
+~
+Aww, how cute. Its eyes are so big!! Go ahead and pet it!
+~
+2060 328936 -1000 S
+60 -5 10 1d1+0 7d8+25
+0 0
+8 8 2 4
+#99999
+$~

@@ -1,0 +1,1161 @@
+#25600
+Lane of the Stars~
+   You have stepped onto a large vallenwood branch, that has been kept neatly
+swept and kept up. There are many houses along this lane, and the entire area
+seems to be entirely residential. Up the street you can see a few small side
+streets leading off from the lane. At the far end of the street, a beautiful
+villa lies hidden within the folds of the beautiful hanging vines, which grow
+in abundance off the monstrous vallenwood. The lane you are on leads east to
+west for quit a ways. Entrances to houses are along here, every so often.
+~
+256 0 1
+D0
+~
+~
+0 0 25606
+D1
+~
+~
+0 0 25601
+D3
+~
+~
+0 0 25602
+S
+#25601
+Start of the Lane of the Stars~
+   You step outside the wall of the western marketplace and onto a quaint
+little shaded walkway. Up the street you can see many houses lining the lane,
+and a few small side streets branching off it. A crisp autumn wind blows past
+you, on its way to an unknown destination. Birds and squirrels seem ecstatic
+from all the droppings of food that people leave out for them. The lane leads
+down to the west, while to the east a large marketplace fills the central
+convex of the tree.
+~
+256 4 1
+D1
+~
+~
+0 0 25517
+D3
+~
+~
+0 0 25600
+S
+#25602
+Lane of the Stars~
+   You have stepped onto a large vallenwood branch, that has been kept neatly
+swept and kept up. There are many houses along this lane, and the entire area
+seems to be entirely residential. Up the street you can see a few small side
+streets leading off from the lane. At the far end of the street, a beautiful
+villa lies hidden within the folds of the beautiful hanging vines, which grow
+in abundance off the monstrous vallenwood. The lane you are on leads east to
+west for quit a ways. Entrances to houses are along here, every so often.
+~
+256 0 1
+D0
+~
+~
+0 0 25607
+D1
+~
+~
+0 0 25600
+D2
+~
+~
+0 0 25608
+D3
+~
+~
+0 0 25603
+S
+#25603
+Lane of the Stars~
+   You have stepped onto a large vallenwood branch, that has been kept neatly
+swept and kept up. There are many houses along this lane, and the entire area
+seems to be entirely residential. Up the street you can see a few small side
+streets leading off from the lane. At the far end of the street, a beautiful
+villa lies hidden within the folds of the beautiful hanging vines, which grow
+in abundance off the monstrous vallenwood. The lane you are on leads east to
+west for quit a ways. Entrances to houses are along here, every so often.
+~
+256 0 1
+D0
+~
+~
+0 0 25610
+D1
+~
+~
+0 0 25602
+D2
+~
+~
+0 0 25609
+D3
+~
+~
+0 0 25604
+S
+#25604
+Lane of the Stars~
+   You have stepped onto a large vallenwood branch, that has been kept neatly
+swept and kept up. There are many houses along this lane, and the entire area
+seems to be entirely residential. Up the street you can see a few small side
+streets leading off from the lane. At the far end of the street, a beautiful
+villa lies hidden within the folds of the beautiful hanging vines, which grow
+in abundance off the monstrous vallenwood. The lane you are on leads east to
+west for quit a ways. Entrances to houses are along here, every so often.
+~
+256 0 1
+D0
+~
+~
+0 0 25611
+D1
+~
+~
+0 0 25603
+D2
+~
+~
+0 0 25613
+D3
+~
+~
+0 0 25605
+D9
+~
+~
+0 0 25612
+S
+#25605
+Lane of the Stars~
+   You have stepped onto a large vallenwood branch, that has been kept neatly
+swept and kept up. There are many houses along this lane, and the entire area
+seems to be entirely residential. Up the street you can see a few small side
+streets leading off from the lane. At the far end of the street, a beautiful
+villa lies hidden within the folds of the beautiful hanging vines, which grow
+in abundance off the monstrous vallenwood. The lane you are on leads east to
+west for quit a ways. Entrances to houses are along here, every so often.
+~
+256 0 1
+D1
+~
+~
+0 0 25604
+D3
+~
+~
+0 0 25642
+S
+#25606
+A Small Porch~
+   You step up off the lane, and ascend a few small steps, and find yourself
+on a beautifully carved wooden porch belonging to an elven family. A large
+wooden door lies open to the north. While the Lane is to the south. Sweet 
+smells of hot bread and vanilla filter out through the open door, reminding
+you of your home. A few pieces of furniture adorn the small porch, and the
+sounds of laughter and children playing reach your ears.
+~
+256 12 1
+D0
+~
+~
+0 0 25614
+D2
+~
+~
+0 0 25600
+S
+#25607
+A Small Home~
+   Stepping just off the street, you walk into the small kitchen/living room
+of a small house. The family who lives here must be the common folk of the
+city. Elves, unlike other races, make sure they take care of their poor people.
+This home is the standard for those who cannot afford one of their own. And in
+all respects but size, it is a very nice house. It is furnished with small,
+but tasteful equipment. A makeshift kitchen has been set up next to a warm
+fire, while cushions sit around to provide a soft place to sit. The room has
+a slightly smoky smell, and the smell of dried leather comes from a small 
+room north of here.
+~
+256 8 0
+D0
+~
+~
+0 0 25615
+D2
+~
+~
+0 0 25602
+S
+#25608
+Offshoot of the Lane~
+   You step off to the south of the lane, and enter a small side street which
+runs between two houses. This place has a seedier feel to it, and you begin 
+to think leaving the path wasn't the best idea. The trees above you seem very
+distant, and the edge of the tree branch seems much closer than it did before.
+You continue walking down south towards the edge, and slowly you begin to make 
+out a small clearing up ahead.
+~
+256 0 3
+D0
+~
+~
+0 0 25602
+D2
+~
+~
+0 0 25623
+S
+#25609
+Home Sweet Home~
+   You step off the lane and into a small little shanty with a woven leaf roof.
+Sweet smells come from a small pot hanging over a fire in the southwestern
+corner of the room. Curtains have been hung around to seperate the room into
+several smaller rooms. A small low sitting table sets against the eastern wall,
+with small cushions around it. The western wall is a small curtain, behind 
+which you can see a small bedroom with a pile of blankets and pillows acting
+as a bed.
+~
+256 8 1
+D0
+~
+~
+0 0 25603
+S
+#25610
+Quaint Little Home~
+   You step off to the north of the lane, and enter into a quaint little house
+with a pretty flowerbox on the front porch. This home seems a little larger
+than the rest of the houses along the street, and appearances seem to show
+that an average size family resides here. From within the hom, you can hear a
+beautiful song being performed on a flute, the notes are crisp and clear, and
+they almost bring tears to your eyes. The rest of the house seems awfully
+quiet, and you wonder if you really want to disturb the people inside. The lane
+lies to the south.
+~
+256 8 1
+D0
+~
+~
+0 0 25627
+D2
+~
+~
+0 0 25603
+S
+#25611
+Community Bathouse~
+   You step off the lane, and push aside a thick curtain, and are blasted in
+the face by a big rush of steam. You step inside into a large open room, with
+a stairwell leading down into the heart of the tree branch. A steady stream
+of steam rises from it, filling the room with a damp, humid mist. Sounds of
+splashing and laughter reach your ears from below. And you think you can hear
+running water. The only two exits are down, and south onto the lane. One
+thing you find surprising, is that there is no fungus of any kind on the 
+walls, floor, or ceiling.
+~
+256 8 1
+D2
+~
+~
+0 0 25604
+D5
+~
+~
+0 0 25630
+S
+#25612
+Before the Gates of the Estate~
+   Stepping off the lane, you come to stand before two large wooden gates,
+both covered in vines and ivy, making a truly breathtaking sight. The gates
+are tall, both nearly 20 feet at peak. They are roughly 12 feet across, and
+the vines are so thick and bushy that you cannot make out anything behind 
+them. Two elven guards stand at their posts on each side of the gate, hired
+to serve mainly as butlers. They look aimlessly ahead, and you think they
+take notice but they make no REAL sign of it. Each carries a viscious 
+looking longsword. The exit lies to the southeast and west.
+~
+256 132 1
+D7
+~
+~
+0 0 25604
+S
+#25613
+Narrow Alley~
+   Stepping just off the lane, you enter a dark and seedy alley, filled with
+strange, rodent like creatures. Small piles of refuse have been set here to
+make the alley look insignificant, however, the far southern end of it shows
+you a faint glimmer of light, and a group of people all gathered together.
+Every instinct in your body says for you to go back, but you are really 
+curious as to why everyone is gathered there. Above you, the birds have 
+disappeared, and the leaves no longer move with the wind.
+~
+256 0 3
+D0
+~
+~
+0 0 25604
+D2
+~
+~
+0 0 25625
+S
+#25614
+Family Room~
+   You push the large wooden door to the side, and step into a modestly 
+decorated elven living room. There is a small fireplace which crackles with 
+life, as a bright golden fire burns inside it. Bread has been laid to rise on
+the hearth. A series of small cushions and chairs provide seating for the 
+family and any guests they may have over. Smells of warm bread filter out 
+from the kitchen to the west of you. To the east you can smell a definite
+odor of Vanilla incense. Above you, shouting and running around echo throughout
+the house. Looks like some kids need naps.
+~
+256 8 0
+D1
+~
+~
+0 0 25617
+D2
+~
+~
+0 0 25606
+D3
+~
+~
+0 0 25616
+D9
+~
+~
+0 0 25618
+S
+#25615
+Living Quarters~
+   This room has been made into the sleeping quarters for the entire family
+living in this house. There are five beds, and each has blankets and a pillow.
+A large dresser sets against a wall, holding the clothes for each family 
+member. On top of it, a bowl of dried fruits and nuts sits, while a mirror
+leans against the wall next to the dresser. The house is currently empty, and
+you figure the family is out, making what money they can. The only exit is to
+the south.
+~
+256 8 0
+D2
+~
+~
+0 0 25607
+S
+#25616
+A Beautiful Kitchen~
+   This is a fairly simple kitchen, with a granite washbasin, and cooler to
+keep vegetables and fruits crisp and cool. Herbs of all kinds have been tied
+and hung to dry above the countertop. A stone stove has been blocked up to
+cook, what your nose believes to be, sweet smelling sugarbreads. Dishes and
+untensils lay in a neat pile in one corner of the counter. The center of the
+room is filled with a table, with 8 place settings. Small candles remain unlit
+on it, and it looks as dinner is a ways away.
+~
+256 8 0
+D1
+~
+~
+0 0 25614
+S
+#25617
+The Den~
+   You enter from the living room into a plush den overflowing with plants.
+Ferns and other non-flowering, but beautiful, plants set in deep emerald
+green pots of all sizes. Some large, some tall, someone hanging from the 
+ceiling, and yet others bracketed to the walls. A waterclock sits on a desk
+on the northern side of the room, dripping the minutes away. Small bowls of
+smoldering incense have been placed around the room, seemingly at random. A
+pile of papers and a quill and vial sit next to it, ready to be used for 
+whatever it is they are used for. It is fairly quiet here, and the sounds of
+the street and children upstairs has all but died out.
+~
+256 8 0
+D3
+~
+~
+0 0 25614
+S
+#25618
+Bottom of the Stairs~
+   You step up and away from the living room into a small little stairway. It
+is adorned with small hanging plants at regular intervals. Above you, childish
+screams and giggling reach your ears, and you start to wonder if ascending
+into a maelstrom of children is a good idea. In case you're brave, the stairs
+lead up into the upstairs portion of the house. To the southeast lies the
+living room.
+~
+256 12 0
+D4
+~
+~
+0 0 25619
+D7
+~
+~
+0 0 25614
+S
+#25619
+Top of the Stairs~
+   ACK!!!!!! Gadzooks!!!! This was definately "NOT" a good idea! Kids are
+EVERYWHERE! Small elven children run about you in circles, screaming that they
+are going to get so and so. Several small toys sit around, pushed to the edges
+of the hallway. You can see two doors to the east and west, on the end of the
+hallway. Giggling girls and screaming boys nearly deafen you with their shouts
+and you doubt you can hear anything but them. Coming from somwhere within this
+tornado of children, you can here a small girl crying.
+~
+256 40 0
+D2
+~
+~
+0 0 25620
+D5
+~
+~
+0 0 25618
+S
+#25620
+End of a short Hallway~
+   Dodging thrown objects, and side stepping children every second, you somehow
+manage to worm your way down the hall to the two open doorways. In each room
+there are several small children, both boys and girls, however the signs on the
+doors indicate that the girl's bedroom is to the east, while the boy's is to
+the west. You are starting to get a headache from all the screaming children,
+and are gaining a respect for the children's parents. The collection of toys
+is larger at this end of the hall. You wonder how many children are going to
+go to sleep with an empty stomach.
+~
+256 40 0
+D0
+~
+~
+0 0 25619
+D1
+~
+~
+0 0 25622
+D3
+~
+~
+0 0 25621
+S
+#25621
+Boys Bedroom~
+   This is the boys' room. At least a dozen beds have been aranged in neat,
+military fashion. A very large toy chest lies on the north wall, presumably
+empty. The floor is covered in pieces of fake armor and wooden weapons. A 
+small wooden table in the very center of the room is home to a candle, and
+makeshift war plans. A few small scraps of 'rations' lie about, covered in
+dust, but appetizing to kids none-the-less. You are bopped in the knee by one
+of the children and he flees in terror as you scowl down at him. The hall is
+to the east.
+~
+256 40 0
+D1
+~
+~
+0 0 25620
+S
+#25622
+Girls Bedroom~
+  You step out of the hall and almost trip or a flock of girls running through
+your legs. If there was ever a stereotype to fit it, this room would definately
+have to belong to the girls. A window on the east wall is surrounded by frilly
+pink fabric, and about half a dozen beds have been arranged into this small 
+room. Two large dressers on the north and south ends of them room hold the
+youngsters clothes, while a large mirror in the northeastern corner provides
+a way to match clothes. Dolls and their dresses lay strewn about the floor, as
+do a few articles of play clothing. The hall is to your west.
+~
+256 40 0
+D3
+~
+~
+0 0 25620
+S
+#25623
+Shadowy Clearing~
+   Continuing on your way down the side alley, you come to a small clearing
+between the houses of the area. The offshoots of the branches are not so well
+kept here, and they almost seem like weeds. A repulsive smell emanates from
+all around you. It looks as thought all your expectations about elves were
+wrong; they CAN be seedy. All about you, there are thugs and goons. The lower
+life of the city come here to gather and coordinate whatever they may be up
+to. A small 'path' continues along edge of the tree branch, behind the houses.
+~
+256 1 3
+D0
+~
+~
+0 0 25608
+D3
+~
+~
+0 0 25624
+S
+#25624
+Back Street~
+   You are standing in the middle of a small back street behind the houses.
+It is fairly dark, and even your elvensight has trouble penetrating the eerie
+blackness. Up and down the street, an unearthly silence spread over, only
+serving to make your stomach churn even more. Whispers from the shadows
+around you, take away from the beauty of the leaves and sky above you. Down 
+the path to the west, you can make out a small meeting place with several
+people standing around. To the east, a small group of lowlifes gather, plotting
+their next brilliant feat of survival.
+~
+256 0 3
+D1
+~
+~
+0 0 25623
+D3
+~
+~
+0 0 25625
+S
+#25625
+Meeting Place~
+   You have entered a small clearing on the tree branch. The edge of the branch
+is barely 25 feet away to the south. The tree is quiet, and the only noise you
+can hear is the faint whispering from the large group of people surrounding
+you. They speak in hushed tones, and their words carry like daggers, glistening
+with the frightful quality of dread seriousness. To the south a small shack
+lies with its door open, the north is a small alleyway, and the east is a back
+street of this neighborhood. You here feel a little nervousness being around
+all these lowlifes.
+~
+256 0 3
+D0
+~
+~
+0 0 25613
+D1
+~
+~
+0 0 25624
+D2
+~
+~
+0 0 25626
+S
+#25626
+ Merchant's Shack~
+   Stepping away  from the meeting place, you enter a small dingy shack with
+a large wooden counter polished vigorously to keep its shine in such dirty 
+surroundings. A few shelves stand along the walls of the shack, and they are
+filled with empty, unused and loved junk that no one wants. The merchant
+who stands behind the counter doesn't seem to sell anything he hasn't bought
+uniquely. Looking around his shop, the first word that comes to mind is
+packrat. He watches you intently, making sure you touch you buy. The exit
+to the north of the shop is the only visible way out.
+~
+256 0 1
+D0
+~
+~
+0 0 25625
+S
+#25627
+Living Room~
+   Proceeding on your way up the steps, you pass through a small doorway, and
+enter into a moderately furbished living room. A large couch and table take 
+up most of the room, while some potted ferns and flowers hide in the corners,
+next to the fireplace. The music from a beautiful flute carries past you, its
+source is a room east of you. A small bedroom lies to the west of you, while
+the porch is to the south.
+~
+256 8 1
+D1
+~
+~
+0 0 25628
+D2
+~
+~
+0 0 25610
+D3
+~
+~
+0 0 25629
+S
+#25628
+Music Room~
+   This room is a small, roughly circular wooden room with sheet music laying
+all over the floor. A musician has set up a stand with some music on it, and
+is pouring her heart into the song. You feel tears welling up in your eyes,
+and you wonder why someone who can make such beautiful music, lives in such a
+small, miniscule home. The living room lies back to the west. Potted flowers
+and ferns add a woody scent to the room, combined with the smell of fresh, 
+damp earth. 
+~
+256 0 1
+D3
+~
+~
+0 0 25627
+S
+#25629
+Bedroom~
+   This can be nothing else but the living space for a small family. Clothes
+and toys lay strewn about the room, while there are 4 beds taking up space.
+One of the beds is made, and probably belongs to an adult, while the other
+three are ruffled and unmade. The music is somewhat fainter here, but you can
+definately still hear it. It is so beautiful, the composer and musician must
+truly be a master. The Living Room lies to the east, and the western wall is
+covered by a large dresser and mirror. A small was basin is on the southern
+wall, and the northern wall holds all the other household things, like herbs
+and brooms.
+~
+256 0 1
+D1
+~
+~
+0 0 25627
+S
+#25630
+Foyer of the Community Bath House~
+   You step down the spiraling wooden steps and into the foyer of a bathouse
+within a vallenwood branch. Steam floats past your head from the north, and
+you hear sounds of people talking and relaxing. A lifeguarrd stands here,
+ready to dive in to save anyone who may need saving. You can hear female 
+voices to the west, and male voices to the east. The gentle lapping of water
+can be heard from the north.
+~
+256 12 1
+D0
+~
+~
+0 0 25631
+D1
+~
+~
+0 0 25633
+D3
+~
+~
+0 0 25632
+D4
+~
+~
+0 0 25611
+S
+#25631
+In the Pool~
+   You step gently into the hot water and almost immediately you can feel 
+your muscles relaxing and body calming gently. The water is hot, roughly it
+feels like body temperature, maybe a little hotter. All around you, people
+are soaking, some sleeping, others talking amongst themselves. All the
+children must have their own pool, as there is no loud noise or splashing. A
+mist of steam hangs over the tub, but a few vents in the ceiling allow it
+to filter out so as to not become gagging. You wonder how they keep the water
+at the same temperature and so warm when it is inside a tree. The water
+spreads out to the north, east, west, northest, and northwest.
+~
+256 0 6
+D0
+~
+~
+0 0 25634
+D1
+~
+~
+0 0 25636
+D2
+~
+~
+0 0 25630
+D3
+~
+~
+0 0 25635
+D6
+~
+~
+0 0 25638
+D9
+~
+~
+0 0 25637
+S
+#25632
+Entrance to the Women's Changing Rooms~
+   Stepping through a curtain, you walk into a darkened room filled with elven
+women of all ages. Some old some young, yet they are all either in swimsuits
+or partially clothed. Seeing the entrance of a stranger, they turn their backs
+and finish changing before walking past you outside. The entire mass of women
+that you observe is in a room slightly to your south. The portion of the 
+chamber you are in is filled with baskets and basins for dirty clothing. THe
+ceiling here is low, but not low enough to make you crouch or stoop. The room
+to the south is a little lighter than this one, but is still dark.
+~
+256 13 0
+D1
+~
+~
+0 0 25630
+D2
+~
+~
+0 0 25640
+S
+#25633
+Entrance to the Men's Changing Rooms~
+   Stepping through a curtain, you walk into a darkened room filled with elven
+men of all ages. Some old some young, yet they are all either in swimsuits
+or partially clothed. Seeing the entrance of a stranger, they turn their backs
+and finish changing before walking past you outside. The entire mass of men
+that you observer is in a room slightly to your south. The portion of the 
+chamber you are in is filled with baskets and basins for dirty clothing. The
+ceiling here is low, but not enough to make you crouch or stoop. The room
+to the south is a little lighter than this one, but is still dark.
+~
+256 5 0
+D2
+~
+~
+0 0 25641
+D3
+~
+~
+0 0 25630
+S
+#25634
+In the Pool~
+   You step gently into the hot water and almost immediately you can feel 
+your muscles relaxing and body calming gently. The water is hot, roughly it
+feels like body temperature, maybe a little hotter. All around you, people
+are soaking, some sleeping, others talking amongst themselves. All the
+children must have their own pool, as there is noloud noise or splashing. A
+mist of steam hangs over the tub, but a few vents in the ceiling allow it
+to filter out so as to not become gagging. You wonder how they keep the water
+at the same temperature and so warm when it is inside a tree. The water
+spreads out to the north, east, west, northest, and northwest.
+~
+256 0 6
+D1
+~
+~
+0 0 25638
+D2
+~
+~
+0 0 25631
+D3
+~
+~
+0 0 25637
+D7
+~
+~
+0 0 25636
+D8
+~
+~
+0 0 25635
+S
+#25635
+In the Pool~
+   You step gently into the hot water and almost immediately you can feel 
+your muscles relaxing and body calming gently. The water is hot, roughly it
+feels like body temperature, maybe a little hotter. All around you, people
+are soaking, some sleeping, others talking amongst themselves. All the
+children must have their own pool, as there is noloud noise or splashing. A
+mist of steam hangs over the tub, but a few vents in the ceiling allow it
+to filter out so as to not become gagging. You wonder how they keep the water
+at the same temperature and so warm when it is inside a tree. The water
+spreads out to the north, east, west, northest, and northwest.
+~
+256 0 6
+D0
+~
+~
+0 0 25637
+D1
+~
+~
+0 0 25631
+D6
+~
+~
+0 0 25634
+S
+#25636
+In the Pool~
+   You step gently into the hot water and almost immediately you can feel 
+your muscles relaxing and body calming gently. The water is hot, roughly it
+feels like body temperature, maybe a little hotter. All around you, people
+are soaking, some sleeping, others talking amongst themselves. All the
+children must have their own pool, as there is noloud noise or splashing. A
+mist of steam hangs over the tub, but a few vents in the ceiling allow it
+to filter out so as to not become gagging. You wonder how they keep the water
+at the same temperature and so warm when it is inside a tree. The water
+spreads out to the north, east, west, northest, and northwest.
+~
+256 0 6
+D0
+~
+~
+0 0 25638
+D3
+~
+~
+0 0 25631
+D9
+~
+~
+0 0 25634
+S
+#25637
+In the Pool~
+   You step gently into the hot water and almost immediately you can feel 
+your muscles relaxing and body calming gently. The water is hot, roughly it
+feels like body temperature, maybe a little hotter. All around you, people
+are soaking, some sleeping, others talking amongst themselves. All the
+children must have their own pool, as there is noloud noise or splashing. A
+mist of steam hangs over the tub, but a few vents in the ceiling allow it
+to filter out so as to not become gagging. You wonder how they keep the water
+at the same temperature and so warm when it is inside a tree. The water
+spreads out to the north, east, west, northest, and northwest.
+~
+256 0 6
+D1
+~
+~
+0 0 25634
+D2
+~
+~
+0 0 25635
+D7
+~
+~
+0 0 25631
+S
+#25638
+In the Pool~
+   You step gently into the hot water and almost immediately you can feel 
+your muscles relaxing and body calming gently. The water is hot, roughly it
+feels like body temperature, maybe a little hotter. All around you, people
+are soaking, some sleeping, others talking amongst themselves. All the
+children must have their own pool, as there is noloud noise or splashing. A
+mist of steam hangs over the tub, but a few vents in the ceiling allow it
+to filter out so as to not become gagging. You wonder how they keep the water
+at the same temperature and so warm when it is inside a tree. The water
+spreads out to the north, east, west, northest, and northwest.
+~
+256 0 6
+D0
+~
+~
+0 0 25639
+D2
+~
+~
+0 0 25636
+D3
+~
+~
+0 0 25634
+D8
+~
+~
+0 0 25631
+S
+#25639
+Kiddie Pool~
+   You slip smoothly through the water and slink up a few underwater steps,
+then back down into a small, shallower pool, only about two feet deep. This
+smaller pool is several degrees warmer, and quite a few small children swim
+around and small water at each other. The ceiling of the large chamber is
+somewhat lower here, and it is nestled off into a corner, with no steps around
+the edges, just walls. A mist hangs around here, making sight a little 
+difficult. The only visible exit is to your south, back out into the main
+chamber.
+~
+256 0 6
+D2
+~
+~
+0 0 25638
+S
+#25640
+Women's Changing Rooms~
+   Stepping south into "No Mans" land, you enter into a somewhat brighter room
+with about a dozen of partially clothed elven women. They are of all ages and
+trickles of running water foam out from the ceiling. Fresh clean towels and
+swimwear are hung along the walls. No one takes much notice of you as you 
+observe this area. A slightly smoky and misty smell fills the area, putting
+your senses at ease.The only visible exit is to the north.
+~
+256 9 0
+D0
+~
+~
+0 0 25632
+S
+#25641
+Men's Changing Rooms~
+  Stepping south into "No Womans" land, you enter into a somewhat brighter room
+with about a dozen partially clothed elven men. They are of all ages and
+rinse off in trickles of water, running out of the ceiling. Fresh clean towels
+and swimwear and hung along the walls. No one takes much notice of you as you
+observe this area. A slightly smoky and misty smell fills the area, putting
+your sense at ease. The only visible exit is to the north.
+~
+256 9 0
+D0
+~
+~
+0 0 25633
+S
+#25642
+Lane of the Stars~
+   You have stepped onto a large vallenwood branch, that has been kept neatly
+swept and kept up. There are many houses along this lane, and the entire area
+seems to be entirely residential. Up the street you can see a few small side
+streets leading off from the lane. TO the north of you is a large villa, 
+situated next to the edge of the tremendous vallenwood branch. A ways to the
+west the lane ends and turns north, disappearing behind the estate. The lane
+to the east leads back to where the houses are.
+~
+256 0 1
+D1
+~
+~
+0 0 25605
+D3
+~
+~
+0 0 25643
+S
+#25643
+Lane of the Stars~
+   You have stepped onto a large vallenwood branch, that has been kept neatly
+swept and kept up. There are many houses along this lane, and the entire area
+seems to be entirely residential. Up the street you can see a few small side
+streets leading off from the lane. To the north of you is a large villa, 
+situated next to the edge of the tremendous vallenwood branch. A ways to the
+west the lane ends and turns north, disappearing behind the estate. The lane
+to the east leads back to where the houses are.
+~
+256 0 1
+D0
+~
+~
+0 0 25644
+D1
+~
+~
+0 0 25642
+S
+#25644
+Rear Gate of the Villa~
+   Stepping north off the end of the lane, you glance to the west and realize
+just how far down the lane you are. The branch grows too small to support 
+anything a mere 30 feet or so away. To the east is a small wooden gate with 
+granite strips running across it for reinforcement. The tree hangs low here,
+and in some places you have to push leaves aside to make forward motion. The
+sound of clattering and clanging reach your ears from behind the gate. A 
+single guard leans up against the wall, half asleep. A small sign on the gate
+draws your attention away from looking anymore.
+~
+256 4 1
+D2
+~
+~
+0 0 25643
+E
+sign plaque~
+   ***NOTICE***
+
+       This entrance is to be used by staff of the Estate of Asturias only.
+Violators will be brought before the Speaker on charges of trespassing. The
+guards of the estate will not tolerate your presence and are highly trained
+and deadly. You have been warned.
+
+                                     Tarna Asturias, Aide to the Speaker
+                                                   and
+                                        Kariana Sey, Sergeant of the Noble Guard
+~
+S
+#25645
+Staff Entrance~
+   You are standing inside a dummy room, which should get real.
+~
+256 8 1
+D3
+~
+~
+0 0 25644
+S
+#25646
+The Courtyard of the Ivy Villa~
+   Stepping through the slightly parted gates, you enter into a beautiful
+courtyard of a lovely villa. Canopied by a trellis woven with Morning Glories,
+the sweet scents and odors of flowers and herbs tingle your sense of smell.
+Sunlight barely weaves its way dwon through the vallenwood canopy and through
+the trellis canopy to make little beams of light shine with tight focus on the
+ground alla round you. The courtyard has been made into a small garden to 
+greet visitors of the owner. The chosen 'decor' is breathtaking and you feel
+peaceful being here.
+~
+256 136 3
+D0
+~
+~
+0 0 25650
+D1
+~
+~
+0 0 25648
+D2
+~
+~
+0 0 25612
+D3
+~
+~
+0 0 25647
+S
+#25647
+Beautiful Courtyard~
+   This small courtyard has been magically crafted and scultped in the fashion
+of a garden. Slightly raised planters and beds of dirt are filled with roses
+and herbs. The smell here is delightful, and you think to yourself just how
+smart it was for the owner to put such easing sights and smells before his
+house, to relax and soothe the guests. A few benches sit around, providing
+nice places to sit and think or to talk with company. There is a arched trellis
+with hanging morning glories woven through it. A small birdbath and basin of
+food has been set out for the birds.
+~
+256 0 3
+D0
+~
+~
+0 0 25652
+D1
+~
+~
+0 0 25646
+S
+#25648
+Beautiful Courtyard~
+   This small courtyard has been magically crafted and scultped in the fashion
+of a garden. Slightly raised planters and beds of dirt are filled with roses
+and herbs. The smell here is delightful, and you think to yourself just how
+smart it was for the owner to put such easing sights and smells before his
+house, to relax and soothe the guests. A few benches sit around, providing
+nice places to sit and think or to talk with company. There is a arched trellis
+with hanging morning glories woven through it. A small birdbath and basin of
+food has been set out for the birds.
+~
+256 0 3
+D0
+~
+~
+0 0 25649
+D3
+~
+~
+0 0 25646
+S
+#25649
+Beautiful Courtyard~
+   This small courtyard has been magically crafted and scultped in the fashion
+of a garden. Slightly raised planters and beds of dirt are filled with roses
+and herbs. The smell here is delightful, and you think to yourself just how
+smart it was for the owner to put such easing sights and smells before his
+house, to relax and soothe the guests. A few benches sit around, providing
+nice places to sit and think or to talk with company. There is a arched trellis
+with hanging morning glories woven through it. A small birdbath and basin of
+food has been set out for the birds.
+~
+256 0 3
+D2
+~
+~
+0 0 25648
+D3
+~
+~
+0 0 25650
+S
+#25650
+Before the Arched Entrance~
+   This small courtyard has been magically crafted and scultped in the fashion
+of a garden. Slightly raised planters and beds of dirt are filled with roses
+and herbs. The smell here is delightful, and you think to yourself just how
+smart it was for the owner to put such easing sights and smells before his
+house, to relax and soothe the guests. A few benches sit around, providing
+nice places to sit and think or to talk with company. There is a arched trellis
+with hanging morning glories woven through it. A small birdbath and basin of
+food has been set out for the birds.
+~
+256 0 3
+D0
+~
+~
+0 0 25651
+D1
+~
+~
+0 0 25649
+D2
+~
+~
+0 0 25646
+D3
+~
+~
+0 0 25652
+S
+#25651
+Arched Entrance~
+   Walking up a few small steps, you walk out of the courtyard and into a 
+small enclosed alcove. A large wooden door to the north is opened, and inside
+you can see a lavishly decorated hallway. There is an enscription carved into
+the marble which the entire house seems to be made of. Ivy climbs up the walls
+around the alcove but does not climb inwards. Two beautifully sculpted lamps
+are attached to each side of the wall but remain unlit until evening. You can
+smell fresh bread from somehwere inside the house and feel that further 
+exploration is all but required.
+~
+256 0 1
+D2
+~
+~
+0 0 25650
+S
+#25652
+Beautiful Courtyard~
+   This small courtyard has been magically crafted and scultped in the fashion
+of a garden. Slightly raised planters and beds of dirt are filled with roses
+and herbs. The smell here is delightful, and you think to yourself just how
+smart it was for the owner to put such easing sights and smells before his
+house, to relax and soothe the guests. A few benches sit around, providing
+nice places to sit and think or to talk with company. There is a arched trellis
+with hanging morning glories woven through it. A small birdbath and basin of
+food has been set out for the birds.
+~
+256 0 3
+D1
+~
+~
+0 0 25650
+D2
+~
+~
+0 0 25647
+S
+#99999
+$~

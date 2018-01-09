@@ -1,0 +1,451 @@
+#200
+Open Plain~
+   You stand in a vast open plain. Wild grasses blow in the wind and wave
+in the breeze. Far off you see some trees. All around are low undulating hills.
+Where you walk there's a rough path that leads up and over hills.
+~
+2 0 2
+D1
+~
+~
+0 0 206
+D2
+~
+~
+0 0 201
+D3
+~
+~
+0 0 219
+S
+#201
+Path Over Hills~
+   You stand on a path that runs north south for many miles. Looking away
+north the country seems greener, dotted with small shapely trees. Looking
+south, you see the land get browner and dryer. Somewhere to the west you're
+sure there is an ocean, but from here you see so easy route. The brown path
+you tread looks hardly used.
+~
+2 0 0
+D0
+~
+~
+0 0 200
+D2
+~
+~
+0 0 202
+S
+#202
+On a Dusty Path~
+   You travel on a dusty path. Looking around you see to the south a kind
+of grim forest and rising out of it, a dark tower. Like a tall spire it
+rises up like a needle, grim and black. The look of it fills you with 
+foreboding; And in the sky here the moon and sun are blacked out, perpetually
+eclipsed by dark magic. South in the forest is one of the Towers of High
+Sorcery, the tower of the dread Great-Mage, Shade.
+~
+2 0 0
+D0
+~
+~
+0 0 201
+D2
+~
+~
+0 0 203
+S
+#203
+At the Edge of A Grim Forest~
+   You stand at the edge of a grim forest. Plants here are unnaturally
+blackened as if by fire... north you see a rough path and you begin to wonder
+what creatures must walk around about here to make it. You shudder to think
+of what fell creatures abode in the corrupted and evil tower of High Sorcery
+that Shade built so long ago.
+~
+2 0 0
+D0
+~
+~
+0 0 202
+D2
+~
+~
+0 0 204
+S
+#204
+In a Grim Forest~
+   Standing in the forest you feel like you are in a wierd tunnel. The trees
+and briar-brambles are curved back as if they formed around an invisible
+barrier that runs straight like a road, north-south. The growth here is all
+a hideous black, and at first you thought it was burned, but now you see that
+it is actually alive and hideous!
+~
+2 0 0
+D0
+~
+~
+0 0 203
+D2
+~
+~
+0 0 205
+S
+#205
+On a Dark Hill~
+   You come to the hill where Shade's Tower stands. Here at the base it looks
+impossibly tall, reaching to the dark sky! All around you see the ring of the
+forest.. black and hideous. Up the hill to the east you see a kind of fenced-
+in garden that rings the base of the tower. And here, you see a path through
+the forest that runs straight north.
+~
+2 0 0
+D0
+~
+~
+0 0 204
+D1
+~
+~
+0 0 26223
+S
+#206
+A Rough Road~
+   You walk along a road, spilled over with boulders and tumbledown debris.
+In places there's almost no road at all, just rough country where you make
+your way with a lot of difficulty. Looking west you see wide open fields
+and the road improve, and looking east, just wild lands.
+~
+2 0 0
+D1
+~
+~
+0 0 207
+D3
+~
+~
+0 0 200
+S
+#207
+Wild Lands~
+   You look forlornly at the vast expanse of wild lands. There was once a
+road here, or close to here you're sure. Looking west you nothing but yellow
+hills and east, wild country with lots of brush and large rocks, but flatter
+country too. Somehow, down the middle of it, you perceive a road east.
+~
+2 0 0
+D1
+~
+~
+0 0 208
+D3
+~
+~
+0 0 206
+S
+#208
+Plains~
+   There is definately a road east-west here, you can tell now. The rocks
+have been cleared off the road and the way is smoother and better travelled.
+Looking east a ways you see in the distance a forest. Looking west you see
+low yellow hills.
+~
+2 0 0
+D1
+~
+~
+0 0 209
+D3
+~
+~
+0 0 207
+S
+#209
+Forest's Edge~
+   You come upon a strange forest. Just looking at it makes something about
+you tingle with a kind of foreboding. In the air you sense something powerful
+about the place. Looking west you see a road and looking east you see the road
+go straight into the forest.
+~
+2 0 0
+D1
+~
+~
+0 0 210
+D3
+~
+~
+0 0 208
+S
+#210
+In a Strange Forest~
+   You walk about in a strange forest. There is something about the place
+that seems almost unreal. It's dark as heck, you can hardly see. Looking
+about you see a road between the trees that leads east and west. Some power
+seems to be drawing you east, but you can't be sure.
+~
+2 0 0
+D0
+~
+~
+0 0 2500
+D3
+~
+~
+0 0 209
+S
+#211
+The Wastes~
+   You stand in a grey waste, the air is acrid and biting. The ice here is
+grey and rocky, wind-swept and inhospitable. Through the jutting rocks you
+see a way east and south. All around are the high rocky hills and not a living
+thing grows on them and no trees stop the blasting wind.
+~
+2 0 0
+D1
+~
+~
+0 0 2200
+D2
+~
+~
+0 0 212
+S
+#212
+Trail through the Frozen Waste~
+   You shamble through a great waste of snow and rock. The wind and cold here
+is treacherous and only behind great black rocks can you manage to find a
+moments respite from the rough chapping winds. Looking about you hardly see
+anything but rocks and snow.
+~
+2 0 0
+D0
+~
+~
+0 0 211
+D1
+~
+~
+0 0 213
+S
+#213
+Over Frozen Ground~
+   You scramble across an ice-field in the great wastes. All blanketed in
+snow, it is barren but for a few black rocks that jut about at strange
+angles. A trail through the snowy wastes leads west and south.
+~
+2 0 0
+D2
+~
+~
+0 0 214
+D3
+~
+~
+0 0 212
+S
+#214
+Across the Tundra~
+   Here in the vast wastes of the cold, you see a broad tundra plain, with
+hardly anything about. A cold wind blows down from the north, bringing painful
+to your eyes. All about is just a wasteland of tundra with patches of snow.
+~
+2 0 0
+D0
+~
+~
+0 0 213
+D1
+~
+~
+0 0 215
+S
+#215
+Cold Plains~
+   The plains get distinctly colder as they head north and west, with a cold
+north wind blowing swiftly over them. The range of rocky hills acts as a
+barrier ...
+~
+2 0 0
+D2
+~
+~
+0 0 216
+D3
+~
+~
+0 0 214
+S
+#216
+Hills and Snow~
+   You walk along a trail through the snow and hills. The wind blows down
+between spare trees and blows around you. Here, looking north, the road 
+climbs into a high barren country. Looking south you see greener lands
+and broader spaces.
+~
+2 0 0
+D0
+~
+~
+0 0 215
+D2
+~
+~
+0 0 217
+S
+#217
+High Hilly Country~
+   You walk on a trail through the high hills. Looking around the vast
+expanse you realize how far away from civilization you are. The trail is
+good though for the territory. Looking north you see the hills climb and
+feel a slight breeze on your cheek that nips you with cold. Looking south
+you see a green country of gently rolling hills.
+~
+2 0 0
+D0
+~
+~
+0 0 216
+D2
+~
+~
+0 0 218
+S
+#218
+Lush Green Hills~
+   You walk along a trail through lightly wooded hills. The hills roll
+softly on either side, and there's a gentle breeze that rustles the grass.
+The trail is wide and easy to climb here in the low hills, and you take
+a broad panorama of the surrounding lands to see that the grass is even
+greener and more lovely to the south.
+~
+2 0 0
+D0
+~
+~
+0 0 217
+D1
+~
+~
+0 0 219
+S
+#219
+Trail Across the Fields~
+   You find yourself on a trail walking across a grassy field. All about is
+the fresh wind and a gentle rustle in the grass. Wild thistle and buttercup
+poke out amongst the tall grass in patches and bees lazily visit each one.
+Looking west you see the trail head into the hills and east you see the
+broad panorama of the plains.
+~
+2 0 0
+D1
+~
+~
+0 0 200
+D3
+~
+~
+0 0 218
+S
+#221
+A Quiet Poplar-lined Path~
+   You are walking on a pleasantly quiet path wandering its way
+among stands of mature poplar trees.  Peeking through the branches
+of the poplars, you can see majestically ancient oaks, monarchs of
+the forest, surrounded by an entourage of sturdy elms and graceful
+aspens.  The warbling of birdsong above and the rustle of unseen
+paws in the underbrush calm you, and you feel at peace under the
+soothing twilight of the forest canopy.
+~
+2 4 3
+D0
+~
+~
+0 0 222
+D2
+~
+~
+0 0 3726
+S
+#222
+A Quiet Poplar-Lined Path~
+   You are walking on a pleasantly quiet path wandering its way
+among stands of mature poplar trees.  Peeking through the branches
+of the poplars, you can see majestically ancient oaks, monarchs of
+the forest, surrounded by an entourage of sturdy elms and graceful
+aspens.  The warbling of birdsong above and the rustle of unseen
+paws in the underbrush calm you, and you feel at peace under the
+soothing twilight of the forest canopy.
+~
+2 0 3
+D1
+~
+~
+0 0 223
+D2
+~
+~
+0 0 221
+S
+#223
+A Quiet Poplar-Lined Path~
+   You are walking on a pleasantly quiet path wandering its way
+among stands of mature poplar trees.  Peeking through the branches
+of the poplars, you can see majestically ancient oaks, monarchs of
+the forest, surrounded by an entourage of sturdy elms and graceful
+aspens.  The warbling of birdsong above and the rustle of unseen
+paws in the underbrush calm you, and you feel at peace under the
+soothing twilight of the forest canopy.
+~
+2 0 0
+D0
+~
+~
+0 0 224
+D3
+~
+~
+0 0 222
+S
+#224
+A Quiet Poplar-Lined Path~
+   You are walking on a pleasantly quiet path wandering its way
+among stands of mature poplar trees.  Peeking through the branches
+of the poplars, you can see majestically ancient oaks, monarchs of
+the forest, surrounded by an entourage of sturdy elms and graceful
+aspens.  The warbling of birdsong above and the rustle of unseen
+paws in the underbrush calm you, and you feel at peace under the
+soothing twilight of the forest canopy.
+~
+2 0 3
+D2
+~
+~
+0 0 223
+D9
+~
+~
+0 0 225
+S
+#225
+A Quiet Poplar-Lined Path~
+   You are walking on a pleasantly quiet path wandering its way
+among stands of mature poplar trees.  Peeking through the branches
+of the poplars, you can see majestically ancient oaks, monarchs of
+the forest, surrounded by an entourage of sturdy elms and graceful
+aspens.  The warbling of birdsong above and the rustle of unseen
+paws in the underbrush calm you, and you feel at peace under the
+soothing twilight of the forest canopy.
+~
+2 0 3
+D0
+~
+~
+0 0 23549
+D7
+~
+~
+0 0 224
+S
+#99999
+$~

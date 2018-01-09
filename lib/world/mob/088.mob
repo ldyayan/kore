@@ -1,0 +1,632 @@
+#8800
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8801
+kobold druid dog green dark~
+the kobold druid~
+A squat kobold with dark skin in a green cape howls at you.
+~
+His skin and attire seem to be practically the color of the hedges.
+Or perhaps it's the hedges that simply reflect their light upon him;
+in any case, you have a very difficult time seeing him at all...
+~
+170174 1933352 0 S
+37 -5 -7 60d60+4000 7d5+14
+0 192000
+4 4 1
+#8802
+ki ki-rin kirin gold golden winged beast~
+a ki-rin~
+A golden winged beast with violet eyes silently trots along the hedge.
+~
+   This aerial counterpart of the unicorn has a golden mane of hair
+which reflects the glowing leaves of the hedges in shimmering hues.
+Being a bit bigger than the hybsils, it seems to slink along the 
+side of the hedge as if not wanting to call attention to itself...
+~
+170172 1933352 0 S
+46 -5 -9 60d60+4000 7d5+14
+0 192000
+4 4 2
+#8803
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8804
+dragon mist vaporous serpentine~
+the mist dragon~
+A vaporous serpentine form wafts through the air.
+~
+You see a mass of reptilian folds of skin and bone engulfed in a 
+thick mist which obscures most of its features.  It could be a dragon
+or some kind of overland manta ray, for all you know...
+~
+170174 1933480 0 S
+48 -5 -4 60d60+4000 7d5+14
+0 192000
+8 8 2
+#8805
+dog blink blinkdog puppy~
+a blink dog~
+A cute little puppy wanders the hedges.
+~
+These canine creatures look like small domestic white dogs.  With one
+exception: they have the annoying habbit of disappearing and then
+reappearing several yards away, usually a few at a time.
+~
+239656 0 0 S
+18 -10 -1 1d60+100 4d3+12
+0 9700
+8 8 1
+#8806
+wemic centaur lion~
+the wemic~
+A centaur with the body of a lion wanders the hedges.
+~
+Slightly larger than a pony, this centaur has a golden red mane, and
+he casts a cold, calculating glance at you, as if to judge whether
+he is within kicking distance...
+~
+239784 0 0 S
+25 -10 -5 1d60+100 4d3+12
+0 9700
+8 8 1
+#8807
+fire giant flaming gargantuan figure~
+a fire giant~
+A gargantuan figure wrapped in flames ambles about.
+~
+A great heat emanates from this large form, but he moves fluidly amid the
+bustling square, and the other giants don't seem to really mind...
+~
+170140 1343656 0 S
+40 -5 -8 60d60+4000 7d5+14
+0 192000
+8 8 1
+#8808
+frost giant figure cold misty towering~
+a frost giant~
+A towering figure gives off a cold mist.
+~
+This fellow puts a chill through your spine, to put it mildly.  One can 
+discern a slight hissing sound, as if he was not quite at home in the
+relatively warm climate of the castle and was melting a little...
+~
+170140 1343656 0 S
+42 -5 -8 60d60+4000 7d5+14
+0 192000
+8 8 1
+#8809
+hill giant humanoid large ~
+a hill giant~
+A large humanoid wearing furs eyes you fiercely...
+~
+This fifteen-foot hulk displays a ruggedness which seems out of step
+with the more dignified giant races in the square.  The calluses on
+his hands suggest that he's thrown countless boulders in his day, and
+the gleam in his eyes communicates to you immediately that he's got
+a savant's gift for ballistics that surpasses his other faculties.
+Take care that he doesn't offer a demonstration!
+~
+170172 1343528 0 S
+38 -5 -7 60d60+4000 7d5+23
+0 192000
+8 8 1
+#8810
+giant verbeeg large humanoid~
+the verbeeg~
+A large humanoid wearing furs eyes you fiercely...
+~
+This fellow is bigger and a bit more crafty than his hill giant
+brethren.  As he skulks about the courtyard, he leers at his fellow
+giants (in particular those hoity-toity giants of an elemental stamp
+such as the frost and storm giants) as if planning some sort of 
+prank...
+~
+170172 1343528 0 S
+41 -7 -6 60d60+4000 7d5+14
+0 192000
+8 8 1
+#8811
+stone giant~
+a stone giant~
+A giant dressed in huge stone plate armor loiters here.
+~
+He could almost fool you into thinking he's lethargic while he's standing
+still, if it weren't for the sharp glances made by those beady black eyes
+of his...
+~
+170172 1343528 0 S
+42 -7 -6 60d60+4000 7d5+14
+0 192000
+8 8 1
+#8812
+storm giant blue flowing 8812~
+a storm giant~
+A giant in a flowing blue robe is standing here.
+~
+Almost ignoring you, this giant seems to think that a peripheral view of
+your intrusion is all you're worth...you'll be teaching this cocky bastard
+some manners soon...
+~
+170140 1343528 0 S
+44 -7 -8 60d60+4000 7d5+14
+0 192000
+8 8 1
+#8813
+king giant giantkind collossal fuming~
+the King of Giantkind~
+A simply collossal giant is standing here, silently fuming with rage.
+~
+By far the largest giant in this square, this fellow has a rugged
+handsomeness which belies his temper, which is at its boiling point
+at the moment thanks to the recent escape of the Wicca's samurai
+through one of the castle's portals.  But he seems to be keeping it
+under control as he greets you.  Mind that you don't set him off 
+again...
+~
+170142 1376296 0 S
+59 -11 -12 60d60+9000 7d5+33
+0 192000
+8 8 1
+#8814
+queen giant giantess giantkind collossal~
+the Queen of Giantkind~
+A simply collossal giantess is standing here, pacifying her husband.
+~
+Of similar height and girth to that of the king, this towering 
+matron of the giants is obviously the restraining force on the king's
+temper.  She wears a striking skirt of obsidian plate which sparkles
+against the cloudless sky above, and upon her finger is a ring which
+sports a large agate.
+~
+170142 1376296 0 S
+55 -11 -10 60d60+4000 7d5+30
+0 192000
+8 8 2
+#8815
+golem electrum treant tree~
+an electrum treant golem~
+An electrum statue of a tree is here guarding the portal.
+~
+It is entirely made of solid electrum alloy, a sort of whitish-gold metal
+that reflects the glowing hues of the portal against the portcullis in
+odd splinters....
+~
+694302 1409064 0 S
+50 -11 -9 60d60+6000 7d5+20
+0 192000
+8 8 1
+#8816
+golem brass scorpion statue~
+a brass scorpion golem~
+A brass statue of a scorpion is here guarding the portal.
+~
+Its legs clang against the ground with a painful noise that puts you off 
+balance momentarily, but its evil smile snaps you back to reality.
+~
+694302 1409064 0 S
+50 -11 -9 60d60+6000 7d5+20
+0 192000
+8 8 1
+#8817
+golem gimlet golden gold winged pick icepick~
+a golden gimlet~
+What appears to be a small golden ice-pick with wings guards the portal.
+~
+It spouts a flurry of insults at you as you enter the portal alcove,
+driving you into a rage before you really take a good look at it...
+Essentially it's about the size of a furnace-poker handle ornament,
+but is made of solid gold, and you wince as you anticipate its 
+stabs....
+~
+170014 1409064 -1000 S
+44 -11 -9 60d60+1500 10d5+33
+0 192000
+8 8 0 14
+#8818
+golem copper monkey statue~
+a copper monkey golem~
+A copper statue of a monkey is here guarding the portal.
+~
+Not quite as handsome as his urinating colleague in the center of the 
+courtyard, this muscular fellow has large cymbals welded to his hands.
+Looks like youre in for a boisterous fight....
+~
+694302 1409064 0 S
+50 -11 -9 60d60+5500 7d5+20
+0 192000
+8 8 1 13
+#8819
+golem iron giant verbeeg replica~
+an iron verbeeg golem~
+An iron replica of the verbeeg is here guarding the portal.
+~
+Even the furs that the verbeeg giants traditionally wear have been
+faithfully reproduced on this statue, making it seem as though some
+wizard turned a real verbeeg into metal.  Or perhaps that's what
+actually happened...
+~
+694302 1409064 0 S
+46 -11 -9 60d60+4444 5d5+19
+0 192000
+8 8 1 6
+#8820
+golem tin eagle statue~
+a tin eagle golem~
+A tin statue of an eagle is here guarding the portal.
+~
+Its metal feathers scintillate against the bright hues of the por-
+tal, making you dizzy as you try to approach it.  It emits a shrill
+whistle-like call that makes you cup your hands over your ears, to
+make matters worse...
+~
+694302 1409064 0 S
+54 -11 -13 60d60+12000 7d5+32
+0 192000
+8 8 1 8
+#8821
+golem silver panther statue~
+a silver panther golem~
+A silver statue of a panther is here guarding the portal.
+~
+These panthers loll on either side of the portal in a manner not
+unlike heraldic supporters, except that they are 'dozing' with one
+eye open.  The rough, dissonant purr they put out just got a lot
+louder, however...
+~
+694302 1409064 0 S
+50 -11 -7 60d60+3000 7d5+14
+0 192000
+8 8 1 8
+#8822
+golem emerald lioness lion statue~
+an emerald lioness golem~
+An emerald statue of a lioness is here guarding the portal.
+~
+These green eyed beauties pace about the portal, making a distinct
+clicking noise against the cobblestones with their paws.  The 
+unusual stone-on-stone noise makes you uneasy...
+~
+694302 1409064 0 S
+50 -17 -15 60d60+7500 8d5+28
+0 192000
+8 8 2 8
+#8823
+bear polar white~
+a polar bear~
+A bear with white fur stares hungrily at you, and blinks.
+~
+Before its paws were practically around you, you didnt know it was 
+even here!! These bears seem unusually graceful and quiet, and they
+use both talents to great advantage as they spring upon you...
+~
+2104 0 0 S
+26 10 10 90d1+900 4d2+8
+0 1920
+8 8 0 5
+#8824
+mountain goat sharp~
+a mountain goat~
+A goat with sharp pointy antlers crunches through the snow.
+~
+This stocky little goat is scarce better than waist high to you, but
+is possessed of surprising speed as it easily jumps across thirty
+foot chasms to gore its sparkling horns into its prey.  Some wizard
+must have given goats the instinct of wildebeests or something...
+~
+16885944 554762240 0 S
+32 -15 -6 90d1+4000 4d2+30
+0 1920
+8 8 0 14
+#8825
+walrus ice mammal grey fat~
+an ice walrus~
+A fat grey mammal slithers through the ice.
+~
+This large leathery creature seems to ripple its way along the ice,
+and its hide must be incredibly tough to withstand scraping against
+the diamonds in the glaciers of the cleft...
+~
+2072 131072 0 S
+32 10 23 90d1+900 4d2+8
+0 1920
+8 8 0
+#8826
+reindeer white silent~
+a white reindeer~
+A white reindeer trots silently through the snow.
+~
+These white antlered creatures are almost like zebras
+with red stripes, and are capable of surprising speed as they
+negotiate the cracks of the glaciers on the Cleft by darting along...
+~
+2072 0 0 S
+12 10 23 90d1+1300 4d2+14
+0 1920
+8 8 0
+#8827
+white razor lemming creature beaver~
+a white-furred razor lemming~
+A beaver-like creature with a white fur scurries along the ground.
+~
+Like their lowland cousins, these furry mammals cheerfully
+leap to their oblivion.  These seem a bit better equipped,
+though, as they survive hundred-yard falls onto chunks of diamond
+and merely bounce off.  They must get good and fat somewhere up here
+first to be able to do that...
+~
+1054744 562364420 0 S
+24 10 23 90d1+900 4d2+15
+0 1920
+8 8 0
+#8828
+raven snow bird white 8828~
+a snow raven~
+A large white bird sits in its icy nest.
+~
+It's a strikingly beautiful bird, with long, sharp, clear diamond talons
+that rake at you as it screeches majestically and flaps its wings...
+~
+6330 128 0 S
+50 10 23 90d1+900 4d2+8
+0 1920
+8 8 0
+#8829
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8830
+aurumvorax cat feline metallic metal glistening~
+an aurumvorax~
+A feline with a glistening metallic fur coat crouches in the darkness.
+~
+The aurumvorax is basically something between an earth elemental
+and the average snow leopard, given its affinity for metals which 
+are digested and become part of its coat of fur.  There is, however,
+an additional bizarre feature: it has six legs, all with formidable
+metal claws which would vivisect you in a hurry if you got too close...
+~
+6330 128 0 S
+26 10 -7 90d1+900 30d2+16
+0 1920
+8 8 0 8
+#8831
+ronin lord ghost shadowy figure snarling 8831~
+a Ronin Lord~
+A shadowy figure wielding a curved shortsword snarls at you.
+~
+Being a composite of a samurai who lived a rugged, long life, and
+an undead patched together with the best remedies the Wicca's money
+could buy, this Ronin Lord walks a bit idiosyncratically, but
+you wouldn't stake your life on whether he's already learned to 
+compensate for the limp...
+~
+243900 1122472 -1000 S
+36 -3 -10 90d22+1280 6d8+17
+0 32500
+8 8 1
+#8832
+ronin prince tall samurai~
+a Ronin Prince~
+A tall samurai silently unsheathes his sword and squints at you.
+~
+The shipwreck notwithstanding, this close relative of the Lord General
+seems to have been fairly well patched together with the Wicca's
+magical arts.  He is dressed all in black, in a kimono similar to
+those of the Wicca's other servants.
+~
+243870 1122472 -1000 S
+53 -3 -13 90d22+2280 6d8+37
+0 32500
+8 8 1 10
+#8833
+samurai ronin king imposing~
+the Ronin King~
+An imposing samurai leans on his sword and stares at the sleeping cat.
+~
+The leader of this party of samurai sent by the Wicca, he is the 
+former captain and the only living survivor of the ship that you saw
+smashed to bits back at the mouth of the River Qix.  A grim intelligence
+rests behind those beady eyes of his, and you watch as he registers
+the fact that he's been fooled by the trap the Grand Mistress set.
+~
+243870 1122472 -1000 S
+50 -9 -17 90d22+18000 7d8+41
+0 32500
+8 8 1
+#8834
+mob~
+a mob to be deleted~
+
+~
+You shouldn't see this--delete me already :)
+~
+8 0 0 S
+1 20 0 0d0+0 0d0+0
+0 0
+8 8 0
+#8835
+mob~
+a mob to be deleted~
+a mob to be deleted
+~
+Possibly velveeta(tm)...
+~
+243900 1122472 -1000 S
+38 -3 -34 90d22+680 6d8+3
+0 32500
+8 8 0
+#8836
+golem ruby giant~
+the giant Ruby Golem~
+A giant ruby golem stands here talking to the adventurers.
+~
+This towering figure is made entirely of rubies of various sizes.
+The joints seem so incredibly well articulated that it appears at 
+times to be made of red flesh rather than crystal, and you
+guess that only the finest craftsman of any age could accomplish
+that.  You guess right...
+~
+170014 9764904 1000 S
+60 -15 -20 60d60+19000 10d5+35
+0 192000
+8 8 0 9
+#8837
+wench sly dawnfire~
+Dawnfire the Sly Wench~
+A sly wench wearing an attractive girdle is standing here.
+~
+This fiercely independent member of the Citadel Knights is actually
+the tallest and heaviest built of the four adventurers 
+present.  Her sinewy muscles bulge under a plate hauberk that bears
+the crest of the Bal Harbor's Warrior Guild, but her wristbands
+carry the mark of the Cleric's guild, suggesting some minor training
+there as well...
+~
+169996 1933352 1000 S
+48 -15 -17 60d60+4000 9d5+20
+0 192000
+8 8 2 4
+#8838
+knight citadel prince covenant short man~
+Covenant, Prince of the Citadel Knights of Bal Harbor~
+A short man wearing the garter of the Citadel Knights is standing here.
+~
+The prince of the Citadel Knights, Covenant is noted for generally
+scorching everything in his path.  He is also a formidable healer,
+and like Zaras he also sports the quartered shields of the Mage's
+and Cleric's guild of Bal Harbor.  But in the border of his shield-
+crest is also a repeated symbol of the Thieves' guild of Bal
+Harbor.  Such a multi-talented individual could be a good deal of 
+trouble indeed if provoked.
+~
+170014 1409064 1000 S
+50 -15 -16 60d60+16000 8d8+40
+0 192000
+8 8 1 12
+#8839
+cheeze beastie remus orange humanoid tall slim~
+Remus the Citadel Knight~
+A tall, slim, orange-skinned humanoid wearing knightly garb stands here.
+~
+Of a more martial spirit than his brother Zaras, Remus wears instead
+the quartered seals of the Warrior's and Cleric's guild of Bal 
+Harbor.  He's developed a considerable paunch, but don't let that 
+fool you into thinking he's easy prey...
+~
+169996 1409064 1000 S
+50 -15 -100 60d60+16000 1d100+33
+0 192000
+8 8 1 10
+#8840
+cheeze beastie zaras knight citadel orange humanoid~
+Zaras the Citadel Knight~
+A short, orange-skinned humanoid in flowing robes stands here.
+~
+The younger brother of Remus, he wears the quartered seals of both
+the Mage's and Cleric's guilds of Bal Harbor.  His jovial temperament
+belies his behavior in combat, however, and he is the first to notice
+you as you climb to the top of the Ruby Wall.
+~
+169996 1409064 0 S
+50 -15 -13 60d60+12000 2d60+25
+0 192000
+8 8 1 12
+#8841
+falling effect room~
+the falling-room effect mob~
+This is the mob that does the falling room effect
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8842
+hollyphant elephant winged beast~
+the Hollyphant~
+A winged creature with the body of an elephant is tethered to the fountain here.
+~
+  This magnificent flying mammal looks a little bit different from
+the creature you'd imagine; the hair of the hollyphant is a bright
+red-brown color, and its wings are a striking white color which
+seems to stand out even against the brilliant whites of the statues
+in the square.  It seems to be moderately content as it lounges at
+the fountain, which tells you that they are very well cared for.
+~
+1048586 172032064 0 S
+32 20 -12 30d33+8010 7d6+32
+0 232000
+8 8 0 9
+#8843
+pegacorn horned unicorn winged beast horse~
+the Pegacorn~
+A large winged unicorn neighs softly as it drinks from the water.
+~
+This magnificent creature sports the usual features of a unicorn,
+white hair and a long, sharp horn upon its head.  However, it also
+has wings of considerable span which enable it to take off in a 
+hurry if need be. 
+~
+1048586 173080640 550 S
+32 -13 -10 30d30+8100 9d9+29
+0 234000
+8 8 2 14
+#8844
+opinicus monkey lion camel winged beast~
+the Opinicus~
+A winged camel with the head of a monkey is tied to the fountain here.
+~
+As odd as it looks, the opinicus is not a crossbreed created by some
+wizard, but a species in its own right.  The camel-like body and lion-
+like claws are a dark color unlike that which conventional reports
+of opinicuses talk about.  However, the wings are indeed a lighter
+color, and the foreclaws are prehensile, enabling the creature to
+wield a weapon should the need arise.
+~
+1048586 173080640 200 S
+33 -12 -11 22d60+8200 8d6+24
+0 356000
+8 8 1 3
+#8845
+hippogriff beaked bird horse winged beast~
+the Hippogriff~
+A winged horse-like creature with the head of a bird is resting here.
+~
+Of all the creatures that the Giants use to ride about upon, the 
+hippogriff is the most unruly and least intelligent.  Its front 
+portion seems to be the head and chest of a bright red bird, 
+terminating in huge talons which could slice your arm off in a single
+hit.  It strains against its rope as it glares at you, and you 
+consider calling for its handlers...
+~
+1048586 173080676 -50 S
+33 -20 -11 30d60+8500 7d9+28
+0 356000
+8 8 0 8
+#99999
+$~

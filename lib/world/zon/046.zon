@@ -1,0 +1,74 @@
+#46
+Kingdom of Juargan~
+4699 25 2 3
+M 0  4600    10  4605            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4609            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4613            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4620            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4616            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4623            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4627            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4625            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4629            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4600    10  4638            the small dwarf
+E 1  4601   100    16                    wield a mining pick
+M 0  4601     6  4640            the small dwarf
+M 0  4601     6  4640            the small dwarf
+M 0  4601     6  4659            the small dwarf
+M 0  4601     6  4659            the small dwarf
+M 0  4601     6  4663            the small dwarf
+M 0  4601     6  4663            the small dwarf
+M 0  4602    11  4639            the dwarf guard
+M 0  4602    11  4639            the dwarf guard
+M 0  4602    11  4657            the dwarf guard
+M 0  4602    11  4657            the dwarf guard
+M 0  4602    11  4666            the dwarf guard
+M 0  4602    11  4666            the dwarf guard
+M 0  4602    11  4666            the dwarf guard
+M 0  4602    11  4666            the dwarf guard
+M 0  4602    11  4666            the dwarf guard
+M 0  4602    11  4649            the dwarf guard
+E 1  4602   100     6                    head a dwarven helm
+E 1  4603   100     5                    body a dwarven breast plate
+M 0  4602    11  4649            the dwarf guard
+E 1  4602   100     6                    head a dwarven helm
+E 1  4603   100     5                    body a dwarven breast plate
+M 0  4604     1  4649            Juargan the Dwarven King
+G 1  4600   101    -1                    give a small key
+M 0  4605    10  4633            the duergar dwarf
+M 0  4605    10  4633            the duergar dwarf
+M 0  4605    10  4633            the duergar dwarf
+M 0  4605    10  4633            the duergar dwarf
+M 0  4605    10  4635            the duergar dwarf
+M 0  4605    10  4635            the duergar dwarf
+M 0  4605    10  4632            the duergar dwarf
+M 0  4605    10  4629            the duergar dwarf
+M 0  4605    10  4629            the duergar dwarf
+M 0  4605    10  4615            the duergar dwarf
+M 0  4603     1  4643            Yentle the dwarf
+M 0  4606     1  4669            Grimdale the ancient king
+E 1  4606     1    16                    wield a large dwarven battle axe
+M 0  4607     1  4620            the dreaded rock worm
+M 0  4608     3  4669            a dwarven spirit
+M 0  4608     3  4669            a dwarven spirit
+M 0  4608     3  4669            a dwarven spirit
+O 0  4607   101  4669            a large stone sarcophagus
+P 1  4608     1  4607                    put the staff of ruling in a large stone sarcophagus
+O 0  4604   101  4670            a large dwarven shield
+O 0  4605   101  4670            a large pile of coins
+D 0  4669     3     2            Ancients Tomb door west
+D 0  4670     1     2            Ancients Vault door east
+D 0  4600     4     1            The Spiral Stair door up
+D 0  4672     5     1            The small cave door down
+S
+#99999
+$~

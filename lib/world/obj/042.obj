@@ -1,0 +1,415 @@
+#4200
+horn unicorn~
+Horn of the Unicorn~
+A marvelous horn glows with a golden radiance.~
+~
+5 8455489 24577
+0 4 4 11
+10 100000 4000
+E
+horn unicorn~
+It was common knowledge that unicorn horns crumble into fairy dust when the
+magical creature dies, so such artifact is much valued and sought for.
+~
+A
+1 2
+A
+19 2
+#4201
+key white~
+a white key~
+A key crafted from a myterious white substance sits here.~
+~
+18 5 1
+0 2 0 0
+1 1 1
+#4202
+key ugly~
+an ugly key~
+An ugly little key lies unwanted here.~
+~
+18 37 1
+0 0 0 0
+1 1 1
+#4203
+tome magic~
+a tome of magic~
+An old, smelly leatherbound tome inscribed with runes lies here.~
+~
+15 99 0
+1000 7 -1 0
+10000 1 1
+E
+tome magic~
+It looks like the junk found in your parents' attic... except this is real.
+~
+#4204
+wand erasmus~
+the wand of Erasmus~
+A crooked wand, heavily taped in the middle, rests here.~
+~
+3 65728 16385
+30 3 3 8
+6 2000 500
+E
+wand erasmus~
+Like its former owner, this wand has seen much abuse.
+~
+#4205
+sleeves gaudy silk shirt~
+a pair of gaudy silk shirt sleeves~
+A pair of silk sleeves glow with a garish color.~
+~
+9 50177 257
+0 0 0 0
+10 15000 1000
+E
+color~
+You think to yourself, "Wow, Day Glo is earthtone compared to this."
+~
+A
+4 -1
+A
+12 15
+#4206
+hide beast~
+the hide of the beast~
+A scaly hide of some creature lies in a crumpled heap.~
+~
+9 8397376 1025
+8 0 0 0
+10 1 1
+E
+hide beast~
+It looks like the skin of a giant snake melded with an unknown creature.
+~
+A
+1 3
+A
+2 1
+#4207
+talon beast~
+the talon of the beast~
+A razor-sharp talon of some unknown beast lies here.~
+~
+9 8401472 4097
+6 0 0 0
+6 1 1
+E
+talon beast~
+It looks like the claw of a mighty eagle.
+~
+A
+19 1
+A
+18 2
+#4208
+cowl gray~
+a gray cowl~
+A worn gray cowl lies in an undignified heap here.~
+~
+9 1536 1025
+10 0 0 0
+10 5000 300
+E
+gray cowl~
+A worn and somewhat threadbare gray robe.
+~
+A
+14 10
+#4209
+necklace stone~
+a stone necklace~
+A necklace made of smooth, black stones is here.~
+~
+9 180225 5
+3 0 0 0
+7 3000 200
+E
+stone necklace~
+Certainly not your average fashion statement except for the primitive type.
+~
+A
+12 15
+A
+18 1
+#4210
+Essence essence avalon~
+the Essence of Avalon~
+A clear gem sparkles with an inner fire.~
+~
+8 291 5
+0 0 0 0
+20 500000 20000
+E
+essence avalon~
+Powerful forces of Life imbue it with a nourishing warmth.
+~
+A
+9 4
+A
+6 2
+#4211
+stew beef~
+a pot of beef stew~
+A pot of beef stew smells so delicious...~
+~
+19 0 1
+18 0 0 0
+1 1 1
+#4212
+pie pot~
+a pot pie~
+A steaming pot pie lies here.~
+~
+19 0 1
+12 0 0 0
+1 1 1
+#4213
+bottle milk~
+a milk bottle~
+A milk bottle brimming with delicious liquid sits here.~
+~
+17 0 1
+40 40 10 0
+1 1 1
+#4214
+pitchfork pitch fork~
+a pitchfork~
+A nasty looking farm pitchfork lies discarded here.~
+~
+5 8396800 8193
+0 3 4 14
+12 1000 1
+#4215
+spatula large~
+a large spatula~
+A large spatula rests on the ground, looking for a new owner.~
+~
+5 0 8193
+0 2 5 5
+8 1000 1
+#4216
+fountain spring stream brook~
+a bubbling spring~
+A bubbling spring gushes out of the moist ground.~
+   You see a small natural spring bubbling merrily as it pours forth from
+the moss-covered ground.  It disappears almost as if by magic into the
+fertile soil all around.
+~
+23 64 0
+999999 999999 15 0
+100000 0 0
+#4217
+key wooden~
+a wooden key~
+A rough-looking wooden key is lying here.~
+~
+18 65540 1
+0 1 0 0
+1 0 0
+#4218
+hoe razor sharp~
+a razor sharp hoe~
+A nasty looking hoe leans against the wall here.~
+A finely crafted farming implement equally adept at turning soil and
+mauling heads.
+~
+5 0 8193
+1 4 4 9
+20 5000 300
+#4219
+seeds seed sunflower~
+some sunflower seeds~
+A handful of sunflower seeds sits in a pile here.~
+They look nutricious and delicious.
+~
+19 0 1
+18 0 0 0
+2 50 0
+#4220
+sign warning~
+a warning sign~
+A warning sign is driven into the ground here.~
+            __________________________
+           O__________________________)
+           O                          )
+           O  All who dares to enter  )
+           O     the Dark Forest,     )
+           O   does so at his or her  )
+           O         own peril.       )
+           O__________________________)
+           O__________________________)
+                      |   |
+                      |   |
+~
+13 0 0
+0 0 0 0
+100000 0 0
+E
+sign warning~
+            __________________________
+           O__________________________)
+           O                          )
+           O  All who dares to enter  )
+           O     the Dark Forest,     )
+           O   does so at his or her  )
+           O         own peril.       )
+           O__________________________)
+           O__________________________)
+                      |   |
+                      |   |
+~
+#4221
+rapier silver whispers~
+a ^Wsilver^n rapier 'Whispers'~
+An exquisitely beautiful rapier made of faerie ^Wsilver^n lies here.~
+Crafted from faerie silver and with faerie magic, the rapier possesses a
+heft and balance unattainable by mortal smiths.  Incredibly light and sharp-
+edged, it is as deadly silent as its name.
+~
+5 8663232 24577
+2 3 12 14
+15 80000 2000
+E
+silver rapier whispers~
+The beauty and grace of the rapier make it seems almost alive.
+~
+A
+12 20
+A
+10 -100
+#4222
+gift faerie~
+a gift from the Faerie~
+Something shrouded in shadow floats here in midair.~
+You can't see a thing.
+~
+18 487 16389
+0 1 0 0
+1 1000000 50000
+A
+12 100
+A
+19 -5
+#4223
+chain daisy daisies~
+a chain of daisies~
+A pretty chain of daisies lies on the ground here.~
+~
+9 65560 4097
+5 0 0 0
+8 100000 5000
+E
+daisies chain daisy~
+A pretty chain of white daisies woven together
+~
+A
+19 -3
+A
+12 5
+#4224
+key crooked bent~
+a crooked key~
+A key bent into a crooked shape is lying here unwanted.~
+~
+18 65541 1
+0 2 0 0
+5 1 1
+#4225
+treasure faerie gold mountain~
+the faerie treasure~
+A gigantic mountain of gold lies here.  Can this be the real treasure?~
+~
+20 0 1
+300000 0 0 0
+1 300000 1
+#4226
+ring shadow umbra~
+an umbra ring~
+A dull black ring surrounded by shadows is lying here, discarded.~
+You stare deeply into the shadows and receive a headache for your trouble.
+~
+9 114920 3
+8 0 0 0
+3 50000 5000
+E
+umbra ring~
+Dark shadows wrap ominously about it, blurring it from view.  You're seized
+by a sudden sense of deja vu.
+~
+A
+1 -4
+A
+6 -2
+B
+1024
+#4227
+granite altar~
+a granite altar~
+An ancient altar made of granite sits silently here.~
+   You see an small altar made of granite sitting in the middle of the
+meditation chamber.  Although it was made with care to details, the passage
+of time has smoothed decorations until they became indistinguishable from
+the gray granite.  Two small dimples on the ground before it demonstrate
+the countless number of pilgrims who have prayed to the powers of Avalon
+for enlightenment.
+~
+12 0 0
+0 0 0 0
+10000 0 0
+#4237
+treasure chest~
+a treasuer chest~
+A treasure chest is on the floor.~
+~
+15 0 0
+1000 5 -1 0
+250 0 0
+E
+chest treasure~
+    A large treasure chest that holds the gold of the High
+Faerie.
+~
+#4298
+locket silver heart~
+a ^Wsilver^n heart-shaped locket~
+A ^Wsilver^n heart-shaped locket rests here.~
+~
+11 1 5
+0 0 0 0
+5 0 0
+E
+locket silver heart~
+To Cherek with all my Love...                       Sasha
+~
+A
+14 40
+A
+17 -10
+A
+1 2
+A
+5 1
+A
+4 1
+#4299
+locket silver heart~
+a ^Wsilver^n heart-shaped locket~
+A ^Wsilver^n heart-shaped locket rests here.~
+~
+11 1 5
+0 0 0 0
+5 0 0
+E
+locket silver heart~
+To Sasha with all my Love...                      Cherek
+~
+A
+9 1
+A
+24 2
+A
+17 -8
+#99999
+$~

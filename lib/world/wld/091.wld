@@ -1,0 +1,1611 @@
+#9100
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 2
+D1
+~
+~
+0 0 9109
+D2
+~
+~
+0 0 9101
+D3
+~
+~
+0 0 9108
+S
+#9101
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9100
+D1
+~
+~
+0 0 9118
+D2
+~
+~
+0 0 9102
+D3
+~
+~
+0 0 9109
+S
+#9102
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9101
+D1
+~
+~
+0 0 9120
+D2
+~
+~
+0 0 9103
+D3
+~
+~
+0 0 9111
+S
+#9103
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9102
+D1
+~
+~
+0 0 9103
+D2
+~
+~
+0 0 9104
+D3
+~
+~
+0 0 9105
+S
+#9104
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9103
+D1
+~
+~
+0 0 9120
+D2
+~
+~
+0 0 9105
+D3
+~
+~
+0 0 9116
+S
+#9105
+Wandering The Countryside~
+   Where you stand, the breeze rustling through your hair starts to die
+down. Peace overcomes everything in sight, and no sound nor life is present.
+You try to catch your breath, after the walk through the countryside.
+In front of you, seems to be a clearing in the dense forest, maybe even
+big enough for you to enter.
+~
+91 0 0
+D0
+~
+~
+0 0 9104
+D1
+~
+~
+0 0 9106
+D2
+~
+~
+0 0 9100
+D3
+~
+~
+0 0 9120
+S
+#9106
+The Forest Entrance~
+   You push your way through the dense brush, and end up inside a thick
+forest, standing on a small path. You cannot see far, because of the
+thick brush hindering your view. As you walk, you take small steps,
+pushing twigs out of your face as you move. The only noticable way to
+move from here, is to the south.
+~
+91 0 0
+D2
+~
+~
+0 0 9107
+D3
+~
+~
+0 0 9105
+S
+#9107
+Inside The Gloomy Forest~
+   You continue to walk through the thick forest, and end up in what
+seems to be the center. Where you stand, you can see further than before,
+and the space is not as cramped. The smell of pine is strong in the air,
+and the presence of life can be heard in the rustling brush around you.
+~
+91 0 0
+D0
+~
+~
+0 0 9106
+D2
+~
+~
+0 0 9121
+S
+#9108
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9112
+D1
+~
+~
+0 0 9114
+D2
+~
+~
+0 0 9113
+D3
+~
+~
+0 0 9115
+S
+#9109
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9102
+D1
+~
+~
+0 0 9114
+D2
+~
+~
+0 0 9116
+D3
+~
+~
+0 0 9110
+S
+#9110
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9103
+D1
+~
+~
+0 0 9118
+D2
+~
+~
+0 0 9120
+D3
+~
+~
+0 0 9114
+S
+#9111
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9111
+D1
+~
+~
+0 0 9119
+D2
+~
+~
+0 0 9119
+D3
+~
+~
+0 0 9117
+S
+#9112
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9111
+D1
+~
+~
+0 0 9112
+D2
+~
+~
+0 0 9117
+D3
+~
+~
+0 0 9113
+S
+#9113
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9116
+D1
+~
+~
+0 0 9118
+D2
+~
+~
+0 0 9117
+D3
+~
+~
+0 0 9100
+S
+#9114
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9113
+D1
+~
+~
+0 0 9102
+D2
+~
+~
+0 0 9100
+D3
+~
+~
+0 0 9108
+S
+#9115
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9110
+D1
+~
+~
+0 0 9118
+D2
+~
+~
+0 0 9100
+D3
+~
+~
+0 0 9104
+S
+#9116
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9110
+D1
+~
+~
+0 0 9112
+D2
+~
+~
+0 0 9109
+D3
+~
+~
+0 0 9116
+S
+#9117
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9110
+D1
+~
+~
+0 0 9117
+D2
+~
+~
+0 0 9119
+D3
+~
+~
+0 0 9115
+S
+#9118
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9100
+D1
+~
+~
+0 0 9115
+D2
+~
+~
+0 0 9119
+D3
+~
+~
+0 0 9114
+S
+#9119
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9102
+D1
+~
+~
+0 0 9109
+D2
+~
+~
+0 0 9108
+D3
+~
+~
+0 0 9110
+S
+#9120
+Wandering The Countryside~
+   You stand in the midst of a vast, open plain. A strong breeze rushes
+through your hair and you gaze in awe at the immaculate mountains off in
+the distance. As you walk through this beautiful countryside, a warm
+feeling runs through your veins -- a sense of security. From here, exits
+lead in all directions.
+~
+91 0 0
+D0
+~
+~
+0 0 9101
+D1
+~
+~
+0 0 9104
+D2
+~
+~
+0 0 9120
+D3
+~
+~
+0 0 9105
+S
+#9121
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9107
+D2
+~
+~
+0 0 9122
+S
+#9122
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9121
+D1
+~
+~
+0 0 9123
+D2
+~
+~
+0 0 9125
+D3
+~
+~
+0 0 9124
+S
+#9123
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9134
+D3
+~
+~
+0 0 9122
+S
+#9124
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9122
+D3
+~
+~
+0 0 9128
+S
+#9125
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9122
+D2
+~
+~
+0 0 9126
+S
+#9126
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9125
+D2
+~
+~
+0 0 9127
+S
+#9127
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9126
+D2
+~
+~
+0 0 9140
+D3
+~
+~
+0 0 9133
+S
+#9128
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9124
+D8
+~
+~
+0 0 9129
+S
+#9129
+A Forest Corner~
+You are in an unfinished room.
+~
+91 0 0
+D2
+~
+~
+0 0 9130
+D6
+~
+~
+0 0 9128
+S
+#9130
+The Edge Of The Forest~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9129
+D7
+~
+~
+0 0 9131
+S
+#9131
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9132
+D9
+~
+~
+0 0 9130
+S
+#9132
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9133
+D3
+~
+~
+0 0 9131
+S
+#9133
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9127
+D3
+~
+~
+0 0 9132
+S
+#9134
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D3
+~
+~
+0 0 9123
+D5
+~
+hole~
+1 0 9135
+S
+#9135
+A Hole~
+You are in an unfinished room.
+~
+91 1 0
+D2
+~
+~
+0 0 9136
+D4
+~
+hole~
+1 0 9134
+S
+#9136
+A Small Tunnel~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9135
+D2
+~
+~
+0 0 9137
+S
+#9137
+A Small Tunnel~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9136
+D3
+~
+~
+0 0 9138
+S
+#9138
+The Tunnels End~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9137
+D3
+~
+door~
+1 9100 9139
+S
+#9139
+A Small Chamber~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+door~
+1 9100 9138
+S
+#9140
+The Gloomy Forest~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9127
+D2
+~
+~
+0 0 9141
+S
+#9141
+A Creek Bank~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9140
+D1
+~
+~
+0 0 9142
+D2
+~
+~
+0 0 9148
+S
+#9142
+A Creek Bank~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9143
+D3
+~
+~
+0 0 9141
+S
+#9143
+The Creeks End~
+You are in an unfinished room.
+~
+91 0 0
+D2
+~
+~
+0 0 9144
+D3
+~
+~
+0 0 9142
+S
+#9144
+Wading The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9143
+D1
+~
+~
+0 0 9145
+D3
+~
+~
+0 0 9147
+S
+#9145
+A Shallow Pool~
+You are in an unfinished room.
+~
+91 0 0
+D3
+~
+~
+0 0 9144
+D5
+~
+sticks~
+1 0 9146
+S
+#9146
+Inside A Dam~
+You are in an unfinished room.
+~
+91 0 0
+D4
+~
+sticks~
+1 0 9145
+S
+#9147
+Wading The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9144
+D3
+~
+~
+0 0 9148
+S
+#9148
+Wading The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9141
+D1
+~
+~
+0 0 9147
+D3
+~
+~
+0 0 9149
+S
+#9149
+Wading The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9148
+D3
+~
+~
+0 0 9150
+S
+#9150
+Wading The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9149
+D3
+~
+~
+0 0 9151
+S
+#9151
+A Creek Junction~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9150
+D2
+~
+~
+0 0 9153
+D3
+~
+~
+0 0 9154
+D5
+~
+~
+0 0 9152
+S
+#9152
+Dark, Deep, DEATH!~
+You are in an unfinished room.
+~
+91 1191 0
+S
+#9153
+Southern Creek Junction~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9151
+D2
+~
+~
+0 0 9169
+S
+#9154
+Western Creek Junction~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9151
+D3
+~
+~
+0 0 9155
+S
+#9155
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9154
+D3
+~
+~
+0 0 9156
+S
+#9156
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9155
+D3
+~
+~
+0 0 9157
+S
+#9157
+Before The Brush Pile~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9156
+D2
+~
+~
+0 0 9164
+D3
+~
+~
+0 0 9158
+S
+#9158
+On Top Of The Pile~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9157
+D5
+~
+brush~
+1 0 9159
+S
+#9159
+Inside Of The Brush~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9160
+D1
+~
+~
+0 0 9163
+D2
+~
+~
+0 0 9161
+D3
+~
+~
+0 0 9162
+D4
+~
+brush~
+1 0 9158
+S
+#9160
+A Musty Den~
+You are in an unfinished room.
+~
+91 0 0
+D2
+~
+~
+0 0 9159
+S
+#9161
+A Musty Den~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9159
+S
+#9162
+A Musty Den~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9159
+S
+#9163
+A Musty Den~
+You are in an unfinished room.
+~
+91 0 0
+D3
+~
+~
+0 0 9159
+S
+#9164
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9156
+D2
+~
+~
+0 0 9165
+S
+#9165
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9164
+D1
+~
+~
+0 0 9166
+D3
+~
+~
+0 0 9167
+S
+#9166
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9168
+D3
+~
+~
+0 0 9165
+S
+#9167
+A Dead End~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9165
+S
+#9168
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9170
+D3
+~
+~
+0 0 9166
+S
+#9169
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9153
+D2
+~
+~
+0 0 9170
+S
+#9170
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9169
+D2
+~
+~
+0 0 9171
+D3
+~
+~
+0 0 9168
+S
+#9171
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9170
+D1
+~
+~
+0 0 9172
+D2
+~
+~
+0 0 9173
+S
+#9172
+The Base Of The Mountains Of Icewendale~
+You are in an unfinished room.
+~
+91 0 0
+D3
+~
+~
+0 0 9171
+D4
+~
+~
+0 0 9176
+S
+#9173
+The Creek~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9171
+D1
+~
+~
+0 0 9174
+D3
+~
+~
+0 0 9175
+S
+#9174
+A Small Cove~
+You are in an unfinished room.
+~
+91 0 0
+D3
+~
+~
+0 0 9173
+S
+#9175
+A Small Cove~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9173
+S
+#9176
+Climbing The Mountain~
+You are in an unfinished room.
+~
+91 0 0
+D4
+~
+~
+0 0 9177
+D5
+~
+~
+0 0 9172
+S
+#9177
+Climbing The Mountain~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9178
+D5
+~
+~
+0 0 9176
+S
+#9178
+A Rocky Path~
+You are in an unfinished room.
+~
+91 0 0
+D3
+~
+~
+0 0 9177
+D4
+~
+~
+0 0 9179
+S
+#9179
+Climbing The Mountain~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9180
+D5
+~
+~
+0 0 9178
+S
+#9180
+Along The Swinging Bridge~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9181
+D3
+~
+~
+0 0 9179
+S
+#9181
+Along The Swinging Bridge~
+You are in an unfinished room.
+~
+91 0 0
+D1
+~
+~
+0 0 9183
+D3
+~
+~
+0 0 9180
+D5
+~
+~
+0 0 9182
+S
+#9182
+LEAP of Faith!~
+You are in an unfinished room.
+~
+91 0 0
+S
+#9183
+A Narrow Path~
+You are in an unfinished room.
+~
+91 0 0
+D0
+~
+~
+0 0 9193
+D1
+~
+~
+0 0 9184
+D2
+~
+~
+0 0 9194
+D3
+~
+~
+0 0 9181
+S
+#9184
+A Crack In The Mountain Wall~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 9185
+D3
+~
+~
+0 0 9183
+S
+#9185
+A Frosty Cavern~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 9186
+D3
+~
+~
+0 0 9184
+S
+#9186
+An Iced-Over hallway~
+You are in an unfinished room.
+~
+0 0 0
+D2
+~
+~
+0 0 9185
+D5
+~
+~
+0 0 9187
+S
+#9187
+An Iced-Over Hallway~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 9190
+D1
+~
+~
+0 0 9188
+D3
+~
+~
+0 0 9189
+D4
+~
+~
+0 0 9186
+S
+#9188
+A Guard Post~
+You are in an unfinished room.
+~
+0 0 0
+D3
+~
+~
+0 0 9187
+S
+#9189
+A Guard Post~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 9187
+S
+#9190
+Before The Granite Door~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 9191
+D2
+~
+~
+0 0 9187
+S
+#9191
+The Snowmans Lair~
+You are in an unfinished room.
+~
+0 0 0
+D2
+~
+~
+0 0 9190
+D5
+~
+~
+0 0 9192
+S
+#9192
+Piled Under The Snow~
+You are in an unfinished room.
+~
+0 0 0
+D4
+~
+~
+0 0 9191
+S
+#9193
+Path Around The Mountain~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 9195
+D2
+~
+~
+0 0 9183
+S
+#9194
+Path Around The Mountain~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 9183
+D1
+~
+~
+0 0 9196
+S
+#9195
+Path Around The Mountain~
+You are in an unfinished room.
+~
+0 0 0
+D2
+~
+~
+0 0 9196
+D3
+~
+~
+0 0 9193
+S
+#9196
+An unfinished room~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 9195
+D3
+~
+~
+0 0 9194
+S
+#99999
+$~

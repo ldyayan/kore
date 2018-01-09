@@ -1,0 +1,680 @@
+#8200
+cleric shoppkeeper svirnebli gnome~
+a cleric of Segojan~
+A small svirfnebli here is selling magic good.
+~
+A small svirfnebli, he is in charge of selling some magical supplies,
+to those who travel the underdark.
+~
+26635 8 -500 S
+33 2 2 1d1+5 2d8+18
+0 160000
+8 8 1
+#8201
+female gnome chef~
+a female gnome chef~
+A plump female gnome stands here, ready to serve you food.
+~
+She's a little overweight, sure, but what do you expect?
+~
+67135498 65672 -100 S
+33 0 -10 30d20+4500 3d8+18
+0 160000
+8 8 2
+#8202
+grocer~
+the grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+26635 8 900 S
+33 0 -10 1d1+30000 2d8+18
+0 160000
+8 8 1
+#8203
+weaponsmith~
+the weaponsmith~
+A weaponsmith is standing here.
+~
+He is a young weaponsmith, who still has lots to learn but he is still
+eager to sell you his latest implements of carnage and destruction.
+~
+26634 8 900 S
+33 0 -10 1d1+30000 2d8+18
+0 160000
+8 8 1
+#8204
+gate guard  svirfnebli gnome~
+a svirfnebli gateguard~
+A svirfnebli gateguards stands here.
+~
+A strong and hearty warrior stands before you.  He wears heavy 
+and is ready to fight.  The gateguard guards this gate with his life!
+~
+10 66696 750 S
+35 0 -10 1d1+1 2d8+20
+285 160000
+8 8 1 5
+#8205
+receptionist~
+the receptionist~
+A receptionist is standing behind the counter here, smiling at you.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+59419 32808 900 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
+#8206
+senior dive expert T'grel svirnebli gnome~
+T'Grel, the diving master~
+A strangely dressed svirfnebli is here.
+~
+A svirfnebli that has on all kinds of diving gear.  A strange creature
+indeed.  He is about 2 feet tall, short for even svirfnebli. And
+he is truly ugly!
+~
+26634 8 900 S
+33 2 2 1d1+30000 2d8+12
+0 160000
+8 8 1
+#8207
+cleric segojan svirfnebli gnome~
+a cleric of Segojan~
+A cleric stands here waiting for the summoning!
+~
+The cleric is waiting for his chance to summon a elemental and prove his worth!
+~
+30986 128 900 S
+33 0 -10 1d1+1 1d1+1
+0 160000
+8 8 1
+#8208
+svirfnebli clerical apothecary~
+the svirfnebli clerical apothecary~
+The clerical apothecary is here looking over things.
+~
+A small svirfnebli with stains all over his clothes and body.  He 
+is pacing back and forth, watching his many experiments.  He doesn't
+seem to  notice you at all.  His hair is smoking due to some failed 
+experiment.
+~
+67135498 0 900 S
+33 0 -10 1d1+30000 2d8+18
+0 160000
+8 8 1
+#8209
+red robed monk svirfnebli gnome~
+a red robed monk~
+A red robed svirfneblin monk stands here.
+~
+A deep gnome with a red robe on stands here waiting to give you water.
+He is a rarity among the svirfnebli, a monk.  But he is happy in his
+lot in life, he is patiently awaiting serving you his wares.
+~
+288779 8 -300 S
+33 0 -10 1d1+1 1d8+18
+10000 160000
+8 8 1
+#8210
+postmaster post master~
+the postmaster~
+The head postmaster is standing here, waiting to help you with your mail.
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He
+worries about the reputation of the MMS (Midgaard Mail Service), as many
+people seem to think that it is slow.  Perhaps if he were to brush the
+cobwebs from his uniform it would help to make a better impression.
+~
+190475 32776 1000 S
+33 0 -10 1d1+30000 1d8+18
+0 0
+8 8 1
+#8211
+statue goddess vulmarta~
+Vulmarta~
+The statue of the goddess Vulmarta is here, attending to people's wounds.
+~
+This is a beautiful statue, showing a goddess all in white with a serene face
+and an archaic smile, she moves mystically to tend to your wounds. Masterfully
+sculpted, she appears as an embodiment of the feminine and the resolute,
+here pouring water to the living things of Kore.  At her feet are offerings
+of flowers that the devoted have left for love of her.
+~
+57355 132224 1000 S
+10 20 10 1d6+4 1d4+0
+0 25
+8 8 2
+#8212
+svirfnebli common gnome male2~
+a common male svirfneblin~
+A common looking gnome wanders around looking for gems.
+~
+This gnome stands about three feet tall and has a strange greyish colored
+skin tone.
+~
+530764 1056 500 S
+20 11 -2 10d10+1000 5d5+10
+0 56000
+8 8 1
+#8213
+statue segojan~
+a statue of Segojan~
+A statue of the elemental Segojan stands grandly here.
+~
+A small statue that looks like any earth elemental, except has a 
+smile.  You feel warmth from the statue and kindly at peace.  The eyes
+glow with a green light.
+~
+10 1192 1000 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8214
+king schnicktick gnome svirfnebli~
+King Schnicktick~
+An ancient svirfneblin stands here, wearing a crown.
+~
+He is as bald as a babies bottom and stands four feet tall, a towering
+height for svirfnebli.  His features are hard to distinguish because of
+all of the wrinkles and scars over his face and scalp.  He is reputed to
+be a king king, but harsh when the need arises.
+~
+714762 8454312 750 S
+56 0 -3 30d100+30000 9d10+33
+234 200000
+8 8 1
+#8220
+guildmaster master mage~
+the great sorceror Appleby~
+The Highest Sorcerer, your master, is here studying a spellbook.
+~
+Even though Appleby the sorcerer looks old and tired, you can clearly see the
+vast amount of knowledge he possesses.  He is wearing fine magic clothing,
+and you notice that he is surrounded by a blue shimmering aura.
+~
+59419 136 1000 S
+34 0 -10 6d10+640 1d8+24
+0 100000
+8 8 1
+#8221
+guildmaster master priest~
+the priests' guildmaster~
+Your guildmaster is prayer to your God here.
+~
+You are in no doubt that this guildmaster is truly close to your God; he
+has a peaceful, loving look.  You notice that he is surrounded by a white
+aura.
+~
+59419 136 1000 S
+34 0 -10 6d10+640 1d8+24
+0 100000
+8 8 1
+#8222
+guildmaster master beggar thief~
+the thieves' guildmaster~
+A beggar is sitting here, could she be a guildmaster?
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+59418 136 1000 S
+34 0 -10 6d10+640 1d8+34
+0 100000
+8 8 2
+#8223
+guildmaster master~
+the fighters' guildmaster~
+Your guildmaster is standing here sharpening an axe.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+59419 0 1000 S
+34 0 -10 6d10+740 1d8+34
+0 100000
+8 8 1
+#8224
+sorcerer~
+the sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive
+as well as defensive spells make him a deadly opponent.
+~
+59403 136 900 S
+33 0 -5 6d10+990 1d8+22
+0 60000
+8 8 1
+#8225
+Belwar Dissengulp svirfnebli burrow warden gnome~
+Belwar Dissengulp~
+An odd-looking deep gnome stands here.
+~
+He is a specially trained warrior belonging to the military order of the
+Faith.  His duty is to protect the faithful from persecution and infidel
+attacks and his religious devotion combined with his superior skill makes
+him a deadly opponent.
+~
+784648 8492200 1000 S
+58 0 -5 6d10+26000 9d10+40
+0 160000
+8 8 1
+#8226
+assassin~
+the assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as
+possible, using all sorts of weapons.  His superior knowledge of how
+and where to use them combined with his extraordinary stealth makes
+him a deadly opponent.
+~
+59403 786600 400 S
+33 0 -10 6d10+990 1d8+25
+0 160000
+8 8 1
+#8227
+common svirfnebli female~
+a common female svirfneblin~
+A common looking female gnome wanders about taking care of the city.
+~
+This gnome stands about three feet tall and has a strange greyish colored
+skin tone.
+~
+6476 5128 800 S
+20 10 -8 6d10+1000 5d5+10
+21 160000
+8 8 2
+#8240
+bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+24586 0 900 S
+24 2 2 6d10+390 1d8+12
+0 80000
+8 8 1
+#8241
+waiter~
+the waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+24586 0 900 S
+23 2 2 6d10+390 1d8+12
+0 80000
+8 8 1
+#8242
+unseen servant~
+the unseen servant~
+An unseen servant moves spectrally about, doing the mages bidding.
+~
+This powerful unseen servant has been summoned from Limbo to here serve the
+mages guild for one hundred and one years one month and a day.
+~
+24586 2 0 S
+23 1 2 6d10+390 1d8+12
+0 80000
+8 8 0
+#8243
+waiter~
+the waiter~
+A waiter who seems to have reached contact with his God is standing here.
+~
+This waiter almost makes you feel like you should drop to your knees
+and begin to worship your God.  Naaah.
+~
+24586 0 600 S
+23 1 2 6d10+390 1d8+12
+0 80000
+8 8 1
+#8244
+waiter~
+the waiter~
+A waiter who knows where all his customers keep their money is standing here.
+~
+Hmmm... wonder where he got that coin he is playing with.
+~
+24586 0 600 S
+23 1 2 6d10+390 1d8+12
+0 80000
+8 8 1
+#8245
+waiter~
+the waiter~
+A waiter is here.
+~
+This guy looks like he could easily kill you while still carrying
+quite a few firebreathers.
+~
+24586 0 600 S
+23 1 2 6d10+390 1d8+12
+0 80000
+8 8 1
+#8246
+gnome guard highreach svirfnebli~
+a guard of the highreach~
+A svirfneblin of the highreach guard is standing here.
+~
+A very stern looking svirfnebli, he just looks mean.  He isn't well
+armored but he carries a bow, and from the holes in the wall he could fire
+an arrow into your heart faster than you could blink.
+~
+2643246 102536 600 S
+40 1 -10 2d1+5000 9d10+22
+0 80000
+8 8 1
+#8250
+rotha bovine cow dog beast~
+a rotha beast~
+A hairy bovine creature mills about.
+~
+It looks like a cross between a hairy dog and a cow.  The rotha is
+the main source of meat for the svirfnebli.
+~
+761898 1056 0 S
+25 10 -1 30d100+5000 9d9+22
+0 34000
+8 8 0 4
+#8259
+royal guard svirfneblin~
+the King's royal guard~
+A svirfneblin royal guard is here, looking for enemies of the King.
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+530474 8 1000 S
+29 3 0 5d6+225 3d3+15
+0 30000
+8 8 1
+#8260
+svirfnebli guardsman gnome~
+a svirfneblin guardsman~
+A svirfneblin guardsman stands here ready to defend his city.
+~
+A svirfneblin guardsman stands here waiting to defend his city.  His prowess
+as a warrior and his clerical devotion make him a formidable foe.
+~
+662924 327808 700 S
+15 1 -8 30d85+0 9d10+30
+15 13000
+8 8 1 6
+#8261
+ruby !there check~
+ruby check !there~
+ruby !there check
+~
+What a tough job he has.
+~
+8388618 1064 800 S
+50 20 9 2d6+10 1d5+0
+34 100
+8 8 0
+#8262
+svirfneblin archer gnome 8262~
+a svirfneblin archer~
+A small deep gnome is here holding his arrows and his bow.
+~
+A small deep gnome is here waiting to send his arrows streaming down the notch in the 
+wall to defend his city.  His eyes tell you he is ever alert.
+~
+565290 66568 -1000 S
+36 0 10 1d6+11000 9d7+30
+0 50000
+8 8 1 11
+#8263
+guard kore~
+a guard of Kore~
+A guard of Kore is here.
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+104 0 1000 S
+15 15 5 2d6+60 1d6+1
+87 900
+8 8 1
+#8264
+living fire~
+living fire~
+living fire
+~
+living fire
+~
+8388618 0 400 S
+2 19 8 2d6+22 1d6+0
+0 200
+8 8 1
+#8265
+Grepo svirfnebli gnome gemist fat~
+Grepo the gemist~
+A fat deep gnome stands here, eyeing some gems intently.
+~
+   Grepo is a fat gnome. He thinks more of himself than others think
+of him.  He is the only gemist that can buy precious stones so in 
+a way he has you over a barrel and you have to take what ever price
+he offers.
+~
+67108874 1024 0 S
+50 20 10 1d1+0 1d1+0
+100000 0
+8 8 1
+#8267
+kore guard~
+a guard of Kore~
+A guard of Kore is here, guarding the gates.
+~
+A big, strong, helpful, trustworthy guard.
+~
+6219 0 1000 S
+15 10 1 1d12+123 1d8+5
+0 9000
+8 8 1
+#8268
+gateguard guard svirfnebli gnome~
+a svirfneblin gateguard~
+A svirfneblin gateguard stands here looking bored.
+~
+A battle scarred veteran of battles, you might not want to mess with him.
+He is as mean as he looks, his helm and weapons carved from the finest weapons
+and his skill above question.  You would be wise to avoid him.
+~
+702798 66568 800 S
+40 0 -1 1d11+15000 9d9+17
+0 123000
+8 8 1
+#8270
+entemoch earth elemental~
+Entemoch the earth elemental~
+An extremely large earth elemental stands before you!
+~
+It is made of solid rock and dirt, yet its limbs move with the fluidity of
+water. Its brown color stands out in contrast with the circle, and its eyes
+sparkle with an intense emerald-greenish hue.
+~
+778282 16843912 1000 S
+60 0 -10 6d10+30000 9d10+50
+0 100000
+8 8 0
+#8271
+bard 8271~
+the experienced bard~
+A bard is guarding the entrance.
+~
+He is an experienced bard who has specialized in Poetry and Rhyme.
+He is here to guard the College and his superior knowledge of heart-breaking
+and touching songs make him a deadly opponent.
+~
+59403 136 900 S
+33 0 -5 6d10+990 1d8+22
+0 60000
+8 8 1
+#8272
+cleric svirfnebli segojan gnome~
+a cleric of Segojan~
+A cleric of Segojan stands here guarding the summoning circle.
+~
+He is an experienced cleric who has specialised in combat and healing.
+He is here to guard agianst others seeing there summoning of the elementals.
+~
+784426 4264 900 S
+33 0 -5 6d10+14000 6d8+22
+30 200000
+8 8 1
+#8288
+tywong thief shabby svirfnebli gnome~
+Tywong~
+A shabby looking creature is wandering about.
+~
+ An uncut and shabby looking man, he doesn't smell very nice.  He stands
+about 4 foot tall and has hair that is almost twice that long.  He shuffles
+and has a strange look in his eyes.
+~
+680008 9274528 -400 S
+54 1 20 10d10+10000 9d10+30
+0 38000
+8 8 1
+#8289
+pet shop boy~
+the pet shop boy~
+The pet shop boy stands here cuddling something furry.
+~
+As you look at him, he opens his hands to reveal a rat!
+~
+26762 0 1000 S
+10 10 1 1d1+30000 6d8+15
+0 9000
+8 8 1
+#8290
+gnome summoner cleric svirfnebli~
+a gnome summoner~
+A deep gnome cleric is here attempting to summon something.
+~
+A large svirfnebli is here attempting to summon an elemental, until you disturb
+him. He has many objects of his holy worship on his body and he is sweating
+from the effort he has put into this summoning.  He doesn't look happy that you
+have entered the circle. He appears concerned and afraid of you at the same time.
+~
+34250762 1064 -1000 S
+55 20 9 1d6+30000 1d4+0
+0 100
+8 8 1
+#8291
+rat plague~
+a plague rat~
+An evil looking rat.
+~
+Its ugly and mean and evil..
+~
+163917 66600 -1000 S
+3 20 9 1d6+11 1d4+0
+0 100
+8 8 0
+#8292
+beagle~
+the beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+14 0 0 S
+2 19 8 1d12+22 1d6+0
+0 200
+8 8 0
+#8293
+rottweiler~
+the rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+14 0 0 S
+3 18 7 1d12+35 1d7+0
+0 800
+8 8 0
+#8294
+wolf~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+14 0 0 S
+4 17 6 1d12+47 1d8+0
+0 1600
+8 8 0
+#8295
+cryogenicist cryo~
+the cryogenicist~
+The cryogenicist is here, playing with a canister of liquid nitrogen.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+26635 32808 900 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
+#8296
+ceremonial guard svirnebli gnome~
+a ceremonial guard~
+A ceremonial guard stands here.
+~
+A guard stands here allowing no one to see the king.  His shiny armor and
+bright shield tell of a warrior that is more used to flash than fight, but
+you can see his muscles underneath the armor.  This guard is very serious
+about not permitting people to see his king unless they are summoned.
+~
+194606 65704 750 S
+35 5 -1 30d100+11000 9d9+22
+0 200000
+8 8 0
+#8297
+lone guard svirfnebli gnome deep~
+a lone svirfnebli guard~
+A lone deep gnome stands guard over the entrance.
+~
+   A lone guard stands here watching from the shadows.  He is 
+scared and tired and has been at his post for a long time.  He stands
+about 4 feet tall and is well armed.  He will stop you at all cost.
+~
+534542 66688 -750 S
+35 10 0 1d1+15000 9d9+20
+0 200000
+8 8 1
+#8298
+8298 globe~
+a globe of silence~
+It seems deathly quiet in here...
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8299
+clerical advisor segojan 8299~
+a clerical advisor of Segojan~
+A cleric of Segojan is here to advise the King.
+~
+ You see a cleric of Segojan that is here to help the king with spiritual
+matters.  A person of prominece, who has developed an inner power
+and skill that few rival.  He is also well educated in the arts of 
+intrigue, he is also well versed in the art of state.
+~
+190510 8396936 250 S
+51 11 -2 1d1+1 9d7+20
+0 0
+8 8 1
+#99999
+$~

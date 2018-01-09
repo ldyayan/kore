@@ -1,0 +1,36 @@
+#288
+Faerie Grounds (Adelai)~
+28899 30 1 0
+M 0 28809     3 28854            The birch tree
+M 1 28809     3 28854            The birch tree
+M 1 28809     3 28854            The birch tree
+M 0 28807     1 28880            Emhain
+M 1 28808     1 28880            The apple tree
+M 0 28803     6 28847            the Lady frog
+M 0 28803     6 28846            the Lady frog
+M 0 28803     6 28844            the Lady frog
+M 0 28803     6 28843            the Lady frog
+M 0 28803     6 28842            the Lady frog
+M 0 28803     6 28841            the Lady frog
+M 0 28803     6 28840            the Lady frog
+M 0 28803     6 28839            the Lady frog
+D 0 28837     3     2            Before a mysterious forest door west
+O 0 28802   100 28837            an old rotten sign
+M 0 28802    30 28812            a small spotted blue and green frog
+E 1 28801   100     3                    neck 1 a miniscule rusted key
+M 0 28802    30 28809            a small spotted blue and green frog
+M 0 28802    30 28808            a small spotted blue and green frog
+M 0 28802    30 28807            a small spotted blue and green frog
+M 0 28802    30 28806            a small spotted blue and green frog
+M 0 28802    30 28805            a small spotted blue and green frog
+M 0 28802    30 28804            a small spotted blue and green frog
+M 0 28802    30 28803            a small spotted blue and green frog
+M 0 28802    30 28811            a small spotted blue and green frog
+M 0 28802    30 28813            a small spotted blue and green frog
+M 0 28802    30 28814            a small spotted blue and green frog
+D 0 28815     1     2            An impenetrable bramble wall door east
+M 0 28801     1 28829            Jack in Irons
+D 0 28810     3     1            A clearing in the tunnel door west
+S
+#99999
+$~

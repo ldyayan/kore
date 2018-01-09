@@ -1,0 +1,109 @@
+#283
+Temple~
+28399 30 2 11
+M 0 28311     1 28300            roommob
+M 0 28314     6 28318            a young cleric
+M 0 28314     6 28318            a young cleric
+M 0 28314     6 28332            a young cleric
+M 0 28314     6 28332            a young cleric
+M 0 28314     6 28346            a young cleric
+M 0 28314     6 28346            a young cleric
+M 0 28308     4 28394            a manticore
+M 0 28308     4 28379            a manticore
+M 0 28308     4 28381            a manticore
+M 0 28308     4 28396            a manticore
+M 0 28313    10 28396            a deer
+M 0 28307     6 28389            a gryphon
+M 0 28307     6 28389            a gryphon
+M 0 28307     6 28384            a gryphon
+M 0 28307     6 28384            a gryphon
+M 0 28307     6 28391            a gryphon
+M 0 28307     6 28391            a gryphon
+M 0 28313    10 28369            a deer
+M 0 28313    10 28372            a deer
+M 0 28313    10 28370            a deer
+M 0 28313    10 28368            a deer
+M 0 28313    10 28363            a deer
+M 0 28313    10 28385            a deer
+O 0 28322   100 28397            obelisk
+M 0 28313    10 28365            a deer
+M 0 28309     4 28361            a bugbear
+M 0 28313    10 28361            a deer
+M 0 28310     2 28366            a spider
+M 0 28313    10 28366            a deer
+D 0 28302     3     1            Guard Room door west
+M 0 28312     2 28302            acolytes
+M 0 28312     2 28302            acolytes
+E 1 28301    50     5                    body scale mail
+D 0 28301     1     1            Guard Room door east
+M 0 28300     2 28301            acolytes
+E 1 28302    15    16                    wield footman mace
+M 0 28300     2 28301            acolytes
+M 0 28302     1 28340            the High Priest
+E 1 28305    50     5                    body a tunic
+E 1 28306    30    12                    about a black silk robe
+G 1 28314    25    -1                    give a storage key
+E 1 28393     5    16                    wield a caramel apple
+D 0 28340     0     1            Dark Alter door north
+M 0 28306     1 28360            a black dragon
+G 1 28318   100    -1                    give a grate key
+E 1 28300    10     3                    neck 1 a diamond necklace
+M 0 28309     4 28395            a bugbear
+M 0 28303     6 28309            a underpriest
+E 1 28310    25    17                    held a potion of fly
+M 0 28303     6 28310            a underpriest
+E 1 28310    25    17                    held a potion of fly
+M 0 28303     6 28308            a underpriest
+E 1 28310    25    17                    held a potion of fly
+M 0 28303     6 28307            a underpriest
+E 1 28310    25    17                    held a potion of fly
+M 0 28303     6 28306            a underpriest
+E 1 28310    25    17                    held a potion of fly
+M 0 28303     6 28305            a underpriest
+E 1 28310    25    17                    held a potion of fly
+M 0 28304     4 28320            a cleric
+E 1 28319    30     1                    left finger a snake ring
+O 0 28316   100 28343            a scarab chest
+P 1 28315    25 28316                    put a black silk bag in a scarab chest
+M 0 28301     2 28330            a undead guardian
+G 1 28312   100    -1                    give a chamber key
+E 1 28320     4    15                    right wrist silver wrist guard
+M 0 28301     2 28334            a undead guardian
+G 1 28313   100    -1                    give a cell key
+E 1 28320     4    14                    left wrist silver wrist guard
+O 0 28323   100 28350            a portal
+M 0 28304     4 28324            a cleric
+E 1 28321    25    15                    right wrist a scarab bracelet
+O 0 28311   100 28344            a chest
+P 1 28307    25 28311                    put a beeswax candle in a chest
+P 1 28308    25 28311                    put ceremonial garment in a chest
+P 1 28309    25 28311                    put a stick of incense in a chest
+O 0 28311   100 28303            a chest
+P 1 28317   100 28311                    put gold coins in a chest
+O 0 28311   100 28304            a chest
+P 1 28317   100 28311                    put gold coins in a chest
+M 0 28304     4 28338            a cleric
+D 0 28338     0     2            Grand Worship Hall door north
+M 0 28304     4 28316            a cleric
+D 0 28342     0     1            High Priest's Chambers door north
+D 0 28329     1     2            Grand Worship Hall door east
+D 0 28319     1     2            Grand Worship Hall door east
+D 0 28319     2     2            Grand Worship Hall door south
+D 0 28315     3     2            Grand Worship Hall door west
+D 0 28315     2     2            Grand Worship Hall door south
+D 0 28335     0     2            Grand Worship Hall door north
+D 0 28335     3     2            Grand Worship Hall door west
+D 0 28339     0     2            Grand Worship Hall door north
+D 0 28339     1     2            Grand Worship Hall door east
+D 0 28336     0     2            Grand Worship Hall door north
+M 0 28309     4 28390            a bugbear
+M 0 28309     4 28386            a bugbear
+M 0 28310     2 28383            a spider
+D 0 28355     5     2            A dirt path door down
+M 0 28305     4 28314            a prisoner
+M 0 28305     4 28313            a prisoner
+M 0 28305     4 28311            a prisoner
+M 0 28305     4 28312            a prisoner
+S
+#99999
+$~

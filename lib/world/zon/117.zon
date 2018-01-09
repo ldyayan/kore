@@ -1,0 +1,100 @@
+#117
+Three of Swords~
+11799 30 2 1
+M 0 11705     1 11775            Aglandiir
+G 1 11713    10    -1                    give a short sword
+O 0 11702     5 11775            a big zither
+O 0 11703     5 11775            a barrel of perfume
+O 0 11704     5 11775            a statue
+O 0 11705    25 11775            a halberd
+O 0 11706    25 11775            a potion of protection
+O 0 11707     1 11775            a dragon's crown
+M 0 11700     2 11746            the Farmer
+M 0 11700     2 11753            the Farmer
+D 0 11753     2     1            Small Road door south
+M 0 11701     1 11745            the Storekeeper
+G 1 11722    10    -1                    give a bag
+G 1 11723    10    -1                    give a candle
+G 1 11724    10    -1                    give a nail
+G 1 11725    10    -1                    give a pot
+M 0 11702     1 11747            the Cowgirl
+M 0 11703     4 11747            the Horse
+M 0 11703     4 11747            the Horse
+M 0 11703     4 11747            the Horse
+M 0 11703     4 11747            the Horse
+M 0 11704     1 11750            the Farmer's Wife
+G 1 11700    10    -1                    give an orange
+G 1 11701    10    -1                    give a bale of wheat
+G 1 11708    10    -1                    give an apple
+G 1 11709    10    -1                    give a loaf of bread
+G 1 11710    10    -1                    give a melon
+M 0 11706     3 11768            the Cyclops
+M 0 11706     3 11768            the Cyclops
+M 0 11706     3 11768            the Cyclops
+M 0 11707     1 11757            Salle
+E 1 11718    10     5                    body a leather vest
+E 1 11712    10    16                    wield a long sword
+M 0 11712     1 11757            a waiter
+M 0 11713     1 11757            a waitress
+M 0 11714     1 11757            a bartender
+G 1 11719    10    -1                    give a glass
+G 1 11720    10    -1                    give a glass
+G 1 11721    10    -1                    give a shot
+M 0 11718     2 11757            the Farmer
+M 0 11718     2 11757            the Farmer
+M 0 11719     1 11757            the hunter
+E 1 11717    10    17                    held a hunting bow
+M 0 11708     1 11730            Duwick
+E 1 11711    10    16                    wield a knife
+O 0 11716     3 11730            a crate
+O 0 11716     3 11730            a crate
+O 0 11716     3 11730            a crate
+D 0 11730     2     1            Cavern door south
+M 0 11709     1 11758            the Receptionist
+M 0 11710     1 11756            the innkeeper
+D 0 11756     2     1            Stanneg Inn door south
+M 0 11711     2 11749            the hunter
+E 1 11717    10    17                    held a hunting bow
+M 0 11711     2 11755            the hunter
+E 1 11717    10    17                    held a hunting bow
+D 0 11755     0     1            Main Road door north
+M 0 11715     9 11719            the bandit
+E 1 11715    10    16                    wield a scimitar
+M 0 11715     9 11723            the bandit
+E 1 11715    10    16                    wield a scimitar
+O 0 11715     2 11723            a scimitar
+O 0 11715     2 11723            a scimitar
+M 0 11715     9 11725            the bandit
+E 1 11715    10    16                    wield a scimitar
+M 0 11715     9 11727            the bandit
+E 1 11715    10    16                    wield a scimitar
+M 0 11715     9 11727            the bandit
+E 1 11715    10    16                    wield a scimitar
+M 0 11715     9 11732            the bandit
+E 1 11715    10    16                    wield a scimitar
+M 0 11715     9 11736            the bandit
+E 1 11715    10    16                    wield a scimitar
+M 0 11715     9 11739            the bandit
+E 1 11715    10    16                    wield a scimitar
+M 0 11715     9 11721            the bandit
+E 1 11715    10    16                    wield a scimitar
+M 0 11716     5 11729            the bandit guard
+E 1 11715    10    16                    wield a scimitar
+M 0 11716     5 11729            the bandit guard
+E 1 11715    10    16                    wield a scimitar
+D 0 11729     0     1            End of the Passageway door north
+M 0 11716     5 11740            the bandit guard
+E 1 11715    10    16                    wield a scimitar
+M 0 11716     5 11740            the bandit guard
+E 1 11715    10    16                    wield a scimitar
+M 0 11717     2 11740            the slave
+M 0 11717     2 11740            the slave
+M 0 11716     5 11717            the bandit guard
+E 1 11715    10    16                    wield a scimitar
+O 0 11714     1 11704            a dismembered and burnt corpse
+D 0 11751     1     1            Small Road door east
+D 0 11752     3     1            Private Home door west
+D 0 11754     0     1            Private Home door north
+S
+#99999
+$~

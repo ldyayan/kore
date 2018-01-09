@@ -1,0 +1,15 @@
+>rand_prog 5~
+  if isfight($i)
+  else
+    mpasound $i You hear the sound of laughter nearby.
+    laugh
+  endif
+~
+>rand_prog 5~
+  if isfight($i)
+  else
+    mpasound $i You hear the sound of horseplay nearby.
+    mpecho $I horseplays.
+  endif
+~
+|

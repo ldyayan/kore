@@ -1,0 +1,526 @@
+#10800
+dummy room~
+You are in an unfinished room.
+~
+108 0 0
+D0
+~
+~
+0 0 10822
+S
+#10801
+The hallway~
+You are standing at the south end of the hallway.
+~
+108 192 0
+D0
+~
+~
+0 0 10806
+D2
+~
+~
+0 0 10811
+S
+#10802
+The hallway~
+You are at the south end of the hallway.
+~
+108 192 0
+D0
+~
+~
+0 0 10807
+D2
+~
+~
+0 0 10812
+S
+#10803
+The hallway~
+You are at the south end of the hallway.
+~
+108 192 0
+D0
+~
+~
+0 0 10808
+D2
+~
+~
+0 0 10812
+S
+#10804
+The hallway~
+You are at the south end of the hallway.
+~
+108 192 0
+D0
+~
+~
+0 0 10809
+D2
+~
+~
+0 0 10812
+S
+#10805
+The hallway~
+You are at the south end of the hallway.
+~
+108 192 0
+D0
+~
+~
+0 0 10810
+D2
+~
+~
+0 0 10812
+S
+#10806
+The hallway~
+You are at the north end of the hallway.
+~
+108 192 0
+D2
+~
+~
+0 0 10802
+S
+#10807
+The hallway~
+You are at the north end of the hallway.
+~
+108 192 0
+D2
+~
+~
+0 0 10803
+S
+#10808
+The hallway~
+You are at the north end of the hallway.
+~
+108 192 0
+D2
+~
+~
+0 0 10804
+S
+#10809
+The hallway~
+You are at the north end of the hallway.
+~
+108 192 0
+D2
+~
+~
+0 0 10805
+S
+#10810
+The hallway~
+You are at the north end of the hallway.
+~
+108 192 0
+D0
+Now where did THAT come from?
+~
+wavering door~
+1 0 10812
+D2
+~
+~
+0 0 10805
+S
+#10811
+Entering the Hallway~
+Grats!
+~
+108 192 0
+D0
+~
+~
+0 0 10801
+S
+#10812
+Exiting the Hallway~
+Yay!
+~
+108 192 0
+D0
+~
+~
+0 0 10801
+S
+#10813
+Entering the formless maze~
+Heh heh heh...
+~
+108 192 0
+S
+#10814
+In the shapeless vortex...~
+You are surrounded by nothing, and suspended in a gelatin-like substance.
+Directions blend, and your mind aches as reality bends away.
+~
+108 193 0
+D0
+~
+~
+0 0 10814
+D1
+~
+~
+0 0 10814
+D2
+~
+~
+0 0 10814
+D3
+~
+~
+0 0 10814
+D4
+~
+~
+0 0 10814
+D5
+~
+~
+0 0 10814
+D6
+~
+~
+0 0 10814
+D7
+~
+~
+0 0 10815
+D8
+~
+~
+0 0 10814
+D9
+~
+~
+0 0 10814
+S
+#10815
+In the shapeless vortex...~
+You are surrounded by nothing, and suspended in a gelatin-like substance.
+Directions blend, and your mind aches as reality bends away.
+~
+108 193 0
+D0
+~
+~
+0 0 10814
+D1
+~
+~
+0 0 10814
+D2
+~
+~
+0 0 10815
+D3
+~
+~
+0 0 10814
+D4
+~
+~
+0 0 10814
+D5
+~
+~
+0 0 10816
+D6
+~
+~
+0 0 10814
+D7
+~
+~
+0 0 10815
+D8
+~
+~
+0 0 10814
+D9
+~
+~
+0 0 10815
+S
+#10816
+In the shapeless vortex...~
+You are surrounded by nothing, and suspended in a gelatin-like substance.
+Directions blend, and your mind aches as reality bends away.
+~
+108 193 0
+D0
+~
+~
+0 0 10817
+D1
+~
+~
+0 0 10815
+D2
+~
+~
+0 0 10816
+D3
+~
+~
+0 0 10815
+D4
+~
+~
+0 0 10815
+D5
+~
+~
+0 0 10814
+D6
+~
+~
+0 0 10816
+D7
+~
+~
+0 0 10815
+D8
+~
+~
+0 0 10815
+D9
+~
+~
+0 0 10816
+S
+#10817
+In the shapeless vortex...~
+You are surrounded by nothing, and suspended in a gelatin-like substance.
+Directions blend, and your mind aches as reality bends away.
+~
+108 193 0
+D0
+~
+~
+0 0 10816
+D1
+~
+~
+0 0 10817
+D2
+~
+~
+0 0 10816
+D3
+~
+~
+0 0 10817
+D4
+~
+~
+0 0 10818
+D5
+~
+~
+0 0 10814
+D6
+~
+~
+0 0 10816
+D7
+~
+~
+0 0 10816
+D8
+~
+~
+0 0 10816
+D9
+~
+~
+0 0 10817
+S
+#10818
+In the shapeless vortex...~
+You are surrounded by nothing, and suspended in a gelatin-like substance.
+Directions blend, and your mind aches as reality bends away.
+~
+108 193 0
+D0
+~
+~
+0 0 10817
+D1
+~
+~
+0 0 10818
+D2
+~
+~
+0 0 10817
+D3
+~
+~
+0 0 10817
+D4
+~
+~
+0 0 10817
+D5
+~
+~
+0 0 10818
+D6
+~
+~
+0 0 10819
+D7
+~
+~
+0 0 10814
+D8
+~
+~
+0 0 10817
+D9
+~
+~
+0 0 10818
+S
+#10819
+In the shapeless vortex...~
+You are surrounded by nothing, and suspended in a gelatin-like substance.
+Directions blend, and your mind aches as reality bends away.
+~
+108 193 0
+D0
+~
+~
+0 0 10820
+D1
+~
+~
+0 0 10818
+D2
+~
+~
+0 0 10818
+D3
+~
+~
+0 0 10819
+D4
+~
+~
+0 0 10818
+D5
+~
+~
+0 0 10819
+D6
+~
+~
+0 0 10814
+D7
+~
+~
+0 0 10818
+D8
+~
+~
+0 0 10819
+D9
+~
+~
+0 0 10818
+S
+#10820
+In the shapeless vortex...~
+You are surrounded by nothing, and suspended in a gelatin-like substance.
+Directions blend, and your mind aches as reality bends away.
+~
+108 193 0
+D0
+~
+~
+0 0 10820
+D1
+~
+~
+0 0 10821
+D2
+~
+~
+0 0 10820
+D3
+~
+~
+0 0 10819
+D4
+~
+~
+0 0 10814
+D5
+~
+~
+0 0 10819
+D6
+~
+~
+0 0 10819
+D7
+~
+~
+0 0 10819
+D8
+~
+~
+0 0 10820
+D9
+~
+~
+0 0 10819
+S
+#10821
+Exiting the vortex~
+Gravity! Air! Light! YES!
+You rejoice as reality reassembles itself.
+~
+108 192 0
+S
+#10822
+An unfinished room.~
+It looks unfinished.
+~
+108 0 0
+D2
+~
+~
+0 0 10800
+S
+#10888
+A dark deep pit~
+You are surrounded by air, which is surrounded by dirt.
+Lots and lots of it.
+There doesn't appear to be much to do here, except wonder what you did
+to deserve such a fate.
+~
+108 131465 0
+S
+#10899
+Inside the couch beast~
+You are surrounded by stuffing and springs, and can hardly move. The couch
+beast's insides are dank and smelly. You see some spare change wedged between the cushions.
+
+~
+108 131081 0
+S
+#99999
+$~

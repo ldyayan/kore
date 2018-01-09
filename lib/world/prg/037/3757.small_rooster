@@ -1,0 +1,31 @@
+>rand_prog 5~
+  emote clucks and pecks around for some grain.
+~
+>rand_prog 5~
+  strut
+~
+>rand_prog 5~
+  emote cock-a-doodle-doos.
+~
+>rand_prog 1~
+  mpmload 3758
+  mpgoto cleaner
+~
+>death_prog 100~
+  if rand(50)
+    mpoload 3703
+  endif
+  if rand(50)
+    mpoload 3702
+  endif
+  if rand(50)
+    mpoload 3702
+  endif
+  if rand(50)
+    mpoload 3704
+  endif
+  if rand(50)
+    mpoload 3704
+  endif
+~
+|

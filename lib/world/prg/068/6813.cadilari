@@ -1,0 +1,91 @@
+>greet_prog 100~
+  if ispc($n)
+    if isimmort($n)
+      bow $n
+    else
+     say Hey, I have some stories to tell. But I need 100 coins first?
+     emote grins 
+  endif
+endif
+~
+
+>give_prog wine fine white bottle~
+ if isscript($i)
+  else
+    emote pops the cork and takes a few swigs of wine.
+    mpsilent junk wine
+    burp
+    say Oh so sorry, here you go.
+    mpoload 6824
+    give vial $n
+  endif
+~
+
+>bribe_prog 100~
+  if isscript($i)
+  else
+    mptrigger $n ramble
+  endif
+~
+
+>script_prog ramble~
+ peer
+@
+@
+ say Well it all started back when that two bit wanna be King tried to back out of his priorities.
+@
+@
+ say Thank the Gods the Goddess of the Temple traveled into town.
+@
+@
+ say But it was not enough. Not for the mighty King who wanted his way.
+@
+@
+ say Sure it was ok for awhile. Then the shit hit the fan when that shady fellow became the King's right hand man.
+@
+@ 
+ say Shhh! But that shady fellow still lives in town. He roams the streets looking for anyone with a little bit of gold he can steal.
+@
+@
+ say I have a safe here to keep your coins in if you so choose.
+@
+@
+ say Anyways.
+@
+ cough
+@
+ say One cold stormy night the fight began in the Temple. The shady fellow was behind it, I am sure of it.
+@
+@
+ say The King and the Goddess went at it. The lightning roared around the Temple. 
+@
+@
+ say Killing anyone and anything in its way. 
+@
+@
+ say Alot of the towns people didn't make it, however a few were able to flee the city.
+@
+@
+ say Out of the ones that did not flee the city, only myself and that shady fellow is left. 
+@
+@
+ say The rest of the people where killed along with all the guards. I am not sure what happen to the goddess or the king.
+@
+@
+ say Word has it they are alive and well, ruling over other realms.
+@
+@
+ say Bottom line is this town is full of the ghosts that did not make it. 
+@
+@
+ say I stay cause this is my home. You are welcome to spend the night here. You are safe in here.
+@
+@
+ say But do watch yourself out in town. Beware of them shards! Do not look at them, you have been warned!
+@
+@
+ emote collects herself and goes about keeping herself busy.
+@
+say Hey, I can give you a vial of detect invisible if you bring me a bottle of fine white wine from the south part of town.
+~
+|

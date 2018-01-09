@@ -1,0 +1,17 @@
+>rand_prog 5~
+  emote clucks and pecks around for some grain.
+~
+>rand_prog 5~
+  strut
+~
+>rand_prog 5~
+  emote cock-a-doodle-doos.
+~
+>death_prog 100~
+  mpoload 3703
+  mpoload 3702
+  mpoload 3702
+  mpoload 3704
+  mpoload 3704
+~
+|

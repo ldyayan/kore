@@ -1,0 +1,14 @@
+>rand_prog 100~
+  case rand
+    < 10
+          cast 'fireball' $r
+          break
+    < 20
+          cast 'lightning bolt' $r
+          break
+    < 30
+          cast 'dispel sanct' $r
+          break
+  esac
+~
+|

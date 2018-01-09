@@ -1,0 +1,146 @@
+#166
+Blithe (Balinor)~
+16699 40 1 3
+R 0 16636 16609    -1            remove a huge copper chest
+R 0 16636 16614    -1            remove some green poisonous gas
+M 0 16609     1 16636            Pickett, the Master Thief
+E 1 16604   101    17                    held a small ^ybronze^n key
+E 1 16635    10    16                    wield the ^Wdiamond^n dagger, 'Sneak'
+O 0 16609   101 16636            a huge copper chest
+P 1 16610   101 16609                    put a big ^ybronze^n chest in a huge copper chest
+P 1 16611   101 16610                    put a ^Wsilver^n chest in a big ^ybronze^n chest
+P 1 16612   101 16611                    put a small ^Ygold^n chest in a ^Wsilver^n chest
+P 1 16613   101 16612                    put the small ^Rruby^n key to Kickshaw's den in a small ^Ygold^n chest
+D 0 16636     7     2            Pickett, the Master Thief's hideout door southeast
+M 0 16617     1 16661            Emock, queen of the eagles
+G 1 16624   100    -1                    give a small speckled ^Bblue^n and ^Wwhite^n egg.
+G 1 16625   100    -1                    give a small striped ^Rred^n and ^Ggreen^n egg
+G 1 16626   100    -1                    give a ^Ygold^n and ^Wsilver^n spotted egg
+G 1 16624    80    -1                    give a small speckled ^Bblue^n and ^Wwhite^n egg.
+G 1 16625    80    -1                    give a small striped ^Rred^n and ^Ggreen^n egg
+G 1 16626    80    -1                    give a ^Ygold^n and ^Wsilver^n spotted egg
+G 1 16624    50    -1                    give a small speckled ^Bblue^n and ^Wwhite^n egg.
+G 1 16625    50    -1                    give a small striped ^Rred^n and ^Ggreen^n egg
+G 1 16626    50    -1                    give a ^Ygold^n and ^Wsilver^n spotted egg
+E 1 16627   101     6                    head a giant eagles beak
+M 0 16623     5 16661            a small eagle chick
+M 0 16623     5 16661            a small eagle chick
+M 0 16623     5 16661            a small eagle chick
+M 0 16623     5 16661            a small eagle chick
+M 0 16623     5 16661            a small eagle chick
+R 0 16695 16641    -1            remove a huge wooden chest
+O 0 16641   101 16695            a huge wooden chest
+P 1 16642   101 16641                    put a huge pile of ^Ygold^n coins in a huge wooden chest
+O 0 16631   101 16668            Grock's large marble throne
+M 0 16619     1 16668            Grock, the small green chillin' machine
+E 1 16605   101    17                    held a small copper key
+M 0 16627     1 16668            awakening man
+R 0 16668 16640    -1            remove a tunnel of light
+D 0 16694     3     1            A small stone ledge door west
+D 0 16667     1     1            The entrance hall of a small stone castle door east
+M 0 16629     1 16664            the !flee mob
+O 0 16615   100 16640            the heart of Blithe
+M 0 16613     1 16640            Kickshaw, the raging Demon.
+E 1 16617    80     1                    left finger a ring crafted from solid ^wivory^n
+E 1 16616     5    16                    wield the almighty sword of '^BB^Gl^N^Yi^N^Rth^N^Yi^N^Ga^N^Bn^N' power
+D 0 16640     4     2            Kickshaw's den door up
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16624    15 16640            a trapped spirit
+M 0 16625     1 16691            a preist dressed in white
+G 1 16636   101    -1                    give a small wooden crucifix
+M 0 16621     1 16680            the Mayor's private guard
+E 1 16633   101    17                    held a woven spider web key
+D 0 16680     0     2            The Mayor's front room door north
+D 0 16639     5     2            Inside the huge oak door down
+O 0 16639   101 16639            a small golden plaque
+M 0 16626     1 16693            the sleeper man
+D 0 16693     4     1            A dark room door up
+D 0 16692     5     1            A lavishly decorated tree house door down
+M 0 16628     1 16692            the beautiful woman
+D 0 16653     4     1            On a small rope bridge door up
+O 0 16630   101 16663            a swirling ^Bblue^n vortex
+O 0 16034   101 16647            a wooden longbow
+O 0 16621   101 16647            a mighty ^Ygolden^n bow
+O 0 16622   101 16647            a small elm bow
+M 0 16606    10 16670            a fat wandering guard
+D 0 16681     2     2            The Mayor of Blithe's study door south
+M 0 16622     1 16681            the Mayor of Blithe
+E 1 16608   101    17                    held a small ^Ygold^n key
+E 1 16634    25     5                    body a waistcoat of minks fur
+D 0 16681     1     2            The Mayor of Blithe's study door east
+D 0 16682     3     2            The Mayors secret portal room door west
+D 0 16630     9     2            A small wooden hut door northwest
+O 0 16600   101 16611            the gates to Blithe
+M 0 16602     2 16611            a Blithian guard
+M 0 16601     1 16611            the Blithe Guardian
+E 1 16606    15     5                    body ^Gemerald^n armor with ^Csapphire^n studding
+M 0 16603     1 16615            the Blithian Bow Master
+E 1 16603    40     6                    head a dull ^bblue^n hat
+E 1 16602     5    18                    ready a Mighty ^BB^N^Gl^N^Yi^N^Rth^N^Yi^N^Ga^N^Bn^N Bow
+M 0 16620     1 16679            the Blithian receptionist
+M 0 16618     1 16662            a tired old man
+E 1 16629   101    17                    held a large elm key
+D 0 16662     5     2            A small tree house door down
+O 0 16628   101 16656            an opening in the chimney
+O 0 16623   101 16655            a small chimney
+M 0 16606     5 16649            a fat wandering guard
+M 0 16605     5 16649            a Blithian villager
+M 0 16616     6 16649            a small blithian boy
+M 0 16616     4 16612            a small blithian boy
+M 0 16616     4 16612            a small blithian boy
+M 0 16616     3 16643            a small blithian boy
+M 0 16615     1 16646            the Blithian Fletcher
+O 0 16045   101 16645            a scroll of recall
+O 0 16618   101 16645            a softly glowing scroll
+O 0 16619   101 16645            a burnt oak staff
+O 0 16620   101 16645            a set of brass knuckles
+M 0 16614     1 16644            the Blithian Magician
+D 0 16637     2     2            Inside the huge oak door south
+M 0 16608     1 16635            Kickshaw's guardian demon
+E 1 16607   100    17                    held a small ^Wsilver^n key
+D 0 16635     0     2            Before the huge tree door north
+M 0 16611     3 16628            a small tree imp
+D 0 16627     3     1            Lost and helpless in the darkness door west
+D 0 16627     4     1            Lost and helpless in the darkness door up
+M 0 16611     2 16627            a small tree imp
+D 0 16629     3     1            Lost and helpless in the darkness door west
+M 0 16610     2 16629            a small tree imp
+M 0 16610     2 16622            a small tree imp
+D 0 16620     3     1            Lost and helpless in the darkness door west
+D 0 16620     1     1            Lost and helpless in the darkness door east
+M 0 16607     3 16620            a small tree imp
+D 0 16624     5     1            Lost and helpless in the darkness door down
+M 0 16607     2 16624            a small tree imp
+D 0 16626     1     1            Lost and helpless in the darkness door east
+D 0 16626     4     1            Lost and helpless in the darkness door up
+D 0 16626     2     1            Lost and helpless in the darkness door south
+M 0 16607     2 16625            a small tree imp
+M 0 16606     4 16616            a fat wandering guard
+M 0 16605     4 16619            a Blithian villager
+D 0 16623     1     1            Lost and helpless in the darkness door east
+O 0 23516   101 16618            a scone
+O 0 16009   101 16618            a loaf of waybread
+O 0 23512   101 16618            a cookie
+O 0 23513   101 16618            a slice of cake
+O 0 16011   101 16618            an apple pastry
+O 0 23515   101 16618            a crumpet
+M 0 16604     1 16617            a small Brithian baker
+D 0 16608     5     1            Climbing the rotten rope ladder door down
+M 0 16600     1 16603            a small squirrel
+O 0 16601   101 16601            a rotten sign
+S
+#99999
+$~

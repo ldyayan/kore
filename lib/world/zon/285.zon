@@ -1,0 +1,95 @@
+#285
+Jitter Park (Ayana)~
+28599 15 2 33
+O 0 28500   100 28526            a wooden bench
+M 0 28506     2 28526            a girl
+E 1 28515   100     5                    body a dress
+E 1 28507     6    21                    ears silver earrings
+M 0 28505     2 28526            a boy
+E 1 28516   100     5                    body a shirt
+E 1 28517   100     7                    legs a pair of pants
+E 1 28506    50    17                    held a yoyo
+M 0 28502     1 28500            a guard
+E 1 28503    25    16                    wield a sword enlayed with green gems
+M 0 28513     6 28501            a squirrel
+M 0 28513     6 28501            a squirrel
+M 0 28513     6 28556            a squirrel
+M 0 28513     6 28556            a squirrel
+M 0 28513     6 28509            a squirrel
+M 0 28513     6 28509            a squirrel
+O 0 28502   100 28509            a tree
+M 0 28509     4 28511            a bird
+G 1 28509    50    -1                    give a feather
+M 0 28509     4 28511            a bird
+M 0 28512     4 28549            a ant
+M 0 28512     4 28503            a ant
+M 0 28512     4 28503            a ant
+M 0 28511    10 28553            a rabbit
+M 0 28511    10 28553            a rabbit
+O 0 28514   100 28548            leaves
+M 0 28511    10 28548            a rabbit
+M 0 28511    10 28545            a rabbit
+M 0 28511    10 28545            a rabbit
+M 0 28511    10 28545            a rabbit
+M 0 28511    10 28512            a rabbit
+M 0 28511    10 28512            a rabbit
+M 0 28511    10 28530            a rabbit
+M 0 28508     2 28577            a frog
+G 1 28508    50    -1                    give frog legs
+M 0 28501     6 28592            a fish
+O 0 28514   100 28543            leaves
+O 0 28514     0 28555            leaves
+O 0 28514   100 28535            leaves
+O 0 28514   100 28560            leaves
+O 0 28514   100 28564            leaves
+O 0 28514   100 28568            leaves
+O 0 28514   100 28572            leaves
+M 0 28507     2 28524            a cat
+E 1 28513    50    17                    held a claw
+O 0 28500   100 28524            a wooden bench
+M 0 28508     2 28528            a frog
+M 0 28503     2 28514            a fly
+M 0 28503     2 28514            a fly
+M 0 28507     2 28519            a cat
+M 0 28500     2 28554            a butterfly
+M 0 28500     2 28542            a butterfly
+M 0 28509     4 28531            a bird
+G 1 28509    50    -1                    give a feather
+M 0 28509     4 28531            a bird
+O 0 28511   100 28561            a bird feeder
+P 1 28512    50 28511                    put seeds in a bird feeder
+O 0 28502   100 28561            a tree
+O 0 28511   100 28565            a bird feeder
+P 1 28512    50 28511                    put seeds in a bird feeder
+O 0 28502   100 28565            a tree
+O 0 28511   100 28569            a bird feeder
+P 1 28512    50 28511                    put seeds in a bird feeder
+O 0 28502   100 28569            a tree
+O 0 28511   100 28557            a bird feeder
+O 0 28502   100 28557            a tree
+P 1 28512    50 28511                    put seeds in a bird feeder
+O 0 28500   100 28510            a wooden bench
+M 0 28510     2 28510            a dog
+E 1 28510    50     3                    neck 1 a collar
+O 0 28500   100 28516            a wooden bench
+M 0 28504     2 28516            a mouse
+E 1 28505    50    16                    wield a mouse tail
+O 0 28500   100 28571            a wooden bench
+O 0 28500   100 28567            a wooden bench
+O 0 28500   100 28563            a wooden bench
+O 0 28500   100 28559            a wooden bench
+O 0 28502   100 28517            a tree
+O 0 28502   100 28525            a tree
+O 0 28500   100 28508            a wooden bench
+O 0 28500   100 28518            a wooden bench
+O 0 28500   100 28532            a wooden bench
+O 0 28500   100 28502            a wooden bench
+M 0 28501     6 28578            a fish
+M 0 28501     6 28574            a fish
+M 0 28501     6 28596            a fish
+M 0 28501     6 28582            a fish
+M 0 28501     6 28582            a fish
+O 0 28501   100 28581            a spring
+S
+#99999
+$~

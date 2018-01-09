@@ -1,0 +1,1993 @@
+#4700
+Entrance to the Bardic Colleges~
+   As the shimmering light recedes from your vision, you find
+yourself in a circular room with a transporter in the northern portion of
+the room.  A faint odor of rot and decay wafts in from the north-east.
+To the south-west you see a sign over the door, 'Bardic College Supply
+Shop'.  Over the door to the north-west you see, 'Prep Room'. 
+There is an informative poster here on one wall, you may wish to read it.
+On another wall here is a memorial plaque.  May you enjoy your
+visit here to the Bardic Colleges and may you be up to the challenges
+ahead of you.  There are also a pair of stairs leading down to your hometown.
+~
+47 8 0
+D6
+~
+~
+0 0 4702
+D8
+~
+~
+0 0 4703
+D9
+~
+~
+0 0 4701
+S
+#4701
+Preparation Room~
+   This room has several posters on each wall describing the
+Folchlucan, Doss, Canaith, Cli, Anstruth, and Ollamh colleges and 
+offering some advice on what you might do to prepare.  Type 'look 
+<name of college>' to get information on a specific college.
+~
+47 8 0
+D7
+~
+~
+0 0 4700
+S
+#4702
+The Hall of Failure~
+   You have failed your test, and here you can see your remains.  
+Pick up what belongs to you and return when you are more prepared
+for your task.
+~
+47 9 0
+D8
+~
+~
+0 0 4700
+S
+#4703
+Bardic College Supply Shop~
+   As you enter this rather small store, you see many shelves
+filled with various books and items.  Everything in this store is a bit
+overpriced, as you realize, but what can you do about monopolies on
+the Bardic College campus?  A retired bard sits behind the counter
+reading an old book.  He glances up at you, happy to help you out.
+~
+47 24 0
+D6
+~
+~
+0 0 4700
+S
+#4704
+Standing inside the Fochlucan College Building~
+   You are standing inside the Fochlucan Building.  You realize
+that you are already ten minutes late for your training, which would not
+normally be a problem, except for the facts that you are new to the school
+and that you have lost your map.  This building is huge with many maze-like
+hallways.  Hope your instructor is sympathetic....
+~
+47 8 0
+D3
+~
+~
+0 0 4714
+S
+#4705
+Classroom~
+   This classroom is like many other classrooms you've been in
+before. Not surprisingly, the students are asleep.  You muffle a laugh as
+you notice that the instructor is asleep as well.
+~
+47 8 0
+D0
+~
+~
+0 0 4706
+S
+#4706
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like fashion. You 
+also notice that it looks strangely familiar, as if you've been down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4707
+D2
+~
+~
+0 0 4705
+D3
+~
+~
+0 0 4716
+S
+#4707
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4708
+D2
+~
+~
+0 0 4706
+S
+#4708
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4709
+D2
+~
+~
+0 0 4707
+D3
+~
+~
+0 0 4718
+S
+#4709
+Classroom~
+   This classroom is like many other classrooms you've been in
+before. not surprisingly, the students are asleep.  You muffle a laugh as
+you notice that the instructor is asleep as well.
+~
+47 8 0
+D2
+~
+~
+0 0 4708
+S
+#4710
+Principal's Office~
+   You have entered a rather large office filled with plush office
+furniture.  In the middle of the room is a huge mahogany desk with
+a coffee cup, a pencil holder, and an ancient globe of the
+Midgaard world on it.  In the corner is a large filing cabinet
+which you are sure contains your student files, as well as some other
+objects of interest. Wonder what those files say about you?
+~
+47 8 0
+D0
+~
+~
+0 0 4711
+S
+#4711
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4801
+D2
+~
+~
+0 0 4710
+D3
+~
+~
+0 0 4731
+S
+#4712
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like fashion.  You 
+also notice that it looks strangely familiar, as if you've been down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4713
+D3
+~
+~
+0 0 4722
+S
+#4713
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D2
+~
+~
+0 0 4712
+D3
+~
+~
+0 0 4723
+S
+#4714
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4704
+D2
+~
+~
+0 0 4723
+D3
+~
+~
+0 0 4724
+S
+#4715
+Bathroom~
+   Phew!  What an awful smell, as if the sewers of this old
+building have been backed up for the entire history of the school!  But when
+you gotta go....  Perhaps you should watch your step in those
+stalls and not go down.  You have no idea what could be down there.
+~
+47 8 0
+D3
+~
+~
+0 0 4725
+D5
+~
+~
+0 0 4734
+S
+#4716
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4706
+D3
+~
+~
+0 0 4726
+S
+#4717
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4718
+D3
+~
+~
+0 0 4727
+S
+#4718
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4719
+D1
+~
+~
+0 0 4708
+D2
+~
+~
+0 0 4717
+S
+#4719
+Classroom~
+   This classroom is like many other classrooms you've been in
+before.  Not surprisingly, the students are asleep.  You muffle a laugh as
+you notice that the instructor is asleep as well.
+~
+47 8 0
+D2
+~
+~
+0 0 4718
+S
+#4720
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4721
+D3
+~
+~
+0 0 4730
+S
+#4721
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D2
+~
+~
+0 0 4720
+D3
+~
+~
+0 0 4731
+S
+#4722
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4712
+D3
+~
+~
+0 0 4732
+S
+#4723
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4714
+D1
+~
+~
+0 0 4713
+S
+#4724
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4725
+D1
+~
+~
+0 0 4714
+D2
+~
+~
+0 0 4733
+S
+#4725
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4715
+D2
+~
+~
+0 0 4724
+D3
+~
+~
+0 0 4735
+S
+#4726
+Library Check-Out Counter~
+   Step up to the counter please, and be sure to have your school
+ID ready to check out those books.  Thank you for using the
+Fochlucan College library and have a nice day! 
+~
+47 8 0
+D1
+~
+~
+0 0 4716
+D3
+~
+~
+0 0 4736
+S
+#4727
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4728
+D1
+~
+~
+0 0 4717
+S
+#4728
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4729
+D2
+~
+~
+0 0 4727
+S
+#4729
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D2
+~
+~
+0 0 4728
+D3
+~
+~
+0 0 4739
+S
+#4730
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion.  You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4720
+D3
+~
+~
+0 0 4740
+S
+#4731
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4721
+D3
+~
+~
+0 0 4711
+S
+#4732
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4722
+D3
+~
+~
+0 0 4742
+S
+#4733
+Classroom~
+   This classroom is like many other classrooms you've been in
+before. Not surprisingly, the students are asleep.  You muffle a laugh as
+you notice that the instructor is asleep as well.
+~
+47 8 0
+D3
+~
+~
+0 0 4743
+S
+#4734
+FLUSHED DOWN the Toilet!!!~
+   Wheeeeeeeeeeeeeeeeeeeeeeee!!!
+This is fun! All the bubbling water!  All the.....
+Wait!!  There's no air!!  AAARRRGGGHHHH!!!  You can't breathe in
+here. You helplessly plummet down a dark hole to a bottomless abyss that 
+smells like hell.  Perhaps it is!  ARGH!  Weren't you warned not to
+go down the toilet?
+~
+47 10 0
+D4
+~
+~
+0 0 4715
+S
+#4735
+Library Entrance~
+   You have entered the massive library of the Fochlucan College. 
+Shelves of books span before you and disappear around corners.  You could
+easily get lost among the stacks looking for a particular book.  Above the
+entrance is a sign reminding you to please check out your books before
+leaving the library.
+~
+47 8 0
+D0
+~
+~
+0 0 4738
+D1
+~
+~
+0 0 4725
+D2
+~
+~
+0 0 4748
+D3
+~
+~
+0 0 4745
+S
+#4736
+Library~
+   Shelves of books in front of you.  Shelves of books behind you.
+Long rows of shelves to the sides of you.  All of these isles of
+books are beginning to look the same.  Uh oh!  You think you are lost....
+~
+47 8 0
+D0
+~
+~
+0 0 4736
+D1
+~
+~
+0 0 4738
+D2
+~
+~
+0 0 4737
+D3
+~
+~
+0 0 4746
+S
+#4737
+Library~
+   Shelves of books in front of you.  Shelves of books behind you.
+Long rows of shelves to the sides of you.  All of these isles of
+books are beginning to look the same.  Uh oh!  You think you are lost....
+~
+47 8 0
+D0
+~
+~
+0 0 4738
+D1
+~
+~
+0 0 4737
+D2
+~
+~
+0 0 4748
+D3
+~
+~
+0 0 4747
+S
+#4738
+Library~
+   Shelves of books in front of you.  Shelves of books behind you.
+Long rows of shelves to the sides of you.  All of these isles of
+books are beginning to look the same.  Uh oh!  You think you are lost....
+~
+47 8 0
+D0
+~
+~
+0 0 4746
+D1
+~
+~
+0 0 4737
+D2
+~
+~
+0 0 4737
+D3
+~
+~
+0 0 4738
+S
+#4739
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4729
+D3
+~
+~
+0 0 4749
+S
+#4740
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4741
+D1
+~
+~
+0 0 4730
+S
+#4741
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D2
+~
+~
+0 0 4740
+D5
+~
+~
+0 0 4751
+S
+#4742
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4732
+D3
+~
+~
+0 0 4752
+S
+#4743
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4733
+D3
+~
+~
+0 0 4753
+S
+#4744
+Out of the Library~
+   Congratulations!  You've managed to sneak past the librarians
+without checking out your books.  Unfortunately, you might find yourself
+having to reenter the library at some time.  Let's hope the librarians
+cannot detect those books on you, and perhaps you should check out next
+time.
+~
+47 8 0
+D2
+~
+~
+0 0 4753
+S
+#4745
+Library~
+   Shelves of books in front of you.  Shelves of books behind you.
+Long rows of shelves to the sides of you.  All of these isles of
+books are beginning to look the same.  Uh oh!  You think you are lost....
+~
+47 8 0
+D0
+~
+~
+0 0 4745
+D1
+~
+~
+0 0 4735
+D2
+~
+~
+0 0 4744
+D3
+~
+~
+0 0 4746
+S
+#4746
+Library~
+   Shelves of books in front of you.  Shelves of books behind you.
+Long rows of shelves to the sides of you.  All of these isles of
+books are beginning to look the same.  Uh oh!  You think you are lost....
+~
+47 8 0
+D0
+~
+~
+0 0 4747
+D1
+~
+~
+0 0 4736
+D2
+~
+~
+0 0 4745
+D3
+~
+~
+0 0 4744
+S
+#4747
+Library~
+   Shelves of books in front of you.  Shelves of books behind you.
+Long rows of shelves to the sides of you.  All of these isles of
+books are beginning to look the same.  Uh oh!  You think you are lost....
+~
+47 8 0
+D0
+~
+~
+0 0 4746
+D1
+~
+~
+0 0 4726
+D2
+~
+~
+0 0 4746
+D3
+~
+~
+0 0 4745
+S
+#4748
+Library~
+   Shelves of books in front of you.  Shelves of books behind you.
+Long rows of shelves to the sides of you.  All of these isles of
+books are beginning to look the same.  Uh oh!  You think you are lost....
+~
+47 8 0
+D0
+~
+~
+0 0 4738
+D1
+~
+~
+0 0 4748
+D2
+~
+~
+0 0 4744
+D3
+~
+~
+0 0 4737
+S
+#4749
+Gateway to the Pits of Hell~
+   You nervously step toward the bars of rod iron with spikes on
+the tips.  Is that blood up there?  As you peer through the
+gateway, you can make out a hazy image of demons, fiends, and the undead.
+These very gates look like the gates to Hell itself.
+~
+47 8 0
+D1
+~
+~
+0 0 4739
+D3
+~
+~
+0 0 4750
+S
+#4750
+Basement~
+   You have walked through the rod iron gates that seal off this
+basement room from the rest of the college.  As you look around the
+room, you notice murals of fearful demons torturing human souls.
+Even though the images are horrifying, you are sublimely attracted
+to the magnificent yet gruesome artwork.  You wonder what an art
+room is doing in a college for musicians, but you can understand why
+such a room was not destroyed.
+~
+47 9 0
+D0
+~
+~
+0 0 4751
+S
+#4751
+Stairs~
+These stairs lead up to a hallway and down to the Basement.
+~
+47 8 0
+D2
+~
+~
+0 0 4750
+D4
+~
+~
+0 0 4741
+S
+#4752
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4753
+D1
+~
+~
+0 0 4742
+S
+#4753
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4743
+D2
+~
+~
+0 0 4752
+S
+#4754
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4755
+D2
+~
+~
+0 0 4763
+S
+#4755
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4756
+D1
+~
+~
+0 0 4775
+D2
+~
+~
+0 0 4754
+D3
+~
+~
+0 0 4765
+S
+#4756
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4757
+D1
+~
+~
+0 0 4796
+D2
+~
+~
+0 0 4756
+D3
+~
+~
+0 0 4766
+S
+#4757
+Entrance to the Locker Area~
+You are standing at the entrance to a hallway filled with rows
+and rows of lockers.  You hope you can find your way out of the
+maze-like rows to make it to your class.
+~
+47 8 0
+D1
+~
+~
+0 0 4797
+D2
+~
+~
+0 0 4756
+D3
+~
+~
+0 0 4767
+S
+#4758
+Classroom~
+   This classroom is like many other classrooms you've been in
+before. Not surprisingly, the students are asleep.  You muffle a laugh as
+you notice that the instructor is asleep as well.
+~
+47 8 0
+D0
+~
+~
+0 0 4759
+D2
+~
+~
+0 0 4757
+D3
+~
+~
+0 0 4768
+S
+#4759
+Cafeteria Exit~
+   Oh, too bad you've reached the exit from the cafeteria.  Just
+when you were enjoying the stomach-churning smells of its gourmet
+dishes.  At least your trip through the cafeteria was an enjoyable
+one.  (Are you buying any of this?)
+~
+47 8 0
+D2
+~
+~
+0 0 4758
+D3
+~
+~
+0 0 4769
+S
+#4760
+Almost past the Hall-Moniter~
+   The hall monitor obviously hasn't spotted you yet, or else you'd
+be in detention for sure.  Better hurry around him while he still 
+hasn't seen you!
+~
+47 9 0
+D0
+~
+~
+0 0 4761
+D1
+~
+~
+0 0 4773
+D2
+~
+~
+0 0 4773
+D3
+~
+~
+0 0 4773
+S
+#4761
+Made it!~
+   Lucky you!  You actually made it past the hall monitor without
+his seeing you.  He must have been asleep or forgot to wear his
+glasses today.  Either way, you have managed to slip by him, and
+you can now continue on with your journey to your class.
+~
+47 9 0
+D0
+~
+~
+0 0 4757
+S
+#4762
+Hallway~
+   This hallway is well-lit, yet twists and runs in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.  To the west you see double doors leading out the Track.
+~
+47 8 0
+D0
+~
+~
+0 0 4763
+D3
+~
+~
+0 0 4772
+S
+#4763
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4754
+D2
+~
+~
+0 0 4762
+S
+#4764
+Extremely confusing~
+   The lights in this part of the building obviously don't work at
+all, yet you are still able to make out the dim rows and rows of
+lockers here.  This part of the building doesn't look like it has
+been used in years.  You are sure you've made a bad turn somewhere.
+~
+47 8 0
+D0
+~
+~
+0 0 4702
+D1
+~
+~
+0 0 4799
+D2
+~
+~
+0 0 4774
+D3
+~
+~
+0 0 4757
+S
+#4765
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4766
+D1
+~
+~
+0 0 4755
+D2
+~
+~
+0 0 4767
+D3
+~
+~
+0 0 4775
+S
+#4766
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the left
+you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4766
+D1
+~
+~
+0 0 4756
+D2
+~
+~
+0 0 4765
+D3
+~
+~
+0 0 4776
+S
+#4767
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4767
+D1
+~
+~
+0 0 4757
+D2
+~
+~
+0 0 4767
+D3
+~
+~
+0 0 4777
+S
+#4768
+Cafeteria~
+   You've decided to stay and partake of the cafeteria's
+specialties. As you wander around pondering the menu, you notice that one
+student has turned green and holds her stomach, while two others have
+turned purple from choking.  Nahhh....it couldn't be the wonderful gourmet
+foods which the cafeteria workers have taken great pains to 
+microwave for you.
+~
+47 8 0
+D0
+~
+~
+0 0 4769
+D1
+~
+~
+0 0 4799
+D2
+~
+~
+0 0 4799
+D3
+~
+~
+0 0 4778
+S
+#4769
+Cafeteria~
+   You've decided to stay and partake of the cafeteria's
+specialties. As you wander around pondering the menu, you notice that one
+student has turned green and holds her stomach, while two others have
+turned purple from choking.  Nahhh....it couldn't be the wonderful gourmet
+foods which the cafeteria workers have taken great pains to 
+microwave for you.
+~
+47 8 0
+D0
+~
+~
+0 0 4799
+D1
+~
+~
+0 0 4759
+D2
+~
+~
+0 0 4768
+D3
+~
+~
+0 0 4799
+S
+#4770
+The Track~
+   You can see miles of track here, with some hurdles every few
+feet. You notice some athletes doing some stretching exercises beside the
+track.  As you look further down the track, you can see runners
+handing off batons, apparently caught up in a marathon.
+~
+47 8 0
+D0
+~
+~
+0 0 4771
+D1
+~
+~
+0 0 4790
+D2
+~
+~
+0 0 4772
+D3
+~
+~
+0 0 4780
+S
+#4771
+The Track~
+   You can see miles of track here, with some hurdles every few
+feet. You notice some athletes doing some stretching exercises beside the
+track.  As you look further down the track, you can see runners
+handing off batons, apparently caught up in a marathon.
+~
+47 8 0
+D0
+~
+~
+0 0 4772
+D1
+~
+~
+0 0 4792
+D2
+~
+~
+0 0 4770
+D3
+~
+~
+0 0 4772
+S
+#4772
+The Track~
+   You can see miles of track here, with some hurdles every few
+feet. You notice some athletes doing some stretching exercises beside the
+track.  As you look further down the track, you can see runners
+handing off batons, apparently caught up in a marathon.
+~
+47 8 0
+D0
+~
+~
+0 0 4770
+D1
+~
+~
+0 0 4792
+D2
+~
+~
+0 0 4771
+D3
+~
+~
+0 0 4782
+S
+#4773
+DETENTION!~
+   Oh great!  The hall monitor caught you running around the halls 
+without your hall pass, and now you are stuck in detention until
+you can figure out your way out of this mess.  Hope you have something
+to read!
+~
+47 9 0
+D0
+~
+~
+0 0 4773
+D1
+~
+~
+0 0 4773
+D2
+~
+~
+0 0 4773
+D3
+~
+~
+0 0 4773
+D4
+~
+~
+0 0 4773
+D5
+~
+~
+0 0 4773
+S
+#4774
+A Little Confusing~
+   Somehow while wandering through the rows and rows of lockers
+along the hallways, you've stumbled onto a new set of rows and rows
+of lockers.  These are in an area of the building that is not so
+well-lit.  Perhaps you should proceed with caution.
+~
+47 8 0
+D0
+~
+~
+0 0 4775
+D1
+~
+~
+0 0 4764
+S
+#4775
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the left
+you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4776
+D1
+~
+~
+0 0 4765
+D2
+~
+~
+0 0 4774
+D3
+~
+~
+0 0 4755
+S
+#4776
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4777
+D1
+~
+~
+0 0 4766
+D2
+~
+~
+0 0 4775
+D3
+~
+~
+0 0 4786
+S
+#4777
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4775
+D1
+~
+~
+0 0 4767
+D2
+~
+~
+0 0 4776
+D3
+~
+~
+0 0 4787
+S
+#4778
+Cafeteria~
+   You've decided to stay and partake of the cafeteria's
+specialties. As you wander around pondering the menu, you notice 
+that one student has turned green and holds her stomach, while two others have
+turned purple from choking.  Nahhh....it couldn't be the wonderful gourmet
+foods which the cafeteria workers have taken great pains to 
+microwave for you.
+~
+47 8 0
+D0
+~
+~
+0 0 4779
+D1
+~
+~
+0 0 4768
+D2
+~
+~
+0 0 4799
+D3
+~
+~
+0 0 4799
+S
+#4779
+Cafeteria~
+   You've decided to stay and partake of the cafeteria's
+specialties. As you wander around pondering the menu, you notice that one
+student has turned green and holds her stomach, while two others have
+turned purple from choking.  Nahhh....it couldn't be the wonderful gourmet
+foods which the cafeteria workers have taken great pains to 
+microwave for you.
+~
+47 8 0
+D0
+~
+~
+0 0 4799
+D1
+~
+~
+0 0 4799
+D2
+~
+~
+0 0 4778
+D3
+~
+~
+0 0 4789
+S
+#4780
+The Track~
+   You can see miles of track here, with some hurdles every few
+feet. You notice some athletes doing some stretching exercises beside the
+track.  As you look further down the track, you can see runners
+handing off batons, apparently caught up in a marathon.
+~
+47 8 0
+D0
+~
+~
+0 0 4781
+D1
+~
+~
+0 0 4770
+D2
+~
+~
+0 0 4782
+D3
+~
+~
+0 0 4790
+S
+#4781
+The Finish Line~
+   Wow!  You've actually made it to the finish line yourself.  You
+almost feel as if you were running that marathon yourself, trying
+to hurry to your class.  Time to finish your own race.
+~
+47 12 0
+D0
+~
+~
+0 0 4783
+D2
+~
+~
+0 0 4780
+S
+#4782
+The Track~
+   You can see miles of track here, with some hurdles every few
+feet. You notice some athletes doing some stretching exercises beside the
+track.  As you look further down the track, you can see runners
+handing off batons, apparently caught up in a marathon.
+~
+47 8 0
+D0
+~
+~
+0 0 4780
+D1
+~
+~
+0 0 4772
+D2
+~
+~
+0 0 4780
+D3
+~
+~
+0 0 4792
+S
+#4783
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D2
+~
+~
+0 0 4781
+D3
+~
+~
+0 0 4793
+S
+#4784
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4785
+D1
+~
+~
+0 0 4794
+D2
+~
+~
+0 0 4794
+D3
+~
+~
+0 0 4794
+S
+#4785
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D2
+~
+~
+0 0 4784
+D3
+~
+~
+0 0 4795
+S
+#4786
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4787
+D1
+~
+~
+0 0 4776
+D2
+~
+~
+0 0 4787
+D3
+~
+~
+0 0 4796
+S
+#4787
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4786
+D1
+~
+~
+0 0 4777
+D2
+~
+~
+0 0 4786
+D3
+~
+~
+0 0 4797
+S
+#4788
+Cafeteria~
+   You've decided to stay and partake of the cafeteria's
+specialties. As you wander around pondering the menu, you notice that one
+student has turned green and holds her stomach, while two others have
+turned purple from choking.  Nahhh....it couldn't be the wonderful gourmet
+foods which the cafeteria workers have taken great pains to 
+microwave for you.
+~
+47 8 0
+D0
+~
+~
+0 0 4789
+D1
+~
+~
+0 0 4799
+D2
+~
+~
+0 0 4799
+D3
+~
+~
+0 0 4798
+S
+#4789
+Cafeteria Food Fight!~
+   What is this?  A food fight?  How could these kids possibly
+waste such delicious and nutritious food lovingly prepared by the
+cafeteria workers?   The students seem to be rebelling.  One
+student has picked up a handful of that cafeteria specialty, cajun
+chow mein, and is threatening to stuff it down another student's
+throat.  You watch the helpless student in despair.
+~
+47 8 0
+D0
+~
+~
+0 0 4799
+D1
+~
+~
+0 0 4779
+D2
+~
+~
+0 0 4788
+D3
+~
+~
+0 0 4799
+S
+#4790
+The Track~
+   You can see miles of track here, with some hurdles every few
+feet. You notice some athletes doing some stretching exercises beside the
+track.  As you look further down the track, you can see runners
+handing off batons, apparently caught up in a marathon.
+~
+47 8 0
+D0
+~
+~
+0 0 4791
+D1
+~
+~
+0 0 4780
+D2
+~
+~
+0 0 4792
+D3
+~
+~
+0 0 4770
+S
+#4791
+The Track~
+   You can see miles of track here, with some hurdles every few
+feet. You notice some athletes doing some stretching exercises beside the
+track.  As you look further down the track, you can see runners
+handing off batons, apparently caught up in a marathon.
+~
+47 8 0
+D0
+~
+~
+0 0 4792
+D1
+~
+~
+0 0 4771
+D2
+~
+~
+0 0 4790
+D3
+~
+~
+0 0 4771
+S
+#4792
+The Track~
+   You can see miles of track here, with some hurdles every few
+feet. You notice some athletes doing some stretching exercises beside the
+track.  As you look further down the track, you can see runners
+handing off batons, apparently caught up in a marathon.
+~
+47 8 0
+D0
+~
+~
+0 0 4790
+D1
+~
+~
+0 0 4782
+D2
+~
+~
+0 0 4791
+D3
+~
+~
+0 0 4772
+S
+#4793
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D1
+~
+~
+0 0 4783
+D3
+~
+~
+0 0 4803
+S
+#4794
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+47 8 0
+D0
+~
+~
+0 0 4784
+D2
+~
+~
+0 0 4803
+S
+#4795
+Your Class!~
+   Ah ha!  You've finally found your classroom!  As you creep
+silently into the room, you hope your instructor does not notice
+that you are very late.  Uh oh!  She noticed!  As she glares at 
+you with a cold, black stare and threatens you with her paddle, you
+find yourself wishing you could back out now.
+~
+47 12 0
+D0
+~
+~
+0 0 4700
+D1
+~
+~
+0 0 4785
+S
+#4796
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4797
+D1
+~
+~
+0 0 4786
+D2
+~
+~
+0 0 4797
+D3
+~
+~
+0 0 4756
+S
+#4797
+Lockers~
+   Rows and rows of lockers line these halls.  As you look to the
+left you see rows and rows of lockers.  As you look to the right you see
+rows and rows of lockers.  As you look to the north you see rows
+and rows of lockers.  How surprising for a locker area.
+~
+47 8 0
+D0
+~
+~
+0 0 4796
+D1
+~
+~
+0 0 4787
+D2
+~
+~
+0 0 4796
+D3
+~
+~
+0 0 4757
+S
+#4798
+Cafeteria~
+   You've decided to stay and partake of the cafeteria's
+specialties. As you wander around pondering the menu, you notice that one
+student has turned green and holds her stomach, while two others have
+turned purple from choking.  Nahhh....it couldn't be the wonderful gourmet
+foods which the cafeteria workers have taken great pains to 
+microwave for you.
+~
+47 8 0
+D0
+~
+~
+0 0 4799
+D1
+~
+~
+0 0 4788
+D2
+~
+~
+0 0 4799
+D3
+~
+~
+0 0 4799
+S
+#4799
+Cafeteria~
+   Ahhhh!  The wonderful smells of cafeteria food waft lazily
+toward your nose, inviting you to partake of the delicate brown lump of
+something swimming in a yellow sauce or the mystery meat made up of
+ingredients you don't want to know about.  For the true gourmand's palate,
+there's the original cajun chow mein, a cafeteria specialty.  Feel free to
+partake of any of these delicacies before continuing on your
+journey.
+~
+47 9 0
+D0
+~
+~
+0 0 4799
+D1
+~
+~
+0 0 4799
+D2
+~
+~
+0 0 4798
+D3
+~
+~
+0 0 4799
+S
+#99999
+$~

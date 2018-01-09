@@ -1,0 +1,27 @@
+>greet_prog 25~
+  if ispc($n)
+    say For Voldov!!
+    mpkill $n  
+  endif
+~
+>death_prog 33~
+  curse
+  say Rebuild me my comrads!
+~
+>fight_prog 10~
+  if inroom($r) == here
+    say Die!
+    if rand(50)
+      bash
+    else
+      kick
+    endif
+  endif
+~
+>fight_prog 5~
+  if hitprcnt($i) < 25
+    say The forces will return to destroy you!
+    flee
+  endif
+~
+|

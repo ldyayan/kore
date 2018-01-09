@@ -1,0 +1,9 @@
+>rand_prog 18~
+  if inroom($r) == here
+      if hitprcnt($r) < 100
+        cast 'cure critic' $r
+      endif
+  endif
+~
+|
+

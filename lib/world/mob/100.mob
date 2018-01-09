@@ -1,0 +1,193 @@
+#10000
+rat giant~
+the giant rat~
+A giant rat is here looking for something to knaw on.
+~
+This rat has grown to enormous proportions. Its fangs look nasty.
+~
+204 0 0 S
+2 1 8 1d1+1 1d1+1
+0 20
+8 8 0
+#10001
+giant cockroach roach~
+the giant cockroach~
+A giant cockroach is here surviving.
+~
+A big ugly cockroach you are happy isn't in your home.
+~
+76 0 0 S
+3 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10002
+large spider~
+a large spider~
+A very large spider is here in its web.
+~
+This huge spider is blacker than obsidian and has silver areas of skin
+that form twisted symbols along its underside. Large fangs glisten with
+venom behind its man sized mandibles. Its looks hungry and angry.
+~
+8203 65536 -750 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10003
+skeleton~
+the skeleton~
+A skeleton rises from a pile of bones.
+~
+A warrior of old slain by the owner of this castle and re-animated.
+~
+32840 0 -500 S
+7 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10004
+zombie~
+the zombie~
+A rotting zombie wanting to eat your brain.
+~
+Some poor soul searhcing for rest.
+~
+32840 0 -600 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10005
+wight~
+the wight~
+A sad looking wight chained to the wall.
+~
+This soul must have experienced the greatest of pain when it was alive.
+~
+40970 65536 -800 S
+11 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10006
+flesh golem~
+the flesh golem~
+A big bald flesh golem watches over your movements closly.
+~
+This thing was obviously made to protect the living quarters.
+~
+32872 0 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10007
+clay golem~
+the clay golem~
+A mucky clay golem observes you closely.
+~
+This thing was obviously made to stop you from stealing things.
+~
+32872 0 0 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10008
+stone golem~
+the stone golem~
+A stone golem stands here solemnly.
+~
+This is one of the more powerful golemn types, better not do anything wrong.
+~
+32872 0 0 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10009
+iron golem~
+the iron golem~
+A huge iron golem stands here protecting the bedroom.
+~
+This creation took a very powerful wizard to make it.
+~
+172043 65664 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10010
+flesh golem~
+the flesh golem~
+A big bald flesh golem watches over your movements closly.
+~
+This thing was obviously made to protect the living quarters.
+~
+32872 0 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10011
+clay golem~
+the clay golem~
+A mucky clay golem observes you closely.
+~
+This thing was obviously made to stop you from stealing things.
+~
+32872 0 0 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10012
+stone golem~
+the stone golem~
+A stone golem stands here solemnly.
+~
+This is one of the more powerful golemn types, better not do anything wrong.
+~
+32872 0 0 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#10013
+formless blob~
+the formless blob~
+A formless blob oozing across the floor.
+~
+This blob moves and reacts as if it were sentient. It seems to be a mockery
+of life itself
+~
+232 32 -300 S
+17 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10014
+humanoid form~
+the humanoid form~
+A twisted humanoid form screamming in agony.
+~
+This hapless sembalence of life lives in constant torture.
+~
+104 0 -300 S
+19 1 0 1d1+1 1d1+1
+0 1000000
+8 8 0
+#10015
+jabberwok~
+the jabberwok~
+The simple Jabberwok waiting to please its master.
+~
+This creature is a throwback of some strange gean is the line of Dragons.
+It is rumored to bebale to burst a mman into flames with a simple gaze.
+~
+172042 66688 0 S
+21 1 0 1d1+1 1d1+1
+0 100000000
+8 8 0
+#10025
+dracolich draco lich~
+the Dracolich~
+The feared Dracolich gaurds the entrance to Shade's laboratory.
+~
+This is the most powerful of all dragons reanimated after death to serve Shade.
+~
+106523 73888 -1000 S
+31 1 0 1d1+1 1d1+1
+0 100000000
+8 8 0
+#99999
+$~

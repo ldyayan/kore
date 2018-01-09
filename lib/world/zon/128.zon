@@ -1,0 +1,87 @@
+#128
+Trade Road~
+12899 27 2 0
+M 0 12813     3 12844            the boarder
+M 0 12813     3 12844            the boarder
+M 0 12800     1 12810            the madman
+E 1 12800    10    16                    wield the madman's knife
+M 0 12801     6 12810            the rat
+M 0 12801     6 12810            the rat
+M 0 12801     6 12832            the rat
+M 0 12801     6 12805            the rat
+M 0 12801     6 12825            the rat
+M 0 12801     6 12824            the rat
+M 0 12802     1 12841            the leatherworker
+E 1 12801    10    17                    held an awl
+G 1 12805    10    -1                    give a pair of leather boots
+G 1 12806    10    -1                    give a leather tie
+G 1 12807    10    -1                    give a leather jacket
+G 1 12808    10    -1                    give a pair of leather gloves
+M 0 12803     1 12836            the jeweller
+G 1 12809    10    -1                    give a ^Csapphire^n
+G 1 12810    10    -1                    give an ^Gemerald^n
+G 1 12811    10    -1                    give a marquis-cut ^Wdiamond^n
+M 0 12804     1 12835            the butcher
+E 1 12803    10    16                    wield a huge meat cleaver
+G 1 12812    10    -1                    give a slab of beef
+G 1 12813    10    -1                    give a haunch of mutton
+G 1 12814    10    -1                    give a deer steak
+M 0 12805     1 12840            Sakifan
+M 0 12806     1 12839            the brewermaster
+M 0 12812     4 12839            the brewery worker
+M 0 12812     4 12839            the brewery worker
+M 0 12812     4 12839            the brewery worker
+M 0 12812     4 12839            the brewery worker
+M 0 12807     1 12842            Ceran
+E 1 12802    10    17                    held a t-square
+M 0 12808     1 12852            Grebe
+G 1 12819    10    -1                    give a glass of beer
+G 1 12820    10    -1                    give a glass of mead
+G 1 12821    10    -1                    give a shot of whiskey
+M 0 12809     1 12850            the sailor-merchant
+E 1 12804    10     6                    head an earring
+G 1 12815    10    -1                    give a coil of rope
+G 1 12816    10    -1                    give an anchor
+G 1 12817    10    -1                    give a net
+G 1 12818    10    -1                    give a fishhook
+M 0 12810     1 12843            the landlord
+M 0 12813     3 12843            the boarder
+M 0 12811    10 12800            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12800            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12800            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12817            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12817            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12817            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12816            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12803            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12820            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12811    10 12821            the cityguard
+E 1 12822    10    16                    wield a long sword
+M 0 12814     4 12827            the citizen
+M 0 12814     4 12807            the citizen
+M 0 12814     4 12821            the citizen
+M 0 12814     4 12814            the citizen
+M 0 12815     4 12802            the citizen
+M 0 12815     4 12813            the citizen
+M 0 12815     4 12818            the citizen
+M 0 12815     4 12815            the citizen
+M 0 12816     1 12853            the trader
+M 0 12817     1 12845            the old woman
+M 0 12818     1 12845            the young boy
+M 0 12819     1 12846            the housewife
+M 0 12820     1 12847            the slob
+M 0 12821     2 12848            the old man
+M 0 12821     2 12848            the old man
+M 0 12822     1 12849            the bachelor
+S
+#99999
+$~

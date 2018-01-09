@@ -1,0 +1,25 @@
+>fight_prog 33~
+  mpecho $I emits a ghostly howl!
+  mpdrainmove all 30
+  mpcallmagic 'scare' all
+~
+>fight_prog 20~
+  cast 'fireball' $r
+~
+>fight_prog 10~
+  mpecho $I stares at $R and utters the words, 'abraoi noselacri'.
+  mpcallmagic 'blind' all
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I shimmers and disappears...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

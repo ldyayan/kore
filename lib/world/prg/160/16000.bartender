@@ -1,0 +1,19 @@
+>greet_prog 13~
+  if ispc($n)
+    if level($n) > 30
+      say Greetings, $N. What can I get for you?
+    else
+      say Greetings friend, what can I get for you?
+    endif
+  endif
+~
+>rand_prog 3~
+  mpecho $I carefully wipes a glass and places it back in its rack.
+~
+>rand_prog 3~
+  mpecho $I wipes the counter with a white cloth.
+~
+>rand_prog 3~
+  mpecho $I whistles a little tune as he wipes a glass clean.
+~
+|

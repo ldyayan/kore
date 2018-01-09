@@ -1,0 +1,9 @@
+>fight_prog 2~
+  if inroom($r) == here
+    mpechoat $r $I cheerfully hurls you clean out of the Giant Castle!
+    mpechoaround $r $I cheerfully hurls $R clean out of the Giant Castle!
+    mptrans $r 8800
+    mpdamage $r 80
+  endif
+~
+|

@@ -1,0 +1,443 @@
+#9500
+onyx key~
+an onyx key~
+You see a glowing piece of onyx lying here.~
+~
+18 66095 1
+0 2 0 0
+1 1 1
+E
+key~
+onyx key
+~
+A
+20 -10
+A
+1 2
+#9501
+black beaker~
+a black beaker~
+A beaker full of black liquid with green suspended solids.~
+~
+5 66056 8193
+0 4 7 5
+5 100000 10
+E
+black beaker~
+   The black beaker's contents bubble and fizz. It has a blunt crack as 
+it is used to attack. Nahklug's assistant must of crafted this beaker
+from some foreign substance because unlike glass it takes a beating and
+doesn't break.
+~
+A
+3 3
+A
+4 2
+A
+5 1
+A
+6 -2
+#9502
+staff gnarled~
+a gnarled staff~
+A gnarled oak staff lies here discarded.~
+   The wood of the staff you don't recognize.  It is hard yet it does not
+seem to have dried, perhaps kept moist by some magic power.  It has some 
+strange writing on it and you find yourself lost in its words.  It wraps 
+around your hand as if it wants to stay with you.
+~
+5 66251 8193
+0 3 8 10
+6 200 200
+E
+staff gnarled~
+   The wood of the staff you don't recognize.  It is hard yet it does not
+seem to have dried, perhaps kept moist by some magic power.  It has some 
+strange writing on it and you find yourself lost in its words.  It wraps 
+around your hand as if it wants to stay with you.
+~
+A
+19 3
+A
+4 2
+#9503
+ring onyx~
+an onyx ring~
+You see a dark reflection off the ring.~
+~
+11 66152 3
+0 0 0 0
+1 10000 150
+E
+onyx ring~
+   The onyx of this ring seems to absorb the light from the surrounding room 
+and redirects it directly into the soul of the wearer giving him the power 
+to cast more spells and increase his vitality.  It is of the purest onyx, 
+crafted by the finest blacksmith.  You find it hard to believe that such a 
+pure ring could fall into the hands of such poor men.
+~
+A
+12 25
+A
+13 20
+#9504
+displacement cloak shroud~
+a flowing displacement cloak~
+A long flowing displacement cloak lies here shimmering.~
+<worn about body>~
+11 66154 1025
+0 0 0 0
+2 25000 250
+E
+displacement cloak shroud~
+   The material of the cloak is of an unknown substance.  Something created 
+by Imagonakilu during one of his evil experiments.  It is completely
+invisible to the naked eye and only with the aid of potion or spells is it
+visible.  In its invisible form it draws powers from the another displaced
+reality.
+~
+A
+12 30
+A
+13 15
+#9505
+foot locker storage~
+a storage locker~
+You see an old foot locker used for storing old tools and equipment.~
+
+~
+15 0 1
+0 0 0 0
+25000 0 0
+E
+desk~
+This table has all sorts of lab equipment in it...there are even some papers on spells research.~
+#9506
+plush suede tunic~
+a plush suede tunic~
+A plush suede tunic is here, discarded.~
+~
+9 66137 9
+9 0 0 0
+4 50000 75
+E
+plush suede tunic~
+   The suede of the tunic is some of the finest you have ever seen.  It is
+perfectly cut and just the feel of the tunic gives you more confidence.
+~
+A
+5 2
+A
+23 -3
+#9507
+sharp cleaver~
+a Very sharp cleaver~
+A Very sharp cleaver lies here, ready to be picked up and used.~
+slash~
+5 65546 8193
+0 2 8 3
+2 7000 20
+A
+18 2
+A
+19 2
+#9508
+goblin helmet~
+a goblin helmet~
+A worn and dented helmet lies here in the dust.~
+worn~
+9 32 17
+-25 0 0 0
+5 1250 1
+A
+1 2
+A
+3 -3
+#9509
+goblin sword~
+a goblin sword~
+A hobgoblin's shortsword lies here in the dust.~
+hack~
+5 0 1
+0 1 15 11
+4 950 1
+E
+sword~
+A swordsword is laying here.~
+A
+18 1
+A
+19 2
+#9510
+diamond necklace~
+a ^Wdiamond^n necklace~
+You see a freshly cleaved ^Wdiamond^n chain.~
+~
+1 361 5
+0 0 0 0
+8 20000 1
+E
+diamond necklace~
+   The beautiful diamond necklace reflects and bends light and mana that
+fills the environment around you.  Though the diamonds are not pure they
+still complete the purpose they were put together for.
+~
+A
+3 1
+A
+12 8
+#9511
+stone well~
+a stone well~
+A deep well is here.  You see an old crank like device that is used to draw water from the bottom.~
+~
+23 92 0
+999999 999999 15 0
+9999 0 0
+#9512
+rotting corpse~
+a rotting corpse~
+A disgusting maggot-infested corpse lies here on the ground.~
+~
+15 0 1
+0 0 0 0
+250 1 1
+E
+maggots~
+You see lots of long white creepy crawling maggots!.  The wierd thing is...
+it doesn't look as though this corpse has been here very long...
+~
+#9513
+pile gems handful~
+a handful of gems~
+A pile of luminescent gems sparkle here on the ground.~
+~
+8 0 1
+0 0 0 0
+5 5000 1
+#9514
+torch limb~
+a torch~
+You see a limb soaked in pitch suitable for a torch.~
+~
+1 0 16385
+0 0 0 0
+1 100 1
+#9515
+orc sword blade~
+an orc sword~
+A shiny new orc blade lays here ready for battle.~
+~
+5 32 8193
+0 2 6 3
+10 2000 1
+#9516
+cruel orcish pike~
+an orcish pike~
+A cruel looking pike lies here on the ground discarded.~
+~
+5 0 8193
+0 3 3 11
+7 3500 1
+#9517
+large orcish orc shield~
+a large orcish shield~
+You see a long shield designed to cover most of an orc's body.~
+~
+9 65 513
+12 0 0 0
+12 5000 1
+#9518
+orcish boots orc~
+a pair of orcish iron boots~
+A dark pair of iron boots lie here on the ground.~
+~
+9 34 65
+15 0 0 0
+9 7000 700
+E
+orcish boots orc~
+   The iron of the boots is grey and dented not as shiny as it might have
+once been.  Despite their condition, and through some magic power they meld
+to the feet of the user and increase his vitality and reinforce his strength.
+~
+A
+1 1
+A
+13 10
+#9519
+chain belt metal~
+a long metal chain~
+A long metal chain with interlocking plates to defend the midsection.~
+   The belt of Brekstack is amazingly strong despite it's small appearance.
+The iron of its buckle is covered in the blood of many fallen in attempts to
+retrieve the great belt.  Surrounding the buckle many razor sharp edges are
+placed to cut into the body of an attacker should he get to close in hand to
+hand combat.
+~
+9 65867 2049
+8 0 0 0
+5 75000 1
+E
+metal chain belt~
+This set of linked chain rings is amazingly strong despite it's small 
+appearance.  The forged iron of its buckle is covered in the blood of many
+fallen opponents in attempts to retrieve the great belt.  Surrounding the
+buckle many razor sharp edges are placed to cut into the body of an attacker
+should he get too close.
+
+~
+A
+19 2
+A
+13 20
+#9520
+boots ebony black~
+a pair of ebony boots~
+A set of dark black footwear lays here, discarded by their owner.~
+~
+9 65579 65
+6 0 0 0
+8 1000000 1
+E
+ebony black boots~
+The black leather on these invisible boots have been toughened from use and
+neglect.  The cracked leather feels like iron, and the soles are worn down
+and hardened by heavy footfalls.  The weight of the pair is immense, and the
+thought of these huge things stepping on your head makes you cringe.  At the
+tip of each boot is a razor wedged in to add to their destructive capabilities.
+~
+A
+19 1
+A
+13 15
+#9521
+mace black large~
+a huge black mace~
+A HUGE mace lays here, humming with destructive power.~
+~
+5 217195 8193
+0 6 6 6
+5 1000000 1
+E
+large black mace~
+Upon holding this cumbersome seeming blunt weapon is actually very light,
+and you can see how it has aided its master by examining its scratches and
+scrapes.  When you picked it up, it began to hum faster, and the feeling of
+adrenaline started coursing through your veins.  With this weapon wielded,
+a sense of power and confidence over any opponent, fills your head with
+fantasies of victory, and now you understand why its previous master was so
+unwilling to let it go.
+~
+A
+18 4
+A
+19 4
+#9522
+crude orc robe chieftain~
+a set of orc chieftain's robes~
+You see a set of crude but resplendent robes lying here.~
+~
+11 16387 9
+0 0 0 0
+4 1500 1
+E
+orc robe chieftain~
+  A orc chieftain robe.
+~
+A
+24 5
+A
+13 20
+#9523
+headband chieftain~
+a chieftain's headband~
+You see an elegant pattern of feathers and stones made to be worn on the head.~
+~
+11 16459 17
+0 0 0 0
+3 10000 1
+E
+headband chieftain~
+   The headband was created for the wise Orc chieftain.  Yet upon his defeat
+it fell into the hands of warriors.  It has exchanged hands several times
+since each person claiming that it increased their mana and it made them
+feel wiser.  Perhaps it is some magic material in the headband.  Others feel
+it is a useless piece of equipment.
+~
+A
+9 10
+A
+12 35
+#9524
+orcish war banner spear~
+an orcish war banner~
+You see a long spear-like weapon with an attached banner lying here.~
+~
+5 94571 8193
+0 5 4 0
+14 15000 1
+A
+19 1
+A
+18 -2
+#9525
+orcish signal arrow~
+an orcish signal arrow~
+An orcish signal arrow lies here.~
+~
+5 0 8193
+0 1 4 11
+1 1000 100
+#9526
+table~
+a large semicircular table~
+A large semicicular table is set up here.~
+~
+13 0 0
+0 0 0 0
+50 500 50
+#9527
+scale model mountains chaos~
+a scale model of the Mountains of Chaos~
+A scale model of the Mountains of Chaos is here to be studied.~
+~
+13 0 0
+0 0 0 0
+20 50000 5000
+#9528
+platemail armor shadok~
+the armor of Shadok~
+A giant piece of platemail sits here ready for use.~
+   A giant piece of platemail created for Shadok.  The black of the platemail
+is perfect for not showing damage.  Massive claws cover the front and back of
+the armour adding both extreme damage to extreme protection.  You doubt anyone
+in one on one combat could puncture the magically reinforced plate.
+~
+9 131072 9
+12 0 0 0
+10 375000 0
+A
+19 2
+A
+2 2
+A
+5 1
+B
+40960 0
+#9529
+orc sword~
+an orc sword~
+A black shimmering orc sword swallows the light around it.~
+~
+5 131072 8193
+5 5 5 15
+15 0 0
+A
+19 3
+A
+18 3
+S
+33 30 5
+#99999
+$~

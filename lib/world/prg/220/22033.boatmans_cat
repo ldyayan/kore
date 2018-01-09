@@ -1,0 +1,9 @@
+>command_prog steer~
+  if ispc($n)
+  or name($n) !/ spag
+    mpechoat $n $I arches her back and hisses at you!
+    mpechoaround $n $I archers her back and hisses at $N!
+    mpstopcommand 
+  endif
+~
+|

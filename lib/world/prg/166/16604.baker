@@ -1,0 +1,11 @@
+>greet_prog 30~
+  if ispc($n)
+    say  Welcome, come in and check out my wide array of cakes and pastries!
+  endif
+~
+>rand_prog 1~
+  mpecho Your nose crinkles as you smell sweat freshly baked bread coming
+from near by.
+~
+|
+

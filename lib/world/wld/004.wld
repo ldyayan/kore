@@ -1,0 +1,1525 @@
+#401
+A Peaceful Corner~
+   You step into a dark and peaceful corner of the garden and
+the difference is startling.  The trees seem to tower all around
+and the air is noticably fresh and clear.  A small mound in front
+of you dominates the area and draws your eye.
+~
+4 393404 0
+D1
+~
+~
+0 0 480
+S
+#402
+Mountain~
+   You are making your way up the mountain.  The rigorous climb has left you
+tired, and you are ready to take a break.  
+~
+4 4 9
+D4
+~
+~
+0 -1 403
+D5
+~
+~
+0 0 469
+S
+#403
+Mountain~
+   You have finally reached the top of the mountain.  The air here is so
+thin that you must gasp for breath.  To the north, you see what seems to be
+the entrance to a city.  
+~
+4 0 9
+D0
+~
+~
+0 -1 404
+D5
+~
+~
+0 -1 402
+S
+#404
+Entrance~
+   You are at the entrance to a huge city.  As you look around, you realize
+that the inhabitants of this city must be very wealthy indeed - you have
+never seen a city with such beautiful buildings.  
+~
+4 0 1
+D0
+~
+~
+0 -1 405
+D2
+~
+~
+0 -1 403
+S
+#405
+Before the Archway~
+ You are walking through a magnificent marbled archway. Beautiful gardens
+surround you, filled with exotic animals and birds that you have only heard
+of in myths. It is so peaceful and relaxing here, that it could only be a
+home of Gods.
+~
+4 4 1
+D0
+~
+~
+0 0 479
+D2
+~
+~
+0 -1 404
+S
+#406
+Before a Fountain~
+You are on the main street of this city. Large beautiful gardens
+in full blossom grow all around you. To the north you can see
+a huge fountain filled with sparkling water. 
+~
+4 0 1
+D0
+~
+~
+0 0 478
+D1
+~
+~
+0 0 453
+D2
+~
+~
+0 0 479
+D3
+~
+~
+0 0 432
+S
+#407
+The White Marble Archway~
+   You are walking down a magnificent marbled archway, you are surrounded by
+a beautiful garden with strange animals only heard of in myths.  Lovely
+birds are flying around you as saying welcome.  You feel as though you are
+in heaven.  To the south you can see a huge fountain, the archway continues
+north towards a castle.  
+~
+4 4 1
+D0
+~
+~
+0 -1 408
+D1
+~
+~
+0 0 424
+D3
+~
+~
+0 -1 427
+S
+#408
+The White Marble Archway~
+   You are walking down a magnificent marbled archway, you are surrounded by
+a beautiful garden with strange animals only heard of in myths.  Lovely
+birds are flying around you as saying welcome.  You feel as though you are
+in heaven.  To the north, you see a large castle.  
+~
+4 0 1
+D0
+~
+~
+0 0 464
+D2
+~
+~
+0 -1 407
+S
+#409
+Grand Stairs~
+   Here the archway comes to an end, to the north there are huge stairs
+leading into the castle, the stairs are made from solid gold you are taken
+by the splendour that surrounds you here.  
+~
+4 12 1
+D0
+~
+~
+0 0 428
+D2
+~
+~
+0 0 464
+S
+#410
+Throne Room~
+   This is the throne room of Olympus, you are struck by awe of the beauty
+and power the throne radiates.  A purple carpet is leading towards the
+throne and along the walls there are four statues on both sides.  From the
+ceiling hangs a strange chandelier giving light to the room.  Just next to
+the throne lays a huge sickle, it seems real antique.  You get the feeling
+you are beeing watched by someone or something.  Maybe you should leave.  
+~
+4 8 1
+D2
+~
+~
+0 -1 477
+E
+throne~
+This huge golden throne looks as if it has been here for ages.
+~
+S
+#411
+Western Hall~
+   You are in the western wing of the castle.  You see the entrance to the
+east, while this hallway continues to the west.  
+~
+4 8 1
+D1
+~
+~
+0 0 428
+D3
+~
+~
+0 -1 412
+S
+#412
+Western Hall~
+   This long hallway all in polished white marble stretches out west and
+east from here.  There is a private room north from here, You can hear low
+voices from somewhere and beautiful almost magical music throughout the
+hallway.  The air is clean and fresh, at times you can make out a faint
+sweet scent of flowers.  
+~
+4 8 1
+D0
+~
+~
+0 -1 413
+D1
+~
+~
+0 -1 411
+D3
+~
+~
+0 -1 429
+S
+#413
+Residence~
+   This room makes you feel relaxed and to think of your beloved ones with a
+new intensity.  Better leave this room if you want to keep your sanity.  
+~
+4 8 1
+D2
+~
+~
+0 -1 412
+S
+#414
+Western Wing~
+   This long hallway all in polished white marble stretches out north and
+south from here.  You can hear low voices from somewhere and beautiful
+almost magical music throughout the hallway.  The air is clean and fresh, at
+times you can make out a faint sweet scent of flowers.  
+~
+4 8 1
+D0
+~
+~
+0 0 429
+D2
+~
+~
+0 0 452
+S
+#415
+Eastern Hall~
+   You are in the eastern wing of the castle.  The hall continues to the
+east, while the entrance is back to the west.
+~
+4 8 1
+D1
+~
+~
+0 -1 416
+D3
+~
+~
+0 0 428
+S
+#416
+Eastern Hall~
+   This long hallway all in polished white marble stretches out west and
+east from here. You can hear low voices from somewhere and beautiful almost
+magical music throughout the hallway. The air is clean and fresh, at times
+you can make out a faint sweet scent of flowers.  
+~
+4 8 1
+D1
+~
+~
+0 -1 431
+D3
+~
+~
+0 -1 415
+S
+#417
+Eastern Wing~
+   This long hallway all in polished white marble seems to come to an end
+here, there is a room east of here and the hall continues north.  You can
+hear low voices from somewhere and beautiful almost magical music throughout
+the hallway.  The air is clean and fresh, at times you can make out a faint
+sweet scent of flowers.  
+~
+4 8 1
+D0
+~
+~
+0 -1 433
+D1
+~
+~
+0 0 449
+S
+#418
+Dungeon~
+   You are in Zeus's Dungeon.  You wonder what creatures are so terrible that
+even mighty Zeus fears them enough to imprison them.
+~
+4 9 1
+D2
+~
+~
+0 0 419
+D3
+~
+~
+0 0 423
+S
+#419
+Dungeon~
+   You are in Zeus's Dungeon.  There are cells to the south, west, and east.
+From the east and west, you hear guttural noises.  From the south, nothing
+...  
+~
+4 9 1
+D0
+~
+~
+0 0 418
+D1
+~
+cell~
+2 427 422
+D2
+
+~
+cell~
+2 427 420
+D3
+~
+cell~
+2 427 421
+S
+#420
+Cell~
+   You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+4 9 1
+D0
+~
+cell~
+2 427 419
+S
+#421
+Cell~
+   You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+4 9 1
+D1
+~
+cell~
+2 427 419
+S
+#422
+Cell~
+   You are in a small, cramped, dirty cell.  It is a horrid place.
+~
+4 9 1
+D3
+~
+cell~
+2 427 419
+S
+#423
+Stairway~
+The stairway is quite dark and it is very silent here, you can still make
+out some howling very far off, however the air here seems loaded with a
+strange energy and you dont feel as confident as before to explore this dark
+part of this divine castle.
+~
+4 8 1
+D1
+~
+~
+0 0 418
+D4
+~
+~
+0 -1 439
+S
+#424
+Garden~
+   You are northeast of a huge fountain, you are surrounded by beauty and
+feel yourself full of harmony.  You here people chat somewhere.  
+~
+4 8 1
+D0
+~
+~
+0 0 497
+D1
+~
+~
+0 0 491
+D2
+~
+~
+0 0 453
+D3
+~
+~
+0 0 407
+S
+#425
+Residence~
+   A large room stretches out in all directions, you can hear voices echoing
+in this room but you cant make out from where they come.  There is a huge
+carpet that covers the floor, when you look closer at it you notice it
+resembles a sort of city map.  However it is no city you have ever seen and
+you get the feeling you wont ever see it.  As your mind strays of in its own
+thoughts you suddenly become aware of that this must be the reception room
+of the mighty godess Athena, the protector of the city Athena.  
+~
+4 393224 1
+S
+#426
+Residence~
+   This well lit room of polished white marble is filled with wonderful
+music and bright light is radiating from the walls.  Against the southern
+wall stands a huge creamwhite divan, it looks very comfortable.  A large
+chandelier hangs from the ceiling, if you did not know better you would
+think it was made purely from diamonds.  
+~
+4 8 1
+D1
+~
+~
+0 0 452
+S
+#427
+Garden~
+   You are northwest of a huge fountain, you are surrounded by beauty and
+feel yourself full of harmony.  You hear people chat somewhere.  
+~
+4 8 1
+D0
+~
+~
+0 0 489
+D1
+~
+~
+0 -1 407
+D2
+~
+~
+0 0 432
+D3
+~
+~
+0 0 483
+S
+#428
+Castle Entryway~
+   You are in the entryway of a large castle.  It is very beautiful, with
+large paintings and a lovely carpet.  You hear jovial laughter to the north,
+while smaller corridors branch off to the east and west.  
+~
+4 8 1
+D0
+~
+~
+0 0 455
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 409
+D3
+~
+~
+0 0 411
+S
+#429
+Western Hall~
+   This long hallway all in polished white marble stretches out south and
+east from here.  You can hear low voices from somewhere and beautiful almost
+magical music throughout the hallway.  The air is clean and fresh, at times
+you can make out a faint sweet scent of flowers.  
+~
+4 8 1
+D1
+~
+~
+0 -1 412
+D2
+~
+~
+0 0 414
+S
+#431
+Eastern Hall~
+   This long hallway all in polished white marble stretches out west and
+south from here.  You can hear low voices from somewhere and beautiful
+almost magical music throughout the hallway.  The air is clean and fresh, at
+times you can make out a faint sweet scent of flowers.  
+~
+4 8 1
+D2
+~
+~
+0 0 433
+D3
+~
+~
+0 -1 416
+S
+#432
+Garden~
+   You are southwest of a huge fountain, you are surrounded by beauty and
+feel yourself full of harmony. 
+~
+4 8 1
+D0
+~
+~
+0 0 427
+D1
+~
+~
+0 0 406
+D2
+~
+~
+0 0 480
+D3
+~
+~
+0 0 482
+S
+#433
+Eastern Wing~
+   This long hallway all in polished white marble stretches out north and
+south from here.  You can hear low voices from somewhere and beautiful
+almost magical music throughout the hallway. The air is clean and fresh, 
+at times you can make out a faint sweet scent of flowers.  
+~
+4 8 1
+D0
+~
+~
+0 0 431
+D2
+~
+~
+0 -1 417
+S
+#437
+A Hall~
+   The walls are somewhat blood stained here, and a foul smell inhabit this
+hall,  the smell gets worse to the east.  You hear loud voices comming from
+the east, you suddenly feel your knees shiver and you stop and consider if
+it is worth going any further in this direction.  
+~
+4 12 1
+D1
+~
+~
+0 0 454
+D3
+~
+copper door~
+1 -1 448
+S
+#438
+The Room of Bloodlust ~
+   You have entered a room you wish you never seen.  Ares and his Squires
+are here laughing over bloody war stories and getting all worked up.  All of
+the sudden they turn towards YOU !!!!!!!  
+~
+4 9 1
+D0
+~
+~
+0 -1 454
+D1
+~
+closet~
+1 0 450
+S
+#439
+A Hall~
+   There is a stairway going down from here into solid darkness, to the east
+there is door, the hall continues north and west from here.  You can hear a
+loud howling to the west.  
+~
+4 12 1
+D0
+~
+~
+0 -1 440
+D1
+This beautifully made iron door must be made by a true craftman.
+~
+iron door~
+1 -1 448
+D3
+~
+~
+0 0 441
+D5
+~
+~
+0 -1 423
+S
+#440
+A Stable~
+This huge stable must be the biggest and cleanest you have ever seen, far
+above you there can be seen some pegasus flying in circles. A few white
+big feathers are scattered on the tiles, otherwise this stable is very well
+kept.
+~
+4 8 4
+D1
+~
+~
+0 -1 459
+D2
+~
+~
+0 -1 439
+D3
+~
+~
+0 -1 447
+S
+#441
+Western Hall~
+   You are at the most western point of this hallway.  There is a private
+room to the south, and you can hear a happy giggle from there.  
+~
+4 8 1
+D1
+~
+~
+0 0 439
+D2
+~
+~
+0 -1 444
+S
+#442
+A Private Room~
+   This room is all in polished green marble, there are no furniture in this
+room not even a lamp of any kind, still the room is bright and you get a
+comfortable feeling over you.  You hear a rattleing sound south from here
+and a nice smell teases your appetite.  There are exits south and east from
+here.  
+~
+4 8 1
+D1
+~
+~
+0 0 457
+D2
+~
+~
+0 0 446
+S
+#443
+Private Quarters~
+   This room is all in polished green marble there is a large divan standing
+next to the southern wall.  You hear a rattleing sound to the east, and the
+room is filled with the scent of food.  You feel very hungry.  There are
+exits to the west and east from here.  
+~
+4 8 1
+D1
+~
+~
+0 0 451
+D3
+~
+~
+0 0 446
+S
+#444
+Bedroom~
+   You are in a huge room that has the freshness of a rainy forrest.  The
+walls are made from polished green marble, at the floor lays a big dark
+carpet with a beautiful moon centered upon it, there are also some
+enscriptions on the carpet that you cant figure out.  The room is otherwise
+sparsely furnitured, only a big chair made from silver oak can be seen.  
+~
+4 8 1
+D0
+~
+~
+0 -1 441
+S
+#445
+Bedroom~
+   The room is large and filled with a lovely fragrance, the walls are made
+from pure white marble and the ceiling from pink marble.  In the center of
+the room a celestial bed filled with pillows of different sizes and shapes.
+A golden table stands next to the western wall.  The eastern and southern
+walls are covered with honeysuckle.  There are doors leading west and south
+from here.  
+~
+4 8 1
+D2
+There is a door leading south from here, you almost missed it due to all 
+the honeysuckle
+covering the southern wall.
+~
+door~
+1 0 451
+D3
+~
+door~
+1 0 457
+S
+#446
+Dining Lounge~
+   This large room is obviously a dining lounge, the walls are all covered
+in polished marble with inlaid gold.  There is a huge long table in the
+center of the room and the table is covered with all kinds of delicious
+dishes, fruits, and nice wines.  You find yourself drooling all over
+yourself.  
+~
+4 8 1
+D0
+~
+~
+0 0 442
+D1
+~
+~
+0 0 443
+S
+#447
+A Stable~
+This huge stable must be the biggest and cleanest you have ever seen, far
+above you there can be seen some pegasus flying in circles. A few white
+big feathers are scattered on the tiles, otherwise this stable is very well
+kept.
+~
+4 8 4
+D0
+~
+~
+0 -1 463
+D1
+~
+~
+0 -1 440
+S
+#448
+Grand Hallway~
+   A huge silver portal stands to the north, the doors are richly decorated
+with beautiful silver carvings.  You cant resist to try and open the doors,
+but they are stuck, seems the doors haven't been opened in milleniums.  To
+the east there is a copper door and to the west a iron door.  You can 
+hear a muffled sound from the east.....  
+~
+4 8 1
+D1
+A simple copper door
+~
+copper door~
+1 -1 437
+D2
+~
+~
+0 0 456
+D3
+A heavy iron door
+~
+iron door~
+1 -1 439
+S
+#449
+Residence~
+   This room is more like a lovely garden, the room is large and filled
+with a lovely fragrance.  The walls are all covered with honeysuckle, and
+there must be like a thousand lit candels scattered around the room.  In the
+center of the room there lays a nice rug infront of a huge white divan.  
+~
+4 0 0
+D3
+~
+~
+0 0 417
+D5
+~
+rug~
+1 0 450
+S
+#450
+Love nest~
+   This small room must have been recently added to the area, you notice the
+how roughly made the walls are.  This place must have been made without even
+Zeus himself knowing it.  There is a well used bed standing next to the
+southern wall and there is a table next to it full of delicious grapes.  
+~
+4 1 0
+D3
+~
+closet door~
+1 0 438
+D4
+~
+hatch~
+1 0 449
+E
+table~
+The golden table looks really antique, it must be worth a fortune.
+~
+S
+#451
+Private Quarters~
+   This room is all in polished green marble, the room is furnitured with a
+few tables and and chairs, there is also a large shelf along the southern
+wall.  A door leads north from here, you can hear a rattleing sound to the
+west.  
+~
+4 8 1
+D0
+~
+door~
+1 0 445
+D3
+~
+~
+0 0 443
+S
+#452
+Western Wing~
+   This long hallway all in polished white marble seems to come to an end
+here, there is a room west of here and the hall continues north.  You can
+hear low voices from somewhere and beautiful almost magical music throughout
+the hallway.  The air is clean and fresh, at times you can make out a faint
+sweet scent of flowers.  
+~
+4 0 0
+D0
+~
+~
+0 0 414
+D3
+~
+~
+0 0 426
+S
+#453
+Garden~
+   You are southeast of a huge fountain, you are surrounded by beauty and
+feel yourself full of harmony.  
+~
+4 0 0
+D0
+~
+~
+0 0 424
+D1
+~
+~
+0 0 490
+D2
+~
+~
+0 0 481
+D3
+~
+~
+0 0 406
+S
+#454
+The War Room~
+   There are lots of scattered weapons and armors here, and even a few
+bodyparts.  You get a bad feeling and wish you never went here, you can hear
+loud voices and laughter south from here.  
+~
+4 8 1
+D2
+~
+~
+0 -1 438
+D3
+~
+~
+0 0 437
+S
+#455
+Grand Hallway~
+   This hallway continues north and south, the walls are made from polished
+white marble with an inner life.  The walls seems to glow faintly.  There
+are torches along both sides of the hallway.  And the walls are covered with
+green wall climbing plants with white and red flowers that gives the hall a
+wonderful fragrance.  
+~
+4 0 0
+D0
+~
+~
+0 0 456
+D2
+~
+~
+0 0 428
+S
+#456
+Grand Hallway~
+   This hallway continues north, south and up from here.  The walls are made
+from polished white marble with an inner life.  The walls seems to glow
+faintly.  There are torches along both sides of the hallway.  And the walls
+are covered with green wall climbing plants with white and red flowers that
+gives the hall a wonderful fragrance.  
+~
+4 0 0
+D0
+~
+~
+0 0 448
+D2
+~
+~
+0 0 455
+D4
+~
+~
+0 0 457
+S
+#457
+Hall of Zeus~
+   You have entered the most sacred of places, the hall of true Gods.  If you
+are a mortal, it would probably be a good idea to leave NOW!  Exits leave in
+all directions.
+~
+4 8 0
+D0
+~
+~
+0 0 476
+D1
+a beautifully carved door
+~
+door~
+1 0 445
+D3
+~
+~
+0 0 442
+D5
+~
+~
+0 0 456
+S
+#458
+On a Huge Rock~
+All around you there is thick with bushes and you can not see anything but 
+bushes, somehow this place feels quite nice...almost like a little nest.
+~
+4 0 4
+D5
+~
+~
+0 -1 465
+S
+#459
+A Hall~
+This huge hallway leads west and east from here, you can hear wings in the
+air high above you, maybe its best that you stay close to the walls.
+~
+4 8 4
+D1
+~
+~
+0 -1 460
+D3
+~
+~
+0 -1 440
+S
+#460
+A Hall~
+This huge hallway leads west and east from here, you can hear wings in the
+air high above you, maybe its best that you stay close to the walls.
+The air seems a bit colder here, maybe there is a way out here somewhere.
+~
+4 8 4
+D1
+~
+~
+0 -1 461
+D3
+~
+~
+0 -1 459
+S
+#461
+A Hall~
+This huge hallway leads west and north from here, you can hear wings in the
+air high above you, maybe its best that you stay close to the walls.
+The air seems colder here and a soft wind blows from the north, you can
+see a bright opening to the north.
+~
+4 8 4
+D0
+~
+~
+0 -1 462
+D3
+~
+~
+0 -1 460
+S
+#462
+Floating in the air~
+   You are floating in the air, this must be where the pegasus takes off.
+There is a wonderful landscape stretching far out to the north, maybe you 
+should mount a pegasus and explore this territory.
+~
+4 0 9
+D2
+~
+~
+0 0 461
+S
+#463
+A Beautiful Stable~
+This stable is much smaller than the others and it is richely decorated
+with paintings on the walls and floor, this must be the stable of the 
+great pegasus that once left the world for olympus never to be seen by
+mortals again.
+~
+4 8 4
+D2
+~
+~
+0 -1 447
+S
+#464
+The White Marble Archway~
+ You are still on the main thoroughfare of this town. To the north, you
+can see a large castle and some stairs going up into an entranceway.
+~
+4 0 0
+D0
+~
+~
+0 0 409
+D2
+~
+~
+0 0 408
+S
+#465
+A Trail~
+   This trail leads towards a huge mountain, it is a rough trail and you are
+feeling tired and wonder if it is a good idea to go this way.  The rough
+trail leads east through this mountainous area.  There is a big
+rock here, maybe you should inspect it.  
+~
+4 4 4
+D1
+~
+~
+0 0 466
+D4
+~
+~
+0 0 458
+S
+#466
+A Trail~
+   This trail leads towards a huge mountain, it is a rough trail and you are
+feeling tired and wonder if it is a good idea to go this way.  The rough
+trail leads east and west through this mountainous area.  
+~
+4 0 4
+D1
+~
+~
+0 0 467
+D3
+~
+~
+0 0 465
+S
+#467
+A Trail~
+ You are on a steep trail that leads to a huge mountain. The path here
+is rocky and covered with brambles, making it difficult to traverse.
+The trail makes a sharp turn and continues north and west.
+~
+4 0 4
+D0
+~
+~
+0 0 468
+D2
+~
+~
+0 0 4036
+D3
+~
+~
+0 0 466
+S
+#468
+Mountain~
+ You are at the base of a mountain which towers over Hellas and
+Moria. Looking up you can see parts of this trail are going to 
+be very hard to travel.
+~
+4 0 5
+D2
+~
+~
+0 0 467
+D4
+~
+~
+0 0 469
+S
+#469
+Mountain~
+ Your a climbing the side of a steep mountain. The trail is long and
+treacherous and leads up or down. 
+~
+4 0 9
+D4
+~
+~
+0 0 402
+D5
+~
+~
+0 0 468
+S
+#476
+Hall of Zeus~
+   You are in a long hallway with walls of pure white marble and an ornate
+ceiling, the hall continues south and north.  
+~
+4 0 0
+D0
+~
+~
+0 0 477
+D2
+~
+~
+0 0 457
+S
+#477
+Hall of Zeus~
+   You are in a long hallway with walls of pure white marble and an ornate
+ceiling.  To the north you can see something that looks like a huge room,
+you can actually feel how divine power radiates from that room.  
+There are exits north and south from here.  
+~
+4 0 0
+D0
+~
+~
+0 0 410
+D2
+~
+~
+0 0 476
+S
+#478
+The Fountain of Life~
+ You are on a small rise above the cities marbled archways. The fountain
+before you is made of the purest of golds. The water sparkles with a life
+of its own, inviting you to drink and feel refreshed. You can hear some 
+voices close by. 
+~
+4 262160 1
+D2
+~
+~
+0 0 406
+S
+#479
+The White Marble Archway~
+ You are walking through a magnificent marbled archway. Beautiful gardens
+surround you, filled with exotic animals and birds that you have only heard
+of in myths. It is so peaceful and relaxing here. This could only be a home
+for Gods.
+~
+4 0 0
+D0
+~
+~
+0 0 406
+D1
+~
+~
+0 0 481
+D2
+~
+~
+0 0 405
+D3
+~
+~
+0 0 480
+S
+#480
+Garden~
+   You are in a beautiful garden full of life, you hear birdsong and some
+animals moving around near you.  You feel full of harmony as you wander
+around in this humid garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 432
+D1
+~
+~
+0 0 479
+D3
+~
+~
+0 0 401
+S
+#481
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 453
+D3
+~
+~
+0 0 479
+S
+#482
+Garden~
+   You are in a beautiful garden full of life, you hear birdsong and some
+animals moving around near you.  You feel full of harmony as you wander
+around in this humid garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 483
+D1
+~
+~
+0 0 432
+S
+#483
+Garden~
+   You are in a beautiful garden full of life, you hear birdsong and some
+animals moving around near you.  You feel full of harmony as you wander
+around in this humid garden.  
+~
+4 0 0
+D1
+~
+~
+0 0 427
+D2
+~
+~
+0 0 482
+D3
+~
+~
+0 0 484
+S
+#484
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 485
+D1
+~
+~
+0 0 483
+S
+#485
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 486
+D2
+~
+~
+0 0 484
+S
+#486
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D1
+~
+~
+0 0 487
+D2
+~
+~
+0 0 485
+S
+#487
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D1
+~
+~
+0 0 488
+D3
+~
+~
+0 0 486
+S
+#488
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance. You hear birdsong and some animals moving
+around near you. You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D2
+~
+~
+0 0 489
+D3
+~
+~
+0 0 487
+S
+#489
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 488
+D2
+~
+~
+0 0 427
+S
+#490
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 491
+D3
+~
+~
+0 0 453
+S
+#491
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D1
+~
+~
+0 0 492
+D2
+~
+~
+0 0 490
+D3
+~
+~
+0 0 424
+S
+#492
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 493
+D3
+~
+~
+0 0 491
+S
+#493
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 494
+D2
+~
+~
+0 0 492
+S
+#494
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D2
+~
+~
+0 0 493
+D3
+~
+~
+0 0 495
+S
+#495
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D1
+~
+~
+0 0 494
+D3
+~
+~
+0 0 496
+S
+#496
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D1
+~
+~
+0 0 495
+D2
+~
+~
+0 0 497
+S
+#497
+Garden~
+   You are in a beautiful garden full of life, the air is humid and filled
+with a wonderful fragrance.  You hear birdsong and some animals moving
+around near you.  You feel full of harmony as you wander around in this
+divine garden.  
+~
+4 0 0
+D0
+~
+~
+0 0 496
+D2
+~
+~
+0 0 424
+S
+#499
+Place you cant't go~
+  This is a room Kasmir mad to get around a cheesy bug in mobprogs.
+oh well.. it works for awhile.... 
+~
+4 393464 0
+S
+#99999
+$~

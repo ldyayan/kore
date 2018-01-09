@@ -1,0 +1,435 @@
+#12500
+skeleton attic key~
+a attic key~
+A skeleton key is here on the ground.~
+~
+18 5 16385
+12500 0 0 0
+1 0 0
+#12501
+key polished~
+a polished key~
+A polished key lies on the ground.~
+You see a small polished key.
+~
+18 5 16385
+12501 0 0 0
+1 0 0
+#12502
+dull key~
+a dull key~
+A dull key lies here on the ground.~
+~
+18 4 16385
+12502 0 0 0
+1 0 0
+#12503
+brass key~
+a brass key~
+A brass colored key is here on the ground.~
+~
+18 4 1
+12503 0 0 0
+1 0 10
+#12504
+indigo key~
+an indigo key~
+A bright indigo key is here on the ground.~
+~
+18 36 1
+12504 0 0 0
+1 0 0
+#12550
+eye patch~
+an eye patch~
+A black eye patch has been carelessly left here.~
+~
+9 1 262145
+1 0 0 0
+1 500 0
+A
+1 1
+A
+5 1
+#12551
+jeweled medallion gold~
+a ^rj^n^we^n^cw^n^ye^n^gl^n encrusted ^Ygold^n medallion~
+A ^rj^n^we^n^cw^n^ye^n^gl^n encrusted ^Ygold^n medallion lies here on the ground.~
+~
+11 32 5
+0 0 0 0
+1 250 0
+A
+12 15
+A
+5 -3
+#12552
+serving tray~
+a serving tray~
+A serving tray is here on the ground.~
+~
+15 1 16385
+300 0 -1 0
+3 1000 200
+E
+tray serving~
+   A semi large round tray. Made of pure silver and large
+enough to hold a number of objects.
+~
+#12553
+apron white dirty~
+a dirty white apron~
+A dirty white apron is here lying on the ground.~
+~
+9 320 1025
+7 0 0 0
+4 750 0
+A
+19 1
+A
+13 10
+#12554
+wooden spatula~
+a wooden spatula~
+A wooden spatula is here on the ground.~
+~
+5 64 8193
+0 2 4 5
+1 50 5
+A
+18 1
+A
+18 1
+#12555
+meat flesh rotten~
+a rotten piece of meat~
+The rotten meat is lying on the ground.~
+~
+19 4 1
+5 0 0 0
+1 1 1
+#12556
+scalpel bloody scalpel~
+a bloody scalpel~
+A bloody scalpel is here lying on the ground.~
+~
+5 41824 8193
+0 7 3 11
+2 5000 0
+A
+19 2
+A
+2 2
+#12557
+iron cross medal 12557~
+an Iron Cross medal~
+A cross shaped medal is here on the ground.~
+~
+9 8401474 5
+2 0 0 0
+1 550 0
+A
+19 1
+A
+13 5
+#12558
+cape agrametto ebony 12558~
+a Cape of Agrametto~
+An ebony cape has been left here on the ground.~
+~
+9 49760 1025
+10 0 0 0
+5 0 0
+A
+19 2
+A
+12 40
+#12559
+gold emerald enlayed ring~
+an ^Gemerald^n enlayed ^Ygolden^n ring~
+An ^Gemerald^n covered ^Ygold^n ring has been left here.~
+~
+11 96 3
+0 0 0 0
+1 0 0
+A
+19 2
+A
+13 15
+#12560
+dress rainbow silk~
+a ^rr^n^yai^n^gn^n^bb^n^mow^n hued silk dress~
+A ^rr^n^yai^n^gn^n^bb^n^mow^n colored dress is here on the ground.~
+~
+9 321 9
+5 0 0 0
+3 3000 0
+A
+3 2
+A
+12 20
+#12561
+diamond bracelet~
+a ^Wdiamond^n studded bracelet~
+A ^Wdiamond^n studded bracelet is here on the ground.~
+~
+11 3 4097
+0 0 0 0
+1 1500 0
+A
+19 1
+#12562
+sword sharp short shortsword~
+a sharp shortsword~
+A bright sword is here on the ground.~
+~
+5 12353 8193
+0 3 5 11
+8 700 0
+A
+19 2
+A
+18 2
+#12563
+golden laced sandals~
+a pair of ^Ygolden^n sandals~
+A pair of ^Ygolden^n sandals have been left here.~
+~
+9 1 65
+2 0 0 0
+3 2500 0
+A
+1 2
+A
+14 40
+#12564
+black lotus dirk dagger short blade~
+a dirk of the Black Lotus~
+A short bladed weapon is here on the ground.~
+~
+5 65 8193
+0 2 5 11
+4 50 0
+E
+dirk lotus black dagger blade~
+This small dagger is favored by the Black Lotus thieves
+guild. It has a slender blade and is feather sharp
+along both sides.
+~
+A
+2 -1
+A
+19 2
+#12565
+scarlet cloak~
+a ^rscarlet^n cloak~
+A ^rscarlet^n cloak lies here on the ground.~
+~
+9 0 5
+1 0 0 0
+2 2 1
+#12566
+rusted iron key~
+a rusted iron key~
+A rusted iron key is on the ground.~
+~
+18 65540 1
+0 0 0 0
+1 1 1
+#12570
+iron cross oak leaves 12570~
+an Iron Cross with ^Yoak leaves^n~
+An iron cross with ^Yoak leaves^n is lying here.~
+~
+9 8925762 5
+4 0 0 0
+1 100 0
+A
+19 2
+A
+13 -50
+A
+13 -50
+A
+13 -50
+#12571
+iron cross oak leaves diamonds 12571~
+an Iron Cross with ^Yoak leaves^n and ^Wdiamonds^n~
+An iron cross with ^Yoak leaves^n and ^Wdiamonds^n is lying here.~
+Wow...!
+~
+9 9515586 5
+6 0 0 0
+1 100000 10000
+A
+19 3
+A
+13 -100
+A
+13 -100
+A
+13 -100
+#12572
+pour le merite medal 12572~
+a medal ^BPour le Merite^n~
+A blue cross medal is lying here in the dirt.~
+Could you ever really deserve this..?
+~
+9 10564162 5
+8 0 0 0
+1 1000000 100000
+A
+19 4
+A
+13 -100
+A
+13 -100
+A
+13 -100
+A
+13 -100
+A
+13 -100
+#12588
+chocolate Easter Bunny ~
+a chocolate Easter bunny~
+A chocolate Easter bunny is here on the ground.~
+~
+19 17 16385
+24 0 0 0
+1 1 1
+A
+18 2
+A
+19 1
+#12589
+lucky rabbit foot charm~
+a Lucky Rabbit's foot charm~
+A rabbit's foot has been left here.~
+~
+9 17 4097
+8 0 0 0
+2 1 1
+E
+rabbit foot lucky charm~
+      I hope Lucky the Rabbit does not miss his foot!
+~
+A
+18 2
+A
+19 2
+#12590
+Vorpal Stiletto Durian~
+a Vorpal Stiletto of Durian~
+A thin bladed ebony dagger is here on the ground.~
+~
+5 68644 8193
+0 8 4 11
+4 100000 20000
+A
+18 4
+A
+19 5
+#12591
+ring crystal nenya~
+the Elven Ring 'Nenya'~
+A crystal ring has been left here.~
+~
+11 65600 16387
+0 0 0 0
+1 2000 0
+A
+18 3
+A
+19 3
+#12592
+bracelet mithril~
+a mithril bracelet of the Dwarves~
+A greyish bracelet lies here on the ground.~
+~
+9 2162944 4097
+10 0 0 0
+1 100000 20000
+A
+18 4
+A
+19 4
+#12593
+crossbow bow might~
+the Crossbow of Might~
+An impressive crossbow lies here on the ground.~
+~
+6 65603 32769
+0 6 4 14
+10 100000 10000
+A
+18 3
+A
+19 4
+#12594
+wand quicksilver ~
+a wand of quicksilver~
+A silver colored wand is here on the ground.~
+~
+3 161 16385
+40 1 1 64
+1 1 1
+#12595
+multi hued potion~
+a multi-hued potion~
+A shimmering potion is here on the ground.~
+~
+10 32 16385
+60 73 36 64
+1 1 1
+#12596
+basket bunny easter~
+an Easter Bunny's basket~
+A cute basket made of straw has been left here.~
+~
+15 17 16385
+1000 0 -1 0
+5 1 1
+A
+1 2
+A
+19 3
+#12597
+bunny pink ear fuzzy pair~
+a pink pair of fuzzy bunny ears~
+A pair of pink fuzzy ears is here on the ground.~
+~
+9 17 17
+10 0 0 0
+3 1 1
+A
+1 2
+A
+19 1
+#12598
+candy cane red white~
+a ^rred^n and ^Wwhite^n ^rc^n^Wa^n^rn^n^Wd^n^ry^n ^Wc^n^ra^n^Wn^n^re^n~
+A red and white candy cane is here on the ground.~
+~
+19 64 1
+24 0 0 0
+1 1 1
+#12599
+dagger~
+a dagger~
+A strange look dagger has been left here.~
+~
+5 65644 24577
+0 0 0 0
+1 1 1
+E
+tree christmas ~
+     You see a beautifully decorated tree which sparkles in the night.
+Please leave any Christmas wishes, hopes, or dreams on this tree.
+~
+A
+18 3
+A
+19 3
+#99999
+$~

@@ -1,0 +1,45 @@
+>fight_prog 1~
+  if inroom($r) == here
+    if hasworn($i) == 7910
+      emote gasps, 'Give me strength Master!'
+      mpecho Krone's gauntlets begin to hum loudly!
+      mpechoat $r Krone suddenly grabs your head between his hands and squeezes!
+      mpechoaround $r Krone picks up $R with astonishing strength and crushes $L skull!
+      mpdamage $r 5000
+    endif
+  endif
+~
+>fight_prog 4~
+  if inroom($r) == here
+    emote shrieks, 'Please!  Leave me be!'
+    mpechoat $r Krone pushes you over and you go down!  Ouch! 
+    mpechoaround $r Krone gives $R a hefty push and $R goes sprawling!
+    mpdamage $r 50
+    mppose $r sit
+  endif
+~
+>fight_prog 4~
+  if inroom($r) == here
+    if hasworn($i) == 7910
+      emote screams, 'Leave me alone!'
+      mpecho Krone makes a sweeping gesture, and you suddenly find yourself on your ass!
+      mpdamage all 100
+      mppose all sit
+    endif
+  endif
+~
+>fight_prog 2~
+  mpecho A bright light suddenly fills the room, centered on Krone.
+  mpsilent mpcallmagic 'restore' $i
+  emote sputters, 'Thank you Master, thank you!'
+~
+>rand_prog 2~
+  emote fidgets uneasily in front of you.
+~
+>rand_prog 2~
+  mutter
+~
+>death_prog 100~
+  emote whispers, 'Forgive me..'
+~
+|

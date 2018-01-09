@@ -1,0 +1,1128 @@
+#2100
+Beyond the shadows~
+   Stepping out of the field of shadows you come into a hall filled with
+a bright white light.  In the middle of the hall is a stake of what appears
+to be solid oak.  There are shackles dangling along the post of the stake.
+The light seems to come from no source in particular, yet it fills the hall
+completely.
+~
+21 393224 0
+S
+#2101
+An alcove~
+   The shifting wall of shadows to your west seems to absorb all light
+from the air.  The alcove itself is carved from the black stone of
+the earth.  The walls are chiseled smooth and the top of the alcove
+arches up to a height of approximately 30 feet.
+~
+21 9 0
+D3
+~
+~
+0 0 2087
+S
+#2102
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 0 0
+S
+#2103
+At the base of the cliffs~
+   The base of the cliffs slope gently upwards.  The going here is easy, but 
+you can see that a short way up the going becomes treacherous.  About half-
+way up the cliffs you can see an opening to a cave.  The loose rocks around
+you appear recently turned, as if someone has recently tread this way.
+~
+21 0 2
+D0
+~
+~
+0 0 2078
+D4
+~
+~
+0 0 2104
+S
+#2104
+Ascending the cliff~
+   Shortly after beginning your climb you come to a cave that opens
+into the face of the cliff.  The mouth of the cave is quite wide and
+it will take you some time to climb around it.  You wonder quietly
+to yourself if it might not be better to check out what's inside.
+~
+21 0 5
+D2
+~
+~
+0 0 2109
+D4
+~
+~
+0 0 2105
+D5
+~
+~
+0 0 2103
+S
+#2105
+Nearing the top of the cliff~
+   As you pass the first cave on the cliff face the grade begins to
+steepen and soon you are having to use your hands to pull yourself
+up inch by inch.  Your muscles burn as you grasp at tiny cracks and
+crevices, searching for your next handhold.  You look up and see
+that you still have some ways to go before you'll reach the top.
+~
+21 0 5
+D4
+~
+~
+0 0 2106
+D5
+~
+~
+0 0 2104
+S
+#2106
+Atop the cliffs~
+   As you step up to the ridge of the cliff the ground levels out
+before you.  There is a broad ledge that is scattered with broken
+stones and lichen that lead back to the mouth of a large cave.
+~
+21 1 5
+D2
+~
+~
+0 0 2107
+D5
+~
+~
+0 0 2105
+S
+#2107
+A darkened entryway~
+   The broad ledge widens out before the mouth of the cave into 
+a small plateau.  The stone around the mouth of the cave is scuffed
+and clawed and there are deep gouges in the stone beneath your feet.
+To the north you can look out over Avernus.  The mountain you rounded
+to get here looms like a beacon over the rocky wastes.  Occasionally
+a ball of gas bursts into flame illuminating the horizon.
+~
+21 1 4
+D0
+~
+~
+0 0 2106
+D2
+~
+gate~
+2 0 2108
+S
+#2108
+The glittering cave~
+   The cave you are standing in stikes you at once as both wonderous
+and horrible.  The cavern was apparently carved out of a vein of
+black onyx, and the walls are laced with quatz.  The horror of the
+being standing before you quickly erases any thoughts of beauty
+you could find here.
+~
+21 393224 0
+D0
+~
+gate~
+2 0 2107
+D2
+~
+doors~
+2 2029 2116
+S
+#2109
+A short passage~
+   The short passage you find yourself in leads back from the mouth of
+the cave into utter blackness.  As you proceed along, you feel something
+crunching under your boots that feels a lot like bones.
+~
+21 1 0
+D0
+~
+~
+0 0 2104
+D3
+~
+~
+0 0 2110
+S
+#2110
+Complete darkness~
+^wIt is pitch black...^n
+~
+21 73 0
+D1
+~
+~
+0 0 2109
+S
+#2111
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+21 0 12
+D2
+~
+~
+0 0 2112
+D3
+~
+~
+0 0 2099
+S
+#2112
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+21 0 12
+D0
+~
+~
+0 0 2111
+D2
+~
+~
+0 0 2113
+S
+#2113
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+21 0 12
+D0
+~
+~
+0 0 2112
+D7
+~
+~
+0 0 2114
+S
+#2114
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+21 0 12
+D2
+~
+~
+0 0 2115
+D9
+~
+~
+0 0 2113
+S
+#2115
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+21 0 12
+D0
+~
+~
+0 0 2114
+D8
+~
+~
+0 0 2084
+S
+#2116
+A quiet place~
+   Thick dust covers the floor in this section of the cave.  You'd guess that
+no foot has dared tread on this ground in eons.  Your clear tracks across the
+dust-layered stone serve only to accentuate the fact that your passage is
+disturbing your surroundings.  The shimmering rift of magic before you swirls
+maddeningly, forcing you to look away from time to time as your mind slips
+into semi-conciousness.
+~
+21 0 0
+D0
+~
+doors~
+2 2029 2108
+S
+#2117
+Before the Gates of Dis~
+   Two massive wrought iron gates jut from the stone-littered ground before
+you, each standing over twenty five feet in height.  The gates are set into
+thick obsidian pillars which connect to the iron walls that surround the city.
+From somewhere inside the city you can hear thousands of voices crying out
+in anguish.  The wind coming off the barren plains at your back carries a
+foul stench.  Carrion beasts of all sizes hover about the gates, staring
+inward, awaiting their next meal.
+~
+21 8 1
+D0
+~
+gates~
+2 0 2118
+S
+#2118
+Inside the gates of Dis~
+   Just inside the gates of Dis, the city takes on horrible new dimensions.
+The tall iron walls hover opressingly above your head and the streets are
+choked with filth.  The iron walls of buildings and city alike are burning
+hot.  Even passing near them causes you a great deal of discomfort.
+~
+21 1 1
+D0
+~
+~
+0 0 2119
+D2
+~
+gates~
+2 0 2117
+S
+#2119
+Main street of Dis~
+   The streets of Dis are dark and melancholy.  Screams echo from somewhere
+along a side street.  In the distance you can see the high tower that is
+rumored to house the master of this plane.  Listless spirits wander the
+streets confessing the sins of their lives.
+~
+21 1 1
+D0
+~
+~
+0 0 2120
+D1
+~
+~
+0 0 2126
+D2
+~
+~
+0 0 2118
+D3
+~
+~
+0 0 2128
+S
+#2120
+Main street of Dis~
+   Everywhere are signs of pain and anguish.  The buildings are squat and
+made of rough-hewn stone, garishly decorated to depict images that mock
+joy and peace.  No stone is without bloodstains and no open space is free
+of suffering.  If you try to approach the victims they shy away from you
+and scream out horribly as if you were scalding them with a hot iron.
+~
+21 1 1
+D0
+~
+~
+0 0 2121
+D2
+~
+~
+0 0 2119
+S
+#2121
+Main street before the temple~
+   Up ahead the sky is blackened by the shape of the twisting tower of Iron,
+home of Dispater, lord of the Dead.  To the east is his temple, a blackened
+edifice of pain and debauchery.  You can see winged demons, apparently his
+acolytes, moving through passageways within.
+~
+21 1 1
+D0
+~
+~
+0 0 2122
+D1
+~
+door~
+1 0 2132
+D2
+~
+~
+0 0 2120
+D3
+~
+~
+0 0 2135
+S
+#2122
+Main street of Dis~
+   The northern part of town is much more humid than the south.  The filth and
+debris that is present everywhere seems to pile up against the north wall that
+separates the tower from the bulk of the city.  Low hanging clouds of green,
+heavy with acid rain, give the sky a sickly appearance.
+~
+21 1 1
+D0
+~
+~
+0 0 2123
+D2
+~
+~
+0 0 2121
+S
+#2123
+Before the Iron Tower~
+   Cold sweat trickles down your back and sends shivers up your spine in
+spite of the intense heat that assaults you on every exposed surface.  There
+is an aura of evil that emenates from the tower before you.  The side streets,
+daunting just a moment ago, now seem like a welcome alternative to the path
+ahead.  You attempt to steel your nerves and slowly place one foot in front
+of the other.
+~
+21 1 1
+D0
+~
+~
+0 0 2144
+D1
+~
+~
+0 0 2138
+D2
+~
+~
+0 0 2122
+D3
+~
+~
+0 0 2141
+S
+#2124
+An unfinished room~
+unfinished
+~
+21 0 0
+S
+#2125
+An unfinished room~
+unfinished
+~
+21 0 0
+S
+#2126
+A side street~
+   You find yourself walking down a side street in Dis.  There are several
+sounds and smells you can't (thankfully) identify.  You can't pick individual
+voices out in the banter, but you know that each is filled with anguish.
+~
+21 1 1
+D0
+~
+~
+0 0 2149
+D1
+~
+~
+0 0 2127
+D2
+~
+~
+0 0 2151
+D3
+~
+~
+0 0 2119
+S
+#2127
+A side street~
+   In the middle of this wide street is a man encased in flames.  He is
+chained to a stone slab that lists his crimes.  He was apparently an
+arsonist in life and is doomed to burn for eternity to suffer for his
+crimes.  You see his skin char and blacken as the flames lick at his body,
+but as quickly as he blisters and burns, the wounds cover over and the
+fire begins its work anew.
+~
+21 1 1
+D0
+~
+~
+0 0 2152
+D1
+~
+~
+0 0 2131
+D2
+~
+~
+0 0 2153
+D3
+~
+~
+0 0 2126
+S
+#2128
+A side street~
+   The ground here is made up of what appears to be various kinds of skins.  A
+soft breeze blows in from the north, carrying with it the nauseating smell of
+carrion.  Your boots squish and slop on the muddy (bloody?) ground.  The side
+street continues on to the west.
+~
+21 1 1
+D0
+~
+~
+0 0 2164
+D1
+~
+~
+0 0 2119
+D2
+~
+~
+0 0 2165
+D3
+~
+~
+0 0 2129
+S
+#2129
+A side street~
+   This section of street is littered with stockades.  Gaunt figures are
+locked into them here and there, left to starve for eternity, for death
+does not come quickly to the dead.  Figures with bodies scarcely larger
+than the bones that support them stuggle to look at you as you pass, sound
+having left their bodies long ago.
+~
+21 1 1
+D0
+~
+~
+0 0 2162
+D1
+~
+~
+0 0 2128
+D2
+~
+~
+0 0 2163
+D3
+~
+~
+0 0 2130
+S
+#2130
+An intersection~
+   The avenue that runs north here is split down the middle by a river of
+blood that flows from victims hung from the walls on either side of the street.
+Most of the bodies have been pierced with wicked barbed hooks attached to
+poles which hang limply from their flesh.
+~
+21 1 1
+D0
+~
+~
+0 0 2146
+D1
+~
+~
+0 0 2129
+S
+#2131
+ An intersection~
+   As you come to the end of the side street, a wide avenue turns to the
+north and terminates up ahead at the castle walls.  Deep ruts have been cut
+in the stone road, and you can see people chained down here and there, being
+obviously run over each time a cart passes.
+~
+21 1 1
+D0
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2127
+S
+#2132
+ Entrance to the Temple of Dispater~
+   You are standing inside a dummy room, which should get real.
+~
+21 8 0
+D0
+~
+~
+0 0 2156
+D1
+~
+~
+0 0 2133
+D2
+~
+~
+0 0 2157
+D3
+~
+door~
+1 0 2121
+S
+#2133
+Before the Altar~
+   The altar of the temple of Dispater is an affront to all things good and
+holy.  The twisted forms of totured souls are engraved in relief on the
+walls, and the altar itself is a blackened dais of iron forged in blood.
+Resting upon the altar is a book that was scribed upon the skins of virgin
+girls who had impure thoughts.  The text was inked in the blood of false
+priests.
+~
+21 8 0
+D0
+~
+~
+0 0 2158
+D1
+~
+~
+0 0 2160
+D2
+~
+~
+0 0 2159
+D3
+~
+~
+0 0 2132
+S
+#2134
+Eastern Avenue~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D0
+~
+~
+0 0 2148
+D2
+~
+~
+0 0 2145
+S
+#2135
+The small alley~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D1
+~
+~
+0 0 2121
+D3
+~
+~
+0 0 2136
+S
+#2136
+The small alley~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D1
+~
+~
+0 0 2135
+D3
+~
+~
+0 0 2137
+S
+#2137
+Western Avenue~
+   A small alley parts from the road here and runs east to the main street
+through the city.  Dark shadows, too deep to penetrate, mask your view of
+whatever lies in that alley.  You can almost feel eyes upon you as you
+hurry quickly past.
+~
+21 1 1
+D0
+~
+~
+0 0 2147
+D1
+~
+~
+0 0 2136
+D2
+~
+~
+0 0 2146
+S
+#2138
+A side street~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D0
+~
+~
+0 0 2170
+D1
+~
+~
+0 0 2139
+D2
+~
+~
+0 0 2171
+D3
+~
+~
+0 0 2123
+S
+#2139
+A side street~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D0
+~
+~
+0 0 2172
+D1
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2173
+D3
+~
+~
+0 0 2138
+S
+#2140
+An intersection~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D2
+~
+~
+0 0 2148
+D3
+~
+~
+0 0 2139
+S
+#2141
+A side street~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D0
+~
+~
+0 0 2166
+D1
+~
+~
+0 0 2123
+D2
+~
+~
+0 0 2167
+D3
+~
+~
+0 0 2142
+S
+#2142
+A side street~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D0
+~
+~
+0 0 2168
+D1
+~
+~
+0 0 2141
+D2
+~
+~
+0 0 2169
+D3
+~
+~
+0 0 2143
+S
+#2143
+An intersection~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D1
+~
+~
+0 0 2142
+D2
+~
+~
+0 0 2147
+S
+#2144
+The Death Gates~
+   Everything you've witnessed in a life of adventuring could not prepare
+you for what you now face.  Two enormous gates tower above you, wrought
+entirely from humanoid skulls set into thick iron brackets.  Each gate must
+way several thousand pounds.  Your flesh begins to crawl maddeningly as you
+notice that each of the skulls seems to be staring directly at you.  Unnerved
+you step to the side to avoid their gaze and have to stifle a scream as the
+thousands of heads rotate to keep their eyes locked upon yours.
+~
+21 1 1
+D2
+~
+~
+0 0 2123
+S
+#2145
+Eastern Avenue~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D0
+~
+~
+0 0 2134
+D2
+~
+~
+0 0 2131
+S
+#2146
+Western Avenue~
+   The river of blood flows sickeningly ever north through the middle of the
+street that ends at the walls of the Tower.  Overstuffed carrion birds swoop
+lazily down to drink from the river and barely manage to wing themselves back
+up to the top of the walls.
+~
+21 1 1
+D0
+~
+~
+0 0 2137
+D2
+~
+~
+0 0 2130
+S
+#2147
+Western Avenue~
+   Silent screams pierce your vision from all around you.  Twisted faces
+trapped within walls of flesh and floating spirits that scream a million
+torments assault your visual senses.  Your ears detect nothing except the
+perfect silence of death.  Your mind spins and your senses start to reel.
+The silence is pierced by the deafening cry of a bird of prey.  It's as
+large as a wyvern but appears more closely related to a raven.
+~
+21 1 1
+D0
+~
+~
+0 0 2143
+D2
+~
+~
+0 0 2137
+S
+#2148
+Eastern Avenue~
+   You are standing inside a dummy room, which should get real.
+~
+21 1 1
+D0
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2134
+S
+#2149
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D2
+~
+~
+0 0 2126
+S
+#2150
+The Corner (aka the Timeout room)~
+   As you sit with your nose in the corner, you have lots of time to
+reflect upon what it is that you did to anger an immortal.  There is
+no way out of this room, so get comfortable.
+~
+21 394992 0
+S
+#2151
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D0
+~
+~
+0 0 2126
+S
+#2152
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D2
+~
+~
+0 0 2127
+S
+#2153
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D0
+~
+~
+0 0 2127
+S
+#2154
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 0 0
+S
+#2155
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 0 0
+S
+#2156
+An anteroom in the Temple~
+   You are standing inside a dummy room, which should get real.
+~
+21 8 0
+D2
+~
+~
+0 0 2132
+S
+#2157
+An anteroom in the Temple~
+   You are standing inside a dummy room, which should get real.
+~
+21 8 0
+D0
+~
+~
+0 0 2132
+S
+#2158
+A prayer room~
+   You are standing inside a dummy room, which should get real.
+~
+21 8 0
+D2
+~
+~
+0 0 2133
+S
+#2159
+A prayer room~
+   You are standing inside a dummy room, which should get real.
+~
+21 8 0
+D0
+~
+~
+0 0 2133
+S
+#2160
+Faces of Death~
+   This room is barren barring a single human skull with an enormous diamond
+embedded in the left eye socket.  As you look to remove the diamond, you begin
+to see visions of the many faces of death.  You scream in horror as you fall
+from a tremendous height and bounce as you hit the earth.  A moment later you
+writhe in agony as you experience death by incineration.  You then are suddenly
+underwater dying by asphixiation.  Further torments assail your mind.  You die
+over and over, each death seeming more cruel and more real than the one before
+it.  You realize that everyone dies, it's just a matter of how and when.
+~
+21 9 0
+D3
+~
+~
+0 0 2133
+S
+#2161
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 0 0
+S
+#2162
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D2
+~
+~
+0 0 2129
+S
+#2163
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D0
+~
+~
+0 0 2129
+S
+#2164
+A maggot-filled room~
+   This room is made up of some form of meat you can't identify.  The floor
+churns and twists as you tread upon it.  You look down and study the material
+and recoil in horror as you see a face turn a pleading eye on you.  The face
+has a shadow of a mouth that is twisted into a horrible silent scream.
+~
+21 9 0
+D2
+~
+~
+0 0 2128
+S
+#2165
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D0
+~
+~
+0 0 2128
+S
+#2166
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D2
+~
+~
+0 0 2141
+S
+#2167
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D0
+~
+~
+0 0 2141
+S
+#2168
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D2
+~
+~
+0 0 2142
+S
+#2169
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D0
+~
+~
+0 0 2142
+S
+#2170
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D2
+~
+~
+0 0 2138
+S
+#2171
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D0
+~
+~
+0 0 2138
+S
+#2172
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D2
+~
+~
+0 0 2139
+S
+#2173
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+21 9 0
+D0
+~
+~
+0 0 2139
+S
+#99999
+$~

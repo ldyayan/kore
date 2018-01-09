@@ -1,0 +1,85 @@
+#8
+the Abandoned House~
+899 10 2 32
+M 0   802     1   805            the large brown rat
+M 0   802     2   805            the large brown rat
+M 0   812     1   844            the huge black squirrel
+E 1   800    20     1                    left finger a shiny ^Gjade^n ring
+D 0   844     1     2            The abode of the Squirrel door east
+D 0   843     3     2            The Top of the Huge Tree door west
+M 0   805    10   843            the red-tail hawk
+M 0   800    20   840            the garter snake
+M 0   801    20   840            the black squirrel
+M 0   803    20   840            the fat raccoon
+M 0   800    20   839            the garter snake
+M 0   801    20   839            the black squirrel
+M 1   802    20   839            the large brown rat
+M 0   804     6   836            the huge slug
+M 0   804     7   836            the huge slug
+M 0   819     1   831            the ghost
+D 0   831     2     1            Second Floor door south
+M 0   821     1   821            the skeleton
+D 0   821     3     1            Kitchen door west
+M 0   821     2   808            the skeleton
+D 0   808     1     1            Family Room door east
+D 0   807     2     1            Dusty Foyer door south
+D 0   807     3     1            Dusty Foyer door west
+M 0   820     1   811            a hungry ghoul
+D 0   811     3     1            Bedroom door west
+M 0   820     2   813            a hungry ghoul
+M 0   821     3   813            the skeleton
+D 0   813     3     1            Bedroom door west
+M 0   820     3   814            a hungry ghoul
+M 0   821     4   814            the skeleton
+D 0   814     0     1            Dressing Room door north
+D 0   814     2     1            Dressing Room door south
+M 0   822     1   817            the two-headed demon
+E 1   808    20    16                    wield a black flaming whip
+M 0   823     1   817            the rutterkin
+M 0   823     2   817            the rutterkin
+D 0   817     2     1            Master Bedroom door south
+M 0   820     4   830            a hungry ghoul
+D 0   830     3     1            Storage Cellar door west
+D 0   838     0     1            Delivery Entrance door north
+M 0   821     5   829            the skeleton
+D 0   829     1     1            Basement door east
+D 0   806     0     1            Entrance to the House door north
+D 0   822     1     1            Maid's Quarters door east
+M 0   804     1   837            the huge slug
+M 0   804     2   837            the huge slug
+D 0   837     2     1            Backyard door south
+M 0   819     2   810            the ghost
+E 1   807    40    14                    left wrist some rusty chains
+D 0   810     1     1            Hall door east
+M 0   820     5   812            a hungry ghoul
+D 0   812     0     1            Hall door north
+D 0   812     1     1            Hall door east
+M 0   820     6   834            a hungry ghoul
+D 0   834     0     1            Reading Room door north
+M 0   800     1   802            the garter snake
+M 0   800     2   802            the garter snake
+M 0   800     3   804            the garter snake
+M 0   800     4   804            the garter snake
+M 0   800     5   803            the garter snake
+M 0   800     6   803            the garter snake
+M 0   803     7   835            the fat raccoon
+M 0   803     8   835            the fat raccoon
+M 0   819     3   818            the ghost
+E 1   807    40    14                    left wrist some rusty chains
+M 0   819     4   818            the ghost
+M 0   819     5   826            the ghost
+E 1   807    40    14                    left wrist some rusty chains
+M 0   821     6   820            the skeleton
+M 0   819     6   827            the ghost
+M 0   821     7   828            the skeleton
+M 0   819     7   832            the ghost
+E 1   807    40    14                    left wrist some rusty chains
+M 0   820     7   832            a hungry ghoul
+M 0   821     8   833            the skeleton
+M 0   820     8   825            a hungry ghoul
+M 0   820     1   819            a hungry ghoul
+M 0   821     9   824            the skeleton
+M 0   819     8   816            the ghost
+S
+#99999
+$~

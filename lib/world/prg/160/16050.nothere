@@ -1,0 +1,9 @@
+>command_prog junk~
+  mpstopcommand
+  mpechoaround $n $n tries to junk something!
+  mpechoat $n Don't junk stuff that people have donated!
+  endif
+~
+|
+
+

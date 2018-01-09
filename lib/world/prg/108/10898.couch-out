@@ -1,0 +1,12 @@
+>rand_prog 5~
+  if inroom($r) == here
+    if ispc ($r)
+      mpechoat $r The couch beast jumps up and swallows you!
+      mpechoaround $r The couch beast leaps up and swallows $r!
+      mpat 10899 mpecho $r comes flying in!
+      mptransfer $r 10899
+      mpat 10899 mpforce $r look
+    endif
+  endif
+~
+|

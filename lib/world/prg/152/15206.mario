@@ -1,0 +1,51 @@
+>greet_prog 50~
+  if ispc($n)
+    say Ahh!  How nice to see you.
+    bhug
+    say If you would wait outside, dinner will be served in a moment.
+    emote shoos $n out of the room with his enormous presence.
+    mptransfer $n nearby
+  endif
+~
+>rand_prog 4~
+  emote begins to earnestly knead a mountain-sized piece of dough.
+  mpasound You hear the sound of heavy exertion nearby.
+~
+>rand_prog 6~
+  emote adjusts his apron then goes back to work.
+~
+>rand_prog 4~
+  emote tastes simmering broth and smacks his lips in approval.
+~
+>fight_prog 20~
+  if inroom($r) == here
+    mpechoat $r $I flashes out a HUGE rolling pin from nowhere and PASTES you!
+    mpechoaround $r $I flashes out a HUGE rolling pin from nowhere and PASTES $K!
+    mpdamage $r 8d8+35
+  endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+    mpecho $I grabs a handful of flour and tosses it at you!  You choke in the thick fume!!!
+    mpdamage all 10d4+10
+    mpechoat $r Oh no!  Some of the flour got into your eyes and you are blinded!
+    mpechoaround $r $R rubs $L eyes with $L flour-cover hands.  What a dumb thing to do... it might blind $K!
+    mpcallmagic 'blindness' $r
+    mpcallmagic 'blindness' $r
+  endif
+~
+>fight_prog 8~
+  if inroom($r) == here
+    mpecho $I starts to yell incoherently at $R!!!
+    mpecho $I shouts, "How dare you fight in MY KITCHEN!"
+    mpecho $I shouts, "For ruining my glorious food, for making a mess all over the place..."
+    mpecho $I shouts, "I WILL PUNISH YOU!!!"
+    mpechoat $r YIKES!  $I's head expands to monstrous proportions and suddenly grows razor-sharp fangs!
+    mpforce $r flee
+    mpforce $r flee
+    mpechoaround $r Why did $r run like that??  What a wimp!
+  endif
+~
+|
+
+

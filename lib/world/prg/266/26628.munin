@@ -1,0 +1,83 @@
+>greet_prog 100~
+  if ispc($n)
+    hide
+  endif
+~
+>time_prog 3~
+  if position($i) == 4
+    wake
+    mpsilent stand
+    hide
+  endif
+~
+>time_prog 15~
+  if position($i) == 4
+    wake
+    mpsilent stand
+    hide
+  endif
+~
+>rand_prog 6~
+  sneak
+  hide
+  west
+  hide
+~
+>fight_prog 8~
+  mpecho $I raises his head to the sky and flys out of the room.
+  mptrigger $i flyaway
+~
+>script_prog flyaway~
+  mpgoto 26699
+  flee
+  flee
+  flee
+  sneak
+@
+@
+@
+@
+@
+  mpgoto 26650
+  hide
+  hide 
+~
+>rand_prog 4~
+  hide
+  mpecho $I whispers into Sigyn's ear...
+  mpcallmagic 'heal' sigyn
+  mpcallmagic 'heal' munin
+  hide
+~
+>fight_prog 8~
+  if inroom($r) == here
+    mpechoat $r $I whispers in your ear...
+    mpechoat $r You don't like what he has to say.
+    mpechoaround $r $I seems to be whispering to $R.
+    mpechoaround $r His words are disrupting the flow of magic around $R!
+    mpcallmagic 'dispel magic' $r
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I beats his mighty wings, forcing you to the ground.
+    mppose all sit
+    mpdamage all 15d4
+  endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+    mpechoat $r $I beats you with his wings.
+    mpechoat $r The power of his wings has blown you from the room!
+    mpechoaround $r $R gets wing-beat by $I, and is blown from the room!
+    mppose $r sit
+    mpdamage $r 10d4
+    mptransfer $r nearby
+  endif
+~
+>fight_prog 22~
+  if inroom($r) == here
+    switch $r
+  endif
+~
+|

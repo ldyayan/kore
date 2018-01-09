@@ -1,0 +1,9 @@
+>fight_prog 5~
+  mpecho $I tosses frying oil at you!!
+  mpdamage all 75
+~
+>fight_prog 5~
+  mpsilent cast 'word of death' all
+  cast 'word of death' all
+~
+|

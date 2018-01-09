@@ -1,0 +1,949 @@
+#5700
+Gang Plank~
+   You stand on a rotten gang plank. You can just barely make out the top 
+deck of the ship going up and a much more welcome dock going down. Should 
+you continue? From here you could ^Cdisembark^n and leave the ship.
+~
+57 4 0
+D4
+~
+~
+0 0 5710
+S
+#5701
+Crow's Nest~
+   You stand on a round wooden platform approximately fifty feet above the 
+deck of the ship. The planks of the floor are fairly rotten. 
+~
+57 0 0
+D5
+~
+~
+0 0 5705
+S
+#5702
+Bridge~
+   You have entered the the bridge of the ship. A large weathered ship's 
+wheel stands at the center of the room. Remnants of charts and maps line the 
+north and south walls. Broken glass windows line the western wall. 
+~
+57 0 0
+D1
+~
+~
+0 0 5712
+S
+#5703
+Crow's Nest~
+   You stand on a round wooden platform approximately fifty feet above the 
+deck of the ship. The planks of the floor are fairly rotten. 
+~
+57 0 0
+D5
+~
+~
+0 0 5707
+S
+#5704
+Aft Deck~
+   You are on the aft deck of an old sailing ship. The rotting planks of the 
+deck make your footing precarious. Three tall masts reach to the sky above 
+your head, their tattered sails dangling in the breeze. 
+~
+57 0 0
+D1
+~
+~
+0 0 5707
+S
+#5705
+Fore Deck~
+   You stand on a triangular deck at the front of the ship.  The foremast
+extends out into the mist.  A crow's nest stands above your head atop
+a tall mast.
+~
+57 0 0
+D3
+~
+~
+0 0 5708
+D4
+~
+~
+0 0 5701
+S
+#5706
+Main Deck~
+   You stand on the main deck of a rotten sailing ship. The deck boards are 
+gouged with holes that could have come from cannon fire. All around you a 
+mist swirls making it hard to see if there really are shapes moving on the 
+ship. A crow's nest stands above your head atop a tall mast. 
+~
+57 0 0
+D1
+~
+~
+0 0 5709
+D3
+~
+~
+0 0 5710
+D4
+~
+~
+0 0 5711
+S
+#5707
+Main Deck~
+   You stand on the main deck of a rotten sailing ship. The deck boards are 
+gouged with holes that could have come from cannon fire. All around you a 
+mist swirls making it hard to see if there really are shapes moving on the 
+ship. A ladder beckons you to investigate the aft deck of the ship. A crow's 
+nest stands above your head atop a tall mast. 
+~
+57 0 0
+D1
+~
+~
+0 0 5710
+D3
+~
+~
+0 0 5704
+D4
+~
+~
+0 0 5703
+S
+#5708
+Main Deck~
+   You stand on the main deck of a rotten sailing ship. The deck boards are 
+gouged with holes that could have come from cannon fire. All around you a 
+mist swirls making it hard to see if there really are shapes moving on the 
+ship. A ladder beckons you to investigate the fore deck of the ship. 
+~
+57 0 0
+D1
+~
+~
+0 0 5705
+D3
+~
+~
+0 0 5709
+S
+#5709
+Main Deck~
+   You stand on the main deck of a rotten sailing ship. The deck boards are 
+gouged with holes that could have come from cannon fire. All around you a 
+mist swirls making it hard to see if there really are shapes moving on the 
+ship. A ladder beckons you to investigate the lower deck of the ship. 
+~
+57 0 0
+D1
+~
+~
+0 0 5708
+D3
+~
+~
+0 0 5706
+D5
+~
+~
+0 0 5724
+S
+#5710
+Main Deck~
+   You stand on the main deck of a rotten sailing ship. The deck boards are 
+gouged with holes that could have come from cannon fire. All around you a 
+mist swirls making it hard to see if there really are shapes moving on the 
+ship. A ladder takes you up to a doorway, and another one down to a gang 
+plank which may lead out. 
+~
+57 0 0
+D1
+~
+~
+0 0 5706
+D3
+~
+~
+0 0 5707
+D5
+~
+~
+0 0 5700
+S
+#5711
+Crow's Nest~
+   You stand on a round wooden platform approximately fifty feet above the 
+deck of the ship. The planks of the floor are fairly rotten. 
+~
+57 0 0
+D5
+~
+~
+0 0 5706
+S
+#5712
+Hallway~
+   You have entered a short, narrow, hallway there are doors to the north, 
+south, east, and west. You get an eerie feeling about entering any of them. 
+~
+57 9 0
+D0
+~
+~
+0 0 5714
+D1
+~
+~
+0 0 5724
+D2
+~
+~
+0 0 5723
+D3
+~
+~
+0 0 5702
+S
+#5713
+Study~
+   You have entered the captain's study.  Rows of book shelves line the walls.
+Books lie strewn across the room.  An old oaken desk lies overturned in
+the corner. This place gives the impression of great evil and mutiny.
+~
+57 0 0
+D1
+~
+~
+0 0 5722
+S
+#5714
+Hallway~
+   You have entered a short narrow hallway.  Doors exit in all 4 cardinal
+directions. The wind whispers through the cracks in the doorways
+Could there be something other than the wind whispering to you?
+~
+57 9 0
+D0
+~
+~
+0 0 5720
+D1
+~
+~
+0 0 5718
+D2
+~
+~
+0 0 5712
+D3
+~
+~
+0 0 5715
+S
+#5715
+Office~
+   You have entered the office of the captain.  A great dark desk sits in
+the middle of the room.  Huge claw marks rake the middle of the desk.
+An old telescope lies in pieces on the floor. You wonder just what
+fate this old ship and it's crew suffered.
+~
+57 0 0
+D1
+~
+~
+0 0 5714
+S
+#5716
+Lieutenant's Quarters~
+   The furniture in this room indicates to you that a higher level
+officer slept here.  The bunk on the west wall is spacious compared
+to normal sailor's bunks and a dresser and desk are on the east wall.
+The furniture in this room looks amazingly intact.
+~
+57 0 0
+S
+#5717
+Officer's Mess~
+   This small dining hall looks fairly comfortable. High back chairs
+sit in front of a long oaken table notched so that the place settings
+would not slide while eating.  A dumbwaiter, which obviously brings the
+food to this room, is off to the east.
+~
+57 9 0
+D1
+~
+~
+0 0 5719
+D2
+~
+~
+0 0 5718
+D3
+~
+~
+0 0 5720
+S
+#5718
+Officer's Lounge~
+   This room is filled with old chairs and small tables anchored to the
+floor.  At one time, you think this room could have been very comfortable
+and a welcome respite from normal ship life.
+~
+57 9 0
+D0
+~
+~
+0 0 5717
+D3
+~
+~
+0 0 5714
+S
+#5719
+Dumbwaiter~
+   You are inside a large dumbwaiter. You can either continue down in the
+dumbwaiter or exit west into the officer's mess.
+~
+57 9 0
+D3
+~
+~
+0 0 5717
+D5
+~
+~
+0 0 5728
+S
+#5720
+Hallway~
+   You have entered a short narrow hallway.  There are doors to the
+north, south, and west. Mist seeps out from under the door to the north.
+~
+57 13 0
+D0
+~
+~
+0 0 5721
+D1
+~
+~
+0 0 5717
+D2
+~
+~
+0 0 5714
+D3
+~
+~
+0 0 5729
+S
+#5721
+Warlock's Quarters~
+   As you enter this room you notice a strange acrid smell and a foot of mist 
+settled on the ground. All of the furnishings lie in scattered and charred 
+pieces around the room. The north wall harbors a gaping hole that tells you 
+definitely that something is not right. Broken glass lies in shards around 
+the room. The only thing still intact is the door through which you came. 
+~
+57 8 0
+D2
+~
+~
+0 0 5720
+S
+#5722
+Captain's Quarters~
+   This room presents a stark contrast to any of the others that you have 
+seen in this hallway. Every piece of furniture is in perfect condition and 
+not a thing seems out of place. The room is filled with ornate furnishings. A 
+fairly large bed is anchored to the north wall. An old well loved desk sits 
+by the portals to the west, and a bookcase stands to the south. 
+~
+57 0 0
+D1
+~
+~
+0 0 5732
+D3
+~
+~
+0 0 5713
+S
+#5723
+Quartermaster's Room~
+   In this room are the remnants of some higher officials quarters. As you 
+look around the room, you can visually piece together pieces of a small desk, 
+chair, dresser, and bed. Whatever tore this room apart was definitely not 
+human. 
+~
+57 0 0
+D0
+~
+~
+0 0 5712
+S
+#5724
+Battle Deck~
+   On this deck are 12 rusted cannons, six on each side of the deck.  Each
+cannon is situated in front of a square portal, and beside each portal
+are several cannon balls and barrels which must have contained some sort
+of ignitor.  This deck is totally intact, obviously what destroyed the
+people on this ship was not an attack from another ship.  A hallway extends
+to the west, a ladder in the corner leads up and down, and a door is off
+to the east.
+~
+57 4 0
+D1
+~
+~
+0 0 5725
+D3
+~
+~
+0 0 5712
+D4
+~
+~
+0 0 5709
+D5
+~
+~
+0 0 5735
+S
+#5725
+Mess Hall~
+   Long tables with crude benches fill this room.  In the very center of the
+room it looks like the tables and chairs have been burned through.  A
+circular char mark is all that remains of the furniture that must have
+been there.  A door leads to the west and an opening lies to the east.
+~
+57 9 0
+D1
+~
+~
+0 0 5726
+D3
+~
+~
+0 0 5724
+S
+#5726
+Galley~
+   This room is obviously where the meals for the crew were made.
+A large stove stands along the south wall, it's chimney exiting through
+a portal.  Pots and pans still hang from the ceiling but the floor is
+scattered with kitchen utensils and several knives are black with what
+could be dried blood.  An opening lies to the north, and a dumbwaiter is
+to the east.
+~
+57 9 0
+D0
+~
+~
+0 0 5727
+D1
+~
+~
+0 0 5728
+D3
+~
+~
+0 0 5725
+S
+#5727
+Pantry~
+   You have entered the ships pantry.  Surprisingly, the shelves are well
+stocked and you can still make out the labels on some of the cans.
+~
+57 13 0
+D2
+~
+~
+0 0 5726
+S
+#5728
+Dumbwaiter~
+   You are standing in a large dumbwaiter which must have once been used to 
+bring food to the room above this one. If you pull on the cables, you can 
+raise yourself to the floor above. Otherwise, the only exit is to the west. 
+~
+57 4 0
+D3
+~
+~
+0 0 5726
+D4
+~
+~
+0 0 5719
+S
+#5729
+Hallway~
+   You are walking along a fairly long hallway. Door frames, from which 
+pieces of doors still hang are to the north and south, The hallway continues 
+to the west and exits back to the deck to the east. 
+~
+57 0 0
+D0
+~
+~
+0 0 5730
+D1
+~
+~
+0 0 5720
+D2
+~
+~
+0 0 5731
+D3
+~
+~
+0 0 5732
+S
+#5730
+Shop~
+   This room once served as the shop area for the ship. All sorts of tools 
+are now embedded in the walls and drawers on workbenches hang open and empty. 
+You wonder what could have caused even the bluntest of instruments to become 
+buried in these walls. Surely you do not want to face that force. 
+~
+57 0 0
+D2
+~
+~
+0 0 5729
+S
+#5731
+Storage~
+   This room reminds you of a junk yard. Pieces of cloth, wood, and metal lie 
+about the room. What once must have been shelves have been smashed in several 
+places. 
+~
+57 0 0
+D0
+~
+~
+0 0 5729
+S
+#5732
+Hallway~
+   You are walking along a fairly long hallway.  Door frames, from which
+pieces of door still hang stand to the north and south.  The hallway
+dead ends to the west and continues to the east.
+~
+57 0 0
+D0
+~
+~
+0 0 5734
+D1
+~
+~
+0 0 5729
+D2
+~
+~
+0 0 5733
+D3
+~
+~
+0 0 5722
+S
+#5733
+Armory~
+   Racks of old rusted swords line the east wall of this room. A pile of 
+cannon balls sit neatly stacked under the portal to the north, and old bows 
+hang from pegs to the west. From the looks of this room, you can surmise that 
+whatever killed the crew didn't allow them to have time to arm themselves. 
+~
+57 0 0
+D0
+~
+~
+0 0 5732
+S
+#5734
+Storage~
+   Barrels are stacked throughout this whole room. Some barrels look like 
+they have been eaten away in places and the contents emptied. Nothing else is 
+of interest in this room. 
+~
+57 0 0
+D2
+~
+~
+0 0 5732
+S
+#5735
+Hallway~
+   You have descended to a hallway in a lower deck of the ship. The
+hallway extends to the west, doors stand to the north and east, and
+a ladder will take you up or down.
+~
+57 9 0
+D1
+~
+~
+0 0 5736
+D3
+~
+~
+0 0 5738
+D4
+~
+~
+0 0 5724
+D5
+~
+~
+0 0 5748
+S
+#5736
+Sick Bay~
+   Cots line fill the west side of this room. On the east side a small 
+examining table, medicine cabinet, and desk can be seen. Shelves containing 
+first aide supplies stand to the east of the door. Several of the cots are 
+still made up awaiting the next sick or injured person. Will it be you? 
+~
+57 9 0
+D1
+~
+~
+0 0 5737
+D3
+~
+~
+0 0 5735
+S
+#5737
+Doctor's Quarters~
+   By the look of the books still present on the shelves in this room
+you can surmise that this room was the quarter's of the ships doctor.
+Although it is not as richly furnished as the captain's quarters, a
+rather comfortable looking bed is present along the south wall.
+~
+57 9 0
+D3
+~
+~
+0 0 5736
+S
+#5738
+Hallway~
+   You are walking along a long hallway, openings lie in all the four
+cardinal directions.
+~
+57 9 0
+D0
+~
+~
+0 0 5739
+D1
+~
+~
+0 0 5735
+D2
+~
+~
+0 0 5740
+D3
+~
+~
+0 0 5741
+S
+#5739
+Crew Quarters~
+   This room is sparsely furnished. Six bunks are attached to the walls and 
+each bunk has a small chair and two shelves next to it. You can tell that 
+this is where the normal crew must have slept. 
+~
+57 0 0
+D2
+~
+~
+0 0 5738
+S
+#5740
+Crew Quarters~
+   This room is sparsely furnished. Six bunks are attached to the walls and 
+each bunk has a small chair and two shelves next to it. You can tell that 
+this is where the normal crew must have slept. 
+~
+57 0 0
+D0
+~
+~
+0 0 5738
+S
+#5741
+Hallway~
+   You are walking along a long hallway, openings lie in all the four 
+cardinal directions. 
+~
+57 9 0
+D0
+~
+~
+0 0 5742
+D1
+~
+~
+0 0 5738
+D2
+~
+~
+0 0 5743
+D3
+~
+~
+0 0 5744
+S
+#5742
+Crew Quarters~
+   This room is sparsely furnished. Six bunks are attached to the walls and 
+each bunk has a small chair and two shelves next to it. You can tell that 
+this is where the normal crew must have slept. 
+~
+57 9 0
+D2
+~
+~
+0 0 5741
+S
+#5743
+Crew Quarters~
+   This room is sparsely furnished. Six bunks are attached to the walls and 
+each bunk has a small chair and two shelves next to it. You can tell that 
+this is where the normal crew must have slept. 
+~
+57 9 0
+D0
+~
+~
+0 0 5741
+S
+#5744
+Hallway~
+   You are walking along a long hallway, openings lie in all the four
+cardinal directions, except that there is a door to the west.
+~
+57 9 0
+D0
+~
+~
+0 0 5745
+D1
+~
+~
+0 0 5741
+D2
+~
+~
+0 0 5746
+D3
+~
+~
+0 0 5747
+S
+#5745
+Crew Quarters~
+   This room is sparsely furnished. Six bunks are attached to the walls and 
+each bunk has a small chair and two shelves next to it. You can tell that 
+this is where the normal crew must have slept. 
+~
+57 9 0
+D2
+~
+~
+0 0 5744
+S
+#5746
+Crew Quarters~
+   This room is sparsely furnished. Six bunks are attached to the walls and 
+each bunk has a small chair and two shelves next to it. You can tell that 
+this is where the normal crew must have slept. 
+~
+57 9 0
+D0
+~
+~
+0 0 5744
+S
+#5747
+Officer's Quarters~
+   These quarters are slightly better than that of the crew. Instead of 
+bunks, beds are anchored to the floor and at the foot of each bed is a trunk. 
+Two desks are against the north wall. 
+~
+57 9 0
+D1
+~
+~
+0 0 5744
+S
+#5748
+Cargo Hold~
+   You have descended to the lowest level of the ship. This cargo hold is 
+filled with barrels which contain unknown products and goods. Various pulleys 
+and ropes which you think are used for loading and unloading this deck, are 
+stacked in neat piles. From here you can continue to a hallway to the west 
+and back up to the previous deck. 
+~
+57 9 0
+D3
+~
+~
+0 0 5749
+D4
+~
+~
+0 0 5735
+S
+#5749
+Hallway~
+   You are in a low and dark hallway. To walk down this hall you must bend 
+over so that you won't hit your head. Doors with barred windows stand to the 
+north and south. The hallway continues to the west. 
+~
+57 9 0
+D0
+~
+~
+0 0 5750
+D1
+~
+~
+0 0 5748
+D2
+~
+~
+0 0 5751
+D3
+~
+~
+0 0 5752
+S
+#5750
+Cell~
+   This room is completely bare. On the wall opposite the door are chains 
+hanging down approximately three feet. What may have once been hay on the 
+floor has disintegrated into dust. 
+~
+57 9 0
+D2
+~
+~
+0 0 5749
+S
+#5751
+Cell~
+   This room is completely bare. On the wall opposite the door are chains 
+hanging down approximately three feet. What may have once been hay on the 
+floor has disintegrated into dust. 
+~
+57 9 0
+D0
+~
+~
+0 0 5749
+S
+#5752
+Hallway~
+   You are in a low and dark hallway. To walk down this hall you must bend 
+over so that you won't hit your head. Doors with barred windows stand to the 
+north and south. The hallway continues to the west and east. 
+~
+57 9 0
+D0
+~
+~
+0 0 5753
+D1
+~
+~
+0 0 5749
+D2
+~
+~
+0 0 5754
+D3
+~
+~
+0 0 5755
+S
+#5753
+Cell~
+   This room is completely bare. On the wall opposite the door are chains 
+hanging down approximately three feet. What may have once been hay on the 
+floor has disintegrated into dust. 
+~
+57 9 0
+D2
+~
+~
+0 0 5752
+S
+#5754
+Cell~
+   This room is completely bare. On the wall opposite the door are chains 
+hanging down approximately three feet. What may have once been hay on the 
+floor has disintegrated into dust. 
+~
+57 9 0
+D0
+~
+~
+0 0 5752
+S
+#5755
+Hallway~
+   You are in a low and dark hallway. To walk down this hall you must bend 
+over so that you won't hit your head. Doors with barred windows stand to the 
+north and south. The hallway continues to the east. 
+~
+57 9 0
+D0
+~
+~
+0 0 5756
+D1
+~
+~
+0 0 5752
+D2
+~
+~
+0 0 5757
+S
+#5756
+Cell~
+   This room is completely bare. On the wall opposite the door are chains 
+hanging down approximately three feet. What may have once been hay on the 
+floor has disintegrated into dust. 
+~
+57 9 0
+D2
+~
+~
+0 0 5755
+S
+#5757
+Cell~
+   This room is completely bare. On the wall opposite the door are chains
+hanging down approximately three feet. What may have once been hay on the
+floor has disintegrated into dust.
+~
+57 9 0
+D0
+~
+~
+0 0 5755
+S
+#99999
+$~

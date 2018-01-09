@@ -1,0 +1,9 @@
+>command_prog north~
+  if isaffected($n,sneak)
+  or isaffected($n,invis)
+  else
+    emote moves to block $N's way.
+    mpstopcommand
+  endif
+~
+|

@@ -1,0 +1,115 @@
+#111
+Zhentil Keep~
+11499 20 0 3
+M 0 11251     1 11480            Santa Claus
+D 0 11367     3     1            Mixed Blessings door west
+D 0 11367     2     1            Mixed Blessings door south
+D 0 11352     2     1            Chamber door south
+M 0 11148     1 11349            Dirge
+E 1 11128    40     5                    body robes of the archmagi
+E 1 11129    40     2                    right finger a ring of protection
+E 1 11130    30     6                    head a gem of brightness
+E 1 11131     8    16                    wield a golden dagger
+D 0 11348     1     1            Sewer door east
+D 0 11362     1     1            Room of Warning door east
+O 0 11127   100 11362            symbols
+M 0 11151     2 11355            a carrior crawler
+M 0 11151     2 11355            a carrior crawler
+E 1 11126    75    17                    held a staff of striking
+D 0 11339     4     1            Ladder door up
+D 0 11338     5     1            Outside door down
+D 0 11338     2     1            Outside door south
+M 0 11125     1 11183            Frrahr
+D 0 11183     0     1            The Burst Boil door north
+M 0 11155     1 11303            Tumarys
+O 0 11124   100 11274            a hole
+O 0 11124   100 11273            a hole
+M 0 11132     1 11131            Keltro
+O 0 11117   100 11471            a bottle of white liquid
+O 0 11118   100 11471            a blue bottle of energy
+M 0 11105     1 11124            Artagalor
+E 1 11103    20     0                    light a shining light
+E 1 11123    90    17                    held a crystal orb
+M 0 11158     1 11390            a cleric
+O 0 11122   100 11390            a crystal fountain
+M 0 11170     1 11186            a receptionist
+M 0 11169     1 11166            a receptionist
+O 0 11121   100 11398            a rose
+M 0 11160     1 11392            Graddis
+M 0 11159     1 11395            Demetria Fortunato
+M 0 11161     1 11394            a cook
+O 0 11119   100 11473            a scroll of return
+O 0 11120   100 11473            a potion of health
+M 0 11107     1 11472            Rak
+M 0 11153     4 11309            a black cat
+M 0 11153     4 11323            a black cat
+M 0 11153     4 11318            a black cat
+M 0 11154     2 11318            a drunk
+M 0 11153     4 11321            a black cat
+M 0 11154     2 11321            a drunk
+M 0 11152     1 11311            Koleth
+M 0 11119     1 11189            Kornah
+E 1 11115    40    10                    arms ^Wdiamond^n bracers
+E 1 11116    40    13                    waist a chainmail wrap
+M 0 11128     2 11145            a huge spider
+M 0 11128     2 11145            a huge spider
+G 1 11112   100    -1                    give a key
+O 0 11111   100 11145            a safe
+P 1 11113   100 11111                    put gold in a safe
+M 0 11168     1 11470            a assistant
+M 0 11110     1 11130            Cerenna
+E 1 11107    50    16                    wield a saber
+M 0 11114     1 11114            Valourish
+E 1 11108    25    13                    waist a bath towel
+M 0 11101     1 11107            Luanna
+E 1 11101    10    16                    wield Massive two handed warhammer
+M 0 11100     1 11102            Keris
+E 1 11100   100    17                    held a private key
+D 0 11102     1     1            Keris' Office door east
+D 0 11102     3     1            Keris' Office door west
+M 0 11106     1 11133            Ascot
+M 0 11126     4 11195            zeeas
+M 0 11126     4 11195            zeeas
+M 0 11126     4 11188            zeeas
+M 0 11126     4 11188            zeeas
+M 0 11124     4 11180            a Zhentilar Guard
+M 0 11124     4 11180            a Zhentilar Guard
+D 0 11180     0     1            South Tesh Gate door north
+M 0 11124     4 11179            a Zhentilar Guard
+M 0 11124     4 11179            a Zhentilar Guard
+D 0 11179     1     1            Throat Gate door east
+M 0 11121     1 11168            Lorna
+M 0 11122     1 11168            Toria
+M 0 11118     1 11190            Olford
+M 0 11120     1 11190            Karyl
+M 0 11123     1 11190            Salena
+D 0 11148     2     1            Zhent Avenue door south
+M 0 11117     1 11151            Shalla
+D 0 11142     3     1            Zhent Avenue door west
+M 0 11116     1 11144            Barrodar
+D 0 11144     5     1            Barrodar's Fantastic Fabrics door down
+D 0 11134     0     1            Twilight Street door north
+D 0 11119     2     1            Mace Way door south
+M 0 11115     4 11129            warrior
+M 0 11115     4 11129            warrior
+M 0 11115     4 11128            warrior
+M 0 11115     4 11128            warrior
+D 0 11118     3     1            Mace Way door west
+D 0 11113     3     1            Mace Way door west
+O 0 11109   100 11117            a pool
+O 0 11109   100 11116            a pool
+M 0 11113     2 11115            a massive warrior
+M 0 11113     2 11115            a massive warrior
+M 0 11108     2 11109            a horse
+M 0 11108     2 11109            a horse
+M 0 11109     2 11110            a pegasi
+M 0 11109     2 11110            a pegasi
+M 0 11111     2 11103            a barmaid
+M 0 11112     4 11103            serving wench
+M 0 11112     4 11103            serving wench
+M 0 11111     2 11104            a barmaid
+M 0 11112     4 11104            serving wench
+M 0 11112     4 11104            serving wench
+S
+#99999
+$~

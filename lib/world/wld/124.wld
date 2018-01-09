@@ -1,0 +1,900 @@
+#12400
+A Path from the Harbour~
+Not much here.
+~
+124 0 0
+D9
+~
+~
+0 0 12401
+S
+#12401
+A Path Through the Forest~
+Not much here
+~
+124 0 0
+D3
+~
+~
+0 0 12402
+D7
+~
+~
+0 0 12400
+S
+#12402
+A Path Through the Forest~
+Not much here.
+~
+124 0 0
+D1
+~
+~
+0 0 12401
+D3
+~
+~
+0 0 12403
+S
+#12403
+On a Switch-back Path~
+Not much here.
+~
+124 0 0
+D0
+~
+~
+0 0 12404
+D1
+~
+~
+0 0 12402
+S
+#12404
+On a Switch-back Path~
+Not much here.
+~
+124 0 0
+D0
+~
+~
+0 0 12405
+D2
+~
+~
+0 0 12403
+S
+#12405
+A Path to the Cliff~
+Not much here
+~
+124 0 0
+D2
+~
+~
+0 0 12404
+D9
+~
+~
+0 0 12406
+S
+#12406
+A Path to the Cliff~
+Not much here
+~
+124 0 0
+D7
+~
+~
+0 0 12405
+D9
+~
+~
+0 0 12407
+S
+#12407
+A Path to the Cliff~
+Not much here
+~
+124 0 0
+D0
+~
+~
+0 0 12408
+D7
+~
+~
+0 0 12406
+S
+#12408
+At the Edge of the Cliff~
+not much here
+~
+124 256 0
+D2
+~
+~
+0 0 12407
+D5
+~
+~
+0 0 12409
+S
+#12409
+Climbing Down the Cliffside~
+not much here.
+~
+124 0 0
+D4
+~
+~
+0 0 12408
+D5
+~
+~
+0 0 12410
+S
+#12410
+Climbing Down the Cliffside~
+You are in an unfinished room.
+~
+124 256 0
+D4
+~
+~
+0 0 12409
+D5
+~
+~
+0 0 12411
+S
+#12411
+A Pool of Acid~
+You are in an unfinished room.
+~
+124 0 6
+D0
+~
+~
+0 0 12414
+D1
+~
+~
+0 0 12415
+D3
+~
+~
+0 0 12412
+D4
+~
+~
+0 0 12410
+S
+#12412
+A Pool of Acid~
+You are in an unfinished room.
+~
+124 0 6
+D0
+~
+~
+0 0 12413
+D1
+~
+~
+0 0 12411
+S
+#12413
+A Pool of Acid~
+You are in an unfinished room.
+~
+124 0 6
+D1
+~
+~
+0 0 12414
+D2
+~
+~
+0 0 12412
+S
+#12414
+A Pool of Acid~
+You are in an unfinished room.
+~
+124 0 6
+D0
+~
+~
+0 0 12417
+D1
+~
+~
+0 0 12416
+D2
+~
+~
+0 0 12411
+D3
+~
+~
+0 0 12413
+D5
+~
+~
+0 0 12418
+S
+#12415
+A Pool of Acid~
+You are in an unfinished room.
+~
+124 0 6
+D0
+~
+~
+0 0 12416
+D3
+~
+~
+0 0 12411
+S
+#12416
+A Pool of Acid~
+You are in an unfinished room.
+~
+124 0 6
+D2
+~
+~
+0 0 12415
+D3
+~
+~
+0 0 12414
+S
+#12417
+A Pool of Acid~
+You are in an unfinished room.
+~
+124 0 6
+D2
+~
+~
+0 0 12414
+S
+#12418
+Beneath the Surface of a Pool of Acid~
+You are in an unfinished room.
+~
+124 0 8
+D4
+~
+~
+0 0 12414
+D5
+Upper airlock
+~
+airlock~
+1 0 12419
+S
+#12419
+A Stone Walled Airlock~
+You are in an unfinished room.
+~
+124 265 8
+D1
+airlock
+~
+eastern airlock~
+1 0 12420
+D4
+airlock
+~
+upper airlock~
+1 0 12418
+S
+#12420
+A Stone Walled Passageway~
+You are in an unfinished room.
+~
+124 265 0
+D1
+~
+~
+0 0 12421
+D3
+airlock
+~
+airlock~
+1 0 12419
+S
+#12421
+A Stone Walled Passageway~
+You are in an unfinished room.
+~
+124 265 0
+D1
+~
+~
+0 0 12422
+D3
+~
+~
+0 0 12420
+S
+#12422
+Nearing the End of a Stone Walled Passageway~
+You are in an unfinished room.
+~
+124 265 0
+D0
+~
+airlock~
+1 0 12423
+D3
+~
+~
+0 0 12421
+S
+#12423
+Inside Another Airlock~
+Not much here
+~
+124 265 0
+D0
+~
+northern airlock~
+1 0 12424
+D2
+~
+southern airlock~
+1 0 12422
+S
+#12424
+A Narrow Acid-filled Passageway~
+Not much here
+~
+124 265 0
+D0
+~
+~
+0 0 12425
+D2
+~
+~
+0 0 12423
+S
+#12425
+A Narrow Acid-filled Passageway~
+Not much here
+~
+124 265 0
+D2
+~
+~
+0 0 12424
+D9
+~
+~
+0 0 12426
+S
+#12426
+A Narrow Acid-filled Passageway~
+You are in an unfinished room.
+~
+124 265 0
+D0
+~
+~
+0 0 12427
+D7
+~
+~
+0 0 12425
+S
+#12427
+A Narrow Acid-filled Passageway~
+You are in an unfinished room.
+~
+124 265 0
+D0
+~
+~
+0 0 12428
+D2
+~
+~
+0 0 12426
+S
+#12428
+The End of the Passageway~
+You are in an unfinished room.
+~
+124 265 0
+D2
+~
+~
+0 0 12427
+S
+#12429
+Upon a Small Bridge Over a River of Lava~
+not much here
+~
+124 9 0
+D0
+~
+~
+0 0 12430
+D1
+~
+~
+0 0 12431
+D2
+~
+~
+0 0 12430
+S
+#12430
+Into a River of Lava~
+You are in an unfinished room.
+~
+124 2 0
+S
+#12431
+Upon a Small Bridge Over a River of Lava~
+You are in an unfinished room.
+~
+124 265 0
+D0
+~
+~
+0 0 12430
+D1
+~
+~
+0 0 12430
+D2
+~
+~
+0 0 12430
+D3
+~
+~
+0 0 12429
+S
+#12432
+Inside the Caverns of Fire~
+You are in an unfinished room.
+~
+124 269 0
+D1
+~
+~
+0 0 12433
+S
+#12433
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12434
+D1
+~
+~
+0 0 12435
+D2
+~
+~
+0 0 12434
+D3
+~
+~
+0 0 12432
+S
+#12434
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D2
+~
+~
+0 0 12443
+S
+#12435
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 265 0
+D1
+~
+~
+0 0 12435
+D3
+~
+~
+0 0 12433
+D7
+~
+~
+0 0 12430
+D9
+~
+~
+0 0 12436
+S
+#12436
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12437
+D3
+~
+~
+0 0 12433
+D7
+~
+~
+0 0 12435
+D8
+~
+~
+0 0 12435
+S
+#12437
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12433
+D1
+~
+~
+0 0 12437
+D2
+~
+~
+0 0 12436
+D3
+~
+~
+0 0 12438
+S
+#12438
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D1
+~
+~
+0 0 12437
+S
+#12439
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12440
+D3
+~
+~
+0 0 12433
+S
+#12440
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D2
+~
+~
+0 0 12439
+D9
+~
+~
+0 0 12441
+S
+#12441
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12442
+D7
+~
+~
+0 0 12440
+D9
+~
+~
+0 0 12440
+S
+#12442
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D2
+~
+~
+0 0 12441
+S
+#12443
+The Caverns of Fire~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12434
+D7
+~
+~
+0 0 12433
+S
+#12444
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+124 0 0
+D1
+~
+~
+0 0 12447
+D2
+~
+~
+0 0 12445
+D4
+~
+~
+0 0 12451
+S
+#12445
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12444
+D1
+~
+~
+0 0 12448
+D2
+~
+~
+0 0 12446
+D4
+~
+~
+0 0 12452
+S
+#12446
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12445
+D1
+~
+~
+0 0 12449
+D4
+~
+~
+0 0 12453
+S
+#12447
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+124 0 0
+D2
+~
+~
+0 0 12448
+D3
+~
+~
+0 0 12444
+D4
+~
+~
+0 0 12454
+S
+#12448
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12447
+D2
+~
+~
+0 0 12449
+D3
+~
+~
+0 0 12445
+D4
+~
+~
+0 0 12455
+S
+#12449
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12448
+D3
+~
+~
+0 0 12446
+D4
+~
+~
+0 0 12456
+S
+#12450
+The Caverns of Fire~
+Not much here
+~
+124 9 0
+S
+#12451
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+124 0 9
+D1
+~
+~
+0 0 12454
+D2
+~
+~
+0 0 12452
+D5
+~
+~
+0 0 12444
+S
+#12452
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+124 0 0
+D0
+~
+~
+0 0 12451
+D2
+~
+~
+0 0 12453
+D5
+~
+~
+0 0 12445
+S
+#12453
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 12452
+D1
+~
+~
+0 0 12456
+D5
+~
+~
+0 0 12446
+S
+#12454
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+0 0 0
+D2
+~
+~
+0 0 12455
+D3
+~
+~
+0 0 12451
+D5
+~
+~
+0 0 12447
+S
+#12455
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 12454
+D2
+~
+~
+0 0 12456
+D3
+~
+~
+0 0 12452
+D5
+~
+~
+0 0 12448
+S
+#12456
+The Spellchamber of Ackeron~
+You are in an unfinished room.
+~
+0 0 0
+D0
+~
+~
+0 0 12455
+D3
+~
+~
+0 0 12453
+D5
+~
+~
+0 0 12449
+S
+#12498
+A Room of Reddened Hot Rock~
+Not much here.
+~
+124 0 0
+S
+#12499
+A Now Icy Lair~
+You are in an unfinished room.
+~
+124 0 0
+S
+#99999
+$~

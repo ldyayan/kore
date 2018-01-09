@@ -1,0 +1,574 @@
+#3830
+Before the Graveyard~
+   The Graveyard stretches out before you to the south, rows upon rows of
+tombstones that go back centuries to times almost forgotten by those who
+live here now.
+~
+38 32772 1
+D0
+~
+gate~
+1 0 3025
+D2
+~
+~
+0 0 3870
+D10
+~
+~
+0 0 8225
+S
+#3831
+The Graveyard~
+   Row upon row of tombstones cover the ground.  The ground starts to rise
+steadily towards a small hill on the southern border of the Graveyard.
+~
+38 32768 1
+D2
+~
+~
+0 0 3832
+D3
+~
+~
+0 0 3899
+S
+#3832
+Gap in the South Fence~
+   The fence has fallen down here, and you see a path that leads south,
+and then to the west.
+~
+38 32768 0
+D0
+~
+~
+0 0 3831
+D2
+~
+~
+0 0 3833
+S
+#3833
+A Small Dirt Trail~
+   The trail starts small, and at first you cant tell if it was made
+by animals or by humans, but eventually it widens out and becomes obviously
+a main road.  Cracked stones start to appear, this was obviously once much
+used.
+~
+38 32768 0
+D0
+~
+~
+0 0 3832
+D2
+~
+~
+0 0 12068
+S
+#3834
+Inside a Large Sepulchre~
+   You pry apart the barricade and enter against your better judgement.
+The inside is dark and filled with cobwebs.  Something stirs in a corner.
+~
+38 32777 2
+D4
+~
+barricade~
+1 3856 3875
+S
+#3870
+The Graveyard~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You remember that it was warm
+and sunny in the city.
+~
+38 32768 2
+D0
+~
+~
+0 0 3830
+D1
+~
+~
+0 0 3890
+D2
+~
+~
+0 0 3884
+D3
+~
+~
+0 0 3871
+S
+#3871
+The Graveyard~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You remember that it was warm
+and sunny in the city.
+~
+38 32768 2
+D1
+~
+~
+0 0 3870
+D2
+~
+~
+0 0 3872
+D3
+~
+~
+0 0 3873
+S
+#3872
+The Graveyard~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You see a sepulchre rise
+above the tombstones to the west.
+~
+38 32768 2
+D0
+~
+~
+0 0 3871
+D3
+~
+~
+0 0 3874
+S
+#3873
+The Graveyard~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You remember that it was warm
+and sunny in the city.
+~
+38 32768 2
+D1
+~
+~
+0 0 3871
+D3
+~
+~
+0 0 3876
+S
+#3874
+The Graveyard~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You see a sepulchre rise
+above the tombstones to the west.
+~
+38 32768 0
+D0
+~
+~
+0 0 3876
+D1
+~
+~
+0 0 3872
+D3
+~
+~
+0 0 3875
+S
+#3875
+Before a Large Sepulchre~
+   You pass next to a very large sepulchre, you feel strangely curious.
+You see a do not enter sign, why are they so concerned about keeping people
+out?
+~
+38 32768 2
+D1
+~
+~
+0 0 3874
+D5
+~
+barricade~
+1 3856 3834
+S
+#3876
+The Graveyard~
+    Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You see a large sepulchre
+rise above the tombstones to the southwest.
+~
+38 32768 0
+D0
+~
+~
+0 0 3877
+D1
+~
+~
+0 0 3873
+D2
+~
+~
+0 0 3874
+S
+#3877
+The Graveyard~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You see a large sepulchre 
+rise above the tombstones to the southwest.
+~
+38 32768 2
+D0
+~
+~
+0 0 3879
+D2
+~
+~
+0 0 3876
+D3
+~
+~
+0 0 3878
+S
+#3878
+The Graveyard~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You see a large sepulchre rise
+above the tombstones to the south.
+~
+38 32768 2
+D1
+~
+~
+0 0 3877
+S
+#3879
+Before a small cottage~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  A small cottage is to the
+north.
+~
+38 32768 2
+D0
+~
+door~
+1 0 3880
+D2
+~
+~
+0 0 3877
+S
+#3880
+Inside a Small Cottage~
+   This is obviously the caretaker's cottage, and the corpse shop where
+corpses are sold by law only to relatives of the deceased.. The gravediggers
+are rumored to have a pact with ghouls and other corpse thieves that gives
+the diggers special priviledges in dealing with the dead who pay gold coin..
+~
+38 32768 0
+D2
+~
+door~
+1 0 3879
+S
+#3884
+The Graveyard~
+   Row upon row of tombstones cover the ground, in the distance you
+can see gravediggers burying a recently deceased.  The sky is cloudy
+and it begins to rain.  It is very cold.  You remember that it was warm
+and sunny in the city.
+~
+38 32768 0
+D0
+~
+~
+0 0 3870
+D2
+~
+~
+0 0 3885
+S
+#3885
+The Graveyard~
+   Row upon row of tombstones cover the ground.  The sky is cloudy and
+it begins to rain.  Wandering amid the deceased reminds you eerily of
+your own fragile mortality.  The gravediggers are just a little further
+to the south now.
+~
+38 32768 0
+D0
+~
+~
+0 0 3884
+D2
+~
+~
+0 0 3886
+S
+#3886
+At the Gravediggers~
+   The Gravediggers look surprised to see anyone in the Graveyard.
+They nod at you nervously and go back to digging.
+~
+38 32768 2
+D0
+~
+~
+0 0 3885
+D2
+~
+~
+0 0 3887
+S
+#3887
+Before the Great Barrow~
+   You come to a mound near the middle of the graveyard. A cold wind blows
+through you, chilling you to the bone. You sense that your soul is in
+mortal danger here. An open arch leads straight into the barrow, a lonely
+gravehill, the last resting place of the knights and kings of ancient Kore,
+those powerful ancients who ruled all of Arda... a warm breath reeks from
+the tomb, beckoning you to enter.
+~
+38 32768 2
+D0
+~
+~
+0 0 3886
+D1
+~
+~
+0 0 3888
+D2
+~
+~
+0 0 3405
+S
+#3888
+The Graveyard~
+   Row upon row of tombstones cover the ground.  The graves in this
+section look old and forgotten.  To the south you can see the impassable
+Mountains of Damnation.
+~
+38 32768 0
+D1
+~
+~
+0 0 3895
+D2
+~
+~
+0 0 3889
+D3
+~
+~
+0 0 3887
+S
+#3889
+The Graveyard~
+   Row upon row of tombstones cover the ground.  To the south you can
+see the impassable Mountains of Damnation.  Being this close to the mountains
+you recall the old tales you've heard about Mad King Kyrellia and his ancient
+kingdom that stood between the mountains and where the city of Kore is
+presently.
+~
+38 32768 2
+D0
+~
+~
+0 0 3888
+D2
+~
+~
+0 0 3896
+S
+#3890
+The Graveyard~
+   Row upon row of tombstones cover the ground.  As you wander through the
+tombstones you notice they are getting steadily older and more weatherworn.
+In the distance they look vaguely like old broken teeth rising from the
+ground.
+~
+38 32768 2
+D1
+~
+~
+0 0 3891
+D3
+~
+~
+0 0 3870
+S
+#3891
+The Graveyard~
+   Row upon row of tombstones cover the ground.  As you wander through the
+tombstones you notice they are getting steadily older and more weatherworn.
+In the distance they look vaguely like old broken teeth rising from the
+ground.
+~
+38 32768 0
+D2
+~
+~
+0 0 3892
+D3
+~
+~
+0 0 3890
+S
+#3892
+The Graveyard~
+   Row upon row of tombstones cover the ground.  As you wander through the
+tombstones you notice they are getting steadily older and more weatherworn.
+In the distance they look vaguely like old broken teeth rising from the
+ground.
+~
+38 32768 0
+D0
+~
+~
+0 0 3891
+D2
+~
+~
+0 0 3893
+S
+#3893
+The Graveyard~
+   Row upon row of tombstones cover the ground.  As you wander through the
+tombstones you notice they are getting steadily older and more weatherworn.
+In the distance they look vaguely like old broken teeth rising from the
+ground.  To the south you see the Mountains of Damnation rise up against
+the sky.
+~
+38 32768 0
+D0
+~
+~
+0 0 3892
+D2
+~
+~
+0 0 3894
+S
+#3894
+The Graveyard~
+   Row upon row of tombstones cover the ground.  As you wander through the
+tombstones you notice they are getting steadily older and more weatherworn.
+In the distance they look vaguely like old broken teeth rising from the
+ground.  To the south you see the Mountains of Damnation rise up against
+the sky.
+~
+38 32768 0
+D0
+~
+~
+0 0 3893
+D3
+~
+~
+0 0 3895
+S
+#3895
+The Graveyard~
+   Row upon row of tombstones cover the ground.  As you wander through the
+tombstones you notice they are getting steadily older and more weatherworn.
+In the distance they look vaguely like old broken teeth rising from the
+ground.  To the south you see the Mountains of Damnation rise up against
+the sky.
+~
+38 32768 0
+D1
+~
+~
+0 0 3894
+D3
+~
+~
+0 0 3888
+S
+#3896
+The Graveyard~
+   Row upon row of tombstones cover the ground.  To the south you can
+see the impassable Mountains of Damnation.  Being this close to the mountains
+you recall the old tales you've heard about Mad King Kyrellia and his ancient
+kingdom that stood between the mountains and where the city of Kore is
+presently.
+~
+38 32768 0
+D0
+~
+~
+0 0 3889
+D2
+~
+~
+0 0 3897
+S
+#3897
+The Graveyard~
+   Row upon row of tombstones cover the ground.  To the south you can
+see the impassable Mountains of Damnation.  A hill rises slowly to the south
+and you know that the south border of the Graveyard lies just beyond that hill.
+~
+38 32768 0
+D0
+~
+~
+0 0 3896
+D2
+~
+~
+0 0 3898
+S
+#3898
+The Graveyard~
+   Row upon row of tombstones cover the ground.  The ground starts to rise
+steadily towards a small hill on the southern border of the Graveyard.  As
+you climb up, you get a view of the graveyard in its completeness and you
+wonder how old it really is, and how many thousands of people are buried here.
+The gravestones in this section are totally unreadable.  They are written
+in some unrecognizable language, and are badly beaten by time and the
+elements.
+~
+38 32768 0
+D0
+~
+~
+0 0 3897
+D2
+~
+gate~
+1 0 3899
+S
+#3899
+The South Fence of the Graveyard~
+    The graves here are in total disrepair, you guess that there must have
+been tombstones here at one time by the fact that a rough white sand covers
+the ground.  To the south the fence defines the southern border of the
+Graveyard.  You think you see a faint outline of a.. no, you realize it must
+just be your imagination.  You see the Castle of King Kyrellia rise against
+a backdrop of the Mountains of Damnation.
+~
+38 32768 0
+D0
+~
+gate~
+1 0 3898
+D1
+~
+~
+0 0 3831
+D2
+~
+gate~
+1 0 12125
+S
+#99999
+$~

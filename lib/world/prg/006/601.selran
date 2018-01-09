@@ -1,0 +1,89 @@
+>rand_prog 4~
+  if inroom($r) == here
+    if isaffected($r, curse)
+      cast 'remove curse' $r
+    else
+      if clan($r) == Coven
+        if hitprcnt($r) < 100
+          mpechoat $r $I reluctantly walks over to you and places a glowing red hand on your body.
+          mpechoat $r Her palm is intense with heat!
+          mpechoaround $r $I aversely glides over to $R and heals $K with her hands.
+          mpsilent mpcallmagic 'cure critic' $r
+          mpsilent mpcallmagic 'cure critic' $r
+          mpechoat $r You feel much better!
+          mpechoaround $r $R looks much better!
+          break
+        endif
+      else
+        if rand(80)
+          mpremember $r
+          if clanlevel($r) == leader
+            if rand(30)
+              say You insult me with your presence, $R.
+            endif
+          else
+            if rand(40)
+              say This one is outright ASKING for death.
+              slap $r
+            endif
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>time_prog 20~
+  if inroom($r) == here
+    if race($r) == human
+      if sex($r) == male
+        if rand(10)
+          mptrigger $r tease
+        endif
+      endif
+    endif
+  endif
+~
+>script_prog tease~
+@
+@
+  if inroom($n) == here
+    mpechoat $r Hmm, $I doesn't look as old as she used to...
+    mpechoat $r In fact she doesn't look old at all, she looks extremely YOUNG.
+  else
+    mpstopscript
+  endif
+@
+@
+@
+  if inroom($r) == here
+    mpechoat $r Your eyes must be playing tricks on you, you could've *sworn* she was an old hag.
+@
+    mpechoat $r No, she is beautiful.
+    mpechoaround $r $R gazes longingly into the eyes of $I.
+  else
+    mpstopscript
+  endif
+@
+@
+@
+  if inroom($r) == here
+    wink $r
+    mpechoat $r You stumble and fall backwards, she winked at you!
+    mpechoaround $r $R falls backwards but keeps his eyes firmly locked on $I.
+    mppose $r sit
+  else
+    mpstopscript
+  endif
+@
+@
+@
+  if inroom($r) == here
+    mpecho $I snaps her fingers.
+    mpechoat $r Huh? $I looks normal again. Was it all just a dream?
+    mpechoaround $r $R shakes his head vigorously, obviously trying to clear his mind.
+    mpforce $r mutter
+  else
+    mpstopscript
+  endif
+~
+|

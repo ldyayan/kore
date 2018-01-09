@@ -1,0 +1,1479 @@
+#16500
+Opening to a Clearing~
+   You breathe a sigh of relief as you see the first glimmer of light
+break through the trees. Pressing forward, you part the leaves and 
+branches before you and see a clearing just ahead.
+~
+165 4 0
+D0
+~
+~
+0 0 6135
+D1
+~
+~
+0 0 16501
+S
+#16501
+A Clearing~
+   It takes your eyes a moment to adjust the filtered sunlight streaming
+in through the tree branches. You see ahead a small, ragged building, barely
+more than a hut. You scan the trees for any sign of life, but see none.
+~
+165 0 1
+D1
+~
+~
+0 0 16503
+D3
+~
+~
+0 0 16500
+S
+#16502
+A path between buildings~
+You walk into the fringes of this town, and see people flitting around, 
+just out of reach so that you can't question them as to where you are
+or what is going on here.
+~
+165 0 1
+D1
+~
+~
+0 0 16508
+S
+#16503
+A Small Building~
+   You stand before a ripped-up old house. It's mortar is cracked, it's
+glass windows shattered, cobwebs hang from the glassless frames. The
+only thing that looks sturdy is the door, which seems to be in
+better shape then the rest of the house.
+~
+165 0 1
+D1
+~
+door~
+2 16512 16504
+D3
+~
+~
+0 0 16501
+S
+#16504
+The Inside of the Shack~
+   You step into the shack and gasp as you realize that the interior is
+much larger then the exterior portrays. A force of some sort seems to
+be pulling you out of this hovel, your sixth sense is trying desperately
+to tell you : TURN BACK NOW!
+~
+165 8 0
+D0
+~
+wooden door~
+1 0 16505
+D2
+~
+tapestry~
+1 0 16507
+D3
+~
+door~
+1 16512 16503
+D5
+~
+stone block~
+2 16516 16509
+S
+#16505
+A design room~
+   This room is a spotless white, a design room of some sort. On the far
+wall hangs a steel mace, glowing with arcane power. You step forward and
+notice a drawing table of some kind resting in the middle of the room. 
+Transfixed by this strange sight, you stand here spellbound.
+~
+165 136 0
+D2
+~
+wooden door~
+1 0 16504
+S
+#16506
+A dark entrance~
+   You arrive in this dark room, not sure what to make of the gritty stone
+walls and lights flickering down the hall. You peer down the corridor
+trying to make out where it leads, but give up. You focus your attention
+on the walls and try to read the runic inscriptions imprinted in the stone.
+You scan all the surrounding walls and realize that all the words are
+alien to you, but you do see one word repeated at different points within
+the inscriptions, the word 'Monchira'. For some inexplicable reason, this
+word causes a sense of forboding and fear to envelope you.
+~
+165 9 0
+D1
+~
+~
+0 0 16511
+D4
+~
+rug~
+1 0 16507
+S
+#16507
+Tapestry room~
+  The room is lavishly furnished, with seats and couches of all styles
+filling the room to its entirety. Beautiful tapestries woven with an
+elven flair cover all of the walls, depicting different scenes from
+a mages life. From the early stages of learning to the controlling
+of the elements, the pattern is encompassing and complex. The rug on the
+floor is beautiful, its swirling design seems to lead forever to a 
+circular object in it's center.
+~
+165 9 0
+D0
+~
+tapestry~
+1 0 16504
+D5
+~
+rug~
+1 0 16506
+S
+#16508
+A street between barren buildings~
+You walk down the street, glancing around you and your party, watching for
+any sign of trouble.  You hear the snap of a twig and jump, weapon ready
+only to find that it is only a small rodent skittering about the ground.
+~
+165 0 1
+D1
+~
+~
+0 0 16510
+D3
+~
+~
+0 0 16502
+S
+#16509
+Entrance to the Order of Tanalos~
+   You climb down the stairs, peering into the dark ahead.  You can't make out
+much, but you know for sure that this place makes the hair on the back of 
+your neck stand up.  You try to feel with your senses into the gloom, but are
+rebuffed by some sort of magical field.  You tighten your grip on your 
+weapon and prepare to enter.
+~
+165 265 0
+D1
+~
+~
+0 0 16510
+D4
+~
+block of stone~
+2 16516 16504
+S
+#16510
+Meeting of Passages~
+   You walk into a passage which branches into 3 different directions.  To
+your north the passage extends far, as does it to the south.  You glance
+around and realize with a start that the light in these passages is
+coming from glowing skulls lining the walls.  Their eyes glow with an
+vengeance, seemingly staring directly at you.  You decide to move on.
+~
+165 264 0
+D0
+~
+~
+0 0 16535
+D2
+~
+~
+0 0 16556
+D3
+~
+~
+0 0 16509
+S
+#16511
+A passage~
+   You walk down the passage, noticing that glowing orbs hover next
+to the wall to illuminate your path. You run your hands over the stone
+walls and detect a faint vibration.
+~
+165 140 0
+D1
+~
+~
+0 0 16512
+D3
+~
+~
+0 0 16506
+S
+#16512
+A crossing of passages~
+   This room has passages that lead into four directions, each corridor
+looks almost identical to the next. You can't see any indication of which
+way to go. You look down at the floor and see recent footprints. You begin
+following them, but realize that the prints lead each direction.
+~
+165 9 0
+D0
+~
+~
+0 0 16513
+D1
+~
+~
+0 0 16514
+D2
+~
+~
+0 0 16515
+D3
+~
+~
+0 0 16511
+S
+#16513
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 41 0
+D0
+~
+~
+0 0 16516
+D2
+~
+~
+0 0 16512
+S
+#16514
+A passage~
+   You walk through this corridor, constantly looking behind you to check for
+anyone or anything following you.  Each corridor seems the same, and you seem
+to be very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16531
+D3
+~
+~
+0 0 16512
+S
+#16515
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D0
+~
+~
+0 0 16512
+D2
+~
+~
+0 0 16529
+S
+#16516
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 41 0
+D0
+~
+wall~
+2 16505 16517
+D1
+~
+~
+0 0 16518
+D2
+~
+~
+0 0 16513
+D3
+~
+~
+0 0 16523
+S
+#16517
+The Residence of Monchira~
+   You forcefully open the hidden entrance with a shove, wincing as the groan
+of the age old stone is finally opened and the chamber behind it is able
+to breath again. You step into the ornately furnished room, a table to your
+left with various perfumes and cosmetic's covering it, and a couch to your
+right that looks like it would be heaven to lay on. Before you are long, deep
+red tapestries, both untied and blocking your view of the room ahead.
+~
+165 9 0
+D0
+~
+tapestries~
+1 0 16528
+D2
+~
+wall~
+2 16505 16516
+S
+#16518
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16519
+D3
+~
+~
+0 0 16516
+S
+#16519
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D0
+~
+~
+0 0 16520
+D3
+~
+~
+0 0 16518
+S
+#16520
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16521
+D2
+~
+~
+0 0 16519
+S
+#16521
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D2
+~
+~
+0 0 16522
+D3
+~
+~
+0 0 16520
+S
+#16522
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D0
+~
+~
+0 0 16521
+D2
+~
+~
+0 0 16525
+S
+#16523
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16516
+D3
+~
+~
+0 0 16524
+S
+#16524
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D0
+~
+~
+0 0 16525
+D1
+~
+~
+0 0 16523
+D3
+~
+~
+0 0 16526
+S
+#16525
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D0
+~
+~
+0 0 16522
+D2
+~
+~
+0 0 16524
+S
+#16526
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16524
+D3
+~
+~
+0 0 16527
+S
+#16527
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16526
+D3
+~
+~
+0 0 16520
+S
+#16528
+The Bedchamber of Monchira~
+   You part the curtains and step into this lushly furnished room. You see
+Monchira laying on a pile of blood-stained pillows, draining the last bit
+of blood from the body of a guard of Kore. Behind her there is a shimmering
+portal, the destination of which you do not know. The room is all deep ruby red,
+including her small and very revealing outfit.
+~
+165 393288 0
+D2
+~
+tapestries~
+1 0 16517
+S
+#16529
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 262153 0
+D0
+~
+~
+0 0 16515
+D2
+~
+~
+0 0 16530
+S
+#16530
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D0
+~
+~
+0 0 16529
+D1
+~
+~
+0 0 16532
+D3
+~
+~
+0 0 16531
+S
+#16531
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16530
+D2
+~
+~
+0 0 16529
+S
+#16532
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16533
+D3
+~
+~
+0 0 16530
+S
+#16533
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16534
+D3
+~
+~
+0 0 16532
+S
+#16534
+A passage~
+   You walk through the corridor, constantly checking behind you for 
+some unseen foe that may be following you. Each corridor seems the same,
+and you are very confused as to which direction to go.
+~
+165 9 0
+D1
+~
+~
+0 0 16533
+D3
+~
+~
+0 0 16533
+S
+#16535
+Main Passage~
+   You carefully make your way down this passage, eyeing the dark with
+the eye of a cautious warrior.  To your east is another passage, dark
+and foreboding.  You faintly hear a high pitched voice down there.  
+~
+165 264 0
+D1
+~
+~
+0 0 16540
+D2
+~
+~
+0 0 16510
+S
+#16536
+An unfinished room~
+You are in an unfinished room.
+~
+165 0 1
+D0
+~
+~
+0 0 16537
+D2
+~
+~
+0 0 16535
+S
+#16537
+An unfinished room~
+You are in an unfinished room.
+~
+165 0 1
+D0
+~
+~
+0 0 16538
+D2
+~
+~
+0 0 16536
+S
+#16538
+An unfinished room~
+You are in an unfinished room.
+~
+165 0 1
+D0
+~
+~
+0 0 16539
+D2
+~
+~
+0 0 16537
+S
+#16539
+An unfinished room~
+You are in an unfinished room.
+~
+165 0 1
+D2
+~
+~
+0 0 16538
+S
+#16540
+A passageway~
+   You walk slowly, taking in all around you.  This all seems familiar to
+you on some deep level.  The stone is gritty and your boots make a
+low scrunching sounds as you continue on your way.
+~
+165 264 0
+D1
+~
+~
+0 0 16541
+D3
+~
+~
+0 0 16535
+S
+#16541
+Deeper into the Mystery~
+   You continue to walk, noticing all around you.  You see that the walls
+here are scarred from some type of blast, possibly magical.  To your north
+is a wooden door.  It looks normal, except for the flashes of
+light which pulsate from under the door.
+~
+165 264 0
+D0
+~
+wooden door~
+1 0 16550
+D1
+~
+~
+0 0 16542
+D3
+~
+~
+0 0 16540
+S
+#16542
+Exploring the passages~
+   You continue down the passage, looking for some sign of life.  You
+see shadows move right outside your peripheral vision, and quickly turn your
+head to catch the entity.  You see nothing.  You shudder involuntarily.
+~
+165 264 0
+D1
+~
+~
+0 0 16543
+D3
+~
+~
+0 0 16541
+S
+#16543
+Into the Passage~
+   You walk down the passage, noticing water marks on the walls as if
+there was a great flood that passed through these tunnels.  If so, you hope
+that it doesn't happen again while you are exploring, because you doubt it
+will provide you will time to leave Tanalos.
+~
+165 264 0
+D1
+~
+~
+0 0 16544
+D3
+~
+~
+0 0 16542
+S
+#16544
+Deeper into the Passage~
+   You continue down into the recesses of the passages.  To your south
+is a dark hall, and to your east it continues.  Back toward your west
+you can hear chanting from the monks.
+~
+165 264 0
+D1
+~
+~
+0 0 16545
+D2
+~
+~
+0 0 16568
+D3
+~
+~
+0 0 16543
+S
+#16545
+Nearing an End to this Passage~
+   You tread lightly down this hall, having the feeling that there is 
+something down there that you don't want to disturb.  The water marks are
+lower here, suggesting that the flood wasn't long lived and was from quite
+some time ago.  You try to avoid disturbing the monks as they meditate.
+~
+165 264 0
+D1
+~
+~
+0 0 16546
+D3
+~
+~
+0 0 16544
+S
+#16546
+End of a Passageway~
+   You come to the end of the passageway.  There is a wooden doorway to your
+north, and the impression of a doorway to your east, but you can't seem
+to determine if it is actually a door or not.
+~
+165 264 0
+D0
+~
+Wooden Door~
+1 1 16555
+D3
+~
+~
+0 0 16545
+S
+#16547
+The Hall of the Ensorceled~
+   The walls are dark, almost absorbing the light.  You try to peer around
+and get a feeling for what type of hall you have stepped into, but
+your eyes can't penetrate the everlasting darkness surrounding you.
+Where do you go now?
+~
+165 361 0
+D0
+~
+~
+0 0 16552
+D1
+~
+~
+0 0 16548
+D2
+~
+~
+0 0 16567
+D3
+~
+~
+0 0 16573
+S
+#16548
+The Hall of the Ensorceled~
+   The walls are dark, almost absorbing the light.  You try to peer around
+and get a feeling for what type of hall you have stepped into, but
+your eyes can't penetrate the everlasting darkness surrounding you.
+Where do you go now?
+~
+165 361 0
+D0
+~
+~
+0 0 16567
+D1
+~
+~
+0 0 16547
+D2
+~
+~
+0 0 16552
+D3
+~
+~
+0 0 16547
+D5
+~
+stone~
+1 0 16549
+S
+#16549
+A Hidden Passage~
+   You enter this room from the confusing maze of Halls.  You see only
+one exit which is to your north.  You hear a moaning from ahead, and feel 
+drawn to it.  You start forward because it is the only way to go.
+~
+165 13 0
+D0
+~
+~
+0 0 16579
+S
+#16550
+The Walk of the Demon-Handler~
+   The room is battle scarred with scorch marks and such covering the
+walls.  You see the imprints of demonic claws throughout the room.
+You see the colorful light coming from your east.
+~
+165 264 0
+D1
+~
+~
+0 0 16551
+D2
+~
+wooden door~
+1 0 16541
+S
+#16551
+The room of transdimensional shifting~
+   You step into a room that is blazing with colors.  The rock is alive as
+you make out the faces of demons trying to press through to attack you.  
+There is a wizard to the far end of the room weaving magical tides and
+opening a gateway.
+~
+165 264 0
+D3
+~
+~
+0 0 16550
+S
+#16552
+The Hall of the Ensorceled~
+   The walls are dark, almost absorbing the light.  You try to peer around
+and get a feeling for what type of hall you have stepped into, but
+your eyes can't penetrate the everlasting darkness surrounding you.
+Where do you go now?
+~
+165 361 0
+D0
+~
+~
+0 0 16573
+D1
+~
+~
+0 0 16573
+D2
+~
+~
+0 0 16573
+D3
+~
+~
+0 0 16567
+S
+#16553
+Well of Unbelief~
+   You see a well in front of you, gaping wide and eager to absorb all life
+into it's bowels.  You see faint colors of light flash from deep within.  
+You dip your head over the edge and see a heavy mist coming up the walls.
+~
+165 264 0
+D1
+~
+~
+0 0 16554
+D5
+~
+~
+0 0 16569
+S
+#16554
+A Dark Hall~
+   You walk through this dark hallway, feeling your way and making sure of
+your footing.  You hear the dripping of water near.  You scan the area
+but see nothing in this impenatrable darkness.
+~
+165 265 0
+D1
+~
+~
+0 0 16555
+D3
+~
+~
+0 0 16553
+S
+#16555
+The Hall of Remorse~
+    You enter a room devoid of anything but the bare stone walls.  You feel
+a deep depresion sweep over you as you step in here.  The walls are a 
+dark gray color, gritty and dirty.  The darkness ahead is overwhelming.
+~
+165 264 0
+D2
+~
+wooden door~
+1 0 16546
+D3
+~
+~
+0 0 16554
+S
+#16556
+Main Passage~
+   You walk along the main passage of this underground complex.  Scorch 
+marks line the walls and you seem to see the faces of long lost loved ones
+screaming from inside the walls.
+~
+165 264 0
+D0
+~
+~
+0 0 16510
+D2
+~
+~
+0 0 16557
+S
+#16557
+Main Passage~
+   You continue down this passage, the chanting of the monks permeating
+your soul.  To your west is a cavern that pulsates darkness, its presence
+pulling you to enter it's dark embrace.
+~
+165 264 0
+D0
+~
+~
+0 0 16556
+D2
+~
+~
+0 0 16558
+D3
+~
+~
+0 0 16573
+S
+#16558
+Main Passage~
+   You listen to the sound of your boots crunch on the gritty stone that
+these passages are made from.  You walk slowly, running your hands along
+the walls, searching for any signs of traps or hidden doors.
+~
+165 264 0
+D0
+~
+~
+0 0 16557
+D2
+~
+~
+0 0 16559
+S
+#16559
+Main Passage~
+   You come to the end of this passage.  To your east looks like a dead
+end, and it looks as though your only choice will be to go back north.
+~
+165 264 0
+D0
+~
+~
+0 0 16558
+D1
+~
+~
+0 0 16560
+S
+#16560
+A Dead End~
+   You look at the walls and see charred scars from some type of destructive
+force that obviously left it's toll.  It looks like a dead end passage, with no
+where to go but back the way you came.  You seem to sense something, but
+your instincts tell you to go back.
+~
+165 264 0
+D1
+~
+moving wall~
+2 16515 16561
+D3
+~
+~
+0 0 16559
+S
+#16561
+The Hall of the Ruler~
+   The walls are decorated with tapestries of mages taming demons, spells
+being cast on equipment, and mages meditating.  The room is colorful, its
+decorations lighting the room with a feeling of radiance that bely's
+it's evil intentions.  You realize that beneath your feet is a 
+tiled artwork of a demon inhabiting a mage, and him sitting on a throne
+above the world.  You shudder at the thought.
+~
+165 297 0
+D0
+~
+~
+0 0 16575
+D1
+~
+~
+0 0 16562
+D2
+~
+~
+0 0 16576
+D3
+~
+moving wall~
+2 16515 16560
+S
+#16562
+Hall of Raczon~
+   The ceiling is arched, held up by monumental pillars of granite.  Guards
+with glowing red eyes line the walls, prepared to protect their ruler.  The
+tapestries continue into this great hall, depicting the sorcery of ages
+ago and the demons overrunning towns and cities.  
+~
+165 296 0
+D0
+~
+~
+0 0 16564
+D1
+~
+~
+0 0 16563
+D2
+~
+~
+0 0 16566
+D3
+~
+~
+0 0 16561
+S
+#16563
+Pentragram before the Throne~
+   You realize that the tiles on the floor have been lain in the shape
+of a pentagram.  Knowing this to be a magical focus of energy, you raise 
+your eyes to the throne ahead and shudder.  The tapestries are more graphic
+now, depicting demons shredding mortal bodies from within, while the 
+agony on the mortals face is almost palpable.
+~
+165 296 0
+D0
+~
+~
+0 0 16565
+D1
+~
+~
+0 0 16578
+D2
+~
+~
+0 0 16577
+D3
+~
+~
+0 0 16562
+S
+#16564
+Behind the Pillars~
+   Here stand the guards of Raczon, mortals inhabited by magical beasts.
+Their eyes gleam a deep ruby color, almost like their eyes are composed
+of flowing blood.  Each guard you recognize as a great warrior who
+disappeared without a trace.  They stand ready to attack at a moments
+notice and fight with inhuman zeal.
+~
+165 296 0
+D1
+~
+~
+0 0 16565
+D2
+~
+~
+0 0 16562
+D3
+~
+~
+0 0 16575
+S
+#16565
+Behind the Pillars~
+   Here stand the guards of Raczon, mortals inhabited by magical beasts.
+Their eyes gleam a deep ruby color, almost like their eyes are composed
+of flowing blood.  Each guard you recognize as a great warrior who
+disappeared without a trace.  They stand ready to attack at a moments
+notice and fight with inhuman zeal.
+~
+165 296 0
+D2
+~
+~
+0 0 16563
+D3
+~
+~
+0 0 16564
+S
+#16566
+Behind the Pillars~
+   Here stand the guards of Raczon, mortals inhabited by magical beasts.
+Their eyes gleam a deep ruby color, almost like their eyes are composed
+of flowing blood.  Each guard you recognize as a great warrior who
+disappeared without a trace.  They stand ready to attack at a moments
+notice and fight with inhuman zeal.
+~
+165 296 1
+D0
+~
+~
+0 0 16562
+D1
+~
+~
+0 0 16577
+D3
+~
+~
+0 0 16576
+S
+#16567
+The Hall of the Ensorceled~
+   The walls are dark, almost absorbing the light.  You try to peer around
+and get a feeling for what type of hall you have stepped into, but
+your eyes can't penetrate the everlasting darkness surrounding you.
+Where do you go now?
+~
+165 361 0
+D0
+~
+~
+0 0 16568
+D1
+~
+~
+0 0 16568
+D2
+~
+~
+0 0 16552
+D3
+~
+~
+0 0 16573
+S
+#16568
+The Hall of the Ensorceled~
+   The walls are dark, almost absorbing the light.  You try to peer around
+and get a feeling for what type of hall you have stepped into, but
+your eyes can't penetrate the everlasting darkness surrounding you.
+Where do you go now?
+~
+165 365 0
+D0
+~
+~
+0 0 16567
+D1
+~
+~
+0 0 16573
+D2
+~
+~
+0 0 16567
+D3
+~
+~
+0 0 16552
+S
+#16569
+Down the Well~
+   You climb down the well using the hand holds etched out of the stone.
+You glance down and feel a wave of nausea as you realize the heighth
+you are hanging from.
+~
+165 265 0
+D4
+~
+~
+0 0 16553
+D5
+~
+~
+0 0 16570
+S
+#16570
+Farther down the well~
+   Your feet start to become fuzzy as you enter this mist and descend farther
+into the well's depths.  You shudder and continue down.
+~
+165 265 0
+D4
+~
+~
+0 0 16569
+D5
+~
+~
+0 0 16571
+D6
+~
+loose stone~
+1 0 16574
+S
+#16571
+Deep within the well~
+   You can't see in front of you, and the flashing of the lights begins
+to make you dizzy.  You feel the air become thick, and your breathing
+labored.  You push on.
+~
+165 265 0
+D4
+~
+~
+0 0 16570
+D5
+~
+~
+0 0 16572
+S
+#16572
+Drowning in the Well~
+   You drop into the bottom of the well, water deep and mysterious.  You
+realize that you have no chance of getting back out again, and slowly
+sink down to the bottom of the well, your breath gone, your life over.
+~
+165 270 0
+D4
+~
+~
+0 0 16571
+S
+#16573
+The Hall of the Ensorceled~
+   The walls are dark, almost absorbing the light.  You try to peer around
+and get a feeling for what type of hall you have stepped into, but
+your eyes can't penetrate the everlasting darkness surrounding you.
+Where do you go now?
+~
+165 365 0
+D0
+~
+~
+0 0 16547
+D1
+~
+~
+0 0 16552
+D2
+~
+~
+0 0 16552
+D3
+~
+~
+0 0 16547
+S
+#16574
+A Hidden Alcove~
+   You step into this hidden treasure room of the lords of Tanalos.  
+You look around, seeing the gold and jewels that could make the poorest man
+one of the richest in the world.
+~
+165 265 0
+D8
+~
+loose stone~
+1 0 16570
+S
+#16575
+Behind the Pillars~
+   Here stand the guards of Raczon, mortals inhabited by magical beasts.
+Their eyes gleam a deep ruby color, almost like their eyes are composed
+of flowing blood.  Each guard you recognize as a great warrior who 
+disappeared without a trace.  They stand ready to attack at a moments 
+notice and fight with inhuman zeal.
+~
+165 296 0
+D1
+~
+~
+0 0 16564
+D2
+~
+~
+0 0 16561
+S
+#16576
+Behind the Pillars~
+   Here stand the guards of Raczon, mortals inhabited by magical beasts.
+Their eyes gleam a deep ruby color, almost like their eyes are composed
+of flowing blood.  Each guard you recognize as a great warrior who
+disappeared without a trace.  They stand ready to attack at a moments
+notice and fight with inhuman zeal.
+~
+165 296 0
+D0
+~
+~
+0 0 16561
+D1
+~
+~
+0 0 16566
+S
+#16577
+Behind the Pillars~
+   Here stand the guards of Raczon, mortals inhabited by magical beasts.
+Their eyes gleam a deep ruby color, almost like their eyes are composed
+of flowing blood.  Each guard you recognize as a great warrior who
+disappeared without a trace.  They stand ready to attack at a moments
+notice and fight with inhuman zeal.
+~
+165 296 0
+D0
+~
+~
+0 0 16563
+D3
+~
+~
+0 0 16566
+S
+#16578
+The Throne of the Ruler~
+   The room is surrounded by life-sized paintings of conflicts between
+man and fiend. The figures seem to come to life as you watch the battles
+play out around you. In the center of the room is a throne made of
+flowing blood.
+~
+165 360 0
+D3
+~
+~
+0 0 16563
+S
+#16579
+Room of Holding~
+   The runes on the wall flow with red and blue fire as you enter the room.
+Your energy seems to flag a small amount, as if something is draining your
+reserves.  An old man is chained to the far wall.
+~
+165 264 0
+D2
+~
+~
+0 0 16549
+D3
+~
+Stone Door~
+2 16529 16580
+S
+#16580
+Under the Crust of the Earth~
+   The heat in this area is overwhelming.  The sweat pours off your face
+as you gaze ahead and around at a wasteland of desolation.  The heat is
+such that your boots begin to smoulder from the rock's temperature.  What
+could have caused this destruction.
+~
+165 264 0
+D1
+~
+Stone Door~
+2 16515 16579
+D3
+~
+~
+0 0 16581
+S
+#16581
+A Crimson Pool~
+   In front of you is a pool of crimson water.  At closer inspection, the
+water is in fact blood.  It must have taken hundreds of lives to fill this
+pool.  You shudder in horror, then, peering into the depths of the pool
+you see a passage.  Could you enter this pool?
+~
+165 264 0
+D0
+~
+~
+0 0 16582
+D1
+~
+~
+0 0 16580
+S
+#16582
+The Dais of Hyraenecus~
+   Strewn across the floor are hundreds of corpses, some seeming to still
+twitch with the last vestiges of life.  Your eyes are glued to the many
+faces of those who have fallen here.  Their bodies have been horribly
+crushed and disfigured from different deaths, each face seeming to be
+frozen in a horrible deathmask.  And ahead, standing from his throne, you
+glimpse the architect of this carnage.
+~
+165 264 0
+D2
+~
+~
+0 0 16581
+S
+#16599
+Koroc's 'Away from those pesky mortals' room~
+
+~
+165 393248 0
+S
+#99999
+$~

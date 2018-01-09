@@ -1,0 +1,15 @@
+>rand_prog 4~
+if inroom($r) == here
+  if hitprcnt($r) < 100
+    say May this healing serve you well.
+    mpecho $I makes an arcane gesture resulting in a flash of white light.
+    mpcallmagic 'cure critical' $r
+    mpechoaround $r $R looks much better!
+  endif
+else
+    if rand(10)
+       mpecho $I rests quietly waiting for injured to tend to.
+    endif
+endif
+~
+|

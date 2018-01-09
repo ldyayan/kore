@@ -1,0 +1,99 @@
+#58
+Ar-Pharazon Ship~
+5899 30 1 32
+M 0  5816     1  5803            the lord captain commander
+E 1  5809    30     6                    head a great ^Ygold^n helm
+M 0  5813     1  5803            the pilot
+O 0  5801   101  5803            the tiller
+M 0  5800     1  5801            a marine
+E 1  5812    30     5                    body a breastplate of cuir bouli
+E 1  5813    30    16                    wield a gladius
+M 0  5800     2  5801            a marine
+E 1  5812    30     5                    body a breastplate of cuir bouli
+E 1  5813    30    16                    wield a gladius
+M 0  5801     1  5805            a sailor
+E 1  5805    30    17                    held a telescope
+M 0  5802     1  5807            an archer
+E 1  5808    30     6                    head a conical leather helmet
+E 1  5807    15    18                    ready a slim ribbonned bow
+M 0  5802     2  5808            an archer
+E 1  5808    30     6                    head a conical leather helmet
+E 1  5807    15    18                    ready a slim ribbonned bow
+M 0  5803     1  5809            the sailor
+E 1  5810    99    17                    held a mop
+M 0  5805     1  5809            a marine
+E 1  5804    15    18                    ready a ^Ygold^n pilum
+M 0  5804     1  5802            a marine officer
+E 1  5803    30    11                    shield a ^rred^n and ^Ygold^n shield
+M 0  5800     3  5802            a marine
+M 0  5800     4  5810            a marine
+E 1  5812    30     5                    body a breastplate of cuir bouli
+E 1  5813    30    16                    wield a gladius
+M 0  5800     5  5811            a marine
+E 1  5812    30     5                    body a breastplate of cuir bouli
+E 1  5813    30    16                    wield a gladius
+M 0  5803     2  5812            the sailor
+E 1  5810    99    17                    held a mop
+M 0  5805     2  5812            a marine
+E 1  5812    30     5                    body a breastplate of cuir bouli
+E 1  5813    30    16                    wield a gladius
+E 1  5804    15    18                    ready a ^Ygold^n pilum
+M 0  5803     3  5813            the sailor
+E 1  5810    99    17                    held a mop
+M 0  5805     3  5813            a marine
+E 1  5804    15    18                    ready a ^Ygold^n pilum
+M 0  5806     1  5819            a marine officer
+E 1  5814    25    17                    held a heretical text
+M 0  5807     1  5819            a marine officer
+M 0  5808     1  5820            a petty officer
+E 1  5815    25    17                    held a hand of ivory cards
+M 0  5809     1  5820            a petty officer
+M 0  5810     1  5818            a slave girl
+E 1  5817    25     7                    legs a set of soft pink silk leggings
+M 0  5811     1  5816            the navigator
+E 1  5818    25    17                    held an eerie lodestone
+M 0  5812     1  5817            a bull mastiff
+E 1  5816    25     3                    neck 1 a massive spiked steel collar
+M 0  5815     1  5821            the supreme general commander
+E 1  5811    70     6                    head a massive ^Ygolden^n eagle helm
+E 1  5802    15    17                    held an adamantite rod
+M 0  5814     1  5824            a marine
+M 0  5817     1  5824            a marine
+M 0  5804     2  5824            a marine officer
+E 1  5819    20     5                    body a vampiric ^Wsilver^n breastplate
+M 0  5800     6  5823            a marine
+E 1  5813    30    16                    wield a gladius
+M 0  5800     7  5822            a marine
+E 1  5813    30    16                    wield a gladius
+M 0  5819     1  5825            a sailor
+M 0  5821     1  5826            the Carpenter
+M 0  5819     2  5827            a sailor
+M 0  5820     1  5828            a sailor
+M 0  5818     1  5828            a sailor
+M 0  5822     1  5804            the cook
+M 0  5819     3  5829            a sailor
+M 0  5823     1  5841            a drunken sailor
+M 0  5824     1  5842            the strong angry slave
+E 1  5806    20     7                    legs a set of crummy dungarees
+M 0  5825     1  5843            the wretched man
+M 0  5800     8  5831            a marine
+M 0  5826     1  5831            a marine sergeant
+M 0  5800     9  5833            a marine
+M 0  5830     1  5839            the task master
+E 1  5821    15    17                    held a worn out leather drum
+M 0  5827     1  5834            the slave
+M 0  5827     2  5834            the slave
+M 0  5829     1  5834            the slave driver
+E 1  5820    15    16                    wield a cruel barbed lash
+M 0  5827     3  5835            the slave
+M 0  5828     1  5835            Ben Hur
+E 1  5822    15    14                    left wrist broken chains of freedom
+M 0  5827     4  5836            the slave
+M 0  5827     5  5836            the slave
+M 0  5827     6  5837            the slave
+M 0  5827     7  5837            the slave
+M 0  5827     8  5838            the slave
+M 0  5827     9  5838            the slave
+S
+#99999
+$~

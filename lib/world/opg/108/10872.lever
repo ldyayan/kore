@@ -1,0 +1,5 @@
+use_prog
+  echoat %1 You tug on the lever, but it doesn't move.
+  stopaction
+~
+~

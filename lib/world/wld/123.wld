@@ -1,0 +1,1557 @@
+#12300
+A Large Natural Harbour~
+   Large rocks form a wall that stops the large waves of the Sea of Tyress
+from crashing down within the large inlet. Several ships already dot the
+harbour and this new one is not new to this harbour. A large stone path
+leads off to the east from the harbour towards the city of Derlin. Well
+another less travelled path heads to the north towards a small acidic
+lake.
+~
+123 32769 6
+D1
+~
+~
+0 0 12301
+D3
+~
+~
+0 0 25789
+S
+#12301
+Walking Along a Wide Stone Path~
+   The stone narrows a little here and the bush becomes less
+dense perhaps the town of Derlin is not so far off. Above the 
+horizon smoke billows upwards towards the sky, eventually 
+disappearing into the beautiful sky above. Nearing Derlin the 
+travellers become more frequent, occasionally an ox cart is 
+seen heading to market.
+~
+123 32769 1
+D1
+~
+~
+0 0 12302
+D3
+~
+~
+0 0 12300
+S
+#12302
+A Turn in the Stone Path~
+   After walking east some distance the road quickly turns due
+south, away from the smoke. Perhaps a canyon or an orc infested
+forest lay directly to the east, whatever the case this path you
+must follow. Again the forest becomes dense, and now the sun seems
+to be disappearing as the trees seem to close in over head. Sounds,
+seeming tame at first, suddenly spell impending doom. Derlin, 
+though near seems very far away now.
+~
+123 32769 1
+D2
+~
+~
+0 0 12303
+D3
+~
+~
+0 0 12301
+S
+#12303
+Following the Stone Path~
+   Almost as soon as you came upon the turn sometime back the 
+road has become more dangerous, sharp turns, like those used to
+climb a mountain become common even though you see no mountain to
+climb. The road once seemingly solid granite is now more fragmented
+almost beaten. Those you now pass travelling along the road seem
+to almost run on their way, not wanting to stay on the path. You
+personally see no reason for fear, though for an odd reason you
+feel a reason.
+~
+123 32769 1
+D0
+~
+~
+0 0 12302
+D7
+~
+~
+0 0 12304
+S
+#12304
+Following the Stone Path Round the Forest~
+   Ahead, black shadows seem to jump about something on the ground.
+Nothing more then birds you think. As you near the site, you notice
+an odd smell hanging in the air. A smell you are familiar with,
+yet cannot put your finger on. As you approach the black shadows
+quickly disappear into the forest again, almost as fast as they
+had appeared.
+~
+123 32769 1
+D1
+~
+~
+0 0 12305
+D9
+~
+~
+0 0 12303
+S
+#12305
+Rounding the Forest on the Path to Derlin~
+   Derlin continues to draw nearer, more wanderers appear again
+a sign that what you saw may not be a common occurance. As you pass
+the occasional rock facing you notice pieces of the rock have been
+chipped off. Perhaps they contained stone or maybe other precious
+metals or jewels.
+~
+123 32769 1
+D1
+~
+~
+0 0 12306
+D3
+~
+~
+0 0 12304
+S
+#12306
+Walking Towards the Main Gate of Derlin~
+   The main gate looms in the distance. Even from this distance
+you can make out several guards. They are large and bulky, wielding
+some sort of weapon that you can't make out from here. Closer to
+you another group of travellers pass without a word though they
+look nice enough. The trees seem more sparse here and with less
+shadow you fear the shadow figures you saw a little less.
+~
+123 32769 1
+D1
+~
+~
+0 0 12307
+D3
+~
+~
+0 0 12305
+S
+#12307
+Before the Main Gate of the City of Derlin~
+   Nearer now you see the massive wooden gates that protect Derlin
+from all forms of attack. Seemingly built of a single piece of wood
+the gate looks stronger then most metal gates of the same type.
+Several guards stand before the gate, each wielding large axes,
+they are perhaps the largest guards you have seen.
+~
+123 32769 1
+D1
+~
+~
+0 0 12308
+D3
+~
+~
+0 0 12306
+S
+#12308
+The Main Gates of Derlin~
+   Standing before the wooden gate it no longer looks like the
+solid piece of wood you saw from a distance. The large stone walls
+are marked by large craters like they have repelled large attacks.
+Small pillboxs line the top of the walls where archers stand and
+fire their bows down on unsuspecting attackers. The guards you saw
+from a distance are truly something to behold. Their axes of a
+compound of gold and steel you have never seen before. Occasionally
+the guards open the gates to allow people in and out of the city.
+~
+123 32768 1
+D1
+~
+gate large wooden~
+1 0 12309
+D3
+~
+~
+0 0 12307
+S
+#12309
+Inside the Main Gates of Derlin~
+   Now inside the city you realize how dirty it is. A large smoke
+stack pokes out above the sky line spilling smoke all over the
+landscape. You figure this must be the gold smelter. Off to the
+east the marketplace sits full of people buying and selling their
+wares. To the north Shenir street travels along the wall likewise
+to the south does Viriligo.
+~
+123 32768 1
+D0
+~
+~
+0 0 12330
+D1
+~
+~
+0 0 12310
+D2
+~
+~
+0 0 12345
+D3
+~
+gate large wooden~
+1 0 12308
+S
+#12310
+Thanas Street in the Marketplace~
+   Standing amongst the crowds of the marketplace you see people
+with cloths over their faces attempting to take some of the grim out
+of the air before they breath it in. Various shops line the north
+and south walks of the street. Not far to the east a large fountain
+spews water far into the air and people gather round it for relief
+from the heat.
+~
+123 32768 1
+D0
+~
+~
+0 0 12315
+D1
+~
+~
+0 0 12311
+D2
+~
+~
+0 0 12324
+D3
+~
+~
+0 0 12309
+S
+#12311
+Derlin Town Square~
+  Standing before the large granite fountain you see speckles of
+gold thrown into the water. Gold is abundant here perhaps more than
+is said outside the city. The fountain spews water far in the air
+which is then caught by the wind and thrown over the people who
+see the fountain as a retreat from the heat that seems so sweltering.
+~
+123 32768 1
+D0
+~
+~
+0 0 12318
+D1
+~
+~
+0 0 12312
+D2
+~
+~
+0 0 12325
+D3
+~
+~
+0 0 12310
+S
+#12312
+Thanas Street in the Marketplace~
+   Standing amongst the crowds of the marketplace you see people
+with cloths over their faces attempting to take some of the grim out
+of the air before they breath it in. Various shops line the north
+and south walks of the street. Not far to the west a large fountain
+spews water far into the air and people gather round it for relief
+from the heat.
+~
+123 32768 1
+D0
+~
+~
+0 0 12320
+D1
+~
+~
+0 0 12313
+D2
+~
+~
+0 0 12326
+D3
+~
+~
+0 0 12311
+S
+#12313
+Thanas Street in the Marketplace~
+   Standing amongst the crowds of the marketplace you see people
+with cloths over their faces attempting to take some of the grim out
+of the air before they breath it in. Various shops line the north
+and south walks of the street. Not far to the west a large fountain
+spews water far into the air and people gather round it for relief
+from the heat.
+~
+123 32768 1
+D0
+~
+~
+0 0 12322
+D1
+~
+~
+0 0 12314
+D2
+~
+~
+0 0 12328
+D3
+~
+~
+0 0 12312
+S
+#12314
+Intersection of Thanas Street and Nothos Street~
+   Standing at the intersection you can smell the waste shooting out
+of the tall stacks to the east. Below the stacks with in the foundry
+gold is pressed into bars. To the north and south, Nothos street extends.
+to where it meets with several smaller side streets and eventually the
+great city walls.
+~
+123 32768 1
+D0
+~
+~
+0 0 12337
+D1
+~
+~
+0 0 12384
+D2
+~
+~
+0 0 12338
+D3
+~
+~
+0 0 12313
+S
+#12315
+Karride's Tavern~
+   The small dark tavern would appear to be home to good the bad
+and the ugly. Several people sit along the bar seemingly attempting
+to order more alcohol but coming up with nothing more then dried
+biscuits. Karride stands cautiously behind the counter watching for
+trouble makers. A large set of wooden stairs circle upwards toward
+the second level where reception is located.
+~
+123 32920 0
+D2
+~
+~
+0 0 12310
+D4
+~
+~
+0 0 12317
+S
+#12316
+Karrides Storage Room~
+You are in an unfinished room.
+~
+123 0 0
+S
+#12317
+Karrides Tavern Reception~
+   Standing in the taverns reception you see several woman standing
+in the corner, attempting to draw your attention from the receptionist.
+The room is lined with dark stained wood. Plaster walls above the
+wood are beaten and dented. Some of the rooms nearer reception you
+can even see into, though you wish you couldn't.
+~
+123 32792 0
+D5
+~
+~
+0 0 12315
+S
+#12318
+The Clothiers~
+   Racks upon racks of clothing stand in the middle of the room.
+Many fine silk shirts and satin shirts lay across rods in a
+display fashion. Various patrons line the shop some with small gold
+sacks hanging from their belts. Some with nuggets of gold in hand.
+~
+123 32792 0
+D2
+~
+~
+0 0 12311
+S
+#12319
+clothiers storage~
+You are in an unfinished room.
+~
+123 0 0
+S
+#12320
+Blacksmiths Shop~
+   Just inside the shop you notice the glowing of the blacksmiths
+forge. Around you, on shelves, on the floor and anywhere else it
+can be put pieces of armor lie. The blacksmith believes in being
+prepared perhaps. Behind the counter a short dwarf sits with his
+file sharpening a razor edge on a breastplate.
+~
+123 32792 0
+D2
+~
+~
+0 0 12312
+S
+#12321
+blacksmiths storage~
+You are in an unfinished room.
+~
+123 0 0
+S
+#12322
+The Fletcher Shop~
+   Some of the finest bows in Kore sit on the shelfs here some are spoken for
+already and some are still for sale.  Behind the counter the master fletcher
+is putting together some new ones hoping they will turn out as his last batch
+did.  Though the shop is often visited it is dusty, almost as if the fletcher
+doesn't clean often.
+~
+123 32792 0
+D2
+~
+~
+0 0 12313
+S
+#12323
+fletchers storage~
+You are in an unfinished room.
+~
+123 0 0
+S
+#12324
+The Derlin Gold Exchange~
+   Standing within the gold exchange you realize the amount of
+gold coming from the mines of Derlin is truly awe inspiring. The
+main office of the gold exchange is lined in solid poured gold.
+Detailed to the finest, it is nearly impossible to see a flaw.
+Various men, dwarf, elf and human alike stand before a large 
+counter attempting to transfer their share from nugget to coin.
+~
+123 32792 0
+D0
+~
+~
+0 0 12310
+D1
+~
+~
+0 0 12325
+S
+#12325
+The Bank of Derlin~
+   The bank of Derlin similar to the gold exchange is lined with
+gold desktops and bars to keep robbers from the safe. Even the safe
+is of a strange gold compound. Several guards sit at the doors,
+watching those who enter and checking those who leave. A man behind
+the bars quickly goes about the days work of withdrawing, and
+depositing money.
+~
+123 32792 0
+D0
+~
+~
+0 0 12311
+D3
+~
+~
+0 0 12324
+S
+#12326
+The Apothecary~
+   You enter the Apothecary looking for strange potions and herbs.  The
+place is crowded from floor to ceiling with jars and vials and stacked
+with boxes of herbs and unguents.  The place is filled with dust and
+strange odors and the floor is spotted with dark stains.  The place though
+is clean and well-kept.
+~
+123 32792 0
+D0
+~
+~
+0 0 12312
+S
+#12327
+apothecary storage~
+You are in an unfinished room.
+~
+123 0 0
+S
+#12328
+The Wizard's Shop~
+   You are standing in the mage's shop.  Magical ointments, charms and
+potions are sitting on shelves and behind a glass counter.  There is a
+dense neon blue fog hugging the floor here, making it impossible to see
+below your knees.
+~
+123 32792 0
+D0
+~
+~
+0 0 12313
+S
+#12329
+wizard storage~
+You are in an unfinished room.
+~
+123 0 0
+S
+#12330
+Shenir Street Along the City Wall~
+   The tall walls along Shenir street are nearly black portraying
+the fact that the wind blows in this direction over the eastern walls
+of the city. Many people walk this way, faces covered by pieces of
+fabric. The cobblestone of the street is covered in a thick layer
+of dust only disturbed by the boots of the people who walk by.
+~
+123 32768 1
+D2
+~
+~
+0 0 12309
+D6
+~
+~
+0 0 12331
+S
+#12331
+Shenir Street Along the City Wall~
+   The tall walls along Shenir street are nearly black portraying
+the fact that the wind blows in this direction over the eastern walls
+of the city. Many people walk this way, faces covered by pieces of
+fabric. The cobblestone of the street is covered in a thick layer
+of dust only disturbed by the boots of the people who walk by.
+~
+123 32768 1
+D6
+~
+~
+0 0 12332
+D8
+~
+~
+0 0 12330
+S
+#12332
+Shenir Street Along the City Wall~
+   The tall walls along Shenir street are nearly black portraying
+the fact that the wind blows in this direction over the eastern walls
+of the city. Many people walk this way, faces covered by pieces of
+fabric. The cobblestone of the street is covered in a thick layer
+of dust only disturbed by the boots of the people who walk by.
+~
+123 32768 1
+D1
+~
+~
+0 0 12333
+D8
+~
+~
+0 0 12331
+S
+#12333
+Shenir Street Along the City Wall~
+   The tall walls along Shenir street are nearly black portraying
+the fact that the wind blows in this direction over the eastern walls
+of the city. Many people walk this way, faces covered by pieces of
+fabric. The cobblestone of the street is covered in a thick layer
+of dust only disturbed by the boots of the people who walk by.
+~
+123 32768 1
+D1
+~
+~
+0 0 12334
+D3
+~
+~
+0 0 12332
+S
+#12334
+Shenir Street Along the City Wall~
+   The tall walls along Shenir street are nearly black portraying
+the fact that the wind blows in this direction over the eastern walls
+of the city. Many people walk this way, faces covered by pieces of
+fabric. The cobblestone of the street is covered in a thick layer
+of dust only disturbed by the boots of the people who walk by.
+~
+123 32768 0
+D1
+~
+~
+0 0 12335
+D3
+~
+~
+0 0 12333
+S
+#12335
+Intersection of Shenir Street and Nothos Street~
+   The tall walls along Shenir street are nearly black portraying
+the fact that the wind blows in this direction over the eastern walls
+of the city. Many people walk this way, faces covered by pieces of
+fabric. The cobblestone of the street is covered in a thick layer
+of dust only disturbed by the boots of the people who walk by.
+~
+123 32768 1
+D2
+~
+~
+0 0 12336
+D3
+~
+~
+0 0 12334
+D6
+~
+~
+0 0 12346
+S
+#12336
+Intersection of Nothos Street and Ozzul Court~
+   Standing at the intersection you can smell the waste shooting out
+of the tall stacks to the east. Below the stacks with in the foundry
+gold is pressed into bars. To the north and south, Nothos street extends.
+to where it meets with several smaller side streets and eventually the
+great city walls.
+~
+123 32768 1
+D0
+~
+~
+0 0 12335
+D1
+~
+~
+0 0 12369
+D2
+~
+~
+0 0 12337
+S
+#12337
+Nothos Street Near the Marketplace~
+   Standing on Nothos street you can smell the waste shooting out
+of the tall stacks to the east. Below the stacks with in the foundry
+gold is pressed into bars. To the north and south, Nothos street extends.
+to where it meets with several smaller side streets and eventually the
+great city walls.
+~
+123 32768 1
+D0
+~
+~
+0 0 12336
+D2
+~
+~
+0 0 12314
+S
+#12338
+Nothos Street Near the Marketplace~
+   Standing on Nothos street you can smell the waste shooting out
+of the tall stacks to the east. Below the stacks with in the foundry
+gold is pressed into bars. To the north and south, Nothos street extends.
+to where it meets with several smaller side streets and eventually the
+great city walls.
+~
+123 32768 1
+D0
+~
+~
+0 0 12314
+D2
+~
+~
+0 0 12339
+S
+#12339
+Intersection of Nothos Street and Menndo Avenue~
+   Standing at the intersection you can smell the waste shooting out
+of the tall stacks to the east. Below the stacks with in the foundry
+gold is pressed into bars. To the north and south, Nothos street extends.
+to where it meets with several smaller side streets and eventually the
+great city walls.
+~
+123 32768 1
+D0
+~
+~
+0 0 12338
+D1
+~
+~
+0 0 12363
+D2
+~
+~
+0 0 12340
+S
+#12340
+Intersection of Viriligo Street and Nothos Street~
+   Standing at this intersection you notice the flow of traffic coming
+in from the south. You briefly wonder from where it comes though
+shortly an answer is provided when a loud bell in rung not far from
+the mines, signalling the end of the days work. Several people appear
+to be nursing small injuries, this would be the price of being a gold
+miner.
+~
+123 32768 0
+D0
+~
+~
+0 0 12339
+D3
+~
+~
+0 0 12341
+D7
+~
+~
+0 0 12362
+S
+#12341
+Viriligo Street Along the City Wall~
+   Considerably less dirty then Shenir to the north the walls of
+Viriligo Street are still dirty none the less. The cobblestone of
+the street is broken in places and in others has been removed and
+replaced by a small pile of sand. A large regiment of soldiers walks
+past time and again, patrolling the walls. Occasionally looking up
+to the top of the walls you see a small archers pillbox looking down
+over the city and over the countryside on the other side of the wall.
+~
+123 32768 0
+D1
+~
+~
+0 0 12340
+D3
+~
+~
+0 0 12342
+S
+#12342
+Viriligo Street Along the City Wall~
+   Considerably less dirty then Shenir to the north the walls of
+Viriligo Street are still dirty none the less. The cobblestone of
+the street is broken in places and in others has been removed and
+replaced by a small pile of sand. A large regiment of soldiers walks
+past time and again, patrolling the walls. Occasionally looking up
+to the top of the walls you see a small archers pillbox looking down
+over the city and over the countryside on the other side of the wall.
+~
+123 32768 1
+D1
+~
+~
+0 0 12341
+D3
+~
+~
+0 0 12343
+S
+#12343
+Viriligo Street Along the City Wall~
+   Considerably less dirty then Shenir to the north the walls of
+Viriligo Street are still dirty none the less. The cobblestone of
+the street is broken in places and in others has been removed and
+replaced by a small pile of sand. A large regiment of soldiers walks
+past time and again, patrolling the walls. Occasionally looking up
+to the top of the walls you see a small archers pillbox looking down
+over the city and over the countryside on the other side of the wall.
+~
+123 32768 1
+D1
+~
+~
+0 0 12342
+D9
+~
+~
+0 0 12344
+S
+#12344
+Viriligo Street Along the City Wall~
+   Considerably less dirty then Shenir to the north the walls of
+Viriligo Street are still dirty none the less. The cobblestone of
+the street is broken in places and in others has been removed and
+replaced by a small pile of sand. A large regiment of soldiers walks
+past time and again, patrolling the walls. Occasionally looking up
+to the top of the walls you see a small archers pillbox looking down
+over the city and over the countryside on the other side of the wall.
+~
+123 32768 1
+D7
+~
+~
+0 0 12343
+D9
+~
+~
+0 0 12345
+S
+#12345
+Viriligo Street Along the City Wall~
+   Considerably less dirty then Shenir to the north the walls of
+Viriligo Street are still dirty none the less. The cobblestone of
+the street is broken in places and in others has been removed and
+replaced by a small pile of sand. A large regiment of soldiers walks
+past time and again, patrolling the walls. Occasionally looking up
+to the top of the walls you see a small archers pillbox looking down
+over the city and over the countryside on the other side of the wall.
+~
+123 32768 0
+D0
+~
+~
+0 0 12309
+D7
+~
+~
+0 0 12344
+S
+#12346
+Shenir Street Along the City Wall~
+   The tall walls along Shenir street are nearly black portraying
+the fact that the wind blows in this direction over the eastern walls
+of the city. Many people walk this way, faces covered by pieces of
+fabric. The cobblestone of the street is covered in a thick layer
+of dust only disturbed by the boots of the people who walk by.
+~
+123 32768 1
+D6
+~
+~
+0 0 12347
+D8
+~
+~
+0 0 12335
+S
+#12347
+Shenir Street Along the City Wall~
+   The tall walls along Shenir street are nearly black portraying
+the fact that the wind blows in this direction over the eastern walls
+of the city. Many people walk this way, faces covered by pieces of
+fabric. The cobblestone of the street is covered in a thick layer
+of dust only disturbed by the boots of the people who walk by.
+~
+123 32768 1
+D1
+~
+~
+0 0 12348
+D8
+~
+~
+0 0 12346
+S
+#12348
+The North Gate of Derlin~
+  The north gates of Derlin like the south gate appear to be sealed
+from the inside. Over the walls of the city your can hear was seems
+like crashing waves. You notice small puddles of water seem to have
+built up near the gate. Several guards stand before the gate and nod
+acknowledgements to the people who pass by.
+~
+123 32768 0
+D1
+~
+~
+0 0 12349
+D3
+~
+~
+0 0 12347
+S
+#12349
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 1
+D3
+~
+~
+0 0 12348
+D7
+~
+~
+0 0 12350
+S
+#12350
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 1
+D7
+~
+~
+0 0 12351
+D8
+~
+~
+0 0 12366
+D9
+~
+~
+0 0 12349
+S
+#12351
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 1
+D7
+~
+~
+0 0 12352
+D9
+~
+~
+0 0 12350
+S
+#12352
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 1
+D2
+~
+~
+0 0 12353
+D9
+~
+~
+0 0 12351
+S
+#12353
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 1
+D0
+~
+~
+0 0 12352
+D2
+~
+~
+0 0 12354
+S
+#12354
+Garaint Street By the Mine~
+   Now standing directly to your west you notice the tall black
+stacks of the foundry/smelter. Through the wrought iron gates you
+can see liquid gold being poured into small molds to be removed and
+taken to the storage compound. The smell of the burning wood is
+nearly unbareable after a few minutes and the heat from the blast
+furnace even worse.
+~
+123 32768 0
+D0
+~
+~
+0 0 12353
+D2
+~
+~
+0 0 12355
+D3
+~
+~
+0 0 12371
+S
+#12355
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 0
+D0
+~
+~
+0 0 12354
+D2
+~
+~
+0 0 12356
+S
+#12356
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 0
+D0
+~
+~
+0 0 12355
+D8
+~
+~
+0 0 12357
+S
+#12357
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 0
+D6
+~
+~
+0 0 12356
+D8
+~
+~
+0 0 12358
+S
+#12358
+Intersection of Garaint Street and Menndo Avenue~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 0
+D6
+~
+~
+0 0 12357
+D8
+~
+~
+0 0 12359
+D9
+~
+~
+0 0 12370
+S
+#12359
+Garaint Street Along the City Wall~
+   You notice the walls along Garaint street are considerably shorter
+than the walls along the other outer streets. You notice a strong
+smell of salt water. The wind coming in over the walls blows the smoke
+from the tall stack off in a north westerly direction over Shenir
+street and it's walls which appear almost black from this vantage.
+~
+123 32768 0
+D3
+~
+~
+0 0 12360
+D6
+~
+~
+0 0 12358
+S
+#12360
+The South Gate of Derlin~
+   Standing before the large south gate you notice that the gates 
+seem permanently closed. You hear someone mention a large chasm
+opening nearly outside the gate. Perhaps someday you will venture
+off though to gate to investigate.
+~
+123 32768 0
+D1
+~
+~
+0 0 12359
+D3
+~
+~
+0 0 12361
+S
+#12361
+Viriligo Street Along the City Wall~
+   Considerably less dirty then Shenir to the north the walls of
+Viriligo Street are still dirty none the less. The cobblestone of
+the street is broken in places and in others has been removed and
+replaced by a small pile of sand. A large regiment of soldiers walks
+past time and again, patrolling the walls. Occasionally looking up
+to the top of the walls you see a small archers pillbox looking down
+over the city and over the countryside on the other side of the wall.
+~
+123 32768 1
+D1
+~
+~
+0 0 12360
+D9
+~
+~
+0 0 12362
+S
+#12362
+Viriligo Street Along the City Wall~
+   Considerably less dirty then Shenir to the north the walls of
+Viriligo Street are still dirty none the less. The cobblestone of
+the street is broken in places and in others has been removed and
+replaced by a small pile of sand. A large regiment of soldiers walks
+past time and again, patrolling the walls. Occasionally looking up
+to the top of the walls you see a small archers pillbox looking down
+over the city and over the countryside on the other side of the wall.
+~
+123 32768 0
+D7
+~
+~
+0 0 12361
+D9
+~
+~
+0 0 12340
+S
+#12363
+Menndo Avenue~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+123 32768 0
+D1
+~
+~
+0 0 12364
+D3
+~
+~
+0 0 12339
+S
+#12364
+Menndo Avenue~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+123 32768 0
+D1
+~
+~
+0 0 12365
+D3
+~
+~
+0 0 12363
+S
+#12365
+Menndo Avenue~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+123 32768 0
+D3
+~
+~
+0 0 12364
+D7
+~
+~
+0 0 12370
+S
+#12366
+Ozzul Court~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+123 32768 0
+D6
+~
+~
+0 0 12350
+D8
+~
+~
+0 0 12367
+S
+#12367
+Ozzul Court~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+123 32768 0
+D3
+~
+~
+0 0 12368
+D6
+~
+~
+0 0 12366
+S
+#12368
+Ozzul Court~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+123 32768 0
+D1
+~
+~
+0 0 12367
+D3
+~
+~
+0 0 12369
+S
+#12369
+Ozzul Court~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+123 32768 0
+D1
+~
+~
+0 0 12368
+D3
+~
+~
+0 0 12336
+S
+#12370
+Menndo Avenue~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+123 32768 0
+D7
+~
+~
+0 0 12358
+D9
+~
+~
+0 0 12365
+S
+#12371
+Road to the Mine~
+   Now standing directly to your west you notice the tall black
+stacks of the foundry/smelter. Through the wrought iron gates you
+can see liquid gold being poured into small molds to be removed and
+taken to the storage compound. The smell of the burning wood is
+nearly unbareable after a few minutes and the heat from the blast
+furnace even worse.
+~
+123 32768 0
+D1
+~
+~
+0 0 12354
+S
+#12372
+Before the Gates of the Mine~
+   Now standing directly to your west you notice the tall black
+stacks of the foundry/smelter. Through the wrought iron gates you
+can see liquid gold being poured into small molds to be removed and
+taken to the storage compound. The smell of the burning wood is
+nearly unbearable after a few minutes and the heat from the blast
+furnace even worse.
+~
+123 4 0
+D3
+~
+large steel gates~
+2 12335 12373
+S
+#12373
+Within the Confines of the Mine~
+   Standing on the cobblestone walk you are quickly struck by the
+noise of the mine and it's surrounding buildings. To the north a
+small break house sits. To the south the large gold smelter and
+blast furnace sit, the heat from which seems nearly unbareable.
+~
+123 0 0
+D0
+~
+~
+0 0 12374
+D1
+~
+large steel gates~
+2 12335 12372
+D2
+~
+~
+0 0 12381
+D3
+~
+~
+0 0 12383
+S
+#12374
+The Miners Break House~
+   Standing just inside the door you see a rather large man standing
+behind a counter serving food to the working miners. Several tables
+sit in line side by side. The miners seem to have taken their time
+getting here and are also taking their time leaving.
+~
+123 0 0
+D2
+~
+~
+0 0 12373
+S
+#12375
+On the Lift Platform~
+   You stand inside a large metal lift cage heading for the bottom
+of the mine. Several men come and go from the platform, bringing
+equipment and other supplies heading for the bottom. The platform
+swings gingerly in the wind and several men clutch the rails for
+their lives in fright.
+~
+123 0 0
+S
+#12376
+The Ox Run Area~
+   The long ox run provides the lifting power for the lift platform
+to the east. Several ox stand tied to the fence ready to take the
+place of a tiring ox at a moment notice. You notice the line seems
+fragile, as if a single ox dying could snap the line and send the
+platform to the bottom of the shaft.
+~
+123 0 0
+D1
+~
+~
+0 0 12383
+S
+#12377
+The First Level of the Mine~
+   The first level of the mine to be extensively mined. Several men
+still work here taking small remains of gold to the surface on 
+large carts. A lever on the wall releases the large brake above 
+and allows the platform to lower.
+~
+123 0 0
+S
+#12378
+The Second Level of the Mine~
+   The second level of the mine to be extensively mined. A large
+group of men still work here taking medium to small chucks of gold
+to the surface on large carts drawn by ox. Some large candles burn
+about the area and a small canary in a cage warns of the building
+of deadly gases. A lever on the wall releases the large brake above 
+and allows the platform to lower.
+~
+123 0 0
+S
+#12379
+The Third Level of the Mine~
+   The third level of the mine to be extensively mined. A large
+group of men still work here taking medium to small chucks of gold
+to the surface on large carts drawn by ox. Some large candles burn
+about the area and a small canary in a cage warns of the building
+of deadly gases. A lever on the wall releases the large brake above 
+and allows the platform to lower.
+~
+123 0 0
+S
+#12380
+The Fourth Level of the Mine~
+   On the lowest level of the mine you notice a massive chunk of
+gold sticking out of the stone. Several men work to free it from the
+clutches of the stone and appear to be near taking it. Large ox
+drawn carts take the stone and dirt to the surface to be taken to
+quarries to refill.
+~
+123 0 0
+S
+#12381
+The Gold Smelter~
+  Entering from the north you notice first the small room leading
+into the wood and coal storage rooms. Beyond the coal you can make
+out the rather oversized bellows the blow into the furnace rising
+the temperature considerably in the room. Several men with long
+handled pails pour melted gold into several prepared molds that
+sit on the floor. Off in the corner several molds already filled
+cool in the mid-afternoon sun.
+~
+123 0 0
+D0
+~
+~
+0 0 12373
+D3
+~
+~
+0 0 12382
+S
+#12382
+Coal and Wood Storage Room~
+   Standing just beside the large blast furnace the heat is nearly
+unbareable. The stone of the blast furnace is red hot and radiates
+it's heat onto all those inside. From here you can see two men
+operating the bellows and one man fueling the fire with a careful
+mix of coal and wood.
+~
+123 0 0
+D1
+~
+~
+0 0 12381
+S
+#12383
+Before the Lift Platform~
+   Looking out over the gaping hole in the earth you see the small
+lift platform and the larger one beyond that transports ox and cart
+to the surface. Off to the west a long ox run sits. Twelve ox in
+line work to pull the large platform to the surface well four work
+to pull the larger one to the surface. Men scatter to get onto the
+platform before it descends again.
+~
+123 0 0
+D1
+~
+~
+0 0 12373
+D3
+~
+~
+0 0 12376
+S
+#12384
+Temple of the God Gond~
+   The god of crafts and construction, many in this town are followers.
+Many believe he constructed the great caverns beneath the surface
+where they first found gold. His patronage includes the blacksmiths
+and engineers as well as the miners who work the mine, bringing
+gold to the surface.
+~
+123 32796 0
+D0
+~
+~
+0 0 12385
+D3
+~
+~
+0 0 12314
+S
+#12385
+By the Temple Altar~
+   Standing near the altar of the temple you find yourself
+overwhelmed by his power. Gifts of gold and titanium trinkets line
+the walls. Several cart wheels, embossed in gold sit here. A board
+for communication with others also sits here.
+~
+123 32768 0
+D2
+~
+~
+0 0 12384
+S
+#99999
+$~

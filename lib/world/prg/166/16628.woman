@@ -1,0 +1,32 @@
+>greet_prog 30~
+  if ispc($n)
+    say Hi, welcome to my cabin!
+    giggle
+  endif
+~ 
+>rand_prog 1~
+  smile $r
+  say Are you in need of a favor?
+~ 
+>rand_prog 2~
+  say I know a few spells, maybe I could help you out..
+  say But I would need some coins in return. I'm a little short.. that's all.
+~
+>bribe_prog 8000~
+  cast 'haste' $n
+  mpsilent drop gold
+  mpsilent get gold
+~
+>bribe_prog 5000~
+  cast 'sanctuary' $n
+  mpsilent drop gold
+  mpsilent get gold
+~
+>bribe_prog 1~
+  say A little more than THAT would be nice!
+  frown
+  mpsilent drop gold
+  mpsilent get gold
+~
+|
+

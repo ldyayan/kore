@@ -1,0 +1,20 @@
+#21
+Avernus II~
+2199 40 1 0
+M 0  2103     1  2117            Titivilus
+D 0  2117     0     2            Before the Gates of Dis door north
+D 0  2118     2     2            Inside the gates of Dis door south
+O 0  2028   101  2116            a portal to the iron city of Dis
+D 0  2116     0     2            A quiet place door north
+M 0  2005     1  2108            Malphas, Duke of Avernus
+E 1  2011    10    16                    wield a heavy ^Wsilver^n bastard sword
+D 0  2108     0     1            The glittering cave door north
+D 0  2108     2     2            The glittering cave door south
+M 0  2033     1  2100            an astral deva
+O 0  2066   101  2100            a shadowy field
+D 0  2107     2     1            A darkened entryway door south
+D 0  2121     1     1            Main street before the temple door east
+D 0  2132     3     1             Entrance to the Temple of Dispater door west
+S
+#99999
+$~

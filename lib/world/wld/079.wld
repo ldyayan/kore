@@ -1,0 +1,750 @@
+#7900
+Outside the Clanhall of Genocide~
+   A large jutting rock forms the plateau on which you, and a dilapidated
+mansion now stand.  The wind around you is fearful, whipping about madly,
+and whispering sounds like banshees into your ears.  A rusty sign, flapping
+in the air displays the name "Kirin".  Shutters on the front of the house
+slap against it with an almost hypnotic beat, blending well with the banshee
+sirens.
+~
+79 0 5
+D0
+~
+gate huge arched~
+2 7902 7901
+D2
+~
+~
+0 0 7999
+S
+#7901
+The Southern End Of The Hall~
+   This musty hall reeks of death, for the smell of decaying flesh and blood
+fill your nostrils.  The walls seem to bend in toward you out of the corners
+of your eyes, and they feel as if the icy claws of destruction are scratching
+at your back.  A rotting wooden staircase leads into the tower far above,
+and two doors stand to the east and the west.  A huge iron gate leads to the
+south, the only sure exit out of the damnable place.  The deteriorating
+clanhall extends northward into the darkness.
+~
+79 8 0
+D0
+The hallway continues that way.  You can see more doorways under the
+wooden staircase in that direction.
+~
+~
+0 -1 7904
+D1
+You see a tall oak door there.  It looks quite tightly closed to you.
+On it little runes are chiselled into the wood.
+~
+door oak tall~
+1 -1 7910
+D2
+Here you see a REAL door.  It would be more proper to call this a
+'GATE', rather than a 'door'.  It is really HUGE!  On it hangs a
+large sign with very large letters spelling:
+
+                EMERGENCY EXIT
+
+~
+gate iron huge~
+2 7901 7900
+D3
+This looks like a 'door' in the meaning of the word.  The ashen wood
+is painted in a peculiar yellow color.  Small letters are written
+with black on it.
+~
+door ashen ash yellow~
+1 -1 7902
+D4
+You see the staircase extending upwards into the very high tower.
+It ends in what seems like a large bedroom up there.
+~
+~
+0 -1 7909
+E
+letters~
+They read:
+
+                LIBRARY
+
+~
+E
+runes~
+These runes are utterly strange to you, but you are in luck today:
+Under the runes you can just make out a sentence in Common.  It
+reads:
+
+Stay out, if you treasure your life.  That is if you are still mortal.
+
+~
+S
+#7902
+Trian's Library~
+   A sole lantern spreads illumination across a solid oak desk in the middle
+of this chamber.  Bookshelves line the walls, and extend from the rotten
+carpet to the sagging ceiling ten feet above.  Two leather armchairs sit
+opposite the table, faithfully preserved from time's bony fingers.  At the
+north-west corner of this room sits a dusty globe, from which you can see
+the entire world.  The age-old smell of decaying paper and musty tomes greets
+your nostrils, and reminds you of your time spent learning the basics in
+childhood.
+~
+79 8 0
+D1
+You can see an old ashen door, painted in a peculiar yellow color.
+~
+door ash ashen~
+1 -1 7901
+E
+river~
+You see a large and winding river cut through the landscape, starting at an
+enormous inland lake, it seeps through Kore and finally ends up in the
+Grand Sea on the west coast of the land.
+~
+E
+out outside beyond~
+The clouds muster and form the rocks on which this entire building is set.
+Through the thinnest of the clouds you can just make out Kore with all
+of its magnificent activity.
+~
+E
+window glass~
+These windows are really BIG!  They reach from about 20 inches above the
+floor to approximately 10 inches under the ceiling.  If you try and
+'look out', you might see what might lie beyond these windows.
+~
+E
+chairs leather armchairs chair armchair~
+These two chairs are exactly alike one another.  They look incredibly
+comfortable.  They are both made from old leather, and yet they seem
+so worn that they can be nothing but a perfect place for a long needed
+rest.
+~
+E
+kore town city~
+You see a small speck with woods on the west from it, plains to the east
+from it and mountains to the north from it.  To the east of it you can
+see a thin trail lead to a large castle.  Finally you notice a rather
+large river pour in from the east and go through Kore in the middle.
+~
+E
+globe world map~
+You see a large world map stretch out on the enormous globe.  It has towns
+drawn in every spot available for such.  In the middle of the map you can
+spot a large town with the name 'KORE' written over it.  The rest is
+mountains, woods, plains and water.
+~
+S
+#7903
+The Artifact Room of Clan Genocide~
+   The only light into this large safe is from the vault door which you have
+left open.  Strange and mysterious objects lie scattered everywhere, from
+weapons looking like sword hafts, and crossbar-less crossbows.  Dust covers
+everything, and though the items look to be of some value, ages has destroyed
+whatever value they might have held.  The only visible exit is west.
+~
+79 8 0
+D3
+You see only the back of a safe's steel door.
+~
+door steel safe~
+1 7900 7910
+E
+haft sword~
+This odd "weapon" looks just like the haft on any sword, but it has a button
+on the bottom, and a little niche carved into the top.  You press the red
+button, but all you get is a whirling sound and a little puff of smoke.
+Disinterested, you toss the piece of junk back into the pile.
+~
+S
+#7904
+The Northern End Of The Hall~
+   You are standing in the northern end of the ruined hall.  This part is
+under the rotting wooden staircase so the light seems to be a little less
+bright here, but this doesn't affect your sight at all.  To the north
+lies the mess hall.  To the south lies the southern end of the hall.  To
+the east there is a huge metal door.  To the west there is a large
+aspenwood door.
+~
+79 8 0
+D0
+~
+~
+0 -1 7906
+D1
+You see a huge metal door.  From it a foul stench emanates.  The smell is
+the most awful experience in your entire life.  A thought seeps through this
+terrible stench and into your mind: 'Monsters', you feel BAD about opening
+that door.
+~
+door metal huge~
+2 -1 7913
+D2
+The rest of the hall lies in that direction, and so does the exit.
+~
+~
+0 -1 7901
+D3
+The door has 'TRAINING ROOM' written on it.  It is made from Aspenwood and
+is beautifully carved with small elves as main issue of sculpture.
+~
+door aspen wood~
+1 -1 7905
+S
+#7905
+The Training Room Of Genocide~
+   You are standing in the middle of a large training room.  The walls
+are padded to avoind injuring anyone who might smash into them, and painted
+upon them are various action poses of famous Genocide rogues and assassins.
+One picture painted on the middle of the north wall seems to glow, protraying
+a cleric in shining robes.  In the northwest corner rests a crumbling weapons
+rack, and rotten dummies with bells attached hang in other corners.  The only
+visible exit from here is through the aspenwood door to the east.
+~
+79 8 0
+D1
+The door seems to be a very HEAVY door, carved completely from the trunk of
+an Aspen tree.
+~
+door aspen heavy~
+1 -1 7904
+D5
+A small notch appears in on of of the floorboards here..
+~
+plank wood door notch~
+2 7908 7919
+E
+rack weaponrack~
+This is truly a wonderful relic of the past.  Unfortunately it stands empty.
+~
+S
+#7906
+The Mess Hall of Genocide~
+   This large dining area is packed with benches and tables for the communal
+dining services that took place long ago.  Now, rotten and sagging planks,
+along with some shattered completely, make navigating this room troublesome.
+In some places rusted iron plates and cups still sit in placemarks, their
+contents having disappeared by some unknown source.  A large Refrigerator sits
+to the east, and appears to have some warning scrawled upon it, and a large
+walk-in pantry sits to the north.
+~
+79 8 0
+D0
+It is dark in there.  But the sounds from there are unmistakable.  The rats
+are here for your information.
+~
+larder wooden cupboard~
+1 -1 7907
+D1
+You can see the freezer from here.  There are drinks all over the place.
+~
+fridge~
+1 -1 7908
+D2
+You can see the northern end of the hall.
+~
+~
+0 -1 7904
+E
+fridge frigerator~
+A warning, scrawled in blood says:
+          DO NOT ENTER, DANGEROUS, WARNIn..
+The message trails off into a handprint smear.
+~
+S
+#7907
+The Pantry~
+   Half-rotted barrels line the northern wall, and shelves that reach all the
+way to the ceiling, partially filled with an odd assortment of bottles and
+cans.  This place seems to have fared the best out of the entire mansion, so
+not much deterioration can be seen.  The only visible exit is back south.
+~
+79 8 0
+D2
+~
+door wooden larder~
+1 -1 7906
+S
+#7908
+The Death Trap~
+   As you enter the door slams quickly shut behind you.  The temperature in 
+here is well below freezing, and it's making more than your blood run cold.
+As you look around you notice the skeletons you didn't see on the way in.  It's
+then you realize that you will be spending the rest of eternity in the cold.
+~
+79 393358 0
+D3
+~
+door fridge~
+1 -1 7906
+S
+#7909
+On The Stairs~
+   At first you were unsure whether or no the sagging, rotting floorboards
+would hold your weight, but after careful stepping, and quick feet, you
+managed to avoid snapping a plank, and falling to your death fifty feet below.
+You glance above, but the only thing you can see are just more stairs.  Time
+passes slowly, and it seems that you will never reach the height of these
+gravity-defying stairs.
+~
+79 8 0
+D4
+~
+~
+0 -1 7911
+D5
+~
+~
+0 -1 7901
+S
+#7910
+The Treasure Room~
+   Rotten boards creak beneath your boots as you walk across this abandoned
+room.  Broken pottery, along with mangled furniture decorate this chamber,
+in a macabre sort of way.  To the east a huge safe door stands, and one can
+only wonder what riches are contained therein.  Besides the safe, the only
+other visible exit is back west, to the center of the clanhall.
+~
+79 8 0
+D1
+~
+safe steel~
+1 7900 7903
+D3
+You see a tall oak door.
+~
+door oak tall~
+1 -1 7901
+S
+#7911
+Phaete's Bedroom~
+   The top of the stairs reveals a sparsely decorated room, once treated and
+polished, now ravaged by time.  A broken cot sits in the corner, and a once
+beautiful circular table, now food for termites.  A dirty fireplace adorns
+the east wall, long since cooled.  Foot prints from the fireplace track soot
+to the table, but stop there.  There is a set of double doors to the south,
+and a staircase leading down back to the hall.
+~
+79 8 0
+D2
+The sun seems to shine out there, warmly and comforting. 
+~
+doors~
+1 -1 7912
+D5
+~
+~
+0 0 7909
+S
+#7912
+The Chamber of Kirin~
+   Bones of human-like creatures litter the floor, with half skeletons propped
+up along the walls.  Dried and faded blood bathed this place, and the little
+bit of light that leaks through a crack in the ceiling gives this compartment
+a crimson tinge.  Shackles attached to the eastern wall still hold the
+skeleton of a long dead dwarf, minus its head.  The smell in this stagnant
+room is unbearable, a mixture of death, sweat, and human excrement.  There
+is a closet door ajar to the west, and the way you came back to the north.
+~
+79 8 1
+D0
+~
+doors~
+1 0 7911
+D3
+~
+~
+0 0 7921
+S
+#7913
+The Monster Pen~
+   This appears to be a cage in which a large carnivore is housed.  Dried blood
+stains the while walls, ceiling and the floor.  Huge gashes appear out of the
+cement, testimony that whatever is kept here, does not like being locked up.
+Broken bones, urine stains and petrified feces leave a sick maze across the
+tiled floor.  The place reeks of filth, and you can't wait to get back west,
+the only exit.
+~
+79 41 0
+D3
+This looks like the only exit from here.
+~
+door cage metal pen~
+1 -1 7904
+S
+#7914
+A Fork in the Path~
+You stand in the middle of a forking dirt path.  A soft breeze blows in
+fro the west, where you can see a trail leading down the rocky outcropping
+and to the shore of a gurgling stream.  Your view is obstructed to the
+east by a large hill, its almost perfect half-sphere shape somewhat
+unnatural.  Another fork drifts north, and curves around the strange hill.
+Back to the southeast, you see a small willow grove.
+~
+79 0 2
+D0
+~
+~
+0 0 7926
+D3
+~
+~
+0 0 7924
+D7
+~
+~
+0 0 7922
+S
+#7915
+A Cramped Cellar~
+This dank room is incredibly small, and you have trouble moving around amongst
+the numerous shelves and bits lying upon the floor.  The sounds of squeaking
+mice, and the smell of almost fresh food greet your senses, telling you that
+this place is, or at least was habited recently.  Stumbling around, you find
+yourself against the northern wall, against a sliding paper door.  Besides
+north, there are no visible exits.
+~
+79 13 0
+D0
+~
+fusuma wooden paper door~
+1 0 7916
+S
+#7916
+Into the Main Room~
+Covering the floor from wall to wall are large woven straw mats, and nondescript
+bamboo strips line the wall.  This house is terribly bland, but is very tidy.
+To the north, an open sliding paper door exposes a beautiful garden, to the
+west is a utilitarian kitchen, and to the east is a tiny alcove.  A paper door
+to the south leads to the cellar.
+~
+79 8 0
+D0
+~
+~
+0 0 7917
+D1
+~
+~
+0 0 7918
+D2
+~
+fusuma paper sliding doors~
+1 0 7915
+D3
+~
+~
+0 0 7920
+S
+#7917
+A Beautiful Garden~
+An orderly anarchy of color greets your eyes, as you catch the garden in
+full bloom.  It truly is a gorgeous sight, and a slight warmth enters your
+heart.  For some you think, it is the first time they have ever felt that 
+way.  The flowers are trimmed meticulously, almost obsessively, and you 
+feel sorry for whatever poor fool is caught messing this place up, for 
+he's sure to get a major ass-kicking.
+The terraced flowerbeds are only interrupted by two paths, one heading
+northeast, and the other, northwest.
+~
+79 80 2
+D2
+~
+~
+0 0 7916
+D6
+~
+~
+0 0 7923
+D9
+~
+~
+0 0 7922
+S
+#7918
+A Small Alcove~
+On a small ash table in the center of the room, rests a intricate carved
+idol of a fat bald man contorted into some uncomfortable sitting position.
+A shallow niche in the wall behind it shelves a row of black tablets,
+engraved with strange letters.  Obviously, this is the family's worship
+room.  Back to the west, you see the main living area of this tiny house.
+~
+79 184 0
+D3
+~
+~
+0 0 7916
+S
+#7919
+The Place of the Way~
+   It is very hard to see in this room, for the only light leaking in is from
+the cracks in between the floorboards above, and a single candle resting on
+a plain table next to you.  Padded mats cover the ground from wall to wall,
+and solid oak planks along the walls show scars of previous sword fights.  
+This room have fared extremely well, a decent change compared to the clanhall
+above.
+~
+79 161 0
+D4
+~
+trapdoor door plank~
+1 0 7905
+S
+#7920
+A Utilitarian Kitchen~
+This room can only be called a kitchen in context.  A few cast-iron pots
+and culinary objects are hung along the southern wall, above a large
+granite basin.  Next to the tub is a wooden barrel with a spigot jutting
+out of the wall, apparently to collect rainwater.  A wooden table that
+appears to be elm sits in the center, with many knife nicks marring its
+polished surface.  The only exit you see is the one bact to the east.
+~
+79 8 0
+D1
+~
+~
+0 0 7916
+S
+#7921
+Kirin's DEATH Chamber~
+   As you enter the closet of Kirin of Genocide, where he kept his concubine
+Bone, you realize you are not alone.  As she draws near to welcome you in
+you smell the rot on her breath.  As her skeletal arms wrap about your neck
+and draw your lips to hers, you feel death slowly creep from her mouth to
+yours, and the last thing you remember is terror.
+~
+79 393354 1
+D1
+~
+~
+0 0 7912
+S
+#7922
+Trail Amongst the Trees~
+The path you stand on gently winds its way between a small grove of
+willow trees.  Swaying softly in the breeze, the rustle of leaves the
+only audible sound.  To the northwest, the trail branches off to what
+looks like a stream.
+~
+79 0 2
+D7
+~
+~
+0 0 7917
+D9
+~
+~
+0 0 7914
+S
+#7923
+Path to the Rice Fields~
+Path is muddy, various wild flowers to the sides of the path.
+can see rice fields distant to the northeast, and a small village to the nw
+~
+79 0 2
+D1
+~
+~
+0 0 7933
+D8
+~
+~
+0 0 7917
+S
+#7924
+Rocky Trail to the Docks~
+You pick your way carefully around the rocks, making sure not to slip
+on the steep trail.  Over the crest to the east, you can see an unusual
+mound, and some kind of forking trail.  Down to the southwest, the stony
+route bleeds off into an old dock, in terrible condition.
+~
+79 0 5
+D1
+~
+~
+0 0 7914
+D8
+~
+~
+0 0 7925
+S
+#7925
+The Old Docks~
+The old boards creak in protest under your weight, and you wonder if it
+is wise to continue standing on such uneasy ground.  A tiny craft is
+hobbled to a post jutting out of the water,  ocaisionally slapping up
+against its moorings with the shift of the water.  The river itself 
+travels slowly, its entrance begging somewhere to the north, and to the
+south it disappears behind a rocky outcropping.
+~
+79 0 1
+D6
+~
+~
+0 0 7924
+S
+#7926
+Path to the Village~
+You now stand northwest of the strange mound of earth.  Could the locals
+preen the hill like they do the trees and flowers?  The path has now
+turned muddy, and already you've slipped a few times.  The path looks like
+it solidifies some to the south, while to the northwest you can see the
+roof of a couple houses.
+~
+79 0 2
+D0
+~
+~
+0 0 7927
+D2
+~
+~
+0 0 7914
+S
+#7927
+Path to the Village~
+A low murmur can now be heard, coming from the northeast.  A few houses
+have sprouted out, and you can even see what appears to be a small castle
+further to the north.  The muddy path you stand upon continues along, 
+rounding the strange hill to the south and meeting with another path to
+the northeast.
+~
+79 0 2
+D2
+~
+~
+0 0 7926
+D6
+~
+~
+0 0 7928
+S
+#7928
+Nearing the Village~
+east shows a well worn road
+~
+79 0 2
+D1
+~
+~
+0 0 7929
+D8
+~
+~
+0 0 7927
+S
+#7929
+Main Road Through the Village~
+sign says what the village is called, can see palace little better to 
+northeast.
+~
+79 0 2
+D3
+~
+~
+0 0 7928
+D7
+~
+~
+0 0 7930
+S
+#7930
+Path to the Village~
+same old crap, mud, palace to the north, village to the northwest
+~
+79 0 2
+D2
+~
+~
+0 0 7931
+D9
+~
+~
+0 0 7929
+S
+#7931
+A Muddy Path~
+mud, and more mud, south is a fork in the road
+~
+79 0 2
+D0
+~
+~
+0 0 7930
+D7
+~
+~
+0 0 7932
+S
+#7932
+Split in the Trail~
+north is way to village, east is way to rice fields
+~
+79 0 2
+D1
+~
+~
+0 0 7934
+D2
+~
+~
+0 0 7933
+D9
+~
+~
+0 0 7931
+S
+#7933
+Trail to the Rice Fields~
+north is split, see palace to north
+~
+79 0 2
+D0
+~
+~
+0 0 7932
+D3
+~
+~
+0 0 7923
+S
+#7934
+Path to the Rice Fields~
+You are in an unfinished room.
+~
+79 0 2
+D3
+~
+~
+0 0 7932
+S
+#7999
+A place for Maerlyn to rest~
+You stand amidst darkness.
+~
+79 1442880 0
+D0
+~
+~
+0 0 7900
+D2
+~
+~
+0 0 13035
+D3
+~
+~
+0 0 1222
+D4
+~
+~
+0 0 1204
+D5
+~
+~
+0 0 16123
+S
+#99999
+$~

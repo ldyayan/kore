@@ -1,0 +1,169 @@
+#23501
+sign~
+a sign posted by the Thain~
+A sign in the ground, you think you should READ IT!~
+~
+16 65692 0
+0 0 0 0
+99999 0 0
+E
+sign~
+ATTENTION --
+
+I, the Thain of the Shire, home to all halflings, hereby declare that this
+is a peaceful city, and I will tolerate no violence within it. Those who
+disturb this fair city will be punished severely.
+
+--The Thain
+~
+#23502
+staff rainbow~
+the ^rr^n^yai^n^gn^n^bb^n^mow^n staff~
+A gnarled staff, swirling with the colors of the ^rr^n^yai^n^gn^n^bb^n^mow^n, floats here.~
+~
+5 181329 8193
+0 8 4 6
+3 34250 750
+E
+rainbow staff~
+A staff of immense power, long carried by the Maia Gandalf~
+A
+1 2
+A
+12 30
+#23503
+cloak silvery silver~
+a ^Wsilvery^n cloak~
+A cloak of the finest ^Wsilver^n cloth lies here in a heap.~
+~
+9 180304 1025
+14 0 0 0
+2 56750 5250
+A
+24 -4
+A
+2 1
+#23504
+sword short~
+a halfling short sword~
+A halfling short sword lies here, discarded uselessly by it's owner.~
+~
+5 8192 8193
+0 1 7 3
+6 150 1
+A
+18 1
+A
+14 12
+#23505
+dagger~
+a halfling dagger~
+A young halflings dagger is laying here, forgotten.~
+~
+5 532480 8193
+0 1 5 11
+3 1 1
+A
+14 6
+#23506
+knives set knife ~
+a set of throwing knives~
+A long belt of sheaths with knives in each lays here.~
+~
+6 110592 34817
+0 2 5 14
+8 12995 5000
+A
+19 1
+A
+13 10
+#23507
+nasty dagger~
+a nasty dagger~
+A nasty looking dagger lays here, coated in blood.~
+~
+5 8208 24577
+0 5 3 11
+1 1 1
+A
+2 2
+A
+13 8
+#23508
+bread loaf~
+a bread~
+A loaf of bread has been left here.~
+~
+19 0 1
+12 0 0 0
+1 10 10
+#23509
+millstone stone~
+a huge millstone~
+A huge millstone is here, grinding wheat into flour.~
+~
+13 0 1
+0 0 0 0
+99999 0 0
+E
+millstone stone~
+You look at the huge millstone and ponder how much it must weigh..
+~
+#23510
+sheet paper note~
+a sheet of paper~
+A sheet of paper is here waiting for ideas.~
+~
+16 0 1
+0 0 0 0
+1 10 1
+#23511
+pen feather~
+a feather pen~
+A feather pen lies here.~
+~
+21 0 1
+0 0 0 0
+1 100 10
+#23512
+cookie~
+a cookie~
+A tasty cookie has been left here.~
+~
+19 0 1
+3 0 0 0
+1 3 0
+#23513
+cake slice~
+a slice of cake~
+A slice of cake has been left here.~
+~
+19 0 1
+3 0 0 0
+1 10 1
+#23514
+eclair chocolate~
+a chocolate eclair~
+A chocolate eclair has been left here.~
+~
+19 0 1
+2 0 0 0
+1 5 0
+#23515
+crumpet~
+a crumpet~
+A tasty crumpet has been left here.~
+~
+19 0 1
+3 0 0 0
+1 4 0
+#23516
+scone~
+a scone~
+A yummy scone has been left here.~
+~
+19 0 1
+2 0 0 0
+1 3 0
+#99999
+$~

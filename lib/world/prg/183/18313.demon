@@ -1,0 +1,32 @@
+>greet_prog 50~
+  if ispc($r)
+    if rand(50)
+      mpecho $I pulls fiercely at its chain to get at you.
+      mpechoat $r $I howls a high pitched scream and stares at you.
+      mpechoaround $r $I howls loudly and stares at $R.
+      mpcallmagic 'curse' $r
+      mpechoaround $r You chuckle when you notice $R needs a fresh pair of pants.
+      mpechoat $r You need a fresh pair of pants!
+    else
+      mpechoat $r $I bellows so loudly that you lose track of your senses.
+      mpechoaround $R staggers under the sonic bark of $I.
+      mpcallmagic 'blindness' $r
+      mpforce $r stagger 
+      if rand(50)
+        mppose $r sit
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r A jagged tooth of $I breaks off and gets lodged in your leg!
+    mpechoaround $r $I bites down on $R so hard it breaks a tooth.
+    mpechoat $r Uh-Oh..that tooth is wiggling towards your heart....
+    mpechoaround $r It looks like the tooth is moving toward $L heart!
+    mpadamage $r 50
+    mpcallmagic 'poison' $r
+    mpforce $r grimace
+  endif
+~
+|

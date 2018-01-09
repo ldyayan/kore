@@ -1,0 +1,10 @@
+>rand_prog 1~
+  if isimmort($n)
+  else
+   mpechoat $r You suddenly feel the mud slip from under your feet..
+   mpechoaround $r $R yelps in surprise as $K quickly sinks into the mud!
+   mptransfer $r nearby
+   mpechoat $r You stand up and shake the mud off to find yourself in a different room!
+  endif
+~
+|

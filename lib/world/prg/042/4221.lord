@@ -1,0 +1,83 @@
+>greet_prog 25~
+  if ispc($n)
+     if sex($n) == female 
+	tip $n
+	say Dare I believe my eyes?  The fairest flower stands before me.
+	ekiss $n
+     else
+       say Ugh, I am revolted by your ugliness.  I think I shall be sick.
+       puke $n
+       say Now depart from my sight before you aggravate me further.
+       mpechoat $n $I points a slender finger at you and you feel disoriented.
+       mpechoaround $n $I points a slender finger at $N and he disintegrates.
+       mptransfer $n 3001
+       say Now that's much better.
+    endif
+  endif
+~
+>greet_prog 50~
+  if ispc($n)
+    if level($n) < 30
+      laugh $n
+      say Puny mortal, you dare to challenge me?  Flee before you become seriously maimed.
+      say But first, a token warning.
+      mpechoat $n $I suddenly rushes you and plants a leg in your midsection, sending you flying!
+      mpechoaround $n With deadly grace, $I rushes $N and kicks $K in $L midsection!
+      mpdamage $n 8d10+50
+    else
+      say Ah, a worthy opponent at last!  I shall enjoy battling with you!
+      kill $n
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      say You possess a good stance... but can you dodge this, and this, and this?
+      mpechoat $r $I rains a flurry of blows upon you seemingly from all directions!
+      mpechoaround $r $I rains a flurry of blows on $R faster than the eye can see!
+      mpdamage $r 12d20+20
+      shake
+      say You still have much to learn, I'm afraid.
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpecho $I cries, 'Oh the forces of Chaos, smite down and feast upon these upon these unworthy mortals!'
+    mpecho $I raises a clenched fist toward the heaven, and massive bolts of purple lightning reach down and FRY you!!!
+    mpdamage all 17d17
+    mpecho $I howls with maniacal laughter!
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isfight($r)
+      point $r
+      say You are having far too much fun with this.  No longer!
+      mpechoat $r $I stares at you with glowing eyes and you feel tendrils of unfriendly magic upon you!
+      mpechoaround $r $I stares at $R with glowing eyes and you feel evil magic wrapping aroung $K!
+      mpcallmagic 'slow' $r
+      mpcallmagic 'weakness' $r
+      mpcallmagic 'faerie fire' $r
+      emote nods in satisfaction.
+    endif
+  endif
+~
+>fight_prog 33~
+  if isnpc($n)
+    if isfight($n)
+      say Creature bound by unwilling rule, I now set you free!
+      mpecho $I wiggles his fingers at $N and a violet stream of power strikes $m!
+      mpecho $N's eyes suddenly grow focused with malevolent intelligence!
+      mpforce $n growl
+      mpecho $N flashes brightly and then poofs out of existence!
+      mpsilent mppurge $n
+    endif
+  endif
+~
+>death_prog 100~
+  mpecho $I gasps, 'You may have defeated me this time, but I shall have my revenge!'
+  mpecho $I collapses to the ground and is still.
+~
+|

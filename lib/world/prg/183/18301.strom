@@ -1,0 +1,23 @@
+>greet_prog 50~
+  if ispc($r)
+    mpecho $I grins slightly and slowly stands from his desk.
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r $I hits you so hard you get dizzy and fall on your ass.
+    mpechoaround $r $I whacks $R so hard $L boots fly off!
+    mpechoaround $r $R crumples to the ground like a rag doll.
+    mpadamge $r 50d3
+    mppose $r sit
+    mpforce $r cringe
+    laugh $r
+    if rand(25)
+      mpforce all laugh $r
+    endif
+  endif
+~
+>fight_prog 5~
+  mpecho Strom shouts, 'Bow before the power of Virmene!'
+~
+|

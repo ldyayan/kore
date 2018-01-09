@@ -1,0 +1,20 @@
+>greet_prog 100~
+  if ispc($n)
+    mpechoat $n You flail about but continue to fall...
+    mpechoaround $n $N plummets downward...
+    mpforce $n down
+    if rand(50)
+      mpat $n mpechoat $n Right before you reach the ground, you crouch your legs, tuck in your right shoulder and roll into the impact!
+      mpat $n mpechoaround $n $N falls screaming from above, does a hard roll on the ground and then comes quickly to $s feet!
+    else
+      mpat $n mpechoat $n You try to break the fall by rolling into it but all you succeed in doing is breaking BONES.
+      mpat $n mpechoaround $n $N falls screaming into the room, hits the ground heavily, and then lies very still.
+      mpat $n mpasound You hear a terrifying shriek followed by a wet thud.
+      mpat $n mpdamage $n 32d33
+      mpat $n mppose $n stun
+    endif
+  endif
+~
+|
+
+

@@ -1,0 +1,86 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+>rand_prog 20~
+    if isaffected($i, sanct)
+    else
+        cast 'sanctuary'
+    endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+    cast 'curse' $r
+  endif
+~
+>fight_prog 20~
+  cast 'dispel magic'
+~
+>fight_prog 30~
+ if inroom($r) == here
+  if class($r) == thief
+    cas 'blind' $r
+    else
+  endif
+  if class($r) == warrior
+    cas 'word of death' $r
+    else
+  endif
+  if class($r) == bard
+    cas 'sleep' $r
+    else
+  endif
+  if class($r) == cleric
+    cas 'feeblemind' $r
+    else
+  endif
+  if class($r) == mage
+    cas 'feeblemind' $r
+    else
+  endif
+ endif
+~
+>fight_prog 40~
+  if inroom($r) == here
+    mpechoat $r Amduscias drains your life with a vampiric touch!
+    mpechoaround $r Amduscias drains $R's life away with a vampiric touch.
+    mpdamage $r 10d10+10
+    mpsilent mpcallmagic 'heal' $i
+  endif
+~
+>fight_prog 55~
+  if inroom($r) == here
+    emote summons forth the elements upon you!!
+    mpsilent mpcallmagic 'fireball' $r
+    mpsilent mpcallmagic 'chain lightning' $r
+    mpsilent mpcallmagic 'cone of cold' $r
+  endif
+~
+>fight_prog 80~
+  if inroom($r) == here
+    emote surrounds you with dancing flames.
+    mpcallmagic 'faer' all
+  endif
+~
+>fight_prog 90~
+  if inroom($r) == here
+    mpechoat $I screams at you, 'BANISH!'
+    mpechoaround screams at $R, 'BANISH!'
+    mpsilent mpcallmagic 'word of recall' $r
+  endif
+~
+>fight_prog 100~
+  if inroom($r) == here
+    mpecho You sense something tugging at the edge of your conciousness, trying to enchant you.
+    mpsilent mpcallmagic 'sleep' all
+    mpsilent mpcallmagic 'sleep' all
+    mpsilent mpcallmagic 'sleep' all
+    mpsilent mpcallmagic 'sleep' all
+    mpsilent mpcallmagic 'sleep' all
+  endif
+~
+|

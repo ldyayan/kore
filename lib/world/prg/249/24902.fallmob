@@ -1,0 +1,15 @@
+>all_greet_prog 100~
+  if isnpc($n)
+    break
+  else
+    if isaffected($n, fly)
+      break
+    else
+      mpechoat $n You look down and quickly notice that you're not standing on anything!
+      mpechoaround $n $N spins their legs in circles in an attempt to regain some footing!
+      mppose $n stand
+      mpforce $n down
+    endif
+  endif
+~
+|

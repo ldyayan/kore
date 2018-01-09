@@ -1,0 +1,2177 @@
+#8900
+Along the shore~
+   Making your way down east from the causeway onto the shore here,
+you find that it is wet and mucky going, and the tall reeds obscure
+much of your vision.  The hills that border the floodplain to the
+northwest block any progress northward, but your interests in that
+direction are superseded by the fact that the reeds seem to be
+illuminated by the glow of something off to the east of you...
+~
+89 0 0
+D1
+~
+~
+0 0 8901
+D3
+~
+~
+0 0 8617
+S
+#8901
+Along the shore~
+   The reeds thin out as you move farther east, and you can just make
+out the shimmering form of something roughly circular...  An audible
+buzzing permeates the air, but you don't see any insects about.
+~
+89 4 0
+D1
+~
+~
+0 0 8902
+D3
+~
+~
+0 0 8900
+S
+#8902
+Portal on the shore~
+   Finally out in the open, you can see that a large black stone of
+some kind juts out from the face of the island cliffs, barring any
+further progress east.  As you approach, the shimmering disk which is
+bordered by a nicely polished hoop of black onyx suddenly increases
+the volume of its buzzing and glows brightly, either to welcome its
+rightful owner or to punish trespassers, you don't know...  The 
+inscription on the hoop reads as follows:
+
+Installed by Eonwe, Herald of the Valar
+
+ Unauthorized users will suffer dearly.
+~
+89 0 0
+D1
+A shimmering portal bars your passage eastward.
+~
+portal timeportal time shimmering~
+2 8836 8903
+D3
+~
+~
+0 0 8901
+S
+#8903
+Northern shore of the Sea of Rhun~
+   Your senses reel as you are rudely spit out of the other side of the 
+portal...  Taking a moment to steady yourself, you think back to your
+ancient geography lessons about lands which perished and changed many
+ages before the founding of Kore, and realize that you are on the 
+northwestern shore of the Sea of Rhun.  Tropical birds flit about and 
+prey on equally colorful fish which skip along the shore, and the biggest
+palm trees you have ever seen in your life line the shore of this 
+not-quite-tropical place, it seems more of a temperate climate with these
+flora and fauna thrown here artifically to some degree...
+~
+89 0 10
+D1
+~
+~
+0 0 8904
+D2
+~
+~
+0 0 8906
+D7
+~
+~
+0 0 8907
+D9
+~
+~
+0 0 8912
+S
+#8904
+Northern shore of the Sea of Rhun~
+   Moving east from your point of arrival, you see the full majesty of the
+Sea of Rhun in its ancient greatness stretch southward and eastward over
+eastern Middle-Earth towards the lands of Harad and Rhun.  The waters 
+here seem unusually hot even for an undercurrent brought from beyond, and
+looking beneath the depths you can actually see some outgassing volcanic
+rocks that fizz and glow, sending huge bubbles that capsize unlucky 
+sea animals -- perhaps a legacy of Sauron's apprenticeship with Aule and
+the time that he afterward spent in the East...
+~
+89 0 10
+D1
+~
+~
+0 0 8905
+D2
+~
+~
+0 0 8907
+D3
+~
+~
+0 0 8903
+D7
+~
+~
+0 0 8908
+D8
+~
+~
+0 0 8906
+S
+#8905
+Northern shore of the Sea of Rhun~
+   As you continue along the shore heading east, the tropical menagerie
+continues its activities full blast, with odd jellyfish creatures that
+surface like dolphins and blow off a fragrant water that paralyzes their
+victims, before they disappear into the mysterious steaming depths.  Not
+exactly the kind of place to swim for enjoyment.
+~
+89 0 10
+D2
+~
+~
+0 0 8908
+D3
+~
+~
+0 0 8904
+D8
+~
+~
+0 0 8907
+S
+#8906
+Sea of Rhun~
+   You are on the ancient Sea of Rhun.  The scalding water bubbles around
+your body, and various sea creatures, mostly dangerous, hop about looking
+for a tasty snack!
+~
+89 0 6
+D0
+~
+~
+0 0 8903
+D1
+~
+~
+0 0 8907
+D2
+~
+~
+0 0 8909
+S
+#8907
+Sea of Rhun~
+   You are on the ancient Sea of Rhun.  The scalding water bubbles around
+your body, and various sea creatures, mostly dangerous, jump about looking
+for a tasty snack!
+~
+89 0 6
+D0
+~
+~
+0 0 8904
+D1
+~
+~
+0 0 8908
+D2
+~
+~
+0 0 8910
+D3
+~
+~
+0 0 8906
+D6
+~
+~
+0 0 8905
+D7
+~
+~
+0 0 8911
+D8
+~
+~
+0 0 8909
+D9
+~
+~
+0 0 8903
+S
+#8908
+Sea of Rhun~
+   You are on the ancient Sea of Rhun.  The water here seems tepid when
+compared with the surrounding area, and you can see the Mountains of Wind
+off to the east about a hundred miles away.  A guardpost upon the eastern
+shore can be seen some distance to the northeast.
+~
+89 0 6
+D0
+~
+~
+0 0 8905
+D2
+~
+~
+0 0 8911
+D8
+~
+~
+0 0 8910
+D9
+~
+~
+0 0 8904
+S
+#8909
+Sea of Rhun~
+   You are on the ancient Sea of Rhun.  The water here is practically 
+boiling, and occasional chunks of lava float to the surface.  The Brown
+Lands can be seen not far to the west of here, and the row of hills that
+lead south towards the Ered Lithui are visible at their northernmost 
+extension on the horizon.
+~
+89 0 6
+D0
+~
+~
+0 0 8906
+D1
+~
+~
+0 0 8910
+D6
+~
+~
+0 0 8907
+S
+#8910
+Sea of Rhun~
+   You are upon the ancient Sea of Rhun, and the water here is practically
+boiling, as it is to the west and east.  Chunks of lava float to the 
+surface here in great quantity, but there seem to be avian creatures that
+operate even in this environment, nesting on what few permanent rock
+outcroppings jut above the surface of the sea.
+~
+89 0 6
+D0
+~
+~
+0 0 8907
+D1
+~
+~
+0 0 8911
+D3
+~
+~
+0 0 8909
+D6
+~
+~
+0 0 8908
+D9
+~
+~
+0 0 8906
+S
+#8911
+Sea of Rhun~
+   You are on the ancient Sea of Rhun.  The water here is much hotter than
+it was to the north, and the sands upon the eastern shore steam with an 
+astonishing intensity.  A road above the shoreline is accessible to the 
+east, before it cuts away from the sea to the southeast through a pass in
+the Mountains of Wind.
+~
+89 0 6
+D0
+~
+~
+0 0 8908
+D3
+~
+~
+0 0 8910
+D9
+~
+~
+0 0 8907
+S
+#8912
+Upon the River Running~
+   This is where the River Running empties into the Sea of Rhun to the
+southeast.  The wide rolling hills of eastern Rhovanion territory run
+for many leagues westward from here before one reaches Greenwood the
+Great.  The river continues upstream to the northwest.  Small dwellings,
+sparsely distributed, dot the landscape on both sides of the river.
+~
+89 0 6
+D7
+~
+~
+0 0 8903
+D9
+~
+~
+0 0 8913
+S
+#8913
+Confluence of the rivers Running and Redwater~
+   This is where the rivers Running and Redwater join and flow 
+together to the southeast towards the Sea of Rhun.  The marshy 
+tropical plains to the south give way to firmer ground near the 
+banks of these rivers as you head either northwest on the River
+Running towards Rhovanion or northeast upon the River Redwater
+towards the dwarven settlement of the Iron Hills.  Far to the east
+the Mountains of Wind reach their northernmost point and curve 
+drastically back to the east.
+~
+89 0 6
+D6
+~
+~
+0 0 8914
+D7
+~
+~
+0 0 8912
+D9
+~
+~
+0 0 8919
+S
+#8914
+Upon the river Redwater~
+   The river becomes colder as you move north away from where it
+meets up with the river Running.  Large salmon play in the waters
+and fight their way upstream along side you.  To the east the Red
+Mountains, or Orocarni as they were called by the Elves, reach their
+southernmost point about a hundred leagues away.  A thick fog hangs
+over the plains here, and the human settlements are thinner here
+than they were to the south.  The glittering eyes of unknown animals
+are discernable peeping out of mounds on the plains to both the east
+and west of you as you trudge noisily through the water.
+~
+89 0 6
+D0
+~
+~
+0 0 8915
+D8
+~
+~
+0 0 8913
+S
+#8915
+Upon the river Redwater~
+   The waters here are positively frigid, as you can now see the 
+outline of the smaller fingers of the foothills of the Iron Hills
+to the north.  Far to the northwest and northeast you can see an
+absolutely colossal icefield, fully two-thirds the height of the 
+Hills themselves, and behind them an even taller mountain range, 
+the Ered Engrin, which top even the Misty Mountains in their might
+and breadth, as in the Fourth Age they still run the length of 
+northern Middle-Earth with only a few minor cracks in them.  The
+power Melkor used to rear them must have been mindboggling...
+~
+89 0 6
+D0
+~
+~
+0 0 8916
+D2
+~
+~
+0 0 8914
+S
+#8916
+Upon the river Redwater~
+   Struggling to keep your feet from going numb as you traverse the
+frigid waters, all external geography is now concealed to you as you
+pass into the fingers of the Iron Hills.  They seem to be made of a
+dull grey rock, and at first glance appear featureless, but at dusk
+you can see the light of settlements in the rock and intricate 
+deck-like cantilever structures with burning fires upon them.
+Welcome back to civilization...
+~
+89 0 6
+D0
+~
+~
+0 0 8917
+D2
+~
+~
+0 0 8915
+S
+#8917
+Upon the river Redwater~
+   The course of the river takes an unusually steep grade here for a
+mile or so to the north, and the river ends in a beautifully
+chiseled sculpture of a dragon, upon which rests a careful system of
+dwarven gadgets for conveying large blocks of ice which are deposit-
+ed at regular intervals into it.  Which gives you an idea as to the
+age of this settlement...
+~
+89 0 6
+D0
+~
+~
+0 0 8918
+D2
+~
+~
+0 0 8916
+S
+#8918
+Source of the river Redwater~
+   The River Redwater was once upon a time a naturally occurring
+river, but due to endless labors (which are now painfully audible as
+you approach the sculpture) the Dwarves have managed to make things
+over the way they think Aule *really* meant to do it.  The face of
+the dragon is that of a peal of agony, and you can now see that a
+figure of Azaghal, lord of Belegost is piercing its belly.  More
+amazing than this is that there isn't an avalanche every ten 
+minutes as the dwarven host goes about its business.  A beautifully
+carved spiral stairway of rock leads into the mountain to the east.
+~
+89 0 6
+D2
+~
+~
+0 0 8917
+S
+#8919
+Upon the river Running~
+   The river Running flows to the southeast across these plains
+which are just north of the absolute northernmost point of the Brown
+Lands -- scorched grassland which is even now only slowly growing
+back from the long despoiling curse Sauron laid upon it ere he 
+departed this world at the beginning of the Age.  Tumbleweeds race
+across the windy open spaces to the south and plunk into the river
+at odd intervals.  To the north and to the west, more fertile land
+can be descried, as the settlements of Eastern Rhovanion grow 
+denser.
+~
+89 0 6
+D7
+~
+~
+0 0 8913
+D9
+~
+~
+0 0 8920
+S
+#8920
+Upon the river Running~
+   The grasses surrounding the river here darken to a truly rich and
+verdant green as you continue northward -- this is apparently the
+'grain belt' of central Middle-Earth as it were.  The fields are
+arranged in clusters of neat little square farming plots, and crude
+wooden windmills and silos pepper the landscape.  However, there 
+doesn't seem to be anything seriously metropolitan about.  These
+people would probably pay good cash for stone to build with...
+~
+89 0 6
+D7
+~
+~
+0 0 8919
+D9
+~
+~
+0 0 8921
+S
+#8921
+Upon the river Running~
+   The river continues to the north, and to the west you can see the
+east edge of Greenwood the Great coming steadily closer to some
+convergence with the river aways to the north.  Far to the northeast
+can be seen the Iron Hills and the glacial fields behind them, and
+all about the river the human settlements continue to cover the
+earth.  Due north on the horizon, a single lonely peak rises above
+the grain fields, and before it, a long lake...
+~
+89 0 6
+D7
+~
+~
+0 0 8920
+D9
+~
+~
+0 0 8922
+S
+#8922
+Upon the river Running~
+   The forest is now about a league to the west of you as the river
+Running continues northward.  There is an accessible area of bluffs
+on the east bank, where sparse copses of deciduous trees grow and 
+bear fruit of shapes and colors unfamiliar to you.
+~
+89 0 6
+D6
+~
+~
+0 0 8943
+D7
+~
+~
+0 0 8921
+D9
+~
+~
+0 0 8923
+S
+#8923
+Upon the river Running~
+   The narrow strip of grassland to the west of you is now too small
+to have any farms on it, as the River Running continues to a lake
+which can now be seen several miles away to the north.  The bluffs
+continue on the east bank of the river, but end soon to the north.
+The plains seem to be getting less fertile once again as you are 
+entering what appears to be rockier ground, as though the lonely
+peak had underground tendrils like that of a tree...
+~
+89 0 6
+D0
+~
+~
+0 0 8924
+D6
+~
+~
+0 0 8944
+D7
+~
+~
+0 0 8922
+S
+#8924
+The river Running near Greenwood the Great~
+   The river is now literally running along the edge of the forest,
+and the southern end of the Long Lake is less than a mile away.
+Large birds and denizens of the forest, such as giant spiders, loll
+about the branches of the trees, and some bolder creatures forage
+for fish along the banks, seeming not to fear the town upon the 
+lake.  Evidently life here has reached a certain kind of harmony...
+~
+89 0 6
+D0
+~
+~
+0 0 8925
+D2
+~
+~
+0 0 8923
+D7
+~
+~
+0 0 8944
+S
+#8925
+Southern end of the Long Lake~
+   The tepid waters of the Long Lake branch out to the east and
+west from where you tread water (things got quite deep all of a
+sudden), but due north is the southern gate of the lake-town of
+Esgaroth.  Long ago, at the time of the War of the Ring, this was
+a somewhat smaller island in the lake, but now it has grown to a
+bulging ship-shaped citadel that is barely contained in the water.
+Various facilities line the edges, such as fisheries, whaleries,
+and residential boathouses.  The crafts employed in the making of
+Esgaroth show cooperation between Men and Elves and Dwarves at their
+best, a seeming throwback to earlier times.
+~
+89 0 6
+D2
+~
+~
+0 0 8924
+D6
+~
+~
+0 0 8931
+D9
+~
+~
+0 0 8926
+S
+#8926
+Western Long Lake~
+   The western portion of the Long Lake continues to the north from
+here, as myriad small boats move about the lake.  To the east is the
+western fishing docks of the town.  A long pike-fence made of marble
+columns apparently donated by Dwarves but crafted by the Silvan 
+Elves to look like the crude fort-pikes of yesteryear line the edge
+of the city, concealing its innards from prying eyes.
+~
+89 0 6
+D0
+~
+~
+0 0 8927
+D7
+~
+~
+0 0 8925
+S
+#8927
+Western Long Lake~
+   The western portion of the Long Lake continues due north and south
+from here, and to the east the pike-wall of the city rises sheerly
+with no appendages.  Farther north from here you can see that the
+Wood-elves send their flotillas of goods to a warehouse in the west
+side of the town.  Directly west of those docks you can see that the
+Forest River empties into the Long Lake.
+~
+89 0 6
+D0
+~
+~
+0 0 8928
+D2
+~
+~
+0 0 8926
+S
+#8928
+Western Long Lake~
+   You have reached the midpoint of the western waters of the Long
+Lake.  To the east is the unloading complex where huge barges from 
+the Silvan Elves' halls of Galadhrond bring their wares for sale.
+There are also some boats from Estolad, Rohan, Harad, Umbar, and
+many other nations offloading goods.  To the west the Forest River
+empties into the lake, and the Long Lake continues to the north and
+south from here.
+~
+89 0 6
+D0
+~
+~
+0 0 8929
+D2
+~
+~
+0 0 8927
+D3
+~
+~
+0 0 8939
+S
+#8929
+Western Long Lake~
+   The Long Lake continues to the north and south from here.  To the
+east you can see Esgaroth's residential boathouses floating in the
+water.  There are so many, in fact, that they seem to constitute the
+bulk of the town's residential area.
+~
+89 0 6
+D0
+~
+~
+0 0 8930
+D2
+~
+~
+0 0 8928
+S
+#8930
+Western Long Lake~
+   The Long Lake reaches its northern end a short ways to the north-
+east, and to the east you can see once again the simple sheer wall
+of stone pikes that hides most of Esgaroth's interior.  You can see
+a portion of Estolad's flag waving in the breeze just above the tips
+of the pikes, however.  But this town is not technically a part of
+Estolad, that land being far to the southeast of where you now are.
+~
+89 0 6
+D2
+~
+~
+0 0 8929
+D6
+~
+~
+0 0 8936
+S
+#8931
+Eastern Long Lake~
+   This is the eastern half of the Long Lake, and it widens from its
+beginning to the southeast, continuing about a mile to the north
+before narrowing again to the northern part of the River Running.
+To the northwest you can see a sheer rock-pike wall that rises many
+feet into the air, ending in the gate tower to the east of the south
+gate of Esgaroth.
+~
+89 0 6
+D0
+~
+~
+0 0 8932
+D8
+~
+~
+0 0 8925
+S
+#8932
+Eastern Long Lake~
+   The eastern part of the Long Lake extends north and south from
+here.  To the west, the pike-wall continues, but beneath it you can
+see the eastern fishing docks of the town.  Apparently the fact that
+this huge floating town sits in the water has no effect on the 
+marine life, as huge nets full of sea creatures are cheerfully 
+offloaded onto the docks.  To the north, huge whaling ships from the
+Sea of Rhun deposit the small saltwater whales that live in that
+boiling lake of brine.
+~
+89 0 6
+D0
+~
+~
+0 0 8933
+D2
+~
+~
+0 0 8931
+S
+#8933
+Eastern Long Lake~
+   To the east, large galleys bearing the flag of one of the cities
+of Estolad, in particular Ennyn Alatar, unload whales from the Sea
+of Rhun.  They actually look like narwhales with shorter horns.  Not
+quite dead yet, these large creatures flop about and cause their
+handlers plenty of trouble, rocking the bottom docks and sending big
+waves at you.  The maritime sciences in this day have room for 
+improvement...  To the north the eastern half of the Long Lake 
+continues for several hundred yards, narrowing sharply just to the
+north.
+~
+89 0 6
+D0
+~
+~
+0 0 8934
+D2
+~
+~
+0 0 8932
+S
+#8934
+Eastern Long Lake~
+   The lake narrows sharper here than it does on the other side of
+town, proving that it is not quite symmetrical.  The whaling complex
+ends due west of you, and the eastern boathouses, by necessity 
+smaller than the western ones, begin in a thin line.  As the chains
+that hold them to the base of the pike wall rattle in the water, you
+wonder at the mentality that brought these people to voluntarily
+live here rather than on high ground. 
+~
+89 0 6
+D0
+~
+~
+0 0 8935
+D2
+~
+~
+0 0 8933
+S
+#8935
+Eastern Long Lake~
+   The lake is so narrow here that the boathouses on the east side
+would not be able to pass through here.  Above the pikewall due west
+of you, a flag carrying a bow and the scales of a merchant waves
+signifying the presence of the finest fletchery shop in northern
+Middle-Earth.  This is definitely where you go in these parts for a
+good quiver of arrows.
+~
+89 0 6
+D2
+~
+~
+0 0 8934
+D9
+~
+~
+0 0 8936
+S
+#8936
+Northern end of the Long Lake~
+   This end of the lake is shallower than the southern end, so that
+you can just barely touch your toes to the floor and be neck-deep in
+the water.  The northern gate of Esgaroth is upon tall rocks a short
+distance to the south, and the River Running continues again uphill
+to the north towards Erebor, the Lonely Mountain.  Looking south to 
+the interior of the town you can see that it mimics the form of a 
+ship in more ways than you espied from the south -- tall masts adorn
+the squares of the thoroughfare running south from the gate.
+~
+89 0 6
+D0
+~
+~
+0 0 8937
+D7
+~
+~
+0 0 8935
+D8
+~
+~
+0 0 8930
+S
+#8937
+Upon the river Running near the Lonely Mountain~
+   This is the northern extension of the River Running.  To the 
+south it widens into the Long Lake, and to the north it runs out of
+an impassable rock face.  To the east and west of you the hills are
+deeply carved, as if someone did not wish you to climb up out of the
+river...
+~
+89 0 6
+D0
+~
+~
+0 0 8938
+D2
+~
+~
+0 0 8936
+S
+#8938
+Before Erebor~
+   The river flows out from an opening in the rock a hundred feet or
+so above you, the face of the mountain being a sheer wall for many 
+times that height.  However, to the west a carved stairwell enters 
+the mountain into a corridor which promises to wind back east behind
+the falls...
+~
+89 0 6
+D2
+~
+~
+0 0 8937
+S
+#8939
+On the Forest River~
+   This is the eastern end of the Forest River, which gently slopes
+down to where it spills into the Long Lake.  Occasionally great 
+barges are towed back up the river by hardy Elves from Galadhrond, 
+and any illusions about the effeminate nature of the Quendi, even 
+amongst their lesser kindred, are dispelled here and now as these
+disciplined teams march past you.
+~
+89 0 6
+D1
+~
+~
+0 0 8928
+D3
+~
+~
+0 0 8940
+S
+#8940
+On the Forest River~
+   You are upon the Forest River, nearing the eastern edge of the 
+great forest of Rhovanion.  The trees take on a decidedly less
+coniferous look to the east, and the light becomes brighter, as
+the land gently slopes downward from here.
+~
+89 0 6
+D1
+~
+~
+0 0 8939
+D9
+~
+~
+0 0 8941
+S
+#8941
+On the Forest River~
+   You are sloshing through the Forest River, within the very heart 
+of the great forest of Rhovanion.  The winding course of the river
+takes all sense of direction from you, and you have no idea as to
+how far it will be to the other side.  Greedy eyes shine out at you
+from the brush surrounding the riverbanks, and you feel ill at ease
+making so much noise in the water...
+~
+89 0 6
+D7
+~
+~
+0 0 8940
+D9
+~
+~
+0 0 8942
+S
+#8942
+At the source of the Forest River~
+   The river takes a violent upturn, as you abruptly climb out of the 
+hills to find yourself in the Grey Mountains northwest of
+the great forest entirely, at the source of the Forest River.  To
+the northwest you can climb along the ridge of the mountains.
+~
+89 0 6
+D7
+~
+~
+0 0 8941
+D9
+~
+~
+0 0 8945
+S
+#8943
+On the east bank of the River Running~
+   The ground here has thinner grass than the wide plains to the
+east of you, and a few deciduous trees face their counterparts 
+on the western bank of the river.  The apple trees look like they
+get picked regularly...  The bluffs continue to the northwest.
+~
+89 0 0
+D8
+~
+~
+0 0 8922
+D9
+~
+~
+0 0 8944
+S
+#8944
+On the east bank of the River Running~
+   The sun-baked bluffs end to the north of here, as the land
+slopes down to the rich fields of wheat that are the eastern half
+of the fiefdom of Dale.  From here, you can overlook the daily
+business of the cousins of Esgaroth's inhabitants as they
+toil in the earth.  Great ditches carve up the landscape into
+warped diamonds of soil.  Some distance far off to the east, you can
+see the edge of the pastureland, bordered by the river flowing south
+from the Iron Hills which forms the western border of Hildorien
+north of the Mountains of Wind.
+~
+89 0 0
+D7
+~
+~
+0 0 8943
+D8
+~
+~
+0 0 8923
+D9
+~
+~
+0 0 8924
+S
+#8945
+In the Grey Mountains~
+   Ascending the steep ridge of the Grey Mountains, you can see the
+expansive ice-fields to the north which stretch for a hundred 
+leagues to the beautifully marching line of the Ered Engrin.
+To the west you can see the Misty Mountains curve back away from you,
+and to the southwest a short distance is the glacier which is the
+source of the river Greylin.  A thousand years prior to the War of 
+the Ring, it is told that the Eotheod were originally from these
+rocky regions, perhaps being related to the eastern Lossoth...
+~
+89 0 11
+D7
+~
+~
+0 0 8942
+D8
+~
+~
+0 0 8946
+S
+#8946
+At the source of the River Greylin~
+   Being careful not to slip and bust your head on the ice, you
+cautiously make your way onto this small glacier, as it's the only
+way to continue westward through the Grey Mountains.  Due north of
+you a pass through the mountains continues, and the River Greylin 
+begins here and flows south to meet with Anduin the Great.
+~
+89 0 11
+D0
+~
+~
+0 0 8947
+D2
+~
+~
+0 0 8951
+D6
+~
+~
+0 0 8945
+S
+#8947
+In the Grey Mountains~
+   This narrow L-shaped ravine slopes down behind the glacier to the
+south, then curves sharply westward.  The sheer basalt walls of the
+surrounding hills obscure any distant geography, and the nearest
+trees (blue conifers bearing a peculiar resemblance to those in
+the dale between Barad Sulime and Arienna in Hildorien) line the top
+edges of the rockwalls a good three or four hundred feet above you.
+Paintings on the walls give evidence that the Lossoth used (or still
+use -- watch out) this area to forage in.
+~
+89 0 11
+D2
+~
+~
+0 0 8946
+D3
+~
+~
+0 0 8948
+S
+#8948
+In the Grey Mountains~
+   Coming to the west end of the ravine, you see an absolutely
+collossal blue-white glacier about a mile thick gently slope
+upwards to the west for many miles.  This is the source of the
+river Anduin, untouched by earthly tumult even since it once
+ran into Helcar and not the Western Sea.  The crude impermanent
+huts of the Lossoth line the northwestern edge of this glacier, and
+occasionally you espy a hunter garbed in thick furs scurrying
+about.
+~
+89 0 11
+D1
+~
+~
+0 0 8947
+D2
+~
+~
+0 0 8949
+S
+#8949
+Eithel Anduin~
+   Coming down the shallow grade of the glacier, you make your way
+to the basin which forms the headwaters of the Great River.  It
+stretches down into the foothills and plains for countless leagues
+southward.  Far to the east across the plains east of the
+laketown, you can from this height see the hills of the
+Withered Heath that form the southeast end of the Grey Mountains.
+~
+89 0 6
+D0
+~
+~
+0 0 8948
+D2
+~
+~
+0 0 8950
+S
+#8950
+On the Great River~
+   You stand upon the River Anduin shortly before its headwaters to
+the north.  Moving down through the foothills, the river quickly
+picks up speed.  To the east you can see that you are drawing even
+with the north edge of Greenwood the Great, and to the south you can
+see the river Greylin empty into the river from the east.  The
+Misty Mountains curve slightly towards you to the west as you
+continue south.
+~
+89 0 6
+D0
+~
+~
+0 0 8949
+D2
+~
+~
+0 0 8952
+S
+#8951
+On the River Greylin~
+   The River Greylin continues on here at a steep angle, flowing down
+to meet the great river Anduin.  Here and there the rock face of the
+mountains juts out in long vertical slivers, breaking up the white
+snow covering the glacier.  One false step, and you could get
+filleted on one...
+~
+89 0 6
+D0
+~
+~
+0 0 8946
+D8
+~
+~
+0 0 8952
+S
+#8952
+Confluence of the rivers Greylin and Anduin~
+   Here the river Greylin flows into Anduin from the northeast, and
+your view to the east is once again obscured by the tall trees of
+Greenwood the Great, whose northwest corner is a small distance to
+the east of you.  To the south you can see the river Langwell also
+flowing into the Great river, this time issuing from the
+Misty Mountains from the west.  The terrain becomes a mix of tundra
+and crabgrass in contrast to the bleak greyness to the north.
+~
+89 0 6
+D0
+~
+~
+0 0 8950
+D2
+~
+~
+0 0 8953
+D6
+~
+~
+0 0 8951
+S
+#8953
+On the Great River~
+   From the northeast through the rough plains the river Langwell
+empties its waters into the Anduin.  An abundance of trout can be
+seen in both rivers, and several fishing settlements can be seen on 
+the banks.  The forest pulls back a bit to the east as you
+move southward.
+~
+89 0 6
+D0
+~
+~
+0 0 8952
+D2
+~
+~
+0 0 8954
+S
+#8954
+On the Great River~
+   The lands to the east and west are now true grasslands, as the
+small islet of the Carrock is visible some miles to the south.  The
+forest to the east is now about twenty leagues away, and the
+farms of western Rhovanion cover the landscape.  To the west the
+Misty Mountains continue to get closer as you progress south down 
+the river, which is wider and slower here than to the north.
+~
+89 0 6
+D0
+~
+~
+0 0 8953
+D2
+~
+~
+0 0 8955
+S
+#8955
+On the Great River~
+   Here in the river is the rock which long ago was known as the
+Carrock.  Visible to the south is the Old Ford, where Men now
+once again use it on a regular basis to ferry goods across the river.
+Along the farmland to the east and west you can see crude dirt trails
+which link to the Forest Road on either side of the Ford.  The Misty
+Mountains reach their closest point just a bit farther south.
+~
+89 0 6
+D0
+~
+~
+0 0 8954
+D2
+~
+~
+0 0 8956
+S
+#8956
+Anduin at the Old Ford~
+   This is the Old Ford, and the river here is shallow enough that
+you can stand without treading water.  Even so, there seem to be
+temporary bridge-pieces stored on either side of the River on 
+special stone towers, should a nasty rain come.  As to the north 
+on both sides of the river, dense settlements of Men till the earth,
+shipping their goods up and down River.
+~
+89 0 6
+D0
+~
+~
+0 0 8955
+D2
+~
+~
+0 0 8957
+S
+#8957
+On the Great River~
+   You are on the Great River a few miles to the south of the Old
+Ford.  Carved into the hillsides on either riverbank, and now a
+good height above the flowing waters because of the passage of time,
+are the ancient Stoor hobbit settlements which Smeagol of so much
+infamy originated from.  They were found by the Rangers of the North
+after the War of the Ring and preserved at the request
+of Frodo Baggins, in remembrance of the tortured soul who saved his
+life.  Now, much of that is forgotten, and the citizens of Rhovanion
+half-heartedly tend it as a national monument.
+~
+89 0 6
+D0
+~
+~
+0 0 8956
+D1
+~
+~
+0 0 8975
+D7
+~
+~
+0 0 8958
+S
+#8958
+On the Great River~
+   The Gladden River empties into the river to the west, and you
+find yourself in the tall marshlands of Loeg Ningoloron, the
+Gladden Fields.  They stretch a good distance in all directions,
+actually, and many patches of irises can be seen flapping in the
+ceaseless wind that seems to blow over this part of the river,
+chilling you to the bone as you ponder the hapless fate of Isildur.
+Fifty leagues to the southwest, you can see the Dimrill Dale within
+the confines of Rohan.  Farther yet south of that on the horizon you
+can see Lorien, now an ordinary forest of mallorn trees and inhabited
+by what very few Telerin elves still persist in Middle-Earth, and the
+Avari who have flocked to them.
+~
+89 0 6
+D2
+~
+~
+0 0 8959
+D3
+~
+~
+0 0 8961
+D6
+~
+~
+0 0 8975
+D9
+~
+~
+0 0 8957
+S
+#8959
+On the Great River~
+   The northern edge of Lorien is now closer to you to the west as
+you move south down the river, and Dimrill Dale is now due west of 
+you.  To the east some distance within the boundary of Greenwood
+the Great you can see the rocky promontory upon which stood Dol
+Guldur towards the end of the last Age of the world.  The
+forest now cuts sharply towards the east bank of the river.
+~
+89 0 6
+D0
+~
+~
+0 0 8958
+D8
+~
+~
+0 0 8960
+S
+#8960
+On the Great River~
+   The river Celebrant empties into the river here to the west,
+and to the north and south of it on either side stand the tall
+mallorns of western Lorien.  The trees actually also extend
+some leagues east of the river as well, although not as densely.
+To the east, Greenwood the Great cuts away sharply again from the
+river as it approaches its southern edge.  To the southeast some
+distance you can see the North Undeep amidst the winding of the
+river, and beyond that, the western portion of the Brown Lands.
+~
+89 0 6
+D3
+~
+~
+0 0 8962
+D6
+~
+~
+0 0 8959
+D7
+~
+~
+0 0 8963
+S
+#8961
+The Gladden River~
+   This is the Gladden River, also called Sir Ninglor.  The thick
+beds of irises which characterize the marshes extend to the north
+and to the south, and twenty leagues to the west this river
+diverges into its two tributaries which disappear into the
+foothills of the Misty Mountains.
+~
+89 0 6
+D1
+~
+~
+0 0 8958
+S
+#8962
+The River Celebrant~
+   Wading a short distance up the River Celebrant, you are 
+surrounded by the tall mallorn trees of Lorien.  Occasionally you
+espy a single wild-elf going about his or her business high above
+in the branches, and this is only possible because you are right at
+the west border of Lorien itself where the leaves are thinner.
+The river splits to the west a few miles away, the river Nimrodel
+proceeding due west and the river Celebrant flowing down from 
+Dimrill dale to the northwest.  The north edge of Fangorn forest
+is due south about thirty-five leagues, and to the southeast you
+can see the river Limlight flow out of its east edge.
+~
+89 0 6
+D1
+~
+~
+0 0 8960
+S
+#8963
+On the Great River~
+   The river runs somewhat swifter again here, as to the west
+you can see the mallorn trees of southern Lorien, and a short distance
+to the southeast you can see the North Undeep.  The Field of Celebrant
+is to the southwest a short distance.
+~
+89 0 6
+D2
+~
+~
+0 0 8964
+D9
+~
+~
+0 0 8960
+S
+#8964
+On the Great River~
+   The Field of Celebrant is accessible due west of you, as is the
+North Undeep to the southeast.  To the south is the trickling
+shallow waters of the River Limlight, and the western border of
+the plains is close upon you as Fangorn forest cuts sharply towards
+you.
+~
+89 0 6
+D0
+~
+~
+0 0 8963
+D2
+~
+~
+0 0 8965
+D3
+~
+~
+0 0 8966
+D7
+~
+~
+0 0 8969
+S
+#8965
+On the Great River~
+   The river speeds up rapidly as it enters a series of hairpin
+turns to the south.  The field of Celebrant is accessible to the 
+northwest, and to the west the river Limlight flows into the
+river.  The North Undeep is northeast of you, and Fangorn forest is
+thirty leagues due west of you.  To the northwest you can see the
+mallorn trees of Lorien.
+~
+89 0 6
+D0
+~
+~
+0 0 8964
+D3
+~
+~
+0 0 8967
+D6
+~
+~
+0 0 8969
+D7
+~
+~
+0 0 8968
+D9
+~
+~
+0 0 8966
+S
+#8966
+The Field of Celebrant~
+   You stand in the rolling grasses of the Field of Celebrant.  The
+northeast corner of Fangorn forest is scarcely ten leagues to the
+west of you, and the river Limlight borders these plains to the
+south a short distance away.  Across the Great River to the east you
+can see the muddy terrain of the North Undeep.
+~
+89 0 2
+D1
+~
+~
+0 0 8964
+D2
+~
+~
+0 0 8967
+D7
+~
+~
+0 0 8965
+S
+#8967
+The River Limlight~
+   Here in the shallow, tepid waters of the river Limlight you can 
+see the tall trees of Lorien across the plains to the north.
+The eastern edge of Fangorn forest is due west about ten leagues, 
+and the Field of Celebrant is due north of you.
+~
+89 0 6
+D0
+~
+~
+0 0 8966
+D1
+~
+~
+0 0 8965
+S
+#8968
+On the Great River~
+   The river continues to race through these sharp turns, and it
+is difficult to stay standing as the river also deepens here.
+The North Undeep is due north of you, its muddy banks blending into
+the western portion of the Brown Lands which extend east from it.
+Far to the east you can see the northern end of the line of hills
+that obscures the southwestern shore of the Sea of Rhun.  The large
+plains of the Wold of Rohan extend due south as the river cuts to the
+southeast from here.
+~
+89 0 6
+D0
+~
+~
+0 0 8969
+D7
+~
+~
+0 0 8970
+D9
+~
+~
+0 0 8965
+S
+#8969
+The North Undeep~
+   You stand in the muddy ground of the North Undeep.  The river
+slices violently around you to the west on its way south towards
+the Emyn Muil, and to the north a ways you can see the southern
+border of Greenwood the Great cut back east and north.  Southwest
+of you is the broad grasslands of the Wold of Rohan across the river,
+which makes its second hairpin turn to the south of you.
+~
+89 0 4
+D2
+~
+~
+0 0 8968
+D7
+~
+~
+0 0 8971
+D8
+~
+~
+0 0 8965
+D9
+~
+~
+0 0 8964
+S
+#8970
+On the Great River~
+   The river now makes a sharp curve to the north and east, before
+turning again and running southwest, parallel to you to the south
+but flowing in the opposite direction.  To the north a ways
+and slightly west is the North Undeep, and the Wold of Rohan is
+accessible to the southwest.
+~
+89 0 6
+D6
+~
+~
+0 0 8971
+D9
+~
+~
+0 0 8968
+S
+#8971
+On the Great River~
+   This is the midpoint of the river's tight northward arc.  The
+Brown Lands are to the east of you, and the North Undeep is
+accessible to the northwest.  Far to the southeast, you can see the
+northern end of the hills of the Emyn Muil.
+~
+89 0 6
+D1
+~
+~
+0 0 8998
+D7
+~
+~
+0 0 8972
+D8
+~
+~
+0 0 8970
+D9
+~
+~
+0 0 8969
+S
+#8972
+On the Great River~
+   Now at the east end of the river's northward curve, the river runs
+southwest towards Rohan again.  Looking due west you can see that
+you're drawing close to the southern edge of Fangorn forest, and the
+river Entwash can be seen running out of the forest towards you.
+To the south is the South Undeep, and the East Emnet of Rohan is
+visible to the southwest.
+~
+89 0 6
+D2
+~
+~
+0 0 8974
+D8
+~
+~
+0 0 8973
+D9
+~
+~
+0 0 8971
+S
+#8973
+On the Great River~
+   The river turns due south from here, heading straight for the
+Emyn Muil between its two sets of hills.  Sarn Gebir is fifty miles
+to the south of you, and almost as far to the west across the Wold of
+Rohan the river Entwash turns on a course parallel to you.  Far to
+the southeast, past the northern end of the Emyn Muil, you can see
+the plain of Dagorlad, and beyond that, the northwestern corner of
+Mordor where the Ered Lithui and the northern end of the Ephel Duath
+meet.  The final northern leg of the Harad Road hugs the bases of
+those mountains, appearing as a thin dark brown line which
+stands out against the salmon tones of the bushy desert to the east
+and north.  To the west of the river, you can see that you are
+drawing nigh to the border between the Wold and the East Emnet.
+~
+89 0 6
+D1
+~
+~
+0 0 8974
+D6
+~
+~
+0 0 8972
+S
+#8974
+The South Undeep~
+   This toe-shaped piece of land is greener and firmer than its
+northern counterpart.  Looking to the east you can get an unobstructed
+view of the unbelievable expanse of the equatorial part of Middle-
+Earth, as the Brown Lands stretch east towards Rhun.  You can now
+see the southern end of the hills that obscure the Sea of Rhun, and
+glimpse a sparkling sliver of the southern shore of that body of
+water under the hot sun.  To the south, the hills of the Emyn Muil
+gracefully curve eastward.
+~
+89 0 4
+D0
+~
+~
+0 0 8972
+D3
+~
+~
+0 0 8973
+D6
+~
+~
+0 0 8999
+S
+#8975
+Southern part of the Gladden Fields~
+   The Gladden Fields on the east side of the Anduin still sport
+copious amounts of the giant iris plants for which the region is so
+renowned.  The depths to which your feet sink at each step find
+you incessantly debating whether this is actually a full blown marsh
+or just a really wet grassland.  Some of the irises seem to be 
+turning their heads at your movement as you trudge, and you feel 
+uneasy...
+~
+89 0 16
+D0
+~
+~
+0 0 8976
+D3
+~
+~
+0 0 8957
+D8
+~
+~
+0 0 8958
+S
+#8976
+Northern part of the Gladden Fields~
+   This portion of the fields is drier than that to the south, but 
+the irises are just as thick, and with the trees of Greenwood the
+Great close on hand as a point of reference, you reach the 
+unpleasant conclusion that some of the plants are in fact of the
+carnivorous, mobile variety.  The outskirts of the forest are
+to the northeast, but you are unsure that that way lies any greater 
+security...
+~
+89 0 16
+D2
+~
+~
+0 0 8975
+D6
+~
+~
+0 0 8977
+S
+#8977
+Outskirts of Rhovanion~
+   Having opted to leave the irises of the Gladden Fields behind,
+you brace yourself for what is bound to be a bewildering journey
+through the confines of Greenwood the Great, now called Eryn Losgalen,
+or colloquially by its inhabitants Rhovanion, although that name 
+rightly belongs to the kingdom in which they live.  Stinging
+nettle plants cover the ground at your feet just as densely as
+the irises were crowding you back in the fields.
+~
+89 0 3
+D0
+~
+~
+0 0 8982
+D1
+~
+~
+0 0 8980
+D2
+~
+~
+0 0 8978
+D6
+~
+~
+0 0 8981
+D7
+~
+~
+0 0 8979
+D8
+~
+~
+0 0 8976
+D9
+~
+~
+0 0 8983
+S
+#8978
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing 
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D2
+~
+~
+0 0 8981
+S
+#8979
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D6
+~
+~
+0 0 8984
+D7
+~
+~
+0 0 8985
+S
+#8980
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D1
+~
+~
+0 0 8980
+S
+#8981
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D6
+~
+~
+0 0 8987
+D7
+~
+~
+0 0 8984
+S
+#8982
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8983
+D1
+~
+~
+0 0 8981
+D6
+~
+~
+0 0 8986
+S
+#8983
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8984
+D2
+~
+~
+0 0 8977
+S
+#8984
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8983
+D2
+~
+~
+0 0 8981
+S
+#8985
+Outside the West Gate of Vidumaviburg~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...a walled city stands to
+the east of you, its crude pillars rising amidst the trees.
+~
+89 0 3
+D2
+~
+~
+0 0 8992
+S
+#8986
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D1
+~
+~
+0 0 8977
+S
+#8987
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8977
+D2
+~
+~
+0 0 8977
+D7
+~
+~
+0 0 8988
+S
+#8988
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D6
+~
+~
+0 0 8989
+S
+#8989
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D2
+~
+~
+0 0 8990
+D8
+~
+~
+0 0 8988
+S
+#8990
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8989
+D2
+~
+~
+0 0 8991
+S
+#8991
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8990
+D1
+~
+~
+0 0 8978
+D3
+~
+~
+0 0 8980
+S
+#8992
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8985
+D2
+~
+~
+0 0 8996
+D3
+~
+~
+0 0 8993
+S
+#8993
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D1
+~
+~
+0 0 8992
+D2
+~
+~
+0 0 8995
+D3
+~
+~
+0 0 8994
+S
+#8994
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D1
+~
+~
+0 0 8993
+S
+#8995
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8993
+D2
+~
+~
+0 0 8978
+S
+#8996
+Lost in Rhovanion~
+   Eryn Losgalen, as this forest is now named, is not as oppressive
+or evil as Mirkwood once was, but it is just as dense and confusing
+to get around in as always.  Scattered settlements of wild elves can
+be found, but they are suspicious of outsiders and are generally
+unfriendly.  Large woodland beasts of various kinds are a constant
+reminder that the pagan paradise of the Elves is by no stretch
+of the imagination a peaceful one, and wits are a definite require-
+ment as you make your way about...
+~
+89 0 3
+D0
+~
+~
+0 0 8992
+D2
+~
+~
+0 0 8997
+S
+#8997
+Eastern edge of Rhovanion~
+   You have cleared the confusing wilds of Rhovanion, and now look
+upon the bright meadows once referred to as the East Bight.  Where
+before in the Third Age the forest cut back again to the south, you
+see that the Brown Lands have changed shape to include a set of
+moderate-sized hills.  What this gives you is an unobstructed view
+of the eastern Emyn Muil to the southwest, and to the southeast you
+can see the hills that border the western edge of the Sea of Rhun,
+and beyond them, the northern fence of Mordor.
+~
+89 0 2
+D0
+~
+~
+0 0 8996
+D2
+~
+~
+0 0 8998
+S
+#8998
+Southwestern Brown Lands~
+   This is the western edge of the Brown Lands.  To the west across
+the sun-baked grasses you can see the river Anduin snake its way
+south past Rohan towards Gondor, and to the southwest you can see the
+South Undeep.  The plains continue unchanged for hundreds of miles 
+to the east before coming to the hills on the western side of the
+Sea of Rhun.
+~
+89 0 10
+D0
+~
+~
+0 0 8997
+D2
+~
+~
+0 0 8999
+D3
+~
+~
+0 0 8971
+S
+#8999
+Southwestern Brown Lands~
+   The grass beneath you turns from a light brown color to almost
+an ashen grey as you continue southward, and to the southwest a
+short distance you can see the green steppes of the South Undeep
+curve against the racing course of the River Anduin.  Far to the
+south, you can see the Mountains of Mordor and the Emyn Muil.
+~
+89 0 10
+D0
+~
+~
+0 0 8998
+D8
+~
+~
+0 0 8974
+S
+#99999
+$~

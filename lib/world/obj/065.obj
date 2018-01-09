@@ -1,0 +1,412 @@
+#6500
+vorpal stiletto dagger~
+a vorpal stiletto~
+A dull, evil-looking dagger has been left here.~
+~
+5 45586 8193
+0 12 3 11
+3 100000 1
+E
+dagger vorpal stiletto~
+   A vorpal stiletto dagger with a silver hilt.
+~
+A
+18 4
+A
+19 5
+#6501
+sword universe~
+the sword of the universe~
+A bright and shiny sword has been left here.~
+~
+5 29843 8193
+0 12 3 3
+20 1000 1
+E
+sword ~
+   A plain shiny sword with a silver hilt.
+~
+A
+18 8
+A
+19 8
+#6502
+boots leather old pair~
+a pair of old looking boots~
+A old pair of leather boots has been left here.~
+~
+9 1 65
+10 0 0 0
+5 1000 0
+E
+boot leather ~
+   A old pair of black leather boots are well worn. 
+~
+A
+14 50
+A
+2 3
+#6503
+key bright gold~
+a bright ^Ygolden^n key~
+There is a bright ^Ygolden^n key lying here.~
+~
+18 4 16385
+6503 0 0 0
+1 0 0
+#6504
+bow shortbow dwarven~
+a dwarven shortbow~
+A bow is lying here.~
+~
+6 0 32769
+0 3 6 0
+10 5500 1000
+E
+bow~
+    A small wooden bow.
+~
+#6505
+plate dwarven mail~
+the dwarven plate mail~
+Dwarven plate mail is lying here.~
+~
+9 8388608 9
+6 0 0 0
+80 4500 300
+E
+plate mail~
+   Old and worn dwarven plate mail is just about wearable.
+~
+#6506
+stick black long~
+a long black stick~
+There is a long black stick lying here.~
+~
+4 65536 16385
+4 2 2 28
+1 100 6000
+E
+black stick~
+  A long black stick seems to be some kind of staff.
+~
+#6507
+stick black long~
+a long black stick~
+There is a long black stick lying here.~
+~
+1 65536 16385
+0 0 50 0
+1 100 6000
+E
+stick black~
+  A long black stick shines bright enough to use as a light.
+~
+#6508
+club dwarven~
+a dwarven club~
+There is a dwarven club lying here.~
+~
+5 0 8193
+0 2 3 3
+12 3000 300
+E
+club~
+   A small dwarven club has been well used.
+~
+#6509
+axe two-handed dwarven~
+a two-handed dwarven axe~
+A two-handed dwarven axe is here.~
+~
+5 64 8193
+0 2 7 15
+14 5000 3000
+E
+axe ~
+    A large two handed axe weights quite abit. With the
+weight of this weapon only the strong may be able to 
+handle and use it.
+~
+A
+18 2
+A
+1 2
+#6510
+helmet dwarven~
+a dwarven helmet~
+A dwarven helmet is here.~
+~
+9 0 17
+4 0 0 0
+4 2500 500
+E
+dwarven helmet~
+A small dwarven helmet is well rusted over the years of
+its wear of many battles.
+~
+#6511
+ring gold dwarven~
+a ^Ygolden^n dwarven ring~
+A ^Ygolden^n dwarven ring is lying here.~
+~
+11 2112 3
+0 0 0 0
+1 1000 0
+E
+ring gold~
+   A dwarven ring is made of solid gold.
+~
+A
+18 1
+A
+19 1
+#6512
+gloves dwarven~
+a pair of dwarven gloves~
+A pair of thick dwarven gloves lay here.~
+~
+9 0 129
+1 0 0 0
+2 500 200
+E
+gloves~
+   A pair of well worn dwarven gloves.
+~
+A
+5 1
+A
+2 1
+#6513
+coal chunk~
+a chunk of coal~
+There is a chunk of coal here.~
+~
+13 0 16385
+0 0 0 0
+100 0 0
+E
+coal chunk~
+   A large piece of black coal.
+~
+#6514
+pick mining~
+a mining pick~
+A mining pick is lying here.~
+~
+5 256 8193
+0 2 3 11
+9 300 10
+E
+pick mining~
+    A mining pick used by the dwarven mines in search of minerals.
+~
+#6515
+key deep green~
+a ^gdeep green^n key~
+There is a ^gdeep green^n key lying here.~
+~
+18 4 16385
+6515 0 0 0
+10 0 0
+#6516
+key old~
+an old key~
+Someone seems to have dropped an old key.~
+~
+18 4 16385
+6516 0 0 0
+1 0 0
+#6517
+fountain water granite~
+a granite fountain~
+The granite fountain is here, full of clear water.~
+~
+23 20 1
+999999 999999 15 0
+9999 0 0
+E
+water fountain~
+   Crystal clean water flows from the center of the fountain.
+~
+#6518
+flagpole flag pole Thorbardin~
+a flagpole with a waving ^wsilver^n and ^Ygold^n flag~
+The flagpole with the shimmering flag of Thorbardin is here.~
+~
+13 65621 0
+0 0 0 0
+1000 1000 0
+E
+flag flagpole~
+You see a silver and gold flag, shimmering in the wind.
+~
+#6519
+catapult unfinished~
+an unfinished catapult~
+An unfinished catapult is here.~
+~
+13 0 1
+0 0 0 0
+99999 100000 10000
+E
+catapult unfinished~
+It looks like the dwarves are working on an all-new super long range
+catapult. It looks super accurate too. The neatest part is a dial on the
+side that allows you to control the position of the counterweight on the
+arm and hence the distance the stone in the spoon would be thrown. These
+dwarves sure take siege engines seriously!
+~
+#6520
+mug spirits dwarven~
+a mug of dwarven spirits~
+A half full mug is here.~
+~
+17 0 1
+2 2 27 0
+0 0 0
+E
+mug~
+   A half empty mug of dwarven spirits.
+~
+#6521
+strange key~
+a strange key~
+There is a strange key laying here.~
+This key has a symbol of a dwarf on it, you wonder if it could open
+a gate of some kind?
+~
+18 4 1
+1 2 0 0
+5 0 0
+#6522
+light lantern~
+a lantern~
+A lantern is lying here.~
+a light
+~
+1 2 16385
+0 0 250 0
+40 1 1
+E
+light lantern~
+    A large lantern with a small crystal that seems to float
+inside of it lights the area around you.
+~
+A
+19 2
+A
+4 -2
+A
+1 1
+A
+14 25
+#6523
+worn old~
+a old worn belt~
+A belt is lying here.~
+You see a belt, it looks old and raggedy, useless even.
+~
+11 0 2049
+0 0 0 0
+2 0 0
+E
+old belt~
+    A old worn belt has seen many a use.
+~
+A
+13 15
+#6524
+blood red tablet~
+a blood red tablet~
+A red tablet is lying here.~
+~
+25 0 1
+40 28 39 0
+0 0 0
+E
+red tablet~
+    A small but very powerful tablet has been known to heal
+among other things.
+~
+#6525
+canteen~
+canteen~
+A canteen is lying here.~
+~
+17 0 1
+20 20 8 0
+100 0 0
+E
+canteen~
+    A small container used to hold liquids.
+~
+#6526
+scroll recall~
+a recall scroll~
+A scroll is lying here.~
+~
+2 0 1
+50 42 0 0
+0 0 0
+E
+scroll recall~
+    A old scroll with the words recall scribed on it.
+~
+#6530
+ring shell~
+a ring of shell~
+A ring made of shell is lying here.~
+ring
+~
+11 33 3
+0 0 0 0
+1 1000 0
+E
+ring shell~
+    A small ring made out of shell.
+~
+A
+4 2
+A
+12 20
+#6590
+Ring~
+Ring of Oddities~
+An unfinished object is lying here.~
+~
+9 268435456 3
+0 0 0 0
+0 0 0
+A
+19 15
+A
+18 15
+A
+24 -15
+A
+13 100
+B
+1090519080 4
+#6591
+dagger~
+a short dull dagger~
+An unfinished object is lying here.~
+~
+5 268435456 8193
+10 10 10 11
+0 0 0
+A
+24 -5
+A
+19 5
+B
+1572992 0
+S
+72 60 75
+S
+142 60 50
+S
+28 70 60
+#99999
+$~

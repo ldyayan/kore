@@ -1,0 +1,11 @@
+>fight_prog 15~
+  mpecho $I howls and your blood freezes as fear strikes your heart!
+  mpecho The blood rushes from your face as you turn to flee!
+  mpcallmagic 'area scare' $n
+~
+>fight_prog 10~
+  mpechoaround $r $I leaps on $R and takes a HUGE BITE out of $L FACE!
+  mpechoat $r $I leaps on your chest and RIPS OFF part of your FACE!
+  mpdamage $r 10d4+15
+~
+|

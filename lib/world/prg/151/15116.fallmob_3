@@ -1,0 +1,15 @@
+>rand_prog 25~
+  if inroom($r) == here
+    if isaffected($r, fly)
+    else
+      if isfight($r)
+        mpsilent mpcallmagic 'calm' $r
+        mpechoat $r You lose footing on some loose rubble and go flying down into the chasm!!
+        mpechoaround $r $R suddenly loses all desire to fight as $J goes tumbling down the chasm!
+        mptrans $r 15181
+        mpat $r mpforce $r down
+      endif
+    endif
+  endif
+~
+|

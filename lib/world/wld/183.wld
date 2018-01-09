@@ -1,0 +1,1616 @@
+#18300
+In the Musty Cellar~
+   Empty crates and barrels line all the walls. The floor is covered with 
+broken boards, probably from old crates. The smell down here is horrible, 
+almost like an animal died down here and is decaying. There is very little 
+actually stored down here, which is good, because anything stored down here 
+would have this nasty odor on it. 
+~
+183 9 0
+D0
+~
+~
+0 0 18301
+D2
+~
+~
+0 0 18170
+S
+#18301
+In the Musty Cellar~
+   Empty crates and barrels line all the walls.  The floor is covered with
+broken boards, probably from old crates.  The smell down here is horrible,
+almost like an animal died down here and is decaying.  There is very little
+actually stored down here, which is good, because anything stored down here
+would have this nasty odor on it.
+~
+183 9 0
+D1
+~
+~
+0 0 18302
+D2
+~
+~
+0 0 18300
+D3
+~
+~
+0 0 18303
+S
+#18302
+In the Musty Cellar~
+   Empty crates and barrels line all the walls.  The floor is covered with
+broken boards, probably from old crates.  The smell down here is horrible,
+almost like an animal died down here and is decaying.  There is very little
+actually stored down here, which is good, because anything stored down here
+would have this nasty odor on it.  A small ramp upwards leads to a pair of
+wooden doors.
+~
+183 9 0
+D3
+~
+~
+0 0 18301
+D4
+~
+Cellar Doors~
+1 -1 18304
+S
+#18303
+in the Musty Cellar~
+   Empty crates and barrels line all the walls.  The floor is covered with
+broken boards, probably from old crates.  The smell down here is horrible,
+almost like an animal died down here and is decaying.  There is very little
+actually stored down here, which is good, because anything stored down here
+would have this nasty odor on it.  A large pile of wooden planks lay against
+the northern wall.
+~
+183 9 0
+D0
+~
+Planks~
+1 0 18305
+D1
+~
+~
+0 0 18301
+S
+#18304
+The Loading Dock of the Lofty Crow~
+   A small cobblestone area marks the loading dock of the Lofty Crow.  From
+here a set of wooden doors probably leads to the cellar or some storage place
+of some sort.  Barrels filled with water and ale line the loading dock,
+sounds of laughter and talking can be heard to the south.
+~
+183 1 0
+D2
+~
+Barrel Pile~
+1 0 18308
+D5
+~
+Cellar Doors~
+1 -1 18302
+S
+#18305
+Smuggler's Hideout~
+   AHA! You thought something was fishy about this place.  This hidden room
+contains all kinds of smuggled goods.  Exotic animals from Eli line one wall,
+all are underfed and look miserable.  Wolf pelts from Aesir are stacked in
+a pile, they will fetch a good coin come the winter months.  Vials and jars
+full of spell components smuggled from Trokair line a wooden shelf.  A small
+stack of idols from Thrungol sit in an opened crate.  A leather bound book
+stuffed with faked trade papers for Kore sits on a wooden desk.  All of these
+items are outlawed somewhere, and all of them will catch a good price.
+~
+183 9 0
+D1
+~
+~
+0 0 18306
+D2
+~
+Planks~
+1 0 18303
+S
+#18306
+Smuggler's Hideout~
+   AHA! You thought something was fishy about this place.  This hidden room
+contains all kinds of smuggled goods.  Exotic animals from Eli line one wall,
+all are underfed and look miserable.  Wolf pelts from Aesir are stacked in
+a pile, they will fetch a good coin come the winter months.  Vials and jars
+full of spell components smuggled from Trokair line a wooden shelf.  A small
+stack of idols from Thrungol sit in an opened crate.  A leather bound book
+stuffed with faked trade papers for Kore sits on a wooden desk.  All of these
+items are outlawed somewhere, and all of them will catch a good price.
+~
+183 9 0
+D1
+~
+~
+0 0 18307
+D3
+~
+~
+0 0 18305
+S
+#18307
+Smuggler's Hideout~
+   AHA! You thought something was fishy about this place.  This hidden room
+contains all kinds of smuggled goods.  Exotic animals from Eli line one wall,
+all are underfed and look miserable.  Wolf pelts from Aesir are stacked in
+a pile, they will fetch a good coin come the winter months.  Vials and jars
+full of spell components smuggled from Trokair line a wooden shelf.  A small
+stack of idols from Thrungol sit in an opened crate.  A leather bound book
+stuffed with faked trade papers for Kore sits on a wooden desk.  All of these
+items are outlawed somewhere, and all of them will catch a good price.
+~
+183 9 0
+D0
+~
+~
+0 0 18309
+D3
+~
+~
+0 0 18306
+S
+#18308
+Behind the Lofty Crow~
+   A small yard lines the back of the Inn.  An outhouse, probably used only
+by the employees of the Lofty Crow stands off to one corner of the yard. 
+A large pile of barrels lays to the north.  Smells of good food and good
+brew waft in from the pine door to the south, which apparently leads to the
+kitchen.
+~
+183 1 0
+D0
+~
+Barrel Pile~
+1 0 18304
+D2
+~
+Pine Door~
+2 18108 18154
+S
+#18309
+Storage Room~
+   Large crates are stacked upside down here, giving the appearance of a 
+table and some chairs. Two candles shed light, cutting through the darkness 
+and hurting your eyes a little. A well dressed halfling sits on top of the 
+table, his back to you. He is reading a small leather book, and swinging his 
+feet over the table edge. A latch on the floor indicates there may be more 
+here than originally thought. 
+~
+183 8 0
+D2
+~
+~
+0 0 18307
+D5
+~
+trapdoor~
+2 18300 18310
+S
+#18310
+An Unlit Passage~
+   Now this is odd. You can understand a place to store stolen goods under 
+the Lofty Crow...but a long smoothed hallway? This was some heavy duty work 
+to put this in, the stones are all very well worked and held firmly in place. 
+This is very odd indeed, it will be interesting to see where this leads to... 
+~
+183 13 0
+D0
+~
+~
+0 0 18311
+D4
+~
+trapdoor~
+2 18300 18309
+S
+#18311
+A Dark Hallway~
+   Now this is odd. You can understand a place to store stolen goods under 
+the Lofty Crow...but a long smoothed hallway? This was some heavy duty work 
+to put this in, the stones are all very well worked and held firmly in place. 
+This is very odd indeed, it will be interesting to see where this leads to... 
+~
+183 9 0
+D0
+~
+~
+0 0 18312
+D2
+~
+~
+0 0 18310
+S
+#18312
+End of the Dark Hallway~
+   Now this is odd. You can understand a place to store stolen goods under 
+the Lofty Crow...but a long smoothed hallway? This was some heavy duty work 
+to put this in, the stones are all very well worked and held firmly in place. 
+This is very odd indeed, it will be interesting to see where this leads to... 
+~
+183 8 0
+D0
+~
+~
+0 0 18313
+D2
+~
+~
+0 0 18311
+S
+#18313
+A Torch Lit Intersection~
+   Torches line the walls of this four way intersection. The hallway to the 
+north looks like it is still under construction, although no support beams 
+are visable. A strange clicking noise comes from the west, and slight sounds 
+of muffled moans are heard to the east. This is starting to get interesting, 
+what else could be down here. Apparently, more than stolen goods. 
+~
+183 12 0
+D0
+~
+~
+0 0 18314
+D1
+~
+~
+0 0 18325
+D2
+~
+~
+0 0 18312
+D3
+~
+~
+0 0 18318
+S
+#18314
+An Unfinished Passage~
+   This hall, if you can call it that, is in the very early stages of its 
+life. The floors, walls and ceilings are all very rocky and unfinished. Marks 
+from some sort of digging tool line the surfaces of the tunnel. This hall is 
+definately a work in progress. You hear a slight scraping sound coming from 
+deeper down the hall. 
+~
+183 9 0
+D0
+~
+~
+0 0 18315
+D2
+~
+~
+0 0 18313
+S
+#18315
+An Unfinished Passage~
+   This hall, if you can call it that, is in the very early stages of its 
+life. The floors, walls and ceilings are all very rocky and unfinished. Marks 
+from some sort of digging tool line the surfaces of the tunnel. This hall is 
+definately a work in progress. You hear a slight scraping sound coming from 
+deeper down the hall. 
+~
+183 9 0
+D2
+~
+~
+0 0 18314
+D3
+~
+~
+0 0 18316
+S
+#18316
+An Unfinished Passage~
+   This hall, if you can call it that, is in the very early stages of its 
+life. The floors, walls and ceilings are all very rocky and unfinished. Marks 
+from some sort of digging tool line the surfaces of the tunnel. This hall is 
+definately a work in progress. You hear a slight scraping sound coming from 
+deeper down the hall. 
+~
+183 9 0
+D1
+~
+~
+0 0 18315
+D3
+~
+~
+0 0 18317
+S
+#18317
+The End of the Unfinished Passage~
+   This hall, if you can call it that, is in the very early stages of its 
+life. The floors, walls and ceilings are all very rocky and unfinished. Marks 
+from some sort of digging tool line the surfaces of the tunnel. This hall is 
+definately a work in progress. You hear a slight scraping sound coming from 
+deeper down the hall. 
+~
+183 9 0
+D1
+~
+~
+0 0 18316
+S
+#18318
+A Smooth Stone Hallway~
+   These walls look like they belong in the palace of the Tyrant. The 
+craftsmanship is amazing, which is very strange for an underground area. 
+Torches also line these walls, leading you towards an odd clicking noise that 
+comes from further down the hall. 
+~
+183 8 0
+D1
+~
+~
+0 0 18313
+D3
+~
+~
+0 0 18319
+S
+#18319
+A Smooth Stone Hallway~
+   These walls look like they belong in the palace of the Tyrant. The 
+craftsmanship is amazing, which is very strange for an underground area. 
+Torches also line these walls, leading you towards an odd clicking noise that 
+comes from further down the hall. 
+~
+183 8 0
+D1
+~
+~
+0 0 18318
+D3
+~
+~
+0 0 18320
+S
+#18320
+A Smooth Stone Hallway~
+   These walls look like they belong in the palace of the Tyrant. The 
+craftsmanship is amazing, which is very strange for an underground area. 
+Torches also line these walls, leading you towards an odd clicking noise that 
+comes from further down the hall. A large stone door blends in here with the 
+wall, it seems that the sounds may be coming from behind this door. 
+~
+183 12 0
+D1
+~
+~
+0 0 18319
+D2
+~
+Stone Door~
+1 -1 18321
+S
+#18321
+The Construction Room~
+   This room has tall vaulted ceilings, probably about seventy five feet tall 
+at its peak. Large torches illuminate the room. Several small furry creatures 
+walk about, apparently doing some sort of task. They carry pieces of bone to 
+the rooms to the east and west. The east room looks like large piles of 
+bleached bones are stacked in there, while the western room contains large 
+vats of red fluid. A large solid piece of rock dominates the center of the 
+room, a steep ramp leading up to its top. Many of the little Assemblers are 
+going up that ramp. A flash of some movement from atop the pedistal draws 
+your attention. 
+~
+183 8 0
+D0
+~
+Stone Door~
+1 -1 18320
+D1
+~
+~
+0 0 18323
+D3
+~
+~
+0 0 18322
+D4
+~
+~
+0 0 18324
+S
+#18322
+Storage Vats~
+   Large stone vats line the rear wall of this room.  Each one is easily ten
+feet long, and filled with a deep red fluid.  Suspended in the fluid is a
+large humanoid being, made entirely of bone.  Each of the monsters arms end
+in a long thin sword-like blade.  Each one is unique, apparently they are
+assembled from the bones of other creatures.  They seem to be in stasis here
+in these vats, or maybe they are incubating.  Either way, your glad that they
+aren't mobile, because you wouldn't want to tangle with all of these things.
+~
+183 8 0
+D1
+~
+~
+0 0 18321
+S
+#18323
+The Bone Yard~
+   Bones of all kinds lay here in piles.  They appear to be grouped by both
+size and species.  While you recognize many of the bones (most of those being
+humankin), a good number of the bones look very foreign to you.  An Assembler
+walks right past you, grabs the bleached exoskeleton of an unfortunate 
+Thri-Kreen with its long arms, and walks quickly away.
+~
+183 8 0
+D3
+~
+~
+0 0 18321
+S
+#18324
+A Central Pedestal~
+   The top of the large stone is large and flat.  The strange little assembler
+creatures walk right past you without taking any notice.  Many of them seem
+to be working on the large shape in front of you.  As it slowly turns towards
+you, you realize that this monstrosity is not a natural creature.  It looks
+somewhat humanoid, but is made completely out of bone.  Four stout legs
+keep its body off the ground, and four long appendages end with a long thin
+blade made from sharpened bleached bone.  It lets out a quiet hiss as it sees
+you, and spins its blades in a fury as it leaps your way.
+~
+183 8 0
+D5
+~
+~
+0 0 18321
+S
+#18325
+A Quiet Passage~
+   The craftsmanshipof this hall is spectacular. It cost someone a lot of 
+money and time to dig out these halls this far underground. Not to mention 
+the fine work done here, the perfectly smooth stone walls are ballasted by 
+thick oak beams, stained a rich brown. It is very quiet down here, it makes 
+you feel a little uneasy. 
+~
+183 8 0
+D1
+~
+~
+0 0 18326
+D3
+~
+~
+0 0 18313
+S
+#18326
+A Quiet Passage~
+   The craftsmanshipof this hall is spectacular. It cost someone a lot of
+money and time to dig out these halls this far underground. Not to mention
+the fine work done here, the perfectly smooth stone walls are ballasted by
+thick oak beams, stained a rich brown. It is very quiet down here, it makes
+you feel a little uneasy.
+~
+183 8 0
+D1
+~
+~
+0 0 18327
+D3
+~
+~
+0 0 18325
+S
+#18327
+The Symbol~
+   A huge green eye floats a few feet above the floor. It shifts a little as 
+you approach, almost like it is moving so you can see all of it. The mere 
+sight of this is not good for mankind. The Eye of Virmene is a sign 
+associated with death, suffering, disease and madness. The fact that this 
+symbol is here probably means that a cult of Virmene is hiding out down here. 
+This is not good for humankind. 
+~
+183 12 0
+D1
+~
+~
+0 0 18328
+D3
+~
+~
+0 0 18326
+S
+#18328
+A Junction~
+   You are standing in a brightly lit intersection. A round door bound in 
+steel is right to your east. It looks very strong, maybe even a door to keep 
+some creature in (or out). The halls to your north and south both appear very 
+well crafted. Barely audible sounds of screams and suffering come from the 
+north, and the slight sweet smell of incense comes from the south. 
+~
+183 8 0
+D0
+~
+~
+0 0 18336
+D1
+~
+Small Round Door~
+2 18305 18348
+D2
+~
+~
+0 0 18329
+D3
+~
+~
+0 0 18327
+S
+#18329
+A Smooth Stone Hallway~
+   The craftsmanshipof this hall is spectacular. It cost someone a lot of 
+money and time to dig out these halls this far underground. Not to mention 
+the fine work done here, the perfectly smooth stone walls are ballasted by 
+thick oak beams, stained a rich brown. 
+~
+183 8 0
+D0
+~
+~
+0 0 18328
+D2
+~
+~
+0 0 18330
+S
+#18330
+A Smooth Stone Hallway~
+   The craftsmanshipof this hall is spectacular. It cost someone a lot of
+money and time to dig out these halls this far underground. Not to mention
+the fine work done here, the perfectly smooth stone walls are ballasted by
+thick oak beams, stained a rich brown.
+~
+183 8 0
+D0
+~
+~
+0 0 18329
+D2
+~
+~
+0 0 18331
+S
+#18331
+A Smooth Stone Hallway~
+   The craftsmanshipof this hall is spectacular. It cost someone a lot of
+money and time to dig out these halls this far underground. Not to mention
+the fine work done here, the perfectly smooth stone walls are ballasted by
+thick oak beams, stained a rich brown.
+~
+183 12 0
+D0
+~
+~
+0 0 18330
+D1
+~
+Thick Wooden Door~
+2 18305 18332
+S
+#18332
+Mahogany Entry~
+   Mahogany panels line the walls here, giving you the feel that you are in a 
+nobles house, or maybe a fine Inn. You almost forget that you are hundreds of 
+feet underground. The smell of some spicy incense wafts in from down the 
+hall. While you can't see anyone here, you have a strange feeling that you 
+are not alone in these halls. 
+~
+183 8 0
+D1
+~
+~
+0 0 18333
+D3
+~
+Thick Wooden Door~
+2 18305 18331
+S
+#18333
+Mahogany Passage~
+      Mahogany panels line the walls here, giving you the feel that you are in a
+nobles house, or maybe a fine Inn. You almost forget that you are hundreds of
+feet underground. The smell of some spicy incense wafts in from down the
+hall. While you can't see anyone here, you have a strange feeling that you
+are not alone in these halls.
+~
+183 8 0
+D1
+~
+~
+0 0 18334
+D3
+~
+~
+0 0 18332
+S
+#18334
+Mahogany Passage~
+   Mahogany panels line the walls here, giving you the feel that you are in a
+nobles house, or maybe a fine Inn. You almost forget that you are hundreds of
+feet underground. The smell of some spicy incense wafts in from down the
+hall. While you can't see anyone here, you have a strange feeling that you
+are not alone in these halls.
+~
+183 8 0
+D2
+~
+Silver Plated Door~
+1 -1 18335
+D3
+~
+~
+0 0 18333
+S
+#18335
+An Ornate Suite~
+   This room is very well furnished. A large bullseye lantern lets off a good
+deal of light, illuminating the entire room.  A large woven rug covers the
+stark stone floor.  The rug looks very expensive, as does the large cherry
+desk and plush chair that dominate the center of the room.  A large orc sits
+behind the desk, but in a flash, he is to his feet as he sees unwelcomed
+visitors in his suite.  A slight grin comes to his face as one hand moves
+to the iron swordbreaker at his side.  hanging around his neck is a large
+silver amulet, on it, the unblinking Eye of Virmene.
+~
+183 136 0
+D0
+~
+Silver Plated Door~
+1 -1 18334
+S
+#18336
+A Smooth Stone Hallway~
+   The craftsmanshipof this hall is spectacular. It cost someone a lot of
+money and time to dig out these halls this far underground. Not to mention
+the fine work done here, the perfectly smooth stone walls are ballasted by
+thick oak beams, stained a rich brown.
+~
+183 8 0
+D0
+~
+~
+0 0 18337
+D2
+~
+~
+0 0 18328
+S
+#18337
+A Smooth Stone Hallway~
+   The craftsmanshipof this hall is spectacular. It cost someone a lot of
+money and time to dig out these halls this far underground. Not to mention
+the fine work done here, the perfectly smooth stone walls are ballasted by
+thick oak beams, stained a rich brown.
+~
+183 8 0
+D0
+~
+~
+0 0 18338
+D2
+~
+~
+0 0 18336
+S
+#18338
+A Smooth Stone Hallway~
+   The craftsmanshipof this hall is spectacular. It cost someone a lot of
+money and time to dig out these halls this far underground. Not to mention
+the fine work done here, the perfectly smooth stone walls are ballasted by
+thick oak beams, stained a rich brown.
+~
+183 8 0
+D2
+~
+~
+0 0 18337
+D5
+~
+Loose Stone~
+2 18305 18339
+S
+#18339
+A Putrid Smelling Hall~
+   Ugh...you almost vomited all over your boots. The smell down here is 
+disgusting. The smell of rotting flesh, combined with the moans of some 
+unfortunate souls, make this a very uncomfortable place to be. A strange 
+whirring sound of a machine comes from down the hall, accompanied by the 
+screams of torture. 
+~
+183 13 0
+D2
+~
+~
+0 0 18340
+D4
+~
+Loose Stone~
+2 18305 18338
+S
+#18340
+The Hall of Suffering~
+   This is horrifying. People lay on the floor in bloody heaps, hung by hooks 
+on the wall, tied to posts, and hanging from the cieling. Thick pools of 
+blood line the center of the hall. Each person is apparently in immense pain, 
+in a near death like trance, they don't even seem to notice you. All of these 
+victims are in horrible condition, most are missing eyes, arms, legs and even 
+entrails. They obviously have been through immense pain and torture. It would 
+probably be best to put these poor souls out of their misery. The strange 
+whirring sound is becoming louder, and seems to be coming from down the hall. 
+~
+183 9 0
+D0
+~
+~
+0 0 18339
+D1
+~
+~
+0 0 18341
+S
+#18341
+The Hall of Suffering~
+   This is horrifying. People lay on the floor in bloody heaps, hung by hooks
+on the wall, tied to posts, and hanging from the cieling. Thick pools of
+blood line the center of the hall. Each person is apparently in immense pain,
+in a near death like trance, they don't even seem to notice you. All of these
+victims are in horrible condition, most are missing eyes, arms, legs and even
+entrails. They obviously have been through immense pain and torture. It would
+probably be best to put these poor souls out of their misery. The strange
+whirring sound is becoming louder, and seems to be coming from down the hall.
+~
+183 9 0
+D1
+~
+~
+0 0 18342
+D3
+~
+~
+0 0 18340
+S
+#18342
+The Hall of Suffering~
+   This is horrifying. People lay on the floor in bloody heaps, hung by hooks
+on the wall, tied to posts, and hanging from the cieling. Thick pools of
+blood line the center of the hall. Each person is apparently in immense pain,
+in a near death like trance, they don't even seem to notice you. All of these
+victims are in horrible condition, most are missing eyes, arms, legs and even
+entrails. They obviously have been through immense pain and torture. It would
+probably be best to put these poor souls out of their misery. The strange
+whirring sound is becoming louder, and seems to be coming from down the hall.
+~
+183 9 0
+D1
+~
+~
+0 0 18343
+D2
+~
+~
+0 0 18346
+D3
+~
+~
+0 0 18341
+S
+#18343
+The Hall of Suffering~
+   This is horrifying. People lay on the floor in bloody heaps, hung by hooks
+on the wall, tied to posts, and hanging from the cieling. Thick pools of
+blood line the center of the hall. Each person is apparently in immense pain,
+in a near death like trance, they don't even seem to notice you. All of these
+victims are in horrible condition, most are missing eyes, arms, legs and even
+entrails. They obviously have been through immense pain and torture. It would
+probably be best to put these poor souls out of their misery. The strange
+whirring sound is becoming louder, and seems to be coming from down the hall.
+~
+183 9 0
+D0
+~
+~
+0 0 18344
+D3
+~
+~
+0 0 18342
+S
+#18344
+The Corpse Pile~
+   A large pile of corpses are stacked in the middle of this room. They look 
+like torture victims who eventaully died. Many of them look almost happy, 
+satisfied at dying to end their endless suffering they endured at the hands 
+of the horrid machine Torment. A trickle of blood from the east wall draws 
+you attention, it forms a putrid pool by the corpse pile. 
+~
+183 9 0
+D1
+~
+Bloody Plank~
+1 -1 18345
+D2
+~
+~
+0 0 18343
+S
+#18345
+A Gore Covered Room~
+   Blood and gore cover the entire room, floor, walls and ceiling. A few 
+skinned people hang from chains from the ceiling, still alive and being 
+tortured by a strange looking fiend. Only about five feet tall, the creature 
+has grey skin which is covered in blood. At first it appears to be a human, 
+but the exposed ribcage and sunken eyes reveal the truth. Long sharp 
+fingernails line each of all his fingers. This can be no other than 
+Chantrel's Horror, the devious commander of Virmene's legions. 
+~
+183 9 0
+D3
+~
+Bloody Plank~
+1 -1 18344
+S
+#18346
+INFINITE Despair~
+   As you enter this small chamber, a large hook swings down from the 
+ceiling. The hook peirces your back, leaving you with a numb feeling all 
+along your body... When you awaken, you realize that you have lost the use of 
+both arms and legs, and you are suspended twenty feet above the ground. A 
+grey skinned creature enters the room, carrying a thin dissection blade. It 
+gives you an evil grin, and begins the torture. In a raspy voice it says "I 
+promise you, this will hurt for a very long time....." 
+~
+183 14 0
+D0
+~
+~
+0 0 18342
+S
+#18347
+FORMAT CHAMBER~
+   The Horror Virmene looks a lot like the paintings you have seen of him. He 
+stands about fifteen feet tall. Two powerful legs end in taloned feet. He has 
+six arms, two human, two that end in bony blades, and two long grey 
+tentacles. Two heads top his powerful torso. One head is humanoid, but the 
+skin is rotten and the features sunken. The second head is completely covered 
+in beetles, which pour off his head and run over his torso. A cloud of green 
+vapors and flys constantly swarm around his body. Thick yellow mucus drips 
+from the long tentacles, and the light of the orange sky gleams of the 
+sharpened edge of his bone bladed appendages. A deep laughter, seeming to 
+come from nowhere, and everywhere at once, rumbles the ground beneath you. 
+You start to think that this was a bad idea, its never to late to try to 
+flee... 
+~
+183 0 0
+S
+#18348
+A Comfortable Room~
+   This room looks quite different than the halls you just passed through. 
+The stone walls are covered in oak planks, giving it the look of a nice 
+house. The room is a lot less cold than the hall, probably due to the fact 
+that the wood offers some insulation. The ground is polished stone, it even 
+appears to have been recently waxed. Sounds of chanting can be heard far to 
+the south 
+~
+183 12 0
+D1
+~
+~
+0 0 18349
+D3
+~
+Small Round Door~
+2 18305 18328
+S
+#18349
+Start of a Narrow Hallway~
+   This hall looks quite different than the halls you just passed through at 
+the start of the hideout. The stone walls are covered in oak planks, giving 
+it the look of a nice house. The room is a lot less cold than the hall, 
+probably due to the fact that the wood offers some insulation. The ground is 
+polished stone, it even appears to have been recently waxed. Sounds of 
+chanting can be heard far to the south. 
+~
+183 8 0
+D1
+~
+~
+0 0 18350
+D2
+~
+~
+0 0 18352
+D3
+~
+~
+0 0 18348
+S
+#18350
+The Dining Room~
+   This large room looks like a dining room for a good number of people, 
+presumably the cultists of Virmene. The large table in the center of the room 
+has a dozen chairs around it. it is all very clean, and the smell of some 
+sort of meat lingers in the room. A small room to the east looks like it is 
+probably the kitchen. An odd painting hangs here on the wall. It appears to 
+be a painting of Virmene leading his armies across the world, inflicting pain 
+and suffering upon the mortals that reside there. 
+~
+183 12 0
+D1
+~
+~
+0 0 18351
+D3
+~
+~
+0 0 18349
+S
+#18351
+ A Kitchen~
+   This is a relatively large kitchen. It looks a lot like the one in the 
+Lofty Crow about two hundred feet above you. Three large stoves are here, two 
+of them contain thick loaves of bread. A stange golem is here, mixing what 
+appears to be bread dough. It is made of highly polished wood, with a great 
+deal of detail spent on its fingers. It doesnt seem to notice you, you think 
+its only function may be to cook for the cultists. 
+~
+183 8 0
+D3
+~
+~
+0 0 18350
+S
+#18352
+A Narrow Hallway~
+   This hall looks quite different than the halls you just passed through at
+the start of the hideout. The stone walls are covered in oak planks, giving
+it the look of a nice house. The room is a lot less cold than the hall,
+probably due to the fact that the wood offers some insulation. The ground is
+polished stone, it even appears to have been recently waxed. Sounds of
+chanting can be heard far to the south.
+~
+183 8 0
+D0
+~
+~
+0 0 18349
+D1
+~
+~
+0 0 18353
+S
+#18353
+The Shackled Spirit~
+   As you round the bend in the hallway, a deep gutteral growl can be heard. 
+Only a few yards in front of you a dog like beast sits on the floor, chained 
+to the wall with a very heavy looking chain. This creature is by no means a 
+dog, everything about it looks demonic, it is probably a spirit drawn from a 
+distant plane. Its beady eyes regard you for a split second, then its large 
+mouth opens like a leeches mouth to reveal a series of sharp teeth. A deep 
+bellow spews from the beast as it pulls at its chain to get to you. 
+~
+183 8 0
+D2
+~
+~
+0 0 18354
+D3
+~
+~
+0 0 18352
+S
+#18354
+A Narrow Hallway~
+   This hall looks quite different than the halls you just passed through at
+the start of the hideout. The stone walls are covered in oak planks, giving
+it the look of a nice house. The room is a lot less cold than the hall,
+probably due to the fact that the wood offers some insulation. The ground is
+polished stone, it even appears to have been recently waxed. Sounds of
+chanting can be heard far to the south.
+~
+183 12 0
+D0
+~
+~
+0 0 18353
+D2
+~
+~
+0 0 18355
+S
+#18355
+A Narrow Hallway~
+   This hall looks quite different than the halls you just passed through at
+the start of the hideout. The stone walls are covered in oak planks, giving
+it the look of a nice house. The room is a lot less cold than the hall,
+probably due to the fact that the wood offers some insulation. The ground is
+polished stone, it even appears to have been recently waxed. Sounds of
+chanting can be heard far to the south.
+~
+183 8 0
+D0
+~
+~
+0 0 18354
+D1
+~
+Small Wooden Door~
+1 -1 18361
+D2
+~
+~
+0 0 18356
+S
+#18356
+A Narrow Hallway~
+   This hall looks quite different than the halls you just passed through at
+the start of the hideout. The stone walls are covered in oak planks, giving
+it the look of a nice house. The room is a lot less cold than the hall,
+probably due to the fact that the wood offers some insulation. The ground is
+polished stone, it even appears to have been recently waxed. Sounds of
+chanting can be heard far to the south.
+~
+183 8 0
+D0
+~
+~
+0 0 18355
+D1
+~
+~
+0 0 18366
+D2
+~
+~
+0 0 18357
+S
+#18357
+A Narrow Hallway~
+     This hall looks quite different than the halls you just passed through at
+the start of the hideout. The stone walls are covered in oak planks, giving
+it the look of a nice house. The room is a lot less cold than the hall,
+probably due to the fact that the wood offers some insulation. The ground is
+polished stone, it even appears to have been recently waxed. Sounds of
+chanting can be heard far to the south.
+~
+183 8 0
+D0
+~
+~
+0 0 18356
+D1
+~
+Iron Bound Door~
+1 -1 18365
+D2
+~
+~
+0 0 18358
+S
+#18358
+A Narrow Hallway~
+   This hall looks quite different than the halls you just passed through at
+the start of the hideout. The stone walls are covered in oak planks, giving
+it the look of a nice house. The room is a lot less cold than the hall,
+probably due to the fact that the wood offers some insulation. The ground is
+polished stone, it even appears to have been recently waxed. Sounds of
+chanting can be heard far to the south.
+~
+183 8 0
+D0
+~
+~
+0 0 18357
+D2
+~
+~
+0 0 18359
+S
+#18359
+End of the Narrow Hall~
+   This hall looks quite different than the halls you just passed through at
+the start of the hideout. The stone walls are covered in oak planks, giving
+it the look of a nice house. The room is a lot less cold than the hall,
+probably due to the fact that the wood offers some insulation. The ground is
+polished stone, it even appears to have been recently waxed. Sounds of
+chanting can be heard far to the south.
+~
+183 12 0
+D0
+~
+~
+0 0 18358
+D2
+~
+Metal Grate~
+1 0 18360
+S
+#18360
+The Summoning Circle~
+   This is a very brightly lit room with vaulted cielings that reach at least 
+twenty five feet tall. Five large silver braziers are placed equally around 
+the room. Each one stands on the end of a large pentagram that is painted on 
+the floor. Five brown robed cultists stand next to the braziers, their heads 
+back and chanting in a deep monotonous tone. A large dog faced manifested 
+spirit stands in the center of the circle with a look of disgust and irony on 
+his snout. His body is made of obsidian, and thick flames leap from the 
+demons back and fists. A large bronze colored coin floats a few inches above 
+one of his upturned palms. 
+~
+183 65544 0
+D0
+~
+Metal Grate~
+1 0 18359
+D2
+~
+~
+0 0 18367
+S
+#18361
+The Library~
+   This stuffy room is obviously a library of some sort. A lone table sits in 
+the room, a large wooden chair on either side of it. A couple of tall stools 
+stand next to a book rack that lines the back southern and western wall. The 
+rack is stuffed with old manuals and tomes. Most of them appear to be on 
+summoning, but many are also historical texts. 
+~
+183 8 0
+D1
+~
+~
+0 0 18362
+D3
+~
+Small Wooden Door~
+1 -1 18355
+S
+#18362
+The Storage Chamber~
+   Clear glss jars and heavt pots and urns line the western wall of this 
+room. A tightly woven basket floats a few feet above the ground, it seems to 
+be tied down with a thick cord. Most of these containers have small amounts 
+of true element in them. A metal cask contains some elemental fire, which 
+burns hotter than anything you have ever seen. The wicker basket contains 
+true air. A large urn holds a few pounds of elemental earth, and a large 
+glass tank holds a gallon or so of true water. The fact that these elements 
+are here means that the cultists have somehow opened extra-planar portals. 
+You just hope they haven't found the one where Virmene resides. 
+~
+183 8 0
+D2
+~
+Polished Oak Door~
+1 -1 18363
+D3
+~
+~
+0 0 18361
+S
+#18363
+Den of the Cultists~
+   This room looks like some sort of study. A long butcher block table runs 
+the length of the room, it is easily thirty feet long. Stacks of diagrams and 
+drawings are piled on the table. Two humans in strange brown robes are 
+sitting here, and seem very surprised at your presence here. One of them runs 
+for a large bell hung at the end of the room, while the other pulls out a 
+thin dagger from inside his robe. 
+~
+183 8 0
+D0
+~
+Polished Oak Door~
+1 -1 18362
+D2
+~
+~
+0 0 18364
+S
+#18364
+Den of the Cultists~
+   This room looks like some sort of study. A long butcher block table runs
+the length of the room, it is easily thirty feet long. Stacks of diagrams and
+drawings are piled on the table. Two humans in strange brown robes are
+sitting here, and seem very surprised at your presence here. One of them runs
+for a large bell hung at the end of the room, while the other pulls out a
+thin dagger from inside his robe.
+~
+183 8 0
+D0
+~
+~
+0 0 18363
+D3
+~
+~
+0 0 18365
+S
+#18365
+The Dissection Room~
+   A huge flat stone is propped against the wall here at a steep angle. On 
+the stone (nailed to the stone to be exact) is a very large manifested 
+spirit. The spirit does not seem to be alive, it looks as though someone here 
+is studying it. A notebook and some surgical tools are on a small tray here 
+to the side of the stone. Two brown robed cultists enter the room from the 
+doorway across from you. They stop speaking as they see you in their room. 
+Both of them curse at you in the Olde Tounge and leap at you with ornately 
+carved sacrificial daggers. 
+~
+183 8 0
+D1
+~
+~
+0 0 18364
+D3
+~
+Iron Bound Door~
+1 -1 18357
+S
+#18366
+The Sleeping Quarters~
+   This room is empty save for the long row of beds that line the southern 
+wall. Each bed is about a foot off the ground, and each has a small locked 
+chest under it. A large unlit lantern hangs from a chain in the middle of the 
+room. 
+~
+183 9 0
+D3
+~
+~
+0 0 18356
+S
+#18367
+The Chamber of Portals~
+   This room is small and bare, with the exception of two holes that are on 
+the east and west wall. The hole to the west emits immense heat, approaching 
+within a few yards of it is hot enough for you. Through the hole, a wall of 
+flames dance wildly about. This is probably a portal to the Plane of Fire, 
+you would not live too long in that intense heat, you (and all your 
+possesions) would be burned to a crisp in an instant. The portal to the west 
+looks like it goes to a large marble platform, which seems to be floating 
+high in the sky of a strange meta plane. The orange sky and noxious clouds of 
+gas show that it is a dangerous place, but nearly as deadly as the Elemental 
+plane of Fire. 
+~
+183 8 0
+D0
+~
+~
+0 0 18360
+D3
+~
+~
+0 0 18368
+S
+#18368
+Gateway to the Elemental Plane of FIRE~
+   Like an absolute moron, you decide to jump through the portal to the Plane 
+of Elemental Fire. A carbon based life form in a place where only fire 
+exists, you are instantly consumed. Fortunately, you dont feel much, your 
+body and belongings are turned to char, and then the char is incinerated. For 
+the brief instant that you lived on this plane, all you can think of is how 
+STUPID it was to jump through that portal. 
+~
+183 14 0
+D1
+~
+~
+0 0 18367
+S
+#18369
+An Opening to a Strange Meta-Plane~
+   Hrm, the portal you hopped through doesn't seem to be here on the other 
+side. You are floating on a large piece of marble, hundreds of yards above a 
+blasted landscape. A yellow-orange sky surounds you, small clouds of a 
+noxious loking green gas float by. All around you is dead silence. Looking 
+off the edge of the platform you see the bright red soil of the plane far 
+below you. Small twisted trees are the only things growing out of the ground. 
+Off to the north, you see the glinting of something metal, but it is a ways 
+away and on the otherside of a small hill. 
+~
+183 32 0
+D1
+~
+~
+0 0 18370
+S
+#18370
+A Floating Platform~
+   You are floating on a large piece of marble, hundreds of yards above a 
+blasted landscape. A yellow-orange sky surounds you, small clouds of a 
+noxious loking green gas float by. All around you is dead silence. Looking 
+off the edge of the platform you see the bright red soil of the plane far 
+below you. Small twisted trees are the only things growing out of the ground. 
+Off to the north, you see the glinting of something metal, but it is a ways 
+away and on the otherside of a small hill. A small bronze trapdoor is here, 
+it leads to a rope ladder which eventaully lands on the ground. It looks like 
+the only safe way down. A small coin shaped lock is on the gate. 
+~
+183 32 0
+D3
+~
+~
+0 0 18369
+D5
+~
+Bronze Gate~
+2 18314 18371
+S
+#18371
+Down a Rope Ladder~
+   You are descending down a thick rope ladder, it barely moves in the still 
+air of this strange place. You cough a little as you inhale a small cloud of 
+the green gas that floats by. A little ways off to the north, a small hill 
+rises out of the landscape. You can see the glinting of a metal object in the 
+background. 
+~
+183 164 0
+D4
+~
+Bronze Gate~
+2 18314 18370
+D5
+~
+~
+0 0 18372
+S
+#18372
+The Blasted Lands~
+   The ground here is slightly moist, kind of like a field after a heavy 
+rain. It smells very bad down here, you assume it is the dirt on which you 
+stand. It is redder than any clay you have ever seen, and doesn't look like 
+it holds any nutrients. Small tree-like plants grow out of the ground every 
+few yards, but they appear dead and poisoned. Small rifts spew greenish 
+clouds, you try to avoid them, for they look kind of vile. A huge rift off to 
+the side emits thick vapors, it is very wide, and VERY deep. 
+~
+183 160 0
+D0
+~
+~
+0 0 18373
+D1
+~
+~
+0 0 18374
+D3
+~
+~
+0 0 18375
+D4
+~
+~
+0 0 18371
+S
+#18373
+The Blasted Lands~
+   The ground here is slightly moist, kind of like a field after a heavy
+rain. It smells very bad down here, you assume it is the dirt on which you
+stand. It is redder than any clay you have ever seen, and doesn't look like
+it holds any nutrients. Small tree-like plants grow out of the ground every
+few yards, but they appear dead and poisoned. Small rifts spew greenish
+clouds, you try to avoid them, for they look kind of vile. A huge rift off to
+the side emits thick vapors, it is very wide, and VERY deep.
+~
+183 160 0
+D0
+~
+~
+0 0 18378
+D1
+~
+~
+0 0 18377
+D2
+~
+~
+0 0 18372
+D3
+~
+~
+0 0 18376
+S
+#18374
+The Blasted Lands~
+   The ground here is slightly moist, kind of like a field after a heavy
+rain. It smells very bad down here, you assume it is the dirt on which you
+stand. It is redder than any clay you have ever seen, and doesn't look like
+it holds any nutrients. Small tree-like plants grow out of the ground every
+few yards, but they appear dead and poisoned. Small rifts spew greenish
+clouds, you try to avoid them, for they look kind of vile. A huge rift off to
+the side emits thick vapors, it is very wide, and VERY deep.
+~
+183 160 0
+D0
+~
+~
+0 0 18377
+D1
+~
+~
+0 0 18381
+D2
+~
+~
+0 0 18381
+D3
+~
+~
+0 0 18372
+S
+#18375
+The Blasted Lands~
+   The ground here is slightly moist, kind of like a field after a heavy
+rain. It smells very bad down here, you assume it is the dirt on which you
+stand. It is redder than any clay you have ever seen, and doesn't look like
+it holds any nutrients. Small tree-like plants grow out of the ground every
+few yards, but they appear dead and poisoned. Small rifts spew greenish
+clouds, you try to avoid them, for they look kind of vile. A huge rift off to
+the side emits thick vapors, it is very wide, and VERY deep.
+~
+183 160 0
+D0
+~
+~
+0 0 18376
+D1
+~
+~
+0 0 18372
+D2
+~
+~
+0 0 18381
+D3
+~
+~
+0 0 18381
+S
+#18376
+The Blasted Lands~
+   The ground here is slightly moist, kind of like a field after a heavy
+rain. It smells very bad down here, you assume it is the dirt on which you
+stand. It is redder than any clay you have ever seen, and doesn't look like
+it holds any nutrients. Small tree-like plants grow out of the ground every
+few yards, but they appear dead and poisoned. Small rifts spew greenish
+clouds, you try to avoid them, for they look kind of vile. A huge rift off to
+the side emits thick vapors, it is very wide, and VERY deep.
+~
+183 160 0
+D1
+~
+~
+0 0 18373
+D2
+~
+~
+0 0 18375
+D3
+~
+~
+0 0 18381
+S
+#18377
+The Blasted Lands~
+   The ground here is slightly moist, kind of like a field after a heavy
+rain. It smells very bad down here, you assume it is the dirt on which you
+stand. It is redder than any clay you have ever seen, and doesn't look like
+it holds any nutrients. Small tree-like plants grow out of the ground every
+few yards, but they appear dead and poisoned. Small rifts spew greenish
+clouds, you try to avoid them, for they look kind of vile. A huge rift off to
+the side emits thick vapors, it is very wide, and VERY deep.
+~
+183 160 0
+D1
+~
+~
+0 0 18381
+D2
+~
+~
+0 0 18374
+D3
+~
+~
+0 0 18373
+S
+#18378
+A Small Hill in the Blasted Lands~
+   You stand atop a small mound of the reddish soil. Two of the twisted trees 
+stand atop it, and it seems to be the highest point that you can see. The 
+rope ladder to the south leads to the marble platform, which is at least five 
+hundred feet above the ground. To the north you see a stange sight, a large 
+throne sits there, it looks made of pieces of scrap metal. The pieces look 
+like they are made of all different kinds of metal, gold, bronze, copper, 
+iron, steel and oricalcum. Some beast is sitting on the throne, but from here 
+the vapors are too thick to make any details out. 
+~
+183 160 0
+D0
+~
+~
+0 0 18379
+D2
+~
+~
+0 0 18373
+S
+#18379
+The Throne of Virmene~
+   A platform of thick marble lays here in the red soil. Atop it, the 
+makeshift throne assembled from various pieces of metal that you spotted 
+about a hundred yards back. A tall marble altar sits in front of the throne. 
+Between the throne and the altar is a thick lattice made of the magical metal 
+oricalcum. Sitting on the throne is the thing nightmares are made of. The 
+Horror Virmene sits here, both of his heads bear a wide grin. The skeletal 
+head speaks in a slow deliberate tone. "I have been made aware of your 
+presence in my Temple, I will reward your futile attempts to destroy me with 
+endless pain. Eventually, you and your whole world will serve me, beg me for 
+mercy you worthless worm!" He throws back his head and cackles as beetles 
+crawl all over his body. As he slowly stands, you start to become very, very 
+afraid.... 
+~
+183 32 0
+D0
+~
+~
+0 0 18381
+D1
+~
+~
+0 0 18381
+D2
+~
+~
+0 0 18378
+D3
+~
+~
+0 0 18381
+D5
+~
+Oricalcum Lattice~
+2 18320 18380
+S
+#18380
+An Extra-Dimensional Pocket~
+   This room is absolutely dark, it could go far in any and all directions. 
+The blackness of it all is pierced by a single beam of light that comes 
+through the lattice that you just opened. In the middle of the room sits a 
+huge iron anvil, blackened from years of use. The anvil emits a strange glow, 
+and a warm feeling fills your body as you gaze upon it. This is the Anvil of 
+the Maker, the surface for which the Creator used to forge many of the worlds 
+of this plane. It had been rumored that it was stolen by an unknown evil 
+power in the world, it apparently was stolen by Virmene and hidden away in 
+this extra-dimensional pocket. 
+~
+183 181 7
+D4
+~
+Oricalcum Lattice~
+2 18320 18379
+S
+#18381
+Falling FOREVER in a Bottomless Rift~
+   Whoa boy, this rift looks very deep. Theres no way you'll survive this 
+fall, and there is no way you could ever retrieve your equipment from the 
+bottom of this nether chasm. As you start falling, the noxious green gasses 
+make you fall uncounsious. Let it be some comfort to you that after an hour 
+of falling, when you hit the bottom of this rift and explode into a million 
+pieces, you didn't feel a thing. 
+~
+183 6 0
+S
+#99999
+$~

@@ -1,0 +1,14 @@
+#1300
+nomagic mob~
+nomagic !there mob~
+nomagic !there mob
+~
+This will keep motherfuckers from casting (i.e. this is a walking !magic
+flag).
+~
+8388616 4457512 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

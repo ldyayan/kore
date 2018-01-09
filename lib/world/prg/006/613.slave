@@ -1,0 +1,92 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+  else
+    if name($n) == jersinfae
+      if rand(30)
+        worship jersinfae
+      endif
+    else
+      if name($n) == senornacho
+        if rand(30)
+          bow senornacho
+        endif
+      else
+        if ismemory($n)
+          if rand(50)
+            say Still you not left?
+            say Fool.
+            mpforget $n
+          else
+            say Leave here, $R, while yous still have uh chance!
+            mpforget $n
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>rand_prog 6~
+  if inroom($r) == here
+    if rand(10)
+      say Please, please,.. don' kill me!! Gyuk be good servant!
+      say Gyuk watch over yous equipment while yous sleep!
+    else
+      if race($r) == drow
+      else
+        if rand(50)
+          peer $r
+          say Hey, yous not be uh drow!
+          say I's tell the Matron of yous intrus'n!
+          mpremember $r
+        else
+          laugh $r
+          say Yous be wise to leave before someone besides Gyuk saw yous!
+          mpremember $r
+        endif
+      endif
+    endif
+  endif
+~
+>time_prog 4~
+  if position($i) == 4
+    wake
+    stand
+    emote smacks his lips disgustingly.
+  endif
+~
+>time_prog 23~
+  if position($i) == 4
+    mpecho $I shifts uncomfortably in his sleep.
+  else
+    yawn
+    say Gyuk need sum sleep...
+    say zzZZZZzzz..
+    sleep
+  endif
+~
+>time_prog 24~
+  if position($i) == 4
+    if rand(30)
+      snore
+    endif
+  endif
+~
+>command_prog rent~
+  if clan($n) == house vherin'ultrin
+    else
+      say Yous does not belong here!
+      mptransfer $n 3001
+      mpstopcommand
+  endif
+~
+>command_prog kick~
+  mpsilent wake
+  mpsilent stand
+  mpechoat $n You give Gyuk a swift kick in the britches and scream, 'Wake up, slave!'
+  mechoaround $n $n hauls back and gives Gyuk a swift kick in the ass, while screaming, 'Wake up, slave!'
+  say I's sorry master! Please don' kills me!!!
+  emote begins making some sobbing noises.
+  mpstopcommand
+~
+|

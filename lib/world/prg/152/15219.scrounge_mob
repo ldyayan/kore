@@ -1,0 +1,16 @@
+>command_prog scrounge~
+  if isfight($n)
+  else
+    if class($n) == thief
+      if rand(20)
+        mpechoat $n You find a handful of magical beans on the ground!
+        mpechoaround $n $N finds a handful of magical beans on the ground!
+        mpoload 15234
+        mpsilent drop beans 
+        mpgoto cleaner
+        mpstopcommand
+      endif
+    endif
+  endif
+~
+|

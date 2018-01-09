@@ -1,0 +1,53 @@
+>all_greet_prog 100~
+  mptrigger TrianSpeak
+~
+>script_prog TrianSpeak~
+  say Ahh welcome adventurers, I have heard a great deal about you.
+   @
+  say Paladia said that you were the ones to save us all.
+~
+>fight_prog 2~
+  say You will pay for descecrating this holy place!
+  emote makes a flowing gesture with his hand.
+  mpecho The room suddenly goes pitch black..
+  mpecho Moans and cries of the dead fill the air!
+  mpecho You gasp as the spirits rape at your inner being!
+  mpdamage all 500
+~
+>fight_prog 4~
+  if inroom($r) == here
+    say There is no salvation for you, my child.
+    mpechoat $r Trian points directly at you!
+    mpechoaround $r Trian points a bony finger at $r.
+    mpechoaround $r A blue aura encloses $r and $J collapses shortly after!
+    mpechoat $r A pale blue aura surrounds you, and you feel very content.
+    mpechoat $r Suddenly, you feel your lifeforce being leeched away!
+    mpechoat $r You collapse on the ground, exhaused.
+    mpsilent mpcallmagic 'dispel sanctuary' $r
+    mpdamage $r 300
+  endif
+~
+>fight_prog 5~
+  say Why don't you have a taste of your own evil taint?
+  mpecho The world spins as you get violently ill!
+  mpsilent mpcallmagic all 'poison'
+  mpdamage all 75
+~
+>fight_prog 2~
+  say Evil can never defeat good!
+  emote makes a simple gesture and his wounds are healed!
+  mpsilent mpcallmagic 'heal' $i
+  mpsilent mpcallmagic 'heal' $i
+  mpsilent mpcallmagic 'heal' $i
+~
+>death_prog 100~
+  emote gasps, 'Laid to rest by those I seek to destroy.. how ironic.'
+~
+>rand_prog 3~
+  emote mumbles something incomprehensible.
+~
+>rand_prog 3~
+  emote pours over several ancient tomes.
+  say Yes.. very interesting..
+~
+|

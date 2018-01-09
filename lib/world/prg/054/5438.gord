@@ -1,0 +1,59 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    bow zirnozz
+  else
+    if ismemory($n)
+      if rand(30)
+        say Just can't take a hint, eh $N?
+        if rand(30)
+          emote spits in his hands and then brandishes his dagger.
+        endif
+      endif
+      gauge $n
+      backstab $n
+      mpforget $n
+    endif
+  endif
+~
+>entry_prog 100~
+  if ismemory($n)
+    if rand(30)
+      say Hah! You haven't fled yet?!
+      if rand(30)
+        emote advances on $N quickly.
+      endif
+    endif
+    gauge $n
+    backstab $n
+    mpforget $n
+  endif
+~
+>rand_prog 20~
+  if hasobj($i) == 5498
+    wield kris
+    mpjunk dagger
+  endif
+~
+>rand_prog 6~
+  if hitprcnt($i) < 90
+    mpecho $I curses softly and tends to his wounds.
+    mpcallmagic 'cure critic' $i
+    hide
+  endif
+~
+>fight_prog 35~
+  if inroom($r) == here
+    if isfight($r)
+      if rand(50)
+        trip $r
+        mpremember $r
+      else
+        flee
+        flee
+        hide
+        mpremember $r
+      endif
+    endif
+  endif
+~
+|

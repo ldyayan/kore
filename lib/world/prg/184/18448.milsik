@@ -1,0 +1,32 @@
+>greet_prog 100~
+  if ispc($n)
+    if inroom($i) == 18485
+      mpecho Energy crackles from the metal body of $I.
+      mpecho $I grins in the eerie light.
+      say So the Namegivers return...
+      mpecho $I lets out a shrill cackle.
+    else
+      say It is payback time, Namegiver!
+      mpecho Blue lightning crackles down the arms of $I.
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho ^BBlue^n lightning crackles off $I and covers you in a shower of sparks!
+    mpdamage all 8d10
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I screams as a wave of ^Bblue^n electricity covers the room!
+    mpdrainmove all 10d3
+    mpdrainmana all 10d4
+    mpecho The force of the blast weakens you!
+    if rand(10)
+      mppose all sit
+      mpecho You are overcome by the power of the blast and fall to your knees!
+    endif
+  endif
+~
+|

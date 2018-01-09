@@ -1,0 +1,846 @@
+#8801
+wreath glowing holly ring~
+a wreath of glowing holly~
+A glowing ring of leaves rests here.~
+~
+11 1241152 17
+0 0 0 0
+6 9600 1
+E
+wreath glowing holly ring~
+They appear to be mallorn leaves...
+But no one has seen a mallorn for five hundred years around here...
+~
+A
+12 25
+A
+17 -10
+A
+4 2
+#8802
+horn kirin ki-rin ~
+the horn of a ki-rin~
+The black horn of some animal rests here.~
+~
+5 163904 8193
+0 5 3 14
+20 1 35
+E
+horn kirin ki-rin~
+You have difficulty deciding whether it's made of ebony
+or of some dark bonelike material...
+~
+#8803
+mist cloud~
+a cloud of mist~
+A cloud of mist permeates the room here.~
+~
+11 704513 1025
+0 0 0 0
+6 1000 1
+E
+mist cloud~
+Upon closer inspection this material is the same stuff
+that blocked your progress through the clouds, only now it's woven
+into a fabric...
+~
+A
+12 40
+A
+18 -3
+A
+2 2
+A
+5 2
+#8804
+gloves claw clawwed clawed~
+some clawwed gloves~
+A pair of claws lies crumpled on the floor.~
+~
+11 8548353 129
+0 0 0 0
+4 2400 1
+E
+gloves claw claww clawed clawwed~
+The fur of the gloves is a silvery-grey, and the claws themselves
+seem to be of an alloy not unlike electrum or perhaps simply white
+gold...
+~
+A
+18 2
+A
+19 1
+A
+17 -3
+#8805
+flame lick fire club~
+^Ga long lick of^n ^Rflame^n~
+A line of burning flames rests here...~
+It's actually made of some kind of coated sandstone underneath, but the
+flames surrounding it seem not to affect it...
+~
+5 159744 8193
+0 5 3 6
+10 1 35
+E
+mace fire club lick~
+It's actually made of some kind of coated sandstone underneath, but
+the flames around it seem not to affect it....
+~
+A
+19 4
+A
+18 4
+A
+13 6
+S
+5 33 1
+#8806
+frost freezing gargantuan icicle~
+^Ga gargantuan^n ^Cicicle^n~
+A large icicle sits on the floor, unmelting.~
+~
+5 159744 8193
+3 4 5 7
+11 1 35
+E
+frost freezing gargantuan icicle~
+Essentially a large icicle, for some odd reason the handle is not 
+freezing to the touch...
+~
+A
+19 3
+A
+18 3
+A
+13 8
+S
+8 24 1
+#8807
+club earth dirty~
+a dirty club~
+A dirty club sits on the floor here.~
+~
+5 159744 8193
+0 3 4 5
+11 1 35
+E
+club earth dirty~
+What should be a straightforward stone club is actually quite interesting,
+as upon closer inspection the oblong stone is surrounded by buzzing dust
+particles that cannot escape some invisible force field around it...
+~
+A
+19 3
+A
+18 4
+A
+13 10
+S
+23 30 1
+#8808
+coat fur ermine~
+an ermine fur coat~
+A large lump of fur sits on the ground.~
+~
+11 8548353 9
+0 0 0 0
+9 6666 1
+E
+coat fur ermine~
+There's enough ermine in this coat to cover even the most obese
+mother-in-law.
+~
+A
+1 3
+A
+17 -25
+A
+13 16
+A
+4 -6
+A
+3 -5
+A
+6 -3
+#8809
+basalt slab rock~
+a large slab of basalt~
+A stone club rests on the floor.~
+~
+5 8540160 8193
+0 6 3 6
+12 1 35
+E
+basalt slab rock~
+The mineral this club is made from is unusually white in color, though
+not fluorescent.
+~
+A
+19 4
+A
+18 1
+A
+13 12
+S
+71 36 1
+#8810
+mist pillar storm~
+a swirling pillar of mist~
+A swirling blue club-shaped object rests on the floor.~
+~
+5 151553 8193
+6 6 3 5
+11 1 35
+E
+mist pillar storm~
+This mace appears to be a glass rod containing boiling hot water,
+with one end wider than the other.  In the chamber at the wide end, 
+small sparks of electricity can be dimly seen inside.
+~
+A
+18 3
+A
+19 3
+A
+13 20
+S
+6 30 1
+#8811
+hexagon amulet basalt hexagonal~
+a hexagonal basalt amulet~
+A six-pointed piece of basalt sits here.~
+~
+11 8548352 5
+0 0 0 0
+6 1450 1
+E
+hexagon basalt amulet hexagonal~
+This six-pointed piece of stone appears to have cooled over a long
+period of time, as it comprises maybe two or three complete crystals.
+~
+A
+13 25
+A
+17 -12
+A
+21 -3
+#8812
+rod shimmering ruby~
+a shimmering ^Rruby^n rod~
+A shimmering rod studded with rubies rests on the floor here.~
+~
+5 2248705 8193
+0 6 6 9
+10 1 35
+E
+rod ruby shimmering~
+This rod is actually of burnished red copper, with rubies running
+up it in spiral bands.  Between the strips of rubies is a darker,
+gem-like strip of red paste which glows with a dim light of its own...
+~
+A
+18 4
+A
+13 20
+A
+19 2
+S
+118 40 1
+#8813
+skirt obsidian stone~
+an obsidian skirt~
+A skirt of interwoven slices of black stone rests here.~
+~
+9 8409088 33
+5 0 0 0
+6 8500 1
+E
+skirt obsidian stone~
+It is made of plates of obsidian, strung together with a red paste similar
+to the material that spirals around the King's mace....
+~
+A
+2 1
+A
+19 1
+A
+17 -14
+#8814
+ring agate~
+an ^Cagate^n ring~
+A piece of agate rests here.~
+~
+11 10543136 3
+0 0 0 0
+1 3200 15
+E
+ring agate~
+It's a hoop of brass attached to an agate about two inches in diameter.
+~
+A
+6 1
+A
+19 1
+A
+17 -9
+#8815
+electrum chunk glowing pinecone~
+a glowing chunk of electrum~
+A chunk of metal in the shape of a pinecone is here.~
+~
+8 8425473 16385
+0 0 0 0
+1 3200 15
+E
+pinecone cone glowing electrum~
+It looks extroardinary lifelike in its carving, were if not for it 
+being made of steel...
+~
+A
+14 20
+A
+1 2
+#8816
+ring red iron ~
+a ^rdeep red^n iron ring~
+A ring of rusty metal lies here.~
+~
+11 8388608 3
+0 0 0 0
+1 99 15
+E
+ring red iron~
+This heavy band of iron seems to have been casted in a gridded mold, 
+as there are raised crisscrossing lines across its surface.
+~
+A
+2 2
+A
+6 -1
+A
+13 -30
+A
+19 1
+A
+12 -30
+#8817
+wings metal~
+a pair of metal wings~
+A pair of metal eagle-shaped wings lies here.~
+~
+11 536576 257
+0 0 0 0
+6 1450 1
+E
+wings metal~
+Made of a light blue-colored metal, these wings seem almost weightless.
+~
+A
+19 2
+A
+14 24
+A
+17 -4
+A
+2 1
+#8818
+gimlet golden scorpion dagger~
+a ^Ygolden^n gimlet~
+A sentient dagger is here commenting on your mother.~
+~
+5 9089026 8193
+2 5 4 14
+11 6650 35
+E
+gimlet golden scorpion dagger~
+What looks like a metal sculpture of a ten-legged scorpion
+has a thin sharp blade protruding from its throat.
+It sure is an ornery sucker.
+~
+A
+19 3
+A
+18 3
+S
+25 40 1
+#8819
+boots claw clawwed silver clawed~
+a pair of clawed ^Wsilver^n boots~
+A pair of metallic hooves sits here.~
+~
+11 8916992 65
+0 0 0 0
+4 7500 1
+E
+boots claw clawed clawwed silver~
+These boots are highly polished, and have articulated toe-joints.
+~
+A
+19 1
+A
+14 30
+A
+2 -4
+#8820
+girth emerald glittering~
+a glittering ^Gemerald^n girth~
+A glittering hoop of ^Gemeralds^n is here on the ground.~
+~
+9 643072 2049
+100 0 0 0
+3 15000 1
+E
+girth emerald glittering~
+This belt's gems are strung together with the throatskin of a green dragon.
+~
+A
+9 5
+A
+19 1
+A
+12 -5
+#8821
+cloak fur white~
+a white fur cloak~
+A clump of white fur rests on the floor.~
+~
+11 8192 5
+0 0 0 0
+6 1450 1
+E
+cloak white fur~
+There's enough fur in this cloak to cover the most well-nourished
+mother-in-law adequately...
+~
+A
+13 15
+A
+18 4
+A
+17 -12
+#8822
+antlers studded~
+some studded antlers~
+The antlers of some animal are here on the floor.~
+~
+9 12288 17
+0 0 0 0
+15 2500 1
+E
+antlers studded~
+The diamonds that jut from the tips of these antlers appear either to 
+have grown naturally or adhered in a process similar to what shellfish
+use.
+~
+A
+2 -1
+A
+13 13
+A
+17 -5
+A
+14 -15
+#8823
+talon raven~
+the talon of the snow raven~
+The talon of a large bird rests here.~
+~
+5 180224 8193
+2 5 4 8
+9 1 35
+E
+talon raven snow~
+The base of this talon is as wide as your elbow...
+~
+A
+19 2
+A
+18 2
+S
+114 25 1
+#8824
+breeches fur shiny~
+a pair of shiny fur breeches~
+A strip of metallic fur is draped across the floor.~
+~
+11 8474624 33
+100 0 0 0
+4 24000 1
+E
+breeches fur shiny~
+This piece of legwear is made from two pieces of aurumvorax fur finely
+stitched together...
+~
+A
+14 30
+A
+19 1
+A
+17 -16
+A
+13 -25
+#8825
+wakizashi stain stained~
+a stained wakizashi~
+A short blade drenched in blood is on the ground.~
+~
+5 8400896 24577
+0 4 3 11
+12 9600 35
+E
+wakizashi stain stained sword~
+This short straight blade seems to bleed of its own accord even when
+washed...
+~
+A
+19 3
+A
+2 1
+#8826
+katana curvy serrated~
+a serrated katana~
+A curvy blade rests here.~
+~
+5 8417280 8193
+0 4 5 3
+12 9600 35
+E
+katana curvy serrated sword~
+This sword has odd ripples in its blade that become more frequent closer
+to its tip...
+~
+A
+19 3
+A
+2 2
+#8827
+armor ruby vest~
+a ^Rruby^n armor vest~
+A glittering lightweight ruby vest lies here on the ground.~
+~
+11 10539009 9
+0 0 0 0
+11 8000 1
+E
+armor ruby vest~
+It appears to be entirely made from interlocking rubies, a sort of 
+chain-mail of gems....
+~
+A
+19 2
+A
+6 1
+#8828
+katana no-dachi nodachi black~
+a jet black no-dachi~
+A long dark blade almost disappears into the floor...~
+~
+5 9580546 24577
+0 6 6 3
+12 9600 35
+E
+katana no-dachi nodachi sword black~
+This dark blade seems to devour the air around it, and when all is 
+quiet you can discern a faint sucking noise...
+~
+A
+19 2
+A
+18 4
+A
+6 1
+#8829
+caltrop glowing~
+a glowing caltrop~
+A spiked ball used for stopping horsies rests here.~
+~
+1 9138177 16385
+0 0 -1 0
+1 18000 15
+E
+caltrop glowing ball spiked~
+It's a spiked ball for stopping horsies!!
+~
+A
+19 3
+A
+14 -10
+A
+1 -2
+A
+13 -18
+#8830
+girdle wench sly~
+the girdle of the sly wench~
+A snazzy cloth belt lies at your feet here.~
+~
+15 8450048 2049
+100 0 0 0
+6 1500 1
+E
+girdle wench sly~
+It's an Everlast(tm) !!!
+~
+A
+1 1
+A
+6 3
+A
+17 -10
+#8831
+bracelet ruby gold~
+a^R ruby^n and ^Ygold^n bracelet~
+A gold bracelet inlaid with large rubies rests here.~
+~
+11 10735618 4097
+0 0 0 0
+1 1 1
+E
+bracelet ruby gold~
+The gold in this bracelet seems to swirl in a liquid fashion, the
+rubies surrounding the metal within and serving as a sort of donut-
+shaped container.  Despite the fact that the gold must be white hot
+to be able to flow like that, you don't feel burned by it at all.
+~
+A
+19 2
+A
+13 -5
+A
+12 10
+A
+9 -5
+#8832
+garter purple felt~
+a piece of purple felt~
+A piece of purple felt rests here.~
+~
+11 1101824 5
+0 0 0 0
+6 2100 1
+E
+garter purple felt~
+This garter is creped into many fine ruffles, and has several small
+amethysts lining its edges.  An inscription can be seen along it:
+
+* * *  D e f e n s o r  B a l  H a r b o r i i * * *
+~
+A
+19 1
+A
+12 15
+A
+17 -5
+A
+5 -3
+#8834
+key glowing~
+a glowing key~
+A glowing key is lying here~
+It's a glowing key.
+~
+18 5 1
+0 0 0 0
+0 0 0
+#8835
+key pitchfork fork~
+a pitchfork shaped key~
+A key in the shape of a pitchfork is here.~
+It looks like a pitchfork...
+~
+18 0 1
+0 0 0 0
+0 0 0
+#8836
+key time timekey ainur~
+Time-Key of the Ainur~
+A key-shaped object of shimmering power rests here.~
+It seems to vibrate of its own power...
+~
+18 47 16385
+0 0 0 0
+0 0 0
+E
+key time timekey ainur~
+Northern Shore of the Sea of Rhun at the outlet of the River Running,
+at five o'clock in the afternoon on the twenty sixth day of Sulime,
+Fourth Age one thousand five hundred and three.
+~
+A
+19 4
+A
+18 4
+A
+13 -66
+#8837
+statue fountain monkey pissing urinating~
+a large bronze statue of a urinating monkey~
+A large bronze statue of a squatting monkey stands in the square.~
+~
+23 0 0
+500 500 6 0
+50 0 0
+E
+statue monkey pissing urinating~
+The statue is about twice your height, and judging by the expression
+you feel that the artist really got a handle on the emotion of 
+relief...
+~
+#8838
+plink utility weapon~
+DirtDobber's Utility Plink-Weapon~
+Something that belongs to DirtDobber that should be junked is sitting here.~
+~
+6 0 32769
+255 6 6 8
+0 0 0
+E
+plink utility weapon~
+This is a weapon used by DirtDobber after doing stupid shit like accidentally fighting
+something, using goto to go to another room, and having it follow him, when he can't
+just purge it, and when the mob fails to walk back to its original room.
+~
+#8839
+kimono deep black~
+a deep black kimono~
+A deep black kimono bearing the crest of the nightshade is lying here.~
+This is made from the finest DemonWeb spider silk,
+and has woven into it dried nightshade petals..it practically 
+sizzles with the enchantment placed on it by the Wicca.
+~
+9 2177544 9
+8 0 0 0
+2 25000 0
+E
+kimono deep black~
+This is made from the finest DemonWeb drider silk, and interwoven
+with the silk are pieces of nightshade plant grown in the Wicca's
+gardens.  This entire garment makes a static sizzle in the air as 
+you move, the enchantment placed upon it by the Wicca must be 
+considerable....
+~
+A
+2 2
+A
+19 2
+A
+5 -4
+A
+1 2
+#8840
+ruby shimmering portal 8840~
+a shimmering ruby portal~
+A shimmering ruby portal casts its rays over the chunks of metal here.~
+~
+27 0 0
+8881 0 0 0
+1 0 0 3
+E
+ruby shimmering portal~
+The portal sparkles with red rays of light of varying intensity, accompanied
+by an uneven humming which hints at its instability..better hurry.
+~
+#8841
+shimmering diamond portal 8841~
+a shimmering diamond portal~
+A shimmering diamond portal casts its rays over the chunks of metal here.~
+~
+27 0 0
+8851 0 0 0
+1 0 0 3
+E
+shimmering diamond portal~
+The portal sparkles with white rays of light of varying intensity, 
+accompanied by an uneven humming which hints at its instability...better
+hurry.
+~
+#8842
+statue fountain terrasque~
+a statue of the Terrasque~
+A fountain shaped like the dreaded Terrasque is here, spurting water.~
+~
+23 0 0
+255 255 0 0
+50 0 0
+E
+statue fountain terrasque~
+Although this is a one-tenth scale replica of the beast, it easily
+dwarfs the giants that wander about the square.  Like the other
+three statues that are situated on the diagonal directions, this has
+been used to tether various flying beasts that the giants ride upon.
+Whoever sculpted it did real justice to the terror that this monster
+inspires: its pose is with its jaws ready to lower onto anyone who
+drinks from the fountain...
+~
+#8843
+owlbear statue fountain~
+a granite statue of an owlbear ~
+A large granite rendition of an owlbear is surrounded by a pool of water here.~
+This statue of an owlbear strikes an active pose, as it seems to 
+be pawing for fish and snarling in the water.  It is standing more
+or less stooped over in a circular basin made of pink marble, and
+filled with clear water.
+~
+23 0 0
+255 255 15 0
+250 0 0
+E
+owlbear statue fountain~
+This statue of an owlbear strikes an active pose, as it seems to
+be pawing for fish and snarling in the water.  It is standing more
+or less stooped over in a circular basin made of pink marble, and
+filled with clear water.
+~
+#8844
+jade statue fountain vegepygmy~
+a jade statue of a vegepygmy~
+A jade rendering of a plantlike humanoid covered in weeds stands here.~
+~
+23 0 0
+255 255 14 0
+500 0 0
+E
+jade statue fountain vegepygmy~
+This impressive statue of a vegepygmy is made of a light aquamarine
+form of jade stone, and was apparently finished by the Wicca when she
+was still in her childhood.  A saline reek emanates from the water
+surrounding the statue, making you wonder if the castle is indeed 
+above the island and not in fact some place nearby over the Sea of
+Rhun... 
+~
+#8845
+remorhaz sculpture statue fountain~
+a metal sculpture of a remorhaz~
+A metal sculpture of a remorhaz is surrounded by a fountain here.~
+~
+23 0 0
+255 255 9 1
+0 0 0
+E
+remorhaz sculpture fountain statue ~
+This sculpture of a remorhaz in anger is a collage of several different
+metals, most notably mithril and copper, and stands about fifteen feet
+high.  Its small wings are fanned back in alertness, and the bars of
+burnished copper on its belly represent the well-known behavior of the
+remorhaz when getting ready to strike: its abdomen heats up, causing its
+midsection to glow threateningly.  Its scorpion-like body is encrusted
+with many fine gems, and the claws are polished silver.
+~
+#8846
+portal shimmering ruby 8846~
+a shimmering ruby portal~
+A shimmering ruby portal is here, casting its rays upon the metal rubble.~
+It looks really unstable. You'd better hustle if you want to get in...
+~
+27 0 0
+8889 0 0 0
+1 0 0 3
+E
+portal shimmering ruby 8846~
+The portal casts its deep red rays across the chunks of metal on the 
+ground, and makes wildly changing humming noises.  You'd better get in
+before it closes...
+~
+#99999
+$~

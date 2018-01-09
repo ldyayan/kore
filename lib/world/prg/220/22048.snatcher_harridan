@@ -1,0 +1,32 @@
+>greet_prog 25~
+  mpechoat $n A huge bird swoops down and grasps you in $k sharp claws!
+  mpdamage $n 8d8+16
+  mpechoaround $n A huge bird swoops down and grabs $N!
+  mpechoat $n $j flaps $k wings and slowly ascends!
+  mpechoaround $n $N shrieks with terror!
+  mpechoat $n You are suddenly high in the air!
+  mpechoaround $n The huge bird carries poor $N off to her nest!
+  mptransfer $n 22070
+~
+>rand_prog 20~
+  if inroom($r) == here
+    mpechoat $n A huge bird swoops down and grasps you in $k sharp claws!
+    mpdamage $n 8d8+16
+    mpechoaround $n A huge bird swoops down and grabs $N!
+    mpechoat $n $j flaps $k wings and slowly ascends!
+    mpechoaround $n $N shrieks with terror!
+    mpechoat $n You are suddenly high in the air!
+    mpechoaround $n The huge bird carries poor $N off to her nest!
+    mptransfer $n 22070
+  endif
+~
+>rand_prog 25~
+  if inroom($r) == here
+    mpechoat $r A huge bird swoops down and attempts to grab you!
+    mpdamage $r 10d12+20
+    mpechoat $r You manage to thwart $l, but are injured in the process.
+    mpechoaround $r A large bird attacks $R!
+    mpechoaround $r $R grapples with the bird and the bird retreats!
+  endif
+~
+|

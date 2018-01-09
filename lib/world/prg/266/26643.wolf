@@ -1,0 +1,26 @@
+>fight_prog 15~
+  mpecho $I spews a chilling blast of ice cold mist around the room!
+  mpdamage all 10d20
+~
+>rand_prog 2~
+  howl
+~
+>fight_prog 5~
+   mpecho The magic binding $I to this world wavers and fails!
+   mpecho $I vanishes in a freezing blast of arctic wind!
+   mpdamage all 10d20
+   mpgoto cleaner
+~
+>fight_prog 25~
+  switch $r
+~
+>rand_prog 2~
+  if isfight($r)
+    howl 
+  else
+    mpecho The magic binding $I to this world wavers and fails!
+    mpecho $I vanishes in a freezing blast of arctic wind!
+    mpgoto cleaner
+  endif
+~
+|

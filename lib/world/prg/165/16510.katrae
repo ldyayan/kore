@@ -1,0 +1,8 @@
+>fight_prog 3~
+  mpechoat $r Katrae brings her flute to her lips, the melody putting you to sleep.
+  mpechoat $r Could you be sleepwalking?
+  mpechoaround $r Katrae plays a tune on her flute that puts $R to sleep, and $J begins to sleepwalk away from the battle.
+  mppose $r sleep
+  mptransfer $r 16563
+~
+|

@@ -1,0 +1,211 @@
+#19000
+nightengale bird~
+the nightengale~
+A nightengale sings in the trees about you.
+~
+You see a sweet little bird, chirping a lovely song.
+~
+200 4198528 1000 S
+3 15 5 1d1+45 1d1+1
+0 60
+8 8 2
+#19001
+veteran elf sentry~
+the veteran elf sentry~
+A veteran elf sentry stands resolute guard over Lorien.
+~
+   You see a stern elven guard. He watches you warily with his sword and bow
+ready to defend the Lorien to the death.
+~
+6474 267392 800 S
+15 3 0 1d1+1125 1d1+1
+0 3000
+8 8 1
+#19002
+hidden veteran elf archer~
+the veteran elven archer~
+A veteran elven archer peeps through the brush, all eyes on intruders.
+~
+   You see a stern elven archer. He watches you warily with his sword and bow
+ready to defend the Lorien to the death.
+~
+6474 791680 800 S
+15 3 0 1d1+1125 1d1+1
+0 3000
+8 8 1
+#19003
+guardian guard elf~
+the guardian elf~
+A guardian elf looks suspiciously at the non-Galadhrim, but makes no move.
+~
+You see a dummy Monster.~
+8 0 0 S
+1 1 0 1d1+5 1d1+1
+0 20
+8 8 0
+#19004
+elf bard orophin~
+Orophin~
+An elven bard is here, playing a melody on his silver harp.
+~
+You see a dummy Monster.~
+8 0 0 S
+1 1 0 1d1+5 1d1+1
+0 20
+8 8 0
+#19005
+elf singer ardana~
+Ardana~
+An elven singer is here, singing of of Luthien and Tinuviel...
+~
+You see a dummy Monster.~
+8 0 0 S
+1 1 0 1d1+5 1d1+1
+0 20
+8 8 0
+#19006
+elf siniathweg~
+Siniathweg~
+An elf with a wide mouth and a knowing look wanders around Lorien.
+~
+You see a dummy Monster.~
+8 0 0 S
+1 1 0 1d1+5 1d1+1
+0 20
+8 8 0
+#19007
+nightingale bird dulin ben galadh~
+the nightingale 'Dulin ben galadh'~
+A sweet nightingale perches here on a branch.
+~
+You see a dummy Monster.~
+8 0 0 S
+1 1 0 1d1+5 1d1+1
+0 20
+8 8 0
+#19008
+swan~
+the swan~
+a swam swims gracefully on the waters of the placid lake.
+~
+   You see a beautiful white swan. It swims gracefully around the waters of
+the lake.
+~
+10 4198592 1000 S
+5 14 5 1d1+125 1d1+1
+0 500
+5 5 2
+#19009
+spirit amroth~
+the spirit of Amroth~
+The spirit of Amroth is here, smiling at you.
+~
+   You see the kind features of Amroth and your heart fills with happiness.
+No wait, he's angry that you're here!
+~
+108810 528512 1000 S
+40 -5 -6 1d1+24000 1d1+1
+0 40000
+8 8 1
+#19010
+elven maiden sinda elf~
+the elven maiden~
+a sinda elf is here, going about her business.
+~
+   You see a Sindarin elfin maiden. She looks at you with a happy gaze full of
+wonder at strangers!
+~
+2248 1024 900 S
+8 14 6 1d1+320 1d1+1
+0 1600
+8 8 2
+#19011
+sinda elf~
+the elf~
+a sinda elf is here, going about his business.
+~
+   You see an elf. He looks at you with some surprise and no small curiosity!
+~
+2504 1024 900 S
+11 12 5 1d1+605 1d1+1
+0 1800
+8 8 1
+#19012
+sinda elf singer~
+the elf~
+a sinda elf is here, singing songs of the immortal Ages.
+~
+   You see an elf. He looks at you with some surprise and no small curiosity!
+~
+2504 1024 900 S
+11 12 5 1d1+605 1d1+1
+0 1800
+8 8 1
+#19013
+sinda elf hide-and-seek~
+the elf~
+a sinda elf is here, playing a game of hide and seek.
+~
+   You see an elf. He looks at you with some surprise and no small curiosity!
+~
+2504 1024 900 S
+11 12 5 1d1+605 1d1+1
+0 1800
+8 8 1
+#19014
+elven maiden sinda elf hide-and-seek~
+the elven maiden~
+a sinda elf is here, giggling and looking for a friend of hers.
+~
+   You see a Sindarin elfin maiden. She looks at you with a happy gaze full of
+wonder at strangers!
+~
+2248 1024 900 S
+8 14 6 1d1+320 1d1+1
+0 1600
+8 8 2
+#19015
+elven maiden sinda elf caring~
+the elven maiden~
+a sinda elf is here, caring for one of her small plants.
+~
+   You see a Sindarin elfin maiden. She looks at you with a happy gaze full of
+wonder at strangers!
+~
+2248 1024 900 S
+8 14 6 1d1+320 1d1+1
+0 1600
+8 8 2
+#19097
+cleric dark-robed~
+a dark-robed cleric~
+A cleric draped by a large dark robe sits here awaiting his next task.
+~
+~
+10 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#19098
+leader millenium~
+the leader of Millenium~
+The leader of Millenium stands here.
+~
+~
+4718730 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+5 5 1
+#19099
+leader dragonliege~
+the leader of Dragonliege~
+The leader of Dragonliege stands here awaiting the outcome.
+~
+
+~
+4718730 65664 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+6 6 1
+#99999
+$~

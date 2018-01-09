@@ -1,0 +1,469 @@
+#23000
+bin box stone marble~
+a large marble box~
+A large marble box sits here.~
+~
+15 0 0
+4000 0 -1 0
+1 1 1
+E
+box marble bin~
+It appears to have something in the box.
+~
+#23001
+fountain water oasis~
+a deep marble fountain~
+A deep marble fountain filled with water is here.~
+~
+23 0 0
+500000 500000 0 0
+0 0 0
+#23002
+bag green powder~
+a bag of green powder~
+A bag of green powder lets off an odd odour.~
+~
+25 0 1
+6 15 15 0
+0 100 10
+#23003
+silver wire ring~
+a ^Wsilver^n wire ring~
+A ^Wsilver^n wire ring sits here tarnishing away.~
+~
+9 0 3
+7 0 0 0
+3 250 0
+A
+13 5
+A
+18 1
+#23004
+ball and chain~
+a ball and chain~
+A stick connected by chain to a ball sits here waiting for use.~
+~
+5 65536 8193
+2 3 3 5
+9 0 0
+A
+5 1
+#23005
+long wooden staff~
+a long wooden staff~
+A good wooden staff with carved patterns.~
+   The long staff is the perfect warrior weapon.
+~
+5 1 8193
+2 3 3 0
+5 150 0
+A
+4 1
+A
+3 1
+#23006
+long dagger knife blade~
+a killers blade~
+A killers blade is plunged into the ground.~
+  The long stainless steel blade is covered in dried blood.  The blade would
+be perfect for backstabbing.
+~
+5 65536 8193
+2 3 3 11
+0 0 0
+A
+2 1
+#23007
+desk~
+a desk~
+A beautiful oak desk dominates the corner of the office.~
+~
+13 0 0
+3001 -1 0 0
+0 0 0
+#23008
+long sword longsword newbie~
+a long sword~
+A long steel sword rests on the ground here.~
+   It's a plain ordinary sword.  Nothing too spectacular.
+~
+5 65536 8193
+0 3 2 3
+5 150 0
+#23009
+long black cloak cape~
+a long black cloak~
+A long black cloak sits here waiting for an owner.~
+   The cloak looks almost new.  It is beautifully designed but its sewing was
+poor.  You have no idea how long it will last.
+~
+11 65536 5
+0 0 0 0
+1 125 0
+A
+12 10
+#23010
+short brown cape cloak~
+a short brown cloak~
+A short brown cloak sits here in the dust.~
+  The cloak is old and tattered but it still shows signs of its expert
+craftsmanship.
+~
+11 65536 5
+0 0 0 0
+1 175 0
+A
+2 1
+#23011
+sign newbie poster~
+a sign for new players~
+The new training area is 2n, 1w, and 1d from here.~
+~
+13 16 0
+0 0 0 0
+0 0 0
+E
+sign newbie poster~
+  A new training barracks has been designed and is replacing the current one.
+It is 2 north, west, and down from the temple of Vulmarta.  It has some new
+features (like a healing cleric and some mobs teach lessons), these features
+were not available when the original was created.
+                           The Immortal Management
+~
+#23012
+house key new~
+the keys to a new house~
+The keys to a new house sit here.~
+~
+26 64 1
+0 23014 0 0
+0 0 0 1
+E
+the shitter toilet crapper shit~
+   As they say a persons best thoughts come to them well their on the john.
+This beautiful speciman fills with beer fun fun.
+~
+#23013
+huge fuckin bag~
+a huge fucking bag~
+A huge fucking bag sits here.~
+Nice lookin portal gotta be a new model.
+~
+20 0 1
+1500000 0 0 0
+0 0 0
+#23014
+deed house~
+the deed to your home~
+A piece of paper gives you the right to be in your home.~
+~
+16 0 1
+0 0 0 0
+0 0 0
+#23015
+ornate majestic wood cane~
+an ornate walking cane~
+A majestic wooden cane rests on the ground.~
+~
+11 65536 16385
+0 0 0 0
+5 0 0
+E
+ornate majestic wood cane~
+It's made of a dark wood and is engraved with images of forestry.
+~
+A
+4 1
+A
+9 2
+A
+12 7
+#23016
+gleaming gold shining armlet~
+a pair of shining gold armlets~
+A couple of gleaming gold armlets catch your eye.~
+~
+11 134283264 257
+0 0 0 0
+2 0 0
+A
+13 8
+#23017
+octagonal pendant dull~
+an octagonal pendant~
+A dull pendant with eight sides rests here on the ground.~
+~
+11 65536 1
+0 0 0 0
+3 0 0
+E
+octagonal pendant dull~
+It's a rather sturdy-looking piece of jewelry.
+~
+A
+1 1
+#23083
+seat leader clan dynasty~
+the seat of the Leader of Dynasty~
+A seat marked in the name of the Leader of Dynasty sits here.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+E
+seat leader dynasty clan~
+Marked in brilliant gold lettering are the past and present Leaders
+of Dynasty
+                              ^YWehttam^n
+~
+#23084
+seat chair stand DragonLiege~
+the seat of the Leader of DragonLiege~
+A seat marked in the name of the Leader of DragonLiege sits here.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+E
+seat chair stand DragonLiege~
+Marked in brilliant gold lettering are the past and present Leaders
+of DragonLiege.
+                           ^Y Aeoril^g                              
+~
+#23085
+seat chair leader house vherin ultrin~
+the seat of the Matron of House Vherin'Ultrin~
+A seat marked in the name of the Matron of House Vherin'Ultrin sits here.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+E
+seat chair stand house vherin ultrin~
+Marked in brilliant gold lettering is the present Matron of
+House Vherin'Ultrin.
+
+                        ^YJersinfae^n
+~
+#23086
+seat TOOT stand chair~
+the seat of the Leader of TOOT~
+A seat marked in the name of the Leader of TOOT sits here.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+E
+seat TOOT stand chair~
+Marked in brilliant gold lettering are the past and present Leaders
+of TOOT.
+                           ^Y    Ship
+                              Gargon
+                            SenorNacho
+                               Cret
+                             LightDay^g
+                              
+~
+#23087
+seat coven chair stand~
+the seat of the Leader of Coven~
+A seat marked in the name of the Leader of Coven sits here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+seat Coven chair stand~
+Marked in brilliant gold lettering are the past and present Leaders
+of Coven.
+                           ^Y    Calis^g                              
+~
+#23088
+flaming terror cloak quest~
+the ^Rfl^Ya^Wm^Yin^Rg^N cloak of '^rTerror^N'~
+A flaming cloak hovers here above the ground.~
+~
+9 0 1025
+12 0 0 0
+5 0 0
+A
+19 3
+A
+13 20
+#23089
+flamed flaming axe terror quest~
+the ^Rfl^Ya^Wm^Yin^Rg^N axe, '^rTerror^N'~
+A great flaming axe sits here striking terror into your heart.~
+~
+5 65 8193
+2 7 6 15
+10 0 0
+A
+19 5
+A
+18 3
+A
+5 -3
+B
+65536 0
+#23090
+titanium broadsword sword quest~
+a titanium broadsword~
+A large gleaming broadsword of an unknown metal lies here on the ground.~
+~
+5 2322448 8193
+2 7 6 3
+15 0 0
+A
+1 2
+A
+19 7
+#23091
+portal terror realm~
+an open portal to Terrors realm.~
+An open portal to Terrors realm.~
+~
+27 0 0
+23091 0 0 0
+1 0 0
+#23092
+box stasis chest stasisbox~
+a magical stasis box~
+What appears to be a chest wrought of cuendillar and enlaid with gold sits here.~
+~
+15 12 0
+9999 15 23095 0
+2 0 0
+E
+terror orb soul~
+The key to free Vulmarta's spirit is in your grasp.
+~
+#23093
+mark dragon fang~
+the mark of the dragon fang~
+Someone has carved the Dragon's Fang here to signify Darkfriends.~
+~
+8 0 0
+0 0 0 0
+0 0 0
+E
+ticket~
+YOU ARE THE WINNER
+~
+#23094
+ticket~
+ticket~
+Loser~
+~
+18 0 1
+0 0 0 0
+0 0 0
+E
+ticket~
+Sorry try again...
+~
+#23095
+key stasis stasiskey~
+a key to a stasis box~
+A mystical key lies here, etched with the ancient symbols of saidar and saidin.~
+~
+18 12 1
+0 1 0 0
+0 0 0
+E
+key 4~
+Once held by one of Fears little gremlins, you now hold it and have the 4th
+key to the entrance of the portal.
+~
+#23096
+restore voucher~
+voucher restore~
+A restore voucher for a quest.~
+~
+8 12 1
+0 0 0 0
+0 0 0
+E
+key 3~
+Once held by one of Fears gremlins.  You now hold key number 3 to Fears
+realm.
+~
+#23097
+corpse retrieval voucher~
+corpse voucher~
+A corpse retrieval for the entire party, good for one quest.~
+~
+8 12 1
+0 0 0 0
+0 0 0
+E
+key 2~
+You hold the second key once held by Fears gremlin.  You hold 1 of the 6 keys
+needs to reach Fears realm.
+~
+#23098
+seal dark prison~
+a seal from the Dark One's prison~
+One of the seals from the Dark One's prison rests here.~
+~
+8 12 1
+0 0 0 0
+2 0 0
+E
+key 1~
+You hold key number 1 once held by Fears gremlin.  It is 1 of the 6 keys you need
+to find to get into Fears realm.
+~
+#23099
+guide contract quest sultan~
+the Sultan's Contract~
+A contract drawn up by the Sultan sits here.~
+~
+12 0 1
+0 0 0 0
+0 0 0 300
+E
+story 2~
+   Several of these moles carry the keys and the information necessary to get 
+to the leader of their resistance group who is believed to be deep within the 
+sewers of New Thalos.
+~
+E
+time 4~
+   8pm pst, 11pm est if there are enough people.  If not the quest will be delayed
+slightly and grown to include people up to level 35.  Rules for said event will
+be presented at time of the quest
+~
+E
+story 1~
+   The Sultan of New Thalos has had his staff of guards  infiltrated.  He is 
+worried that one of these moles will attempt to assassinate him sometime this 
+night.  Each guard you find can be questioned and or bribed or interrogated 
+by using "say tell me about the leader" or "say I'll interrogate you now".
+some may respond if you ask them about the resistance.  Bribing them is just 
+as easy as giving them money. 
+~
+E
+guide quest contract sultan~
+1.  The ^rContract -- Part 1^n
+2.  The ^rContract -- Part 2^n
+3.  The ^gRewards^n
+4.  The ^mTime^n
+5.  The ^bRules^n
+~
+E
+rules 5~
+   The Rules...
+1.  Groups of a maximum 6 up to 125 levels and no one higher then level 25.
+2.  If the group discovering the location of the leader of the resistance should
+    lose they will be given their corpse and are then ineligible for the 
+    remainder of the quest.  The group that follows them then enters to challenge
+    the leader.
+~
+E
+rewards 3~
+   Rewards...
+   The rewards for this quest have not yet been set.
+~
+#99999
+$~

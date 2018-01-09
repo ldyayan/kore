@@ -1,0 +1,153 @@
+#12100
+gothic key~
+a gothic key~
+A gothic key lies here on the ground.~
+   You see a patinaed key of green bronze. At the butt of the key is the face
+of a leering gargoyle spitting its tongue out at you and at the other end is
+the carefully worked skeleton of a masterwork key.
+~
+18 65541 1
+0 0 0 0
+5 1 1
+#12101
+pike~
+a skeletal pike~
+A long pike made of the spines of murdered children.~
+ The Pike screams in hellish delight.
+~
+5 514 8193
+0 6 3 10
+13 10000 500
+A
+18 -1
+A
+19 2
+#12102
+boot~
+a Footman's Boot~
+A nasty leather boot sits here.~
+splits the air
+~
+5 34304 8193
+0 5 4 5
+10 5000 3000
+A
+18 3
+A
+17 -5
+#12103
+key~
+a key~
+A key sits here.~
+~
+18 0 1
+0 0 0 0
+1 1 1
+#12104
+skeleton ring~
+a skeleton Ring~
+A circle of bone lies here.~
+~
+9 0 3
+5 0 0 0
+1 1 5000
+A
+2 1
+A
+24 5
+#12105
+rusted flail~
+a Rusted Flail~
+A rusted flail lies mouldering on the ground here.~
+~
+5 0 8193
+0 3 4 2
+16 1 1
+A
+2 -3
+A
+6 -10
+#12106
+wooden key~
+a small wooden key~
+A small wooden key lies here, half buried in hay.~
+~
+18 0 1
+0 0 0 0
+1 1 1
+#12107
+shadow shield shadows~
+a shadow shield~
+A shield made of shadows lies here.~
+~
+9 96 513
+9 0 0 0
+13 2000 0
+A
+12 20
+#12108
+prince's rattle~
+a small iron rattle~
+A small, iron rattle lies on the ground here.~
+rattles
+~
+5 2 8193
+0 2 10 9
+5 1 1000
+A
+3 -2
+#12109
+bloody silver tiara~
+a ^rbloody^n ^Wsilver^n tiara~
+A ^rbloody^n ^Wsilver^n tiara floats on air here.~
+~
+9 8769 17
+7 0 0 0
+1 1 2000
+#12110
+rusty chain mail chainmail~
+a rusty chainmail~
+A rusty chainmail lies on the ground here, rusting.~
+~
+9 0 9
+8 0 0 0
+12 1 200
+A
+14 -50
+#12111
+bone mace~
+a mace made of bone~
+A mace made from a human's thigh bone is here.~
+~
+5 0 8193
+0 2 9 6
+15 1 1
+A
+5 -2
+A
+1 1
+#12112
+ochre stick~
+an ochre stick~
+An ochre stick is stuck into the ground here.~
+~
+5 66 8193
+0 6 3 0
+10 1 10000
+A
+18 3
+#12113
+ebony claw~
+the Ebony Claw of the Widow Queen~
+A Black Claw lies here, dripping poison.~
+The Black Claw trails poison through the air.
+~
+5 16960 8193
+0 1 20 11
+12 10000 4000
+A
+18 -2
+A
+20 2
+#99999
+$~

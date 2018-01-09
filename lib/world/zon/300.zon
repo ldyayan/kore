@@ -1,0 +1,123 @@
+#300
+Verla Mines~
+30099 45 1 35
+M 0 30015    15 30074            a small rat
+M 0 30010     1 30074            Sapho, Captain of the mines
+E 1 30017    20    16                    wield a large whip
+E 1 30016     7     1                    left finger an engraved ^Csapphire^n ring
+M 0 30014     7 30074            a sapphire miner
+E 1 30015    50    16                    wield a heavy mining pick
+E 1 30019    50     6                    head a dusty miner's lantern
+M 0 30014     7 30074            a sapphire miner
+E 1 30015    50    16                    wield a heavy mining pick
+M 0 30014     7 30074            a sapphire miner
+E 1 30015    50    16                    wield a heavy mining pick
+M 0 30014     7 30074            a sapphire miner
+E 1 30015    50    16                    wield a heavy mining pick
+E 1 30019    50     6                    head a dusty miner's lantern
+M 0 30014     7 30074            a sapphire miner
+E 1 30015    50    16                    wield a heavy mining pick
+M 0 30014     7 30074            a sapphire miner
+E 1 30015    50    16                    wield a heavy mining pick
+E 1 30019    50     6                    head a dusty miner's lantern
+M 0 30014     7 30074            a sapphire miner
+E 1 30015    50    16                    wield a heavy mining pick
+M 0 30003     1 30039            a veteran miner
+E 1 30003   101    17                    held a small oak key
+D 0 30039     2     1            The Veteran's Bedroom door south
+O 0 30026   101 30039            a comfortable bed
+D 0 30075     3     1            A dark backroom door west
+O 0 30021   101 30043            a wide oak table
+M 0 30016     1 30043            the gemstone cutter
+E 1 30020    75    16                    wield a rough steel file
+E 1 30022    40    22                    face jet-black shiny spectacles
+E 1 30024    40    17                    held a sparkling ^Csapphire^n gemstone
+D 0 30043     1     1            The gemstone cutter's workshop door east
+M 0 30013    13 30057            a cockroach
+M 0 30015    15 30064            a small rat
+M 0 30013    13 30064            a cockroach
+M 0 30013    13 30064            a cockroach
+M 0 30013    13 30064            a cockroach
+M 0 30013    13 30065            a cockroach
+M 0 30015    15 30067            a small rat
+M 0 30013    13 30067            a cockroach
+M 0 30013    13 30067            a cockroach
+M 0 30013    13 30068            a cockroach
+M 0 30013    13 30068            a cockroach
+M 0 30015    15 30071            a small rat
+M 0 30015    15 30071            a small rat
+M 0 30013    13 30071            a cockroach
+M 0 30013    13 30071            a cockroach
+M 0 30001     1 30012            the Verla Guardian
+E 1 30017   999    16                    wield a large whip
+D 0 30052     2     2            Destel's prison cell door south
+M 0 30007     1 30052            Destel, the dragonslayer
+E 1 30014   101    17                    held a serrated dragons claw
+E 1 30013     2     7                    legs a pair of dragonscale leggings
+O 0 30025   101 30042            a mahogany bureau
+M 0 30004     1 30042            the mine director
+E 1 30023    70    16                    wield a long walking cane topped with a ^ybrass^n knob
+D 0 30049     0     1            Guard room door north
+M 0 30006     1 30049            the prison jailor
+G 1 30011   100    -1                    give a pair of steel handcuffs
+E 1 30010   100    17                    held a large walnut key
+E 1 30012     5    16                    wield a ^Csapphire^n studded mace
+M 0 30008    20 30013            a guard of the mines
+M 0 30002     2 30000            a fluffy white bunny
+D 0 30050     0     2            Central prison chamber door north
+D 0 30050     2     1            Central prison chamber door south
+D 0 30050     1     2            Central prison chamber door east
+D 0 30050     3     2            Central prison chamber door west
+O 0 30000   101 30002            some small red berries
+M 0 30015    15 30073            a small rat
+M 0 30015    15 30072            a small rat
+M 0 30015    15 30069            a small rat
+M 0 30015    15 30063            a small rat
+M 0 30015    15 30063            a small rat
+M 0 30015    15 30066            a small rat
+M 0 30015    15 30061            a small rat
+M 0 30015    15 30060            a small rat
+M 0 30012     1 30058            lavamob
+M 0 30009    10 30033            a miner
+E 1 30015   101    16                    wield a heavy mining pick
+M 0 30011     1 30033            a suspicious hooded man
+E 1 30018     2     6                    head a hemp wooven hood
+M 0 30009    10 30036            a miner
+E 1 30015   101    16                    wield a heavy mining pick
+M 0 30009    10 30035            a miner
+E 1 30015   101    16                    wield a heavy mining pick
+M 0 30009    10 30029            a miner
+E 1 30015   101    16                    wield a heavy mining pick
+M 0 30009    10 30022            a miner
+E 1 30015   101    16                    wield a heavy mining pick
+M 0 30009    10 30020            a miner
+E 1 30015   101    16                    wield a heavy mining pick
+M 0 30009    10 30014            a miner
+E 1 30015   101    16                    wield a heavy mining pick
+M 0 30008    20 30031            a guard of the mines
+M 0 30008    20 30028            a guard of the mines
+M 0 30008    20 30027            a guard of the mines
+M 0 30008    20 30025            a guard of the mines
+M 0 30008    20 30024            a guard of the mines
+M 0 30008    20 30023            a guard of the mines
+M 0 30008    20 30023            a guard of the mines
+M 0 30008    20 30021            a guard of the mines
+M 0 30008    20 30019            a guard of the mines
+M 0 30008    20 30018            a guard of the mines
+M 0 30008    20 30018            a guard of the mines
+M 0 30008    20 30014            a guard of the mines
+D 0 30051     1     2            Artisk's prison cell door east
+M 0 30005     1 30051            Artisk, the mighty warlock
+E 1 30009    50    12                    about a smokey grey cloak
+E 1 30007     8    14                    left wrist a ^rgarnet^n enlayed ^yamber^n bracelet
+E 1 30008    10    11                    shield an obsidian shell
+D 0 30053     3     2            An empty prison cell door west
+D 0 30038     4     2            Descending the ladder door up
+D 0 30037     5     2            The entrance to Verla Mines door down
+D 0 30099     0     1            The Veteran's Study door north
+O 0 30004   101 30099            a small oak desk
+P 1 30005   101 30004                    put the veteran's miner pass in a small oak desk
+O 0 30002   101 30030            a small babbling brook
+S
+#99999
+$~

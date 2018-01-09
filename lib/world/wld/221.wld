@@ -1,0 +1,1472 @@
+#22100
+Dunbar's Road~
+   Dunbar's road leads west, through light woods and open farm country.
+The road is well-maintained and wide enough for two wagons to pass with
+out peril.
+~
+221 20 2
+D1
+~
+~
+0 0 3725
+D3
+Dunbar's Road
+~
+~
+0 0 22101
+S
+#22101
+Dunbar's Road~
+   The air is filled with the chirps and trilling of anonymous birds. Broad
+leafy plants and berry thickets flank the road.  A damp, fecund aroma scents
+the cool air.
+~
+221 20 2
+D1
+Dunbar's Road
+~
+~
+0 0 22100
+D3
+Dunbar's Road
+~
+~
+0 0 22102
+S
+#22102
+Dunbar's Road~
+   Old Dunbar, and his clan, built this road to open a path of commerce
+between the farmers of this region and the cities to the east.  Old Dunbar
+and his issue maintain this vital trade route.
+~
+221 0 2
+D1
+Dunbar's Road
+~
+~
+0 0 22101
+D3
+Dunbar's Road
+~
+~
+0 0 22103
+S
+#22103
+Dunbar's Road~
+   The road is flat and straight for the better part of a mile.  Vast orchards
+line the north and south sides, their fruits heavy and ripe.
+~
+221 0 2
+D0
+An Apple Orchard
+~
+~
+0 0 22104
+D1
+Dunbar's Road
+~
+~
+0 0 22102
+D2
+A Peach Orchard
+~
+~
+0 0 22105
+D3
+Dunbar's Road
+~
+~
+0 0 22106
+S
+#22104
+An Apple Orchard~
+   The trees are at their peak and bear delicious fruit.
+~
+221 0 2
+D2
+Dunbar's Road
+~
+~
+0 0 22103
+S
+#22105
+A Peach Orchard~
+   The trees bear fruit round as a nubile farm-maiden and succulent as
+ambrosia. Several pieces of fruit have ripened and are ready to eat.
+~
+221 0 0
+D0
+Dunbar's Road
+~
+~
+0 0 22103
+S
+#22106
+Dunbar's Road~
+   The road takes a sudden turn southward, skirting a wheat field.
+~
+221 0 2
+D1
+Dunbar's Road
+~
+~
+0 0 22103
+D2
+Dunbar's Road
+~
+~
+0 0 22107
+S
+#22107
+Dunbar's Road~
+   The road jogs north, to skirt a wheat field, then continues west.
+~
+221 0 2
+D0
+Dunbar's Road
+~
+~
+0 0 22106
+D3
+Dunbar's Road
+~
+~
+0 0 22108
+S
+#22108
+Dunbar's Road~
+   The road leads west and east, flanked by the green of cornfields.
+~
+221 0 2
+D1
+Dunbar's Road
+~
+~
+0 0 22107
+D3
+Dunbar's Road
+~
+~
+0 0 22109
+S
+#22109
+Dunbar's Road~
+   The road heads east and west through a copse of hardwoods.
+~
+221 0 3
+D1
+Dunbar's Road
+~
+~
+0 0 22108
+D3
+Dunbar's Road
+~
+~
+0 0 22110
+S
+#22110
+Dunbar's Road~
+   The road narrows, flanked by the deep green of a dense growth of conifers.
+~
+221 0 3
+D1
+Dunbar's Road
+~
+~
+0 0 22109
+D3
+Dunbar's Road
+~
+~
+0 0 22111
+S
+#22111
+Dunbar's Road~
+   The road narrows as it passes through a dense stand of tall Firs and Cedar.
+Animal trails lead through the underbrush that lines the road into the green
+shade of the trees.
+~
+221 0 2
+D1
+Dunbar's Road
+~
+~
+0 0 22110
+D3
+Dunbar's Road
+~
+~
+0 0 22112
+S
+#22112
+Dunbar's Road~
+   The road narrows as it passes through a dense stand of tall Firs and Cedar.
+Animal trails lead through the underbrush that lines the road into the green
+shade of the trees.
+~
+221 0 2
+D1
+Dunbar's Road
+~
+~
+0 0 22111
+D3
+Dunbar's Road
+~
+~
+0 0 22113
+S
+#22113
+Dunbar's Road~
+   The road widens as it exits the dense stand of Fir and Cedar; inclines to
+the southwest as it follows a natural shelf across a steep grassy hill which
+is dotted with wind-shaped trees.
+~
+221 0 4
+D1
+Dunbar's Road
+~
+~
+0 0 22112
+D8
+Dunbar's Road
+~
+~
+0 0 22114
+S
+#22114
+Dunbar's Road~
+   The climb grows steeper as the road ascends the hill.  The shelf follows
+the course of an ancient stream whose source has ceased or diminished. The
+dry bed was cleared of debris and widened creating a short-cut and an easy
+traverse of an otherwise exhausting climb.
+~
+221 0 4
+D3
+Dunbar's Road
+~
+~
+0 0 22115
+D6
+Dunbar's Road
+~
+~
+0 0 22113
+S
+#22115
+Dunbar's Road~
+   The grade steepens and the road hooks south as it ascends toward the crest
+of the hill.  A dense stand of deep green trees lies to the north and east at
+the base of the hill, farms and orchards beyond.
+~
+221 0 4
+D1
+Dunbar's Road
+~
+~
+0 0 22114
+D2
+Nearing The Crest
+~
+~
+0 0 22116
+S
+#22116
+Skirting The Crest~
+  The grade flattens and the curve of the road widens to form a large cul de
+sac.  This large, flat space is a natural resting place for travellers and
+farmers marching their heavily-laden beasts toward the markets in the east.
+A narrow trail leads up the steep rock-studded cone that forms the summit
+of the hill.
+~
+221 0 4
+D0
+Dunbar's Road
+~
+~
+0 0 22115
+D4
+Upon The Lookout
+~
+~
+0 0 22117
+D8
+Skirting The Summit
+~
+~
+0 0 22118
+S
+#22117
+The Lookout~
+   The view, where it isn't obscured by haze or low-lying mists, is breath-
+taking. The landscape is a carpeted patchwork of farm fields and orchards
+to the north and east. A similar tableau fans from the base of the hill to
+the south and west, edged by a dense deep green forest.  The issue from a
+small spring gushes merrily into a small pool.
+~
+221 20 5
+D5
+Dunbar's Road
+~
+~
+0 0 22116
+S
+#22118
+Dunbar's Road~
+   The road hooks north and east in order to skirt the hill's knobby summit,
+runs a course of switchback turns as it descends the west face into farm
+country and the forests beyond.
+~
+221 0 4
+D6
+Skirting The Summit
+~
+~
+0 0 22116
+D8
+Dunbar's Road
+~
+~
+0 0 22119
+S
+#22119
+The Switchbacks~
+   The west face of the hill is too steep for a single vertical ascent. 
+A comfortable one, at least, for one making the journey with heavily-laden
+beasts or wagons.
+~
+221 0 4
+D2
+Dunbar's Road
+~
+~
+0 0 22120
+D6
+Dunbar's Road
+~
+~
+0 0 22118
+S
+#22120
+The Switchbacks~
+   The west face of the hill is too steep for a single vertical ascent. 
+A comfortable one, at least, for one making the journey with heavily-laden
+beasts or wagons.
+~
+221 0 4
+D0
+Dunbar's Road
+~
+~
+0 0 22119
+D9
+~
+~
+0 0 22121
+S
+#22121
+The Switchbacks~
+   The west face of the hill is too steep for a single vertical ascent. 
+A comfortable one, at least, for one making the journey with heavily-laden
+beasts or wagons.
+~
+221 0 4
+D5
+~
+~
+0 0 22122
+D7
+Dunbar's Road
+~
+~
+0 0 22120
+S
+#22122
+The Foot Of A High Hill~
+   The road turns sharply as it enters a series of switchback turns that
+ascend across the steep face of a high, grassy hill. Farms and orchards
+line the route westward.
+~
+221 0 4
+D3
+Through Farm Country
+~
+~
+0 0 22123
+D4
+~
+~
+0 0 22121
+S
+#22123
+Dunbar's Road~
+   The road bisects a large cherry orchard that grows in the shadow of a high
+grassy hill to the east. The orchard's owner planted a low, but brambley
+hedge to discourage wayfairers from pilfering his valuable crops.
+~
+221 0 2
+D1
+Dunbar's Road
+~
+~
+0 0 22122
+D2
+A Cherry Orchard
+~
+~
+0 0 22125
+D3
+Through Farm Country
+~
+~
+0 0 22124
+S
+#22124
+Dunbar's Road~
+   The road runs east and west, flanked by farm fields bearing crops of all
+kinds and pastures where cattle peacefully graze. A belt of deep green lies
+at the base of the western horizon.
+~
+221 0 2
+D1
+Through Farm Country
+~
+~
+0 0 22123
+D3
+Through Farm Country
+~
+~
+0 0 22126
+S
+#22125
+A Cherry Orchard~
+   The branches of the trees sag with their heavy yield of succulent fruit.
+A series of barks and low growls grows louder...
+~
+221 0 2
+D0
+Dunbar's Road
+~
+~
+0 0 22123
+S
+#22126
+Dunbar's Road~
+   The road runs east and west, flanked by farm fields bearing crops of all
+kinds and pastures where cattle peacefully graze. A belt of deep green lies
+at the base of the western horizon.
+~
+221 0 2
+D0
+~
+~
+0 0 2303
+D1
+Through Farm Country
+~
+~
+0 0 22124
+D3
+Heading Toward The Forest
+~
+~
+0 0 22127
+S
+#22127
+Dunbar's Road~
+   The road continues east and west, flanked by fields too rocky or with
+soil too poor in nutrients to farm with any success. A great forest lies to
+the west. A green hill looms several miles eastward.
+~
+221 0 2
+D1
+Through Farm Country
+~
+~
+0 0 22126
+D3
+A Lonely Stretch Of Road
+~
+~
+0 0 22128
+S
+#22128
+Dunbar's Road~
+   Rutty, boulder-studded fields flank the road.  Stands of scrub alder
+sprout from the weedy landscape, scraggly as a young teenager's beard.
+A dark tower rises from the undergrowth to the north and west.
+~
+221 0 2
+D0
+~
+~
+0 0 22181
+D1
+Toward Farm Country
+~
+~
+0 0 22127
+D3
+Toward the forests.
+~
+~
+0 0 22129
+S
+#22129
+Dunbar's Road~
+   The road inclines as it heads west through rolling fields overgrown with
+high grasses. The road runs straight, more or less, to the east, toward the
+base of a high hill.
+~
+221 0 4
+D1
+A lonely stretch of road.
+~
+~
+0 0 22128
+D3
+The end of Dunbar's Road
+~
+~
+0 0 22130
+S
+#22130
+The Junction~
+   A barren patch of earth where four roads begin or end.  An untended path
+winds southward.  The road west traverses a rolling grassy landscape then
+is swallowed by a great forest.  The northern road rises and ascends a high
+hill, vanishing at the crest.  The road east runs straight for several
+miles.
+~
+221 20 2
+D0
+~
+~
+0 0 22131
+D1
+Dunbar's Road
+~
+~
+0 0 22129
+D2
+Werith's Wayhouse
+~
+~
+0 0 18400
+D3
+Toward the Great Forest
+~
+~
+0 0 22132
+S
+#22131
+The Northern Track~
+   The narrow road rises gradually as it leads north toward a high hill
+crowned with wind-shaped fir and madronas.  To the south is a junction where
+four roads interesect.
+~
+221 20 4
+D0
+Toward the wind-swept hills.
+~
+~
+0 0 22133
+D2
+The Junction
+~
+~
+0 0 22130
+S
+#22132
+The Great Forest Road~
+   The wide, well-kept road, winds through the grassy fields that lie at 
+the foot of the Great Forest.. A junction where four roads intersect lies 
+to the east.
+~
+221 0 2
+D1
+The Junction
+~
+~
+0 0 22130
+D3
+Toward the Great Forest.
+~
+~
+0 0 22156
+S
+#22133
+The Northern Track~
+   The surface of the road is uneven and littered with small stones. The
+grade increases sharply to the north where a high, forest-crowned  hill
+dominates the landscape. To the south is a bare spot of earth where four
+roads meet. The roofs of several buildings are visible beyond a thin
+screen of trees.
+~
+221 0 4
+D0
+Nearing the windswept hills.
+~
+~
+0 0 22134
+D2
+Toward the junction.
+~
+~
+0 0 22131
+S
+#22134
+The Northern Track~
+   The road levels out at the base of a wind-swept hill, then ascends steeply
+and directly toward a crown forested with fir and madrona. The track south
+is less arduous, but the road is littered with small stones.
+~
+221 0 2
+D2
+The Northern Track
+~
+~
+0 0 22133
+D4
+The Wind-Swept Hill
+~
+~
+0 0 22135
+S
+#22135
+The Northern Track~
+   Gusts of wind rush across the barren face of the hill, whipping up clouds
+of dust and making both ascent and descent an arduous task.
+~
+221 0 5
+D4
+Toward the forested crown.
+~
+~
+0 0 22136
+D5
+Descending the wind-swept hill.
+~
+~
+0 0 22134
+S
+#22136
+The Northern Track~
+   Gusts of wind rush across the barren face of the hill, whipping up clouds
+of dust and making both ascent and descent an arduous task.
+~
+221 0 5
+D4
+Toward the forested crown.
+~
+~
+0 0 22137
+D5
+Descending the wind-swept hill.
+~
+~
+0 0 22135
+S
+#22137
+The Northern Track~
+   A trail leads north through a boulder-studded landscape where madrona
+and fir grow in whichever direction the ferocious winds train them. The
+track downward is steep and the view obscured by clouds of dust.
+~
+221 0 5
+D0
+Among the trees.
+~
+~
+0 0 22138
+D5
+Descending the wind-swept hill.
+~
+~
+0 0 22136
+S
+#22138
+The Northern Track~
+   The trees shift and creak as the unrelenting winds buffet across their
+tops. The trail leads up toward a bare patch of rocks and south through
+the trees.
+~
+221 0 5
+D2
+Among the wind-swept trees.
+~
+~
+0 0 22137
+D4
+The rocky crest.
+~
+~
+0 0 22139
+S
+#22139
+Atop The Wind-Swept Hill~
+   Gusts of wind moan through the clearing. There is no view except the
+trunks of the trees shifting with the wind. A trail leads gradually down
+ward to the north. Another, steeper, trail leads southward.
+~
+221 0 4
+D0
+Toward a wind-swept viewpoint.
+~
+~
+0 0 22140
+D5
+Descending among the trees.
+~
+~
+0 0 22138
+S
+#22140
+The Northern Track~
+   The trees sigh and creak; the thick brittle leaves of the madronas rattle
+in an eerie, ceremonial rhythm as the wind howls through their branches.
+The trail leads gradually downward through the rocky landscape and steeply
+upward toward the top of the hill.
+~
+221 0 5
+D0
+Nearing a wind-swept viewpoint.
+~
+~
+0 0 22141
+D2
+~
+~
+0 0 22139
+S
+#22141
+The Northern Track~
+   The trail climbs southward toward the top of the hill and descends
+northward toward a rocky, wind-swept outcropping.
+~
+221 0 4
+D0
+A wind-swept viewpoint.
+~
+~
+0 0 22142
+D2
+Toward the top of the hill.
+~
+~
+0 0 22140
+S
+#22142
+The Wind-Swept Viewpoint~
+   A panorama of low, spiny hills formed by glacial action and mostly
+barren except for hardy firs and madrona. Winds buffet this rocky ledge without cease. The trail climbs southward into a small forest of trees that grow
+whichever direction the wind trains them.  The trail also leads downward
+at an almost vertical rate then vanishes behind a group of large boulders.
+It resumes, finally,  as it crosses the rocky spine of a low hill to the east.
+~
+221 4 4
+D2
+Among the quaking trees.
+~
+~
+0 0 22141
+D5
+
+A steep treacherous path.
+~
+~
+0 0 22143
+S
+#22143
+The Northern Track~
+   The rocky trail is barren and slick-smooth, the grade nearly vertical.
+Constant gusts of wind make the trek even more treacherous.
+~
+221 0 5
+D4
+A wind-swept viewpoint.
+~
+~
+0 0 22142
+D5
+A nearly vertical trek.
+~
+~
+0 0 22144
+S
+#22144
+The Northern Track~
+   The rocky trail is barren and slick-smooth, the grade nearly vertical.
+Constant gusts of wind make the trek even more treacherous.
+~
+221 0 5
+D4
+A nearly vertical climb
+~
+~
+0 0 22143
+D5
+Path between the boulders
+~
+~
+0 0 22145
+S
+#22145
+The Northern Track~
+   A nearly vertical path ascends the high hill, barren except for a crown
+of fir and madrona, toward a rocky outcropping. Another trail winds between
+great boulders that fill the small depression between the high hill to the 
+south and a lower, spiny hill to the east.
+~
+221 0 4
+D1
+Winding path between the boulders.
+~
+~
+0 0 22146
+D4
+A nearly vertical climb
+~
+~
+0 0 22144
+S
+#22146
+The Northern Track~
+   The trail winds between the boulders that fill the small depression
+between the high hill to the south and a lower, long spiny hill to the east.
+~
+221 0 4
+D0
+Ascending the low, spiny hill.
+~
+~
+0 0 22147
+D3
+At the base of a high hill.
+~
+~
+0 0 22145
+S
+#22147
+The Northern Track~
+   The trail winds between the boulders that fill the small depression
+between the high hill to the south and a lower, long spiny hill to the east.
+~
+221 0 4
+D2
+Path between the boulders
+~
+~
+0 0 22146
+D4
+Ascending the long, spiney hill
+~
+~
+0 0 22148
+S
+#22148
+The Northern Track~
+   The trail rises eastward in a long, arduous ascent to the crest of the
+long spiny hill. The path downward leads through a formation of huge
+boulders that litter the depression between the low hill to the east and
+the high forest-crowned hill to the south.
+~
+221 0 4
+D1
+Traversing the spiny crest.
+~
+~
+0 0 22149
+D5
+Path through the boulders
+~
+~
+0 0 22147
+S
+#22149
+The Northern Track~
+   The trail, narrow and littered with sharp loose stones, traverses the
+spiny top of a long, low hill. The landscape is barren but for a few hardy
+madronas and tiny, but strikingly colorful, wildflowers.
+~
+221 0 5
+D0
+Across the top of the spiny hill.
+~
+~
+0 0 22150
+D3
+Descending the spiny hill.
+~
+~
+0 0 22148
+S
+#22150
+The Northern Track~
+   The trail, narrow and littered with sharp loose stones, traverses the
+spiny top of a long, low hill. The landscape is barren but for a few hardy
+madronas and tiny, but strikingly colorful, wildflowers.
+~
+221 0 5
+D1
+Across the top of the spiny hill.
+~
+~
+0 0 22151
+D2
+Across the top of the spiny hill.
+~
+~
+0 0 22149
+S
+#22151
+The Northern Track~
+   The trail, narrow and littered with sharp loose stones, traverses the
+spiny top of a long, low hill. The landscape is barren but for a few hardy
+madronas and tiny, but strikingly colorful, wildflowers.
+~
+221 0 5
+D0
+Across the top of the spiny hill.
+~
+~
+0 0 22152
+D3
+Across the top of the spiny hill.
+~
+~
+0 0 22150
+S
+#22152
+The Northern Track~
+   The track descends into a forest of alder; winds south and west across
+the top of the low spiny hill.
+~
+221 4 4
+D2
+Across the top of the spiny hill
+~
+~
+0 0 22151
+D5
+A forest path.
+~
+~
+0 0 22153
+S
+#22153
+The Northern Track~
+   The trail leads north into a forest of alder and sharply upward to the
+top of a low spiny hill.
+~
+221 0 4
+D0
+A path through the forest.
+~
+~
+0 0 22154
+D4
+The ascending trail.
+~
+~
+0 0 22152
+S
+#22154
+The Northern Track~
+   The road narrows into a trail as it heads south toward a low, spiny hill,
+but is wide enough for a wagon and with an even surface as it heads north
+through the trees.
+~
+221 0 2
+D0
+A road through the forest
+~
+~
+0 0 22155
+D2
+Toward a low hill.
+~
+~
+0 0 22153
+S
+#22155
+The Northern Track~
+   The air is damp and cool in the shade of the tall leafy trees.  The road
+is flat and clear of stones.  Songbirds trill and flutter from branch
+to branch while small furry animals scurry about the lush undergrowth.
+~
+221 4 2
+D0
+~
+~
+0 0 2508
+D2
+A road through the forest.
+~
+~
+0 0 22154
+S
+#22156
+The Great Forest Road~
+   Young pines, none more than twelve feet high, grown in dense clumps on
+either side of the road. Their scent rides the air like dandelion seeds
+scattered by the slightest breeze.
+~
+221 0 2
+D1
+Nearing a junction.
+~
+~
+0 0 22132
+D3
+Drawing closer to the ancient forest.
+~
+~
+0 0 22157
+S
+#22157
+The Great Forest Road~
+   The tall pines that grow in sparse stands are mere infants compared to
+the ancient redwoods in the Great Forest to the west. None are more than 
+a century in age. Grass still grows between each stand. As well as wild
+berries and onions.
+~
+221 0 2
+D1
+Amid the young pines.
+~
+~
+0 0 22156
+D3
+Entering the Great Forest.
+~
+~
+0 0 22158
+S
+#22158
+The Great Forest Road~
+   The light suddenly changes at the entrance to the Great Forest. The trunks 
+of the ancient trees seem to arch as they ascend to their towering heights.
+Their branches interlock and form a canopy a hundred feet or more above;
+scatter the sunlight and tint it bronze green and golden.
+~
+221 0 3
+D1
+Leaving the Great Forest.
+~
+~
+0 0 22157
+D3
+Deeper into the Great Forest.
+~
+~
+0 0 22159
+S
+#22159
+The Great Forest Road~
+   A massive boulder, mottled with moss around its base, white as a piece
+of a full moon rises thirty feet or more above the forest floor. The road
+dodges southwards around it.
+~
+221 0 3
+D1
+Entrance to the Great Forest.
+~
+~
+0 0 22158
+D2
+Deep in the Great Forest
+~
+~
+0 0 22160
+S
+#22160
+The Great Forest Road~
+   The surface of the massive boulder is polished as a tumbled agate. Far too
+slick to get a decent purchase.  Moss has no trouble, however, adhering to
+its shaded base.
+~
+221 0 3
+D0
+Dodging a massive boulder.
+~
+~
+0 0 22159
+D9
+That mysterious boulder...
+~
+~
+0 0 22161
+S
+#22161
+The Great Forest Road~
+  The route eastward is blocked by a weird and massive boulder. A gout of
+water spouts midway up its moon-white face and cascades into a natural
+basin formed by smaller stones at its base. Every traveller opines an 
+explanation of this strange phenomenon. And each is thought-provoking or
+ridiculous as the other. Depending on the ear upon which they alight.
+~
+221 0 3
+D3
+More trees...
+~
+~
+0 0 22162
+D7
+Around the boulder.
+~
+~
+0 0 22160
+S
+#22162
+The Great Forest Road~
+   The road runs east and west, mostly, dodging an especially large trunk
+now and again.  A large object glows weirdly to the east.
+~
+221 0 3
+D1
+Toward a wierd glowing object
+~
+~
+0 0 22161
+D3
+More trees...
+~
+~
+0 0 22163
+S
+#22163
+The Great Forest Road~
+   Not so much a road. Rather a wide aisle between the trunks cleared
+of needles and other forest detritus and packed firm by an eon-long
+parade of travellers.
+~
+221 0 3
+D1
+Toward a wierdly glowing object.
+~
+~
+0 0 22162
+D3
+More trees...
+~
+~
+0 0 22164
+S
+#22164
+The Great Forest Road~
+   The massive trunks of the ancient trees seem to arch as they ascend to
+their towering heights. Shafts of sunlight pierce the canopy and illuminate
+clumps of ferns, brambleberries and the spiny-stalked devils club like
+bronze green spotlights.
+~
+221 0 3
+D1
+~
+~
+0 0 22163
+D3
+~
+~
+0 0 22165
+S
+#22165
+The Great Forest Road~
+   Not so much a road. Rather a wide aisle between the trunks cleared
+of needles and other forest detritus and packed firm by an eon-long
+parade of travellers.
+~
+221 0 3
+D1
+More trees...
+~
+~
+0 0 22164
+D3
+More trees...
+~
+~
+0 0 22166
+S
+#22166
+The Great Forest Road~
+   The massive trunks of the ancient trees seem to arch as they ascend to
+their towering heights. Shafts of sunlight pierce the canopy and illuminate
+clumps of ferns, brambleberries and the spiny-stalked devils club like
+bronze green spotlights.
+~
+221 0 3
+D1
+More trees...
+~
+~
+0 0 22165
+D3
+Yet more trees...
+~
+~
+0 0 22167
+S
+#22167
+The Great Forest Road~
+   The road jogs north, suddenly, around the mouth of a grotto excavated
+from the petrified stump of an ancient tree. Small votive candles and wild
+flowers adorn the grotto's entrance.
+~
+221 0 3
+D0
+More trees...
+~
+~
+0 0 22170
+D1
+More trees...
+~
+~
+0 0 22166
+D3
+   Perhaps this is some sort of shrine to the spirits of the forests....
+~
+~
+0 0 22168
+S
+#22168
+The mouth of a grotto~
+   More candles and joss sticks burn in sconces ornately carved sconces.
+The tiny figures depict scenes involving nymphs cavorting with satyrs and
+delicate birds that flutter about a bust of Mother Earth. Could this be
+a shrine devoted to the adoration of the Creators and their Muses?
+~
+221 20 0
+D1
+The Great Forest Road
+~
+~
+0 0 22167
+D3
+The grotto's interior.
+~
+~
+0 0 22169
+S
+#22169
+The inner sanctum~
+   A foul odor overcomes the sweetness of the flowers and incense. The 
+distinct odor of a troll.  So much for hero-worship...
+~
+221 9 0
+D1
+The mouth of the grotto.
+~
+~
+0 0 22168
+S
+#22170
+The Great Forest Road~
+   The road continues through the trees. Now and a stag or bushy-tailed fox
+can be seen bounding along in the distance.
+~
+221 0 3
+D2
+Near a grotto.
+~
+~
+0 0 22167
+D3
+There is a faint glow to the west.
+~
+~
+0 0 22171
+S
+#22171
+The Great Forest Road~
+   The ancient forest teems with life. Birds fly high overhead, sometimes
+swooping down to inspect wayfarers, and small animals scurry through the
+sparse undergrowth.  The road westward seems to glow faintly...
+~
+221 0 3
+D1
+~
+~
+0 0 22170
+D3
+~
+~
+0 0 22172
+S
+#22172
+The Great Forest Road~
+   The glow to the west intensifies.  To the east it's just more trees.
+~
+221 0 3
+D1
+~
+~
+0 0 22171
+D3
+~
+~
+0 0 22173
+S
+#22173
+The Great Forest Road~
+   The glow to the west is a sun-filled clearing. To the east, however, the
+trees continue to grow stolidly upward.
+~
+221 0 3
+D1
+~
+~
+0 0 22172
+D3
+A sunlit clearing.
+~
+~
+0 0 22174
+S
+#22174
+A Sunlit Clearing~
+   In the daytime, the sunlit grass and bright wild flowers is almost
+blinding in contrast to the somber brown and grey hues among the ancient
+trees.  At night the constellations in the partially exposed heavens
+revolve past the dark ring of trees like a celestial peep show.
+~
+221 0 2
+D1
+The Great Forest Road
+~
+~
+0 0 22173
+D3
+The Great Forest Road
+~
+~
+0 0 22175
+S
+#22175
+The Great Forest Road~
+   The glow to the east is a sunlit clearing where small animals caper
+in the lush grass. Just the spot to rest, etc....
+~
+221 0 3
+D1
+A sunlit clearing.
+~
+~
+0 0 22174
+D3
+~
+~
+0 0 22176
+S
+#22176
+The Great Forest Road~
+   The road to the east glows an eerie greenish white. An interesting
+contrast against the somber browns and greys of the trees and forest floor.
+~
+221 0 3
+D1
+~
+~
+0 0 22175
+D3
+~
+~
+0 0 22177
+S
+#22177
+The Great Forest Road~
+   The massive trunks of the ancient trees seem to arch as they ascend to
+their towering heights. Shafts of sunlight pierce the canopy and illuminate
+clumps of ferns, brambleberries and the spiny-stalked devils club like
+bronze green spotlights.
+~
+221 0 3
+D1
+~
+~
+0 0 22176
+D3
+~
+~
+0 0 22178
+S
+#22178
+The Great Forest Road~
+   Not so much a road. Rather a wide aisle between the trunks cleared
+of needles and other forest detritus and packed firm by an eon-long
+parade of travellers.
+~
+221 0 3
+D1
+More trees...
+~
+~
+0 0 22177
+D3
+Exiting the Great Forest
+~
+~
+0 0 22179
+S
+#22179
+The Great Forest Road~
+   The light suddenly changes at the entrance to the Great Forest. The trunks 
+of the ancient trees seem to arch as they ascend to their towering heights.
+Their branches interlock and form a canopy a hundred feet or more above;
+scatter the sunlight and tint it bronze green and golden.
+~
+221 0 3
+D1
+Deeper into the Great Forest
+~
+~
+0 0 22178
+D2
+~
+~
+0 0 2300
+D3
+Exiting the Great Forest
+~
+~
+0 0 22180
+S
+#22180
+Near The Great Forest~
+   The road east leads through forest of ancient hemlocks and redwoods.
+~
+221 0 2
+D1
+~
+~
+0 0 22179
+D2
+~
+~
+0 0 2301
+D3
+~
+~
+0 0 2200
+S
+#22181
+Path Across The Rutty Field~
+   The path twists around boulders and clumps of dense undergrowth.  The
+soil is rocky and uneven.  A dark tower looms over the scrubby landscape.
+To the south lies a well-maintained road.
+~
+221 20 2
+D2
+~
+~
+0 0 22128
+D3
+~
+~
+0 0 10001
+S
+#99999
+$~

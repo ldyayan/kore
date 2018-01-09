@@ -1,0 +1,136 @@
+>speech_prog promise agree~
+  mpstopscript
+  mptrigger $n OpenClanDoor
+~
+>speech_prog sorrow death gates~
+  mptrigger $n SorrowSpeech
+~
+>script_prog SorrowSpeech~
+  say Those gates lead into the shattered remains of the Clan Genocide.
+  @
+  say Through time, evil has seeped into its broken halls and damned myself and all my friends.  There is only one way in, and that is with this key.
+  emote shows you a rusty key.
+~
+>speech_prog key~
+  say I will let you inside if you vow to defeat the evil that destroyed Genocide.
+  mptrigger $n GetPromise
+~
+>script_prog GetPromise~
+  if inroom($n) == here
+      @
+      @
+      say Promise me!
+      mpstopscript
+      mptrigger $n GetPromise
+    else
+  endif
+~
+>script_prog OpenClanDoor~
+  if isgood($n)
+    if rand(75)
+      mpstopscript
+      mptrigger $n OpenGate
+    else
+      if inroom($n) == here
+        say I don't believe you!
+        mpstopscript
+        mpkill $n
+      endif 
+    endif
+  else
+  if isevil($n)
+    if rand(90)
+      emote screams, 'Liar!  You've only come for our treasures!'
+      mpstopscript
+      mpkill $n
+    else
+      mpstopscript
+      mptrigger $n OpenGate
+    endif
+  else
+  if isneutral($n)
+    if rand(60)
+      mpstopscript
+      mptrigger $n OpenGate
+    else
+      say It only takes one hesitation to slip into the darkness!
+      mpkill $n
+    endif
+  endif
+  endif
+  endif
+~
+>rand_prog 1~
+  sniff
+~
+>rand_prog 1~
+  emote drops his head and shakes sadly.
+~
+>rand_prog 1~
+  say What will become of me?
+~
+>script_prog OpenGate~
+  if inroom($n) == here
+    emote says to you, 'Fare thee well, adventurer, be wary on thy quest!'
+    emote unlocks the gate and ushers you inside.
+    mptransfer all 7901
+    mpat $n mpforce all look
+    mpat $n mpecho With one final nod, Paladia closes the gate behind him.
+    mpat $n mpecho You hear the unmistakable click of key locking you inside this haunted manor.
+    mpstopscript
+  endif
+~
+>fight_prog 2~
+  emote raises his bastard sword to the heavens, and lets out a piercing scream!
+  mpecho A large bolt of lightning strikes Paladia's sword, it's shockwave casts you to the floor!
+  mppose all sit
+  mpcallmagic 'haste' paladia
+  emote screams at you, 'Divine retribution has quickened my hands!'
+~
+>command_prog bash~
+  if inroom($n) == here
+    if rand(70)
+      mpechoat $n Paladia sees your bash coming, and quickly sidesteps!
+      mpechoaround $n Paladia sees $n coming from a mile away, and easily sidesteps $M!
+      mpechoat $n SLAM!  From behind you, Paladia kicks you in the back of the head, taking you out of the fight.
+      mpechoaround $n  Suddenly, Paladia rears back and boots $n in the head, knocking $M out.
+      mpdamage $n 60
+      mppose $n sleep
+      switch
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog riposte~
+  if inroom($n) == here
+    if rand(50)
+      mpechoat $n Paladia senses your riposte and counters it, shoving his blade under your guard to your exposed body!
+      mpechoaround $n $n gasps in horror as Paladia counters $S riposte, slamming his blade home into $S chest!
+      mpdamage $n 550
+      mpechoat $n You stagger under the ferocious attack.. finally the world goes dark.
+      mpechoaround $n $n makes a gurgling sound and collapses from the terrible blow.
+      mppose $n incapacitated
+      switch
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog block~
+  if inroom($n) == here
+    if rand(60)
+      mpechoat $n Paladia twists his wrist, suddenly you find yourself without a weapon!
+      mpechoaround $n $n gawks as Paladia disarms $M easily!
+      mpsilent disarm $n
+      mpsilent disarm $n
+      mpstopcommand
+    endif
+  endif
+~
+>fight_prog 4~
+  emote makes a circular gesture with his free hand, a soft, bluish light trails his arm movements.
+  emote runs his hand over his wounds, suddenly he doesn't look as hurt anymore!
+  mpsilent mpcallmagic 'cure critic' paladia
+  mpsilent mpcallmagic 'cure critic' paladia
+  mpsilent mpcallmagic 'cure critic' paladia
+~
+|

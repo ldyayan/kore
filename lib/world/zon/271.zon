@@ -1,0 +1,22 @@
+#271
+Vishala's Zone~
+27199 30 2 3
+D 0 27110     0     2            A Hideout door north
+D 0 27110     5     2            A Hideout door down
+M 0 27101     1 27110            the assassin
+O 0 27102   101 27110            bed key
+M 0 27100     4 27100            a drow gateguard
+M 0 27100     4 27100            a drow gateguard
+E 1 27100   101     3                    neck 1 front gate key
+D 0 27100     3     2            At the eastern gate door west
+D 0 27109     2     2            An upstairs room door south
+D 0 27111     4     2            Hidden backroom door up
+M 0 27106     1 27111            the captain
+M 0 27105     4 27111            a drow lieutenant
+M 0 27105     4 27111            a drow lieutenant
+M 0 27102     6 27108            a drow taverngoer
+M 0 27102     6 27108            a drow taverngoer
+D 0 27101     1     2            Inside the eastern gate door east
+S
+#99999
+$~

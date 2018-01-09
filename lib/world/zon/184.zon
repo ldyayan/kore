@@ -1,0 +1,118 @@
+#184
+The Estate of the Artificer~
+18499 23 2 32
+M 0 18409     1 18453            a Wall of Tangle Briar
+M 0 18403     1 18414            the Spirit of the Artificer
+E 1 18404    15     3                    neck 1 necklace of remembrance
+E 1 18403    45     6                    head the halo of the Artificer
+E 1 18425    45     0                    light the sceptre of the Artificer
+D 0 18414     2     2            The Resting Place of the Artificer door south
+M 0 18447     1 18481            Voldov
+E 1 18418    10    16                    wield Voldov's siege hammer
+E 1 18420    50    11                    shield a steel lined shield
+D 0 18481     3     2            Voldov's Command Post door west
+M 0 18448     1 18485            Milsik
+E 1 18422    10    10                    arms polished oricalcum sleeves
+E 1 18419    50    17                    held a crystaline orb
+D 0 18485     5     2            Milsik's Study door down
+D 0 18407     1     1            A Path in front of the Estate door east
+D 0 18411     1     1            A Path in front of the Estate door east
+M 0 18442     3 18473            a Wax Halfman
+G 1 18416    10    -1                    give a dripping ball of hot wax
+M 0 18439     3 18473            a Straw Halfman
+M 0 18438     3 18493            a Straw Halfman
+M 0 18400     1 18403            a Stone Dog
+E 1 18400    10     3                    neck 1 a thick copper collar
+M 0 18401     1 18403            a Stone Dog
+M 0 18402     1 18413            the Butler
+E 1 18401    99    17                    held a house key
+D 0 18413     1     1            The Anteroom door east
+O 0 18402   101 18402            a small wooden sign
+M 0 18404     3 18442            a Nymph
+E 1 18406    10    12                    about a thin cotton haik
+M 0 18411     3 18442            a Giant Butterfly
+E 1 18409    10     8                    feet an elixir made from flower nectar
+O 0 18405   101 18442            a large marble fountain
+D 0 18416     3     1            A Balcony door west
+D 0 18465     0     2            Up the Broken Stairway door north
+M 0 18405     3 18445            a Nymph
+M 0 18406     3 18448            a Nymph
+M 0 18408     1 18448            the Sawgrass
+M 0 18407     3 18435            a Nymph
+E 1 18406    10    12                    about a thin cotton haik
+M 0 18416     1 18435            an Enormous Mantis
+E 1 18410    10     5                    body a mantid's exoskeleton
+M 0 18410     1 18443            the Weeping Willow
+E 1 18408    10    17                    held a bucket filled with willow tears
+M 0 18410     1 18441            the Weeping Willow
+M 0 18412     3 18451            a Giant Butterfly
+E 1 18409    10     8                    feet an elixir made from flower nectar
+M 0 18413     1 18438            a Snap Dragon
+M 0 18414     1 18452            an Enormous Mantis
+E 1 18410    10     5                    body a mantid's exoskeleton
+M 0 18415     1 18446            an Enormous Mantis
+E 1 18410    10     5                    body a mantid's exoskeleton
+M 0 18417     1 18444            an Enormous Mantis
+E 1 18410    10     5                    body a mantid's exoskeleton
+M 0 18418     2 18417            a Marble Animar
+E 1 18411    10    17                    held a dowsing rod
+M 0 18419     2 18424            a Marble Animar
+E 1 18411    10    17                    held a dowsing rod
+M 0 18420     2 18427            a Marble Animar
+E 1 18411    10    17                    held a dowsing rod
+M 0 18421     2 18430            a Marble Animar
+E 1 18411    10    17                    held a dowsing rod
+M 0 18424     2 18430            a Wooden Golem
+M 0 18433     2 18459            a Clockwork Gnome
+D 0 18459     3     1            A Construction Room door west
+M 0 18422     2 18476            a Wooden Golem
+M 0 18423     2 18476            a Wooden Golem
+D 0 18476     3     1            The Wood Room door west
+M 0 18425     2 18464            a Fabric Golem
+M 0 18426     2 18464            a Fabric Golem
+M 0 18427     2 18429            a Fabric Golem
+M 0 18428     2 18463            a Clay Golem
+M 0 18429     2 18463            a Clay Golem
+M 0 18430     2 18431            a Clay Golem
+M 0 18431     1 18458            the Gnomish Steam Device
+E 1 18412    10    16                    wield a huge oily cog
+M 0 18432     2 18456            a Clockwork Gnome
+E 1 18413    10     6                    head an iron pot helm
+M 0 18435     2 18457            a Clockwork Gnome
+E 1 18413    10     6                    head an iron pot helm
+M 0 18434     2 18461            a Clockwork Gnome
+M 0 18436     3 18415            a Straw Halfman
+M 0 18437     3 18468            a Straw Halfman
+M 0 18440     3 18468            a Wax Halfman
+E 1 18416    10    17                    held a dripping ball of hot wax
+M 0 18441     3 18472            a Wax Halfman
+M 0 18438     3 18477            a Straw Halfman
+O 0 18415   101 18477            the Blue Banner
+M 0 18439     3 18478            a Straw Halfman
+O 0 18414   101 18478            the Red Banner
+M 0 18443     2 18471            a Stone Halfman
+E 1 18417    10     7                    legs a set of hard stone plates
+E 1 18421    10    16                    wield a gleaming metal shank
+M 0 18444     2 18469            a Stone Halfman
+E 1 18417    10     7                    legs a set of hard stone plates
+E 1 18421    10    16                    wield a gleaming metal shank
+M 0 18445     1 18480            a Totem Beast
+E 1 18424    99    17                    held a glowing red key
+E 1 18421    10    16                    wield a gleaming metal shank
+D 0 18480     1     2            The Guard Room door east
+M 0 18446     1 18484            a Totem Beast
+E 1 18423    99    17                    held a bright blue key
+E 1 18421    10    16                    wield a gleaming metal shank
+D 0 18484     4     2            Under the Blue Portal door up
+M 0 18449     2 18487            a Stone Halfman
+E 1 18417    10     7                    legs a set of hard stone plates
+E 1 18421    10    16                    wield a gleaming metal shank
+M 0 18450     2 18486            a Stone Halfman
+E 1 18417    10     7                    legs a set of hard stone plates
+E 1 18420    10    16                    wield a steel lined shield
+M 0 18451     2 18489            a Moss Halfman
+M 0 18452     3 18470            a Moss Halfman
+M 0 18453     2 18467            a Moss Halfman
+S
+#99999
+$~

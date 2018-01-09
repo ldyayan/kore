@@ -1,0 +1,104 @@
+#183
+The Hidden Temple of Virmene~
+18399 35 2 35
+M 0 18307     1 18328            the guardian spirit
+E 1 18305   101    17                    held a short steel rod
+D 0 18328     1     2            A Junction door east
+D 0 18308     0     1            Behind the Lofty Crow door north
+D 0 18308     2     2            Behind the Lofty Crow door south
+M 0 18311     1 18345            Chantrel's Horror
+E 1 18319    45    16                    wield a thin dissection knife
+E 1 18325    35    17                    held a withered stick
+E 1 18309    24     1                    left finger the Claws of Despair
+E 1 18310    24     2                    right finger the Claws of Suffering
+M 0 18329     1 18345            a victim of Torment
+D 0 18345     3     1            A Gore Covered Room door west
+M 0 18331     1 18379            Virmene
+E 1 18320    99    17                    held a glowing blue ball
+G 1 18316    99    -1                    give a darkbound leather tome
+G 1 18317    99    -1                    give a Manual of Elemental Bindings
+E 1 18323    19    16                    wield a glaive forged in demon's blood
+E 1 18322    38     3                    neck 1 the unblinking Eye of Virmene
+E 1 18321    20    12                    about a Miasma of Pestilence
+E 1 18308    22     6                    head a flaming effigy of Virmene
+D 0 18379     5     2            The Throne of Virmene door down
+M 0 18301     1 18335            Strom
+E 1 18301    10    16                    wield a cast iron swordbreaker
+E 1 18302    28     3                    neck 1 a ^Wsilver^n amulet of Virmene
+E 1 18324    10    12                    about a Genocide Cloak
+M 0 18318     2 18335            a shifting spirit
+D 0 18335     0     1            An Ornate Suite door north
+O 0 18326   101 18367            an opening to a distant meta-plane
+M 0 18328     1 18343            a victim of Torment
+M 0 18309     1 18342            Torment
+E 1 18306    75    16                    wield the implements of Torment
+M 0 18327     1 18342            a victim of Torment
+M 0 18306     1 18324            the Bone Horror
+E 1 18303    15    17                    held a jagged bone shard of the Horror
+D 0 18302     4     1            In the Musty Cellar door up
+D 0 18304     2     1            The Loading Dock of the Lofty Crow door south
+D 0 18304     5     1            The Loading Dock of the Lofty Crow door down
+D 0 18303     0     1            in the Musty Cellar door north
+D 0 18305     2     1            Smuggler's Hideout door south
+M 0 18300     1 18309            a halfling guard
+E 1 18300    99     3                    neck 1 a cross shaped Key
+D 0 18309     5     2            Storage Room door down
+D 0 18310     4     2            An Unlit Passage door up
+M 0 18303     2 18321            an assembler
+M 0 18304     2 18321            an assembler
+M 0 18305     2 18321            an assembler
+D 0 18321     0     1            The Construction Room door north
+D 0 18320     2     1            A Smooth Stone Hallway door south
+M 0 18302     1 18317            a bound earth elemental
+O 0 18304   101 18327            the Eye of Virmene
+D 0 18331     1     2            A Smooth Stone Hallway door east
+M 0 18310     2 18332            a shifting spirit
+D 0 18332     3     2            Mahogany Entry door west
+M 0 18308     2 18334            a shifting spirit
+D 0 18334     2     1            Mahogany Passage door south
+D 0 18338     5     2            A Smooth Stone Hallway door down
+D 0 18339     4     2            A Putrid Smelling Hall door up
+D 0 18344     1     1            The Corpse Pile door east
+M 0 18312     1 18351            a wooden golem
+M 0 18313     1 18353            the mihzrou
+E 1 18311    13     7                    legs spirit shackles
+D 0 18355     1     1            A Narrow Hallway door east
+D 0 18361     3     1            The Library door west
+D 0 18362     2     1            The Storage Chamber door south
+M 0 18314     2 18363            a cultist of Virmene
+E 1 18312    10    16                    wield a sacrificial dagger
+D 0 18363     0     1            Den of the Cultists door north
+M 0 18316     2 18365            a cultist of Virmene
+E 1 18313    10     3                    neck 1 a rune covered sash of Virmene
+D 0 18365     3     1            The Dissection Room door west
+D 0 18357     1     1            A Narrow Hallway door east
+D 0 18359     2     2            End of the Narrow Hall door south
+M 0 18319     1 18360            the Free Spirit
+E 1 18314    99    17                    held an oricalcum coin
+E 1 18315    13     5                    body a robe woven from elemental air
+M 0 18320     1 18360            a summoner of Virmene
+E 1 18316    10    13                    waist a darkbound leather tome
+M 0 18321     1 18360            a summoner of Virmene
+E 1 18316    10    13                    waist a darkbound leather tome
+M 0 18322     1 18360            a summoner of Virmene
+E 1 18316    10    17                    held a darkbound leather tome
+E 1 18317    10     9                    hands a Manual of Elemental Bindings
+M 0 18323     1 18360            a summoner of Virmene
+E 1 18317    10    17                    held a Manual of Elemental Bindings
+M 0 18324     1 18360            a summoner of Virmene
+E 1 18317    10     9                    hands a Manual of Elemental Bindings
+D 0 18360     0     2            The Summoning Circle door north
+D 0 18348     3     2            A Comfortable Room door west
+M 0 18315     2 18364            a cultist of Virmene
+M 0 18317     2 18364            a cultist of Virmene
+E 1 18312    10    16                    wield a sacrificial dagger
+D 0 18370     5     2            A Floating Platform door down
+D 0 18371     4     2            Down a Rope Ladder door up
+O 0 18307     6 18380            the Anvil of the Maker
+D 0 18380     4     2            An Extra-Dimensional Pocket door up
+M 0 18325     1 18340            a victim of Torment
+M 0 18326     1 18341            a victim of Torment
+M 0 18330     5 18373            a vaporous stalker
+S
+#99999
+$~

@@ -1,0 +1,18 @@
+>rand_prog 5~
+  mpecho The lava gurgles and spits as it bubbles out sulfurous gases into the air.
+~
+>rand_prog 20~
+if inroom($r) == here
+  mpechoaround $r An enormous gout of flame jets from beneith the lava's crust, engulfing $R!
+  mpechoat $r An enormous gout of flame jets from beneith the lava's crust, engulfing you!
+  mpdamage $r 40d7+35
+endif
+~   
+>rand_prog 20~
+if inroom($r) == here
+  mpechoaround $r $R takes in a deep breath of sulfurous gas and starts look ill.
+  mpechoat $r You take a deep breath of sulfurous gas and begin to feel queasy.
+  mpcallmagic 'poison' $r
+endif
+~
+|

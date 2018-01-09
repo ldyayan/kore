@@ -1,0 +1,329 @@
+#28500
+bench wooden~
+a wooden bench~
+A wooden bench sits here.~
+~
+13 0 0
+0 0 0 0
+50 0 0
+E
+bench wooden~
+  A small wooden bench has room for a few people to sit on.
+~
+#28501
+fountain spring ~
+a spring~
+A fountain of water shoots up from the depths of the water.~
+~
+23 0 0
+999999 999999 0 0
+100 0 0
+E
+spring fountain~
+  Water splashes on you as it shoots up to form a colorful spring 
+of fresh water.
+~
+#28502
+tree~
+a tree~
+A large tree with branches that climb high into the sky is here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+tree~
+  A large tree towers over you. The branches are full of green
+leaves. Any animals that may be in the tree are well hidden
+within the coverings of the leafs
+~
+#28503
+sword green gems~
+a sword enlayed with green gems~
+A sword with green stones is lying here.~
+~
+5 17472 8193
+4 4 4 3
+2 2500 0
+E
+sword green gems~
+  A sword enlayed with green gem stones surrounding the hilt.
+~
+A
+2 2
+A
+19 2
+#28504
+eye fish~
+a fish eye~
+A fish eye is lying here.~
+~
+1 1 16385
+0 0 -1 0
+1 200 0
+E
+eye fish~
+  A eye of a fish that glows with a bright light.
+~
+A
+4 1
+A
+3 1
+#28505
+mouse tail~
+a mouse tail~
+A tail is lying here.~
+~
+5 256 8193
+2 3 4 2
+2 50 0
+E
+mouse tail~
+ The mouse tail is very long almost like a whip. 
+~
+A
+19 2
+#28506
+yoyo~
+a yoyo~
+A yoyo is lying here.~
+~
+9 64 16385
+2 0 0 0
+2 500 0
+E
+yoyo~
+  The yoyo is made of cherry wood with a off white string that
+wraps around the middle of it.
+~
+A
+2 2
+#28507
+silver earrings~
+silver earrings~
+A pair of earrings is lying here.~
+~
+9 1 131073
+3 0 0 0
+2 1500 0
+E
+silver earrings~
+  A pair of small round earrings made of sterling silver.
+~
+A
+5 2
+#28508
+frog legs~
+frog legs~
+Frogs legs is lying here.~
+  Fresh frog legs. Enough here to full anyone for a while.
+~
+19 0 1
+24 0 0 0
+0 200 0
+#28509
+feather~
+a feather~
+A feather from a big bird is lying here.~
+~
+9 0 16385
+3 0 0 0
+2 500 0
+E
+feather~
+  A feather with a rainbow of blue shades feels very light.
+Looking at the size of the feather it must have come from
+a very big bird.
+~
+A
+14 20
+#28510
+collar~
+a collar~
+A collar is lying here.~
+~
+9 0 5
+5 0 0 0
+2 500 0
+E
+collar~
+  A small leather dog collar just big enough to wear
+around your neck.
+~
+A
+1 1
+#28511
+bird feeder~
+a bird feeder~
+A bird feeder is hanging from a tree.~
+~
+15 0 0
+100 0 -1 0
+10 0 0
+E
+bird feeder~
+  A small bird feeder in the shape of a house. It is full of
+seeds.
+~
+#28512
+seed seeds bird food~
+seeds~
+A pile of bird seeds is lying here.~
+~
+19 0 1
+4 0 0 0
+1 0 0
+E
+seed seeds bird food~
+  A small pile of bird seeds is food for the birds.
+Not much to keep anyone else full.
+~
+#28513
+claw claws~
+a claw~
+A claw is lying here.~
+~
+9 0 16385
+2 0 0 0
+0 100 0
+E
+claw~
+A small polished claw of a cat.
+~
+A
+6 2
+#28514
+leaf leaves ~
+leaves~
+A few leaves are lying on the ground.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+leaf leaves~
+A few leaves have fallen to the ground and blown all over
+Jitter Park.
+~
+#28515
+dress~
+a dress~
+A dress is lying here.~
+~
+9 0 9
+1 0 0 0
+0 0 0
+E
+dress~
+  A small cotton dress.
+~
+A
+5 1
+#28516
+shirt~
+a shirt~
+A shirt is lying here.~
+~
+9 0 9
+2 0 0 0
+0 0 0
+E
+shirt~
+   A small white cotton shirt.
+~
+#28517
+pants~
+a pair of pants~
+A pair of pants is lying here.~
+~
+9 0 33
+2 0 0 0
+0 0 0
+E
+pants~
+A pair of black pants.
+~
+A
+2 1
+#28550
+red ticket~
+a red ticket~
+A red ticket.~
+~
+13 268435456 16385
+0 0 0 0
+0 0 0
+E
+red ticket~
+    A red ticket.
+~
+#28551
+yellow ticket~
+a yellow ticket~
+A yellow ticket.~
+~
+13 268435456 16385
+0 0 0 0
+0 0 0
+E
+yellow ticket~
+    A yellow ticket.
+~
+#28552
+blue ticket~
+a blue ticket~
+A blue ticket.~
+~
+13 268435456 16385
+0 0 0 0
+0 0 0
+E
+blue ticket~
+    A blue ticket.
+~
+#28553
+green ticket~
+a green ticket~
+A green ticket.~
+~
+13 268435456 16385
+0 0 0 0
+0 0 0
+E
+green ticket~
+    A green ticket.
+~
+#28554
+purple ticket~
+a purple ticket~
+A purple ticket.~
+~
+13 268435456 16385
+0 0 0 0
+0 0 0
+E
+purple ticket~
+    A purple ticket.
+~
+#28555
+orange ticket~
+a orange ticket~
+A orange ticket.~
+~
+13 268435456 16385
+0 0 0 0
+0 0 0
+E
+orange ticket~
+    A orange ticket.
+~
+#28599
+dress black silk~
+a black silk dress~
+A dress is lying here.~
+~
+9 64 9
+10 0 0 0
+0 2000 0
+#99999
+$~

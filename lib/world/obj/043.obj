@@ -1,0 +1,306 @@
+#4300
+sign~
+a sign~
+You see a sign posted here.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+NO TRESPASSING. THIS MEANS YOU.
+DEATH TO ALL WHO GOES NORTH!!
+~
+#4301
+light~
+a light~
+^WThere is a luminous light in the room.^n~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+light~
+^WYou see a bright white light^n
+~
+#4302
+symbols~
+symbols~
+You see a bunch of symbols carved into the wall.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+symbols~
+^WOutflow Room: Do NOT Advance Beyond This Point^n
+~
+#4303
+robe~
+a silk black robe~
+You see the robe of the archmagi.~
+~
+9 180225 1025
+-5 0 0 0
+3 25000 0
+A
+13 40
+A
+12 10
+A
+9 2
+#4304
+gem green brightness~
+a green ^Ggem^n of ^Wbrightness^n~
+You see a gem lying here.~
+~
+9 64 17
+0 0 0 0
+1 10000 0
+A
+17 -5
+B
+1024
+#4305
+dagger~
+a small dagger~
+You see a dagger lying here.~
+~
+5 0 8193
+1 1 4 11
+3 2000 0
+A
+19 1
+#4306
+furnace~
+a furnace~
+You see a huge furnace in the far corner of the room.~
+~
+27 0 0
+4374 0 0 0
+0 0 0
+#4307
+red key~
+a ^rred^n key~
+You see a red key lying here.~
+~
+18 4 1
+0 0 0 0
+0 0 0
+#4308
+white bastard sword~
+a ^wwhite^n bastard sword~
+You see a beautiful sword lying here.~
+~
+5 50753 8193
+2 6 8 3
+6 35000 0
+A
+3 3
+A
+19 4
+B
+4096
+#4309
+muck encrusted wand~
+a muck-encrusted wand~
+You see a wand lying here~
+   You see a muck-encrusted staff.
+~
+3 0 16385
+40 12 12 116
+2 30000 0
+#4310
+spellbook book~
+a spellbook~
+There is a book lying here.~
+~
+3 12290 16385
+50 20 20 38
+1 20000 0
+#4311
+sign~
+a sign~
+There is a sign posted here.~
+You see a sign here.
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+You are at the entrance of Shipwreck Point.
+Enter at own risk. Any trespassers caught
+will be slain on the spot.
+~
+#4312
+band gold ring~
+a band of gold~
+You see a gold band lying here.~
+You see a solid gold band.
+~
+9 8531968 3
+5 0 0 0
+1 20000 0
+A
+19 3
+A
+2 3
+#4313
+sign~
+a sign~
+You see a sign here~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+^wLegend of Shipwreck Point.^n
+During the Razing, Zhentil Keep lost all of its seagoing fleet.
+Most of the vessels were caught by white dragons and blasted
+frozen with icy breath weapons until they became miniature
+icebergs, floating tombs for the quick-frozen sailors caught
+within. So here lies the remains of the vessels as they are
+washed up on Shipwreck Point.
+~
+#4314
+wooden vessel~
+a wooden vessel~
+You see a ruined wooden vessel washed up here.~
+~
+27 0 0
+4389 1 0 0
+0 0 0
+E
+vessel~
+You see a wooden vessel here that has washed up on shore.
+~
+#4315
+gold dress~
+a ^yGold^n Dress~
+You see a ^yGold^n Dress left here.~
+~
+9 1025 9
+-25 0 0 0
+2 25000 0
+A
+6 5
+#4316
+roses red~
+a ^RRed^n Rose~
+You see a ^Rred^n rose lying on the bed.~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#4317
+bed~
+a bed~
+You see a bed with black and red satin sheets.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+#4318
+glass wine~
+a glass of wine~
+You see a glass of wine sitting on the table next to the bed.~
+~
+17 0 1
+4 4 2 0
+0 0 0
+#4319
+cheifs knife~
+a cheif's knife~
+You see a knife lying here.~
+~
+5 0 8193
+2 4 10 14
+2 25000 0
+A
+19 2
+#4390
+pepsi machine~
+a Pepsi machine~
+A vending machine is here selling Pepsi-cola.~
+~
+13 0 1
+0 0 0 0
+99999 100000 20000
+#4391
+cookie~
+a cookie~
+You see a cookie lying here.~
+~
+19 65544 1
+24 0 0 0
+0 0 0
+#4392
+potion dream~
+a dream potion~
+You see a potion lying here.~
+~
+10 65544 1
+50 3 0 0
+0 0 0
+#4393
+cold pepsi ice~
+a ice cold Pepsi~
+You see a ice cold Pepsi.~
+~
+17 0 1
+10 10 17 0
+0 0 0
+#4394
+potion meditation~
+a potion of meditation~
+You see a potion here.~
+~
+10 65544 1
+30 132 0 0
+1 0 0
+#4395
+potion morning~
+a morning potion~
+You see a potion here.~
+~
+10 65544 1
+30 36 64 147
+1 0 0
+#4396
+satin potion~
+a satin potion~
+You see a shiny looking potion here.~
+~
+10 65544 1
+30 28 35 43
+1 0 0
+#4397
+pillow case~
+a pillow case~
+You see a pillow case lying here.~
+~
+15 65544 1
+100 0 -1 0
+2 0 0
+#4398
+potion special~
+a special potion~
+There is a potion lying here.~
+You see a potion of some sorts.
+~
+10 65548 1
+50 19 44 0
+0 0 0
+#4399
+sleep wand~
+a wand of sleep~
+There is a wand lying here.~
+You see a wand.
+~
+3 65548 16385
+50 50 20 38
+0 0 0
+#99999
+$~

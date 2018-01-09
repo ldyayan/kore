@@ -1,0 +1,36 @@
+>greet_prog 8~
+  if ispc($n)
+    mpechoat $n $I slithers beneath your armor and bites you!
+    mpechoaround $n $I slithers beneath $N's armor and bites $L!
+    mpechoat $n $I greet
+    mpdamage $n 6d6+30
+    mpcallmagic 'blind' $n
+    mpcallmagic 'poison' $n
+    mpechoat $n Ohhh, you don't feel so good...
+    mpechoaround $n $N doesn't look so good...
+  endif
+~
+>entry_prog 12~
+  if ispc($n)
+    mpechoat $n $I slithers beneath your armor and bites you!
+    mpechoat $n $I entry
+    mpechoaround $n $I slithers beneath $N's armor and bites $L!
+    mpdamage $n 6d6+30
+    mpcallmagic 'blind' $n
+    mpcallmagic 'poison' $n
+    mpechoat $n Ohhh, you don't feel so good...
+    mpechoaround $n $N doesn't look so good...
+  endif
+~
+>rand_prog 16~
+  if inroom($r) == here
+    mpechoat $r $I slithers beneath your armor and bites you!
+    mpechoaround $r $I slithers beneath $R's armor and bites it!
+    mpdamage $r 6d6+30
+    mpcallmagic 'blind' $r
+    mpcallmagic 'poison' $r
+    mpechoat $r Ohhh, you don't feel so good...
+    mpechoaround $r $R doesn't look so good...
+  endif
+~
+|

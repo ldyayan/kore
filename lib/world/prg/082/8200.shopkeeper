@@ -1,0 +1,32 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    cower zirnozz
+  else
+    if ispc($n)
+      if ismemory($n)
+        glare $n
+        say I thought I told you to leave!
+        mpechoaround $n $I picks $N up and throws $m out the door!
+        mpechoat $n $I picks you up and chunks you out the door!
+        mptrans $n south
+        mppose $n stunned
+      endif
+    endif
+  endif
+~
+>rand_prog 12~
+  if inroom($r) == here
+    if position($r) == 4
+    or position($r) == 5
+    or position($r) == 6
+      wake $r
+      say Don't you loiter in my shop, $R! Get out of here!
+      mpechoaround $r $I kicks $R out of $l shop.
+      mpechoat $r $I kicks you out of $l shop!
+      mppose $r stand
+      mpsilent mpforce $r south
+      mpremember $r
+    endif
+  endif
+~
+|

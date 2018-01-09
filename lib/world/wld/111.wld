@@ -1,0 +1,6977 @@
+#11100
+Within the depths of Hell.~
+    As you enter the room you see a Persian carpet spread across the floor.  
+Two man size candelabre stand on either side of the door, filling the room with
+a moving, golden light.  The colors in the room are so bright it looks like
+stained glass.  Wall hangings cover the two longest walls.  On one wall, a
+unicorn fled from a pack of hounds.  The other hanging was a battle scene so
+dimmed with age that parts of the figures had vanished into the cloth.  Bright
+silken drapes cover the far end of the room, hung from the celing with heavy
+cords.  A door is open to the left of the drapes.    
+~
+111 1048 0
+D3
+~
+door~
+1 0 11481
+S
+#11101
+The River Tavern~
+  The River Tavern is the largest and best tavern in the city. The menu
+here offers a variety of dishes to choose from. This is the only place 
+in town that offers private rooms for meetings and or drinking. Clientele
+is very safe here as no one bothers them.
+~
+111 8 0
+D0
+~
+~
+0 0 11102
+D2
+~
+~
+0 0 11105
+S
+#11102
+Keris' Office~
+   As you enter Keris smoked filled office you see him sitting behind 
+his desk. There are papers scatter all over the place. Above him theres 
+a sign that reads - Private Rooms available for a small price. 
+~
+111 8 0
+D1
+~
+door~
+1 11100 11103
+D2
+~
+~
+0 0 11101
+D3
+~
+door~
+1 11100 11104
+S
+#11103
+Private Room~
+   As you walk in the private room there is some kind of meeting going on. 
+Everyone turns around to look at you and wondering what you are doing here. 
+The room has its own bar with a few waitress and a barmaid. 
+~
+111 8 0
+D3
+~
+door~
+1 0 11102
+S
+#11104
+Private Room~
+   As you enter the private room no one sees you as there is some type of 
+party going on. There are a couple of barmaids and a few waitress waiting
+on the people. There is a bard playing music on the stage in the far side 
+of the room.
+~
+111 8 0
+D1
+~
+door~
+1 0 11102
+S
+#11105
+Teshwave Street~
+  On Teshwave Street there are a few people walking in and out of the
+different buildings. Most of the people you see seem to be very nice.
+To the north you see the River, one of the town's taverns.
+~
+111 0 1
+D0
+~
+door~
+1 0 11101
+D1
+~
+~
+0 0 11106
+D3
+~
+~
+0 0 11108
+S
+#11106
+Teshwave Street~
+  As you walk father down Teshwave Street you notice you will have to turn 
+around as you reached the end of the street. You still see a few people here 
+and there. To the south you here loud noises coming from the local blacksmith 
+place.
+~
+111 0 1
+D2
+~
+~
+0 0 11107
+D3
+~
+~
+0 0 11105
+S
+#11107
+Lunanna's Forge~
+  As you enter Lunanna's you see her busy at work. She is the towns only 
+blacksmith. When you speak in here you have to yell due to all the noise. 
+There are a few weapons hanging on the wall waiting for their owners to 
+pick them up.
+~
+111 2097160 0
+D0
+~
+~
+0 0 11106
+S
+#11108
+Teshwave Street~
+  There are not many people around this one section of the street. After
+standing here a little to long you know the reason as to why there is no
+one around. As the wind blows from the south you get the racid smell that
+is coming from the barnlike building to the south. Animal sounds can be
+heard coming from the south.
+~
+111 0 1
+D1
+~
+~
+0 0 11105
+D2
+~
+~
+0 0 11109
+D3
+~
+~
+0 0 11111
+S
+#11109
+On Four Feet~
+  On four feet is a barnlike structure with horses, ponies, oxen, mules,
+and other livestock. You are unable to stay in here to long due to the 
+smell. There is a sign on the back wall that reads - We will put up your
+animals for a small fee. We house horses and flying mounts.
+~
+111 8 0
+D0
+~
+~
+0 0 11108
+D2
+~
+~
+0 0 11110
+S
+#11110
+Stall~
+  The farther you travel to the back of the stall the worst it smells. You 
+notice the special stalls that accommodate the flying mounts. There are not 
+that many animals in here at the moment. 
+~
+111 8 0
+D0
+~
+~
+0 0 11109
+S
+#11111
+Teshwave Street~
+  Traveling on Teshwave Street there are a few people here and there.
+Everyone you have seen seems to be real nice. As the wind blows you
+get a faint smell of something racid.
+~
+111 0 1
+D1
+~
+~
+0 0 11108
+D3
+~
+~
+0 0 11112
+S
+#11112
+Teshwave Street~
+  Only a few people are here and there on Teshwave Street. This is not as
+busy as the rest of the city. It also has a few businesses on this street.
+To the south is Mace Way.
+~
+111 0 1
+D1
+~
+~
+0 0 11111
+D2
+~
+~
+0 0 11113
+S
+#11113
+Mace Way~
+   Mace Way is one of the shorter streets of the city. There are a few
+people going in an out of a ornate marble building to your west. To the
+north is Teshwave Street.
+~
+111 0 1
+D0
+~
+~
+0 0 11112
+D2
+~
+~
+0 0 11118
+D3
+~
+door~
+1 0 11114
+S
+#11114
+Bath House~
+   The Bath House is one of the only buildings to have managed to survive
+intact the pre-Razing days. The inside of the place is much like the out
+side, made of marble. As you look to the west you see a hallway that leads
+to the private baths.
+~
+111 8 0
+D1
+~
+door~
+1 0 11113
+D3
+~
+~
+0 0 11115
+S
+#11115
+Hallway~
+  As you walk down the hallway you see the private baths are to your east 
+and west. At both entrances there is a massive eunuch warrior. They are 
+here to take you to the proper pools after taking the asking price. There
+is asign above the door that reads: Pool sessions last for two hours, and 
+a massage last 15 minutes.
+~
+111 8 0
+D0
+~
+door~
+1 0 11116
+D1
+~
+~
+0 0 11114
+D2
+~
+door~
+1 0 11117
+S
+#11116
+Private Bath~
+  As you enter the room there is a nice size hot steaming bath in the middle 
+of the room. On the one side of the room there is a table where you can relax 
+and receive a massage. On the other side of the room there are a number of 
+different lotions lined up on a shelf. 
+~
+111 8 0
+D2
+~
+~
+0 0 11115
+S
+#11117
+Private Bath~
+   Entering the room you see a nice size steaming pool in the middle of 
+the room. On the one side of the room is a table where you can relax and 
+receive a massage. On the other side is a shelf that has a number of 
+different lotions used for the massages. 
+~
+111 8 0
+D0
+~
+~
+0 0 11115
+S
+#11118
+Mace Way~
+  Mace Way is the shortess street in Zhentil Keep. There are still alot
+of people coming and going. To the west of you, you see the Way of the
+Warrior. Mace Way continues to the north and south.
+~
+111 0 1
+D0
+~
+~
+0 0 11113
+D2
+~
+~
+0 0 11119
+D3
+~
+door~
+1 0 11125
+S
+#11119
+Mace Way~
+  There are people coming and going from the different buildings. To the
+west is the shop called the Spice of Life. To the south is the Lodge of
+the Great Hunt. Center Street is to your east.
+~
+111 0 1
+D0
+~
+~
+0 0 11118
+D1
+~
+~
+0 0 11120
+D2
+~
+door~
+1 0 11132
+D3
+~
+~
+0 0 11133
+D8
+~
+~
+0 0 11273
+S
+#11120
+Center Street~
+  There is not much to see on Center Street. There are a few people here
+and there. There are no buildings around other then the building that is
+to the far east. To the west Mace Way.
+~
+111 0 1
+D1
+~
+~
+0 0 11121
+D3
+~
+~
+0 0 11119
+S
+#11121
+Center Street~
+  As you walk on Center Street you notice how everything is so quiet. You 
+wonder if it is always like this. There are a few benches you can sit on 
+and listen to the birds sing. Center Street continues east and west. 
+~
+111 0 1
+D1
+~
+~
+0 0 11122
+D3
+~
+~
+0 0 11120
+S
+#11122
+Center Street~
+  As you walk down the street you wonder if it is always this quiet here. 
+You see a few benches with people sitting there feeding the birds an just 
+having a nice day. Center Street continues to the east and west. 
+~
+111 0 1
+D1
+~
+~
+0 0 11123
+D3
+~
+~
+0 0 11121
+S
+#11123
+Center Street~
+  There is not many buildings around. Only one building on this street
+which is to the east of you. The sign out side of the building reads -
+                      The Eye of the Beholder
+~
+111 0 1
+D1
+~
+~
+0 0 11124
+D3
+~
+~
+0 0 11122
+S
+#11124
+The Eye of the Beholder~
+   As you enter the Eye of the Beholder you see that it is a jeweler/gem 
+cutter's establishment. There is alot of beautiful gold and silver pieces 
+in a glass case on top of the counter. The owner is a craftsman of the 
+highest caliber.
+~
+111 2097160 0
+D3
+~
+~
+0 0 11123
+S
+#11125
+Way of the Warrior~
+  As you enter the Way of the Warrior there is a big sign that reads: No 
+magic will be allowed within these walls of the Way of the Warrior. This 
+hall is open to all. To the south you see the meeting room. 
+~
+111 136 0
+D1
+~
+door~
+1 0 11118
+D2
+~
+~
+0 0 11126
+S
+#11126
+Meeting Room~
+  The meeting room is where they decide whom may or may not join the Way
+of the Warrior. In the center of the room is a big cherry wood table that 
+sits about 13 people. To the east is the weapon and armour repair shop. To
+the north is the entrance. To the south is a hallway.
+~
+111 136 0
+D0
+~
+~
+0 0 11125
+D2
+~
+~
+0 0 11127
+D3
+~
+~
+0 0 11131
+S
+#11127
+Hallway~
+  On the walls there are pictures of well known warriors. South you see
+a large training room. To the east and west are the sleeping chambers.
+North is the meeting room.
+~
+111 136 0
+D0
+~
+~
+0 0 11126
+D1
+~
+~
+0 0 11129
+D2
+~
+~
+0 0 11130
+D3
+~
+~
+0 0 11128
+S
+#11128
+Sleeping Chambers~
+  The sleeping chambers is a place where the warriors can rest their head
+after a long day of training. There are a few bunks on each side of the 
+wall. Under the bunks is a place for the warrior to put their weapon and 
+armour.
+~
+111 136 0
+D1
+~
+~
+0 0 11127
+S
+#11129
+Sleeping Chambers~
+  The sleeping chambers is a place where the warriors can rest their head
+after a long day of training. There are a few bunks on each side of the 
+wall. Under the bunks is a place for the warrior to put their weapon and 
+armour.
+~
+111 136 0
+D3
+~
+~
+0 0 11127
+S
+#11130
+Training Room~
+  In the training room the fighters learn to unite in a pact of mutual
+support and cooperation. Each member is tattooed with a flaming sword
+on his upper left arm. The trainer here is known to beat almost anyone
+in a fair fight.
+~
+111 136 0
+D0
+~
+~
+0 0 11127
+S
+#11131
+Repair Shop~
+  The repair shop has all kinds of weapons hanging from the wall. You see
+knifes, swords, blades, and a few other different kinds of weapons. There
+is also a lot of armour hanging up on a pole that goes from one end of the
+room to the other.
+~
+111 136 0
+D1
+~
+~
+0 0 11126
+S
+#11132
+Lodge of the Great Hunt~
+   As you enter the Lodge you see that the interior has been decorated to 
+resemble a hunting lodge, with animal skin rugs, and numerous mounted animal 
+trophies. On the far side of the room you see a roaring fire in a hearth. To 
+the south you see the back door. 
+~
+111 8 0
+D0
+~
+~
+0 0 11119
+D2
+~
+door~
+1 0 11134
+S
+#11133
+The Spice of Life~
+  As you enter the Spice of Life you are hit with the aroma of fresh herbs
+and spices. there are shelves that go all around the shop that house a big
+amount of herbs, spices, teas and tobaccos from all over the world. As you
+look up you see different kinds of plants hanging from the ceiling. There
+is a is a sign behind the counter that reads:
+                    What you don't see, we will order.
+~
+111 2097160 0
+D1
+~
+~
+0 0 11119
+D3
+~
+~
+0 0 11470
+S
+#11134
+Twilight Street~
+  Traveling on Twilight Street the Lodge of the Great Hunt is to the
+north of you. The street continues on to the east.
+~
+111 0 1
+D0
+~
+door~
+1 0 11132
+D1
+~
+~
+0 0 11135
+S
+#11135
+Twilight Street~
+  Traveling along on Twilight Street it continues to the east and west.
+~
+111 0 1
+D1
+~
+~
+0 0 11136
+D3
+~
+~
+0 0 11134
+S
+#11136
+Twilight Street~
+  Traveling along on Twilight Street it continues to the east and west.
+~
+111 0 1
+D1
+~
+~
+0 0 11137
+D3
+~
+~
+0 0 11135
+S
+#11137
+Twilight Street~
+  Traveling along on Twilight Street it continues to the east and west.
+~
+111 0 1
+D1
+~
+~
+0 0 11138
+D3
+~
+~
+0 0 11136
+S
+#11138
+Twilight Street~
+  Twilight Street continues east and west. To the north is the Pride of
+Zhentil Keep. To the south is Zhent Avenue.
+~
+111 0 1
+D0
+~
+~
+0 0 11139
+D2
+~
+~
+0 0 11140
+D3
+~
+~
+0 0 11137
+S
+#11139
+The Pride of Zhentil Keep~
+  Known to be the worst inn in the entire Moonsea region. The inn is a
+cold and dirty place. The roaches are big. The ale tastes like bilge
+and the portions are small. Only those with a fast reflex, the sharpest
+eyes, and the keenest eats get a good nights sleep here.
+~
+111 8 0
+D2
+~
+~
+0 0 11138
+S
+#11140
+Zhent Avenue~
+   Zhent Avenue continues to the south. To the north is Twilight Street.
+~
+111 0 1
+D0
+~
+~
+0 0 11138
+D2
+~
+~
+0 0 11141
+S
+#11141
+Zhent Avenue~
+  Zhent Avenue continues to the north and south.
+~
+111 0 1
+D0
+~
+~
+0 0 11140
+D2
+~
+~
+0 0 11142
+S
+#11142
+Zhent Avenue~
+  Traveling on Zhent Avenue it continues north and south. Barrodar's
+Fantastic Fabrics is the shop to the west.
+~
+111 0 1
+D0
+~
+~
+0 0 11141
+D2
+~
+~
+0 0 11143
+D3
+~
+door~
+1 0 11144
+S
+#11143
+Zhent Avenue~
+  Traveling on Zhent Avenue it continues north and southeast. To the
+south is a deserted orphanage.
+~
+111 0 1
+D0
+~
+~
+0 0 11142
+D2
+~
+~
+0 0 11147
+D7
+~
+~
+0 0 11148
+S
+#11144
+Barrodar's Fantastic Fabrics~
+  As you enter the shop there are all kinds of fabrics from all over
+the realm hanging here. From word of mouth from some of the citizens
+of Zhentil Keep, you hear that this place is the towns fence. Also it
+is believed that Barrodar keeps most of his stuff in the cellar with
+the spiders.
+~
+111 8 0
+D1
+~
+~
+0 0 11142
+D4
+~
+~
+0 0 11146
+D5
+~
+floor~
+1 1710 11145
+S
+#11145
+Cellar~
+  As you come down the steps in the cellar you can hardly see a thing.
+On one side of the wall you can make out what looks like a safe. There
+is water driping down the wall. That would explain the mildew smell.
+~
+111 8 0
+D4
+~
+door~
+1 0 11144
+S
+#11146
+Apartment~
+   The apartment above Barrodar's is not very big in size. It is one big
+room with a bed on the far side of the wall under the only window in the
+place. A small table and chair rest on the other side of the room.
+~
+111 8 0
+D5
+~
+~
+0 0 11144
+S
+#11147
+Deserted Orphanage~
+  This squat building used to be an orphanage, but now serves as the head-
+quarters of the largest of Zhentil Keep's thieves' guilds. The interior is
+gutted, with most of the partitioning walls gone and debris is scattered all
+over the floor, making any attempt at walking quietly an exercise in futility.
+You see four stone hearths along the back wall.
+~
+111 8 0
+D0
+~
+~
+0 0 11143
+S
+#11148
+Zhent Avenue~
+  Traveling on Zhent Avenue it continues east and northwest. To the
+south is the residence of Kornah the Crazy and her pet crow Shalla.
+~
+111 0 1
+D0
+~
+~
+0 0 11304
+D1
+~
+~
+0 0 11149
+D2
+~
+door~
+1 0 11151
+D9
+~
+~
+0 0 11143
+S
+#11149
+Zhent Avenue~
+  Traveling on Zhent Avenue it continues to your east and west. The
+Zhentilar Headquarters is located to the north.
+~
+111 0 1
+D0
+~
+~
+0 0 11152
+D1
+~
+~
+0 0 11150
+D3
+~
+~
+0 0 11148
+S
+#11150
+Zhent Avenue~
+  Traveling down Zhent Avenue it continues east and west.
+~
+111 0 1
+D1
+~
+~
+0 0 11153
+D3
+~
+~
+0 0 11149
+S
+#11151
+Residence of Kornah~
+  Entering the residence of Kornah, she is known to all as Kornah the
+Crazy. The house is a known refuge to all Harpers who visit the Keep.
+With various and sundry objects scattered all everywhere, the house is
+a comfortable mess.
+~
+111 8 0
+D0
+~
+door~
+1 0 11148
+D2
+~
+~
+0 0 11189
+S
+#11152
+Zhentilar Headquarters~
+   Upon entering the current headquarters of the armed forces of Zhentil
+Keep. Also know as the Zhentilar. The building here houses the entire armed
+forces of the Zhentilar. The building is well defended and not often visited
+by strangers. Any non-Zhentilar who wants to set foot past the front door had
+better have a compelling, life-or-death-of-the-city reason to be here, or be
+unceremoniously thrown out.
+~
+111 8 0
+D2
+~
+~
+0 0 11149
+S
+#11153
+Zhent Avenue~
+  Traveling down Zhent Avenue it continues east and west. City square
+is off to the east.
+~
+111 0 1
+D1
+~
+~
+0 0 11154
+D3
+~
+~
+0 0 11150
+S
+#11154
+City Square~
+  The square is a very popular place, and there is always a small crowd 
+here. There are a few benches arranged along the perimeter of the plaza, 
+facing a statue of some unknown person. He must of did something of value 
+centuries ago. There is a man here in a threadbare robe sitting at a bench 
+playing chess. 
+~
+111 0 1
+D0
+~
+~
+0 0 11155
+D1
+~
+~
+0 0 11157
+D3
+~
+~
+0 0 11153
+S
+#11155
+City Square~
+  The square is a very popular place, and there is always a small crowd 
+here. There are a few benches arranged along the perimeter of the plaza, 
+facing a statue of some unknown person. He must have did something of value 
+centuries ago. There is a man here in a threadbare robe sitting at a bench 
+playing cards. 
+~
+111 0 1
+D1
+~
+~
+0 0 11156
+D2
+~
+~
+0 0 11154
+S
+#11156
+City Square~
+  The square is a very popular place, and there is always a small crowd 
+here. There are a few benches arranged along the perimeter of the plaza, 
+facing a statue of some unknown person. He must of did something of value 
+centuries ago. There is a man here in a threadbare robe sitting at a bench 
+playing chess. 
+~
+111 0 1
+D2
+~
+~
+0 0 11157
+D3
+~
+~
+0 0 11155
+S
+#11157
+City Square~
+  The square is a very popular place, and there is always a small crowd 
+here. There are a few benches arranged along the perimeter of the plaza, 
+facing a statue of some unknown person. He must of did something of value 
+centuries ago. There is a man here in a threadbare robe sitting at a bench 
+playing chess. 
+~
+111 0 1
+D0
+~
+~
+0 0 11156
+D1
+~
+~
+0 0 11158
+D3
+~
+~
+0 0 11154
+S
+#11158
+Zhent Avenue~
+  Traveling along Zhent Avenue it continues east and west. The city
+square is off to your west.
+~
+111 0 1
+D1
+~
+~
+0 0 11159
+D3
+~
+~
+0 0 11157
+S
+#11159
+Zhent Avenue~
+    Traveling on Zhent Avenue. It continues to the east and west. To the 
+south is Rak's Apothecary.
+~
+111 0 1
+D1
+~
+~
+0 0 11161
+D2
+~
+~
+0 0 11160
+D3
+~
+~
+0 0 11158
+S
+#11160
+Rak's Apothecary~
+  As you enter Rak's you don't know if you should just turn around and go 
+back out, due to all the smoke and the rancid smell. Through all the smoke 
+you see all kinds of spell components, medicines, poultices, acids, bases, 
+folk remedies, and chemicals lined up behind the counter. 
+~
+111 8 0
+D0
+~
+~
+0 0 11159
+D2
+~
+~
+0 0 11472
+S
+#11161
+Zhent Avenue~
+  Traveling on Zhent Avenue it continues east and west. The House of
+Comfort is located to the south.
+~
+111 0 1
+D1
+~
+~
+0 0 11163
+D2
+~
+~
+0 0 11162
+D3
+~
+~
+0 0 11159
+S
+#11162
+The House of Comfort~
+  The House of Comfort is located almost at the exact center of the
+city. It is a very clean place. But at times it does get chilly here.
+The food you get here is simple but filling. When there is food.
+~
+111 8 0
+D0
+~
+~
+0 0 11161
+S
+#11163
+Zhent Avenue~
+  Traveling along Zhent Avenue it continues to the east and west. To
+the north is Tymora's Holy Hall of Good Fortune and Casino.
+~
+111 0 1
+D0
+~
+~
+0 0 11164
+D1
+~
+~
+0 0 11165
+D3
+~
+~
+0 0 11161
+S
+#11164
+Tymora's Holy Hall of Good Fortune and Casino~
+  Standing within the walls of Tymora's Holy Hall of Good Fortune and
+Casino. This is the most outrageous mansion in Zhentil Keep. With large
+windows and ornate stonework. It is a place of worship and a gambler's
+paradise. The casino is open all day and night.
+~
+111 12 0
+D0
+~
+~
+0 0 11390
+D2
+~
+~
+0 0 11163
+S
+#11165
+Zhent Avenue~
+  Zhent Avenus continues to the east and west. To the south is the Palace
+of Sweet Pain.
+~
+111 0 1
+D1
+~
+~
+0 0 11167
+D2
+~
+~
+0 0 11166
+D3
+~
+~
+0 0 11163
+S
+#11166
+The Palace of Sweet Pain~
+  The Palace of Sweet Pain is designed with gothic tones, with barbs
+and spikes all over the turrets and battlements. The place has a air 
+of gloom and menace, and rumor has it, that if anyone falls asleep and
+has the shadow of the temple fall upon them they will have nightmares.
+~
+111 152 0
+D0
+~
+~
+0 0 11165
+S
+#11167
+Zhent Avenue~
+  Traveling along Zhent Avenue it continues east and west. The Mug
+and Mutton is located to the south.
+~
+111 0 1
+D1
+~
+~
+0 0 11169
+D2
+~
+~
+0 0 11168
+D3
+~
+~
+0 0 11165
+S
+#11168
+The Mug and Mutton~
+  As you walk in the Mug and Mutton it is very loud. People from all
+walks of life, Mages, Merchants, Thieves, Zhentilar, Laborers, and
+adventurers. Everyone is sitting at tables eating and drinking beer.
+Their are a few people at the bar. This is the one tavern in town that
+you can find out all the gossip.
+~
+111 8 0
+D0
+~
+~
+0 0 11167
+D2
+~
+~
+0 0 11190
+S
+#11169
+Zhent Avenue~
+  Traveling on Zhent Avenue it continues east and west. Located to
+the south is the Battlehall. Twilight Hall is to the north.
+~
+111 0 1
+D0
+~
+~
+0 0 11171
+D1
+~
+~
+0 0 11172
+D2
+~
+~
+0 0 11170
+D3
+~
+~
+0 0 11167
+S
+#11170
+Battlehall~
+  This is a temple devoted to Tempus. The edifice looks like a miniature
+fortress. High on the battlements spears are wedged into the stones, each
+one with the severed head of a humanoid invader impaled upon it. The place
+is decorated with bloodied armor, broken weapons, and occasionally a very
+gruesome souvenir of one of the invaders. The smell of blood permeates the
+room.
+~
+111 8 0
+D0
+~
+~
+0 0 11169
+S
+#11171
+Twilight Hall~
+  As you enter Twilight Hall, it is a squat structure of blackest granite,
+with Cyric's symbol hung over copper double doors. The subterranean section
+contains tombs, which recently have been stocked with the bodies of noted
+Cyric worshipers. A special arrangement with Khelben Arunsun of Waterdeep
+resulted in Lord Chess being buried here as well.
+~
+111 8 0
+D2
+~
+~
+0 0 11169
+S
+#11172
+Zhent Avenue~
+  Traveling along on Zhent Avenue, it continues east and west. The
+Burst Boil is located to the north.
+~
+111 0 1
+D0
+~
+~
+0 0 11183
+D1
+~
+~
+0 0 11173
+D3
+~
+~
+0 0 11169
+S
+#11173
+Zhent Avenue~
+  Traveling along on Zhent Avenue, it continues east and west. To
+the north is the Prosperity House.
+~
+111 0 1
+D0
+~
+~
+0 0 11184
+D1
+~
+~
+0 0 11174
+D3
+~
+~
+0 0 11172
+S
+#11174
+Zhent Avenue~
+  Traveling along on Zhent Avenue, it continues to the west. Bridge
+Street is to the east.
+~
+111 0 1
+D1
+~
+~
+0 0 11175
+D3
+~
+~
+0 0 11173
+S
+#11175
+Bridge Street~
+  Traveling along on the main street of the city, Lord Orgauth's
+complex is located just to the east. Rumors have it that no one is 
+allowed in there. Zhent Avenue continues west. Bridge Street to the
+north and south.
+~
+111 0 1
+D0
+~
+~
+0 0 11176
+D1
+~
+door~
+1 0 11187
+D2
+~
+~
+0 0 11178
+D3
+~
+~
+0 0 11174
+S
+#11176
+Bridge Street~
+  Traveling along Bridge Street it continues to the north and
+south. 
+~
+111 0 1
+D0
+~
+~
+0 0 11177
+D2
+~
+~
+0 0 11175
+S
+#11177
+Bridge Street~
+  Traveling along the main street in the city you pass by quite a
+few people busy with everyday busy. The Tesh Inn is located to the
+east, where you can get a good nights sleep. The Crypts is over to
+the west. The South Tesh Gate is just north of you.
+~
+111 0 1
+D0
+~
+~
+0 0 11180
+D1
+~
+~
+0 0 11186
+D2
+~
+~
+0 0 11176
+D3
+~
+~
+0 0 11182
+S
+#11178
+Bridge Street~
+You are on the main street in Zhentil Keep. To the south of you is Throat 
+Gate, the only land entrance into the city. To the west is the Custom House. 
+Where all must go when entering of leaving the city. To the east is The Hall 
+of Rulership. Bridge Street continues to the north. 
+~
+111 0 1
+D0
+~
+~
+0 0 11175
+D1
+~
+door~
+1 0 11185
+D2
+~
+~
+0 0 11179
+D3
+~
+~
+0 0 11181
+S
+#11179
+Throat Gate~
+  This large gate is the only way into Zhentil Keep via land. The gate
+is made if highly polished adamantine-steel alloy, with nasty spikes and
+bas-reliefs of baatezu decorating the front. A portcullis drops down to
+seal the gate off in times of trouble. To the east is the Black Network
+Headquarters.
+~
+111 0 1
+D0
+~
+~
+0 0 11178
+D1
+~
+door~
+1 0 11188
+S
+#11180
+South Tesh Gate~
+  The South Tesh Gate has been closed due to the shattered remains
+of the Tesh Bridge. The guards still patrol here because the gate is
+still passable. Over to the north east you see the light coming from
+the lighthouse.
+~
+111 0 1
+D0
+~
+gate~
+1 0 11328
+D2
+~
+~
+0 0 11177
+S
+#11181
+Custom House~
+   This small, squat fortress was reopened and converted into a custom 
+house. All merchants coming to and from Zhentil Keep report here, record 
+their activities, and pay entry and exit taxes. The Custom House is open 
+from sunrise to sunset. Theres a sign on the wall that reads: Entering or
+leaving when we are closed you will pay Double the Taxes!
+~
+111 8 0
+D1
+~
+~
+0 0 11178
+D2
+~
+~
+0 0 11191
+S
+#11182
+The Crypts~
+  The constabulary has earned the nickname of the Crypts because the cells
+are located below the ground. At one time this was a military detention
+center, with crypts below for the quick burial of prisoners. Now it servers
+as the headquarters of the city security.
+~
+111 8 0
+D1
+~
+~
+0 0 11177
+D3
+~
+~
+0 0 11211
+D5
+~
+~
+0 0 11212
+S
+#11183
+The Burst Boil~
+  As you enter the Burst Boil you can't believe your eyes, as compared to 
+the outside. Which appears unremarkable. The inside is a small, crowded, 
+smelly, loud, dirty place with sawdust on the floor and flies in the gruel. 
+Humans are not welcome here and usually get mugs hurled at their heads if 
+they enter and told to leave immediately. 
+~
+111 8 0
+D0
+~
+door~
+1 0 11338
+D2
+~
+~
+0 0 11172
+S
+#11184
+Prosperity House~
+  The Prosperity House is a huge complex that includes the Sliverguild 
+Manor the Prosperity Emporium, the Properity Caravan Company, and the 
+caravan staging grounds.
+~
+111 8 0
+D2
+~
+~
+0 0 11173
+S
+#11185
+The Hall of Rulership~
+  The Hall of Rulership was once an ancient fort during the Keep's wilder 
+days. Which was centuries ago. This stout building now serves as a seat of 
+government for Zhentil Keep. 
+~
+111 8 0
+D1
+~
+~
+0 0 11198
+D3
+~
+~
+0 0 11178
+S
+#11186
+The Tesh Inn~
+  Entering the Tesh Inn. It was once considered the most lavish inn
+of the Foreign Quarter. It has managed to make it through the razing
+with only some minor changes.
+~
+111 393368 0
+D3
+~
+~
+0 0 11177
+S
+#11187
+Lord Orgauth's Complex~
+  As you enter the Lord's Orgauth's Complex you can see the interior 
+is quite opulent, suitable for the ruler of a city. There is some very
+exotic furnishings placed just right around the room. The floor seems 
+to be hollow as you travel across it. To the east is a hallway.
+~
+111 8 0
+D1
+~
+~
+0 0 11204
+D3
+~
+~
+0 0 11175
+D5
+~
+floor~
+0 0 11203
+S
+#11188
+Black Network Headquarters~
+  The Black Network Headquartes is a small ornate mansion. It houses the
+remains of the Zhentarim headquarters. The place is sort of a embassy for
+the Black Network. It is stocked with all manners of collectable works of
+art many of them religious icons of Cyric.
+~
+111 8 0
+D1
+~
+~
+0 0 11192
+D3
+~
+door~
+1 0 11179
+S
+#11189
+Bedroom~
+  As you enter the bedroom you can hardly see as it is so dark in here. What 
+you can make out it is not that much difference from the front of the house. 
+The bedroom is also a comfortable mess, with various and sundry objects 
+scattered everywhere. 
+~
+111 8 0
+D0
+~
+~
+0 0 11151
+S
+#11190
+Bar~
+  The bar is located here in the back of the building. In here you
+will hear gossip of most of the goings on around the Keep. Olford is
+usually sitting in here and talking about someone. The room has a few
+tables and the counter is located at the back of the room.
+~
+111 8 0
+D0
+~
+~
+0 0 11168
+S
+#11191
+Storage Room~
+  As you go to the back of the building you pass boxes and boxes all placed 
+in order along the walls. It is not known what is in the boxs as they are 
+not labeled. There are a few guards walking up and down the hall making sure 
+of no troubles.
+~
+111 8 0
+D0
+~
+~
+0 0 11181
+S
+#11192
+Hallway~
+  There are rooms to the north and south. To the west is the entrance
+of the Black Network Headquarters. To the east is the back entrance.
+~
+111 8 0
+D0
+~
+~
+0 0 11194
+D1
+~
+~
+0 0 11195
+D2
+~
+~
+0 0 11193
+D3
+~
+~
+0 0 11188
+S
+#11193
+Room~
+  Like most of the other rooms through out the headquarters it is stocked
+with all manners of collectable works of art. Many of them religious icons
+of Cyric.
+~
+111 8 0
+D0
+~
+~
+0 0 11192
+S
+#11194
+Room~
+  Like most of the other rooms through out the headquarters it is stocked
+with all manners of collectable works of art. Many of them religious icons
+of Cyric.
+~
+111 8 0
+D2
+~
+~
+0 0 11192
+S
+#11195
+Back Entrance~
+  With zeeas guarding the back entrance there isn't much room to get around
+without passing within inches of them. Through the back is a dirt path.
+~
+111 8 0
+D3
+~
+~
+0 0 11192
+D6
+~
+door~
+1 0 11270
+S
+#11196
+The Throne Room~
+  Entering Orgauth's Throne Room it is here where he receives all his
+visitors, as everyone is forbidden to enter his manor. Walking across
+the floor it feels hollow as your steps echo through out the room.
+~
+111 8 0
+D1
+~
+~
+0 0 11199
+D3
+~
+~
+0 0 11198
+D5
+~
+floor~
+0 0 11200
+S
+#11197
+Office~
+  Entering Orgauth's office this is where he does most of his work and
+conducts his less formal business. The size of the office is very large
+There is a desk in the far corner of the room with a stack of papers
+lying all over it.
+~
+111 8 0
+D2
+~
+~
+0 0 11198
+S
+#11198
+Hall of Records~
+  Entering the Hall of Records this is where Zark got stuck watching
+all the information and reporting back if anything of insterest should
+cross his desk. If you are coming here for any type of records. Good
+luck in finding them.
+~
+111 8 0
+D0
+~
+~
+0 0 11197
+D1
+~
+~
+0 0 11196
+D3
+~
+~
+0 0 11185
+S
+#11199
+Lord's Room~
+  This is the Hall's most impressive room. It is a huge chamber dominated by 
+an expensive oak table with a map of Zhentil Keep laminated into it surface. 
+In here Lord Orgauth assembles his fellow rulers of the city in order to come 
+up with civic plans. 
+~
+111 8 0
+D3
+~
+~
+0 0 11196
+S
+#11200
+Tunnel~
+  Traveling in a dark tunnel under the Throne Room. The tunnel continues
+to the north.
+~
+111 1 0
+D0
+~
+~
+0 0 11201
+D4
+~
+~
+0 0 11196
+S
+#11201
+Tunnel~
+  Traveling in a dark tunnel it continues to the west and south.
+~
+111 1 0
+D2
+~
+~
+0 0 11200
+D3
+~
+~
+0 0 11202
+S
+#11202
+Tunnel~
+  Traveling in a dark tunnel it continues to the east and southwest
+~
+111 1 0
+D1
+~
+~
+0 0 11201
+D8
+~
+~
+0 0 11203
+S
+#11203
+Tunnel~
+  Traveling in a dark tunnel under Lord Orgauth's Complex it continues
+to the northest.
+~
+111 1 0
+D4
+~
+~
+0 0 11187
+D6
+~
+~
+0 0 11202
+S
+#11204
+Hallway~
+  As you walk down the hallway you see pictures that line the walls. There 
+are also a few wall sconces. To the north is the summoning room. To the south 
+is the torture chamber. East the hallway continues. 
+~
+111 8 0
+D0
+~
+~
+0 0 11205
+D1
+~
+~
+0 0 11206
+D2
+~
+~
+0 0 11208
+D3
+~
+~
+0 0 11187
+S
+#11205
+Summoning Room~
+   There is a aura of power in the room. The room is pretty much empty.
+To the south is the hallway.
+~
+111 8 0
+D2
+~
+~
+0 0 11204
+S
+#11206
+Hallway~
+  In the hallway there are a few pictures hanging along the walls.
+There is a dragon chandelier hanging from above. To the northeast is
+the gate room. To the east there is a room filled with small cells.
+The hallway continues to the west.
+~
+111 8 0
+D1
+~
+~
+0 0 11207
+D3
+~
+~
+0 0 11204
+D6
+~
+~
+0 0 11209
+S
+#11207
+Cells~
+  This room has a few dank cells within it. The air is damp and cold,
+with the stink of corruption. This place looks like some thing out of
+a nightmare. The back entrance is off to the east. The hallway to the
+west will take you to the front entrance.
+~
+111 8 0
+D1
+~
+~
+0 0 11210
+D3
+~
+~
+0 0 11206
+S
+#11208
+Torture Chamber~
+  Along the wall in the torture chamber are dragon wall sconces. There
+is a dragon coat of arms hanging on another wall. A nightmare surounds
+these four walls, with all kinds of torture devices. Behind one of the
+walls is movement of some sort. Musty and damp the chamber is dim with
+light. To the north is a hallway.
+~
+111 8 0
+D0
+~
+~
+0 0 11204
+S
+#11209
+Gate Room~
+  Having entered the gate room. It is fulled with a bright white light
+coming from a crystal portal in the center of the room. Only way out of
+this room is by entering the portal.
+~
+111 140 0
+S
+#11210
+Back Entrance~
+  Standing at the back entrance of Lord Orgauth"s Complex no one is
+allowed to enter here without the express permission from Lord Orgauth
+himself. Looking into the next room there are a few dank cells. Out
+the door is a dirt path.
+~
+111 8 0
+D1
+~
+door~
+1 0 11270
+D3
+~
+~
+0 0 11207
+S
+#11211
+Barracks~
+You are in the barracks. Some of the guards sleep here when they are tired 
+and have to pull a double. There are a few bunks lined up alone two sides of 
+the walls. You see a few guards sleeping. 
+~
+111 8 0
+D1
+~
+~
+0 0 11182
+S
+#11212
+Row~
+    Rows of cells run down both sides of the hall. There are a few empty 
+cells down here. Kind of quite in here to have a few prisoners here.
+~
+111 8 0
+D0
+~
+cell~
+1 0 11213
+D2
+~
+cell~
+1 0 11214
+D3
+~
+~
+0 0 11215
+D4
+~
+~
+0 0 11182
+S
+#11213
+Cell~
+  There are no windows in the cells, only rat holes. Prisoners whom spend
+time here don't see the light of day until they are released. There is 
+not much room in the cells for the prisoners. Each cells was made to hold
+only one, however it has been known to house more.
+~
+111 9 0
+D2
+~
+~
+0 0 11212
+S
+#11214
+Cell~
+  There are no windows in the cells, only rat holes. Prisoners whom spend
+time here don't see the light of day until they are released. There is 
+not much room in the cells for the prisoners. Each cells was made to hold
+only one, however it has been known to house more.
+~
+111 9 0
+D0
+~
+~
+0 0 11212
+S
+#11215
+Row~
+  Rows of cells run down both sides of the hall. There are a few empty 
+cells down here. Kind of quite in here to have a few prisoners here.
+~
+111 8 0
+D0
+~
+cell~
+1 0 11216
+D1
+~
+~
+0 0 11212
+D2
+~
+cell~
+1 0 11217
+S
+#11216
+Cell~
+  There are no windows in the cells, only rat holes. Prisoners whom spend
+time here don't see the light of day until they are released. There is 
+not much room in the cells for the prisoners. Each cells was made to hold
+only one, however it has been known to house more.
+~
+111 9 0
+D2
+~
+~
+0 0 11215
+S
+#11217
+Cell~
+  There are no windows in the cells, only rat holes. Prisoners whom spend
+time here don't see the light of day until they are released. There is 
+not much room in the cells for the prisoners. Each cells was made to hold
+only one, however it has been known to house more.
+~
+111 9 0
+D0
+~
+~
+0 0 11215
+S
+#11218
+Huge Doors~
+   At the entrance to the graveyard there are a pair of huge doors 
+made of black iron carved with death's heads, hourglasses, winged
+creatures, and setting suns. Atop the gate is a glyph which supposedly
+seals the cemetery, preventing undead from entering or leaving. To
+the east there is a sign on a door of what used to be the caretakers
+house. There is no caretaker of the cemetery, now only a priest would
+feel the need to attempt to make the place a bit more presentable and
+to lay to rest any roaming undead creatures. Maybe you should read the
+sign on the door before you enter the house.
+~
+111 0 2
+D0
+~
+door~
+1 0 11222
+D1
+~
+door~
+1 0 11272
+D2
+~
+~
+0 0 11268
+E
+door~
+Our Day Begins When Yours Ends.
+With in this house lives a priest of Kelemvor. He is a very
+busy person. So unless you have a good reason to be here, I 
+would leave.
+~
+S
+#11219
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11226
+D1
+~
+~
+0 0 11220
+S
+#11220
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11227
+D1
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11219
+S
+#11221
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11228
+D1
+~
+~
+0 0 11222
+D3
+~
+~
+0 0 11220
+S
+#11222
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 4 2
+D0
+~
+~
+0 0 11229
+D1
+~
+~
+0 0 11223
+D2
+~
+door~
+1 0 11218
+D3
+~
+~
+0 0 11221
+S
+#11223
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11230
+D1
+~
+~
+0 0 11224
+D3
+~
+~
+0 0 11222
+S
+#11224
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11231
+D1
+~
+~
+0 0 11225
+D3
+~
+~
+0 0 11223
+S
+#11225
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11232
+D3
+~
+~
+0 0 11224
+S
+#11226
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11233
+D1
+~
+~
+0 0 11227
+D2
+~
+~
+0 0 11219
+S
+#11227
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11234
+D1
+~
+~
+0 0 11228
+D2
+~
+~
+0 0 11220
+D3
+~
+~
+0 0 11226
+S
+#11228
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11235
+D1
+~
+~
+0 0 11229
+D2
+~
+~
+0 0 11221
+D3
+~
+~
+0 0 11227
+S
+#11229
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11236
+D1
+~
+~
+0 0 11230
+D2
+~
+~
+0 0 11222
+D3
+~
+~
+0 0 11228
+S
+#11230
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11237
+D1
+~
+~
+0 0 11231
+D2
+~
+~
+0 0 11223
+D3
+~
+~
+0 0 11229
+S
+#11231
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11238
+D1
+~
+~
+0 0 11232
+D2
+~
+~
+0 0 11224
+D3
+~
+~
+0 0 11230
+S
+#11232
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11239
+D2
+~
+~
+0 0 11225
+D3
+~
+~
+0 0 11231
+S
+#11233
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11240
+D1
+~
+~
+0 0 11234
+D2
+~
+~
+0 0 11226
+S
+#11234
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11241
+D1
+~
+~
+0 0 11235
+D2
+~
+~
+0 0 11227
+D3
+~
+~
+0 0 11233
+S
+#11235
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11242
+D1
+~
+~
+0 0 11236
+D2
+~
+~
+0 0 11228
+D3
+~
+~
+0 0 11234
+S
+#11236
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11243
+D1
+~
+~
+0 0 11237
+D2
+~
+~
+0 0 11229
+D3
+~
+~
+0 0 11235
+S
+#11237
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11244
+D1
+~
+~
+0 0 11238
+D2
+~
+~
+0 0 11230
+D3
+~
+~
+0 0 11236
+S
+#11238
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11245
+D1
+~
+~
+0 0 11239
+D2
+~
+~
+0 0 11231
+D3
+~
+~
+0 0 11237
+S
+#11239
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11246
+D2
+~
+~
+0 0 11232
+D3
+~
+~
+0 0 11238
+S
+#11240
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11247
+D1
+~
+~
+0 0 11241
+D2
+~
+~
+0 0 11233
+S
+#11241
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11248
+D1
+~
+~
+0 0 11242
+D2
+~
+~
+0 0 11234
+D3
+~
+~
+0 0 11240
+S
+#11242
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11249
+D1
+~
+~
+0 0 11243
+D2
+~
+~
+0 0 11235
+D3
+~
+~
+0 0 11241
+S
+#11243
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 4 2
+D0
+~
+~
+0 0 11250
+D1
+~
+~
+0 0 11244
+D2
+~
+~
+0 0 11236
+D3
+~
+~
+0 0 11242
+S
+#11244
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11251
+D1
+~
+~
+0 0 11245
+D2
+~
+~
+0 0 11237
+D3
+~
+~
+0 0 11243
+S
+#11245
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11252
+D1
+~
+~
+0 0 11246
+D2
+~
+~
+0 0 11238
+D3
+~
+~
+0 0 11244
+S
+#11246
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11253
+D2
+~
+~
+0 0 11239
+D3
+~
+~
+0 0 11245
+S
+#11247
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11254
+D1
+~
+~
+0 0 11248
+D2
+~
+~
+0 0 11240
+S
+#11248
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11255
+D1
+~
+~
+0 0 11249
+D2
+~
+~
+0 0 11241
+D3
+~
+~
+0 0 11247
+S
+#11249
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11256
+D1
+~
+~
+0 0 11250
+D2
+~
+~
+0 0 11242
+D3
+~
+~
+0 0 11248
+S
+#11250
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11257
+D1
+~
+~
+0 0 11251
+D2
+~
+~
+0 0 11243
+D3
+~
+~
+0 0 11249
+S
+#11251
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11258
+D1
+~
+~
+0 0 11252
+D2
+~
+~
+0 0 11244
+D3
+~
+~
+0 0 11250
+S
+#11252
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11259
+D1
+~
+~
+0 0 11253
+D2
+~
+~
+0 0 11245
+D3
+~
+~
+0 0 11251
+S
+#11253
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11260
+D2
+~
+~
+0 0 11246
+D3
+~
+~
+0 0 11252
+S
+#11254
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11261
+D1
+~
+~
+0 0 11255
+D2
+~
+~
+0 0 11247
+S
+#11255
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11262
+D1
+~
+~
+0 0 11256
+D2
+~
+~
+0 0 11248
+D3
+~
+~
+0 0 11254
+S
+#11256
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11263
+D1
+~
+~
+0 0 11257
+D2
+~
+~
+0 0 11249
+D3
+~
+~
+0 0 11255
+S
+#11257
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11264
+D1
+~
+~
+0 0 11258
+D2
+~
+~
+0 0 11250
+D3
+~
+~
+0 0 11256
+S
+#11258
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11265
+D1
+~
+~
+0 0 11259
+D2
+~
+~
+0 0 11251
+D3
+~
+~
+0 0 11257
+S
+#11259
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11266
+D1
+~
+~
+0 0 11260
+D2
+~
+~
+0 0 11252
+D3
+~
+~
+0 0 11258
+S
+#11260
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D0
+~
+~
+0 0 11267
+D2
+~
+~
+0 0 11253
+D3
+~
+~
+0 0 11259
+S
+#11261
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D1
+~
+~
+0 0 11262
+D2
+~
+~
+0 0 11254
+S
+#11262
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D1
+~
+~
+0 0 11263
+D2
+~
+~
+0 0 11255
+D3
+~
+~
+0 0 11261
+S
+#11263
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D1
+~
+~
+0 0 11264
+D2
+~
+~
+0 0 11256
+D3
+~
+~
+0 0 11262
+S
+#11264
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D1
+~
+~
+0 0 11265
+D2
+~
+~
+0 0 11257
+D3
+~
+~
+0 0 11263
+S
+#11265
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D1
+~
+~
+0 0 11266
+D2
+~
+~
+0 0 11258
+D3
+~
+~
+0 0 11264
+S
+#11266
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D1
+~
+~
+0 0 11267
+D2
+~
+~
+0 0 11259
+D3
+~
+~
+0 0 11265
+S
+#11267
+South Cemetery~
+  On the grounds of the South Cemetery there are a few splintered
+coffins, their broken halves spilling out into the air. Lookin down
+a arm bone is sticking out of the dirt next to your feet. All over
+the bones are studding the ground like hands reaching up through a
+river of rust.
+~
+111 0 2
+D2
+~
+~
+0 0 11260
+D3
+~
+~
+0 0 11266
+S
+#11268
+Dirt Path~
+  Traveling on a dirt path there are bushes on both sides of the path.
+To the north is the entrance to the cementry. Everything is very still
+and quite out here, all but some noises coming from the north.
+~
+111 1 2
+D0
+~
+~
+0 0 11218
+D2
+~
+~
+0 0 11269
+S
+#11269
+Dirt Path~
+  Traveling on a dirt path there are bushes on both sides of the path.
+To the far north is the entrance to the cementry. Everything is very 
+still and quite out here, all but some noises coming from the north.
+~
+111 1 2
+D0
+~
+~
+0 0 11268
+D3
+~
+~
+0 0 11270
+S
+#11270
+Dirt Path~
+  Traveling on a dirt path you have come to a stop. A complex is to
+the west. The dirt path continues to the north and east.
+~
+111 1 2
+D0
+~
+~
+0 0 11326
+D1
+~
+~
+0 0 11269
+D3
+~
+door~
+1 0 11210
+D8
+~
+~
+0 0 11195
+S
+#11271
+Entrance~
+You have entered the tomb of some unknown warrior. There is a coffin in 
+the middle of the tomb. The carvings are worn down due to the time and 
+elements. It is very cold and damp in here. It's believed that the ghost of 
+the unknown warrior lurks here. 
+~
+111 9 0
+D2
+~
+~
+0 0 11243
+S
+#11272
+SMALL HOUSE~
+  Within the small house outside of the South Cemetery there are
+no windows. There is a alter towards the back of the house. On a
+shelf there is large amounts of herbs, spices, potions, incense on
+the north wall. A bookcase on the south wall houses a wide range
+of books from the arts to the history of Zhentil Keep.
+~
+111 8 0
+D3
+~
+door~
+1 -1 11218
+S
+#11273
+River Trail Gate~
+   Durning the Razing this gate was sealed up. Due to not enough forces to 
+defend the gate that could be open by an invader. It's spiked shut from the 
+inside with great iron spikes. Huge beams are laid across the gate to bar it. 
+A large mound of debris is pushed up against it. There are two glyphs called 
+"Doas" are on the gates. 
+~
+111 0 1
+D6
+~
+~
+0 0 11119
+S
+#11274
+The Tesh Trail~
+  Traveling along the Tesh Trail. It is located outside of the city
+walls. However it is still technically part of Zhentil Keep, with a
+few other buildings along the trail. There is a hole on the side of
+the gate just big enough for you to go through. Looking throught it,
+you can see inside the walls of the city.
+~
+111 0 2
+D0
+~
+~
+0 0 11275
+D3
+~
+~
+0 0 11300
+S
+#11275
+Dirt path~
+  The residence of Tumarys is the home of a druid from Chauntea. The
+place is very small. Everything is contain in one small room. There is
+loads of feed piled on a shelf in the far corner of the room. Faintly
+you can hear the sounds of things moving outback.
+~
+111 0 2
+D0
+~
+~
+0 0 11276
+D2
+~
+~
+0 0 11274
+S
+#11276
+Dirt path~
+  There are weeds growing down the middle of the path. Not many come
+this way. To the north are the gates to the city dump. However they
+are locked and the keys are lost. Maybe a search may find them lying
+around somewhere.
+~
+111 0 2
+D0
+~
+gate~
+1 1807 11277
+D2
+~
+~
+0 0 11275
+S
+#11277
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 4 2
+D0
+~
+~
+0 0 11278
+D2
+~
+gate~
+1 0 11276
+D3
+~
+~
+0 0 11284
+S
+#11278
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11279
+D1
+~
+~
+0 0 11299
+D2
+~
+~
+0 0 11277
+D3
+~
+~
+0 0 11283
+S
+#11279
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11280
+D1
+~
+~
+0 0 11298
+D2
+~
+~
+0 0 11278
+D3
+~
+~
+0 0 11282
+S
+#11280
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D1
+~
+~
+0 0 11297
+D2
+~
+~
+0 0 11279
+D3
+~
+~
+0 0 11281
+S
+#11281
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D1
+~
+~
+0 0 11280
+D2
+~
+~
+0 0 11282
+D3
+~
+~
+0 0 11288
+S
+#11282
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11281
+D1
+~
+~
+0 0 11279
+D2
+~
+~
+0 0 11283
+D3
+~
+~
+0 0 11287
+S
+#11283
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11282
+D1
+~
+~
+0 0 11278
+D2
+~
+~
+0 0 11284
+D3
+~
+~
+0 0 11286
+S
+#11284
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11283
+D1
+~
+~
+0 0 11277
+D3
+~
+~
+0 0 11285
+S
+#11285
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11286
+D1
+~
+~
+0 0 11284
+D3
+~
+~
+0 0 11292
+S
+#11286
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11287
+D1
+~
+~
+0 0 11283
+D2
+~
+~
+0 0 11285
+D3
+~
+~
+0 0 11291
+S
+#11287
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11288
+D1
+~
+~
+0 0 11282
+D2
+~
+~
+0 0 11286
+D3
+~
+~
+0 0 11290
+S
+#11288
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D1
+~
+~
+0 0 11281
+D2
+~
+~
+0 0 11287
+D3
+~
+~
+0 0 11289
+S
+#11289
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D1
+~
+~
+0 0 11288
+D2
+~
+~
+0 0 11290
+D3
+~
+~
+0 0 11296
+S
+#11290
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11289
+D1
+~
+~
+0 0 11287
+D2
+~
+~
+0 0 11291
+D3
+~
+~
+0 0 11295
+S
+#11291
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11290
+D1
+~
+~
+0 0 11286
+D2
+~
+~
+0 0 11292
+D3
+~
+~
+0 0 11294
+S
+#11292
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11291
+D1
+~
+~
+0 0 11285
+D3
+~
+~
+0 0 11293
+S
+#11293
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11294
+D1
+~
+~
+0 0 11292
+S
+#11294
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11295
+D1
+~
+~
+0 0 11291
+D2
+~
+~
+0 0 11293
+S
+#11295
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11296
+D1
+~
+~
+0 0 11290
+D2
+~
+~
+0 0 11294
+S
+#11296
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D1
+~
+~
+0 0 11289
+D2
+~
+~
+0 0 11295
+S
+#11297
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D2
+~
+~
+0 0 11298
+D3
+~
+~
+0 0 11280
+S
+#11298
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11297
+D2
+~
+~
+0 0 11299
+D3
+~
+~
+0 0 11279
+S
+#11299
+Dump~
+   The dump is a vast tract of land with numerous mounds of garbage resting 
+on moist soil. Besides being a normal garbage dump, it is a collection ground 
+for toxic chemicals, failed experiments, animal and monster carcasses, and 
+the secreted corpses of the murdered. A horrendous stench emanates from the 
+area, even in winter time. 
+~
+111 0 2
+D0
+~
+~
+0 0 11298
+D3
+~
+~
+0 0 11278
+S
+#11300
+The Tesh Trail~
+  Traveling along the Tesh Trail. It is located outside of the city
+walls. However it is still technically part of Zhentil Keep, with a
+few other buildings along the trail.
+~
+111 0 0
+D0
+~
+~
+0 0 11301
+D1
+~
+~
+0 0 11274
+D3
+~
+~
+0 0 11302
+S
+#11301
+Keep To Yourself~
+  Keep To Yourself is a small tavern for people who dont't wish to
+enter Zhentil Keep, but still want a place to take a load off their
+feet and hoist a few mugs. Some of the wildest rumors will be heard
+here about the Keep.
+~
+111 8 0
+D2
+~
+~
+0 0 11300
+S
+#11302
+The Tesh Trail~
+  Traveling along the Tesh Trail. It is located outside of the city
+walls. However it is still technically part of Zhentil Keep, with a
+few other buildings along the trail.
+~
+111 0 0
+D1
+~
+~
+0 0 11300
+D2
+~
+~
+0 0 11303
+S
+#11303
+Residence of Tumarys~
+  The residence of Tumarys is the home of a druid from Chauntea. The
+place is very small. Everything is contain in one small room. There is
+loads of feed piled on a shelf in the far corner of the room. Faintly
+you can hear the sounds of things moving outback.
+~
+111 8 0
+D0
+~
+~
+0 0 11302
+S
+#11304
+Alley~
+  Moving down a dark alley the door to the Tesh-Wave, a small tavern,
+is open to the west. A row of warehouses line both sides of the alley
+to the north. The entrance to the docks is at the end of the alley.
+~
+111 0 1
+D0
+~
+~
+0 0 11305
+D2
+~
+~
+0 0 11148
+D3
+~
+~
+0 0 11311
+S
+#11305
+Alley~
+  To the east and west of the alley are warehouses. A little ways to
+the north is the docks.
+~
+111 4 1
+D0
+~
+~
+0 0 11306
+D1
+~
+~
+0 0 11308
+D2
+~
+~
+0 0 11304
+D3
+~
+~
+0 0 11307
+S
+#11306
+Alley~
+  To the east and west of you are warehouses. To the north is the docks.
+~
+111 0 1
+D0
+~
+~
+0 0 11312
+D1
+~
+~
+0 0 11310
+D2
+~
+~
+0 0 11305
+D3
+~
+~
+0 0 11309
+S
+#11307
+Warehouse~
+  The warehouses line the eastern end of the docks. It is built of stone
+and oak, with solid iron doors. The most common cargo stored here is dry
+goods, as all food is immediately rushed to the proper merchants, due to
+the fear of theft.
+~
+111 8 0
+D1
+~
+~
+0 0 11305
+S
+#11308
+Warehouse~
+  The warehouses line the eastern end of the docks. It is built of stone
+and oak, with solid iron doors. The most common cargo stored here is dry
+goods, as all food is immediately rushed to the proper merchants, due to
+the fear of theft.
+~
+111 8 0
+D3
+~
+~
+0 0 11305
+S
+#11309
+Warehouse~
+  The warehouses line the eastern end of the docks. It is built of stone
+and oak, with solid iron doors. The most common cargo stored here is dry
+goods, as all food is immediately rushed to the proper merchants, due to
+the fear of theft.
+~
+111 8 0
+D1
+~
+~
+0 0 11306
+S
+#11310
+Warehouse~
+  The warehouses line the eastern end of the docks. It is built of stone
+and oak, with solid iron doors. The most common cargo stored here is dry
+goods, as all food is immediately rushed to the proper merchants, due to
+the fear of theft.
+~
+111 8 0
+D3
+~
+~
+0 0 11306
+S
+#11311
+The Tesh-Wave~
+  The Tesh-Wave is a moderate tavern with decent food and drink. It is 
+located on the dock area outside the main wall of Zhentil Keep. It has a 
+splendid view of the River Tesh. You can also see the ruined city on the 
+northern bank. Many sea captains and river boat commanders frequent the 
+tavern, making it a favored site to hire a boat if your crazy enough to 
+sail across the River Tesh to the northern ruins. 
+~
+111 8 0
+D1
+~
+~
+0 0 11304
+S
+#11312
+Docks~
+  Though not a very large dock. It now handles all sea and river traffic
+to and from Zhentil Keep. People who enter the city by the docks are at
+once escorted to the Custom House so they can be processed and pay their
+entry taxes. You see a few people walking by.
+~
+111 0 1
+D0
+~
+~
+0 0 11317
+D2
+~
+~
+0 0 11306
+D3
+~
+~
+0 0 11313
+S
+#11313
+Docks~
+  Though not a very large dock. It now handles all sea and river traffic
+to and from Zhentil Keep. People who enter the city by the docks are at
+once escorted to the Custom House so they can be processed and pay their
+entry taxes. You see a few people walking by.
+~
+111 0 0
+D1
+~
+~
+0 0 11312
+D2
+~
+~
+0 0 11325
+D3
+~
+~
+0 0 11314
+S
+#11314
+Docks~
+  Though not a very large dock. It now handles all sea and river traffic
+to and from Zhentil Keep. People who enter the city by the docks are at
+once escorted to the Custom House so they can be processed and pay their
+entry taxes. You see a few people walking by.
+~
+111 0 1
+D0
+~
+~
+0 0 11319
+D1
+~
+~
+0 0 11313
+D2
+~
+~
+0 0 11323
+D3
+~
+~
+0 0 11315
+S
+#11315
+Docks~
+  Though not a very large dock. It now handles all sea and river traffic
+to and from Zhentil Keep. People who enter the city by the docks are at
+once escorted to the Custom House so they can be processed and pay their
+entry taxes. You see a few people walking by.
+~
+111 0 1
+D1
+~
+~
+0 0 11314
+D2
+~
+~
+0 0 11324
+D3
+~
+~
+0 0 11316
+S
+#11316
+Docks~
+  Though not a very large dock. It now handles all sea and river traffic
+to and from Zhentil Keep. People who enter the city by the docks are at
+once escorted to the Custom House so they can be processed and pay their
+entry taxes. You see a few people walking by.
+~
+111 0 1
+D0
+~
+~
+0 0 11321
+D1
+~
+~
+0 0 11315
+S
+#11317
+Pier~
+  There are a few people idling around waiting to unload cargo from the
+ships. There are odd things that wash up on the piers here. Flotsam and
+jetsam contunues to wash up, a reminder of the troubled days. At night
+the entire northern bank of the Tesh is very foggy, and phamtoms of the
+dead float or sail on the Tesh.
+~
+111 0 1
+D0
+~
+~
+0 0 11318
+D2
+~
+~
+0 0 11312
+S
+#11318
+Pier~
+  There are a few people idling around waiting to unload cargo from the
+ships. There are odd things that wash up on the piers here. Flotsam and
+jetsam contunues to wash up, a reminder of the troubled days. At night
+the entire northern bank of the Tesh is very foggy, and phamtoms of the
+dead float or sail on the Tesh.
+~
+111 0 1
+D2
+~
+~
+0 0 11317
+S
+#11319
+Pier~
+  There are a few people idling around waiting to unload cargo from the
+ships. There are odd things that wash up on the piers here. Flotsam and
+jetsam contunues to wash up, a reminder of the troubled days. At night
+the entire northern bank of the Tesh is very foggy, and phamtoms of the
+dead float or sail on the Tesh.
+~
+111 0 1
+D0
+~
+~
+0 0 11320
+D2
+~
+~
+0 0 11314
+S
+#11320
+Pier~
+  There are a few people idling around waiting to unload cargo from the
+ships. There are odd things that wash up on the piers here. Flotsam and
+jetsam contunues to wash up, a reminder of the troubled days. At night
+the entire northern bank of the Tesh is very foggy, and phamtoms of the
+dead float or sail on the Tesh.
+~
+111 0 1
+D2
+~
+~
+0 0 11319
+S
+#11321
+Pier~
+  There are a few people idling around waiting to unload cargo from the
+ships. There are odd things that wash up on the piers here. Flotsam and
+jetsam contunues to wash up, a reminder of the troubled days. At night
+the entire northern bank of the Tesh is very foggy, and phamtoms of the
+dead float or sail on the Tesh.
+~
+111 0 1
+D0
+~
+~
+0 0 11322
+D2
+~
+~
+0 0 11316
+S
+#11322
+Pier~
+  There are a few people idling around waiting to unload cargo from the
+ships. There are odd things that wash up on the piers here. Flotsam and
+jetsam contunues to wash up, a reminder of the troubled days. At night
+the entire northern bank of the Tesh is very foggy, and phamtoms of the
+dead float or sail on the Tesh.
+~
+111 0 1
+D0
+~
+~
+0 -1 11400
+D2
+~
+~
+0 0 11321
+S
+#11323
+Drydock~
+  There are a few boats here waiting on repairs. There are a few people
+here talking about what is out on the river during the nights, it makes
+dogs howl, gives nightmares and causes the clerics to falter in their
+nightly devotions.
+~
+111 0 0
+D0
+~
+~
+0 0 11314
+S
+#11324
+Drydock~
+  There are a few boats here waiting on repairs. There are a few people
+here talking about what is out on the river during the nights, it makes
+dogs howl, gives nightmares and causes the clerics to falter in their
+nightly devotions.
+~
+111 0 0
+D0
+~
+~
+0 0 11315
+S
+#11325
+Dockmaster's Shack~
+  A shake this place seems to be. There is all kinds of trash and
+junk from one end of the room to the other. There is a small desk
+on the far wall under a open window. Even thou the window is open 
+it is still kind of stuff in here.
+~
+111 8 0
+D0
+~
+~
+0 0 11313
+S
+#11326
+Dirt Path~
+  A dirt path continues to the south. To the north is a house.
+~
+111 0 0
+D0
+~
+door~
+1 0 11327
+D2
+~
+~
+0 0 11270
+S
+#11327
+Sunset House~
+  As you enter the small ornate house. You notice heavy black drapes across 
+the windows, and shutters for extra privacy. The old house was once owned by 
+an eccentric merchant. Now home to a contingent of drow. 
+~
+111 2097160 0
+D2
+~
+~
+0 0 11326
+S
+#11328
+Outside the Gates~
+  Outside the South Tesh Gates there are closed at all times as they no
+longer are used as a entrance to the city. The only reason you can still
+get in and out this way is due to the need for the guards to get back and
+forth to the lighthouse. To the north you can see the remains of the Tesh
+Bridge. To the east is a path along the wall that leads to the lighthouse.
+~
+111 4 0
+D0
+~
+~
+0 0 11336
+D1
+~
+~
+0 0 11329
+D2
+~
+gate~
+1 -1 11180
+S
+#11329
+Along the Wall~
+  Traveling along the path outside of the city wall it continues to the
+east. The Tesh Gates are to the west.
+~
+111 0 0
+D1
+~
+~
+0 0 11330
+D3
+~
+~
+0 0 11328
+S
+#11330
+Along the Wall~
+  Traveling along on a path outside the city wall it continues to the
+east and west.
+~
+111 0 0
+D1
+~
+~
+0 0 11331
+D3
+~
+~
+0 0 11329
+S
+#11331
+Along the Wall~
+  Traveling along a path along the outside of the city wall it continues
+to the west. The lighthouse is off to the east.
+~
+111 0 0
+D1
+~
+~
+0 0 11332
+D3
+~
+~
+0 0 11330
+S
+#11332
+New Beacon Lighthouse~
+  The New Beacon Lighthouse is the only original brand new structure
+built in the new city of Zhentil Keep since its comeback. Built in two
+months time, using great stone blocks salvaged from the siege.
+~
+111 8 0
+D1
+~
+~
+0 0 11375
+D3
+~
+~
+0 0 11331
+D4
+~
+~
+0 0 11333
+S
+#11333
+New Beacon Lighthouse~
+  As you travel in the lighthouse you can go up a few more floors to get to 
+the top. Down is the entrance. 
+~
+111 8 0
+D4
+~
+~
+0 0 11334
+D5
+~
+~
+0 0 11332
+S
+#11334
+New Beacon Lighthouse~
+  Traveling in the lighthouse you can continue up to the top or back
+down. There is a bright light shining from the top of the lighthouse.
+~
+111 8 0
+D4
+~
+~
+0 0 11335
+D5
+~
+~
+0 0 11333
+S
+#11335
+New Beacon Lighthouse~
+  At the top of the lighthouse there are always two lookouts up here.
+One facing the moonsea, the other facing upriver of the Tesh. Tampering
+with the light, or failing to keep watch, are punishable by death. There
+is a specially enhanced continual light on the lens, enabling the light
+to be seen for miles.
+~
+111 8 0
+D5
+~
+~
+0 0 11334
+S
+#11336
+Dirt Road~
+You are on a dirt road. To the south is the south Tesh Gate. Over to the 
+southeast you see the light coming from the light house. To the north is the 
+remains of what is left of the Tesh Bridge. No one goes north and comes back 
+alive. You see a sign posted here that you should read. 
+~
+111 0 0
+D0
+~
+~
+0 0 11337
+D2
+~
+~
+0 0 11328
+S
+#11337
+REMAINS OF THE TESH BRIDGE~
+  As you step off the remains of the Tesh Bridge you hit the water
+with a big splash. Quickly you are pulled under by the currents of
+water. The light of the land dims away to blackness.
+~
+111 4 8
+S
+#11338
+Outside~
+  Standing out back of the Burst Boil. You hear a lot of noise coming
+from inside. Triping, you notice a half open grate. A faint smell of
+something rancid seems to be coming from the grate.
+~
+111 0 0
+D2
+~
+door~
+1 0 11183
+D5
+~
+grate~
+1 0 11339
+S
+#11339
+Ladder~
+  Climbing on a ladder just above the sewers of Zhentil Keep.
+Wisps of steam are raising around you as they exit up through
+the grate. You hear the faint sounds of water dripping as it 
+echos off the walls.
+~
+111 8 13
+D4
+~
+grate~
+1 0 11338
+D5
+~
+~
+0 0 11340
+S
+#11340
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D0
+~
+~
+0 0 11360
+D2
+~
+~
+0 0 11341
+D4
+~
+~
+0 0 11339
+S
+#11341
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D0
+~
+~
+0 0 11340
+D2
+~
+~
+0 0 11342
+S
+#11342
+Intersecting Room~
+  Standing in the intersecting room, it is a large rectangular room. The
+stench in here isn't much better then in the tunnels. A ledge runs along
+the walls a few feet above water level. The sewer tunnel is to the north
+and the room continues east and south.
+~
+111 8 0
+D0
+~
+~
+0 0 11341
+D1
+~
+~
+0 0 11343
+D2
+~
+~
+0 0 11344
+S
+#11343
+Intersecting Room~
+  Standing in the intersecting room, it is a large rectangular room. The
+stench in here isn't much better then in the tunnels. A ledge runs along
+the walls a few feet above water level. The sewer tunnel is to the north
+and the room continues east and south.
+~
+111 8 0
+D2
+~
+~
+0 0 11345
+D3
+~
+~
+0 0 11342
+S
+#11344
+Intersecting Room~
+  Standing in the intersecting room. It is a large rectangular room. To
+the far east your eye catches a faint glow that appears and vanishes as
+quick as it appears. The room continues north and east. The sewer tunnel
+continues to the west.
+~
+111 8 0
+D0
+~
+~
+0 0 11342
+D1
+~
+~
+0 0 11345
+D3
+~
+~
+0 0 11350
+S
+#11345
+Intersecting Room~
+  Standing in the intesecting room, it is a large rectangular room. A
+faint glow to the east catches your eye. As fast as the glow appears it
+vanishes. The room continues to your north and west. East is the tunnel.
+~
+111 8 0
+D0
+~
+~
+0 0 11343
+D1
+~
+~
+0 0 11346
+D3
+~
+~
+0 0 11344
+S
+#11346
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11347
+D3
+~
+~
+0 0 11345
+S
+#11347
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11348
+D3
+~
+~
+0 0 11346
+S
+#11348
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+curtain~
+1 0 11349
+D3
+~
+~
+0 0 11347
+S
+#11349
+Culdesac~
+  Standing inside the culdesac, even though this room is part of the
+sewers it actually smells tolerable. The floor is raised a little so
+it is dry. It is well-lit in here. There is a black curtain hanging
+in front of the tunnel to keep the light in and the odor out. There
+is a bed in here and a shelf full of books.
+~
+111 8 0
+D3
+~
+curtain~
+1 0 11348
+S
+#11350
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11344
+D3
+~
+~
+0 0 11351
+S
+#11351
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11350
+D3
+~
+~
+0 0 11352
+S
+#11352
+Chamber~
+  Standing within a chamber that appears to be a older part of the sewer
+system. Water plants have sprouted from the wet floor. Also some greenish
+long strips of some type of vegetation grow on the walls. It looks like
+slimy tapestries. You can see a gash in the south wall that is covered
+by the slimy tapestries curtains.
+~
+111 8 0
+D0
+~
+~
+0 0 11353
+D1
+~
+~
+0 0 11351
+D2
+~
+gash~
+1 0 11364
+S
+#11353
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D0
+~
+~
+0 0 11354
+D2
+~
+~
+0 0 11352
+S
+#11354
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D0
+~
+~
+0 0 11355
+D2
+~
+~
+0 0 11353
+S
+#11355
+Corner Lair~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11356
+D2
+~
+~
+0 0 11354
+S
+#11356
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11357
+D3
+~
+~
+0 0 11355
+S
+#11357
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11358
+D3
+~
+~
+0 0 11356
+S
+#11358
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11359
+D3
+~
+~
+0 0 11357
+S
+#11359
+Intersection Room~
+  Standing in the intersection room. This room serves as an outflow
+junction. There are tracks that lead to and from this room. You see
+a wide ledge that runs the length of the room.
+~
+111 8 0
+D1
+~
+~
+0 0 11361
+D2
+~
+~
+0 0 11360
+D3
+~
+~
+0 0 11358
+S
+#11360
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D0
+~
+~
+0 0 11359
+D2
+~
+~
+0 0 11340
+S
+#11361
+Sewer~
+  The first thing you notice here in the sewers under Zhentil Keep is
+the awful stench of sewage. You hear no noise down here other then the
+splashing of sewage in the flow tunnels. You see wisps of steam coming
+from the sewage as you walk on.
+~
+111 8 0
+D1
+~
+~
+0 0 11362
+D3
+~
+~
+0 0 11359
+S
+#11362
+Room of Warning~
+  As you enter the room of Warning there is a raised walkway that
+runs all along the walls. It is a couple of feet above the water
+line. A winch mechanism lies on the wall to the right of the flow
+tunnel. A series of symbols on the wall can be read by anyone who
+is from Zhentil Keep. Or anyone whom has looked in to the history
+of Zhentil Keep. The grate can be open by the winch. However before
+you do that you should read the symbols.
+~
+111 8 0
+D1
+~
+grate~
+1 0 11363
+D3
+~
+~
+0 0 11361
+S
+#11363
+ROYAL FLUSH~
+  Anyone whom passes into the royal flush gets taken into the strong
+current and flushed into the Tesh River and beyond. As you enter the
+outflow room the water rushes at you with such force that it entwines
+you as it pulls you down into the unknown. After a few seconds you are
+knocked out and never to awake again as you drown.
+~
+111 14 8
+S
+#11364
+A Funeral Reception~
+  It is very different in here as you pass from the sewer into this old
+area. It is drier and dustier, with a hint of decay. As you look around
+you see that the walls here are decorated with fading murals depicting
+corpses in various stages of funeral preparation. The clothing worn by
+the workers must be hundreds of years old. The floor is covered with the
+remains of old urns, tables, and embalming equipment.
+~
+111 8 0
+D0
+~
+~
+0 0 11352
+D1
+~
+~
+0 0 11373
+D2
+~
+~
+0 0 11365
+S
+#11365
+Sarcophagus Storage~
+  As you enter sarcophagus storage the scent of damp, rotting wood greets
+you. You see wooden coffins and stone tomb lids sprawled out all across the
+room. Some have gruesome visages on the lids. They are carved in stone or
+painted in time-faded colors. It is very unsettling in here.
+~
+111 8 0
+D0
+~
+~
+0 0 11364
+D1
+~
+~
+0 0 11366
+S
+#11366
+Crematorium~
+  As you enter the crematorium you notice that it is dry and warm in
+here. There are rows of shelves with small carved urns. You also notice
+a huge iron furnace in the far corner of the room. You see a small door
+on the furnace with runes carved above it.The furance is cold and the
+urns are empty. You see what looks like a door inbetween the shelves.
+~
+111 8 0
+D1
+~
+door~
+0 1907 11367
+D3
+~
+~
+0 0 11365
+S
+#11367
+Mixed Blessings~
+  As you enter the room a blast of air hisses by you as the air pressure
+equalizes in the chamber. It has not been open in centuries. To the south
+you see a door. In the middle of the room you see a stone block. Lying on
+the stone block is a beautiful sword. Legend has it as belonging to a man
+who met his end in the Keep centuries ago. The Zhentarim's were unable to
+destory the weapon, so it was sealed in this chamber.
+~
+111 8 0
+D2
+~
+door~
+1 0 11368
+D3
+~
+door~
+1 0 11366
+S
+#11368
+Courtyard~
+  Entering a very small courtyard, it has managed to survive the
+original structure's burial. It is now fenced in by a wall of stone
+that has crumble.
+~
+111 0 1
+D0
+~
+door~
+2 1907 11367
+D1
+~
+~
+0 0 11369
+S
+#11369
+Courtyard~
+  Entering a very small courtyard, it has managed to survive the
+original structure's burial. It is now fenced in by a wall of stone
+that has crumble.
+~
+111 0 1
+D0
+~
+~
+0 0 11370
+D3
+~
+~
+0 0 11368
+S
+#11370
+The Shadow Knows~
+  The shadows knows was some sort of receiving area for visitors. The 
+rotting remains of divans, cushions, tables, and chairs lie jumbled all 
+over, making odd shadows on the walls. East you see double doors, once 
+long ago they used to lead to the outside, but are now buried in a big 
+avalache of rocks and debris. Air seems to be coming from below and 
+blowing the dirt around revealing a small crack in the floor. 
+~
+111 8 13
+D2
+~
+~
+0 0 11369
+D3
+~
+~
+0 0 11371
+E
+crack~
+Looking closer at the crack the stale air hits you in the face. You relize 
+that maybe you should start digging down to see what is down below. 
+~
+S
+#11371
+Hallway~
+  Traveling the hallways everything seems to echo. Off to the east
+is the shadows knows. To the west is a vaulted chamber.
+~
+111 8 0
+D1
+~
+~
+0 0 11370
+D3
+~
+~
+0 0 11372
+S
+#11372
+Vaulted Chamber~
+  Getting a stifling feeling of dread as you enter the vaulted chamber.
+Ragged red banners with a black hand upon them are hanging on the walls.
+A alter of red marble stands to the north, with words scrawled in flesh
+blood upon the wall behind it: Gone but not forgotten: now the son takes
+the gory mantle and rise to new power!
+~
+111 8 0
+D1
+~
+~
+0 0 11371
+D3
+~
+~
+0 0 11373
+S
+#11373
+Hallway~
+  To the east is a vaulted chamber. To the west is a funeral reception.
+~
+111 8 0
+D1
+~
+~
+0 0 11372
+D3
+~
+~
+0 0 11364
+S
+#11374
+Inside a Furnace~
+Being pulled into the furnace the heat surrounds you. Within these
+wall the dead was put here to burn. Jukar the Efreeti home is here as
+he was summoned here years ago by the Zhents and imprisoned to act as 
+a cremator of the human remains.
+~
+111 2097416 0
+D2
+~
+~
+0 0 11366
+S
+#11375
+Along the Wall~
+  Traveling on the outside of the city walls it continuse to the east.
+The lighthouse is off to the west.
+~
+111 0 1
+D1
+~
+~
+0 0 11376
+D3
+~
+~
+0 0 11332
+S
+#11376
+Along the Wall~
+  Traveling along the path on the outside of the city wall it continues
+to the west. A dirt path is off to the east.
+~
+111 0 1
+D1
+~
+~
+0 0 11377
+D3
+~
+~
+0 0 11375
+S
+#11377
+Dirt Path~
+  Traveling along on a dirt path you come across a sign you should read.
+Back to the west the dirt path continues. Shipwreck Point is off to the
+east.
+~
+111 0 1
+D1
+~
+~
+0 0 11378
+D3
+~
+~
+0 0 11376
+S
+#11378
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in a
+large collection of ruined wooden vessels, shredded canvas sails, blocks
+of ice, and dead bodies. There are rumors that the dead crews rise as 
+zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 4 1
+D0
+~
+~
+0 0 11379
+D3
+~
+~
+0 0 11377
+S
+#11379
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D0
+~
+~
+0 0 11380
+D2
+~
+~
+0 0 11378
+S
+#11380
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 4 1
+D0
+~
+~
+0 0 11385
+D1
+~
+~
+0 0 11381
+D2
+~
+~
+0 0 11379
+S
+#11381
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D0
+~
+~
+0 0 11384
+D1
+~
+~
+0 0 11382
+D3
+~
+~
+0 0 11380
+S
+#11382
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D0
+~
+~
+0 0 11383
+D3
+~
+~
+0 0 11381
+S
+#11383
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D0
+~
+~
+0 0 11388
+D2
+~
+~
+0 0 11382
+D3
+~
+~
+0 0 11384
+S
+#11384
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D0
+~
+~
+0 0 11387
+D1
+~
+~
+0 0 11383
+D2
+~
+~
+0 0 11381
+D3
+~
+~
+0 0 11385
+S
+#11385
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D0
+~
+~
+1 0 11386
+D1
+~
+~
+0 0 11384
+D2
+~
+~
+0 0 11380
+S
+#11386
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D1
+~
+~
+0 0 11387
+D2
+~
+~
+0 0 11385
+S
+#11387
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D1
+~
+~
+0 0 11388
+D2
+~
+~
+0 0 11384
+D3
+~
+~
+0 0 11386
+S
+#11388
+Shipwreck Point~
+  Shipwreck Point is a place where tidal streams swirl, resulting in
+a large collection of ruined wooden vessels, blocks of ice, shredded
+canvas sails, and dead bodies. There are rumors that the dead crew rise
+as zombies, skeletons, and ghouls if someone takes to much of the loot.
+~
+111 0 1
+D2
+~
+~
+0 0 11383
+D3
+~
+~
+0 0 11387
+S
+#11389
+In a Vessel~
+You are inside a ruined wooden vessel. What is left of it. The wood
+gives as you walk on it. Over in the far corner is a chest.
+~
+111 8 0
+D2
+~
+~
+0 0 11388
+S
+#11390
+Central Manor~
+  As you enter the central manor, Tymora is here to greet you and wish
+everyone a lucky night. This is a place of laughter, love, luck, and just
+sheer enjoyment of life. It is heavily frequented by citizens and visitors
+alike.
+~
+111 8 0
+D0
+~
+~
+0 0 11393
+D1
+~
+~
+0 0 11392
+D2
+~
+~
+0 0 11164
+D3
+~
+~
+0 0 11391
+S
+#11391
+Bar~
+  Drinks are on the house in the two casino bars as long as you are gambling,
+People come here just to take a load off their feet and to talk with others.
+Drunks are not tolerated here. Graddis will be more then happy to remove any
+and all trouble makers. To the west is the casino.
+~
+111 8 0
+D1
+~
+~
+0 0 11390
+D3
+~
+~
+0 0 11395
+S
+#11392
+Bar~
+  Drinks are on the house in the two casino bars as long as you are gambling,
+People come here just to take a load off their feet and to talk with others.
+Drunks are not tolerated here. Graddis will be more then happy to remove any
+and all trouble makers.
+~
+111 8 0
+D3
+~
+~
+0 0 11390
+S
+#11393
+Dining Hall~
+ As you enter the dining hall the lighting is very dim. There is candlelight
+on all the tables. There are a few people eating at the tables. You see
+waitresses coming and going to and from the kitchen bringing out plates of
+food. The cooking smells just like what mom used to make.
+~
+111 8 0
+D0
+~
+~
+0 0 11394
+D2
+~
+~
+0 0 11390
+S
+#11394
+Kitchen~
+  As you enter the kitchen in the casino you see people working hard to get all
+the food orders done. You can smell everything from steaks, chickens and eggs in
+here. Pots, pans, ladles. and other utensils hang from a central cooking island.
+~
+111 8 0
+D2
+~
+~
+0 0 11393
+S
+#11395
+Casino~
+  Within the walls of Tymora's Casino there are lights all around the room.
+Looking up. a beautiful crystal chandelier is hanging from the middle of the
+ceiling. There are large windows with ornate stonework that run along two sides
+of the room. The rug looks to be made of the finest persian around. All around 
+the room are card tables, crap tables, roulette tables, all calling to you to
+try your luck. Upstairs is a dance hall. 
+~
+111 8 0
+D1
+~
+~
+0 0 11391
+D4
+~
+~
+0 0 11396
+S
+#11396
+Dance Hall~
+  Entering the dance hall above the casino. There is always constant muscial
+talent providing the incentive to dance the night away. There are a few tables
+along the walls so you can drink and listen to the music if you don't feel like
+dancing. To the east is a hallway that leads to the bedrooms where you can get
+a good nights sleep after a long night of dancing and gambling.
+~
+111 8 0
+D1
+~
+~
+0 0 11397
+D5
+~
+~
+0 0 11395
+S
+#11397
+Hallway~
+  At the end of the hallway of the casino there are two rooms for
+you to spent the night in. Located just north and south of you.
+~
+111 8 0
+D0
+~
+door~
+1 0 11398
+D2
+~
+door~
+1 0 11399
+D3
+~
+~
+0 0 11396
+S
+#11398
+Bedroom~
+  Entering one of the bedrooms within the casino this is where you
+get a good nights sleep after a long night of gambling and dancing.
+Your stay here is on the house. It's our way of saying thank you and
+come back again. We hope your stay here was peaceful and relaxing.
+~
+111 8 0
+D2
+~
+door~
+1 0 11397
+S
+#11399
+Bedroom~
+  Entering one of the bedrooms within the casino this is where you
+get a good nights sleep after a long night of gambling and dancing.
+Your stay here is on the house. It's our way of saying thank you and
+come back again. We hope your stay here was peaceful and relaxing.
+~
+111 8 0
+D0
+~
+door~
+1 0 11397
+S
+#11400
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D0
+~
+~
+0 -1 11401
+D1
+~
+~
+0 -1 11453
+D2
+~
+~
+0 -1 11322
+D3
+~
+~
+0 -1 11452
+S
+#11401
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D0
+~
+~
+0 -1 11402
+D1
+~
+~
+0 -1 11455
+D2
+~
+~
+0 -1 11400
+D3
+~
+~
+0 -1 11454
+S
+#11402
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D0
+~
+~
+0 -1 11403
+D1
+~
+~
+0 -1 11457
+D2
+~
+~
+0 -1 11401
+D3
+~
+~
+0 -1 11456
+S
+#11403
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D0
+~
+~
+0 -1 11404
+D1
+~
+~
+0 -1 11459
+D2
+~
+~
+0 -1 11402
+D3
+~
+~
+0 -1 11458
+S
+#11404
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D0
+~
+~
+0 -1 11405
+D1
+~
+~
+0 -1 11461
+D2
+~
+~
+0 -1 11403
+D3
+~
+~
+0 -1 11460
+S
+#11405
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 1073741824 6
+D0
+~
+~
+0 -1 11406
+D1
+~
+~
+0 -1 11463
+D2
+~
+~
+0 -1 11404
+D3
+~
+~
+0 -1 11462
+S
+#11406
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D0
+~
+~
+0 -1 11407
+D1
+~
+~
+0 -1 11465
+D2
+~
+~
+0 -1 11405
+D3
+~
+~
+0 -1 11464
+S
+#11407
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D0
+~
+~
+0 -1 11408
+D1
+~
+~
+0 -1 11467
+D2
+~
+~
+0 -1 11406
+D3
+~
+~
+0 -1 11466
+S
+#11408
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D0
+~
+~
+0 -1 11409
+D1
+~
+~
+0 -1 11469
+D2
+~
+~
+0 -1 11407
+D3
+~
+~
+0 -1 11468
+S
+#11409
+The River Tesh~
+  Traveling on the River Tesh it is best to stay on the path until
+you reach your destination. It is told that you can hear the echos
+of the dying screams sound from the north ruins and the phantoms of
+the dead float or sail on the Tesh. The entire northern bank of the
+Tesh is covered in thick fog. It is very misty and cold.
+~
+111 4 6
+D2
+~
+~
+0 -1 11408
+D9
+~
+~
+0 0 11410
+S
+#11410
+Zhentil Harbor~
+  The Zhentil Harbor at one time was easily capable of docking
+250 vessels at a time at its six large permanent wharves and
+numerous smaller, temporary ones that change with the seasons.
+Docking and unloading was restricted to the Zhentarim, lords of
+the Keep, and only others who had special trading status.
+~
+111 4 6
+D7
+~
+~
+0 -1 11409
+D9
+~
+~
+0 0 11411
+S
+#11411
+Zhentil Harbor~
+  The Zhentil Harbor at one time was easily capable of docking
+250 vessels at a time at its six large permanent wharves and
+numerous smaller, temporary ones that change with the seasons.
+Docking and unloading was restricted to the Zhentarim, lords of
+the Keep, and only others who had special trading status.
+~
+111 4 6
+D7
+~
+~
+0 -1 11410
+D9
+~
+~
+0 0 11412
+S
+#11412
+Zhentil Harbor~
+  The Zhentil Harbor at one time was easily capable of docking
+250 vessels at a time at its six large permanent wharves and
+numerous smaller, temporary ones that change with the seasons.
+Docking and unloading was restricted to the Zhentarim, lords of
+the Keep, and only others who had special trading status.
+~
+111 4 6
+D7
+~
+~
+0 -1 11411
+D9
+~
+~
+0 0 11413
+S
+#11413
+Zhentil Harbor~
+  The Zhentil Harbor at one time was easily capable of docking
+250 vessels at a time at its six large permanent wharves and
+numerous smaller, temporary ones that change with the seasons.
+Docking and unloading was restricted to the Zhentarim, lords of
+the Keep, and only others who had special trading status.
+~
+111 4 6
+D0
+~
+~
+0 -1 11414
+D7
+~
+~
+0 0 11412
+S
+#11414
+Zhentil Harbor~
+  The Zhentil Harbor at one time was easily capable of docking
+250 vessels at a time at its six large permanent wharves and
+numerous smaller, temporary ones that change with the seasons.
+Docking and unloading was restricted to the Zhentarim, lords of
+the Keep, and only others who had special trading status.
+~
+111 4 6
+D0
+~
+~
+0 -1 11415
+D2
+~
+~
+0 -1 11413
+S
+#11415
+Zhentil Harbor~
+  The Zhentil Harbor at one time was easily capable of docking
+250 vessels at a time at its six large permanent wharves and
+numerous smaller, temporary ones that change with the seasons.
+Docking and unloading was restricted to the Zhentarim, lords of
+the Keep, and only others who had special trading status.
+~
+111 4 6
+D0
+~
+~
+0 -1 11416
+D2
+~
+~
+0 -1 11414
+S
+#11416
+Zhentil Harbor~
+  The Zhentil Harbor at one time was easily capable of docking
+250 vessels at a time at its six large permanent wharves and
+numerous smaller, temporary ones that change with the seasons.
+Docking and unloading was restricted to the Zhentarim, lords of
+the Keep, and only others who had special trading status.
+~
+111 4 6
+D0
+~
+~
+0 -1 11417
+D2
+~
+~
+0 -1 11415
+S
+#11417
+Zhentil Harbor~
+  The Zhentil Harbor at one time was easily capable of docking
+250 vessels at a time at its six large permanent wharves and
+numerous smaller, temporary ones that change with the seasons.
+Docking and unloading was restricted to the Zhentarim, lords of
+the Keep, and only others who had special trading status.
+~
+111 4 6
+D0
+~
+~
+0 -1 11418
+D2
+~
+~
+0 -1 11416
+S
+#11418
+Docks~
+  The docks are empty pretty much now. The docks where patrolled
+by a garrison of Zhentilar during the day, and naugorls under the
+control of the Zhentarim at night. Admittance here was resticted
+to those bearing authorized writs and on-duty patrols. All that
+is here now is what is left after the razing. 
+~
+111 0 1
+D0
+~
+~
+0 -1 11419
+D2
+~
+~
+0 -1 11417
+S
+#11419
+Docks~
+  The docks are empty pretty much now. The docks where patrolled
+by a garrison of Zhentilar during the day, and naugorls under the
+control of the Zhentarim at night. Admittance here was resticted
+to those bearing authorized writs and on-duty patrols. All that
+is here now is what is left after the razing. 
+~
+111 0 1
+D0
+~
+~
+0 -1 11420
+D2
+~
+~
+0 -1 11418
+S
+#11420
+Docks~
+  The docks are empty pretty much now. The docks where patrolled
+by a garrison of Zhentilar during the day, and naugorls under the
+control of the Zhentarim at night. Admittance here was resticted
+to those bearing authorized writs and on-duty patrols. All that
+is here now is what is left after the razing. 
+~
+111 0 1
+D0
+~
+~
+0 -1 11451
+D2
+~
+~
+0 -1 11419
+D3
+~
+~
+0 -1 11421
+S
+#11421
+Hack Street~
+  Terrible riots broke out here and at times still do, Frantic
+refugees stabbed each other in the back in thier attempts to get
+to the few precious boats that could be seized. However gaining
+a seat on a boat didn't guarantee one's safety. As to this day
+the white dragons swoops down upon boats in the harbor blasting
+them with frosty breath.
+~
+111 0 1
+D1
+~
+~
+0 -1 11420
+D3
+~
+~
+0 -1 11422
+S
+#11422
+Hack Street~
+  Terrible riots broke out here and at times still do, Frantic
+refugees stabbed each other in the back in thier attempts to get
+to the few precious boats that could be seized. However gaining
+a seat on a boat didn't guarantee one's safety. As to this day
+the white dragons swoops down upon boats in the harbor blasting
+them with frosty breath.
+~
+111 0 1
+D1
+~
+~
+0 -1 11421
+D2
+~
+~
+0 -1 11449
+D3
+~
+~
+0 -1 11423
+S
+#11423
+Hack Street~
+  Terrible riots broke out here and at times still do, Frantic
+refugees stabbed each other in the back in thier attempts to get
+to the few precious boats that could be seized. However gaining
+a seat on a boat didn't guarantee one's safety. As to this day
+the white dragons swoops down upon boats in the harbor blasting
+them with frosty breath.
+~
+111 0 1
+D0
+~
+~
+0 -1 11424
+D1
+~
+~
+0 -1 11422
+S
+#11424
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D2
+~
+~
+0 -1 11423
+D9
+~
+~
+0 0 11425
+S
+#11425
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D0
+~
+~
+0 -1 11450
+D7
+~
+~
+0 -1 11424
+D9
+~
+~
+0 0 11426
+S
+#11426
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D3
+~
+~
+0 -1 11427
+D7
+~
+~
+0 0 11425
+S
+#11427
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D1
+~
+~
+0 -1 11426
+D3
+~
+~
+0 -1 11428
+S
+#11428
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D1
+~
+~
+0 -1 11427
+D3
+~
+~
+0 -1 11429
+S
+#11429
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D1
+~
+~
+0 -1 11428
+D3
+~
+~
+0 -1 11430
+S
+#11430
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D1
+~
+~
+0 -1 11429
+D9
+~
+~
+0 0 11431
+S
+#11431
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D3
+~
+~
+0 -1 11448
+D7
+~
+~
+0 0 11430
+D9
+~
+~
+0 0 11432
+S
+#11432
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D7
+~
+~
+0 -1 11431
+D9
+~
+~
+0 0 11433
+S
+#11433
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D7
+~
+~
+0 -1 11432
+D9
+~
+~
+0 0 11434
+S
+#11434
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D7
+~
+~
+0 -1 11433
+D9
+~
+~
+0 0 11435
+S
+#11435
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D3
+~
+~
+0 -1 11447
+D7
+~
+~
+0 -1 11434
+D9
+~
+~
+0 0 11436
+S
+#11436
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D7
+~
+~
+0 -1 11435
+D9
+~
+~
+0 0 11437
+S
+#11437
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D7
+~
+~
+0 -1 11436
+D9
+~
+~
+0 0 11438
+S
+#11438
+Cobble Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D7
+~
+~
+0 -1 11437
+D9
+~
+~
+0 0 11439
+S
+#11439
+Wyvern Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D2
+~
+~
+0 -1 11446
+D3
+~
+~
+0 -1 11440
+D7
+~
+~
+0 0 11438
+S
+#11440
+Wyvern Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D1
+~
+~
+0 -1 11439
+D3
+~
+~
+0 -1 11441
+S
+#11441
+Wyvern Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D0
+~
+~
+0 -1 11445
+D1
+~
+~
+0 -1 11440
+D3
+~
+~
+0 -1 11442
+S
+#11442
+Wyvern Road~
+  Traveling among the depris and rubble left over from the razing.
+There is not much left in the northern section of the Keep. Pretty
+much everyone is staying to the south. A few homeless live here in
+the rubble and depris. 
+~
+111 0 1
+D1
+~
+~
+0 -1 11441
+D3
+~
+~
+0 -1 11443
+S
+#11443
+The Trail Gate~
+  Not much is left of the Trail Gate. However it still does close.
+Out of the Trail Gate is the Zhentilar Trail. Wyvern Road is to the
+east.
+~
+111 0 1
+D1
+~
+~
+0 -1 11442
+S
+#11444
+Zhentilar Trail~
+Traveling along the Zhentilar Trail the remains of the Trail Gate 
+is off to the east. The Trail Gate leads you into the northern part
+of Zhentil Keep. However after the times of trouble the people whom
+lived and survived the razing moved into the southern section of the
+Keep. Off to the north is the beginning of Hellspires mountains.
+~
+111 1073741824 1
+D0
+~
+~
+0 -1 8292
+D1
+~
+gate~
+1 -1 2043
+S
+#11445
+Zhentilar Guardpost~
+  Among the depris and rubble here, it used to house the Zhentilar
+Guards. A drawbridge used to cross over dry moat surrounded by gate
+and portcullis. There was a practice yard an stables located behind
+the guardpost.
+~
+111 0 1
+D2
+~
+~
+0 -1 11441
+S
+#11446
+Zhentilar Barracks~
+  Stepping through the rubble and depris the Zhentiler Barracks used
+to be within these half falling down walls. Nothing is left here now.
+A tumble weed blows around the room.
+~
+111 0 1
+D0
+~
+~
+0 -1 11439
+S
+#11447
+The Axe and the Minotaur~
+This place was once a Zhentilar hangout located near the
+Trail Gate. Various power group agents could be found here
+keeping a close eye on who was entering the Keep.
+~
+111 0 1
+D1
+~
+~
+0 -1 11435
+S
+#11448
+The Whipwalker's Cloak~
+  At one time this establishment was frequented by worshipers
+of Loviatar and those curious about the teachings of the Maiden
+of Pain. The patrons that used to come here where known for their
+unusual fashion sense, spike-studded leather and decorative chain
+mail outfits.
+~
+111 1073741824 1
+D1
+~
+~
+0 -1 11431
+S
+#11449
+Zhentarim Warehouse~
+  The warehouses here used to be squeezed up against one another
+and where heavily guarded and where safeguarded by the personal
+troops of the owning Zhent lord. Most of the lords used to keep
+their merchandise here. All that is left now is the rubble.
+~
+111 0 1
+D0
+~
+~
+0 -1 11422
+S
+#11450
+Zhentilar Guardpost~
+  Among the depris and rubble here, it used to house the Zhentilar
+Guards. A drawbridge used to cross over dry moat surrounded by gate
+and portcullis. There was a practice yard an stables located behind
+the guardpost.
+~
+111 0 1
+D2
+~
+~
+0 -1 11425
+S
+#11451
+The Shield Faces North~
+  At one time the Shield Faces North was probably the oldest
+tavern operating in Zhentil Keep. People who wanted to spend a
+quiet evening in calm surroundings came here. Like dwarves and
+halfings and older merchants reminiscing about the old days.
+~
+111 0 1
+D2
+~
+~
+0 -1 11420
+S
+#11452
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 1 6
+D0
+~
+~
+0 -1 11454
+D1
+~
+~
+0 -1 11400
+S
+#11453
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 1 6
+D0
+~
+~
+0 -1 11455
+D3
+~
+~
+0 -1 11400
+S
+#11454
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 1 6
+D0
+~
+~
+0 -1 11456
+D1
+~
+~
+0 -1 11401
+D2
+~
+~
+0 -1 11452
+S
+#11455
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 1 6
+D0
+~
+~
+0 -1 11457
+D2
+~
+~
+0 -1 11453
+D3
+~
+~
+0 -1 11401
+S
+#11456
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 1 6
+D0
+~
+~
+0 -1 11458
+D1
+~
+~
+0 -1 11402
+D2
+~
+~
+0 -1 11454
+S
+#11457
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 1 6
+D0
+~
+~
+0 -1 11459
+D2
+~
+~
+0 -1 11455
+D3
+~
+~
+0 -1 11402
+S
+#11458
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 1 6
+D0
+~
+~
+0 -1 11460
+D1
+~
+~
+0 -1 11403
+D2
+~
+~
+0 -1 11456
+S
+#11459
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 1 6
+D0
+~
+~
+0 -1 11461
+D2
+~
+~
+0 -1 11457
+D3
+~
+~
+0 -1 11403
+S
+#11460
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D0
+~
+~
+0 -1 11462
+D1
+~
+~
+0 -1 11404
+D2
+~
+~
+0 -1 11458
+S
+#11461
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D0
+~
+~
+0 -1 11463
+D2
+~
+~
+0 -1 11459
+D3
+~
+~
+0 -1 11404
+S
+#11462
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D0
+~
+~
+0 -1 11464
+D1
+~
+~
+0 -1 11405
+D2
+~
+~
+0 -1 11460
+S
+#11463
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D0
+~
+~
+0 -1 11465
+D2
+~
+~
+0 -1 11461
+D3
+~
+~
+0 -1 11405
+S
+#11464
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D0
+~
+~
+0 -1 11466
+D1
+~
+~
+0 -1 11406
+D2
+~
+~
+0 -1 11462
+S
+#11465
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D0
+~
+~
+0 -1 11467
+D2
+~
+~
+0 -1 11463
+D3
+~
+~
+0 -1 11406
+S
+#11466
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D0
+~
+~
+0 -1 11468
+D1
+~
+~
+0 -1 11407
+D2
+~
+~
+0 -1 11464
+S
+#11467
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D0
+~
+~
+0 -1 11469
+D2
+~
+~
+0 -1 11465
+D3
+~
+~
+0 -1 11407
+S
+#11468
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D1
+~
+~
+0 -1 11408
+D2
+~
+~
+0 -1 11466
+S
+#11469
+The River Tesh~
+  As you travel off the path the fog gets thicker making it all
+the more harder to find your way back. As you look towards the
+north you would swear you are seeing corpse-lights winking in the
+ruins. There is a lot of flotsam and jetsam floating around you.
+Off in the distance you can hear the echos of dogs howling.
+~
+111 0 6
+D2
+~
+~
+0 -1 11467
+D3
+~
+~
+0 -1 11408
+S
+#11470
+Back room of Ascot's~
+  Due to the rebuilding of the city alot of places keep there goods
+in the back as to help ward off possible thiefs. 
+~
+111 393368 0
+D1
+~
+~
+0 0 11133
+S
+#11471
+Ascot's storage~
+  Storeroom for Ascot's
+~
+111 394248 0
+S
+#11472
+Apothecary~
+  As with the fromt of Rak's you don't know if you should just turn
+around and go back, due to all the smoke and the rancid smells. 
+~
+111 393368 0
+D0
+~
+~
+0 0 11160
+S
+#11473
+Rak's Storage~
+  Rak's storage room.
+~
+111 394240 0
+S
+#11480
+Santa's House.~
+^Y           .
+         _.|,_
+          '|`
+          ^n^g/ \ ^n^y___________________________
+         ^n^g/^n^W`,^n^Ro^n^g\^n^y)_________________________(
+        ^n^g/_^n^Y* ^n^W-_^n^g\^n^r[___]___[___]___[___[_[_]
+        ^n^g/ ^n^Ro ^n^W.'^n^g\^n^r[_]___[___]___[___]_[___]
+       ^n^g/_^n^W,-' ^n^Y*^n^g_\^n^r_]                 [_[_]
+       ^n^g/^n^W`. ^n^Y*  *^n^g\^n^r_]                 [___]
+      ^n^g/   ^n^W`-. ^n^Ro ^n^g\^n^r]      ^n^R;( ( ;     ^n^r[_[_]
+     ^n^g/_ ^n^Y*    ^n^W`-,^n^g_\    ^n^R(( )( ;(;    ^n^r[___]
+     ^n^g/   ^n^Ro  *  ^n^W-'^n^g\   ^n^y/\ /\ /\ /\   ^n^r[_[_]
+    ^n^g/ ^n^Y*    ^n^W.--'  ^n^Ro^n^g\  ^n^y||_||_||_||   ^n^r[___]
+   ^n^g/^n^W_,.--'`    ^n^Y*  ^n^g_\^n^y_||_||_||_||___^n^r[_[_]
+   ^n^g/^n^W`-..  ^n^Ro        ^n^g\^n^w::::::::::::::::::::\
+  ^n^g/ ^n^Y*   ^n^W`'-..   ^n^Y*   ^n^g\^n^w::::::::::::::::::::\
+ ^n^g/_     ^n^Ro    ^n^W``--.,,^n^g_\^n^w====================\
+ ^n^g/  ^n^R*      *    ^n^W_..-'^n^g\
+ `-.__     ^n^W.-'`' ^n^g__.-'
+~
+111 393372 0
+S
+#11481
+Heaven and Hell.~
+  As you enter the bedroom you get the faint smell of something pleasant
+and resonating like expensive perfume that lingers in the room after the
+wearer has gone. The walls are an off-white with thin silver, gold, and
+copper designs running through it. The carpeting is black. A canopy bed
+takes up most of one side of the room. Black,gauzy curtains cover the bed
+making it indistinct, misty, like a dream. Black and crimson sheets cover
+the bed. A black couch with blood-red pillows thrown along it is against
+the fall wall. A matching love seat is against the last wall.
+~
+111 1048 0
+D1
+~
+door~
+1 0 11100
+S
+#99999
+$~

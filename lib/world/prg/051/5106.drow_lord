@@ -1,0 +1,59 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    mptrigger $n symbol-pain
+  endif
+~
+>script_prog symbol-pain~
+  #
+@
+  mpecho $I solemnly raises his shield, one engraved with a strange rune...
+  mpecho ..and you double over in pain!
+  mpdamage all 10d10
+~
+>fight_prog 5~
+  parry $r
+~
+>fight_prog 5~
+  riposte $r
+~
+>fight_prog 5~
+  bash $r
+~
+>command_prog bash~
+  if rand(20)
+    mpechoat $n $I deftly avoids your bash, pommels you to the ground, and smirks.
+    mpechoaround $n $I deftly avoids $N's bash, pommels them to the ground, and smirks.
+    mpdamage $n 3d12
+    mppose $n sit
+    mpstopcommand
+  endif
+~
+>command_prog parry~
+  if rand(20)
+    mpechoat $n $I smacks your parry aside and takes a stab at you!
+    mpechoaround $n $I smacks $N's parry aside and takes a stab at them!
+    mpdamage $n 5d10
+    mpstopcommand
+  endif
+~
+>command_prog riposte~
+  if rand(20)
+    mpechoat $n $I smacks your riposte aside and takes a stab at you!
+    mpechoaround $n $I smacks $N's riposte aside and takes a stab at them!
+    mpdamage $n 5d10
+    mpstopcommand
+  endif
+~
+>death_prog 100~
+  mppose $i stand
+  mpecho $I takes his death stoically.
+  mpoload 5119
+  mpsilent drop 5119
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mpgoto cleaner
+  mppose $i dead
+~
+|

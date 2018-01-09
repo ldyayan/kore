@@ -1,0 +1,39 @@
+>all_greet_prog 100~
+ if ispc($n)
+  mpsilent c 'heal' $i
+  say Before me stands but little mortals.
+  say You know not what you have stumbled upon.
+  endif
+~
+>death_prog 100~
+ mpecho With the eternal heat of Ackeron gone, the chamber ices over.
+ mpsilent mptrans all 12499
+ mpgoto 12499
+ mpoload 12400
+ drop ice
+~
+>fight_prog 7~
+ mpecho $I unleashes flames of pure heat.   
+ mpdamage $r 200
+~
+>fight_prog 10~
+  mpecho $I unleashes massive flames in all directions.
+  mpdamage all 10d6+10
+~
+>command_prog bash~
+  mpechoat $r $I flickers greatly as your weapon passes through.
+  mpechoaround $r $I flickers greatly as a weapon passes through him.
+  mpstopcommand
+~
+>command_prog berserk~
+  mpechoat $r $I flickers greatly as your weapon passes through.
+  mpechoaround $r $I flickers greatly as your weapon passes through him.
+  mpstopcommand
+~
+>command_prog riposte~
+  mpechoat $r $I avoids your block and counter.
+  mpechoaround $r $I avoids the block and counter of $r.
+  mpstopcommand
+~
+|
+

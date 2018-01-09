@@ -1,0 +1,119 @@
+>fight_prog 2~
+  if inroom($r) == here
+    say Goodbye ladies and gentlemen.
+    purr
+    mpdamage all 250
+    mpecho $I hurls you all through the palace roof!!
+    mptrans all 8699
+    mppose all sit
+  endif
+~
+>fight_prog 3~
+  if inroom($r) == here
+    say Once you're dead, I'll dismember your corpse,
+    say I'm short on humanoid parts you see...
+  endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+    shout Kobolds to my rescue!
+    if rand(9)
+      mpmload 8702
+      mpforce 8702 kill $r
+      break
+    else
+      if rand(10)
+        mpmload 8612
+        mpforce 8612 kill $r
+        break
+      else
+          if rand(11)
+            mpmload 8606
+            mpforce 8606 kill $r
+            break
+          else
+            if rand(14)
+              mpmload 8620
+              mpforce 8620 kill $r
+              break
+            else
+              if rand(15)
+                mpmload 8622
+                mpforce 8622 kill $r
+                break
+              else
+                if rand(18)
+                  mpmload 8631
+                  mpforce 8631 kill $r
+                  break
+                else
+                  if rand(20)
+                  mpmload 8714
+                  mpforce 8714 kill $r
+                  break
+                else
+                  if rand(25)
+                    mpmload 8713
+                    mpforce 8713 kill $r
+                    break
+                  else
+                    if rand(33)
+                    mpmload 8707
+                    mpforce 8707 kill $r
+                    break
+                  else
+                    if rand(50)
+                      mpmload 8709
+                      mpforce 8709 kill $r
+                      break
+                    else
+                      if rand(100) 
+                        mpmload 8801
+                        mpforce 8801 kill $r
+                        break
+                      endif
+                    endif
+                  endif
+                endif
+              endif
+            endif
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    mpecho $I howls like a doggie!!
+    mpdamage all 12d12
+    mpdrainmana all 20
+    mpcallmagic 'scare' all
+  endif
+~
+>rand_prog 1~
+  purr
+~
+>rand_prog 2~
+  if rand(50)
+    say Did my sister send you?
+  else
+    say Soon I shall send that bitch sister of mine to the Void!!
+    cackle
+  endif
+~
+>rand_prog 3~
+  if inroom($r) == here
+    say Ah, humanoid parts, I seem to be rather short of those...
+    say Perhaps you would care to supply some!
+    grin
+    kill $r
+  endif
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpasound Your blood freezes as you hear someone's death cry.
+  mpecho You notice a dark key fall from the hair of $I.
+  mpoload 8716
+~
+|

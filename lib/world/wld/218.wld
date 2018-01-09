@@ -1,0 +1,1122 @@
+#21800
+Sirannon, the Gate Stream~
+   Below you see a deep and narrow channel, with hardly a trickle of water
+flowing among the brown and red-stained stones of its bed.  There is a set
+of stairs cut along the side of the now dry falls ahead of you that used
+to lead to level ground before a valley that lay before the halls of Moria.
+~
+218 0 1
+D4
+~
+~
+0 0 21801
+S
+#21801
+The Stair Falls~
+   You are climbing a set of stairs cut into the rock besides the
+falls of the Sirannon of old.
+~
+218 0 0
+D4
+~
+~
+0 0 21802
+D5
+~
+~
+0 0 21800
+S
+#21802
+The Stair Falls~
+   You are climbing a set of stairs cut into the rock beside the
+falls of the Sirannon of old.
+~
+218 0 0
+D4
+~
+~
+0 0 21803
+D5
+~
+~
+0 0 21801
+S
+#21803
+The Lake~
+   Before you streches a dark, still lake.  Neither sky nor sunset
+are reflected on its sullen surface.  The Sirannon was dammed and filled
+the entire valley.  Beyond the ominous water vast cliffs rear their stern
+faces pallid in the fading light.
+~
+218 0 0
+D0
+~
+~
+0 0 21810
+D1
+~
+~
+0 0 21804
+D5
+~
+~
+0 0 21802
+S
+#21804
+Path Beside the Lake~
+   This small fringe of solid land runs around the lake to where the
+gate of Khazad-dum lies.  The path is narrow, often hardly a dozen
+yards across, and encumbered with fallen rock and stones.
+~
+218 0 0
+D0
+~
+~
+0 0 21805
+D3
+~
+~
+0 0 21803
+S
+#21805
+Path Beside the Lake~
+   The path is narrow, often hardly a dozen yards across, and encumbered
+with fallen rock and stones.  About a half mile to the north lies the
+ancient entrance to the Halls of Durin.
+~
+218 0 0
+D0
+~
+~
+0 0 21806
+D2
+~
+~
+0 0 21804
+S
+#21806
+Before Khazad-dum~
+   At first all you see is a blank stone side of the mountain, but
+as you run your hand over the stone faint lines start to appear and
+you can make out the outlines of a door.
+~
+218 0 0
+D1
+~
+door~
+1 0 21807
+D2
+~
+~
+0 0 21805
+D3
+~
+~
+0 0 21811
+S
+#21807
+Khazad-dum~
+   The door echos behind you in the darkness.  Stairs stretch up before
+you. The broad stairway is sound and undamaged.  Two hundred steps you count,
+broad and shallow. At the top is an archway leading into darkness.
+~
+218 9 1
+D3
+~
+door~
+1 0 21806
+D4
+~
+~
+0 0 21808
+S
+#21808
+Khazad-dum~
+  The archway leads into an arched passage with a level floor leading on
+into darkness.
+~
+218 9 1
+D1
+~
+~
+0 0 21809
+D5
+~
+~
+0 0 21807
+S
+#21809
+Khazad-dum~
+   The arch passage leads on, straight as a ruler, into the cold darkness.
+This is mostly the part of Moria that was never inhabited.  The inhabited
+parts of old were mostly to the east.
+~
+218 9 1
+D1
+~
+~
+0 0 21812
+D3
+~
+~
+0 0 21808
+S
+#21810
+The Lake~
+   The Lake is putrid and cold as you swim unwisely into its foul waters.
+~
+218 0 0
+D0
+~
+~
+0 0 21811
+D2
+~
+~
+0 0 21803
+D3
+~
+~
+0 0 21810
+S
+#21811
+The Lake~
+   The Lake is putrid and cold as you swim unwisely into its foul waters.
+~
+218 0 0
+D1
+~
+~
+0 0 21806
+D2
+~
+~
+0 0 21810
+S
+#21812
+Khazad-dum~
+   The arch passage leads on, straight as a ruler, into the cold darkness.
+This is mostly the part of Moria that was never inhabited.  The inhabited
+parts of old were mostly to the east.
+~
+218 9 1
+D1
+~
+~
+0 0 21813
+D3
+~
+~
+0 0 21809
+S
+#21813
+Khazad-dum~
+   The arch passage leads on, straight as a ruler, into the cold darkness.
+This is mostly the part of Moria that was never inhabited.  The inhabited
+parts of old were mostly to the east.
+~
+218 9 1
+D1
+~
+~
+0 0 21814
+D3
+~
+~
+0 0 21812
+S
+#21814
+Khazad-dum~
+   The arch passage leads on, straight as a ruler, into the cold darkness.
+This is mostly the part of Moria that was never inhabited.  The inhabited
+parts of old were mostly to the east.
+~
+218 9 1
+D1
+~
+~
+0 0 21815
+D3
+~
+~
+0 0 21813
+S
+#21815
+Khazad-dum~
+   The arch passage leads on, straight as a ruler, into the cold darkness.
+This is mostly the part of Moria that was never inhabited.  The inhabited
+parts of old were mostly to the east.
+~
+218 9 0
+D2
+~
+~
+0 0 21816
+D3
+~
+~
+0 0 21814
+S
+#21816
+Khazad-dum~
+   The passage narrows here, it is barely wide enough for a person to walk
+confortably through.
+~
+218 9 1
+D0
+~
+~
+0 0 21815
+D1
+~
+~
+0 0 21817
+S
+#21817
+Khazad-dum~
+   The passage broadens out again, and begins to slope slowly downwards as
+it continues to head east and west.
+~
+218 9 0
+D0
+~
+~
+0 0 21818
+D1
+~
+~
+0 0 21819
+D3
+~
+~
+0 0 21816
+S
+#21818
+A Guard Room~
+   This is obviously a guard room in case of invasion from the west.
+Light streams down through a deep shaft in the ceiling, at the top you
+can see a tiny patch of the sky outside.
+~
+218 8 1
+D2
+~
+~
+0 0 21817
+D5
+~
+cover~
+1 0 21820
+S
+#21819
+Khazad-dum~
+   The passage broadens out again, and begins to slope slowly downwards as
+it continues to head east and west.
+~
+218 9 0
+D1
+~
+~
+0 0 21821
+D3
+~
+~
+0 0 21817
+S
+#21820
+Falling down a deep well~
+   You fall and fall and fall... and finally hit water with crushing
+force, it breaks half the bones in your body and you pass out and drown.
+R.I.P.
+~
+218 2 0
+D4
+~
+~
+0 0 21818
+S
+#21821
+Khazad-dum~
+   The passage broadens out again, and begins to slope slowly downwards as
+it continues to head east and west.  The floor opens here into a gaping
+chasm that falls to unknown depths below.
+~
+218 9 0
+D1
+~
+~
+0 0 21822
+D3
+~
+~
+0 0 21819
+D5
+~
+~
+0 0 21827
+S
+#21822
+Khazad-dum~
+   The passage broadens out again, and begins to slope slowly downwards as
+it continues to head east and west.
+~
+218 9 0
+D1
+~
+~
+0 0 21823
+D3
+~
+~
+0 0 21821
+S
+#21823
+Khazad-dum~
+   The passage starts to get warmer as you descend, dark passages open to
+the north and south.  Foul air comes out of the north passage and ahead you
+can see it open into a large dark chamber.
+~
+218 9 1
+D0
+~
+~
+0 0 21824
+D1
+~
+~
+0 0 21826
+D2
+~
+~
+0 0 21825
+D3
+~
+~
+0 0 21822
+S
+#21824
+Khazad-dum~
+   The corridor goes about 100 feet to a spiral staircase leading down
+to the lower levels of Moria.
+~
+218 9 1
+D2
+~
+~
+0 0 21823
+D5
+~
+~
+0 0 21828
+S
+#21825
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+218 0 0
+D0
+~
+~
+0 0 21823
+S
+#21826
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+218 0 0
+D3
+~
+~
+0 0 21823
+S
+#21827
+Into the Chasm~
+   You fall a dizzying height, and finally hit the ground with crushing
+force, you are unable to move.  A hideous creature slinks out of the depths
+and starts to eat your brain out of your skull as you pass out.
+~
+218 10 0
+D4
+~
+~
+0 0 21821
+S
+#21828
+The Spiral Stairs~
+   As you descend the stairway you can hear the faint sound of a hammer
+in the distance.
+~
+218 9 1
+D4
+~
+~
+0 0 21824
+D5
+~
+~
+0 0 21829
+S
+#21829
+Khazad-dum~
+   The stairway leads to a narrow hallway leading into semi-darkness
+beyond, you can hear the hammer louder now.  The air smells distinctly
+of orcs and foul air.
+~
+218 9 1
+D1
+~
+~
+0 0 21830
+D4
+~
+~
+0 0 21828
+S
+#21830
+Khazad-dum~
+   The hallway opens into a large room, about 100 feet long, and 20
+feet wide.  Rooms open up to the right and left, and you hear the
+sound of the hammer louder now.
+~
+218 9 1
+D0
+~
+~
+0 0 21831
+D2
+~
+~
+0 0 21832
+D3
+~
+~
+0 0 21829
+S
+#21831
+Khazad-dum~
+   This room narrows to an archway at the far end.  Down the hallway
+you can hear the sound of the hammer getting louder.
+~
+218 9 1
+D0
+~
+~
+0 0 21833
+D2
+~
+~
+0 0 21830
+S
+#21832
+Khazad-dum~
+   This was once a storeroom or treasury, the orcs have been piling
+their gold here.
+~
+218 9 1
+D0
+~
+~
+0 0 21830
+S
+#21833
+A Hallway~
+   Down the hallway you can hear the sound of hammer echoing in the
+darkness.
+~
+218 9 1
+D0
+~
+~
+0 0 21834
+D2
+~
+~
+0 0 21831
+S
+#21834
+A Hallway~
+   Down the hallway you can hear the sound of hammer echoing in the
+darkness.
+~
+218 9 1
+D0
+~
+~
+0 0 21835
+D2
+~
+~
+0 0 21833
+S
+#21835
+A Hallway~
+   Down the hallway you can hear the sound of hammer echoing in the
+darkness.
+~
+218 9 1
+D0
+~
+~
+0 0 21836
+D2
+~
+~
+0 0 21834
+S
+#21836
+Khazad-dum~
+   The passage opens into very large hall, it must have been a meeting
+place or concert hall of old, but now it is dark and dead and desolate.
+~
+218 9 1
+D0
+~
+~
+0 0 21839
+D2
+~
+~
+0 0 21835
+D3
+~
+~
+0 0 21837
+S
+#21837
+Khazad-dum~
+   The huge Hall echos your footsteps noisily and you fear that nearby
+creatures are alerted to your presence.
+~
+218 9 1
+D0
+~
+~
+0 0 21838
+D1
+~
+~
+0 0 21836
+S
+#21838
+Khazad-dum~
+   The huge Hall echos your footsteps noisily and you fear that nearby
+creatures are alerted to your presence.
+~
+218 9 1
+D1
+~
+~
+0 0 21839
+D2
+~
+~
+0 0 21837
+S
+#21839
+Khazad-dum~
+   The huge Hall echos your footsteps noisily and you fear that nearby
+creatures are alerted to your presence.
+~
+218 9 1
+D1
+~
+~
+0 0 21840
+D2
+~
+~
+0 0 21836
+D3
+~
+~
+0 0 21838
+S
+#21840
+Khazad-dum~
+   This passage starts to slope downward and you can hear the sound of
+the hammer start to grow louder.
+~
+218 9 1
+D1
+~
+~
+0 0 21841
+D3
+~
+~
+0 0 21839
+S
+#21841
+Khazad-dum~
+   This passage starts to slope downward and you can hear the sound of
+the hammer start to grow louder.  The air grows foul and you cough in
+the fumes.  Also it grows warmer and the sides of the passage become
+rougher and you realize you are now walking through a natural cave.
+~
+218 9 1
+D1
+~
+~
+0 0 21842
+D3
+~
+~
+0 0 21840
+S
+#21842
+Khazad-dum~
+   The cave widens out a little here, but still continues to slope steadily
+downward into the darkness.  The hammer is now near at hand.
+~
+218 9 1
+D1
+~
+~
+0 0 21843
+D3
+~
+~
+0 0 21841
+S
+#21843
+The Forge~
+   The cave opens here into a large room, blood red colored from the
+light of the forge.  To the north and east open narrow dark downward sloping
+passages.
+~
+218 8 0
+D0
+~
+~
+0 0 21844
+D1
+~
+~
+0 0 21845
+D3
+~
+~
+0 0 21842
+S
+#21844
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+218 0 0
+D2
+~
+~
+0 0 21843
+S
+#21845
+Mineshaft~
+   The mineshaft leads east and down into darkness.
+~
+218 9 0
+D1
+~
+~
+0 0 21846
+D3
+~
+~
+0 0 21843
+S
+#21846
+Mineshaft~
+   The Dwarves dug here too greedily, and too deep.  They woke the horror
+under the mountain.
+~
+218 9 0
+D3
+~
+~
+0 0 21845
+D5
+~
+~
+0 0 21847
+S
+#21847
+Mineshaft~
+   The Dwarves dug here too greedily, and too deep.  They woke the horror
+under the mountain.
+~
+218 9 0
+D1
+~
+~
+0 0 21848
+D4
+~
+~
+0 0 21846
+S
+#21848
+Mineshaft~
+   The Dwarves dug here too greedily, and too deep.  They woke the horror
+under the mountain.
+~
+218 9 0
+D3
+~
+~
+0 0 21847
+D5
+~
+~
+0 0 21849
+S
+#21849
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D4
+~
+~
+0 0 21848
+D5
+~
+~
+0 0 21850
+S
+#21850
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D1
+~
+~
+0 0 21852
+D4
+~
+~
+0 0 21849
+S
+#21852
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D3
+~
+~
+0 0 21850
+D5
+~
+~
+0 0 21853
+S
+#21853
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D2
+~
+~
+0 0 21854
+D4
+~
+~
+0 0 21852
+S
+#21854
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D0
+~
+~
+0 0 21853
+D5
+~
+~
+0 0 21855
+S
+#21855
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D3
+~
+~
+0 0 21856
+D4
+~
+~
+0 0 21854
+S
+#21856
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D1
+~
+~
+0 0 21855
+D5
+~
+~
+0 0 21857
+S
+#21857
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D0
+~
+~
+0 0 21858
+D4
+~
+~
+0 0 21856
+S
+#21858
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D2
+~
+~
+0 0 21857
+D5
+~
+~
+0 0 21859
+S
+#21859
+Agarkhaz, the Blood Stairs~
+   These rough stone steps lead downward as far as your light can reach.
+In the distance below, a redish glow reflects dimly off the stone stairs
+eerily.
+~
+218 9 0
+D1
+~
+~
+0 0 21860
+D4
+~
+~
+0 0 21858
+S
+#21860
+Agarkhaz, the Blood Stairs~
+   The glow brightens as the stone staircase ends in a natural cave
+sloping deeply downwards.
+~
+218 9 0
+D3
+~
+~
+0 0 21859
+D5
+~
+~
+0 0 21862
+S
+#21862
+Natural Tunnel~
+   The reddish glow brightens and the room becomes noticeably hot!
+~
+218 8 0
+D4
+~
+~
+0 0 21860
+D5
+~
+~
+0 0 21863
+S
+#21863
+Natural Tunnel~
+   The sides of the tunnel are not chisseled, and do not appear to be
+made by any human means.  The sides look as if melted by dragon breath
+or vulcanic eruption.
+~
+218 8 0
+D1
+~
+~
+0 0 21864
+D4
+~
+~
+0 0 21862
+S
+#21864
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 9 0
+D0
+~
+~
+0 0 21865
+D1
+~
+~
+0 0 21867
+D2
+~
+~
+0 0 21866
+D3
+~
+~
+0 0 21863
+S
+#21865
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 8 0
+D0
+~
+~
+0 0 21870
+D1
+~
+~
+0 0 21868
+D2
+~
+~
+0 0 21864
+D3
+~
+~
+0 0 21869
+S
+#21866
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 0 0
+D0
+~
+~
+0 0 21864
+S
+#21867
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 8 0
+D0
+~
+~
+0 0 21868
+D3
+~
+~
+0 0 21864
+S
+#21868
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 8 0
+D0
+~
+~
+0 0 21874
+D2
+~
+~
+0 0 21867
+D3
+~
+~
+0 0 21865
+S
+#21869
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 8 0
+D1
+~
+~
+0 0 21865
+S
+#21870
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 8 0
+D0
+~
+~
+0 0 21871
+D1
+~
+~
+0 0 21874
+D2
+~
+~
+0 0 21865
+S
+#21871
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 8 0
+D2
+~
+~
+0 0 21870
+S
+#21874
+Bahuruk-atoi, Sea of Fire~
+   The floor is not actually on fire, but you feel waves of heat radiating
+from an unknown source.
+~
+218 8 0
+D2
+~
+~
+0 0 21868
+D3
+~
+~
+0 0 21870
+S
+#99999
+$~

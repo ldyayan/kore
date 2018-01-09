@@ -1,0 +1,298 @@
+#15200
+giant aphid~
+a giant aphid~
+A giant aphid is eating its way through the beanstalk.
+~
+You see a giant aphid whose only purpose in life is to eat, and eat, and eat.
+Completely ignoring you, it instead focuses on carving a path of destruction
+through the tender vines of the beanstalk.
+~
+76 0 0 S
+5 9 50 1d1+1 1d1+1
+0 20
+8 8 0
+#15201
+giant ant~
+a giant ant~
+A giant ant stands guard over its aphid herd.
+~
+You see a red soldier ant fully your height, who guards over the aphids with
+singleminded diligence.  Its shiny carapace looks formidable, and you suddenly
+wonders if it knows how many ants you have crushed just for fun as a child.
+~
+4218 0 0 S
+10 7 20 1d1+1 1d1+1
+0 20
+8 8 0
+#15202
+giant ladybug~
+a giant ladybug~
+A giant ladybug scuttles about, looking for something (or someone) to eat.
+~
+You see a huge ladybug that's bigger than your height.  A regular pattern of
+black dots spot the bright red dome of exoskeleton, and the ladybug cruises
+like a miniature tank through the vines, knocking over things indiscriminately.
+~
+2140 0 0 S
+15 5 0 1d1+1 1d1+1
+0 20
+8 8 0
+#15203
+fred giant doorkeeper~
+Fred, the giant doorkeeper~
+Fred, the giant doorkeeper, stands guard in front of the door.
+~
+You see Fred, a muscular giant who guards the door against intruders.  A giant
+of giants, Fred stand a full 40 feet tall and weighs more than some trees.
+Huge muscles writhe like snake under his armor, and he snarls at you to keep
+away from his beloved home.  A large copper key dangles invitingly at his waist.
+~
+108570 4261032 350 S
+30 1 -20 1d1+1 1d1+14
+0 20
+8 8 1
+#15204
+albert fat giant~
+Albert the Fat~
+Albert the Fat is looking for a juicy snack between main courses.
+~
+You see Albert the Fat, arguably the largest biomass in Kore.  He's not tall
+as giants go, but his 30-foot frame is marked with numerous flabs, bulges,
+and mounds, and looks ready to explode.  Nevertheless, he swallows everything
+that he reaches with gusto, and his meaty paws come groping for you!
+~
+43150 1160 400 S
+38 -2 -50 1d1+1 1d1+12
+0 20
+8 6 1
+#15205
+giant servant~
+a giant servant~
+A giant servant bustles about, carrying out her duty.
+~
+You see a giant woman who takes care of the daily running of the giant mansion.
+Mumbling things understandable only to her, she carries out her duty with
+singleminded fervor, and she doesn't like interruptions.
+~
+37064 1024 400 S
+15 5 -20 1d1+1 1d1+6
+0 20
+8 8 2
+#15206
+mario giant chef~
+Mario, the giant chef~
+Mario, the giant chef, is playing around with his food.
+~
+You see a merry giant chef who probably eats only slightly less than Albert,
+his patron.  He simultaneously peels the skin off some fruit, dices some
+vegetables, tastes a bit of his soup, and adds some salt to the pot, all while
+humming some unrecognizable tune.  His impressive white chef outfit looks
+a bit stained, with red...
+~
+108554 1160 400 S
+40 -2 -80 1d1+1 1d1+16
+0 20
+8 8 1
+#15207
+helen butler giant~
+Helen the butler~
+Helen, head butler of the giant mansion, rests here.
+~
+You see Helen, head of the legions of servants here in the giant mansion.
+She has served this house well for many years, but the brutal work has left
+her rather frail by giant standards.  Her blood-shot eyes are in a permanent
+state of half-closedness, but she works with the energy of a manic, keeping
+everything in order.
+~
+43018 1160 400 S
+36 2 -40 1d1+1 1d1+10
+0 20
+8 4 2
+#15208
+giant mental patient~
+a giant mental patient~
+A giant mental patient is screaming and tearing at his restraints.
+~
+You see a giant patient who stares back at you with blood-shot eyes.  He looks
+like an extremely large porcupine with all the gadgets sticking out of him.  He
+yells incoherently and struggles to remove the restraints around his body.
+With an amazing burst of strength, he breaks free of the restraints, throw off
+the monitoring equipment, and charges at you!
+~
+104 8322 -400 S
+24 2 -30 1d1+1 1d1+10
+0 20
+8 8 1
+#15209
+mauler doctor healer md~
+Mauler, MD~
+Mauler, MD is looking around for a patient to fix up.
+~
+You see a powerfully built, almost grotesquely muscled giant who incredibly
+wears the traditional garments of a healer.  His enormous hamlike fists make
+you wonder about his definition of "anesthesia".  Noticing you, he apparently
+smiles, showing a mouth full of nasty crooked artificial teeth.  "I put them
+in myself," he declares proudly.  Then, "Would you like me to do it for you?"
+~
+567306 66728 -400 S
+44 -2 -80 1d1+1 1d1+12
+0 20
+8 8 1
+#15210
+giant house guard~
+a giant house guard~
+A giant house guard stands diligently at his post.
+~
+You see a muscular giant who guards the vital secrets of the mansion.  He
+glances briefly at you and then looks away, as if satisfied that a few puny
+humans would pose no threat.  However, his pose never relaxes, and his hands
+hover over his weapon.
+~
+559130 1192 0 S
+26 0 -50 1d1+1 1d1+10
+0 20
+8 8 1
+#15211
+ben lunatic giant~
+Ben, the raving lunatic~
+A raving lunatic giant gestures wildly and whoops in joy!
+~
+You see an incredibly immense giant who probably would make an excellent "God"
+in a theatrical production.  His voice booms forth as if from the heavens,
+chanting unknown mantras of power: "ee equals em cee squared..."  After a
+period of contemplation, he suddenly roars, "I found it!  Of course!!!!"  If
+he is aware of you, he gives no notice.
+~
+256265 66722 400 S
+44 -4 -100 1d1+1 1d1+21
+0 20
+8 8 1
+#15212
+jack thief~
+Jack the nimble thief~
+Jack the nimble thief crouches here, watching you warily.
+~
+A human-sized person in a land of giants, and a kid at that!  You want to hug
+and comfort the poor little guy, but a sdden flash from his granite-hard eyes
+freezes you, and a hand creeping toward a bulge at his hip warns you to stay
+back.  Jack has a good haul this time, and no one is taking his loot without
+a fight.
+~
+239852 787584 -400 S
+42 -1 -70 1d1+1 1d1+14
+0 20
+8 8 1
+#15213
+morris cat~
+Morris the Cat~
+Morris the nine-lived cat pounces on his newest toy--you!
+~
+You see an energetic tabby playing with something in the far corner of the room.
+His grey-striped fur shines with good health and he bounces around the room
+with reckless abandon.  Then the cute little kitty notice you and skips over
+to make new friends.  As he appraoches, Morris seems to grow bigger, and bigger,
+and bigger... you find yourself suddenly identifying with the race of mice.
+~
+716814 1194 0 S
+26 1 -30 1d1+1 1d1+1
+0 20
+8 8 0
+#15214
+giant albino lab mouse~
+a giant albino lab mouse~
+A giant albino lab mouse wanders around in the maze.
+~
+You see a cute albino lab mouse scurrying around in the maze.  Despite its
+large size, you sense that it is harmless and is just another poor creature
+trying to escape the maze.  It twitches its whiskers as it sniffs at you, but
+then loses interest and scurries away.
+~
+4172 1024 0 S
+10 6 40 1d1+1 1d1+1
+0 20
+8 8 0
+#15215
+Jon wizard giant~
+Jon, the giant wizard~
+A giant wizard intently studies the result of an unknown experiment.
+~
+You see a middle-aged giant wearing outlandish attire who is looking at some
+mysterious conjurations and furiously scribbling notes in a parchment.  His
+bald pate gleams in the white glow of the lights, and his eyes are alight with
+an inner fire, as if his life depends on the result of his work.  He is
+definitely not in the mood to see visitors.
+~
+190730 66728 400 S
+46 -6 -100 1d1+1 1d1+8
+0 20
+8 8 1
+#15216
+ann mistress machine~
+Ann, mistress of the giant mansion~
+The outline of a giant machine stands silent in the darkness.
+~
+You see a metallic monster standing still in the half-light.  Even when they
+hang limply, the thick, stubby arms and legs hints at the capability for
+awesome violence.  It was not until much later that you see the middle-aged
+woman within the armored shell, like a butterfly inside a cocoon.  She might
+have been beautiful once, but a terrible grief has silvered her hair and
+wrinkled her face and taken away her laughter, so now a seemingly old woman
+half-scowls from her machine.
+~
+256027 66728 0 S
+48 -8 -200 1d1+1 1d1+30
+0 20
+8 8 2
+#15217
+15217 morris cat~
+Morris the Cat~
+Morris the nine-lived cat pounces on his newest toy--you!
+~
+You see an energetic tabby playing with something in the far corner of the room.
+His grey-striped fur shines with good health and he bounces around the room
+with reckless abandon.  Then the cute little kitty notice you and skips over
+to make new friends.  As he appraoches, Morris seems to grow bigger, and bigger,
+and bigger... you find yourself suddenly identifying with the race of mice.
+~
+716810 1154 0 S
+26 20 -20 1d1+1 1d1+1
+0 20
+8 8 0
+#15218
+giant house guard 15218~
+a giant house guard~
+A giant house guard stands diligently at his post.
+~
+   You see a muscular giant who guards the vital secrets of the mansion.  He
+glances briefly at you and then looks away, as if satisfied that a few puny
+midgets would pose no threat.  However, his pose never relaxes, and his hands
+hover over his weapon.
+~
+557082 1192 0 S
+26 0 -20 1d1+0 1d1+10
+0 20
+8 8 1
+#15219
+notthere scrounge_mob~
+a scrounge_mob~
+A scrounge_mob stands here.
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15220
+cleaner bogus~
+a testing mob~
+a testing mob stands here
+~
+It looks, err, unfinished.
+~
+10 0 50 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

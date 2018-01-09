@@ -1,0 +1,46 @@
+#40
+Shar'han~
+4099 12 2 32
+M 0  4001     1  4034            the green snake
+O 0  4011   100  4044            a large wooden chest
+P 1  4012   100  4011                    put a small pile of coins in a large wooden chest
+O 0  4006     2  4044            a small iron ring
+M 0  4006     1  4075            the hobgoblin shaman
+D 0  4075     3     2            A Shaman's Dwelling door west
+O 0  4008   101  4076            a vial of black fluid
+O 1  4009   101  4076            a beaker of black fluid
+O 1  4015   101  4076            a beaker of red fluid
+M 0  4055     5  4071            the hobgoblin
+G 1  4050   100    -1                    give a ^Mpurple^n potion
+G 1  4010     5    -1                    give a small bent key
+M 0  4004     1  4071            an orc sergeant
+M 1  4005     4  4071            the orc
+M 1  4005     4  4071            the orc
+M 1  4005     4  4071            the orc
+M 1  4005     4  4071            the orc
+M 0  4052     8  4052            the hobgoblin
+M 0  4050     1  4025            a warrior of the white cresent
+M 1  4051     4  4025            a warrior of the white cresent
+G 1  4054    75    -1                    give a vermillion potion
+M 1  4051     4  4025            a warrior of the white cresent
+G 1  4054    75    -1                    give a vermillion potion
+M 1  4051     4  4025            a warrior of the white cresent
+G 1  4054    75    -1                    give a vermillion potion
+M 1  4051     4  4025            a warrior of the white cresent
+G 1  4054    75    -1                    give a vermillion potion
+M 0  4002     4  4055            the centipede
+M 0  4058     3  4043            a hill giant
+M 0  4057     4  4041            a male mountain lion
+M 0  4060     4  4041            a lion cub
+M 0  4061     1  4041            a protective mountain lion mother
+G 1  4004    15    -1                    give a sabre tooth
+M 0  4055     5  4070            the hobgoblin
+G 1  4050   100    -1                    give a ^Mpurple^n potion
+M 0  4055     5  4069            the hobgoblin
+G 1  4050   100    -1                    give a ^Mpurple^n potion
+M 0  4055     5  4068            the hobgoblin
+G 1  4050   100    -1                    give a ^Mpurple^n potion
+D 0  4073     1     2            The End Of The Tunnel door east
+S
+#99999
+$~

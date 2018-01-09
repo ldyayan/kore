@@ -1,0 +1,288 @@
+#12800
+knife madman madmans piece cutlery~
+the madman's knife~
+A dangerous piece of cutlery sits here.~
+~
+5 0 8193
+0 4 3 11
+6 50 100
+E
+knife madman madmans piece cutlery~
+There's dried blood on the blade.
+~
+A
+4 -2
+#12801
+awl~
+an awl~
+A discarded awl lies here.~
+~
+5 0 24577
+0 3 1 11
+1 5 5
+E
+awl~
+Looks like a normal awl, used to punch holes through leather.
+~
+#12802
+t-square square t~
+a t-square~
+An architect's t-square lies forgotten here.~
+~
+13 0 1
+0 0 0 0
+1 30 15
+E
+t-square square t~
+You think its used for angles and lines and ... stuff.
+~
+#12803
+cleaver knife meat meatcleaver~
+a huge meat cleaver~
+A huge meat cleaver gathers rust here.~
+~
+5 0 8193
+0 4 4 6
+15 100 500
+E
+cleaver knife meat meatcleaver~
+Looks like you could really hack through some meat with
+that thing!
+~
+A
+17 -20
+A
+18 -1
+#12804
+earring ear ring~
+an earring~
+A small golden earring sits here.~
+~
+9 0 131073
+2 0 0 0
+1 1000 1000
+E
+earring ear ring~
+Small and gold.  Nice.
+
+Question is, do you have a pierced ear?  (Ouch!)
+~
+#12805
+boots pair leather~
+a pair of leather boots~
+A pair of leather boots are sitting here.~
+~
+9 0 65
+4 0 0 0
+6 200 50
+E
+boots pair leather~
+A nice set of heavy leather boots.
+~
+#12806
+tie leather necktie~
+a leather tie~
+A leather tie is here.  Fashionable!~
+~
+9 0 5
+1 0 0 0
+1 50 20
+E
+tie leather necktie~
+A black leather necktie.  It would go well with nothing
+you have.
+~
+#12807
+jacket leather~
+a leather jacket~
+A nice leather jacket gathers dust on the ground.~
+~
+9 0 9
+5 0 0 0
+15 300 75
+E
+jacket leather~
+A heavy-duty leather jacket, made for warmth and protection.
+~
+#12808
+gloves leather~
+a pair of leather gloves~
+A pair of leather gloves have been discarded in a pile.~
+~
+9 0 129
+2 0 0 0
+1 30 15
+E
+gloves leather~
+These heavy-duty leather gloves seem to offer a lot of
+hand protection for day-to-day activities.
+~
+#12809
+sapphire gem jewel~
+a ^Csapphire^n~
+A glittering blue gem sits here.~
+~
+8 0 16385
+0 0 0 0
+1 10000 2000
+E
+sapphire gem jewel~
+Pretty.  It's a ^Csapphire^n, isn't it?
+~
+#12810
+emerald gem jewel~
+an ^Gemerald^n~
+A sparkling ^Gemerald^n sits here.~
+~
+8 0 16385
+0 0 0 0
+1 50000 10000
+E
+emerald gem jewel~
+Exquisite...a fantastic stone.
+~
+#12811
+diamond gem jewel marquis marquis-cut~
+a marquis-cut ^Wdiamond^n~
+A marquis cut ^Wdiamond^n sparkles here.~
+~
+8 0 16385
+0 0 0 0
+1 200000 40000
+E
+diamond gem jewel~
+Wow!  A real Diamond!
+~
+A
+2 2
+#12812
+slab beef~
+a slab of beef~
+A fresh slab of beef is wrapped up here.~
+~
+19 0 16385
+15 0 0 0
+10 50 10
+E
+slab beef~
+It's a big, bloody hunk of meat.  Mmmm.
+~
+#12813
+haunch mutton~
+a haunch of mutton~
+A haunch of fresh mutton is sitting here.~
+~
+19 0 16385
+8 0 0 0
+7 25 5
+E
+haunch mutton~
+Looks like it came from a nice, fat sheep.
+~
+#12814
+steak deer~
+a deer steak~
+A steak of deer meat is wrapped in paper here.~
+~
+19 0 16385
+9 0 0 0
+5 30 6
+E
+steak deer~
+Smells gamy, but seems edible.
+~
+#12815
+rope coil~
+a coil of rope~
+A length of rope is neatly coiled here.~
+~
+13 0 1
+0 0 0 0
+25 250 50
+E
+rope coil~
+The rope seems to be made of a good quality hemp.
+~
+#12816
+anchor~
+an anchor~
+A large metal anchor sits here.~
+~
+13 0 1
+0 0 0 0
+100 1000 200
+#12817
+net~
+a net~
+A fishing net is lying on the ground.~
+~
+5 0 24577
+0 2 4 3
+10 1000 100
+E
+net~
+Its a fishing net, with little fishing hooks attached to the knots.
+~
+#12818
+fishhook hook~
+a fishhook~
+A stray fishhook is lying here.~
+~
+5 0 24577
+0 1 1 11
+1 1 1
+E
+fishhook hook~
+Its a tiny wire fishhook.  You've seen these before...
+~
+#12819
+beer glass~
+a glass of beer~
+A glass of beer sits forgotten here.~
+~
+17 0 16385
+1 1 1 0
+2 5 1
+E
+beer glass~
+A nice glass filled with 'Mr. Beer' brand beer.
+~
+#12820
+mead glass~
+a glass of mead~
+A big glass of mead sits here, cool and frosty.~
+~
+17 0 16385
+1 1 3 0
+2 8 3
+E
+mead glass~
+Looks good.  Looks cold.  You sure could use some cold and
+alcoholic right about now...
+~
+#12821
+whiskey shot~
+a shot of whiskey~
+A shot of Whiskey is sitting here.~
+~
+17 0 16385
+1 1 5 0
+1 10 5
+E
+whiskey shot~
+Whew!  Looks like potent stuff!
+~
+#12822
+sword long longsword~
+a long sword~
+A long sword gathers rust here.~
+~
+5 0 8193
+0 1 8 3
+12 600 120
+E
+sword long longsword~
+Looks like your generic long sword.
+~
+#99999
+$~

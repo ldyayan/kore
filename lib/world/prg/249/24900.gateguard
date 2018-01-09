@@ -1,0 +1,12 @@
+>time_prog 7~
+  shout The day has begun, the gates are now opened!
+  unlock gate
+  open gate
+~
+>time_prog 22~
+  shout The night is beginning and the king has ordered the gates closed!
+  close gate
+  lock gate
+~
+|
+

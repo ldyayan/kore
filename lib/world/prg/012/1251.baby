@@ -1,0 +1,83 @@
+>entry_prog 100~
+  if name($n) == ayana
+    bow ayana
+    break
+  else
+  endif
+~
+>greet_prog 100~
+  if name($n) == ayana
+    bow ayana
+    break
+  else
+  endif
+~
+>rand_prog 5~
+ c 'teleport
+~
+>rand_prog 35~
+ if hitprcnt($i) < 50
+   cast 'restore' $i
+ endif
+~
+>fight_prog 45~
+  if inroom($r) == here
+  mpechoaround $r With a THUNDERING CRASH, Baby swings her body into $R, giving $K the people's elbow!
+  mpechoat $r Baby's enormous body comes CRASHING into you, giving you the people's elbow!
+  mpdamage $r 20d30
+ endif
+~
+>fight_prog 35~
+ if inroom($r) == here
+  mpecho Baby looks at $R and screams, 'Off with you, and do not return!'
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mptrans $r 3001
+ endif
+~
+>fight_prog 40~
+  emote lifts off the grounds with her powerful wings summoning an icy black wind.
+  mpecho You are blasted by the chilling force of Baby's wings.
+  mpcallmagic 'chill touch' $r
+  mpcallmagic 'chill touch' $r
+~
+>fight_prog 80~
+  emote kicks up a storm of dirt and sand.
+  mpcallmagic 'blind' all
+~
+>fight_prog 30~
+  if inroom($r) == here
+    emote rears up all five of her heads and focuses her fury on $R!
+    mpechoat $r Baby's blue head blasts you with lightning!
+    mpcallmagic 'shocking grasp' $r
+    mpechoat $r Baby's white head blasts you with frost!
+    mpcallmagic 'chill touch' $r
+    mpechoat $r Baby's green head lets loose a poisonous cloud!
+    mpcallmagic 'poison' $r
+    mpcallmagic 'poison' $r
+    mpechoat $r Baby's black head releases a deadly blast of acid!
+    mpcallmagic 'disintegrate' $r
+    mpechoat $r Baby's red head roars and releases dripping fire!
+    mpcallmagic 'burning hands' $r
+    mpechoaround $r $I ANNIHILATES $R with a blast from each of her mighty
+heads.
+    mpdamage $r 20d22+30
+  endif
+~
+>command_prog flee~
+  say You trying to flee? Never that, there is no escape!
+  mpstopcommand
+~
+>command_prog cast~
+  switch $n
+~
+>command_prog sing~
+  switch $n
+~
+>command_prog pray~
+  switch $n
+~
+|

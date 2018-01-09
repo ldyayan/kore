@@ -1,0 +1,555 @@
+#8601
+swordfish steak meat~
+a swordfish steak~
+A succulent fried swordfish steak is lying here.~
+It looks really tasty...
+~
+19 65536 1
+60 0 0 0
+3 1500 1
+E
+swordfish steak meat~
+It makes your mouth water.
+~
+#8602
+katana black shadow~
+a katana of shadow~
+A shadowy curved blade rests in the dust here.~
+the katana bites through the air with a vicious gleam!
+~
+5 146049 24577
+0 7 3 15
+15 550 90
+E
+katana black shadow~
+It seems entirely to be made of a black metal.
+~
+A
+2 1
+A
+14 25
+#8603
+ring lead fools~
+the ring of fools~
+A heavy lead ring is lying on the floor here.~
+It is of a dull grey color and is very heavy.
+~
+11 69666 3
+0 0 0 0
+1 96000 7
+E
+ring lead fools ~
+It is made of a dull grey metal, and is quite heavy when you pick it up.
+~
+A
+18 3
+A
+17 -25
+#8604
+boots shark sharkskin~
+sharkskin boots~
+A pair of boots sits on the ground here.~
+The boots are of a dark green skin color, not quite black...
+~
+11 0 65
+0 0 0 0
+4 6000 30
+E
+boots shark sharkskin~
+These boots are a funny grey color, and are thinner than you expected
+them to be.
+~
+A
+1 1
+A
+19 1
+A
+17 -12
+#8605
+nugget gold~
+a gold nugget~
+A shiny gold nugget rests on the ground.~
+Ooh shiny!!!
+~
+8 0 1
+0 0 0 0
+1 2000 1
+E
+nugget gold~
+It glistens in the light.
+~
+#8606
+pestle lead ~
+a heavy lead pestle~
+A heavy lead pestle used for grinding things is here.~
+It has a narrow handle and widens out into a great heavy nub for grinding.
+~
+5 0 8193
+0 4 4 6
+35 1 35
+E
+pestle lead~
+It looks fairly pitted from use.
+~
+A
+18 5
+A
+19 3
+#8607
+mortar lead heavy bowl~
+a heavy lead bowl~
+A heavy lead bowl for grinding meal in is here.~
+It sure is wide, and looks like it would fit on your head.
+~
+15 0 16401
+50 0 -1 0
+40 1 1
+E
+mortar lead heavy bowl~
+It's got pock marks from being used for a long time...little chunks of
+grain can be seen stuck to them.
+~
+A
+18 2
+A
+17 -8
+#8608
+shell shield turtle~
+a ^gturtle-dragon^n shell~
+A large lump of turtle shell sits here on the ground.~
+The plates are of a light green color and the material holding them 
+together is an even brighter yellow.
+~
+11 65536 513
+0 0 0 0
+20 20000 1
+E
+shell shield turtle~
+The shield is a single plate that seems naturally made to be a handshield.
+~
+A
+13 35
+A
+2 -1
+A
+17 -20
+#8609
+bolt fire spellfire lightning~
+a bolt of spellfire~
+A spark of lightning zips across the ground here.~
+As you hold this item its arcing fires seem not to harm you, and conform
+to the contours of your skin.
+~
+11 65539 20481
+0 0 0 0
+2 1 1
+E
+bolt fire spellfire lightning~
+As you hold it, it seems to flicker about your hand harmlessly...
+~
+A
+9 2
+A
+12 12
+#8610
+ring blue coral indigo~
+a ring of indigo coral~
+A small blue ring sits in the dust.~
+It's a hoop of brass attached to a piece of blue coral.
+~
+11 147488 3
+0 0 0 0
+1 4000 7
+E
+ring indigo coral~
+The dark blue stone is attatched to a thin hoop of brass.
+~
+A
+4 2
+A
+12 6
+#8611
+small pebble~
+a small pebble~
+A small pebble.~
+You could swear that this unassuming piece of rock emits a faint hum.
+~
+11 0 16385
+0 0 0 0
+3 3 1
+E
+pebble small~
+Look mommy, duhr droppings!
+~
+A
+5 3
+A
+18 2
+#8612
+cloak shimmering fur warmabout~
+a cloak of shimmering fur~
+A mass of glowing fur sits here.~
+This chunk of fur seems to have the same properties as the displacer
+beast it came from.  You don't see it where you feel it. :)
+~
+15 1 1025
+100 0 -1 0
+6 13000 1
+E
+cloak shimmering fur~
+Upon closer inspection you note that only some of the hairs are 
+fluorescent.
+~
+A
+2 2
+A
+12 17
+A
+17 -11
+#8613
+ring glass renewal~
+a ring of renewal~
+A small glass loop lies neglected on the floor.~
+It looks indistinguishable from a broken bottle-neck.
+~
+11 53249 3
+0 0 0 0
+1 8400 15
+E
+ring glass renewal~
+It feels extremely light to the touch, and you were lucky to notice it
+at all..
+~
+A
+9 8
+A
+12 24
+A
+17 -4
+#8614
+straw tabard~
+a straw tabard~
+A clump of straw.~
+This straw gently drapes over your arms and feels almost weightless...
+~
+11 188544 257
+0 0 0 0
+3 4500 32
+E
+straw tabard~
+It is woven in an impossibly good imitation of jazeraint armor, as if
+you could make armor of the stitches alone and used straw instead of 
+string...
+~
+A
+12 24
+A
+1 -2
+#8615
+stick walking birch~
+a walking stick~
+A sturdy straight piece of birch rests here.~
+This piece of birch is about three feet long, and cured in some dark red
+lacquer material...
+~
+5 0 8193
+0 5 3 5
+1 1 1
+E
+stick walking birch~
+It's a nicely polished stick of wood.
+~
+A
+19 4
+A
+1 2
+#8616
+belt broad dwarven 8616~
+a broad dwarven belt~
+A broad pouch of tough leather sits here in the dust.~
+This pouch is made from tiny plates of green mica which are stitched together
+with some unknown fabric...
+~
+15 4096 2049
+0 0 0 0
+15 8400 1
+E
+belt broad dwarven~
+You wonder when a dwarf found time to work with cattle.
+~
+A
+1 2
+A
+13 26
+A
+17 -12
+#8617
+webbing silk strands woven~
+some woven strands of silk webbing~
+A pile of sticky webs rests here.~
+These strands of webbing seem to have been woven by some of Lolth's 
+personal maids-in-waiting, if not by the dread Queen herself..
+~
+11 180224 33
+0 0 0 0
+1 6000 1
+E
+webbing silk strands woven~
+More delicate by far than the kimonos you have seen lately, this piece
+of arachnid handiwork seems to be held together by magic more than 
+substance...
+~
+A
+12 20
+A
+14 20
+A
+17 -5
+#8618
+pelt black lemming fur~
+a jet-black lemming pelt~
+A lump of black fur sits on the floor.~
+This dark fur feels extremely tough and could withstand a formidable
+assault...
+~
+11 0 5
+0 0 0 0
+6 1000 1
+E
+pelt black lemming fur~
+This fur is as thick as your arm.
+~
+A
+18 2
+A
+17 -12
+#8619
+pearl tide rising~
+a pearl of the rising tide~
+A large pearl sits on the floor here.~
+This pearl is the size of a crystal ball, that must have been one hell
+of an oyster...
+~
+1 53248 16385
+0 0 -1 0
+1 500 1
+E
+pearl tide rising~
+This pearl, due to its size, is more like a miniature crystal ball with 
+a hollow opaque layer inside it filled with smoke or something...it gives
+off a dull radiance of its own during the night.
+~
+A
+9 5
+A
+19 2
+#8620
+bracelet teeth dog scruffy~
+a bracelet of scruffy dog teeth~
+A string of sharp yellow teeth rests on the floor.~
+~
+11 16384 4097
+0 0 0 0
+4 1500 1
+E
+bracelet teeth dog scruffy~
+A fine set of canines, indeed.
+~
+A
+18 1
+A
+1 2
+A
+17 -9
+#8621
+chalcedony scabbard~
+a scabbard of chalcedony~
+An impressive scabbard lies here abandoned.~
+Errantry is a good poem. Go read it.
+~
+15 28672 16385
+200 1 -1 0
+15 8400 1
+E
+chalcedony scabbard~
+Errantry is a damn good poem.  Go read it 8^?
+~
+A
+1 2
+A
+13 50
+A
+17 -15
+#8622
+raft kobold boat~
+a kobold fishing raft~
+A small wooden boat is here~
+It looks like a crude square wooden raft.
+~
+22 0 1
+0 0 0 0
+0 250 0
+#8623
+boots barkskin bark~
+barkskin boots~
+A pair of boots of heavily cured bark sits here.~
+They look quite comfy.
+~
+22 0 65
+0 0 0 0
+4 25000 0
+A
+17 -6
+A
+14 15
+#8624
+herbal draught water drink~
+a herbal draught~
+A small cup of herbal brew is lying here.~
+It looks hot!
+~
+10 0 1
+50 15 15 0
+3 11000 0
+#8625
+desk pagoda jade~
+a ^Gjade^n pagoda desk~
+A beautiful ^Gjade^n pagoda desk is here, a treasure from a far-away land.~
+~
+15 0 1
+100 13 0 0
+99999 0 0
+E
+desk pagoda jade~
+You look at the ornately carved ^Gjade^n pagoda desk and marvel at its
+construction: a beautiful green ^Gjade^n stone, carved with serpents, dragons,
+common people, and scenes of life in a different land. The desk is so
+out of place here... it makes you very curious. You notice that it has
+a drawer and a keyhole. The key must be long lost, but through the
+keyhole you see a lot of possibly valuable sheafs of paper.
+~
+#8626
+logbook captains log book~
+TacO's logbook~
+A captains logbook is here mouldering.~
+~
+13 65536 16385
+0 0 0 0
+5 20000 2000
+E
+entry-3 3 entry-three three~
+"I understand the Wicca better now, she seeks revenge upon her sister,
+the Grand Mistress of the High Tower of Magic, and upon the Giants who
+fostered them. I fear she controls my ronin, but I too hate the Giants.
+I will lead an expedition to the Gem Mountains and find the key to a
+magic portal. The Wicca has shown me in a vision the key around the neck
+of a calico cat on a south shore beach. Prince Covenant and his Citadel
+Knights of Bal Harbor are hunting for the key too, but I will win out."
+~
+E
+entry-2 2 entry-two two~
+"...I awoke today drenched in my own blood. I am the sole living
+survivor, in the conventional sense, of the shipwreck. My followers
+have re-animated and wander about as undead... The Wicca has spoken
+through my undead crew and sent for me to meet with her. What choice
+do I have? I leave to meet her tonight. My poor ronin, I have failed
+them."
+~
+E
+entry-1 1 entry-one one~
+"...It is six weeks since we left my fiefdom on the mainland
+to the east, and we are drawing near to the island where our 
+promised future ally, the Wicca, awaits us.  Foul weather has three
+times this day already threatened to capsize us, and the clouds
+over the island seem eternal.  We plain to weigh anchor at the
+mouth of the River Qix, and then to proceed overland to the palace
+instead of struggling up the treacherous low ground of the river."
+~
+E
+captains log logbook book~
+You open the mouldering book and leaf through it a bit...
+You see just three entries have survived TacO's ill-fated
+journey to the Isle of the Wicca:
+    entry-1    "...It is six weeks since we left my fiefdom"
+    entry-2    "...I awoke today drenched in my own blood"
+    entry-3    "...I understand the Wicca better now,"
+
+'read <entry>' to read any of them.
+~
+#8627
+papers wicca parchment tattered~
+the Wicca papers~
+A bunch of papers are here scattered about, they look kind of interesting.~
+~
+13 0 1
+0 0 0 0
+2 500 0
+E
+paper-6 6 paper-six six~
+"Scare much else about Endor is known today except as fables, but if the
+fables I extracted from the Elves I tortured are true, then there are
+incredible secrets of magic merely to be had for the asking.  As
+always, I shall be prudent:  I do not seek to alter the past by 
+attempting to steal pivotal artifacts.  The dominion of *today* and 
+beyond is my concern.  That and the vanquishing of my meddlesome
+sister and her lackeys..."
+~
+E
+paper-5 5 paper-five five~
+"Well, that's all settled.  My pet samurai lord has 'ordered' my
+undead ronin to guard the portal along the shore, while he and his
+former (heh) close retainers will sneak through the Giant castle's
+portal system in order to search for the time-key.  If my research
+of the history of our world is correct, the key unlocks a door to
+the distant past, when much of the world's surface was a single
+continent named Endor, or 'earth-middle.'"
+~
+E
+paper-4 4 paper-four four~
+"...Damn.  Not only did my attack not go quite as planned, but my
+promised shipment of samurai has managed to dash itself to pieces
+upon the mouth of the River Qix.  Ah well, samurai never were good
+sailors, and this gives me a chance to add to my undead contingent.
+Orders will be issued to my liches at once..."
+~
+E
+paper-3 3 paper-three three~
+"Likewise my arrangements with the kobolds and duergar of this island
+are coming to fruition, and I sense that it is nearly time to 
+assault the Tower.  If my choices for the personnel in my army move
+my enemies to foolish laughter, and make me appear to be scraping
+the bottom of the barrel, so much the better.  Surprise is good..." 
+~
+E
+paper-2 2 paper-two two~
+"I have taken my agreement with Lolth for the equipping of my army
+and put it to good use.  DemonWeb silk kimonos are arriving at the
+western village cargo portal by the crateload several times daily,
+as are small contingents of drow elves and drider guards.  These
+suit me well enough, considering the money I spent, and of course
+one does not haggle with the likes of the DemonWeb Queen."
+~
+E
+paper-1 1 paper-one one~
+"...That wretch of a sister of mine has joined forces with the
+hated city of Bal Harbor, which lies on the mainland to the southeast
+of our island, and north of the samurai kingdoms.  I have sent great
+store of treasure to those kingdoms in return for some warriors to 
+aid me in my fight.  I expect their ship to arrive any day now,
+but as any witch worth her salt works on more than one plan at once,"
+~
+E
+papers wicca parchment tattered~
+You pick up the sheaf of loose papers and go through them,
+You see a lot of interesing things too:
+
+    paper-1    "...That wretch of a sister of mine"
+    paper-2    "I have taken my agreement with Lolth..."
+    paper-3    "Likewise my arrangements with the kobolds and duergar..."
+    paper-4    "...Damn.  Not only did my attack not go quite as planned,"
+    paper-5    "Well, that's all settled."
+    paper-6    "Scarce much else about Endor is known today..."
+
+~
+#99999
+$~

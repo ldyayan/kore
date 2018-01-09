@@ -1,0 +1,39 @@
+>rand_prog 6~
+  if inroom($r) == here
+    if isaffected($r, invis)
+    else
+      cast 'invis' $r
+      if rand(20)
+        smile $r
+      endif
+    endif
+  endif
+~
+>rand_prog 6~
+  if inroom($r) == here
+    if ispc($r)
+      if isimmort($r)
+      else
+        mpechoat $r $I hands you a drink which you quickly down!
+        mpechoaround $r $I hands $R a drink which they quickly down!
+        mpcallmagic 'armor' $r
+        mpechoat $r You feel like you can take on the world!
+        if isaffected($r, curse)
+          say Something vile hangs over you!
+          cast 'remove curse' $r
+          say There!  Hope that helps!
+        endif
+          if isaffected($r, fly)
+            if rand(5)
+            smile $r
+          endif
+        else
+          mpechoat $r $I sneaks up behind you and gives you a passionate kiss!
+          mpechoaround $r $I sneaks around $R and gives $K a passionate kiss!
+          mpcallmagic  'fly' $r
+        endif
+      endif
+    endif
+  endif
+~
+|

@@ -1,0 +1,24 @@
+>greet_prog 10~
+  if ispc($n)
+    if isgood($n)
+      if level($n) > 30
+        say Greetings, $n. Care to join me for a drink?
+      endif
+    endif
+  endif
+else
+  if ispc($n)
+    if isneutral($n)
+      if level($n) < 30
+        say Welcome friend, care to join me?
+      endif
+    endif
+  endif
+~
+>rand_prog 5~
+  mpecho $I sips his ale absently, looking at his reflection in the mirror.
+~
+>rand_prog 5~
+  mpecho $I takes a long draught from his mug.
+~
+|

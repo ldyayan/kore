@@ -1,0 +1,233 @@
+#7900
+cloak~
+a dark flowing cloak~
+A dark cloak lies crumpled on the floor, radiating unholy energy.~
+~
+9 0 9
+50 0 0 0
+0 0 0
+E
+1~
+duh
+~
+A
+19 2
+A
+18 2
+#7901
+armor black ebony rose~
+ebony armor~
+A suit of pitch black armor etched with a longstem rose rests here.~
+~
+9 152128 9
+8 0 0 0
+12 20450 5000
+E
+armor black genocide~
+   This suit of armor was crafted by the smiths of old for the noble knights of
+Genocide before they turned their work to evil.  Heavy though it is, you feel
+a sense of power just holding it.  It is of incredibly fine craftsmanship and
+you estimate it to be of great value.
+~
+E
+rose~
+   The center of the chest plate is etched with a lovely long-stemmed rose. 
+The flower itself is about 12 inches long and has elegant poetals and long
+thorns etched in great detail.
+~
+A
+1 2
+A
+18 3
+A
+19 3
+#7902
+key rusty~
+a rusty key~
+A flaked and rusty key collects dust on the ground.~
+~
+18 0 16385
+0 1 0 0
+1 1 1
+E
+key rusty~
+A single word is etched onto the key face, "Genocide".
+~
+#7903
+rusty key~
+a rusty key~
+A rusty key is lying here in the dirt.~
+~
+18 0 16385
+0 0 0 0
+0 0 0
+E
+key rusty~
+Scratched onto the face of the key is the word "Genocide".
+~
+#7904
+sword bastard sword~
+a huge bastard sword~
+A large-bladed bastard sword is thrust into the ground here.~
+~
+5 44203075 8193
+6 8 8 14
+20 0 0
+A
+18 7
+A
+19 7
+S
+22 40 40
+#7905
+dagger curved jewel~
+a long curved dagger~
+A slender dagger is lying here, its large jewel glittering in the light.~
+~
+5 12722688 24577
+4 5 7 11
+12 0 0
+A
+2 2
+A
+19 4
+B
+262144
+#7906
+staff long wooden orb~
+a long wooden staff~
+A long wooden staff with an orb centered on top is laying on the ground here.~
+~
+11 248929 16385
+0 0 0 0
+8 0 0
+A
+3 2
+A
+12 20
+A
+4 1
+B
+1048576
+S
+22 30 4
+#7907
+ring red glowing fire~
+a fire-ruby ring~
+A ruby ring glowing with magical fire is torching the ground here.~
+~
+9 8540673 3
+5 0 0 0
+0 0 0
+A
+19 4
+A
+13 30
+B
+512
+#7908
+key crystal cube~
+a crystal cube~
+A crystal cube lies here, glittering in the dust.~
+~
+18 2 16385
+0 1 0 0
+0 0 0
+#7909
+katana sharp edged~
+a sharp edged katana~
+A gleaming katana is lying here, reflecting the light.~
+~
+5 8531968 8193
+4 5 6 3
+4 0 0
+A
+19 4
+A
+2 3
+B
+67108864
+#7910
+gauntlets bronze tarnished~
+some tarnished gauntlets~
+A pair of bronze tarnished gauntlets lie here, humming with power.~
+~
+11 8389762 129
+0 0 0 0
+14 0 0
+A
+19 2
+A
+1 3
+A
+18 2
+#7996
+mesh sleeves~
+black mesh sleeves~
+A finely crafted pair of mesh sleeves lies here.~
+~
+9 67108928 257
+-8 0 0 0
+1 0 0
+A
+19 3
+A
+13 10
+B
+32
+#7997
+spider amulet~
+a silvery spider amulet~
+A silver spider twinkles in the dust here.~
+~
+11 0 5
+0 0 0 0
+0 0 0
+B
+786432
+#7998
+mace avalanche~
+a mace named, 'Avalanche'~
+A rectangular granite macehead rests atop a rune carved wooden haft.~
+~
+5 61231778 24577
+9 9 9 5
+21 550000 0
+A
+18 9
+A
+19 9
+A
+17 -9
+S
+117 55 25
+S
+161 55 20
+#7999
+an iron agate ring~
+iron agate ring~
+An iron agate ring rests on the floor here.~
+~
+9 0 3
+15 0 0 0
+0 0 0
+E
+plaque~
+None yet.
+~
+E
+trophy gold arena pk huge~
+This trophy proudly declares to you the winners of this month's Arena PK
+Tourney.  To see the names of the winning team members, type ^rREAD PLAQUE^n
+To see the names of previous winners, type ^rREAD <month>^n.
+~
+A
+19 30
+A
+18 30
+A
+17 -30
+B
+4194336
+#99999
+$~

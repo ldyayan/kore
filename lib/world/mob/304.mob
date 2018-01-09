@@ -1,0 +1,84 @@
+#30400
+slender thief~
+a slender thief~
+A man dressed in dusty garments is looking for gold here.
+~
+Being a maurader of many caravans and adventureres, this
+thief carries on an air of confidance.  His dune-colored clothes
+usually succeed in concealing him in his dastardly deeds.
+He seems willing to fight for a mere shilling.
+~
+536744 851970 0 S
+35 -10 10 30d2+3000 7d6+40
+500 180000
+8 8 2 4
+#30401
+horace wizened~
+Horace the wizened~
+A slender aged man stands here barking orders.
+~
+With arms as slender as yard sticks, and a face full of wrinkles,
+it is astonishing that this man can withstand a stiff breeze.
+Still, he remains the emperor's elite trainer of samurai, and
+would probably fight to retain his job.
+~
+2338824 92340356 1000 S
+50 -30 -5 30d1+30000 9d12+20
+1200 800000
+8 8 1
+#30402
+Goliath~
+Goliath the Gargon~
+He's big, he's buff, he's mean.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 30d100+30000 1d1+0
+0 0
+8 8 1
+#30403
+drunk priest~
+a drunk priest~
+A drunk priest is trying to balance the room here.
+~
+This priest has certainly had a few too many.
+He continually asks if you could stop spinning the room on him.
+He hiccups and belches, and tries to bless you.
+~
+2097160 0 0 S
+20 5 10 30d20+0 10d10+10
+60 12000
+8 8 1
+#30404
+kamanske master thief~
+Kamanske the master thief~
+An extremely large man stands here, counting his looted gold.
+~
+Draped in rich, yet greasy clothing, this man appears both regal and
+vulgar.  He obviously has wealth, but no class.  His mustache is
+covered in his own snot, and his face could use a good shave.
+The pungent aroma of body odor flows freely from his soiled
+robes.  Desite his unattractiveness, his infamousy is known all
+across the desert.  He is vile, he is treacherous, and he seems
+to have been waiting for you.
+~
+2634252 1107623936 -800 S
+50 -30 10 30d1+30000 9d13+50
+1500 2000000
+8 8 1 15
+#30499
+a slimy fish~
+a slimy fish~
+A fish covered in muck and refuge swims here.
+~
+Covered in moss and filth, this fish lives off tiny particle of pant life.
+It is hard to imagine how it can still obtain oxygen living in such
+a filthy habitat.
+~
+2097192 524288 200 S
+10 9 -1 5d2+400 4d2+5
+10 2000
+8 8 0 2
+#99999
+$~

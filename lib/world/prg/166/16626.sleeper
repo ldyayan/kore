@@ -1,0 +1,13 @@
+>greet_prog 100~
+  if isimmort($n)
+  else
+    if ispc($n)
+      mpechoat $n As you walk into the room you feel a sharp blow to the head!
+      mpechoat $n You slip into a deep sleep and start to dream of a bright blue room.
+      mpechoat $n As you slip further and further away from reality, you begin to imagine things..
+      mptransfer $n 16663
+      mppose $n sleep
+    endif
+  endif
+~
+|

@@ -1,0 +1,73 @@
+>script_prog silent-night~
+  emote sings, 'Silent night...'
+  emote sings, 'Holy night...'
+  emote sings, 'all is clear...'
+  emote sings, 'all is bright...'
+  emote sings, 'round yon virgin, mother and child'
+  emote sings, 'holy infant so tender and mild'
+  emote sings, 'sleep in heavenly peace'
+  emote sings, 'sleep in heavenly peace'
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+~
+>script_prog oh-little-town-of-bethlehem~
+  emote sings, 'Oh little town of bethlehem'
+  emote sings, 'how soft we see thee lie'
+  emote sings, 'above thy deep and dreamless sleep'
+  emote sings, 'the silent stars go by'
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+~
+>script_prog jingle-bells~
+  emote sings, 'jingle bells, jingle bells'
+  emote sings, 'jingle all the way'
+  emote sings, 'oh what fun it is to ride in on horse open sleigh'
+  emote sings, 'hey!'
+  emote sings, 'jingle bells, jingle bells'
+  emote sings, 'jingle all the way'
+  emote sings, 'oh what fun it is to ride in on horse open sleigh'
+  emote sings, 'dashing through the snow..'
+  emote sings, 'in a one-horse open sleigh!'
+  emote signs, 'over the fields we go, laughing all the way...'
+  rofl
+  emote sings, 'jingle bells, jingle bells'
+  emote sings, 'jingle all the way'
+  emote sings, 'oh what fun it is to ride in on horse open sleigh'
+  emote sings, 'hey!'
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+~
+>rand_prog 1~
+  mptrigger $i silent-night
+~
+>rand_prog 1~
+  mptrigger $i oh-little-town-of-bethlehem
+~
+>rand_prog 1~
+  mptrigger $i jingle-bells
+~
+|

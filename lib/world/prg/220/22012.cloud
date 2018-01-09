@@ -1,0 +1,40 @@
+>all_greet_prog 35~
+  if ispc($n)
+    mpechoat $n A horrible bronze-green odor stings your nostrils.
+    mpdamage $n 6d6+12
+    mpechoat $n Your body feels as if it were encased in a sheath of flame!
+    mpdamage $n 6d6+12
+    mpechoaround $n $N lets out an ungodly shriek!
+    mpechoaround $n $N flails about and writhes as if possessed by demons!
+    mpechoat $n You drop to your knees and sit down hard.
+    mppose $n sit
+  endif
+~
+>entry_prog 20~
+  if ispc($n)
+    mpechoat $n A horrible bronze-green odor stings your nostrils.
+    mpdamage $n 6d6+12
+    mpechoat $n Your body feels as if it were encased in a sheath of flame!
+    mpdamage $n 6d6+12
+    mpechoaround $n $N lets out an ungodly shriek!
+    mpechoaround $n $N flails about and writhes as if possessed by demons!
+    mpechoat $n You drop to your knees and sit down hard.
+    mppose $n sit
+  endif
+~
+>command_prog kill~
+  if ispc($n)
+    mpechoat $n Your eyes burn and fill with tears, blurring your vision!
+    mpechoat $n You flail about with your weapon, striking nothing but air!
+    mpdamage 6d10+15
+    mpstopcommand
+  endif
+~
+>rand_prog 15~
+  if inroom($r)  == here
+    mpechoat $r Your skin burns as though encased in a sheath of flames!
+    mpdamage $r 5d10+10
+    mpechoaround $r $R writhes as if grappling with some inner frenzy!
+  endif
+~
+|

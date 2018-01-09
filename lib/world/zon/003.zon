@@ -1,0 +1,71 @@
+#3
+Training Area~
+399 9 2 3
+M 0   301     3   305            the training dummy
+M 0   301     4   305            the training dummy
+O 0   302   101   302            a small wooden bin
+P 1   303    99   302                    put a scroll of recall in a small wooden bin
+P 1   303    99   302                    put a scroll of recall in a small wooden bin
+P 1   303    99   302                    put a scroll of recall in a small wooden bin
+M 0   302     1   317            the deer
+M 0   306     1   317            the rabbit
+M 0   307     1   317            a young adventurer
+E 1   307    40     1                    left finger a tarnished metal ring
+E 1   308    70     3                    neck 1 a brown cloth cloak
+O 0   300    99   317            a mushroom
+O 0   300    99   318            a mushroom
+M 0   302     2   313            the deer
+M 0   307     2   313            a young adventurer
+E 1   307    40     1                    left finger a tarnished metal ring
+E 1   308    70     3                    neck 1 a brown cloth cloak
+O 0   300    99   313            a mushroom
+M 0   307     3   316            a young adventurer
+E 1   307    40     1                    left finger a tarnished metal ring
+E 1   308    70     3                    neck 1 a brown cloth cloak
+O 0   300    99   316            a mushroom
+M 0   306     2   312            the rabbit
+O 0   300    99   312            a mushroom
+M 0   301     1   304            the training dummy
+M 0   301     2   304            the training dummy
+O 0   301   101   304            a well
+M 0   301     5   306            the training dummy
+M 0   301     6   306            the training dummy
+M 0   301     7   307            the training dummy
+M 0   301     8   307            the training dummy
+M 0   307     4   307            a young adventurer
+E 1   307    40     1                    left finger a tarnished metal ring
+E 1   308    70     3                    neck 1 a brown cloth cloak
+M 0   301     9   309            the training dummy
+M 0   301    10   309            the training dummy
+M 0   301    11   308            the training dummy
+M 0   301    12   308            the training dummy
+M 0   302     3   311            the deer
+M 0   302     4   315            the deer
+M 0   307     5   315            a young adventurer
+E 1   307    40     1                    left finger a tarnished metal ring
+E 1   308    70     3                    neck 1 a brown cloth cloak
+M 0   302     5   314            the deer
+M 0   306     3   314            the rabbit
+M 0   303     1   319            the goblin
+G 1   304    70    -1                    give a green potion
+M 0   303     2   319            the goblin
+E 1   305    70     8                    feet a pair of leather boots
+G 1   304    70    -1                    give a green potion
+M 0   303     3   320            the goblin
+G 1   304    99    -1                    give a green potion
+M 0   303     4   320            the goblin
+M 0   307     6   320            a young adventurer
+E 1   307    40     1                    left finger a tarnished metal ring
+E 1   308    70     3                    neck 1 a brown cloth cloak
+M 0   304     1   321            the goblin
+E 1   306    70     9                    hands a pair of soft leather gloves
+G 1   304    70    -1                    give a green potion
+M 0   304     2   321            the goblin
+G 1   304    70    -1                    give a green potion
+M 0   307     7   321            a young adventurer
+E 1   307    40     1                    left finger a tarnished metal ring
+E 1   308    70     3                    neck 1 a brown cloth cloak
+M 0   305     1   303            the guildmaster
+S
+#99999
+$~

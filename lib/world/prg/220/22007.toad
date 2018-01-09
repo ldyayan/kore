@@ -1,0 +1,26 @@
+>all_greet_prog 35~
+  if ispc($n)
+    mpechoat $n $I's tongue stabs at your face!
+    mpechoat $n You feel drained of energy.
+    mpforce $n sit
+    mpechoaround $n $N clasps $S hands to $S face then collapses!
+    mpdrainmana $n 8d10+20
+    mpdrainmove $n 5d10+15
+  endif 
+~
+>rand_prog 8~
+  if inroom($r) == here
+    mpechoat $r $I's tongue darts across your eyes!
+    mpechoat $r You feel your essence drain quickly away!
+    mpdrainmana $r 8d10+20
+    mpdrainmove $r 5d10+15
+    mpechoaround $r $R cries out in horror and writhes as if possessed!
+  endif
+~
+>fight_prog 10~
+  mpechoat $r You see a red blur and feel a sting on your face.
+  mpechoat $r Ugh, everything is blurry!
+  mpcallmagic 'blind' $r
+  mpechoaround $r $I's tongue darts toward $R and stings $L in $K face!
+~
+|

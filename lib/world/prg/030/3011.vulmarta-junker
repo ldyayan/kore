@@ -1,0 +1,20 @@
+>rand_prog 24~
+  if inroom($r) == here
+    if isaffected($r, poison)
+      cast 'remove poison' $r
+    else
+      if hitprcnt($r) < 100
+        cast 'cure critic' $r
+      endif
+    endif
+  endif
+~
+>rand_prog 100~
+  wake
+  stand
+  mpsilent get all.newbie
+  mpsilent junk all.newbie
+  mpsilent mpat 3063 get all.newbie
+  mpsilent mpat 3063 junk all.newbie
+~
+|

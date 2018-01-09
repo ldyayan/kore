@@ -1,0 +1,62 @@
+#9100
+key dirty~
+a dirty key~
+A key lies here, covered in dirt.~
+~
+18 65556 16385
+0 1 0 0
+2 0 0
+#9101
+ring smite~
+a ring of smite~
+A ring is here, glittering on the ground.~
+~
+11 311810 3
+0 0 0 0
+3 0 0
+A
+4 1
+A
+5 1
+A
+13 10
+A
+13 10
+#9102
+stick wooden walking~
+a curved walking stick~
+A stick lies here.~
+~
+11 312129 16385
+0 0 0 0
+4 0 0
+A
+9 5
+A
+19 1
+A
+12 10
+#9103
+key stick~
+a stick-shaped key~
+A key lies here, shaped like a stick.~
+~
+18 4 16385
+0 1 0 0
+4 0 0
+#9104
+skin rigid beaver~
+a rigid beaver skin~
+A skin is here, covered with dust.~
+~
+11 35 1025
+0 0 0 0
+6 0 0
+A
+19 1
+A
+1 1
+A
+13 20
+#99999
+$~

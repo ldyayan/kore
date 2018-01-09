@@ -1,0 +1,76 @@
+#203
+The Park Of Kore~
+20399 22 2 1
+D 0 20300     5     1            Path Through The Park door down
+D 0 20300     4     1            Path Through The Park door up
+M 0 20306    10 20300            the largish rabbit
+G 1 20306   110    -1                    give rabbit meat
+M 0 20301     1 20300            guardian mob mortals can't see
+D 0 20306     7     2            Inside The Circle Of Rose Bushes door southeast
+M 0 20315     3 20306            a faerie guard
+M 0 20316     3 20306            a large faerie
+E 1 20308    18     2                    right finger some faerie wings
+M 0 20397     5 20352            a larger squirrel
+M 0 20395     4 20352            a larger squirrel with lighter fur
+M 0 20398     7 20349            a squirrel
+M 0 20396     4 20349            a squirrel with lighter fur
+M 0 20397     3 20354            a larger squirrel
+M 0 20395     2 20354            a larger squirrel with lighter fur
+D 0 20325     8     2            Secret Coven of the Tyrant of Kore door southwest
+M 0 20307     2 20325            a small witch
+G 1 20312    18    -1                    give a grey potion
+M 0 20308     2 20325            a larger witch
+G 1 20313    18    -1                    give a dark black potion
+M 0 20310     2 20325            a witchmaster
+G 1 20314    15    -1                    give a fading potion
+D 0 20314     4     1            Almost At The Top Of The Tree door up
+M 0 20317     5 20332            a bard
+M 0 20318     3 20332            a human warrior
+E 1 20318    14    16                    wield a greyish sword
+M 0 20319     4 20332            a wandering dwarf
+E 1 20321    14     2                    right finger a dwarven ring
+M 0 20317     5 20340            a bard
+M 0 20319     4 20340            a wandering dwarf
+M 0 20317    10 20339            a bard
+M 0 20319     4 20339            a wandering dwarf
+M 0 20317    10 20338            a bard
+M 0 20319     4 20338            a wandering dwarf
+M 0 20317     5 20336            a bard
+M 0 20317     5 20333            a bard
+M 0 20319     5 20333            a wandering dwarf
+M 0 20312     7 20313            a baby roc
+M 0 20312     7 20312            a baby roc
+M 0 20302     1 20347            an old hermit
+E 1 20389    14     0                    light a sophisticated gyroscope
+M 0 20399    10 20304            a guard of kore
+M 0 20399    10 20320            a guard of kore
+D 0 20305     9     2            The Path With Rose Bushes door northwest
+O 0 20307   101 20305            a statue of a rose bush
+P 1 20390   101 20307                    put ---,--'---{@ in a statue of a rose bush
+M 0 20323     1 20335            a lonely bard
+M 0 20320     1 20334            a master bard
+E 1 20317    26    16                    wield a lute
+M 0 20321     2 20334            an actor
+M 0 20322     2 20334            a beautiful actress
+M 0 20300     2 20301            a big spider guard
+D 0 20301     4     1            A Passage To A Spider Colony door up
+M 0 20314     5 20317            a very big spider
+M 0 20313    10 20316            a small spider
+M 0 20313    10 20315            a small spider
+M 0 20312     7 20311            a baby roc
+E 1 20320    25    17                    held a baby rocs feathers
+D 0 20309     5     1            Birds Nest door down
+M 0 20309     4 20309            a huge roc
+E 1 20309    45     0                    light a Roc's eyeball
+M 0 20312     1 20330            a baby roc
+G 1  3009   101    -1                    give a waybread
+D 0 20330     3     1            A room inside a tree door west
+O 0 20310   101 20324            a statue of the Tyrant of Kore is here.
+P 1 20311   101 20310                    put a BRIGHT white key in a statue of the Tyrant of Kore is here.
+D 1 20324     6     2            Corner In The Garden door northeast
+M 0 20306    10 20302            the largish rabbit
+G 1 20306   110    -1                    give rabbit meat
+D 0 20307     5     1            Climbing Up The Tree door down
+S
+#99999
+$~

@@ -1,0 +1,34 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    if isfight($i)
+    else
+      mptrigger $n story
+    endif
+  endif
+~
+>script_prog story~
+  #
+  say Welcome.
+  say I perceive with the gift of soul-seeing that you are not in league with the Wicca.
+  say Good.
+  say The Grand Mistress created me to wait for any worthies that may come.
+  say I have been ordered to stand here and hold the calico cat,
+  say which is dweomered to appear in three places at once:
+  say here,
+  say in the High Tower of Magic,
+  say and upon the Western Ruby Cleft.
+  say But the key is in none of those three places.
+  say The calico cat was visioned by the Wicca
+  say and seen with the Time-Key around its neck prior to her attack,
+  say which makes the cat the perfect decoy.
+  say The Giants who fostered the Wicca and her sister, my mistress,
+  say know the true location of the key and its guardians.
+  say Seek them by traveling to the dark rocky overhang nearby in these clouds
+  say and pass through the Nighshade Door.
+  say You will then find yourselves in the perilous glowing hedges
+  say and must scale the walls of the Giant Castle from there in order to enter it.
+  say Seek the King and Queen of Giantkind!
+  say I can speak no more on this.
+~
+|

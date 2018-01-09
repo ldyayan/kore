@@ -1,0 +1,15 @@
+#10200
+flame fire elemental~
+the minor fire elemental~
+A living flame is here, guarding the door.
+~
+   You see a small flame, only a few feet tall, burning intently. When you
+look this closely at it you realize it has little eyes that look right back
+at you and and little hands of flame.. it peers at you malevolently.
+~
+10 0 -500 S
+15 7 2 1d1+0 1d1+0
+0 0
+8 8 0 2
+#99999
+$~

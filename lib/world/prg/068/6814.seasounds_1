@@ -1,0 +1,14 @@
+>rand_prog 10~
+  if inroom($r) == here
+  if rand (40)
+  mpecho A cool breeze blows over the sea sending ripples across the water.
+  else
+  if rand (30)
+  mpecho The cries of seagulls fill the air.
+  else
+  mpecho The waves continue their endless rhythm towards the shore.
+  endif
+ endif
+endif
+~
+|

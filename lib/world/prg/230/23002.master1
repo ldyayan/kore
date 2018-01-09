@@ -1,0 +1,29 @@
+>script_prog hello~
+  #
+  say Hello adventurers, and welcome to the training barracks!
+  say I hope you all remembered to wear your equipment and wield your weapons.
+  say To start things rolling you can kill mobs by typing '^Gkill ^n<^Gmobile name^n>'.
+  say To cast a spell just type ^G'cast ^n'<^Gspell^n>' ^Gmob^n'.
+  say If you're low on hitpoints then type '^Gflee^n'.
+  say Easy stuff really.
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ismemory($n)
+    else
+      mptrigger $n hello
+      mpremember $n
+    endif
+  endif
+~
+>rand_prog 1~
+  scratch
+  say Ahh, much better.
+~
+>fight_prog 100~
+  if isscript($i)
+    mpstopscript
+  endif
+~
+|

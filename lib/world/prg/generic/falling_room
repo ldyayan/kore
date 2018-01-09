@@ -1,0 +1,16 @@
+>all_greet_prog 100~
+  # just make sure that the mob this is on has infra
+  if isnpc($n)
+    break
+  else
+    if isaffected($n,fly)
+      break
+    endif
+    mpechoat $n You flap your arms frantically, and plummet.
+    mpechoaround $n $N flaps his arms frantically, and plummets.
+    mpdamage $n 3d8+10
+    mppose $n stand
+    mpforce $n down
+  endif
+~
+|

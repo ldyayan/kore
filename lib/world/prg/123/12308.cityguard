@@ -1,0 +1,8 @@
+>greet_prog 20~
+  if ispc($n)
+    say Good day to you.
+    nod $n
+  endif
+~
+|
+

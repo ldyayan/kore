@@ -1,0 +1,1959 @@
+#4200
+On the Shore of a Small Lake~
+   You push through the thinning underbrush and arrive at the shore of a small
+lake.  Even small pebbles show distinctly under the still, clear water.  A
+solemn curtain of mist settles to the west and north, and your instict tells
+you that more than distance separates you from what lies beyond the barrier.
+~
+42 32772 3
+D0
+~
+~
+0 0 4201
+D1
+~
+~
+0 0 4296
+D3
+~
+~
+0 0 610
+S
+#4201
+A Small Lake~
+   You move away from the shore and onto the lake.  To the south you can see
+a deep fog beginning to gather.  A chilling silence descends and you are
+enveloped in a hush so deep that not even your breath dares make a sound.
+~
+42 32768 7
+D2
+~
+~
+0 0 4200
+D3
+~
+~
+0 0 4202
+S
+#4202
+A Small Lake~
+   Descending deeper into the mists you are acutely aware of how little noise
+is made by your passage.  Bells from some unknown church rings faintly in the
+still air, but they seem much more distant than is possible.  Silvery shadows
+of waterlife dart in the lake with hardly a splash.
+~
+42 32768 7
+D0
+~
+~
+0 0 4203
+D1
+~
+~
+0 0 4201
+D2
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4206
+S
+#4203
+In the Mist~
+   You are now completely surrounded as far as you can see in the heavy fog
+that seems to cover the entire body of water.  The mists coalesce on your
+clothing causing it to stick to your body.  Every now and then a small
+trail of moisture trickles down your back, startling you.
+~
+42 32768 7
+D0
+~
+~
+0 0 4211
+D1
+~
+~
+0 0 4209
+D2
+~
+~
+0 0 4202
+D3
+~
+~
+0 0 4205
+S
+#4204
+In the Mist~
+   You are now completely surrounded as far as you can see in the heavy fog
+that seems to cover the entire body of water.  The mists coalesce on your
+clothing causing it to stick to your body.  Every now and then a small
+trail of moisture trickles down your back, startling you.
+~
+42 32768 7
+D0
+~
+~
+0 0 4202
+D3
+~
+~
+0 0 4207
+S
+#4205
+In the Mist~
+   You are now completely surrounded as far as you can see in the heavy fog
+that seems to cover the entire body of water.  The mists coalesce on your
+clothing causing it to stick to your body.  Every now and then a small
+trail of moisture trickles down your back, startling you.
+~
+42 32768 7
+D1
+~
+~
+0 0 4203
+D2
+~
+~
+0 0 4206
+D3
+~
+~
+0 0 4208
+S
+#4206
+In the Mist~
+   You are now completely surrounded as far as you can see in the heavy fog
+that seems to cover the entire body of water.  The mists coalesce on your
+clothing causing it to stick to your body.  Every now and then a small
+trail of moisture trickles down your back, startling you.
+~
+42 32768 7
+D0
+~
+~
+0 0 4205
+D1
+~
+~
+0 0 4202
+D2
+~
+~
+0 0 4207
+D3
+~
+~
+0 0 4209
+S
+#4207
+In the Mist~
+   You are now completely surrounded as far as you can see in the heavy fog
+that seems to cover the entire body of water.  The mists coalesce on your
+clothing causing it to stick to your body.  Every now and then a small
+trail of moisture trickles down your back, startling you.
+~
+42 32768 7
+D0
+~
+~
+0 0 4206
+D1
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4210
+S
+#4208
+In the Mist~
+   You are now completely surrounded as far as you can see in the heavy fog
+that seems to cover the entire body of water.  The mists coalesce on your
+clothing causing it to stick to your body.  Every now and then a small
+trail of moisture trickles down your back, startling you.
+~
+42 32768 7
+D1
+~
+~
+0 0 4205
+D2
+~
+~
+0 0 4209
+S
+#4209
+In the Mist~
+   You are now completely surrounded as far as you can see in the heavy fog
+that seems to cover the entire body of water.  The mists coalesce on your
+clothing causing it to stick to your body.  Every now and then a small
+trail of moisture trickles down your back, startling you.
+~
+42 32768 7
+D0
+~
+~
+0 0 4208
+D1
+~
+~
+0 0 4206
+D2
+~
+~
+0 0 4210
+S
+#4210
+In the Mist~
+   You are now completely surrounded as far as you can see in the heavy fog
+that seems to cover the entire body of water.  The mists coalesce on your
+clothing causing it to stick to your body.  Every now and then a small
+trail of moisture trickles down your back, startling you.
+~
+42 32768 7
+D0
+~
+~
+0 0 4209
+D1
+~
+~
+0 0 4207
+D3
+~
+~
+0 0 4217
+S
+#4211
+A Shape in the Mist~
+   It seems that you have wandered for days inside the mists before you finally
+notice something different in the formless gray.  The shadow of a slender
+structure can be seen to the north, shading the mists with a vertical band of
+darkness.  You start as a gentle breeze from the north brushes your face;
+there was only stillness in the mists.
+~
+42 32836 7
+D0
+~
+~
+0 0 4212
+D2
+~
+~
+0 0 4203
+S
+#4212
+In Front of the White Tower~
+   Without warning, you break out of the mists into dazzling sunshine.  The
+sandy shore curves gently to the west and south, but the thick growth of bushes
+and trees make travelling that way a questionable proposition.  You turn to
+the right and are transfixed by the sight of the White Tower.  Rising from a
+small promontory next to the lake like the slender stalk of a flower, its
+flawless surface seems to glow with an inner light--but what of the dark
+shadow perched at its very pinnacle?
+~
+42 32768 4
+D0
+A white barrier of energy blocks you from entering the Tower.
+~
+barrier~
+2 4201 4213
+D2
+~
+~
+0 0 4211
+S
+#4213
+Bottom of White Tower~
+   You are standing in the bottom room of the White Tower, which seems to be
+crafted from a mysterious, almost oppressively white material that glows with
+an inner life.  No distraction decorates the featureless circular walls, not
+even the natural break of the window.  A sturdy stairway leads upward, close
+to the half-felt sense of darkness emanating from above.
+~
+42 32776 0
+D2
+The glowing white barrier is also insistent on keeping you inside the Tower.
+~
+barrier~
+2 4201 4212
+D4
+~
+~
+0 0 4214
+S
+#4214
+A Small Landing in White Tower~
+   You collect your breath at a small landing somewhere within the Tower.
+The stairway stretches into infinity in both directions.  Although your
+surroundings are spotlessly clean, you sense instinctively that no one has
+come this way in a very long time.  After a short rest, you continue on with
+renewed determination.
+~
+42 32856 0
+D4
+~
+~
+0 0 4215
+D5
+~
+~
+0 0 4213
+S
+#4215
+Near the Top of White Tower~
+   You stand in a room near the top of the White Tower.  You have trouble
+maneuvering in the tight space framed by the tapering walls.  The delicate
+task becomes even more difficult when you have to dodge piles of magical
+gadgetry on the floor.  Apparently a wizard (no witch can be this messy :)
+has set up camp outside the dark presence on top of the tower, perhaps to
+study it.  And the darkness... you can feel it behind the bars set in the
+ceiling, reaching for you.  You shudder and take an involuntary step back.
+~
+42 32776 0
+D4
+These sturdy bars seem to be visibly straining against an invisible force.
+~
+bars~
+1 4202 4216
+D5
+~
+~
+0 0 4214
+S
+#4216
+Lair of the Beast~
+   You step into the top of the tower and enter another world.  Gone is the
+comforting presence of light; in this place, absolute, almost tangible
+darkness engulfs you.  Holding back panic, you study your surroundings.
+Countless bones, many mauled beyond recognition, litter the floor.  The
+stench of putrifying decay almost makes you gag.  Then you realize that these
+must be the remains of adventurers who came before, and you turn around to
+retreat.  Too late...
+~
+42 32905 0
+D5
+The bars remain tightly shut, marking your prison, if not your tomb.
+~
+bars~
+1 4202 4215
+S
+#4217
+On a Solid Wooden Dock~
+   Out of the mist, you step onto solid wood of the dock and can scarcely
+believe that you now walk on the fabled land of Avalon.  To your north rises
+an ancient stone monument, the Tor, the guardian of Avalon.  All around you,
+wildflowers of all colors bloom in wind-swept meadows, and the plaintive cries
+of gulls ring in the air.  The promise of summer stirs expectantly in the
+atmosphere.
+~
+42 32772 2
+D0
+~
+~
+0 0 4218
+D1
+~
+~
+0 0 4210
+D3
+~
+~
+0 0 4249
+S
+#4218
+On the Shores of Avalon~
+   The shores of the island are coverred with wildflowers of all imaginable 
+colors and shapes.  The myriad of colors and scents sends you into a daze.
+The shore curves gently to the northeast, marked by an instinct white shape
+in the mist.  The crash of surf against the sandy beach lulls you with its
+gentle thunder.  But ultimately, your eyes are caught by the solemn stone
+guardian to your north.
+~
+42 32768 2
+D0
+~
+~
+0 0 4219
+D2
+~
+~
+0 0 4217
+D3
+~
+~
+0 0 4248
+S
+#4219
+On the Shores of Avalon~
+  You continue walking in the meadows, marvelling at the sights, smells, and
+sounds of Avalon.  The slope of the meadows gradually turns steeper, so that
+gently rolling hills greet you with their half hidden delights.  Against this
+gentle landscape, the Tor stands like a dagger plunged into the earth.  But
+time and the gentle mists of Avalon wrap themselves around the monument, hiding
+the forbidding precipices, blurring the sharp angles.  You notice crude stone
+steps carved into the granite rock of the Tor, leading up.
+~
+42 32768 2
+D0
+~
+~
+0 0 4231
+D2
+~
+~
+0 0 4218
+D3
+~
+~
+0 0 4232
+D4
+~
+~
+0 0 4220
+D6
+~
+~
+0 0 4230
+S
+#4220
+Climbing the Tor~
+   Placing your feet gingering on the slippery steps, you slowly climb up the
+side of the Tor.  Looking to the east, you see the cloud of mist that shields
+Avalon from the rest of the world.  Here and there, hardy plants have found
+root in the seemingly impenetrable rock, and small flowers greet the early
+summer with their rugged beauty.  Further up, you can barely see the ring of
+stone known as the Circle sitting at the top of the Tor.
+~
+42 32768 4
+D4
+~
+~
+0 0 4221
+D5
+~
+~
+0 0 4219
+S
+#4221
+Near the Top of the Tor~
+   After a long but relatively easy climb, you stand within sight of the Tor's
+summit.  Gentle hills extend to the west beneath you, dotted with fields and
+homesteads.  A fruit orchard lies to the southwest, shimmering leaves hinting
+at an bountiful harvest comes autumn.  Further to the southwest, the steeple
+stop of an abbey pokes through the trees, bell tolling through the clear air.
+And above you, the Circle is a palpable force, humming with power that makes
+the hair on the back of your neck stand.
+~
+42 32768 4
+D4
+~
+~
+0 0 4222
+D5
+~
+~
+0 0 4220
+S
+#4222
+The Top of the Tor~
+    You have reached the top of the Tor on the south side.  From here you can
+see almost all the isle of Avalon.  From this angle, you notice the small huts
+of the priestesses among the trees.  Grey robed priestesses move far below you,
+going here and there, carrying out their duties.  Your eyes follow a small
+steam leaping down the west side of the Tor and catch a reflection off a scrying
+pool a little ways from the huts.  Around the Tor to the north, you sense the
+presence of a grand old forest, largely undisturbed even by the encroachment
+of humankind.  Immediately to the north, the circle beckons you with barely
+restrained power.
+~
+42 32768 2
+D0
+~
+~
+0 0 4228
+D1
+~
+~
+0 0 4223
+D3
+~
+~
+0 0 4224
+D5
+~
+~
+0 0 4221
+S
+#4223
+The Southeast Corner of the Tor~
+   This corner of the Tor faces out over the... lake?  Sea?  Passage between
+worlds?  The impenetrable mist offers no answer.  Instead, you rest under the
+open sky, growing lethargic with the fatigue from the climb and the warmth of
+summer.  Gradually you break free of the gentle languor with regret and
+continues your journey.
+~
+42 32768 2
+D0
+~
+~
+0 0 4225
+D3
+~
+~
+0 0 4222
+S
+#4224
+The Southwest Corner of the Tor~
+Standing at the southwest corner, you enjoy the peaceful tableau of farms in
+the hills, fruit orchards, and the unassuming abodes of the priestesses.  The
+gentle murmurs of life drift through the wind and nourish you with their
+simple comfort.  Far to the west, you glimpse the outline of a great city.
+When you rub your eye to make sure, the gray mist is back in place, hiding
+everything, making you doubt your vision.
+~
+42 32768 0
+D0
+~
+~
+0 0 4227
+D1
+~
+~
+0 0 4222
+S
+#4225
+The Northeast Corner of the Tor~
+   The northeast corner of the Tor overlooks the north end of the end, which
+seems shrouded in a myseterious cloak of darkness.  Tracing the line of the
+coast to the northeast, you see a white tower that seems to glow even with the
+distance.  To the north, the green rolling hills end abruptly against a dark
+rampart of trees.  The calls of forest animals can be heard in the distance,
+but it does not diminish the sheer presence of the forest, which extends into
+the distance, until it also fades into the mist.
+~
+42 32768 2
+D2
+~
+~
+0 0 4223
+D3
+~
+~
+0 0 4226
+S
+#4226
+The North Side of the Tor~
+   Standing now directly north of the ring stones you can see a trail opening
+downward, descending the other side of the Tor.  The footpath loses itself in
+the vast forest, never to be seen again.  Soft mist from the water drifts over
+the forest, blurring it with ethereal wisp, tantalizing and warning you with
+the secrets it hide.  Behind you, the Circle awaits.
+~
+42 32768 0
+D1
+~
+~
+0 0 4225
+D3
+~
+~
+0 0 4227
+S
+#4227
+The Northwest Corner of the Tor~
+   The northwest corner of the Tor probes deeper into the mysteries at the
+other side of the isle.  Extending to your west is the line between hills and
+trees, and forest creatures would occasionally wander out, only to flee back
+in a moment for the safety of the forest.  Far to the west and south, you
+suddenly catch a glint of light off a tall building that disappears just as
+~
+42 32768 2
+D1
+~
+~
+0 0 4226
+D2
+~
+~
+0 0 4224
+S
+#4228
+In the Center of the Circle of Stones~
+   Here in the center of the ring stones you can almost sense the presence of
+the Goddess.  The stones themselves, huge slabs of the blackest obsidian, are
+stood on end forming a rough circle.  They are carved with thousands of druidic
+symbols and glyphs, most of which you can't make out.  There is an almost
+electric buzz coming from the ground, and you realize this must be a focus
+point of the lands powers.  It is said that many of the priestesses most sacred
+rituals are held in this very circle.
+~
+42 32784 0
+D2
+~
+~
+0 0 4222
+D5
+~
+~
+0 0 4229
+S
+#4229
+The Altar~
+   You enter a shallow depression at the exact center of the Circle and find
+a simple altar resting on the floor of the Circle.  Although the amount of
+power is not as intense here, you can sense it being siphoned off from above,
+somehow balanced by an invisible force, and dissipating into the ground.  Then
+you notice the gray-cowled figure of the First Priestess, with the hood thrown
+back, armed raised toward the sky, and eyes closed in concentration.  Then you
+begin to understand.
+~
+42 32769 0
+D4
+~
+~
+0 0 4228
+S
+#4230
+On the Shores of Avalon~
+   The shore begins its gentle curve to the northeast here until everything is
+lost in the mist.  The thick brambles and thorns of the ancient forest do
+not allow a passage in that direction.  Defeated, you look to the west and
+notices the supernaturally straight line separating the fertile gentle hills
+from the brodding dark forest.  The faint fragrance of growing things drifts
+toward you from the west, lifting your spirits.  Perhaps a walk through the 
+hills is good for your weary spirit.
+~
+42 32768 2
+D3
+~
+~
+0 0 4231
+D8
+~
+~
+0 0 4219
+S
+#4231
+Rolling Hills~
+   You stand in an unpopulated part of the gentle, rolling hills.  The wild
+grass, encouraged by the sun and the fertile soil, grows waist high in some
+places.  Groves of trees provide shade and shelter for the weary traveller.
+A few wild horses, grazing placidly on the grass, stand out against the
+backdrop, although faint rustlings in the underbrush hint at other residents.
+~
+42 32768 4
+D1
+~
+~
+0 0 4230
+D2
+~
+~
+0 0 4219
+D3
+~
+~
+0 0 4233
+D9
+~
+~
+0 0 4234
+S
+#4232
+Rolling Hills~
+   You stroll up and down the little hills, enjoying the scenery.  Soft mats of
+grass cushion your footfall, making it feel as if you are walking on clouds.
+A steady breeze blows from the water, cooling you off from your exercise.  To
+your south sits the orchard, showing the barest hints of its bounties.
+Sometimes you see the gray cowled figure of a priestess, tending something with
+her hands.  Truly this is a well-loved land.
+~
+42 32768 4
+D0
+~
+~
+0 0 4233
+D1
+~
+~
+0 0 4219
+D3
+~
+~
+0 0 4237
+S
+#4233
+Rolling Hills~
+   You stand in an unpopulated part of the gentle, rolling hills.  The wild
+grass, encouraged by the sun and the fertile soil, grows waist high in some
+places.  Groves of trees provide shade and shelter for the weary traveller.
+A few wild horses, grazing placidly on the grass, stand out against the
+backdrop, although faint rustlings in the underbrush hint at other residents.
+~
+42 32768 4
+D0
+~
+~
+0 0 4234
+D1
+~
+~
+0 0 4231
+D2
+~
+~
+0 0 4232
+D3
+~
+~
+0 0 4236
+S
+#4234
+Rolling Hills~
+   The gradual slopes of the hills come to an abrupt end as they meet the
+forest to the north.  As if to make up for the brightness of the hills, the
+forest seems unnaturally dark, defying your attempt to probe its interior.
+Animals disappear and emerge from the shadow suddenly, as they seem to have
+no trouble navigating the forest.  Eventually you give up trying to find an
+entrance and begin to enjoy the scenery.
+~
+42 32768 4
+D2
+~
+~
+0 0 4233
+D3
+~
+~
+0 0 4235
+D7
+~
+~
+0 0 4231
+S
+#4235
+Rolling Hills~
+   The gradual slopes of the hills come to an abrupt end as they meet the
+forest to the north.  As if to make up for the brightness of the hills, the
+forest seems unnaturally dark, defying your attempt to probe its interior.
+Animals disappear and emerge from the shadow suddenly, as they seem to have
+no trouble navigating the forest.  Eventually you give up trying to find an
+entrance and instead begin to enjoy the scenery.  A small but well maintained
+path and the merry puffs of smoke rising from somewhere behind the next hill
+indicate that a brave family has taken up residence here.
+~
+42 32768 4
+D1
+~
+~
+0 0 4234
+D2
+~
+~
+0 0 4236
+D3
+~
+~
+0 0 4240
+D7
+~
+~
+0 0 4241
+S
+#4236
+Rolling Hills~
+   You stand in an unpopulated part of the gentle, rolling hills.  The wild
+grass, encouraged by the sun and the fertile soil, grows waist high in some
+places.  Groves of trees provide shade and shelter for the weary traveller.
+A few wild horses, grazing placidly on the grass, stand out against the
+backdrop, although faint rustlings in the underbrush hint at other residents.
+~
+42 32768 4
+D0
+~
+~
+0 0 4235
+D1
+~
+~
+0 0 4233
+D2
+~
+~
+0 0 4237
+D3
+~
+~
+0 0 4239
+S
+#4237
+Rolling Hills~
+   You stroll up and down the little hills, enjoying the scenery.  Soft mats of
+grass cushion your footfall, making it feel as if you are walking on clouds.
+A steady breeze blows from the water, cooling you off from your exercise.  To
+your south sits the orchard, showing the barest hints of its bounties.
+Sometimes you see the gray cowled figure of a priestess, tending something with
+her hands.  Truly this is a well-loved land.
+~
+42 32768 4
+D0
+~
+~
+0 0 4236
+D1
+~
+~
+0 0 4232
+D2
+~
+~
+0 0 4251
+D3
+~
+~
+0 0 4238
+S
+#4238
+Rolling Hills~
+   You stroll up and down the little hills, enjoying the scenery.  Soft mats of
+grass cushion your footfall, making it feel as if you are walking on clouds.
+A steady breeze blows from the water, cooling you off from your exercise.  To
+your south sits the orchard, showing the barest hints of its bounties.
+Sometimes you see the gray cowled figure of a priestess, tending something with
+her hands.  Truly this is a well-loved land.
+~
+42 32768 4
+D0
+~
+~
+0 0 4239
+D1
+~
+~
+0 0 4237
+S
+#4239
+Rolling Hills~
+   You stand in an unpopulated part of the gentle, rolling hills.  The wild
+grass, encouraged by the sun and the fertile soil, grows waist high in some
+places.  Groves of trees provide shade and shelter for the weary traveller.
+A few wild horses, grazing placidly on the grass, stand out against the
+backdrop, although faint rustlings in the underbrush hint at other residents.
+A wandering trail is the only evidence of human habitation.
+~
+42 32768 4
+D0
+~
+~
+0 0 4240
+D1
+~
+~
+0 0 4236
+D2
+~
+~
+0 0 4238
+D9
+~
+~
+0 0 4257
+S
+#4240
+Rolling Hills~
+   The gradual slopes of the hills come to an abrupt end as they meet the
+forest to the north.  As if to make up for the brightness of the hills, the
+forest seems unnaturally dark, defying your attempt to probe its interior.
+Animals disappear and emerge from the shadow suddenly, as they seem to have
+no trouble navigating the forest.  Eventually you give up trying to find an
+entrance and begin to enjoy the scenery.
+~
+42 32768 4
+D1
+~
+~
+0 0 4235
+D2
+~
+~
+0 0 4239
+S
+#4241
+A Small Path~
+   You stand on a small footpath that meanders around a small hill into a
+small but prosperous farmhouse.  On both side of the path are patches of
+vegetable garden where various plants grow, to bear melons, squashes,
+cucumbers, and tomatoes when harvest time comes.  Oat covers another small
+plot, and from the braying and mooing coming over the hill, it is probably
+prime feed for those animals.
+~
+42 32768 2
+D6
+~
+~
+0 0 4242
+D9
+~
+~
+0 0 4235
+S
+#4242
+A Small Farmhouse~
+   You stand inside a recently built farmhouse owned by the family of cattle
+herders.  Sturdily built with fine timber and the help of neighbors from
+leagues away, this house looks ready to withstand any natural force.  And with
+the smile of the Goddess, the now bare interior will see more luxuries, like
+a fancy rug from the east, or a coal-burning stove for the winter, or even a
+storybook or two.  A delicious smell of cooking drifts over from the kitchen.
+~
+42 32768 0
+D0
+~
+wooden door~
+1 0 4244
+D1
+~
+~
+0 0 4247
+D3
+~
+~
+0 0 4243
+D8
+~
+~
+0 0 4241
+S
+#4243
+A Kitchen~
+   You stand in a kitchen awash with the flavor of food being prepared.
+Kitchen utensils and dried vegetables hang in neat rows on the walls.  Jars
+of pickled foodstuffs sit in the cupboards.  A sturdy, food-stained dinner
+table attest to the populatiry of this locale.  You feel you can just sit
+here and smell the sweet fragrance of breads, pies, and stews forever.
+~
+42 32768 0
+D1
+~
+~
+0 0 4242
+S
+#4244
+A Stable~
+   Exiting from the main farmhouse, you enter the stable where the animals are
+kept.  Resisting the urge to gag at the strong smell of animal dropping, you
+notice placid eyes of horses and cows gazing back at you.  A small loft above
+you is currently stuffed full of animal feed, so the only other exit seems to
+be a swinging fence opening to an enclosed meadow, where more horses and cows
+graze at leisure.
+~
+42 32768 0
+D0
+~
+swinging fence~
+1 0 4245
+D2
+~
+wooden door~
+1 0 4242
+S
+#4245
+Enclosed Meadow~
+   You stand in a lush meadow fenced about with sturdy wooden stakes and
+planks.  A small creek wanders in from the north and leaves somewhere to the
+east, making the grass extremely tender and delicious (for the animals).  Herds
+of cows and horses stand like philosophers, their contemplation marked by the
+slow, rhythmic chewing of grass in their jaws.  Faint shout and laughter can
+be heard as the herder and his family inspect their domain.
+~
+42 32768 2
+D1
+~
+~
+0 0 4246
+D2
+~
+swinging fence~
+1 0 4244
+S
+#4246
+Enclosed Meadow~
+   You stand in a lush meadow fenced about with sturdy wooden stakes and
+planks.  A small creek wanders in from the north and leaves somewhere to the
+east, making the grass extremely tender and delicious (for the animals).  Herds
+of cows and horses stand like philosophers, their contemplation marked by the
+slow, rhythmic chewing of grass in their jaws.  Faint shout and laughter can
+be heard as the herder and his family inspect their domain.
+~
+42 32768 2
+D3
+~
+~
+0 0 4245
+S
+#4247
+A Simple Bedroom~
+   You stand in a cozy room that serves as bedroom for the entire family.
+Straw pellets line a wall of the room, but the bedding is new and emanates the
+clean ordor of freshly dried grass.  A downy comforter folded neatly in a
+corner is the one concession to comfort made by the family--and it is so
+wonderfully warm in winter.  You can almost sense the quiet contentment in
+the air.
+~
+42 32768 0
+D3
+~
+~
+0 0 4242
+S
+#4248
+An Orchard~
+   The orchard is a place brimming with bountiful life.  Bright speckles of 
+sunshine filter through the green leaves to alight on the ground with an
+unexpected sparkle.  The branches of trees hang heavy with summer's harvest.
+Creatures large and small scurry about, feasting themselves on the abundance.
+~
+42 32768 2
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+0 0 4249
+D3
+~
+~
+0 0 4251
+S
+#4249
+An Orchard~
+   The orchard is a place brimming with bountiful life.  Bright speckles of 
+sunshine filter through the green leaves to alight on the ground with an
+unexpected sparkle.  The branches of trees hang heavy with summer's harvest.
+Creatures large and small scurry about, feasting themselves on the abundance.
+~
+42 32768 2
+D0
+~
+~
+0 0 4248
+D1
+~
+~
+0 0 4217
+D2
+~
+~
+0 0 4250
+D3
+~
+~
+0 0 4252
+S
+#4250
+An Orchard~
+   The orchard is a place brimming with bountiful life.  Bright speckles of 
+sunshine filter through the green leaves to alight on the ground with an
+unexpected sparkle.  The branches of trees hang heavy with summer's harvest.
+Creatures large and small scurry about, feasting themselves on the abundance.
+~
+42 32768 2
+D0
+~
+~
+0 0 4249
+D3
+~
+~
+0 0 4253
+S
+#4251
+An Orchard~
+   The orchard is a place brimming with bountiful life.  Bright speckles of 
+sunshine filter through the green leaves to alight on the ground with an
+unexpected sparkle.  The branches of trees hang heavy with summer's harvest.
+Creatures large and small scurry about, feasting themselves on the abundance.
+~
+42 32768 2
+D0
+~
+~
+0 0 4237
+D1
+~
+~
+0 0 4248
+D2
+~
+~
+0 0 4252
+D3
+~
+~
+0 0 4254
+S
+#4252
+Center of an Orchard~
+   You stand amidst a thick copse of aged fruit trees at the center of the
+orchard.  Their gnarled limbs nestle snugly, creating a pleasant shade from
+the fierce summer sun.  The air is slightly damp with moisture, and a carpet
+of green moss covers most of the ground.  A gentle breeze is luring you to
+slumber with its peaceful sussuration.
+~
+42 32788 14
+D0
+~
+~
+0 0 4251
+D1
+~
+~
+0 0 4249
+D2
+~
+~
+0 0 4253
+D3
+~
+~
+0 0 4255
+S
+#4253
+An Orchard~
+   The orchard is a place brimming with bountiful life.  Bright speckles of 
+sunshine filter through the green leaves to alight on the ground with an
+unexpected sparkle.  The branches of trees hang heavy with summer's harvest.
+Creatures large and small scurry about, feasting themselves on the abundance.
+~
+42 32768 2
+D0
+~
+~
+0 0 4252
+D1
+~
+~
+0 0 4250
+D3
+~
+~
+0 0 4256
+S
+#4254
+An Orchard~
+   The orchard is a place brimming with bountiful life.  Bright speckles of 
+sunshine filter through the green leaves to alight on the ground with an
+unexpected sparkle.  The branches of trees hang heavy with summer's harvest.
+Creatures large and small scurry about, feasting themselves on the abundance.
+~
+42 32768 0
+D1
+~
+~
+0 0 4251
+D2
+~
+~
+0 0 4255
+S
+#4255
+An Orchard~
+   The orchard is a place brimming with bountiful life.  Bright speckles of 
+sunshine filter through the green leaves to alight on the ground with an
+unexpected sparkle.  The branches of trees hang heavy with summer's harvest.
+Creatures large and small scurry about, feasting themselves on the abundance.
+~
+42 32768 2
+D0
+~
+~
+0 0 4254
+D1
+~
+~
+0 0 4252
+D2
+~
+~
+0 0 4256
+D3
+~
+~
+0 0 4264
+S
+#4256
+An Orchard~
+   The orchard is a place brimming with bountiful life.  Bright speckles of 
+sunshine filter through the green leaves to alight on the ground with an
+unexpected sparkle.  The branches of trees hang heavy with summer's harvest.
+Creatures large and small scurry about, feasting themselves on the abundance.
+~
+42 32768 2
+D0
+~
+~
+0 0 4255
+D1
+~
+~
+0 0 4253
+S
+#4257
+A Small Path~
+   You stand on a small footpath that meanders around a small hill into a
+small but prosperous farmhouse.  On both side of the path are patches of
+vegetable garden where various plants grow, to bear melons, squashes,
+cucumbers, and tomatoes when harvest time comes.  Oat covers another small
+plot, and from the braying and mooing coming over the hill, it is probably
+prime feed for those animals.
+~
+42 32768 2
+D0
+~
+~
+0 0 4258
+D7
+~
+~
+0 0 4239
+S
+#4258
+A Small Farmhouse~
+   You stand inside a recently built farmhouse owned by the family of cattle
+herders.  Sturdily built with fine timber and the help of neighbors from
+leagues away, this house looks ready to withstand any natural force.  And with
+the smile of the Goddess, the now bare interior will see more luxuries, like
+a fancy rug from the east, or a coal-burning stove for the winter, or even a
+storybook or two.  A delicious smell of cooking drifts over from the kitchen.
+~
+42 32768 0
+D1
+~
+~
+0 0 4260
+D2
+~
+~
+0 0 4257
+D3
+~
+~
+0 0 4259
+D4
+~
+~
+0 0 4263
+S
+#4259
+A Kitchen~
+   You stand in a kitchen awash with the flavor of food being prepared.
+Kitchen utensils and dried vegetables hang in neat rows on the walls.  Jars
+of pickled foodstuffs sit in the cupboards.  A sturdy, food-stained dinner
+table attest to the populatiry of this locale.  You feel you can just sit
+here and smell the sweet fragrance of breads, pies, and stews forever.
+~
+42 32768 0
+D1
+~
+~
+0 0 4258
+S
+#4260
+A Stable~
+   Exiting from the main farmhouse, you enter the stable where the animals are
+kept.  Resisting the urge to gag at the strong smell of animal dropping, you
+notice placid eyes of horses and cows gazing back at you.  A small loft above
+you is currently stuffed full of animal feed, so the only other exit seems to
+be a swinging fence opening to an enclosed meadow, where more horses and cows
+graze at leisure.
+~
+42 32768 0
+D0
+A swinging gate separates the animals from the humans.
+~
+swinging gate~
+1 0 4261
+D3
+~
+~
+0 0 4258
+S
+#4261
+Enclosed Meadow~
+   You stand in a lush meadow fenced about with sturdy wooden stakes and
+planks.  A small creek wanders in from the north and leaves somewhere to the
+east, making the grass extremely tender and delicious (for the animals).  Herds
+of cows and horses stand like philosophers, their contemplation marked by the
+slow, rhythmic chewing of grass in their jaws.  Faint shout and laughter can
+be heard as the herder and his family inspect their domain.
+~
+42 32768 2
+D0
+~
+~
+0 0 4262
+D2
+A swinging door separates the humans from the animals.
+~
+swinging door~
+1 0 4260
+S
+#4262
+Enclosed Meadow~
+   You stand in a lush meadow fenced about with sturdy wooden stakes and
+planks.  A small creek wanders in from the north and leaves somewhere to the
+east, making the grass extremely tender and delicious (for the animals).  Herds
+of cows and horses stand like philosophers, their contemplation marked by the
+slow, rhythmic chewing of grass in their jaws.  Faint shout and laughter can
+be heard as the herder and his family inspect their domain.
+~
+42 32768 2
+D2
+~
+~
+0 0 4261
+S
+#4263
+A Simple Bedroom~
+   You stand in a cozy room that serves as bedroom for the entire family.
+Straw pellets line a wall of the room, but the bedding is new and emanates the
+clean ordor of freshly dried grass.  A downy comforter folded neatly in a
+corner is the one concession to comfort made by the family--and it is so
+wonderfully warm in winter.  You can almost sense the quiet contentment in
+the air.
+~
+42 32768 0
+D5
+~
+~
+0 0 4258
+S
+#4264
+A Road in the Woods~
+   A narrow road, rutted with passage of ox-drawn carts, winds its whimsical
+way in the woods.  Stands of broad-leaved trees intermingle with ancient,
+solitary oaks, leaves fluttering in the summer breeze.  Pretty wildflowers
+bloom along the path, basking in the open space and the sun.  Small tracks
+of wild animals cut across the path, and occasionally you would see shadows
+of large creatures approaching, only to shy away from your presence.
+~
+42 32768 3
+D1
+~
+~
+0 0 4255
+D9
+~
+~
+0 0 4265
+S
+#4265
+A Road in the Woods~
+   A narrow road, rutted with passage of ox-drawn carts, winds its whimsical
+way in the woods.  Stands of broad-leaved trees intermingle with ancient,
+solitary oaks, leaves fluttering in the summer breeze.  Pretty wildflowers
+bloom along the path, basking in the open space and the sun.  Small tracks
+of wild animals cut across the path, and occasionally you would see shadows
+of large creatures approaching, only to shy away from your presence.
+~
+42 32768 3
+D6
+~
+~
+0 0 4271
+D7
+~
+~
+0 0 4264
+D9
+~
+~
+0 0 4266
+S
+#4266
+A Road in the Woods~
+   A narrow road, rutted with passage of ox-drawn carts, winds its whimsical
+way in the woods.  Stands of broad-leaved trees intermingle with ancient,
+solitary oaks, leaves fluttering in the summer breeze.  Pretty wildflowers
+bloom along the path, basking in the open space and the sun.  Small tracks
+of wild animals cut across the path, and occasionally you would see shadows
+of large creatures approaching, only to shy away from your presence.
+~
+42 32768 3
+D3
+~
+~
+0 0 4267
+D7
+~
+~
+0 0 4265
+D8
+~
+~
+0 0 4272
+S
+#4267
+A Road in the Woods~
+   A narrow road, rutted with passage of ox-drawn carts, winds its whimsical
+way in the woods.  Stands of broad-leaved trees intermingle with ancient,
+solitary oaks, leaves fluttering in the summer breeze.  Pretty wildflowers
+bloom along the path, basking in the open space and the sun.  Small tracks
+of wild animals cut across the path, and occasionally you would see shadows
+of large creatures approaching, only to shy away from your presence.
+~
+42 32768 3
+D0
+~
+~
+0 0 4274
+D1
+~
+~
+0 0 4266
+D2
+~
+~
+0 0 4275
+D3
+~
+~
+0 0 4268
+S
+#4268
+A Road in the Woods~
+   A narrow road, rutted with passage of ox-drawn carts, winds its whimsical
+way in the woods.  Stands of broad-leaved trees intermingle with ancient,
+solitary oaks, leaves fluttering in the summer breeze.  Pretty wildflowers
+bloom along the path, basking in the open space and the sun.  Small tracks
+of wild animals cut across the path, and occasionally you would see shadows
+of large creatures approaching, only to shy away from your presence.
+~
+42 32768 3
+D1
+~
+~
+0 0 4267
+D8
+~
+~
+0 0 4269
+D9
+~
+~
+0 0 4270
+S
+#4269
+A Road in the Woods~
+   A narrow road, rutted with passage of ox-drawn carts, winds its whimsical
+way in the woods.  Stands of broad-leaved trees intermingle with ancient,
+solitary oaks, leaves fluttering in the summer breeze.  Pretty wildflowers
+bloom along the path, basking in the open space and the sun.  Small tracks
+of wild animals cut across the path, and occasionally you would see shadows
+of large creatures approaching, only to shy away from your presence.
+~
+42 32772 3
+D2
+~
+~
+0 0 4276
+D6
+~
+~
+0 0 4268
+S
+#4270
+A Road in the Woods~
+   A narrow road, rutted with passage of ox-drawn carts, winds its whimsical
+way in the woods.  Stands of broad-leaved trees intermingle with ancient,
+solitary oaks, leaves fluttering in the summer breeze.  Pretty wildflowers
+bloom along the path, basking in the open space and the sun.  Small tracks
+of wild animals cut across the path, and occasionally you would see shadows
+of large creatures approaching, only to shy away from your presence.
+~
+42 32772 3
+D0
+Tangled briars bar the entry into a dark, brooding forest.
+~
+briars tangled~
+1 0 4278
+D7
+~
+~
+0 0 4268
+S
+#4271
+A Still Pond~
+   A small pond is nestled securely in the embrace of the forest.  Its still
+surface reflects the beautiful scenery of Avalon.  A small grassy lawn
+extends from the shore to the edge of the trees, and from its slightly
+trampled look, this place is a resting place for both animals and humans.
+~
+42 32864 3
+D8
+~
+~
+0 0 4265
+S
+#4272
+A Small Chapel~
+   You stand in a modest chapel dedicated to the Powers that sustain Avalon.
+Built with rough marble blocks, the room is adorned with only the occasional
+flowers gathered from the fields by the priestesses.  Despite the starkness,
+or perhaps because of it, a sense of solemn joy fills the atmosphere.
+~
+42 32776 0
+D2
+A secret panel bars your way.
+~
+panel~
+2 4217 4273
+D6
+~
+~
+0 0 4266
+S
+#4273
+Meditation Room~
+   With uncanny alarcity, darkness descends upon you like the night.  As
+your eyes adjust, you make out a small windowless room.  Fragrant tree barks
+and dried flowers suffuse the room with a soothing sent, but a fresh
+breeze from hidden vents keeps the mind sharp.  An altar hewn from marble
+cradles offerings from faithful worshippers.  Straw mats used for meditation
+lie scattered about the room.
+~
+42 32801 0
+D0
+A secret panel separates the inner room from the chapel.
+~
+panel~
+2 4217 4272
+S
+#4274
+A Pilgrim's Abode~
+   You are in a sturdy thatch hut housing the many worshippers who have come
+here to find greater spirituality.  Though the roughly made chairs and
+cots are not exactly comfortable, the room is spotless and neatly organized.
+The snores of weary pilgrims can be heard above the noises of the
+surrounding forest.
+~
+42 33288 0
+D2
+~
+~
+0 0 4267
+S
+#4275
+A Pilgrim's Abode~
+   You are in a sturdy thatch hut housing the many worshippers who have come
+here to find greater spirituality.  Though the roughly made chairs and
+cots are not exactly comfortable, the room is spotless and neatly organized.
+The snores of weary pilgrims can be heard above the noises of the
+surrounding forest.
+~
+42 33288 0
+D0
+~
+~
+0 0 4267
+S
+#4276
+An Outpost Shop~
+   You stand in a log cabin filled to the ceiling with merchandise of all
+kinds: moldy bread and meat next to a sales sign, a slightly rusted suit
+of plate mail piled in a corner, magical scrolls gathering dust in
+a glass cupboard, and, most impressive looking of all, a set of hoes and
+rakes leaning against bags of plant seeds.  Sunlight streaming through
+an open window lights up the motes of dust that seem to be everywhere.
+~
+42 32976 0
+D0
+~
+~
+0 0 4269
+S
+#4277
+Store Room~
+   You've found it--from this location Mink plots to take over the
+galaxy with the help of her trusty sidekick, Vampire Squirrel.
+~
+42 1152 0
+S
+#4278
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98497 3
+D1
+~
+~
+0 0 4289
+D2
+~
+~
+0 0 4292
+D3
+~
+~
+0 0 4279
+S
+#4279
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98373 3
+D0
+~
+~
+0 0 4280
+D1
+~
+~
+0 0 4278
+S
+#4280
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98369 3
+D0
+~
+~
+0 0 4281
+D2
+~
+~
+0 0 4279
+S
+#4281
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98881 3
+D0
+~
+~
+0 0 4282
+D1
+~
+~
+0 0 4290
+D2
+~
+~
+0 0 4280
+D3
+~
+~
+0 0 4291
+S
+#4282
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98369 3
+D0
+~
+~
+0 0 4283
+D2
+~
+~
+0 0 4281
+S
+#4283
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98401 3
+D1
+~
+~
+0 0 4284
+D2
+~
+~
+0 0 4282
+S
+#4284
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98369 3
+D0
+~
+~
+0 0 4292
+D1
+~
+~
+0 0 4285
+D3
+~
+~
+0 0 4283
+S
+#4285
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98881 3
+D2
+~
+~
+0 0 4286
+D3
+~
+~
+0 0 4284
+S
+#4286
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98369 3
+D0
+~
+~
+0 0 4285
+D2
+~
+~
+0 0 4287
+S
+#4287
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98401 3
+D0
+~
+~
+0 0 4286
+D1
+~
+~
+0 0 4291
+D2
+~
+~
+0 0 4288
+D3
+~
+~
+0 0 4290
+S
+#4288
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98497 3
+D0
+~
+~
+0 0 4287
+D2
+~
+~
+0 0 4289
+S
+#4289
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98369 3
+D0
+~
+~
+0 0 4288
+D3
+~
+~
+0 0 4278
+S
+#4290
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98373 3
+D1
+~
+~
+0 0 4287
+D3
+~
+~
+0 0 4281
+D4
+A hole above you connects to... somewhere.
+~
+hole~
+2 4224 4293
+D5
+~
+one-way door~
+2 4224 4294
+S
+#4291
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98497 3
+D1
+~
+~
+0 0 4281
+D3
+~
+~
+0 0 4287
+S
+#4292
+In the Dark Forest~
+   You stand upon a blighted forest, twisted by the encroaching shadow.
+The misshapen branches of rotting trees grasp for you, resisting your
+every move.  Glowing red eyes gaze from the impenetrable shadow, pacing
+you from all sides.  An agonized scream from some deadly creature--or
+a dying adventurer--rises up from nowhere and chills you to the bone.
+~
+42 98373 3
+D0
+~
+~
+0 0 4278
+D2
+~
+~
+0 0 4284
+S
+#4293
+A Small Sanctuary~
+   You step from the dark forest--and into gray nothingness.  Imperceptibly,
+everything blends together until no feature is left, and a sudden sense
+of vertigo seizes you.  Restraining a surge of panic, you look back and sigh
+in relief when you see the forest outlined like a gothic picture.  Perhaps
+this is a safe place to rest.
+~
+42 98497 0
+D5
+A hole in the floor (or is it ceiling?) connects to the dark forest.
+~
+hole~
+2 4224 4290
+S
+#4294
+A Faerie Ring~
+   You enter a small clearing in the middle of the dark forest.  As if by
+magic, the inimical presence and the terrifying noises that assaulted your
+senses in the forest disappears.  No... more as if it was held at bay by a
+greater force.  Then you notice a circular ring of mushrooms at the exact
+center of the clearing, humming with power.  Standing in the middle...
+~
+42 98369 3
+D0
+A glowing portal leads off to the unknown.
+~
+portal~
+2 4222 4295
+S
+#4295
+Faerie Treasure Room~
+   You stand in the fabled treasure room of the Faerie.  Inside the dimly lit
+room, fabulous jewels, gleaming weapons and armors, and myterious scrolls
+and wands glimmer with an inner light.  When you attempt to touch most of
+them, you discover to your dismay that they crumble into black dust and
+withered leaves, drifting in the wind.  With a growing sense of frustration,
+you smash into the room, knocking things over, trying to separate reality
+from Faerie trickery.
+~
+42 426085 0
+S
+#4296
+A Path Through the Tangled Underbrush~
+   Brushing aside stray vegetation, you make your way through an almost
+invisible path in the tangled underbrush.  A gloomy silence descends
+upon you, and you almost lose all sense of direction as brown limbs
+encroach on every side.  Only two pinpoints of light gleaming from
+west and east indicate exits from the dusky gloom.
+~
+42 33312 3
+D1
+~
+vines~
+1 0 10001
+D3
+~
+~
+0 0 4200
+S
+#4297
+Mink's Room~
+It's smelly in here. :)
+~
+42 8 0
+S
+#99999
+$~

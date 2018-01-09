@@ -1,0 +1,1925 @@
+#18100
+Outside the Western Gates~
+   You stand outside the great walled city of Kore. Just a few hundred feet 
+beyond the portcullis is a thriving, bustling city. However, looking westward 
+you get the feeling that you are standing on a dusty country road. The only 
+clue that you are by a major city is the deep wheel marks in the road from 
+the countless number of caravans that must pass through these gates daily. 
+~
+181 4 2
+D1
+~
+~
+0 0 16003
+D3
+~
+~
+0 0 18101
+S
+#18101
+The Start of the Western Highway~
+   The road here is mostly made out of hard packed clay. Deep ruts about four 
+feet apart adorn the road from the numerous carts that go to and from Kore. 
+The road seems out of place to the landscapes that surround it. A sharp wind 
+curls from the south every so often, reminding you that the great Sea only 
+lay a few miles away. An expansive field lays to the north, it's waist high 
+grasses end miles to the north as they slowly merge into woodlands that you 
+can barely see. 
+~
+181 0 2
+D1
+~
+~
+0 0 18100
+D3
+~
+~
+0 0 18102
+S
+#18102
+The Western Highway~
+   The road here is mostly made out of hard packed clay. Deep ruts about four 
+feet apart adorn the road from the numerous carts that go to and from Kore. 
+The road seems out of place to the landscapes that surround it. A sharp wind 
+curls from the south every so often, reminding you that the great Sea only 
+lay a few miles away. An expansive field lays to the north, it's waist high 
+grasses end miles to the north as they slowly merge into woodlands that you 
+can barely see. 
+~
+181 0 2
+D1
+~
+~
+0 0 18101
+D3
+~
+~
+0 0 18103
+S
+#18103
+A Small Intersection in the Highway~
+   A small set of ruts gradually merges southward onto a small dirt path in 
+the grassy field. The path leads to a small farmhouse, which is adjacent to a 
+wheat field. You don't see any signs of laborers in the field, or at the 
+farmhouse for that matter. The ruts on the south bound path indicate that 
+this farm is probably not a major supplier of grains to the city. 
+~
+181 0 2
+D0
+~
+~
+0 0 18197
+D2
+~
+~
+0 0 18104
+D3
+~
+~
+0 0 18110
+S
+#18104
+Approaching a Humble Farm~
+   You are walking on a small trail heading south. The path leads to a small 
+farmhouse, which is adjacent to a wheat field. You don't see any signs of 
+laborers in the field, or at the farmhouse for that matter. The ruts on the 
+south bound path indicate that this farm is probably not a major supplier of 
+grains to the city. 
+~
+181 4 2
+D0
+~
+~
+0 0 18103
+D2
+~
+~
+0 0 18105
+S
+#18105
+Before the Farmhouse~
+   A fork in the path gives you the option to head either towards the small 
+farmhouse, or to the wheat field. From here you can smell a very faint odor 
+of chimney smoke, which is probably left over from this mornings breakfast. A 
+large dog lays in front of the farmhouse, tied to a whipping post. Whatever 
+purpose the dog serves, it sure isn't a guard dog. 
+~
+181 0 2
+D0
+~
+~
+0 0 18104
+D7
+~
+~
+0 0 18107
+D8
+~
+~
+0 0 18106
+S
+#18106
+The Wheat Field~
+   You are standing chest deep in an expansive field of wheat. The dust from 
+the Western Highway can barely be seen from here, and the tall grasses of the 
+Gramen are nowhere to be seen. The wind from the Sea can still be felt as 
+birds shoot from the field at your approach. 
+~
+181 0 2
+D3
+~
+~
+0 0 18109
+D6
+~
+~
+0 0 18105
+S
+#18107
+The Farmhouse~
+   You are standing in a very humble farmhouse. The house consists of four 
+rooms and a kitchen. Ratty throw rugs cover the warped floor boards. All of 
+the windows and doors are thrown open, and a faint smell of an old kitchen 
+fire floats about the house. Looking past the kitchen, you can see a run down 
+farmhouse to the south. 
+~
+181 0 0
+D2
+~
+~
+0 0 18108
+D9
+~
+~
+0 0 18105
+S
+#18108
+Rundown Stables~
+   This can barely be called a stable, let alone a hayloft. A half dozen 
+pitiful horses line the stalls. The horses look both underfed and over 
+worked. Hay lays strewn all over the floor since it appears that the hay loft 
+has caved in a long time ago. 
+~
+181 0 0
+D0
+~
+~
+0 0 18107
+S
+#18109
+The Wheat Field~
+   You are standing chest deep in an expansive field of wheat. The dust from 
+the Western Highway can barely be seen from here, and the tall grasses of the 
+Gramen are nowhere to be seen. The wind from the Sea can still be felt as 
+birds shoot from the field at your approach. 
+~
+181 0 2
+D1
+~
+~
+0 0 18106
+S
+#18110
+The Western Highway~
+   The road here is mostly made out of hard packed clay. Deep ruts about four
+feet apart adorn the road from the numerous carts that go to and from Kore.
+The road seems out of place to the landscapes that surround it. A sharp wind
+curls from the south every so often, reminding you that the great Sea only
+lay a few miles away. An expansive field lays to the north, it's waist high
+grasses end miles to the north as they slowly merge into woodlands that you
+can barely see.  A dusty path leads to the north, and the outline of a 
+farmhouse can be seen.
+~
+181 0 2
+D0
+~
+~
+0 0 18111
+D1
+~
+~
+0 0 18103
+D3
+~
+~
+0 0 18115
+S
+#18111
+Dusty Dirt Path~
+   This is basically a smaller version of the highway. Hard packed clay 
+breaks the tall grasses as it meanders towards a small farmhouse. Cart tracks 
+lead to the farmhouse along with a good deal of horse tracks. Your best guess 
+is that this farm is often visited by merchants and residents of Kore alike. 
+~
+181 4 2
+D0
+~
+~
+0 0 18112
+D2
+~
+~
+0 0 18110
+S
+#18112
+Dusty Dirt Path~
+   This is basically a smaller version of the highway. Hard packed clay 
+breaks the tall grasses as it meanders towards a small farmhouse. Cart tracks 
+lead to the farmhouse along with a good deal of horse tracks. Your best guess 
+is that this farm is often visited by merchants and residents of Kore alike. 
+~
+181 0 2
+D0
+~
+~
+0 0 18113
+D2
+~
+~
+0 0 18111
+S
+#18113
+The Henneson's Farm~
+   You walk right into this farmhouse, as it's doors and windows are wide
+open. The smell of a fresh stew permeates the house and makes your mouth
+water. All kinds of herbs and vegetables are hung up on racks to dry, along
+with a few rabbit skins. A side door leads to a fenced in garden which holds
+all kinds of wonderful crops.
+~
+181 0 0
+D1
+~
+~
+0 0 18114
+D2
+~
+~
+0 0 18112
+S
+#18114
+The Vegetable Patch~
+   About an acre of this farm has been fenced in with a waist high picket 
+fence. Trellis' and Hop bars line the fence, enabling the vegetables to grow 
+upwards without spilling over the fence. The vegetables in here look 
+absolutely stunning, putting to shame the normal crops you buy inside the 
+city. Old lady Henneson has been known for decades as the place to go for the 
+best in vegetables, exotic and otherwise. Many people feel that old lady 
+Henneson has some how acquired a magical abbility to make plants grow. You 
+would tend to agree with those stories after seeing this wonderous sight. 
+~
+181 0 2
+D3
+~
+~
+0 0 18113
+S
+#18115
+The Western Highway~
+   The road here is mostly made out of hard packed clay. Deep ruts about four 
+feet apart adorn the road from the numerous carts that go to and from Kore. 
+The road seems out of place to the landscapes that surround it. A sharp wind 
+curls from the south every so often, reminding you that the great Sea only 
+lays a few miles away. An expansive field lays to the north, it's waist high 
+grasses end miles to the north as they slowly merge into woodlands that you 
+can barely see. 
+~
+181 0 2
+D1
+~
+~
+0 0 18110
+D3
+~
+~
+0 0 18116
+S
+#18116
+The Western Highway~
+   The road here is mostly made out of hard packed clay. Deep ruts about four 
+feet apart adorn the road from the numerous carts that go to and from Kore. 
+The road seems out of place to the landscapes that surround it. A sharp wind 
+curls from the south every so often, reminding you that the great Sea only 
+lay a few miles away. An expansive field lays to the north, it's waist high 
+grasses end miles to the north as they slowly merge into woodlands that you 
+can barely see. 
+~
+181 0 2
+D1
+~
+~
+0 0 18115
+D3
+~
+~
+0 0 18117
+S
+#18117
+A Curve in the Highway~
+   A large pile of stones suddenly ends the Western Highway. A less worn path 
+leads you to the north towards the Fields of Gramen. You assume that it must 
+be safe, because the Highway guards patrol this area heavily. You can hear 
+the friendly sound of a flute coming from the north, along with the sounds of 
+talking and laughter. You must be approaching the Open Air Market of the 
+Gramen. 
+~
+181 0 2
+D1
+~
+~
+0 0 18116
+D2
+~
+~
+0 0 18123
+S
+#18118
+Near the End of the Western Highway~
+   Another turn in the highway places you back on the east-west path.  A good
+deal of the Highway is covered over by blowing grasses, and the occasional
+opportunistic weed sprouting up between cart ruts.  A good number of pebbles
+line the highway, another indicator that not too much large traffic passes
+down these roads. 
+~
+181 4 2
+D1
+~
+~
+0 0 18140
+D3
+~
+~
+0 0 13000
+S
+#18119
+A Meandering Path~
+   A foot path veers off the highway, leading to what looks like a farm.  All
+around you grow small patches of barley, most likely new mixes or crosses that
+are being tested for the next growing season.  A good number of the patches
+look chewed by insects and rabbits.  The path is not very straight, it was
+probably made by walking feet instead of a cart or horse.
+~
+181 4 0
+D0
+~
+~
+0 0 18120
+D2
+~
+~
+0 0 18124
+S
+#18120
+A Narrow Dirt Path~
+   A foot path veers of the highway, leading to what looks like a farm.  All
+around you grow small patches of barley, most likely new mixes or crosses that
+are being tested for the next growing season.  A good number of the patches
+look chewed by insects and rabbits.  The path is not very straight, it was
+probably made by walking feet instead of a cart or horse.
+~
+181 0 0
+D2
+~
+~
+0 0 18119
+D9
+~
+~
+0 0 18121
+S
+#18121
+A Narrow Dirt Path~
+   A foot path veers of the highway, leading to what looks like a farm.  All
+around you grow small patches of barley, most likely new mixes or crosses that
+are being tested for the next growing season.  A good number of the patches
+look chewed by insects and rabbits.  The path is not very straight, it was
+probably made by walking feet instead of a cart or horse.
+~
+181 0 0
+D7
+~
+~
+0 0 18120
+D9
+~
+~
+0 0 18122
+S
+#18122
+A Meager Farmhouse~
+   This house looks like most of the other farms you have passed.  Built for
+living on a farm, the house provides only what is needed here, nothing fancy
+or nothing excessive.  Deer skins hang all over the place, probably from the
+northern woods.  The Barley fields that is the main income for this farm
+goes almost to the edge of the northern woods.  No one is in this house, and
+all the windows are open.
+~
+181 8 0
+D0
+~
+~
+0 0 18146
+D7
+~
+~
+0 0 18121
+S
+#18123
+The Western Highway~
+   The road is less traveled looking here. Since you are past the Commoner's 
+Market, there isnt much reason for any normal person to travel out this far. 
+The road used to be a common ambush place for unwary travelers by well 
+organized brigands. The institution of the Highway guard has kept the raids 
+to a minimum and increased the trade to Kore by tenfold. 
+~
+181 0 2
+D0
+~
+~
+0 0 18117
+D3
+~
+~
+0 0 18124
+S
+#18124
+The Western Highway~
+   As you travel down the western highway, the winds from the Sea of Tyress 
+give you a little chill and carry the familiar scent of salt with them. The 
+tall grasses of the Gramen sway in unison, almost like a single entity. Kore 
+itself is now just a little speck on the eastern horizon. 
+~
+181 0 2
+D0
+~
+~
+0 0 18119
+D1
+~
+~
+0 0 18123
+D3
+~
+~
+0 0 18125
+S
+#18125
+The Western Highway~
+   The road is less traveled looking here. Since you are past the Commoner's 
+Market, there isnt much reason for any normal person to travel out this far. 
+The road used to be a common ambush place for unwary travelers by well 
+organized brigands. The institution of the Highway guard has kept the raids 
+to a minimum and increased the trade to Kore by tenfold. 
+~
+181 0 2
+D1
+~
+~
+0 0 18124
+D2
+~
+wooden door~
+2 0 2308
+D3
+~
+~
+0 0 18126
+S
+#18126
+The Western Highway~
+   As you travel down the western highway, the winds from the Sea of Tyress 
+give you a little chill and carry the familiar scent of salt with them. The 
+tall grasses of the Gramen sway in unison, almost like a single entity. Kore 
+itself is now just a little speck on the eastern horizon. 
+~
+181 0 2
+D0
+~
+~
+0 0 18137
+D1
+~
+~
+0 0 18125
+D3
+~
+~
+0 0 18127
+S
+#18127
+The Western Highway~
+   As you travel down the western highway, the winds from the Sea of Tyress 
+give you a little chill and carry the familiar scent of salt with them. The 
+tall grasses of the Gramen sway in unison, almost like a single entity. Kore 
+itself is now just a little speck on the eastern horizon. 
+~
+181 0 2
+D1
+~
+~
+0 0 18126
+D3
+~
+~
+0 0 18128
+S
+#18128
+A Subtle Junction~
+   As you travel down the western highway, the winds from the Sea of Tyress 
+give you a little chill and carry the familiar scent of salt with them. The 
+tall grasses of the Gramen sway in unison, almost like a single entity. Kore 
+itself is now just a little speck on the eastern horizon. 
+~
+181 0 2
+D0
+~
+~
+0 0 18129
+D1
+~
+~
+0 0 18127
+D3
+~
+~
+0 0 18133
+S
+#18129
+Through the Gramen~
+   The road takes a subtle turn to the north, heading you deeper into the 
+tall grasses of the Gramen. The city is now completely out of sight, and the 
+only sounds you hear now are the gentle winds blowing the grasses. The 
+highway itself looks like a new road, no deep ruts and hoof prints mar it 
+since the only people who travel here are the HighwayMen and the occasional 
+peddler. 
+~
+181 4 2
+D2
+~
+~
+0 0 18128
+D8
+~
+~
+0 0 18133
+D9
+~
+~
+0 0 18130
+S
+#18130
+Through the Gramen~
+   The road takes a subtle turn to the north, heading you deeper into the
+tall grasses of the Gramen. The city is now completely out of sight, and the
+only sounds you hear now are the gentle winds blowing the grasses. The
+highway itself looks like a new road, no deep ruts and hoof prints mar it
+since the only people who travel here are the HighwayMen and the occasional
+peddler.
+~
+181 0 2
+D3
+~
+~
+0 0 18131
+D7
+~
+~
+0 0 18129
+S
+#18131
+Through the Gramen~
+   The road takes a subtle turn to the west, heading you deeper into the
+tall grasses of the Gramen. The city is now completely out of sight, and the
+only sounds you hear now are the gentle winds blowing the grasses. The
+highway itself looks like a new road, no deep ruts and hoof prints mar it
+since the only people who travel here are the HighwayMen and the occasional
+peddler.
+~
+181 0 2
+D1
+~
+~
+0 0 18130
+D3
+~
+~
+0 0 18132
+S
+#18132
+Through the Gramen~
+   The road takes a subtle turn to the west, heading you deeper into the
+tall grasses of the Gramen. The city is now completely out of sight, and the
+only sounds you hear now are the gentle winds blowing the grasses. The
+highway itself looks like a new road, no deep ruts and hoof prints mar it
+since the only people who travel here are the HighwayMen and the occasional
+peddler.
+~
+181 0 2
+D0
+~
+~
+0 0 18148
+D1
+~
+~
+0 0 18131
+D9
+~
+~
+0 0 18141
+S
+#18133
+The Western Highway~
+   Another turn in the highway places you back on the east-west path. A good 
+deal of the Highway is covered over by blowing grasses, and the occasional 
+opportunistic weed sprouting up between cart ruts. A good number of pebbles 
+line the highway, another indicator that not too much large traffic passes 
+down these roads. 
+~
+181 0 2
+D1
+~
+~
+0 0 18128
+D3
+~
+~
+0 0 18134
+D6
+~
+~
+0 0 18129
+S
+#18134
+The Western Highway~
+   Another turn in the highway places you back on the east-west path. A good 
+deal of the Highway is covered over by blowing grasses, and the occasional 
+opportunistic weed sprouting up between cart ruts. A good number of pebbles 
+line the highway, another indicator that not too much large traffic passes 
+down these roads. 
+~
+181 0 2
+D1
+~
+~
+0 0 18133
+D3
+~
+~
+0 0 18135
+S
+#18135
+The Western Highway~
+   Another turn in the highway places you back on the east-west path. A good 
+deal of the Highway is covered over by blowing grasses, and the occasional 
+opportunistic weed sprouting up between cart ruts. A good number of pebbles 
+line the highway, another indicator that not too much large traffic passes 
+down these roads. 
+~
+181 0 2
+D0
+~
+~
+0 0 18155
+D1
+~
+~
+0 0 18134
+D3
+~
+~
+0 0 18136
+S
+#18136
+The Western Highway~
+   Another turn in the highway places you back on the east-west path. A good 
+deal of the Highway is covered over by blowing grasses, and the occasional 
+opportunistic weed sprouting up between cart ruts. A good number of pebbles 
+line the highway, another indicator that not too much large traffic passes 
+down these roads. 
+~
+181 0 2
+D1
+~
+~
+0 0 18135
+D3
+~
+~
+0 0 18139
+S
+#18137
+The HighwayMan's Post~
+   This building is not that old, probably only as old as the HighwayMen 
+themselves. The floor is made of dark oak planks, which is similar to the 
+walls and doors. The guards here seem to be taking a break. It is said that 
+the HighwayMen possess a magical abbility to travel for days without getting 
+tired. This power is given to them by the WindFinder, in the final days of 
+their training. The HighwayMen seem to notice your presence, especially since 
+no one travels alone this far out into the Highway. However, HighwayMen tend 
+to be smarter than their city-bound cousins, so they simply give you a curt 
+nod, and offer you a place to rest. 
+~
+181 72 0
+D2
+~
+~
+0 0 18126
+D4
+~
+latchway door~
+2 18103 18138
+S
+#18138
+Office of the WindFinder~
+   You travel up the ladder to find yourself in a huge room on the second 
+story of the guard house. Half of the ceiling is missing and makes it look 
+like one huge balcony up here. All around the room are magnificent birds, 
+some of which you have never seen. A falcon sits on a mahogeny desk, a 
+Kestrel atop of a bookcase, an owl stands sleeping on a perch and a pair of 
+exotic green birds huddle together in the hands of a large man. You can tell 
+by his stern look and deep green clothes, that this is the WindFinder. He 
+slowly stands to his feet as you enter his office, his expression never 
+changes, as he slowly puts the birds in a small wicker basket. 
+~
+181 232 0
+D5
+~
+latchway door~
+2 18103 18137
+S
+#18139
+The Western Highway~
+   Another turn in the highway places you back on the east-west path.  A good
+deal of the Highway is covered over by blowing grasses, and the occasional
+opportunistic weed sprouting up between cart ruts.  A good number of pebbles
+line the highway, another indicator that not too much large traffic passes
+down these roads.
+~
+181 0 2
+D1
+~
+~
+0 0 18136
+D3
+~
+~
+0 0 18140
+S
+#18140
+The Western Highway~
+   Another turn in the highway places you back on the east-west path.  A good
+deal of the Highway is covered over by blowing grasses, and the occasional
+opportunistic weed sprouting up between cart ruts.  A good number of pebbles
+line the highway, another indicator that not too much large traffic passes
+down these roads.  A large oak sign draws your attention.
+~
+181 4 2
+D1
+~
+~
+0 0 18139
+D3
+~
+~
+0 0 18118
+S
+#18141
+Wading through the Tall Grasses~
+   Waist high grasses caress your body in a fluid manner.  With each gust of
+the wind, no matter how small, the whole field reacts like a well oiled
+machine.  It is very peaceful out here, and you almost get lost in the
+feeling...actually, you aren't too sure which way you were walking.
+~
+181 0 0
+D0
+~
+~
+0 0 18177
+D2
+~
+~
+0 0 18162
+D3
+~
+~
+0 0 18149
+D7
+~
+~
+0 0 18132
+S
+#18142
+Wading through the Tall Grasses~
+   Waist high grasses caress your body in a fluid manner.  With each gust of
+the wind, no matter how small, the whole field reacts like a well oiled
+machine.  It is very peaceful out here, and you almost get lost in the
+feeling...actually, you aren't too sure which way you were walking.
+~
+181 0 0
+D1
+~
+~
+0 0 18148
+D2
+~
+~
+0 0 18175
+D3
+~
+~
+0 0 18150
+S
+#18143
+Wading through the Tall Grasses~
+   Waist high grasses caress your body in a fluid manner.  With each gust of
+the wind, no matter how small, the whole field reacts like a well oiled
+machine.  It is very peaceful out here, and you almost get lost in the
+feeling...actually, you aren't too sure which way you were walking.
+~
+181 0 0
+D0
+~
+~
+0 0 18178
+D1
+~
+~
+0 0 18150
+D2
+~
+~
+0 0 18153
+S
+#18144
+A Footpath through the Gramen~
+   The true beauty of the Gramen can only be experienced as you walk through 
+it. Just looking at the flowing grasses does not do it justice, its like 
+looking at a cake and not tasting it. The pale green grasses seem to part out 
+of your way as you slowly walk through the field. The Highway is just a s 
+strip to the south, and the woods to the north are becoming more visible. 
+~
+181 0 2
+D0
+~
+~
+0 0 18161
+D4
+~
+~
+0 0 18145
+D9
+~
+~
+0 0 18184
+S
+#18145
+The Shrine~
+   A small mound sticks out of the ground. It must be man made since the 
+landscape around here is very flat. A lone Oak sapling stands here, right 
+beside a carved marble bust of a beautiful woman. A thick wreath of flowers 
+surrounds the statue. Sitting in the branch of the small Oak is a pair of 
+strange green birds, sitting side by side and nuzzling each other. 
+~
+181 16 2
+D5
+~
+~
+0 0 18144
+S
+#18146
+Standing in the Barley~
+   Barley....in all directions. The barley produced at this farm provides the 
+city with the majority of it's barley. Brewers, bakers, chefs and commoners 
+all depend on this stuff. It doesn't look like much in its natural form, but 
+you couldn't even start to count the number of times you've consumed it. 
+~
+181 4 0
+D0
+~
+~
+0 0 18147
+D2
+~
+~
+0 0 18122
+D9
+~
+~
+0 0 18160
+S
+#18147
+Deep in a Barley Field~
+   Barley....in all directions.  The barley produced at this farm provides the
+city with the majority of it's barley.  Brewers, bakers, chefs and commoners
+all depend on this stuff.  It doesn't look like much in its natural form, but
+you couldn't even start to count the number of times you've consumed it.
+~
+181 0 0
+D2
+~
+~
+0 0 18146
+S
+#18148
+Wading through the Tall Grasses~
+   Waist high grasses caress your body in a fluid manner.  With each gust of
+the wind, no matter how small, the whole field reacts like a well oiled
+machine.  It is very peaceful out here, and you almost get lost in the
+feeling...actually, you aren't too sure which way you were walking.
+~
+181 0 0
+D0
+~
+~
+0 0 18149
+D2
+~
+~
+0 0 18132
+D3
+~
+~
+0 0 18142
+S
+#18149
+Wading through the Tall Grasses~
+   Waist high grasses caress your body in a fluid manner. With each gust of 
+the wind, no matter how small, the whole field reacts like a well oiled 
+machine. It is very peaceful out here, and you almost get lost in the 
+feeling...actually, you aren't too sure which way you were walking. 
+~
+181 0 0
+D0
+~
+~
+0 0 18150
+D1
+~
+~
+0 0 18141
+D2
+~
+~
+0 0 18148
+D3
+~
+~
+0 0 18162
+S
+#18150
+Wading through the Tall Grasses~
+   Waist high grasses caress your body in a fluid manner.  With each gust of
+the wind, no matter how small, the whole field reacts like a well oiled
+machine.  It is very peaceful out here, and you almost get lost in the
+feeling...actually, you aren't too sure which way you were walking.
+~
+181 0 0
+D0
+~
+~
+0 0 18162
+D1
+~
+~
+0 0 18142
+D2
+~
+~
+0 0 18149
+D3
+~
+~
+0 0 18143
+S
+#18151
+Scrubland of the Gramen~
+   The tall grasses give way to shorter grasses.  A number of small, frazzled
+looking bushes are also growing here.  Short trees stick up every so often.
+Large sections of grass are burned, where the sun has beat down on them for
+far too long.  Unfortunately for you, it is not much easier to get your
+bearings here.
+~
+181 0 0
+D2
+~
+~
+0 0 18184
+D7
+~
+~
+0 0 18185
+S
+#18152
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly 
+out of the grasses as you walk through the field. The Gramen is very 
+confusing at this point, it all looks the same, and there are no real 
+landmarks to keep your bearings straight. You just pick a direction, and hope 
+it leads you to your destination. 
+~
+181 0 0
+D0
+~
+~
+0 0 18174
+D1
+~
+~
+0 0 18179
+D2
+~
+~
+0 0 18172
+S
+#18153
+Wading through the Tall Grasses~
+   Waist high grasses caress your body in a fluid manner.  With each gust of
+the wind, no matter how small, the whole field reacts like a well oiled
+machine.  It is very peaceful out here, and you almost get lost in the
+feeling...actually, you aren't too sure which way you were walking.
+~
+181 0 0
+D0
+~
+~
+0 0 18143
+D1
+~
+~
+0 0 18162
+D2
+~
+~
+0 0 18148
+D3
+~
+~
+0 0 18149
+D7
+~
+~
+0 0 18156
+S
+#18154
+The Kitchen~
+    Pots of stew cook on one stove, many loaves of bread cook in the other.
+Half a dozen barrels stand in the corner, fermenting the famous brew of the
+Lofty Crow.  Bags of flour stand in one of the corners, sacks of barley in the
+other.  The serving wenches work back here, cooking nonstop.  They are just
+as busy in here as they are in the common room.
+~
+181 8 0
+D0
+~
+Pine Door~
+2 18108 18308
+D2
+~
+Swinging Door~
+1 -1 18164
+S
+#18155
+In the Fields of Gramen~
+   You feel all by yourself in this world, as if no other HumanKind exists,
+just you and the birds.  The pale green grasses are very tall and thick here.
+The scent of the sea can no longer be smelled, but the distinct odor of pine
+does come to you whenever the wind blows from the north.
+~
+181 4 2
+D0
+~
+~
+0 0 18156
+D2
+~
+~
+0 0 18135
+S
+#18156
+In the Fields of Gramen~
+   You feel all by yourself in this world, as if no other HumanKind exists,
+just you and the birds.  The pale green grasses are very tall and thick here.
+The scent of the sea can no longer be smelled, but the distinct odor of pine
+does come to you whenever the wind blows from the north.
+~
+181 0 2
+D0
+~
+~
+0 0 18157
+D2
+~
+~
+0 0 18155
+S
+#18157
+In the Fields of Gramen~
+   You feel all by yourself in this world, as if no other HumanKind exists,
+just you and the birds.  The pale green grasses are very tall and thick here.
+The scent of the sea can no longer be smelled, but the distinct odor of pine
+does come to you whenever the wind blows from the north.
+~
+181 0 2
+D2
+~
+~
+0 0 18156
+D6
+~
+~
+0 0 18158
+S
+#18158
+In the Fields of Gramen~
+   You feel all by yourself in this world, as if no other HumanKind exists,
+just you and the birds.  The pale green grasses are very tall and thick here.
+The scent of the sea can no longer be smelled, but the distinct odor of pine
+does come to you whenever the wind blows from the north.
+~
+181 0 2
+D6
+~
+~
+0 0 18159
+D8
+~
+~
+0 0 18157
+S
+#18159
+In the Fields of Gramen~
+   You feel all by yourself in this world, as if no other HumanKind exists,
+just you and the birds.  The pale green grasses are very tall and thick here.
+The scent of the sea can no longer be smelled, but the distinct odor of pine
+does come to you whenever the wind blows from the north.
+~
+181 0 2
+D0
+~
+~
+0 0 18156
+D3
+~
+~
+0 0 18148
+D4
+~
+~
+0 0 18160
+D8
+~
+~
+0 0 18158
+S
+#18160
+On a Small Hill, Deep in the Gramen~
+   You are standing waist deep in the grasses of the Gramen. As far as you 
+can see in each direction...just grass. The woods to the north do not seem to 
+be getting that much closer than they were ten minutes ago. Because the field 
+is so similar, it is easy to lose your direction, and you fear you may be 
+lost. 
+~
+181 0 2
+D1
+~
+~
+0 0 18161
+D5
+~
+~
+0 0 18159
+D7
+~
+~
+0 0 18146
+S
+#18161
+Deep in the Gramen~
+   You are standing waist deep in the grasses of the Gramen. As far as you 
+can see in each direction...just grass. The woods to the north do not seem to 
+be getting that much closer than they were ten minutes ago. Because the field 
+is so similar, it is easy to lose your direction, and you fear you may be 
+lost. 
+~
+181 0 2
+D2
+~
+~
+0 0 18144
+D3
+~
+~
+0 0 18160
+S
+#18162
+Wading through the Tall Grasses~
+   Waist high grasses caress your body in a fluid manner.  With each gust of
+the wind, no matter how small, the whole field reacts like a well oiled
+machine.  It is very peaceful out here, and you almost get lost in the
+feeling...actually, you aren't too sure which way you were walking.
+~
+181 0 0
+D0
+~
+~
+0 0 18141
+D1
+~
+~
+0 0 18149
+D2
+~
+~
+0 0 18150
+D9
+~
+~
+0 0 18171
+S
+#18163
+Foyer of the Lofty Crow~
+   A group of plain looking men engage in a game of Knives, from the look of
+it, they are wagering a good deal of money too.  Another small group sits
+at a small pine table, playing a card game of some sort.  Young women carrying
+food and drink scurry in and out of the room, somehow managing all the while
+to talk to the patrons, and greet you when you enter.
+~
+181 0 0
+D0
+~
+~
+0 0 18164
+D2
+~
+~
+0 0 18169
+S
+#18164
+Common Room of the Lofty Crow~
+   The common room here is quite large. Dozens of people fill this room, the 
+serene sound of a lyre quietly fills the background, but underneath all of 
+the talking and laughing, you can barely hear it. The smells of thick stew 
+and hearty ale fill your nostrils. A large Thri-Kreen stands beside the bar, 
+he obviously is the bartender. That may be a good place to start your visit 
+here. 
+~
+181 24 0
+D0
+~
+Swinging Door~
+1 -1 18154
+D1
+~
+~
+0 0 18168
+D2
+~
+~
+0 0 18163
+D3
+~
+Oak Door~
+1 0 18167
+D4
+~
+~
+0 0 18166
+S
+#18165
+Lofty Crow Food and Beverage room~
+EAT, DRINK, AND BE MERRY!
+~
+181 393216 0
+S
+#18166
+The Reception~
+   The second and third floors of the Crow are mostly devoted to private
+dining rooms and places for weary travelers to rest.  A pretty young woman
+sits on a small stool folding clothes.  She would probably be the person
+to talk to if you wanted a room for the night.
+~
+181 28 0
+D5
+~
+~
+0 0 18164
+S
+#18167
+A Private Room~
+   You step into a lavishly decorated private room of the Inn.  The smell of
+vanilla incense lingers heavily in the air.  A highly polished oak table sits
+in the middle of the room, matching well with the walls.  A thick rug, an
+animal skin of some sort, covers most of the hardwood.  A skinny dwarf
+sits on a plush chair, his chin almost touching the oak desk in front of
+him.  A large stack of books sits on the table.
+~
+181 8 0
+D1
+~
+Oak Door~
+1 0 18164
+D5
+~
+Rug~
+2 18108 18170
+S
+#18168
+The Troubador's Tables~
+   The sound of the Lyre being played draws you into this room.  It has been
+a long time since you heard someone play an instrument this well.  The
+room is all but silent, with the exception of the mesmeric strumming.  A
+woman with long dark hair, wearing pale green skirts, sits atop a stool on
+a small raised stage.  Candle light surrounds her, adding to the affect of
+her music.  She doesn't break stride in her song as you enter the room, but
+you are certain she noticed your arrival.
+~
+181 8 0
+D3
+~
+~
+0 0 18164
+S
+#18169
+Outside the Lofty Crow~
+   To the north is a huge three story building.  Made of gray stone and thick
+oak planks, it is a welcome sight after wandering around in the field for
+so long.  A huge sign, with a picture of a grinning black bird on it, hangs
+out in front of the building on a pole.  The Lofty Crow is a very popular
+inn, people come from miles away to eat the food, drink the drink, and enjoy
+the great Minstrels that often visit the Inn.
+~
+181 4 0
+D0
+~
+~
+0 0 18163
+D2
+~
+~
+0 0 18192
+S
+#18170
+Entering the Cellar~
+   This is very different from the room you just left. The carefully hidden 
+trapdoor leads you to a very different place indeed. This must be the start 
+of the cellar, although you see no signs of what a normal person would be 
+storing down here. Old casks and huge wooden crates line the walls, if they 
+once contained anything, they are empty now. What ever was in these 
+containers must have been large, and smelly, because it reeks of a very foul 
+odor down here. 
+~
+181 13 0
+D0
+~
+~
+0 0 18300
+D4
+~
+Rug~
+2 18108 18167
+S
+#18171
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D7
+~
+~
+0 0 18162
+D9
+~
+~
+0 0 18172
+S
+#18172
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D0
+~
+~
+0 0 18152
+D3
+~
+~
+0 0 18173
+D7
+~
+~
+0 0 18171
+S
+#18173
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D0
+~
+~
+0 0 18174
+D1
+~
+~
+0 0 18172
+D3
+~
+~
+0 0 18176
+S
+#18174
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D0
+~
+~
+0 0 18175
+D2
+~
+~
+0 0 18173
+S
+#18175
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D0
+~
+~
+0 0 18142
+D2
+~
+~
+0 0 18174
+D7
+~
+~
+0 0 18179
+S
+#18176
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D1
+~
+~
+0 0 18173
+D3
+~
+~
+0 0 18177
+S
+#18177
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D0
+~
+~
+0 0 18179
+D1
+~
+~
+0 0 18176
+D2
+~
+~
+0 0 18141
+D3
+~
+~
+0 0 18178
+S
+#18178
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D0
+~
+~
+0 0 18180
+D1
+~
+~
+0 0 18177
+D2
+~
+~
+0 0 18143
+D7
+~
+~
+0 0 18118
+S
+#18179
+The Fields of Gramen~
+   Pale green grasses go for all directions, as far as you can see. Birds fly
+out of the grasses as you walk through the field. The Gramen is very
+confusing at this point, it all looks the same, and there are no real
+landmarks to keep your bearings straight. You just pick a direction, and hope
+it leads you to your destination.
+~
+181 0 0
+D2
+~
+~
+0 0 18177
+D9
+~
+~
+0 0 18175
+S
+#18180
+A Lightly Traveled Path~
+   A just barely noticeable path is here in the grasses.  It looks like that
+someone has passed through this way within the past couple of days, possibly
+on a horse.  The fact that some of the grasses here are depressed is a good
+sign, maybe you can follow this trail out of the Gramen.
+~
+181 0 0
+D0
+~
+~
+0 0 18181
+D2
+~
+~
+0 0 18178
+S
+#18181
+A Lightly Traveled Path~
+   A just barely noticeable path is here in the grasses. It looks like that 
+someone has passed through this way within the past couple of days, possibly 
+on a horse. The fact that some of the grasses here are depressed is a good 
+sign, maybe you can follow this trail out of the Gramen. 
+~
+181 0 0
+D0
+~
+~
+0 0 18182
+D1
+~
+~
+0 0 18174
+D2
+~
+~
+0 0 18180
+S
+#18182
+A Lightly Traveled Path~
+   A just barely noticeable path is here in the grasses.  It looks like that
+someone has passed through this way within the past couple of days, possibly
+on a horse.  The fact that some of the grasses here are depressed is a good
+sign, maybe you can follow this trail out of the Gramen.
+~
+181 0 0
+D0
+~
+~
+0 0 18183
+D2
+~
+~
+0 0 18181
+S
+#18183
+A Lightly Traveled Path~
+   A just barely noticeable path is here in the grasses.  It looks like that
+someone has passed through this way within the past couple of days, possibly
+on a horse.  The fact that some of the grasses here are depressed is a good
+sign, maybe you can follow this trail out of the Gramen.
+~
+181 0 0
+D2
+~
+~
+0 0 18182
+D3
+~
+~
+0 0 18184
+S
+#18184
+Scrubland of the Gramen~
+   The tall grasses give way to shorter grasses.  A number of small, frazzled
+looking bushes are also growing here.  Short trees stick up every so often.
+Large sections of grass are burned, where the sun has beat down on them for
+far too long.  Unfortunately for you, it is not much easier to get your
+bearings here.
+~
+181 0 0
+D0
+~
+~
+0 0 18151
+D1
+~
+~
+0 0 18183
+D3
+~
+~
+0 0 18185
+S
+#18185
+Scrubland of the Gramen~
+   The tall grasses give way to shorter grasses.  A number of small, frazzled
+looking bushes are also growing here.  Short trees stick up every so often.
+Large sections of grass are burned, where the sun has beat down on them for
+far too long.  Unfortunately for you, it is not much easier to get your
+bearings here.
+~
+181 0 0
+D1
+~
+~
+0 0 18184
+D3
+~
+~
+0 0 18186
+D9
+~
+~
+0 0 18151
+S
+#18186
+Scrubland of the Gramen~
+   The tall grasses give way to shorter grasses.  A number of small, frazzled
+looking bushes are also growing here.  Short trees stick up every so often.
+Large sections of grass are burned, where the sun has beat down on them for
+far too long.  Unfortunately for you, it is not much easier to get your
+bearings here.
+~
+181 0 0
+D1
+~
+~
+0 0 18185
+D9
+~
+~
+0 0 18187
+S
+#18187
+Scrubland of the Gramen~
+   The tall grasses give way to shorter grasses.  A number of small, frazzled
+looking bushes are also growing here.  Short trees stick up every so often.
+Large sections of grass are burned, where the sun has beat down on them for
+far too long.  Unfortunately for you, it is not much easier to get your
+bearings here.
+~
+181 0 0
+D1
+~
+~
+0 0 18186
+D3
+~
+~
+0 0 18188
+D7
+~
+~
+0 0 18186
+S
+#18188
+Scrubland of the Gramen~
+   The tall grasses give way to shorter grasses.  A number of small, frazzled
+looking bushes are also growing here.  Short trees stick up every so often.
+Large sections of grass are burned, where the sun has beat down on them for
+far too long.  Unfortunately for you, it is not much easier to get your
+bearings here.
+~
+181 0 0
+D1
+~
+~
+0 0 18187
+D9
+~
+~
+0 0 18189
+S
+#18189
+Following a Cart Trail~
+   This is by all means a cart trail, possibly a couple of carts.  This is a
+very good sign.  Merchants don't often travel in places where they can get
+lost, or in dangerous places.  It would probably get you out of these damned
+fields, although the trail is a few days old, it may be tough to follow.
+~
+181 0 0
+D7
+~
+~
+0 0 18188
+D9
+~
+~
+0 0 18190
+S
+#18190
+Following a Cart Trail~
+   This is by all means a cart trail, possibly a couple of carts.  This is a
+very good sign.  Merchants don't often travel in places where they can get
+lost, or in dangerous places.  It would probably get you out of these damned
+fields, although the trail is a few days old, it may be tough to follow.
+~
+181 0 0
+D7
+~
+~
+0 0 18189
+D9
+~
+~
+0 0 18191
+S
+#18191
+Following a Cart Trail~
+   This is by all means a cart trail, possibly a couple of carts.  This is a
+very good sign.  Merchants don't often travel in places where they can get
+lost, or in dangerous places.  It would probably get you out of these damned
+fields, although the trail is a few days old, it may be tough to follow.
+~
+181 0 0
+D7
+~
+~
+0 0 18190
+D9
+~
+~
+0 0 18192
+S
+#18192
+A Lively Junction~
+   To the north is a huge three story building.  Made of grey stone and thick
+oak planks, it is a welcome sight after wandering around in the field for
+so long.  A huge sign, with a picture of a grinning black bird on it, hangs
+out in front of the building on a pole.  The Lofty Crow is a very popular
+inn, people come from miles away to eat the food, drink the drink, and enjoy
+the great Minstrels that often visit the Inn.
+~
+181 0 0
+D0
+~
+~
+0 0 18169
+D3
+~
+~
+0 0 18193
+D7
+~
+~
+0 0 18191
+S
+#18193
+West End of the Gramen~
+   The field now continues on in it's drudgery. It is a peaceful trip, but at 
+this point, you've had enough peace. The Gramen is getting very boring, and 
+getting lost is getting old. You can tell that you are at the Western end of 
+the Gramen, and you know that it should end sometime soon. 
+~
+181 0 0
+D1
+~
+~
+0 0 18192
+D3
+~
+~
+0 0 18194
+S
+#18194
+West End of the Gramen~
+   The field now continues on in it's drudgery. It is a peaceful trip, but at
+this point, you've had enough peace. The Gramen is getting very boring, and
+getting lost is getting old. You can tell that you are at the Western end of
+the Gramen, and you know that it should end sometime soon.
+~
+181 0 0
+D1
+~
+~
+0 0 18193
+D3
+~
+~
+0 0 18195
+S
+#18195
+West End of the Gramen~
+   The field now continues on in it's drudgery. It is a peaceful trip, but at
+this point, you've had enough peace. The Gramen is getting very boring, and
+getting lost is getting old. You can tell that you are at the Western end of
+the Gramen, and you know that it should end sometime soon.
+~
+181 0 0
+D1
+~
+~
+0 0 18194
+S
+#18196
+Towards the Forest~
+   This small hill is topped with a large number of small trees.  The grasses
+that were so tall just a few hundred yards away is now very short due to the
+lack of sun that the shady trees provide.
+~
+181 0 4
+D2
+~
+~
+0 0 18198
+S
+#18197
+Atop a Tree Lined Copse~
+   This small hill is topped with a large number of small trees.  The grasses
+that were so tall just a few hundred yards away is now very short due to the
+lack of sun that the shady trees provide.
+~
+181 4 4
+D0
+~
+~
+0 0 18198
+D2
+~
+~
+0 0 18103
+S
+#18198
+Towards the Forest~
+   This small hill is topped with a large number of small trees.  The grasses
+that were so tall just a few hundred yards away are now very short due to the
+lack of sun that the shady trees provide.
+~
+181 68 4
+D0
+~
+~
+0 0 18196
+D1
+~
+~
+0 0 898
+D2
+~
+~
+0 0 18197
+S
+#18199
+Shyft's Technicolor Nightmare~
+All the colors of the rainbow, all at once. Yuck.
+~
+181 393304 0
+D5
+~
+metal door~
+2 18142 3001
+S
+#99999
+$~

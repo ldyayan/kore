@@ -1,0 +1,106 @@
+>rand_prog 5~
+  # if at the creaking docks...
+  if inroom($i) == 2099
+    mpsilent board ship
+    if inroom($i) == 2092
+      mpat 2099 emote pays a coin to Charon.
+      mpat 2099 emote boards Charon's ferry.
+      emote has arrived.
+      if rand(33)
+        sit
+      else
+        if rand(50)
+          rest
+        endif
+      endif
+    endif
+  else
+    # if at the far side... come back to the near side
+    if inroom($i) == 2084
+      emote leaves south.
+      mpecho Your blood freezes as you hear someone's death cry.
+      mpgoto 2099
+      emote has arrived.
+    endif
+  endif
+~
+>speech_prog out.~
+  if ispc($n)
+  else
+    stand
+    disembark
+  endif
+~
+>rand_prog 3~
+  collapse
+~
+>rand_prog 3~
+  cower
+~
+>rand_prog 3~
+  cringe
+~
+>rand_prog 3~
+  cry
+~
+>rand_prog 3~
+  curse
+~
+>rand_prog 3~
+  groan
+~
+>rand_prog 3~
+  if inroom($i) == here
+    grovel $r
+  endif
+~
+>rand_prog 3~
+  insane
+~
+>rand_prog 3~
+  moan
+~
+>rand_prog 3~
+  plead $r
+~
+>rand_prog 3~
+  pray
+~
+>rand_prog 3~
+  scream
+~
+>rand_prog 3~
+  shiver
+~
+>rand_prog 3~
+  sob
+~
+>rand_prog 3~
+  sulk
+~
+>rand_prog 3~
+  wait
+~
+>rand_prog 3~
+  emote weeps inconsolably.
+~
+>rand_prog 3~
+  whine
+~
+>rand_prog 3~
+  worry
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I shimmers and disappears...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent drop all
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mpgoto cleaner
+  mppose $i dead
+~
+|

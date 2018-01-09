@@ -1,0 +1,97 @@
+>fight_prog 75~
+  if hitprcnt($r) < 20
+    switch $r
+    riposte $r
+    riposte $r
+  else
+    if rand(20)
+      if class($r) == cleric
+        switch $r
+        riposte
+        riposte
+        speak You worship false Gods!!
+        disarm $r
+      endif
+    else
+      if rand(10)
+        if rand(50)
+          mptrigger $r grab-smack-toss
+        else
+          mptrigger $r launch-me
+        endif
+      else
+        if rand(15)
+          if sex($r) == male
+            mpechoaround $r Brekstack kicks $R right in the nuts!!
+            mpechoat $r Brekstack kicks you right in the nuts!!
+            mpechoaround $r $R falls to the ground in immense pain!!
+            mpechoat $r ...and you fall to the ground in immense pain!!
+            mpdamage $r 10d15
+            mppose $r sit
+          else
+            riposte
+            disarm $r
+          endif
+        else
+          if rand(10)
+            riposte
+            riposte
+            disarm $r
+            mptrigger $r grab-smack-toss
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>command_prog quaff~
+  mpechoaround $n Brekstack ROARS and smacks the potion from $N's lips!!
+  mpechoat $n Brekstack ROARS and smacks the potion from your lips!!
+  mpdamage $n 10d15
+  mpstopcommand
+~
+>command_prog backstab~
+  mpechoat $n Brekstack gazes at you with full contempt!
+  mpechoaround $n Brekstack growls at $N!
+  speak Why dont you try to fight me like a warrior!!
+  mpstopcommand
+~
+>command_prog recite~
+  mpechoaround $n $N unrolls a scroll and begins to read it!
+  mpechoat $n You began to read the scroll.
+  mpechoaround $n Brekstack exhales in $N's face!
+  mpechoaround $n $N turns white and falls to the ground!
+  mpechoat $n Brekstack exhales his foul breath in your face!
+  mpechoat $n Your vision blurs as your fall to the ground!
+  mppose $n sit
+  mpstopcommand
+~
+>script_prog launch-me~
+  mpecho $I calls for his guards!
+@
+  mpechoat $n $I points his grubby finger at you and the guards pin you to the ground!!
+  mpechoaround $n $I points his finger at $N and the guards pin $K to the ground!! 
+@
+  mpechoat $n $I saunters over to you, places his foot on your neck...
+  mpechoaround $n Brekstack walks over to his guards, places his foot on $N's neck... 
+  mpechoat $n ... and the last thing you hear is ..... FORE!!!!
+  mpechoaround $n Brekstack picks up a heavy stick, yells 'FORE!!' and SMACKS $N over the horizon.
+  mpechoat $n You fly through the air at a breathtaking height and land extremely hard.
+  mpdamage $n 10d10 + 10
+  mpechoat $n You aren't in Kansas anymore...
+  mptransfer $n 25950
+~
+>script_prog grab-smack-toss~
+  mpechoaround $n Brekstack picks $N up....
+  mpechoat $n Brekstack grabs you by your neck and lifts you up...
+@
+  mpechoaround $n Brekstack SMACKS $N stupid!!
+  mpechoat $n Brekstack swings a huge fist at you and SMACKS YOU STUPID!!
+  mpdamage $n 10d20
+@  
+  mpechoaround $n Brekstack punts $N out of the room!
+  mpechoat $n Brekstack throws you up in the air and DROPKICKS you out of the room!
+  mptransfer $n nearby
+  laugh
+~
+|

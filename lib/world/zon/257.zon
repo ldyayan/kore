@@ -1,0 +1,60 @@
+#257
+Sea of Tyress~
+25799 30 2 32
+M 0 25701     5 25705            a dockworker
+M 0 25703     6 25705            a seagull
+O 0 25700   104 25705            a crate
+M 0 25700     1 25701            the harbormaster
+M 0 25701     1 25700            a dockworker
+M 0 25703     1 25700            a seagull
+O 0 25700   101 25700            a crate
+M 0 25701     2 25702            a dockworker
+M 0 25703     2 25702            a seagull
+M 0 25701     3 25703            a dockworker
+M 0 25703     3 25703            a seagull
+M 0 25703     4 25703            a seagull
+O 0 25700   102 25703            a crate
+M 0 25701     4 25704            a dockworker
+M 0 25703     5 25704            a seagull
+O 0 25700   103 25704            a crate
+M 0 25701     6 25707            a dockworker
+M 0 25703     7 25707            a seagull
+M 0 25703     8 25707            a seagull
+M 0 25703     9 25707            a seagull
+O 0 25700   105 25707            a crate
+O 0 25700   106 25707            a crate
+O 0 25700   107 25707            a crate
+M 0 25701     7 25715            a dockworker
+O 0 25700   108 25715            a crate
+M 0 25701     8 25716            a dockworker
+O 0 25700   109 25716            a crate
+O 0 25700   110 25716            a crate
+M 0 25702     1 25709            a hermit crab
+M 0 25703    10 25709            a seagull
+M 0 25702     2 25712            a hermit crab
+M 0 25702     3 25714            a hermit crab
+M 0 25703    11 25714            a seagull
+M 0 25703    12 25710            a seagull
+M 0 25703    13 25706            a seagull
+M 0 25703    14 25706            a seagull
+O 0 25700   111 25706            a crate
+O 0 25700   112 25706            a crate
+M 0 25703    15 25750            a seagull
+M 0 25703    16 25753            a seagull
+M 0 25703    17 25740            a seagull
+M 0 25703    18 25744            a seagull
+M 0 25703    19 25735            a seagull
+M 0 25703    20 25759            a seagull
+M 0 25703    21 25768            a seagull
+M 0 25703    22 25775            a seagull
+M 0 25703    23 25778            a seagull
+M 0 25703    24 25779            a seagull
+M 0 25703    25 25780            a seagull
+M 0 25703    26 25781            a seagull
+M 0 25703    27 25785            a seagull
+M 0 25704     8 25721            the fish
+M 0 25704     8 25720            the fish
+M 0 25704     8 25737            the fish
+S
+#99999
+$~

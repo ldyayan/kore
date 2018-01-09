@@ -1,0 +1,779 @@
+#18400
+dog stone gargoyle~
+a Stone Dog~
+A dog made of a strange shiny stone is here, guarding the gates.
+~
+   A stout dog made of a shiny stone, very similar to obsidian, is sitting 
+here in front of the Iron gates that lead to the Estate of the deceased
+mage Malchot.  The dog is probably meant to be a watchdog, created by the
+wizard to protect his Mansion.  The dogs don't seem too bothered by your
+presence, matbe the spell that controlled this beast is wearing off.
+~
+266 0 0 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18401
+dog stone gargoyle~
+a Stone Dog~
+A dog made of a strange shiny stone is here, guarding the gates.
+~
+   A stout dog made of a shiny stone, very similar to obsidian, is sitting 
+here in front of the Iron gates that lead to the Estate of the deceased
+mage Malchot.  The dog is probably meant to be a watchdog, created by the
+wizard to protect his Mansion.  The dogs don't seem too bothered by your
+presence, matbe the spell that controlled this beast is wearing off.
+~
+266 0 0 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18402
+butler golem wooden~
+the Butler~
+A wooden golem, dressed as a Butler, stands here solemnly.
+~
+   A five foot tall golem, made of a highly polished mahogany.  It looks 
+rather silly since it is in full butlers garb.  It stands here, not moving
+at all as you approach.  He holds a silver platter in one hand, and a
+shiny house key in the other. Its face is carved into a permanent straight
+grimace.
+~
+26 65536 0 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18403
+spirit artificer swirling~
+the Spirit of the Artificer~
+A swirling spirit is all that is left of the Artificer.
+~
+   This swirling form can barely be seen in the dark room.  The entity
+moves very slowly, and with great precision.  While it appears to just be
+a simple swirling mist of color, you get a great sense of sadness from it
+apparently the Artificer was sad to leave the mortal world behind.
+~
+632842 1198 200 S
+21 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18404
+nymph naked little~
+a Nymph~
+A naked little nymph flies around the garden in a carefree way.
+~
+   This little form flies quickly through the flowers and plants.  The nymph
+looks like a miniature human female, with thin transparent dragon fly wings.
+She speaks to you in a high pitched, fast tounge, and flits away before you
+can get a good look at her well proportioned body.
+~
+565320 4460548 0 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#18405
+nymph naked little~
+a Nymph~
+A naked little nymph flies around the garden in a carefree way.
+~
+   This little form flies quickly through the flowers and plants.  The nymph
+looks like a miniature human female, with thin transparent dragon fly wings.
+She speaks to you in a high pitched, fast tounge, and flits away before you
+can get a good look at her well proportioned body.
+~
+565320 4460548 0 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#18406
+nymph naked little~
+a Nymph~
+A naked little nymph flies around the garden in a carefree way.
+~
+   This little form flies quickly through the flowers and plants.  The nymph
+looks like a miniature human female, with thin transparent dragon fly wings.
+She speaks to you in a high pitched, fast tounge, and flits away before you
+can get a good look at her well proportioned body.
+~
+565320 4460550 0 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#18407
+nymph naked little~
+a Nymph~
+A naked little nymph flies around the garden in a carefree way.
+~
+   This little form flies quickly through the flowers and plants.  The nymph
+looks like a miniature human female, with thin transparent dragon fly wings.
+She speaks to you in a high pitched, fast tounge, and flits away before you
+can get a good look at her well proportioned body.
+~
+565320 4460548 0 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#18408
+sawgrass grass saw~
+the Sawgrass~
+A large patch of Sawgrass is here, its fronds are jagged and very sharp.
+~
+   This large plant is by no means a product of pure nature.  It is probably
+a mixture of one of Malchot's enchantments and a normal sawgrass plant. The
+long thin fronds of the plant look very sharp, and look like they could
+inflict a nasty wound.  It seems to move a little as you approach it...
+~
+761866 0 0 S
+18 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18409
+wall tangle briar tanglebriar~
+a Wall of Tangle Briar~
+The wall here is covered in Tangle Briar, waiting to entrap its next meal.
+~
+   Now this plant looks mean. It doesn't seem to have any one part of it that
+looks like a central stalk.  It appears to be all long vines, covered in thick
+barbs and hooks.  It has covered a huge section of wall, and looks like it
+is spreading some to the south.  You think you catch a glimpse of a animal
+skull lodged in between some of the long vines.
+~
+761866 0 0 S
+20 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18410
+willow weeping sad~
+the Weeping Willow~
+A Weeping Willow is here, swinging sadly in the wind.
+~
+   A tall weeping willow stands here in the middle of the garden.  It is the
+tallest plant that you can see in the garden, and no flowers or other plants
+grow beneath it.  It seems to shudder in the wind, dropping its leaves like
+tears.
+~
+2875402 4096 20 S
+20 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18411
+butterfly giant~
+a Giant Butterfly~
+A Giant Butterfly flies around drinking nectar from the flowers.
+~
+   This huge butterfly is probably another one of Malchot's creations.  Its
+wingspan is at least four feet. From a distance, it appeared to be a large
+bird of prey.  The markings on the wings of the giant insect are marvelous,
+the artistry is something only nature could perfect.
+~
+524424 4489216 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18412
+butterfly giant~
+a Giant Butterfly~
+A Giant Butterfly flies around drinking nectar from the flowers.
+~
+   This huge butterfly is probably another one of Malchot's creations.  Its
+wingspan is at least four feet. From a distance, it appeared to be a large
+bird of prey.  The markings on the wings of the giant insect are marvelous,
+the artistry is something only nature could perfect.
+~
+524424 4489216 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18413
+snap dragon snapdragon~
+a Snap Dragon~
+A Snap Dragon is here, looking unassuming behind its flowers.
+~
+   This is a very large snap dragon plant.  The large fist sized flowers seem
+to have a life of their own. Each flower has small slitted eyes, and its
+folds are formed into a makeshift mouth, lined with tiny thorns.  A few
+of the flower-heads turn to regard you as you approach, and the plant seems
+to move towards you a little.
+~
+2793482 0 0 S
+16 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#18414
+mantis enormous mantid~
+an Enormous Mantis~
+An enormous Mantis is here, waiting patiently for something to cross its path.
+~
+   This huge insect hides here in the flowers, its exoskeleton blends in
+perfectly with the background.  It slowly turns its head towards you as
+you come near it.  Its huge forearms are bent, ready to clasp some unwary
+prey.  It seems to consider you as a good sized snack, and that makes you
+a little bit uncomfortable.
+~
+34824 262144 0 S
+13 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#18415
+mantis enormous mantid~
+an Enormous Mantis~
+An enormous Mantis is here, waiting patiently for something to cross its path.
+~
+   This huge insect hides here in the flowers, its exoskeleton blends in
+perfectly with the background.  It slowly turns its head towards you as
+you come near it.  Its huge forearms are bent, ready to clasp some unwary
+prey.  It seems to consider you as a good sized snack, and that makes you
+a little bit uncomfortable.
+~
+34824 262144 0 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18416
+mantis enormous mantid~
+an Enormous Mantis~
+An enormous Mantis is here, waiting patiently for something to cross its path.
+~
+   This huge insect hides here in the flowers, its exoskeleton blends in
+perfectly with the background.  It slowly turns its head towards you as
+you come near it.  Its huge forearms are bent, ready to clasp some unwary
+prey.  It seems to consider you as a good sized snack, and that makes you
+a little bit uncomfortable.
+~
+34824 262144 0 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18417
+mantis enormous mantid~
+an Enormous Mantis~
+An enormous Mantis is here, waiting patiently for something to cross its path.
+~
+   This huge insect hides here in the flowers, its exoskeleton blends in
+perfectly with the background.  It slowly turns its head towards you as
+you come near it.  Its huge forearms are bent, ready to clasp some unwary
+prey.  It seems to consider you as a good sized snack, and that makes you
+a little bit uncomfortable.
+~
+34826 262146 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18418
+animar marble~
+a Marble Animar~
+A marble animar is here, doing various chores around the estate.
+~
+   This construct is roughly humanoid in shape, though it has no apparent 
+neck.  It is about five feet tall and made entirely of polished white
+marble.  Huge hands and huge feet top its arms and legs, it looks very
+powerful and very heavy.
+~
+106504 65536 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18419
+animar marble~
+a Marble Animar~
+A marble animar is here, doing various chores around the estate.
+~
+   This construct is roughly humanoid in shape, though it has no apparent 
+neck.  It is about five feet tall and made entirely of polished white
+marble.  Huge hands and huge feet top its arms and legs, it looks very
+powerful and very heavy.
+~
+106504 65536 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18420
+animar marble~
+a Marble Animar~
+A marble animar is here, doing various chores around the estate.
+~
+   This construct is roughly humanoid in shape, though it has no apparent 
+neck.  It is about five feet tall and made entirely of polished white
+marble.  Huge hands and huge feet top its arms and legs, it looks very
+powerful and very heavy.
+~
+106504 65536 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18421
+animar marble~
+a Marble Animar~
+A marble animar is here, doing various chores around the estate.
+~
+   This construct is roughly humanoid in shape, though it has no apparent 
+neck.  It is about five feet tall and made entirely of polished white
+marble.  Huge hands and huge feet top its arms and legs, it looks very
+powerful and very heavy.
+~
+106504 65536 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18422
+wood wooden golem~
+a Wooden Golem~
+A wooden golem is here, lumbering around the room in an odd manner.
+~
+   This thin creatures are probably not in the condition that they were when
+Malchot created them.  Most of their bodies are splintered and warped, making
+the way they move seem very odd.  They don't seem to notice you too much, 
+but even if they did, you could easily outrun them, you think...
+~
+172040 131072 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18423
+wood wooden golem sent~
+a Wooden Golem~
+A wooden golem is here, lumbering around the room in an odd manner.
+~
+   This thin creatures are probably not in the condition that they were when
+Malchot created them.  Most of their bodies are splintered and warped, making
+the way they move seem very odd.  They don't seem to notice you too much, 
+but even if they did, you could easily outrun them, you think...
+~
+172042 131072 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18424
+wood wooden golem~
+a Wooden Golem~
+A wooden golem is here, lumbering around the room in an odd manner.
+~
+   This thin creatures are probably not in the condition that they were when
+Malchot created them.  Most of their bodies are splintered and warped, making
+the way they move seem very odd.  They don't seem to notice you too much, 
+but even if they did, you could easily outrun them, you think...
+~
+172040 131072 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18425
+golem fabric patchwork~
+a Fabric Golem~
+A patchwork fabric golem is here, clashing with the hardwood walls.
+~
+   This golems are made from various pieces of fabric.  There seems to be no
+real pattern behind these creations, the size and color of the fabric varies
+a good deal.  They seem to be stuffed with a heavy cotton, and many of them
+have large slashes in the fabric, spilling the cotton out of their odd
+looking bodies.
+~
+172040 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18426
+golem fabric patchwork~
+a Fabric Golem~
+A patchwork fabric golem is here, clashing with the hardwood walls.
+~
+   This golems are made from various pieces of fabric.  There seems to be no
+real pattern behind these creations, the size and color of the fabric varies
+a good deal.  They seem to be stuffed with a heavy cotton, and many of them
+have large slashes in the fabric, spilling the cotton out of their odd
+looking bodies.
+~
+172042 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18427
+golem fabric patchwork~
+a Fabric Golem~
+A patchwork fabric golem is here, clashing with the hardwood walls.
+~
+   This golems are made from various pieces of fabric.  There seems to be no
+real pattern behind these creations, the size and color of the fabric varies
+a good deal.  They seem to be stuffed with a heavy cotton, and many of them
+have large slashes in the fabric, spilling the cotton out of their odd
+looking bodies.
+~
+172040 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18428
+golem clay pudgy~
+a Clay Golem~
+A pudgy clay golem is here, dripping goo all over the carpet.
+~
+   This fat little creatures are a nasty sight.  Most of the clay is dripping
+and dropping off their bodies.  They leave a thick trail of mud where ever
+they walk.  Their faces seem to be in a constant sneer, but despite this, they
+dont seem to notice you at all.
+~
+172040 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18429
+golem clay pudgy~
+a Clay Golem~
+A pudgy clay golem is here, dripping goo all over the carpet.
+~
+   This fat little creatures are a nasty sight.  Most of the clay is dripping
+and dropping off their bodies.  They leave a thick trail of mud where ever
+they walk.  Their faces seem to be in a constant sneer, but despite this, they
+dont seem to notice you at all.
+~
+172042 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18430
+golem clay pudgy~
+a Clay Golem~
+A pudgy clay golem is here, dripping goo all over the carpet.
+~
+   This fat little creatures are a nasty sight.  Most of the clay is dripping
+and dropping off their bodies.  They leave a thick trail of mud where ever
+they walk.  Their faces seem to be in a constant sneer, but despite this, they
+dont seem to notice you at all.
+~
+172040 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18431
+steam device gnomish~
+the Gnomish Steam Device~
+A huge steam powered device is here, its cogs and gears in perpetual motion.
+~
+   This strange device is very large, and most of the room is devoted to it.
+A complex series of cogs and gears power the device, which spews steam out of
+a row of thick iron pipes.  No product can be seen coming in or out of the
+device, it just seems to be working on something that you can't quite see.
+~
+2859018 131072 0 S
+19 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18432
+gnome clockwork~
+a Clockwork Gnome~
+A clockwork gnome is here, working carefully with its tools.
+~
+   These little guys are kinda cute.  They only stand about eighteen inches
+tall, and that includes the large iron pot helms that many wear on their
+heads.  Their eyes are telescopic, and they move at a clunky gait. Powered
+by well oiled gears, they never seem to notice you.
+~
+172040 1048576 0 S
+11 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18433
+gnome clockwork sent~
+a Clockwork Gnome~
+A clockwork gnome is here, working carefully with its tools.
+~
+   These little guys are kinda cute.  They only stand about eighteen inches
+tall, and that includes the large iron pot helms that many wear on their
+heads.  Their eyes are telescopic, and they move at a clunky gait. Powered
+by well oiled gears, they never seem to notice you.
+~
+172042 1048576 0 S
+11 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18434
+gnome clockwork sent~
+a Clockwork Gnome~
+A clockwork gnome is here, working carefully with its tools.
+~
+   These little guys are kinda cute.  They only stand about eighteen inches
+tall, and that includes the large iron pot helms that many wear on their
+heads.  Their eyes are telescopic, and they move at a clunky gait. Powered
+by well oiled gears, they never seem to notice you.
+~
+172042 1048576 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18435
+gnome clockwork~
+a Clockwork Gnome~
+A clockwork gnome is here, working carefully with its tools.
+~
+   These little guys are kinda cute.  They only stand about eighteen inches
+tall, and that includes the large iron pot helms that many wear on their
+heads.  Their eyes are telescopic, and they move at a clunky gait. Powered
+by well oiled gears, they never seem to notice you.
+~
+172040 1048576 0 S
+12 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18436
+blue straw halfman~
+a Straw Halfman~
+A Straw Halfman is here, moving into position for its army.
+~
+  These halfmen seem to be the most numerous, and the most expendable. Made
+entirely of bound straw and hay, these halfmen make up the rank and file of
+each sides army. They are small and thin, and appear to be very flammable,
+yet it is an unwritten rule that the Halfmen do not use fire in their
+battles.
+~
+172044 132096 0 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18437
+blue straw halfman~
+a Straw Halfman~
+A Straw Halfman is here, moving into position for its army.
+~
+  These halfmen seem to be the most numerous, and the most expendable. Made
+entirely of bound straw and hay, these halfmen make up the rank and file of
+each sides army. They are small and thin, and appear to be very flammable,
+yet it is an unwritten rule that the Halfmen do not use fire in their
+battles.
+~
+172044 132096 0 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18438
+straw halfman~
+a Straw Halfman~
+A Straw Halfman is here, moving into position for its army.
+~
+  These halfmen seem to be the most numerous, and the most expendable. Made
+entirely of bound straw and hay, these halfmen make up the rank and file of
+each sides army. They are small and thin, and appear to be very flammable,
+yet it is an unwritten rule that the Halfmen do not use fire in their
+battles.
+~
+172044 132104 0 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18439
+straw halfman~
+a Straw Halfman~
+A Straw Halfman is here, moving into position for its army.
+~
+  These halfmen seem to be the most numerous, and the most expendable. Made
+entirely of bound straw and hay, these halfmen make up the rank and file of
+each sides army. They are small and thin, and appear to be very flammable,
+yet it is an unwritten rule that the Halfmen do not use fire in their
+battles.
+~
+172044 132096 0 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18440
+blue wax halfman~
+a Wax Halfman~
+A Wax Halfman is here, its face melted into a permanent sneer.
+~
+   Wax Halfmen are the second most common halfmen used in the battles below
+the Estate. Made of hardened wax of various colors, these halfmen are fat and
+short. They seem to be the main offensive power of the Halfmen armies.
+~
+172044 1024 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18441
+wax halfman~
+a Wax Halfman~
+A Wax Halfman is here, its face melted into a permanent sneer.
+~
+   Wax Halfmen are the second most common halfmen used in the battles below
+the Estate. Made of hardened wax of various colors, these halfmen are fat and
+short. They seem to be the main offensive power of the Halfmen armies.
+~
+172044 1024 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18442
+wax halfman~
+a Wax Halfman~
+A Wax Halfman is here, its face melted into a permanent sneer.
+~
+   Wax Halfmen are the second most common halfmen used in the battles below
+the Estate. Made of hardened wax of various colors, these halfmen are fat and
+short. They seem to be the main offensive power of the Halfmen armies.
+~
+172044 1024 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18443
+blue stone halfman~
+a Stone Halfman~
+A Stone Halfman is here barking orders to the rank and file.
+~
+   The stone halfmen are the field commanders of the armies. They sit back
+for most of the battles, barking out orders in a deep booming voice. They are
+much more powerful than their wax and straw kindred. The stone halfmen easily
+drop half a dozen of the opposing wax and straw constructs when they cross
+their paths.
+~
+237580 1115136 0 S
+19 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18444
+halfman stone~
+a Stone Halfman~
+A Stone Halfman is here barking orders to the rank and file.
+~
+   The stone halfmen are the field commanders of the armies. They sit back
+for most of the battles, barking out orders in a deep booming voice. They are
+much more powerful than their wax and straw kindred. The stone halfmen easily
+drop half a dozen of the opposing wax and straw constructs when they cross
+their paths.
+~
+237580 1115144 0 S
+19 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18445
+totem beast red~
+a Totem Beast~
+A Totem Beast guards a large red door with a hammer drawn on it.
+~
+   These halfmen are stacked upon short pillars. They only move and attack
+when the leaders of their armies are attacked. They are viscious guards, and
+it would take a large number of halfmen to kill one of them.
+~
+696330 1311872 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18446
+totem beast~
+a Totem Beast~
+A Totem Beast is here, guarding the entrance to it's leader.
+~
+   These halfmen are stacked upon short pillars. They only move and attack
+when the leaders of their armies are attacked. They are viscious guards, and
+it would take a large number of halfmen to kill one of them.
+~
+696330 1311872 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18447
+voldov general~
+Voldov~
+Voldov is standing here, planning his next offensive.
+~
+   Voldov is the leader of the Red Halfman army. Considered almost sentient
+by some scholars, Voldov has been the leader of the Red army for quite a long
+time. He rarely ventures into the battle zone for combat, but when he does,
+it takes a dozen stone halfmen to make him retreat. He wields a huge steel
+hammer which looks like it could easily smash the skull of any human.
+~
+239626 1082508 0 S
+23 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#18448
+milsik leader~
+Milsik~
+Milsik is here bathing in the glow of his orb.
+~
+   Milsik is the infamous leader of the Blue army. While he is not as good of
+a warrior as Voldov, Milsik has learned a few spells in the years since his
+creation. It is rumored that Milsik is currently working on an arsenal of
+fire based spells that he plans to unleash upon the Red army in their next
+major battle. He always holds a large crystal orb, which he draws a good deal
+of his magical power from.
+~
+239754 1115264 0 S
+22 1 0 1d1+1 1d1+1
+0 20
+8 8 1 1
+#18449
+stone halfman~
+a Stone Halfman~
+A Stone Halfman patrols the halls protecting his leader from invasions.
+~
+   The stone halfmen are the field commanders of the armies. They sit back
+for most of the battles, barking out orders in a deep booming voice. They are
+much more powerful than their wax and straw kindred. The stone halfmen easily
+drop half a dozen of the opposing wax and straw constructs when they cross
+their paths.
+~
+237580 1115136 0 S
+19 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18450
+stone halfman~
+a Stone Halfman~
+A Stone Halfman patrols the halls protecting his leader from invasions.
+~
+   The stone halfmen are the field commanders of the armies. They sit back
+for most of the battles, barking out orders in a deep booming voice. They are
+much more powerful than their wax and straw kindred. The stone halfmen easily
+drop half a dozen of the opposing wax and straw constructs when they cross
+their paths.
+~
+237580 1115136 0 S
+19 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18451
+moss halfman green shiny~
+a Moss Halfman~
+A shiny green halfman made of moss clings to the wall here.
+~
+   A good foot smaller than the rest of the Halfmen you have seen, this little
+guy seems to be made out of moss and lichen.  The only real features he has is
+two black beady eyes on his small head.  He clings to the wall here, and while
+he doesn't move, he blends in perfectly with the moss covered stone walls.
+You get the impression that maybe the Moss Halfmen are used as spys.
+~
+41100 164874 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18452
+moss halfman green shiny~
+a Moss Halfman~
+A shiny green halfman made of moss clings to the wall here.
+~
+   A good foot smaller than the rest of the Halfmen you have seen, this little
+guy seems to be made out of moss and lichen.  The only real features he has is
+two black beady eyes on his small head.  He clings to the wall here, and while
+he doesn't move, he blends in perfectly with the moss covered stone walls.
+You get the impression that maybe the Moss Halfmen are used as spys.
+~
+41100 164874 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#18453
+moss halfman green shiny~
+a Moss Halfman~
+A shiny green halfman made of moss clings to the wall here.
+~
+   A good foot smaller than the rest of the Halfmen you have seen, this little
+guy seems to be made out of moss and lichen.  The only real features he has is
+two black beady eyes on his small head.  He clings to the wall here, and while
+he doesn't move, he blends in perfectly with the moss covered stone walls.
+You get the impression that maybe the Moss Halfmen are used as spys.
+~
+41100 164874 0 S
+15 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#99999
+$~

@@ -1,0 +1,2008 @@
+#18200
+Down the Mountain~
+  As you pass through the large gap in the mountains, the seemingly endless
+rock suddenly and breathtakingly yields to small plant and animal life.
+Untouched nature lies all around you as the sweet smell of honeysuckles
+drifts past your nose. To a child it would seem that you have just entered
+some magical land and even with all your adult knowledge it is still
+somewhat hard to dispell that fantasy. After stopping for a moment you
+decide to continue on the small stone trail the winds down through the
+dreamlike valley.
+~
+182 4 5
+D3
+~
+~
+0 0 4040
+D6
+~
+~
+0 0 18201
+S
+#18201
+Valley path~
+  Stone becomes dirt as the trail you are traveling on comes down out of
+the mountains. Warmth from the midday sun surrounds you yet is kept at bay
+by the gentle northern wind. Walls of rock are replaced with small 
+overgrwon fields and sparse thickets of trees. Remembering back you now
+believe the stories of the lands surrounding the tower of Demariv as being
+some of the most beautiful in all of Kore. However, these stories also tell
+of bands of thieves that roam this area making this spectacular landscape
+as dangerous as it is serene.
+~
+182 0 5
+D0
+~
+~
+0 0 18202
+D8
+~
+~
+0 0 18200
+S
+#18202
+In the Valley~
+   You work your way farther down the trail which has become a small dirt
+path. On both sides of you are lush fields of tall wild grass with 
+sporadic patches of forest. You see small birds and other animal life
+go about thier ways.  Occasionally you see a traveler or merchant pass
+by coming from the tower.
+~
+182 0 4
+D0
+~
+~
+0 0 18203
+D1
+~
+~
+0 0 18204
+D2
+~
+~
+0 0 18201
+D3
+~
+~
+0 0 18205
+S
+#18203
+On the dirt trail~
+  You work your way farther down the trail which has become a small dirt
+path. On both sides of you are lush fields of tall wild grass with 
+sporatic patches of forest. You see small birds and other animal life
+go about thier ways.  Occasionally you see a traveler or merchant pass
+by coming from the tower.
+~
+182 0 4
+D0
+~
+~
+0 0 18208
+D2
+Dummy room
+~
+~
+0 0 18202
+S
+#18204
+A Grassy Field~
+   You wander into the middle of a large field with waist high weeds.
+The field seems to have a life of it's own as gentle breezes give the
+effect of waves in the sea.  After staring at this for several minutes
+you realize the hypnotic effect this seems to have.  You decide this
+would be an ideal spot for hunting as several white-tailed deer sprint
+across the other side of the field, seemingly unaware of your presence.
+Everything seems in harmony here as you shutter to think that the
+blight that taints the northern lands might soon consume this place
+of beauty.
+~
+182 0 4
+D1
+~
+~
+0 0 18206
+D3
+~
+~
+0 0 18202
+S
+#18205
+A Grassy field~
+   You wander into the middle of a large field with waist high weeds.
+The field seems to have a life of it's own as gentle breezes give the
+effect of waves in the sea.  After staring at this for several minutes
+you realize the hypnotic effect this seems to have.  You decide this
+would be an ideal spot for hunting as several white-tailed deer sprint
+across the other side of the field, seemingly unaware of your presence.
+Everything seems in harmony here as you shutter to think that the
+blight that taints the northern lands might soon consume this place
+of beauty.
+~
+182 0 2
+D1
+~
+~
+0 0 18202
+D3
+~
+~
+0 0 18207
+S
+#18206
+A Sparse Forest~
+  Leaving the field behind you, shade and cool air surround you as
+you enter a small thicket of trees.  Leaves cover the forest floor so
+densely it gives the impression of a lush carpet of greens and browns.
+Winds from the west sweep through the treetops and it sounds as if
+the trees are whispering to one another, just soft enough so you are
+unable to understand.  A decrepit stone wall denotes the boundries
+of some long forgotten property and shows that went man moves on
+nature returns to claim what was once it's own.
+~
+182 0 3
+D3
+~
+~
+0 0 18204
+S
+#18207
+A Thicket~
+   You wander into the middle of a large field with waist high weeds.
+The field seems to have a life of it's own as gentle breezes give the
+effect of waves in the sea.  After staring at this for several minutes
+you realize the hypnotic effect this seems to have.  You decide this
+would be an ideal spot for hunting as several white-tailed deer sprint
+across the other side of the field, seemingly unaware of your presence.
+Everything seems in harmony here as you shutter to think that the
+blight that taints the northern lands might soon consume this place
+of beauty.
+~
+182 0 2
+D0
+~
+~
+0 0 18289
+D1
+~
+~
+0 0 18205
+S
+#18208
+Approaching the Entrance to the Tower~
+  You work your way farther down the trail which has become a small dirt
+path. On both sides of you are lush fields of tall wild grass with 
+sporadic patches of forest. You see small birds and other animal life
+go about thier ways.  Occasionally you see a traveler or merchant pass
+by coming from the tower.
+~
+182 4 0
+D0
+~
+~
+0 0 18209
+D2
+~
+~
+0 0 18202
+S
+#18209
+The Entrance to the Tower of the Demariv Clerics~
+   You stand before the tower of Demariv in which dwells the guild of demariv
+and the legendary healer Lim.  Many come to be cured of disease and illness
+by the clerics here. In fact as you stand here you feel a sense of
+calmness and serenity. In front of you stand the Keepers of the tower,
+men who have pledged thier lives to the protection of the tower, yet
+they seem happy to let you enter and be healed. Around you bustle
+peddlers and travelers who've all come to seek shelter from the raids
+in the northern lands. However, with all this going on around you, the
+tower before you holds your complete attention and what lays beyond the 
+gates tickles your deepest curiosity.
+~
+182 0 4
+D0
+Gates
+~
+Gates~
+1 0 18210
+D1
+~
+~
+0 0 18232
+D2
+~
+~
+0 0 18208
+D3
+~
+~
+0 0 18217
+S
+#18210
+The Entrance Chamber~
+   As you enter the tower you are taken back by the change in the
+light level from the outside to here.  Sunlight seems to just stop at the
+entrance to this chamber.  Torches line the walls to provide just enough
+light so you can see where you are going but not much else.  Ahead you
+see a soft glow that you figure must be the legendary healing chambers
+of the guild, who it is said, cured the great warrior Illair from the
+taint of the evil horror, Virmene.  You also see a door to the east from
+which you can make out the sounds of conversation.  A small sign is
+nailed to the door and reads...
+
+    ^R"Keepers of the tower only."^n
+
+It would probably be best not to disturb them.
+~
+182 12 0
+D1
+A examine it and find it to be an ordinary wooden door.
+~
+Wooden Door~
+1 0 18215
+D2
+~
+~
+0 0 18209
+D6
+~
+~
+0 0 18211
+D9
+~
+~
+0 0 18212
+S
+#18211
+The Healing Chambers~
+   You have entered the healing chambers of the Demariv clerics. These
+chambers are where the clerics aid the sick and wounded and ask for small
+donations in return. You see several clerics around the chambers attending
+to the sick as they pay no mind to you. At the head of the room there seems
+to be an altar that emits a soft glow. You notice that these chambers are
+quite plain but serve thier purpose quite well.
+~
+182 8 0
+D0
+~
+~
+0 0 18214
+D3
+~
+~
+0 0 18212
+D8
+~
+~
+0 0 18210
+S
+#18212
+The Healing Chambers~
+You have entered the healing chambers of the Demariv Clerics.
+These chambers are where the clerics aid the sick and wounded and
+ask for small donations in return.  You see several clerics around the
+chambers attending to the sick as they pay no mind to you.  A the head
+of the room there seems to be an altar that emits a soft glow.  You
+notice that these chambers are quite plain but serve thier purpose quite
+well.  
+~
+182 8 0
+D0
+~
+~
+0 0 18213
+D1
+~
+~
+0 0 18211
+D7
+~
+~
+0 0 18210
+S
+#18213
+The Healing Chambers~
+You have entered the healing chambers of the Demariv Clerics.
+These chambers are where the clerics aid the sick and wounded and
+ask for small donations in return.  You see several clerics around the
+chambers attending to the sick as they pay no mind to you.  A the head
+of the room there seems to be an altar that emits a soft glow.  You
+notice that these chambers are quite plain but serve thier purpose quite
+well. 
+~
+182 8 0
+D1
+~
+~
+0 0 18214
+D2
+~
+~
+0 0 18212
+D3
+~
+~
+0 0 18222
+D6
+~
+~
+0 0 18221
+S
+#18214
+The Healing Chambers~
+You have entered the healing chambers of the Demariv Clerics.
+These chambers are where the clerics aid the sick and wounded and
+ask for small donations in return.  You see several clerics around the
+chambers attending to the sick as they pay no mind to you.  A the head
+of the room there seems to be an altar that emits a soft glow.  You
+notice that these chambers are quite plain but serve thier purpose quite
+well. 
+~
+182 8 0
+D1
+~
+~
+0 0 18223
+D2
+~
+~
+0 0 18211
+D3
+~
+~
+0 0 18213
+D9
+~
+~
+0 0 18221
+S
+#18215
+Guards Quarters~
+   As you enter the guard quarters you are suprised by the apparent coziness
+of the room. A fire burns in the fireplace on the north side of the room and
+tables with food and drink are placed all around the enormous room. At the
+far end of the room there are enough beds to easily sleep 20 or 30 guards.
+Your examination of the room is stopped only when you realize that the 
+guards who where sitting around enjoying thier off-hours are now standing,
+armed, and looking very angry at your presence here.
+~
+182 8 0
+D1
+~
+Oak Door~
+1 0 18216
+D3
+~
+Wooden Door~
+1 0 18210
+S
+#18216
+Keeper of the Watch's Quarters~
+   This room is much smaller than the one you just entered from. Around the
+room are simple decorations and weapons of all sorts. A small fire burns
+in a fireplace on the far side of the room. Dominating the room is a huge
+desk that is filled with a multitude of parchments. You are suprised by the
+man on the other side of the desk. This must be the keeper of the watch, the
+man who's sole duty is the safety of all that inhabit the tower.
+~
+182 8 0
+D3
+~
+Oak Door~
+1 0 18215
+S
+#18217
+Around the Tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 4 0
+D1
+~
+~
+0 0 18209
+D3
+~
+~
+0 0 18220
+S
+#18218
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D0
+~
+~
+0 0 18219
+D1
+~
+~
+0 0 18220
+S
+#18219
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D0
+~
+~
+0 0 18224
+D2
+~
+~
+0 0 18218
+S
+#18220
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D1
+~
+~
+0 0 18217
+D3
+~
+~
+0 0 18218
+S
+#18221
+Upon the Altar~
+   You approach the huge altar upon which rests various potions and herbs.
+Behind the altar stands a cloaked figure who attends to the very sick and
+severely wounded. He holds a staff which seems to aid him in his efforts.
+Apparently this is Noest who oversees the efforts of the clerics in the
+healing chambers.
+~
+182 8 0
+D0
+~
+Secret Passage~
+1 0 18260
+D7
+~
+~
+0 0 18214
+D8
+~
+~
+0 0 18213
+S
+#18222
+A Side Hallway~
+   You enter a side hallway which is separated from the healing chambers by
+a deep red curtain. The hallway is dimly lit but you can make out the three
+large women guarding a door at the far end of the hall. They look like 
+keepers of the tower but you see that their eyes glow a pale green. They
+notice you and inform you that you need to return to the chamber if you
+wish to be healed.
+~
+182 4 0
+D1
+~
+~
+0 0 18213
+D3
+Steel door
+~
+Steel Door~
+1 18205 18233
+S
+#18223
+A Side Hallway~
+You enter a side hallway which is separated from the healing chambers by
+a deep red curtain.  The hallway is dimly lit but you can make out the
+3 large men guarding a door at the far end of the hall.  The look like
+keepers of the tower but you see that thier eyes glow a pale green.  They
+notice you and inform you that you need to return to the chamber if you
+wish to be healed.
+~
+182 12 0
+D1
+Copper Door
+~
+Copper Door~
+1 18206 18254
+D3
+~
+~
+0 0 18214
+S
+#18224
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D0
+~
+~
+0 0 18225
+D2
+~
+~
+0 0 18219
+S
+#18225
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D0
+~
+~
+0 0 18226
+D2
+~
+~
+0 0 18224
+S
+#18226
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D1
+~
+~
+0 0 18227
+D2
+~
+~
+0 0 18225
+S
+#18227
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D1
+~
+~
+0 0 18228
+D3
+~
+~
+0 0 18226
+S
+#18228
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D1
+~
+~
+0 0 18229
+D3
+~
+~
+0 0 18227
+S
+#18229
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D2
+~
+~
+0 0 18230
+D3
+~
+~
+0 0 18228
+S
+#18230
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D0
+~
+~
+0 0 18229
+D2
+~
+~
+0 0 18231
+S
+#18231
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 0 0
+D0
+~
+~
+0 0 18230
+D3
+~
+~
+0 0 18232
+S
+#18232
+Around the tower~
+   As you move along the base of the tower you find yourself walking amongst
+small crowds of peasants and merchants. As they go about thier business you
+realize that a sort of shanty town has sprung up around the base of the tower.
+Peddlers attempt to sell you thier goods every ten feet as you notice that
+most of the people here are extremely poor. You also notice small groups
+of lepers who have come to seek healing for thier affliction. Some keepers
+of the tower move amongst the crowd keeping some form of law and order yet
+the entire scene seems quite choatic. You decide it would be best to keep moving.
+~
+182 4 0
+D1
+~
+~
+0 0 18231
+D3
+~
+~
+0 0 18209
+S
+#18233
+Inner Keep~
+   You have entered the inner keep of the Demariv clerics. Only members of
+the guild and guests of the council are ever admitted to these hallways.
+A warm draft rushes past you as this part of the tower seems much more
+temperate than the healing chambers.
+~
+182 13 0
+D1
+Steel Door
+~
+Door Steel~
+1 18205 18222
+D4
+~
+~
+0 0 18234
+D5
+~
+~
+0 0 18235
+S
+#18234
+Upper Corridors~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D0
+~
+~
+0 0 18251
+D5
+~
+~
+0 0 18233
+S
+#18235
+Entrance to the Trials~
+   Thick red columns of marble form a complete circle around the spiral
+stone staircase that you descended down. The room itself is also circular
+in shape but larger than the circle of columns. The floor is also marble
+but of a grayish hue that has been worn by the ages. Flowing script has
+been engraved in each of the stone pillars in a language that is foreign to
+you. As your eyes search the room they settle on the cloaked figure that is
+as still and silent as the marble on which he stands. You find it hard to 
+believe it is even alive until he raises his hand and points at you.  When
+he speaks his voice seems to come from everywhere and yet nowhere. Maybe you
+should leave the trials to the clerics as is commanded.
+~
+182 8 0
+D0
+~
+Entrance~
+2 18207 18249
+D4
+~
+~
+0 0 18233
+S
+#18236
+The First Trial~
+   You are enveloped with complete and utter darkness. Only your breathing
+emits sound of any sort. You wander around as every direction is as black
+as where you just came from. The light from your light source seems to be
+eatin up by the darkness that surrounds it. You decide that there must be
+a way out...although you think that you could wander here for all eternity.
+~
+182 393261 0
+D0
+~
+~
+0 0 18236
+D1
+~
+~
+0 0 18237
+D3
+~
+~
+0 0 18236
+D4
+~
+~
+0 0 18236
+S
+#18237
+The First Trial~
+   You are enveloped with complete and utter darkness. Only your breathing
+emits sound of any sort. You wander around as every direction is as black
+as where you just came from. The light from your light source seems to be
+eatin up by the darkness that surrounds it. You decide that there must be
+a way out...although you think that you could wander here for all eternity.
+~
+182 393261 0
+D0
+~
+~
+0 0 18237
+D1
+~
+~
+0 0 18238
+D2
+~
+~
+0 0 18237
+D3
+~
+~
+0 0 18236
+S
+#18238
+The First Trial~
+   You are enveloped with complete and utter darkness. Only your breathing
+emits sound of any sort. You wander around as every direction is as black
+as where you just came from. The light from your light source seems to be
+eatin up by the darkness that surrounds it. You decide that there must be
+a way out...although you think that you could wander here for all eternity.
+~
+182 393261 0
+D0
+~
+~
+0 0 18238
+D1
+~
+~
+0 0 18238
+D2
+~
+~
+0 0 18238
+D3
+~
+~
+0 0 18239
+S
+#18239
+The First Trial~
+   You are enveloped with complete and utter darkness. Only your breathing
+emits sound of any sort. You wander around as every direction is as black
+as where you just came from. The light from your light source seems to be
+eatin up by the darkness that surrounds it. You decide that there must be
+a way out...although you think that you could wander here for all eternity.
+~
+182 393261 0
+D0
+~
+~
+0 0 18240
+D1
+~
+~
+0 0 18239
+D2
+~
+~
+0 0 18239
+D5
+~
+~
+0 0 18239
+S
+#18240
+The First Trial~
+   You are enveloped with complete and utter darkness. Only your breathing
+emits sound of any sort. You wander around as every direction is a black
+as where you just came from. The light from your light source seems to be
+eatin up by the darkness that surrounds it. You decide that there must be
+a way out...although you think to yourself that you might wander here for
+all eternity.
+~
+182 393261 0
+D0
+~
+~
+0 0 18240
+D1
+~
+~
+0 0 18239
+D2
+~
+~
+0 0 18241
+D3
+~
+~
+0 0 18240
+S
+#18241
+The First Trial~
+   You are enveloped with complete and utter darkness. Only your breathing
+emits sound of any sort. You wander around as every direction is as black
+as where you just came from. The light from your light source seems to be
+eatin up by the darkness that surrounds it. You decide that there must be
+a way out...although you think that you could wander here for all eternity.
+~
+182 393261 0
+D0
+~
+~
+0 0 18241
+D1
+~
+~
+0 0 18241
+D3
+~
+~
+0 0 18242
+D4
+~
+~
+0 0 18241
+S
+#18242
+The First Trial~
+   You are enveloped with complete and utter darkness. Only your breathing
+emits sound of any sort. You wander around as every direction is as black
+as where you just came from. The light from your light source seems to be
+eatin up by the darkness that surrounds it. You decide that there must be
+a way out...although you think that you could wander here for all eternity.
+~
+182 393261 0
+D0
+~
+~
+0 0 18236
+D1
+~
+~
+0 0 18243
+D2
+~
+~
+0 0 18242
+D3
+~
+~
+0 0 18242
+S
+#18243
+The First Trial~
+   You are enveloped with complete and utter darkness. Only your breathing
+emits sound of any sort. You wander around as every direction is as black
+as where you just came from. The light from your light source seems to be
+eatin up by the darkness that surrounds it. You decide that there must be
+a way out...although you think that you could wander here for all eternity.
+~
+182 393256 0
+D3
+~
+~
+0 0 18244
+S
+#18244
+The End of the First Trial~
+   You have completed the trial. A small arrow points to a key lying on the
+ground in front of you. A small message lets you know the you will need this
+key to progress in the trials. There is also a large portal that looks as if
+it leads back to the entrance to the trials.
+~
+182 393256 0
+D1
+~
+~
+0 0 18243
+D3
+~
+~
+0 0 18245
+S
+#18245
+Entrance to the Trial of Knowledge~
+  You stand in a small room that is very similar to the entrance chamber
+except smaller and with no columns. In the middle of the room rests a small
+stone pillar that comes up to about your waist. Mounted atop the pillar is
+a small metal plaque with writing on it. You realize that this is your last
+chance before entering the trial.
+~
+182 393256 0
+D1
+~
+Black~
+0 18211 18235
+D3
+~
+~
+0 0 18246
+S
+#18246
+The Second Trial: The Trial of Knowledge~
+   You are in a circular room that is about 30 feet in diameter. All around
+you are six portals each with writings inscribed into them. You realize that
+stepping through the wrong portal will be fatal so you decided to take your
+time and study each choice very carefully. You look back to see that you also
+have no means of retreat.
+~
+182 393256 0
+D0
+~
+~
+0 0 18248
+D1
+~
+~
+0 0 18271
+D2
+~
+~
+0 0 18247
+D3
+~
+~
+0 0 18270
+D4
+~
+~
+0 0 18273
+D5
+~
+~
+0 0 18272
+S
+#18247
+Dh'vral Loads The Steel Sword.~
+Wrong.
+~
+182 2 0
+S
+#18248
+Zeus is the God of War~
+Wrong.
+~
+182 2 0
+S
+#18249
+Entrance to the Trial of Wits~
+   You stand in a small room that is very similar to the entrance chamber
+except smaller and with no columns. In the middle of the room rests a small
+stone pillar that comes up to about your waist. Mounted atop the pillar is
+a small metal plaque with writing on it. You realize that this is your last
+chance before entering the trial.
+~
+182 393224 0
+D0
+~
+~
+0 0 18236
+S
+#18250
+Entrance to the Trial of Courage~
+  You stand in a small room that is very similar to the entrance chamber
+except smaller and with no columns. In the middle of the room rests a small
+stone pillar that comes up to about your waist. Mounted atop the pillar is
+a small metal plaque with writing on it. You realize that this is your last
+chance before entering the trial.
+~
+182 393224 0
+D2
+~
+~
+0 0 18256
+S
+#18251
+A Hallway~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D0
+~
+~
+0 0 18253
+D2
+~
+~
+0 0 18234
+S
+#18252
+The Sleeping Chambers~
+   This is the sleeping quarters of the Demariv clerics when they are not
+attending in the healing chambers. There are several clerics here sleeping
+in very plain cots. It seems that the clerics are allowed very little privacy
+and very few personal possesions. The sleeping clerics don't even wake at your
+entrance due to the strenuous work of using their magic to heal the sick
+and wounded.
+~
+182 8 0
+D1
+~
+~
+0 0 18255
+S
+#18253
+A Hallway~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D1
+~
+~
+0 0 18267
+D2
+~
+~
+0 0 18251
+D3
+~
+~
+0 0 18255
+S
+#18254
+The Inner Keep~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 13 0
+D0
+~
+~
+0 0 18264
+D3
+Copper Door
+~
+Copper Door~
+1 18206 18223
+S
+#18255
+The Clerics' Chambers~
+   This is where clerics of the Demariv guild come to relax when they have
+spare time. The chambers are empty now due to the long hours that are
+needed for the clerics to help all those who have fled from the north.
+~
+182 8 0
+D1
+~
+~
+0 0 18253
+D3
+~
+~
+0 0 18252
+S
+#18256
+The Third Trial~
+   Blackness surrounds you as the only light here is offered by a small
+glowing sphere above your head. Across the arch of light is one of the
+three creatures you must fight and slay to complete this trial. From the
+sight of this creature it looks as if that is going to be a difficult
+task to accomplish.
+~
+182 393224 0
+D0
+~
+~
+0 0 18250
+D2
+All you see is a smooth black surface with a small disc shaped
+area carved out of it.
+~
+First Barrier~
+2 18208 18257
+S
+#18257
+The Third Trial~
+   Blackness surrounds you as the only light here is offered by a small
+glowing sphere above your head. Across the arch of light is one of the
+three creatures you must fight and slay to complete this trial. From the
+sight of this creature it looks as if that is going to be a difficult
+task to accomplish.
+~
+182 393224 0
+D0
+~
+First Barrier~
+2 18208 18256
+D2
+
+~
+Second Barrier~
+2 18209 18258
+S
+#18258
+The Third Trial~
+   Blackness surrounds you as the only light here is offered by a small
+glowing sphere above your head. Across the arch of light is one of the
+three creatures you must fight and slay to complete this trial. From the
+sight of this creature it looks as if that is going to be a difficult
+task to accomplish.
+~
+182 393224 0
+D0
+~
+Second Barrier~
+2 18209 18257
+D2
+~
+Third Barrier~
+2 18210 18259
+S
+#18259
+Completion of the Trials~
+   You have completed the trials of the guild. This small room's walls are
+covered with writing and upon closer inspection you see it is the
+names of those who have completed these same trials. You decide to
+follow with tradition and etch your own name into the wall. A water basin
+and some bread have been placed here to refresh you.
+~
+182 393224 0
+D0
+~
+Third Barrier~
+2 18210 18258
+D2
+~
+~
+0 0 18235
+S
+#18260
+Secret Passage~
+   You are in an extremely small passageway. It seems only big enough to
+hold one person and two at the most. It is also almost completely black as
+only shimmers of light come in from the two adjacent rooms. The air is
+very damp and you decide this would not be a good place to stay for a long
+time.
+~
+182 781 0
+D0
+~
+Bookshelf~
+1 0 18261
+D2
+~
+Secret~
+1 0 18221
+S
+#18261
+Noest's Study~
+   As you enter Noest's study your eyes adjust to the warm light from several
+candle stands placed about the room. A large table in the center of the
+room is filled with scrolls and books. Large bookcases cover two of the
+walls while on the third hangs a tapestry with a large symbol on it. Much
+like most of the tower this room is very quiet due to the absence of people.
+~
+182 9 0
+D0
+~
+Wall~
+1 18234 18278
+D1
+~
+Wooden Door~
+2 18215 18262
+D2
+~
+Bookshelf~
+1 0 18260
+S
+#18262
+The Inner Keep~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D1
+~
+~
+0 0 18263
+D3
+~
+Wooden Door~
+2 18215 18261
+S
+#18263
+The Inner Keep~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D2
+~
+~
+0 0 18264
+D3
+~
+~
+0 0 18262
+D4
+~
+~
+0 0 18265
+S
+#18264
+The Inner Keep~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D0
+~
+~
+0 0 18263
+D2
+~
+~
+0 0 18254
+S
+#18265
+Upper Corridors~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D3
+~
+~
+0 0 18266
+D5
+~
+~
+0 0 18263
+S
+#18266
+A Hallway~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D0
+Jade Inlayed Doors
+~
+Jade Inlayed Doors~
+2 0 18268
+D1
+~
+~
+0 0 18265
+D3
+~
+~
+0 0 18267
+S
+#18267
+A Hallway~
+   You are in an ordinary hallway with a stone floor. Every so often there
+are tapestries depicting great events in this region and such. Torches placed
+every so often provide dim lighting. These halls also seems to be empty 
+except for the occasional guardian of the tower and wandering cleric.
+~
+182 8 0
+D0
+~
+Jade Inlayed Doors~
+1 0 18269
+D1
+~
+~
+0 0 18266
+D3
+~
+~
+0 0 18253
+S
+#18268
+Hall of the Council of Lim~
+   You enter through the jade doors and immediately realize that you have
+entered a part of the tower that few ever see. Brilliant tapestries adorn
+the walls with scenes of far away lands. Apparently this is where guests
+of the council of Lim are greeted and a refreshed from thier journey with
+food and wine. At the moment the hall is empty but you hear voices to the
+north.
+~
+182 12 0
+D2
+~
+Jade Inlayed Doors~
+1 0 18266
+D3
+~
+~
+0 0 18269
+D9
+~
+~
+2 0 18275
+S
+#18269
+Hall of the Council of Lim~
+   You enter through the jade doors and immediately realize that you have
+entered a part of the tower that few ever see. Brilliant tapestries adorn
+the walls with scenes of far away lands. Apparently this is where guests
+of the council of Lim are greeted and a refreshed from thier journey with
+food and wine. At the moment the hall is empty but you hear voices to the
+north.
+~
+182 12 0
+D1
+~
+~
+0 0 18268
+D2
+~
+Jade Inlayed Doors~
+1 0 18267
+D6
+~
+~
+2 0 18275
+S
+#18270
+Mahn-Tor is the Great City of Trolls~
+Wrong.
+~
+182 2 0
+S
+#18271
+The Black Lotus Thieves Guild has 4 Circles~
+Wrong.
+~
+182 2 0
+S
+#18272
+The Abyss is only reachable by ship and teleport~
+Apparently you have chosen the correct answer.  You pass through the door
+into another room and walk down a short flight of stairs.  The room
+is very ordinary and you decide to continue on.
+~
+182 41 0
+D5
+~
+~
+0 0 18274
+S
+#18273
+Tiamat is guarded by 6 fierce dragons~
+Wrong.
+~
+182 2 0
+S
+#18274
+Leaving the Second Trial~
+You have completed the trial.  A small arrow points to a key lying on the
+ground in front of you.  A small message lets you know that you will need
+this key to progress in the trials.  There is also a large portal that
+looks as if it leads back to the entrance to the trials.
+~
+182 393256 0
+D4
+~
+~
+0 0 18272
+D5
+~
+~
+0 0 18250
+S
+#18275
+The Council of Lim~
+   As you enter the council room your eyes strain to take in all the 
+grandeur of this place. Dominating the room is a jet black table that forms
+a half circle. It seems that the table comes straight out of the floor as
+you can see no beginning or end to it. Around the table are seven chairs
+made of a fabric you have never seen before. The room is filled with 
+candles which illuminate the entire room. You stand in the center of the
+room which is where guests of the council come to ask for help in many
+matters. At the moment the council is not meeting and it's members walk
+around the chamber discussing matters pertaining to the guild. Some of the
+members eye you suspiciously since they are usually informed about all the
+visitors to the council.
+~
+182 8 0
+D0
+~
+~
+0 0 18276
+D7
+~
+~
+0 0 18268
+D8
+~
+~
+0 0 18269
+S
+#18276
+The Dais of Lim~
+   As you approach the dais you realize the importance of whoever sits upon
+the throne that lies before you. Ornate rugs and tapastries line the floors
+and walls. Interwoven gold candle stands provide enough light to enough
+light to make it seem like midday even without sunlight. The throne itself
+seems to be one with the floor as if the rock acutally knew it would
+someday become a throne. Lions carved into the black rock arms of the throne
+stare at you with emerald eyes that seems to glow with an eerie presence. The
+raised dais also gives whoever is sitting on the throne a commanding view
+of the council before him, which he no doubt uses to his advantage.
+~
+182 9 0
+D0
+~
+Wall~
+1 0 18277
+D1
+~
+~
+0 0 18280
+D2
+~
+~
+0 0 18275
+D3
+~
+~
+0 0 18279
+S
+#18277
+The Chambers of Lim~
+   This is the chamber of the grand master, Lim. All around the room is
+lavish furniture as well as painting and bookshelves. Some of the book-
+shelves are filled with scrolls and other parchments as there is no shortage
+of books either. It is said that Lim has a passion for aquiring knowledge
+and has spend much of his life in search of it. Light enters the room 
+through a doorway that leads out to a balcony which illuminates the room
+just enough to make out the wood carved statues at that are placed
+sporatically about the room.
+~
+182 9 0
+D0
+~
+~
+0 0 18285
+D1
+~
+~
+0 0 18283
+D2
+~
+Wall~
+1 0 18276
+D5
+~
+~
+0 0 18278
+S
+#18278
+A Stone Stairwell~
+   You are in a small stone spiral staircase. Torches provide enough light
+so you can see your next few steps but not much more. You feel a small
+draft as warm air rises from what ever is below. As you continue, you also
+notice a small door on the side of the stairwell that looks like it is
+rarely used.
+~
+182 13 0
+D2
+~
+Wall~
+1 18234 18261
+D4
+~
+~
+0 0 18277
+D5
+~
+~
+0 0 18288
+S
+#18279
+A Dimly Lit Corridor~
+   You pass through a small, dimly lit corridor that leads off from the
+large stone platform of the dais. At first all seems ordinary until
+your mind finally pieces together what seems so odd, that your boots
+make no sound on the floor as you walk. Even dropping a coin you have
+in you pocket brings silence to your ears, as if it had been dropped
+on a silk maruvian pillow. You have heard stories of king with rooms
+that swallow up their conversations of secret dealings and you believe
+this room must be very similar to that. Two members of the council
+stand no very far off from you discussing matters of the coucil yet
+you cannot catch a word of what they are talking about. It is now
+that you think to yourself that this room serves it purpose well.
+~
+182 40 0
+D1
+~
+~
+0 0 18276
+D8
+~
+~
+0 0 18281
+D9
+~
+~
+0 0 18282
+S
+#18280
+A Dimly Lit Corridor~
+   You pass through a small, dimly lit corridor that leads off from the
+large stone platform of the dais. At first all seems ordinary until
+your mind finally pieces together what seems so odd, that your boots
+make no sound on the floor as you walk. Even droping a coin you have
+in you pocket brings silence to your ears, as if it had been dropped
+on a silk maruvian pillow. You have heard stories of king with rooms
+that swallow up thier conversations of secret dealings and you believe
+this room must be very similar to that. Two members of the council
+stand no very far off from you discussing matters of the coucil yet
+you cannot catch a word of what they are talking about. It is now
+that you think to yourself that this room serves it purpose well.
+~
+182 40 0
+D3
+~
+~
+0 0 18276
+D8
+~
+~
+0 0 18275
+S
+#18281
+Council Ante Room~
+   As you enter this room you are suddenly caressed with the gentle smell
+of burning incense. Low sofas and large pillows fill the room as large
+mirrors give the impression of infinite space. Food and wine are to be
+found on almost every flat surface in this room. The council members use
+this room to relax and congregate in when the council is not meeting.
+~
+182 8 0
+D1
+~
+~
+0 0 18275
+D6
+~
+~
+0 0 18279
+S
+#18282
+Room of Portals~
+   Suddenly you are standing on a platform that seems to be floating in the
+clouds. You stagger as strong winds blow clouds past your feet. In the
+middle of the platform is a small stone pillar which seems to have some
+sort of engravings on it. At the edge of the platform, placed at even 
+intervals from each other, are ovals that seem to pear into different worlds
+. One seems to be a forest while another is a temple containing many people.
+You turn around and see the portal you just stepped through leads back to
+the hallway from which you came and you think it might be a good idea to 
+return there.
+~
+182 12 0
+D0
+~
+~
+0 0 3001
+D1
+~
+~
+0 0 18221
+D3
+~
+~
+0 0 18200
+D7
+~
+~
+0 0 18279
+S
+#18283
+A Stairwell~
+   A small metal staircase appears to lead to the top of the tower judging
+from the sunlight that shines down it. A light breeze brings the smells
+of the valley into the stairwell and you figure this must cool off the 
+council chambers in the summer.
+~
+182 8 0
+D3
+~
+~
+0 0 18277
+D4
+You dont see anything in front of you yet when you attempt to pass, an
+invisible wall blocks you way.  You see no way around it and don't even see
+any sort of keyhole.
+~
+Energy Field~
+2 18234 18284
+S
+#18284
+Top of the Tower~
+   As you exit the stairwell you appear to be at the top of the tower.
+Blue skies overhead are accompanied with a strong, gusting wind. The top of
+the tower is flat with large stone railings. To the west you can make out
+the outline of an object but really cant tell what it is from here. However
+the view of the valley is incredible from this vantage point as you can see
+for miles in all directions.
+~
+182 128 1
+D3
+~
+~
+0 0 18287
+D5
+~
+Energy Field~
+2 18234 18283
+S
+#18285
+A Balcony~
+   As you step out on the balcony you realize that you walked through some
+sort of energy field. It is quit windy out here yet there was not the 
+slightest bit of a draft in Lim's chambers despite the wide open doors.
+Thealcony itself is quite large with an assortment of equipment laying
+about. Several telescopes point to the stars as large tables who someones
+effort to map them onto parchment. As you look over the balcony you can see 
+the stream of peasants that move about below and realize just how far up
+you are. However, this balcony also presents a magnificent view of the
+surrounding woods and fields and you can see for miles to the north.
+~
+182 0 0
+D0
+~
+~
+0 0 18286
+D2
+~
+~
+0 0 18277
+S
+#18286
+Jumping Off the Balcony....~
+   You step off the balcony and realize what a bad idea that was.
+However, you do have some time to ponder any last questions you might
+have had about life as you plummet to your death.  Then you hit the ground.
+~
+182 6 0
+D1
+~
+~
+0 0 18229
+D3
+~
+~
+0 0 18227
+S
+#18287
+Altar of Storms~
+   You appear to have reached the apex of the tower as you look up at the
+sky overhead. You see no reason why anyone would be up here until your
+eyes come to rest on the huge white dragon sitting atop an equally large
+granite altar. Stepping back you mind is filled with the rush of stories
+of great dragons and how they could destroy entire village with one 
+sweep of thier destructive breath. You only comfort comes in the knowledge
+that white dragons are mostly peaceful or so the stories say. Just as this
+thought leaves your mind, the dragon rises and turns to confront you.
+~
+182 393216 0
+D1
+~
+~
+0 0 18284
+S
+#18288
+Lim's Laboratory~
+   Potions of green, purple, and red smoke in some sort of elaborate 
+experiment going on atop a large table in the center of of this room.
+The shelves that cover every wall in this room are packed full of
+chemicals and herbs. There is also a definate stink to this room, no doubt
+from all the chemicals being mixed here. This is apparently where the 
+clerics of the guild or more specifically, Lim, makes his legendary potions
+of healing. Looking around some more you decide it would be best not to
+touch anything.
+~
+182 41 0
+D0
+~
+~
+0 0 18296
+D2
+~
+Bookshelf~
+2 18213 18293
+D4
+~
+~
+0 0 18278
+S
+#18289
+A Copse of Trees~
+   As you enter this small copse of trees you realize that the air here
+is much cooler than the field to the south. The gentle slope of the 
+underbrush laden forest floor provides a perfect place to stop and rest
+for a few moments.  It is only when you sit to rest that you realize that
+there seems to be something covered by the leaves and dirt that you are
+sitting on.
+~
+182 0 0
+D2
+~
+~
+0 0 18207
+D5
+~
+Forest Floor~
+1 0 18290
+S
+#18290
+A Tunnel~
+   You proceed down a ladder after opening the wooden hatch into a
+sizeable tunnel. Only light from the forest above shines through the
+hatch opening.  You realize that you are completely surrounded dirt and
+wonder how safe this tunnel really is.  As you look farther down the
+tunnel the light dims until there is only blackness. As the wooden hatch
+closes behind you all light there was is now gone, leaving you to only
+you light sources. You think that this tunnel was abandoned long ago and
+for good reason...
+~
+182 45 0
+D4
+~
+Forest Floor~
+1 0 18289
+D6
+~
+~
+0 0 18291
+S
+#18291
+A Tunnel~
+   You continue along in the tunnel in pitch blackness. You can no longer
+see the end of the tunnel as empty blackness surrounds you on all sides.
+Only the mud floor reminds you that you are still on solid ground and you
+are very glad for that. If anything is down here you are very sure that
+you don't want to meet it.
+~
+182 41 0
+D0
+~
+~
+0 0 18292
+D8
+~
+~
+0 0 18290
+S
+#18292
+A Tunnel~
+   You continue along in the tunnel in pitch blackness. You can no longer
+see the end of the tunnel as empty blackness surrounds you on all sides.
+Only the mud floor reminds you that you are still on solid ground and you
+are very glad for that. If anything is down here you are very sure that
+you don't want to meet it.
+~
+182 41 0
+D0
+~
+~
+0 0 18293
+D1
+~
+~
+0 0 18294
+D2
+~
+~
+0 0 18291
+S
+#18293
+A Tunnel~
+   You continue along in the tunnel in pitch blackness. You can no longer
+see the end of the tunnel as empty blackness surrounds you on all sides.
+Only the mud floor reminds you that you are still on solid ground and you
+are very glad for that. If anything is down here you are very sure that
+you don't want to meet it.
+~
+182 41 0
+D0
+~
+Wall~
+2 18213 18288
+D2
+~
+~
+0 0 18292
+S
+#18294
+A Tunnel~
+   You continue along in the tunnel in pitch blackness. You can no longer
+see the end of the tunnel as empty blackness surrounds you on all sides.
+Only the mud floor reminds you that you are still on solid ground and you
+are very glad for that. If anything is down here you are very sure that
+you don't want to meet it.
+~
+182 41 0
+D1
+~
+~
+0 0 18295
+D3
+~
+~
+0 0 18292
+S
+#18295
+An Underground Room~
+   Entering a large chamber you are suddenly overcome by the foul stench
+of rotting flesh and decaying fecies. The carcass's are mainly mainly
+small animals, however, your light just barely illuminates the outline of
+a human skeleton. At the sight of this you decide you had better be on your
+guard. You decide your decision was a good one when several beasts converge
+on your position from all sides. Maybe if you defend yourself well you 
+won't end up like the pool soul who lies beneith you...
+~
+182 41 0
+D3
+~
+~
+0 0 18294
+S
+#18296
+Lim's Library~
+   This room is much like the one you came from just slightly larger and
+more shelves. However instead of chemicals and solutions these shelves are
+packed with books and tomes of all kinds. A table at the center of the room
+has several volumes of Rya's history of the borderlands open. You assume 
+with all the raids the Lim wants to find out all he can about the region. As
+you look back to the shelves of books you can't help but stand in awe at
+such a collection which has to be one of very few of such size in the land.
+~
+182 9 0
+D2
+~
+~
+0 0 18288
+S
+#18297
+Proteus's Leisure Lounge~
+You enter a small room that is well lit with halogen lamps at either end
+of the room.  A large couch as well as several lazyboy's are positioned
+in an optimal viewing position in front of the most kick ass entertainment
+system you have ever seen.  A refrigerator with a glass door shows a huge
+selection of choice domestic and imported beers.  You are also aware of
+the freshly made pizza sitting on the endtable with plenty of ranch sauce
+to accompany it.  As you realize that the Virginia Tech Hokie football is
+playing on the t.v., you decide that it might be nice to stay awhile and
+sample the luxuries of Proteus's Leisure lounge.
+~
+182 132172 0
+D5
+~
+~
+0 0 1
+S
+#18299
+Lim is a pantywaist~
+this is where Lim goes to flee.
+~
+182 393376 0
+S
+#99999
+$~

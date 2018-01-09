@@ -1,0 +1,1414 @@
+#30000
+At the foot of a large hill~
+   A clearing in the forest here reveals a well defined path at
+the foot of a large hill, the path weaves out of view into the hills
+which tower above you.  Small rocks clutter the path which makes
+it hard for you to walk.  To the south a path leads back into the
+dense forest.
+~
+300 0 4
+D4
+~
+~
+0 0 30001
+S
+#30001
+Up the hill~
+   The path heads around a steep face of the hill and disappears 
+out of sight.  From here you can see for miles across the land
+to the south.  You are careful not to slip on the rocky terrain
+as you walk the path.
+~
+300 0 4
+D3
+~
+~
+0 0 30002
+D5
+~
+~
+0 0 30000
+S
+#30002
+Tunnel Entrance~
+   The path ends here and cuts northward into a tunnel through
+the hillside.  The walls and roof of the tunnel have been shored
+using thick wooden beams.  Beneath you a steep slope stretches to
+the dense forest which carpets the foothills.  A refreshing breeze
+swoops the hillside causing small whisps of dust from the dry
+path to be blown into your face.
+~
+300 0 4
+D0
+~
+~
+0 0 30003
+D1
+~
+~
+0 0 30001
+S
+#30003
+Along the tunnel~
+   The tunnel is dark and musty smelling as you hear a constant
+drip of water that falls from the ceiling and collects in the 
+stagnant pools around your feet.  The air is still and nothing
+can be heard but the tapping of your own feet on the cold stone
+floor.
+~
+300 257 0
+D0
+~
+~
+0 0 30004
+D2
+~
+~
+0 0 30002
+S
+#30004
+Along the tunnel~
+   The tunnel is dark and musty smelling as you hear a constant
+drip of water that falls from the ceiling and collects in the 
+stagnant pools around your feet.  The air is still and nothing
+can be heard but the tapping of your own feet on the cold stone
+floor.
+~
+300 257 0
+D0
+~
+~
+0 0 30005
+D2
+~
+~
+0 0 30003
+S
+#30005
+Atop the stairway~
+   A large set of stone stairs leads the tunnel downwards.  The stairs
+have been dug into the earth and each step layered with thick granite slabs.
+Small wooden stakes are hammered in front of each slab to keep them in 
+place.  Water trickles down the stairs in a steady stream, making the
+granite steps slick and hazardous to climb.
+~
+300 257 0
+D2
+~
+~
+0 0 30004
+D5
+~
+~
+0 0 30006
+S
+#30006
+At the foot of a large stone stairway~
+   A large set of stone stairs leads the tunnel upwards.  The stairs
+have been dug into the earth and each step layered with thick granite slabs.
+Small wooden stakes are hammered in front of each slab to keep them in 
+place.  Water trickles down the stairs in a steady stream, making the
+granite steps slick and hazardous to climb.
+~
+300 289 0
+D0
+~
+~
+0 0 30007
+D4
+~
+~
+0 0 30005
+S
+#30007
+A fork in the tunnel~
+   The tunnel is dark and musty smelling as you hear a constant
+drip of water that falls from the ceiling and collects in the 
+stagnant pools around your feet.  The air is still and nothing
+can be heard but the tapping of your own feet on the cold stone
+floor.  A dark, unwelcoming fork of the tunnel leads to the
+west here, the main tunnel continues north.
+~
+300 289 0
+D0
+~
+~
+0 0 30008
+D2
+~
+~
+0 0 30006
+D3
+~
+~
+0 0 30011
+S
+#30008
+Along the tunnel~
+   The tunnel is dark and musty smelling as you hear a constant
+drip of water that falls from the ceiling and collects in the 
+stagnant pools around your feet.  The air is still and nothing
+can be heard but the tapping of your own feet on the cold stone
+floor.  A warm breeze floods past you from from the north.
+~
+300 289 0
+D0
+~
+~
+0 0 30012
+D2
+~
+~
+0 0 30007
+S
+#30009
+A large well~
+   This seems to be the end of this tunnel, in which stands an abandoned
+well. The well has a rusty iron ladder down one side.  Around the top of the
+well has been built a short stone wall, here it seems to prevent accidents.
+Looking into the well you cannot see the bottom, only the old, rusty ladder
+which is fastened to its inside.
+~
+300 289 0
+D1
+~
+~
+0 0 30011
+D5
+A rusty old ladder leads downward into the well.
+~
+~
+0 0 30010
+S
+#30010
+The VERY fast way down a large well~
+   As you climb down the rusty iron ladder, one of the rungs gives 
+way and you lose your footing, your hands slip and you fall to your
+death down the well.
+      Whoops!
+~
+300 290 0
+S
+#30011
+Along the tunnel~
+   The tunnel is dark and musty smelling as you hear a constant
+drip of water that falls from the ceiling and collects in the 
+stagnant pools around your feet.  The air is still and nothing
+can be heard but the tapping of your own feet on the cold stone
+floor.
+~
+300 289 0
+D1
+~
+~
+0 0 30007
+D3
+~
+~
+0 0 30009
+S
+#30012
+At the tunnels end~
+  The narrow dark tunnel opens up here into a small cave.  To the
+north you can here machinery and the busy sound of people rushing
+about.  The cave you are in now is lit by a large oil fired lamp
+which hangs from the roof.  To the north the small cave opens up into
+a huge cavern, filled with huts and buildings.
+~
+300 45 0
+D0
+~
+~
+0 0 30013
+D2
+~
+~
+0 0 30008
+S
+#30013
+A T-Junction in the track~
+   Verlan miners scurry back to there homes after finishing a hard
+shift.  Large oil fired lamps light the whole cavern.  A dusty track
+leads to the west, small huts on either side. To the north the cavern
+becomes large.  This whole community of miners appears to be living
+in this enormous underground cavern.  To the south a small cave leads
+into a dark tunnel.
+~
+300 9 0
+D0
+~
+~
+0 0 30032
+D1
+~
+~
+0 0 30031
+D2
+~
+~
+0 0 30012
+D3
+~
+~
+0 0 30014
+S
+#30014
+Cyclade Alley~
+   This is a curved road which appears to travel the perimeter of 
+the mine.  Small caves have been cut into the cavern wall to one 
+side of this road, and on the other workers huts have been built 
+supposedly to house the miners.
+~
+300 8 0
+D0
+~
+~
+0 0 30016
+D1
+~
+~
+0 0 30013
+D3
+~
+~
+0 0 30015
+S
+#30015
+Cyclade Alley~
+   This is a curved road which appears to travel the perimeter of 
+the mine.  Small caves have been cut into the cavern wall to one 
+side of this road, and on the other workers huts have been built 
+supposedly to house the miners.
+~
+300 8 0
+D1
+~
+~
+0 0 30014
+D3
+~
+~
+0 0 30018
+S
+#30016
+A small miners hut~
+   On one side is a table and fire, and to the other there is
+a small bed covered in soft linen.  The hard stone floor of the hut
+been concealed with a dark red and blue rug.  On the walls hang two
+small oil lanterns which cast a flickering light over the room.
+~
+300 8 0
+D2
+~
+~
+0 0 30014
+S
+#30017
+A miners cave~
+   This seems to be the kitchin area of a small miners cave.
+A wooden table sits in the centre of the room on which stands
+a sweet smelling cooked leg of beef ready for carving.  Against
+the western wall of the room stands a tall grandfather clock,
+ticking steadily.  To the west a small doorway leads into
+another room.
+~
+300 8 0
+D0
+~
+~
+0 0 30018
+D1
+~
+~
+0 0 30039
+S
+#30018
+Cyclade Alley~
+   This is a curved road which appears to travel the perimeter of 
+the mine.  Small caves have been cut into the cavern wall to one 
+side of this road, and on the other workers huts have been built 
+supposedly to house the miners.
+~
+300 8 0
+D0
+~
+~
+0 0 30019
+D1
+~
+~
+0 0 30015
+D2
+~
+~
+0 0 30017
+S
+#30019
+Cyclade Alley~
+   This is a curved road which appears to travel the perimeter of 
+the mine.  Small caves have been cut into the cavern wall to one 
+side of this road, and on the other workers huts have been built 
+supposedly to house the miners.
+~
+300 8 0
+D0
+~
+~
+0 0 30020
+D2
+~
+~
+0 0 30018
+S
+#30020
+Cyclade Alley~
+   This is a curved road which appears to travel the perimeter of 
+the mine.  Small caves have been cut into the cavern wall to one 
+side of this road, and on the other workers huts have been built 
+supposedly to house the miners.
+~
+300 8 0
+D0
+~
+~
+0 0 30021
+D2
+~
+~
+0 0 30019
+D3
+~
+~
+0 0 30040
+S
+#30021
+Cyclade Alley~
+   This is a curved road which appears to travel the perimeter of 
+the mine.  Small caves have been cut into the cavern wall to one 
+side of this road, and on the other workers huts have been built 
+supposedly to house the miners.
+~
+300 8 0
+D1
+~
+~
+0 0 30022
+D2
+~
+~
+0 0 30020
+S
+#30022
+Cyclade Alley~
+   This is a curved road which appears to travel the perimeter of 
+the mine.  Small caves have been cut into the cavern wall to one 
+side of this road, and on the other workers huts have been built 
+supposedly to house the miners.
+~
+300 8 0
+D1
+~
+~
+0 0 30023
+D3
+~
+~
+0 0 30021
+S
+#30023
+A T-Junction~
+   This is the centre of a well defined T-junction, the road south
+heads towards the entrance to the sapphire mines and into the centre of
+mining encampment.  To the east a narrow cobblestone lane follows around
+the eastern side of the huge cavern into which Verla has been built.
+~
+300 8 0
+D1
+~
+~
+0 0 30024
+D2
+~
+~
+0 0 30035
+D3
+~
+~
+0 0 30022
+S
+#30024
+Stanery Street~
+   This is a cobblestone road leading around the edge of the
+mines.  To the west you can see a T-Junction, the cobberly road 
+continues south from here.  There is a faint breeze coming from
+south but the air is still musty.
+~
+300 8 0
+D2
+~
+~
+0 0 30025
+D3
+~
+~
+0 0 30023
+S
+#30025
+Stanery Street~
+   This is a cobblestone road leading around the edge of the
+mines.  To the west you can see a T-Junction, the cobberly road 
+continues south from here.  There is a faint breeze coming from
+south but the air is still musty.
+~
+300 8 0
+D0
+~
+~
+0 0 30024
+D1
+~
+~
+0 0 30026
+S
+#30026
+Stanery Street~
+   This is a cobblestone road leading around the edge of the
+mines.  To the west you can see a T-Junction, the cobberly road 
+continues south from here.  There is a faint breeze coming from
+south but the air is still musty.
+~
+300 8 0
+D2
+~
+~
+0 0 30027
+D3
+~
+~
+0 0 30025
+S
+#30027
+Stanery Street~
+   This is a cobblestone road leading around the edge of the mine.
+A little way to the north the road turns to the left around the
+side of some small makeshift houses.  To your south the roof of the
+cavern becomes lower.  On the western side of the road stands a
+small wooden building.
+~
+300 0 0
+D0
+~
+~
+0 0 30026
+D2
+~
+~
+0 0 30028
+D3
+~
+~
+0 0 30041
+S
+#30028
+Approaching the overhang~
+   This is a cobblestone road leading around the edge of the
+mines.  To the west you can see a T-Junction, the cobberly road 
+continues south from here.  There is a faint breeze coming from
+south but the air is still musty.  Northward the road continues
+around the edge of the mines, passing a small, but posh looking
+wooden building.
+~
+300 8 0
+D0
+~
+~
+0 0 30027
+D1
+~
+~
+0 0 30029
+S
+#30029
+Under the Overhang~
+   The rock is damp with condensation and moss grows on the walls.
+Large oil lanterns on the walls produce adequate light to see.
+Above you a large overhang lurks, from which drips of water fall
+and splash onto the ground below.
+~
+300 8 0
+D2
+~
+~
+0 0 30030
+D3
+~
+~
+0 0 30028
+S
+#30030
+A small wooden bridge under the overhang~
+   The rock is damp with condensation and moss grows on the walls.
+Large oil lanterns on the walls produce adequate light to see.
+Above you a large overhang lurks, from which drips of water fall
+and splash onto the ground below.  You stand on a wooden bridge
+that crosses a small stream as it emerges from a crack in the
+cavern wall.  The stream babbles under the bridge and flows of
+between the buildings.
+~
+300 8 0
+D0
+~
+~
+0 0 30029
+D2
+~
+~
+0 0 30031
+S
+#30031
+Approaching the overhang~
+   This is the path which leads around the eastern side of the mining
+community.  The path has become narrower and less used here.  To
+your west is a T-junction.  To the north the road cuts under a large
+overhang across a small wooden bridge.
+~
+300 8 0
+D0
+~
+~
+0 0 30030
+D3
+~
+~
+0 0 30013
+S
+#30032
+Verla Street~
+   The road is dusty and bare.  Small inescts scurry around on
+the floor past your feet.  This appears to be the main road through the
+mining encampment which houses the community of miners who slog all
+day in the hot sapphire mines of Verla.
+~
+300 8 0
+D0
+~
+~
+0 0 30043
+D2
+~
+~
+0 0 30013
+D3
+~
+~
+0 0 30033
+S
+#30033
+Verla Street~
+   The road is dusty and bare.  Small inescts scurry around on
+the floor past your feet.  This appears to be the main road through the
+mining encampment which houses the community of miners who slog all
+day in the hot sapphire mines of Verla.
+~
+300 8 0
+D0
+~
+~
+0 0 30034
+D1
+~
+~
+0 0 30032
+S
+#30034
+Verla Street~
+   The road is dusty and bare.  Small inescts scurry around on
+the floor past your feet.  This appears to be the main road through the
+mining encampment which houses the community of miners who slog all
+day in the hot sapphire mines of Verla.
+~
+300 8 0
+D2
+~
+~
+0 0 30033
+D3
+~
+~
+0 0 30035
+S
+#30035
+Verla Street~
+   The road is dusty and bare.  Small inescts scurry around on
+the floor past your feet.  This appears to be the main road through the
+mining encampment which houses the community of miners who slog all
+day in the hot sapphire mines of Verla.  To the west a dusty
+road heads towards the entrance of the sapphire mines.
+~
+300 8 0
+D0
+~
+~
+0 0 30023
+D1
+~
+~
+0 0 30034
+D3
+~
+~
+0 0 30036
+S
+#30036
+The road to Verla Mines~
+   Miners scurry past on there way to and from work.  You can
+see the entrance building to the mines south of here and to the
+east you can see the T-junction.  The ground here is dusty and dry,
+small insects scurry along on the ground into narrow crevices in
+the caverns floor.
+~
+300 8 0
+D1
+~
+~
+0 0 30035
+D2
+~
+~
+0 0 30037
+S
+#30037
+The entrance to Verla Mines~
+   This appears to be the entrance building to the mines.  It is
+a large wooden building which has been built on top of the entrance.
+Ahead of you there is ladder leading down into the mines,  it is
+blocked with a metal grating which appears to be locked.  The room
+is cluttered with desks and papers.  A large sapphire in a cabinet
+is on show here.
+~
+300 8 0
+D0
+~
+~
+0 0 30036
+D5
+~
+grating~
+2 30006 30038
+S
+#30038
+Descending the ladder~
+   The ladder is secure and you climb down quickly. Light shines
+down from the building above and you can just make out the bottom
+of the ladder.  The ladder well is almost silent except for the
+occasional drip of water from the damp walls to the floor below.
+~
+300 13 13
+D4
+~
+grating~
+2 30006 30037
+D5
+~
+~
+0 0 30044
+S
+#30039
+The Veteran's Bedroom~
+   There is a small log fire burning in the northern side of
+this room.  By the fire is a wooden rocking chair padded with
+thick animal furs.  A large oil fired lamp hangs in the centre
+of the room casting a dull, flickering light.  Against the
+eastern wall stands a comfortable looking bed.  A small oak
+door leads through the southern wall.
+~
+300 8 0
+D2
+~
+oak door~
+1 0 30099
+D3
+~
+~
+0 0 30017
+S
+#30040
+An empty hut~
+   This room appears to be empty, the walls are bare and cold, small
+scraps of wood has been piled against one wall.  There is condensation
+on the walls.
+~
+300 8 0
+D1
+~
+~
+0 0 30020
+S
+#30041
+A small wooden house~
+   This seems to be the main kitchen and dining area of this large
+house.  Along the western wall stands a wide wooden food preperation
+area on which sit all kinds of food from chicken to fine desserts.
+In the centre of the room is a long wooden table made from oak.
+A small window in the western wall allows you to see out across
+the mining community.
+~
+300 12 0
+D0
+~
+~
+0 0 30042
+D1
+~
+~
+0 0 30027
+S
+#30042
+The cosy lounge~
+   The most promenant feature of the room is the small wood burner
+which stands against the western wall emiting a warm glow.  The
+ceiling of the room is quite low which gives makes it feel cosy.
+Two large armchairs are sat by the fire and a wooden bureau with
+a stall against the eastern wall.
+~
+300 8 0
+D2
+~
+~
+0 0 30041
+S
+#30043
+The gemstone cutter's workshop~
+   This is a small stone walled room.  Oil lanterns have been
+fixed to the walls which produce a shimmering light across the
+room.  On every side of the room large wooden cabinets and worktops
+have been placed.  In the centre is a wide oak table which is
+covered in sharp cutting tools and complex machinery.  A small
+leads out the eastern side of the room into a dark backroom.
+~
+300 12 0
+D1
+~
+wooden door~
+1 0 30075
+D2
+~
+~
+0 0 30032
+S
+#30044
+The foot of the ladder~
+   Above you a small metal ladder heads upwards out of the mines.  The
+bottom rungs appears slippering and dangerous.  This narrow tunnel heads
+in two directions from here, eastward the tunnel is dark and damp, however
+southward a drier tunnel, lit by small oil fired lamps on the walls emits
+warm gusts of air and a perculiar roaring sound.
+~
+300 12 13
+D1
+~
+~
+0 0 30045
+D2
+~
+~
+0 0 30054
+D4
+~
+~
+0 0 30038
+S
+#30045
+Along a dark passage~
+   The passage is wet and cold, it is unlit and you find it 
+hard to see the way.  You can here a distant rumbling from
+the west.  All around you water droplets drip from the ceiling
+and land with a quiet splash on the floor of the passage.  To
+the eastern end of the passage a dim flickering light emits.
+~
+300 8 0
+D1
+~
+~
+0 0 30046
+D3
+~
+~
+0 0 30044
+S
+#30046
+Along a dark passage~
+   The passage is wet and cold, it is unlit and you find it 
+hard to see the way.  You can here a distant rumbling from
+the west.  All around you water droplets drip from the ceiling
+and land with a quiet splash on the floor of the passage.  To
+the eastern end of the passage a dim flickering light emits.
+~
+300 8 0
+D1
+~
+~
+0 0 30047
+D3
+~
+~
+0 0 30045
+S
+#30047
+Along a dark passage~
+   The passage is wet and cold, it is unlit and you find it 
+hard to see the way.  You can here a distant rumbling from
+the west.  All around you water droplets drip from the ceiling
+and land with a quiet splash on the floor of the passage.  To
+the eastern end of the passage a dim flickering light emits.
+~
+300 8 0
+D0
+~
+~
+0 0 30048
+D3
+~
+~
+0 0 30046
+S
+#30048
+Along a dark passage~
+   The passage is wet and cold, it is unlit and you find it 
+hard to see the way.  You can here a distant rumbling from
+the west.  All around you water droplets drip from the ceiling
+and land with a quiet splash on the floor of the passage.  To
+the eastern end of the passage a dim flickering light emits.
+~
+300 8 0
+D1
+~
+~
+0 0 30049
+D2
+~
+~
+0 0 30047
+S
+#30049
+Guard room~
+   A table is here with a small wooden chair behind it.  This 
+is the entrance guard room to Verla Prison.  A light hanging from
+the roof emits a faint glow.  A large wooden desk with a chair
+stood behind it stands alongside the southern wall of the room.
+~
+300 32776 0
+D0
+~
+large steel door~
+1 0 30050
+D3
+~
+~
+0 0 30048
+S
+#30050
+Central prison chamber~
+   This is the centre of the prison area.  Three sides of here 
+are prison cells holding evil from the innocent citizens of 
+Verla.  All three cell doors are a solid plate of steel, each
+with a large bolt and a key hole about half way up the door.
+~
+300 32776 0
+D0
+~
+large steel door north~
+2 30010 30052
+D1
+~
+large steel door east~
+2 30010 30053
+D2
+~
+large steel door~
+1 0 30049
+D3
+~
+large steel door west~
+2 30010 30051
+S
+#30051
+Artisk's prison cell~
+   The prison cell has dark, damp walls. It is lit by a 
+single candle on an oak bench along the back wall of the cell.
+A few flasks of fizzing colourful liquid also stand on the
+bunch.  A door leads out to the east into a central chamber.
+~
+300 32777 0
+D1
+~
+large steel door west~
+2 30010 30050
+S
+#30052
+Destel's prison cell~
+   A long bed stretches along one wall of the cell.  The walls
+have been decorated with trophies and stuff animal heads.
+The prison cell has dark, damp walls. It is lit by a single 
+candle on an oak bench along the back wall of the cell.
+~
+300 32777 0
+D2
+~
+large steel door north~
+2 30010 30050
+S
+#30053
+An empty prison cell~
+   The prison cell has dark, damp walls. It is lit by a single 
+candle on an oak bench along the back wall of the cell.  The
+room is bare and unoccupied.  A long wooden bench has been put
+along the eastern wall of the cell.
+~
+300 32777 0
+D3
+~
+large steel door~
+2 30010 30050
+S
+#30054
+A lamp lit tunnel~
+   Small oil fired lamps are attached to the wall of this dry, warm
+passage.  From the south a warm breeze of air flows and a low roaring
+sound can be heard.  Past your feet the occasional cockroach scurries
+looking for scraps of food which may have been dropped by the miners.
+~
+300 264 0
+D0
+~
+~
+0 0 30044
+D2
+~
+~
+0 0 30055
+S
+#30055
+A lamp lit tunnel~
+   Small oil fired lamps are attached to the wall of this dry, warm
+passage.  From the west a warm breeze of air flows and a low roaring
+sound can be heard.  Past your feet the occasional cockroach scurries
+looking for scraps of food which may have been dropped by the miners.
+~
+300 264 0
+D0
+~
+~
+0 0 30054
+D3
+~
+~
+0 0 30056
+S
+#30056
+Atop a large rope ladder~
+   Small oil fired lamps are attached to the wall of this dry, warm
+passage. From below you a warm breeze of air flows and a low roaring
+sound can be heard.  Past your feet the occasional cockroach scurries
+looking for scraps of food which may have been dropped by the miners.
+A sturdy looking rope ladder heads down the passage from here.
+~
+300 264 13
+D1
+~
+~
+0 0 30055
+D5
+~
+~
+0 0 30057
+S
+#30057
+At the bottom of a rope ladder~
+   The rope ladder climbs up into the rocks above you.  This area 
+is very warm.  To the west you see a large wooden bridge which 
+appears to be crossing a lava flow deep in the hills.  This lava 
+flow is the source of the heat in the air.
+~
+300 256 0
+D3
+~
+~
+0 0 30058
+D4
+~
+~
+0 0 30056
+S
+#30058
+A rickerty wooden bridge over the lava flow~
+   The wooden bridge crosses over the hot lava flow.  You can 
+feel the intense heat from below as you cross the bridge.  As 
+you look down at the lava you ocassionally see the crust 
+bubbling and belches out hot sulphurous gases.
+~
+300 4 0
+D1
+~
+~
+0 0 30057
+D3
+~
+~
+0 0 30059
+D5
+Below the bridge the molten lava bubbles and pops.
+~
+~
+0 0 30076
+S
+#30059
+Entering the mining tunnels~
+   From here you can make out a fork in the tunnel ahead.  The hot
+air and roaring noise of the lava flow beneith the bridge to the
+east can still be felt hot on your face and heard loud in your
+ears.  Around your feet scurry small creatures including furry rats
+and shiny armored cockroaches.
+~
+300 268 0
+D1
+~
+~
+0 0 30058
+D3
+~
+~
+0 0 30060
+S
+#30060
+A split in the tunnel~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.  The tunnel splits here and heads in two directions.
+~
+300 264 0
+D0
+~
+~
+0 0 30068
+D1
+~
+~
+0 0 30059
+D2
+~
+~
+0 0 30061
+S
+#30061
+A split in the tunnel~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.  The tunnel splits here and heads in two directions.
+~
+300 264 0
+D0
+~
+~
+0 0 30060
+D2
+~
+~
+0 0 30062
+D3
+~
+~
+0 0 30065
+S
+#30062
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D0
+~
+~
+0 0 30061
+D2
+~
+~
+0 0 30063
+S
+#30063
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D0
+~
+~
+0 0 30062
+D2
+~
+~
+0 0 30064
+S
+#30064
+The end of an adit~
+   Reaching a dead end in one of the mining adits you pause for
+a while and take a look around.  Verlan miners have been hard at
+work here chipping away at the walls in search of precious sapphires.
+However, this area of the mine appears to be exhausted.  The tunnels
+are lit by small oil fired lanterns fastened on the walls.
+~
+300 264 0
+D0
+~
+~
+0 0 30063
+S
+#30065
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D1
+~
+~
+0 0 30061
+D3
+~
+~
+0 0 30066
+S
+#30066
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D1
+~
+~
+0 0 30065
+D2
+~
+~
+0 0 30067
+S
+#30067
+The end of an adit~
+   Reaching a dead end in one of the mining adits you pause for
+a while and take a look around.  Verlan miners have been hard at
+work here chipping away at the walls in search of precious sapphires.
+However, this area of the mine appears to be exhausted.  The tunnels
+are lit by small oil fired lanterns fastened on the walls.
+~
+300 264 0
+D0
+~
+~
+0 0 30066
+S
+#30068
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D2
+~
+~
+0 0 30060
+D3
+~
+~
+0 0 30069
+S
+#30069
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D0
+~
+~
+0 0 30070
+D1
+~
+~
+0 0 30068
+S
+#30070
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D2
+~
+~
+0 0 30069
+D3
+~
+~
+0 0 30071
+S
+#30071
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D1
+~
+~
+0 0 30070
+D2
+~
+~
+0 0 30072
+S
+#30072
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D0
+~
+~
+0 0 30071
+D2
+~
+~
+0 0 30073
+S
+#30073
+Deeper into the mines~
+   The tunnel walls have been chipped and battered here by miners
+in search of precious sapphires.  The tunnel is lit by small oil
+fired lanterns on the walls which cast a flickering light, causing
+the loose fragments of sapphire amoungst the rubble on the ground
+to cast a faint sparkling blue light around the tunnel. Past your
+feet scurry small rodents and cockroaches looking for the miners
+scraps of food.
+~
+300 264 0
+D0
+~
+~
+0 0 30072
+D3
+~
+~
+0 0 30074
+S
+#30074
+The end of the mines~
+   This appears to be the deepest point of the mines. Verlan miners 
+are here hurrily trying to pick away at the walls before they 
+become the victim of another hard strike from Sapho, the Captain 
+of the mines.  There is little oxygen left in the mines at this 
+point and you find it harder to breathe.
+~
+300 264 0
+D1
+~
+~
+0 0 30073
+S
+#30075
+A dark backroom~
+   This appears to be the bedroom and living area for the
+man who works in the gemstone cutter's.  Against the northern
+wall is a small wooden bed.  On the table which stands next to
+the bed a large finely crafted sapphire gemstone stands in a
+secure glass box.  A doorway leads east into the cutter's
+workshop.
+~
+300 9 0
+D3
+~
+wooden door~
+1 0 30043
+S
+#30076
+Burning up in the lava flow!~
+   As you climb down over the side of the wooden bridge
+which crosses the red hot lava flow, a burning spout of
+molten rock jets from beneith the lava crust.  You try to
+avoid the lava spurt but fail and become engulfed, you are
+scorched by the lava and lose your grip on the bridge, you
+fall into the molten lava flow where you become instantly
+combusted by the red hot molten rock.
+~
+300 10 0
+S
+#30099
+The Veteran's Study~
+   On one side is a little oak desk with papers on it and a small
+ink well in the top right hand corner.  There is a large rug
+on the floor.  The room is dark and just a few candles burn
+in one corner.
+~
+300 141 0
+D0
+~
+oak door~
+1 0 30039
+S
+#99999
+$~

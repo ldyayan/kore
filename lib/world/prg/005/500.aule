@@ -1,0 +1,15 @@
+>rand_prog 4~
+ if inroom($r) == here
+  if hitprcnt($r) < 100
+    mpechoat $r A ray of holy light shines down from $I and mends your wounds at its touch.
+    mpechoaround $r A ray of holy light shines down from $I and bathes $R in its warm glow.
+    mpcallmagic 'cure critical' $r
+    mpechoaround $r $R looks much better!
+  else
+    if rand(10)
+       mpecho $I seems to look down at you and smile.
+    endif
+  endif
+ endif
+~
+|

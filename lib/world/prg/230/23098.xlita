@@ -1,0 +1,74 @@
+>greet_prog 100~
+  if isscript($i)
+  or isfight($i)
+  or isnpc($n)
+  else
+  mptrigger $n hello
+  endif
+~
+>script_prog hello~
+  say What, who are you?
+  @
+  @
+  say Nevermind, I know who you are.
+  say Why are you here?
+  @
+  @
+  say Nevermind, I know that too.
+  say I fear I cannot help you, Terror would have me dead.
+  @
+  @
+  say But I do not sense Terror in any realm, have you banished him?
+  say Yes or No?
+~
+>speech_prog yes~
+  if isscript($i)
+  or isfight($i)
+  else  
+    say Did you bring the orb with you?
+    say Did you?
+    say GIVE IT TO ME! Please I beg of you.
+    say I will do anything I can to help.
+  endif
+~
+>speech_prog no~
+  say I fear I cannot help you then.
+~
+>give_prog orb~
+    mptrigger $n key-quest
+~
+>script_prog key-quest~
+  say Thank you, thank you...
+  mpecho $r unlocks the lock to his magical chains.
+  @
+  say Now I can leave this accursed place, but first your problem.
+  say We must return to the temple with great haste. 
+  mpcallmagic 'word of recall' all
+  mpsilent mpcallmagic 'word of recall'
+  @
+  say Vulmarta looks weak we must hurry.
+  @
+  @
+  mpecho I am ok...
+  @
+  emote takes a scroll from within his robe.
+  emote holds the scroll open above his head and begins to read.
+  @
+  @
+  @
+  emote is surrounded by a magical blue flame.
+  @
+  mpecho The flame quickly moves from Xlita to the spirit.
+  mpat cleaner mptrans 7777777
+  mpsilent mpmload 3011
+  mpecho There is a flash and everyone is thrown from the room.
+  mptransfer all nearby
+  mpasound The glowing radiance missing from the temple reappears.
+  @
+  @
+  gos It is done.
+  gos The Quest Is Over.
+  mpgoto cleaner
+~
+|
+

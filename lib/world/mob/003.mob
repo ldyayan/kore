@@ -1,0 +1,96 @@
+#300
+man master~
+the wizened old man~
+The wizened old man stands here looking old and tired.
+~
+You see a man who looks older than time.  He seems to have some strange power
+but he never actually moves.  It looks like he's been here for many, many years.
+As you peer at him he turns to face you and gestures for you to go up.  As you
+look above you there is a small exit in the top of the room.
+~
+24587 0 1000 S
+45 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#301
+dummy~
+the training dummy~
+An abused training dummy stands here, tired from hours of work.
+~
+The training dummy, while nearly inanimate, is obviously not dead.  As you look
+at it you can see it slowly taking air into some form of lungs.
+~
+10 0 0 S
+1 1 100 1d1+0 0d0+0
+0 20
+8 8 0
+#302
+deer~
+the deer~
+A young deer stands here nibbling on a sapling.
+~
+The deer looks to be one full year grown.  It doesn't appear too dangerous.
+~
+72 0 0 S
+2 1 100 1d1+0 0d0+0
+15 20
+8 8 0
+#303
+goblin~
+the goblin~
+A small goblin tries to flee before you as you enter the room.
+~
+This ugly little creature would rather stab you in the back if you were asleep.
+~
+72 0 0 S
+3 1 100 0d0+0 0d0+0
+15 20
+8 8 0
+#304
+goblin~
+the goblin~
+A larger goblin moves toward you threateningly before cowering in fear.
+~
+The goblin is larger than the ones you've seen, but still small compared to you.
+~
+74 0 0 S
+4 1 100 1d1+0 0d0+0
+15 20
+8 8 0
+#305
+guildmaster master~
+the guildmaster~
+Your guildmaster stands here ready to train you.
+~
+Your guildmaster is aged and patient.  He is here to guide you through the
+mysteries of your art.
+~
+10 1048712 0 S
+35 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#306
+rabbit~
+the rabbit~
+A small rabbit is here chewing grass.
+~
+He is small and furry with a cotton-like tail.
+~
+72 0 0 S
+1 1 100 1d1+1 1d1+0
+15 20
+8 8 0
+#307
+adventurer newbie man woman~
+a young adventurer~
+A young, untried adventurer is wandering around here, apparently lost.
+~
+The adventurer is pale and haggard and looks quite sick. Perhaps it would be
+better to put them out of their misery.
+~
+72 131072 0 S
+7 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#99999
+$~

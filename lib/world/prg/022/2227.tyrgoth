@@ -1,0 +1,10 @@
+>fight_prog 8~
+  say Why do you try to hurt me I'll only heal myself later.
+  cast 'restore' $i
+~
+>fight_prog 16~
+  say Let me remove the aura for you.
+  cast 'dispel sanc' $r
+  say You're welcome.
+~
+|

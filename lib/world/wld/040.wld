@@ -1,0 +1,1535 @@
+#4000
+The Hills~
+   You are on a small dirt path that winds gently through small
+grassy foothills. Sporadic patches of trees and undergrowth are
+dodged by the age worn trail, which continues northward to the
+base of the Moria mountains. From here, the legendary mountains
+are alive with hues of purple and orange from the setting sun.
+You stop for only a moment to admire this scene as the cold
+wind reminds you of your need to find shelter for the night.
+~
+40 4 4
+D0
+~
+~
+0 -1 4001
+D2
+~
+~
+0 0 712
+S
+#4001
+The Hills~
+   You are on a small dirt path that winds gently through small
+grassy foothills. Sporadic patches of trees and undergrowth are
+dodged by the age worn trail, which continues northward to the
+base of the Shar'han mountains. From here, the legendary mountains
+are alive with hues of purple and orange from the setting sun.
+You stop only for a moment to admire this scene as the cold
+wind reminds you of your need to find shelter for the night.
+~
+40 4 4
+D0
+~
+~
+0 -1 4002
+D1
+~
+~
+0 0 6137
+D2
+~
+~
+0 -1 4000
+S
+#4002
+The End Of The Path~
+   The Shar'han mountains are so treacherous that they are uncrossable
+above ground. Stories of brave adventurers scalling the peaks come and
+go, but looking up at the rock as it disappears into the clouds,
+you doubt any of them are true. The only way to safely pass thru
+these mountains are the Mines of Shar'han, a laybrinth of caves and
+tunnels constructed long ago by hobgoblin slaves. A small sign rests
+in the ground at the entrance to these ancient mines.
+~
+40 4 4
+D0
+~
+~
+0 -1 4010
+D2
+~
+~
+0 -1 4001
+E
+(null)~
+
+~
+S
+#4010
+The Cave~
+   Shelter from the wind brings with it the damp, stagnant air
+of this cave, seemingly divided by a small stream that runs
+thru the center of the muddy cavern floor. Light from the 
+entrance illuminates writings and drawings on the walls
+depicting battles and conquests from long ago. Looking
+deeper into the cave your eyes meet only the darkness of
+another world. One that prays on lost and unwarry adventurers.
+~
+40 13 2
+D0
+~
+~
+0 -1 4011
+D2
+~
+~
+0 -1 4002
+E
+paintings walls writings~
+  Scenes from long ago cover the walls. Some show the great
+siege of Kore hundreds of years ago while one shows the
+legendary battle between Shyft, god of the spectrum and
+Proteus of the underworld, that occured thousands of years
+before your birth. Maybe you should add to this mural
+of history..
+~
+S
+#4011
+The Tunnel~
+   Darkness surrounds you on all sides but is pushed back by the
+glow from your lighsource. Death and decay fill your nostrils
+as you try desperately not to lose your last meal onto the cavern
+floor. Bones of rotting animal carasses break beneith your feet
+as you continue along the wide tunnel. Apparently, whatever lives
+in these caves only needed go this far before devouring thier prey.
+Hopefully you will not be one of that group.
+~
+40 9 3
+D0
+~
+~
+0 -1 4014
+D2
+~
+~
+0 -1 4010
+S
+#4012
+The Tunnel~
+   Little has changed from the entrance of the cave. Damp, musty
+air still makes breathing barely tolerable, while mud covered
+rock makes even walking treacherous. You wonder to yourself what
+kind of animal could possibly live in such horrible conditions
+or why it would choose to remain here. Almost as an answer to
+this thought, you hear scraping noises ahead of you. Without
+even thinking your weapon is in your hand, waiting for what
+lies ahead.
+~
+40 9 3
+D0
+~
+~
+0 -1 4016
+D1
+~
+~
+0 -1 4013
+S
+#4013
+The Tunnel~
+   Little has changed from the entrance of the cave. Damp, musty
+air still makes breathing barely tolerable, while mud covered
+rock makes even walking treacherous. You wonder to yourself what
+kind of animal could possibly live in such horrible conditions
+or why it would choose to remain here. Almost as an answer to
+this thought, you hear scraping noises ahead of you. Without
+even thinking your weapon is in your hand, waiting for what
+lies ahead.
+~
+40 9 3
+D1
+~
+~
+0 -1 4014
+D3
+~
+~
+0 -1 4012
+S
+#4014
+The Tunnel~
+   Little has changed from the entrance of the cave. Damp, musty
+air still makes breathing barely tolerable, while mud covered
+rock makes even walking treacherous. You wonder to yourself what
+kind of animal could possibly live in such horrible conditions
+or why it would choose to remain here. Almost as an answer to 
+this thought, you hear scraping noises ahead of you. Without
+even thinking your weapon is in your hand, waiting for what
+lies ahead.
+~
+40 9 3
+D0
+~
+~
+0 -1 4018
+D2
+~
+~
+0 -1 4011
+D3
+~
+~
+0 -1 4013
+S
+#4015
+The Tunnel~
+         Tunnels, large and small, split off from the main passageway of
+the cave. Worn down millions of years by the underground rivers,
+the rocks are smooth and cold, seemingly feeding off the warmth
+of your touch. These caves are also used by mountain lions and
+other creatures for migratory purposes keeping you on your guard
+at all times. Looking around, all the exits leave into darkness,
+and you decide that one is just as good as the next as you
+start of down the nearest tunnel.
+~
+40 9 5
+D0
+~
+~
+0 -1 4019
+D3
+~
+~
+0 -1 4014
+S
+#4016
+The Large Cave~
+      As you enter this section of the cave, the walls and ceiling both
+curve outwards to form a large "room" with several exits. Small streams
+cut through the mud and rock causing a gentle flowing sound that is
+echoed throughout the whole room by the stone walls. If not for the
+treacherous going and the vile creatures that lived down here you
+would definately describe this area as peaceful. Unfortunately,
+you experience tells you that staying in one place here is dangerous.
+You decide to keep moving.
+~
+40 9 2
+D1
+~
+~
+0 -1 4017
+D2
+~
+~
+0 -1 4012
+D3
+~
+~
+0 -1 4023
+S
+#4017
+The Large Cave~
+   As you enter this section of the cave, the walls and ceiling both
+curve outwards to form a large "room" with several exits. Small streams
+cut through the mud and rock causing a gentle flowing sound that is
+echoed throughout the whole room by the stone walls. If not for the
+treacherous going and the vile creatures that lived down here you
+would definately describe this area as peaceful. Unfortunately,
+you experience tells you that staying in one place here is dangerous.
+You decide to keep moving.
+~
+40 9 2
+D3
+~
+~
+0 -1 4016
+S
+#4018
+The Cave~
+   Little has changed from the entrance of the cave. Damp, musty
+air still makes breathing barely tolerable, while mud covered
+rock makes even walking treacherous. You wonder to yourself what
+kind of animal could possibly live in such horrible conditions
+or why it would choose to remain here. Almost as an answer to
+this thought, you hear scraping noises ahead of you. Without
+even thinking your weapon is in your hand, waiting for what
+lies ahead.
+~
+40 9 2
+D0
+~
+~
+0 -1 4025
+D2
+~
+~
+0 -1 4014
+E
+pile bones~
+Well you better watch out - some of the bones are human !
+~
+S
+#4019
+The Tunnel~
+      Tunnels, large and small, split off from the main passageway of
+the cave. Worn down millions of years by the underground rivers,
+the rocks are smooth and cold, seemingly feeding off the warmth
+of your touch. These caves are also used by mountain lions and
+other creatures for migratory purposes keeping you on your guard
+at all times. Looking around, all the exits leave into darkness,
+and you decide that one is just as good as the next as you
+start of down the nearest tunnel.
+~
+40 9 3
+D0
+~
+~
+0 -1 4026
+D2
+~
+~
+0 -1 4015
+S
+#4020
+The Hole~
+      Tunnels, large and small, split off from the main passageway of
+the cave. Worn down millions of years by the underground rivers,
+the rocks are smooth and cold, seemingly feeding off the warmth
+of your touch. These caves are also used by mountain lions and
+other creatures for migratory purposes keeping you on your guard
+at all times. Looking around, all the exits leave into darkness,
+and you decide that one is just as good as the next as you
+start off down the nearest tunnel.
+~
+40 13 3
+D0
+~
+~
+0 -1 4027
+D5
+~
+~
+0 -1 4064
+S
+#4021
+The Hole~
+   You crawl into a small side tunnel only to find that
+the tunnel ceases to go any farther after about 10 feet.
+You begin to wonder to yourself why you are in a pitch-
+black, muddy, dead end tunnel when you could be sitting
+in one of the many Kore taverns. This thought leaves
+your mind as fast as it entered it as you hit your
+head on the ceiling.
+~
+40 269 3
+D1
+~
+~
+0 -1 4022
+S
+#4022
+The Damp Tunnel~
+      Making your way through this extremely small tunnel, your armor
+becomes wet and muddy as you scrape against the surrounding walls. The
+deeper you go into this cave the more you come to realize how unfit
+it is for animal life. Hot, humid air rises in the tunnels in front
+of you as you crawl through this maze of dirt and rock. You also 
+realize at this moment how vunerable you are to attack from behind as
+you couldn't draw your weapon if you wanted to.
+~
+40 9 3
+D0
+~
+~
+0 -1 4024
+D1
+~
+~
+0 -1 4023
+D3
+~
+~
+0 -1 4021
+S
+#4023
+The Large Cave~
+   As you enter this section of the cave, the walls and ceiling both
+curve outwards to form a large "room" with several exits. Small streams
+cut through the mud and rock causing a gentle flowing sound that is
+echoed throughout the whole room by the stone walls. If not for the
+treacherous going and the vile creatures that lived down here you
+would definately describe this area as peaceful. Unfortunately,
+you experience tells you that staying in one place here is dangerous.
+You decide to keep moving.
+~
+40 9 2
+D1
+~
+~
+0 -1 4016
+D3
+~
+~
+0 -1 4022
+S
+#4024
+The Damp Tunnel~
+      Making your way through this extremely small tunnel, your armor
+becomes wet and muddy as you scrape against the surrounding walls. The
+deeper you go into this cave the more you come to realize how unfit
+it is for animal life. Hot, humid air rises in the tunnels in front
+of you as you crawl through this maze of dirt and rock. You also 
+realize at this moment how vunerable you are to attack from behind as
+you couldn't draw your weapon if you wanted to.
+~
+40 9 3
+D2
+~
+~
+0 -1 4022
+D3
+~
+~
+0 -1 4059
+S
+#4025
+The Cave~
+   Little has changed from the entrance of the cave. Damp, musty
+air still makes breathing barely tolerable, while mud covered
+rock makes even walking treacherous. You wonder to yourself what
+kind of animal could possibly live in such horrible conditions
+or why it would choose to remain here. Almost as an answer to
+this thought, you hear scraping noises ahead of you. Without
+even thinking your weapon is in your hand, waiting for what
+lies ahead.
+~
+40 9 2
+D1
+~
+~
+0 -1 4026
+D2
+~
+~
+0 -1 4018
+S
+#4026
+The Many Tunnels~
+   Tunnels, large and small, split off from the main passageway of
+the cave. Worn down millions of years by the underground rivers,
+the rocks are smooth and cold, seemingly feeding off the warmth
+of your touch. These caves are also used by mountain lions and
+other creatures for migratory purposes keeping you on your guard
+at all times. Looking around, all the exits leave into darkness,
+and you decide that one is just as good as the next as you
+start down the near tunnel.
+~
+40 9 3
+D0
+~
+~
+0 -1 4028
+D1
+~
+~
+0 -1 4027
+D2
+~
+~
+0 -1 4019
+D3
+~
+~
+0 -1 4025
+S
+#4027
+The Tunnel~
+      Tunnels, large and small, split off from the main passageway of
+the cave. Worn down millions of years by the underground rivers,
+the rocks are smooth and cold, seemingly feeding off the warmth
+of your touch. These caves are also used by mountain lions and
+other creatures for migratory purposes keeping you on your guard
+at all times. Looking around, all the exits leave into darkness,
+and you decide that one is just as good as the next as you
+start off down the nearest tunnel.
+~
+40 9 5
+D0
+~
+~
+0 -1 4029
+D2
+~
+~
+0 -1 4020
+D3
+~
+~
+0 -1 4026
+S
+#4028
+The Smelly Tunnel~
+   Death and decay overwhelm you as you make your way through this 
+side tunnel. Animal carcasses decay much slower in this cold enclave 
+as you can plainly smell. And unlike the above ground, there is 
+absolutely no wind to speak of, leaving the foul stench just hanging in 
+the air.
+~
+40 9 3
+D0
+~
+~
+0 -1 4030
+D2
+~
+~
+0 -1 4026
+S
+#4029
+The Cave~
+   Shelter from the wind brings with it the damp, stagnant air of 
+this cave, seemingly divided by a small stream that runs through 
+the center of the muddy cavern floor. Light from the entrance 
+illuminates writings and drawings on the walls depicting battles 
+and conquests from long ago. Looking deeper into the cave your 
+eyes meet only the darkness of another world - one that prays on 
+lost and unwary adventurers.
+~
+40 9 2
+D0
+~
+~
+0 -1 4077
+D2
+~
+~
+0 -1 4027
+S
+#4030
+The Light Cave~
+   Rotting feces litter the rock here, giving rise to the smell, and
+several slim beams of sunlight penetrate down from holes in the ceiling.
+A stream appears to have run through here a long time ago, but now it is 
+bone dry.
+~
+40 264 5
+D2
+~
+~
+0 -1 4028
+D5
+~
+~
+0 0 600
+E
+corpse corpses~
+IT STINKS!
+~
+S
+#4031
+The Valley~
+   A small breeze brings cool wind to your nostrils as you breathe 
+in as much air as your lungs will allow. Comfort only lasts a 
+moment as you realize you stand on the outer edges of the explored 
+world around Kore. Beyond here lies only myth and legend. 
+Maybe you will return to the city of Kore with your own.... maybe.
+~
+40 0 2
+D1
+~
+~
+0 0 4078
+D3
+~
+~
+0 0 553
+E
+cave~
+Well it doesn't look nice, but it is the only way out..
+~
+S
+#4032
+The Foothills~
+   Working your way down out of the mountains you find yourself entering
+a valley of sorts. Small foothills surround you on all sides much
+like those that are found around the city of Kore. A southernly
+wind gives wavelike movement to the long prarie grass that has
+sprouted up. Traveling here is very easy and you relax yourself into
+a modest pace, wanting to enjoy the beautiful surroundings. On the
+tops of some of the larger foothills you can even make out the faint
+outline of mountains to the north, that seem to span to the clouds.
+~
+40 0 4
+D0
+~
+~
+0 -1 4033
+D2
+~
+~
+0 -1 4077
+S
+#4033
+The Intersection In The Foothills~
+   Small rolling hills of waist high wild grass seem alive with
+the caress of the northernly wind. Off to the west, the terrain
+become harder and sporadic patches of tree seem to have sprung up
+here and there. Looking around you are in the middle of a valley
+encased by the mountains of shar'han to the south and the mysterious
+mountains of Olympus to the north. Very few travel these lands as
+giants are said to inhibit these lands. Hopefully you will not
+meet any...
+~
+40 0 2
+D0
+~
+~
+0 -1 4034
+D1
+~
+~
+0 -1 4037
+D2
+~
+~
+0 -1 4032
+S
+#4034
+The Grassy Area In The Foothills~
+   Small rolling hills of waist high wild grass seem alive with
+the caress of the northernly wind. Off to the west, the terrain
+become harder and sporadic patches of tree seem to have sprung up
+here and there. Looking around you are in the middle of a valley
+encased by the mountains of shar'han to the south and the mysterious
+mountains of Olympus to the north. Very few travel these lands as
+giants are said to inhibit these lands. Hopefully you will not
+meet any...
+~
+40 0 2
+D0
+~
+~
+0 -1 4035
+D2
+~
+~
+0 -1 4033
+D3
+~
+~
+0 -1 4042
+S
+#4035
+At The Foothills' End~
+   Small rolling hills of waist high wild grass seem alive with
+the caress of the northernly wind. Off to the west, the terrain
+become harder and sporadic patches of tree seem to have sprung up
+here and there. Looking around you are in the middle of a valley
+encased by the mountains of shar'han to the south and the mysterious
+mountains of Olympus to the north. Very few travel these lands as
+giants are said to inhibit these lands. Hopefully you will not
+meet any...
+~
+40 0 2
+D0
+~
+~
+0 -1 4036
+D2
+~
+~
+0 -1 4034
+S
+#4036
+The Plains~
+   Small rolling hills of waist high wild grass seem alive with
+the caress of the northernly wind. Off to the west, the terrain
+become harder and sporadic patches of tree seem to have sprung up
+here and there. Looking around you are in the middle of a valley
+encased by the mountains of shar'han to the south and the mysterious
+mountains of Olympus to the north. Very few travel these lands as
+giants are said to inhibit these lands. Hopefully you will not
+meet any...
+~
+40 0 2
+D0
+~
+~
+0 0 467
+D2
+~
+~
+0 -1 4035
+S
+#4037
+The Path Through The Foothills~
+   You continue in the lush foothills beyond the moutains of shar'han.
+This small path cuts to the east to the base of a range of some
+smaller mountains. Shar'han itself is not a very large area, but to reach most
+of the outer realms of kore, you must pass through these lands. These paths
+have also seen the likes of many peoples who have fled persecution in
+the cities for their belief. Here, beyond the shar'han mountains they
+found peace and seclusion.
+~
+40 0 2
+D1
+~
+~
+0 -1 4039
+D3
+~
+~
+0 -1 4033
+S
+#4038
+The Base Of The Mountain~
+   Exits are east and west.
+~
+40 0 2
+D1
+~
+~
+0 -1 4039
+D3
+~
+~
+0 -1 4037
+S
+#4039
+A Trail Up The Mountain~
+   As you climb up the steep slopes you begin to realize why no one
+ventures out into these lands often. After struggling through the
+treacherous caves of Shar'ha, you must now endure scorching sun
+as you climb the mountains. However, even up in these mountains you are
+still able to make out the markings of a path worn down through time.
+Apparently there was at least one thing work traveling to on the
+other side of these mountains, although you have no idea what.
+~
+40 0 2
+D1
+~
+~
+0 -1 4040
+D3
+~
+~
+0 -1 4037
+S
+#4040
+The Mountain Top~
+   Reaching the top of the mountain you are presented with a magnificent
+view of the surrounding country. Visible are the Moria mountians and the
+valley of the demariv clerics guild. Also visible to far north are
+a collection of mist enshrouded mountain, where, as legend has it, 
+reside Zeus and other gods. Surveying this expanse you realize how
+great a realm kore really is. Maybe one day a great king of kore will
+come to rule these lands again.
+~
+40 0 2
+D0
+~
+~
+0 -1 4041
+D1
+~
+~
+0 0 18200
+D3
+~
+~
+0 -1 4039
+S
+#4041
+The Lion's Den~
+   The moment you step into this crevace in the mountain side you
+realize your blunder. Several small cubs scamper over the carcass
+of a freshly killed mountain goat seemingly unaware of your 
+intrusion. However, the cubs mother and several full grown male
+mountain lions are very aware then you are standing in the middle
+of thier den. As rolling growls resonate through the cave you realize
+thier strike is imminent as you reach for your weapon.
+~
+40 9 2
+D2
+~
+~
+0 -1 4040
+S
+#4042
+The Level Foothills~
+   To the average adventurer this would seem to be just another
+ordinary forest of large oaks. However, many of the trees here show
+signs of damage, such as broken limbs and large gouges. The ground
+here is also heavily trampled with large footprints. You also are
+suprised to see several piles of bones scattered about the area. Ahead
+of you seems to be a large clearing from which you can hear what seems
+to be a conversation.
+~
+40 0 2
+D1
+~
+~
+0 -1 4034
+D3
+~
+~
+0 -1 4043
+S
+#4043
+A Small Clearing Before a Cave~
+   The smell of smoke and burnt flesh overwhelms you as you step
+into the clearing. As you gather yourself you immediately realize
+what you have just stumbled on. Several large hill giants sit
+around a large fire upon which is what appears to be the charred
+remains of a large hobgoblin. The giants, who have now noticed your
+presence, are not upset that you have interrupted their dinner, but
+are excited that they now have some dessert for their meal!
+~
+40 0 3
+D1
+~
+~
+0 -1 4042
+D3
+~
+~
+0 -1 4044
+S
+#4044
+A Small Cave~
+   Equipment and gold is scattered in with assorted bones from
+animals and humans alike. Several chests lie closed as this appears
+to be where the hill giants outside keep what the take off of thier
+pray. Unfortuneately, you know that hill giants, who are not very
+smart, usually keep items because they sparkle or are shiny and not
+because of their magical attributes. Maybe you will get lucky and
+find something that has some worth to it but that does not seem very
+likely.
+~
+40 9 2
+D1
+~
+~
+0 -1 4043
+S
+#4045
+A Mountain Pass~
+   You make your way up a trail in the only part of the Shar'han mountains
+that is crossable above ground. In fact, this trail is not really a
+trail at all, but more of a passage way thru the huge granite boulders
+that encase you on both sides. As you gain in altitude, the plantlife
+dimishes as your breathing becomes more labored. However, this is all
+made up for by the beautiful view from here. You can even make out the
+faint outline of the high tower of magic from here.
+~
+40 4 5
+D1
+The rocky trail continues.
+~
+~
+0 -1 4046
+D3
+The valley lies at the bottom of the steep trail.
+~
+~
+0 -1 4077
+S
+#4046
+Between the Boulders~
+   You make your way up a trail in the only part of the Shar'han mountains
+that is crossable above ground. In fact, this trail is not really a
+trail at all, but more of a passage way thru the huge granite boulders
+that encase you on both sides. As you gain in altitude, the plantlife
+dimishes as your breathing becomes more labored. However, this is all
+made up for by the beautiful view from here. You can even make out the
+faint outline of the high tower of magic from here.
+~
+40 4 5
+D1
+The trail continues eastwards.
+~
+~
+0 -1 4047
+D3
+The trail continues westwards.
+~
+~
+0 -1 4045
+S
+#4047
+The Foothills~
+   Coming down out of the mountain pass, you again find yourself in small
+foothills to the east of the mountains of Shar'han. Instantly you are
+aware of the striking difference of the landscape here. The wildgrass
+here is a deep amber color, one unlike any you have ever seen. Rumors
+told of red lands to the far east, but you believe they where just
+that, rumors. You now realize just how far you are from Kore and the
+limited world you used to know.
+~
+40 4 4
+D1
+You can head towards the narrow trail this way.
+~
+~
+0 -1 4049
+D3
+The trail leading back through the mountains seems to go on forever.
+~
+~
+0 -1 4046
+S
+#4048
+The Foothills~
+   A short trek through the foothills and you find yourself facing a
+trail that leads between the mountains to the west.  The trail through
+them looks to be very long and probably quite tiring.  You spot a narrow
+trail leading away to the northwest not too far distant to the west.
+~
+40 4 5
+D1
+You can head towards the narrow trail this way.
+~
+~
+0 -1 4049
+D3
+The trail leading through the mountains seems to go on forever.
+~
+~
+0 -1 4046
+S
+#4049
+The Foothills~
+   Coming down out of the mountain pass, you again find yourself in small
+foothills to the east of the mountains of Shar'han. Instantly you are
+aware of the striking difference of the landscape here. The wildgrass
+here is a deep amber color, one unlike any you have ever seen. Rumors
+told of red lands to the far east, but you believe they where just
+that, rumors. You now realize just how far you are from Kore and the
+limited world you used to know.
+~
+40 4 4
+D0
+A small trail leads away to the northwest.
+~
+~
+0 -1 5628
+D3
+A trail heads towards the mountains to the west.
+~
+~
+0 -1 4047
+S
+#4050
+The Tunnel~
+   Making your way through this extremely small tunnel, your armor
+becomes wet and muddy as you scrape against the surrounding walls. The
+deeper you go into this cave the more you come to realize how unfit
+it is for animal life. Hot, humid air rises in the tunnels in front
+of you as you crawl through this maze of dirt and rock. You also
+realize at this moment how vunerable you are to attack from behind as
+you couldn't draw your weapon if you wanted to.
+~
+40 9 3
+D1
+~
+~
+0 -1 4051
+D2
+~
+~
+0 -1 4053
+S
+#4051
+The Tunnel~
+   Making your way through this extremely small tunnel, your armor
+becomes wet and muddy as you scrape against the surrounding walls. The
+deeper you go into this cave the more you come to realize how unfit
+it is for animal life. Hot, humid air rises in the tunnels in front
+of you as you crawl through this maze of dirt and rock. You also
+realize at this moment how vunerable you are to attack from behind as
+you couldn't draw your weapon if you wanted to.
+~
+40 9 3
+D1
+~
+~
+0 -1 4052
+D3
+~
+~
+0 -1 4050
+S
+#4052
+The Tunnel~
+   You crawl into a small side tunnel only to find that
+the tunnel ceases to go any farther after about 10 feet.
+You begin to wonder to yourself why you are in a pitch-
+black, muddy, dead end tunnel when you could be sitting
+in one of the many Kore taverns. This thought leaves
+your mind as fast as it entered it as you hit your
+head on the ceiling.
+~
+40 9 3
+D3
+~
+~
+0 -1 4051
+S
+#4053
+The Tunnel~
+   Making your way through this extremely small tunnel, your armor
+becomes wet and muddy as you scrape against the surrounding walls. The
+deeper you go into this cave the more you come to realize how unfit
+it is for animal life. Hot, humid air rises in the tunnels in front
+of you as you crawl through this maze of dirt and rock. You also
+realize at this moment how vunerable you are to attack from behind as
+you couldn't draw your weapon if you wanted to.
+~
+40 9 3
+D0
+~
+~
+0 -1 4050
+D1
+~
+~
+0 -1 4054
+S
+#4054
+The Cave of Lights~
+   This section of the cave is unlike any that you have been in
+before Massive crystal formations that stretch all the way up to
+the ground above, refact sunlight down into these great depths.
+The crystals provide almost enought light to where you could put
+away your light source, but you are hesitant with the amount of
+hobgoblins running around down here. This area of the cave is
+also extremely dry, giving you a chance to sit down and rest.
+You think that this could be a hospitable place if not for the
+cold
+~
+40 8 2
+D1
+~
+~
+0 -1 4055
+D2
+~
+~
+0 -1 4056
+D3
+~
+~
+0 -1 4053
+S
+#4055
+The Dead End~
+   You crawl into a small side tunnel only to find that
+the tunnel ceases to go any farther after about 10 feet.
+You begin to wonder to yourself why you are in a pitch-
+black, muddy, dead end tunnel when you could be sitting
+in one of the many Kore taverns. This thought leaves
+your mind as fast as it entered it as you hit your
+head on the ceiling.
+~
+40 9 3
+D3
+~
+~
+0 -1 4054
+S
+#4056
+The Cave of Lights~
+   This section of the cave is unlike any that you have been in
+before. Massive crystal formations that stretch all the way up to
+the ground above, refact sunlight down into these great depths.
+The crystals provide almost enought light to where you could put
+away your light source, but you are hesitant with the amount of
+hobgoblins running around down here. This area of the cave is
+also extremely dry, giving you a chance to sit down and rest.
+You think that this could be a hospitable place if not for the
+cold.
+~
+40 8 2
+D0
+~
+~
+0 -1 4054
+D2
+~
+~
+0 -1 4061
+E
+fire~
+Well, errh - It looks somehow quite warm..!
+~
+S
+#4057
+The Maze~
+   You are in a maze of small damp tunnels.  Exits leads both north
+and south.
+~
+40 9 3
+D0
+~
+~
+0 -1 4055
+D2
+~
+~
+0 -1 4062
+S
+#4058
+The Maze~
+   You are in a maze of small damp tunnels.  Exits leads west and south.
+~
+40 9 3
+D2
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4057
+S
+#4059
+The Tunnel~
+   Making your way through this extremely small tunnel, your armor
+becomes wet and muddy as you scrape against the surrounding walls. The
+deeper you go into this cave the more you come to realize how unfit
+it is for animal life. Hot, humid air rises in the tunnels in front
+of you as you crawl through this maze of dirt and rock. You also 
+realize at this moment how vunerable you are to attack from behind as
+you couldn't draw your weapon if you wanted to.
+~
+40 269 3
+D1
+~
+~
+0 -1 4024
+D5
+~
+~
+0 0 4060
+S
+#4060
+The Tunnel~
+   Once again, you journey down this tunnel ends almost as soon
+as it began. There is a hole that seems to continue on but it
+is much to small for you to go through. There do, however, seem
+to be quite a few sets of tracks here. You wonder if this
+is where the inhabitants of these caves launch sneak attacks
+on unaware explorers.
+~
+40 9 3
+D1
+~
+~
+0 -1 4061
+S
+#4061
+The Cave of Lights~
+   This section of the cave is unlike any that you have been in
+before Massive crystal formations that stretch all the way up to
+the ground above, refact sunlight down into these great depths.
+The crystals provide almost enought light to where you could put
+away your light source, but you are hesitant with the amount of
+hobgoblins running around down here. This area of the cave is
+also extremely dry, giving you a chance to sit down and rest.
+You think that this could be a hospitable place if not for the
+cold
+~
+40 8 2
+D0
+~
+~
+0 -1 4056
+D2
+~
+~
+0 -1 4065
+D3
+~
+~
+0 -1 4060
+S
+#4062
+The Maze~
+   As you exit the tunnel that you just came from you are confronted
+with an obstacle that is quite perplexing. Dozens of tunnels lead
+off of this main room, some too small to fit in and some large enough
+for a sizeable group, but all extremely dark and foreboding. The
+sound of running water and the feel of humind air comes from some
+of the tunnels while faint flickering light from others. You think
+that one is probably just as dangerous as you contemplate your next
+direction, but staying here would be a good idea at all.
+~
+40 9 3
+D1
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4061
+S
+#4063
+The Maze~
+   As you exit the tunnel that you just came from you are confronted
+with an obstacle that is quite perplexing. Dozens of tunnels lead
+off of this main room, some too small to fit in and some large enough
+for a sizeable group, but all extremely dark and foreboding. The
+sound of running water and the feel of humid air comes from some
+of the tunnels while faint flickering light from others. You think
+that one is probably just as dangerous as you contemplate your next
+direction, but staying here would be a good idea at all.
+~
+40 9 3
+D0
+~
+~
+0 -1 4054
+D1
+~
+~
+0 -1 4064
+S
+#4064
+The Tunnel~
+   You are in a tunnel, only exit is west - Only exit, well there is 
+also a hole in the ceiling.
+~
+40 9 3
+D3
+~
+~
+0 -1 4063
+D4
+~
+~
+0 -1 4020
+S
+#4065
+The Maze~
+   As you exit the tunnel that you just came from you are confronted
+with an obstacle that is quite perplexing. Dozens of tunnels lead
+off of this main room, some too small to fit in and some large enough
+for a sizeable group, but all extremely dark and foreboding. The
+sound of running water and the feel of humind air comes from some
+of the tunnels while faint flickering light from others. You think
+that one is probably just as dangerous as you contemplate your next
+direction, but staying here would be a good idea at all.
+~
+40 9 3
+D0
+~
+~
+0 -1 4061
+D1
+~
+~
+0 -1 4066
+D2
+~
+~
+0 0 4070
+S
+#4066
+The Maze~
+   As you exit the tunnel that you just came from you are confronted
+with an obstacle that is quite perplexing. Dozens of tunnels lead
+off of this main room, some too small to fit in and some large enough
+for a sizeable group, but all extremely dark and foreboding. The
+sound of running water and the feel of humind air comes from some
+of the tunnels while faint flickering light from others. You think
+that one is probably just as dangerous as you contemplate your next
+direction, but staying here would be a good idea at all.
+~
+40 9 3
+D0
+~
+~
+0 -1 4062
+D1
+~
+~
+0 -1 4067
+D2
+~
+~
+0 -1 4069
+S
+#4067
+The Maze~
+   As you exit the tunnel that you just came from you are confronted
+with an obstacle that is quite perplexing. Dozens of tunnels lead
+off of this main room, some too small to fit in and some large enough
+for a sizeable group, but all extremely dark and foreboding. The
+sound of running water and the feel of humind air comes from some
+of the tunnels while faint flickering light from others. You think
+that one is probably just as dangerous as you contemplate your next
+direction, but staying here would be a good idea at all.
+~
+40 9 3
+D0
+~
+~
+0 -1 4063
+D3
+~
+~
+0 -1 4066
+S
+#4068
+A Cavern of Hot Springs~
+   As you enter this huge room your first thought concerns the definate
+rise in the temperature and humidity of the air. Your ears are filled
+with the sounds of bubbling water as a humid gust rushes past your
+face Looking around you see several large, hot spring that gush large
+amounts of steaming water onto the cavern floor. The water collects and
+drains together to form a small stream that disappears under a huge
+wall of rock. After a while you realize that you are even sweating and
+decide to loosen some of your clothing. You think that the animals
+that live down here must use these springs for heat and water.
+~
+40 9 2
+D1
+~
+~
+0 -1 4069
+D2
+~
+~
+0 -1 4070
+S
+#4069
+A Cavern of Hot Springs~
+   As you enter this huge room your first thought concerns the definate
+rise in the temperature and humidity of the air. Your ears are filled
+with the sounds of bubbling water as a humid gust rushes past your
+face. Looking around you see several large, hot spring that gush large
+amounts of steaming water onto the cavern floor. The water collects and
+drains together to form a small stream that disappears under a huge 
+wall of rock. After a while you realize that you are even sweating and
+decide to loosen some of your clothing. You think that the animals
+that live down here must use these springs for heat and water.
+~
+40 9 2
+D0
+~
+~
+0 -1 4066
+D2
+~
+~
+0 -1 4071
+D3
+~
+~
+0 -1 4068
+S
+#4070
+A Cavern of Hot Springs~
+   As you enter this huge room your first thought concerns the definate
+rise in the temperature and humidity of the air. Your ears are filled
+with the sounds of bubbling water as a humid gust rushes past your
+face Looking around you see several large, hot spring that gush large
+amounts of steaming water onto the cavern floor. The water collects and
+drains together to form a small stream that disappears under a huge
+wall of rock. After a while you realize that you are even sweating and
+decide to loosen some of your clothing. You think that the animals
+that live down here must use these springs for heat and water.
+~
+40 9 2
+D0
+~
+~
+0 -1 4068
+D1
+~
+~
+0 -1 4071
+S
+#4071
+A Cavern of Hot Springs~
+   As you enter this huge room your first thought concerns the definate
+rise in the temperature and humidity of the air. Your ears are filled
+with the sounds of bubbling water as a humid gust rushes past your
+face Looking around you see several large, hot spring that gush large
+amounts of steaming water onto the cavern floor. The water collects and
+drains together to form a small stream that disappears under a huge
+wall of rock. After a while you realize that you are even sweating and
+decide to loosen some of your clothing. You think that the animals
+that live down here must use these springs for heat and water.
+~
+40 1 2
+D0
+~
+~
+0 -1 4069
+D1
+~
+~
+0 -1 4072
+D3
+~
+~
+0 -1 4070
+S
+#4072
+The Tunnel~
+   Warm, humid air gives way to an extremely temperate section of the
+cave. This area is neither extremely cold like the northern sections of
+the cave, but neither is it hot and humid like in the hot springs. If
+you didn't know better you would think this cavern's climate was controlled
+by some magical force. Several small broken vials lay scattered throughout
+this tunnel as you can make out footprints in the dirt. Apparently this
+section of the cave gets a good amount of traffic, from what though is
+a whole other question. The walls also show writings in a dialect that
+is semi-familiar to you, although you do not know hobgoblin very well.
+~
+40 9 3
+D1
+~
+~
+0 -1 4073
+D2
+~
+~
+0 -1 4074
+D3
+~
+~
+0 -1 4071
+S
+#4073
+The End Of The Tunnel~
+  Coming to the end of the tunnel you are faced with a small wooden
+plank that barely covers a large hole dug into one of the walls. Light
+streams through the gaps in the old and worn wood, but no matter how
+hard you try you can neither seen into the room beyond nor can you
+seem to budge the seemingly fragile barrier. Your intuition tells
+you that the door has been warded to protect whatever is on the
+other side...or maybe it is to contain, you decide to proceed with
+care.
+~
+40 9 3
+D1
+~
+Wooden planks~
+2 4010 4075
+D3
+~
+~
+0 -1 4072
+S
+#4074
+The Hole~
+   You are at a small hole in the floor. Alas, you can only leave
+north because to leave down into the unknown, you must be able to
+fit through the hole, which is far too small for you!
+~
+40 9 3
+D0
+~
+~
+0 -1 4072
+S
+#4075
+A Shaman's Dwelling~
+   Entering this small alcove in the side of the tunnel wall
+you are suprised to what seems to be a rather well kept dwelling.
+This single rooms serves all purposes as you spy a small bed of
+hay in the corner accompanied by a small fire pit and pot. The
+other side of the room looks like greatest and most dangerous
+alchemy experiment you have ever seen. Bottles and beakers
+overflow with fluids of all colors. Finally you are aware of
+the small goblin creature that approaches you with great
+interest.
+~
+40 216 4
+D3
+~
+Wooden planks~
+2 4010 4073
+S
+#4076
+shamans storage room~
+You are in an unfinished room.
+~
+40 516 0
+S
+#4077
+The Valley~
+   Sunlight splashes over you in a shower of warmth as you exit the 
+cave. A small breeze brings cool wind to your nostrils as you 
+breathe in as much air as your lungs will allow. Comfort only lasts 
+a moment as you realize you stand on the outer edges of the 
+explored world around Kore. Beyond here lies only myth and 
+legend. Maybe you will return to the city of Kore with your own.... 
+maybe.
+~
+40 0 2
+D0
+~
+~
+0 0 4032
+D1
+~
+~
+0 0 4045
+D2
+~
+~
+0 0 4029
+D3
+~
+~
+0 0 4078
+S
+#4078
+The Valley~
+   A small breeze brings cool wind to your nostrils as you breathe 
+in as much air as your lungs will allow. Comfort only lasts a 
+moment as you realize you stand on the outer edges of the explored 
+world around Kore. Beyond here lies only myth and legend. 
+Maybe you will return to the city of Kore with your own.... maybe.
+~
+40 0 2
+D0
+~
+~
+0 0 4079
+D1
+~
+~
+0 0 4077
+D3
+~
+~
+0 0 4031
+S
+#4079
+The Valley~
+   A small breeze brings cool wind to your nostrils as you breathe 
+in as much air as your lungs will allow. Comfort only lasts a 
+moment as you realize you stand on the outer edges of the explored 
+world around Kore. Beyond here lies only myth and legend. 
+Maybe you will return to the city of Kore with your own.... maybe.
+~
+40 0 2
+D2
+~
+~
+0 0 4078
+S
+#4099
+dummy room~
+You have entered a dummy room
+~
+40 0 0
+S
+#99999
+$~

@@ -1,0 +1,32 @@
+>greet_prog 20~
+  grin
+  cast 'dispel sanctuary' $r
+  cast 'dispel sanctuary' $r
+~
+>fight_prog 7~
+  cast 'heal' $i
+~
+>fight_prog 3~
+  cast 'area word of death' $r
+~
+>fight_prog 3~
+  mpecho $I summons a creature to assist him !
+  if rand(25)
+    mpmload 8631
+    mpforce 8631 kill $r
+  else
+    if rand(33)
+      mpmload 8635
+      mpforce 8635 kill $r
+    else
+      if rand(50)
+        mpmload 8702
+        mpforce 8702 kill $r
+      else
+        mpmload 8714
+        mpforce 8714 kill $r
+      endif
+    endif
+  endif
+~
+|

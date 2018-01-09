@@ -1,0 +1,2813 @@
+#2000
+Home~
+   This room is so unlike anything you've ever seen before that
+it takes you more than a moment to orient yourself.  There is
+a veritable panorama of colors swirling before your eyes.  The
+stuff creation is made of floats freely by you.  Your entire
+body tingles with electric pulses.  This is, perhaps, the closest
+one can come to the center of creation.
+~
+20 1024 0
+S
+#2001
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D1
+~
+~
+0 0 2002
+D3
+~
+~
+0 0 2050
+S
+#2002
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  There appears to be a bend to the east.
+~
+20 0 2
+D1
+~
+~
+0 0 2003
+D3
+~
+~
+0 0 2001
+S
+#2003
+A rocky wasteland~
+   You are standing in a rocky wasteland.  you see nothing but rocks all 
+around you as far as you can see.  From here you can go west or north.
+~
+20 0 2
+D0
+~
+~
+0 0 2004
+D3
+~
+~
+0 0 2002
+S
+#2004
+On a rocky Ledge~
+   You are on a ledge some 600 feet in the air.  You peer over the edge 
+and see the mist and gas below you.  You quickly step back, alarmed at 
+the thought of plummeting over the edge.
+~
+20 0 2
+D1
+~
+~
+0 0 2005
+D2
+~
+~
+0 0 2003
+S
+#2005
+Desceding the ledge~
+   You are moving down from the heights of the ledge, into a shadowy canyon. 
+To the south you can see the floor of the canyon.
+~
+20 0 2
+D2
+~
+~
+0 0 2006
+D3
+~
+~
+0 0 2004
+S
+#2006
+The floor of the canyon~
+   You are standing on the floor of a shadowy canyon.  You glance around 
+at the walls and see that it would be impossible to get out any other way 
+than back the way you came.  You get a boxed in feeling and decide you 
+should get moving.
+~
+20 0 2
+D0
+~
+~
+0 0 2005
+D1
+There is a secret door here.
+~
+secret~
+1 0 2007
+D2
+~
+~
+0 0 2009
+S
+#2007
+A secret room~
+   You find yourself standing in a cave that appears to have been used 
+recently. The floor is littered with bones and debris.  Upon closer  
+examination you see that many of the bones are humanoid.  There is an 
+opening to the north, and you can hear some noise coming from that direction.
+~
+20 9 2
+D0
+~
+~
+0 0 2008
+D3
+There is a secret door here.
+~
+secret~
+1 0 2006
+S
+#2008
+Inside the Beast's Lair~
+   You are in the lair of a carnivorous beast.  The stench of blood and 
+rotting flesh is almost overpowering.  Bloodstains cover the walls, and 
+there is a pile of bones and flesh in the corner that appears to be where 
+the thing sleeps. 
+~
+20 9 2
+D2
+~
+~
+0 0 2007
+S
+#2009
+The end of the canyon~
+   You have come to the end of the canyon.  You are facing a sheer wall of 
+stone. It would be impossible to climb.  The only exit is back to the 
+north and out of the canyon.
+~
+20 0 2
+D0
+~
+~
+0 0 2006
+S
+#2010
+Entrance to the caverns~
+   You are standing in the entrance to a dark cavern.  The walls are slick 
+with precipitation, and the whole place has an evil feeling to it.  The 
+cavern continues on to the east or you can go back the way you came.
+~
+20 9 0
+D1
+~
+~
+0 0 2011
+D4
+~
+~
+0 0 2065
+S
+#2011
+A bend in the caverns~
+   Your sense of foreboding increases as you proceed depper into the cavers.
+Before long you come upon a bend to the north.  Your intuition tells you to go
+back while you still can.
+~
+20 9 0
+D0
+~
+~
+0 0 2012
+D3
+~
+~
+0 0 2010
+S
+#2012
+Deep within some caverns~
+   You are now deep within the gloomy caverns.  Your light source can barely
+penetrate the darkness that fills the enormous caverns surrounding you.  You
+hear sounds from time to time that sound like screams of pain coming from 
+somewhere far ahead of you.  The cavern continues on to the east.
+~
+20 9 0
+D1
+~
+~
+0 0 2013
+D2
+~
+~
+0 0 2011
+S
+#2013
+Deep within some caverns~
+   You push further on into the darkness.  At times it gets so quiet you 
+can hear the beating of your own heart over your footsteps.  Occasionally 
+water drips from the ceiling and trickles down your spine, causing you to 
+start.  The passage continues on to the south.
+~
+20 9 0
+D2
+~
+~
+0 0 2014
+D3
+~
+~
+0 0 2012
+S
+#2014
+Deep within some caverns~
+   The further down into the cavern you travel, you begin to notice that the
+walls are perfectly smoothe.  They don't appear to have been carved out, 
+more like they were simply formed by something very powerful.  The cavern
+continues north and south.
+~
+20 9 0
+D0
+~
+~
+0 0 2013
+D2
+~
+~
+0 0 2015
+S
+#2015
+Deep within some caverns~
+   The further down into the cavern you travel, you begin to notice that the
+walls are perfectly smoothe.  They don't appear to have been carved out,
+more like they were simply formed by something very powerful.  The cavern
+continues north and west.
+~
+20 9 0
+D0
+~
+~
+0 0 2014
+D3
+~
+~
+0 0 2016
+S
+#2016
+Deep within some caverns~
+   From here you can faintly make out what appears to be a little light 
+coming from the west.  The cavern appears to bend to the south a few 
+hundred feet ahead of you.
+~
+20 9 0
+D1
+~
+~
+0 0 2015
+D3
+~
+~
+0 0 2017
+S
+#2017
+Deep within some caverns~
+   The cavern goes south from here.  You can make out a light source coming 
+from that dircetion, as well as some noise.  You can not determine 
+exaclty what the source is.
+~
+20 9 0
+D1
+~
+~
+0 0 2016
+D2
+~
+~
+0 0 2018
+S
+#2018
+A four way intersection~
+   You are standing at a four-way intersection deep within the cavern.  
+There is a torch affixed to the wall here, keeping this room lit.  All of 
+the passages off this room appear the same.
+~
+20 8 0
+D0
+~
+~
+0 0 2017
+D1
+~
+~
+0 0 2019
+D2
+~
+~
+0 0 2020
+D3
+~
+~
+0 0 2021
+S
+#2019
+The east passage~
+   You take the passage leading to the east.  it continues to slope downward,
+going deeper into the caverns.  You wonder how far down you've travelled and
+how long you've been in here.  The passage goes east as far as you can see.
+~
+20 9 0
+D1
+~
+~
+0 0 2031
+D3
+~
+~
+0 0 2018
+S
+#2020
+The south passage~
+   You wander down the passage to the south.  As you walk along you notice 
+their is water trickling down the walls in places.  You guess you must be 
+underneath some body of water.  The passage continues on to the south.
+~
+20 9 0
+D0
+~
+~
+0 0 2018
+D2
+~
+~
+0 0 2024
+S
+#2021
+The west passage~
+   You head west at the intersection and travel along until you come to a
+separate north-south tunnel.  Looking both ways, you can see nothing but
+darkness as far as your light extends.
+~
+20 9 0
+D0
+~
+~
+0 0 2022
+D1
+~
+~
+0 0 2018
+D2
+~
+~
+0 0 2023
+S
+#2022
+A dead end~
+   You travel for a few minutes northward before you are brought to a sudden
+halt by the end of this passage.  The only exit is back to the south.
+~
+20 9 0
+D2
+~
+~
+0 0 2021
+S
+#2023
+Cave-in~
+   You travel south for about half an hour before coming to a cave in which 
+looks to be impossible to get around or move.  You'll have to turn back.
+~
+20 9 0
+D0
+~
+~
+0 0 2021
+D2
+~
+~
+0 0 2046
+S
+#2024
+The south Passage~
+   You come to an intersection in the passage.  From here you can go to the 
+east or to the west.  You can also go back to the north.
+~
+20 9 0
+D0
+~
+~
+0 0 2020
+D1
+~
+~
+0 0 2025
+D3
+~
+~
+0 0 2026
+S
+#2025
+The south passage~
+   You are standing at a bend in the passage.  You can continue on to the 
+north or go back to the west.  Something tells you that the west is the 
+safest choice. 
+~
+20 9 0
+D1
+~
+~
+0 0 2027
+D3
+~
+~
+0 0 2024
+S
+#2026
+An empty room~
+   The room you have entered is vast and silent.  The only apparent exit 
+is the one through which you just came.
+~
+20 9 0
+D1
+~
+~
+0 0 2024
+S
+#2027
+The south passage~
+   As you walk along the passage there is a sharp turn to what you belive 
+is the south.  Far down the passage you see a light off to the west.  
+There are muffled sounds coming from far down the passage.
+~
+20 9 0
+D2
+~
+~
+0 0 2028
+D3
+~
+~
+0 0 2025
+S
+#2028
+The south passage~
+   You continue down the passage to the south.  You notice the light to the 
+south becoming brighter.  The sounds are becoming more distinct as animal 
+sounds. YOu can continue if you dare, or return to the north.
+~
+20 9 0
+D0
+~
+~
+0 0 2027
+D2
+~
+~
+0 0 2029
+S
+#2029
+Drawing near the light~
+   From here you can see the room where the beast is off to the west.  
+There is light coming from within, and this is definitely the source of 
+the noises.  Standing here you feel a certain awe for what you are about 
+to face.  The exit is through the opening to the west and back north up 
+the passage. 
+~
+20 9 0
+D0
+~
+~
+0 0 2028
+D3
+~
+~
+0 0 2030
+S
+#2030
+In the Presence of Yeenoghu~
+   This is the lair of Yeenoghu, the Demon Lord of Gnolls.  Along one wall 
+is a large throne of gold.  Before the throne is a sacrafice pit where 
+clerics of Yeenoghu make their offerings.  The floor is littered with 
+bones from todays sacrafices.  The only exit is to the east.
+~
+20 8 0
+D1
+~
+~
+0 0 2029
+S
+#2031
+The east passage~
+   You take the passage leading to the east.  it continues to slope downward,
+going deeper into the caverns.  You wonder how far down you've travelled and
+how long you've been in here.  The passage goes east as far as you can see.
+~
+20 9 0
+D1
+~
+~
+0 0 2032
+D3
+~
+~
+0 0 2019
+S
+#2032
+A north-south intersection~
+   You stand at the end of the passage you've been travelling along.  It 
+branches here and turns north and south.
+~
+20 9 0
+D0
+~
+~
+0 0 2033
+D2
+~
+~
+0 0 2041
+D3
+~
+~
+0 0 2031
+S
+#2033
+The north-south passage~
+   You are travelling along a north south passage.  The floor here is smoothe
+and free of dust.  You get the idea maybe this isn't the safest place to be.
+The passage continues to the north.
+~
+20 9 0
+D0
+~
+~
+0 0 2034
+D2
+~
+~
+0 0 2032
+S
+#2034
+The north-south passage~
+   You have come to the end of the north south passage.  From here you can 
+go back south or continue by going east.
+~
+20 9 0
+D1
+~
+~
+0 0 2035
+D2
+~
+~
+0 0 2033
+S
+#2035
+The dark corridor~
+   You travel along a short passage and come to a dark corridor heading 
+to the south.  All you can see is blackness.  It almost seems to radiate 
+out from the walls.  Exits are south and east.
+~
+20 9 0
+D2
+~
+~
+0 0 2036
+D3
+~
+~
+0 0 2034
+S
+#2036
+The dark corridor~
+   You travel along a short passage and come to a dark corridor heading 
+to the south.  All you can see is blackness.  It almost seems to radiate 
+out from the walls.  Exits are south and east.
+~
+20 9 0
+D0
+~
+~
+0 0 2035
+D2
+~
+~
+0 0 2037
+S
+#2037
+The dark corridor~
+   As you travel along the corridor you can sense evil surrounding you.  Your
+light source can barely pierce the blackness, and there is no reflection
+cast from your weapon.  You can continue north or south.
+~
+20 9 0
+D0
+~
+~
+0 0 2036
+D5
+~
+~
+0 0 2038
+S
+#2038
+The dark corridor~
+   As you travel along the corridor you can sense evil surrounding you.  Your
+light source can barely pierce the blackness, and there is no reflection
+cast from your weapon.  You can continue north or south.
+~
+20 9 0
+D2
+~
+~
+0 0 2039
+D4
+~
+~
+0 0 2037
+S
+#2039
+The dark corridor~
+   As you travel along the corridor you can sense evil surrounding you.  Your
+light source can barely pierce the blackness, and there is no reflection
+cast from your weapon.  You can continue north or west.
+~
+20 9 0
+D0
+~
+~
+0 0 2038
+D1
+~
+~
+0 0 2040
+S
+#2040
+The dark corridor~
+   As soon as you turn west in the dark corridor you notice a faint light 
+coming from somewhere ahead of you to the south.  There are no other 
+exits off this corridor.  You can go only south or back east.
+~
+20 9 0
+D2
+~
+~
+0 0 2042
+D3
+~
+~
+0 0 2039
+S
+#2041
+A dead end~
+   You turn south and travel for about 100 feet before the passage comes 
+to an abrupt halt.  It doesn't appear anything has been here for quite 
+some time. The only exit is back to the north.
+~
+20 9 0
+D0
+~
+~
+0 0 2032
+S
+#2042
+A merging of ways~
+   This entire room is illuminated by a brazier that stands alone burning 
+on the west wall.  The floor is smoothe and clean like the passages you 
+were moving in before.  The exits are east and north.
+~
+20 8 0
+D0
+~
+~
+0 0 2040
+D1
+~
+~
+0 0 2043
+S
+#2043
+The banks of the river Styx~
+   You emerge from the caverns onto the banks of the blackest waters
+you can ever recall seeing.  The river is thick and viscous and flows
+slowly by without making a sound.  There is a rotting dock that floats
+precariously on the top of the waters and leads down to what appears
+to bbe a small ferry-barge.
+~
+20 13 0
+D1
+~
+~
+0 0 2099
+D3
+~
+~
+0 0 2042
+S
+#2044
+The guardian's room~
+   The room you have just entered is vast and dark. The first thing you 
+notice is that the walls are squared off, nothing like the normal rounded 
+walls of a cavern. The ceiling is only about 20 feet over your head. The 
+whole picture gives you the uneasy feeling that this room was created by 
+magic, and the owner may not want it disturbed. 
+~
+20 9 0
+D0
+~
+~
+0 0 2084
+S
+#2045
+Tiamat's Lair~
+   You are now inside the lair of Tiamat.  Your worse nightmares are 
+realized as you look around and see the heaps of bones that once belonged 
+to the people who have become sacrifices to this ancient beast.  The 
+walls are scarred with flame and scratches, showing that you are not the 
+first to have made it this far.  If you're lucky, you may be the first to 
+leave. 
+~
+20 262152 0
+D0
+~
+~
+0 0 2097
+S
+#2046
+A narrow passageway~
+   The passageway you now find yourself in leads away from the cave-in to the 
+north. The passage itself is barely wide enough to pass through, and you are 
+forced to crouch to keep from striking the ceiling. A short way to the south 
+the passage bends away to the west. 
+~
+20 9 0
+D0
+~
+~
+0 0 2023
+D2
+~
+~
+0 0 2047
+S
+#2047
+A bend in the passageway~
+   The narrow passageway you had been following bends away to the east and 
+continues on to the north. The top of the passage has opened up somewhat, 
+allowing you to stand upright and move about more freely. The walls of the 
+passage are less rough than those you had been travelling in. They appear to 
+have been cut out of the stone by metal tools. 
+~
+20 9 0
+D0
+~
+~
+0 0 2046
+D3
+~
+~
+0 0 2048
+S
+#2048
+A narrow passageway~
+   The narrow passageway you are standing on continues west and appears to 
+open into a large chasm. To the east the passage appears to bend sharply to 
+the north and continue out of sight. There is a sound of running water coming 
+from somewhere toward the back of the cavern to the west. The walls here are 
+slick with moisture and feel slimy to the touch. 
+~
+20 9 0
+D1
+~
+~
+0 0 2047
+D3
+~
+~
+0 0 2049
+S
+#2049
+A vast open cavern~
+   The passageway widens out and opens into an immense cavern. The ceiling, 
+which appears to have been hand-worked, vaults high over your head and 
+disappears into the darkness. Large stalagmites hang down from the center of 
+the cavern. Even these have been worked by whomever created this room. The 
+stalgmites themselves are covered with runes of some ancient language you can 
+not decipher. 
+~
+20 9 0
+D1
+~
+~
+0 0 2048
+E
+stalagmite stalagmites~
+   The stalagmites hanging down from the center of the ceiling far above out
+of the reach of the feeble light of your torch.  Carved and etched into the
+stone are many hundreds of runes.  They appear to tell some story, but you
+are unable to make it out.
+~
+E
+runes~
+   The runes covering the stalgmites before you are of some language more
+ancient than youc an imagine.  They are completely indecipherable to you.
+~
+S
+#2050
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D1
+~
+~
+0 0 2001
+D2
+~
+~
+0 0 2051
+S
+#2051
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D0
+~
+~
+0 0 2050
+D1
+~
+~
+0 0 2052
+D2
+~
+~
+0 0 2053
+S
+#2052
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D2
+~
+~
+0 0 2054
+D3
+~
+~
+0 0 2051
+S
+#2053
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D0
+~
+~
+0 0 2051
+D2
+~
+~
+0 0 2066
+S
+#2054
+A rocky wasteland~
+   The desolate landscape about you begins to smoothe out before you.  Far 
+off to the south you can see a sharp peak.  There are sounds sounds 
+coming from the rocks that surround you.  You can continue south or go 
+back north. 
+~
+20 0 2
+D0
+~
+~
+0 0 2052
+D2
+~
+~
+0 0 2055
+S
+#2055
+A rocky wasteland~
+   As you approach the peak to your south it seems much larger than it 
+appeared just a few hundred yards back.  It is still a ways off to the 
+south.  The sounds from behind the rocks have stopped, leaving the 
+landscape eerily silent. You may continue south or north.
+~
+20 0 2
+D0
+~
+~
+0 0 2054
+D2
+~
+~
+0 0 2056
+S
+#2056
+The base of the mountain~
+   When you reach the base of the mountain you find that the steep sides 
+and loose gravel make it impossible to climb.  There appears to be a 
+small trail going around the mountain to the east and west, though it 
+doesn't appear to have been travelled on for quite some time.
+~
+20 0 2
+D0
+~
+~
+0 0 2055
+D1
+~
+~
+0 0 2057
+D3
+~
+~
+0 0 2058
+S
+#2057
+Trail around the mountain~
+   You have travelled about a quarter of the way around the mountain.  
+Standing here on the northeast base the walk around seems futile.  The 
+land is dry and barren. There are no signs of life.  The onle places to 
+go are south and west. 
+~
+20 0 2
+D2
+~
+~
+0 0 2060
+D3
+~
+~
+0 0 2056
+S
+#2058
+Trail around the mountain~
+   The northwest corner of the mountain is inhabited by some birds high up 
+on the mountainside.  They squawk at you, annoyed at your intrusion.  It's 
+not until they take wing from the nest that you realize how large they 
+are.  You are quite relieved to note they fly off the other way.  The 
+trail goes west and south.
+~
+20 0 2
+D1
+~
+~
+0 0 2056
+D2
+~
+~
+0 0 2059
+S
+#2059
+Trail around the mountain~
+   The southwest corner of the mountain is as barren and desolate as the 
+rest of this area.  What vegetation there is is stunted and twisted.  The 
+rocks are cracked and broken, and make hollow echos as you walk across 
+them.  The path goes to the east and north.
+~
+20 0 2
+D0
+~
+~
+0 0 2058
+D1
+~
+~
+0 0 2061
+S
+#2060
+Trail around the mountain~
+   You reach the southeast corner of the mountain and stop for a rest.  
+There is no sign of a change in sight.  The trail around the mountain 
+continues back to the north or onward to the west.
+~
+20 0 2
+D0
+~
+~
+0 0 2057
+D3
+~
+~
+0 0 2061
+S
+#2061
+Trail around the mountain~
+   You have reached the southern base of the mountain and have learned 
+nothing about this place.  The flammable gas that was present earlier is 
+found here as well.  Every once in awhile it flares up threatening to 
+singe you.  The trail goes east and west.
+~
+20 0 2
+D1
+~
+~
+0 0 2060
+D2
+   The side of the mountain has slid away here, leaving a pile of rubble.~
+rockslide~
+1 0 2062
+D3
+~
+~
+0 0 2059
+S
+#2062
+The base of the mountain~
+   When you reach the base of the mountain you find that the steep sides 
+and loose gravel make it impossible to climb.  There appears to be a 
+small trail going around the mountain to the east and west, though it 
+doesn't appear to have been travelled on for quite some time.
+~
+20 1 2
+D0
+   The side of the mountain has slid away here, leaving a pile of rubble.~
+rockslide~
+1 0 2061
+D1
+~
+~
+0 0 2063
+S
+#2063
+The base of the mountain~
+   When you reach the base of the mountain you find that the steep sides 
+and loose gravel make it impossible to climb.  There appears to be a 
+small trail going around the mountain to the east and west, though it 
+doesn't appear to have been travelled on for quite some time.
+~
+20 1 2
+D2
+~
+~
+0 0 2064
+D3
+~
+~
+0 0 2062
+S
+#2064
+The base of the mountain~
+   When you reach the base of the mountain you find that the steep sides 
+and loose gravel make it impossible to climb.  There appears to be a 
+small trail going around the mountain to the east and west, though it 
+doesn't appear to have been travelled on for quite some time.
+~
+20 1 2
+D0
+~
+~
+0 0 2063
+D1
+~
+~
+0 0 2065
+S
+#2065
+The base of the mountain~
+   When you reach the base of the mountain you find that the steep sides 
+and loose gravel make it impossible to climb.  There appears to be a 
+small trail going around the mountain to the east and west, though it 
+doesn't appear to have been travelled on for quite some time.
+~
+20 1 2
+D3
+~
+~
+0 0 2064
+D5
+~
+~
+0 0 2010
+S
+#2066
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D0
+~
+~
+0 0 2053
+D3
+~
+~
+0 0 2067
+S
+#2067
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D0
+~
+~
+0 0 2068
+D1
+~
+~
+0 0 2066
+S
+#2068
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D2
+~
+~
+0 0 2067
+D3
+~
+~
+0 0 2069
+S
+#2069
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D1
+~
+~
+0 0 2068
+D2
+~
+~
+0 0 2070
+S
+#2070
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D0
+~
+~
+0 0 2069
+D2
+~
+~
+0 0 2071
+S
+#2071
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D0
+~
+~
+0 0 2070
+D1
+~
+~
+0 0 2072
+S
+#2072
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D2
+~
+~
+0 0 2073
+D3
+~
+~
+0 0 2071
+S
+#2073
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D0
+~
+~
+0 0 2072
+D2
+~
+~
+0 0 2075
+D3
+~
+~
+0 0 2074
+S
+#2074
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D1
+~
+~
+0 0 2073
+D3
+~
+~
+0 0 2077
+S
+#2075
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D0
+~
+~
+0 0 2073
+D3
+~
+~
+0 0 2076
+S
+#2076
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D1
+~
+~
+0 0 2075
+S
+#2077
+A rocky wasteland~
+   You are standing in a rocky wasteland, surrounded by glowing spheres of 
+what appears to be flammable gas.  The sky above you is a deep red, and 
+you are hesitant to continue on.
+~
+20 0 2
+D1
+~
+~
+0 0 2074
+D2
+~
+~
+0 0 2078
+S
+#2078
+Descending into a shadowy canyon~
+   The rocky trail you had been following abruptly dips into a canyon filled 
+with shadows. The walls are steep and smooth and the floor of the canyon is 
+free of the debris and rock waste you noticed all along the path. Even more 
+strange though is the bitter cold that pervades the entire area. Not far 
+removed from the blistering heat and flaming gas of the rocky plains, this 
+numbing cold is extremely odd and unnatural. 
+~
+20 0 2
+D0
+~
+~
+0 0 2077
+D2
+~
+~
+0 0 2103
+S
+#2079
+Before the Temple of Tiamat~
+   The magical rift to the north of you emits enough light for you to make 
+out the massive stone structure you are now faced with. The entryway is a 
+large, open arch. Across the pinnacle of the arch are engraved five dragon 
+heads. To each side of the archway extends a heavy stone wall that reachs to 
+the sides of the cavern. Indeed it would appear the wall itself was hewn 
+directly out of the stone. 
+~
+20 9 0
+D2
+~
+archway~
+1 0 2080
+S
+#2080
+A darkened hallway~
+   The entrance to the temple is completely darkened. Your lights combined 
+are hard pressed to defeat the nearly impenetrable blackness. The walls are 
+of glistening black obsidian and there is a passage leading off from the east 
+and west walls. Farther to the south it appears to open up into another large 
+chamber. 
+~
+20 9 0
+D0
+~
+archway~
+1 0 2079
+D1
+~
+door~
+2 2019 2087
+D2
+~
+~
+0 0 2098
+D3
+~
+~
+0 0 2081
+S
+#2081
+An ornate antechamber~
+   Despite your dark surroundings, it is apparent that the occupants of this 
+dwelling are not above decoration. The obsidian walls sparkle with inset 
+gems, and the polised floor is enlaid with gold patterns. The wealth of it 
+all is astounding, but given your location, it is not all that surprising. 
+~
+20 8 0
+D1
+~
+~
+0 0 2080
+D3
+~
+~
+0 0 2082
+S
+#2082
+A shadowy hallway~
+   The darkened chamber to the east does little to provide light to this
+shadowy corridor.  The passage runs off to the east into an antechamber
+while to the west it ends abruptly at a smooth stone wall.  The walls
+are of the same obsidian as the rest of the chamber, but not polished
+to shine.  Upon closer inspection of the floor you notice some strange
+scuff marks.
+~
+20 9 0
+D1
+~
+~
+0 0 2081
+D5
+~
+secret~
+2 2017 2083
+S
+#2083
+Beneath the iron ladder~
+   The alcove you are standing in contains only a small iron ladder that
+ascends into darkness.  To the east is what appears to be a fair-sized
+cellar. The ladder runs upwards at least fifteen feet before disappearing
+into the blackness beyond.
+~
+20 9 0
+D1
+~
+~
+0 0 2085
+D4
+~
+secret~
+1 2017 2082
+S
+#2084
+The far banks of the river Styx~
+   The far banks of the river Styx is the landing site for Charon's ferry
+barge.  There is a small inlet into which he can pole his barge.  Judging
+by the terrain you'd guess that it was no more than a foot or two deep,
+but as you peer over the edge of the ferry you see interminable blackness.
+~
+20 9 6
+D2
+~
+~
+0 0 2044
+D6
+~
+~
+0 0 2115
+S
+#2085
+The cellar~
+   The room you stand in is not so much a cellar as a dungeon.  A far cry
+from the splendor in the passages above, this room has rough hewn walls
+and the floor is dirty and uneven.  The chamber's only inhabitant appears
+to prefer it just that way.  There are stains of darkness here and there
+on the floor and walls, indicating that something may have been spilled
+on them.
+~
+20 262153 0
+D3
+~
+~
+0 0 2083
+S
+#2086
+A darkened hallway~
+   Perspiration drips into your eyes as you squint into the blackness
+that pervades every inch of the hallway.  The temperature here is
+unmistakably hotter as you move south.  Intersecting the passageway
+is another smaller hallway.  It runs directly east and west of where
+you're standing.
+~
+20 9 0
+D0
+~
+~
+0 0 2098
+D1
+~
+~
+0 0 2088
+D2
+~
+door silver~
+2 2045 2095
+D3
+~
+~
+0 0 2090
+S
+#2087
+A shadowy gallery~
+   The shadows shift and twist through the immense room you are now
+occupying.  Standing here and there are grotesque statues of humanoid
+forms.  There are paintings along the walls that appear to have some
+texture and all are of some horrifying scene.  Upon closer inspection
+they prove to be canvased on flesh and inked in blood.  To the
+southeast the shadows seem particularly intense.
+~
+20 9 0
+D1
+~
+~
+0 0 2101
+D3
+~
+door~
+2 2019 2080
+E
+shadows se southeast~
+The shadows here are particularly intense, and it appears you may be able
+to pass through them.
+~
+S
+#2088
+Sitting room~
+   The chandelier swaying gently above your head casts a gloomy light
+over the stone table in the center of the room.  Surrounding the table
+are sixteen highback chairs wrought of what looks to be mithril.  A red
+velvet cloth covers the passageway to the east.
+~
+20 9 0
+D1
+~
+~
+0 0 2089
+D3
+~
+~
+0 0 2086
+S
+#2089
+A lavish bedroom~
+   Lavish may not be the exact word to describe this chamber.  The many
+decorations are indeed immaculate, but at the same time they are twisted
+and would suggest the occupant suffers from dementia.  Everywhere you
+look is the trace of beauty, but the effect it achieves is a mockery
+of what you would consider truly beautiful.  The satin covered bed covered
+with an ivory colored veil would be lovely if not for the cast-iron bed
+frame with shackles fixed to the posts.  The black marble floor would
+be the masterpiece of any stone mason, yet it loses it's appeal when you
+notice the tormented forms writhing beneath it in places that are somehow
+magically transparent.  Whoever dwells here obviously has a cruel sense
+of humor.
+~
+20 262152 0
+D3
+~
+~
+0 0 2088
+S
+#2090
+A narrow hallway~
+   Leaving the main hallway behind, you travel off into a narrower side
+hallway.  The walls continue to get closer together as you proceed to
+the west.  The smooth stone becomes broken and chipped as if it had not
+yet been hand tooled.  This passage continues to the west or you can
+return to the main hallway to the east.
+~
+20 9 0
+D1
+~
+~
+0 0 2086
+D3
+~
+~
+0 0 2094
+D5
+~
+trapdoor~
+2 2018 2091
+S
+#2091
+A waiting room~
+   This is the waiting room to meet Amduscias, the lord of the Abishai
+and a longtime consort of Tiamat.  As you take in your surroundings the
+most impressive item you note is the reliefwork on the north wall.  It
+depicts the timeless struggle between the devils of Hell and the demons
+of the Abyss.  In one scene a lord you can only assume is Amduscias
+himself is seen taking down a demon commander with an arrow from his
+mighty warbow.
+~
+20 9 0
+D3
+~
+~
+0 0 2093
+D4
+~
+trapdoor~
+2 2018 2090
+S
+#2092
+Aboard Charon's ferry~
+   You stand aboard Charon's ferry, a long barge which the dark ferryman
+rows across the treacherous Styx for a fee. The black water laps at the
+boat, water you dare not drink. Here in the boat you feel a little safer,
+except for the supernatural ferryman's presence. A dragon-headed prow
+casts no reflection in the abyssal waters the ferry plies.
+~
+20 0 0
+S
+#2093
+A dark throne room~
+   Surrounded by bones from various creatures stands a bone crafted of
+skulls.  The many hundreds of eye sockets peer out at you in anguish.
+The stones are held in place by some unrecognizable mortar.  The throne
+itself is upon a slightly raised dais.  At the foot of the dais stand
+two sconces that flicker dimly.  To the east there is a passage that
+leads back to the center of the temple.
+~
+20 8 0
+D1
+~
+~
+0 0 2091
+S
+#2094
+The end of the passage~
+   The rough hallway continues to shrink in size until eventually you come
+to its end.  The black rock becomes a solid wall in front of you and you
+are left with no choice but to turn back.
+~
+20 9 0
+D1
+~
+~
+0 0 2090
+S
+#2095
+A darkened hallway~
+   You pass into a high-ceilinged portion of the hallway that traverses
+the temple.  Just a bit to the south you can see the end of the hallway
+illuminated by a soft glow originating in the floor.  Now and then you
+hear a soft hiss coming from the south, but it passes quickly.
+~
+20 9 0
+D0
+~
+door silver~
+2 2045 2086
+D2
+~
+~
+0 0 2096
+S
+#2096
+The end of the hallway~
+   You have come to the end of the darkened hallway that runs through
+the length of the temple of Tiamat.  Set into the floor is a rounded
+glowing portal.  The hallway runs back to the north, though the range
+of visibility is extremely limited.  The portal bubbles now and then
+emitting a horrid stench of rotting flesh.
+~
+20 9 0
+D0
+~
+~
+0 0 2095
+S
+#2097
+Hall of Twilight~
+   You descend down a dark hallway into an open hall.  There are braziers
+burning along the walls that give off an eerie blue light.  The strange
+hues coming from the braziers bathes the entire room in an eerie twilight,
+for which the hall earned it's name.  From the south you can feel an
+intense heat emanating, and the stench of death is unmistakable.
+~
+20 8 0
+D2
+~
+~
+0 0 2045
+S
+#2098
+A darkened hallway~
+   Standing between the entrance foyer and a large chamber that opens up
+directly south of you is a broad stalagmite of obsidian.  The point is
+razor sharp and its length is covered with what appears to be dried
+blood as if something had been impaled upon it.  Occasionally you feel
+a slight breeze pass through the chamber.  It surprises you to note
+that it comes not from the north, but from the south, deeper withing
+the temple.  The smell of carion is carried clearly upon the wind.
+~
+20 9 0
+D0
+~
+~
+0 0 2080
+D2
+~
+~
+0 0 2086
+S
+#2099
+Upon a creaking dock~
+   You suddenly wonder if stepping onto this dock was such a good idea.  It
+floats barely above the black waters of the river, hardly able to support
+its own weight.  It is by some minor miracle that it is holding you out of
+the water, and you wonder suddenly how long it will continue.  The beach
+to the west looks suddenly very inviting.
+~
+20 13 6
+D1
+~
+~
+0 0 2111
+D3
+~
+~
+0 0 2043
+S
+#2100
+Beyond the shadows~
+   Stepping out of the field of shadows you come into a hall filled with
+a bright white light.  In the middle of the hall is a stake of what appears
+to be solid oak.  There are shackles dangling along the post of the stake.
+The light seems to come from no source in particular, yet it fills the hall
+completely.
+~
+20 393224 0
+S
+#2101
+An alcove~
+   The shifting wall of shadows to your west seems to absorb all light
+from the air.  The alcove itself is carved from the black stone of
+the earth.  The walls are chiseled smooth and the top of the alcove
+arches up to a height of approximately 30 feet.
+~
+20 9 0
+D3
+~
+~
+0 0 2087
+S
+#2102
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 0 0
+S
+#2103
+At the base of the cliffs~
+   The base of the cliffs slope gently upwards.  The going here is easy, but 
+you can see that a short way up the going becomes treacherous.  About half-
+way up the cliffs you can see an opening to a cave.  The loose rocks around
+you appear recently turned, as if someone has recently tread this way.
+~
+20 0 2
+D0
+~
+~
+0 0 2078
+D4
+~
+~
+0 0 2104
+S
+#2104
+Ascending the cliff~
+   Shortly after beginning your climb you come to a cave that opens
+into the face of the cliff.  The mouth of the cave is quite wide and
+it will take you some time to climb around it.  You wonder quietly
+to yourself if it might not be better to check out what's inside.
+~
+20 0 5
+D2
+~
+~
+0 0 2109
+D4
+~
+~
+0 0 2105
+D5
+~
+~
+0 0 2103
+S
+#2105
+Nearing the top of the cliff~
+   As you pass the first cave on the cliff face the grade begins to
+steepen and soon you are having to use your hands to pull yourself
+up inch by inch.  Your muscles burn as you grasp at tiny cracks and
+crevices, searching for your next handhold.  You look up and see
+that you still have some ways to go before you'll reach the top.
+~
+20 0 5
+D4
+~
+~
+0 0 2106
+D5
+~
+~
+0 0 2104
+S
+#2106
+Atop the cliffs~
+   As you step up to the ridge of the cliff the ground levels out
+before you.  There is a broad ledge that is scattered with broken
+stones and lichen that lead back to the mouth of a large cave.
+~
+20 1 5
+D2
+~
+~
+0 0 2107
+D5
+~
+~
+0 0 2105
+S
+#2107
+A darkened entryway~
+   The broad ledge widens out before the mouth of the cave into 
+a small plateau.  The stone around the mouth of the cave is scuffed
+and clawed and there are deep gouges in the stone beneath your feet.
+To the north you can look out over Avernus.  The mountain you rounded
+to get here looms like a beacon over the rocky wastes.  Occasionally
+a ball of gas bursts into flame illuminating the horizon.
+~
+20 1 4
+D0
+~
+~
+0 0 2106
+D2
+~
+gate~
+2 0 2108
+S
+#2108
+The glittering cave~
+   The cave you are standing in stikes you at once as both wonderous
+and horrible.  The cavern was apparently carved out of a vein of
+black onyx, and the walls are laced with quatz.  The horror of the
+being standing before you quickly erases any thoughts of beauty
+you could find here.
+~
+20 393224 0
+D0
+~
+gate~
+2 0 2107
+D2
+~
+doors~
+2 2029 2116
+S
+#2109
+A short passage~
+   The short passage you find yourself in leads back from the mouth of
+the cave into utter blackness.  As you proceed along, you feel something
+crunching under your boots that feels a lot like bones.
+~
+20 1 0
+D0
+~
+~
+0 0 2104
+D3
+~
+~
+0 0 2110
+S
+#2110
+Complete darkness~
+^wIt is pitch black...^n
+~
+20 73 0
+D1
+~
+~
+0 0 2109
+S
+#2111
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+20 0 12
+D2
+~
+~
+0 0 2112
+D3
+~
+~
+0 0 2099
+S
+#2112
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+20 0 12
+D0
+~
+~
+0 0 2111
+D2
+~
+~
+0 0 2113
+S
+#2113
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+20 0 12
+D0
+~
+~
+0 0 2112
+D7
+~
+~
+0 0 2114
+S
+#2114
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+20 0 12
+D2
+~
+~
+0 0 2115
+D9
+~
+~
+0 0 2113
+S
+#2115
+The river Styx~
+   The stygian waters wend through avernus like a pitchy flow through the
+rocky terrain. Sometimes in the water you see a corpse or a distraught
+soul clutching for rescue. The brave swimmers do not make it far. At a
+distance you see a drowning soul staring at you. You could drown here too
+and forget the troubles of the world and your past deeds. You would then
+be only a soul without a past, oblivous and ready. The black waters
+lap gently at the shore, waves licked by tiny flames.
+~
+20 0 12
+D0
+~
+~
+0 0 2114
+D8
+~
+~
+0 0 2084
+S
+#2116
+A quiet place~
+   Thick dust covers the floor in this section of the cave.  You'd guess that
+no foot has dared tread on this ground in eons.  Your clear tracks across the
+dust-layered stone serve only to accentuate the fact that your passage is
+disturbing your surroundings.  The shimmering rift of magic before you swirls
+maddeningly, forcing you to look away from time to time as your mind slips
+into semi-conciousness.
+~
+20 0 0
+D0
+~
+doors~
+2 2029 2108
+S
+#2117
+Before the Gates of Dis~
+   Two massive wrought iron gates jut from the stone-littered ground before
+you, each standing over twenty five feet in height.  The gates are set into
+thick obsidian pillars which connect to the iron walls that surround the city.
+From somewhere inside the city you can hear thousands of voices crying out
+in anguish.  The wind coming off the barren plains at your back carries a
+foul stench.  Carrion beasts of all sizes hover about the gates, staring
+inward, awaiting their next meal.
+~
+20 8 1
+D0
+~
+gates~
+2 2100 2118
+S
+#2118
+Inside the gates of Dis~
+   Just inside the gates of Dis, the city takes on horrible new dimensions.
+The tall iron walls hover opressingly above your head and the streets are
+choked with filth.  The iron walls of buildings and city alike are burning
+hot.  Even passing near them causes you a great deal of discomfort.
+~
+20 1 1
+D0
+~
+~
+0 0 2119
+D2
+~
+gates~
+2 0 2117
+S
+#2119
+Main street of Dis~
+   The streets of Dis are dark and melancholy.  Screams echo from somewhere
+along a side street.  In the distance you can see the high tower that is
+rumored to house the master of this plane.  Listless spirits wander the
+streets confessing the sins of their lives.
+~
+20 1 1
+D0
+~
+~
+0 0 2120
+D1
+~
+~
+0 0 2126
+D2
+~
+~
+0 0 2118
+D3
+~
+~
+0 0 2128
+S
+#2120
+Main street of Dis~
+   Everywhere are signs of pain and anguish.  The buildings are squat and
+made of rough-hewn stone, garishly decorated to depict images that mock
+joy and peace.  No stone is without bloodstains and no open space is free
+of suffering.  If you try to approach the victims they shy away from you
+and scream out horribly as if you were scalding them with a hot iron.
+~
+20 1 1
+D0
+~
+~
+0 0 2121
+D2
+~
+~
+0 0 2119
+S
+#2121
+Main street before the temple~
+   Up ahead the sky is blackened by the shape of the twisting tower of Iron,
+home of Dispater, lord of the Dead.  To the east is his temple, a blackened
+edifice of pain and debauchery.  You can see winged demons, apparently his
+acolytes, moving through passageways within.
+~
+20 1 1
+D0
+~
+~
+0 0 2122
+D1
+~
+door~
+1 0 2132
+D2
+~
+~
+0 0 2120
+D3
+~
+~
+0 0 2135
+S
+#2122
+Main street of Dis~
+   The northern part of town is much more humid than the south.  The filth and
+debris that is present everywhere seems to pile up against the north wall that
+separates the tower from the bulk of the city.  Low hanging clouds of green,
+heavy with acid rain, give the sky a sickly appearance.
+~
+20 1 1
+D0
+~
+~
+0 0 2123
+D2
+~
+~
+0 0 2121
+S
+#2123
+Before the Iron Tower~
+   Cold sweat trickles down your back and sends shivers up your spine in
+spite of the intense heat that assaults you on every exposed surface.  There
+is an aura of evil that emenates from the tower before you.  The side streets,
+daunting just a moment ago, now seem like a welcome alternative to the path
+ahead.  You attempt to steel your nerves and slowly place one foot in front
+of the other.
+~
+20 1 1
+D0
+~
+~
+0 0 2144
+D1
+~
+~
+0 0 2138
+D2
+~
+~
+0 0 2122
+D3
+~
+~
+0 0 2141
+S
+#2124
+An unfinished room~
+unfinished
+~
+20 0 0
+S
+#2125
+An unfinished room~
+unfinished
+~
+20 0 0
+S
+#2126
+A side street~
+   You find yourself walking down a side street in Dis.  There are several
+sounds and smells you can't (thankfully) identify.  You can't pick individual
+voices out in the banter, but you know that each is filled with anguish.
+~
+20 1 1
+D0
+~
+~
+0 0 2149
+D1
+~
+~
+0 0 2127
+D2
+~
+~
+0 0 2151
+D3
+~
+~
+0 0 2119
+S
+#2127
+A side street~
+   In the middle of this wide street is a man encased in flames.  He is
+chained to a stone slab that lists his crimes.  He was apparently an
+arsonist in life and is doomed to burn for eternity to suffer for his
+crimes.  You see his skin char and blacken as the flames lick at his body,
+but as quickly as he blisters and burns, the wounds cover over and the
+fire begins its work anew.
+~
+20 1 1
+D0
+~
+~
+0 0 2152
+D1
+~
+~
+0 0 2131
+D2
+~
+~
+0 0 2153
+D3
+~
+~
+0 0 2126
+S
+#2128
+A side street~
+   The ground here is made up of what appears to be various kinds of skins.  A
+soft breeze blows in from the north, carrying with it the nauseating smell of
+carrion.  Your boots squish and slop on the muddy (bloody?) ground.  The side
+street continues on to the west.
+~
+20 1 1
+D0
+~
+~
+0 0 2164
+D1
+~
+~
+0 0 2119
+D2
+~
+~
+0 0 2165
+D3
+~
+~
+0 0 2129
+S
+#2129
+A side street~
+   This section of street is littered with stockades.  Gaunt figures are
+locked into them here and there, left to starve for eternity, for death
+does not come quickly to the dead.  Figures with bodies scarcely larger
+than the bones that support them stuggle to look at you as you pass, sound
+having left their bodies long ago.
+~
+20 1 1
+D0
+~
+~
+0 0 2162
+D1
+~
+~
+0 0 2128
+D2
+~
+~
+0 0 2163
+D3
+~
+~
+0 0 2130
+S
+#2130
+An intersection~
+   The avenue that runs north here is split down the middle by a river of
+blood that flows from victims hung from the walls on either side of the street.
+Most of the bodies have been pierced with wicked barbed hooks attached to
+poles which hang limply from their flesh.
+~
+20 1 1
+D0
+~
+~
+0 0 2146
+D1
+~
+~
+0 0 2129
+S
+#2131
+ An intersection~
+   As you come to the end of the side street, a wide avenue turns to the
+north and terminates up ahead at the castle walls.  Deep ruts have been cut
+in the stone road, and you can see people chained down here and there, being
+obviously run over each time a cart passes.
+~
+20 1 1
+D0
+~
+~
+0 0 2145
+D3
+~
+~
+0 0 2127
+S
+#2132
+Entrance to the Temple of Dispater~
+   You are standing inside a dummy room, which should get real.
+~
+20 8 0
+D0
+~
+~
+0 0 2156
+D1
+~
+~
+0 0 2133
+D2
+~
+~
+0 0 2157
+D3
+~
+door~
+1 0 2121
+S
+#2133
+Before the Altar~
+   The altar of the temple of Dispater is an affront to all things good and
+holy.  The twisted forms of totured souls are engraved in relief on the
+walls, and the altar itself is a blackened dais of iron forged in blood.
+Resting upon the altar is a book that was scribed upon the skins of virgin
+girls who had impure thoughts.  The text was inked in the blood of false
+priests.
+~
+20 8 0
+D0
+~
+~
+0 0 2158
+D1
+~
+~
+0 0 2160
+D2
+~
+~
+0 0 2159
+D3
+~
+~
+0 0 2132
+S
+#2134
+Eastern Avenue~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D0
+~
+~
+0 0 2148
+D2
+~
+~
+0 0 2145
+S
+#2135
+The small alley~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D1
+~
+~
+0 0 2121
+D3
+~
+~
+0 0 2136
+S
+#2136
+The small alley~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D1
+~
+~
+0 0 2135
+D3
+~
+~
+0 0 2137
+S
+#2137
+Western Avenue~
+   A small alley parts from the road here and runs east to the main street
+through the city.  Dark shadows, too deep to penetrate, mask your view of
+whatever lies in that alley.  You can almost feel eyes upon you as you
+hurry quickly past.
+~
+20 1 1
+D0
+~
+~
+0 0 2147
+D1
+~
+~
+0 0 2136
+D2
+~
+~
+0 0 2146
+S
+#2138
+A side street~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D0
+~
+~
+0 0 2170
+D1
+~
+~
+0 0 2139
+D2
+~
+~
+0 0 2171
+D3
+~
+~
+0 0 2123
+S
+#2139
+A side street~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D0
+~
+~
+0 0 2172
+D1
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2173
+D3
+~
+~
+0 0 2138
+S
+#2140
+An intersection~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D2
+~
+~
+0 0 2148
+D3
+~
+~
+0 0 2139
+S
+#2141
+A side street~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D0
+~
+~
+0 0 2166
+D1
+~
+~
+0 0 2123
+D2
+~
+~
+0 0 2167
+D3
+~
+~
+0 0 2142
+S
+#2142
+A side street~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D0
+~
+~
+0 0 2168
+D1
+~
+~
+0 0 2141
+D2
+~
+~
+0 0 2169
+D3
+~
+~
+0 0 2143
+S
+#2143
+An intersection~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D1
+~
+~
+0 0 2142
+D2
+~
+~
+0 0 2147
+S
+#2144
+The Death Gates~
+   Everything you've witnessed in a life of adventuring could not prepare
+you for what you now face.  Two enormous gates tower above you, wrought
+entirely from humanoid skulls set into thick iron brackets.  Each gate must
+way several thousand pounds.  Your flesh begins to crawl maddeningly as you
+notice that each of the skulls seems to be staring directly at you.  Unnerved
+you step to the side to avoid their gaze and have to stifle a scream as the
+thousands of heads rotate to keep their eyes locked upon yours.
+~
+20 1 1
+D2
+~
+~
+0 0 2123
+S
+#2145
+Eastern Avenue~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D0
+~
+~
+0 0 2134
+D2
+~
+~
+0 0 2131
+S
+#2146
+Western Avenue~
+   The river of blood flows sickeningly ever north through the middle of the
+street that ends at the walls of the Tower.  Overstuffed carrion birds swoop
+lazily down to drink from the river and barely manage to wing themselves back
+up to the top of the walls.
+~
+20 1 1
+D0
+~
+~
+0 0 2137
+D2
+~
+~
+0 0 2130
+S
+#2147
+Western Avenue~
+   Silent screams pierce your vision from all around you.  Twisted faces
+trapped within walls of flesh and floating spirits that scream a million
+torments assault your visual senses.  Your ears detect nothing except the
+perfect silence of death.  Your mind spins and your senses start to reel.
+The silence is pierced by the deafening cry of a bird of prey.  It's as
+large as a wyvern but appears more closely related to a raven.
+~
+20 1 1
+D0
+~
+~
+0 0 2143
+D2
+~
+~
+0 0 2137
+S
+#2148
+Eastern Avenue~
+   You are standing inside a dummy room, which should get real.
+~
+20 1 1
+D0
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2134
+S
+#2149
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D2
+~
+~
+0 0 2126
+S
+#2150
+The Corner (aka the Timeout room)~
+   As you sit with your nose in the corner, you have lots of time to
+reflect upon what it is that you did to anger an immortal.  There is
+no way out of this room, so get comfortable.
+~
+20 394992 0
+S
+#2151
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D0
+~
+~
+0 0 2126
+S
+#2152
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D2
+~
+~
+0 0 2127
+S
+#2153
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D0
+~
+~
+0 0 2127
+S
+#2154
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 0 0
+S
+#2155
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 0 0
+S
+#2156
+An anteroom in the Temple~
+   You are standing inside a dummy room, which should get real.
+~
+20 8 0
+D2
+~
+~
+0 0 2132
+S
+#2157
+An anteroom in the Temple~
+   You are standing inside a dummy room, which should get real.
+~
+20 8 0
+D0
+~
+~
+0 0 2132
+S
+#2158
+A prayer room~
+   This small anteroom serves as a prayer room for worshippers
+who are admitted to see the priests.  There is a small raised
+platform upon which rests a wide bowl and a small serrated
+knife, which you assume would be used to make sacrafice.
+~
+20 8 0
+D2
+~
+~
+0 0 2133
+S
+#2159
+A prayer room~
+   This small anteroom serves as a prayer room for worshippers
+who are admitted to see the priests.  There is a small raised
+platform upon which rests a wide bowl and a small serrated
+knife, which you assume would be used to make sacrafice.
+~
+20 8 0
+D0
+~
+~
+0 0 2133
+S
+#2160
+Faces of Death~
+   This room is barren barring a single human skull with an enormous diamond
+embedded in the left eye socket.  As you look to remove the diamond, you begin
+to see visions of the many faces of death.  You scream in horror as you fall
+from a tremendous height and bounce as you hit the earth.  A moment later you
+writhe in agony as you experience death by incineration.  You then are suddenly
+underwater dying by asphixiation.  Further torments assail your mind.  You die
+over and over, each death seeming more cruel and more real than the one before
+it.  You realize that everyone dies, it's just a matter of how and when.
+~
+20 9 0
+D3
+~
+~
+0 0 2133
+S
+#2161
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 0 0
+S
+#2162
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D2
+~
+~
+0 0 2129
+S
+#2163
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D0
+~
+~
+0 0 2129
+S
+#2164
+A maggot-filled room~
+   This room is made up of some form of meat you can't identify.  The floor
+churns and twists as you tread upon it.  You look down and study the material
+and recoil in horror as you see a face turn a pleading eye on you.  The face
+has a shadow of a mouth that is twisted into a horrible silent scream.
+~
+20 9 0
+D2
+~
+~
+0 0 2128
+S
+#2165
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D0
+~
+~
+0 0 2128
+S
+#2166
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D2
+~
+~
+0 0 2141
+S
+#2167
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D0
+~
+~
+0 0 2141
+S
+#2168
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D2
+~
+~
+0 0 2142
+S
+#2169
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D0
+~
+~
+0 0 2142
+S
+#2170
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D2
+~
+~
+0 0 2138
+S
+#2171
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D0
+~
+~
+0 0 2138
+S
+#2172
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D2
+~
+~
+0 0 2139
+S
+#2173
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+20 9 0
+D0
+~
+~
+0 0 2139
+S
+#99999
+$~

@@ -1,0 +1,679 @@
+#28300
+diamond necklace~
+a diamond necklace~
+A necklace has be left here.~
+   As you hold they necklace of diamonds the light reflects off 
+the many faucet cuts showering you with a rainbow of light.
+~
+9 49217 5
+5 0 0 0
+2 2000000 0
+E
+diamond necklace~
+As you hold the necklace of diamonds the light reflects off
+the many faucet cuts showering you with a rainbow of light.
+~
+A
+12 25
+#28301
+scale mail~
+scale mail~
+A piece of scale mail is lying here.~
+~
+9 0 9
+10 0 0 0
+5 0 0
+E
+scale mail~
+  This piece of scale mail is of a tarnish color. Weighting
+about 5lbs. It should make ones armour all the more better.
+~
+A
+1 1
+A
+2 1
+#28302
+footman mace~
+footman mace~
+A footman's mace is lying here.~
+~
+5 16384 8193
+5 4 8 6
+8 0 0
+E
+footman mace~
+  The footman's mace is a nice size mace. The ornate structure
+at the end of the mace would bash through anyones armor.
+~
+A
+1 2
+A
+18 3
+A
+19 4
+A
+6 -2
+A
+5 -1
+#28303
+footman flail~
+footman flail~
+A flail is lying here.~
+~
+5 270545408 8193
+8 15 4 2
+4 0 0
+E
+flail footman~
+  A footman's flail is in excellent conditions. 
+~
+A
+2 3
+A
+13 30
+A
+19 6
+A
+18 3
+A
+5 -4
+A
+4 -3
+#28304
+chain mail~
+chain mail~
+A piece of chain mail armor is lying here.~
+~
+9 8400896 9
+14 0 0 0
+8 0 0
+E
+chain mail~
+   Chain mail is a piece of armor that you wear on your body.
+It weights slighty more then most armors however it gives
+good protection in combat.
+~
+A
+1 2
+A
+13 25
+#28305
+tunic~
+a tunic~
+A tunic lays folded here.~
+~
+9 49152 9
+6 0 0 0
+3 0 0
+E
+tunic~
+  The tunic is made of a woven wool and is brown in color.
+~
+A
+6 2
+#28306
+black silk robe~
+a black silk robe~
+A pile of silk is lying here.~
+~
+9 49984 1025
+6 0 0 0
+3 0 0
+E
+black silk robe~
+   A black silk robe is to be worn about the body. It looks 
+to be in good condition.
+~
+A
+12 25
+A
+3 2
+#28307
+beeswax candle~
+a beeswax candle~
+A candle is lying here half used.~
+~
+1 1 16385
+0 0 100 0
+1 10 0
+E
+candle beeswax~
+   As the wax from the candle runs down it is caught within 
+the candle holder. The holder is made of a material that keeps
+the heat within the holder and not burn the the person whom
+holds the candle.
+~
+A
+12 15
+A
+19 2
+#28308
+ceremonial garment~
+ceremonial garment~
+A garment is lying in a ball.~
+~
+9 184385 5
+6 0 0 0
+4 0 0
+E
+ceremonial garment~
+ A ceremonial garment is usually worn around the neck. 
+Making one all the more wiser with age.
+~
+A
+4 1
+A
+24 -5
+A
+3 1
+#28309
+incense stick~
+a stick of incense~
+A white stick of some sorts is lying here.~
+~
+4 65536 16385
+30 2 2 28
+3 5000 0
+E
+stick incense~
+  A stick of incense is a staff of some sort. It holds a 
+plesant scent and is all white.
+~
+#28310
+potion fly~
+a potion of fly~
+A potion is lying here.~
+~
+10 0 16385
+35 69 0 0
+1 0 0
+E
+potion~
+  A clear liquid is in a small flask.
+~
+#28311
+chest~
+a chest~
+A large chest rests in the far corner of the room.~
+~
+15 0 0
+250 5 -1 0
+30 0 0
+E
+chest~
+ A large flattopped chest looks to be in good shape. It is of
+a brownish color and is not locked.
+~
+#28312
+key~
+a chamber key~
+A key is lying here.~
+~
+18 65548 1
+0 0 0 0
+1 0 0 100
+E
+key chamber~
+   A small worn key with the words chamber engraved on it.
+~
+#28313
+key~
+a cell key~
+A key is lying here.~
+~
+18 65548 1
+0 0 0 0
+1 0 0 100
+E
+cell key~
+  Cell number 1, 2, 3, 4 is engraved on a small rusty key.
+~
+#28314
+key storage~
+a storage key~
+A key is lying here.~
+~
+18 65548 1
+0 0 0 0
+1 0 0 100
+E
+key~
+  Looking closer to the key you can see it is labeled as
+the storage room key.
+~
+#28315
+black silk bag~
+a black silk bag~
+A black bag is lying here.~
+~
+15 64 16385
+200 0 -1 0
+0 0 0
+E
+black silk bag~
+ A black silk bag is made of the finest silk in the realms.
+It is a good strong container.
+~
+A
+4 1
+A
+3 1
+#28316
+scarab chest~
+a scarab chest~
+A chest engraved with scarabs rests here.~
+~
+15 0 0
+300 5 -1 0
+50 0 0
+E
+chest scarab~
+  A large chest engraved with scarabs is closed. The chest 
+was crafted with hours of long work and pride. The scarabs 
+are neatly layed within the wood and are know to bring luck
+to ones in their presents.
+~
+#28317
+coins gold~
+gold coins~
+A pile of gold coins is lying here.~
+~
+20 0 1
+2000 0 0 0
+0 0 0
+E
+gold coins~
+A pile of gold coins
+~
+#28318
+key small~
+a grate key~
+A small key is lying here.~
+  A key has a small engrave on it. Looks to say grate.
+~
+18 65548 1
+0 0 0 0
+1 0 0
+#28319
+snake ring~
+a snake ring~
+A ring is lying here.~
+~
+9 2560 3
+4 0 0 0
+2 10 0
+E
+snake ring~
+   A gold band in the shape of a snake. It has a large
+green stone set in the middle of its tail. Within the
+stone you can see a five headed dragon.
+~
+A
+2 1
+A
+1 1
+A
+24 1
+#28320
+silver wrist guard~
+silver wrist guard~
+A band of silver is lying here.~
+A surge of power flows up your arm!
+~
+9 1060928 4097
+6 0 0 0
+2 100000 0
+E
+silver guard~
+  A band of silver is made of a fine silver. It is about two
+inches wide and half inch thick to prevent unwanted slashes
+in combat.
+~
+A
+13 25
+A
+19 2
+A
+5 2
+A
+12 -50
+#28321
+bracelet scarab~
+a scarab bracelet~
+A gold bracelet is lying here.~
+  A scarab bracelet
+~
+9 1228864 4097
+6 0 0 0
+2 1 0
+E
+scarab bracelet~
+  The scarabs are carved out of the finest gems and inlayed
+in gold. One is to believe that this must be of the magical
+sort.
+~
+A
+3 2
+A
+12 25
+A
+23 -2
+#28322
+obelisk~
+obelisk~
+A marble obelisk rests here.~
+~
+8 0 0
+0 0 0 0
+100 500000 0
+E
+obelisk~
+He who is certain he knows the ending of things when he is only
+beginning them is either extremely wise or extremely foolish, no
+matter which is true, he is certainly an unhappy man, for he has
+put a knife in the heart of wonder.
+
+More bluntly, new visitors to this land should take heed - Avoid
+Assumptions.
+
+Welcome stranger. The paths are treacherous today.
+~
+#28323
+shaft portal~
+a portal~
+Air is coming from a shaft on the far wall.~
+~
+27 0 0
+28397 0 0 0
+0 0 0
+E
+shaft portal~
+  Air hits you in the face as you look in the shaft. You can
+make out some trees on the other side and what looks to be a
+large obelisk,
+~
+#28381
+large black shield halloween~
+a large black shield~
+A large black shield is lying here.~
+~
+9 65548 513
+50 0 0 0
+0 0 0
+E
+black large shield~
+   A large black shield.
+~
+B
+1064 0
+#28382
+black stone~
+a small black stone~
+A small black stone is lying here.~
+~
+4 65 16385
+60 3 3 3
+1 444 0
+E
+black stone~
+   A small black stone is used like a staff and will bless it's targets.
+~
+#28383
+bottle mulled wine~
+a bottle of mulled wine~
+A bottle of wine is lying here.~
+~
+17 0 1
+500 500 2 0
+0 444 0
+E
+bottle mulled wine~
+  A large bottle of mulled wine.
+~
+#28384
+mugwort~
+a piece of mugwort~
+A piece of mugwart is lying here.~
+~
+25 0 1
+60 35 0 0
+0 444 0
+E
+mugwort~
+   A piece of mugwort grown with other herbs, used to remove evil curses.
+~
+#28385
+herb sage~
+a piece of sage~
+A piece of sage is lying here.~
+~
+25 0 1
+60 28 36 0
+0 444 0 500
+E
+herb sage~
+   From bluish-green tint to deep purple leaves and flowers, Sage
+has been known to be the cure all.
+~
+#28386
+catnip herp plant~
+catnip~
+A small piece of some sort of plant is lying here.~
+~
+25 0 1
+60 64 0 0
+0 444 0
+E
+catnip plant herb~
+   A small plant/herb used to make you move faster.
+~
+#28387
+jet black obsidian stone~
+a jet black obsidian stone~
+A jet black stone is lying here.~
+~
+9 65625 16385
+6 0 0 0
+2 2000000 0
+E
+jet black obsidian stone~
+   A rare and beautiful stone of obsidian. The deep richness of the color makes the stone glow.
+A aura of power surrounds the stone and it's wearer.
+~
+A
+2 4
+A
+24 -2
+A
+23 -2
+A
+19 4
+A
+14 -25
+B
+32 0
+#28388
+orange pumpkin~
+an orange pumpkin~
+A orange pumpkin is lying here.~
+~
+17 65544 1
+999 999 21 0
+1 0 0
+E
+pumpkin~
+ A pumpkin filled with pepsi.
+~
+#28389
+spider leg guards~
+spider leg guards~
+A pair of shiny black leg guards is lying here.~
+~
+9 65800 33
+10 0 0 0
+2 0 0
+E
+spider leg guards~
+   A pair of leg guards. Make of a strong metal and is etched with spiders.
+~
+A
+19 3
+A
+18 3
+A
+13 30
+#28390
+hershey kiss~
+a Hershey's Kiss~
+A piece of chocolate is lying here.~
+~
+19 0 1
+10 0 0 0
+0 0 0
+E
+hersey kiss~
+ A hersey kiss.
+~
+#28391
+candy bar~
+a candy bar~
+A chocolate candy bar was left here.~
+~
+19 0 1
+10 0 0 0
+0 0 0
+E
+candy bar~
+ A candy bar.
+~
+#28392
+eyeball krispie rice~
+a eyeball~
+A round ball of rice krispies is lying here.~
+~
+19 0 1
+10 0 0 0
+0 0 0
+E
+eyeball krispie rice~
+ Rice krispies treats shaped into a round ball with a red
+M & M in the center. With a pinch of frosting for the pupil.
+~
+#28393
+caramel apple~
+a caramel apple~
+A forgotten caramel covered apple is lying here.~
+~
+19 0 1
+10 0 0 0
+0 0 0
+E
+caramel apple~
+ A caramel covered apple.
+~
+#28394
+trick treat card~
+a trick or treat card~
+A card is lying here.~
+~
+13 0 1
+0 0 0 0
+0 0 0
+E
+trick treat card~
+  This is a trick or treat card that is worth one point.
+~
+#28395
+marshmallow chocolate~
+a chocolate covered marshmallow ghost.~
+A piece of chocolate is lying here.~
+~
+19 0 1
+15 0 0 0
+0 0 0
+E
+chocolate marshmallow~
+  A chocolate covered marshmallow in the shape of
+a ghost.
+~
+#28396
+book halloween~
+a book of short scary stories~
+A black misty book is lying here.~
+~
+8 0 1
+0 0 0 0
+1 0 0
+E
+page3~
+the couple checked out the address the girl had given. The door was 
+answered by the girls distraught mother, who told them her daughter 
+had been killed only a few days before, in a motorcycle accident on 
+the same stretch of road where they had picked up their female hitchiker. 
+~
+E
+page2~
+One winter's evening early in the 1960s, a young couple were riding a 
+motorbike and sidecar along the moorland road linking Fox House 
+near Hathersage, with Sheffield. They were flagged down by a girl in
+a leather jacket with a crash helmet, who asked for a lift to an
+address in Sheffield. Before they got there, though, the man realised 
+his pillion passenger had vanished. They returned to Fox House but 
+found no trace of the girl. After reporting it to the police 
+~
+E
+book page1~
+Page2 to Page3 - The Hitchiker
+Page4 to Page5 - Haunted House
+~
+E
+page4~
+Highlow Hall, Hathersage, has been described as "reputedly the most 
+haunted house in Derbyshire". The first record of a haunting 
+there is from the fourteenth century when it is said the 
+scheming Nicholas Eyre wooed two sisters for their inheritance. When 
+the elder sister found out she fled the hall and was never seen alive 
+again. Her ghost is said to have appeared to Nicholas and put a 
+curse on the Eyre family. 
+~
+E
+page5~
+Another ghost seen there is a 'white lady' thought to be the 
+ghost of a lady murdered in an upstairs bedroom. Another 'lady in 
+white' was seen in the yard at 2 one morning, and a lady visitor to 
+the Hall saw a ghostly figure of a man. 
+~
+#28397
+candy apple~
+a candy apple~
+A red sticky candy apple is lying here.~
+~
+19 0 1
+10 0 0 0
+1 0 0
+E
+candy apple~
+  A nice shiny sticky red candy apple.
+~
+#28398
+candy corn~
+candy corn~
+A candy corn is lying here.~
+~
+19 0 1
+10 0 0 0
+0 0 0
+E
+candy corn~
+  Zombies love candy corn. Feed the zombies!
+~
+#28399
+pumpkin~
+a pumpkin~
+A pumpkin is resting here.~
+~
+15 268501004 16385
+25 1 -1 0
+1 0 0
+#99999
+$~

@@ -1,0 +1,6 @@
+>rand_prog 100~
+  mpecho $I uses his vacuum and cleans up the unecessary mobs.
+  mppurge
+~
+|
+

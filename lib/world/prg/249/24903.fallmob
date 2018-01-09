@@ -1,0 +1,15 @@
+>all_greet_prog 100~
+  if isnpc($n)
+  else
+    if isaffected($n, fly)
+    else
+      mpechoat $n You continue to fall...
+      mpechoarround $n $N continues to fall...
+      mpforce $n d
+      mpat $n mpechoat $n You suddenly hit the ground with a large SPLAT!!!
+      mpat $n mpechoaround $n $N falls in from above and smashes into the ground with a large SPLAT!!!
+      mpat $n mpdamage $n 60d20+100
+    endif
+  endif
+~
+|

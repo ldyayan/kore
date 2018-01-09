@@ -1,0 +1,17 @@
+#170
+Revamped Olympus (No Name) Zhyqir~
+17099 30 1 3
+O 0 17002   100 17001            a metal forge
+D 0 17011     0     2            The Dungeon door north
+D 0 17002     2     2            Before the Forge door south
+D 0 17005     1     2            Entrance to the Cells door east
+D 0 17004     3     2            The Dungeon door west
+D 0 17007     1     2            A Cell door east
+D 0 17009     0     2            A Cell door north
+D 0 17008     2     2            A Cell door south
+D 0 17006     3     2            The Dungeon door west
+D 0 17006     2     2            The Dungeon door south
+D 0 17006     0     2            The Dungeon door north
+S
+#99999
+$~

@@ -1,0 +1,30 @@
+>greet_prog 100~
+  if isnpc($n)
+  else
+    if isimmort($n)
+      purr
+    else
+      mpecho Eight additional pairs of eyes suddenly flash in the darkness, and eight more Morrises surround you!
+      mpecho One of the Morrises (#3?  #5?  #9?) holds up a wooden sign.  Clawmarks on the wood spell out...
+      mpecho LET'S PARTY!!!
+      mpmload 15217
+      mpforce 15217 kill $r
+      mpmload 15217
+      mpforce 15217 kill $r  
+      mpmload 15217
+      mpforce 15217 kill $r  
+      mpmload 15217
+      mpforce 15217 kill $r  
+      mpmload 15217
+      mpforce 15217 kill $r  
+      mpmload 15217
+      mpforce 15217 kill $r  
+      mpmload 15217
+      mpforce 15217 kill $r  
+      mpmload 15217
+      mpforce 15217 kill $r  
+      mpkill $r
+    endif
+  endif
+~
+|

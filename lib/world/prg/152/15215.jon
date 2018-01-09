@@ -1,0 +1,51 @@
+>greet_prog 20~
+  if ispc($n)
+    say Welcome to the age of reason!
+    emote gestures grandly all around him.
+  endif
+~
+>greet_prog 20~
+  if ispc($n)
+    say .....Re = DVp / n..... Hmm, that ought to do it.
+    glare $n
+    say What are YOU looking at?
+  endif
+~
+>greet_prog 20~
+  if ispc($n)
+    yawn
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r $I tosses the content of a beaker at you.  OUCH, it hurts!
+    mpechoaround $r $I throws a beaker at $R which breaks and starts fizzing... EWWWW!!
+    mpcallmagic 'blindness' $r
+    mpforce $r emote rubs $L eyes.
+    mpdamage $r 7d9+15
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    cast 'cone of cold' $r
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I pulls a switch and you're bathed in SCALDING steam!
+    mpdamage all 4d16+20
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    mpecho $I yells for guards to help, and they come charging in!
+    mpmload 15218
+    mpforce 15218 kill $r
+  endif
+~
+>rand_prog 6~
+  if hitprcnt($i) < 50 
+    cast 'heal' $i
+  endif
+~
+|  

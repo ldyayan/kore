@@ -1,0 +1,17 @@
+>command_prog cast~
+  mpechoat $n You cant concentrate with all these bugs around!
+  mpstopcommand
+~
+>command_prog pray~
+  mpechoat $n You cant concentrate with all these bugs around!
+  mpstopcommand
+~
+>command_prog sing~
+  mpechoat $n You cant concentrate with all these bugs around!
+  mpstopcommand
+~
+>death_prog 100~
+  mpecho $I disperses and scatters to the winds.
+  mpgoto cleaner
+~
+|

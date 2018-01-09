@@ -1,0 +1,13 @@
+>rand_prog 6~
+ if inroom($r) == here
+  if hitprcnt($r) < 100
+    mpcallmagic 'cure critical' $r
+    mpechoaround $r $R looks much better!
+  else
+    if rand(10)
+       mpecho $I floats around the room.
+    endif
+  endif
+ endif
+~
+|

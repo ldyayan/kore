@@ -1,0 +1,9 @@
+>command_prog west~
+  if clan($n) != CoVeN
+    say Hey! where do you think you're going!?!?
+    mpstopcommand
+  else
+    say off you go, have fun :)
+  endif
+~
+|

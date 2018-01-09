@@ -1,0 +1,40 @@
+>rand_prog 4~
+  mpasound You hear a baleful howl somewhere nearby.
+~
+>fight_prog 15~
+ if inroom($r) == here
+  if rand(95)
+    mpechoat $r The hellhound jumps toward you and clamps it's steel-like jaws on your arm!
+    mpdamage $r 20
+    mpechoaround $r The hellhound quickly jumps over to $R and visciously clamps on to $L arm!
+  else
+    mpechoat $r The hellhound jumps toward you, clamps it's steel-like jaws on your arm as you feel licks of flame char your skin!  OUCH!
+    mpechoaround $r The hellhound quickly jumps over to $R, bright flames emerging from it's jaws as it visciously takes a bite out of $K!
+    mpechoaround $r Is that barbeque you smell? EEEEeeeWWWWwww....GROSS!
+    mpdamage $r 10d20+20
+  endif
+ endif
+~ 
+>fight_prog 30~
+ if inroom($r) == here
+   mpechoat $r The hellhound faces you and a stream of fire shoots from it's mouth!
+   mpechoaround $r The hellhound slowly circles $R and you see a sudden flash!
+   mpechoaround $r A stream of fire shoots forth and burns $K badly!
+   mpechoat $r The stream of fire BURNS YOUR SKIN OFF!!!
+   mpdamage $r 5d10+15
+ endif
+~
+>fight_prog 12~
+  mpecho The hellhound disappears in a flash to go raise hell elsewhere.
+  mpgoto cleaner 
+~
+>command_prog flee~
+ if rand(65)
+    mpechoat $n The hellhound quickly circles around you and blocks your exit!
+    mpechoaround $n The hellhound deftly circles around $N and blocks $L retreat!
+    mpstopcommand
+ else
+    growl
+ endif
+~
+|

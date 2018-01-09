@@ -1,0 +1,667 @@
+#8700
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8701
+herbalist wicca woman~
+the Wicca Herbalist~
+A young woman clad in pelts and bird feathers is here, purring cheerily to herself.
+~
+A good hard look at her convinces you that she is none other than the younger sister 
+of the Grand Mistress of the High Tower of Magic...
+~
+183452 72687786 -1000 S
+43 -15 -300 1d5000+7000 8d8+25
+0 222000
+8 8 2
+#8702
+kobold lancer guard dog~
+the kobold lancer~
+The kobold lancer waits patiently with a vicious gleam in its eye, and wagging its tail.
+~
+Being somewhat larger than the kobolds you saw laboring around the village, these fellows
+sport some kind of lacquered lamellar armor -- You can't decide if its wood or leather.
+Be that as it may, it is cured with some kind of purple finish which matches the carved
+symbols of the Wicca's emblem on the hafts of the lancers' weapons.
+~
+194718 1122464 -1000 S
+24 -7 -6 70d70+3800 5d8+12
+0 87600
+8 8 1
+#8703
+turtle dragon large gigantic~
+a large turtle dragon~
+A gigantic turtle dragon is splashing playfully and shooting steam.
+~
+She seems to enjoy annoying people with her huge gusts of steam and capsizing small boats
+with her bubbling...
+~
+166030 65696 0 S
+36 -13 -230 60d60+9000 7d4+8
+0 20
+4 4 2
+#8704
+kobold fisherman dog~
+a kobold fisherman~
+A kobold fisherman is here fishing in his boat.
+~
+He seems intent on catching the swordfish that stream past him...
+~
+140 0 -100 S
+9 -2 70 1d1+1 3d3+3
+0 1900
+8 8 1
+#8705
+flayer mind mindflayer illithid~
+a mind flayer~
+A mind flayer runs along the corridor carrying a jar of smelly liquid.
+~
+He's about five feet tall, with funny grey tentacles that drape to his knees.
+This mind flayer is robed in white, and his chest emblem is that of a shield, within
+which the emblem of the Wicca is combined with a field of white flasks, possibly the
+sign of the illithid alchemist's guild...
+~
+170140 327680 -200 S
+14 -3 -50 50d10+200 3d3+2
+0 7400
+8 8 1
+#8706
+flayer mind mindflayer illithid warden~
+the mind flayer warden~
+A mind flayer sits behind a desk here, scribbling on a parchment.
+~
+He seems to be scribbling down notes similar to what you saw some of the kobold
+laborers carry in the trade square.  As he finishes one, he stamps the wax seal of
+the Wicca upon it and looks up at you with a rather arrogant stare...
+~
+170142 1376392 -200 S
+15 -3 -68 50d10+580 3d3+8
+0 9400
+8 8 1
+#8707
+flayer mind mindflayer illithid gardener~
+a mind flayer gardener~
+A mind flayer is here trying not to get squished as he tends plants.
+~
+He tends the plants as best as possible and scampers out of the way of the
+trampling monsters.  You sense he doesnt quite have things under control...
+~
+170140 1376264 -50 S
+16 -5 -53 50d10+580 3d3+9
+0 9600
+8 8 1
+#8708
+gith githyanki warden~
+the githyanki warden~
+A githyanki sits behind a desk here, scribbling on a parchment.
+~
+An enigmatic smile creeps across his face, but he does not look up...
+~
+170142 1376392 -400 S
+16 -5 -68 50d10+1200 3d4+9
+0 11800
+8 8 1
+#8709
+gith githyanki gardener~
+a githyanki gardener~
+A githyanki is frantically trying to tend the plants here.
+~
+He has a bit tougher job than the warden, and it shows in his occasional
+cursing.
+~
+170140 1376264 -400 S
+17 3 -80 50d10+1400 4d4+9
+0 15500
+8 8 1
+#8710
+lich shadowy warden~
+the lich warden~
+A shadowy lich floats behind a desk here, scribbling on a parchment.
+~
+You can't seem to gauge its expression, as it's faceless...but you detect an almost
+inaudible sigh as the cowl it wears turns in the general direction of another piece
+of paper on its desk.  Perhaps he was a merchant before he turned to dark magic...
+~
+178334 1376392 -1000 S
+18 -7 -88 50d10+1200 3d4+12
+0 25100
+8 8 0
+#8711
+lich shadowy gardener~
+the lich gardener~
+A shadowy lich floats through the air here, pushing plants with forcefields.
+~
+The monsters are a bit better behaved around these guys, and you take the
+hint...
+~
+178332 1376264 -1000 S
+19 -8 -88 50d10+1400 3d4+13
+0 28800
+8 8 0
+#8712
+mephit steam warden figure guard hulking~
+the steam mephit warden~
+A big hulking figure sits on a desk here scribbling on a parchment, and shivers at the relative cold.
+~
+He looks rather miserable sitting there wearing a thinly draped kimono, and occasionally
+bangs the desk (which shakes the room and vibrates the doors) in annoyance with being
+assigned to this duty...
+~
+170142 34930824 -1000 S
+36 -7 -90 50d10+1200 4d4+11
+0 30600
+8 8 1
+#8713
+mephit steam gardener figure hulking~
+a steam mephit gardener~
+A big hulking figure cheerfully slaps around beast and plant alike.
+~
+He may not be a green thumb, but he sure enjoys the steam of the garden!
+~
+170140 1377320 -1000 S
+21 -8 -93 50d10+1200 4d4+13
+0 33300
+8 8 1
+#8714
+kobold alchemist ashen dog 8714~
+a kobold alchemist~
+A tall kobold with ashen skin in a billowing cape howls at you.
+~
+Nearly twice the height of the kobold lancers you saw in the waiting room, these kobolds
+have skin that is almost a light-grey color.  They have obviously been heavily 'treated'
+by the Wicca to enhance their attributes...Their eyes are a dull glowing yellow color,
+and they pitilessly examine you as you enter the room...
+~
+170174 1114280 0 S
+41 -3 -90 60d60+4000 7d5+14
+0 192000
+4 4 1
+#8715
+plant roper vine onion onions~
+the roper~
+A roper with onion vines grafted to it thrashes about here.
+~
+It seems rather weak for a roper, as it can't get loose of the plants that
+it is forced to support.
+~
+10430 0 0 S
+35 -3 -60 70d70+3800 5d7+8
+0 77000
+8 8 0
+#8716
+plant cucumber harginn~
+a water-logged harginn~
+A harginn choked with cucumbers flails miserably in its trough.
+~
+A rather sickly thing compared to the one in the slush stream, this poor 
+fellow isnt quite as mobile.
+~
+10430 0 0 S
+35 -3 -60 70d70+3800 5d7+8
+0 77000
+8 8 0
+#8717
+plant tree kampfult carrot carrots~
+the kampfult~
+Wait a minute.  Carrots do NOT grow on trees.
+~
+Its gnarled torso has a toothy maw, which slavers at your arrival...
+~
+10430 65536 0 S
+35 -3 -60 70d70+3800 5d7+8
+0 77000
+8 8 0
+#8718
+plant tree treant nutmeg~
+the nutmeg treant~
+A nutmeg tree gives you the distinct impression that it is frowning.
+~
+In all other respects it looks like a nutmeg tree.
+~
+10430 65536 0 S
+35 -3 -60 70d70+3800 5d7+8
+0 77000
+8 8 0
+#8719
+hag sea~
+the sea hag~
+A sea hag is chained to a post, snarling curses about the wicca.
+~
+She winces as if she detests the smell of ginger, and calls the Wicca
+an impressive assortment of vulgar names at the top of her lungs...
+~
+10430 65536 0 S
+28 -3 -60 70d70+3800 5d7+8
+0 41000
+8 8 0
+#8720
+fox woman foxwoman female~
+the foxwoman~
+A female form with the head of a fox is here picking thyme.
+~
+She obviously considers you to be no threat as she merrily goes about
+her duties.  Something about her liquid body movement suggests that
+she might be a formidable opponent for even a back woodsman...
+~
+10430 852128 0 S
+41 -8 -10 70d70+3800 5d7+12
+0 41000
+8 8 0
+#8721
+mold mustard jelly deadly mass gelatinous yellow~
+the deadly mustard jelly~
+A mass of yellow gelatinous material slithers about here.
+~
+It's pretty featureless...fortunately, it doesn't move very quickly.
+~
+10430 65536 0 S
+35 -3 -60 70d70+3800 5d7+8
+0 77000
+8 8 0
+#8722
+cat gold furred luck eater luckeater golden feline~
+the luck eater~
+A golden-furred feline yawns and stretches atop a vine-post.
+~
+It stares balefully at you.  Even this clamoring place bores it.
+~
+174238 65536 0 S
+50 -8 -60 70d70+3800 5d7+20
+0 351000
+8 8 0
+#8723
+centaur antlered hybsil~
+the hybsil~
+An antlered centaur munches balefully on a handful of cherries.
+~
+He looks stifled by the enclosed space of the greenhouses, and probably
+longs to escape the palace...
+~
+174270 65536 0 S
+36 -4 -25 70d70+3800 5d7+4
+0 91000
+8 8 1
+#8724
+behemoth hippo beast hippopotamus~
+a behemoth~
+The olive tree snaps in two as a hippopotamus-like beast lumbers toward you.
+~
+His head is bigger than the tree he just stepped on.
+~
+174270 65536 0 S
+38 -6 -38 70d70+9000 5d7+8
+0 107000
+8 8 1
+#8725
+mushroom basidirond~
+a basidirond~
+A walking mushroom slurps up regurgitated berry paste.
+~
+It has colorful speckled skin on top, and the torso is a cream color.
+~
+10430 65536 0 S
+32 5 -23 70d70+3800 5d7+3
+0 39000
+8 8 0
+#8726
+plant tree hangman apricot~
+the hangman tree~
+You sense something not quite right about this apricot tree.
+~
+It has long tendril-like vines which shoot from underneath its limbs.
+Right now it's unspooling them just for you...
+~
+10430 65536 0 S
+37 -3 -35 70d70+3800 6d7+9
+0 93500
+8 8 0
+#8727
+slug gargantuan~
+the gargantuan slug~
+The gargantuan slug is wrapped around a pear half its size.
+~
+It clings to the fruit with its sticky resin, and appears docile, but beware: there are
+certain anatomical features on this slug that are lacking in the home-garden variety.
+~
+10430 65536 0 S
+26 5 12 70d70+3800 4d7+2
+0 23600
+8 8 0
+#8728
+squirrel carnivorous~
+a carnivorous squirrel~
+A carnivorous squirrel leaps from the branches!
+~
+It peers at you viciously, and you could swear something resembling talons are 
+protruding from the middle of its skin-flaps on either side, making it seem almost
+batlike.
+~
+10430 65536 0 S
+24 5 -8 70d70+400 4d3+8
+0 15500
+8 8 0
+#8729
+drider sleeping~
+a drider~
+A drider hangs from the branch here, apparently asleep.
+~
+Although this drider is not as fit as the ones guarding the cargo portal, and its head
+is currently befuddled by elderberries, it is probably nonetheless still a considerable
+opponent if roused from where it lolls on the branch.
+~
+10414 65536 0 S
+34 -1 -43 70d70+400 4d3+14
+0 0
+4 4 0
+#8730
+hulk umber artichoke artichokes giant~
+the umber hulk~
+You didn't know these guys liked artichokes.
+~
+A giant form cheerfully munches on the green vegetables, casually uprooting vines half
+its body weight and twice its bulk and stuffing them into its top not unlike what you
+might imagine if you saw an enchanted bucket with hands that dug the surrounding earth
+and shoveled dirt into it.
+~
+174270 65536 0 S
+37 -8 -38 70d70+9000 7d7+8
+0 107000
+8 8 0
+#8731
+grubs rot quivering horde rotgrub mass rotgrubs~
+a quivering horde of rot grubs~
+A mass of rot grubs engulfs you up to your knees!
+~
+These slimy insects appear to melt out of the rice paddy...
+~
+10430 65536 0 S
+38 5 -30 70d50+4000 6d3+8
+0 75900
+8 8 0
+#8732
+plant weed strangle strangleweed~
+a strangleweed~
+A strangleweed clutches your feet!
+~
+Its dark green color blends into the greenhouse floor.
+~
+10430 65536 0 S
+34 3 -30 70d50+4000 6d3+5
+0 63200
+8 8 0
+#8733
+trog troglodyte man stupid humanoid human~
+the troglodyte~
+You wonder how a humanoid this stupid got this far into the palace.
+~
+Its thick brows are furrowed at your entrance...
+~
+10430 65536 0 S
+23 -6 -60 70d70+100 3d7+2
+0 13800
+8 8 0
+#8734
+plant tree treant chestnut~
+the chestnut treant~
+A treant is not happy about being forced to grow chestnuts.
+~
+It has chestnuts grafted crudely to its conifer body.
+~
+10430 65536 0 S
+40 -6 -60 70d70+3800 5d7+10
+0 111000
+8 8 0
+#8735
+pudding dun deadly beige substance almond covering~
+the deadly dun pudding~
+A beige substance covers the almond trees here.
+~
+This stuff makes you gag before you get within ten feet of it.
+It seems to have a nucleus-like object near its middle
+not unlike the yolk of a fried egg...
+~
+10430 65536 0 S
+38 -3 -60 70d70+3800 5d7+13
+0 102800
+8 8 0
+#8736
+mound shambling sentient hemlock~
+a shambling mound~
+Last you heard, hemlock wasn't sentient!
+~
+The mass of plant matter swipes at you before you can really get a good look.
+~
+10430 65536 0 S
+22 5 -30 200d20+100 6d4+4
+0 84200
+8 8 0
+#8737
+dragon faerie~
+a faerie dragon~
+A faerie dragon has built its nest here.
+~
+This small dragon is almost mistakable for a common insect -- until
+you get up close and think 'sea horses don't fly' and finally realize
+the minute features that undoubtedly show it to be a faerie dragon.
+This particular dragon is a brilliant violet color, marking it as
+an aged and formidable member of its species.
+~
+14494 65536 0 S
+24 1 -45 200d20+100 8d4+5
+0 31400
+8 8 0
+#8738
+plant tree treant cinnamon laurel~
+the cinnamon laurel treant~
+Uh oh. no alterations made to this treant!!
+~
+The magnificent sinewy limbs reach out to deliver you to a fate somewhat
+more bitter than the aroma they produce.
+~
+10430 65536 0 S
+48 -6 -60 70d70+5600 5d7+16
+0 188000
+8 8 0
+#8739
+otyugh neo large~
+a large neo-otyugh~
+You are thrown to your feet as a neo-otyugh sneezes!!
+~
+Proof positive that a neo-otyugh will at least try to eat anything, even
+if it doesnt agree with it.
+~
+39102 65664 0 S
+48 -7 -90 60d60+11800 10d5+30
+0 367000
+8 8 0
+#8740
+dog moon moondog canine~
+a Moon Dog~
+A canine form is here munching on a piece of garlic.
+~
+It seems absorbed in crunching on its snack, but its nostrils are flared, and its 
+tail is wagging more rapidly...
+~
+14494 65536 0 S
+20 1 -45 200d20+100 8d6+3
+0 31400
+8 8 0
+#8741
+owl bear owlbear~
+an owlbear~
+A vicious owlbear looks up from its snack and snarls happily!!
+~
+Its beak and feathery head are covered with the stain of blueberries.
+~
+174270 65536 0 S
+37 4 5 70d70+300 9d7+12
+0 107000
+8 8 0
+#8742
+duck eater thought ethereal~
+the thought eater~
+An ethereal duck-like being hovers over the corn patch here.
+~
+It seems to be standing on thin air, quacking at you...the features of the greenhouse
+seem to recede into the distance, and you feel a pain in your ears as the creature
+floats towards you.
+~
+10430 65536 0 S
+33 10 -30 200d20+1000 6d4+7
+0 84200
+8 8 0
+#8743
+myconid orange fungus squash~
+the orange myconid~
+One of the squashes appears to be moving.
+~
+Its squat legs barely distinguish it from a regular squash...once you
+get close enough to see underneath the head, you see its short hands
+balled into fists, getting ready to thwack you but good.
+~
+174270 65536 0 S
+30 4 5 70d70+300 9d7+6
+0 57800
+8 8 0
+#8744
+daemon dergho derghodaemon~
+the derghodaemon~
+A mixture of laughter and terror engulfs you, as you watch a derghodaemon
+pitifully try to shove a watermelon in its mouth.
+~
+It seems to be having a hell of a time, but those claws were ment for more
+practical and deadly uses...
+~
+39102 65664 0 S
+48 -4 -90 60d60+11800 10d5+22
+0 367000
+8 8 0
+#8745
+sword fish swordfish~
+a swordfish~
+A hungry swordfish snaps its jaws and flails in the water!
+~
+The swordfish is about half your size, but doesn't seem to suffer from 
+a sense of inferiority..you brace for impact.
+~
+37032 0 0 S
+11 1 -20 5d5+200 4d4+4
+0 4700
+8 8 0
+#8746
+cloud mist bully~
+the bully cloud~
+The bully cloud is here boisterously blowing about.
+~
+He's kinda a pushy fellow.  Take care that he doesnt decorated the ceiling of the
+greenhouses below with your body.
+~
+174268 65536 0 S
+18 4 5 10d50+100 4d4+5
+0 22000
+8 8 0
+#8747
+statue ruby ~
+the Ruby Statue~
+A large ruby statue lounges against the trellis here.
+~
+He must be twenty feet tall.
+~
+39102 66728 0 S
+50 -7 -90 60d60+11800 10d5+30
+0 367000
+8 8 0
+#8748
+lich young mage ghost~
+the ghost of a young mage ~
+The ghost of a deceased young mage from the mage tower is floating here.
+~
+He looks dejected, and mutters as if plotting his revenge.
+~
+170140 1376264 -50 S
+22 -5 -53 50d10+580 3d3+9
+0 9600
+8 8 1
+#8749
+xeg-ya xegya xeg ya elemental wisp energy positive~
+the xeg-ya~
+A wisp of positive energy hovers here.
+~
+White bolts of energy lick outwards from this roughly spherical white
+object, which seems to be exerting some sort of self-discipline, 
+unlike the speedy lightning balls you saw on the flood plain.
+~
+39102 1048576 0 S
+48 -9 -90 60d60+11800 10d5+30
+0 367000
+8 8 0
+#8750
+xeg-yi xegyi xeg yi elemental wisp energy negative~
+the xeg-yi~
+A wisp of negative energy hovers here.
+~
+Dark bolts of energy which seem to suck up the very light itself seem 
+to lick outwards from it...Like its bright cousin, it is oddly stationary
+as it sits in this surreal conduit.
+~
+39102 1048576 0 S
+54 -9 -90 60d60+11800 10d5+30
+0 367000
+8 8 0
+#8751
+kobold dog archer~
+a kobold archer~
+A kobold archer stands here, his hand poised on a huge crossbow.
+~
+This canine warrior is about half the size of his crossbow, and is
+very wirily built.  Somehow he handles his weapon with
+great ease, unfortunately, as the drows have subsidized the Wicca's
+arms with many enchantments to enhance the fighting ability of her
+followers.
+~
+1194142 244383936 0 S
+42 4 -3 30d30+1200 7d7+20
+0 45000
+8 8 1 10
+#8752
+falling 8752~
+the falling room effect~
+The falling room effect.
+~
+This is the mob Aule is going to put the falling room mobprog on.
+~
+8388618 1064 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8753
+freezing 8753~
+the freezing room effect~
+The freezing room effect.
+~
+This is the freezing mob that Aule is going to put the freeze prog on.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#8754
+fire 8754~
+the fire room effect~
+The fire room effect.
+~
+This is the mob that Aule will put the fire-room effect on.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

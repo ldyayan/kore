@@ -1,0 +1,30 @@
+#47
+Bardic Colleges~
+4799 30 2
+M 0  4730  1  4710		The Principal
+M 0  4700  1  4705		The teacher
+M 0  4700  1  4709		The teacher
+M 0  4700  1  4719		The teacher
+M 0  4701  1  4722		A student
+M 0  4701  1  4726		A student
+M 0  4702  1  4726		The librarian
+M 0  4701  1  4728		A student
+M 0  4701  1  4732		A student
+M 0  4701  1  4732		A student
+M 0  4700  1  4733		The teacher
+M 0  4701  1  4743		A student
+M 0  4701  1  4744		A student
+M 0  4700  1  4758		The teacher
+M 0  4703  1  4780		the runner
+O 0  4700 10  4789		a bag of peppermint cheeze snacks
+O 0  4701 10  4789		a thermos of beefamecto cooler
+O 0  4702 10  4789		some cajun chow mein
+M 0  4701  1  4790		A student
+M 0  4704  1  4795		your instructor
+M 0  4701  1  4796		A student
+M 0  4701  1  4797		A student
+M 0  4701  1  4799		A student
+M 0  4701  1  4799		A student
+S
+#99
+$~

@@ -1,0 +1,16 @@
+>speech_prog olympus~
+  mpechoat $n A bright light envelops you.
+  mpechoaround $n A bright light envelops $N and they disappear.
+  mptransfer $n 404
+~
+>speech_prog derlin~
+  mpechoat $n A bright light envelops you.
+  mpechoaround $n A bright light envelops $N and they disappear.
+  mptransfer $n 12311
+~
+>speech_prog shrok~
+  mpechoat $n A bright light envelops you.
+  mpechoaround $n A bright light envelops $N and they disappear.
+  mptransfer $n 9532
+~
+|

@@ -1,0 +1,35 @@
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+>fight_prog 10~
+  mpecho Throwing back his head, Yeenoghu issues forth a loud howl.
+  mpecho Suddenly, large gnolls being appearing in the room.
+  mpmload 2030
+  mpforce 2030 assist yeenoghu
+~
+>fight_prog 40~
+  cast 'magic missile' $r
+~
+>fight_prog 60~
+  cast 'web' $r
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpoload 2072
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

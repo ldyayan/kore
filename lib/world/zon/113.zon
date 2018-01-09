@@ -1,0 +1,116 @@
+#113
+Laboratory of the Artificer (unfinished)~
+11399 23 2 1
+M 0 11323    10 11354            a crysalid drone
+E 1 11318     7     6                    head a crystalline helmet
+M 0 11323    10 11354            a crysalid drone
+E 1 11325     6     8                    feet crystalline boots
+M 0 11326     3 11368            a crysalid reaver
+E 1 11331    75     3                    neck 1 a thin crystal shard
+E 1 11326    12    16                    wield a jagged reaver talon
+M 0 11326     3 11368            a crysalid reaver
+E 1 11331    75     4                    neck 2 a thin crystal shard
+E 1 11309    55    17                    held a squirming crysalid larvae
+D 0 11368     2     2            On the Crystalline Drawbridge door south
+M 0 11325    10 11366            a crysalid warrior
+E 1 11322     5     7                    legs crystalline leggings
+E 1 11309    50    17                    held a squirming crysalid larvae
+M 0 11325     8 11366            a crysalid warrior
+E 1 11309    55    17                    held a squirming crysalid larvae
+E 1 11319    15     9                    hands a pair of crystalline gauntlets
+M 0 11323     8 11356            a crysalid drone
+M 0 11323     8 11358            a crysalid drone
+M 0 11325     8 11373            a crysalid warrior
+M 0 11325     8 11370            a crysalid warrior
+M 0 11330     1 11381            the crysalid broodmother
+G 1 11328    99    -1                    give a crysalid egg clutch
+E 1 11327     7     5                    body carapace of the broodmother
+E 1 11330    40     1                    left finger a thin band of crysalid chitin
+D 0 11374     0     2            A Vaulted Hallway door north
+M 0 11327     1 11374            the crysalid purifyer
+E 1 11331    75     4                    neck 2 a thin crystal shard
+E 1 11309    75     5                    body a squirming crysalid larvae
+M 0 11326     4 11374            a crysalid reaver
+E 1 11309    40    17                    held a squirming crysalid larvae
+M 0 11329     2 11380            a crysalid elder
+E 1 11330     5     2                    right finger a thin band of crysalid chitin
+M 0 11329     2 11378            a crysalid elder
+E 1 11330     5     1                    left finger a thin band of crysalid chitin
+M 0 11328     2 11379            a crysalid hive guardian
+E 1 11309    50    17                    held a squirming crysalid larvae
+E 1 11323    15     5                    body a crystalline chestplate
+M 0 11328     2 11379            a crysalid hive guardian
+E 1 11309    80    17                    held a squirming crysalid larvae
+E 1 11324    15    22                    face a shield made of living crystal
+M 0 11324    10 11362            a crysalid worker
+E 1 11309    15    17                    held a squirming crysalid larvae
+E 1 11320    25    15                    right wrist a crystalline bracer
+E 1 11321    50    10                    arms crystalline arm guards
+M 0 11324    10 11361            a crysalid worker
+E 1 11320     5    15                    right wrist a crystalline bracer
+E 1 11321    50    10                    arms crystalline arm guards
+M 0 11322     1 11392            the Tome-inator
+E 1 11317     7    20                    floating the Codex of Infinite Wisdom
+D 0 11347     4     1            A Large Natural Cavern door up
+D 0 11346     5     1            A Sloping Gully door down
+D 0 11328     2     2            Western Alcove door south
+M 0 11311     1 11328            Malchot's Abomination
+E 1 11308    99    17                    held a thick metal key
+E 1 11304     7     6                    head a crown of human teeth
+D 0 11390     0     2            The Library door north
+M 0 11320     1 11390            a statue of Malchot
+E 1 11315     7     9                    hands the Hands of the Genius
+M 0 11321     1 11391            an automated bibliopolist
+E 1 11316     7    14                    left wrist a greasy iron coil
+M 0 11319     1 11352            an enormous centipede
+E 1 11313     9    16                    wield a venomous mandible
+E 1 11314    50     7                    legs red chitin legplates
+M 0 11318     1 11340            a battered Quasit
+E 1 11312     7    21                    ears a nodule of charismatic mastery
+M 0 11316     1 11341            a haggered bugbear
+E 1 11311     7     6                    head a nodule of mental accuity
+M 0 11317     1 11342            a scrawny gnoll
+E 1 11310     7    14                    left wrist a nodule of physical prowess
+D 0 11337     1     2            A Dark Stone Corridor door east
+D 0 11338     1     2            A Dark Stone Corridor door east
+D 0 11336     1     2            A Dark Stone Corridor door east
+M 0 11315     4 11339            a construction golem
+M 0 11315     4 11339            a construction golem
+M 0 11314     1 11333            a squat stone golem
+E 1 11308    99    17                    held a thick metal key
+M 0 11313     1 11334            the Bride of Malchot
+E 1 11307    10    17                    held a bouquet of dead flowers
+E 1 11306    40     7                    legs a garter made of human flesh
+M 0 11312     1 11329            an incomplete crystal golem
+E 1 11305    10    17                    held a glowing chunk of crystal
+M 0 11310     3 11325            a servitor
+M 0 11310     3 11327            a servitor
+M 0 11310     3 11330            a servitor
+M 0 11307     2 11323            a monstrous dung beetle
+E 1 11303    10    12                    about a reeking beetle carapace
+M 0 11307     2 11323            a monstrous dung beetle
+M 0 11308     1 11323            the gauno harvester
+E 1 11302    15    17                    held a ball of bat guano
+M 0 11309     2 11315            a scruffy grey rat
+M 0 11309     2 11314            a scruffy grey rat
+M 0 11306     3 11322            a giant grub
+M 0 11306     3 11322            a giant grub
+M 0 11305     3 11321            a whip scorpion
+M 0 11305     3 11321            a whip scorpion
+M 0 11304     2 11320            a giant harvestman
+M 0 11304     2 11320            a giant harvestman
+M 0 11303     4 11319            a large furry bat
+M 0 11303     4 11319            a large furry bat
+M 0 11302     1 11317            a solemn stone golem
+O 0 11301   100 11307            an aged signpost
+M 0 11301     4 11310            a large black mare
+M 0 11301     4 11310            a large black mare
+D 0 11311     5     1            East Wing of the Stables door down
+M 0 11301     4 11311            a large black mare
+M 0 11301     4 11311            a large black mare
+D 0 11312     1     1            The Top of a Sloping Sinkhole door east
+D 0 11304     3     1            By a Fallen Stone Structure door west
+D 0 11313     4     1            A Damp Cobblestone Cellar door up
+S
+#99999
+$~

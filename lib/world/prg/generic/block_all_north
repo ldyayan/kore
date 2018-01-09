@@ -1,0 +1,5 @@
+>command_prog north~
+  emote moves to block $N's way.
+  mpstopcommand
+~
+|

@@ -1,0 +1,62 @@
+>all_greet_prog 100~
+  if clan($r) == house vherin'ultrin
+    else
+      mpkill $r
+  endif
+~
+>command_prog speak Drow, halt!~
+  mpforce $n speak Drow, halt!
+  mpstopscript
+  mpstopcommand
+~
+>command_prog speak Hile!  To me!~
+  if inroom($n) == here
+    mpforce $n speak Hile!  To me!
+    follow $n
+    mpstopcommand
+  endif
+~
+>command_prog speak Drow, attack!~
+  mpstopscript
+  mpforce $n speak Drow, attack!
+  mpstopcommand
+  if inroom($n) == here
+    if position($n) == fighting
+      assist $n
+    else
+      mptrigger $n AttackCycle
+    endif
+  endif
+~
+>command_prog speak Drow, arm!~
+  mpforce $n speak Drow, arm!
+  mpsilent mpoload 5105
+  mpsilent mpoload 5105
+  mpsilent mpoload 5109
+  mpsilent mpoload 2201
+  wear all
+  wield sword
+  wield sword
+  mpstopcommand
+~
+>command_prog speak Drow, disband!~
+  mpforce $n speak Drow, disband!
+  mpecho A drow soldier skulks back towards the keep.
+  mpgoto cleaner
+  mpstopcommand
+~
+>script_prog AttackCycle~
+    if clan($r) == house vherin'ultrin
+        say $r
+      mptrigger $n AttackCycle
+    else
+      mpkill $r
+      mpstopscript
+  endif
+~
+>death_prog 100~
+  mpsilent rem all
+  mpsilent mpjunk all.drow
+  mpsilent mpjunk garde
+~
+|

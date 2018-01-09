@@ -1,0 +1,10 @@
+>rand_prog 5~
+  echo $I waits patiently for her turn on the altar.
+~
+>rand_prog 5~
+  echo $I offers a prayer of thanks to her god.
+~
+>death_prog 100~
+  say Yes, $n! Both my life and death are pure!
+~
+|

@@ -1,0 +1,1662 @@
+#26600
+The Rocky Hills~
+   As you continue north the landscape begins to change. The rolling hills 
+become rocky, and the grasses give way to mosses and lichens. A hard packed 
+dirt trail runs to the north. 
+~
+266 4 4
+D0
+~
+~
+0 0 26601
+D2
+~
+~
+0 0 2209
+S
+#26601
+A Dirt Trail~
+   You see the occasional cloven hoof print along the trail, and sometimes a 
+very large canine paw print. This may have originally been a path used by 
+wildlife. The air is much cooler here, almost crisp. Smells of wood smoke 
+drift from the north, and as you top the hill you can see a blue light 
+shining in the distance. 
+~
+266 4 4
+D0
+~
+~
+0 0 26602
+D2
+~
+~
+0 0 26600
+S
+#26602
+Before the City Gates~
+   To the north is an entrance to a bustling city. The large wooden gates are 
+propped open wide, and look as if they are rarely closed. The terrain here 
+flattens out a bit, but it is still quite rocky. 
+~
+266 0 2
+D0
+~
+~
+0 0 26603
+D2
+~
+~
+0 0 26601
+S
+#26603
+The Entrance of Aesir~
+   The first things you notice as you enter the city are the intricate 
+carvings on the gates. Snarling wolves and dragons with gaping jaws adorn the 
+posts, and almost seem to stare down at you as you pass. In contrast with 
+those images the people in the streets smile openly and make you feel 
+welcome. The main avenue continues to the north, and there are guard towers 
+to the east and west.
+~
+266 0 1
+D0
+~
+~
+0 0 26614
+D1
+~
+~
+0 0 26604
+D2
+~
+~
+0 0 26602
+D3
+~
+~
+0 0 26609
+S
+#26604
+Under the East Tower~
+   Above you is a large wooden tower, from which guards can see in all 
+directions. You see a couple of the Aesir Watchers up there now, peering 
+intently at the surrounding countryside. You wonder what they could be 
+watching for. 
+~
+266 0 1
+D1
+~
+~
+0 0 26606
+D3
+~
+~
+0 0 26603
+D4
+~
+~
+0 0 26605
+S
+#26605
+The Watch Tower~
+   You stand in a large wooden tower overlooking the city entrance. From this 
+vantage point you can see most of the land leading up to Aesir. The Watchers 
+here do not seem to notice your presence, they are too busy scanning the 
+horizon. 
+~
+266 0 1
+D5
+~
+~
+0 0 26604
+S
+#26606
+Before the Watch Quarters~
+   Most of the people in this area are members of the city watch, besides the 
+occasional warrior that strolls by. You find it quite odd that you haven't 
+seen a single male in this part of the city. So far all of the Watch members 
+and Warriors have been women. The Watch Quarters are to the north. 
+~
+266 0 1
+D0
+~
+~
+0 0 26607
+D3
+~
+~
+0 0 26604
+S
+#26607
+Quarters of the Aesir Watch~
+   You stand in the common room of the Aesir Watch Quarters. Battle worn hand 
+axes and battered shields hang upon the walls. A large wooden table 
+surrounded by chairs sits in the center of the room. A small fire burns in 
+the fireplace, just barely warm enough to drive away the chill. You see what 
+appears to be sleeping quarters to the east. 
+~
+266 8 0
+D1
+~
+~
+0 0 26608
+D2
+~
+~
+0 0 26606
+S
+#26608
+Sleeping Quarters of the Aesir Watch~
+   You immediately feel the chill as you leave the common room. The fire here 
+is little more than smoldering embers. Large piles of ratty looking furs 
+cover the ground. 
+~
+266 9 0
+D3
+~
+~
+0 0 26607
+S
+#26609
+Under the West Tower~
+   You stand below a large wooden tower which seems to somehow be emanating 
+an extremely bright blue light. Everything in this area is bathed in blue. 
+The residents of the city seem not to even notice it. 
+~
+266 0 0
+D1
+~
+~
+0 0 26603
+D3
+~
+~
+0 0 26611
+D4
+~
+~
+0 0 26610
+S
+#26610
+The Light Tower~
+   The light in this tower serves as a guide to all who travel to Aesir. The 
+surrounding country is bleak, and with frequent storms in the winter it would 
+be easy to become hopelessly lost. The light has been here for as long as 
+anyone can remember. Most people claim that it was a gift from the Goddess of 
+Winter, in atonement for all the hardships she made them endure in the winter 
+months. 
+~
+266 0 1
+D5
+~
+~
+0 0 26609
+E
+blue flame fire ball~
+The mass of flames captivates you with its changing hues and brilliant light.  
+It hovers about four feet off the ground, with its colors continuously swirling.
+~
+S
+#26611
+Before a Large Field~
+   There is a large roped off field to your north. Clouds of dust obscure 
+your vision, but you can hear crashing and yelling. As you stand here groups 
+of exhausted fighters walk by, dripping with sweat even in the chilly air. 
+~
+266 0 1
+D0
+~
+~
+0 0 26612
+D1
+~
+~
+0 0 26609
+S
+#26612
+The Training Area~
+   This field is large and level, and has been cleared of most of the rocks 
+and brambles. Clouds of heavy choking dust surround pairs of sparring 
+warriors. You back away as one pair of fighters comes dangerously close. They 
+don't seem to notice you, but it would probably be wise to keep your 
+distance. 
+~
+266 0 2
+D2
+~
+~
+0 0 26611
+D3
+~
+~
+0 0 26613
+S
+#26613
+An Overgrown Field~
+   This field looks dangerous even for practicing. The ground is very uneven 
+and rocky. Only the advanced fighters spar here, and most of them leave with 
+plenty of cuts and bruises. You marvel at how hard Aesirs' fighters train. 
+~
+266 0 4
+D1
+~
+~
+0 0 26612
+S
+#26614
+Sudri Avenue~
+   You start along the main avenue of Aesir, heading towards the center of 
+town. The smell of wood smoke permeates the air, every building you see must 
+have a fire burning. The people you see seem friendly, they smile as they 
+pass you, but they are all quite busy. 
+~
+266 4 1
+D0
+~
+~
+0 0 26615
+D2
+~
+~
+0 0 26603
+S
+#26615
+Sudri Avenue~
+   As you proceed further into town you see more citizens and not quite as 
+many Watchers around. You actually begin to see men in the street, the first 
+ones you've seen since you entered the city. You notice that none of them are 
+armed, and most are busy carrying wood or water, or doing various other 
+chores. 
+~
+266 0 1
+D0
+~
+~
+0 0 26616
+D2
+~
+~
+0 0 26614
+S
+#26616
+Sudri Avenue~
+   The wind blows stiffly down the avenue. You pull your cloak tightly around 
+your face, trying to keep your ears from stinging. Ahead of you are a cluster 
+of buildings, most built with stone walls and wooden roofs. You can see the 
+top of the temple from here, it's off to the west. 
+~
+266 0 1
+D0
+~
+~
+0 0 26617
+D2
+~
+~
+0 0 26615
+S
+#26617
+Fountain Square~
+   You are standing in the center of Aesir. There are people everywhere, they 
+try not to bump into you as they pass. A huge temple is to your west, and you 
+see an inn off to the east. You notice that these people all look very 
+similar, tall with fair hair and eyes. 
+~
+266 0 1
+D0
+~
+~
+0 0 26629
+D1
+~
+~
+0 0 26625
+D2
+~
+~
+0 0 26616
+D3
+~
+~
+0 0 26618
+S
+#26618
+Westri Avenue~
+   You stand in awe before the temple which is just south of you. It is huge, 
+built solely of wood and covered in decorative carvings. Dragons' heads jut 
+out from the roof and all sides of the structure. You see only a few narrow 
+windows letting in light. 
+~
+266 0 1
+D1
+~
+~
+0 0 26617
+D2
+~
+~
+0 0 26619
+D3
+~
+~
+0 0 26623
+S
+#26619
+Entryway to the Temple of Svana~
+   As you enter the temple your footsteps echo loudly on the polished wood 
+floors. You stand in a long hallway leading to the interior rooms. To your 
+left, a huge colorful mural covers the entire wall. A series of portraits 
+hang to your right. 
+~
+266 28 0
+D0
+~
+~
+0 0 26618
+D2
+~
+~
+0 0 26620
+S
+#26620
+the Temple of Svana~
+   The first thing you notice as you enter the room is a large statue of a 
+beautiful woman. The statue glows with a spectacular golden light which 
+illuminates the entire room. Ornate axes and swords adorn the walls. You try 
+to step softly to quiet your footfalls, you wouldn't want to disturb anyone 
+here. 
+~
+266 24 0
+D0
+~
+~
+0 0 26619
+D3
+~
+Mahogany Panel~
+1 0 26621
+S
+#26621
+Svana's Secret Chamber~
+   You definitely feel as if you are intruding here. Only Svana's most 
+devoted followers are welcome in this part of the temple. The walls are 
+covered with pictures depicting Valkyr in all different scenes. Her eyes seem 
+to bore in to you from all directions. You feel very uneasy, and your stomach 
+begins to knot. There is a trapdoor leading down, maybe you shouldn't go any 
+further. 
+~
+266 25 0
+D1
+~
+Mahogany Panel~
+1 0 26620
+D5
+~
+Trapdoor~
+1 0 26622
+S
+#26622
+The Heart of the Temple~
+   As you climb down the narrow stone stairs a piercing shriek fills your 
+ears. You stumble down the last few steps into a dimly lit room. The floor 
+and walls are solid rock, and the only way out is the way you came. 
+~
+266 40 0
+D4
+~
+Trapdoor~
+1 0 26621
+S
+#26623
+Westri Avenue~
+   As you begin to get farther away from the center of town it becomes 
+quieter and less crowded. The chilly wind isn't blowing quite as strongly 
+here. You see a small stone house to the north. 
+~
+266 0 1
+D0
+~
+~
+0 0 26624
+D1
+~
+~
+0 0 26618
+D3
+~
+~
+0 0 26662
+S
+#26624
+Standing Before a Small House~
+   Just ahead is a small stone house. The walls are made up of tiny grey 
+stones piled meticulously so that there are very few gaps. The door and 
+single window are framed in wood, and the roof is shingled with a combination 
+of wood and slate tiles. Smoke billows out of the single chimney. You 
+suddenly realize how nice it would be to get in out of the chill. 
+~
+266 0 1
+D0
+~
+Wooden door~
+1 0 26632
+D2
+~
+~
+0 0 26623
+S
+#26625
+Austri Avenue~
+   You stand before a small humble tavern. As people come in and out of the 
+door you hear laughing and music from inside. Above the door is a chiseled 
+wolves head, its lips pulled back in a snarl. Most of the people pause before 
+they enter, and reach up place a hand reverently on the sculpted wolf. 
+~
+266 0 1
+D1
+~
+~
+0 0 26627
+D2
+~
+Heavy Wooden Door~
+1 -1 26626
+D3
+~
+~
+0 0 26617
+S
+#26626
+The Silver Wolf Tavern~
+   You push through the door into the warmth of the tavern. A few people look 
+up at you briefly as you enter, then return to their conversations. A 
+minstrel sits in the back corner by the fireplace, singing softly. There is 
+an odd painting hanging over the mantle, it shows a giant wolf bound up with 
+cords and tied down to a boulder. 
+~
+266 28 0
+D0
+~
+Heavy Wooden Door~
+1 -1 26625
+D4
+~
+~
+0 0 26695
+S
+#26627
+Austri Avenue~
+   The avenue narrows and becomes less crowded as you get further from the 
+center of town. There is an odd smell in the air, every time the wind gusts 
+from the east you get a whiff of pungent animal dung. 
+~
+266 0 1
+D0
+~
+~
+0 0 26628
+D1
+~
+~
+0 0 26634
+D3
+~
+~
+0 0 26625
+S
+#26628
+Before the Small House~
+   Just ahead is a small stone house. The walls are made up of tiny grey 
+stones piled meticulously so that there are very few gaps. The door and 
+single window are framed in wood, and the roof is shingled with a combination 
+of wood and slate tiles. Smoke billows out of the single chimney. You 
+suddenly realize how nice it would be to get in out of the chill. 
+~
+266 0 1
+D0
+~
+Wooden Door~
+1 0 26633
+D2
+~
+~
+0 0 26627
+S
+#26629
+Nordri Avenue~
+   You are heading towards an immense building, probably the largest in 
+Aesir. It sits on top of a hill overlooking the entire city. A flight of 
+stone steps lead up to the entrance, or you can continue north on the avenue. 
+~
+266 0 1
+D0
+~
+~
+0 0 26651
+D2
+~
+~
+0 0 26617
+D4
+~
+~
+0 0 26630
+S
+#26630
+Climbing the Stone Stairs~
+   These steps are a little tall for your stride, and you are almost out of 
+breath by the time you reach the top. As you get closer to the Hall, you 
+notice how grand and ornate everything looks. Someone very rich and powerful 
+must live here. 
+~
+266 0 1
+D0
+~
+Enormous Gilded Gate~
+2 26604 26631
+D5
+~
+~
+0 0 26629
+S
+#26631
+The Great Hall of The Jarl~
+   You stand in the entrance of the Great Hall of the Jarl, who is the ruler 
+of Aesir. The entranceway is highly decorated, almost to the point of 
+decadence. Small gilded statuettes of dragons with sparkling gemstone eyes 
+perch along the top of the door frame. Two giant stone wolves sit to either 
+side of you. 
+~
+266 8 0
+D0
+~
+~
+0 0 26638
+D2
+~
+Enormous Gilded Gate~
+2 26604 26630
+S
+#26632
+Inside the Stone House~
+   A feeling of warmth rushes over you as you enter the house. The fire is 
+crackling in the hearth, a large iron pot hangs over it filled to the brim 
+with a delicious smelling stew. The lady of the house ushers you in, quickly 
+shutting the door behind you to keep out the cold. 
+~
+266 8 0
+D2
+~
+Wooden door~
+1 0 26624
+S
+#26633
+Inside the Stone House~
+   A feeling of warmth rushes over you as you enter the house. The fire is 
+crackling in the hearth, a large iron pot hangs over it filled to the brim 
+with a delicious smelling stew. The lady of the house ushers you in, quickly 
+shutting the door behind you to keep out the cold. 
+~
+266 8 0
+D2
+~
+Wooden Door~
+1 0 26628
+S
+#26634
+Austri Avenue~
+   The avenue ends here before a vast field.  A low stone wall borders the 
+field, which looks to be several acres.  Dry yellowish grasses whip back and
+forth in the stiff wind.  The smell of dung here is overpowering.  You can 
+see several reindeer grazing off to the east.
+~
+266 4 1
+D1
+~
+Large Wooden Gate~
+1 0 26635
+D3
+~
+~
+0 0 26627
+S
+#26635
+The Reindeer Pen~
+   SQUISH!!!  You curse under your breath as you attempt to extract your foot 
+from a fresh pile of reindeer dung.  Flies buzz angrily at you for disturbing 
+them, and fly off to find another pile.  The reindeer look extremely well fed,
+and their coats are thick and shiny.
+~
+266 0 2
+D0
+~
+~
+0 0 26636
+D1
+~
+~
+0 0 26666
+D2
+~
+~
+0 0 26637
+D3
+~
+Large Wooden Gate~
+1 0 26634
+S
+#26636
+The Reindeer Pen~
+   SQUISH!!!  You curse under your breath as you attempt to extract your foot
+from a fresh pile of reindeer dung.  Flies buzz angrily at you for disturbing
+them, and fly off to find another pile.  The reindeer look extremely well fed,
+and their coats are thick and shiny.
+~
+266 0 2
+D0
+~
+~
+0 0 26637
+D2
+~
+~
+0 0 26635
+S
+#26637
+The Reindeer Pen~
+    SQUISH!!!  You curse under your breath as you attempt to extract your foot
+from a fresh pile of reindeer dung.  Flies buzz angrily at you for disturbing
+them, and fly off to find another pile.  The reindeer look extremely well fed,
+and their coats are thick and shiny.
+~
+266 0 2
+D0
+~
+~
+0 0 26635
+D2
+~
+~
+0 0 26636
+S
+#26638
+The Foyer~
+   This is where important guests of the Jarl are initially recieved. A large 
+chandelier hangs above you, its dozen candles burning. The floor is stone and 
+a plush red runner carpet lies in the middle. There are hallways to the 
+north- west and north-east. 
+~
+266 8 0
+D2
+~
+~
+0 0 26631
+D6
+~
+~
+0 0 26639
+D9
+~
+~
+0 0 26640
+S
+#26639
+To the East Wing~
+   You are heading towards the east wing of the hall. Your heels click loudly 
+on the stone floor. It smells slightly musty in here, as if the windows are 
+seldom opened. There is a long hallway to the east. 
+~
+266 8 0
+D1
+~
+~
+0 0 26641
+D8
+~
+~
+0 0 26638
+S
+#26640
+To the West Wing~
+   You are heading towards the west wing of the hall. Except for the clicking 
+of your heels on the stone, it is very quiet in here. A long hallway 
+stretches to the west. 
+~
+266 8 0
+D3
+~
+~
+0 0 26645
+D7
+~
+~
+0 0 26638
+S
+#26641
+The East Wing~
+   The hallway is lit by the light that filters in through the windows, and 
+also by several sconces holding fragrant candles that smell of exotic spices. 
+The windows are framed by heavy red drapes, which match the plushy carpet. 
+~
+266 8 0
+D1
+~
+~
+0 0 26642
+D3
+~
+~
+0 0 26639
+S
+#26642
+The East Wing~
+   The hallway is lit by the light that filters in through the windows, and 
+also by several sconces holding fragrant candles that smell of exotic spices. 
+The windows are framed by heavy red drapes, which match the plushy carpet. 
+~
+266 8 0
+D0
+~
+~
+0 0 26643
+D3
+~
+~
+0 0 26641
+S
+#26643
+The Sitting Room~
+   This is where people who wish to have an audience with the Asegier, or 
+city elder, wait to be seen. It is very hard to be seen by the Asegier, as he 
+is a very busy man, and is usually advising the Jarl. A red velvet sofa is 
+here for those that are waiting. 
+~
+266 8 0
+D1
+~
+Polished Oak Door~
+2 26626 26644
+D2
+~
+~
+0 0 26642
+S
+#26644
+The Asegier's Study~
+   You have entered the Asegier's study, hopefully by invitation. A large oak 
+desk sits in the middle of the room, piled with pieces of parchment. Behind 
+the desk is a bookshelf that spans from floor to ceiling, and is literally 
+packed with books. 
+~
+266 393256 0
+D3
+~
+Polished Oak Door~
+2 26626 26643
+S
+#26645
+The West Wing~
+   The carpet runner is now inlayed with golden threads woven into the shapes 
+of dragons and wolves. Ornate red velvet curtains tied back with golden 
+sashes adorn the windows. Gold sconces in the shape of dragons' head hold 
+sweetly scented candles. 
+~
+266 8 0
+D1
+~
+~
+0 0 26640
+D3
+~
+~
+0 0 26646
+S
+#26646
+The West Wing~
+   The carpet runner is now inlayed with golden threads woven into the shapes 
+of dragons and wolves. Ornate red velvet curtains tied back with golden 
+sashes adorn the windows. Gold sconces in the shape of dragons' heads hold 
+sweetly scented candles. 
+~
+266 8 0
+D1
+~
+~
+0 0 26645
+D3
+~
+~
+0 0 26647
+S
+#26647
+The Jarl's Sitting Room~
+   This room is an overt display of the Jarl's wealth and power. Decorative 
+items from all over the land are displayed here. Fine silk drapes frame the 
+large window which lets in plenty of bright sunshine. Exotic plants with 
+delicate flowers sit in the windowsill. The carpet is almost hard to look at, 
+its so intricate and busy that it makes you dizzy. 
+~
+266 8 0
+D0
+~
+~
+0 0 26648
+D1
+~
+~
+0 0 26646
+D2
+~
+~
+0 0 26649
+D3
+~
+~
+0 0 26650
+S
+#26648
+The Servants' Quarters~
+   These are simple servants quarters, with cots lining the walls and a small 
+locked trunk at the end of each bed. All of the beds are neatly made, and 
+there isn't a speck of dust in this room. 
+~
+266 8 0
+D2
+~
+~
+0 0 26647
+S
+#26649
+An Elegant Dining Room~
+   A large mahogany table with carved legs and large clawed feet sits in the 
+middle of the room. It is surrounded by twelve chairs, the one at the far end 
+of the table is enormous. It is delicately carved with two wolfs heads on the 
+arms, and a large dragon on the back.
+~
+266 8 0
+D0
+~
+~
+0 0 26647
+S
+#26650
+Office of the Jarl~
+   The first thing you notice as you enter the Jarl's office is the giant 
+wolfskin lying on the floor in front of her desk. It is much larger than any 
+wolf you have ever seen, it sends shivers down your spine. The desk is also 
+impressive, the legs are carved to resemble dragons and the top is polished 
+to a glowing luster. Although the most impressive thing in the room, hands 
+down, is Sigyn, the Jarl of Aesir. She makes you want to crawl into the floor 
+as she turns her iron gaze your way. 
+~
+266 262152 0
+D1
+~
+~
+0 0 26647
+S
+#26651
+Nordri Avenue~
+   You are standing before a small humble shop.  People push past you, their 
+arms laden with packages and bundles.  Large salted hocks of reindeer meat
+dangle from the overhang of the shop.  
+~
+266 0 1
+D0
+~
+~
+0 0 26654
+D2
+~
+~
+0 0 26629
+D3
+~
+~
+0 0 26652
+S
+#26652
+Skadi's Goods and Supplies~
+   The shop is a whirlwind of activity. People are pawing through the goods, 
+shouting greeting to one another, and haggling with Skadi about her prices. 
+Its very warm and cozy in here, maybe a bit too cozy, you think, as yet 
+another person nudges you out of the way. The smells of fresh bread and cured 
+meat permeate the air. 
+~
+266 24 0
+D1
+~
+~
+0 0 26651
+S
+#26653
+Storeroom~
+   This is the storage for Skadi's shop.
+~
+266 393384 0
+S
+#26654
+The Nordri Gate~
+   You stand before a large wooden gate which is starkly plain in contrast
+to the gate at Aesir's main entrance.  Not many travelers must enter
+through this.
+~
+266 0 1
+D0
+~
+~
+0 0 26674
+D1
+~
+~
+0 0 26663
+D2
+~
+~
+0 0 26651
+D3
+~
+~
+0 0 26655
+S
+#26655
+Forseti Street~
+   You hear horses whinnying and stomping their feet.  Before you is a small
+stable, it's two stories but looks like it probably has only about ten stalls.
+This is the only stable you have seen in the city, which leads you to believe
+that horses are quite rare here.
+~
+266 0 1
+D1
+~
+~
+0 0 26654
+D2
+~
+~
+0 0 26656
+D3
+~
+~
+0 0 26658
+S
+#26656
+A Small Stable~
+   You are suprised to find not horses, but squat little mountain ponies. 
+They must be used to pull carts, because so far you haven't seen anyone in 
+Aesir small enough to ride them. They don't seem to notice your presence, 
+most of them are munching contentedly on a sweet smelling mixture of oats and 
+molasses. 
+~
+266 8 0
+D0
+~
+~
+0 0 26655
+D4
+~
+~
+0 0 26657
+S
+#26657
+Hayloft~
+   The hayloft is suprisingly warm. Large bundles of hay and straw are 
+stacked neatly against the walls, and loose hay blankets the floor. This 
+would actually be a great place to spend the night, besides being a little 
+bit dusty. 
+~
+266 8 0
+D5
+~
+~
+0 0 26656
+S
+#26658
+Forseti Street~
+   There aren't even small pebbles on the road here, and it is perfectly 
+level. The citizens of Aesir keep this road in good condition to keep the 
+ponies sound. If even one of them went lame, it would be a huge blow to the 
+town because they are so rare. 
+~
+266 0 1
+D1
+~
+~
+0 0 26655
+D3
+~
+~
+0 0 26659
+S
+#26659
+Forseti Street~
+   You leave the alley and emerge on to a wide hard-packed street. You are 
+nearing the edge of the city, you see the low stone wall that surrounds Aesir 
+off to the north. 
+~
+266 0 1
+D1
+~
+~
+0 0 26658
+D2
+~
+~
+0 0 26660
+S
+#26660
+A Narrow Alley~
+   As you continue through the alley, you get a glimpse of these people's
+private lives. Wet clothing flaps on clotheslines in the chill breeze. Young 
+children dart in and out of the alley, playing games. The occasional goat 
+wanders by, in search of tasty bits. 
+~
+266 0 1
+D0
+~
+~
+0 0 26659
+D2
+~
+~
+0 0 26661
+S
+#26661
+A Narrow Alley~
+   You squeeze in between two identical stone houses into a small alley. 
+Narrow paths cut through the alley at regular intervals, leading to more 
+houses. Most of the houses you can see have large dogs chained outside, they 
+keep a close eye on you as you pass through. 
+~
+266 0 1
+D0
+~
+~
+0 0 26660
+D2
+~
+~
+0 0 26662
+S
+#26662
+Westri Avenue~
+   You reach the end of Westri Avenue. As you look around at the uniform grey 
+stone buildings you almost miss the tiny alleyway. You hear what sounds like 
+a goat bleating from the direction of the alley. 
+~
+266 0 1
+D0
+~
+~
+0 0 26661
+D1
+~
+~
+0 0 26623
+S
+#26663
+Droma Street~
+   You see many bedraggled travelers here.  They are all heading for the 
+beckoning lights of the inn.  You are also drawn towards it, nothing sounds
+better right now than a hot meal and defrosting your frozen toes.
+~
+266 0 1
+D1
+~
+~
+0 0 26664
+D3
+~
+~
+0 0 26654
+S
+#26664
+Droma Street~
+   You stand before a fairly large inn.  It is a stout stone building, 
+constructed like all the other buildings in Aesir.  A warm glow emanates from
+the windows, and smoke billows from both chimneys.  
+~
+266 0 1
+D2
+~
+~
+0 0 26665
+D3
+~
+~
+0 0 26663
+S
+#26665
+The Golden Boar Inn~
+   You are overcome with warmth as you enter the inn. Two fires blaze in 
+hearths on opposite sides of the room. Wearly travelers huddle close to the 
+fires, wrapped in wool blankets. Some of them take turns soaking their feet 
+in a large pot filled with water that was warmed over the fire. 
+~
+266 8 0
+D0
+~
+~
+0 0 26664
+D4
+~
+~
+0 0 26689
+S
+#26666
+The Reindeer Pen~
+   SQUISH!!!  You curse under your breath as you attempt to extract your foot 
+from a fresh pile of reindeer dung.  Flies buzz angrily at you for disturbing 
+them, and fly off to find another pile.  The reindeer look extremely well fed,
+and their coats are thick and shiny.
+~
+266 0 2
+D0
+~
+~
+0 0 26667
+D1
+~
+~
+0 0 26637
+D2
+~
+~
+0 0 26636
+D3
+~
+~
+0 0 26635
+S
+#26667
+The Reindeer Pen~
+   SQUISH!!!  You curse under your breath as you attempt to extract your foot 
+from a fresh pile of reindeer dung.  Flies buzz angrily at you for disturbing 
+them, and fly off to find another pile.  The reindeer look extremely well fed,
+and their coats are thick and shiny.
+~
+266 0 2
+D0
+~
+~
+0 0 26668
+D1
+~
+~
+0 0 26637
+D2
+~
+~
+0 0 26666
+D3
+~
+~
+0 0 26635
+S
+#26668
+Over a Low Stone Wall~
+   There is a small break in the wall here, where some of the rocks have been 
+knocked off. Its low enough for you to easily climb over. From the top of the 
+wall as you hoist yourself over, you can see the field continues to roll on. 
+In the distance you see a scraggly treeline. 
+~
+266 4 2
+D0
+~
+~
+0 0 26669
+D2
+~
+~
+0 0 26667
+S
+#26669
+Through the Brush Fields~
+   It is so quiet here that you can hear the sounds of field mice rustling in 
+the tall grasses. You wonder how the animals get by out here, there is 
+nothing green for as far as you can see. All of the vegetation is brown or 
+yellow, and seems very brittle as it whips back and forth in the wind. 
+~
+266 0 2
+D1
+~
+~
+0 0 26670
+D2
+~
+~
+0 0 26668
+S
+#26670
+Through the Brush Fields~
+   As you continue to wade through the grasses you come to the edge of a 
+small ravine. You pull your cloak tightly around your body, and curse the 
+infernal wind which is chilling you to the bone. 
+~
+266 0 2
+D3
+~
+~
+0 0 26669
+D5
+~
+~
+0 0 26671
+S
+#26671
+Down a Small Ravine~
+   You struggle to keep your balance as you slide on loose stones.  At the
+bottom of the ravine is a small creek, gurgling over the rocks.  Its very
+fast moving, which is the only thing keeping it from freezing solid.
+~
+266 0 4
+D0
+~
+~
+0 0 26672
+D4
+~
+~
+0 0 26670
+S
+#26672
+Following the Small Creek~
+   You walk along the banks of the small creek. It is crystal clear, and gets 
+wider and deeper as you continue. Its actually very relaxing to listen to, as 
+it rushes through and over the maze of small boulders. 
+~
+266 0 4
+D0
+~
+~
+0 0 26673
+D2
+~
+~
+0 0 26671
+S
+#26673
+The Great River Von~
+   The creek abruptly lets out into a large river. The only way to continue 
+is on the river, as the walls of the ravine are way too steep to climb here. 
+You can now see a thick cluster of trees lining the other bank of the river. 
+~
+266 0 7
+D0
+~
+~
+0 0 26681
+D2
+~
+~
+0 0 26672
+S
+#26674
+Outside the Nordri Gate~
+   You leave the protection of Aesir behind, and start trudging into the 
+wilderness. The road becomes more of a path, rough and uneven. The grasses 
+are tall, and you begin to see trees now and again. 
+~
+266 4 2
+D2
+~
+~
+0 0 26654
+D3
+~
+~
+0 0 26675
+S
+#26675
+The Scrub Hills~
+   The land is very treacherous, hilly and covered with loose rock. You are 
+constantly grabbing small trees and clumps of grass to keep your balance as 
+you traverse the hills. The animals here seem to have no problem navigating 
+the rough terrain. 
+~
+266 0 4
+D0
+~
+~
+0 0 26676
+D1
+~
+~
+0 0 26674
+S
+#26676
+The Riverbank~
+   As you reach the crest of the last hill you find yourself standing before 
+a large powerful river. You scramble down the rocky banks to get a closer 
+look. The river froths and churns as it rushes by. 
+~
+266 0 2
+D0
+~
+~
+0 0 26677
+D2
+~
+~
+0 0 26675
+S
+#26677
+The Great River Von~
+   You embark upon the Great River Von, which swiftly carries you away. Its 
+waters are a deep blood red, and large jagged chunks of ice float by, 
+reminding you of the teeth of some great beast. The river is well known 
+throughout Aesir and the surrounding lands, it is fabled to have sprung forth 
+from the blood of the mighty wolf, Fenris. 
+~
+266 0 7
+D1
+~
+~
+0 0 26678
+D2
+~
+~
+0 0 26676
+S
+#26678
+The Great River Von~
+   You embark upon the Great River Von, which swiftly carries you away. Its 
+waters are a deep blood red, and large jagged chunks of ice float by, 
+reminding you of the teeth of some great beast. The river is well known 
+throughout Aesir and the surrounding lands, it is fabled to have sprung forth 
+from the blood of the mighty wolf, Fenris. 
+~
+266 0 7
+D1
+~
+~
+0 0 26679
+D3
+~
+~
+0 0 26677
+S
+#26679
+The Great River Von~
+   You embark upon the Great River Von, which swiftly carries you away. Its 
+waters are a deep blood red, and large jagged chunks of ice float by, 
+reminding you of the teeth of some great beast. The river is well known 
+throughout Aesir and the surrounding lands, it is fabled to have sprung forth 
+from the blood of the mighty wolf, Fenris. 
+~
+266 0 7
+D0
+~
+~
+0 0 26680
+D3
+~
+~
+0 0 26678
+S
+#26680
+The Great River Von~
+   You embark upon the Great River Von, which swiftly carries you away. Its 
+waters are a deep blood red, and large jagged chunks of ice float by, 
+reminding you of the teeth of some great beast. The river is well known 
+throughout Aesir and the surrounding lands, it is fabled to have sprung forth 
+from the blood of the mighty wolf, Fenris. 
+~
+266 0 7
+D1
+~
+~
+0 0 26681
+D2
+~
+~
+0 0 26679
+S
+#26681
+The Great River Von~
+   You embark upon the Great River Von, which swiftly carries you away. Its 
+waters are a deep blood red, and large jagged chunks of ice float by, 
+reminding you of the teeth of some great beast. The river is well known 
+throughout Aesir and the surrounding lands, it is fabled to have sprung forth 
+from the blood of the mighty wolf, Fenris. 
+~
+266 0 7
+D1
+~
+~
+0 0 26682
+D2
+~
+~
+0 0 26673
+D3
+~
+~
+0 0 26680
+S
+#26682
+The Great River Von~
+   You embark upon the Great River Von, which swiftly carries you away. Its 
+waters are a deep blood red, and large jagged chunks of ice float by, 
+reminding you of the teeth of some great beast. The river is well known 
+throughout Aesir and the surrounding lands, it is fabled to have sprung forth 
+from the blood of the mighty wolf, Fenris. 
+~
+266 0 7
+D1
+~
+~
+0 0 26683
+D3
+~
+~
+0 0 26681
+S
+#26683
+The Blood Falls~
+   The river ends at a large waterfall, the red water spills from the cliffs 
+above into a small pool. You can barely hear above the roar of the rushing 
+water. You think that you can probably climb the wet cliffs behind the falls, 
+if you are extremely careful. Every once and a while you think you hear an 
+eerie howling above the roar of the falls, but it could be just your 
+imagination. 
+~
+266 32 6
+D3
+~
+~
+0 0 26682
+D4
+~
+~
+0 0 26684
+S
+#26684
+Climbing the Falls~
+   It is suprisingly dry under the falls, although the cliffs are damp and
+slippery.  With the ever constant roar of the water in your head, you begin
+to carefully inch your way up the cliffs.
+~
+266 32 5
+D4
+~
+~
+0 0 26685
+D5
+~
+~
+0 0 26683
+S
+#26685
+The Top of the Falls~
+   You continue to pull yourself up the cliff face, and eventually reach the 
+top. You heave yourself up over the edge of the cliff and lay there, panting 
+from exertion. From here you see that the falls are fed from a small rivulet 
+that trickles down from the north. 
+~
+266 32 5
+D0
+~
+~
+0 0 26686
+D5
+~
+~
+0 0 26684
+S
+#26686
+The Chasm~
+   You find youself in the bottom of a deep gorge, carved out through the 
+years by the rushing waters. Sheer rock cliffs rise to either side of you, 
+there is only a small patch of sky visible above. Odd echoes reverberate off 
+the walls, your words and footfalls become a strange cacophony of noises. A 
+bone chilling howl seems to emanate from nowhere and everywhere at the same 
+time. You feel the hairs beginning to rise on the back of your neck... 
+~
+266 0 5
+D0
+~
+~
+0 0 26687
+D2
+~
+~
+0 0 26685
+S
+#26687
+Before the Giant Boulder~
+   An enormous boulder is here, looking quite out of place, blocking off the 
+rest of the chasm. Someone must have really wanted to keep this area closed. 
+It would take a much greater than human strength to move a rock of that size. 
+As you inspect the boulder more closely, you see some deeply etched runes, 
+and a deep hole in the distinct shape of a wolf. 
+~
+266 262144 5
+D0
+~
+Enormous Boulder~
+2 26621 26688
+D2
+~
+~
+0 26621 26686
+S
+#26688
+The Eternal Prison of Fenris~
+   You have entered the dismal abode of the great Fenris wolf. Legend says he 
+was put here by the gods because he grew so strong so fast that they feared 
+for their own saftey. He is also rumored to possess an extraordinary 
+intelligence. At first you think he is a pitiful sight, bound by a magical 
+cord, lying prone on his side. But the closer you get, you realize how wrong 
+you are. He is so powerful and immense that he could merely open his jaws and 
+snap you in two. This cavern is completely barren, the only object in here 
+was the boulder you moved to enter, which unfortunately for you, was the 
+boulder securing Fenris' bonds. 
+~
+266 262145 5
+D2
+~
+Enormous Boulder~
+2 26621 26687
+S
+#26689
+The Reception of the Golden Boar Inn~
+   You climb the wooden stairs to the second floor of the inn. There is a 
+long hallway, with rooms on either side. A young girl offers you some 
+blankets, and a metal container holding a hot coal to ward off the nights 
+chill. 
+~
+266 12 0
+D5
+~
+~
+0 0 26665
+S
+#26690
+The format room~
+   You see a formidable woman that reminds you somewhat of the pictures you 
+have seen of Valkyr. There is no way to tell her age, she looks neither young 
+nor old. Her long blonde hair hangs down to her waist. As she looks up at you 
+you catch a glimpse of her unnaturally pale blue eyes. She has a stern 
+expression on her face, and she looks quite unhappy that you barged in 
+without an appointment. 
+~
+266 0 0
+S
+#26691
+ Munin's Loft~
+   You are standing inside a dummy room, which should get real.
+~
+266 393216 0
+D2
+~
+~
+0 0 26699
+S
+#26692
+ Munin's Loft~
+   You are standing inside a dummy room, which should get real.
+~
+266 393216 0
+D0
+~
+~
+0 0 26699
+S
+#26693
+ Munin's Loft~
+   You are standing inside a dummy room, which should get real.
+~
+266 393216 0
+D1
+~
+~
+0 0 26699
+S
+#26694
+ Munin's Loft~
+   You are standing inside a dummy room, which should get real.
+~
+266 393216 0
+D3
+~
+~
+0 0 26699
+S
+#26695
+The Reception of the Silver Wolf Tavern~
+   A thick wool rug lines the entire floor of this room, hiding 
+your feet from the cold stone floor.  A painting of a beautiful 
+woman dressed in full plate armor lines the far wall.  A young
+woman sits on a chair folding linens.  She glances up at you with
+her big blue eyes and asks if you are interested in a room for the night.
+~
+266 28 0
+D5
+~
+~
+0 0 26626
+S
+#26699
+Munin's Loft~
+no one 'cept Munin should be here
+~
+266 393248 0
+D0
+~
+~
+0 0 26691
+D1
+~
+~
+0 0 26694
+D2
+~
+~
+0 0 26692
+D3
+~
+~
+0 0 26693
+S
+#99999
+$~

@@ -1,0 +1,39 @@
+>greet_prog 75~
+  say Welcome!  You are just in time for dinner!
+  kill $r
+~
+>fight_prog 5~
+  say Protect me!
+  mpecho $I waves his hand toward you as if to shoo you away!
+  mpmload 11015
+  mpecho The air turns chill as some unseen force enters the fray!
+  mpforce 11015 kill $r
+~
+>fight_prog 20~
+  mpechoat $r $I opens his mouth wide and you get a good look at his black teeth right before they penetrate your flesh!
+  mpechoaround $r You reel from a horrible stench as $I opens his mouth wide and bites $R!
+  mpsilent mpcallmagic 'poison' $r
+  mpsilent mpcallmagic 'slow' $r
+  mpsilent mpcallmagic 'blindness' $r
+  mpechoaround $r $R collapses in misery as the poisons run through $L veins.
+  mpechoat $r You collapse in misery as poisons run through your veins.
+~
+>fight_prog 25~
+  say Hurry up and die!  I am hungry!
+~
+>fight_prog 30~
+  say After this, your meat should be nice and tender!
+~
+>death_prog 100~
+  mpecho You have a vison of a wall of pure shadow splitting and cracking.
+  mpecho The spirit of the Undead Lord escapes...!
+  mpgoto 11044
+  mppurge
+  mpoload 11035
+  mpsilent drop crack
+  mpecho The wall before you starts to crack as the ground shakes and trembles from some tremendous power. 
+  mpecho The spirit of the Undead Lord smiles as his tormented soul is now free.
+  mpgoto $n
+  mpecho The spirit of the Undead Lord says, 'Thank you, your path is now open. Avenge my suffering!  
+~
+|

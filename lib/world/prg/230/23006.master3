@@ -1,0 +1,31 @@
+>script_prog actually-learning~
+  #
+@
+  say Are you actually learning anything, you're moving so quick.
+@
+  snicker
+@
+  say Some of these warriors are carrying potions...
+@
+  say Just type '^Gquaff potion^n' to use one.
+@
+  say By the way, the last time you were here you left blood on the walls.
+@
+  say Don't do it again, it's bloody hard to get bloodstains off 'em.
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ismemory($n)
+    else
+      mptrigger $n actually-learning
+      mpremember $n
+    endif
+  endif
+~
+>fight_prog 100~
+  if isscript($i)
+    mpstopscript
+  endif
+~
+|

@@ -1,0 +1,8 @@
+>fight_prog 8~
+  mpechoat $r $I infects you!!
+  mpechoaround $r $I infects $R!!
+  mpcallmagic 'poison' $r
+  mpdamage $r 20
+  mpdrainmove $r 20
+~
+|

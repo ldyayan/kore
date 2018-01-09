@@ -1,0 +1,13 @@
+>fight_prog 3~
+  if inroom($r) == here
+    cast 'petrify' $r
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    mpechoat $r $I touches you with a quivering palm!
+    mpecharound $r $I touches $R with a quivering palm!
+    mpdamage $r 50
+  endif
+~
+|

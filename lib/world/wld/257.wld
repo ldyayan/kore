@@ -1,0 +1,2603 @@
+#25700
+Along the Docks~
+   You stand before a tall and forboding building. A painted sign of an
+anchors swings in the stronge sea breeze coming of the salty water to the
+southwest. The creaking wooden hinges add a warm feeling to the otherwise
+pirate infested port of call you are in. Half of a two part door bars your 
+entrance to the creaking wooden building before you, the top half slaps
+against the wall as a breeze blows fast you.
+~
+257 0 1
+D0
+~
+~
+0 0 25701
+D1
+~
+~
+0 0 25792
+D3
+~
+~
+0 0 25702
+S
+#25701
+The Harbormaster's Office~
+  Pushing aside the bottom half of the door, you step inside the wooden
+building and are presented with what can only be described as a museum of
+nautical treasures. Ancient sextants, maps, portraits of long dead captains,
+portraits of ships, and deeds to famous ships hang on the wall. A burly man
+with an anchor tatoo, on his right forearm, regards you cooly, leaning back
+in his chair, peg leg on the counter in front of him. The salty sea breeze
+blowing through the door mixes with the smoke from his cornpipe and you find
+the scent almost intoxicating.
+~
+257 12 0
+D2
+~
+~
+0 0 25700
+S
+#25702
+Along the Docks~
+   You walk along the only paved part of this area, the walkway past the
+docks. The entirety of the docks is made of wood and is supported many yards
+above the water. This paved portion slightly north of the docks is where
+the waterfront warehouses, taverns, and inns are. Sailors bustle around you
+heading east and west along the road. Crates and barrels lie stacked in
+your path. A virtual cornicopia of sea gulls flies above your head, making
+rude sounds as they look for fish and scraps.
+~
+257 0 1
+D1
+~
+~
+0 0 25700
+D2
+~
+~
+0 0 25715
+D3
+~
+~
+0 0 25703
+S
+#25703
+Along the Docks~
+   You walk along the only paved part of this area, the walkway past the
+docks. The entirety of the docks is made of wood and is supported many yards
+above the water. This paved portion slightly north of the docks is where
+the waterfront warehouses, taverns, and inns are. Sailors bustle around you
+heading east and west along the road. Crates and barrels lie stacked in
+your path. A virtual cornicopia of sea gulls flies above your head, making
+rude sounds as they look for fish and scraps.
+~
+257 0 1
+D1
+~
+~
+0 0 25702
+D3
+~
+~
+0 0 25704
+D5
+~
+~
+0 0 25708
+S
+#25704
+Along the Docks~
+   You walk along the only paved part of this area, the walkway past the
+docks. The entirety of the docks is made of wood and is supported many yards
+above the water. This paved portion slightly north of the docks is where
+the waterfront warehouses, taverns, and inns are. Sailors bustle around you
+heading east and west along the road. Crates and barrels lie stacked in
+your path. A virtual cornicopia of sea gulls flies above your head, making
+rude sounds as they look for fish and scraps.
+~
+257 32768 1
+D1
+~
+~
+0 0 25703
+D2
+~
+~
+0 0 25706
+D3
+~
+~
+0 0 25705
+S
+#25705
+Along the Docks~
+   You walk along the only paved part of this area, the walkway past the
+docks. The entirety of the docks is made of wood and is supported many yards
+above the water. This paved portion slightly north of the docks is where
+the waterfront warehouses, taverns, and inns are. Sailors bustle around you
+heading east and west along the road. Crates and barrels lie stacked in
+your path. A virtual cornicopia of sea gulls flies above your head, making
+rude sounds as they look for fish and scraps.
+~
+257 32768 1
+D0
+~
+~
+0 0 25717
+D1
+~
+~
+0 0 25704
+S
+#25706
+Pier One~
+   You step off the pavement and onto a sturdy wooden pier. This is pier
+one, where all the major traders dock to unload their cargos. Currently it
+is all but empty, no ships are currently docked, but that could change at
+any time. Scraps of food fly around as sea gulls fight over them, giving up
+as you approach. The water is still shallow yet lies almost fifteen below
+you. The water laps gently at the pilings as waves flow smoothly past. This
+pier looks as though it has been through many storms successfully. Large pegs
+stand up from the sides to moor ships to the pier.
+~
+257 0 6
+D0
+~
+~
+0 0 25704
+D2
+~
+~
+0 0 25707
+S
+#25707
+End of Pier One~
+   As you step farther out on the pier, the sonds your feet make against the
+wood becomes deeper and deeper. The water is much deeper now and you can no
+longer see bottom. The sea is a beautiful blue crystal out farther, but the
+water around the pier is a deep emerald green. As you watch the water, a
+pelican swoops down and scoops up a fish in its bill before runing skyward.
+The sea breeze is stronger out here, and looking out over the sea, you wish
+you were sailing.
+~
+257 0 6
+D0
+~
+~
+0 0 25706
+D1
+~
+~
+0 0 25718
+D2
+~
+~
+0 0 25790
+D3
+~
+~
+0 0 25728
+S
+#25708
+Down Between the Piers~
+   You climb down the side of one of the pilings and drop a little ways onto
+the sand below. It is warm and the warmth of the sun and sand combined with
+the cool breeze sends tingles through you. Waves splash against the shore
+here and foam bristles as the water runs back. The sand runs off east to west
+for a little ways, and the water south of you looks cool and inviting. A
+few strands of kelp lay half dried on the shore by your feet, left by the
+tide at its zenith. A few birds pick at the sand looking for crabs, but
+hurriedly take flight when they see you.
+~
+257 4 4
+D1
+~
+~
+0 0 25710
+D2
+~
+~
+0 0 25718
+D3
+~
+~
+0 0 25709
+D4
+~
+~
+0 0 25703
+S
+#25709
+Under Pier One~
+   From where you are you can look up at the underside of pier one. The wood
+creaks as a few people clomp by above. Moving in between the pilings, you 
+look around at the seaweed wrapped arond them. A few birds have made their
+nests in the rafters between pilings. The cracks between boards allows a
+minimal level of light through to illuminate your surroundings. Resting under
+the pier seems like a ncie way to spend the afternoon.
+~
+257 0 4
+D1
+~
+~
+0 0 25708
+D2
+~
+~
+0 0 25721
+D3
+~
+~
+0 0 25712
+S
+#25710
+Under Pier Two~
+   From where you are you can look up at the underside of pier two. The wood
+creaks as a few people clomp around above. Moving in between the pilings, you
+look around at the seaweed wrapped around them. A few birds have made their
+nests in the rafters between pilings. The cracks between the boards allows a
+minimal level of light through to illuminate your surroundings. Resting under
+the pier seems like a nice way to spend the afternoon.
+~
+257 0 0
+D1
+~
+~
+0 0 25711
+D3
+~
+~
+0 0 25708
+S
+#25711
+The Beach~
+   Its such a nice day that you just have to step out of your shoes to walk
+barefoot in the warm sand. Wiggling your toes you run them through the warm
+sand and shiver delightfully, its been so long since you've had a chance to
+relax. The waves lap gently against the shore and the sounds of sea gulls
+mingle with the breeze and water to create a delightful atmosphere. Like
+a thousand twinkling diamonds your eyes take in the water before you, each
+crest a treasure of beauty.
+~
+257 0 4
+D1
+~
+~
+0 0 25714
+D2
+~
+~
+0 0 25724
+D3
+~
+~
+0 0 25710
+S
+#25712
+The Beach~
+   Its such a nice day that you just have to step out of your shoes to walk
+barefoot in the warm sand. Wiggling your toes you run them through the warm
+sand and shiver delightfully, its been so long since you've had a chance to
+relax. The waves lap gently against the shore and the sounds of sea gulls
+mingle with the breeze and water to create a delightful atmosphere. Like
+a thousand twinkling diamonds your eyes take in the water before you, each
+crest a treasure of beauty.
+~
+257 0 4
+D1
+~
+~
+0 0 25709
+D2
+~
+~
+0 0 25728
+D3
+~
+~
+0 0 25713
+S
+#25713
+The Beach~
+   Its such a nice day that you just have to step out of your shoes to walk
+barefoot in the warm sand. Wiggling your toes you run them through the warm
+sand and shiver delightfully, its been so long since you've had a chance to
+relax. The waves lap gently against the shore and the sounds of sea gulls
+mingle with the breeze and water to create a delightful atmosphere. Like
+a thousand twinkling diamonds your eyes take in the water before you, each
+crest a treasure of beauty.
+~
+257 0 4
+D1
+~
+~
+0 0 25712
+D2
+~
+~
+0 0 25729
+D3
+~
+~
+0 0 25713
+S
+#25714
+The Beach~
+   Its such a nice day that you just have to step out of your shoes to walk
+barefoot in the warm sand. Wiggling your toes you run them through the warm
+sand and shiver delightfully, its been so long since you've had a chance to
+relax. The waves lap gently against the shore and the sounds of sea gulls
+mingle with the breeze and water to create a delightful atmosphere. Like
+a thousand twinkling diamonds your eyes take in the water before you, each
+crest a treasure of beauty.
+~
+257 0 4
+D1
+~
+~
+0 0 16225
+D2
+~
+~
+0 0 25732
+D3
+~
+~
+0 0 25711
+S
+#25715
+Pier Two~
+   You step off the pavement and onto a sturdy wooden pier. This is pier
+two, where all the private and merchant vessles moor when not in use.
+Currently it has but a few ships docked, such is the nice day. Breeze blows
+well and will doubtlessly provide hours of good sailing. The water is still
+shallow yet lies almost fifteen feet below you. Lapping gently against the 
+pilings, waves flow smoothly past to the shore. This pier looks as though it
+has survivde many storms and years of weathering. Large pegs stand up from 
+the sides to moor ships to the pier.
+~
+257 0 6
+D0
+~
+~
+0 0 25702
+D2
+~
+~
+0 0 25716
+S
+#25716
+End of Pier Two~
+   As you step farther out on the pier, the sounds your feet make against the
+wood becomes deeper and deeper. The water is much deeper now and you can no
+longer see bottom. The sea is a beautiful blue crystal out farther, the water
+around the pier is a deep emerald green. As you watch the water, a pelican
+swoops down and scoops up a fish in its bill before turning skyward again.
+The breeze is stronger out here, and looking out over the sea, you wish you
+were sailing.
+~
+257 0 6
+D0
+~
+~
+0 0 25715
+D1
+~
+~
+0 0 25724
+D2
+~
+~
+0 0 25791
+D3
+~
+~
+0 0 25718
+S
+#25717
+Southern End of Villanus Street~
+   Walking even farther southward you find yourself at the end of Villanus
+Street. The ancient pavement on which you had been walking turns into the
+newer pavement of the docks and the surrounding area. It is here, as well, 
+that you begin to feel the delightful sea breeze blowing in from out over the
+water. Looking around some more, you do not see much, a few crates, a couple
+sailors in stupid hats, and many sea gulls. The sea of the salty sea asails
+your nostrils and your skins prickles at the enticing scent.
+~
+257 32772 1
+D0
+~
+~
+0 0 3051
+D2
+~
+~
+0 0 25705
+S
+#25718
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25708
+D1
+~
+~
+0 0 25716
+D2
+~
+~
+0 0 25722
+D3
+~
+~
+0 0 25707
+S
+#25719
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25718
+D1
+~
+~
+0 0 25720
+D2
+~
+~
+0 0 25727
+D8
+~
+~
+0 0 25726
+S
+#25720
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25728
+D1
+~
+~
+0 0 25721
+D2
+~
+~
+0 0 25730
+D3
+~
+~
+0 0 25719
+S
+#25721
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25709
+D1
+~
+~
+0 0 25790
+D2
+~
+~
+0 0 25731
+D3
+~
+~
+0 0 25720
+S
+#25722
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25718
+D1
+~
+~
+0 0 25791
+D2
+~
+~
+0 0 25734
+D3
+~
+~
+0 0 25790
+S
+#25723
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25724
+D1
+~
+~
+0 0 25725
+D2
+~
+~
+0 0 25736
+D3
+~
+~
+0 0 25791
+S
+#25724
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25711
+D1
+~
+~
+0 0 25732
+D2
+~
+~
+0 0 25723
+D3
+~
+~
+0 0 25716
+S
+#25725
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25732
+D2
+~
+~
+0 0 25737
+D3
+~
+~
+0 0 25723
+D7
+~
+~
+0 0 25738
+S
+#25726
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D1
+~
+~
+0 0 25727
+D7
+~
+~
+0 0 25739
+D8
+~
+~
+0 0 25719
+S
+#25727
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25719
+D1
+~
+~
+0 0 25730
+D2
+~
+~
+0 0 25739
+D3
+~
+~
+0 0 25726
+S
+#25728
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25712
+D1
+~
+~
+0 0 25707
+D2
+~
+~
+0 0 25720
+D3
+~
+~
+0 0 25729
+S
+#25729
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25713
+D1
+~
+~
+0 0 25728
+D2
+~
+~
+0 0 25719
+S
+#25730
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25720
+D1
+~
+~
+0 0 25731
+D2
+~
+~
+0 0 25740
+D3
+~
+~
+0 0 25727
+S
+#25731
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25721
+D1
+~
+~
+0 0 25733
+D2
+~
+~
+0 0 25741
+D3
+~
+~
+0 0 25730
+S
+#25732
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25714
+D2
+~
+~
+0 0 25725
+D3
+~
+~
+0 0 25724
+D6
+~
+~
+0 0 16225
+S
+#25733
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25790
+D1
+~
+~
+0 0 25734
+D2
+~
+~
+0 0 25742
+D3
+~
+~
+0 0 25731
+S
+#25734
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25722
+D1
+~
+~
+0 0 25735
+D2
+~
+~
+0 0 25743
+D3
+~
+~
+0 0 25733
+S
+#25735
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25791
+D1
+~
+~
+0 0 25736
+D2
+~
+~
+0 0 25744
+D3
+~
+~
+0 0 25734
+S
+#25736
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25723
+D1
+~
+~
+0 0 25737
+D2
+~
+~
+0 0 25745
+D3
+~
+~
+0 0 25735
+S
+#25737
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25725
+D1
+~
+~
+0 0 25738
+D2
+~
+~
+0 0 25746
+D3
+~
+~
+0 0 25736
+S
+#25738
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D3
+~
+~
+0 0 25737
+D8
+~
+~
+0 0 25746
+D9
+~
+~
+0 0 25725
+S
+#25739
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25727
+D1
+~
+~
+0 0 25740
+D7
+~
+~
+0 0 25747
+D9
+~
+~
+0 0 25726
+S
+#25740
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25730
+D1
+~
+~
+0 0 25741
+D2
+~
+~
+0 0 25747
+D3
+~
+~
+0 0 25739
+S
+#25741
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25731
+D1
+~
+~
+0 0 25742
+D2
+~
+~
+0 0 25748
+D3
+~
+~
+0 0 25740
+S
+#25742
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25733
+D1
+~
+~
+0 0 25743
+D2
+~
+~
+0 0 25749
+D3
+~
+~
+0 0 25741
+S
+#25743
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25734
+D1
+~
+~
+0 0 25744
+D2
+~
+~
+0 0 25750
+D3
+~
+~
+0 0 25742
+S
+#25744
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 6
+D0
+~
+~
+0 0 25735
+D1
+~
+~
+0 0 25745
+D2
+~
+~
+0 0 25751
+D3
+~
+~
+0 0 25743
+S
+#25745
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 6
+D0
+~
+~
+0 0 25736
+D1
+~
+~
+0 0 25746
+D2
+~
+~
+0 0 25752
+D3
+~
+~
+0 0 25744
+S
+#25746
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25737
+D3
+~
+~
+0 0 25745
+D6
+~
+~
+0 0 25738
+D8
+~
+~
+0 0 25752
+S
+#25747
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25740
+D1
+~
+~
+0 0 25748
+D2
+~
+~
+0 0 25754
+D8
+~
+~
+0 0 25753
+D9
+~
+~
+0 0 25739
+S
+#25748
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25741
+D1
+~
+~
+0 0 25749
+D2
+~
+~
+0 0 25755
+D3
+~
+~
+0 0 25747
+S
+#25749
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25742
+D1
+~
+~
+0 0 25750
+D2
+~
+~
+0 0 25756
+D3
+~
+~
+0 0 25748
+S
+#25750
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25743
+D1
+~
+~
+0 0 25751
+D2
+~
+~
+0 0 25757
+D3
+~
+~
+0 0 25749
+S
+#25751
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25744
+D1
+~
+~
+0 0 25752
+D2
+~
+~
+0 0 25758
+D3
+~
+~
+0 0 25750
+S
+#25752
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25745
+D2
+~
+~
+0 0 25759
+D3
+~
+~
+0 0 25751
+D6
+~
+~
+0 0 25746
+D7
+~
+~
+0 0 25760
+S
+#25753
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D1
+~
+~
+0 0 25754
+D2
+~
+~
+0 0 25762
+D6
+~
+~
+0 0 25747
+D8
+~
+~
+0 0 25761
+S
+#25754
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25747
+D1
+~
+~
+0 0 25755
+D2
+~
+~
+0 0 25763
+D3
+~
+~
+0 0 25753
+S
+#25755
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25748
+D1
+~
+~
+0 0 25756
+D2
+~
+~
+0 0 25764
+D3
+~
+~
+0 0 25754
+S
+#25756
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25749
+D1
+~
+~
+0 0 25757
+D2
+~
+~
+0 0 25765
+D3
+~
+~
+0 0 25755
+S
+#25757
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25750
+D1
+~
+~
+0 0 25758
+D2
+~
+~
+0 0 25766
+D3
+~
+~
+0 0 25756
+S
+#25758
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25751
+D1
+~
+~
+0 0 25759
+D2
+~
+~
+0 0 25767
+D3
+~
+~
+0 0 25757
+S
+#25759
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25752
+D1
+~
+~
+0 0 25760
+D2
+~
+~
+0 0 25768
+D3
+~
+~
+0 0 25758
+S
+#25760
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D2
+~
+~
+0 0 25769
+D3
+~
+~
+0 0 25759
+D7
+~
+~
+0 0 25770
+D9
+~
+~
+0 0 25752
+S
+#25761
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D1
+~
+~
+0 0 25762
+D7
+~
+~
+0 0 25771
+D8
+~
+~
+0 0 25753
+S
+#25762
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25753
+D1
+~
+~
+0 0 25763
+D2
+~
+~
+0 0 25771
+D3
+~
+~
+0 0 25761
+S
+#25763
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25754
+D1
+~
+~
+0 0 25764
+D2
+~
+~
+0 0 25772
+D3
+~
+~
+0 0 25762
+S
+#25764
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25755
+D1
+~
+~
+0 0 25765
+D2
+~
+~
+0 0 25773
+D3
+~
+~
+0 0 25763
+S
+#25765
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25756
+D1
+~
+~
+0 0 25766
+D2
+~
+~
+0 0 25774
+D3
+~
+~
+0 0 25764
+S
+#25766
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25757
+D1
+~
+~
+0 0 25767
+D2
+~
+~
+0 0 25775
+D3
+~
+~
+0 0 25765
+S
+#25767
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25758
+D1
+~
+~
+0 0 25768
+D2
+~
+~
+0 0 25776
+D3
+~
+~
+0 0 25766
+S
+#25768
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25759
+D1
+~
+~
+0 0 25769
+D2
+~
+~
+0 0 25777
+D3
+~
+~
+0 0 25767
+S
+#25769
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25760
+D1
+~
+~
+0 0 25770
+D2
+~
+~
+0 0 25778
+D3
+~
+~
+0 0 25768
+S
+#25770
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D3
+~
+~
+0 0 25769
+D8
+~
+~
+0 0 25778
+D9
+~
+~
+0 0 25760
+S
+#25771
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25762
+D1
+~
+~
+0 0 25772
+D7
+~
+~
+0 0 25779
+D9
+~
+~
+0 0 25761
+S
+#25772
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25763
+D1
+~
+~
+0 0 25773
+D2
+~
+~
+0 0 25779
+D3
+~
+~
+0 0 25771
+S
+#25773
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25764
+D1
+~
+~
+0 0 25774
+D2
+~
+~
+0 0 25780
+D3
+~
+~
+0 0 25772
+S
+#25774
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25765
+D1
+~
+~
+0 0 25775
+D2
+~
+~
+0 0 25781
+D3
+~
+~
+0 0 25773
+S
+#25775
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25766
+D1
+~
+~
+0 0 25776
+D2
+~
+~
+0 0 25783
+D3
+~
+~
+0 0 25774
+S
+#25776
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25767
+D1
+~
+~
+0 0 25777
+D2
+~
+~
+0 0 25783
+D3
+~
+~
+0 0 25775
+S
+#25777
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25768
+D1
+~
+~
+0 0 25778
+D2
+~
+~
+0 0 25784
+D3
+~
+~
+0 0 25776
+S
+#25778
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25769
+D3
+~
+~
+0 0 25777
+D7
+~
+~
+0 0 25784
+D8
+~
+~
+0 0 25770
+S
+#25779
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25772
+D1
+~
+~
+0 0 25780
+D2
+~
+~
+0 0 25785
+D9
+~
+~
+0 0 25771
+S
+#25780
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25773
+D1
+~
+~
+0 0 25781
+D2
+~
+~
+0 0 25786
+D3
+~
+~
+0 0 25779
+S
+#25781
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25774
+D1
+~
+~
+0 0 25782
+D2
+~
+~
+0 0 25787
+D3
+~
+~
+0 0 25780
+S
+#25782
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25785
+D1
+~
+~
+0 0 25783
+D2
+~
+~
+0 0 25788
+D3
+~
+~
+0 0 25781
+S
+#25783
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25776
+D1
+~
+~
+0 0 25784
+D3
+~
+~
+0 0 25782
+S
+#25784
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25777
+D3
+~
+~
+0 0 25783
+S
+#25785
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25779
+D1
+~
+~
+0 0 25786
+S
+#25786
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25780
+D1
+~
+~
+0 0 25787
+D3
+~
+~
+0 0 25785
+S
+#25787
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25781
+D1
+~
+~
+0 0 25788
+D3
+~
+~
+0 0 25786
+S
+#25788
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25782
+D3
+~
+~
+0 0 25787
+D7
+~
+~
+0 0 25789
+S
+#25789
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D1
+~
+~
+0 0 12300
+D3
+~
+~
+0 0 25788
+S
+#25790
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25707
+D1
+~
+~
+0 0 25722
+D2
+~
+~
+0 0 25733
+D3
+~
+~
+0 0 25721
+S
+#25791
+Sea of Tyress~
+   Crystal waves and sparkling whitecaps are the scenery that surrounds you.
+The beautiful blue sea of Tyress stretches out before you, twinkling and 
+glowing in all its vast splendor. It is this sea which traders from all
+corners of the world sail across on trade and conquest. A blue sky speckled
+with thin wisps of high clouds provides what seems like a boundless ceiling
+to a boundless seascape. In the distant you see a blue marlin leap out of
+the water and crash down into the waves. A strong sea breeze fills your sails
+and carries you farther out to see, and ruining your hair. Salty spray
+splashes you in the face and dampens your clothes. Ahoy!
+~
+257 64 12
+D0
+~
+~
+0 0 25716
+D1
+~
+~
+0 0 25723
+D2
+~
+~
+0 0 25721
+D3
+~
+~
+0 0 25722
+S
+#25792
+Along the Docks~
+   You walk along the only paved part of this area, the walkway past the
+docks. The entirety of the docks is made of wood and is supported many yards
+above the water. This paved portion slightly north of the docks is where
+the waterfront warehouses, taverns, and inns are. Sailors bustle around you
+heading east and west along the road. Crates and barrels lie stacked in your
+path. A virtual cornicopia of sea gulls fly above your head, making rude
+sounds as they look for fish and scraps.
+~
+257 0 1
+D3
+~
+~
+0 0 25700
+S
+#99999
+$~

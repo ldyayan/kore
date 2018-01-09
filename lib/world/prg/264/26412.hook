@@ -1,0 +1,12 @@
+>command_prog up~
+  if hasobj($n) == 26416
+  else
+    mpechoat $n You need a grappling hook to go there.
+    mpstopcommand
+  endif
+~
+|
+
+
+
+

@@ -1,0 +1,20 @@
+>greet_prog 100~
+  if ispc($n)
+    say What are you doing here? This gold is ours!
+    kick $n
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    berserk
+    berserk
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I throws a shovel of sand into the air!
+    mppose $r stun
+  endif
+~
+|
+

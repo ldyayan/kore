@@ -1,0 +1,22 @@
+#303
+Blingdenstone (Nashanthra)~
+30399 45 2 7
+O 0 30305   102 30310            the ^WMithril^N ^YThrone^N.
+M 0 30302     1 30310            King Schnicktick
+E 1 30309   101    17                    held the water whisp key
+E 1 30308    80     8                    feet Rotha Hide Boots
+E 1 30307    30     4                    neck 2 ^BRoyal^N ^MPurple^N Cloak
+E 1 30306    10    16                    wield the ^GEmerald^N ^WSceptre^N
+M 0 30303     1 30319            Uthegentle
+O 0 30304   102 30300            a small white ^WFountain^N.
+M 0 30301     1 30300            Belwar Dissengulp
+E 1 30301    40    18                    ready a long hunting spear
+E 1 30302    10    16                    wield a ^Wmoon^Bstone ^rhammer^N
+E 1 30310   102     5                    body a ^Wmithril ^Rchainlink^N ^Gvest^N.
+D 0 30300     5     1            Intersection of Rolan and Torak street door down
+D 1 30300     5     2            Intersection of Rolan and Torak street door down
+D 0 30311     4     1            The entrance to the hidden cavern. door up
+D 1 30311     4     2            The entrance to the hidden cavern. door up
+S
+#99999
+$~

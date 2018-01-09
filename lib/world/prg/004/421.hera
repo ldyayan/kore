@@ -1,0 +1,36 @@
+>fight_prog 10~
+  cast 'fireball'
+~
+>fight_prog 15~
+  cast 'color spray'
+~
+>fight_prog 20~
+  cast 'petrify'
+~
+>fight_prog 25~
+  cast 'heal'
+~
+>fight_prog 30~
+  cast 'chain lightning'
+~
+>fight_prog 35~
+  cast 'sunray'
+~
+>rand_prog 10~
+ if hitprcnt($i) < 50
+   cast 'heal' $i
+ endif
+~
+>rand_prog 15~
+    if isaffected($i, stoneskin)
+    else
+	cast 'stoneskin'
+    endif
+~
+>rand_prog 20~
+    if isaffected($i, haste)
+    else
+	cast 'haste'
+    endif
+~
+|

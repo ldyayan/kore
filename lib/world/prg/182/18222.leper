@@ -1,0 +1,9 @@
+>greet_prog 20~
+ if ispc($n)
+  say Please, spare some change.
+  mpechoat $I grabs a hold of your pant leg.
+  mpechoaround $I grabs onto the leg of $N.
+ endif
+~
+|
+

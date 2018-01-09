@@ -1,0 +1,254 @@
+#4000
+snake large ccc~
+the snake~
+A large python moves across the cave floor.
+~
+   This python is extremely large and seems to be quite
+agile for its size. At about its midsection there seems
+to be a slight buldge, most likely from its last meal. 
+Spanning about 10 feet the snake moves through the bones
+of meals past, and seems to be considering you as its
+next one.
+~
+107 33792 -100 S
+16 7 3 5d10+50 3d6+0
+0 12000
+8 8 0 4
+#4001
+snake green eee~
+the green snake~
+A green snake is here, and it doesn't look too friendly.
+~
+   Word has it snake skins carry a small price in the markets of
+Kore...
+~
+11 1024 -100 S
+5 12 4 3d10+30 2d6+1
+0 100
+8 8 0 4
+#4002
+centipede ddd~
+the centipede~
+A small centipede is here, making its way across the floor.
+~
+   Small and non-sentient, this centipede wouldn't even
+be a match for the bottom of your boot. However, you do
+notice the small yellow circle on the cenitpede's
+abdomen, marking it as one of the more poisonous species.
+You decide it would probably be best just to aviod
+these little critters in the first place.
+~
+4168 0 0 S
+3 20 10 2d10+20 1d6+0
+0 4000
+8 8 0 4
+#4003
+kobold ggg~
+the kobold~
+A small pale kobold is here, searching for it's next meal.
+~
+  A small grotesque look create cowers at the sight of you. Just
+the light from your light source is enough to send this small
+kobold running in terror. The paleness of its skin shows its 
+complete lack of contact with any light. Kobolds prey on anything
+they think is weaker than they are, which doesn't leave much.
+~
+204 263200 -100 S
+4 16 7 2d10+40 1d8+1
+0 800
+8 8 0
+#4004
+orc 4004 sergeant~
+an orc sergeant~
+A large, armor covered orc leads a band of orc warriors.
+~
+   This large orc appears to be the leader of this group of
+orc warriors. His armor is nicer than the others and he is
+the only one giving out orders. Orc often bring thier
+new solder here to train them in the art of combat, although
+with hobgoblin its more of a slaughter. This orc doesn't look
+like someone to mess with.
+~
+6252 1064 -200 S
+28 15 2 2d10+60 2d4+0
+50 900
+8 8 1 7
+#4005
+orc large 4005~
+the orc~
+A large orc follows the order of his group commander.
+~
+   The newly recruiter orc soldier searches the tunnel for
+any signs of a hobgoblin. The orc is quite large and has
+a very limited set of armor consisting of just some metal
+sheets and a helmet
+~
+6222 1024 -500 S
+16 11 2 3d20+75 2d6+2
+0 3000
+8 8 1
+#4006
+Shaman Hobgoblin~
+the hobgoblin shaman~
+A small hobgoblin, dressed in animal skins jumps at your entrance.
+~
+This hobgoblin, accustomed to working in privacy, doesn't look like he's
+enjoying your company.
+~
+958478 0 0 S
+10 20 10 1d1+0 1d1+0
+20 0
+8 8 1
+#4050
+warrior cresent white 4050~
+a warrior of the white cresent~
+A warrior of the ^wwhite^n cresent is here.
+~
+   Warriors of the white cresent have sworn thier lives to seek
+out evil and wrongdoing and destroy it at any cost. These extreme
+beliefs have lead the order of the white cresent to become an outcast
+society in the realm of Kore. Many small bands of the order patrol
+the wilderness areas around the major cities, protecting the weak
+and innocent. However, justice is harsh in the eyes of the white
+cresent as even a petty thief will receive a punishment of death.
+~
+72008 5248 200 S
+25 4 1 10d10+50 2d8+30
+0 12000
+8 8 1
+#4051
+warrior white cresent 4051~
+a warrior of the white cresent~
+A warrior of the ^wwhite^n cresent is here.
+~
+   Warriors of the white cresent have sworn thier lives to seek
+out evil and wrongdoing and destroy it at any cost. These extreme
+beliefs have lead the order of the white cresent to become an outcast
+society in the realm of Kore. Many small bands of the order patrol
+the wilderness areas around the major cities, protecting the weak
+and innocent. However, justice is harsh in the eyes of the white
+cresent as even a petty thief will receive a punishment of death.
+~
+88394 5248 200 S
+25 3 1 3d10+80 8d5+30
+0 2500
+8 8 1
+#4052
+hobgoblin iii~
+the hobgoblin~
+A small hobgoblin concentrates on mining ore.
+~
+   The small hobgoblin is concentrating very hard on
+mining the ore in this part of the tunnel. Even after the
+hobgoblins where freed of slavery some still mine since
+they have no other skill and can sell the ore for food.
+~
+78 1184 -300 S
+15 12 6 3d8+70 2d4+0
+0 1500
+8 8 1
+#4053
+snake jjj~
+the snake~
+A brown snake watches you.
+~
+The snake looks quite mean.
+~
+43 1024 -600 S
+10 10 4 4d10+60 3d5+1
+0 12000
+8 8 0
+#4054
+centipede kkk~
+a centipede~
+A white centipede is here.
+~
+The centipede doesn't really seem to notice you.
+~
+10 0 -100 S
+5 17 5 1d10+50 1d7+0
+0 1000
+8 8 0
+#4055
+hobgoblin lll~
+the hobgoblin~
+A large hobgoblin is here.
+~
+The hobgoblin looks quite dangerous.
+~
+76 1024 -100 S
+10 8 2 1d16+120 2d6+3
+0 10000
+8 8 1
+#4056
+orc mmm~
+a orc~
+An orc is here, looking for something (or perhaps someone?) to eat.
+~
+Well, he doesn't seem to be friendly.
+~
+108 1024 -800 S
+8 13 2 3d10+100 2d5+2
+0 4000
+8 8 1
+#4057
+male mountain lion~
+a male mountain lion~
+A mountain lion is here, growling at you viciously.
+~
+The lion looks very nasty with huge claws and big teeth.
+~
+106 1024 0 S
+15 10 5 1d10+60 2d4+4
+0 900
+8 8 1 8
+#4058
+giant hill~
+a hill giant~
+A hill giant is here grunting to himself.
+~
+   This hill giant stands about 9 feet talk and looks extremely strong.
+The only thing that stop hill giants from complete domination of the land
+is thier complete lack of higher reasoning. They live only to eat and horde
+small treasure and not much else.
+~
+69678 1024 0 S
+25 8 5 1d10+160 2d10+25
+0 16500
+8 8 1 7
+#4060
+cub~
+a lion cub~
+A small innocent looking cub eyes you with curiousity.
+~
+It looks, err, unfinished.
+~
+138 0 0 S
+2 20 10 1d1+0 1d1+0
+0 0
+8 8 1 4
+#4061
+mountain lion mother~
+a protective mountain lion mother~
+A large female mountain lion protects her cubs.
+~
+Large and protective, you might not want to mess with this
+lion.
+~
+69674 0 0 S
+20 5 4 1d1+0 1d1+0
+0 0
+8 8 2 4
+#4099
+Tim~
+Timothy McVeigh~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

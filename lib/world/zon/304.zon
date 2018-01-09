@@ -1,0 +1,13 @@
+#304
+Raton's New Zone~
+30499 1 2 3
+D 0 30417     2     2            Within a Stalagtite Filled Cavern door south
+D 0 30416     0     2            A Sheer Canyon Wall door north
+O 0 30402    15 30423            Kamanske's riches
+M 0 30404     1 30420            Kamanske the master thief
+E 1 30406     1     7                    legs a pair of porcelain leggings
+M 0 30400     4 30420            a slender thief
+E 1 30401     8     7                    legs a pair of leather chaps
+S
+#99999
+$~

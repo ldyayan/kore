@@ -1,0 +1,8 @@
+>fight_prog 40~
+  mpecho A confusing array of noises assaults you...
+  if rand(60)
+    mpcallmagic 'scare' all
+    mpdrainmove all 5d4
+  endif
+~
+|

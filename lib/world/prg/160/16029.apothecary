@@ -1,0 +1,39 @@
+>greet_prog 10~
+  if name($n) == zirnozz
+    fear zirnozz
+  else
+    if ispc($n)
+      if ismemory($n)
+        if sex($n) == male
+          say Ahh, nice to see you again, kind sir.
+        else
+          if sex($n) == female
+            say Welcome back, fair lady!
+          endif
+        endif
+      else
+        say Here, sample before you buy!
+        mpoload 16048
+        give vial $n
+        mpremember $n
+      endif
+    endif
+  endif
+~
+>greet_prog 4~
+  if ispc($n)
+    say Greetings!
+    say I have freshly made potions right here!
+    smile
+  endif
+~
+>rand_prog 2~
+  if inroom($r) == here
+    say Get your potions here!
+    if rand(30)
+      nudge $r
+    endif
+  endif
+~
+|
+

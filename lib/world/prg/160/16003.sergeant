@@ -1,0 +1,56 @@
+>greet_prog 3~
+  if ispc($n)
+    if isgood($n)
+      if level($n) > 20
+        nod $n
+        say Good day to you, $n.
+      endif
+    endif
+  endif
+else
+  if ispc($n)
+    if isevil($n)
+      if level($n) > 20
+        if class($n) == thief
+          say Stop! Thief!
+          kill $n
+        else
+          say Do not think we are not watching, $n. Stay out of trouble.
+        else
+      endif
+    endif
+  endif
+else
+  if ispc($n)
+    if isneutral($n)
+      say Good day to you, citizen.
+    endif
+  endif
+~
+>rand_prog 5~
+  mpecho $I caresses the hilt of his sword.
+~
+>rand_prog 5~
+  mpecho $I yawns and stretches back in his chair.
+~
+>fight_prog 15~
+  if ispc($r)
+    if isfight($r)
+      mpechoat $r $I plants a powerful kick right in your kidneys.
+      mpechoaround $r $R is knocked back by a kick from $I.
+      mpdamage $r 6d6
+    endif
+  endif
+~
+>fight_prog 15~
+  if ispc($r)
+    if isfight($r)
+      mpecho $I shouts, 'Guards!'
+      mpmload 16002
+      mpecho A guard of Kore storms into the room brandishing a sword.
+      mpforce guard kill $r
+    endif
+  endif
+~
+|
+

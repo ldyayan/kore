@@ -1,0 +1,48 @@
+#15
+the Thri-kreen Hive~
+1599 15 2 32
+M 0  1501    25  1500            a small thri-kreen scout
+D 0  1500     3     1            Inside the hive door west
+M 0  1503    20  1505            a giant termite
+M 0  1528    25  1564            a fierce guard thri-kreen
+G 1  1510    10    -1                    give a blue hexonyx key
+M 0  1528    25  1564            a fierce guard thri-kreen
+G 1  1510    10    -1                    give a blue hexonyx key
+M 0  1528    25  1564            a fierce guard thri-kreen
+G 1  1510    10    -1                    give a blue hexonyx key
+M 0  1528    25  1564            a fierce guard thri-kreen
+M 0  1528    25  1564            a fierce guard thri-kreen
+M 0  1528    25  1564            a fierce guard thri-kreen
+D 0  1564     5     2            The star chamber door down
+M 0  1526     1  1565            the Statue of Vzzt'tl'clk
+E 1  1511    10     5                    body shimmering mesothorax chitin
+E 1  1512     5     6                    head a chitin facemask with ^Rruby^n eyes
+E 1  1513     4     2                    right finger an amber trapezoid ring
+D 0  1565     1     2            Holy of holies door east
+D 0  1565     4     2            Holy of holies door up
+M 0 12524     2  1580            Angie
+O 0  3098   101  1580            a holy bulletin board
+O 0  1501   110  1511            a sugarcube
+M 0  1509    35  1507            a worker thri-kreen
+M 0  1511    12  1512            a larva
+M 0  1509    35  1512            a worker thri-kreen
+O 0  1502   106  1512            a split pupae casing
+M 0  1521     1  1525            a giant Earthworm
+E 1  1504    10     3                    neck 1 a prism key
+M 0  1509    35  1527            a worker thri-kreen
+M 0  1508    10  1528            a guard thri-kreen
+M 0  1501    25  1528            a small thri-kreen scout
+M 0  1504     2  1530            a thri-kreen drone
+M 0  1501    25  1536            a small thri-kreen scout
+M 0  1501    25  1537            a small thri-kreen scout
+M 0  1501    25  1538            a small thri-kreen scout
+M 0  1501    15  1545            a small thri-kreen scout
+M 0  1527    15  1520            a flying queen
+O 0  1503   101  1513            a spring of fresh water
+D 0  1523     1     1            Certainly close door east
+O 0  1516   101  1566            a treasure trove
+D 0  1566     3     2            Thri-kreen treasure cage door west
+M 0  1502     3  1540            a giant aphid
+S
+#99999
+$~

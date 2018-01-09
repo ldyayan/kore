@@ -1,0 +1,48 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+  endif
+~
+>rand_prog 4~
+  if rand(50)
+    if hitprcnt($i) < 90
+      cast 'wild heal'
+    else
+      cast 'bless'
+      cast 'aid'
+    endif
+  else
+    up
+  endif
+~
+>fight_prog 6~
+  mpecho $I chants softly to himself...
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if rand(60)
+      mpcallmagic 'harm' all
+    else
+      cast 'heal'
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isevil($r)
+      cast 'dispel evil' $r
+      mpsilent mpcallmagic 'dispel evil' $r
+    else
+      if isgood($r)
+        cast 'dispel good' $r
+        mpsilent mpcallmagic 'dispel good' $r
+      else
+        cast 'petrify' $r
+        mpsilent mpcallmagic 'petrify' $r
+        mpechoat $r Your movements slow as your skin hardens!
+        mpsilent mpcallmagic 'slow' $r
+      endif
+    endif
+  endif
+~
+|

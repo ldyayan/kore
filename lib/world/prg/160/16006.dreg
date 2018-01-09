@@ -1,0 +1,16 @@
+>rand_prog 1~
+  sob
+  say It always happens to me...
+~
+>rand_prog 1~
+  mpecho $I hiccups loudly and scratches himself.
+~
+>rand_prog 2~
+  mpecho $I pushes his, now empty, glass towards the bartender.
+  say Keep 'em coming, Bartender!
+~
+>rand_prog 1~
+  mpecho $I lets out a loud belch before passing out.
+~
+|
+

@@ -1,0 +1,97 @@
+#30200
+humming globe rune~
+a rune-scribed globe~
+A shimmering globe hovers here, pulsing with strange colors.~
+   The Globe of Veiwing hovers here, covered in detailed runes which
+both protect it and power it.  As you gaze closer into the globe, you begin to see different
+pictures and scenes from all over the land of Kore.  You realize that this is 
+the Globe of Travel.
+~
+27 67 0
+16123 2 0 0
+4000 0 0
+#30201
+partially uncovered tunnel entrance~
+a partially uncovered tunnel entrance~
+A partially uncovered tunnel entrance is visible through the hedge.~
+~
+27 536871009 0
+30210 0 0 0
+1000 0 0
+#30202
+shimmering water door~
+a shimmering door seemingly made of water~
+A shimmering doorway seemingly made of water stands to your left.~
+   As you look through the doorway, it seems that there is someone on the other side beckoning to you.
+~
+27 67 0
+30202 2 0 0
+5000 1000000 0
+E
+orb glowing travel~
+   Push it to see what happens.
+~
+#30203
+quarterstaff staff~
+an inscribed quarterstaff~
+A quarterstaff lays here on the ground.~
+~
+5 577539 8193
+6 6 6 0
+2 900000 0
+A
+12 15
+A
+19 2
+A
+18 4
+#30204
+entrance exit outside hole~
+an exit to the outside~
+An hole that leads to the outside of the tunnel is here.~
+~
+27 0 0
+30205 0 0 0
+1000 0 0
+#30205
+bladesmaster sword~
+a bladesmasters sword~
+A razor-honed blade lays here.~
+~
+5 41955330 24577
+5 5 5 3
+4 100000 0
+A
+19 3
+A
+18 7
+S
+65 40 7
+#30299
+a rod of death~
+a rod of death~
+Junk this if you see it~
+~
+5 0 8193
+1000 20 20 6
+5 0 0
+A
+18 50
+A
+19 50
+A
+19 45
+A
+18 45
+A
+17 -100
+B
+25165952 0
+S
+72 60 100
+S
+72 60 100
+S
+72 60 100
+#99999
+$~

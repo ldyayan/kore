@@ -1,0 +1,73 @@
+#100
+Shade's Tower I~
+10099 28 2 32
+D 0 10001     3     1            Dead overgrown garden door west
+M 0 10000    20 10014            the giant rat
+M 0 10000    20 10012            the giant rat
+M 0 10000    20 10010            the giant rat
+M 0 10000    20 10009            the giant rat
+M 0 10000    20 10008            the giant rat
+M 0 10000    20 10007            the giant rat
+M 0 10000    20 10006            the giant rat
+M 0 10000    20 10004            the giant rat
+M 0 10000    20 10003            the giant rat
+M 0 10000    20 10002            the giant rat
+M 0 10000    20 10090            the giant rat
+M 0 10000    20 10091            the giant rat
+M 0 10002     1 10029            a large spider
+M 0 10001    20 10015            the giant cockroach
+M 0 10001    20 10016            the giant cockroach
+M 0 10001    20 10018            the giant cockroach
+M 0 10001    20 10019            the giant cockroach
+M 0 10001    20 10020            the giant cockroach
+M 0 10001    20 10021            the giant cockroach
+M 0 10001    20 10022            the giant cockroach
+M 0 10001    20 10024            the giant cockroach
+M 0 10001    20 10025            the giant cockroach
+M 0 10001    20 10026            the giant cockroach
+M 0 10001    20 10027            the giant cockroach
+M 0 10003    20 10031            the skeleton
+E 1 10000    99    16                    wield a rusty sword
+M 0 10003    20 10037            the skeleton
+E 1 10000    99    16                    wield a rusty sword
+M 0 10004    20 10041            the zombie
+E 1 10001    99     5                    body rusty platemail
+M 0 10004    20 10046            the zombie
+E 1 10001    99     5                    body rusty platemail
+M 0 10004    20 10051            the zombie
+E 1 10001    99     5                    body rusty platemail
+M 0 10005     1 10054            the wight
+M 0 10006    10 10057            the flesh golem
+M 0 10006    10 10058            the flesh golem
+M 0 10006    10 10055            the flesh golem
+M 0 10006    10 10056            the flesh golem
+M 0 10006    10 10059            the flesh golem
+M 0 10007    10 10060            the clay golem
+M 0 10007    10 10062            the clay golem
+M 0 10007    10 10061            the clay golem
+M 0 10007    10 10063            the clay golem
+M 0 10007    10 10064            the clay golem
+M 0 10007    10 10066            the clay golem
+M 0 10007    10 10065            the clay golem
+M 0 10008    10 10067            the stone golem
+M 0 10008    10 10070            the stone golem
+M 0 10008    10 10068            the stone golem
+M 0 10008    10 10069            the stone golem
+M 0 10008    10 10071            the stone golem
+M 0 10008    10 10072            the stone golem
+M 0 10009     1 10074            the iron golem
+E 1 10002    10    10                    arms a pair of spiked arm plates
+M 0 10013     5 10076            the formless blob
+M 0 10014     5 10077            the humanoid form
+M 0 10014     5 10079            the humanoid form
+M 0 10014     5 10081            the humanoid form
+M 0 10014     5 10083            the humanoid form
+M 0 10014     5 10085            the humanoid form
+M 0 10015     5 10089            the jabberwok
+M 0 10013     5 10084            the formless blob
+M 0 10013     5 10082            the formless blob
+M 0 10013     5 10080            the formless blob
+M 0 10013     5 10078            the formless blob
+S
+#99999
+$~

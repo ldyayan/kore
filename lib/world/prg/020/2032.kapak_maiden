@@ -1,0 +1,158 @@
+>rand_prog 5~
+  if isscript($i)
+  else
+    emote looks really lost!
+  endif
+~
+>rand_prog 5~
+  if isscript($i)
+  else
+    emote weakly cries for help!
+    mpasound You hear faint far off cries for help!
+  endif
+~
+>rand_prog 5~
+  if isscript($i)
+  else
+    emote looks like she's about to give up...
+  endif
+~
+>rand_prog 8~
+  if hitprcnt($i) < 100
+    cast 'cure critic' $i
+  endif
+~
+>rand_prog 7~
+  if isscript($i)
+  else
+    if hitprcnt($i) == 100
+      sigh
+      mpecho $I seems to melt into a new shape...
+      mpecho ...that of a hideous kapak draconian!
+      mpmload 2022
+      mpgoto cleaner
+    endif
+  endif
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      mptrigger $n hard-luck-story
+    endif
+  endif
+~
+>script_prog hard-luck-story~
+  #
+@
+  #
+@
+  say Oh I am so glad you found me!
+@
+  cry
+@
+@
+  say I thought for sure I'd die here in this wasteland..
+@
+@
+  say I was captured by drow elves and about to be sacrificed to Tiamat when I escaped..
+@
+@
+  say I've been wandering for days..!!
+@
+@
+  mpechoat $n $I leans on you and cries!
+  mpechoaround $n $I leans on $N and cries!
+@
+  say please help me find my way out..?
+@
+@
+  say I'm an elven princess and my father the elf king would be grateful to you forever if you helped me..!
+@
+@
+  say say you'll help me, or just nod, and I'll follow you out of here!
+~
+>command_prog nod~
+  if isscript($i)
+  else
+    mpstopcommand
+    say Thank you..!
+    say I promise you my father will give you a big reward!!
+    follow $n
+    mptrigger $n betrayal
+  endif
+~
+>social_prog nod~
+  if isscript($i)
+  else
+    say Thank you..!
+    say I promise you my father will give you a big reward!!
+    follow $n
+    mptrigger $n betrayal
+  endif
+~
+>speech_prog i'll help you~
+  if isscript($i)
+  else
+    say Thank you..!
+    say I promise you my father will give you a big reward!!
+    follow $n
+    mptrigger $n betrayal
+  endif
+~
+>script_prog betrayal~
+  #
+@
+  #
+@
+  #
+@
+  #
+@
+  #
+@
+  #
+@
+  #
+@
+  #
+@
+  #
+@
+  say You are far too trusting...
+@
+  mpechoat $n $I stabs you in the back!!
+  mpechoaround $n You see a metallic flash as $I stabs $N in the back!!
+  mpdamage $n 10d10+50
+@
+  cackle
+  mpecho $I seems to melt into a new shape...
+  mpecho ...that of a hideous kapak draconian..!
+  mpmload 2022
+  mpforce 2022 kill $n
+  mpgoto cleaner
+~
+>fight_prog 100~
+  cackle
+  mpecho $I seems to melt into a new shape...
+  mpecho ...that of a hideous kapak draconian..!
+  mpmload 2022
+  mpforce 2022 kill $n
+  mpgoto cleaner
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I suddenly explodes and splashes you with acid!!
+  mpasound Your blood freezes as you hear someone's death cry.
+  mpasound ...followed by a wet explosion!!
+  mpdamage all 4d25+50
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpoload 2032
+  mpgoto cleaner
+~
+|

@@ -1,0 +1,151 @@
+#8500
+bear brown shaggy~
+a brown bear~
+A large shaggy brown bear is here, gnawing on some bones.
+~
+   This bear is large and monstrous.  It has dark shaggy fur, and razor-sharp
+claws.  At the moment, the bear appears pre-occupied with a large juicy bone
+it has picked out from a carcass.  You notice its face is bloody from a recent
+gorging of food, but it appears its hunger has not yet been sated.  The bear,
+eyeing you, drops his bone and slowly licks his lips with a sadistic glee.
+~
+2088 8 -400 S
+15 15 5 1d2+120 3d4+5
+0 10000
+8 8 0
+#8501
+man wild crazy~
+a wild man~
+A crazy wild man, howling a blood-curling scream, runs toward you.
+~
+   A wild man dressed in a ragged furs runs around here howling and screaming.
+He is dirty and covered in filth.  His hair is matted down with blood and
+sweat.  He probably has never taken a bath.  The wild man, for some reason,
+decides to charge and attack.
+~
+2088 0 -600 S
+15 16 7 1d2+90 2d5+3
+10 8000
+8 8 1
+#8502
+snake blood slimy~
+a blood snake~
+A slimy blood snake slithers around in the darkness.
+~
+   This snake looks disgusting.  It is colored a dark blackish red, like
+the color of fresh blood when viewed in dim light.  The snake looks slimy
+and wet.  The snake, although small, looks dangerous.
+~
+2064 524296 -600 S
+10 13 6 1d3+80 1d8+3
+0 7000
+8 8 0
+#8503
+penguin killer murderous~
+a killer penguin~
+A murderous black penguin waddles around in the snow and filth.
+~
+   This penguin is large and well-built.  It has oily black fur and yellow
+webbed feet.  Its flipper-like wings are large and look dangerous.  This
+killer penguin eyes you with black beady little eyes.
+~
+2056 8 0 S
+13 17 7 1d3+80 4d2+4
+0 7000
+8 8 0
+#8504
+zombie snow corpse frozen~
+a snow zombie~
+A frozen corpse shuffles about in the snow.
+~
+   This corpse looks well-preserved.  It stares at you with an unfriendly
+stare.  You notice one of its eyes bulges out from its socket, the other
+eye shut closed.  Its hair is tousled and matted down with filth and sweat.
+The only thought on its brain dead frozen mind is to maim and kill.
+~
+2088 0 -1000 S
+20 12 2 4d2+150 2d7+6
+10 14000
+8 8 0
+#8505
+sloth creature sluggish~
+an ice sloth~
+A large sluggish creature wanders around the cave.
+~
+   This sloth has crisp white fur tinged lightly with dirt.  You notice it
+has long sharp toed claws.  The sloth is a slow-moving creature who seems
+to take it easy.
+~
+0 8 0 S
+15 16 3 3d3+130 2d5+3
+0 13000
+8 8 0
+#8506
+snowman man fuzzy~
+a snowman~
+A large fuzzy snowman is here, moping around.
+~
+   This snowman is made entirely of snow.  He moves slowly through the cave
+shedding a little of itself each time as it moves.  You never seem to notice
+the snowman shrink in size.
+~
+2088 8 -600 S
+20 12 3 2d3+180 3d6+3
+20 17000
+8 8 1
+#8507
+iceman man~
+an iceman~
+A large iceman is here, blending into the surroundings.
+~
+   This man is made entirely of ice.  It has features like a normal man of
+flesh and bone, but its features are more or less carved on like sculpture.
+The iceman doesn't seem to show much emotion, only a stern zombie-like gaze.
+~
+2088 8 -700 S
+23 10 -1 3d3+210 5d4+8
+50 20000
+8 8 1
+#8508
+king iceman man~
+the ice king~
+A towering man of ice sits here overseeing his subjects.
+~
+   This iceman is huge.  He is nearly twice the height of a normal iceman.
+He is king of this icy world, and oversees many loyal subjects.  The king,
+seeing your intrusion into his world, doesn't look too happy.
+~
+2090 136 -800 S
+25 9 -3 4d4+300 4d7+8
+120 30000
+8 8 1
+#8509
+ice cubes chunks~
+some ice cubes~
+A few chunks of ice lies here on the floor.
+~
+   These ice cubes look ordinary.  They are transparent and covered with a
+bit of frost.  Strangely enough, the ice cubes are alive.  They snap at your
+fingers as you try to pick one up.
+~
+2 0 0 S
+7 18 3 1d3+40 3d3+3
+0 2000
+8 8 0
+#8510
+yeti fur bundle~
+the yeti~
+A towering bundle of fur stands here grinning.
+~
+   The yeti has soft white fur the same shade as pure white snow.  Its
+color and shaggy appearance allows the yeti to easily blend in with its
+surroundings.  The only giveaway to a yeti's presence is its dark black
+eyes and nose.  When they are seen, then it is a sure bet that the yeti
+is staring at you and will soon eat you.
+~
+2088 524296 -900 S
+27 9 -3 4d6+360 4d6+10
+200 40000
+8 8 0
+#99999
+$~

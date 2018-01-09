@@ -1,0 +1,308 @@
+#7801
+ebony unicorn long longsword sword~
+an ebony longsword~
+A ebony longsword with a unicorn carved into it's pommel.~
+~
+5 1344 24577
+8 12 3 3
+9 0 0
+E
+ebony unicorn sword longsword~
+ A black blade that seems to soak in the light. It pulsates with the power of the 
+forest. The silver hilt has two green garnets set into the ends. The handle is shaped
+into a unicorn, with an ivory horn set into the pommel.
+~
+A
+18 5
+A
+19 5
+A
+13 25
+B
+32800 0
+#7802
+horn corn~
+unicorn horn~
+A Unicorn Horn~
+A horn with a single spiral horn reaching toward the sky!
+~
+9 70254595 0
+1 7801 0 0
+1 0 0 2
+#7803
+tree oak massive~
+a massive oak tree~
+A massive oak tree reaching toward the sky.~
+~
+12 0 0
+0 0 0 0
+9999 0 0
+E
+oak massive tree~
+A tall oak tree stretching towards the heavens. This old tree has
+seen many eons. Its weathered bark tells of many season come and 
+gone. Its branches reach out for nearly twenty meters and it stands 
+almost 30 meters tall. Under this tree it is dark, but not foreboding.
+You get the feeling that you could rest under this tree in quite 
+peacful bliss.
+~
+#7804
+tri stone staff tri-stone~
+a tri-stone staff~
+A staff with three stones set atop lies here.~
+   A small staff with three stones set into its head, an agate, a sapphire, and a brown
+garnet. Symbols are carved into the length of the staff and its base is caped in silver.
+~
+5 9487371 8193
+5 6 6 10
+8 0 0
+E
+staff tri stone~
+A small staff with three stones set into its head, an agate, a sapphire, and a brown
+garnet. Symbols are carved into the length of the staff and its base is caped in silver.
+~
+A
+3 -10
+A
+13 -50
+A
+12 106
+B
+4096 0
+#7805
+ion stone~
+an ^WIon^n stone~
+An ^WIon^n stone floats here.~
+~
+11 98 81921
+0 0 0 0
+6 0 0
+E
+crown teeth thunderherder~
+A crown of teeth taken from a giant 'thunderherder'. Those beast
+of the desert that look like a cross between worms and scorpions.
+Their huge oval mouths loaded with teeth. Those teeth were taken
+and with their points up shaped into a hideous crown.
+~
+A
+13 -47
+A
+12 15
+A
+19 3
+#7806
+tiny gold earring~
+a tiny gold earring~
+A tiny gold earring lies here.~
+~
+11 8585225 131073
+0 0 0 0
+1 0 0
+A
+19 1
+A
+18 3
+A
+13 5
+B
+32 0
+#7807
+crystal blue~
+a small ^Bblue^n crystal~
+A small ^Bblue^N crystal lies here.~
+This is one of the magical crystals that grow in the underdark. It harbors many strange and wonderful powers. It glows a deep blue, this is what drew the deep dragon to the cave. This small sliver of wild magic.
+~
+1 65560 16385
+0 0 -1 0
+8 0 0 100
+#7808
+ebony unicorn bow~
+an ebony bow~
+An ebony bow lies here.~
+~
+6 3588 32768
+20 10 20 12
+9999 0 0
+A
+19 10
+#7809
+table oak  wood~
+a table made of ancient oak.~
+A table with chairs is here.~
+A table made from an oak tree that was struck by lightning sits here.  It is thick and heavy with unicorns carved for legs. It has a old and powerful look, and has 6 matching chairs.
+~
+0 0 0
+0 0 0 0
+9999 0 0
+#7810
+dragon deep horn~
+a set of horns~
+A deep dragons horns lay here.~
+A set of 3 foot horns that once belonged to the deep dragon. Perhaps you should take them to the elder.
+~
+8 65564 1
+0 0 0 0
+25 0 0
+#7811
+crystal boot boots~
+a set of crystal boots~
+A se of crystal boots lie here.~
+~
+9 9450561 65
+-12 0 0 0
+1 0 0 6000
+E
+crystal boots~
+A set of boots that are grown from a magically crystal that the Elves harvest. They are slightly blue, but totally translucent, and move with the wearers foot. You would think that being made of crystal they would be loud and immobile, but they are subtly. They also allow the wearer to fly inches above the ground.
+~
+A
+19 3
+A
+2 -3
+A
+14 -50
+A
+24 -2
+B
+4194304 0
+#7812
+mask deep dragon skull~
+a mask made from the skull of a deep dragon~
+A skull lies here.~
+   A small skull with a purplish hue. It is just small enough to be worn on the face.
+The bone is polished white, but has a purple hue to it, making it appear irradescent.
+~
+9 1049090 262145
+-9 0 0 0
+5 0 0
+E
+deep dragon skull mask~
+A mask made from the skull of a small deep dragon. It has a funny smell to it when you bring it to your face.
+~
+A
+19 1
+A
+18 3
+A
+1 1
+B
+2048 0
+#7813
+everquisst elven liqour~
+a small bottle of everquisst~
+A bottle of Everquisst sits here.~
+~
+17 0 1
+5 5 8 0
+2 0 0
+#7814
+small black cauldron~
+a small black cauldron~
+A small black cauldron sits here over a magical fire.~
+~
+15 4 0
+9999999 0 -1 0
+99999 0 0
+#7815
+north n portal bushes ~
+a thick set of bushes~
+An impenatrable set of bushes.~
+~
+27 0 0
+7829 0 0 0
+99999 0 0
+#7816
+small water waterfall~
+a small waterfall~
+A small waterfall is here.~
+~
+23 0 0
+9999 9999 0 0
+9999 0 0
+#7817
+entrance cave~
+the caves entrance.~
+The entrance to a cave is here.~
+~
+27 0 1
+7888 0 0 0
+0 0 0
+E
+cave entrance~
+   A small entrance to a cave sits behind the waterfall. Darkenss pours from
+the mouth of the cave like some sickness. Light is absorbed by the hole as if
+it was being devoured.
+~
+#7818
+small emerald necklace~
+a small ^Gemerald^n necklace~
+A small emerald necklace lies here.~
+~
+18 65544 1
+0 1 0 0
+1 0 0 800
+E
+emerald necklace~
+ A silver chain holding a small emerald with a white flaw at it's center.
+~
+#7850
+obsidian mace screaming maiden~
+the obsidian mace 'screaming maiden'~
+A mace made of obsidian shaped into the likeness of a woman lies here.~
+~
+5 16778243 8193
+10 11 5 6
+10 0 0
+E
+mace screaming obsidian maiden~
+A mace made of obsidian shaped into the likness of a naked
+woman with a spiked collar, her head thrown back in a scream
+of unbelievible pain and torture.  If not for her visage, 
+the weapon would be beautiful.
+~
+A
+18 3
+A
+19 6
+A
+6 -4
+A
+24 -3
+B
+8192 0
+#7878
+hammer~
+a hammer~
+An unfinished object is lying here.~
+~
+5 0 8193
+10 7 6 6
+10 0 0
+B
+32 0
+#7888
+portal~
+portal~
+An unfinished object is lying here.~
+~
+27 0 1
+0 0 0 0
+0 0 0 1
+#7898
+shimmering pool dust~
+a shimmering pool of dust.~
+A shimmering pool of dust lies on the ground.~
+~
+27 0 0
+7890 0 0 0
+0 0 0 10
+#7899
+black unicorn horn~
+a black unicorn horn~
+The black horn of a unicorn lies here.~
+~
+18 3 1
+0 1 0 0
+5 0 0 3
+#99999
+$~

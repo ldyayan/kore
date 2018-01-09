@@ -1,0 +1,27 @@
+>fight_prog 30~
+  cackle
+~
+>greet_prog 25~
+  if ispc($n)
+    look $n
+    if isevil($n)
+      say How's it going $N?
+    else
+      mpechoaround $n $I eyes $N suspiciously.
+      mpechoat $n $I eyes you suspiciously.
+    endif
+  endif
+~
+>speech_prog p looking at?~
+  growl $n
+  say An insect!
+  if rand(35)
+    if isgood($n)
+      kill $n
+    else
+      mpechoaround $n $I eyes $N suspiciously.
+      mpechoat $n $I eyes you suspiciously.
+    endif
+  endif
+~
+|

@@ -1,0 +1,56 @@
+#30200
+Parthan druid caretaker~
+Parthan the Caretaker~
+Parthan the Caretaker stands here tending to the rune orbs.
+~
+   Before you stands the greatest druid of all time.  His name is so old it is all but
+forgotten except in the oldest of magical tomes.  He was the blood bbrother of Raczon before
+the fall of magic millenia ago.  He stands resplendant in his shimmering white robe as heis gaze
+moves from scene to scene presented in the rune globes before him.
+~
+2875402 32936 100 S
+55 -10 -20 10d10+10 10d10+10
+0 50000000
+8 8 1 13
+#30201
+Jergin bladesmaster~
+Jergin the bladesmaster~
+Jergin walks the streets, smiling at those who see him.
+~
+   Jergin walks with the pace of a man in no hurry.  He has a beautiful blade at his
+hip that he keeps his hand on at all times.
+   His clothes bely the fact that he is a well known swordmaster in these parts, but
+one of the most cordial individuals that anyone can meet.  He always has a nice word
+to say and smiles constantly.
+~
+583752 8360 500 S
+30 -10 -10 10d10+10 8d8+8
+10000 1000000
+8 8 1 3
+#30202
+turban disheveled vendor~
+a disheveled vendor wearing a turban~
+A disheveled vendor wearing a turban walks and mutters to himself.
+~
+   He's wearing a turban which wraps completely around his head, leaving 
+only his mouth and eyes visible.  His robe is the same color as his 
+turban and look like they are from the same cloth.  Could he sell clothes
+or cloth?
+~
+583756 0 30 S
+20 -20 -8 10d10+10 10d10+10
+2000000 20000000
+8 8 1 8
+#30299
+spacer mob~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

@@ -1,0 +1,15 @@
+>rand_prog 5~
+  emote peeps.
+~
+>rand_prog 10~
+  emote pecks for grain.
+~
+>rand_prog 1~
+  if rand(50)
+    mpmload 3756
+  else
+    mpmload 3757
+  endif
+  mpgoto cleaner
+~
+|

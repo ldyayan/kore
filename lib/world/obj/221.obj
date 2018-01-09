@@ -1,0 +1,133 @@
+#22100
+large red apple~
+a large red apple~
+A large red apple rests here, ready to eat.~
+~
+19 4 1
+8 0 0 0
+3 1 1 20
+#22101
+juicy ripe peach~
+a juicy sun ripened peach~
+A juicy ripe peach looks good enough to eat.~
+~
+19 0 1
+8 0 0 0
+3 1 1 10
+#22102
+ear corn cob~
+an ear of corn~
+An ear of sweet corn fell of a wagon and landed here.~
+~
+19 4 1
+8 0 0 0
+3 1 1 20
+#22103
+double bit bitted axe~
+a double bitted axe~
+A double bitted axe was dropped here, mottled and worn.~
+~
+5 8192 24577
+3 3 5 15
+12 1 1
+A
+1 1
+A
+19 2
+#22104
+pool spring water~
+a small pool of water~
+A small pool of water looks clear and refreshing.~
+~
+23 2 1
+99999 99999 15 0
+999999 1 1
+#22105
+strip venison~
+a strip of venison~
+A strip of tasty venison lies here ready to eat.~
+~
+19 0 1
+5 0 0 0
+1 1 1
+#22106
+wild onion~
+a wild onion~
+A wild onion has sprouted here, ready to pull and eat.~
+~
+19 2 1
+8 0 0 0
+1 1 1
+#22107
+tasty nutritious moss~
+some tasty and nutritious moss~
+Some moss has grown here, it might be tasty and nutritious...~
+~
+19 0 1
+12 0 0 0
+1 1 1
+#22108
+natural basin fountain stones~
+a natural basin~
+A natural basin formed by small stones is here, filled with water.~
+~
+23 0 0
+99999 99999 0 0
+99999 1 1
+#22109
+chipmunk head~
+a chipmunk head~
+A chipmunk head rests here, it might taste like chicken.~
+~
+19 0 8209
+4 0 0 0
+1 1 1
+#22110
+cherries stem~
+three cherries on a stem~
+Three cherries grow from the same stem.~
+   The deep red fruit looks juicy and fufilling.
+~
+19 4 1
+4 0 0 0
+1 0 0 25
+#22111
+crude slingshot~
+a slingshot~
+A crude slingshot lies on the ground.~
+~
+6 0 32769
+2 2 3 1
+5 0 0
+A
+2 1
+#22112
+massive rack antlers~
+a massive rack of antlers~
+A massive rack of antlers rests on the ground.~
+~
+12 4 17
+0 0 0 0
+12 0 0
+E
+massive rack antlers~
+   These antlers, with their 12 spikes, were once proudly worn by a stag
+in his prime.  You consider the spikes, lethal-looking prongs, as you heft
+and turn the rack: someone with skilled hands and an uncanny mind could
+trim this bony tangle and transform it into a deadly helm.
+~
+#22113
+length wire latch key~
+a latch key~
+A length of wire lies in the dust.~
+~
+18 28 1
+0 0 0 0
+2 0 0
+E
+length wire latch key~
+A length of thick wire, hooked at one end.  It might be a crude key of some
+kind.
+~
+#99999
+$~

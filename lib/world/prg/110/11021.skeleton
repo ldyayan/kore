@@ -1,0 +1,32 @@
+>fight_prog 20~
+  say I have a bone to pick with you.
+~
+>fight_prog 20~
+  say Join the Legions of Death! Follow our Lord, Grakos!
+~
+>death_prog 50~
+  mpecho $I says, 'Dead again. This gets old.'
+  mpecho $I says, 'This is what?  The 30th time?'
+  if rand(50)
+    mpecho $I says, 'WOO WOO! Being undead rules!'
+    mpecho The bones of the shattered skeleton swirl about wildly as it reforms itself.
+    mpmload 11021
+    mpecho $I says, 'Now where were we?'
+    mpgoto cleaner
+  else
+    mpecho $I says, 'Darn.... outta magic regen powder.'
+    frown
+  endif
+~
+>death_prog 45~
+  if rand(30)
+    mpecho $I says, 'This is what?  The 9th time?'
+  else
+    mpecho $I says, 'This is what?  The 666th time? YES!  REMORT!!'
+    mpecho The shattered bones of the skeleton swirl about, forming a something much larger than it originally was!
+    mpecho UH OH!  This is gonna get ugly!
+    mpmload 11022
+    mpgoto cleaner
+  endif
+~
+|

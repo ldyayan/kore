@@ -1,0 +1,1406 @@
+#28200
+Walkway~
+Not much here.
+~
+282 0 1
+D0
+~
+~
+0 0 28201
+D2
+~
+~
+0 0 28500
+S
+#28201
+Entrance to Hall of Heroes~
+You are in an unfinished room.
+~
+282 4 1
+D0
+~
+door~
+1 0 28202
+D2
+~
+~
+0 0 28200
+S
+#28202
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28203
+D1
+~
+~
+0 0 28224
+D2
+~
+door~
+1 0 28201
+D3
+~
+~
+0 0 28233
+S
+#28203
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28204
+D1
+~
+~
+0 0 28225
+D2
+~
+~
+0 0 28202
+D3
+~
+~
+0 0 28234
+S
+#28204
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28205
+D1
+~
+~
+0 0 28226
+D2
+~
+~
+0 0 28203
+D3
+~
+~
+0 0 28235
+S
+#28205
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28206
+D1
+~
+~
+0 0 28227
+D2
+~
+~
+0 0 28204
+D3
+~
+~
+0 0 28236
+S
+#28206
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28207
+D1
+~
+~
+0 0 28228
+D2
+~
+~
+0 0 28205
+D3
+~
+~
+0 0 28237
+S
+#28207
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28208
+D1
+~
+~
+0 0 28229
+D2
+~
+~
+0 0 28206
+D3
+~
+~
+0 0 28238
+S
+#28208
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28209
+D1
+~
+~
+0 0 28230
+D2
+~
+~
+0 0 28207
+D3
+~
+~
+0 0 28239
+S
+#28209
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28210
+D1
+~
+~
+0 0 28231
+D2
+~
+~
+0 0 28208
+D3
+~
+~
+0 0 28240
+S
+#28210
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28211
+D1
+~
+~
+0 0 28232
+D2
+~
+~
+0 0 28209
+D3
+~
+~
+0 0 28241
+S
+#28211
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28266
+D1
+~
+~
+0 0 28212
+D2
+~
+~
+0 0 28210
+D3
+~
+~
+0 0 28218
+S
+#28212
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28248
+D1
+~
+~
+0 0 28213
+D2
+~
+~
+0 0 28260
+D3
+~
+~
+0 0 28211
+S
+#28213
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28249
+D1
+~
+~
+0 0 28214
+D2
+~
+~
+0 0 28261
+D3
+~
+~
+0 0 28212
+S
+#28214
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28250
+D1
+~
+~
+0 0 28215
+D2
+~
+~
+0 0 28262
+D3
+~
+~
+0 0 28213
+S
+#28215
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28251
+D1
+~
+~
+0 0 28216
+D2
+~
+~
+0 0 28263
+D3
+~
+~
+0 0 28214
+S
+#28216
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28252
+D1
+~
+~
+0 0 28217
+D2
+~
+~
+0 0 28264
+D3
+~
+~
+0 0 28215
+S
+#28217
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28253
+D2
+~
+~
+0 0 28265
+D3
+~
+~
+0 0 28216
+S
+#28218
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28247
+D1
+~
+~
+0 0 28211
+D2
+~
+~
+0 0 28259
+D3
+~
+~
+0 0 28219
+S
+#28219
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28246
+D1
+~
+~
+0 0 28218
+D2
+~
+~
+0 0 28258
+D3
+~
+~
+0 0 28220
+S
+#28220
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28245
+D1
+~
+~
+0 0 28219
+D2
+~
+~
+0 0 28257
+D3
+~
+~
+0 0 28221
+S
+#28221
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28244
+D1
+~
+~
+0 0 28220
+D2
+~
+~
+0 0 28256
+D3
+~
+~
+0 0 28222
+S
+#28222
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28243
+D1
+~
+~
+0 0 28221
+D2
+~
+~
+0 0 28255
+D3
+~
+~
+0 0 28223
+S
+#28223
+Hallway of Heroes~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28242
+D1
+~
+~
+0 0 28222
+D2
+~
+~
+0 0 28254
+S
+#28224
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28202
+S
+#28225
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28203
+S
+#28226
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28204
+S
+#28227
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28205
+S
+#28228
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28206
+S
+#28229
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28207
+S
+#28230
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28208
+S
+#28231
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28209
+S
+#28232
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28210
+S
+#28233
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28202
+S
+#28234
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28203
+S
+#28235
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28204
+S
+#28236
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28205
+S
+#28237
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28206
+S
+#28238
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28207
+S
+#28239
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28208
+S
+#28240
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28209
+S
+#28241
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28210
+S
+#28242
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28223
+S
+#28243
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28222
+S
+#28244
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28221
+S
+#28245
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28220
+S
+#28246
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28219
+S
+#28247
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28218
+S
+#28248
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28212
+S
+#28249
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28213
+S
+#28250
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28214
+S
+#28251
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28215
+S
+#28252
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28216
+S
+#28253
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28217
+S
+#28254
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28223
+S
+#28255
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28222
+S
+#28256
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28221
+S
+#28257
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28220
+S
+#28258
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28219
+S
+#28259
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28218
+S
+#28260
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28212
+S
+#28261
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28213
+S
+#28262
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28214
+S
+#28263
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28215
+S
+#28264
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28216
+S
+#28265
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28217
+S
+#28266
+Hallway ~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28267
+D2
+~
+~
+0 0 28211
+S
+#28267
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28279
+D2
+~
+~
+0 0 28266
+D6
+~
+~
+0 0 28268
+D9
+~
+~
+0 0 28278
+S
+#28268
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D6
+~
+~
+0 0 28269
+D8
+~
+~
+0 0 28267
+S
+#28269
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D6
+~
+~
+0 0 28270
+D8
+~
+~
+0 0 28268
+S
+#28270
+Blade~
+You are in an unfinished room.
+~
+282 24 0
+D8
+~
+~
+0 0 28269
+D9
+~
+~
+0 0 28271
+S
+#28271
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D7
+~
+~
+0 0 28270
+D9
+~
+~
+0 0 28272
+S
+#28272
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D7
+~
+~
+0 0 28271
+D9
+~
+~
+0 0 28273
+S
+#28273
+Jitter~
+You are in an unfinished room.
+~
+282 24 0
+D7
+~
+~
+0 0 28272
+D8
+~
+~
+0 0 28274
+S
+#28274
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D6
+~
+~
+0 0 28273
+D8
+~
+~
+0 0 28275
+S
+#28275
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D6
+~
+~
+0 0 28274
+D8
+~
+~
+0 0 28276
+S
+#28276
+NeoSoft~
+You are in an unfinished room.
+~
+282 24 0
+D6
+~
+~
+0 0 28275
+D7
+~
+~
+0 0 28277
+S
+#28277
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D7
+~
+~
+0 0 28278
+D9
+~
+~
+0 0 28276
+S
+#28278
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D7
+~
+~
+0 0 28267
+D9
+~
+~
+0 0 28277
+S
+#28279
+Chaos~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28267
+D4
+~
+~
+0 0 28280
+S
+#28280
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28286
+D1
+~
+~
+0 0 28281
+D2
+~
+~
+0 0 28292
+D3
+~
+~
+0 0 28299
+D5
+~
+~
+0 0 28279
+S
+#28281
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28287
+D1
+~
+~
+0 0 28282
+D2
+~
+~
+0 0 28293
+D3
+~
+~
+0 0 28280
+S
+#28282
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28288
+D1
+~
+~
+0 0 28283
+D2
+~
+~
+0 0 28294
+D3
+~
+~
+0 0 28281
+S
+#28283
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28289
+D1
+~
+~
+0 0 28284
+D2
+~
+~
+0 0 28295
+D3
+~
+~
+0 0 28282
+S
+#28284
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28290
+D1
+~
+~
+0 0 28285
+D2
+~
+~
+0 0 28296
+D3
+~
+~
+0 0 28283
+S
+#28285
+Hallway~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28291
+D1
+~
+~
+0 0 28298
+D2
+~
+~
+0 0 28297
+D3
+~
+~
+0 0 28284
+S
+#28286
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28280
+S
+#28287
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28281
+S
+#28288
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28282
+S
+#28289
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28283
+S
+#28290
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28284
+S
+#28291
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D2
+~
+~
+0 0 28285
+S
+#28292
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28280
+S
+#28293
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28281
+S
+#28294
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28282
+S
+#28295
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28283
+S
+#28296
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28284
+S
+#28297
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D0
+~
+~
+0 0 28285
+S
+#28298
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D3
+~
+~
+0 0 28285
+S
+#28299
+Room~
+You are in an unfinished room.
+~
+282 24 0
+D1
+~
+~
+0 0 28280
+S
+#99999
+$~

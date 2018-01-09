@@ -1,0 +1,1716 @@
+#10000
+Shades Tower I~
+   This is Shades Tower, home to a wizard who was once a person of very
+neutral outlook on life, but wanted to live forever. He dabbled in magic,
+and thought he found the secret, but instead he was cursed to return to
+life when he was killed but with a wildly different outlook on life; either
+evil and hostile, or friendly and generous, depending on what he last "was".
+   He's taken captive his friend (and enemy) Cabe Bedlam, an always friendly
+wizard that's trying to kill the evil Shade... the strangeness has just
+begun...
+~
+100 1032 0
+D5
+~
+~
+0 0 10001
+S
+#10001
+Dead overgrown garden~
+   Just inside the rusted old gate that hangs on its hinges is a very
+old garden. The garden its self is void of life, but contains many dead
+plants. Just to the north of you lies a tower that seems to reach into 
+the clouds. As you gaze upon it a sense of dread and fear fills your soul.
+~
+100 4 2
+D0
+~
+~
+0 0 10091
+D1
+~
+~
+0 0 22181
+D3
+~
+vines~
+1 0 4296
+S
+#10002
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and 
+dirty. Everything is to rundown to tell what it might have been when 
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. Over in one corner of the room
+is a rotten decayed bed.
+~
+100 8 0
+D1
+~
+~
+0 0 10090
+S
+#10003
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. There is a large pile of junk
+in one corner that looks like it might be the home of one of those 
+nasty rodents you've seen running around.
+~
+100 8 0
+D0
+~
+~
+0 0 10004
+D3
+~
+~
+0 0 10090
+S
+#10004
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your c
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D2
+~
+~
+0 0 10003
+D3
+~
+~
+0 0 10005
+S
+#10005
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. On the edge of what must be 
+the towers outer wall is the beginning of a stairway that leads up into
+the darkness of the upper reaches of the tower.
+~
+100 8 0
+D1
+~
+~
+0 0 10004
+D4
+~
+~
+0 0 10006
+S
+#10006
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. On the edge of what must be
+the towers outer wall is a stairway that leads down into darkness.
+~
+100 8 0
+D2
+~
+~
+0 0 10007
+D5
+~
+~
+0 0 10005
+S
+#10007
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your c
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D0
+~
+~
+0 0 10006
+D1
+~
+~
+0 0 10008
+D3
+~
+~
+0 0 10009
+S
+#10008
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. The room is so filled with
+cobwebs that you are forced to tear them down in order to move.
+~
+100 8 0
+D3
+~
+~
+0 0 10007
+S
+#10009
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your 
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D1
+~
+~
+0 0 10007
+D2
+~
+~
+0 0 10010
+S
+#10010
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. The dark sense or permeating
+evil is slowly becoming stronger.
+~
+100 8 0
+D0
+~
+~
+0 0 10009
+D1
+~
+~
+0 0 10011
+S
+#10011
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. On the edge of what must be 
+the towers outer wall is the beginning of a stairway that leads up into
+the darkness of the upper reaches of the tower.
+~
+100 8 0
+D3
+~
+~
+0 0 10010
+D4
+~
+~
+0 0 10012
+S
+#10012
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. On the edge of what must be
+the towers outer wall is a stairway that leads down into darkness.
+~
+100 8 0
+D0
+~
+~
+0 0 10013
+D5
+~
+~
+0 0 10011
+S
+#10013
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. The decayed remains of some
+rather large rodents stink up this room.
+~
+100 8 0
+D1
+~
+~
+0 0 10015
+D2
+~
+~
+0 0 10012
+D3
+~
+~
+0 0 10014
+S
+#10014
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. Rodent foot prints seem to make
+some strange symbols in the dust that almost radiate the same sort of
+evil that you've felt since entering this tower.
+~
+100 8 0
+D1
+~
+~
+0 0 10013
+S
+#10015
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D0
+~
+~
+0 0 10016
+D3
+~
+~
+0 0 10013
+S
+#10016
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D2
+~
+~
+0 0 10015
+D3
+~
+~
+0 0 10017
+S
+#10017
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. On the edge of what must be 
+the towers outer wall is the beginning of a stairway that leads up into
+the darkness of the upper reaches of the tower.
+~
+100 8 0
+D1
+~
+~
+0 0 10016
+D4
+~
+~
+0 0 10018
+S
+#10018
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. On the edge of what must be
+the towers outer wall is a stairway that leads down into darkness.
+~
+100 8 0
+D2
+~
+~
+0 0 10019
+D5
+~
+~
+0 0 10017
+S
+#10019
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you aproach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D0
+~
+~
+0 0 10018
+D1
+~
+~
+0 0 10020
+D3
+~
+~
+0 0 10021
+S
+#10020
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. The broken down remains of
+what must have been a weapons rack lies in this room.
+~
+100 8 0
+D3
+~
+~
+0 0 10019
+S
+#10021
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. Some eerie thumps echo down
+from the floors above.
+~
+100 8 0
+D1
+~
+~
+0 0 10019
+D2
+~
+~
+0 0 10022
+S
+#10022
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your 
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D0
+~
+~
+0 0 10021
+D1
+~
+~
+0 0 10023
+S
+#10023
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. On the edge of what must be 
+the towers outer wall is the beginning of a stairway that leads up into
+the darkness of the upper reaches of the tower.
+~
+100 8 0
+D3
+~
+~
+0 0 10022
+D4
+~
+~
+0 0 10024
+S
+#10024
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. On the edge of what must be
+the towers outer wall is a stairway that leads down into darkness.
+~
+100 8 0
+D0
+~
+~
+0 0 10025
+D5
+~
+~
+0 0 10023
+S
+#10025
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D1
+~
+~
+0 0 10027
+D2
+~
+~
+0 0 10024
+D3
+~
+~
+0 0 10026
+S
+#10026
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. The cobwebs here have reached
+such a size that you find yourself praying that you don't run into the
+owner of them.
+~
+100 8 0
+D1
+~
+~
+0 0 10025
+S
+#10027
+A rundown room~
+   Dark, musty, dirty, filled with cobwebs. This place may have been
+something at one time, but now all these room look the same, old and
+dirty. Everything is to rundown to tell what it might have been when
+this tower stood in the height of its glory. Maybe its just you but
+those cobwebs seem to be getting bigger. These cobwebs are about the 
+thickness of your waist.
+~
+100 8 0
+D0
+~
+~
+0 0 10028
+D3
+~
+~
+0 0 10025
+S
+#10028
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your 
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D2
+~
+~
+0 0 10027
+D3
+~
+~
+0 0 10029
+S
+#10029
+A spiders nest~
+   The huge webs that cover all of the lower levels meet here in a web of
+gigantic magnitude. All seems so silent. It is said that sometimes silence
+is the deadliest noise of all. You certainly feel as if this is a true
+statement right now. You find yourself praying that the spider that made
+these webs doesn't find you invading its home. What looks to be a stairway
+sits on the far wall but it seems impassable because of a thick mass of webs.
+~
+100 4 0
+D1
+~
+~
+0 0 10028
+D4
+~
+~
+0 0 10030
+S
+#10030
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks 
+in the walls. Overall it is quite dim. The air feels slightly damp and 
+cold. Numerous odd bits of junk cover the floor. Echoing through the 
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. This room does seem much cleaner then the rest of
+the tower.
+~
+100 8 0
+D0
+~
+~
+0 0 10031
+D5
+~
+~
+0 0 10029
+S
+#10031
+A musty intersection~
+   This section of the tower is easily getting on your nerves. All of the 
+dead you have seen walking around has tensed your muscles up to a near
+painful level. The gray stone here seems so harsh and cold. On one of the
+side walls is a small plaque that reads: Here walks the remains of the
+many foolish mortals who have tried to defeat me.
+~
+100 8 0
+D0
+~
+~
+0 0 10034
+D1
+~
+~
+0 0 10033
+D2
+~
+~
+0 0 10030
+D3
+~
+~
+0 0 10032
+S
+#10032
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You trip over something and realize it is a severed
+hand that is still alive. You quickly kick it back into a corner.
+~
+100 8 0
+D1
+~
+~
+0 0 10031
+D4
+~
+~
+0 0 10035
+S
+#10033
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. A chill wind passes by briefly numbing your mind for
+a second.
+~
+100 8 0
+D3
+~
+~
+0 0 10031
+S
+#10034
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You start having second thoughts about meeting the
+owner of this tower. He seems to have killed an aweful lot of people.
+~
+100 8 0
+D2
+~
+~
+0 0 10031
+S
+#10035
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks 
+in the walls. Overall it is quite dim. The air feels slightly damp and 
+cold. Numerous odd bits of junk cover the floor. Echoing through the 
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. This room does seem much cleaner then the rest of
+the tower.
+~
+100 8 0
+D1
+~
+~
+0 0 10037
+D5
+~
+~
+0 0 10032
+S
+#10036
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. A chill wind passes by briefly numbing your mind for
+a second.
+~
+100 8 0
+D2
+~
+~
+0 0 10037
+S
+#10037
+A musty intersection~
+   This section of the tower is easily getting on your nerves. All of the
+dead you have seen walking around has tensed your muscles up to a near
+painful level. The gray stone here seems so harsh and cold.
+~
+100 8 0
+D0
+~
+~
+0 0 10036
+D1
+~
+~
+0 0 10039
+D2
+~
+~
+0 0 10038
+D3
+~
+~
+0 0 10035
+S
+#10038
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You start having second thoughts about meeting the
+owner of this tower. He seems to have killed an aweful lot of people.
+~
+100 8 0
+D0
+~
+~
+0 0 10037
+S
+#10039
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You trip over something and realize it is a severed
+hand that is still alive. You quickly kick it back into a corner.
+~
+100 8 0
+D3
+~
+~
+0 0 10037
+D4
+~
+~
+0 0 10040
+S
+#10040
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. A chill wind passes by briefly numbing your mind for
+a second.
+~
+100 8 0
+D3
+~
+~
+0 0 10041
+D5
+~
+~
+0 0 10039
+S
+#10041
+A musty intersection~
+   This section of the tower is easily getting on your nerves. All of the
+dead you have seen walking around has tensed your muscles up to a near
+painful level. The gray stone here seems so harsh and cold.
+~
+100 8 0
+D0
+~
+~
+0 0 10042
+D1
+~
+~
+0 0 10040
+D2
+~
+~
+0 0 10043
+D3
+~
+~
+0 0 10044
+S
+#10042
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You start having second thoughts about meeting the
+owner of this tower. He seems to have killed an aweful lot of people.
+~
+100 8 0
+D2
+~
+~
+0 0 10041
+D4
+~
+~
+0 0 10045
+S
+#10043
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks 
+in the walls. Overall it is quite dim. The air feels slightly damp and 
+cold. Numerous odd bits of junk cover the floor. Echoing through the 
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. This room does seem much cleaner then the rest of
+the tower.
+~
+100 8 0
+D0
+~
+~
+0 0 10041
+S
+#10044
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You trip over something and realize it is a severed
+hand that is still alive. You quickly kick it back into a corner.
+~
+100 8 0
+D1
+~
+~
+0 0 10041
+S
+#10045
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks 
+in the walls. Overall it is quite dim. The air feels slightly damp and 
+cold. Numerous odd bits of junk cover the floor. Echoing through the 
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. This room does seem much cleaner then the rest of
+the tower.
+~
+100 8 0
+D2
+~
+~
+0 0 10046
+D5
+~
+~
+0 0 10042
+S
+#10046
+A musty intersection~
+   This section of the tower is easily getting on your nerves. All of the
+dead you have seen walking around has tensed your muscles up to a near
+painful level. The gray stone here seems so harsh and cold.
+~
+100 8 0
+D0
+~
+~
+0 0 10045
+D1
+~
+~
+0 0 10048
+D2
+~
+~
+0 0 10047
+D3
+~
+~
+0 0 10049
+S
+#10047
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You start having second thoughts about meeting the
+owner of this tower. He seems to have killed an aweful lot of people.
+~
+100 8 0
+D0
+~
+~
+0 0 10046
+S
+#10048
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You trip over something and realize it is a severed
+hand that is still alive. You quickly kick it back into a corner.
+~
+100 8 0
+D3
+~
+~
+0 0 10046
+S
+#10049
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. A chill wind passes by briefly numbing your mind for
+a second.
+~
+100 8 0
+D1
+~
+~
+0 0 10046
+D4
+~
+~
+0 0 10050
+S
+#10050
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You start having second thoughts about meeting the
+owner of this tower. He seems to have killed an aweful lot of people.
+~
+100 8 0
+D1
+~
+~
+0 0 10051
+D5
+~
+~
+0 0 10049
+S
+#10051
+A musty intersection~
+   This section of the tower is easily getting on your nerves. All of the
+dead you have seen walking around has tensed your muscles up to a near
+painful level. The gray stone here seems so harsh and cold.
+~
+100 8 0
+D0
+~
+~
+0 0 10052
+D1
+~
+~
+0 0 10054
+D2
+~
+~
+0 0 10053
+D3
+~
+~
+0 0 10050
+S
+#10052
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. A chill wind passes by briefly numbing your mind for
+a second.
+~
+100 8 0
+D2
+~
+~
+0 0 10051
+S
+#10053
+A dark damp room~
+   This room is lit only by small rays of light that seep through cracks
+in the walls. Overall it is quite dim. The air feels slightly damp and
+cold. Numerous odd bits of junk cover the floor. Echoing through the
+hallways you hear chains rattling against stone and sometimes steel being
+scraped across stone. You trip over something and realize it is a severed
+hand that is still alive. You quickly kick it back into a corner.
+~
+100 8 0
+D0
+~
+~
+0 0 10051
+S
+#10054
+The wight's prison~
+   This room is the darkest you've run into in the tower so far. You
+really can't see much at all even with your light source. One thing
+you do note is a feeling of such absolute pain and suffering that tears 
+come to the eyes of even the hardiest warriors fills this entire room.
+~
+100 5 0
+D3
+~
+~
+0 0 10051
+D4
+~
+~
+0 0 10055
+S
+#10055
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D2
+~
+~
+0 0 10056
+D3
+~
+~
+0 0 10058
+D5
+~
+~
+0 0 10054
+S
+#10056
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10055
+D3
+~
+~
+0 0 10057
+S
+#10057
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10058
+D1
+~
+~
+0 0 10056
+D4
+~
+~
+0 0 10059
+S
+#10058
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D1
+~
+~
+0 0 10055
+D2
+~
+~
+0 0 10057
+S
+#10059
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10060
+D1
+~
+~
+0 0 10062
+D5
+~
+~
+0 0 10057
+S
+#10060
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D1
+~
+~
+0 0 10061
+D2
+~
+~
+0 0 10059
+S
+#10061
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D2
+~
+~
+0 0 10062
+D3
+~
+~
+0 0 10060
+D4
+~
+~
+0 0 10063
+S
+#10062
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10061
+D3
+~
+~
+0 0 10059
+S
+#10063
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D2
+~
+~
+0 0 10064
+D3
+~
+~
+0 0 10066
+D5
+~
+~
+0 0 10061
+S
+#10064
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10063
+D3
+~
+~
+0 0 10065
+S
+#10065
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10066
+D1
+~
+~
+0 0 10064
+D4
+~
+~
+0 0 10067
+S
+#10066
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D1
+~
+~
+0 0 10063
+D2
+~
+~
+0 0 10065
+S
+#10067
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10068
+D1
+~
+~
+0 0 10070
+D5
+~
+~
+0 0 10065
+S
+#10068
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D1
+~
+~
+0 0 10069
+D2
+~
+~
+0 0 10067
+S
+#10069
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D2
+~
+~
+0 0 10070
+D3
+~
+~
+0 0 10068
+D4
+~
+~
+0 0 10071
+S
+#10070
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10069
+D3
+~
+~
+0 0 10067
+S
+#10071
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D2
+~
+~
+0 0 10072
+D3
+~
+~
+0 0 10073
+D5
+~
+~
+0 0 10069
+S
+#10072
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D0
+~
+~
+0 0 10071
+D3
+~
+~
+0 0 10074
+S
+#10073
+Living quarters~
+   These rooms are much different then any others in the tower. Everything
+is in nice neat order. The items here speak of a comfortable living
+quarters of someone who must be amazingly rich. You better not touch
+anything though or all those living statues might become angry.
+~
+100 8 0
+D1
+~
+~
+0 0 10071
+D2
+~
+~
+0 0 10074
+S
+#10074
+Master bedroom~
+   You enter a huge plush bedroom. On one wall is a bed big enough for ten
+covered in silken sheets and plush pillows. An ornate dark oak desk sits
+on another wall covered in papers that have neat precise writing covering
+them. A thick wool carpet covers the floor. This place looks very comfortable.
+~
+100 12 0
+D0
+~
+~
+0 0 10073
+D1
+~
+~
+0 0 10072
+D4
+~
+~
+0 0 10075
+S
+#10075
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D0
+~
+~
+0 0 10076
+D5
+~
+~
+0 0 10074
+S
+#10076
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D1
+~
+~
+0 0 10077
+D2
+~
+~
+0 0 10075
+S
+#10077
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D3
+~
+~
+0 0 10076
+D4
+~
+~
+0 0 10078
+S
+#10078
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D3
+~
+~
+0 0 10079
+D5
+~
+~
+0 0 10077
+S
+#10079
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D0
+~
+~
+0 0 10080
+D1
+~
+~
+0 0 10078
+S
+#10080
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D2
+~
+~
+0 0 10079
+D4
+~
+~
+0 0 10081
+S
+#10081
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D2
+~
+~
+0 0 10082
+D5
+~
+~
+0 0 10080
+S
+#10082
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D0
+~
+~
+0 0 10081
+D3
+~
+~
+0 0 10083
+S
+#10083
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D1
+~
+~
+0 0 10082
+D4
+~
+~
+0 0 10084
+S
+#10084
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D1
+~
+~
+0 0 10085
+D5
+~
+~
+0 0 10083
+S
+#10085
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D2
+~
+~
+0 0 10086
+D3
+~
+~
+0 0 10084
+S
+#10086
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D0
+~
+~
+0 0 10085
+D4
+~
+~
+0 0 10087
+S
+#10087
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D0
+~
+~
+0 0 10088
+D5
+~
+~
+0 0 10086
+S
+#10088
+An asylum hallway~
+   This section of the tower looks like some disgusting hell hole. Come
+to think of it, it feels like one too. Slime covers the wall and strange 
+creatures that seem like shadows of real life slither and crawl around 
+your feet. Occasional groans of unsurmountable pain echo throughout
+these hallways.
+~
+100 8 0
+D1
+~
+~
+0 0 10089
+D2
+~
+~
+0 0 10087
+S
+#10089
+An asylum hallway~
+   You've enetred a dark area and are instantly overcome with feelings
+of dread. The eerie noises have put your nerves on the fritz and this
+particular area is doing nothing to calm those nerves. You wonder what
+other sort of strange almost living creature will jump out at you again.
+~
+100 13 0
+D3
+~
+~
+0 0 10088
+D4
+~
+~
+0 0 10190
+S
+#10090
+A rundown hallway~
+   This old hallway is dark and very dirty. You begin to wonder if your
+clothes will ever become clean after having this grime on them. Numerous
+cobwebs dot the walls and ceiling. The only spiders here seem to be
+harmless and scatter as you approach. You hear squeaks of many hopefully
+smaller rodents echoing through the hall.
+~
+100 8 0
+D1
+~
+~
+0 0 10003
+D2
+~
+~
+0 0 10091
+D3
+~
+~
+0 0 10002
+S
+#10091
+Entrance Foyer~
+   You stand in the entrance foyer of this decrepit old tower.
+To ordinary perceptions it looks like nothing more then a forgotten
+tower from the days of old with its many cobwebs and thick layers
+of dust.  However there is something that nags at your mind and pulls
+the ethereal strings of your soul. A dark presence of foreboding evil
+permeates your being numbs your mind and chills your soul.
+~
+100 8 0
+D0
+~
+~
+0 0 10090
+D2
+~
+~
+0 0 10001
+S
+#99999
+$~

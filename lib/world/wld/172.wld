@@ -1,0 +1,990 @@
+#17200
+A narrow path through the forest~
+You stand on a small, twisting path which disappears under
+the dark trees in front of you. As you walk forward, the
+trees seem to move with a life of their own, changing the
+pathway behind you. You have a feeling that you are very
+rapidly getting lost.
+~
+172 1 3
+D0
+~
+~
+0 0 17201
+S
+#17201
+Along a narrow path~
+Walking further into this forest, you become more and more
+aware that the path, although it seems ancient and well
+preserved, looks to be moving about and changing as you
+walk along it. You can't be sure, but you have a feeling
+that you have seen many of these trees before, and looking
+back, the path seems to be heading from a completely
+different direction to that from whence you came.
+~
+172 1 3
+D0
+~
+~
+0 0 17203
+D2
+~
+~
+0 0 17200
+S
+#17202
+A small overgrown path~
+This winding narrow path runs from east to west, and is
+thickly overgrown with roots and brambles that made your
+progress difficult and tiring. To the east the path opens
+out slightly at an intersection, but to the west it becomes
+yet more narrow and shadowed.
+~
+172 1 3
+D0
+~
+~
+0 0 17204
+D1
+~
+~
+0 0 17203
+S
+#17203
+A dark intersection~
+Still under the shadow of the huge dark trees about you,
+you come to a small T-junction in the path you follow.
+The path to the west seems even darker and more entangled
+with undergrowth than that on which you stand. To the east
+the path becomes a little wider, yet somehow manages to
+seem more dangerous to your senses and you feel an urge
+not to follow the easier route. The pathway to the south
+is thick with undergrowth and roots, waiting to hinder
+your progress.
+~
+172 1 3
+D1
+~
+~
+0 0 17209
+D2
+~
+~
+0 0 17201
+D3
+~
+~
+0 0 17202
+S
+#17204
+A small overgrown path~
+The path continues, winding its way through the forest
+before you. Both to the south and west, the path is dense
+with undergrowth, and is overshadowed by a thick canopy
+of trees above. Both directions seem dark and forbidding,
+and you are glad of the small comfort of the light you carry.
+~
+172 1 3
+D2
+~
+~
+0 0 17202
+D3
+~
+~
+0 0 17205
+S
+#17205
+A small overgrown path~
+Dark and twisting, the narrow path leads through the
+trees to the north and east. There is no sign of light
+anywhere about you, and you have a sense that you are
+being observed by hidden threatening eyes in the darkness.
+~
+172 1 3
+D0
+~
+~
+0 0 17206
+D1
+~
+~
+0 0 17204
+S
+#17206
+Deeper into the forest~
+Walking further into the forest, you begin to lose
+all sense of direction. The trees on either side of
+the narrow path seem to become more and more lifelike
+and their branches seem to reach out and try to stop
+you from walking past.
+~
+172 1 3
+D1
+~
+~
+0 0 17207
+D2
+~
+~
+0 0 17205
+S
+#17207
+Beneath a huge tree~
+You stand on a bend in the path as it curves about
+the base of a vast tree. The girth of the tree is
+huge, and there seem to be some interesting marks
+in the bark of the trunk in front of you. The path
+itself continues to the east and west, remaining
+dark and dense in both directions.
+~
+172 1 3
+D0
+~
+a wooden door~
+2 0 17208
+D1
+~
+~
+0 0 17213
+D3
+~
+~
+0 0 17206
+S
+#17208
+Within a huge tree~
+You enter a large chamber, within the base of the
+huge tree. The walls curve away from you to either
+side and meet again several yards in front of you.
+This room seems to be the abode of some large tree-
+like creature, who towers before you in the centre
+of the chamber, not looking pleased to see you.
+~
+172 33 14
+D2
+a wooden door
+~
+a wooden door~
+2 0 17207
+S
+#17209
+A small forest track~
+You stand on a small track through the trees, leading
+east to west. The path is relatively clear here, but
+is still dark and overshadowed by the trees above. To
+the west the path opens out slightly in a small junction
+and to the east it continues to wind its way through
+the woods, although in this direction the undergrowth
+quickly thickens and many thick brambles block the way.
+~
+172 1 3
+D1
+~
+~
+0 0 17210
+D2
+~
+~
+0 0 17200
+D3
+~
+~
+0 0 17203
+S
+#17210
+A small forest track~
+Here the pathway bends from the east towards the north,
+leading you ever deeper into the darkness. As you walk
+forward, the trees around you move about, changing the
+paths and trying to lead you backwards to whence you
+came.
+~
+172 1 3
+D0
+~
+~
+0 0 17211
+D3
+~
+~
+0 0 17209
+S
+#17211
+A small forest track~
+Following this small dark track further into the forest
+you become aware that you are slowing losing all sense
+of direction. As you look around yourself you notice
+that although to the east the pathway is relatively
+well defined, to the north it suddenly becomes covered
+with thick undergrowth, and grows darker still.
+~
+172 1 3
+D0
+~
+~
+0 0 17212
+D2
+~
+~
+0 0 17210
+S
+#17212
+A path through the forest~
+As you arrive on this thickly shadowed section of path,
+the undergrowth to the south seems to move of its own
+accord, blocking the path in that direction completely.
+You are forced to decide between the other directions,
+but have no idea where they could lead - back to the
+places from whence you have come, or into some immense
+hidden danger.
+~
+172 1 3
+D0
+~
+~
+0 0 17201
+D1
+~
+~
+0 0 17214
+D2
+~
+~
+0 0 17211
+D3
+~
+~
+0 0 17213
+S
+#17213
+A path through the forest~
+As the trees move around you in the darkness, you
+become uneasy, and confused about where you are going.
+To the west, the path is blocked by a large tree that
+you are sure wasn't there a moment ago. The other paths
+look strangely familiar and you begin to wonder if you
+are simply walking around in circles.
+~
+172 1 3
+D1
+~
+~
+0 0 17212
+D2
+~
+~
+0 0 17210
+S
+#17214
+A hidden pathway~
+You stand on a narrow, twisting path between the tall
+trees. The path here turns from west to north, and
+quickly disappears into the gloom in both directions.
+From the northerly direction, you can here a faint echo
+of water running over rocks.
+~
+172 1 3
+D0
+~
+~
+0 0 17215
+D3
+~
+~
+0 0 17212
+S
+#17215
+Following a tiny path~
+The path here is barely defined, being simply a slightly
+less overgrown area of the ground beneath you. To the
+south the pathway is marginally easier to make out,
+but to the north it continues similarly unmarked,
+twisting away into the darkness that surrounds you.
+~
+172 1 3
+D0
+~
+~
+0 0 17216
+D2
+~
+~
+0 0 17214
+S
+#17216
+Following a tiny path~
+The winding path you stand on seems to come to an
+abrupt end here, entering a thick wall of brambles to
+the north, which almost seem to have been constructed
+as an intentional obstacle. A gap in the trees to the
+east reveals an impenetrable wall of rock and so the
+only clear way seems to be to the south.
+~
+172 1 3
+D0
+~
+bramble wall~
+2 17200 17217
+D2
+~
+~
+0 0 17215
+S
+#17217
+Beside a river~
+You emerge blinking from the dark shadows of the trees
+onto the banks of a small river which flows from east
+to west. The break in the trees above allows some
+sunlight to pass to the ground here, and many colourful
+flowers line the banks in front of you.
+~
+172 0 3
+D2
+~
+bramble wall~
+2 17200 17216
+D3
+~
+~
+0 0 17218
+S
+#17218
+Beside a river~
+You are walking along the southern side of a small
+river which makes its way quickly through the forest.
+The path on which you stand follows this water-course
+from east to west, and seems relatively pleasant
+compared to the surrounding darkness.
+~
+172 0 3
+D1
+~
+~
+0 0 17217
+D3
+~
+~
+0 0 17219
+S
+#17219
+The foot of the falls~
+You stand at the base of a waterfall, where the river
+comes to the edge of a relatively tall drop and tumbles
+down onto the rocks below. The path you are on continues
+up beside the falls, and along the banks of the river
+to the east.
+~
+172 0 3
+D1
+~
+~
+0 0 17218
+D4
+~
+~
+0 0 17220
+S
+#17220
+Next to the falls~
+You are standing about half way up a small path which
+leads on upwards to the top of the falls. Peering
+through the bushes to the north, you notice that there
+is a hidden ledge behind the curtain of water, and a
+dark hole there, leading back into the hillside.
+~
+172 0 3
+D0
+~
+bushes~
+1 0 17222
+D4
+~
+~
+0 0 17221
+D5
+~
+~
+0 0 17219
+S
+#17221
+The top of the waterfall~
+As you reach the top of the climb, the view becomes
+amazing to the eye. From here you can see for miles
+around you the tops of the trees, and the twisting
+path of the river clearly defined heading to the east.
+Beautiful though the view is, you realise you have
+reached the end of this path, and must now turn back
+and walk the way you have come.
+~
+172 0 3
+D5
+~
+~
+0 0 17220
+S
+#17222
+A ledge behind the waterfall~
+You are on a narrow ledge behind the concealing sheet
+of water. To the west, there is a narrow crawlway into
+the hill itself, looking dark and forbidding before
+you. The only other way is out into the open path next
+to the river.
+~
+172 1 3
+D2
+~
+bushes~
+1 0 17220
+D3
+~
+~
+0 0 17223
+S
+#17223
+A narrow crawlway~
+You are in a tiny, cramped passageway leading deep into
+the hill in front of you. You can just about turn around
+in the confined space, and can see light coming in
+from the east. To the west the tunnel continues,
+descending into utter darkness. The air is thick and
+damp and you begin to feel very claustrophobic.
+~
+172 257 4
+D1
+~
+~
+0 0 17222
+D3
+~
+~
+0 0 17224
+S
+#17224
+A narrow crawlway~
+The tunnel you are in is narrow and confined, with
+close, damp walls and a low ceiling. The crawlway is
+sloped downwards increasingly steeply to the west,
+where it seems to suddenly become rather dark. To the
+east there is a faint glimmer of light from the opening
+of the passage.
+~
+172 257 4
+D1
+~
+~
+0 0 17223
+D3
+~
+~
+0 0 17225
+S
+#17225
+A wide cavern~
+Emerging from the tight, sloped crawlway you fall
+several metres before landing on the floor of a wide,
+open cavern. The wall down which you fell is wet and
+slimy, making it impossible to crawl back, and you
+cannot see any other exits. What seems more pressing
+however, is the huge stone creature which towers in
+front of you, enraged by the intruders in its cave.
+~
+172 257 4
+S
+#17226
+Before the enchanted tree~
+You stand at the base of a tall but relatively slender
+oak tree. The trunk, although quite narrow, is protected
+by thick, dark bark, and is twisted and knotted. The
+tree glows with a golden aura, shimmering in front of
+you. A pathway lead around the base of the tree, but
+you notice a strange swirling in the bark of the tree
+itself and wonder if it might be possible to step through.
+~
+172 0 3
+D1
+~
+~
+0 0 17225
+D8
+~
+~
+0 0 17228
+D9
+~
+~
+0 0 17227
+S
+#17227
+Around the enchanted tree~
+You are standing on a small path which leads around
+the back of the glowing tree which grows here. The
+path seems only to lead around in a circle, and all
+other directions are blocked by thick plant growth.
+~
+172 0 3
+D7
+~
+~
+0 0 17226
+D8
+~
+~
+0 0 17229
+S
+#17228
+Around the enchanted tree~
+A small pathway leads around the enchanted tree which
+grows next to you to the north. Your way is blocked
+around you by close growths of trees and bushes and
+you are forced to follow the path in one direction
+around the tree.
+~
+172 0 3
+D6
+~
+~
+0 0 17226
+D9
+~
+~
+0 0 17229
+S
+#17229
+Behind the enchanted tree~
+The small path continues here around the back of the
+tree and continues back the way you have come. On this
+side of the tree there are a number of low branches
+which you could probably reach if you wished to climb
+up the tree itself, but you are not sure if this would
+be such a good idea.
+~
+172 0 3
+D4
+~
+~
+0 0 17230
+D6
+~
+~
+0 0 17227
+D7
+~
+~
+0 0 17228
+S
+#17230
+A strong bough of the tree~
+Climbing up the tree, you reach a thick bough several
+yards above the forest floor. You cannot see any more
+branches nearby which my offer help in proceeding
+further up the tree and your attention is drawn
+immediately towards a huge hornets nest hanging from
+a branch above you.
+~
+172 0 14
+D5
+~
+~
+0 0 17229
+S
+#17231
+Within the enchanted tree~
+You stand in a short but tall hallway. The walls are
+clearly wooden yet are twisted and knotted and seem
+to pulse with a golden light. At its end the hallway
+leads up a steep spiral staircase. The only other exit
+is into a similarly walled chamber to the south.
+~
+172 40 14
+D2
+~
+~
+0 0 17232
+D3
+~
+~
+0 0 17233
+S
+#17232
+The dryad guardhouse~
+This is a large, dome-ceilinged room, the wooden walls
+smooth and rounded around. The room is sparse and bare,
+empty other than a bench around the sides and a number
+of large, powerful angry-looking he-dryads who move
+towards you menacingly.
+~
+172 8 14
+D0
+~
+~
+0 0 17231
+S
+#17233
+The base of the staircase~
+You are at the bottom of a steep spiral staircase
+which seems to have grown naturally inside the tree.
+Although narrow, the stairway is still far wider than
+the tree seemed from the outside and you are aware
+there must be some kind of magic influence at work.
+The staircase continues up above you and an entrance
+hall lies to the east.
+~
+172 12 14
+D1
+~
+~
+0 0 17231
+D4
+~
+oak door~
+2 17207 17234
+S
+#17234
+A spiral staircase~
+A short, narrow hallway leads off the staircase here
+to the north. Other than that, the only way seems to
+be to continue up or dont the stairs themselves. At
+your side the walls of the stairway pulse with a gentle
+golden light, already noticably more bright than it
+was at the base of the tree.
+~
+172 8 14
+D0
+~
+~
+0 0 17235
+D4
+~
+~
+0 0 17237
+D5
+~
+oak door~
+2 17207 17233
+S
+#17235
+A short hallway~
+You stand in a narrow wooden passageway leading off
+from the climbing staircase. In front of you the hall
+comes to an abrupt stop where the wooden walls curve
+round to meet each other, but to the east you notice
+a strange pattern of knots and growth in the wall itself.
+~
+172 8 14
+D1
+~
+knotted door~
+1 0 17236
+D2
+~
+~
+0 0 17234
+S
+#17236
+A private chamber~
+You stand in a large, domed chamber with smooth, polished
+walls and a tall ceiling. This is clearly the domicile
+of a relatively important dryad as it is spacious and
+well furnished, although all the furnishings appear
+to grow out from the walls. To one side of the chamber
+you see the dryad himself, evidently surprised by
+your presence.
+~
+172 1 14
+D3
+~
+knotted door~
+1 0 17235
+S
+#17237
+A spiral staircase~
+The staircase continues its way here further up into
+the tree and down to a short landing. The only way
+forward seems to be to follow the stairs up or down
+and both ways seem equally uninviting.
+~
+172 8 14
+D4
+~
+~
+0 0 17238
+D5
+~
+~
+0 0 17234
+S
+#17238
+The glowing hallway~
+You stand in a tall hallway with smooth wooden walls
+curving up to meet above you. The walls themselves
+appear to be simply one continuous peace of wood and
+they glow brightly with a pulsing golden aura. To the
+north and south there are large arched doorways and to
+the west the hallway comes to an end at the base of
+another curving staircase.
+~
+172 8 14
+D0
+~
+smooth door~
+1 0 17243
+D2
+~
+gnarled door~
+1 0 17244
+D3
+~
+~
+0 0 17239
+D5
+~
+~
+0 0 17237
+S
+#17239
+A wide staircase~
+This staircase is wide and curves more gently than the
+stairs which lead down to the east. All around you the
+walls glow still brighter and a rhythmic sound accompanies
+the pulsing. The stairwell leads up from here and a
+hallway leads to the top of the staircase to the east.
+~
+172 8 14
+D1
+~
+~
+0 0 17238
+D4
+~
+~
+0 0 17240
+S
+#17240
+A wide staircase~
+The staircase continues here, much the same in both
+directions. Above you however an ornate set of doors
+lead off into the wall to the west and here the stairs
+come to an end. Below the stairs also end, reaching
+a level hallway which leads away to the east.
+~
+172 8 14
+D4
+~
+~
+0 0 17241
+D5
+~
+~
+0 0 17239
+S
+#17241
+Before a huge doorway~
+Coming to the top of the stairs you find yourself
+standing in front of a towering archway which frames
+an ornate set of oak doors. The arch itself is patterned
+with a complex growth of knots and twists and the doors
+have clearly been designed to impress.
+~
+172 8 14
+D1
+~
+ornate oak door~
+1 0 17242
+D5
+~
+~
+0 0 17240
+S
+#17242
+Druellae's private guard chamber~
+You stand in a small side chamber leading from a much
+large chamber to the east. Small though this chamber
+is, it is richly furnished and is occupied by two very
+large powerful dryad guards who seem surprised at your
+intrusion and leap to attack in defense of their lady.
+~
+172 8 14
+D1
+~
+~
+0 0 17245
+D3
+~
+ornate oak door~
+1 0 17241
+S
+#17243
+Phiessla's quarters~
+You stand at one side of a huge private chamber of a
+high-ranked dryad. The quarters are luxuriously furnished
+and decorated with many magical objects and symbols.
+To one side of the room a tall slender dryad looks up
+at your entrance but seems relatively unperturbed.
+~
+172 8 14
+D2
+~
+smooth door~
+1 0 17238
+S
+#17244
+Greicha's private room~
+You are in a wide open chamber, large in dimensions
+yet relatively sparse in furnishings. However, you can
+tell from the richness of the few items in the room
+that these are the quarters of another high-ranking
+dryad and this impression is reinforced by the immense
+gnarled figure that turns at your entrance and growls
+angrily at you.
+~
+172 8 14
+D0
+~
+gnarled door~
+1 0 17238
+S
+#17245
+Druellae's personal quarters~
+You emerge into a luxurious room, lit solely by the glow of the curved wooden
+walls. This is where Druellae, the queen of the dryads, spends most of her
+time, yet there is little evidence of her presence to the untrained eye.
+A few magical items lie around the chamber, but the room seems mostly to have
+been made simply to impress upon anyone who sees it the power of the dryads
+and of their queen.
+~
+172 188 14
+D3
+~
+~
+0 0 17242
+D4
+~
+trapdoor~
+1 0 17246
+S
+#17246
+The chamber of magic~
+You stand at one end of a tall, wide chamber. All around you the air sparkles
+with magical discharge and the walls of the chamber pulse with an intense
+golden light, brighter here than anywhere else in the tree. Around you many
+dryads stand, watching the magic being conducted at the other end of the hall.
+As you arrive, a number of these dryads turn angrily at the intrusion into
+this, their most sacred of rooms, and leap to attack you. Underneath your
+feet there appears to be a small trapdoor and the only other way is east into
+the centre of the chamber.
+~
+172 8 14
+D1
+~
+~
+0 0 17247
+D5
+~
+trapdoor~
+1 0 17245
+S
+#17247
+The chamber of magic~
+You are in the centre of a tall and wide circular chamber, lit by the bright
+golden glowing of the walls. All around you dryads stand, focussing their
+attention on a swirling portal at one end of the chamber. Those that do notice
+you become quickly enraged at your intrusion into this sacred room.
+~
+172 8 14
+D0
+~
+~
+0 0 17248
+D1
+~
+~
+0 0 17250
+D2
+~
+~
+0 0 17249
+D3
+~
+~
+0 0 17246
+S
+#17248
+The chamber of magic~
+You are in an unfinished room.
+~
+172 8 14
+D2
+~
+~
+0 0 17247
+S
+#17249
+The chamber of magic~
+You are in an unfinished room.
+~
+172 8 14
+D0
+~
+~
+0 0 17247
+S
+#17250
+Before the magic circle~
+You stand in front of a tall shimmering portal into which all of the dryads'
+magical powers are being spent. As you look into the swirling mirror-like
+face of the portal it resolves momentarily, giving you a view of a large
+ruined building hidden by, and overgrown with, trees and undergrowth. To one
+side of the portal stands a tall, slender dryad, wearing a golden medallion
+and a glowing wreath as a crown.
+~
+172 8 14
+D3
+~
+~
+0 0 17247
+S
+#17251
+Upon a glowing octagon~
+You stand in the centre of a strange octagon set into a dark stone floor and
+glowing with a weird purple sheen. The light from the octagon partially
+illuminates the cold damp stone walls on either side of you but fails to
+reveal anything of the dark passage which leads away to the east.
+~
+172 8 0
+D1
+~
+~
+0 0 17252
+S
+#17252
+A dark passageway~
+You are in a dark, narrow passage walled with damp hard rock but clearly
+built this way by a being of some kind. To the west there is a weird purple
+glow illuminating the end of the passageway but to the east it is still
+equally dark and damp as here. The floor of the passageway seems to be made
+solely of octagonal slabs and the passage itself seems to have more sides
+than would be expected.
+~
+0 9 0
+D1
+~
+~
+0 0 17253
+D3
+~
+~
+0 0 17251
+S
+#17253
+A dark passageway~
+You are in an unfinished room.
+~
+0 9 0
+D3
+~
+~
+0 0 17252
+S
+#99999
+$~

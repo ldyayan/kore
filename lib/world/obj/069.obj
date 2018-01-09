@@ -1,0 +1,68 @@
+#6900
+dress ulishar~
+a Dress of Ulishar~
+A white silk dress is lying here.~
+~
+9 2624 9
+8 0 0 0
+4 0 0
+E
+dress ulishar~
+   Made of spider silk, this white silk dress has gold triming and web designs
+sewen throught it.  This dress can be made only by a pure blooded male.  The
+dress conforms to the wearer, always changing as they gain or lose weight or
+height. 
+~
+A
+17 -10
+B
+16 0
+#6901
+cloak piwafwi~
+a piwafwi cloak~
+A cloak is lying here.~
+~
+9 0 1025
+5 0 0 0
+6 0 0
+E
+cloak piwafwi~
+   It appears to be your standard Drow Piwafwi.
+~
+A
+24 -5
+#6902
+circlet dim crown~
+Circle of the Dim~
+A small crown is lying here.~
+~
+9 0 1
+4 0 0 0
+0 0 0
+E
+circlet dim crown~
+   A thin silvery band is a blending of mithril and adamantite, combined in 
+an explosion of great heat.  This metal was found, shaped and enchanted by 
+an unknown elf of a forgotten branch.  It was lost to him somewhere in the
+Underdark, and has slipped through many wearer's hands since then.
+~
+B
+262144 0
+#6903
+boots shadows~
+Boots of Shadows~
+A pair of boots is lying here.~
+~
+9 8434176 65
+8 0 0 0
+0 0 0
+E
+boots shadows~
+   Boots made of a strange black leather.
+~
+A
+2 3
+A
+12 -10
+#99999
+$~

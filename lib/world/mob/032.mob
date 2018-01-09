@@ -1,0 +1,52 @@
+#3200
+king arthur 3200 ~
+Arthur, King of the Britons~
+A man wearing a royal seal and a crown stand here regally.
+~
+   This man is obviously a little nuts.  He prances around like he
+is riding a horse with a servant clacking coconuts behind him.  He 
+is dressed nicely enough and even carries with him an air of royalty.
+~
+10 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#3201
+dennis peasant man 3201~
+Dennis the peasant~
+A man is here, harvesting mud.
+~
+   You see a filthy farmer harvesting his latest crop of mud.  It looks 
+like a bountiful harvest and he wears his crop proudly.
+~
+10 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#3202
+woman peasant 3202~
+an ugly peasant woman~
+A filthy peasant woman, crawling through some mud.
+~
+   This woman is apparently a mud harvester.  She seems to be quite
+content in pushing the mud around and piling it up. Wonder when she is
+going to make you some pie!
+~
+10 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#3203
+minstrel gay~
+the minstrel~
+A gay minstrel is here, hopping and singing!
+~
+You see a minstrel hopping happily! He wears a jesters cap and plays 
+a tambourine or a lute or a flute or something and hops merrily about.
+~
+10 0 600 S
+10 5 3 1d1+0 1d1+0
+0 3000
+8 8 1 10
+#99999
+$~

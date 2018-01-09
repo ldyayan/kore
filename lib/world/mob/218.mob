@@ -1,0 +1,105 @@
+#21800
+lurker~
+the Lurker~
+The Lurker in the Lake attacks!
+~
+A huge nightmare of tentacles!!
+~
+253992 885768 1000 S
+50 1 -1 5d10+550 4d6+3
+1000000 155000
+8 8 0
+#21801
+orc boaz~
+the Mountain Orc 'Boaz'~
+A huge mountain orc with a large deadly looking spear.
+~
+A fierce mountain orc with a huge spear and scimitar, he leaps into
+battle with savage fury.  He thirsts for your blood.
+~
+8234 66696 -1000 S
+30 1 0 1d1+1 1d1+1
+10000 20
+8 8 1
+#21802
+mountain orc~
+the Mountain Orc~
+A large mountain orc smells you and attacks!
+~
+A large mountain orc, spawned in the darkness it thirsts for your blood.
+~
+42 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#21803
+orc~
+an orc~
+An orc is here.
+~
+The Orc is armed with scimitar and shortbow and thirsts for your blood!
+~
+170 1024 -500 S
+13 1 0 1d1+1 1d1+1
+500 20
+8 8 1
+#21804
+orc~
+an orc~
+An orc is here.
+~
+The Orc is armed with scimitar and shortbow and hungers for your blood!
+~
+170 1024 0 S
+9 1 0 1d1+1 1d1+1
+250 20
+8 8 1
+#21805
+orc~
+an orc~
+An orc is here.
+~
+The Orc is armed with scimitar, shield and shortbow and hungers for your
+blood!
+~
+8 0 -1000 S
+18 1 0 1d1+1 1d1+1
+4000 20
+8 8 1
+#21806
+troll orc mountain~
+the Mountain Troll~
+A Huge Mountain troll is here manning the forge.
+~
+A huge mountain troll, hes nearly 7 feet and easily over 300 pounds
+with huge muscles and he wields a huge hammer.
+~
+139306 65664 0 S
+25 1 0 1d1+1 1d1+1
+5000 20
+8 8 1
+#21807
+flame malkiere~
+a Flame Malkiere~
+A Flame Malkiere waits.
+~
+   The Malkiere were building tools made by Aule, creater of the Dwarves.
+They have no innate will of their own, although they will defend themselves.
+~
+172042 13320 0 S
+36 1 0 1d1+1 1d1+20
+15 20
+8 8 0
+#21808
+orc spearman~
+an orc spearman~
+An orc spearman hates you and attacks!
+~
+Its an orc spearman, he sure is ugly.
+~
+168 786432 0 S
+15 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#99999
+$~

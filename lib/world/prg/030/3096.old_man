@@ -1,0 +1,15 @@
+>command_prog west~
+  if ispc($n)
+    if isimmort($n)
+    else
+      if level($n) > 8
+        peer $n
+        say You are too old to go further from here.
+        mpstopcommand
+      else
+        smile $n
+      endif
+    endif
+  endif
+~
+|

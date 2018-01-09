@@ -1,0 +1,40 @@
+#218
+Khazad-dum~
+21899 30 2 3
+M 0 21800     1 21811            the Lurker
+M 0 21806     1 21843            the Mountain Troll
+M 0 21804     3 21832            an Orc
+M 0 21804     4 21832            an Orc
+M 0 21804     5 21832            an Orc
+M 0 21805     6 21832            an Orc
+M 0 21803     7 21832            an Orc
+O 0 21806   101 21832            a HUGE pile of coins
+M 0 21801     1 21830            the Mountain Orc 'Boaz'
+G 1 21803    10    -1                    give the Spear 'Elfkiller'
+G 1 21804    10    -1                    give a wicked scimitar
+G 1 21805    10    -1                    give shield of the lidless eye
+M 0 21802     1 21830            the Mountain Orc
+M 0 21802     2 21830            the Mountain Orc
+M 0 21807     1 21869            a Flame Malkiere
+G 1 21807    10    -1                    give spear of flame
+D 0 21806     1     1            Before Khazad-dum door east
+O 0 21800    99 21805            the holly tree
+D 0 21807     3     1            Khazad-dum door west
+O 0 21801    99 21816            a dwarf skeleton
+O 0 21802    99 21818            a deep covered well.
+D 0 21818     5     1            A Guard Room door down
+M 0 21803    99 21831            an Orc
+M 0 21804    99 21831            an Orc
+M 0 21805    99 21831            an Orc
+M 0 21803    99 21831            an Orc
+M 0 21804    99 21831            an Orc
+M 0 21807     1 21871            a Flame Malkiere
+M 0 21807     1 21867            a Flame Malkiere
+M 0 21807     1 21866            a Flame Malkiere
+M 0 21807     1 21874            a Flame Malkiere
+M 0 21808     1 21847            an orc spearman
+G 1 21803    10    -1                    give the Spear 'Elfkiller'
+G 1 21808    10    -1                    give a cruel orcish spear
+S
+#99999
+$~

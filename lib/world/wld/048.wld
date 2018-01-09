@@ -1,0 +1,2205 @@
+#4800
+Uh oh! The Hall Monitor!~
+   Oh no!  Not the hall monitor!  Oh dear!  If you get caught by
+him, you'll be thrown in detention for sure, and then you'll never make
+it to your class on time.  As he gets closer to you, you realize you
+have a narrow chance to escape by him.  Can you make it?
+~
+48 9 0
+D0
+~
+~
+0 0 4773
+D1
+~
+~
+0 0 4773
+D2
+~
+~
+0 0 4760
+D3
+~
+~
+0 0 4773
+S
+#4801
+Turning Point~
+   You have reached a turning point in the school hallways. 
+Hmmmm.... Which way should you go?  Well, there's north, which is the
+coward's way out.  To the south you can see the hall monitor, and he's not
+that easy to sneak around, although you might find a shortcut if
+you can get around him.  From the east the wonderful smells of cajun
+chow mein waft in from the cafeteria.  If you are hungry you might
+want to stop there and then continue on your journey for class.
+~
+48 9 0
+D0
+~
+door~
+2 4721 4702
+D1
+~
+door~
+2 4722 4799
+D2
+~
+door~
+2 4723 4800
+D3
+~
+~
+0 0 4711
+S
+#4803
+Hallway~
+   This hallway is well-lit, yet twists and turns in a maze-like
+fashion. You also notice that it looks strangely familiar, as if you've been
+down it before.
+~
+48 8 0
+D0
+~
+~
+0 0 4794
+D1
+~
+~
+0 0 4793
+S
+#4804
+Standing inside the Doss College Building~
+   As you stand inside the Doss Building, you get the feeling that
+you will have to do a lot of climbing to get around this building
+as it rises tall above you.  You are not sure what tests await you
+here, but for some reason you think of the various keys of the scale. 
+What an odd thought.
+~
+48 8 0
+D2
+~
+~
+0 0 4808
+S
+#4805
+Dining Room~
+   You have entered a rather crude dining room with a large wooden
+table in the middle of it.  On the table is a glass of ale, as well
+as crumbs from someone's last meal.  Wonder what they had to eat?
+~
+48 9 0
+D1
+~
+~
+0 0 4806
+D2
+~
+~
+0 0 4809
+S
+#4806
+Kitchen~
+   You have entered a rather large kitchen filled with enough
+ovens, pots, and pans to feed all the students at the Bardic Colleges.  At
+the back of the kitchen you see a large sink filled with a large
+pile of dirty dishes.  Apparently an apprentice forgot to do his
+cleaning chores.
+~
+48 9 0
+D2
+~
+~
+0 0 4810
+D3
+~
+~
+0 0 4805
+S
+#4807
+Supply Room~
+   You see many stringed instruments stored on shelves and in
+corners in this room.  One particular violin catches your eye
+as you realize that it is one of the famed Stradivarius violins.
+You wonder if anyone would notice that it is missing as you
+contemplate taking it.  Even just a string from it would be nice.
+~
+48 8 0
+D2
+~
+~
+0 0 4811
+S
+#4808
+Hall~
+   Although the area is dark, you can see walls on both sides of
+you. You realize you are standing in a hall in the Doss Building.
+~
+48 8 0
+D0
+~
+~
+0 0 4804
+D1
+~
+~
+0 0 4809
+D2
+~
+~
+0 0 4812
+S
+#4809
+Hall~
+   Although the area is dark, you can see walls on both sides of
+you. You realize you are standing in a hall in the Doss Building.
+~
+48 9 0
+D0
+~
+~
+0 0 4805
+D1
+~
+~
+0 0 4810
+D3
+~
+~
+0 0 4808
+S
+#4810
+Hall~
+   Although the area is dark, you can see walls on both sides of
+you. You realize you are standing in a hall in the Doss Building.
+~
+48 9 0
+D0
+~
+~
+0 0 4806
+D1
+~
+~
+0 0 4811
+D2
+~
+~
+0 0 4814
+D3
+~
+~
+0 0 4809
+S
+#4811
+Office~
+   Because you've always wondered what the conductor's office
+looked like, you gingerly tiptoe into it since she left it unlocked.  At
+first you notice the tick tock of her metronome, which is sitting
+on a desk.  It still keeps time even though no music is playing
+now. 
+~
+48 9 0
+D0
+~
+~
+0 0 4807
+D3
+~
+~
+0 0 4810
+S
+#4812
+Decorated Hallway~
+   You are in a long hallway which leads to the workrooms where
+musician's instruments are fine-tuned by skilled craftsmen.  The
+walls of this hallway have been decorated with a mosaic of music
+with various notes.
+~
+48 9 0
+D0
+~
+~
+0 0 4808
+D2
+~
+~
+0 0 4816
+S
+#4813
+Hall~
+   Although the area is dark, you can see walls on both sides of
+you. You realize you are standing in a hall in the Doss Building.
+~
+48 9 0
+D1
+~
+~
+0 0 4814
+D2
+~
+~
+0 0 4817
+D4
+~
+~
+0 0 4820
+S
+#4814
+Hall~
+   Although the area is dark, you can see walls on both sides of
+you. You realize you are standing in a hall in the Doss Building.
+~
+48 9 0
+D0
+~
+~
+0 0 4810
+D1
+~
+~
+0 0 4815
+D2
+~
+~
+0 0 4818
+D3
+~
+~
+0 0 4813
+S
+#4815
+Strings Room~
+   Various makes of cellos and violins line the shelves of this
+storage room.  To your surprise, one of the cello bows has been
+animated, apparently by a student who used to be a mage.
+As you look above the door, you notice a small warning sign.
+~
+48 9 0
+D2
+~
+~
+0 0 4819
+D3
+~
+~
+0 0 4814
+S
+#4816
+Janitor's Closet~
+   You distinctly remember misplacing a piece of music that you
+had composed earlier in the day.  Looking around the room, you
+notice all of the janitor's supplies, including his mop, his
+broom, and a trash can.  Wonder if the janitor picked up your 
+music and accidentally threw it away?
+~
+48 9 0
+D0
+~
+~
+0 0 4812
+S
+#4817
+Choir Room~
+   The choir room.  You recognize this room as you have practiced
+many times in it trying to get those harmonies right.  You see 
+various awards, plaques, and certificates as well as posters from
+musicals lining the walls, but the object you are most interested
+in is inside a desk in the corner of the room.  Your director
+loved to use the pitch-pipe often to make sure that acappella 
+singers always had started on the right note.
+~
+48 9 0
+D0
+~
+~
+0 0 4813
+S
+#4818
+Practice Room~
+   You have entered a rather small cubicle barely large enough 
+to hold three students at the most.  A frustrated student is 
+here, picking away at her guitar.  That scowl on her face
+tells you that she is not exactly pleased with how her practice
+session is going.  I wouldn't disturb her if I were you.
+~
+48 9 0
+D0
+~
+~
+0 0 4814
+S
+#4819
+Winds Room~
+   Various woodwind instruments in their cases fill the shelves
+of this storage room.  As you look around the room, you notice that
+an oboe has been animated.  You notice a warning sign above the
+door, and you chuckle as you look at the oboe.
+~
+48 9 0
+D0
+~
+~
+0 0 4815
+S
+#4820
+Doors Doors Doors......~
+   As you stand in this passageway, you are boggled at the number
+of doors and exits in all directions.  Oh which way should you go?
+Only one way to find out.  Let's see what's behind door #1....
+~
+48 9 0
+D0
+~
+~
+0 0 4826
+D1
+~
+~
+0 0 4826
+D2
+~
+~
+0 0 4826
+D3
+~
+~
+0 0 4826
+D4
+~
+~
+0 0 4826
+D5
+~
+~
+0 0 4826
+D6
+~
+~
+0 0 4826
+D7
+~
+~
+0 0 4826
+D8
+~
+~
+0 0 4826
+D9
+~
+~
+0 0 4826
+S
+#4821
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D1
+~
+~
+0 0 4822
+D2
+~
+~
+0 0 4825
+S
+#4822
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D1
+~
+~
+0 0 4823
+D3
+~
+~
+0 0 4821
+S
+#4823
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D1
+~
+~
+0 0 4824
+D3
+~
+~
+0 0 4822
+S
+#4824
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D2
+~
+~
+0 0 4828
+D3
+~
+~
+0 0 4823
+S
+#4825
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D0
+~
+~
+0 0 4821
+D2
+~
+~
+0 0 4829
+S
+#4826
+Hall~
+   As you stand in this dark hall, you quietly remark to yourself
+that these buildings seem to be full of hallways.  Problem is you
+never know where they lead to either.  You wonder what test awaits
+you on this floor.
+~
+48 9 0
+D1
+~
+~
+0 0 4827
+S
+#4827
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D2
+~
+~
+0 0 4831
+D3
+~
+~
+0 0 4826
+S
+#4828
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D0
+~
+~
+0 0 4824
+D2
+~
+~
+0 0 4832
+S
+#4829
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D0
+~
+~
+0 0 4825
+D1
+~
+~
+0 0 4830
+S
+#4830
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D1
+~
+~
+0 0 4831
+D3
+~
+~
+0 0 4829
+S
+#4831
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D0
+~
+~
+0 0 4827
+D3
+~
+~
+0 0 4830
+S
+#4832
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D0
+~
+~
+0 0 4828
+D2
+~
+~
+0 0 4836
+S
+#4833
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D1
+~
+~
+0 0 4834
+D4
+~
+~
+0 0 4849
+S
+#4834
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D1
+~
+~
+0 0 4835
+D3
+~
+~
+0 0 4833
+S
+#4835
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D1
+~
+~
+0 0 4836
+D3
+~
+~
+0 0 4834
+S
+#4836
+Hall~
+   As you walk into this room, you notice something very 
+strange.  The floor has disappeared!  Sure hope you can fly.
+Strange flapping and squeaking noises can be heard around you.
+~
+48 9 0
+D0
+~
+~
+0 0 4832
+D3
+~
+~
+0 0 4835
+S
+#4837
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4849
+D1
+~
+~
+0 0 4838
+D2
+~
+~
+0 0 4841
+D3
+~
+~
+0 0 4840
+S
+#4838
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4850
+D1
+~
+~
+0 0 4839
+D2
+~
+~
+0 0 4842
+D3
+~
+~
+0 0 4837
+S
+#4839
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4851
+D1
+~
+~
+0 0 4840
+D2
+~
+~
+0 0 4843
+D3
+~
+~
+0 0 4838
+S
+#4840
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4852
+D1
+~
+~
+0 0 4837
+D2
+~
+~
+0 0 4844
+D3
+~
+~
+0 0 4839
+D4
+~
+~
+0 0 4853
+S
+#4841
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4837
+D1
+~
+~
+0 0 4842
+D2
+~
+~
+0 0 4845
+D3
+~
+~
+0 0 4844
+S
+#4842
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4838
+D1
+~
+~
+0 0 4843
+D2
+~
+~
+0 0 4846
+D3
+~
+~
+0 0 4841
+S
+#4843
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4839
+D1
+~
+~
+0 0 4844
+D2
+~
+~
+0 0 4847
+D3
+~
+~
+0 0 4842
+S
+#4844
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth notes,
+and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4840
+D1
+~
+~
+0 0 4841
+D2
+~
+~
+0 0 4848
+D3
+~
+~
+0 0 4843
+S
+#4845
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4841
+D1
+~
+~
+0 0 4846
+D2
+~
+~
+0 0 4849
+D3
+~
+~
+0 0 4848
+S
+#4846
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4842
+D1
+~
+~
+0 0 4847
+D2
+~
+~
+0 0 4850
+D3
+~
+~
+0 0 4845
+S
+#4847
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4843
+D1
+~
+~
+0 0 4848
+D2
+~
+~
+0 0 4851
+D3
+~
+~
+0 0 4846
+S
+#4848
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4844
+D1
+~
+~
+0 0 4845
+D2
+~
+~
+0 0 4852
+D3
+~
+~
+0 0 4847
+S
+#4849
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4845
+D1
+~
+~
+0 0 4850
+D2
+~
+~
+0 0 4837
+D3
+~
+~
+0 0 4852
+S
+#4850
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4846
+D1
+~
+~
+0 0 4851
+D2
+~
+~
+0 0 4838
+D3
+~
+~
+0 0 4849
+S
+#4851
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4847
+D1
+~
+~
+0 0 4852
+D2
+~
+~
+0 0 4839
+D3
+~
+~
+0 0 4850
+S
+#4852
+Sheet of Music~
+   Measures and measures of half notes, quarter notes, eighth
+notes, and sixteenth notes in 3/4 time line these hallways.  You even find
+yourself humming the tunes you see.  Some building designers went
+through great pains so you didn't have to walk down a boring
+hallway while you walked toward your test.
+~
+48 9 0
+D0
+~
+~
+0 0 4848
+D1
+~
+~
+0 0 4849
+D2
+~
+~
+0 0 4840
+D3
+~
+~
+0 0 4851
+S
+#4853
+Top of the Page~
+   Well, you finally made it to the top of the sheet music in time
+to earn your recorder.  As you hit the top, you notice a sickly,
+obnoxious tune coming from a corner of the room.  As you look,
+you notice another animated instrument.  This time it is a 
+recorder holding your recorder.  And who ever said Bardic College
+students didn't have a sense of humor.
+~
+48 9 0
+D2
+~
+~
+0 0 4700
+D5
+~
+~
+0 0 4840
+S
+#4854
+In a Field behind the Colleges~
+   You have just been transported to a small, wooded area behind
+the Bardic Colleges.  To your east you can barely make out the
+outline of five buildings.  All you can see are trees in the other
+directions.  You can see the lights of will 'o wisps faintly
+in the distance.  You proceed with caution through the woods.
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4855
+S
+#4855
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of 
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4856
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4867
+S
+#4856
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of 
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4857
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4867
+S
+#4857
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4858
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4867
+S
+#4858
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of 
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4859
+S
+#4859
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4860
+S
+#4860
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of 
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4861
+D3
+~
+~
+0 0 4867
+S
+#4861
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4862
+D3
+~
+~
+0 0 4867
+S
+#4862
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of 
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4863
+S
+#4863
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4864
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4867
+S
+#4864
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of 
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4865
+S
+#4865
+Path Through the Trees~
+   As you walk down this path, you can see flickering lights of
+will 'o wisps every once in awhile.  You try to stick to the main
+path, but their beams attract your attention, beckoning you
+toward them.  Be careful!
+~
+48 8 0
+D0
+~
+~
+0 0 4867
+D1
+~
+~
+0 0 4867
+D2
+~
+~
+0 0 4867
+D3
+~
+~
+0 0 4866
+S
+#4866
+Standing at the Well~
+   A large well stands in front of you, but to enter it you must
+go down through the iron grate covering the well.  Unfortunately,
+you must find the key first to unlock it.  A large will 'o wisp
+stands before you blocking your way to the well.  Hmmmm....Wonder
+who has that key?
+~
+48 8 0
+D5
+~
+~
+0 0 4868
+S
+#4867
+The Trap of the Will 'o Wisps~
+   Wow!  As you gaze in awe at the beautiful lights of the 
+will 'o wisps, you mechanically follow them into this trap.
+Uh oh!  Now you are stuck in their trap until you can 
+figure a way out of it.
+~
+48 8 0
+S
+#4868
+Down the Well~
+   Well, you finally got that key off the will 'o wisp and began
+climbing down the well.  As you descend you notice a strong wind
+here that seems to hold you in the air.  As you look down at your
+feet, you find that you are indeed being held up in the air by
+the winds.  The winds support you, but are not strong enough to 
+carry you around the well.  You realize you must discover another
+way to move around here.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4869
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4869
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4868
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4870
+D5
+~
+~
+0 0 4886
+S
+#4870
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4871
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4869
+S
+#4871
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4870
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4872
+S
+#4872
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4873
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4871
+D5
+~
+~
+0 0 4886
+S
+#4873
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4874
+D2
+~
+~
+0 0 4872
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4874
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4875
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4873
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4875
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4876
+D3
+~
+~
+0 0 4874
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4876
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4875
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4877
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4877
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4878
+D1
+~
+~
+0 0 4876
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4878
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4879
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4877
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4879
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4878
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4880
+D5
+~
+~
+0 0 4886
+S
+#4880
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4881
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4879
+S
+#4881
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4880
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4882
+S
+#4882
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4885
+D2
+~
+~
+0 0 4883
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4881
+D5
+~
+~
+0 0 4886
+S
+#4883
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  Harpies fly out
+of nowhere and swoop down at you, anxious to make a meal out
+of you.  They seem to know their way around this place.
+~
+48 9 0
+D0
+~
+~
+0 0 4882
+D1
+~
+~
+0 0 4884
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4885
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4884
+At the Edge of the Well~
+   As you hover in the air supported by the winds, you notice that
+you are at the edge of the well.  You move your hands along the
+wall and realize that a few of the stones loosen under your
+fingers.  Could this be the way out?
+~
+48 9 0
+D0
+~
+~
+0 0 4885
+D1
+~
+~
+0 0 4888
+D2
+~
+~
+0 0 4885
+D3
+~
+~
+0 0 4883
+D4
+~
+~
+0 0 4885
+D5
+~
+~
+0 0 4886
+S
+#4885
+In the Well Maze~
+   The winds are strong enough in this well to support you in
+midair, but not to carry you around the well.  As harpies 
+swooped down on you, you ran off the path.  Now you are 
+trapped until you can figure out how to get out of here.
+~
+48 13 0
+S
+#4886
+Pulled toward a Vortex~
+   The winds begin picking up here, getting stronger the further down 
+you go.  You get the feeling that you have gone down too far and that
+you should turn back.
+~
+48 8 0
+D4
+~
+~
+0 0 4875
+D5
+~
+~
+0 0 4887
+S
+#4887
+Sucked into a Vortex~
+   Strong winds have sucked you into a vortex.  Your body implodes 
+into nothingness.  AAAIIIIIIYYYYYYEEEEEEEE!! 
+*SPLUTCH!*
+So long....
+Farewell...
+Auf Weidersehen
+Goodbye....
+You hate to go, but you have just died!
+~
+48 10 0
+D4
+~
+~
+0 0 4886
+S
+#4888
+Underground Tunnel~
+   As you crawl through this crude underground tunnel, you notice
+that the walls are barely wide enough to let you through.  You
+hope that the floor is covered with dirt, as you cannot see a 
+thing in this tunnel and your hands and knees are caked with a 
+sandy, muddy substance.
+~
+48 13 0
+D1
+~
+~
+0 0 4889
+S
+#4889
+Underground Tunnel~
+   As you crawl through this crude underground tunnel, you notice
+that the walls are barely wide enough to let you through.  You
+hope that the floor is covered with dirt, as you cannot see a 
+thing in this tunnel and your hands and knees are caked with a 
+sandy, muddy substance.
+~
+48 13 0
+D0
+~
+~
+0 0 4890
+S
+#4890
+Underground Tunnel~
+   As you crawl through this crude underground tunnel, you notice
+that the walls are barely wide enough to let you through.  You
+hope that the floor is covered with dirt, as you cannot see a 
+thing in this tunnel and your hands and knees are caked with a 
+sandy, muddy substance.
+~
+48 13 0
+D1
+~
+~
+0 0 4891
+S
+#4891
+Head-to-Head with Ilwar's Bodyguard~
+   You crawl through the snug underground tunnel, but you begin
+noticing the tunnel is not quite as snug.  At first you can kneel,
+then you can crouch, then you can barely stand, and finally you can
+walk freely.  With this newfound freedom, you leap and jump and skip
+and run through the passage, only to run smack into Ilwar's bodyguard.
+He grunts and snorts angrily as he looks down at what little
+creature has ruined his nap.  He rolls on the floor laughing at
+you, then flexes his muscles once before he hits you.
+~
+48 9 0
+D1
+~
+~
+0 0 4892
+D3
+~
+~
+0 0 4890
+S
+#4892
+The Flute Master's Workshop~
+   Stepping through the door, you find yourself inside of Ilwar
+the flute master's workshop.  The small, gnome-like creature sits
+at a stone table in the middle of the room putting the finishing
+touches on a shiny silver flute.  Noticing your presence, he
+glances up from his work and glares angrily at you.  "How dare
+you disturb me while I'm creating," he says.  "For that, I'll
+have to charge you double what I normally charge for these
+flutes!"  With a hrmph, he goes back to his work.  Ilwar has
+always been known for his friendliness.
+~
+48 25 0
+D3
+~
+~
+0 0 4891
+D4
+~
+~
+0 0 4700
+S
+#4893
+Standing inside the Cli College Building~
+   You are standing inside the Cli Building, which seems more like a
+gymnasium than anything.  A series of tests with battle masters await
+you to the north, but first you must get past the shmuck blocking your
+way into the practice areas.  Too bad he doesn't seem like the most
+helpful person around.
+~
+48 8 0
+D0
+~
+~
+0 0 4894
+S
+#4894
+Practice Room - Dagger~
+   The room is full of curvy knives, each different, each special. Many
+many different ways can the Master of the Dagger cut and slice you.
+~
+48 8 0
+D0
+~
+~
+0 0 4895
+D2
+~
+~
+0 0 4893
+S
+#4895
+Practice Room - Staff~
+   Around this large hall is a large assortment of sticks and staves, bo
+sticks, jo sticks and clubs, and with them the Master will teach you the
+subtleties of bruises.
+~
+48 8 0
+D0
+~
+~
+0 0 4896
+D2
+~
+~
+0 0 4894
+S
+#4896
+Practice Room - Short Sword~
+   The room is filled with short swords from all over the lands. Each one
+is a compact weapon, larger than a mere dagger but short enough to be wielded
+comfortably in one hand. From behind a shield a skilled combatant could
+fight all day and not be tired.
+~
+48 8 0
+D0
+~
+~
+0 0 4897
+D2
+~
+~
+0 0 4895
+S
+#4897
+Practice Room - Long Sword~
+   The room is filled with great longswords of various styles and ages.
+With them, the Master teaches his pupils the Discipline of Steel.
+~
+48 8 0
+D0
+~
+~
+0 0 4898
+D2
+~
+~
+0 0 4896
+S
+#4898
+Practice Room - Mace~
+   The room is hung with spiky maces and morningstars, each powerful weapons
+that crush armor and lay men low.
+~
+48 8 0
+D0
+~
+~
+0 0 4899
+D2
+~
+~
+0 0 4897
+S
+#4899
+Practice Room - Bastard Sword~
+   The hand and a half sword takes discipline; the blade must be hefted by 
+a strong arm. You admire the many impressive weapons that stand in racks
+and places of honor, then realize that you may not be as strong of arm as
+the Master...
+~
+48 8 0
+D0
+~
+~
+0 0 4900
+D2
+~
+~
+0 0 4898
+S
+#99999
+$~

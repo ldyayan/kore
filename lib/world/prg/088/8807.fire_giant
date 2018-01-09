@@ -1,0 +1,5 @@
+>fight_prog 15~
+  mpecho You are blasted by the fire from the mouth of $I!
+  mpdamage all 3d8+20
+~
+|

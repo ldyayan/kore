@@ -1,0 +1,1302 @@
+#11300
+idea room for shyft~
+garden to backyard
+backyard to stables
+stables to hidden lab
+lab to dungeon
+dungeon to underground
+~
+113 393280 0
+S
+#11301
+A Hole in the Garden Wall~
+You are in an unfinished room.
+~
+113 4 3
+D2
+~
+~
+0 0 18438
+D3
+~
+~
+0 0 11302
+S
+#11302
+Through the Underbrush~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11301
+D3
+~
+~
+0 0 11303
+S
+#11303
+A Horsetrodden Path~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11302
+D2
+~
+~
+0 0 11305
+D3
+~
+~
+0 0 11304
+S
+#11304
+By a Fallen Stone Structure~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11303
+D3
+~
+stones~
+1 0 11312
+S
+#11305
+A Horsetrodden Path~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11303
+D2
+~
+~
+0 0 11306
+S
+#11306
+A Bend in the Path~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11305
+D1
+~
+~
+0 0 11307
+S
+#11307
+The Signpost~
+You are in an unfinished room.
+~
+113 0 0
+D2
+~
+~
+0 0 11308
+D3
+~
+~
+0 0 11306
+S
+#11308
+Outside the Stables~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11307
+D2
+~
+~
+0 0 11309
+S
+#11309
+The Stables~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11308
+D1
+~
+~
+0 0 11311
+D3
+~
+~
+0 0 11310
+S
+#11310
+West Wing of the Stables~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11309
+S
+#11311
+East Wing of the Stables~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+~
+0 0 11309
+D5
+~
+trapdoor~
+1 0 11313
+S
+#11312
+The Top of a Sloping Sinkhole~
+You are in an unfinished room.
+~
+113 1 0
+D1
+~
+stones~
+1 0 11304
+D5
+~
+~
+0 0 11346
+S
+#11313
+A Damp Cobblestone Cellar~
+You are in an unfinished room.
+~
+113 13 0
+D2
+~
+~
+0 0 11314
+D4
+~
+trapdoor~
+1 0 11311
+S
+#11314
+The Center of the Cellar~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11313
+D2
+~
+~
+0 0 11315
+S
+#11315
+The Rear of the Cellar~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11314
+D3
+~
+~
+0 0 11316
+S
+#11316
+A Small Crawlspace~
+You are in an unfinished room.
+~
+113 4 0
+D1
+~
+~
+0 0 11315
+D3
+~
+~
+0 0 11317
+S
+#11317
+A Torchlit Junction~
+You are in an unfinished room.
+~
+113 4 0
+D1
+~
+~
+0 0 11316
+D2
+~
+~
+0 0 11324
+D3
+~
+~
+0 0 11318
+S
+#11318
+A Muddy Corridor~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11317
+D3
+~
+~
+0 0 11319
+S
+#11319
+A Muddy Domed Chamber~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11318
+D5
+~
+~
+0 0 11320
+S
+#11320
+Down a Muddy Hole~
+You are in an unfinished room.
+~
+113 0 0
+D4
+~
+~
+0 0 11319
+D5
+~
+~
+0 0 11321
+S
+#11321
+Further Down a Muddy Hole~
+You are in an unfinished room.
+~
+113 0 0
+D4
+~
+~
+0 0 11320
+D5
+~
+~
+0 0 11322
+S
+#11322
+Near the Bottom of a Muddy Hole~
+You are in an unfinished room.
+~
+113 0 0
+D4
+~
+~
+0 0 11321
+D5
+~
+~
+0 0 11323
+S
+#11323
+A Room Filled with Bat Guano~
+You are in an unfinished room.
+~
+113 0 0
+D4
+~
+~
+0 0 11322
+S
+#11324
+A Well Lit Passage~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11317
+D2
+~
+~
+0 0 11326
+S
+#11325
+West Side of the Lab~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11326
+D2
+~
+~
+0 0 11328
+S
+#11326
+Entrance to the Hidden Laboratory~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11324
+D1
+~
+~
+0 0 11327
+D2
+~
+~
+0 0 11330
+D3
+~
+~
+0 0 11325
+S
+#11327
+East Side of the Lab~
+You are in an unfinished room.
+~
+113 0 0
+D2
+~
+~
+0 0 11329
+D3
+~
+~
+0 0 11326
+S
+#11328
+Western Alcove~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11325
+D1
+~
+~
+0 0 11330
+D2
+~
+wooden door~
+1 113 11390
+S
+#11329
+Eastern Alcove~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11327
+D3
+~
+~
+0 0 11330
+S
+#11330
+Malchot's Worktable~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11326
+D1
+~
+~
+0 0 11329
+D2
+~
+~
+0 0 11331
+D3
+~
+~
+0 0 11328
+S
+#11331
+Southern Alcove~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11330
+D2
+~
+~
+0 0 11332
+D4
+~
+~
+0 0 11334
+S
+#11332
+An Iron Metal Spiral Staircase~
+You are in an unfinished room.
+~
+113 4 0
+D0
+~
+~
+0 0 11331
+D5
+~
+~
+0 0 11333
+S
+#11333
+A Musty Hallway~
+You are in an unfinished room.
+~
+113 4 0
+D2
+~
+~
+0 0 11335
+D4
+~
+~
+0 0 11332
+S
+#11334
+An Elevated Workspace~
+You are in an unfinished room.
+~
+113 4 0
+D5
+~
+~
+0 0 11331
+S
+#11335
+A Dark Stone Corridor~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11333
+D2
+~
+~
+0 0 11336
+S
+#11336
+A Dark Stone Corridor~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11335
+D1
+~
+bars~
+2 113 11340
+D2
+~
+~
+0 0 11337
+S
+#11337
+A Dark Stone Corridor~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11336
+D1
+~
+bars~
+2 113 11341
+D2
+~
+~
+0 0 11338
+S
+#11338
+A Dark Stone Corridor~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11337
+D1
+~
+bars~
+2 113 11342
+D2
+~
+~
+0 0 11339
+S
+#11339
+A Dark Stone Corridor~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11338
+D1
+~
+~
+0 0 11343
+S
+#11340
+Cell I~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+bars~
+2 113 11336
+S
+#11341
+Cell II~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+bars~
+2 113 11337
+S
+#11342
+Cell III~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+bars~
+2 113 11338
+S
+#11343
+A Dark Stone Corridor~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11344
+D3
+~
+~
+0 0 11339
+S
+#11344
+A Deteriorated Hallway~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11345
+D3
+~
+~
+0 0 11343
+S
+#11345
+A Crumbling Passage~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11346
+D3
+~
+~
+0 0 11344
+S
+#11346
+A Sloping Gully~
+You are in an unfinished room.
+~
+113 4 0
+D3
+~
+~
+0 0 11345
+D5
+~
+sinkhole~
+1 0 11347
+S
+#11347
+A Large Natural Cavern~
+You are in an unfinished room.
+~
+113 1 0
+D2
+~
+~
+0 0 11348
+D4
+~
+sinkhole~
+1 0 11346
+S
+#11348
+A Large Natural Cavern~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11347
+D1
+~
+~
+0 0 11350
+D2
+~
+~
+0 0 11349
+S
+#11349
+A Large Natural Cavern~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11348
+D2
+~
+~
+0 0 11353
+S
+#11350
+Start of a Narrow Burrow~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11351
+D3
+~
+~
+0 0 11348
+S
+#11351
+Crawling Through the Burrow~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11352
+D3
+~
+~
+0 0 11350
+S
+#11352
+End of the Burrow~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+~
+0 0 11351
+S
+#11353
+A Natural Crystal Stairway~
+You are in an unfinished room.
+~
+113 4 0
+D0
+~
+~
+0 0 11349
+D5
+~
+~
+0 0 11354
+S
+#11354
+A Crystal Lined Hallway~
+You are in an unfinished room.
+~
+113 0 0
+D2
+~
+~
+0 0 11355
+D4
+~
+~
+0 0 11353
+S
+#11355
+A Crystal Lined Hallway~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11354
+D7
+~
+~
+0 0 11358
+D8
+~
+~
+0 0 11357
+S
+#11356
+A Chamber Filled with Tiny Crystals~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11357
+D2
+~
+~
+0 0 11360
+S
+#11357
+A Phosphorescent Passage~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+~
+0 0 11356
+D6
+~
+~
+0 0 11355
+S
+#11358
+Near the Blue Nimbus~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11359
+D9
+~
+~
+0 0 11355
+S
+#11359
+A Hallway Lined with Glowing Blue Quartz~
+You are in an unfinished room.
+~
+113 0 0
+D2
+~
+~
+0 0 11361
+D3
+~
+~
+0 0 11358
+S
+#11360
+A Chamber Filled with Tiny Crystals~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11356
+D2
+~
+~
+0 0 11362
+S
+#11361
+A Hallway Lined with Glowing Blue Quartz~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11359
+D2
+~
+~
+0 0 11365
+S
+#11362
+A Chamber Filled with Tiny Crystals~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11360
+D1
+~
+~
+0 0 11363
+S
+#11363
+A Chamber Filled with Tiny Crystals~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+~
+0 0 11362
+D7
+~
+~
+0 0 11366
+S
+#11364
+A Hallway Lined with Glowing Blue Quartz~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11365
+D7
+~
+~
+0 0 11366
+S
+#11365
+A Hallway Lined with Glowing Blue Quartz~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11361
+D3
+~
+~
+0 0 11364
+S
+#11366
+A Sloping Crystalline Drawbridge~
+You are in an unfinished room.
+~
+113 4 0
+D1
+~
+~
+0 0 11369
+D3
+~
+~
+0 0 11367
+D5
+~
+~
+0 0 11368
+D6
+~
+~
+0 0 11364
+D9
+~
+~
+0 0 11363
+S
+#11367
+A Glittering Passage~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11366
+D2
+~
+~
+0 0 11371
+S
+#11368
+On the Crystalline Drawbridge~
+You are in an unfinished room.
+~
+113 4 0
+D2
+~
+massive shard~
+1 11344 11374
+D4
+~
+~
+0 0 11366
+S
+#11369
+A Glittering Passage~
+You are in an unfinished room.
+~
+113 0 0
+D2
+~
+~
+0 0 11372
+D3
+~
+~
+0 0 11366
+S
+#11370
+A Glittering Passage~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11371
+S
+#11371
+A Glittering Passage~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11367
+D3
+~
+~
+0 0 11370
+S
+#11372
+A Glittering Passage~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11369
+D1
+~
+~
+0 0 11373
+S
+#11373
+A Glittering Passage~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+~
+0 0 11372
+S
+#11374
+A Vaulted Hallway~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+massive shard~
+1 11344 11368
+D2
+~
+~
+0 0 11375
+S
+#11375
+A Vaulted Hallway~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11374
+D2
+~
+~
+0 0 11376
+S
+#11376
+A Vaulted Hallway~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11375
+D2
+~
+~
+0 0 11377
+S
+#11377
+A Vaulted Hallway~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11376
+D2
+~
+~
+0 0 11379
+S
+#11378
+Western Alcove~
+You are in an unfinished room.
+~
+113 0 0
+D1
+~
+~
+0 0 11379
+S
+#11379
+A Huge Domed Chamber~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+~
+0 0 11377
+D1
+~
+~
+0 0 11380
+D3
+~
+~
+0 0 11378
+D4
+~
+~
+0 0 11381
+S
+#11380
+Eastern Alcove~
+You are in an unfinished room.
+~
+113 0 0
+D3
+~
+~
+0 0 11379
+S
+#11381
+The Broodmother's Platform~
+You are in an unfinished room.
+~
+113 0 0
+D5
+~
+~
+0 0 11379
+S
+#11382
+redit 11382~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11383
+redit 11383~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11384
+redit 11384~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11385
+redit 11385~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11386
+redit 11386~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11387
+redit 11387~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11388
+redit 11388~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11389
+redit 11389~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11390
+The Library~
+You are in an unfinished room.
+~
+113 0 0
+D0
+~
+wooden door~
+1 113 11328
+D4
+~
+~
+0 0 11391
+S
+#11391
+The Library, Second Floor~
+You are in an unfinished room.
+~
+113 0 0
+D4
+~
+~
+0 0 11392
+D5
+~
+~
+0 0 11390
+S
+#11392
+The Library, Third Floor~
+You are in an unfinished room.
+~
+113 0 0
+D5
+~
+~
+0 0 11391
+S
+#11393
+redit 11393~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11394
+redit 11394~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11395
+redit 11395~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11396
+redit 11396~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11397
+redit 11397~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11398
+redit 11398~
+You are in an unfinished room.
+~
+113 0 0
+S
+#11399
+redit 11399~
+You are in an unfinished room.
+~
+113 0 0
+S
+#99999
+$~

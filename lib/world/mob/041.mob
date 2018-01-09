@@ -1,0 +1,92 @@
+#4100
+mage~
+the mage~
+A small intelligent looking mage is standing here.
+~
+His IQ makes almost any normal person look stupid...
+It looks like he knows his way with magic.
+~
+47 1032 -100 S
+13 10 2 3d20+100 2d6+0
+0 21000
+8 8 1
+#4101
+troll~
+the troll~
+A large mean-looking troll is here.
+~
+Well, it looks dangerous!
+~
+46 1024 -800 S
+12 8 1 2d10+100 2d7+1
+0 13000
+8 8 1
+#4102
+snake~
+the snake~
+A large green snake is here, looks like a guardian for an evil force.
+~
+You see a evil creature.
+~
+47 1024 -700 S
+10 8 5 6d10+50 3d5+2
+0 9000
+8 8 1
+#4103
+thief~
+the thief~
+A thief is here, all dressed in black.
+~
+He seems to be counting a handful of coins.  Maybe you ought to count YOUR
+gold too...
+~
+77 787464 -400 S
+8 13 3 1d10+100 2d5+2
+0 4000
+8 8 1
+#4104
+orc ugly~
+the orc~
+A ugly orc is standing here.
+~
+It is quite disgusting to look at.
+~
+236 33800 -200 S
+7 14 4 1d5+90 2d4+1
+0 2250
+8 8 1
+#4105
+centipede~
+the centipede~
+A small harmless centipede is here.
+~
+Well it doesn't seem to pay any attention to you.
+~
+10 0 300 S
+6 15 4 3d10+50 1d8+1
+0 1500
+8 8 0
+#4106
+warrior~
+the warrior~
+A human warrior is here.  He has a evil grin in his face.
+~
+He doesn't look friendly at all...
+~
+108 1024 -300 S
+20 5 3 3d10+100 2d6+2
+0 9000
+8 8 1
+#4107
+kobold~
+the kobold~
+A green kobold is here.
+~
+It looks slimy..
+~
+108 1024 -100 S
+7 14 4 4d10+25 1d9+1
+0 3000
+8 8 1
+#99999
+$~

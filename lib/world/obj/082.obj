@@ -1,0 +1,646 @@
+#8200
+chain hook silver~
+a heavy chain of silver~
+A chain made of silver, with a nasty hook lies here!~
+A long chain made of silver with a set of silver spiked balls about three
+inches in diameter.
+~
+5 143 8193
+120 1000 20 12
+0 0 0
+A
+19 50
+A
+18 50
+A
+3 -10
+B
+65664 0
+S
+72 59 100
+S
+72 59 100
+S
+72 59 100
+#8201
+small rat skull chain~
+a small rat skull chain~
+A small wristlet made of rat skulls tied together lies here.~
+~
+9 8400976 4097
+-1 0 0 0
+6 0 0
+E
+rat skull chain bracelet~
+A small chain with rat skulls attached to it.  The chain is metal 
+but has a green look to it.  The skulls are small and jiggle when
+you move it.
+~
+A
+2 1
+A
+19 3
+A
+5 -2
+A
+6 -3
+#8202
+moonstone hammer~
+a ^Wmoon^Bstone^N hammer~
+A hammer with a long shaft lies here.~
+~
+5 1070107 8193
+7 7 6 12
+18 0 0
+E
+moonstone hammer~
+It has a perfect moonstone set atop the length of bow-wood. You watch as
+stone shift from white to a pale blue.
+~
+B
+32 0
+#8203
+boots rotha hide~
+a pair of rotha hide boots~
+A pair of rotha hide boots are lying here.~
+~
+9 8389704 65
+-3 0 0 0
+3 0 0
+E
+rotha hide boots~
+These boots are made from the hide of the subterranean herd beast, the rotha.
+They appear to be soft yet durable.
+~
+A
+2 1
+A
+13 30
+#8204
+mithril pickaxe~
+a mithril pickaxe~
+You notice a bloody mithril pickaxe here.~
+~
+5 67112449 8192
+15 9 9 9
+2 0 0
+A
+19 7
+#8205
+dragon tooth staff~
+a dragon tooth staff~
+A long pole with a dragon's tooth imbedded in it lies here.~
+~
+5 67108865 8192
+5 5 8 11
+0 0 0
+A
+19 20
+#8206
+stone fist~
+a stone fist~
+Weapon~
+~
+5 67108864 0
+20 10 7 6
+15 0 0
+A
+19 15
+S
+73 100 3
+S
+149 50 10
+S
+23 50 10
+#8207
+mithril rune ring ~
+a mithril runed ring~
+A splendid ring made of mithril is here.~
+~
+9 10498152 3
+0 0 0 0
+1 10000 0
+E
+mithirl rune ring~
+A small mithril ring with runes carved into its outside.  The ring
+seems to pulse with power, and the runes glow with a unworldly light.
+~
+A
+19 3
+A
+2 1
+A
+13 -30
+#8208
+mithril chain link vest~
+a ^wmithril^n chainlink vest~
+A mithril chainlink vest has been tossed aside here.~
+~
+9 9442368 9
+-15 0 0 0
+15 0 0
+E
+mithril chain link vest~
+A vest made from interwoven links of mithril.  It is extremely light
+and very strong.  This vest could stop an arrow from a long bow.
+And it's light weight makes it a great body wear.  
+~
+A
+19 3
+A
+13 25
+A
+1 -1
+A
+12 -45
+A
+14 -50
+#8209
+summon fire ~
+a summoning fire~
+A raging ^Ggreen^n fire blazes here!~
+A small fire burning with a unworldly green light is here in the center
+of the room. The fire is blazing but no heat is coming from it. Every
+once in a while you see a scene of another world through the fire. It
+would be VERY foolish to try to enter the portal.
+~
+27 0 0
+8279 0 0 0
+1 0 0
+E
+green fire~
+A small fire burning with a unworldly green light is here in the center of
+the room.  The fire is blazing but no heat is coming from it.  Every
+once in a while you see a scene of another world through the fire.
+~
+#8210
+emerald eye~
+an emerald eye of Entemoch~
+The emerald eye of a great elemental lies here.~
+~
+1 1049609 16385
+0 0 -1 0
+4 0 0
+E
+eye emerald~
+A large emerald, it is carved into an eye.  This is the eye from
+the great elemental Entemoch.  It has special powers and can light
+your way in the underdark.
+~
+A
+12 65
+A
+6 1
+A
+1 3
+B
+4096 0
+#8211
+mushroom stalk bow~
+a mushroom stalk bow~
+An odd looking bow made from the stalk of a mushroom is here.~
+~
+6 1049672 49153
+4 6 3 12
+6 0 0
+E
+mushroom stalk bow~
+A bow that is made from the heart of a underdark mushroom.  It is short
+and has alot of tension to it.  Even for its small size it looks very
+powerful.
+~
+A
+2 -1
+A
+19 3
+B
+1024 0
+#8212
+rotha hide gloves ~
+rotha hide gloves~
+A pair of rotha hide gloves lies here.~
+~
+9 1024 129
+-9 0 0 0
+0 0 0
+E
+rotha hide gloves~
+A pair of gloves made from the hide of a rotha beast. They are comfortable
+and soft, but durable.
+~
+A
+3 -3
+A
+4 -3
+A
+5 -3
+A
+13 20
+#8213
+silvery shield~
+a silver shield of Segojan~
+A silvery shield lies in the dust here.~
+~
+9 0 513
+-10 0 0 0
+16 0 0
+E
+silvery shield~
+It has the crest of Segojan on it, the fist of an elemental holding
+a green flame. It's larger than a buckler, but not by much.
+~
+A
+13 20
+A
+1 1
+A
+12 20
+#8214
+throne~
+a bejeweled throne~
+A throne made of many jewels sits here.~
+This small throne is covered in firestones, opals, and moonstones.  It also
+has many runes made of mithril enlayed in it.  It's an impressive sight.
+~
+8 0 0
+0 0 0 0
+20000 0 0
+E
+throne jewel~
+This small throne is covered in firestones, opals, and moonstones.  It also
+has many runes made of mithril enlayed in it.  It's an impressive sight.
+~
+#8215
+hook horror leggings~
+some hook horror leggings~
+A set of leggings made from the exoskeleton of a hook horror lie here.~
+~
+9 49345 33
+-10 0 0 0
+10 0 0
+E
+hook horror leggings~
+A set of leggings that came from a hook horror.  They are rusty '
+brown in color.  They are light and shiny, they look as if they have
+be polished.  These leggings are the remains of a hook horror 
+exoskeleton.
+~
+A
+13 20
+A
+12 20
+#8216
+Platinum face mask~
+a platinum facemask~
+A facemask made of platinum is here.~
+~
+9 1098754 262145
+-14 0 0 0
+8 0 0
+E
+platinum face mask~
+A platinum facemask made to protect the face in a fight.  This mask
+has holes for the eyes, mouth, and nose.  It's mouth is twisted  in
+a manical grin, and the eyes slant in.  The mask looks like it would
+fit in a ball just as well.  The mask is hard and would serve well 
+as a mask for protection.  It seems to eminate strength.
+~
+A
+13 15
+A
+12 15
+A
+1 2
+#8217
+rotha hide~
+a rotha hide~
+The large hide of a rotha beast is sitting here.~
+~
+9 1024 9
+-8 0 0 0
+3 0 0
+E
+rotha hide~
+It looks warm and comfortable.
+~
+A
+1 2
+A
+13 10
+A
+12 -20
+#8218
+basilisk arm apendage~
+a basilisk arm~
+A long arm from a basilisk~
+~
+5 1 8193
+5 6 6 8
+0 0 0 5000
+A
+19 6
+A
+13 23
+A
+3 9
+S
+62 110 3
+S
+162 20 5
+S
+33 50 6
+#8219
+wand of opening~
+a wand of opening~
+A wand that looks like it could open anything is here~
+~
+3 2097184 24577
+50 2 2 77
+0 0 0 3000
+B
+133120 0
+#8220
+steel grey potion~
+a steel grey potion~
+A glass bottle with a grey potion in it.~
+~
+10 1048576 16385
+10 1 54 68
+0 2800 0
+E
+potion~
+A glass bottle with a grey potion that is swirling in the bottle.
+~
+#8221
+potion pearl white~
+a pearl white potion~
+A potion of pearl white is here.~
+~
+10 64 16385
+20 29 0 0
+1 1500 0
+#8223
+ruby jem jewel stone~
+a small ruby~
+A small uncut ruby lies here.~
+A small ruby that hasn't been worked on yet. Perhaps you could sell it.
+~
+8 64 16385
+0 0 0 0
+1 800 0
+E
+ruby ~
+A small ruby that hasn't been cut yet!  It looks beautiful even
+in its uncut stage.
+~
+#8225
+quartz flask~
+a flask made of quartz~
+A flask hewn from quartz lies here.~
+~
+17 66569 1
+400 400 15 0
+1 12500 0
+E
+quartz flask~
+You see a flask of quartz with a cork stopper. The flask is heavy and quite
+large, and the workmenship is the best in the area. This container could
+a lot of liquid.
+~
+#8230
+stone hammer~
+a stone hammer~
+A hammer made of stone lies here.~
+A small hammer with a stone head.  Useful as a tool or a weapon.
+~
+5 1089 24577
+1 3 8 9
+24 0 0
+A
+3 -5
+A
+19 3
+#8240
+mithril key~
+a mithril key~
+A key made of mithril lays here.~
+A key made of mithril.  It appears to open somthing big.
+~
+18 44 1
+1 2 0 0
+18 0 0
+#8244
+shitty bow~
+Shitty bow~
+A shitty bow lies here.~
+~
+6 0 32769
+10 6 3 11
+0 0 0
+A
+19 2
+A
+18 2
+#8245
+shoddy iron key~
+a shoddy iron key~
+An iron key is concealed in the dirt.~
+~
+18 0 16385
+1 3 0 0
+1 0 0
+#8250
+screaming maiden mace obsidian~
+the obsidian mace 'screaming maiden'~
+A mace of obsidian sits here.~
+A mace of obsidian carved into the likness of a woman screaming.
+~
+5 513 8193
+9 12 5 6
+4 0 0
+E
+Screaming mace maiden obsidian~
+A mace made of obsidian shaped into the likness of a naked
+woman with a spiked collar, her head thrown back in a scream
+of unbelievible pain and torture.  If not for her visage, 
+the weapon would be beautiful.
+~
+A
+19 5
+A
+18 5
+B
+4096 0
+S
+8 50 20
+S
+117 50 5
+#8260
+pendant ruby 8260~
+a shiny ruby pendant-key~
+You notice a ruby pendant on the ground with a key attached.~
+~
+18 69 5
+1 1 0 0
+2 0 0
+E
+ruby pendant~
+A small ruby is attached to a silver chain, and a key dangles from the
+chain as well.
+~
+#8261
+sapphire stone blue~
+a small blue sapphire~
+A small blue sapphire lies here.~
+A small blue stone what is almost as clear as glass.
+~
+8 64 16385
+0 0 0 0
+1 800 0
+E
+sapphire~
+A small uncut sapphire, with a deep blue color.  It is a rare find.
+The gem is perfect, you can find no flaws in it's surface or depths.
+~
+#8262
+rubble pile rocks~
+a pile of rubble~
+A large pile of rubble lies scattered on the ground.~
+~
+12 0 1
+0 0 0 0
+500 0 0
+#8270
+symbol key~
+a small symbol of ^Gemerald^n and ^wmithril^n~
+A small symbol catches your eye.~
+~
+18 0 1
+1 1 0 0
+1 0 0
+E
+key hand mithril emerald symbol~
+A mithril ingot, chiseled into the likeness of a hand holding a perfect
+emerald with rays of light eminating from it, it is the symbol of the
+elmental god of earth, Segojan.
+~
+#8275
+mithril hammer~
+a mithril hammer~
+A mithril hammer lies here.~
+~
+5 67108865 1
+11 9 9 6
+1000 0 0
+A
+19 7
+#8280
+bracelet ruby encrusted~
+a ruby encrusted bracelet~
+A beautiful bracelet encrusted with many rubies lies here.~
+~
+8 0 4097
+0 0 0 0
+2 8000 0
+E
+ruby encrusted bracelet~
+You see a bracelet encrusted with rubies. The metal is likely silver, but
+there's so many rubies that it's hard to tell. It certainly is breath-taking,
+in any event.
+~
+A
+6 1
+#8282
+husk corpse carcass~
+a dried-out corpse~
+The drained carcass of a deep gnome is lying here.~
+~
+13 4 0
+0 0 0 0
+50 0 0 5
+E
+husk corpse carcass~
+It looks as if the gnome has been dead for years.
+~
+#8290
+opening portal barrier hole~
+an opening to the summoning circle~
+A opening into the summoning circle is here.~
+~
+27 0 0
+8278 0 0 0
+99999 0 0 3
+#8293
+honey wheat bread loaf~
+a loaf of honey wheat bread~
+A loaf of honey wheat lies here.~
+~
+19 0 1
+24 0 0 0
+0 180 0
+E
+honey wheat bread~
+A loaf of honey wheat bread.  The sweet smell of honey permeates the
+air and makes your stomache growl.  This loaf is still warm, and 
+soft.
+~
+#8295
+sapphire studded necklace~
+a sapphire studded necklace~
+A necklace studded with sapphires lies here.~
+~
+8 0 5
+0 0 0 0
+1 2000 0
+E
+sapphire studded necklace~
+This is a beautiful necklace with sapphires, three huge sapphires.  The 
+necklace appears to have been made by a master jewler.  The sapphire seems
+to catch the light no matter the angle and reflect it away from the wearer.
+A truly beautiful work of art.
+~
+A
+6 1
+#8296
+rothe steak meat~
+a rothe steak~
+A rothe steak is lying here.~
+~
+19 0 1
+12 0 0 0
+0 110 0
+E
+rothe steak meat~
+It's about an eight ounce portion of rothe meat.
+~
+#8297
+rothe stew bowl~
+a bowl of rothe stew~
+A bowl of some kind of meat stew sits here.~
+~
+19 0 1
+8 0 0 0
+4 80 0
+E
+rothe stew bowl~
+A bowl of rothe meat cut into cubes. There appears to be several small
+tubers and a few mushrooms included in it as well. The stew is very thick,
+with enough meat to make it a meal by itself.
+~
+#8298
+boggle wine ~
+a bottle of boggle~
+A bottle of elven wine rests on the ground.~
+~
+17 0 1
+5 5 2 0
+0 110 0
+E
+bottle boggle wine~
+A bottle of the strongest wine known, boggle.  The wine has a wonderful
+sweet taste and doesn't burn, but only a few drinks will have ye singing
+tonight and begging for the the pounding in your head to stop.  Drink in
+moderation.
+~
+#99999
+$~

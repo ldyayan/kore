@@ -1,0 +1,86 @@
+>greet_prog 100~
+  if name($r) == zirnozz
+    bow zirnozz
+  else
+    if isscript($i)
+    else
+      if ispc($n)
+        if ismemory($n)
+        else
+          mpremember $n
+          mptrigger $n warrior-advance
+        endif
+      endif
+    endif
+  endif
+~
+>rand_prog 16~
+  if isaffected($i, poison)
+    mpecho $I laughs to $kself and shrugs off the poison in $k veins.
+    mpcallmagic 'remove poison' $i
+  endif
+~
+>spell_prog sunray~
+  if rand(50)
+    mpechoat $n $I shrieks in pain and shrinks away from your ray of light.
+  else
+    mpechoat $n $I hisses violently as your ray of light falls upon $k.
+  endif
+  if rand(10)
+    mpecho The smell of burning flesh overcomes the air.
+  endif
+  mpdamage $i 12d7
+~
+>fight_prog 10~
+  if inroom($r) == here
+    bash $r
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    bite $r
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    mpcallmagic 'energy drain' $r
+    mpdamage $r 5d15
+    mpechoat $r As $I touches you with her hands, you feel your life-force ebb away!
+  endif
+~
+>fight_prog 100~
+  if inroom($r) == here
+    mpcallmagic 'cure serious' $i
+    if rand(10)
+      mpechoat $r $I's wounds begin to close up even as you hit $k!
+      mpechoaround $r $I's wounds begin to close up even as $R hits $k!
+    endif
+  endif
+~
+>script_prog warrior-advance~
+  #
+@
+  emote slowly looks you over, as if noticing you only now.
+@
+  say Another willing sacrifice, I see.
+@
+  say So be it, but if you want to continue then you will first show your respects to me.
+@
+  say The 'test' can begin after this.
+~
+>social_prog bow~
+  emote smiles widely while nodding to you.
+  mppurge combatblocker
+~
+>death_prog 100~
+  emote staggers back and covers $k face.
+  say Pray that we never meet again, mortal, for I will not underestimate your skill then.
+  mpecho $I's body dissipates into a cloud of gas, and then quickly parts from the room.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

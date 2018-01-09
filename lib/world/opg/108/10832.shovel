@@ -1,0 +1,6 @@
+use_prog
+  echoat %1 You dig a hole.
+  echoaround %1 $name(%1) digs a hole.
+  stopaction
+~
+~

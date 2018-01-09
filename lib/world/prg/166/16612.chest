@@ -1,0 +1,66 @@
+>command_prog unlock copper~
+  if hasobj($n) == 16605
+    mpechoat $n The chest glows yellow and disintegrates as you open it!
+    mpechoaround $n As $N opens the copper chest it glows yellow and disintegrates.
+    mpsilent get copper
+    mpsilent get bronze copper
+    mpsilent junk copper
+    mpsilent drop bronze
+  else
+    mpstopcommand
+  endif
+~ 
+>command_prog unlock bronze~
+  if hasobj($n) == 16604
+    mpechoat $n The chest glows yellow and disintegrates as you open it!
+    mpechoaround $n As $N opens the bronze chest it glows yellow and disintegrates.
+    mpsilent get bronze
+    mpsilent get silver bronze
+    mpsilent junk bronze
+    mpsilent drop silver
+  else
+    mpstopcommand
+  endif
+~ 
+>command_prog unlock silver~
+  if hasobj($n) == 16607
+    mpechoat $n The chest glows yellow and disintegrates as you open it!
+    mpechoaround $n As $N opens the silver chest it glows yellow and disintegrates.
+    mpsilent get silver
+    mpsilent get gold silver
+    mpsilent junk silver
+    mpsilent drop gold
+  else
+    mpstopcommand
+  endif
+~
+>command_prog unlock gold~
+  if hasobj($n) == 16608
+    mpechoat $n The chest glows yellow and disintegrates as you open it, the key inside flames hot and hovers into your hands..
+    mpechoaround $n As $N opens the gold chest it glows yellow and disintegrates.
+    mpechoaround $n A small rub key flames hot and flies out to $m from it.
+    mpsilent get gold
+    mpsilent get ruby silver
+    mpsilent junk gold
+    mpsilent give ruby $n
+    mpsilent drop ruby
+    mpecho A green mist flows from where the chest lay.. odd.
+    mpecho From somewhere close you here a tremendous cry of pain that pierces through your body like nails.
+    mpecho You fear your actions may not have been wise.
+    mpcallmagic 'poison' all 
+    mpdamage all 6d6+60
+    mpsilent mpoload 16614
+    mpsilent drop green
+  else
+    mpstopcommand
+  endif
+~ 
+>greet_prog 100~
+  mpsilent get green
+  if hasobj($i) = 16614
+    mpsilent drop green
+    mpecho You choke on the deadly green gas that floats in the air.
+    mpcallmagic 'poison' $n
+  endif
+~
+|

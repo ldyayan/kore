@@ -1,0 +1,1565 @@
+#3100
+At the Entranceway to the Palace of the Tyrant~
+   The Entranceway is lined with stately manicured shrubbery and very
+expensive looking statues.  Steps rise up to the Grand Hall of the Tyrant
+to the North.
+~
+31 12 0
+D0
+~
+~
+0 0 3101
+D4
+~
+~
+0 0 3101
+D10
+~
+~
+0 0 8214
+S
+#3101
+The Grand Hall of the Tyrant~
+   This is the Grand Hall of the Tyrant.  Palace guards swarm all around,
+apparently protecting the blatant displays of wealth that line both walls
+and cover half the floor.  The ceiling rises nearly 50 feet to an elegantly
+painted domed ceiling.  At the far end of the hall you can see the dais on
+which the Tyrant is rarely seen sitting on his throne.
+~
+31 8 0
+D0
+~
+~
+0 0 3102
+D1
+~
+~
+0 0 3103
+D2
+~
+~
+0 0 3100
+D3
+~
+~
+0 0 3104
+D5
+~
+~
+0 0 3100
+S
+#3102
+The Grand Hall of the Tyrant~
+    This is the Grand Hall of the Tyrant.  Palace guards swarm all around,
+apparently protecting the blatant displays of wealth that line both walls
+and cover half the floor.  The ceiling rises nearly 50 feet to an elegantly
+painted domed ceiling.  Just to the north, you can see the dais of the
+Tyrant where it sits unoccupied.
+~
+31 8 0
+D0
+~
+~
+0 0 3105
+D1
+~
+~
+0 0 3106
+D2
+~
+~
+0 0 3101
+D3
+~
+~
+0 0 3107
+S
+#3103
+A Guarded Alcove~
+   Palace guards stand watch over the locked stairways leading up and
+down into the the palace.
+~
+31 8 0
+D3
+~
+~
+0 0 3101
+D5
+~
+~
+0 0 3138
+S
+#3104
+A Guarded Alcove~
+   Palace guards stand watch over the locked stairways leading up and
+down into the the palace.
+~
+31 0 0
+D1
+~
+~
+0 0 3101
+D4
+~
+~
+0 0 3180
+S
+#3105
+Before the Dais of the Tyrant~
+   Stairs to the west and east of you wind around and lead up to the Dais
+of the Tyrant.  To the north another guarded passageway leads out to the
+north side of the palace grounds.
+~
+31 8 0
+D1
+~
+~
+0 0 3111
+D2
+~
+~
+0 0 3102
+D3
+~
+~
+0 0 3111
+S
+#3106
+A Guarded Alcove~
+   Palace guards stand watch over the locked stairways leading up and
+down into the the palace.
+~
+31 8 0
+D3
+~
+~
+0 0 3102
+D5
+~
+~
+1 3122 3136
+S
+#3107
+A Guarded Alcove~
+   Palace guards stand watch over the locked stairways leading up and
+down into the the palace.
+~
+31 8 0
+D1
+~
+~
+0 0 3102
+D5
+~
+~
+0 0 3130
+S
+#3108
+Atop the Battlements~
+   You are standing on top the Battlements of the Palace, the view
+of Kore is pretty good from up here.  To the north you see one of the great
+Stone Gargoyles which, legend says, protects Kore if invaded.
+~
+31 0 0
+D0
+~
+~
+0 0 3109
+D2
+~
+~
+0 0 3182
+S
+#3109
+Atop the Battlements~
+   You are standing on of the Battlements of the Palace, the wind howls
+in your ears and you feel slightly sick as you look down the fearful height
+to the ground.
+~
+31 0 0
+D0
+~
+~
+0 0 3188
+D2
+~
+~
+0 0 3108
+S
+#3110
+Atop the Battlements~
+   You are standing atop the Battlements of the Palace, the wind howls
+in your ears and you shiver and look down nervously.
+~
+31 0 3
+D2
+~
+~
+0 0 3186
+D3
+~
+~
+0 0 3113
+S
+#3111
+Upon the Dais~
+   Upon the Dais of the Tyrant you see a huge platinum throne, which
+seems to you is quite safe since its far to heavy for any mortal being
+to lift, and you cant conceive of anyone stealing it in once piece.
+The North door is guarded by Baghtru the Head of the Palace Guard.
+~
+31 8 0
+D0
+~
+door~
+2 3100 3112
+D5
+~
+~
+0 0 3105
+S
+#3112
+A Palace Corridor~
+   This is obviously a private sector of the palace, thick rugs line the
+floor and expensive, original looking paintings cover most of the walls.
+It leads into a T-junction that leads east and west from here.
+~
+31 8 0
+D2
+~
+door~
+2 3100 3111
+D3
+~
+~
+0 0 3114
+S
+#3113
+Atop the Battlements~
+   You are standing atop the Battlements of the Palace, the wind howls
+in your ears and you shiver and look down nervously.
+~
+31 0 3
+D1
+~
+~
+0 0 3110
+D3
+~
+~
+0 0 3135
+S
+#3114
+A Palace Corridor~
+   This is obviously a private sector of the palace, thick rugs line the
+floor and expensive, original looking paintings cover most of the walls.
+There are doors in the north and south walls and the corridor runs east
+and west.
+~
+31 8 0
+D0
+~
+~
+0 -1 3115
+D1
+~
+~
+0 0 3112
+D2
+~
+~
+0 0 3117
+D3
+~
+~
+0 0 3120
+S
+#3115
+The Garden~
+   Inside the door you see a lush garden enclosed within a fold of the
+outer walls of the palace.  On a lawn before the garden you see a sign
+planted in the grass, maybe you should look at it.
+~
+31 0 3
+D0
+~
+~
+0 0 3124
+D2
+~
+~
+0 0 3114
+E
+sign~
+
+DO NOT FEED THE TREES
+~
+S
+#3116
+A Palace Corridor~
+   This is obviously a private sector of the palace, thick rugs line the
+floor and expensive, original looking paintings cover most of the walls.
+There are doors in the north and south walls and the corridor runs east
+and west.
+~
+31 8 0
+D0
+~
+~
+0 -1 3118
+D1
+~
+~
+0 0 3114
+D2
+~
+~
+2 3105 3119
+D3
+~
+~
+0 0 3120
+S
+#3117
+The Torture Chamber~
+    Inside you see many blood spattered instruments of death and
+torture.  But you realize that even more than that the strange stone
+statues that guard the door make you uneasy.
+~
+31 40 0
+D0
+~
+~
+0 3120 3114
+S
+#3118
+A Strange Room~
+   You feel a strange sensation as you enter the room and see a bright flash
+of light.  You are standing on a long deserted shoreline that stretches as
+far as you can see.  The water is blue and the air is warm.
+~
+31 0 0
+D1
+~
+~
+0 0 3123
+D2
+~
+~
+0 0 3116
+D3
+~
+~
+0 0 3123
+S
+#3119
+A Plush Study~
+   Books line the walls, and heavy rugs cover the floor.  Whoever owns
+this study seems to have an intrest in necromancy, medicine and alchemy.
+~
+31 72 0
+D0
+~
+mahogany door~
+1 0 3120
+D5
+~
+trapdoor~
+1 0 3121
+S
+#3120
+A Palace Corridor~
+   This is obviously a private sector of the palace, thick rugs line the
+floor and expensive, original looking paintings cover most of the walls.
+There are doors in the north and south walls and the corridor runs east
+and west.
+~
+31 8 0
+D0
+~
+~
+0 -1 3118
+D1
+~
+~
+0 0 3114
+D2
+~
+mahogany door~
+1 0 3119
+D3
+~
+~
+0 0 3129
+S
+#3121
+A Dark Stairway~
+   You slide back the thick rugs and find a hidden trapdoor beneath them.
+The trapdoor leads to a set of stairs spiraling down into darkness.
+~
+31 37 0
+D4
+~
+trapdoor~
+1 0 3119
+D5
+~
+~
+0 0 3122
+S
+#3122
+The Secret Laboratory~
+   Scattered all around the room are books, occult devices, and flasks
+of strange fluids filtering through tubes.  The Tyrant sits in the middle
+of the room with a beating heart of some creature in a jar.
+~
+31 72 0
+D4
+~
+~
+0 0 3121
+S
+#3123
+Lost on an Alien World~
+   You wander along the shoreline smiling in the sunshine and splashing
+happily in the water.  The whole shoreline looks the same and you become
+hopelessly lost.  A chilling thought occurs to you that you havent seen
+anything alive yet.  Well, at least you have sunshine and a beach as you
+starve to death alone... 
+~
+31 14 0
+S
+#3124
+The Garden~
+   As you walk through the garden the plants gradually change from small
+flowers and bushes to small trees.  As you walk further you begin to hear
+a sort of breathing sound and the trees are getting bigger and covered
+with vines.  You begin to wish you had brought an axe.  It starts to get
+darker and you wonder if the garden is bigger now than when you entered.
+Its starting to get hard to find your way.
+~
+31 0 0
+D0
+~
+~
+0 0 3125
+D2
+~
+~
+0 0 3115
+S
+#3125
+The Garden~
+   The ground is uneven and you stumble on roots and branches.  Branches
+slick with dew brush against and seem to grasp on to you as you walk - EWW!
+You begin to wonder what kind of garden this is.. you look around and all
+directions look the same.
+~
+31 129 3
+D0
+~
+~
+0 0 3125
+D1
+~
+~
+0 0 3126
+D2
+~
+~
+0 0 3125
+D3
+~
+~
+0 0 3125
+S
+#3126
+The Garden~
+   The ground is uneven and you stumble on roots and branches.  There is
+a strange humming sound that keeps you from concentrating.  You begin to
+wonder what kind of garden this is.. you look around and all directions
+look the same.
+~
+31 129 3
+D0
+~
+~
+0 0 3125
+D1
+~
+~
+0 0 3125
+D2
+~
+~
+0 0 3125
+D3
+~
+~
+0 0 3127
+S
+#3127
+The Garden~
+   The ground is uneven and you stumble on roots and branches.  There is
+a strange humming sound that keeps you from concentrating.  You begin to
+wonder what kind of garden this is.. you look around and all directions
+look the same.
+~
+31 129 0
+D0
+~
+~
+0 0 3125
+D1
+~
+~
+0 0 3125
+D2
+~
+~
+0 0 3125
+D3
+~
+~
+0 0 3128
+S
+#3128
+The Garden~
+   Finally, you come to a large gate that leads out of the garden.
+Unfortunately, it seems to be locked and the strange breathing sound
+is getting louder.
+~
+31 129 0
+D0
+~
+gate~
+2 3120 3115
+S
+#3129
+The Audience Chamber~
+   This is the audience chamber where the Tyrant receives his loyal subjects.
+It appears to be empty and unguarded now.
+~
+31 9 0
+D1
+~
+~
+0 0 3120
+S
+#3130
+A stairway~
+   This dark stairway leads down to the second level of the palace.
+~
+31 9 0
+D1
+~
+~
+0 0 3131
+D4
+~
+~
+1 3122 3107
+S
+#3131
+Next to the Chessboard~
+    You stand next to the chessboard where poor subjects and guards
+of the realm are being forced to serve the cruel whim of the Lords
+playing chess.
+~
+31 8 0
+D1
+~
+~
+0 0 3625
+D2
+~
+~
+0 0 3132
+D3
+~
+~
+0 0 3130
+S
+#3132
+Next to the Chessboard~
+  You stand next to the chessboard where poor subjects and guards
+of the realm are being forced to serve the cruel whim of the Lords
+playing chess.
+~
+31 8 0
+D0
+~
+~
+0 0 3131
+D1
+~
+~
+0 0 3133
+S
+#3133
+Next to the Chessboard~
+   You stand next to the chessboard where poor subjects and guards
+of the realm are being forced to serve the cruel whim of the Lords
+playing chess.
+~
+31 8 0
+D1
+~
+~
+0 0 3134
+D3
+~
+~
+0 0 3132
+S
+#3134
+Next to the Chessboard~
+   You stand next to the chessboard where poor subjects and guards
+of the realm are being forced to serve the cruel whim of the Lords
+playing chess.
+~
+31 8 0
+D0
+~
+~
+0 0 3662
+D3
+~
+~
+0 0 3133
+S
+#3135
+Atop the Battlements~
+   You are standing atop the Battlements of the Palace, the wind howls
+in your ears and you shiver and look down nervously.
+~
+31 0 3
+D1
+~
+~
+0 0 3113
+D3
+~
+~
+0 0 3187
+D5
+~
+~
+0 0 3183
+S
+#3136
+A stairway~
+   This dark stairway leads down to the second level of the palace.
+~
+31 9 0
+D3
+~
+~
+0 0 3137
+D4
+~
+~
+1 3122 3106
+S
+#3137
+Next to the Chessboard~
+   You stand next to the chessboard where poor subjects and guards
+of the realm are being forced to serve the cruel whim of the Lords
+playing chess.
+~
+31 8 0
+D1
+~
+~
+0 0 3136
+D3
+~
+~
+0 0 3632
+S
+#3138
+Palace Dungeon~
+   This is the Dungeon for the Palace, however it doesnt seem to be used
+anymore.  Cobwebs cover the walls, and you hear the scurrying of rats in
+the cells.
+~
+31 12 0
+D3
+~
+~
+0 0 3139
+D4
+~
+~
+0 0 3103
+S
+#3139
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.
+~
+31 9 0
+D1
+~
+~
+0 0 3138
+D2
+~
+~
+0 0 3175
+D3
+~
+~
+0 0 3140
+S
+#3140
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the north
+and south.
+~
+31 9 0
+D0
+~
+~
+0 0 3143
+D1
+~
+~
+0 0 3139
+D2
+~
+~
+0 0 3144
+D3
+~
+~
+0 0 3145
+S
+#3141
+Palace Dungeon~
+   This is the Dungeon for the Palace, however it doesnt seem to be used
+anymore.  Cobwebs cover the walls, and you hear the scurrying of rats in
+the cells.
+~
+31 9 0
+D0
+~
+~
+0 0 3141
+D1
+~
+~
+0 0 3138
+D2
+~
+~
+0 0 3142
+D3
+~
+~
+0 0 3140
+S
+#3142
+Palace Dungeon~
+   This is the Dungeon for the Palace, however it doesnt seem to be used
+anymore.  Cobwebs cover the walls, and you hear the scurrying of rats in
+the cells.
+~
+31 9 0
+D0
+~
+~
+0 0 3141
+D1
+~
+~
+0 0 3138
+D2
+~
+~
+0 0 3142
+D3
+~
+~
+0 0 3140
+S
+#3143
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can see the remains of its last inhabitant rotting in the corner.
+~
+31 9 0
+D2
+~
+~
+0 0 3140
+S
+#3144
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+feel glad that you never had to occupy such a space.
+~
+31 9 0
+D0
+~
+~
+0 0 3140
+S
+#3145
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the north
+and south.
+~
+31 9 0
+D0
+~
+~
+0 0 3147
+D1
+~
+~
+0 0 3140
+D2
+~
+~
+0 0 3146
+D3
+~
+~
+0 0 3148
+S
+#3146
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D0
+~
+~
+0 0 3140
+S
+#3147
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D2
+~
+~
+0 0 3145
+S
+#3148
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the north
+and south.
+~
+31 9 0
+D0
+~
+~
+0 0 3149
+D1
+~
+~
+0 0 3145
+D2
+~
+~
+0 0 3150
+D3
+~
+~
+0 0 3151
+S
+#3149
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D2
+~
+~
+0 0 3148
+S
+#3150
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can see the remains of its last inhabitant rotting in the corner.
+~
+31 9 0
+D0
+~
+~
+0 0 3148
+S
+#3151
+A Guard Room~
+   This was a guard room, scattered against the wall are old rusted
+peices of metal that once could have been weapons.
+~
+31 9 0
+D1
+~
+~
+0 0 3148
+D2
+~
+~
+0 0 3152
+S
+#3152
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the east
+and west.
+~
+31 9 0
+D0
+~
+~
+0 0 3151
+D1
+~
+~
+0 0 3153
+D2
+~
+~
+0 0 3154
+D3
+~
+~
+0 0 3155
+S
+#3153
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D3
+~
+~
+0 0 3152
+S
+#3154
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the east
+and west.
+~
+31 9 0
+D0
+~
+~
+0 0 3152
+D1
+~
+~
+0 0 3156
+D2
+~
+~
+0 0 3157
+D3
+~
+~
+0 0 3158
+S
+#3155
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D1
+~
+~
+0 0 3152
+S
+#3156
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can see the remains of its last inhabitant rotting in the corner.
+~
+31 9 0
+D3
+~
+~
+0 0 3154
+S
+#3157
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the east
+and west.
+~
+31 9 0
+D0
+~
+~
+0 0 3154
+D1
+~
+~
+0 0 3155
+D2
+~
+~
+0 0 3159
+D3
+~
+~
+0 0 3160
+S
+#3158
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D1
+~
+~
+0 0 3154
+S
+#3159
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  The passage turns here to the north and
+east.
+~
+31 9 0
+D0
+~
+~
+0 0 3157
+D1
+~
+~
+0 0 3161
+S
+#3160
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D1
+~
+~
+0 0 3157
+S
+#3161
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the north
+and south.
+~
+31 9 0
+D0
+~
+~
+0 0 3162
+D1
+~
+~
+0 0 3163
+D2
+~
+~
+0 0 3164
+D3
+~
+~
+0 0 3159
+S
+#3162
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can see the remains of its last inhabitant rotting in the corner.
+~
+31 9 0
+D2
+~
+~
+0 0 3161
+S
+#3163
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the north
+and south.
+~
+31 9 0
+D0
+~
+~
+0 0 3165
+D1
+~
+~
+0 0 3166
+D2
+~
+~
+0 0 3167
+D3
+~
+~
+0 0 3161
+S
+#3164
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D0
+~
+~
+0 0 3161
+S
+#3165
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can see the remains of its last inhabitant rotting in the corner.
+~
+31 9 0
+D2
+~
+~
+0 0 3163
+S
+#3166
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the north
+and south.
+~
+31 9 0
+D0
+~
+~
+0 0 3168
+D1
+~
+~
+0 0 3169
+D2
+~
+~
+0 0 3170
+D3
+~
+~
+0 0 3163
+S
+#3167
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D0
+~
+~
+0 0 3163
+S
+#3168
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D2
+~
+~
+0 0 3166
+S
+#3169
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  The passage turns west and north.
+~
+31 9 0
+D0
+~
+~
+0 0 3171
+D3
+~
+~
+0 0 3166
+S
+#3170
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D0
+~
+~
+0 0 3166
+S
+#3171
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the east
+and west.
+~
+31 9 0
+D0
+~
+~
+0 0 3172
+D1
+~
+~
+0 0 3173
+D2
+~
+~
+0 0 3169
+D3
+~
+~
+0 0 3174
+S
+#3172
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the east
+and west.
+~
+31 9 0
+D0
+~
+~
+0 0 3175
+D1
+~
+~
+0 0 3176
+D2
+~
+~
+0 0 3171
+D3
+~
+~
+0 0 3177
+S
+#3173
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D3
+~
+~
+0 0 3171
+S
+#3174
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D1
+~
+~
+0 0 3171
+S
+#3175
+Palace Dungeon~
+   It is very dark, cobwebs cover the walls.  Except for the quiet scurrying
+of rats, it is ghostly silent.  Cells open in the passage to the east
+and west.
+~
+31 9 0
+D0
+~
+~
+0 0 3139
+D1
+~
+~
+0 0 3178
+D2
+~
+~
+0 0 3172
+D3
+~
+~
+0 0 3179
+S
+#3176
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D3
+~
+~
+0 0 3172
+S
+#3177
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D1
+~
+~
+0 0 3172
+S
+#3178
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D3
+~
+~
+0 0 3175
+S
+#3179
+A cell~
+   This is a dank cell, it smells like old urine and sweat and rot.  You
+can sense that no-one has occupied it for a long time.  Just the thought
+of being imprisoned here fills your heart with terror.
+~
+31 9 0
+D1
+~
+~
+0 0 3175
+S
+#3180
+Atop the Battlements~
+   You are standing on top the Battlements of the Palace, the view
+of Kore is pretty good from up here.  You can see the back of the bakery
+a couple of hundred yards off past the lawn in front of the palace.
+~
+31 0 1
+D1
+~
+~
+0 0 3181
+D3
+~
+~
+0 0 3182
+D5
+~
+~
+0 0 3104
+S
+#3181
+Atop the Battlements~
+   You are standing on top the Battlements of the Palace, the view
+of Kore is pretty good from up here.  You are standing above the gate
+to the palace.
+~
+31 0 3
+D1
+~
+~
+0 0 3184
+D3
+~
+~
+0 0 3180
+S
+#3182
+Atop the Battlements~
+   You are standing on top the Battlements of the Palace, the view
+of Kore is pretty good from up here.  You can see the back of the magic
+show a couple of hundred yards across the lawn before the palace.
+~
+31 0 3
+D0
+~
+~
+0 0 3108
+D1
+~
+~
+0 0 3180
+S
+#3183
+Fall to your Death~
+   You slip on the cold, wet stone and fall and fall and fall and...
+
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       /       \
+       \       /
+       
+       SPLAT!!!
+~
+31 14 0
+D4
+~
+~
+0 0 3135
+S
+#3184
+Atop the Battlements~
+   You are standing on top the Battlements of the Palace, the view
+of Kore is pretty good from up here.  You can see the back of the general
+store a couple of hundred yards across the lawn before the palace.
+~
+31 0 3
+D0
+~
+~
+0 0 3185
+D3
+~
+~
+0 0 3181
+S
+#3185
+Atop the Battlements~
+   You are standing atop the Battlements of the Palace, the wind howls
+in your ears and you shiver and look down nervously.  To the north you
+can see one of the large stone gargoyles which legend says protects Kore
+if invaded.
+~
+31 0 3
+D0
+~
+~
+0 0 3186
+D2
+~
+~
+0 0 3184
+S
+#3186
+Atop the Battlements~
+   You are standing atop the Battlements of the Palace, the wind howls
+in your ears and you shiver and look down nervously.
+~
+31 0 3
+D0
+~
+~
+0 0 3110
+D2
+~
+~
+0 0 3185
+S
+#3187
+Atop the Battlements~
+   You are standing atop the Battlements of the Palace, the wind howls
+in your ears and you shiver and look down nervously.
+~
+31 0 3
+D1
+~
+~
+0 0 3135
+D2
+~
+~
+0 0 3188
+S
+#3188
+Atop the Battlements~
+   You are standing atop the Battlements of the Palace, the wind howls
+in your ears and you shiver and look down nervously.
+~
+31 0 0
+D0
+~
+~
+0 0 3187
+D2
+~
+~
+0 0 3109
+S
+#99999
+$~

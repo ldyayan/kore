@@ -1,0 +1,18 @@
+>rand_prog 15~
+ if inroom($r) == here
+  if ispc($r)
+   if isaffected($r, fly)
+   else
+   mpechoat $r A powerful gust of wind rises seemingly from nowhere and jostles your clothing.
+   mpcallmagic 'fly' $r
+   mpechoaround A strong gust of wind blows suddenly and is gone just as fast.
+   endif
+   if isaffected($r, curse)
+   mpechoat $r A warm gust of air cleanses your soul of the evils that taint it.
+   mpsilent mpcallmagic 'remove curse' $r
+   mpechoaround $r A gentle warm breeze rushes by you, mussing your hair.
+   endif
+  endif
+ endif
+~
+|

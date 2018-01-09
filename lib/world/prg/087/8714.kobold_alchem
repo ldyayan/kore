@@ -1,0 +1,16 @@
+>fight_prog 20~
+  if inroom($r) == here
+    cast 'fireball' $r
+  endif
+~
+>rand_prog 3~
+  if inroom($r) == here
+    if isaffected($i, haste)
+    else
+      cast 'aid' $i
+      cast 'haste' $i
+      cast 'mirror image' $i
+    endif
+  endif
+~
+|

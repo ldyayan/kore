@@ -1,0 +1,16 @@
+#76
+Battle Ring~
+7699 30 2 33
+O 0  7600   101  7600            a fountain
+O 0  7601   101  7600            a gateway
+O 0  7605   101  7691            a gateway
+M 0  7603     1  7691            Gateway Ghost
+O 0  7604   101  7666            a gateway
+M 0  7602     1  7666            Gateway Ghost
+O 0  7603   101  7642            a gateway
+M 0  7601     1  7642            Gateway Ghost
+O 0  7602   101  7617            a gateway
+M 0  7600     1  7617            Gateway Ghost
+S
+#99999
+$~

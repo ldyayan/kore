@@ -1,0 +1,116 @@
+#22500
+sailing skiff boat~
+a sailing skiff~
+A small sailing skiff awaits a crew.~
+~
+27 0 1
+22520 1 0 0
+99999 0 0
+E
+skiff boat~
+   The boat looks old, gunwales battered and scarred, but it appears seaworthy.
+A triangular sail hangs from the short mast. Several people could board it
+and sail away.
+~
+#22501
+tiller~
+the tiller~
+The skiff's tiller awaits a firm hand.~
+~
+20 0 0
+22500 22520 22520 0
+999999 0 0
+E
+tiller~
+   The wood is highly polished from years of use.  The tiller stands ready
+to 'steer' the skiff in whichever direction you choose.
+~
+#22502
+large balsa raft~
+a large balsa raft~
+A large raft constructed from balsa logs bobs in the water.~
+~
+27 0 1
+22521 1 0 0
+99999 0 0
+E
+large raft~
+   Figure or figures unknown lashed several logs of balsa together with good
+seasoned rope.  A gnarled mast rises from the center, a square sail hangs
+from its equally gnarled yardarm.
+~
+#22503
+crude tiller~
+a crude tiller~
+A crude tiller descends into the water.~
+~
+13 0 1
+22502 22521 22521 0
+999999 0 0
+E
+crude tiller~
+   A stout pole wedged in the crotch of an X formed by two shorter lengths
+of pole serves as the raft's tiller.  The raft 'steers' amazingly easily
+for all its bulk.
+~
+#22504
+dugout~
+a dugout~
+A dugout floats upon the water.~
+~
+27 0 0
+22522 1 0 0
+999999 0 0
+E
+dugout~
+   A fresco of fierce creatures, remarkable and unfamiliar, decorate the hull.
+Perhaps the dugout was created by a tribe of fierce warriors, long vanished
+or vanquished, for quick water-borne raids.
+~
+#22505
+large oar tiller~
+a large oar~
+A large oar in a wooden lock acts as a tiller.~
+~
+13 0 0
+22504 22522 22522 0
+99999 0 0
+E
+large oar tiller~
+   The big oar rests in its wooden lock. The oar acts as a tiller to 'steer'
+the dugout in any direction where there is water.
+~
+#22506
+flying carpet threadbare rug~
+a flying carpet~
+A large threadbare rug hovers an arms length above the water.~
+~
+27 0 0
+22523 1 0 0
+999999 0 0
+#22507
+unfinished object~
+test~
+An unfinished object is lying here.~
+~
+13 0 0
+22506 22523 22523 0
+99999 0 0
+#22598
+a dummy object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#22599
+plastic dog turd~
+a plastic dog turd~
+Some jokester left a plastic dog turd here.~
+~
+1 0 16385
+0 0 -1 0
+1 0 0
+#99999
+$~

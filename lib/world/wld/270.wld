@@ -1,0 +1,379 @@
+#27000
+A small clearing in front of the cliff face.~
+You stand in a small clearing in front of a large cliff face.  No trees seem 
+to be growing in this area and you can see right up into the crystal clear 
+sky.  You see a small patch of bare earth in front of the cliff face and a trail 
+leading from it back into the forest.
+~
+270 8 3
+D0
+~
+stone~
+1 0 27001
+S
+#27001
+Inside the cliff face~
+As you enter the cliff face through the narrow door you feel a harsh
+cold wind blow from inside the cliff into your face, as you shelter
+your face from the bitter cold your eyes begin to adgust to the dark
+of the tunnel.  It streches out far into the cliff and the tunnel
+is very small.  You crouch down and push on curious as to what may
+lie ahead of you.
+~
+270 9 0
+D0
+~
+~
+0 0 27002
+D2
+~
+stone~
+1 0 27000
+S
+#27002
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D2
+~
+~
+0 0 27001
+D6
+~
+~
+0 0 27003
+S
+#27003
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D0
+~
+~
+0 0 27004
+D8
+~
+~
+0 0 27002
+S
+#27004
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D2
+~
+~
+0 0 27003
+D5
+~
+~
+0 0 27005
+S
+#27005
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D0
+~
+~
+0 0 27006
+D4
+~
+~
+0 0 27004
+S
+#27006
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D0
+~
+~
+0 0 27007
+D2
+~
+~
+0 0 27005
+S
+#27007
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D2
+~
+~
+0 0 27006
+D5
+~
+~
+0 0 27008
+S
+#27008
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D4
+~
+~
+0 0 27007
+D6
+~
+~
+0 0 27009
+S
+#27009
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D0
+~
+~
+0 0 27010
+D8
+~
+~
+0 0 27008
+S
+#27010
+A small dark tunnel~
+The tunnel is small and cramped, as you bend down to navigate its
+twists and turns water from above drips onto your back chilling
+you to the bone, your back begins to ache and your head becomes sore with
+the pain of bumping it on the roof.
+~
+270 9 0
+D0
+~
+~
+0 0 27011
+D2
+~
+~
+0 0 27009
+S
+#27011
+Before a large steel grating~
+The small tunnel widens out into a comfortable cavern.  Up ahead the 
+tunnel is blocked by a large steel grating and a figure wrapped in robes 
+rests on a small wooden chair.  He seems to be carrying a large set of keys 
+in one hand.  It looks like you may be able to steel them without stirring 
+him up
+~
+270 9 0
+D0
+~
+iron grating~
+2 27001 27012
+D2
+~
+~
+0 0 27010
+S
+#27012
+Deeper into the hillside~
+The tunnel widens out into a comfortable pathway, small torches burn 
+on either side of the passage as it travels down further into the ground.  
+The whirling sound is now loud and getting louder with every step.. 
+You wonder what could lay ahead.
+~
+270 9 0
+D0
+~
+~
+0 0 27013
+D2
+~
+iron grating~
+2 27001 27011
+S
+#27013
+Deeper into the hillside~
+The tunnel widens out into a comfortable pathway, small torches burn 
+on either side of the passage as it travels down further into the ground.  
+The whirling sound is now loud and getting louder with every step.. 
+You wonder what could lay ahead.
+~
+270 9 0
+D0
+~
+~
+0 0 27014
+D2
+~
+~
+0 0 27012
+S
+#27014
+Deeper into the hillside~
+The tunnel widens out into a comfortable pathway, small torches burn 
+on either side of the passage as it travels down further into the ground.  
+The whirling sound is now loud and getting louder with every step.. 
+You wonder what could lay ahead.
+~
+270 9 0
+D2
+~
+~
+0 0 27013
+D5
+~
+~
+0 0 27015
+S
+#27015
+Deeper into the hillside~
+The tunnel widens out into a comfortable pathway, small torches burn 
+on either side of the passage as it travels down further into the ground.  
+The whirling sound is now loud and getting louder with every step.. 
+You wonder what could lay ahead.
+~
+270 9 0
+D4
+~
+~
+0 0 27014
+D6
+~
+~
+0 0 27016
+S
+#27016
+Deeper into the hillside~
+The tunnel widens out into a comfortable pathway, small torches burn 
+on either side of the passage as it travels down further into the ground.  
+The whirling sound is now loud and getting louder with every step.. 
+You wonder what could lay ahead.
+~
+270 9 0
+D6
+~
+~
+0 0 27017
+D8
+~
+~
+0 0 27015
+S
+#27017
+Deeper into the hillside~
+The tunnel widens out into a comfortable pathway, small torches burn 
+on either side of the passage as it travels down further into the ground.  
+The whirling sound is now loud and getting louder with every step.. 
+You wonder what could lay ahead.
+~
+270 9 0
+D0
+~
+~
+0 0 27018
+D8
+~
+~
+0 0 27016
+S
+#27018
+A large decorated cave~
+The tunnel widens out yet again but this time into a much bigger and better 
+decorated cave. A large oak desk occupied by a small old man sits at the 
+north of the room.  Behind him you see a huge set of oak double doors held 
+shut by a huge iron bar.  The walls are covered in bizarre tapestries showing 
+pictures of men with no heads and strange demons devouring people.  You 
+wonder what these could be indicating and head for the desk.
+~
+270 152 0
+D0
+~
+door oak huge~
+2 0 27019
+D2
+~
+~
+0 0 27017
+S
+#27019
+Entering the gauntlet~
+You stand in a large room with no exits except the door in which you just came which
+was promptly shut on your entrance . The walls are plain and made of what
+appears to be granite, you notice a small plaque on the wall, maybe you should
+read it.
+~
+270 184 0
+D2
+~
+door oak huge~
+2 0 27018
+S
+#27020
+Gluttony~
+You stand in a round room, no one is in here with you, and you see no exits.
+You notice a small plaque on the wall.
+~
+270 169 0
+S
+#27021
+Envy~
+You stand in a small round room.  In the centre of the room a small
+tired old man lies dead, his armor is unlike any you have ever seen
+before it glints and shines and you feel yourself moving towards
+the corpse hands extended.
+~
+270 169 0
+S
+#27022
+Greed~
+The room is round and damp, water drips from the roof and runs down
+your face.   In the very center of the room you see a huge mountain
+of gold coins reaching high up to the very top of the room.
+~
+270 185 0
+S
+#27023
+Sloth~
+   The room is round and completely bare apart from a small
+chest that lies in the centre.
+~
+270 185 0
+S
+#27026
+The prison cell~
+   You stand in a small cramped prison cell.  The walls are damp and
+cold and any noise you make echos loudly many times, in a hollow
+empty tone.  The only exit is west but is blocked by a huge iron
+door, that is locked tightly and doesent look very easy to open.
+~
+270 185 0
+S
+#99999
+$~

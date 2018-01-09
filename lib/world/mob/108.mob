@@ -1,0 +1,141 @@
+#10800
+raider 10800~
+a raider~
+A raider is raiding!
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#10801
+dragon toad~
+a dragon toad~
+A large dragon toad sits here, belching flames.
+~
+The dragon toad looks quite fearsome. Bedecked mostly in green
+and purple, with flames curling around the corners of it's mouth,
+the odd saddle strapped on its back looks entirely out of
+place.
+~
+10 0 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#10802
+cabbit rabbit~
+a cabbit~
+A rabbit looks up at you with big eyes and goes, "Meow?"
+~
+This small gray mammal looks like nothing more than a rabbit with very
+large eyes and a cat-like face. Could be anything, you decide, as it tilts
+its head to one side and says, "Meow?"
+~
+10 0 0 S
+3 20 10 1d1+0 1d1+0
+0 0
+8 8 2 8
+#10806
+skeleton loaded NOTTHERE~
+NOTTHERE skeleton loader~
+NOTTHERE skeleton loader: loads skeletons & zombies for thandgrind quest
+~
+It looks, err, unfinished.
+~
+8388616 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#10807
+zombie~
+a zombie~
+A shambling zombie wanders past, body parts dripping off.
+~
+It looks, err, unfinished.
+~
+104 0 -300 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#10808
+skeleton~
+a skeleton~
+A skeleton wanders nearby.
+~
+It looks, err, unfinished.
+~
+104 0 -300 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#10809
+skeleton skeletal warrior undead~
+Thandgrind's skeletal warrior~
+A massive skeletal creature with a beating wax heart treads nearby.
+~
+It looks, err, unfinished.
+~
+72 0 0 S
+52 20 10 1d1+0 1d1+0
+0 0
+8 8 0 7
+#10810
+evil mage thandgrind~
+the evil mage Thandgrind~
+A mage is here standing in a pentacle, intoning names to animate the dead.
+~
+undefined~
+19652682 128 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#10811
+jim peters professor~
+Peters~
+J.F.Peters is trying to teach you something.
+~
+This fascinating, gangling, energetic man's eyes light up as he sees you.
+He hops back and forth and starts to tell you something about air traffic
+controllers.
+~
+8 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#10850
+izzy leprechaun~
+Izzy the leprchaun~
+Izzy the leprechaun dances before your eyes!
+~
+This quick moving, fast acting sucker hardly stands still long enough
+for you to catch him!
+~
+57352 4259840 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#10898
+couch beast outside mob10898~
+the outside couch beast~
+the outside couch beast
+~
+It looks, err, unfinished.
+~
+8388618 1024 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#10899
+couch beast inside~
+the inside couch beast~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8388616 1024 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

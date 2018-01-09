@@ -1,0 +1,163 @@
+>command_prog board~
+  if ispc($n)
+    if inroom($i) == 2092
+    else
+      say No, first give me Yeenoghu's corpse.
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog steer~
+  mpechoat $n Supernatural forces control the boat.
+  mpstopcommand
+~
+>bribe_prog 1~
+  if ispc($n)
+    say No, these souls may pay in coin to cross but you are not dead.
+    say I want Yeenoghu's corpse.
+  endif
+~
+>give_prog 2072~
+  if isscript($i)
+  else
+    mpsilent junk corpse
+    mptrigger $i ferry-ride-paid
+  endif
+~
+>script_prog ferry-ride-paid~
+  nod
+  emote gestures for everyone to go ahead and board his ferry.
+  board boat
+@
+@
+  emote makes ready to leave with another boatload of souls.
+@
+@
+  emote turns and looks back at the souls still waiting on the shore.
+@
+@
+  emote takes hold of the steering tiller.
+@
+@
+  steer east
+@
+@
+  steer south
+@
+@
+  steer south
+@
+@
+  steer southeast
+@
+@
+  steer south
+@
+@
+  steer southwest
+@
+@
+  emote nods for you to disembark.
+@
+  say Out.
+@
+@
+@
+@
+@
+  emote makes ready to head back to the far shore.
+@
+@
+  steer northeast
+@
+@
+  steer north
+@
+@
+  steer northwest
+@
+@
+  steer north
+@
+@
+  steer north
+@
+@
+  steer west
+@
+@
+  emote motions for everyone to disembark.
+@
+@
+  mpsilent disembark
+  mppurge ferry
+  mpgoto 2099
+  mpoload 2092
+  mpsilent drop ferry
+  mpgoto 2092
+  disembark
+~
+>rand_prog 15~
+  if isscript($i)
+  else
+    mptrigger $i ferry-ride-normal
+  endif
+~
+>script_prog ferry-ride-normal~
+  emote makes ready to leave with another boatload of souls.
+@
+  board boat
+  steer east
+@
+@
+  steer south
+@
+@
+  steer south
+@
+@
+  steer southeast
+@
+@
+  steer south
+@
+@
+  steer southwest
+@
+@
+  emote nods for you to disembark.
+@
+  say Out.
+@
+@
+@
+@
+  emote makes ready to head back to the far shore.
+@
+@
+  steer northeast
+@
+@
+  steer north
+@
+@
+  steer northwest
+@
+@
+  steer north
+@
+@
+  steer north
+@
+@
+  steer west
+  emote motions for everyone to disembark.
+  mpsilent disembark
+  mppurge ferry
+  mpgoto 2099
+  mpoload 2092
+  mpsilent drop ferry
+  mpgoto 2092
+  disembark
+~
+|

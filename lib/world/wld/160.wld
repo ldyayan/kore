@@ -1,0 +1,2276 @@
+#16000
+Common Room of the Drunken Virgin~
+   This is the typical common room of an Inn called the Drunken Virgin.  
+Citizens and soldiers alike mingle together talking and sharing good drink and
+food.  Benches and tables are set up around the room to provide seating for the
+patrons of the Inn, as well as the barmaids on occasion.  Pipe smoke hovers
+about the room in a cloud that shifts only with the breeze of a server moving
+past.  Through the smoke you can smell the faint scent of fried potatoes and
+roasting venison.  The atmosphere of the room is somewhat stuffy -- but still
+cozy.  A stone fireplace on the north wall seems almost alive as the fire
+flickers inside.  On a small podium in a corner a man dressed in remarkably
+bright clothes rests on a chair, a lute in his lap. 
+~
+160 8 0
+D2
+~
+~
+0 0 16011
+D3
+~
+~
+0 0 16001
+S
+#16001
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D0
+~
+~
+0 0 16003
+D1
+~
+~
+0 0 16000
+D2
+~
+~
+0 0 16002
+S
+#16002
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city. 
+~
+160 0 1
+D0
+~
+~
+0 0 16001
+D2
+~
+~
+0 0 16007
+S
+#16003
+West Gate~
+   The western gate is the one of the two main exits out of the city.  It is
+here that the cobblestone streets that fill the city end and the dirt highway
+begins.  Passing wagons and horses churn up the dust and the sounds of milling
+people entering and leaving the city fill your ears.  The wall that had before
+followed the path of Serpent's Way comes to a temporary end at a large
+fortified gatehouse.  Arrow slits along the top part of the mini-tower provide
+archers with a birds-eye view of both the city and the plains that spread out
+to the west of it.  To the north and south Serpent's Way stretches as far as
+you can see, the highway leads out of town to the west.  To the east the paved
+highway continues towards the center of town.
+~
+160 0 1
+D0
+~
+~
+0 0 16168
+D1
+~
+~
+0 0 16028
+D2
+~
+~
+0 0 16001
+D8
+~
+~
+0 0 16004
+S
+#16004
+Base of the Guard Tower~
+   The stone work of the street gives way to the immense masonry of the guard
+tower.  Smooth slabs of stone make up the floor, walls, and stairs.  A large
+table dominates the center of the room, two candles sit unlit on top of it.  
+Keeping the candles company are several pieces of parchments, a log book, and a
+few empty, presumably, bottles of cheap ale.  Empty torch racks hang from the
+walls -- the fire-wrought iron a bleak contrast to the dusty gray of the
+stonework.  A curved staircase made of the same stone blocks wraps along the
+western wall, leading up to the second story of the tower. 
+~
+160 8 1
+D4
+~
+~
+0 0 16005
+D6
+~
+~
+0 0 16003
+S
+#16005
+Second Floor of the Guard Tower~
+   Ascending the stone steps, you quickly rise into the second floor of the
+guard tower.  As barren as the floor below it, this room is circular and made
+of large stone blocks.  Torch racks lie dark and empty on the cold stone walls.
+Resting on the floor and propped against the wall are several swords, pikes,
+and polearms.  A dank musty smell hangs around the room.  A barrel stands
+against the northern part of the wall, presumably empty.  An archway to the
+south leads out onto the top of the wall.  The stairway leads back down towards
+the the base of the tower.
+~
+160 12 1
+D0
+~
+~
+0 0 16058
+D2
+~
+~
+0 0 16006
+D5
+~
+~
+0 0 16004
+S
+#16006
+Atop the Western Wall~
+   From this vantage point you can see clear across the city, and for miles out
+over the lands beyond the city walls.  The cool north wind cuts across your
+face sending a chill down your spine.  Carried on the blowing breeze are the
+smells of conifers and damp earth, picked up from the northern forests.  
+Looking out over the city you see the many curling wisps of smoke rising from
+chimneys, the dusty gray smoke is scattered on the wind almost immediately
+after rising above the height of the city walls.  To the south you can make out
+the vast open blue of the ocean, with the masts of tall ships swaying to and
+fro in the current.  As you walk along atop the wall your feet make a droning
+stomping sound on the interlocker gray stone.  Behind and you and before you
+are guard towers, making small barracks for the various watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16005
+D2
+~
+~
+0 0 16009
+S
+#16007
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city. 
+~
+160 0 1
+D0
+~
+~
+0 0 16002
+D2
+~
+~
+0 0 16008
+S
+#16008
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D0
+~
+~
+0 0 16007
+D2
+~
+~
+0 0 16014
+S
+#16009
+Atop the Western Wall~
+   From this vantage point you can see clear across the city, and for miles out
+over the lands beyond the city walls.  The cool north wind cuts across your
+face sending a chill down your spine.  Carried on the blowing breeze are the
+smells of conifers and damp earth, picked up from the northern forests.  
+Looking out over the city you see the many curling wisps of smoke rising from
+chimneys, the dusty gray smoke is scattered on the wind almost immediately
+after rising above the height of the city walls.  To the south you can make out
+the vast open blue of the ocean, with the masts of tall ships swaying to and
+fro in the current.  As you walk along atop the wall your feet make a droning
+stomping sound on the interlocker gray stone.  Behind and you and before you
+are guard towers, making small barracks for the various watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16006
+D2
+~
+~
+0 0 16010
+S
+#16010
+Atop the Western Wall~
+   From this vantage point you can see clear across the city, and for miles out
+over the lands beyond the city walls.  The cool north wind cuts across your
+face sending a chill down your spine.  Carried on the blowing breeze are the
+smells of conifers and damp earth, picked up from the northern forests.  
+Looking out over the city you see the many curling wisps of smoke rising from
+chimneys, the dusty gray smoke is scattered on the wind almost immediately
+after rising above the height of the city walls.  To the south you can make out
+the vast open blue of the ocean, with the masts of tall ships swaying to and
+fro in the current.  As you walk along atop the wall your feet make a droning
+stomping sound on the interlocker gray stone.  Behind and you and before you
+are guard towers, making small barracks for the various watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16009
+D2
+~
+~
+0 0 16018
+S
+#16011
+The Bar of the Drunken Virgin~
+   Stepping to the south side of the room, you quickly walk up to the bar.  A
+few patrons have claimed stools for their seats and are happily drinking their
+problems, and common sense, away.  The bartender gives you a quick glance
+before motioning with his head to a LIST of drinks available for consumption.
+Behind the bartender is a mirrored wall covered with bottles and vials.  Wine
+racks and freestanding bottles adorn the area in front of the mirror.  The
+thick musty smell of pipe smoke and old wood hangs adds to the flavor of the
+bar.  Claiming a stool for yourself, you turn around and reach into a bowl of
+nuts, conveiniently placed near you, and down a handful.  They are quite salty
+and you think you should probably get a drink.
+~
+160 152 0
+D0
+~
+~
+0 0 16000
+S
+#16012
+Drunken Virgin Bar~
+    This is the storeroom for the bar in the Inn of the Drunken Virgin.
+~
+160 1032 0
+D0
+~
+~
+0 0 16011
+S
+#16013
+Street of Hope~
+   The cobblestone streets that are standard throughout the city are no
+exception here.  The cold north wind has died down and been replaced by a soft
+ocean breeze.  The salty air tingles your nostrils with each breath.  High
+above your head sea gulls squawk nosily and search the docks for food.  The
+tall masts of ships docked on the piers and those still anchored in the harbor
+sway to and fro in an unsteady rythmn, their sails brought up in tight rolls
+across the masts.  From this vantage you can see the crystal blue ocean
+stretching out like a blanket across the horizon.  Dark storm clouds loom in
+the distance while patchy clouds above you break to allow a golden stream of
+sunlight to reflect off the blue waters.
+~
+160 0 1
+D8
+~
+~
+0 0 16014
+D9
+~
+~
+0 0 16008
+S
+#16014
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D0
+~
+~
+0 0 16008
+D2
+~
+~
+0 0 16015
+D6
+~
+~
+0 0 16013
+S
+#16015
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D0
+~
+~
+0 0 16014
+D2
+~
+~
+0 0 16016
+S
+#16016
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D0
+~
+~
+0 0 16015
+D7
+~
+~
+0 0 16025
+D8
+~
+~
+0 0 16017
+S
+#16017
+Base of the Guard Tower~
+   The stone work of the street gives way to the immense masonry of the guard
+tower.  Smooth slabs of stone make up the floor, walls, and stairs.  A large
+table dominates the center of the room, two candles sit unlit on top of it.  
+Keeping the candles company are several pieces of parchments, a log book, and a
+few empty, presumably, bottles of cheap ale.  Empty torch racks hang from the
+walls -- the fire-wrought iron a bleak contrast to the dusty gray of the
+stonework.  A curved staircase made of the same stone blocks wraps along the
+western wall, leading up to the second story of the tower.
+~
+160 8 1
+D4
+~
+~
+0 0 16020
+D6
+~
+~
+0 0 16016
+S
+#16018
+Atop the Western Wall~
+   From this vantage point you can see clear across the city, and for miles out
+over the lands beyond the city walls.  The cool north wind cuts across your
+face sending a chill down your spine.  Carried on the blowing breeze are the
+smells of conifers and damp earth, picked up from the northern forests.  
+Looking out over the city you see the many curling wisps of smoke rising from
+chimneys, the dusty gray smoke is scattered on the wind almost immediately
+after rising above the height of the city walls.  To the south you can make out
+the vast open blue of the ocean, with the masts of tall ships swaying to and
+fro in the current.  As you walk along atop the wall your feet make a droning
+stomping sound on the interlocker gray stone.  Behind and you and before you
+are guard towers, making small barracks for the various watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16010
+D2
+~
+~
+0 0 16019
+S
+#16019
+Atop the Western Wall~
+   From this vantage point you can see clear across the city, and for miles out
+over the lands beyond the city walls.  The cool north wind cuts across your
+face sending a chill down your spine.  Carried on the blowing breeze are the
+smells of conifers and damp earth, picked up from the northern forests.  
+Looking out over the city you see the many curling wisps of smoke rising from
+chimneys, the dusty gray smoke is scattered on the wind almost immediately
+after rising above the height of the city walls.  To the south you can make out
+the vast open blue of the ocean, with the masts of tall ships swaying to and
+fro in the current.  As you walk along atop the wall your feet make a droning
+stomping sound on the interlocker gray stone.  Behind and you and before you
+are guard towers, making small barracks for the various watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16018
+D2
+~
+~
+0 0 16021
+S
+#16020
+Second Floor of the Guard Tower~
+   Ascending the stone steps, you quickly rise into the second floor of the
+guard tower.  As barren as the floor below it, this room is circular and made
+of large stone blocks.  Torch racks lie dark and empty on the cold stone walls.
+Resting on the floor and propped against the wall are several swords, pikes,
+and polearms.  A dank musty smell hangs around the room.  A barrel stands
+against the northern part of the wall, presumably empty.  An archways to the
+north and southeast lead out onto the top of the wall.  The stairway leads back
+down towards the the base of the tower.
+~
+160 12 0
+D0
+~
+~
+0 0 16021
+D5
+~
+~
+0 0 16017
+D7
+~
+~
+0 0 16022
+S
+#16021
+Atop the Western Wall~
+   From this vantage point you can see clear across the city, and for miles out
+over the lands beyond the city walls.  The cool north wind cuts across your
+face sending a chill down your spine.  Carried on the blowing breeze are the
+smells of conifers and damp earth, picked up from the northern forests.  
+Looking out over the city you see the many curling wisps of smoke rising from
+chimneys, the dusty gray smoke is scattered on the wind almost immediately
+after rising above the height of the city walls.  To the south you can make out
+the vast open blue of the ocean, with the masts of tall ships swaying to and
+fro in the current.  As you walk along atop the wall your feet make a droning
+stomping sound on the interlocker gray stone.  Behind and you and before you
+are guard towers, making small barracks for the various watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16019
+D2
+~
+~
+0 0 16020
+S
+#16022
+Atop the Southwest Wall~
+   From this vantage point you can see clear across the city, and for miles out
+over the lands beyond the city walls.  An icy ocean breeze cuts across your
+face sending a chill down your spine.  Carried on the blowing breeze are the
+smells of fresh fish and other various seafoods salty air whipping through your
+hair.  Looking out over the city you see the many curling wisps of smoke rising
+from chimneys, the dusty gray smoke is scattered on the wind almost immediately
+after rising above the height of the city walls.  To the south your eyes take
+in an awesome spectacle of the deep blue ocean, white caps mark the coming of a
+fierce ocean storm.  Bobbing in the bustling harbor are the masts of many
+ships, of all sizes and types, swaying to and fro in the current.  As you walk
+along atop the wall your feet make a droning stomping sound on the interlocking
+gray stone.  Behind and you and before you are guard towers, making small
+barracks for the various watches.
+~
+160 0 1
+D7
+~
+~
+0 0 16023
+D9
+~
+~
+0 0 16020
+S
+#16023
+Second Floor of the Guard Tower~
+   Ascending the stone steps, you quickly rise into the second floor of the
+guard tower.  As barren as the floor below it, this room is circular and made
+of large stone blocks.  Torch racks lie dark and empty on the cold stone walls.
+Resting on the floor and propped against the wall are several swords, pikes,
+and polearms.  A dank musty smell hangs around the room.  A barrel stands
+against the northern part of the wall, presumably empty.  An archways to the
+north and southeast lead out onto the top of the wall.  The stairway leads back
+down towards the the base of the tower.
+~
+160 12 1
+D1
+~
+~
+0 0 16024
+D5
+~
+~
+0 0 16054
+D9
+~
+~
+0 0 16022
+S
+#16024
+Atop the Southern Wall~
+   From this vantage point you can see clear across the city, and for miles out
+over the lands beyond the city walls.  The cool north wind cuts across your
+face sending a chill down your spine.  Carried on the blowing breeze are the
+smells of the salt waves from the brilliant blue ocean to the south of the
+city.  Looking out over the city you see the many curling wisps of smoke rising
+from chimneys, the dusty gray smoke is scattered on the wind almost immediately
+after rising above the height of the city walls.  To the south you can make out
+the vast open blue of the ocean, with the masts of tall ships swaying to and
+fro in the current.  As you walk along atop the wall your feet make a droning
+stomping sound on the interlocker gray stone.  Behind and you and before you
+are guard towers, making small barracks for the various watches.
+~
+160 0 1
+D1
+~
+~
+0 0 16133
+D3
+~
+~
+0 0 16023
+S
+#16025
+Ederan Street~
+   The street you stand upon is fitted together with water-smoothed
+cobblestone.  The spaces between the stones are kept clear and the street is
+well cleaned and cared for.  Your boots make a steady rythmn as you travel down
+this east-west street.  You stop and stand in the shadows of the immense
+northern wall of the city -- its stones are cut and fitted perfectly to create
+an almost impervious barrier against all form of attack.  Buildings are
+abundant on the south edge of the street and you can see many commoners and
+peasants walking around enacting the affairs of the day.  As you continue on
+your way you find yourself wishing for a breeze to blow away the odor of the
+city.  Every now and then you pass one of the city guards patrolling the
+streets.  Turning your head skyward you notice the high-altitude clouds
+spreading out like tendrils across the sky.
+~
+160 0 1
+D7
+~
+~
+0 0 16026
+D9
+~
+~
+0 0 16016
+S
+#16026
+Ederan Street~
+   The street you stand upon is fitted together with water-smoothed
+cobblestone.  The spaces between the stones are kept clear and the street is
+well cleaned and cared for.  Your boots make a steady rythmn as you travel down
+this east-west street.  You stop and stand in the shadows of the immense
+northern wall of the city -- its stones are cut and fitted perfectly to create
+an almost impervious barrier against all form of attack.  Buildings are
+abundant on the south edge of the street and you can see many commoners and
+peasants walking around enacting the affairs of the day.  As you continue on
+your way you find yourself wishing for a breeze to blow away the odor of the
+city.  Every now and then you pass one of the city guards patrolling the
+streets.  Turning your head skyward you notice the high-altitude clouds
+spreading out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16027
+D8
+~
+~
+0 0 16054
+D9
+~
+~
+0 0 16025
+S
+#16027
+Ederan Street~
+   The street you stand upon is fitted together with water-smoothed
+cobblestone.  The spaces between the stones are kept clear and the street is
+well cleaned and cared for.  Your boots make a steady rythmn as you travel down
+this east-west street.  You stop and stand in the shadows of the immense
+northern wall of the city -- its stones are cut and fitted perfectly to create
+an almost impervious barrier against all form of attack.  Buildings are
+abundant on the south edge of the street and you can see many commoners and
+peasants walking around enacting the affairs of the day.  As you continue on
+your way you find yourself wishing for a breeze to blow away the odor of the
+city.  Every now and then you pass one of the city guards patrolling the
+streets.  Turning your head skyward you notice the high-altitude clouds
+spreading out like tendrils across the sky.
+~
+160 0 0
+D1
+~
+~
+0 0 16082
+D3
+~
+~
+0 0 16026
+S
+#16028
+Graebaen Street~
+   This wide and long street serves as one of the main veins of life through
+the city.  A few small alleys lead off of it, though they are quite cluttered
+and messy.  The street runs east to west and leads to both east and west gates.
+In the center they merge into the marketplace before continuing on.  
+Occasional wagons of crops or goods roll past with audble clamor.  A few
+peasants and commoners mingle along the street, most heading slowly towards the
+fountain plaza.  There is almost no wind here, and the area has the smell of a
+city.  Ahead the noise of the marketplace reaches your ears.  Smells of breads
+and leathers break through the city smell for a moment before fading once
+again.  Buildings on all sides give the feeling of a tightly enclosed area.
+~
+160 0 1
+D1
+~
+~
+0 0 16029
+D3
+~
+~
+0 0 16003
+S
+#16029
+Graebaen Street~
+   This wide and long street serves as one of the main veins of life through
+the city.  A few small alleys lead off of it, though they are quite cluttered
+and messy.  The street runs east to west and leads to both east and west gates.
+In the center they merge into the marketplace before continuing on.  
+Occasional wagons of crops or goods roll past with audble clamor.  A few
+peasants and commoners mingle along the street, most heading slowly towards the
+fountain plaza.  There is almost no wind here, and the area has the smell of a
+city.  Ahead the noise of the marketplace reaches your ears.  Smells of breads
+and leathers break through the city smell for a moment before fading once
+again.  Buildings on all sides give the feeling of a tightly enclosed area.
+~
+160 0 1
+D1
+~
+~
+0 0 16030
+D3
+~
+~
+0 0 16028
+S
+#16030
+Graebaen Street~
+   This wide and long street serves as one of the main veins of life through
+the city.  A few small alleys lead off of it, though they are quite cluttered
+and messy.  The street runs east to west and leads to both east and west gates.
+In the center they merge into the marketplace before continuing on.  
+Occasional wagons of crops or goods roll past with audble clamor.  A few
+peasants and commoners mingle along the street, most heading slowly towards the
+fountain plaza.  There is almost no wind here, and the area has the smell of a
+city.  Ahead the noise of the marketplace reaches your ears.  Smells of breads
+and leathers break through the city smell for a moment before fading once
+again.  Buildings on all sides give the feeling of a tightly enclosed area.
+~
+160 0 1
+D1
+~
+~
+0 0 16031
+D3
+~
+~
+0 0 16029
+S
+#16031
+Graebaen Street~
+   This wide and long street serves as one of the main veins of life through
+the city.  A few small alleys lead off of it, though they are quite cluttered
+and messy.  The street runs east to west and leads to both east and west gates.
+In the center they merge into the marketplace before continuing on.  
+Occasional wagons of crops or goods roll past with audble clamor.  A few
+peasants and commoners mingle along the street, most heading slowly towards the
+fountain plaza.  There is almost no wind here, and the area has the smell of a
+city.  Ahead the noise of the marketplace reaches your ears.  Smells of breads
+and leathers break through the city smell for a moment before fading once
+again.  Buildings on all sides give the feeling of a tightly enclosed area.
+~
+160 0 1
+D1
+~
+~
+0 0 16032
+D3
+~
+~
+0 0 16030
+S
+#16032
+Graebaen Street~
+   This wide and long street serves as one of the main veins of life through
+the city.  A few small alleys lead off of it, though they are quite cluttered
+and messy.  The street runs east to west and leads to both east and west gates.
+In the center they merge into the marketplace before continuing on.  
+Occasional wagons of crops or goods roll past with audble clamor.  A few
+peasants and commoners mingle along the street, most heading slowly towards the
+fountain plaza.  There is almost no wind here, and the area has the smell of a
+city.  Ahead the noise of the marketplace reaches your ears.  Smells of breads
+and leathers break through the city smell for a moment before fading once
+again.  Buildings on all sides give the feeling of a tightly enclosed area.
+~
+160 0 1
+D1
+~
+~
+0 0 16205
+D3
+~
+~
+0 0 16031
+S
+#16033
+Haenna's Bake Shop~
+   The street abruptly ends here and emptys into the fountain plaza of the
+city.  Bustling citizens and merchants from all over the continent come here to
+barter, purchase, and sell goods of all kinds.  The cobblestone street
+chattering with the sounds of a countless number of people walking around.  
+The scent of fresh fish and breads hovers in the air.  The milling people swirl
+around you going about their respective business'.  Dominating the plaza is a
+vast fountain in its center providing both water and beauty to the populace of
+the city.  Vendors have set up various stands and booths here, while peddlers
+wander around selling various small goods.  The sounds of soft music reaches
+your ears from nearby, it is, however, soon drowned out by the din of the crowd
+and the price calling by a nearby baker.
+~
+160 16 1
+D2
+~
+~
+0 0 16202
+S
+#16034
+Storeroom of the Plaza Baker~
+   This is the storeroom of the baker in fountain plaza.
+~
+160 1536 0
+D5
+~
+~
+0 0 16033
+S
+#16035
+Galaef's Leather Shop~
+   The cool breeze wafts through your hair and carries a respite from the odor
+of the city.  The hard cobblestone of the city compliments the dingy brown and
+white of the booths and stands.  Hawkers cry their wares and booth tenders
+shout their prices, all slightly higher than you would expect.  The commonfolk
+of the city float around like driftwood on a pond in the forest.  Music reaches
+your ears over the bustle of the crowd and the soft and steady sputtering of
+the fountain at the center of the plaza is a constant, regardless of the crowd.
+It seems like the only piece of sanity in this confusion and you cling to it
+like a lifeline.  A leather merchant's booth makes up most of this area, his
+wares look extremely well crafted.
+~
+160 144 1
+D2
+~
+~
+0 0 16204
+S
+#16036
+Storeroom of the Plaza Baker~
+   This is the storeroom of the leather merchant in fountain plaza.
+~
+160 1536 0
+D5
+~
+~
+0 0 16035
+S
+#16037
+Dilandra's Clay Shop~
+   The continuation of the mostly circular plaza leads to the southwestern part
+of the marketplace.  The inter-woven cobblestone streets make a hard and smooth
+surface on which you walk.  As you continue along, the sound of the crowd
+increases and decreases with no apparent pattern.  Barely above the crowd the
+sound of the fountain pouring into its tiled basin reaches your ears.  
+Carrying the scent of the city and the ocean, a cool breeze wafts through the
+marketplace.  Peasants and commoners, guards on and off duty, and royal
+messangers all scurry about purchasing the required goods from hawkers and
+vendors.  A myriad of useful, and some useless, things can be found here.
+~
+160 16 1
+D1
+~
+~
+0 0 16202
+S
+#16038
+Storeroom of the Plaza Potter~
+    This is the storeroom of the potter in fountain plaza.
+~
+160 1536 0
+D5
+~
+~
+0 0 16037
+S
+#16039
+Yaesa's Clothiers~
+   The cool north wind that has, at times, been masked by the dense buildings
+of the city is quite strong here.  It blows down Fountain street straight from
+the north gate and brings a welcome respite from the stuffy, clustered and
+crowded city marketplace.  The breeze is the only good thing.  The throng of
+milling people is extremely dense here due to the traffic coming off the north
+road and you are constantly elbowed, nudged, stepped on, and pushed as people
+hurry on with their trading.  Above you the skies are clouded with white wisps
+of moisture, though far from threatening to rain upon you.  You are broken from
+your reverie with the sky as a peasant carrying a load of fruits bumps into
+you.  You are in the northern section of the marketplace.  You notice a tailor
+has set up one of the more permanent booths here -- he seems to do fine work.
+To the south you can see the tip of a glorious fountain with its plume of water
+rising high above the masses.
+~
+160 16 1
+D3
+~
+~
+0 0 16204
+S
+#16040
+Storeroom of the Plaza Tailor~
+    This is the storeroom of the tailor in the fountain plaza.
+~
+160 1536 0
+D5
+~
+~
+0 0 16039
+S
+#16041
+Fountain Plaza~
+    Before you stands the majestic and beautiful fountain that gives the
+plaza its name. A delicate mosaic of colored tile and cobblestone create 
+one of the most, if not the most splendid site of the city. The fountain 
+pays a solemn and peaceful tribute to those who built the city; 'twas their
+final monument. Tearing your gaze away from the fountain you look around
+and find a relief from the crowded city plaza. The people are vastly
+quieter and fewer here; most of them sit on the sides of the fountain and
+stare fitfully into its trickling and flowing waters. The sounds of the
+market seem somehow fainter here, though you cannot be sure how. The noise
+of water on water fills your ears with peaceful bliss as the northern
+winds blow past you on their southward journey to the harbor and beyond.
+In all directions you can see people milling about, shopping and bartering. 
+To the northeast you can see the entrance to the great temple of the city.
+In the south you can barely make out the swaying tips of the many masts of
+ships docked and anchored in port.
+~
+160 20 1
+D0
+~
+~
+0 0 16203
+D1
+~
+~
+0 0 16206
+D2
+~
+~
+0 0 16208
+D3
+~
+~
+0 0 16205
+S
+#16042
+Faessa's Apothecary Shop~
+    The plaza is teeming with life. Hawkers and merchants cry their wares
+as women and wanderers mingle around looking over this and that. Children
+seem to be in abundance, almost as much so as every other folk in the 
+marketplace. The crowds seem to be thinner here in comparison to everywhere
+else in the plaza. Unfortunately you think you may have an idea why: the
+smell of fish is overwhelming. All the fishermen arrive here with their
+loads for the day and start skinning and selling them. Overlooking the
+stench you turn your attentions to the plaza itself. The cobblestone of
+which it is made of is worn and weathered from the years of use, and
+scatterings of hay, wheat, and fish heads make a rather macabre and
+sinus-unfriendly decor. The breeze that had occaisionally graced you around
+the city is not present here, probably due to the large fountain north of
+you obstructing its path. The sounds of people gossiping and the light
+trickling of water mask all other sounds that might be. To the north you
+spot a generally clear area. Southwards you see that a cart traveled street
+extends out of view and towards the harbor.
+~
+160 16 1
+D0
+~
+~
+0 0 16207
+S
+#16043
+Storeroom of the Plaza Metal Worker~
+Storeroom of the Plaza Metal Worker
+~
+160 512 0
+D5
+~
+~
+0 0 16042
+S
+#16044
+Gleab's Sword Shop~
+   As you wander through the plaza you find yourself here, in the southeastern
+section of it.  The cobblestones of the plaza make a steady and constant sound
+each time they connect with the soles of your boots.  Looking around at your
+surroundings you find not much out of the ordinary.  This part of the plaza is
+much the same as any other part: lots of smelly people doing trivial trading
+and bartering.  Women in long and drab skirts wander around with bored children
+in tow, filling their baskets with a variety of common objects.  The smell of
+unwashed people is starting to become nearly intolerable for you, and you find
+yourself edging away from the crowd.  Glancing upwards you discover a bright
+blue sky patched with puffs of gray clouds meandering along.  Everywhere you
+look there are more and more smelly people.
+~
+160 16 1
+D3
+~
+~
+0 0 16209
+S
+#16045
+Storeroom of the Plaza Vintager~
+   This is the storeroom of the plaza vintager. 
+~
+160 1536 1
+D5
+~
+~
+0 0 16044
+S
+#16046
+Pare's Armour Shop~
+   As you wander through the plaza you find yourself here, in the southeastern
+section of it.  The cobblestones of the plaza make a steady and constant sound
+each time they connect with the soles of your boots.  Looking around at your
+surroundings you find not much out of the ordinary.  This part of the plaza is
+much the same as any other part: lots of smelly people doing trivial trading
+and bartering.  Women in long and drab skirts wander around with bored children
+in tow, filling their baskets with a variety of common objects.  The smell of
+unwashed people is starting to become nearly intolerable for you, and you find
+yourself edging away from the crowd.  Glancing upwards you discover a bright
+blue sky patched with puffs of gray clouds meandering along.  Everywhere you
+look there are more and more smelly people.
+~
+160 16 1
+D0
+~
+~
+0 0 16209
+S
+#16047
+Armorers storage area~
+armorers storage area
+5
+6
+~
+160 1024 1
+D2
+~
+~
+0 0 16003
+S
+#16048
+Jereri's Wizard Shop~
+   As you wander through the plaza you find yourself here, in the southeastern
+section of it.  The cobblestones of the plaza make a steady and constant sound
+each time they connect with the soles of your boots.  Looking around at your
+surroundings you find not much out of the ordinary.  This part of the plaza is
+much the same as any other part: lots of smelly people doing trivial trading
+and bartering.  Women in long and drab skirts wander around with bored children
+in tow, filling their baskets with a variety of common objects.  The smell of
+unwashed people is starting to become nearly intolerable for you, and you find
+yourself edging away from the crowd.  Glancing upwards you discover a bright
+blue sky patched with puffs of gray clouds meandering along.  Everywhere you
+look there are more and more smelly people.
+~
+160 16 1
+D1
+~
+~
+0 0 16207
+S
+#16049
+Storeroom of the Plaza Wizard~
+    This is the storeroom of the plaza jeweler.
+~
+160 1536 0
+D5
+~
+~
+0 0 16048
+S
+#16050
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D0
+~
+~
+0 0 16051
+D2
+~
+~
+0 0 16168
+S
+#16051
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D0
+~
+~
+0 0 16052
+D2
+~
+~
+0 0 16050
+S
+#16052
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D0
+~
+~
+0 0 16053
+D2
+~
+~
+0 0 16051
+S
+#16053
+Afeari's Way~
+   This street is fitted together with mortar and stone to create a gray
+cobblestone street.  Buildings of various sizes have been erected on the east
+side of the street while the stone walls of the city slant sharply upwards on
+the west side.  A cool north wind blows past you, continuing its long journey
+from the snowcapped mountains to the far north.  Walking down the street your
+boots make a steady rythmn of clomping and you carefully make your way around
+the milling citizens of the city.
+~
+160 0 1
+D2
+~
+~
+0 0 16052
+D6
+~
+~
+0 0 16055
+D9
+~
+~
+0 0 16056
+S
+#16054
+Base of the Guard Tower~
+    The stone work of the street gives way to the immense masonry of the
+guard tower. Smooth slabs of stone make up the floor, walls, and stairs.
+A large table dominates the center of the room, two candles sit unlit on
+top of it. Keeping the candles company are several pieces of parchments,
+a log book, and a few empty, presumably, bottles of cheap ale. Empty torch
+racks hang from the walls -- the fire-wrought iron a bleak contrast to the
+dusty gray of the stonework. A curved staircase made of the same stone
+blocks wraps along the western wall, leading up to the second story of the
+tower.
+~
+160 8 1
+D4
+~
+~
+0 0 16023
+D6
+~
+~
+0 0 16026
+S
+#16055
+Arudric Street~
+   The street is fitted together with water-smoothed cobblestone. The spaces
+between the stones are kept clear and the street is well cleaned and cared 
+for. Boots of those traveling make a steady rythmn as they travel down this 
+east-west street. Along the street, shadows of the immense northern wall of 
+the city are cast down-- its stones are cut and fitted perfectly to create an 
+almost impervious barrier against all form of attack. Buildings are abundant 
+on the south edge of the street and many commoners and peasants walk around 
+enacting the affairs of the day. Continuing on the way no breezes give relief 
+to the odor of the city. Every now and then a city guards patrolling the 
+streets passes. In the sky above you notice the high-altitude clouds spreading 
+out like tendrils across the sky. 
+~
+160 0 1
+D1
+~
+~
+0 0 16064
+D8
+~
+~
+0 0 16053
+S
+#16056
+Base of the Guard Tower~
+    The stone work of the street gives way to the immense masonry of the
+guard tower. Smooth slabs of stone make up the floor, walls, and stairs.
+A large table dominates the center of the room, two candles sit unlit on
+top of it. Keeping the candles company are several pieces of parchments,
+a log book, and a few empty, presumably, bottles of cheap ale. Empty torch
+racks hang from the walls -- the fire-wrought iron a bleak contrast to the
+dusty gray of the stonework. A curved staircase made of the same stone
+blocks wraps along the western wall, leading up to the second story of the
+tower.
+~
+160 8 1
+D4
+~
+~
+0 0 16057
+D7
+~
+~
+0 0 16053
+S
+#16057
+Second Floor of the Guard Tower~
+    Ascending the stone steps, you quickly rise into the second floor of
+the guard tower. As barren as the floor below it, this room is circular
+and made of large stone blocks. Torch racks lie dark and empty on the
+cold stone walls. Resting on the floor and propped against the wall are
+several swords, pikes, and polearms. A dank musty smell hangs around the
+room. A barrel stands against the northern part of the wall, presumably
+empty. An archway to the south leads out onto the top of the wall. The
+stairway leads back down towards the the base of the tower.
+~
+160 12 1
+D2
+~
+~
+0 0 16063
+D5
+~
+~
+0 0 16056
+D6
+~
+~
+0 0 16071
+S
+#16058
+Above the West Gate~
+    You stand high above the street below looking out over the crowds coming
+and going through the west gate. To the east you are granted a panoramic view
+of the city and its inhabitants. You can just make out the tall plume of water
+that spouts forth from the fountain at the city's center. Out in the west the
+vast fields of the Gramen spread out like an endless sea of emerald. The stone
+on which you stand is mortared and well fitted to provide more than ample
+protection against large projectiles. Up and down the wall you can see guards
+wandering on patrol and staring out into the fields for any sign of marauding
+creatures.
+~
+160 0 1
+D0
+~
+~
+0 0 16059
+D2
+~
+~
+0 0 16005
+S
+#16059
+Atop the Western Wall~
+   From this vantage point you can see clear across the city, and for miles 
+out over the lands beyond the city walls. The cool north wind cuts across 
+your face sending a chill down your spine. Carried on the blowing breeze are 
+the smells of conifers and damp earth, picked up from the northern forests. 
+Looking out over the city you see the many curling wisps of smoke rising from 
+chimneys, the dusty gray smoke is scattered on the wind almost immediately 
+after rising above the height of the city walls. To the south you can make 
+out the vast open blue of the ocean, with the masts of tall ships swaying to 
+and fro in the current. As you walk along atop the wall your feet make a 
+droning stomping sound on the interlocker gray stone. Behind and you and 
+before you are guard towers, making small barracks for the various watches. 
+~
+160 0 1
+D0
+~
+~
+0 0 16060
+D2
+~
+~
+0 0 16058
+S
+#16060
+Atop the Western Wall~
+    From this vantage point you can see clear across the city, and for miles
+out over the lands beyond the city walls. The cool north wind cuts across
+your face sending a chill down your spine. Carried on the blowing breeze are
+the smells of conifers and damp earth, picked up from the northern forests.
+Looking out over the city you see the many curling wisps of smoke rising
+from chimneys, the dusty gray smoke is scattered on the wind almost
+immediately after rising above the height of the city walls. To the south you
+can make out the vast open blue of the ocean, with the masts of tall ships
+swaying to and fro in the current. As you walk along atop the wall your feet
+make a droning stomping sound on the interlocker gray stone. Behind and you
+and before you are guard towers, making small barracks for the various
+watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16061
+D2
+~
+~
+0 0 16059
+S
+#16061
+Atop the Western Wall~
+   From this vantage point you can see clear across the city, and for miles 
+out over the lands beyond the city walls. The cool north wind cuts across 
+your face sending a chill down your spine. Carried on the blowing breeze are 
+the smells of conifers and damp earth, picked up from the northern forests. 
+Looking out over the city you see the many curling wisps of smoke rising from 
+chimneys, the dusty gray smoke is scattered on the wind almost immediately 
+after rising above the height of the city walls. To the south you can make 
+out the vast open blue of the ocean, with the masts of tall ships swaying to 
+and fro in the current. As you walk along atop the wall your feet make a 
+droning stomping sound on the interlocker gray stone. Behind and you and 
+before you are guard towers, making small barracks for the various watches. 
+~
+160 0 1
+D0
+~
+~
+0 0 16062
+D2
+~
+~
+0 0 16060
+S
+#16062
+Atop the Western Wall~
+    From this vantage point you can see clear across the city, and for miles
+out over the lands beyond the city walls. The cool north wind cuts across
+your face sending a chill down your spine. Carried on the blowing breeze are
+the smells of conifers and damp earth, picked up from the northern forests.
+Looking out over the city you see the many curling wisps of smoke rising
+from chimneys, the dusty gray smoke is scattered on the wind almost
+immediately after rising above the height of the city walls. To the south you
+can make out the vast open blue of the ocean, with the masts of tall ships
+swaying to and fro in the current. As you walk along atop the wall your feet
+make a droning stomping sound on the interlocker gray stone. Behind and you
+and before you are guard towers, making small barracks for the various
+watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16063
+D2
+~
+~
+0 0 16061
+S
+#16063
+Atop the Western Wall~
+    From this vantage point you can see clear across the city, and for miles
+out over the lands beyond the city walls. The cool north wind cuts across
+your face sending a chill down your spine. Carried on the blowing breeze are
+the smells of conifers and damp earth, picked up from the northern forests.
+Looking out over the city you see the many curling wisps of smoke rising
+from chimneys, the dusty gray smoke is scattered on the wind almost
+immediately after rising above the height of the city walls. To the south you
+can make out the vast open blue of the ocean, with the masts of tall ships
+swaying to and fro in the current. As you walk along atop the wall your feet
+make a droning stomping sound on the interlocker gray stone. Behind and you
+and before you are guard towers, making small barracks for the various
+watches.
+~
+160 0 1
+D0
+~
+~
+0 0 16057
+D2
+~
+~
+0 0 16062
+S
+#16064
+Arudric Street~
+   The street is fitted together with water-smoothed cobblestone.  The spaces
+between the stones are kept clear and the street is well cleaned and cared for.
+Boots of those traveling make a steady rythmn as they travel down this
+east-west street.  Along the street, shadows of the immense northern wall of
+the city are cast down-- its stones are cut and fitted perfectly to create an
+almost impervious barrier against all form of attack.  Buildings are abundant
+on the south edge of the street and many commoners and peasants walk around
+enacting the affairs of the day.  Continuing on the way no breezes give relief
+to the odor of the city.  Every now and then a city guards patrolling the
+streets passes.  In the sky above you notice the high-altitude clouds spreading
+out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16065
+D3
+~
+~
+0 0 16055
+S
+#16065
+Arudric Street~
+   The street is fitted together with water-smoothed cobblestone.  The spaces
+between the stones are kept clear and the street is well cleaned and cared for.
+Boots of those traveling make a steady rythmn as they travel down this
+east-west street.  Along the street, shadows of the immense northern wall of
+the city are cast down-- its stones are cut and fitted perfectly to create an
+almost impervious barrier against all form of attack.  Buildings are abundant
+on the south edge of the street and many commoners and peasants walk around
+enacting the affairs of the day.  Continuing on the way no breezes give relief
+to the odor of the city.  Every now and then a city guards patrolling the
+streets passes.  In the sky above you notice the high-altitude clouds spreading
+out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16066
+D3
+~
+~
+0 0 16064
+S
+#16066
+Arudric Street~
+   The street is fitted together with water-smoothed cobblestone.  The spaces
+between the stones are kept clear and the street is well cleaned and cared for.
+Boots of those traveling make a steady rythmn as they travel down this
+east-west street.  Along the street, shadows of the immense northern wall of
+the city are cast down-- its stones are cut and fitted perfectly to create an
+almost impervious barrier against all form of attack.  Buildings are abundant
+on the south edge of the street and many commoners and peasants walk around
+enacting the affairs of the day.  Continuing on the way no breezes give relief
+to the odor of the city.  Every now and then a city guards patrolling the
+streets passes.  In the sky above you notice the high-altitude clouds spreading
+out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16067
+D3
+~
+~
+0 0 16065
+S
+#16067
+Arudric Street~
+   The street is fitted together with water-smoothed cobblestone.  The spaces
+between the stones are kept clear and the street is well cleaned and cared for.
+Boots of those traveling make a steady rythmn as they travel down this
+east-west street.  Along the street, shadows of the immense northern wall of
+the city are cast down-- its stones are cut and fitted perfectly to create an
+almost impervious barrier against all form of attack.  Buildings are abundant
+on the south edge of the street and many commoners and peasants walk around
+enacting the affairs of the day.  Continuing on the way no breezes give relief
+to the odor of the city.  Every now and then a city guards patrolling the
+streets passes.  In the sky above you notice the high-altitude clouds spreading
+out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16068
+D3
+~
+~
+0 0 16066
+S
+#16068
+Arudric Street~
+   The street is fitted together with water-smoothed cobblestone.  The spaces
+between the stones are kept clear and the street is well cleaned and cared for.
+Boots of those traveling make a steady rythmn as they travel down this
+east-west street.  Along the street, shadows of the immense northern wall of
+the city are cast down-- its stones are cut and fitted perfectly to create an
+almost impervious barrier against all form of attack.  Buildings are abundant
+on the south edge of the street and many commoners and peasants walk around
+enacting the affairs of the day.  Continuing on the way no breezes give relief
+to the odor of the city.  Every now and then a city guards patrolling the
+streets passes.  In the sky above you notice the high-altitude clouds spreading
+out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16069
+D3
+~
+~
+0 0 16067
+S
+#16069
+North Gate~
+   Through this gate enter all the caravans and merchants from throughout the
+lands of Aringill. The main garrison of the guards of Aringill is not very far 
+from here, and you notice a large amount of guard traffic in and out of the 
+gates. The northern portion of the wall that encompases the entire city is both 
+forboding and humbling in all its architectural blandness. The structure of
+north gate is designed solely for defense and it is obvious with how each
+immense stone block is cut and fitted perfectly with its neighbor. A steel
+portcullis is raised high above both the inside and outside wall-borders. Guard
+towers on both sides of the gate provide a passageway for the throng of people,
+merchant and commoner alike, that mill slowly in and out of the city. Looking
+around more you can see a large plume of water shooting up above the crowds in
+the far south. Out the north gate you can see a large plain that quickly turns
+into a dense deciduous forest.
+~
+160 0 1
+D1
+~
+~
+0 0 16116
+D2
+~
+~
+0 0 16117
+D3
+~
+~
+0 0 16068
+D6
+~
+~
+0 0 16079
+D9
+~
+~
+0 0 16070
+S
+#16070
+Base of the Guard Tower~
+   The stone work of the street gives way to the immense masonry of the guard
+tower.  Smooth slabs of stone make up the floor, walls, and stairs.  A large
+table dominates the center of the room, two candles sit unlit on top of it.  
+Keeping the candles company are several pieces of parchments, a log book, and a
+few empty, presumably, bottles of cheap ale.  Empty torch racks hang from the
+walls -- the fire-wrought iron a bleak contrast to the dusty gray of the
+stonework.  A curved staircase made of the same stone blocks wraps along the
+western wall, leading up to the second story of the tower.
+~
+160 8 1
+D4
+~
+~
+0 0 16078
+D7
+~
+~
+0 0 16069
+S
+#16071
+Atop the Northern Wall~
+   Stone fitted into stone with such precision that you think not even a hair
+would fit in the cracks.  Standing here on the northern wall of Aringill, you 
+stare out into the dark forests to the north and marvel at how strong the winds 
+are strong and cold as they continue their southern journey from the jagged peaks
+in the distance on the northern horizon.  The wall is roughly twenty feet
+across at the top and widens by almost fifty percent at its base.  To your
+south the city is sprawled out in all its splendor.  A large plume of water can
+be seen rising just above the rooftops, spouting out into a mushroom before
+falling back to the earth.  From what you can see of the central marketplace it
+is very crowded.  The peasants and commonfolk of the city are using the
+daylight to barter and trade for needed goods.  You notice several guards
+patrolling up and down the wall, looking for any signs of hostile life in the
+forests to the north.
+~
+160 0 1
+D1
+~
+~
+0 0 16072
+D8
+~
+~
+0 0 16057
+S
+#16072
+Atop the Northern Wall~
+   Stone fitted into stone with such precision that you think not even a hair
+would fit in the cracks.  Standing here on the northern wall of Aringill, you 
+stare out into the dark forests to the north and marvel at how strong the winds 
+are strong and cold as they continue their southern journey from the jagged peaks
+in the distance on the northern horizon.  The wall is roughly twenty feet
+across at the top and widens by almost fifty percent at its base.  To your
+south the city is sprawled out in all its splendor.  A large plume of water can
+be seen rising just above the rooftops, spouting out into a mushroom before
+falling back to the earth.  From what you can see of the central marketplace it
+is very crowded.  The peasants and commonfolk of the city are using the
+daylight to barter and trade for needed goods.  You notice several guards
+patrolling up and down the wall, looking for any signs of hostile life in the
+forests to the north.
+~
+160 0 1
+D1
+~
+~
+0 0 16073
+D3
+~
+~
+0 0 16071
+S
+#16073
+Atop the Northern Wall~
+   Stone fitted into stone with such precision that you think not even a hair
+would fit in the cracks.  Standing here on the northern wall of Aringill, you 
+stare out into the dark forests to the north and marvel at how strong the winds 
+are strong and cold as they continue their southern journey from the jagged peaks
+in the distance on the northern horizon.  The wall is roughly twenty feet
+across at the top and widens by almost fifty percent at its base.  To your
+south the city is sprawled out in all its splendor.  A large plume of water can
+be seen rising just above the rooftops, spouting out into a mushroom before
+falling back to the earth.  From what you can see of the central marketplace it
+is very crowded.  The peasants and commonfolk of the city are using the
+daylight to barter and trade for needed goods.  You notice several guards
+patrolling up and down the wall, looking for any signs of hostile life in the
+forests to the north.
+~
+160 0 1
+D1
+~
+~
+0 0 16074
+D3
+~
+~
+0 0 16072
+S
+#16074
+Atop the Northern Wall~
+   Stone fitted into stone with such precision that you think not even a hair
+would fit in the cracks.  Standing here on the northern wall of Aringill, you 
+stare out into the dark forests to the north and marvel at how strong the winds
+are strong and cold as they continue their southern journey from the jagged peaks
+in the distance on the northern horizon.  The wall is roughly twenty feet
+across at the top and widens by almost fifty percent at its base.  To your
+south the city is sprawled out in all its splendor.  A large plume of water can
+be seen rising just above the rooftops, spouting out into a mushroom before
+falling back to the earth.  From what you can see of the central marketplace it
+is very crowded.  The peasants and commonfolk of the city are using the
+daylight to barter and trade for needed goods.  You notice several guards
+patrolling up and down the wall, looking for any signs of hostile life in the
+forests to the north.
+~
+160 0 1
+D1
+~
+~
+0 0 16075
+D3
+~
+~
+0 0 16073
+S
+#16075
+Atop the Northern Wall~
+   Stone fitted into stone with such precision that you think not even a hair
+would fit in the cracks.  Standing here on the northern wall of Aringill, you 
+stare out into the dark forests to the north and marvel at how strong the winds 
+are strong and cold as they continue their southern journey from the jagged peaks
+in the distance on the northern horizon.  The wall is roughly twenty feet
+across at the top and widens by almost fifty percent at its base.  To your
+south the city is sprawled out in all its splendor.  A large plume of water can
+be seen rising just above the rooftops, spouting out into a mushroom before
+falling back to the earth.  From what you can see of the central marketplace it
+is very crowded.  The peasants and commonfolk of the city are using the
+daylight to barter and trade for needed goods.  You notice several guards
+patrolling up and down the wall, looking for any signs of hostile life in the
+forests to the north.
+~
+160 0 1
+D1
+~
+~
+0 0 16076
+D3
+~
+~
+0 0 16074
+S
+#16076
+Atop the Northern Wall~
+   Stone fitted into stone with such precision that you think not even a hair
+would fit in the cracks.  Standing here on the northern wall of Aringill, you 
+stare out into the dark forests to the north and marvel at how strong the winds 
+are strong and cold as they continue their southern journey from the jagged peaks
+in the distance on the northern horizon.  The wall is roughly twenty feet
+across at the top and widens by almost fifty percent at its base.  To your
+south the city is sprawled out in all its splendor.  A large plume of water can
+be seen rising just above the rooftops, spouting out into a mushroom before
+falling back to the earth.  From what you can see of the central marketplace it
+is very crowded.  The peasants and commonfolk of the city are using the
+daylight to barter and trade for needed goods.  You notice several guards
+patrolling up and down the wall, looking for any signs of hostile life in the
+forests to the north.
+~
+160 0 1
+D1
+~
+~
+0 0 16077
+D3
+~
+~
+0 0 16075
+S
+#16077
+Atop the Northern Wall~
+   Stone fitted into stone with such precision that you think not even a hair
+would fit in the cracks.  Standing here on the northern wall of Aringill, you 
+stare out into the dark forests to the north and marvel at how strong the winds 
+are strong and cold as they continue their southern journey from the jagged peaks
+in the distance on the northern horizon.  The wall is roughly twenty feet
+across at the top and widens by almost fifty percent at its base.  To your
+south the city is sprawled out in all its splendor.  A large plume of water can
+be seen rising just above the rooftops, spouting out into a mushroom before
+falling back to the earth.  From what you can see of the central marketplace it
+is very crowded.  The peasants and commonfolk of the city are using the
+daylight to barter and trade for needed goods.  You notice several guards
+patrolling up and down the wall, looking for any signs of hostile life in the
+forests to the north.
+~
+160 0 1
+D1
+~
+~
+0 0 16078
+D3
+~
+~
+0 0 16076
+S
+#16078
+Second Floor of the Guard Tower~
+   Ascending the stone steps, you quickly rise into the second floor of the
+guard tower.  As barren as the floor below it, this room is circular and made
+of large stone blocks.  Torch racks lie dark and empty on the cold stone walls.
+Resting on the floor and propped against the wall are several swords, pikes,
+and polearms.  A dank musty smell hangs around the room.  A barrel stands
+against the northern part of the wall, presumably empty.  An archway to the
+south leads out onto the top of the wall.  The stairway leads back down towards
+the the base of the tower.
+~
+160 12 1
+D1
+~
+~
+0 0 16081
+D3
+~
+~
+0 0 16077
+D5
+~
+~
+0 0 16070
+S
+#16079
+Base of the Guard Tower~
+   The stone work of the street gives way to the immense masonry of the guard
+tower.  Smooth slabs of stone make up the floor, walls, and stairs.  A large
+table dominates the center of the room, two candles sit unlit on top of it.  
+Keeping the candles company are several pieces of parchments, a log book, and a
+few empty, presumably, bottles of cheap ale.  Empty torch racks hang from the
+walls -- the fire-wrought iron a bleak contrast to the dusty gray of the
+stonework.  A curved staircase made of the same stone blocks wraps along the
+western wall, leading up to the second story of the tower.
+~
+160 8 1
+D4
+~
+~
+0 0 16080
+D8
+~
+~
+0 0 16069
+S
+#16080
+Second Floor of the Guard Tower~
+   Ascending the stone steps, you quickly rise into the second floor of the
+guard tower.  As barren as the floor below it, this room is circular and made
+of large stone blocks.  Torch racks lie dark and empty on the cold stone walls.
+Resting on the floor and propped against the wall are several swords, pikes,
+and polearms.  A dank musty smell hangs around the room.  A barrel stands
+against the northern part of the wall, presumably empty.  An archway to the
+south leads out onto the top of the wall.  The stairway leads back down towards
+the the base of the tower.
+~
+160 12 1
+D1
+~
+~
+0 0 16165
+D3
+~
+~
+0 0 16081
+D5
+~
+~
+0 0 16079
+S
+#16081
+Above North Gate~
+    The view from here is nothing short of spectacular. Spread about before you
+in all directions is the city and the lands around it. A very cool and crisp
+northern wind blow fiercely past you, continuing the southward-bound journey
+it began high in the jagged snow-capped peaks far to the north. The city is
+spread out beneath you like a giant jigsaw puzzle and you can clearly see the
+large plume of water and the marketplace that surrounds it in the its center.
+The buildings and people of the city make for fascinating viewing and you
+find yourself watching intently the comings and goings of both the commoners
+and the merchants. Throughout the masses you can see armored guards patrolling
+the streets of the city looking for any kind of trouble. To the very far south,
+completely across the city you can see ships docked and anchored in the vast
+harbor -- their tall masts swaying to and fro in the strong breezes and
+currents. Every here and there you can see faint wisps of smoke rising from a
+chimney. Turning about you find yourself gazing out into the immense deciduous
+forest just outside the northern city wall. You cannot detect any signs of
+life in the forest but you have no doubt it is flourishing. A well-traveled
+road leads straight into the woods and your eyes lose sight of it quickly
+under the thick canopy. You notice for the first time that you are not alone
+atop the wall guards of Aringill walk up and down its length staring out into 
+the wilderness for any signs of hostile activity.
+~
+160 0 1
+D1
+~
+~
+0 0 16080
+D3
+~
+~
+0 0 16078
+S
+#16082
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16083
+D3
+~
+~
+0 0 16027
+S
+#16083
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16084
+D3
+~
+~
+0 0 16082
+S
+#16084
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16085
+D3
+~
+~
+0 0 16083
+S
+#16085
+South Gate~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16086
+D2
+~
+~
+0 0 16169
+D3
+~
+~
+0 0 16084
+D7
+~
+~
+0 0 16128
+D8
+~
+~
+0 0 16127
+S
+#16086
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16087
+D3
+~
+~
+0 0 16085
+S
+#16087
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16088
+D3
+~
+~
+0 0 16086
+S
+#16088
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 1
+D1
+~
+~
+0 0 16089
+D3
+~
+~
+0 0 16087
+S
+#16089
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 0
+D1
+~
+~
+0 0 16090
+D3
+~
+~
+0 0 16088
+S
+#16090
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 0
+D3
+~
+~
+0 0 16089
+D6
+~
+~
+0 0 16091
+D7
+~
+~
+0 0 16129
+S
+#16091
+Ederan Street~
+    The street you stand upon is fitted together with water-smoothed
+cobblestone. The spaces between the stones are kept clear and the street is
+well cleaned and cared for. Your boots make a steady rythmn as you travel down
+this east-west street. You stop and stand in the shadows of the immense 
+northern wall of the city -- its stones are cut and fitted perfectly to create 
+an almost impervious barrier against all form of attack. Buildings are 
+abundant on the south edge of the street and you can see many commoners and 
+peasants walking around enacting the affairs of the day. As you continue on 
+your way you find yourself wishing for a breeze to blow away the odor of the 
+city. Every now and then you pass one of the city guards patrolling the 
+streets. Turning your head skyward you notice the high-altitude clouds 
+spreading out like tendrils across the sky.
+~
+160 0 1
+D6
+~
+~
+0 0 16092
+D8
+~
+~
+0 0 16090
+S
+#16092
+Gleorcyn Alley~
+   The sounds of dripping water echo up and down the alley.  It's a dingy place
+not common in the city itself.  Hoods and thieves call this their home and most
+people attempt to avoid it where possible.  Garbage has been thrown on the
+street from the shops, pieces of tsang root litter the ground as well.  The
+buildings in this end of the city have almost all been abandoned, some have
+been overrun by the homeless.  The smell of smoke is thick in the area from
+small fires started by the homeless to keep them warm.
+~
+160 0 1
+D0
+~
+~
+0 0 16093
+D7
+~
+~
+0 0 16130
+D8
+~
+~
+0 0 16091
+S
+#16093
+Gleorcyn Alley~
+   The sounds of dripping water echo up and down the alley.  It's a dingy place
+not common in the city itself.  Hoods and thieves call this their home and most
+people attempt to avoid it where possible.  Garbage has been thrown on the
+street from the shops, pieces of tsang root litter the ground as well.  The
+buildings in this end of the city have almost all been abandoned, some have
+been overrun by the homeless.  The smell of smoke is thick in the area from
+small fires started by the homeless to keep them warm.
+~
+160 0 1
+D0
+~
+~
+0 0 16094
+D2
+~
+~
+0 0 16092
+S
+#16094
+Gleorcyn Alley~
+   The sounds of dripping water echo up and down the alley.  It's a dingy place
+not common in the city itself.  Hoods and thieves call this their home and most
+people attempt to avoid it where possible.  Garbage has been thrown on the
+street from the shops, pieces of tsang root litter the ground as well.  The
+buildings in this end of the city have almost all been abandoned, some have
+been overrun by the homeless.  The smell of smoke is thick in the area from
+small fires started by the homeless to keep them warm.
+~
+160 0 0
+D0
+~
+~
+0 0 16095
+D2
+~
+~
+0 0 16093
+D9
+~
+~
+0 0 16096
+S
+#16095
+Gleorcyn Alley~
+   The sounds of dripping water echo up and down the alley.  It's a dingy place
+not common in the city itself.  Hoods and thieves call this their home and most
+people attempt to avoid it where possible.  Garbage has been thrown on the
+street from the shops, pieces of tsang root litter the ground as well.  The
+buildings in this end of the city have almost all been abandoned, some have
+been overrun by the homeless.  The smell of smoke is thick in the area from
+small fires started by the homeless to keep them warm.
+~
+160 0 1
+D0
+~
+~
+0 0 16097
+D2
+~
+~
+0 0 16094
+D8
+~
+~
+0 0 16096
+S
+#16096
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street.  All along the street, huge buildings tower high above you.  Mighty
+manor houses, some over 4 stories tall.  Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground.  Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters that
+eventually lead to the Sea of Tyress.  Gates and arched doorways mark the
+entrances to the houses of the clans.  Some you recognize, others you don't,
+but they all leave you with a trembling hand.  Your cloak is getting soaked,
+and you draw it tigher around you, trying in vain to shut out the cold, driving
+rain.  Your teeth chattering, you wonder if one of them will let you inside to
+warm yourself by the fire.
+~
+160 0 1
+D6
+~
+~
+0 0 16095
+D7
+~
+~
+0 0 16094
+S
+#16097
+Gleorcyn Alley~
+   The sounds of dripping water echo up and down the alley.  It's a dingy place
+not common in the city itself.  Hoods and thieves call this their home and most
+people attempt to avoid it where possible.  Garbage has been thrown on the
+street from the shops, pieces of tsang root litter the ground as well.  The
+buildings in this end of the city have almost all been abandoned, some have
+been overrun by the homeless.  The smell of smoke is thick in the area from
+small fires started by the homeless to keep them warm.
+~
+160 0 1
+D0
+~
+~
+0 0 16098
+D2
+~
+~
+0 0 16095
+S
+#16098
+Gleorcyn Alley~
+   The sounds of dripping water echo up and down the alley.  It's a dingy place
+not common in the city itself.  Hoods and thieves call this their home and most
+people attempt to avoid it where possible.  Garbage has been thrown on the
+street from the shops, pieces of tsang root litter the ground as well.  The
+buildings in this end of the city have almost all been abandoned, some have
+been overrun by the homeless.  The smell of smoke is thick in the area from
+small fires started by the homeless to keep them warm.
+~
+160 0 1
+D0
+~
+~
+0 0 16099
+D2
+~
+~
+0 0 16097
+S
+#16099
+Gleorcyn Alley~
+   The sounds of dripping water echo up and down the alley.  It's a dingy place
+not common in the city itself.  Hoods and thieves call this their home and most
+people attempt to avoid it where possible.  Garbage has been thrown on the
+street from the shops, pieces of tsang root litter the ground as well.  The
+buildings in this end of the city have almost all been abandoned, some have
+been overrun by the homeless.  The smell of smoke is thick in the area from
+small fires started by the homeless to keep them warm.
+~
+160 0 1
+D0
+~
+~
+0 0 16101
+D2
+~
+~
+0 0 16098
+S
+#99999
+$~

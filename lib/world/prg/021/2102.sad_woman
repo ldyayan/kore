@@ -1,0 +1,113 @@
+>greet_prog 4~
+   emote sniffles sadly, but tries to manage a brave smile.
+~
+>speech_prog hello~
+  smile
+  say Hello.  Can you please help me?  I've lost my flags and need them returned.
+  say I can reward you handsomely.
+~
+>give_prog quest flag locate~
+   say Thank you! Thank you!
+   say Here is something I've cooked up just for you!
+   mpoload 12595
+   give potion $n
+   drop potion
+   mpsilent junk flag
+~
+>give_prog quest flag green~
+   say Thank you! Thank you!
+   say Here is something I've cooked up just for you!
+   mpoload 2161
+   give potion $n
+   drop potion
+   mpsilent junk flag
+~
+>give_prog quest flag blue~
+   say Thank you! Thank you!
+   say Here is something I've cooked up just for you!
+   mpoload 2162
+   give potion $n
+   drop potion
+   mpsilent junk flag
+~
+>give_prog quest flag yellow~
+   say Thank you! Thank you!
+   say Here is something I've cooked up just for you!
+   mpoload 2163
+   give potion $n
+   drop potion
+   mpsilent junk flag
+~
+>give_prog quest flag gold~
+   say Thank you! Thank you!
+   say Here is something I've cooked up just for you!
+   mpoload 2164
+   give potion $n
+   drop potion
+   mpsilent junk flag
+~
+>give_prog quest flag elite~
+   gossip $n is brave beyond measure!  $e has completed an Elite Quest.
+   tell $n Thank you so much, this is for you.
+   if rand(10)
+     mpsilent junk flag
+     mpoload 651
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     mpsilent junk flag
+     mpoload 654
+     give all $n
+     drop all
+     break
+   endif
+   if rand(3)
+     mpsilent junk flag
+     mpoload 2103
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     mpsilent junk flag
+     mpoload 21964
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     mpsilent junk flag
+     mpoload 18117
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     mpsilent junk flag
+     mpoload 1211
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     mpsilent junk flag
+     mpoload 12591
+     give all $n
+     drop all
+     break
+   endif
+   if rand(10)
+     mpsilent junk flag
+     mpoload 2118
+     give all $n
+     drop all
+     break
+   endif
+     mpsilent junk flag
+     mpoload 2164
+     give all $n
+     drop all
+~
+|

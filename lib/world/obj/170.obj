@@ -1,0 +1,145 @@
+#17000
+skull crossbones bones key~
+a skull and crossbones key~
+A glimmering piece of metal depicting a skull and crossbones lies here.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#17001
+large dungeon key~
+a large dungeon key~
+A massive key rests here, radiating the darkness of a dungeon.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#17002
+forge fire~
+a metal forge~
+A large forge lies set in the wall illuminating the room with its fiery glow.~
+A fiery forge.
+~
+27 0 0
+17000 0 0 0
+0 0 0
+E
+forge fire~
+This is a fiery forge.
+~
+#17003
+test~
+a necklace of shiny copper cogwheels~
+A necklace made of shiny cogwheels of copper lies here.~
+~
+9 8916992 5
+0 0 0 0
+1 880 0
+E
+necklace shiny cogwheels copper metal~
+The links of this necklace seem to have runic inscriptions similar to the
+Master Tinker's hauberk, but one letter at a time.  The copper is highly 
+polished and has a burning red tint to it, suggesting an unusually pure
+source of copper was used to make it.
+~
+B
+4096
+#17004
+bow chain golden gold surcoat coat chainmail~
+a chainmail of golden bow-links~
+A chainmail armor of gold with links in the shape of bows lies here.~
+~
+9 8400896 9
+25 0 0 0
+11 56000 0
+E
+bow chain golden gold chainmail coat surcoat bowlinked~
+This rather heavy chainmail is made from fine links of gold fashioned in the
+shape of miniature bows, of several different types, and is the uniform of
+office of the Master Fletcher of Dale.  The seams are fashioned to allow an
+impressive freedom of movement, a feature not expected from such a heavy
+suit of armor.
+~
+A
+19 1
+A
+2 3
+A
+24 -3
+#17005
+ring stitched silver crown arrowtip arrowtips crude~
+a crudely stitched crown of silver arrowtips~
+A small ring of arrowtips stitched together with string lies in a heap here.~
+~
+9 524288 17
+4 0 0 0
+3 21000 0 75
+E
+ring stitched silver crown arrowtip arrowtips crude~
+The headdress of the Master Fletcher of Dale consists of an example from the
+finest batch of arrowtips made in the lifetime of each of the preceding 
+Masters, for a total of fifty-four in a finely stitched hoop.  Although
+some of the tips are crudely bent out of shape from obvious use, they all
+sparkle brilliantly, being made of the finest silver available.
+~
+A
+19 1
+B
+65536
+#17098
+sword ultimate bloodshed~
+the sword '^bUltimate ^rBloodshed^g'~
+A extremely gory looking sword lays here.~
+~
+5 323 8193
+50 50 20 3
+0 0 0
+A
+13 127
+A
+13 127
+A
+13 127
+A
+13 127
+A
+18 30
+A
+19 30
+B
+-1948437316
+S
+73 100 100
+S
+73 50 100
+S
+73 100 100
+#17099
+trophy terrasque gold image~
+a terrasque trophy~
+You see an image of pure gold depicting a mighty warrior, standing over a terrasque.~
+You hold in your hands a small statue of pure gold, depicting a mighty warrior,
+a hero of Kore if you will, standing defiantly over the body of a defeating terrasque.
+As you stare into the image, your eyes glaze over and you behold just the beginning
+of the sufferings that this champion had to endure to be rewarded with such honor.
+It is not in the blood of any warrior to take on such a mighty beast, and yet live
+to tell about it.  This truly was a Hero, a Hero of Kore.
+~
+8 1 16385
+0 0 0 0
+0 0 0
+E
+trophy terrasque gold image statue~
+You hold in your hands a small statue of pure gold, depicting a mighty warrior,
+a hero of Kore if you will, standing defiantly over the body of a defeated terrasque.
+As you stare into the image, your eyes glaze over and you behold just the beginning
+of the sufferings that this champion had to endure to be rewarded with such honor.
+It is not in the blood of any warrior to take on such a mighty beast, and yet live
+to tell about it.  This truly was a Hero, a Hero of Kore.
+~
+A
+18 3
+A
+19 3
+#99999
+$~

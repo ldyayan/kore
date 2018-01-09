@@ -1,0 +1,10 @@
+>greet_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>command_prog up~
+  kill $n
+  mpstopcommand
+~
+|

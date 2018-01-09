@@ -1,0 +1,126 @@
+#301
+Bloodspear Tribal Land~
+30199 40 2 3
+D 0 30166     1     2            A Cell door east
+M 0 30128     1 30166            General Malkav
+E 1 30113     1    14                    left wrist a ^Rrubied^n black bracer
+D 0 30134     1     2            A Sturdy Looking Hut door east
+M 0 30108     1 30134            Veld
+E 1 30144    50    16                    wield Axe of the Dragonslayer
+E 1 30114     5    12                    about a Wyrm hide cloak
+M 0 30109     1 30135            Vulpen
+E 1 30115    90    17                    held a vial of demons blood
+E 1 30116    40    11                    shield a dark titanium shield studded with black diamonds
+G 1 30147    50    -1                    give a syringe of pure adrenaline
+G 1 30111    50    -1                    give a flask of pure adrenaline
+M 0 30125     1 30160            BloodBane
+E 1 30155    75    17                    held an adamantium key
+E 1 30148    40     6                    head a blood-stained adamantium helm
+E 1 30149    30     5                    body blood-stained adamantium armor
+E 1 30146    25    10                    arms blood-stained adamantium sleeves
+E 1 30122    10    16                    wield the runesword, '^MWr^Bat^bh of T^Bal^Mos^N'
+M 0 30120     1 30155            the two-headed chaos dragon, 'Draken'
+E 1 30119    10    17                    held an opaque black crystal
+D 0 30168     4     2            The Prison Basement door up
+M 0 30129     1 30168            the forgotten beast
+E 1 30142     5     3                    neck 1 the Talisman of Terror
+D 0 30167     5     2            End of the Short Prison Hallway door down
+D 0 30164     1     2            The Prison Hallway door east
+D 0 30164     3     2            The Prison Hallway door west
+D 0 30164     2     2            The Prison Hallway door south
+O 0 30156    20 30191            BloodBane's Treasure
+O 1 30138    20 30191            the ^Rruby^n chalice
+D 0 30146     0     1            An Elementalists Hut door north
+D 1 30146     0     2            An Elementalists Hut door north
+M 0 30113     1 30146            Vorto, the elementalist
+E 1 30161   100    17                    held a black diamond key
+E 1 30127    35     1                    left finger a misty blue ring
+E 1 30126    15     2                    right finger a ^Rf^n^Yi^n^We^n^Yr^n^Ry^n magma ring
+E 1 30135     5    16                    wield a shard of ^GGaia's^n life force
+O 0 30117   100 30136            a black marble fountain
+M 0 30123     1 30136            a psychotic priest
+G 1 30121   100    -1                    give the scroll of great blessings
+E 1 30123    75    17                    held a ^Bs^Rh^Bi^Rm^Bm^Re^Br^Ri^Bn^Rg^N ball of raw magic
+D 0 30143     3     2            Vuchar Avenue door west
+D 0 30132     3     2            Crimson Street door west
+D 0 30150     0     1            A Dark Hut door north
+D 1 30150     0     2            A Dark Hut door north
+M 0 30116     1 30150            Ramulai
+E 1 30162   100    17                    held a pulsing ivory key
+E 1 30129     5    16                    wield a withered staff encrusted with crystals
+D 0 30147     2     1            A Bright Yellow Road door south
+D 1 30147     2     2            A Bright Yellow Road door south
+D 0 30144     0     1            A Bright Yellow Road door north
+D 1 30144     0     2            A Bright Yellow Road door north
+D 0 30144     1     1            A Bright Yellow Road door east
+D 1 30144     1     2            A Bright Yellow Road door east
+D 0 30144     2     1            A Bright Yellow Road door south
+D 1 30144     2     2            A Bright Yellow Road door south
+D 0 30145     2     1            A Red Glowing Hut door south
+D 1 30145     2     2            A Red Glowing Hut door south
+D 0 30145     5     1            A Red Glowing Hut door down
+M 0 30112     1 30145            the Chaos Mage Turagar
+E 1 30159   100    17                    held a ruby studded key
+E 1 30124    15     6                    head a ruby enlayed silver circlet
+E 1 30125     5    12                    about the Robe of ^rC^Rh^Wa^Ro^rS^N
+M 0 30114     1 30148            Ashur the Priest
+E 1 30160   100    17                    held key made of bark
+E 1 30128    30    16                    wield a ^Wdiamond^N studded ivory staff
+M 0 30137     1 30182            storm surrounding echo
+M 0 30138     1 30182            storm echo inroom
+M 0 30121     1 30182            the Archmage Havok
+G 1 30130   100    -1                    give a glowing steel key
+E 1 30139    90    17                    held the orb of lightning
+E 1 30141     5     9                    hands ^WThunder^N^BClap^n gloves
+E 1 30140    10    16                    wield the Storm Star
+E 1 30154     5     3                    neck 1 the amulet of storms
+O 0 30157   100 30177            vortex of lightning
+O 0 30102   100 30119            a vial of crystal clear blue liquid
+O 0 30103   100 30119            the dried tongue of a vampire
+O 0 30104   100 30119            a shard of ice
+O 0 30105   100 30119            a piece of hardened molten lava
+M 0 30122    10 30158            a bloodspear warrior trainee
+M 0 30122    10 30158            a bloodspear warrior trainee
+M 0 30122    10 30158            a bloodspear warrior trainee
+M 0 30122    10 30158            a bloodspear warrior trainee
+M 0 30122    10 30158            a bloodspear warrior trainee
+M 0 30104     2 30127            the Bloodspear Gateguard
+E 1 30109    99    17                    held a small metal key
+E 1 30107    75     5                    body a ^ggreen^n battle vest
+E 1 30108   100    16                    wield a great guard's spear
+M 0 30104     2 30127            the Bloodspear Gateguard
+E 1 30107    75     5                    body a ^ggreen^n battle vest
+E 1 30108   100    16                    wield a great guard's spear
+M 0 30136     1 30181            Bazrakk
+M 0 30115    10 30149            a warped beast of chaos
+M 0 30115    10 30149            a warped beast of chaos
+M 0 30115    10 30149            a warped beast of chaos
+M 0 30115    10 30149            a warped beast of chaos
+M 0 30115    10 30149            a warped beast of chaos
+M 0 30111     1 30138            Kaon, Ghakis Swordmaster
+E 1 30134   100    17                    held an iron key
+E 1 30145   100    16                    wield a training sword
+E 1 30120    10     9                    hands a pair of swordsmans gloves
+M 0 30131     6 30130            a citizen of Ghakis
+M 0 30131     6 30130            a citizen of Ghakis
+M 0 30131     6 30130            a citizen of Ghakis
+M 0 30131     6 30131            a citizen of Ghakis
+M 0 30131     6 30131            a citizen of Ghakis
+M 0 30131     6 30131            a citizen of Ghakis
+M 0 30101     1 30118            Asmodian
+D 0 30165     3     2            A Cell door west
+M 0 30127     1 30165            the fabled chimera, 'Blackmane'
+D 0 30163     0     2            Before The Prison door north
+M 0 30126     1 30163            the Prison Guard
+E 1 30136    99    17                    held the prison master key
+O 0 30133   100 30161            a glass weapons cabinet
+P 1 30110   100 30133                    put a slender ^Wmithril^N blade in a glass weapons cabinet
+M 0 30117     1 30151            a drunken wino
+M 0 30110     1 30137            Skag the Armourer
+E 1 30118    20     8                    feet a pair of blue steel boots
+M 0 30103     2 30121            a fierce Bobcat
+M 0 30103     2 30123            a fierce Bobcat
+O 0 30101   100 30112            a sign
+S
+#99999
+$~

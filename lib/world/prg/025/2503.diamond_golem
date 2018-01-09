@@ -1,0 +1,11 @@
+>greet_prog 100~
+  if name($n) == greb
+    bow greb
+    break
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+|

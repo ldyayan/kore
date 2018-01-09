@@ -1,0 +1,67 @@
+#90
+Wasteland~
+9099 25 2
+*
+* Created by Asa of Sweden
+*
+* Mobiles
+M 0 9000 7 9010         Giant Vulture
+M 0 9000 7 9014         Giant Vulture
+M 0 9000 7 9021         Giant Vulture
+M 0 9000 7 9030         Giant Vulture
+M 0 9001 6 9046         Demon Horse
+M 0 9001 6 9051         Demon Horse
+M 0 9001 6 9045         Demon Horse
+M 0 9001 6 9056         Demon Horse
+M 0 9002 15 9044        Rabid Fox
+M 0 9002 15 9042        Rabid Fox
+M 0 9002 15 9039        Rabid Fox
+M 0 9002 15 9033	Rabid Fox
+M 0 9002 15 9034        Rabid Fox
+M 0 9002 15 9002        Rabid Fox
+M 0 9002 15 9046        Rabid Fox
+M 0 9002 15 9055        Rabid Fox
+M 0 9002 15 9053        Rabid Fox
+M 0 9002 15 9053        Rabid Fox
+M 0 9002 15 9049        Rabid Fox
+M 0 9003 10 9001        Earth Demon
+M 0 9003 10 9047        Earth Demon
+M 0 9003 10 9011        Earth Demon
+M 0 9003 10 9026        Earth Demon
+M 0 9003 10 9052        Earth Demon
+M 0 9004 15 9001        Evil Bird
+* G 1 9006 10			Transparent icecube
+M 0 9004 15 9004        Evil Bird
+* G 1 9007 10			White icecube
+M 0 9004 15 9008        Evil Bird
+* G 1 9008 10			White icecube
+M 0 9004 15 9012	Evil Bird
+M 0 9004 15 9006        Evil Bird
+M 0 9004 15 9027        Evil Bird
+M 0 9004 15 9035        Evil Bird
+M 0 9005 1 9054         Iodocentipedus
+M 0 9006 5 9025         Fanged Reindeer
+M 0 9006 5 9027         Fanged Reindeer
+M 0 9006 5 9023         Fanged Reindeer
+M 0 9006 5 9031         Fanged Reindeer
+M 0 9007 2 9043         Hill Ghoul
+M 0 9007 2 9026         Hill Ghoul
+M 0 9008 2 9016         Stone Ogre
+* E 1 9000 10 16                  Stone Club
+M 0 9008 2 9022         Stone Ogre
+* E 1 9000 10 16                  Stone Club
+M 0 9009 1 9009         Ice Troll
+* E 1 9001 4 6			Troll Helm
+* E 1 9002 4 16			Ice Club
+M 0 9010 1 9006		Lithophiliac
+* G 1 9009 20			White icecube
+* G 1 9010 15			Pearly blue icecube
+M 0 9011 1 9006		Ice Wizard
+* G 1 9011 7			Golden Crystal
+* G 1 9003 3 			Robe of the Ice Wizard
+M 0 9012 1 9006		Stormbringer
+* G 1 9004 3			Cloak of the Stormbringer
+*
+S
+#99999
+$~

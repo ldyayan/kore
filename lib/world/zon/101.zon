@@ -1,0 +1,26 @@
+#101
+Shade's Tower II~
+10199 30 2 32
+M 0 10126     1 10117            Shade
+E 1 10106    70    17                    held a shadow key
+E 1 10104    20    14                    left wrist bracelet of defense
+E 1 10105    15     4                    neck 2 amulet 'Amagoru'
+E 1 10107    10     1                    left finger orb of sorcery
+D 0 10117     0     2            Shade's Palace door north
+M 0 10127     1 10118            Cabe Bedlam
+E 1 10108    10     4                    neck 2 love of the Lady of Amber
+D 0 10114     4     2            Top of the Stairs door up
+D 0 10115     5     2            Shade's Palace door down
+M 0 10116     1 10190            the ice elemental
+M 0 10117     1 10191            the steam elemental
+M 0 10118     1 10192            the air elemental
+M 0 10119     1 10193            the water elemental
+M 0 10121     1 10194            the magma elemental
+M 0 10120     1 10195            the lightning elemental
+M 0 10122     1 10196            the earth elemental
+M 0 10123     1 10197            the fire elemental
+M 0 10124     1 10199            the chaos elemental
+E 1 10103    33    16                    wield obsidian dagger
+S
+#99999
+$~

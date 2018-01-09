@@ -1,0 +1,54 @@
+#10500
+yachtman boatman sailor man captain~
+the crusty old Captain~
+The crusty old Captain is here, fishing in the ocean.
+~
+The old captain has skin like leather, and a mottled complexion. He looks 
+positively ancient; yet his muscles and his countenance show that he is a 
+capable warrior. He glares at you menacingly, suggesting you go away unless
+you want to <Buy ship>
+~
+214 8 125 S
+41 0 -21 12d12+3250 6d8+12
+25000 2000000
+9 9 1
+#10501
+sea serpent seaserpent~
+the huge, green Sea Serpent~
+The huge, green Sea Serpent is swimming in the ocean, hunting for food.
+~
+You see a huge monster before you. Its glowing green eyes and sharp teeth 
+terrify you. Green scales provide a spectacular defense armor. They would prob-
+ably make great armor on you too.
+~
+96 8 -875 S
+22 1 0 2d13+500 4d6+6
+0 80000
+9 9 0
+#10502
+barracuda fish~
+a viscious barracuda~
+A mean barracuda is flopping around in the sea.
+~
+This horrid-looking fish looks very unhappy that you've infested his sea.
+His sharp, huge teeth show just how unhappy he is as they clamp into you.
+~
+96 0 -150 S
+9 12 4 1d12+120 2d5+2
+0 5400
+9 9 0
+#10503
+leviathan~
+the demigod Leviathan~
+Leviathan is here, looking at you with a quizzical expresion.
+~
+Leviathan, the guardian of the seas--an eternal power guaranteed by the gods to
+keep an eye on all those travelers that enter Oceania. He is totally green, and
+has seaweed as his garb. His ancient eyes belie his youthful countenance.
+~
+274 8 1000 S
+44 0 -24 10d14+4500 6d7+12
+30000 2300000
+9 9 1
+#99999
+$~

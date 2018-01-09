@@ -1,0 +1,257 @@
+#6500
+guard dwarf dwarven elite gate gateguard~
+the dwarven gateguard~
+A dwarven gateguard stands here, guarding the gates of Kandelspire.
+~
+     You see a very strong looking dwarf with huge muscles rippling under
+his mithril chainmail. He has hard, dark look on his face, full of the
+harsh experiences of life and death. He will defend Kandelspire with his
+life.
+~
+719178 1086508 1000 S
+40 10 0 3d1+1 2d1+1
+0 0
+8 8 1
+#6501
+dwarf dwarven guard regular~
+the dwarven guard~
+A regular dwarven guard is here patrolling the area.
+~
+   He has been chosen for this position due to his strength and fierce
+loyalty to the cadres. He appears quite focused and determined to keep
+the enemies of the dwarves out of Kandelspire.
+~
+178504 1053736 1000 S
+23 14 7 2d1+1 1d1+1
+0 1
+8 8 1
+#6502
+guard dwarven tower watch 6502~
+the watchtower guard~
+A dwarven watchtower guard is standing here, looking out for the enemy.
+~
+     You see dwarf with extremely good eyes who is looking out for monsters
+and other enemies. He has been specially chosen for his eagle-like eyes since
+he can see great distances. He is beyond loyal; he will gladly lay down his
+life for the defense of Kandelspire.
+~
+713034 1053740 1000 S
+31 12 0 1d1+1 1d1+1
+0 1
+8 8 1 6
+#6503
+shopkeeper storekeeper armorer dwarf Fandagnir blacksmith smith~
+Fandagnir~
+Fandagnir the blacksmith is here, forging armor.
+~
+     Fandagnir, son of Burak, is a very respected blacksmith in Kandelspire.
+Since he is the first son of Burak, the most famous blacksmith in Kandelspire,
+he is quite skilled and talented in the art of smithery and metalworks. He is
+quite wealthy, but he still must fill very big shoes from his father.
+~
+192586 1032 1000 S
+55 0 -10 1d1+30000 2d8+32
+0 800000
+8 8 1
+#6504
+banker granite head~
+Granitehead~
+Granitehead the banker is here waiting for a customer
+~
+Granitehead is dressed nice for a dwarf.. you can tell he has extremely expensive
+tastes.. 
+You begin to wonder if its safe to leave your money with him
+~
+67115019 8 900 S
+50 0 -10 1d1+30000 2d8+22
+0 800000
+8 8 1
+#6505
+lizard giant~
+the giant lizard~
+A giant lizard is foraging for food along the cavern floor here.
+~
+This scaly creature looks like it is well adapted to its underground
+habitat.  He looks very powerful.
+~
+72 1032 100 S
+21 15 1 4d20+340 3d7+4
+0 0
+8 8 1
+#6506
+giant~
+the giant~
+A giant is wandering around the mountainside here.
+~
+The giant is about eighteen feet tall, with arms of steel, and looks in
+excellent physical condition.
+~
+2120 1024 600 S
+19 15 0 4d20+300 3d3+8
+0 0
+8 8 1
+#6507
+mineworker dwarven dwarf miner worker~
+the dwarven mineworker~
+A dwarven mineworker is here.
+~
+The mineworker is very tired, and very dirty, and he has bulging muscles.
+~
+2058 1024 500 S
+4 20 7 3d13+40 1d3+2
+0 0
+8 8 1
+#6508
+dwarven dwarf hungry~
+a small hungry dwarf~
+A small dwarf is here.
+~
+Just a small dwarf, of no specific importance sits here eating. He gives you an evil
+look as though he thinks your going to try to take his food...
+~
+2060 1024 700 S
+15 16 0 50d2+270 3d4+6
+0 0
+8 8 1
+#6509
+high priest healer~
+the High Priest of Kandelspire~
+The High Priest of Kandelspire is here, aiding the sick of his people.
+~
+He is a very skilled healer, and extremely faithful to his god.
+~
+14410 1192 999 S
+50 0 -1 9d4+375 3d8+4
+0 0
+8 8 1
+#6510
+peon dwarven~
+the dwarven peon~
+A dwarven peon is awaiting help here.
+~
+A nondescript dwarf of average dimensions, this peon twiddles his stubby
+fingers idly as he waits.
+~
+4106 1024 500 S
+3 20 7 10d3+35 2d3+2
+0 0
+8 8 1
+#6511
+dwarf~
+the Dwarf~
+A dwarf is here.
+~
+You see just a common looking dwarf; a happy citizen of Kandelspire.
+~
+10 1024 500 S
+6 20 4 1d15+70 3d3+1
+0 0
+8 8 1
+#6512
+Captain Watch~
+the Captain of the Watch~
+A large dwarf captain is here.
+~
+You see a dwarf, who appears to be rather larger then the
+rest of his race, you see him holding some kind of light, it almost
+looks like a gemstone of some kind...
+~
+139374 44 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 1 6
+#6513
+Dwarven Dwarf officer~
+a dwarven officer~
+A dwarven officer is here.
+~
+You see nothing special...
+~
+178252 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6514
+barrack guard~
+a barrack guard~
+A barrack guard is here.
+~
+    A barrack guard.
+~
+4106 1024 100 S
+22 6 1 5d10+170 2d5+4
+0 20000
+8 8 1
+#6516
+mazekeeper keeper~
+the mazekeeper~
+A mazekeeper is here.
+~
+He looks VERY tough.
+~
+10347 1160 -1000 S
+29 12 -7 250d4+2000 4d3+5
+0 0
+8 8 1
+#6517
+snake giant~
+the giant snake~
+There is a giant snake here.
+~
+A full six feet long and covered with mottled scales, the giant snake
+hisses evilly in your direction.
+~
+106 1024 -1000 S
+33 10 -5 300d6+600 4d4+22
+0 0
+8 8 1
+#6520
+dwarven engineer~
+a dwarven engineer~
+A dwarven engineer is here.
+~
+This dwarf is hurrily working and building.. preparing for any
+attack on this empire.
+~
+172106 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#6521
+orc prisoner~
+an orcish prisoner~
+A orcish prisoner is chained to the wall.
+~
+This poor orc has been thrown in this cell to await execution. He
+looks like he has been badly beaten and stripped of all clothes.
+Except a pair of old looking boots he's wearing, dont guess he'll
+be needing them much longer.
+~
+698382 0 0 S
+40 0 -5 1d1+0 1d1+0
+0 0
+8 8 1
+#6530
+kos man shopkeeper~
+Kos~
+A short plump man is here.
+~
+He's covered head to toe in the best armor and weapons you think you've ever seen.
+~
+33579082 1064 0 S
+50 20 -5 1d1+0 1d1+0
+0 0
+8 8 1
+#6531
+general modsogner shop keeper man~
+Modsogner~
+A tall man is here.
+~
+He's almost asleep... shhhhhhhhhh...
+~
+33562698 1064 0 S
+50 0 -5 1d1+0 1d1+0
+0 0
+8 8 1
+#99999
+$~

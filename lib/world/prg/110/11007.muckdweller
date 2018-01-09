@@ -1,0 +1,7 @@
+>fight_prog 20~
+  mpechoaround $n $I sprays a blast of muddy water into $R's eyes!!
+  mpechoat $n Someone sprayed a blast of muddy water into your eyes!!
+  mpechoat $n You can't see!!
+  mpcallmagic 'blindness' $r
+~
+|

@@ -1,0 +1,67 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+  endif
+~
+>command_prog cast 'petrify' maedar~
+  mpechoat $n Okay.
+  mpechoat $n The maedar snarls as you attempt to petrify him.
+  mpechoat $n The maedar quickly pivots on his feet and delivers a spinning backfist directly to your jaw!!
+  mpechoaround $n The maedar twirls on his feet and snaps $N's head back with a spinning backfist!!
+  mpdamage $n 6d20
+  mpstopcommand
+~
+>fight_prog 18~
+  if inroom($r) == here
+    if hitprcnt($i) < 20
+      mpecho $I roars in defiance!
+      mpsilent mpcallmagic 'calm' $r
+      mpecho $I pauses for a second and then walks right into and through the cavern wall!!
+      if rand(20)
+        mpgoto 15101
+      else
+        if rand(30)
+          mpgoto 15132
+        else
+          if rand(40)
+            mpgoto 15123
+          else
+            if rand(50)
+              mpgoto 15103
+            else
+              mpgoto 15173
+            endif
+          endif
+        endif
+      endif
+      mpecho $I emerges in the room!
+      mpsilent mpcallmagic 'heal' $i
+    endif
+  endif
+~
+>fight_prog 33~
+  if inroom($r) == here
+    if isfight($r)
+      if rand(60)
+        mpechoat $r The maedar PUMMELS you in the stomach with a monstrous blow!!
+        mpechoat $r You hunch over while gasping for precious air.
+        mpechoaround $r The maedar buries a fist deep in the stomach of $R, who doubles over and wheezes for air!
+        mpdrainmove $r 5d8
+        mpdamage $r 12d15
+        if rand(30)
+          mpechoat $r The maedar clasps his hands together and WHACKS you with an upraised elbow!!
+          mpechoaround $r The maedar thwacks $R with an uplifted elbow!
+          mpdamage $r 11d14
+        else
+          if rand(80)
+            mpechoat $r The maedar batters you with a vicious uppercut that cracks your head back violently!
+            mpechoaround $r $R's head snaps back with a horrifying whiplash as $I delivers a powerful uppercut to $K!
+            mpecho Blood ^RSPLATTERS^N against the cavern wall!!
+            mpdamage $r 10d13
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+|

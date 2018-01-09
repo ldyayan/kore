@@ -1,0 +1,19 @@
+>rand_prog 50~
+  if ismemory($r)
+    tell $r Are you intentionally trying to anger me? It's working.
+    mptransfer $r 1204
+    mpforget $r
+    mpforce $r quit
+  else
+    if isimmort($r)
+      if level($r) < 59
+        tell $r Your immortal form doesn't belong here.
+        mptransfer $r 1204
+        mpforce $r look
+        mpremember $r
+      endif
+    endif
+  endif
+~
+|
+

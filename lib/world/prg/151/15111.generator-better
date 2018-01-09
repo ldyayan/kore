@@ -1,0 +1,119 @@
+>rand_prog 10~
+  if rand(20)
+    mpgoto 15160
+  else
+    if rand(40)
+      mpgoto 15139
+    else
+      if rand(60)
+        mpgoto 15131
+      else
+        if rand(80)
+          mpgoto 15120
+        else
+          if rand(100)
+            mpgoto 15103
+          endif
+        endif
+      endif
+    endif
+  endif
+  mpmload 15105
+  mpgoto cleaner
+~
+>rand_prog 10~
+  if rand(20)
+    mpgoto 15103
+  else
+    if rand(40)
+      mpgoto 15160
+    else
+      if rand(60)
+        mpgoto 15139
+      else
+        if rand(80)
+          mpgoto 15131
+        else
+          if rand(100)
+            mpgoto 15120
+          endif
+        endif
+      endif
+    endif
+  endif
+  mpmload 15110
+  mpgoto cleaner
+~
+>rand_prog 10~
+  if rand(20)
+    mpgoto 15120
+  else
+    if rand(40)
+      mpgoto 15103
+    else
+      if rand(60)
+        mpgoto 15160
+      else
+        if rand(80)
+          mpgoto 15139
+        else
+          if rand(100)
+            mpgoto 15131
+          endif
+        endif
+      endif
+    endif
+  endif
+  mpmload 15109
+  mpgoto cleaner
+~
+>rand_prog 10~
+  if rand(20)
+    mpgoto 15131
+  else
+    if rand(40)
+      mpgoto 15120
+    else
+      if rand(60)
+        mpgoto 15103
+      else
+        if rand(80)
+          mpgoto 15160
+        else
+          if rand(100)
+            mpgoto 15139
+          endif
+        endif
+      endif
+    endif
+  endif
+  mpmload 15105
+  mpgoto cleaner
+~
+>rand_prog 10~
+  if rand(20)
+    mpgoto 15139
+  else
+    if rand(40)
+      mpgoto 15131
+    else
+      if rand(60)
+        mpgoto 15120
+      else
+        if rand(80)
+          mpgoto 15103
+        else
+          if rand(100)
+            mpgoto 15160
+          endif
+        endif
+      endif
+    endif
+  endif
+  mpoload 15108
+  mpsilent drop cloak
+  mpmload 15112
+  mpgoto cleaner
+~
+|
+

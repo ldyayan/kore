@@ -1,0 +1,148 @@
+#18000
+pine scraggly~
+a scraggly pine~
+A scraggly pine tree clings to a rocky outcropping against the wind.~
+~
+13 0 1
+0 0 0 0
+0 1 0
+E
+pine scraggly~
+  You look at the scraggly pine and wonder if you could tear off a branch.
+Hrrm...
+~
+#18001
+water lake~
+the mountain lake~
+The mountain lake laps placidly at the shore.~
+~
+23 16 0
+99999 99999 15 0
+99999 0 0
+E
+water lake~
+The mountain lake looks so clear and beautiful...
+The water looks good for fishing, drinking, bathing... ah...
+~
+#18002
+tree pine~
+a pine tree~
+A pine tree is here, clinging to the rocky hillside.~
+~
+13 0 1
+0 0 0 0
+99999 0 0
+#18003
+key lintel~
+the lintel key~
+The lintel door key is here, left by some careless giant.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#18004
+water spring pool~
+the spring~
+Some natural springs of fresh water trickle from the wall to the pool here.~
+~
+23 0 0
+99999 99999 0 0
+99999 0 0
+E
+spring wall~
+The water seems to run out in rivulets from the wall.. it looks like its
+a completely natural spring and smells fresh too.
+~
+E
+pool water~
+You look into the pool.. far down at the bottom you see a kind of hole.
+It looks like you could enter the pool!! and maybe follow that hole..!
+~
+#18005
+pool water~
+the pool of water~
+A pool of blackish water is here, fed by the springs from the wall.~
+~
+27 0 0
+18099 0 0 0
+99999 0 0
+E
+pool water~
+You look into the pool.. far down at the bottom you see a kind of hole.
+It looks like you could enter the pool!! and maybe follow that hole..!
+~
+#18006
+axe blade old~
+an old axe blade~
+An old axe blade is here, looking kind of useless.~
+~
+5 65536 8193
+0 2 3 6
+1 0 0
+E
+axe blade old~
+This looks like the kind of axe blade a mean giant would use to chop off
+someone's hands!
+~
+#18007
+bag giant~
+a giant bag~
+A giant bag is here.~
+~
+15 0 16385
+80 0 0 0
+4 40 20
+#18008
+grimy pelt~
+a grimy pelt~
+A grimy pelt is here.~
+~
+9 65536 6441
+5 0 0 0
+3 0 0
+E
+grimy pelt~
+You've never seen a more disgusting grimy pelt in your life.
+Well maybe once.
+~
+#18009
+felt rope leggings~
+a set of felt and rope leggings~
+A set of black felt leggings wrapped in rope have been left here.~
+~
+9 0 33
+6 0 0 0
+5 10 1
+#18010
+giant crossbow~
+a giant crossbow~
+A giantsized crossbow is here, looking too big to ready.~
+~
+6 0 32769
+4 3 7 12
+19 1000 0
+#18011
+boulder small~
+a small boulder~
+A small boulder is here, if you were really strong, you could throw it.~
+~
+6 0 32769
+5 4 3 6
+22 10 1
+#18012
+huge horn~
+the huge horn~
+A huge horn is here, wonder what its for...~
+~
+13 0 1
+0 0 0 0
+99999 0 0
+E
+horn huge~
+The horn looks like its of an auroch, a kind of longhorn wild cattle from
+these parts. It looks like its so large though that its a special horn...
+You could maybe blow it or wind it, you're not sure if that's a good idea
+though...
+~
+#99999
+$~

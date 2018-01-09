@@ -1,0 +1,26 @@
+#151
+Undermountain Arena~
+15199 6 2 39
+M 0 15120     1 15167            someone
+M 0 15119     1 15186            a vampiric mist
+M 0 15117     1 15123            illusionary exit
+M 0 15103     2 15169            fall-mob two
+M 0 15102     2 15168            fall-mob one
+M 0 15103     2 15183            fall-mob two
+M 0 15102     2 15182            fall-mob one
+M 0 15116     1 15119            fall-mob three
+M 0 15115     1 15180            inside-cloaker mob
+M 0 15101     1 15105            ice-mob
+O 0 15104   101 15105            a patch of ice
+M 0 15114     1 15102            illusionary door-mob
+M 0 15107     1 15166            no-spell mob
+M 0 15108     1 15166            no-movement mob
+O 0 15106   101 15143            a pool of blue fluid
+M 0 15106     1 15143            drink-mob
+O 0 15105   101 15174            a long metal lever
+M 0 15100     1 15174            lever-mob
+D 0 15115     4     1            A spiral pathway door up
+D 0 15163     5     1            Secluded ledge door down
+S
+#99999
+$~

@@ -1,0 +1,16 @@
+>rand_prog 5~
+  mpasound You hear the sounds of someone ringing a cheerful bell.
+  mpecho The salvation army man rings his cheerful bell.
+~
+>bribe_prog 1~
+  say Thank you!
+  say Happy holidays!
+  mptrigger $n open-gate
+~
+>script_prog open-gate~
+  tip $n
+  open gate
+  smile
+  close gate
+~
+|

@@ -1,0 +1,59 @@
+>rand_prog 100~
+  if isaffected($i, fireshield)
+  else
+    cast 'fire shield'
+    break
+  endif
+  if isaffected($i, manashell)
+  else
+    cast 'mana shell'
+    break
+  endif
+  if isaffected($i, fly)
+  else
+    cast 'fly'
+    break
+  endif
+  if isaffected($i, invis)
+  else
+    cast 'invis'
+    break
+  endif
+~
+>rand_prog 10~
+  if isaffected($i, blind)
+    cast 'cure blind' $i
+  endif
+~
+>fight_prog 100~
+  if rand(10)
+    cast 'word of death'
+    break
+  endif
+  if rand(10)
+    cast 'chain lightning'
+    break
+  endif
+  if rand(10)
+    cast 'web'
+    break
+  endif
+  if rand(10)
+    cast 'dispel magic'
+    break
+  endif
+  if rand(10)
+    cast 'blindness'
+    break
+  endif
+  if rand(10)
+    cast 'petrify'
+    break
+  endif
+  if rand(10)
+    cast 'disintegrate'
+    break
+  endif
+  cast 'color spray'
+~
+|

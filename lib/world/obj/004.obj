@@ -1,0 +1,601 @@
+#400
+aegis shield~
+Aegis~
+A well crafted shield has been left here.~
+~
+9 270532945 513
+12 0 0 0
+7 150000 4500 9000
+A
+1 2
+B
+128
+#401
+thunderbolt thunder bolt~
+Zeus' Thunderbolt~
+A huge hammer has been carelessly dropped here.~
+~
+5 8417281 8193
+0 7 7 5
+20 5000 0
+E
+mace bolt thunder thunderbolt~
+An enormous hammer, wielded by Zeus as he rules over the gods of Olympus.
+~
+A
+13 20
+A
+19 2
+#402
+helmet winged~
+a Winged Helmet~
+A helmet with small wings lies here.~
+~
+9 1024 17
+10 9 9 9
+3 8000 10
+A
+2 3
+A
+9 10
+#403
+sword blood longsword bloodsword~
+a longsword covered with ^rblood^n~
+A longsword covered with ^rblood^n has been thrust into the ground here.~
+~
+5 8532161 8193
+5 6 6 3
+5 125000 4000
+E
+blood bloodsword longsword sword~
+This hefty weapon is covered to the hilt in fresh, sticky blood.  The blade
+gives off a faint crimson aura, and hums softly in the air.  Closing your
+palm around the handle, a warm feeling slowly crawls up your arm.  A tingling
+sensation soon follows, and energy you didn't know you possessed begins to
+well up from some hidden reservoir.  Wielding this sword, you feel as if you
+can take on the world.
+~
+A
+18 3
+A
+19 5
+#404
+sandals winged~
+a pair of winged sandals~
+A pair of well made sandals lies here.~
+~
+9 1 65
+9 9 9 9
+2 5000 450
+A
+2 2
+A
+14 50
+#405
+staff ivory~
+an ivory staff~
+An ivory staff.~
+~
+4 5 16385
+50 2 2 48
+4 5000 200
+A
+4 1
+#406
+trident merman~
+a huge merman's trident~
+A huge three pronged spear lies here.~
+~
+5 8527872 8193
+5 8 4 8
+10 5000 250
+E
+trident merman~
+This huge three pronged weapon belonged to a great merman warrior, long since
+vanquished.  Many scrapes and scratches gleam off the golden trident, which
+tell the tales of numerous battles fought.  It seems to pulsate with magical
+energy, and you can understand why a warrior wield this weapon would indeed
+be mighty.
+~
+A
+6 -2
+A
+9 10
+#407
+bow silver~
+a silver bow~
+A silver bow.~
+~
+6 1025 32769
+0 4 5 1
+19 7 7
+A
+6 2
+A
+19 2
+#408
+gauntlets flaming mass 408~
+a pair of ^Rfl^n^Ya^n^Wm^n^Yin^n^Rg^n gauntlets~
+A ^Rfl^n^Ya^n^Wm^n^Yin^n^Rg^n mass scorches the ground here.~
+~
+9 8401408 129
+8 9 9 9
+4 3000 600
+E
+flaming gauntlets mass~
+As you stare into the flaming mass, you feel the need to shield your eyes, as
+the fire burns almost bright enough to blind.  Slipping the smouldering 
+gloves onto your hands yields a rush of numbing cold temperature race through
+your veins.  You feel nigh invulnerable with these on, an almost scary
+proposition to be in while locked in mortal combat.
+~
+A
+13 20
+A
+19 2
+#409
+vial potion ambrosia~
+ambrosia~
+A vial of ambrosia lies here.~
+~
+10 0 1
+40 36 28 -1
+0 680 25
+#410
+breastplate ruby red medusa plate~
+a ^Rruby-red^n breastplate~
+A divine breastplate lays here.~
+~
+9 8393217 9
+10 9 9 9
+9 0 0
+A
+19 2
+A
+13 20
+#411
+ring diamond~
+a ^Wdiamond^n ring~
+A ^Wdiamond^n ring lies here.~
+~
+9 268435457 3
+6 9 9 9
+10 1000 50
+A
+12 -15
+A
+19 2
+#412
+shield glowing~
+a brightly glowing shield~
+A shield lies here, filling the room with its aura.~
+~
+9 2049 513
+9 9 9 9
+2 4000 0
+A
+12 20
+A
+13 20
+#413
+hammer warhammer~
+a warhammer~
+A strange warhammer.~
+~
+5 0 8193
+5 5 3 5
+5 1000 50
+A
+18 2
+A
+19 2
+#414
+grapes~
+a bunch of grapes~
+A bunch of grapes.~
+~
+19 0 1
+8 19 19 0
+1 25 1
+#415
+fan~
+a fan made of peacock feathers~
+A fan made of peacock feathers.~
+~
+13 0 67125249
+0 0 0 0
+1 50 1
+#416
+lute~
+a lute~
+A lute.~
+~
+24 0 8193
+0 3 3 7
+5 3000 0
+E
+lute~
+  A lute is a musical instrument used by bards to cast
+their spells.
+~
+A
+19 2
+A
+18 2
+#417
+nugget gold~
+a gold nugget~
+A gold nugget lies gleaming here.~
+~
+8 0 1
+0 0 0 0
+8 1000 10
+#418
+apple~
+an apple~
+An apple is here.~
+~
+19 64 1
+24 0 0 0
+0 5 1
+#419
+pear~
+a pear~
+A pear is here.~
+~
+19 1 1
+15 9 9 0
+1 50 9
+#420
+orange~
+an orange~
+An orange is here.~
+~
+19 0 1
+15 19 19 0
+1 50 2
+#421
+kiwi~
+a kiwi~
+A kiwi is here.~
+~
+19 0 1
+10 0 0 0
+1 5 1
+#422
+hand~
+a hand~
+A freshly torn off hand is left here.~
+~
+13 1 1
+0 0 0 0
+1 1 1
+#423
+bowl wooden fruit~
+a wooden fruit bowl~
+A beautiful wooden fruit bowl stands on a table here.~
+~
+15 0 16385
+40 0 -1 0
+10 1 1
+#424
+girdle red shiny belt~
+a shiny ^Rred^n girdle~
+A ruddish glowing girdle is gathering dust here.~
+~
+9 1025 2049
+8 9 9 9
+6 5000 100
+E
+red ruddy belt~
+Power seems to convulse across the length of this girdle, and as you near it
+a strange feeling, like bony hands tickling your spine envelops your body.
+As a young child, you remember hearing legends of a once powerful cleric who
+single-handedly drove back the undead hoards at Folkurk pass.  The warrior
+ channeled too much magic, and in the end his soul was sucked into the only
+remaining vesture-- his red belt.
+~
+A
+13 20
+A
+12 20
+#425
+leggings blood ares~
+the leggings of Ares~
+A blood stained piece of armor is left here.~
+~
+9 513 33
+10 0 0 0
+8 8000 2000
+A
+19 1
+A
+18 2
+#426
+nectar~
+nectar~
+A vial of nectar is lying here.~
+~
+10 1 1
+45 43 39 1
+0 50 1
+#427
+key~
+a cell key~
+A key has been left here.~
+~
+18 4 1
+0 0 0 0
+0 22 1
+#428
+bed~
+a well used bed.~
+A silverwhite bed stands here, it looks as it has been used recently.~
+~
+13 1 0
+0 0 -1 0
+9999 1 1
+#429
+sword~
+a white sword~
+A glowing white sword has been left here.~
+~
+5 65 8193
+5 4 2 3
+5 500 10
+#430
+fountain life ~
+the fountain~
+A huge fountain with glowing water stands here.~
+~
+23 88 0
+999999 999999 15 0
+9999 0 0
+#433
+potion silver~
+a silver potion~
+A silver coloured potion has been left here.~
+~
+10 0 1
+25 2 -1 -1
+0 15 1
+#434
+scroll black~
+a black scroll~
+A scroll is left here.~
+~
+2 0 1
+35 26 -1 -1
+0 5 0
+#435
+potion rainbow~
+a ^rr^n^yai^n^gn^n^bb^n^mow^n potion~
+A ^rr^n^yai^n^gn^n^bb^n^mow^n potion has been left here.~
+~
+10 0 1
+40 3 1 34
+0 20 2
+#436
+potion gold~
+a golden potion~
+A golden potion rests on its side here.~
+~
+10 0 1
+50 68 68 68
+0 53 1
+E
+gold potion~
+Golden swirls dance continually in this magic bottle, giving not one hint
+as to what its magical properties are.  It feels extremely light, as if you
+could toss it straight up, and never see it come back down.
+~
+#440
+map~
+the map of Olympus~
+A rolled up map lays here.~
+~
+16 0 1
+0 0 0 0
+1 750 5
+E
+map olympus~
+                      . .. ... .....  OLYMPUS  ..... ... .. .
+ 
+                           (c) Circle, Mapped by Amon Ra
+          North           
+            |   /Up        
+            | /         stable                   air      
+     West---+---East      |                       |
+          / |           stable--stable-hall-hall-hall         
+    Down/   |                     |
+          South                   |   Grand         War
+                    hall--------hall--hallway--hall-room
+                      |          /       |            | 
+                   Bedroom      /        |         Private
+                               /         |
+                             /           |           Throne room
+                           /             |                | 
+                         /               |               hall
+                   Stairway-Dungeon      |                |
+                              |          |               hall
+                      cell-Dungeon-cell  |                |
+                              |          |     private---hall----Bedroom
+                             cell        |      room      /       |
+                                         |        |     /         |
+                                         |        |   /           |
+                                         |        | /             |
+                                         |       /|               |
+                                         |     / Dining--private--private    
+                                         |    /   lounge  room     room
+                                         |   /
+                                       Grand/ 
+                                      hallway  
+                                         |
+                                         |
+                                       Grand 
+                                      hallway
+                   Bedroom               |
+                      |                Castle
+              w.hall--w.hall--w.hall--entryway--e.hall---e.hall----e.hall
+              |                          |                           |
+              |                     Grand stairs                     |
+            w.wing                       |                        e.wing
+              |                        Archway                       |
+   Bedroom-w.wing                        |                      e.wing-Bedroom
+                                       Archway
+                                         |
+                 Garden-Garden-Garden    |     Garden-Garden-Garden
+                   |             |       |       |             |    
+                 Garden        Garden    |     Garden        Garden 
+                   |             |       |       |             | 
+                 Garden-Garden-Garden-Archway-Garden-Garden-Garden
+                           |      |            |      |                        
+                           |      |  fountain  |      |
+                           |      |  (healer)  |      |
+                           |      |     |      |      |
+                        Garden-Garden-Archway-Garden-Garden
+                                  |      |     |
+                               Garden-Archway-Garden
+                                         |
+                                      Archway
+                                         | 
+                                      Entrence
+                                         |
+                                      Mountain        __.o0o.__  
+                                        /            /'(  _  )`\   
+                                   Mountain         / . \/^\/ . \  
+                                     /             /  _)_`-'_(_  \ 
+                                 Mountain         /.--   ).(   --.\  
+                                    |            /'     /\_/\     `\  
+                                    v                   "-V-"   
+
+~
+#441
+chalice cup cursed unholy stain bloody~
+a ^rblood-stained^n chalice~
+A pulsating chalice sits here, pooling in its own ^rblood^n.~
+~
+17 0 1
+999 999 13 0
+1 5000 250
+E
+cup chalice bloody cursed unholy stain~
+This unholy cup seems to draw your psyche into itself, to be hopelessly
+drowned by the evil from which this cursed thing was forged.  The 
+chalice reeks of damnation, and you wonder what hell-spawn would dare
+create such an object.  Prying your eyes away is an incredible feat,
+for the bowl apparently mesmerizes those who gaze upon its blood-
+stained visage.
+~
+#442
+golden table~
+a golden table~
+A luxurious table stands here.~
+~
+15 0 0
+100 13 443 0
+999 1 1
+#443
+key golden~
+a golden key~
+A golden key has been left here.~
+~
+18 0 1
+0 0 0 0
+0 1 2
+#445
+cresent bracelet~
+a golden cresent shaped bracelet~
+A goldent cresent bracelet is glittering in the dust here.~
+~
+9 0 4097
+5 9 9 9
+3 6000 250
+E
+golden cresent bracelet~
+This glittering piece of jewelry has many strange runes etched into its face.
+The scratches seem to focus directly on a white cresent shape attached to the
+middle of the bracelet.  Upon further inspection, the white object seems to
+be an exact replica of the golden bracelet, including every single minute
+etching, reproduced with astounding detail.
+~
+A
+18 3
+A
+12 20
+#450
+hades coin~
+the Hades' coin~
+One glimmering coin.~
+~
+20 0 1
+1 20 20 20
+15 0 0
+#451
+purse~
+a black purse~
+A black purse has been dropped here.~
+~
+15 0 1
+80 5 -1 15
+6 1 1
+#452
+leggings ares blood~
+a pair of ^rblood-covered^n leggings~
+A pair of metal leggings lie here in a puddle of ^rblood^n.~
+~
+9 529 33
+10 0 0 0
+10 0 1
+E
+blood leggings~
+   You see a pair of finely crafted leggings covered in gore.  The
+metal seems to be of extreme fine quality and looks as if it would serve
+you wllell
+~
+A
+19 2
+A
+18 3
+#453
+thunderbolt thunder bolt~
+Zeus' Thunderbolt~
+A huge hammer has been carelessly dropped here.~
+~
+5 67177989 8193
+15 12 12 5
+20 0 10000000
+E
+mace bolt thunder thunderbolt~
+An enormous hammer, wielded by Zeus as he rules over the gods of Olympus.
+~
+#498
+olive~
+an olive~
+An olive that has fallen from the tree lays here.~
+~
+25 0 1
+60 36 35 14
+1 0 0 15
+E
+olive~
+A large ripe olive that looks good enough to eat.
+~
+#499
+olive tree~
+an olive tree~
+A large lush olive tree rooted firmly on a small mound.~
+~
+12 0 0
+0 0 0 0
+1000000 0 0
+E
+olive tree ~
+The age of this tree is uncertain, but it's girth is
+impressive to behold.  The branches sway in a calming wind
+and the lush green leaves flutter to the ground in a
+hypnotic sway.  There is a glowing aura that pulsates
+around the tree emitting a noticable warmth.
+~
+#99999
+$~

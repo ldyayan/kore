@@ -1,0 +1,7 @@
+>greet_prog 100~
+  say Well come it's good to see you made it this far.
+  say the master will be pleased with such fine warriors.
+  mpoload 23096
+  give all.key $n
+~
+|

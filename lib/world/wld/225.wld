@@ -1,0 +1,216 @@
+#22500
+A Well-Worn Path~
+   The dirt trail dips downward toward a tongue of stone that spears a pane
+of placid blue water.  Thick bushes flank the trail, their flowers trumpeting
+nectar and pollen.  A freshet arrives from below like an invisible pestle,
+mixing the fragrances; heady and intoxicating.
+~
+225 20 2
+D5
+~
+~
+0 0 22501
+S
+#22501
+A Tongue Of Stone~
+   The stone tongue spears the wide water-filled trench.  The lake is deep
+and is cold as iced champagne.  Tan cliffs rise above the placid water like
+cupped hands dipping for a cool drink.  Grey humps of islands rise from
+the water to the east.  A lumpy hunchbacked little man grasps a spray of
+ropes, each tethered to a small boat that bobs on the water like a child's
+balloon.
+~
+225 144 6
+D0
+~
+~
+0 0 22502
+D4
+~
+~
+0 0 22500
+S
+#22502
+A Placid Cove~
+   A stone tongue and sheer tan walls form a haven, the ideal spot to tie up
+boats.  Grey islands banded with green rise from the water to the east.
+The water is icy cold, bone-chillingly unsuitable for swimming.  Board a boat
+or go dry off on the stone tongue south.
+~
+225 16 12
+D1
+~
+~
+0 0 22503
+D2
+~
+~
+0 0 22501
+S
+#22503
+Sailing Upon Deep Bottom Lake~
+   Shear tan cliffs rise directly from the water to the north and south.
+The long pane of water mirrors the color of the sky: a silvery grey at dawn
+that turns to irridescent blues as the hours progress.  A low island emerges
+to the south and east.
+~
+225 0 12
+D1
+~
+~
+0 0 22506
+D2
+~
+~
+0 0 22504
+D3
+~
+~
+0 0 22502
+S
+#22504
+Sailing Upon Deep Bottom Lake~
+   The surface of the water remains still as a segment of stained glass
+resting in its frame of lead.  Then a fish darts from below, a hovering
+dragonfly her prey, shattering the icy pane.  A grey hump of land emerges
+from the water, due east, like the source of ripples.
+~
+225 0 12
+D0
+~
+~
+0 0 22503
+D1
+~
+~
+0 0 22507
+D2
+~
+~
+0 0 22505
+S
+#22505
+Sailing Upon Deep Bottom Lake~
+You are in an unfinished room.
+~
+225 0 12
+D0
+~
+~
+0 0 22504
+D1
+~
+~
+0 0 22508
+S
+#22506
+Sailing Upon Deep Bottom Lake~
+You are in an unfinished room.
+~
+225 0 12
+D2
+~
+~
+0 0 22507
+D3
+~
+~
+0 0 22503
+S
+#22507
+Sailing Upon Deep Bottom Lake~
+   Sheer tan cliffs frame a cloudless sky, a blue that deepens to the color
+of wings as the hours progress.  The night sky is a panoply of twinkling
+gem stones.  A low scrub-covered island rises from the irridescant waters
+to the east.
+~
+225 0 12
+D0
+~
+~
+0 0 22506
+D1
+~
+~
+0 0 22510
+D2
+~
+~
+0 0 22508
+D3
+~
+~
+0 0 22504
+S
+#22508
+Sailing Upon Deep Bottom Lake~
+You are in an unfinished room.
+~
+225 0 12
+D0
+~
+~
+0 0 22507
+D3
+~
+~
+0 0 22505
+S
+#22510
+A Low Scrubby Island~
+  The narrow island rises but a few yards above the irridescent water.
+Clumps of high scrub provide shade; wild strawberry and creeper grape dot
+the ground between.  The island looks ideal for an al fresco meal or simple
+contemplation.  Then the high keening begins.
+~
+225 0 6
+D1
+<NONE>
+~
+~
+0 0 22513
+D3
+~
+~
+0 0 22507
+S
+#22513
+A Scrubby Grove~
+You are in an unfinished room.
+~
+225 0 2
+D3
+~
+~
+0 0 22510
+S
+#22520
+Aboard A Small Skiff~
+   The old bashes and scars etched like heiroglyphs along the hull and
+gunwales provide a narrative of the boats long and interesting history:
+grooves worn by fishermen's nets, a heart that encompasses two names
+and the cyrillic inscribed by bored pirates...
+~
+225 0 1
+S
+#22521
+Aboard A Balsa Raft~
+   The raft appears crude alongside other vessels, but it is strong and 
+seaworthy.  The crude construction lends a certain charm: adventurers
+without means, but industrious and willing to work with whatever materials
+they can lay their hands upon.
+~
+225 0 1
+S
+#22522
+Aboard A Dugout~
+   The dugout was hewn from the trunk of ancient conifer.  The marks of a
+visciously intense fire tattoo the interior of the hull.  A mast carrying
+a large triangular sail rises from the center of the boat; apparently a 
+recent modification.  Four sets of benches span the length of the boat and
+a large oar at the rear serves as a tiller.
+~
+225 0 1
+S
+#99999
+$~

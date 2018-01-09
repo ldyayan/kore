@@ -1,0 +1,906 @@
+#18200
+keepers blade sword 182~
+a keeper's blade~
+A keeper's blade is lying here.~
+As you hold this blade in you hands you realize the craftsmanship that
+went into this weapon.  The blade is extremely sharp and strong but at
+the same time the sword is extremely light
+~
+5 65536 8193
+0 5 3 3
+5 0 0
+E
+Blade~
+As you hold this blade in you hands you realize the craftsmanship that
+went into this weapon.  The blade is extremely sharp and strong but at
+the same time the sword is extremely light
+~
+A
+2 1
+#18201
+small wooden sign 182~
+a small wooden sign~
+A small wooden sign is here and you think you should read it!~
+~
+13 1 1
+0 0 0 0
+9999 0 1
+E
+sign~
+You are entering the tower of the Demariv clerics guild.
+This is for levels 35-50 and groups are incouraged.
+
+"The sick shall be cured and the wounded healed."
+
+-- Lim, Grand Master of the Demariv clerics
+
+~
+#18202
+assface~
+a small white cane~
+A small white cane.~
+~
+5 3 8193
+200 1000 20 6
+0 0 0
+A
+19 50
+A
+18 50
+A
+9 80
+B
+235995264 0
+S
+128 50 100
+S
+128 50 100
+S
+128 50 100
+#18203
+Altar Life~
+the altar of life~
+An intricately carved stone altar sits in front of you.~
+~
+1 1 1
+0 0 0 0
+9999 0 0
+E
+Herbs~
+You see various herbs and plants that you see Noest use in his healing
+processes.  Some of the herbs you have seen before but most are foreign
+to you.  Some incense also burns on the altar which gives the room a
+pleasant smell.
+~
+E
+altar~
+You see an ornately carved altar which spans about 5 feet in length
+and look as if it weighs a great deal.  It seems to glow with a faint
+yellow light and you figure it probably has magical properties of some
+sort.  The top is covered with herbs and potions of all kinds. 
+~
+#18204
+Staff Noest~
+the staff of Noest~
+You see a staff carved from wood.~
+
+~
+4 66560 16385
+50 5 5 15
+3 0 0
+E
+Staff Noest~
+The ornate staff carved from wood is almost as tall as you and as thick
+as your forearm.  However, despite its size it seems light as a feather
+when you pick it up.  
+
+~
+A
+12 10
+#18205
+key 182~
+a steel key~
+You see a small steel key resting on the floor here.~
+~
+18 0 5
+1 0 0 0
+2 0 0
+#18206
+key 182~
+a copper key~
+You see a plain copper key.~
+~
+18 0 1
+1 0 0 0
+1 0 0
+#18207
+key 182~
+the trial key~
+A small grey key lays forgotten on the ground.~
+Before you sits a large shimmering portal.
+~
+18 0 16385
+1 0 0 0
+0 0 0
+#18208
+disc 182~
+the first advancement disc~
+You see a small ingraved disc here.~
+~
+18 1 16385
+18208 1 0 0
+1 0 1
+#18209
+disc 182~
+the second advancement disc~
+You see a small engraved disc here.~
+~
+18 1 16385
+18209 1 0 0
+1 0 1
+#18210
+disc 182~
+the third advancement disc~
+You see a small engraved disc here.~
+~
+18 0 16385
+18210 1 0 0
+1 0 1
+#18211
+book 182~
+the book of fulfillment~
+A large dusty spellbook lies here waiting to be memorized.~
+~
+13 0 16385
+0 0 0 0
+5 0 0
+#18212
+sign 182~
+a small sign~
+A small stone, silver inlayed sign is mounted to the wall.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+Sign stone~
+    Only those who have completed the trials of the guild may pass
+beyond this point.
+~
+#18213
+key 182~
+the passage key~
+You see a key made entirely of interwoven twigs.~
+~
+18 0 16385
+1 0 0 0
+0 0 0
+#18214
+desk 182~
+a huge desk~
+You see a huge oak-carved desk.~
+You see a ornately carved wooden desk that is extremely big.
+~
+13 0 1
+0 0 0 0
+9999 0 0
+E
+desk~
+You see an extremely large, ornately carved wooden desk.
+~
+#18215
+key 182~
+a wooden key~
+A small wooden key lies here.~
+Its just a wooden key to some door.
+~
+18 65536 1
+1 5 0 0
+0 0 0
+#18216
+bread 182~
+a loaf of bread~
+You see a loaf of fresh bread on a platter.~
+~
+19 0 16385
+20 0 0 0
+3 0 0
+E
+bread~
+A loaf a fresh baked bread steams as you tear it open.
+~
+#18217
+water basin~
+a water basin~
+You see a large basin fill with clear water.~
+~
+23 0 0
+5000 5000 15 0
+9999 0 0
+#18218
+robes lim 182~
+the robes of Lim~
+You see an ornately woven robe lying on the floor.~
+You look at the glowing robes and realize that they must be rare and magical
+to be worn by a man of such power.  The robes are embriodered with symbols
+that you have never seen before.
+~
+11 573441 9
+0 0 0 0
+5 0 0
+E
+robes lim~
+You look at the glowing robes and realize that they must be rare and magical
+to be worn by a man of such power.  The robes are embriodered with symbols
+that you have never seen before.
+~
+A
+4 2
+A
+12 40
+A
+3 2
+A
+13 -20
+#18219
+armbands lim 182~
+a pair of ^ggreen glowing^n armbands~
+A small pair of armbands lay here.~
+These armbands appear to be made of a multicolored ivory that glows a soft
+green.  
+~
+11 1295361 257
+0 0 0 0
+7 0 1
+E
+armbands lim~
+These armbands appear to be made of a multicolored ivory that glows a soft 
+green.
+~
+A
+9 3
+A
+12 10
+A
+13 5
+#18220
+shield ages 182~
+the shield of the ages~
+A massive shield lies on the floor, unused.~
+~
+9 94209 513
+40 0 0 0
+10 0 0
+A
+1 2
+A
+13 10
+#18221
+globe power 182~
+a flickering globe of radiating power~
+A shimmering field of flickering lights floats here.~
+~
+11 1024 1025
+0 0 0 0
+8 1 1
+A
+13 -20
+A
+19 -3
+A
+18 -3
+A
+12 100
+#18222
+focus power 182~
+a power focus~
+You see a small amulet lying here.~
+You examine the small amulet to find that it is a metal disc with a small
+red ruby set in its center.  There are strange symbols that are engraved
+into the metal which is about half-an-inch thick.  As soon as you wield
+the amulet you feel a sudden drain in you body as if it had pulled 
+something from you.
+~
+5 1097728 8193
+5 13 4 12
+5 1 1
+E
+Focus amulet power~
+You examine the small amulet to find that it is a metal disc with a small
+red ruby set in its center.  There are strange symbols that are engraved
+into the metal which is about half-an-inch thick.  As soon as you wield
+the amulet you feel a sudden drain in you body as if it had pulled
+something from you.
+~
+A
+19 6
+A
+12 -100
+A
+12 -100
+#18223
+Plaque~
+a metal plaque~
+A metallic plaque rests atop a stone pillar.~
+~
+13 65536 1
+0 0 0 0
+9999 0 0
+E
+Metallic Plaque~
+The small metal plaque seems to have writing on it.
+
+"This is the first trial of Demariv set forth by the founders of this guild.
+Once you enter you must complete the trial at which point you may enter the
+second trial.  Remember thoug that once you enter failure is not an option.
+May the wisdom of all who have past through here be with you now."
+
+The first trial is a maze that you must complete.
+~
+#18224
+Light sword~
+light sword~
+A glowing short-sword rests here waiting to be used.~
+You examine the bracers and decide that they are ordinary bracers except for
+the fact that they glow a deep purple.  
+~
+5 13314 24577
+0 5 3 0
+6 0 0
+A
+5 2
+A
+13 50
+A
+19 -4
+S
+72 50 5
+#18225
+herbs healing soothing 182~
+herbs of soothing~
+A small jar of assorted herbs sits on the ground.~
+Inside this jar you can see leaves and herbs of all sorts.  You recognize
+some of them as herbs used in healing and others you have never seen before.
+~
+10 65536 16385
+50 119 119 0
+2 0 0
+#18226
+Altar granite~
+altar of storms~
+A huge granite altar sits upon four glass columns.~
+~
+13 1 1
+0 0 0 0
+9999 0 0
+E
+Altar Granite~
+This has to be one of the largest altars you have even see.  The top of it
+is made from a purple granite that emits a soft pulsing glow.  The top is
+supported by 4 glass columns that are each as thick as your torso.  Atop
+this impressive altar sits an even more impressive sight, a huge white
+dragon pears down at you with gaze that blanks your mind of though for
+what lseems to last forever.  Finally you gather youself and step back.
+~
+#18227
+orb protection 182~
+orb of protection~
+A spherical orb lies on the ground glowing red.~
+As you touch the orb you realize that it emits heat as well as a reddish
+glow.  It is small enough that you can palm it in you hand yet weighs a
+great deal leading you to believe that it is quite dense.
+~
+3 65603 16385
+50 2 2 36
+13 0 0
+#18228
+ring golden 182~
+a ^Ygold^n ring~
+A small ^Ygold^n ring has been left here.~
+~
+11 0 24577
+0 0 0 0
+2 0 0
+A
+13 5
+A
+19 -5
+#18229
+chalice crystal goblet~
+a crystal chalice~
+A crystalline goblet lies on the floor reflecting light around the room.~
+You see a small challice made of crystal and a lead type substance that is
+no bigger than your hand.  It seems to contain liquid yet when you take a
+drink the amount of water in it doesn't seem to diminish.  You also realize
+that even when you turn the challice upside down, no water comes out.  Only
+when the challice is at your lips does it seems to flow.
+~
+17 2097153 16385
+400 400 15 0
+5 0 0
+E
+crystal chalice goblet~
+You see a small challice made of crystal and a lead type substance that is
+no bigger than your hand.  It seems to contain liquid yet when you take a
+drink the amount of water in it doesn't seem to diminish.  You also realize
+that even when you turn the challice upside down, no water comes out.  Only
+when the challice is at your lips does it seems to flow.
+The rumors of the legendary challice of Damodred where true...
+~
+A
+12 60
+A
+9 3
+#18230
+table black~
+the table of the council~
+A large jet-black table sits in the middle of the room.~
+~
+13 0 1
+0 0 0 0
+9999 0 0
+E
+Black Table~
+The table before you is so black that it is difficult to make out the edges
+of it.  It seems to have been formed directly out out of the floor by 
+forces that you can't imagine.  It forms a shape like the letter C on its 
+side and is surrounded by chairs.
+
+~
+#18232
+Plaque~
+a metal plaque~
+A metallic plaque rests atop a stone pillar.~
+~
+13 0 1
+0 0 0 0
+9999 0 0
+E
+Metallic Plaque~
+The small metal plaque seems to have some writing on it.
+
+"This is the second trial of Demariv set forth by the founders of this
+guild.  Once you enter you must complete the trial at which point you may
+then enter the third trial.  Remember that once you enter failure is not
+an option.  May the knowledge of all that have passed through here be with
+you now."
+
+This trial is a room where all the exits are DT's except one.  You must 
+choose you exits wisely.
+~
+#18233
+dragon bow 182~
+a dragon's bow~
+A blood red bow lies here glowing and humming.~
+~
+6 35 32769
+4 3 5 12
+10 0 0
+A
+12 20
+#18234
+Key scroll~
+a small scroll~
+A small scroll lies discarded on the floor~
+As you look closely at the scroll the is only one line written on it.
+~
+18 0 16385
+1 1 0 0
+3 0 0
+#18235
+Table~
+a lab table~
+A large table filled with potions and chemicals looks dangerous.~
+~
+13 0 1
+0 0 0 0
+9999 0 0
+E
+Table chemicals potions~
+This table is huge yet it seems barely able to hold the massive experiment
+that rests on it.  Beakers with solutions of all different colors are 
+heated by candles which in turn boil at a friverous pace.  It looks very
+important and complicated yet at the same time completely chaotic.
+~
+#18236
+Blur wand~
+blur wand~
+A wand made of interwoven bone rests here.~
+~
+3 65536 16385
+50 4 4 64
+0 0 0
+#18237
+gauntlets night 182~
+the Gauntlets of Night~
+The pair of jet black gauntlets that rest here seem to absorb the light around them.~
+These guantlets are made of the most unusual material you have ever seen.
+Its almost as if the light in the room gets dimmer as it gets closer to
+the guantlets.  To the touch they are extremely soft and thin and you can't
+see why anyone would use these for protection.
+~
+9 247360 129
+30 0 0 0
+8 0 0
+A
+9 2
+A
+12 30
+#18238
+metallic plaque~
+a metal plaque~
+A metallic plaque rests atop a stone pillar.~
+~
+13 0 1
+0 0 0 0
+9999 0 0
+E
+Metallic Plaque~
+The metal seems to have some writing on it:
+
+"This is the third trial set forth by the founders of this guild.  This is
+the most difficult trial.  At the completion of this trial you will be
+honored as a member of the council.  May the courage of all those that
+have passed through here be with you now."
+
+In this trial you must face and defeat three creatures, each one harder
+than the one before it.
+~
+#18239
+Cask Wine~
+a cask of wine~
+A small cask of wine sits atop a table.~
+It looks to be a deep red wine.
+~
+23 65536 0
+3000 3000 2 0
+9999 0 0
+#18240
+hellborn dagger~
+the dagger 'hellborn'~
+A blood red dagger burns the floor it rests on.~
+~
+5 178689 8193
+5 5 5 14
+7 0 0
+#18241
+inspire stick~
+Knife's inspire Stick~
+This item is for Knife for reporting a crash bug!~
+~
+3 0 16385
+40 12 12 120
+3 0 0
+#18290
+flag~
+a one point quest flag~
+A quest flag is lying here!~
+~
+13 65668 1
+0 0 0 0
+1 0 0
+#18291
+flag~
+a two point quest flag~
+A quest flag is lying here!~
+~
+13 65668 1
+0 0 0 0
+1 0 0
+#18292
+flag~
+a ^GBonus^n quest flag~
+A ^GBonus^n quest flag.~
+~
+13 0 1
+0 0 0 0
+0 0 0
+#18297
+beer can natural light~
+can of Natural lite~
+A ordinary beer can.~
+~
+10 0 16385
+50 134 58 64
+2 0 0
+#18298
+builders guide~
+a Kore Builders Guide <-- ^Rread guide^n~
+A magical tome titled, 'A Builders Guide to Heroes of Kore' <-- ^Rread guide^n.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+E
+Kasmir~
+This is kasmirs hint page.
+~
+E
+Shyft~
+This is shyfts hint page
+~
+E
+page19~
+
+   ^YConclusion^n
+
+   To get your zone connected it must first be approved by Shyft
+   and then get the final approval of Kasmir. Only a 58th level or
+   above IMM may connect a zone. Happy building!
+
+   ^RProteus^n
+
+   For ^CShyft's^n hints type ^Gread Shyft^n
+   For ^CKasmir's^n hints type ^Gread Kasmir^n
+~
+E
+page18~
+
+   ^YGeneral Guidelines^n
+
+   I. No profanity is allowed in descriptions.
+  II. Develop a theme for your zone. Choatic zones will not be connected.
+ III. Once again, descriptions should be very creative and in depth.
+  IV. If you cheat, you ^RWILL^n be frozen.
+   V. Pick a zone connection point that is suitable for your zone.
+  VI. Keep the quality of the eq. relative to the mob it loads on.
+ VII. ^CSAVE OFTEN!^n
+VIII. Have fun creating your zone.
+  IX. Worship Proteus(optional).
+~
+E
+page17~
+
+   ^YZone(Room Commands)^n
+
+   These are what tell the mud to load and item, mob, or an item
+   on a mob to a room. The first command is alway 0. Follow the 
+   prompts to customize the command. When it says ^GNumber of items
+   allowed on mud^n, this is the loadrate. For example, if you set
+   this to 80, the item or mob would load 80% of the time. If a command
+   is dependent on the command before it then the item or mob has to load
+   for the second command to have a chance of taking place.
+~
+E
+page16~
+
+   ^YZone(Settings)^n
+
+   ^MName^n sets the name of your zone. ^MLifespan^n is how often
+   your zone resets, between 15-45 is standard. ^MTop of Zone^n is
+   the first room in your zone, ^RDo not change this^n. ^MReset mode^n
+   is how your zone resets. ^GNo reset^n only resets on reboots. ^GNormal
+   reset^n resets every interval specified by ^Mlifespan^n. ^MReset when
+   there are no players in zone^n is just what it says.
+~
+E
+page15~
+
+   ^YZone(OLC)^n
+
+   To edit your zone type ^Gzedit^n when you are in any room in your
+   zone.  The zone menu lets you set the characteristics of your
+   entire zone as well as individual room commands.
+~
+E
+page14~
+
+   ^YMobs(Mobprograms)^n
+
+   Mobprogs are what really make mobiles in your zone lifelike.
+   Mobprogs can be greetings, or programs that interact with the
+   PC when he/she types a certain string, or they can be fightprogs
+   which cast spells and initates special attacks during combat.
+   An entire supplement to this guide will be devoted entirely
+   to the in's and out's of mobprogramming. If you have any questions
+   on mobprogs, ask an IMP.
+~
+E
+page13~
+
+   ^YMobs(Flags)^n
+   ^MNPC^n flags sets the behavior of the mob, i.e. a ^Ghelper^n
+   mob will jump into help(fight with) another mob that is being
+   attacked in the same room.  ^MAFF^n flags set special 
+   characteristics of the mobs, i.e. whether the mob is sanc'ed
+   or it has infravision. 
+~
+E
+page12~
+
+   ^YMobs(Attributes)^n
+
+   ^MKeywords^n,^MName^n,^MLook^n, and ^MDesc^n are all the same as
+   items except for a mob. ^MAlignment^n sets whether the mob is good
+   or evil. ^MLevel^n sets the difficulty of the mob(damage and hitroll
+   are set when you set level). To set damroll, select C, and enter
+   amount. ^MArmor class^n is how hard it is to hit the mob(-100 to 100).
+   ^MGold^n is usually 100k-150k for a level 50 mob and 10-15 coins for a
+   level 1. Give mobs gold accordingly.
+~
+E
+page11~
+
+   ^YMobs(OLC)^n
+
+   To edit a mobile(Mob) type ^Gmedit <mob#>^n. To see a list of all
+   the mobs in your zone type ^Gvnum mob <zone#>^n. The difficulty of
+   the mobs in your zone determines the relative level of your zone.
+   For example, a newbie zone would have lots of easy, low level mobs.
+   As with room descriptions, mob descriptions should be detailed and
+   creative. 
+~
+E
+page10~
+
+   ^YRooms(Doors/Exits)^n
+
+   To connect two rooms you must have an exit between the
+   two rooms. However, once you connect one room to another
+   the connection is only one way(from the room you where 
+   editing).  You must go to the room that you connected to and
+   do the same process.  Doors can be set to lockable(need a key)
+   and pickproof(only openable with key).  Mazes usually consist
+   of a lot of one way exits and exits to the same room number.
+~
+E
+page5~
+
+   ^YItem Flags^n
+
+   These are the flags that set the characteristics of the item.
+   ^MType^n sets the type of item it is, i.e. a key, armor, or a light
+   source. ^MExtra flags^n set things such as level restrictions and
+   race restrictions. ^MWear flags^n set if an item can be worn or
+   not and where it can be worn. A longer description of each flag
+   will appear in a supplement to this guide.
+~
+E
+page4~
+
+   ^YDefining Items^n
+
+   For the ^MKeywords^n add applicable keywords for the item. This is what
+   players will type to interact with the item. For ^MName^n, this is
+   the actual name for the item that is displayed when the item is
+   interacted with. ^MLook^n is what the player sees when he/she looks
+   in a room that contains the item, i.e. A steel mace lies here.
+   ^MDesc^n is what the player sees when he/she looks AT the item, i.e.
+   This steel mace is made of steel.
+~
+E
+page3~
+
+   ^YOLC (Items)^n
+
+   To view a list of all the items in your zone type ^Gvnum obj <zone#>^n
+   The first item in you zone will be your zone number followed by a 00.
+   For example, zone 182's first item is 18200.  To edit an item, type
+   ^Goedit <item#>^n.  Items can only be refered to by there item# when
+   editing.  
+
+~
+E
+Contents~
+
+   ^CTable of Contents^n
+
+  ^G<Topics>^n
+  1. Introduction
+  2. OLC
+  3. Items(OLC)
+  4.  ^Y-Defining^n
+  5.  ^Y-Flags^n
+  6.  ^Y-Menus(affects,spells,applies)^n
+  7. Rooms(OLC)
+  8.  ^Y-Defining^n
+  9.  ^Y-Flags^n
+ 10.  ^Y-Doors/Exits^n
+ 11. Mobs(OLC)
+ 12.  ^Y-Attributes^n
+ 13.  ^Y-Flags^n
+ 14.  ^Y-Mobprograms^n
+ 15. Zone(OLC)
+ 16.  ^Y-Settings^n
+ 17.  ^Y-Room commands^n
+ 18. General Guidelines
+ 19. Conclusion
+~
+E
+Guide Builder~
+
+  ^YHeroes of Kore Builders Guide Version 1.0
+
+   If you have any questions, comments, or suggestions feel free to
+   mudmail me.
+
+   ^RProteus^n
+
+   To view contents type ^Cread contents^n.
+   To view a specific topic type ^Cread page<#>^n.  For example, ^Cread page2^n.
+
+~
+E
+page1~
+
+   ^YIntroduction^n
+
+   You are reading the first edition Kore builders guide.  This reference
+   is designed to guide you through the building process and answer
+   some of the questions you have.  I have tried to compile all of the
+   questions that I had when I built my first zone but I'm sure there are
+   many missing.  Hopefully more in-depth edition will follow at some point.
+   Good luck on you new zone.
+
+   ^RProteus^n
+   3/28/97
+~
+E
+page2~
+
+   ^YOLC^n
+
+   If you type ^GOLC^n, the system will tell you what components of
+   your area need saving.  To save a component just type the component
+   that you want to save and the zone #.  For example, ^Gzedit save <zone#>^n
+   You might want to set up and alias that saves all your components since
+   a crash will wipe out all of your recent changes.  
+ 
+~
+E
+page6~
+
+   ^YMenus(affects,spells,applies)^n
+
+   The ^MAffects^n menu allows you to add permanent spell effects to the
+   holder of the item. The ^MSpells^n menu allows the item to cast
+   spells when used(any spell in kore is useable). The ^MApplies^n menu
+   allows the item to enhance one or more of the holders attributes,
+   i.e. plus strength or damage.  A description of each menu will appear
+   in greater detail in supplements.
+~
+E
+page7~
+
+   ^YRooms(OLC)^n
+
+   To edit a room type ^Gredit^n while standing in the room you want
+   to edit. Rooms are what define the size and appearence of your zone
+  so you want to make them as descriptive as possible. You not only
+   want to describe the physical features of the room but also set
+   the atmosphere of the surroundings(a good example of this is the
+   Ruins of Trolkiar). But above all, be as creative as possible.
+~
+E
+page8~
+
+   ^YDefining Rooms^n
+
+   In defining your rooms, as stated on the previous page, you want
+   to be as descriptive as possible. The are also some rules to 
+   follow. One, each room description should be indented 3 spaces.
+   Two, directions like "There are exits east and west" should not
+   be included. Three, there should only be one space after a period.
+   These rules are designed to make Kore more uniform and therefore
+   better looking.
+~
+E
+page9~
+
+   ^YRoom Flags^n
+
+   Room flags give rooms special characterstics, such as
+    !mob meaning that a mobile will not enter this room.
+   Full descriptions will be included in a supplement
+   to this guide.
+~
+#18299
+Pizza food~
+a piece of VP pie pizza~
+You see a greasy piece of pizza here.~
+~
+19 0 1
+100 0 0 0
+0 0 0
+#99999
+$~

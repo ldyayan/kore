@@ -1,0 +1,26 @@
+#270
+On the way to Blithe~
+27099 30 2 3
+D 0 27000     0     2            A small clearing in front of the cliff face. door north
+M 0 27003     1 27022            greed mob
+O 0 27007   101 27022            a huge mountain of gold
+O 0 27005   101 27021            a small plaque engraved 'Greed'
+M 0 27004     1 27021            an old dieing man
+E 1 27006   101    16                    wield a sword named, '^bStorm^n ^WBringer^n'
+E 1 27006   101    19                    wield 2 a sword named, '^bStorm^n ^WBringer^n'
+O 0 27004   101 27020            a small plaque engraved 'Gluttony'
+M 0 27002     1 27020            gluttony mob
+D 0 27019     2     2            Entering the gauntlet door south
+O 0 27003   101 27019            a small gold plaque
+M 0 27001     1 27018            the gauntlet keeper
+D 0 27018     0     2            A large decorated cave door north
+M 0 27000     1 27011            Obe, gaurdian of the hillside keeper of the keys
+E 1 27000   101    13                    waist a small key ring
+P 1 27001   101 27000                    put a small shiny bronze key in a small key ring
+E 1 27002    70    12                    about the dark robes of Obe
+D 0 27011     0     2            Before a large steel grating door north
+D 0 27012     2     2            Deeper into the hillside door south
+D 0 27001     2     2            Inside the cliff face door south
+S
+#99999
+$~

@@ -1,0 +1,60 @@
+>greet_prog 100~
+  if isfollow($n)
+    if ispc($n)
+    else
+      look $n
+      mpecho $I's face brightens with a bloodthirsty leer.
+      say Observe the lethal effectiviness of my weapon!
+      mpechoat $n Before you can blink, $I punches you clean through your throat, crushing your windpipe!  Farewell forever, my friend.
+      mpechoaround $n Before $N can blink, $I punches $M clean through the throat, crushing $S windpipe and killing $M instantly!
+      mpdamage $n 50000
+    endif
+  else
+    if rand(30)
+      mpecho Without warning, $I destroys a nearby wooden training dummy to slivers.
+      emote nods in satisfaction.
+    endif
+  endif
+~
+>rand_prog 5~
+  if inroom($r) == here
+    peer $r
+    mpechoat $ $I's lips widen with a grin of menace at the sight of you.
+    mpechoaround $r $I's lips widen with a grin of menace at the sight of $R.
+    say I'll bet this one would enjoy a good fight!
+    mpechoat $r $I sets upon you!
+    mpechoaround $r $I sets upon $R!
+    mpdamage $r 15d15+10
+    mpkill $r
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoat $r $I spins you around and kicks you in the kidneys!
+    mpechoaround $r $I spins $R around and kicks $J in the kidneys!
+    mpdamage $r 10d15+10
+  endif
+~
+>fight_prog 8~
+  if inroom($r) == here
+    mpechoat $r $I knocks down with a savage blow to your shins!
+    mpechoat $r Your legs go numb and collapse beneath you!
+    mpechoaround $r $I delivers a savage blow to $R's shins!
+    mpechoaround $r $R goes down like a house of cards!
+    mppose $r sit
+    mpdamage $r 12d12+30
+    mpdrainmove $r 4d10+20
+  endif
+~
+>fight_prog 5~
+  if inroom($r) == here 
+    mpechoat $r $I delivers a savage blow to your solar plexus!
+    mpechoaround $r $I delivers a savage blow to $R's solar plexus!
+    mpdamage $r 20d12+160
+    mpechoat $r A massive flow of blood rushes into your head, temporarily blinding you!  You reel about, trying to find your bearing!
+    mpechoaround $r $R reels around crazily as if blinded!
+    mpechoaround $r $R reels blindly out of the room!
+    mptransfer $r 22090
+  endif
+~
+|

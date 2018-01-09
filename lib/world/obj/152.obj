@@ -1,0 +1,525 @@
+#15200
+copper key large~
+a large copper key~
+A large copper gently ages on the ground.~
+~
+18 5 1
+0 1 0 0
+5 0 1
+E
+copper key~
+This copper key looks very sturdy.
+~
+#15201
+cornucopia horn~
+Horn of Cornucopia~
+The Horn of Cornucopia lies here, waiting to nourish you.~
+You blow on the Horn of Cornucopia
+~
+15 65602 16385
+300 1 0 0
+20 50000 0
+E
+horn cornucopia~
+A seemingly mundane horn of woven wicker, it hums faintly with magical power.
+~
+A
+5 2
+A
+10 50
+#15202
+chef hat~
+chef's hat~
+A crumpled chef's hat lies ignored here.~
+~
+9 148481 17
+6 0 0 0
+10 2000 0
+E
+chef hat~
+This chef's hat sure is small for a giant chef like Pierre.
+~
+A
+13 20
+A
+2 1
+#15203
+wooden key~
+a small wooden key~
+A small wooden key rests here.~
+~
+18 65540 1
+0 4 0 0
+2 0 1
+#15204
+chef apron~
+a chef's apron~
+A spotless chef's apron awaits the next great Chef.~
+~
+9 1025 1025
+10 0 0 0
+15 3500 0
+E
+chef apron~
+This apron gleams bright white, daring you to spill blood on it.
+~
+A
+13 50
+A
+12 -120
+#15205
+bunny slippers~
+a pair of bunny slippers~
+A pair of bunny slippers sit cutely against the wall.~
+~
+9 66048 65
+4 0 0 0
+10 3000 0
+E
+bunny slippers~
+Their cuteness almost masks the ugliness of the person wearing them.
+~
+A
+13 10
+A
+14 20
+#15206
+pop rock~
+a pop rock~
+A pop rock lies unwanted here on the ground.~
+~
+25 36 1
+50 64 69 0
+1 1 1
+E
+pop rock~
+Printed on the pill in tiny font: "Made from Jolt concentrate."
+~
+#15207
+vial lsd acid~
+lysergic acid diethylamide~
+A vial of lysergic acid diethylamide sits here.~
+~
+10 65612 1
+60 1 3 63
+1 1 1
+#15208
+pen light~
+a pen light~
+A black stick glowing at one end lies here, discarded.~
+~
+1 8400961 16385
+0 0 -1 0
+10 4000 0
+E
+pen light~
+Mauler's favorite patient fixer upper
+~
+A
+19 2
+A
+1 1
+#15209
+mansion key~
+a mansion key~
+A key of the mansion lies here by itself.~
+~
+18 6 1
+0 1 0 0
+2 1 1
+E
+mansion key~
+This plain but heavy key bears the name "Helen" along its length.
+~
+#15210
+spoon~
+Spoon of Death~
+A gigantic, nasty looking spoon stands upright here.~
+~
+5 152704 8193
+0 6 4 7
+15 1 0
+E
+spoon~
+Suddenly you don't see the need for a food processor anymore.
+~
+A
+18 -2
+A
+19 5
+#15211
+crude key~
+a crude key~
+A crude looking key lies unwanted here.~
+~
+18 70 1
+0 1 0 0
+2 1 1
+E
+dummy~
+This is a Dummy, please make me valid!!~
+E
+crude key~
+Looks crude but effective.
+~
+#15212
+blinking wristband~
+a blinking wristband~
+A strange wristband is emitting a beeping sound here.~
+~
+9 50210 4097
+4 0 0 0
+3 1 0
+E
+beeping wristband~
+Made out of some flexible material, this strange artifact beeps with an urgent
+tone while flashing the mystical number 12:00
+~
+A
+9 4
+A
+12 20
+#15213
+slipshod sandals~
+a pair of slipshod sandals~
+A pair of old, smelly sandals lie here, glowing with power.~
+~
+9 1289 65
+2 0 0 0
+5 760 0
+E
+slipshod sandals~
+This pair of crummy footwear conjures up the image of a bearded, rattily
+dressed man who rules the masses through a wall of blinking lights.
+~
+A
+14 -35
+A
+12 35
+#15214
+harp~
+the singing harp~
+A magical harp sings sweet songs here.~
+~
+24 64 8193
+0 0 0 0
+5 1 1
+E
+harp~
+The sculpture of the beautiful woman comes alive and sings for you alone.
+~
+A
+6 4
+A
+24 -3
+#15215
+ring gold plain~
+a plain ^Ygold^n ring~
+An unremarkable band of ^Ygold^n lies unnoticed on the ground here.~
+~
+11 5120 3
+0 0 0 0
+3 1 1
+E
+hen golden~
+Although exceeding ugly as hens go, this old pile of features looks normal.
+~
+A
+17 -6
+A
+19 1
+A
+18 1
+#15216
+keycard key card~
+a keycard~
+A magical keycard lies discarded here.~
+~
+18 65540 1
+0 2 0 0
+2 0 0
+#15217
+kitty paws boots~
+kitty paws~
+A pair of boots fashioned from some monstrous cat is here.~
+~
+9 8454208 65
+8 0 0 0
+5 20000 0
+E
+kitty paws boots~
+These paws with claws extended look authentic and very lethal.
+~
+A
+2 2
+A
+19 1
+#15218
+necklace kitty whiskers~
+necklace made of kitty whiskers~
+A whimsical loop of kitty whiskers lies here.~
+~
+9 8454208 5
+10 0 0 0
+3 3500 1
+E
+necklace kitty whiskers~
+The poor kitty who donated his whiskers for this must be pretty mad.
+~
+A
+2 1
+A
+1 1
+#15219
+blast shield~
+a blast shield~
+A worn but serviceable blast shield rests here.~
+~
+9 257 513
+8 0 0 0
+15 1 0
+E
+blast shield~
+This strange shield looks both clumsy and powerful at the same time.
+~
+A
+13 40
+A
+19 -3
+#15220
+hard goggles~
+a pair of hard goggles~
+A pair of hard laboratory goggles dangles here.~
+~
+9 8400930 262145
+6 0 0 0
+5 3500 0
+E
+hard goggles~
+This pair of clear laboratory goggles is scratched but still functional.
+~
+A
+18 2
+A
+4 1
+#15221
+diamond pipette tube~
+the ^Wdiamond^n pipette~
+A tube made of glittering ^Wdiamond^n is here.~
+~
+5 230425 8193
+0 5 7 10
+15 35000 0
+E
+diamond pipette~
+Constructed entirely of diamond, the pipette dazzles with its brightness.
+~
+A
+12 20
+A
+19 2
+A
+9 3
+B
+4096 0
+#15222
+mechanical arms~
+a pair of mechanical arms~
+A pair of mechanical arms gleam in the light.~
+~
+9 8466448 257
+12 0 0 0
+20 25000 0
+A
+13 15
+A
+19 1
+A
+1 1
+#15223
+mechanical legs~
+a pair of mechanical legs~
+A pair of mechanical legs stand upright here.~
+~
+9 8466448 33
+12 0 0 0
+20 25000 0
+A
+2 1
+A
+13 15
+A
+19 1
+#15224
+black bar~
+a black bar~
+A black bar of unknown design sits here, awaiting input.~
+~
+8 65555 16385
+0 0 0 0
+5 1000 0
+E
+black bar~
+You could have sworn that the thing looks just like a remote control.  Naaaah.
+~
+A
+24 -8
+A
+23 -4
+#15225
+abacus~
+an abacus~
+An ancient, large abacus rests here without purpose.~
+~
+12 65664 16385
+0 0 0 0
+3 3000 0
+E
+abacus~
+This old gadget beckons you to flex your fingers and calculate--how insidious.
+~
+A
+3 2
+A
+4 2
+#15226
+runed paper~
+a piece of runed paper~
+A crumpled piece of paper with runic scrawls rests here.~
+~
+2 135172 1
+20 37 0 0
+1 3000 1
+E
+runed paper~
+This piece of paper looks worthless, but your sixth sense disagrees.
+~
+#15227
+tiny club~
+a tiny club~
+A club, tiny by giant standards, stands on its end here.~
+~
+5 0 8193
+0 1 15 5
+5 2000 0
+E
+tiny club~
+This tiny club reminds you of a giant sized nightstick--but what is a nightstick?
+~
+A
+3 -3
+A
+19 2
+#15228
+sugar cube~
+a sugar cube~
+A delicious looking sugar cube sits here.~
+~
+19 0 1
+24 0 0 0
+1 1 1
+E
+sugar cube~
+It looks slightly moist around the edges but still very edible.
+~
+#15229
+latex clammy gloves~
+a pair of clammy gloves~
+A pair of clammy, crumpled gloves rest unwanted here.~
+~
+9 180256 129
+5 0 0 0
+2 750 0
+E
+clammy latex gloves~
+Neated stenciled on its side: "DISPOSE AFTER USE"
+~
+A
+9 1
+A
+13 15
+#15230
+rat pellet~
+a rat pellet~
+A pellet of rat gunk sticks to the floor here.~
+~
+25 64 1
+27 44 39 4
+1 1 1
+#15231
+ice pick~
+an ice pick~
+An innocuous ice pick lies on the floor here. (That was what HE thought too)~
+~
+5 65670 8193
+0 5 5 14
+3 10000 0
+E
+ice pick~
+Light reflects brightly off the ice pick except for some dull brown spots.
+Strange, they don't look like rust...
+~
+A
+2 2
+A
+18 4
+#15232
+broad leather belt~
+a broad leather belt~
+A wide belt of fine leather rests in a tight coil.~
+~
+11 136192 2049
+0 0 0 0
+10 1500 0
+E
+broad leather belt~
+A bit worn, a bit smelly, but very secure.
+~
+A
+17 -6
+A
+1 1
+#15233
+generic dagger~
+a generic dagger~
+You shouldn't see this.~
+~
+5 0 1
+0 3 4 14
+0 0 0
+#15234
+beans magic bean handful~
+a handful of magic beans~
+A handful of magic beans have been left here.~
+~
+26 64 1
+0 15235 0 0
+1 10000 1000 1
+#15235
+beanstalk stalk~
+a beanstalk~
+A tall green beanstalk rises up to the sky here.~
+~
+27 0 1
+15200 6 0 0
+99999 0 0
+#15298
+majic wand~
+a majic wand~
+A thin metallic wand, sparkling on one end, sits here.~
+Wow, it looks just like a lit fuse!  Good thing it's not exploding anytime
+soon...??!
+~
+3 65541 1
+50 1 1 82
+1 1 1
+#15299
+dummy object~
+dummy object~
+It's a dummy object~
+~
+1 1 16385
+0 0 0 0
+1 0 0
+#99999
+$~

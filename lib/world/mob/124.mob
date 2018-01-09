@@ -1,0 +1,107 @@
+#12400
+Ackeron flame morph~
+Ackeron the Unholy Flame~
+A flame flickers bright, seemingly intelligent.
+~
+   Brilliant orange flames hover just above the floor. Despite the
+brilliance of the flames no light is visible on the walls. Ackeron
+is a capable morphing being. He can take the form of anything he can
+think of.
+~
+139274 33620096 0 S
+49 20 10 1d1+0 1d1+0
+0 0
+8 8 0 12
+#12401
+nothere moving portal mob~
+nothere moving portal mob~
+This mob moves around to certain rooms to move the portal into ackerons chamber
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#12402
+fire demon sentinel~
+a fire sentinel~
+A large demon surrounded by fire stands here as sentinel.
+~
+   Standing just taller then a human the fire demon moves back and forth.
+In his hands a small fireball in the other a staff emits heat which
+forces all to stand back and gauge the actual worthiness of this fight.
+~
+534538 33624192 -1000 S
+45 20 10 1d1+0 1d1+0
+0 0
+8 8 0 12
+#12403
+airlock operator !there~
+the airlock operator !there~
+the airlock operator is here, invisible to mortals
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#12404
+fire gremlin~
+a fire gremlin~
+A small gremlin stands before you spouting flames.
+~
+  It's deep blue flame seems almost transparent. His eyes, if you can
+call them that seem to flare with rage.
+~
+4194312 65536 -750 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 12
+#12405
+check fly mob notthere~
+Affect-Fly Checker Lower Level~
+This mob checks to see if the char is currently affected by fly.
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#12406
+check fly mob notthere~
+Affect-Fly Checker Upper Level~
+This mob checks to see if char is affected by fly
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#12407
+poison affect notthere~
+Poison Affect Mob~
+This mob causes a poison, slash burning effect on passing chars.
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#12408
+Check Snorkel Mob~
+Check Snorkel Mob~
+This mob checks to see if the char is wearing a snorkel.
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

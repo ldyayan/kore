@@ -1,0 +1,82 @@
+>all_greet_prog 100~
+  if ispc($n)
+  say Welcome $N
+  say You too shall follow our leader, Orsus!
+  mpsilent remove stal
+  mpsilent junk stal
+  mpsilent mpoload 26413
+  mpsilent take stal
+  mpsilent wield stal
+  endif
+~
+>rand_prog 15~
+    if isaffected($i, stoneskin)
+    else
+        cast 'stoneskin'
+    endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+  mpechoat $r $I draws back his massive stalactite and draws it across your face sending you flying.
+  mpechoaround $r $I draws back his massive stalactite and sends $R flying.
+  mpdamage $r 4d40+15
+  mppose $r sit
+  endif
+~
+>fight_prog 4~
+  if inroom($r) == here
+  mpechoat $r Worshippers protecting the temple grab you and drag you to a cell deep within the temple.
+  mpechoaround $r Worshippers grab $R and drag him into the temple.
+  mppose $r sit
+  mptrans $r 26575
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+  say Join me in stone puny mortal!
+  mpechoat $r The Monument wave his arms arcanely at you!
+  mpechoaround $r $I waves his arms in a sweeping gesture and $R turns to stone!
+  mpcallmagic 'petrify' $r
+  endif
+~
+>fight_prog 13~
+  if inroom($r) == here
+    if hitprcnt($r) < 20
+      switch $r
+      block
+      block
+    else
+      if class($r) == warrior
+        switch $r
+        block
+        riposte
+        speak You have not mastered the warrior arts!!
+      endif
+    endif
+  endif
+~
+>fight_prog 14~
+  if inroom($r) == here
+  mpecho $I grabs a handful of stones and tosses them casually in the air.
+  mpecho The stones stop in mid-air and they reshape themselves into sharp arrowheads!
+  mpecho The arrowheads shoot forward and SLAM INTO YOUR BODY!!!
+  mpdamage all 12d12+20
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+  mpecho $I holds $L hands high above his head!
+  mpecho You watch in horror as the rock you so recently chipped away melds into the statue!
+  mpcallmagic 'heal' $i
+  endif
+~
+>fight_prog 20~
+  bash
+~
+>death_prog 100~
+  mpsilent rem stalactite
+  mpsilent junk stalactite
+  say ORSUS SHALL HAVE VENGEANCE ON MY DEATH!
+  cackle
+~
+|

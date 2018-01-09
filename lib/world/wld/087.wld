@@ -1,0 +1,1588 @@
+#8700
+In a placid lake~
+   The still waters of the lake are a welcome respite from the recent assault 
+of cold and rapids, and you almost doze on the surface as you watch kobolds 
+fish for large salmon from their boats. 
+~
+87 131136 6
+D0
+~
+~
+0 0 8701
+D8
+~
+~
+0 0 8696
+S
+#8701
+In a placid lake~
+   The still waters of the lake are a welcome respite from the recent assault 
+of cold and rapids, and you almost doze on the surface as you watch kobolds 
+fish for large salmon from their boats. 
+~
+87 131136 6
+D0
+~
+~
+0 0 8702
+D2
+~
+~
+0 0 8700
+S
+#8702
+In a placid lake~
+   Just when you thought the swordfish hadn't made it this far north, a pair 
+of them convince you otherwise, toppling a kobold boat and tossing its 
+unfortunate would-be butchers into the lake. They peer about hungrily for 
+their next victim... 
+~
+87 131136 6
+D0
+~
+~
+0 0 8703
+D2
+~
+~
+0 0 8701
+S
+#8703
+In a placid lake~
+   As the kobold boats thin out, so do the salmon, but a thick stream of 
+bubbles emanates from the northwest... 
+~
+87 131140 6
+D2
+~
+~
+0 0 8702
+D9
+~
+~
+0 0 8704
+S
+#8704
+A fizzing aquifer~
+   Here in the lake you discover an enormous fizzing olive colored stone,
+which occasionally flips over to reveal a monstrous turtle-head! This turtle
+dragon is nearly five times as large as the one you saw at the geyser. But it
+for the most part appears quite friendly, provided you don't provoke it...
+~
+87 131136 6
+D7
+~
+~
+0 0 8703
+D8
+~
+~
+0 0 8699
+S
+#8705
+Spiral steps in the mud~
+   Climbing out of the lake onto the red mud of the steps, you discover that 
+they are made from the same obsidian material that the causeway back at the 
+river-mouth was comprised of. The steps continue on to the northwest. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8696
+D9
+~
+~
+0 0 8706
+S
+#8706
+Spiral steps in the mud~
+   Continuing on the spiral steps, You look west to the market square and 
+catch a brief flash from the portal, hinting that a package just arrived. Not 
+having time to really go investigate, you resign yourself to looking for 
+clues in the palace above... 
+~
+87 131072 0
+D0
+~
+~
+0 0 8707
+D7
+~
+~
+0 0 8705
+S
+#8707
+Spiral steps in the mud~
+   Standing here on the steps you can see that the village seems to have gone 
+to a degree of heightened alertness. You hope that they haven't taken much 
+notice of you yet and press onward, as groups of kobold guards scurry 
+southward along the edges of the lake and commandeer the fishing boats not 
+already in use... 
+~
+87 131072 0
+D2
+~
+~
+0 0 8706
+D6
+~
+~
+0 0 8708
+S
+#8708
+At the top of the muddy steps~
+   Briefly stepping out of view of most of the village, you can see the north 
+end of the lake touching the base of the mountain beneath the Diamond Cleft 
+with very little shoreline between it and the mountain. To the south you see 
+a clean wooden porch with two guard-posts, marking the north (and only) 
+entrance to the wicca's palace. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8709
+D8
+~
+~
+0 0 8707
+S
+#8709
+Northern porch~
+   Having made your untidy ascent, from this porch you can take a good look 
+at the surrounding area once more.. the Diamond Cleft rises majestically to 
+the north, and looking down to the north you see a large turtle-like being 
+sl plashing merrily in a fizzing aquifer. To the souh th is the interior 
+of the ominous structure, and you hear a din of sounds, mostly animal you 
+would guess, from within. 
+~
+87 131076 0
+D0
+~
+~
+0 0 8708
+D1
+~
+~
+0 0 8711
+D2
+~
+~
+0 0 8712
+D3
+~
+~
+0 0 8710
+S
+#8710
+Western guard post~
+   A spartan guard-room of stone walls with a firing hole for mounting a 
+crossbow. A muscular dog-faced guard stares warily at you, his hand on the 
+trigger. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8709
+S
+#8711
+Eastern guard post~
+   A spartan guard-room of stone walls with a firing hole for mounting a 
+crossbow. A muscular dog-faced guard stares warily at you, his hand on the 
+trigger. 
+~
+87 131072 0
+D3
+~
+~
+0 0 8709
+S
+#8712
+On a corridor in the palace~
+   The odd mix of crudity and complexity turns to the crude once more, as the 
+walls of the corridor are made mainly of hastily nailed boards of cedar. The 
+occasional assistant of the wicca carries carefully sealed containers whose 
+contents are a mystery from place to place, again wearing the typical 
+lavender kimono with a deadly nightshade emblem stamped on the chest. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8709
+D7
+~
+~
+0 0 8715
+D8
+~
+~
+0 0 8713
+S
+#8713
+On a corridor in the palace~
+   Being careful not to step on any nails, you walk down the creaking cedar 
+floor to the point adjacent to the northwest wing of the palace. A heavy mist 
+wafts into the corridor from here, but it doesn't smell quite as bad here as 
+it did to the east. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8714
+D6
+~
+~
+0 0 8712
+D9
+~
+~
+0 0 8718
+S
+#8714
+On a corridor in the palace~
+   Sweet fragrances of cherries and other fruits come from the southwest, as 
+you enter a somewhat better-maintained section of the corridor. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8713
+D7
+~
+~
+0 0 8717
+D8
+~
+~
+0 0 8727
+S
+#8715
+On a corridor in the palace~
+   The crude corridor turns to the southeast, as a misty vapor comes from the 
+adjacent greenhouse. The cries of various animals, and the smells of the 
+various excrements they produce, exude also from the northeast. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8716
+D6
+~
+~
+0 0 8736
+D9
+~
+~
+0 0 8712
+S
+#8716
+On a corridor in the palace~
+   Between greenhouses in the eastern half of the palace a display of various 
+kobold pottery lines the walls, and a complete tea service with crude 
+utensils adorns the inner wall. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8715
+D7
+~
+~
+0 0 8745
+S
+#8717
+Before the waiting room ~
+   The corridor takes a final hairpin turn here, as the mist gets thinner and 
+a resplendent waiting room extends to the north. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8754
+D9
+~
+~
+0 0 8714
+S
+#8718
+In the northwest greenhouse~
+   You enter the northwest greenhouse, where an mind-flayer in a lavender 
+smock sits at a desk in a triangular enclosure bordered with thick panes of 
+glass. Various patches of plants adorn the surrounding area beyond the 
+windows, and some bizzare creatures lumber among them. 
+~
+87 131076 0
+D6
+~
+~
+0 0 8720
+D7
+~
+~
+0 0 8713
+D8
+~
+~
+0 0 8719
+D9
+A glass sliding door.
+~
+glass sliding door~
+1 0 8721
+S
+#8719
+The onion patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled mind-flayers try to keep the plants alive. 
+~
+87 0 0
+D6
+~
+~
+0 0 8718
+S
+#8720
+The cucumber patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled mind-flayers try to keep the plants alive. 
+~
+87 131072 0
+D8
+~
+~
+0 0 8718
+S
+#8721
+The carrot patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled mind-flayers try to keep the plants alive. 
+~
+87 131072 0
+D6
+~
+~
+0 0 8723
+D7
+It's a thick glass sliding door.
+~
+glass sliding door~
+1 0 8718
+D8
+~
+~
+0 0 8722
+D9
+~
+~
+0 0 8724
+S
+#8722
+The nutmeg patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled mind-flayers try to keep the plants alive. 
+~
+87 131072 0
+D6
+~
+~
+0 0 8721
+S
+#8723
+The ginger patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled mind-flayers try to keep the plants alive. 
+~
+87 131072 0
+D8
+~
+~
+0 0 8721
+S
+#8724
+The thyme patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled mind-flayers try to keep the plants alive. 
+~
+87 0 0
+D6
+~
+~
+0 0 8726
+D7
+~
+~
+0 0 8721
+D8
+~
+~
+0 0 8725
+S
+#8725
+The sage patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled mind-flayers try to keep the plants alive. 
+~
+87 131072 0
+D6
+~
+~
+0 0 8724
+S
+#8726
+The mustard patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled mind-flayers try to keep the plants alive. 
+~
+87 131072 0
+D8
+~
+~
+0 0 8724
+S
+#8727
+In the southwest greenhouse~
+   You enter the southwest greenhouse, where a githyanki in a lavender smock
+sits at a desk in a triangular enclosure surrounded by thick panes of glass.
+Various patches of plants adorn the surrounding area beyond the windows, and
+an assortment of creatures lumber through them.
+~
+87 131076 0
+D6
+~
+~
+0 0 8714
+D7
+~
+~
+0 0 8729
+D8
+It's a sliding glass door.
+~
+glass sliding~
+1 0 8730
+D9
+~
+~
+0 0 8728
+S
+#8728
+The strawberry patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled githyanki try to keep the plants alive. 
+~
+87 131072 0
+D7
+~
+~
+0 0 8727
+S
+#8729
+The cherry patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled githyanki try to keep the plants alive. 
+~
+87 131072 0
+D9
+~
+~
+0 0 8727
+S
+#8730
+The olive patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled githyanki try to keep the plants alive. 
+~
+87 131072 0
+D6
+It's a glass sliding door.
+~
+door glass sliding~
+1 0 8727
+D7
+~
+~
+0 0 8732
+D8
+~
+~
+0 0 8733
+D9
+~
+~
+0 0 8731
+S
+#8731
+The raspberry patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled githyanki try to keep the plants alive. 
+~
+87 131072 0
+D7
+~
+~
+0 0 8730
+S
+#8732
+The apricot grove~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled githyanki try to keep the plants alive. 
+~
+87 131072 0
+D9
+~
+~
+0 0 8730
+S
+#8733
+The pear grove~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled githyanki try to keep the plants alive. 
+~
+87 0 0
+D6
+~
+~
+0 0 8730
+D7
+~
+~
+0 0 8735
+D9
+~
+~
+0 0 8734
+S
+#8734
+The plum grove~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled githyanki try to keep the plants alive. 
+~
+87 131072 0
+D7
+~
+~
+0 0 8733
+S
+#8735
+The elderberry grove~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+disgruntled githyanki try to keep the plants alive. 
+~
+87 131072 0
+D9
+~
+~
+0 0 8733
+S
+#8736
+In the northeast greenhouse~
+   You enter the northeast greenhouse, where a lich in a dark purple smock 
+sits at a desk in a triangular enclosure surrounded by thick panes of glass. 
+Various patches of plants adorn the space beyond the enclosure, and various 
+creatures wander about feeding upon them. 
+~
+87 131076 0
+D6
+It's a sliding glass door.
+~
+glass sliding~
+1 0 8739
+D7
+~
+~
+0 0 8737
+D8
+~
+~
+0 0 8715
+D9
+~
+~
+0 0 8738
+S
+#8737
+The artichoke patch~
+   In the bedlam of what is the wicca's palace, creatures run amuck while 
+disgruntled lesser liches try to keep the plants alive. 
+~
+87 131072 0
+D9
+~
+~
+0 0 8736
+S
+#8738
+The rice paddy~
+   In the bedlam of what is the wicca's palace, creatures run amuck while 
+disgruntled lesser liches try to keep the plants alive. 
+~
+87 131072 0
+D7
+~
+~
+0 0 8736
+S
+#8739
+The bamboo vines~
+   In the bedlam of what is the wicca's palace, creatures run amuck while 
+disgruntled lesser liches try to keep the plants alive. 
+~
+87 131072 0
+D6
+~
+~
+0 0 8742
+D7
+~
+~
+0 0 8740
+D8
+It's a glass sliding door.
+~
+sliding glass door~
+1 0 8736
+D9
+~
+~
+0 0 8741
+S
+#8740
+The chestnut grove~
+   In the bedlam of what is the wicca's palace, creatures run amuck while 
+disgruntled lesser liches try to keep the plants alive. 
+~
+87 131072 0
+D9
+~
+~
+0 0 8739
+S
+#8741
+The peanut patch~
+   In the bedlam of what is the wicca's palace, creatures run amuck while 
+disgruntled lesser liches try to keep the plants alive. 
+~
+87 131072 0
+D7
+~
+~
+0 0 8739
+S
+#8742
+The bitter-almond grove~
+   In the bedlam of what is the wicca's palace, creatures run amuck while 
+disgruntled lesser liches try to keep the plants alive. 
+~
+87 0 0
+D7
+~
+~
+0 0 8743
+D8
+~
+~
+0 0 8739
+D9
+~
+~
+0 0 8744
+S
+#8743
+The hemlock patch~
+   In the bedlam of what is the wicca's palace, creatures run amuck while 
+disgruntled lesser liches try to keep the plants alive. 
+~
+87 131072 0
+D9
+~
+~
+0 0 8742
+S
+#8744
+The deadly nightshade patch~
+   In the bedlam of what is the wicca's palace, creatures run amuck while 
+disgruntled lesser liches try to keep the plants alive. 
+~
+87 131072 0
+D7
+~
+~
+0 0 8742
+S
+#8745
+In the southeast greenhouse~
+   You enter the southeast greenhouse, where a steam mephit shivers in his
+lavender smock behind a desk in a triangular enclosure surrounded by thick
+panes of glass. Various plants adorn the space beyond the enclosure, and you
+sense that the mephit regrets his posting on this side of the wall...
+~
+87 131076 0
+D6
+~
+~
+0 0 8746
+D7
+It's a sliding glass door.
+~
+glass sliding~
+1 0 8748
+D8
+~
+~
+0 0 8747
+D9
+~
+~
+0 0 8716
+S
+#8746
+The cinnamon patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+steam mephits do their plant-tending with unusual gusto. 
+~
+87 131072 0
+D8
+~
+~
+0 0 8745
+S
+#8747
+The pepper patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+steam mephits do their plant-tending with unusual gusto. 
+~
+87 131072 0
+D6
+~
+~
+0 0 8745
+S
+#8748
+The garlic patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+steam mephits do their plant-tending with unusual gusto. 
+~
+87 131072 0
+D6
+~
+~
+0 0 8749
+D7
+~
+~
+0 0 8751
+D8
+~
+~
+0 0 8750
+D9
+It's a glass sliding door.
+~
+glass sliding door~
+1 0 8745
+S
+#8749
+The blueberry patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+steam mephits do their plant-tending with unusual gusto. 
+~
+87 131072 0
+D8
+~
+~
+0 0 8748
+S
+#8750
+The corn patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+steam mephits do their plant-tending with unusual gusto. 
+~
+87 131072 0
+D6
+~
+~
+0 0 8748
+S
+#8751
+The squash patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+steam mephits do their plant-tending with unusual gusto. 
+~
+87 0 0
+D6
+~
+~
+0 0 8752
+D8
+~
+~
+0 0 8753
+D9
+~
+~
+0 0 8748
+S
+#8752
+The watermelon patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+steam mephits do their plant-tending with unusual gusto. 
+~
+87 131072 0
+D8
+~
+~
+0 0 8751
+S
+#8753
+The aloe patch~
+   In the bedlam of what is the wicca's greenhouse, creatures run amuck while 
+steam mephits do their plant-tending with unusual gusto. 
+~
+87 131072 0
+D6
+~
+~
+0 0 8751
+S
+#8754
+The waiting room~
+   This is apparently the waiting room, where guests of the wicca are 
+received. In contrast to the drab architecture of the resto  of the palace, 
+this room has walls of rich mahogany paneling with intricate carved desigsn 
+ ns and pictures of various creatures line the walls. 
+~
+87 131076 0
+D0
+A large wooden door of mahogany, with a leaf-shaped keyhole is to the 
+north.
+~
+mahogany wood door wooden~
+1 8713 8755
+D2
+~
+~
+0 0 8717
+S
+#8755
+The Ceremonial Chamber of the Wicca~
+   You are taken aback by the splendor of this room. Every surface in this 
+room, be it the walls themselves, or the chairs and various implements used 
+by the wicca in her ceremonies, is of a bright metallic finish. Standing in 
+the center of this one room hall-of-mirrors is the wicca herself, a ravishing 
+human female who looks up from her cauldron with a mischevious twinkle in her 
+eye, as if she is not at all surprised at your entrance. 
+~
+87 131072 0
+D0
+Its a thick glass door like the ones in the green houses....
+~
+glass door~
+2 8714 8759
+D1
+It's a door made of obsidian
+~
+black obsidian door~
+2 8715 8758
+D2
+It's a wooden mahogany door.
+~
+door mahogany wooden~
+1 8713 8754
+D3
+It's a door made of obsidian
+~
+door obsidian black~
+2 8715 8757
+D4
+~
+~
+0 0 8756
+S
+#8756
+The Whirling Contraption~
+   Ahh, sublin me perforation... Eons before the first postage stamp, you 
+get an excellent first  -hand knowledge of what it's like to be one. 
+Thousands of tiny whirling gears grate against your flesh... Then you lose 
+your equilibrium. Then you hear a loud *Clang* ...and your finak   l 
+sensation is that of your cheek hitting something like...paper. 
+~
+87 2 0
+S
+#8757
+The dry goods storage room~
+   You discover the joke is on you... she isnt harvesting the plants so much 
+as harvesting the body parts of the monsters that feed on them!! Various 
+dried body parts of hapless creatures hang on racks, or are assembled in 
+piles on the floor... 
+~
+87 131072 0
+D1
+This door is made of a black stone.
+~
+door black ebony~
+1 8715 8755
+S
+#8758
+The liquid goods storage room~
+   You are confronted with a glittering array of glass tubing and containers 
+that seems to fill up the entire room almost to the ceiling. Gurgling and 
+rushing past you are a rainbow of various bodily fluids taken from the 
+creatures that the wicca harvests. 
+~
+87 131072 0
+D3
+It's a door made of a black stone
+~
+door black obsidian~
+1 8715 8755
+S
+#8759
+Palace courtyard~
+   Behind the stately chambers of the wicca lies this quiet courtyard.
+Flowers not unlike those you saw growing outside the palace on your way up
+the steps are found here, and a single tall beanstalk shoots upward from the
+ground into the sky, its base dominating the center of the courtyard. You
+wonder why you didn't see such a huge object from some earlier point on your
+journey here.
+~
+87 131076 0
+D2
+It's a glass door like the ones in the greenhouses.
+~
+glass sliding~
+2 8714 8755
+D4
+~
+~
+0 0 8760
+S
+#8760
+Upon the base of the beanstalk~
+   Climbing upon the base of the bean stalk, you find that the rough surface 
+makes for easy footholds. 
+~
+87 131072 0
+D4
+~
+~
+0 0 8761
+D5
+~
+~
+0 0 8759
+S
+#8761
+Lower branches~
+   You are now about thirty feet above the courtyard, and can see the 
+bustling interiors of the four greenhouse wings beneath you. As the din of 
+their activities fades, you survey the landscape of a situation that still 
+doesn't make much sense as yet... 
+~
+87 131072 0
+D4
+~
+~
+0 0 8762
+D5
+~
+~
+0 0 8760
+S
+#8762
+Climbing the beanstalk~
+   Having risen to about eye-level with the treetops across the water to the 
+north, you rest for five seconds when all of the sudden a tremendous BELLOW 
+erupts from the aquifer in the lake below. A column of steam swaths across 
+your feet, and you curse at the playfulness of the turtle dragon in the lake. 
+~
+87 131072 0
+D4
+~
+~
+0 0 8763
+D5
+~
+~
+0 0 8761
+S
+#8763
+A limb on the beanstalk~
+   Slightly out of range of the meddlesome turtle dragon, you notice that a 
+branch of the beanstalk leads out to a portion of the clouds that appears to 
+be solid. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8764
+D4
+~
+~
+0 0 8770
+D5
+~
+~
+0 0 8762
+S
+#8764
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8765
+D3
+~
+~
+0 0 8763
+S
+#8765
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8766
+D3
+~
+~
+0 0 8764
+S
+#8766
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8765
+D1
+~
+~
+0 0 8767
+S
+#8767
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8780
+D2
+~
+~
+0 0 8768
+D3
+~
+~
+0 0 8766
+S
+#8768
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8769
+S
+#8769
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8763
+S
+#8770
+Entering the thick clouds~
+   The thick overcast clouds that have been the norm since you arrived engulf 
+you, inundating your clothes and generally making your life miserable. The 
+beanstalk continues, endlessly it seems, up into the now-brightening sky... 
+~
+87 131072 0
+D4
+~
+~
+0 0 8771
+D5
+~
+~
+0 0 8763
+S
+#8771
+High up in the beanstalk~
+   The beanstalk levels off and shoots horizontally to the north, and you 
+find that you can walk along the side that you had before been clinging to. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8772
+D5
+~
+~
+0 0 8770
+S
+#8772
+Upon the beanstalk~
+   The beanstalk takes a swerve eastward. Briefly through the clouds you can 
+see the majestic sun and feel a little warmer in the midst of an otherwise 
+depressing climb. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8773
+S
+#8773
+A twist in the beanstalk~
+   The beanstalk has an odd kink in it here, of just the right radius to make 
+your life as difficult as possible. You scramble along it and notice a small 
+limb extruding to the east. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8774
+D3
+~
+~
+0 0 8772
+D4
+~
+~
+0 0 8783
+S
+#8774
+A weak limb~
+   Oops, that wasn't too bright. You've stumbled onto a portion of the limb 
+too weak to support your weight... 
+~
+87 131072 0
+D3
+~
+~
+0 0 8773
+D5
+~
+~
+0 0 8775
+S
+#8775
+Falling through the clouds~
+   A tremendous freezing wind blows past, as you struggle to get your 
+bearings and plummet through the sky. 
+~
+87 131072 0
+D4
+~
+~
+0 0 8774
+D5
+~
+~
+0 0 8776
+S
+#8776
+Falling through the clouds~
+   A tremendous freezing wind blows past, as you struggle to get your 
+bearings and plummet through the sky. 
+~
+87 131072 0
+D4
+~
+~
+0 0 8775
+D5
+~
+~
+0 0 8777
+S
+#8777
+Falling through the clouds~
+   A tremendous freezing wind blows past, as you struggle to get your 
+bearings and plummet through the sky. 
+~
+87 131072 0
+D4
+~
+~
+0 0 8776
+D5
+~
+~
+0 0 8778
+S
+#8778
+Falling through the clouds~
+   A tremendous freezing wind blows past, as you struggle to get your 
+bearings and plummet through the sky. A blurry green object appears nearby. 
+~
+87 131072 0
+D4
+~
+~
+0 0 8777
+D5
+~
+~
+0 0 8779
+S
+#8779
+Falling towards the beanstalk~
+The green surface of the beanstalk looms sharper and larger than before,
+and you're relatively certain that you will land there and not upon the
+courtyard now some thousands of feet beneath you.
+~
+87 131072 0
+D4
+~
+~
+0 0 8778
+D5
+~
+~
+0 0 8770
+S
+#8780
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8781
+S
+#8781
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131072 0
+D0
+The clouds take on a cotton consistency that has to be torn apart.
+~
+cotton mist~
+1 0 8774
+D2
+~
+~
+0 0 8782
+S
+#8782
+A misty path~
+   You are on a misty path near the beanstalk. The texture of the surface is 
+eerily damp, and ghostly shapes of vapor dart about. 
+~
+87 131076 0
+D0
+~
+~
+0 0 8781
+D2
+~
+~
+0 0 8784
+D4
+The clouds take on a cotton substance that has to be torn open.
+~
+cotton mist~
+1 0 8773
+S
+#8783
+A bend in the beanstalk~
+   The beanstalk turns one final time as you approach the top, and things 
+seem to be getting a little brighter as you continue your climb. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8790
+D5
+~
+~
+0 0 8773
+S
+#8784
+The vineyard gate~
+   The dull, at best ominous scenery of the clouds is broken by an ominous 
+sight: during one of her more malicious streaks, the wicca apparently caused 
+by some magic a large portion of the vineyard belonging to the Tower of High 
+Sorcery to be uprooted, transported here, and dashed on its side. As you 
+chuckle and survey the clumps of dirt and scattered dead mages, you ponder 
+what brought on the fit in the first place. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8782
+D3
+~
+~
+0 0 8785
+S
+#8785
+The ruined vineyard~
+   You wander through the broken earth of what once was a proud vineyard. 
+Clumps of dirt and mashed grapes muddy the surface of the clouds. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8784
+D2
+~
+~
+0 0 8786
+S
+#8786
+The ruined vineyard~
+   You wander through the broken earth of what once was a proud vineyard. 
+Clumps of dirt and mashed grapes muddy the surface of the clouds. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8785
+D1
+~
+~
+0 0 8787
+S
+#8787
+The ruined vineyard~
+   You wander through the broken earth of what once was a proud vineyard. 
+Clumps of dirt and mashed grapes muddy the surface of the clouds. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8788
+D3
+~
+~
+0 0 8786
+S
+#8788
+The ruined vineyard~
+   You wander through the broken earth of what once was a proud vineyard. 
+Clumps of dirt and mashed grapes muddy the surface of the clouds. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8787
+D3
+~
+~
+0 0 8789
+S
+#8789
+A cracked red trellis~
+   Having come to the far end of the ruins, you encounter a large brightly 
+painted red wooden trellis, against which lounges a statuary figure. In its 
+right hand it holds a note, and in the left it holds a block of ice, in the 
+center of which is a sleeping feline form. You marvel that a cat could sleep 
+through such a disaster, but maybe it's just hibernating :) 
+~
+87 131072 0
+D1
+~
+~
+0 0 8788
+S
+#8790
+The top of the beanstalk~
+   The apex of the beanstalk is a rather anticlimactic place. Not being quite 
+above the clouds, you are nevertheless in somewhat warmer conditions, as a 
+bright mist through which you can clearly see the sun permeates the area. 
+~
+87 131076 0
+D0
+~
+~
+0 0 8790
+D1
+~
+~
+0 0 8791
+S
+#8791
+Lost in the mist~
+   Dazed by the sudden brilliance of the mist near the top of the cloud 
+layer, you find it extremely difficult to keep your sense of direction in it. 
+Darker mist which seems to be out of keeping with how close you are to being 
+above the clouds, to the north and south, intrigues you... 
+~
+87 131072 0
+D0
+~
+~
+0 0 8793
+D1
+~
+~
+0 0 8790
+D2
+~
+~
+0 0 8792
+D3
+~
+~
+0 0 8790
+S
+#8792
+A grey mist~
+   The mist darkens to the south, and you sense that a large brown object 
+must be blocking the sunlight in that direction.... 
+~
+87 131072 0
+D0
+~
+~
+0 0 8791
+D2
+~
+~
+0 0 8794
+S
+#8793
+A darker mist~
+   The mist seems a little darker here, but you seem just as lost as you were 
+before. 
+~
+87 131072 0
+D1
+~
+~
+0 0 8792
+D2
+~
+~
+0 0 8791
+S
+#8794
+A darker mist~
+   Now hopelessly lost, your only option seems to be to continue heading for 
+whatever object is causing the darkness. You hear a faint boom that sounds 
+more like cannon than thunder. 
+~
+87 131072 0
+D2
+~
+~
+0 0 8795
+S
+#8795
+A darker mist~
+   The mist continues to darken and a rocky shape appears to the south. 
+~
+87 131072 0
+D0
+~
+~
+0 0 8794
+D2
+~
+~
+0 0 8796
+S
+#8796
+A dark rocky overhang~
+   The rocks form a flat surface to walk on as well as a ceiling to stand 
+beneath, and whether this is the top of a mountain or the beginnings of a 
+suspended structure is a total mystery. A keyhole in the rock with the carved 
+symbol of a deadly nightshade plant commands your attention... 
+~
+87 131072 0
+D0
+~
+~
+0 0 8795
+D5
+The rock has a deadly nightshad e plant symbol carved into it
+~
+nightshade rock plant~
+2 8716 8797
+S
+#8797
+In an elemental vortex~
+   What little you can see as you progess downward consists of bolts of 
+plasma which whisk harmlessly by, crackling and tingling your skin. They seem 
+to close above you as you descend... 
+~
+87 131072 0
+D4
+The nightshade emblem in the rock above you is ominous...
+~
+door rock nightshade~
+2 8716 8796
+D5
+~
+~
+0 0 8798
+S
+#8798
+In an elemental vortex~
+   What little you can see as you progess downward consists of bolts of 
+plasma which whisk harmlessly by, crackling and tingling your skin. They seem 
+to close above you as you descend... 
+~
+87 0 0
+D5
+~
+~
+0 0 8799
+S
+#8799
+In an elemental vortex~
+   What little you can see as you progess downward consists of bolts of 
+plasma which whisk harmlessly by, crackling and tingling your skin. They seem 
+to close above you as you descend... 
+~
+87 131072 0
+D5
+~
+~
+0 0 8800
+S
+#99999
+$~

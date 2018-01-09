@@ -1,0 +1,29 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    bow zirnozz
+  endif
+~
+>command_prog cast~
+  if ismemory($n)
+    mpechoat $n You can't manage to keep your concentration!
+    mpstopcommand
+  endif
+~
+>rand_prog 60~
+  mpforget $n
+~
+>rand_prog 4~
+  mpgoto cleaner
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpasound Your blood freezes as you hear someone's death cry.
+  mpoload 8262
+  mppose $i stand
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

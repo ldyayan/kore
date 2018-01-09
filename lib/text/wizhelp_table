@@ -1,0 +1,1326 @@
+'
+
+    There is no help on this topic (you shouldn't be trying anyways).
+
+#
+ADVANCE
+
+    ADVANCE is the immortal command that advances the target character in 
+levels.
+
+Usage:
+
+    ADVANCE <TARGET> <LEVEL>
+
+#
+ASSEMBLE
+
+    The code was never finished. Do not use.
+
+#
+ATT
+
+    The AT command allows an immortal to perform a single command in the target
+room as though he or she were actually there. Aliases do not work through 
+the AT command. Room numbers, mobiles, and characters can be targeted with 
+this skill.
+
+Usage:
+
+    AT <TARGET> <ACTION>
+
+Note: We know that the help says ATT. AT alone didn't work.
+
+#
+BAN
+
+    BAN is used to ban certain sites from accessing the MUD. There are 
+three types of ban: ALL, NEW, and SELECT. BAN ALL will prevent ANYONE, from 
+the banned site, to log in. NEW will ban a site from creating new 
+characters. SELECT will ban all players except those with a security flag.
+To allow select players to log on, set their SITEOK flag on with:
+
+    set <player> siteok on
+
+Usage:
+
+    BAN <TYPE> <SITE>
+
+See Also: UNBAN
+
+#
+BANNER
+
+    BANNER functions exactly like echo, however, on some terminals, the 
+letters will appear as double their normal size.
+
+Usage:
+
+    BANNER <STRING>
+
+See Also: ECHO GECHO QECHO SEND GBANNER
+
+#
+CHANGES
+
+- Str_add removed.  Max str is now 25
+- Bonus to damage for str toned down, max of 5 at 25 str
+- Toned down max_carry, was insane, over 1500, max is now 780 at 25 str
+
+#
+DATE
+
+    Shows the date and time on the site computer.
+
+#
+DC
+
+    DC is the immortal command that allows you to (D)is(C)onnect a player. 
+To use DC, type USERS and find the connection number of the intended target.
+
+Usage:
+
+    DC <#>
+
+#
+ECHO
+
+    ECHO displays a string of text to everyone in your current room.
+
+Usage:
+
+    ECHO <STRING>
+
+See Also: GECHO QECHO SEND GBANNER BANNER
+
+#
+ENROLL
+
+    ENROLL is used to enroll a target in a certain type a quest. There are five
+types you can use ENROLL for: OFF, ON, QUEST, SURVIVAL, PKQUEST, DEATHQUEST.
+This skill serves no real purpose, it is a remnant of an unfinished quest 
+system.
+
+Usage:
+
+    ENROLL <TARGET> <TYPE>
+
+#
+FORCE
+
+    FORCE forces a character, MOB or player, to perform the specified 
+action. There are three different types of FORCE available. FORCE ALL 
+forces everyone in the game. FORCE ROOM forces everyone in the room. FORCE 
+<TARGET> forces the specified target.
+
+Usage:
+
+    FORCE <TARGET OR TYPE> <ACTION>
+
+#
+FREEZE
+
+    FREEZE is used to prevent a character from being played. If frozen, the
+player in control of the character will be unable to have it do any action, 
+including QUIT.
+
+Usage:
+
+    FREEZE <TARGET>
+
+See Also: THAW
+
+#
+GBANNER
+
+    GBANNER is the global version of BANNER.
+
+See Also: ECHO GECHO QECHO SEND BANNER
+
+#
+GECHO
+
+    GECHO is the global version of ECHO.
+
+See Also: ECHO QECHO SEND BANNER GBANNER
+
+#
+GOTO
+
+    GOTO is the mmost commonly used command of an immortal. There are four 
+types of GOTO available: GOTO PLAYER takes you to the specified player. 
+GOTO MOB takes you to the specified MOB. GOTO ROOM takes you to the 
+specified room. GOTO OBJECT takes you to the specified object.
+
+Usage:
+
+    GOTO <TYPE> <TARGET>
+
+See Also: POOFIN POOFOUT TELEPORT TRANSFER
+
+#
+HANDBOOK
+
+    The POLICY file for immortals. It may be updated at any time, so it is
+advisable to check it periodically for changes.
+
+#
+HCONTROL
+
+    HCONTROL is a command for assign control of a house to a specific 
+person. Do not use it, the house code is VERY crappy and incomplete.
+
+#
+HOLYLIGHT
+
+    A toggle command that allows an immortal the affects of:
+
+    - Permanent Detect Invisibility
+    - Permanent Sense Life
+    - Permanent Infravision
+
+Note:
+
+    Most immortals turn this on when they first begin playing. It is 
+usually always on.
+
+#
+IMOTD
+
+    The startup login message for all immortals.
+
+#
+INVIS
+
+    INVIS sets your invisibility to the target level. Commonly called 
+WIZINVIS, it will remain until turned off. Typing INVIS with no argument 
+toggles you between fully invisible and fully visible. If you specify a  
+level only people at that level and those above that level will be able to 
+see you.
+
+Usage:
+
+    INVIS <LEVEL>
+
+#
+JAR
+
+    Allows the an immortal to take over control of a MOB body. While JARred 
+your body is set to linkless and you are removed from the WHO list. While 
+in a body the WIZNET still appears to you, but you are unable to respond.
+
+Usage:
+
+    JAR <TARGET>
+
+#
+LAST
+
+    The LAST command is used to display the last time a person logged in, 
+from what site they logged in from, and the characters ID number.
+
+Usage:
+
+    LAST <PERSON>
+
+#
+LOAD
+
+    LOAD is used to create MOBs and Objects. The first argument specifies 
+if you are trying to load a mobile or an object. The second argument is the 
+number of the item or MOB.
+
+Usage:
+
+    LOAD <OBJ or MOB> <NUMBER>
+
+See Also: VNUM VSTAT
+
+#
+MEDIT
+
+1) Keywords: The words players can use to interact with the mob. 
+
+2) Name: This is something like "a guard of Kore" or "Vulmarta". 
+
+3) Look: What you see when the mob is in the room. 
+
+4) Desc: What you see when you look at the mob. 
+
+5) NPC flags: Various settings you can give the mob. 
+
+6) Aff flags: This is a list of spells the mob is always affected by. 
+
+7) Alignment: The mob's alignment. 
+
+8) Level: The level of the mob.
+   Affects some spells and also sets the barehand damage, hit points, 
+   hitroll, armor class, and exp for the mob. 
+
+9) Hitroll - H) Exp: Unused - see "8) Level" above. 
+
+I) Gold: The amount of gold the mob has. 
+
+J) Position & K) Default: Unused. 
+
+L) Sex: Duh
+
+M) Attack: What type of attack the mob does, when not wielding a weapon.
+
+Q) Quit: When you quit, you can save the changes you made to memory. 
+
+SEE ALSO: MOBILES NPC-FLAGS
+
+#
+MOBS
+ 
+    See Mobiles.
+
+#
+MOBILES
+
+The word "mob" is short for "mobile", which represents a character in the 
+game that is mobile, i.e. can move around of its own free will. Mobs are 
+controlled by the MUD, and are sometimes referred to as NPCs (Non-Player 
+Characters). 
+
+Mobs normally kill players, except when the players kill them. There are 
+exceptions: There's shopkeepers, healers, bankers, receptionists, and some 
+others. Getting intelligent behaviour from a mob often requires the use of 
+mobprogs. 
+
+The medit command is used to edit mobs. Type medit vnum to edit or create 
+a mob, and medit save zone to write all mobs in the specified zone to disk. 
+
+SEE ALSO: MEDIT 
+
+#
+MOBPROGRAMS
+
+Mobprogs (or MOBPrograms) are used to generate intelligent behaviour in mobs. 
+With a little thought, they can do all sorts of amazing things, ranging from 
+simple customize attacks to guards that watch for known thieves and change 
+shifts twice a day. 
+
+You can also look at Kore's webage for more info on how and what each thing
+does. http://www.tiamats-lair.com/kore  Follow the building link. 
+
+SEE ALSO: MOBPROG-TYPES MOBPROG-COMMANDS MOBPROG-VARIABLES
+
+#
+MOBPROG-COMMANDS
+
+mpasound                      mpjunk
+mpecho                        mpechoat
+mpechoaround                  mpkill 
+mpmload                       mpoload 
+mppurge                       mpgoto 
+mpat                          mptransfer 
+mpforce                       mpcallmagic 
+mppose                        mpdamage
+mpdrainmana                   mpremember 
+mpforget                      mpstopcommand
+mptrigger                     mpsilent 
+mptrackto                     mpstopscript
+mplog                         mpset
+
+You can also look at Kore's webage for more info on how and what each thing
+does. http://www.tiamats-lair.com/kore  Follow the building link.
+
+SEE ALSO: MOBPROGRAMS
+#
+MOBPROG-TYPES
+
+act_prog                      rand_prog 
+fight_prog                    hitprcnt_prog 
+death_prog                    entry_prog
+greet_prog                    all_greet_prog 
+greet_every_prog              all_greet_every_prog
+give_prog                     bribe_prog 
+social_prog                   command_prog 
+script_prog                   time_prog 
+kill_prog                     spell_prog 
+load_prog 
+
+You can also look at Kore's webage for more info on how and what each thing
+does. http://www.tiamats-lair.com/kore  Follow the building link.
+
+SEE ALSO: MOBPROGRAMS
+#
+MOBPROG-VARIABLES
+
+$i, $n, $t, $r: The keywords for mob/actor/victim/rndm. For players, this is
+the player's name.
+$I, $N, $T, $R: The name of mob/actor/victim/rndm.
+$e, $E, $j, $J: he/she/it
+$m, $M, $k, $K: him/her/it
+$s, $S, $l, $L: his/her/its
+
+$o, $p: The keywords for obj/vobj.
+$O, $P: The name of obj/vobj, as seen in your inventory.
+$a, $A: 'a' or 'an' for obj/vobj
+$$: use this if you want a dollar sign.
+
+SEE ALSO: MOBPROGRAMS
+
+#
+MPSTAT
+
+    MPSTAT is used to display the mob programs on the target MOB. For most
+people, what you see will make very little sense. It shows the actual code 
+for the MOB.
+
+Usage:
+
+    MPSTAT <TARGET>
+
+#
+MUTE
+
+    MUTE is used to silence a problem character. If a character is MUTED it 
+will be unable to use most of the communication channels.
+
+Usage:
+
+    MUTE <TARGET>
+
+#
+NOHASSLE
+
+    This is a toggle command that, when ON, makes the immortal immune to 
+the effects of AGRESSIVE MOBs.
+
+Note:
+
+    This skill is left on continuously in most cases.
+
+#
+NOTITLE
+
+    NOTITLE is used to prevent players from setting their own titles.
+
+Usage:
+
+    NOTITLE <TARGET>
+
+#
+NOWIZ
+
+    Toggles the WIZ Channel off and on.
+
+See Also: WIZNET IMMTALK ;
+
+#
+NPC-FLAGS
+
+SPEC: The mob has a specproc (special procedure). 
+SENTINEL: The mob won't walk around. If this isn't set, he will. 
+SCAVENGER: The mob will pick up stuff he finds on the ground. 
+ISNPC: This flag MUST be set on all mobs. It is set by default. 
+AGGR: The mob will attack people. 
+STAY-ZONE: The mob won't walk out of his zone. 
+WIMPY: The mob will flee from fights when his hit points are low. 
+AGGR-EVIL, AGGR-GOOD, AGGR-NEUTRAL: The mob will attack characters 
+  of the specified aligment. 
+MEMORY: The mob will remember people who attacked him, and attack 
+  them automatically if they come back. 
+HELPER: The mob will help other mobs that are in fights with players. 
+NO_CHARM: The mob can not be charmed. 
+NO_SUMMON: Unused. Don't set. 
+NO_SLEEP: The spell sleep can not be cast on the mob. 
+NO_BASH: The warrior skill bash is useless against this mob. 
+NO_BLIND: The mob can not be blinded. 
+SHOPKEEPER: Mob is an old-style shopkeeper. 
+NO_PLINK: No need for flag now. Was to make a mob no range.
+SWIMMER: The mob can swim.
+NO_WALK: The mob can't walk. This means he must stay in the water.
+WILL-SELF-PURGE: Internal flag, currently unused. Do not set. 
+NO_THERE: The mob isn't really there. Used for mob progs.
+NO_BLOCK: The mob's attacks can't be blocked. 
+SAFE: Mob can't be attacked.
+DSHOPKEEPER: The mob is a new-style shopkeeper. DON'T SET IT.
+
+SEE ALSO: MEDIT
+#
+OBJECTS
+
+The oedit command edits objects. Use oedit vnum to edit or create an 
+object, and oedit save zone to write your objects to disk. The olc 
+command will tell you what, if anything, needs to be saved to disk. 
+
+SEE ALSO: OEDIT
+
+#
+OBJECT-FLAGS
+
+GLOW: The item glows. 
+HUM: The item hums. 
+NO_RENT: Can't rent with the object.
+NO_DONATE: Can't donated object.
+NO_INVIS: Can't make the object invis.
+MAGIC: The item radiates magic. 
+NO_DROP: Object is cursed.
+BLESS: Unimplemented. 
+NO_GOOD, NO_EVIL, NO_NEURTAL: Players of the specified alignment can't wear. 
+NO_(CLASSES): Certain class can't wear this object.
+NO_SELL: No selling, auctioning or pawning of object.
+VETERAN: You must be level 25 or higher to wear.
+HERO: You must be level 35 or higher to wear. 
+CHAMPION: You must be level 45 or higher to wear. 
+CONCEALED: Incomplete. Do not use. 
+SUPERCURSED: Cursed item that can't be removed. Remove curse doesn't work.
+QUEST: The item will destroy itself when you die. 
+NEWBIE: You must be level 15 or lower to wear. 
+
+SEE ALSO: OEDIT
+
+#
+OBJECT-TYPES
+
+LIGHT: The object is a light. 
+SCROLL: A scroll that can have one or more spells on it.
+WAND: A wand. Wands can have a single spell and up to 20 charges.
+STAFF: A staff with one spell and up to 20 charges. 
+WEAPON: Duh. 
+FIREWEAPON: DON'T USE
+MISSILE: This is unimplemented and does nothing. 
+TREASURE: This is an object that has no benefits.
+ARMOR: See WEAPON.
+POTION: Potions can have up to three spells in them.
+WORN: DON'T USE
+OTHER: If it ain't anything else, it's OTHER. 
+TRASH: Things that aren't good for anything at all. 
+TRAP: Unimplemented. 
+CONTAINER: An item that holds other items. 
+NOTE: A piece of paper than can be written on.
+LIQ-CONTAINER: Containers that hold things to drink.
+KEY: KEYs open things.
+FOOD: Food
+MONEY: DON'T USE
+PEN: PENs are used to write on NOTEs.
+BOAT: Boat
+FOUNTAIN: Liq-Container
+INSTRUMENT: Instruments are needed by bards to cast spells. 
+PILL: A pill is like a potion.
+SEED: When SEEDs rot, instead of disappearing like other objects, 
+they morph into either a mob or an object. 
+PORTAL: A portal is an object you can enter to get to another room.
+
+SEE ALSO: OEDIT 
+ 
+#
+OEDIT
+
+1) Keywords: These are the words players can use to access your object 
+in commands like get, eat, etc. Make sure they aren't too obscure. 
+
+2) Name: What you see when the object is in your inventory, worn, in a 
+   container, etc. 
+
+3) Look: What is displayed when the object is on the ground. 
+
+4) Desc: This doesn't work. See Extra Descriptions, below. 
+
+5) Type: What kind of object this is. This affects the kind of things 
+   that can be done with the object, and also what the D) Values menu 
+   means. 
+
+6) Extra flags: These are flags that make sense on almost any object. 
+
+7) Wear flags: This sets which slots the item can be worn in. Items that
+   do not have the TAKE wear flag can not be picked up. The PRIZE wear 
+   flag should never be used by builders - it is reserved for quest
+   prizes. 
+
+8) Weight: How heavy the object is. Don't leave it at 0. 
+
+9) Cost: How much the item is worth. 
+
+A) Cost/Day: Unused. 
+
+B) Timer: Objects with timers will rot in the specified number of ticks. 
+
+D) Values: This does different things depending on the item type selected.
+
+E) Applies menu: This is where you can add applies IE str wis etc
+
+F) Extra descriptions menu: This is where you set what people see when they 
+   look at the object. 
+
+G) Permaffect menu: This menu lets you attach spell effects to the item.
+
+H) Weapon spells menu: Here you can add spells to weapons. (DONT USE UNLESS
+   APPROVAL HAS BEEN GIVEN.)
+
+Q) Quit: Quit when you are finish the object then save it.
+
+SEE ALSO: OBJECT-TYPES OBJECT-FLAGS 
+
+#
+PAGE
+
+    PAGE is used to send a message with a beep to either ALL or a target 
+player. Use PAGE ALL to send a message to everyone in the game.
+
+Usage:
+
+    PAGE <PLAYER or ALL> <MESSAGE>
+
+#
+PARDON
+
+    Removes a KILLER and/or THIEF flag from the target player.
+
+Usage:
+
+    PARDON <TARGET>
+
+#
+POOFIN
+
+    POOFIN is the message that is displayed to everyone in a room when you 
+arrive after using the GOTO command (providing you are visible to them). When 
+setting your POOFIN, your name is automatically placed as the first word, 
+like an EMOTE. Your POOFIN does NOT stay after you quit the game.
+
+Usage:
+
+    POOFIN <TEXT>
+
+#
+POOFOUT
+
+    POOFOUT is the message that is displayed to everyone when you depart a 
+room via the GOTO command (providing you are visible to them). When setting 
+your POOFOUT, your name is automatically placed as the first word, like an 
+EMOTE. Your POOFOUT does NOT stay after you quit the game.
+
+Usage:
+
+    POOFOUT <TEXT>
+
+See Also: GOTO
+
+#
+PURGE
+
+    PURGE destroys things. If used with no arguments it will clear a room 
+of all MOBs and objects, players are unaffected. PURGE can have a target as 
+well, such as a MOB, OBJect, even a player. If used to target a MOB, the 
+MOB will be destroyed and will leave anything it was wearing or carrying on 
+the floor. IF an object is the target, it will simply be destroyed. Purging 
+a player functions basically the same way as purging a MOB. All equipment, 
+worn and carried, will drop to the ground and the player will be booted 
+from the MUD. PURGE is almost never used on characters except for 
+permanently frozen ones.
+
+Usage:
+
+    PURGE <NAME or KEYWORD>
+
+#
+QECHO
+
+    QECHO works just like GECHO, except only people with their quest flag 
+on can see it.
+
+Usage:
+
+    QECHO <STRING>
+
+See Also: ECHO GECHO SEND BANNER GBANNER
+
+#
+RACES
+
+ RACE_HUMAN              0
+ RACE_ELF                1
+ RACE_HOBBIT             2
+ RACE_DWARF              3
+ RACE_ORC                4
+ RACE_DROW               5
+ RACE_INSECT             6
+ RACE_MINOTAUR           7
+ RACE_TROLL              8
+ RACE_GIANT              9
+ RACE_DRAGON             10 
+ RACE_UNDEAD             11 
+ RACE_HALFELF            12 
+ RACE_GNOME              13
+ RACE_ELEMENTAL          14
+ RACE_DUERGAR            15
+ RACE_THRIKREEN          16
+
+#
+REDIT
+
+1) Name: The name of your room that shows up when you enter a room, in the exits
+command, in the spell locate object, and in a whole bunch of other places. This 
+should be something meaningful: "Outside" is probably a bad name.
+
+2) Description: The description of the room. See help building-standards
+   for help on how descriptions should be.
+
+3) Room Flags: As many flags as you need can be set on your room.
+
+4) Sector Type: Defines the terrain. The primary effect is the amount of
+   movement points used while walking here. Set it to something appropriate. 
+
+5-E) Exits: Use this submenu to edit the exits for a room.
+  1) Exit to: Where this goes. Note that this does NOT automatically create
+     an exit in the reverse direction.
+
+  2) Description: As far as I can tell, this doesn't do anything...
+
+  3) Door name: The keywords used to open/close/etc. the door. 
+
+  4) Key: The vnum of the object that serves as a key for this door.
+
+  5) Door flags: Normally, either No door, Closeable door, or Pickproof. 
+All doors are assumed to be lockable. The third choice, Breakable floor 
+is ONLY useful for exits in the "down" direction. These exits cause 
+people to fall crashing through the exit if the weight of all their 
+equipment and inventory is greater than a threshold. Set the threshold 
+in 4) Key above, instead of typing in the vnum of a key. It must be at 
+least 1. Flying characters will not fall through.
+
+6) Purge exit: Remove this exit from the room.
+
+F) Extra descriptions menu: Allows you to add extra descriptions for a 
+room. These can be seen by players with the command look keyword. For 
+each description, you can set the keywords and what they see when they 
+look at it. You can set as many of these as you like, but make sure 
+that the player has a good reason to expect there's something to look at!
+
+Q) Quit: Exit redit. You have the option of saving your changes to memory. 
+If you like what you've done, say "yes". As always, your changes are not 
+saved to disk, and will be lost at the next crash or reboot. Type redit 
+save zone to write the changes to disk. The olc command will let you know 
+if anything needs to be saved to disk.
+
+SEE ALSO: ROOMS ROOM-FLAGS
+
+#
+REIMBURSE
+
+    REIMBURSE is only to be used under sepcial conditions. REIMBURSE 
+accesses a slightly outdated PFILE in a subdirectory, finds the portion of 
+the file with your target in it, then reloads that individual's information 
+into the active pfile. Basically replacing the new with the old. The 
+targetted player MUST NOT be connect to the MUD when you use this command.
+
+Usage:
+
+    REIMBURSE <TARGET>
+
+#
+RELOAD
+
+    RELOAD is used to reload certain text portions of the MUD without shutting
+down. Common examples are the MOTD and IMOTD. Typing RELOAD alone will 
+display a list of things that can be reloaded.
+
+Usage:
+
+    RELOAD <NAME>
+
+#
+REMORT
+
+The rules for remorting are as follows:
+
+  set the following:
+
+  level = 1
+  experience = 1
+  maxhit = 30
+  maxmana = 100
+  maxmove = 140
+
+  wizreroll the character
+
+  note: If the character wishes to remort and not change race or class, they
+  may opt to either take a wizreroll or may have 3 attribute points added to
+  their attributes in any order.  Re: +3 str, or +1 dex/int/wiz, etc.
+
+#
+REROLL
+
+    REROLL is used to reroll a character's attributes randomly.
+
+Usage:
+
+    REROLL <TARGET>
+
+#
+RESETS
+
+The Command list that is displayed in zedit shows you what will happen in
+this room when the zone resets. Everything from this point to the bottom of
+the menu is specific to this room in your zone everything above this point
+applies to your entire zone. 
+
+Each entry in the Command list has a number, beginning at zero and going up.
+The final command in the list is labelled END OF LIST and is not a command,
+but a place you can add new commands. When your zone resets, the commands will
+be executed in numeric order, from top to bottom, and thus, the order of commands
+is important. 
+
+SEE ALSO: RESET-COMMANDS
+
+#
+RESET-COMMANDS
+
+N) New command: Add a new command to the Command list. First, you tell OLC 
+where in the list you want the new command. If you use the number for 
+END OF LIST the command will be added to the end of the command list. If 
+you use the number of an existing command, the existing command and all 
+commands after it will be shifted down, and the new command will go in the 
+empty space. There are currently seven possible commands:
+
+M) Load mobile to room: Place a mob in this room. Like all other commands, 
+this command can be made dependant on the success of the previous command 
+in the list. If this is done, the command will only be executed if the 
+previous command executed successfully. To load a mob, you simply need to 
+specify the mob's vnum, and the maximum number of these mobs which can exist. 
+Unique mobs should be set to 1 here other mobs can vary, but aren't normally 
+higher than 10-15.
+
+E) Equip mobile with object: This command loads an object and makes a mob 
+wear or wield it. This must always be dependant on the previous command, 
+otherwise the MUD may try to give an object to a mob that didn't load. 
+After specifying the vnum of the object to load, type in the probability 
+that the object loads.
+
+R) Remove an object from the room: Self-explanatory.
+
+O) Load Object to room: Like the E and P commands, the "maximum number that
+can exist on the mud" is a probability - enter a number between one and one
+hundred. The maximum number that can exist is assumed to be one. As a variation,
+if you enter a number larger that 100, the probability of the object loading is
+100%, but more than one will load. For instance, if you try to load "an apple"
+and set the number to 105, there is a 100% chance that the apple loads, and
+a maximum of 5 apples will load.
+
+G) Give an object to a mobile: Similar to E above, but the object goes in the 
+mob's inventory instead of being equipped. Again, this command must be dependant 
+on the previous one.
+
+D) Open/Close/Lock a door: Simply pick the direction of the door, and what 
+state you want the door to be in: Open, closed, or locked. Normally, you want 
+doors with keys to be locked, and all other doors to be closed. This command 
+isn't normally dependant on the previous one. Make sure that you don't use this
+command unless you have created a door with redit already, otherwise it generates 
+all sorts of errors in the logs and the imps get upset....
+
+E) Edit a command: This allows you to replace an existing command with another 
+one. You can replace it with a completely different command if you wish. You 
+can't use this command on END OF LIST.
+
+D) Delete a command: Should be obvious. Don't ever delete a command that has 
+other commands dependant on it. And, of course, you can't delete END OF LIST
+
+Q) Quit: Exit zedit. You're given the opportunity to save your changes internally. 
+If you like what you've done, you say yes. If you say no, your changes will be 
+lost. IMPORTANT: This does not save your changes to disk! You must use the command 
+zedit save zone to save the zone to disk, otherwise all your work will be lost on 
+the next reboot or crash! The command olc will tell you if your zone is saved or
+not.
+
+SEE ALSO: RESETS
+
+#
+RESTORE
+
+    RESTORE restores a character or MOB to full hit points, mana, and movement
+points.
+
+Usage:
+
+    RESTORE <TARGET>
+
+#
+RETURN
+
+    RETURN returns you to your own body if you are JARred.
+
+See Also: JAR
+
+#
+ROOMS
+
+Rooms are fairly straightforward. Type redit to edit the room you are
+standing in, and redit vnum to edit another room or create a new room.
+
+SEE ALSO REDIT ROOM-FLAGS
+
+#
+ROOMFLAGS
+
+    ROOMFLAGS is a toggle that display the flags on your current room as 
+well as the room number. Most immortals keep this on full time.
+
+#
+ROOM-FLAGS
+
+DARK: You need a light or infravision to see anything here.
+
+DEATH: The room is a death trap. Walk in, and you die, and all your 
+equipment is gone forever.
+
+NO_MOB: Mobs can't enter this room. You can still load mobs to this 
+room, and charmed mobs will still follow their masters in.
+
+INDOORS: The room is inside.
+
+PEACEFUL: Fights cannot be started, and violent spells can't be cast.
+
+SOUNDPROOF: Most communications channels cannot be used in these rooms.
+
+NO_TRACK: The track skill will never lead people into a this room. If the
+only way between two people is through a NO_TRACK room, track will report
+that there is no trail.
+
+NO_MAGIC: No magic of any type can be used in this room.
+
+TUNNEL: The room is a tunnel.
+
+PRIVATE: Mobs can never mptransfer to a PRIVATE room, and you cannot goto a
+PRIVATE room if there are already two people in it. Clairvoyance, far seeing,
+dimension door, phase door, and teleport do not function on PRIVATE rooms.  
+
+GODROOM: Only level 59 and 60 immortals can enter a GODROOM.
+
+HOUSE: Indicates that the room is a restricted-access room. DON'T SET
+
+HOUSE-CRASH, HOUSE-ATRIUM: Don't use these.
+
+OLC: This is a reserved flag used by the OLC system. Don't use it.
+
+*: This is an internal reserved flag. Don't use it.
+
+CHAOS: Player-killing is allowed in this room. You shouldn't use this 
+unless you're building an arena.
+
+NO_TELEPORT: People can't teleport into this room.
+
+NO_PHASEDOOR: The phase door spell can't be used to get here.
+
+STORAGE: The room is a storage room, in which eq will save across reboots. This
+flag is useless unless you have the addstorage command
+otherwise, don't use it.
+
+HYPER-REGEN: Hit points, mana, and movement points are regenerated 25% faster
+than usual. Generally not used.
+
+SEE ALSO: ROOMS REDIT
+
+#
+RULES
+
+Multiplaying:
+  This is not permitted by anyone under level 58 without specific approval
+from an implementor.
+
+Clans:
+  Your immortal is not to be used to gain advantage for your clan.  That
+means no aid, no objects or gold, no locating items or checking loads, etc.
+
+#
+SEND
+
+    SEND is used to send an echo to the specified target. Only the target 
+can see the echo.
+
+Usage:
+
+    SEND <TARGET> <STRING>
+
+See Also: ECHO GECHO QECHO BANNER GBANNER
+
+#
+SET
+
+    SET is the most commonly used high level immortal command. It has the power
+to set countless things on characters and MOBs. There are a couple aguments to
+do different things:
+
+    - SET PLAYER is used for characters with conflicting names such as 
+      Guard or Rat.
+    - SET FILE is used to set a field on a character who is not currently 
+      in the MUD.
+
+List of Fields:
+
+ - Brief
+ - InvStart
+ - Title
+ - NoSummon
+ - Maxhit
+ - Maxmana
+ - Maxmove
+ - Hit
+ - Mana
+ - Move
+ - Align
+ - STR
+ - STRadd
+ - INT
+ - WIS
+ - DEX
+ - CON
+ - Sex
+ - AC
+ - Gold
+ - Bank
+ - EXP
+ - Hitroll
+ - Damroll
+ - Invis
+ - Nohassle
+ - Frozen
+ - Practices  (Do not use)
+ - Lessons    (Do not use)
+ - Drunk
+ - Hunger
+ - Thirst
+ - Killer
+ - Thief
+ - Level
+ - Room
+ - Roomflag
+ - Siteok
+ - Deleted    (Do not use)
+ - Class
+ - Nowizlist  (Do not use)
+ - Quest
+ - Loadroom   (Do not use)
+ - Color
+ - Idnum      (Do not use)
+ - Passwd
+ - Nodelete   (Do not use)
+ - CHA
+ - Hometown   (Do not use)
+ - Race
+ - Clan
+ - Away
+ - Clanlevel
+ - OLC
+
+See Also: STAT
+
+#
+SHOW
+
+    The SHOW command display information about the MUD. The different modes of
+SHOW require different arguments, such as a name. SHOW without an argument 
+displays a list of valid modes.
+
+#
+SHUTDOW
+
+    Doesn't do anything. Mainly there so you have to type SHUTDOWN in full.
+
+See Also: SHUTDOWN
+
+#
+SHUTDOWN
+
+    SHUTDOWN shuts the MUD down. SHUTDOWN works in three ways: SHUTDOWN REBOOT
+will pause for five (5) seconds instead of the normal forty (40) before 
+trying to restart the MUD. SHUTDOWN DIE will kill the autorun script; the 
+MUD will not reboot again until it is started running manually. SHUTDOWN 
+PAUSE creates a file called PAUSED in the root directory, do not restart 
+the MUD until the file is removed.
+
+#
+SKILLSET
+
+    SKILLSET is a relic of a command from the time when we had skill levels 
+on the skills and spells. Do NOT use this command.
+
+#
+SLOWNS
+
+    SLOWNS is used to switch numeric addresses to alphabetic addresses. The 
+switch however creates lag, and the amount of lag may not be worth the 
+luxury of having alphabetic addresses. If your NS (Name Server) is fast you 
+should set your SLOWNS to NO. If it is slow, you should set it to YES.
+
+#
+SNOOP
+
+    SNOOP allows you to watch another character's seesion. Everything they 
+player sees or types will be displayed on your terminal preceeded by a 
+percent (%) sign. The ethical considerations to use this command are great, 
+and should only be used if the player is suspected of doing something 
+seriously against the rules. Abuse of this command WILL NOT BE TOLERATED. 
+One strike and you are thrown out.
+
+Usage:
+
+    SNOOP <TARGET>
+
+#
+SNOWBALL
+
+    SNOWBALL is basically a social commonly used to warn of possible freezing.
+
+#
+SOMEWHERE
+
+    Ummm....
+
+#
+STAT
+
+    STAT display information about characters, MOBs, or objects in the 
+game. The type argument is optional. There are four types of STAT:
+
+  - STAT PLAYER will display the stats of a character. Useful for 
+    characters with stupid names such as Cheese or Guard.
+
+  - STAT OBJECT will search only for objects.
+
+  - STAT MOBILE will search only for MOBs.
+
+  - STAT FILE is used to stat a player who is not currently logged on.
+
+See Also: VSTAT
+
+#
+SYSLOG
+
+    The SYSLOG command controls the display of a special in-game log. 
+Messages are surround by a pair of brackets, and are displayed as soon as a 
+recordable action takes place. There are four levels of SYSLOG:
+
+  - OFF
+  - BRIEF
+  - NORMAL
+  - COMPLETE
+
+#
+TELEPORT
+
+    The command TELEPORT is used to move one MOB or player from one place 
+in the MUD to another. There are two options for teleport. The first, is to 
+teleport a MOB or player to another MOB or player. The second is teleport 
+the MOB or player to a specific room number.
+
+Usage:
+
+    TELEPORT <TARGET> <NUMBER or MOB/PLAYER>
+
+See Also: TRANSFER
+
+#
+THAW
+
+    THAW is used to un-freeze a character who is frozen. They must be 
+online for it to work.
+
+Usage:
+
+    THAW <TARGET>
+
+See Also: FREEZE
+
+#
+TRANSFER
+
+    The TRANSFER command can be used to bring MOBs or players to wherever 
+your are. TRANSFER always works, and it is a courtesy to ask before 
+transfering someone.
+
+See Also: TELEPORT
+
+#
+UNAFFECT
+
+    UNAFFECT removes all affects from a player, such as spells.
+
+#
+UNBAN
+
+    See wizhelp BAN. UNBAN works the other way.
+
+See Also: BAN
+
+#
+UPTIME
+
+    Displays when the game was last booted and calculates how much time has 
+passed since.
+
+#
+USERS
+
+    USERS displays a list of all sockets (connections) currently active on 
+the MUD. The multi-column display (left to right) shows you the connection 
+number (used by DC), the character name, their in-game state (Get Name, 
+Main Menu, Playing, ect...), how long they have been idle, and their site 
+address. There are several switches you can use:
+
+   -k or -o  = Shows only the outlaws (killers and thieves).
+      -p     = Shows only sockets in the playing state.
+      -d     = Shows only the non-playing sockets.
+  -l min-max = Shows only sockets whose characters are from level min to max.
+   -n <name> = Shows the socket with the <name> associated with it.
+   -h <host> = Shows only the sockets connected from the <host>.
+   -r <race> = Shows only the sockets of those whose race matches <race>.
+  -c <class> = Shows only the sockets of those whose class matches <class>.
+
+See Also: DC
+
+#
+VNUM
+
+    VNUM displays a list of the numbers of objects or mobiles that have the
+specified keyword. There are three types: MOB, OBJ, and ZONE NUMBER.
+
+Usage:
+
+    VNUM <MOB or OBJ> <KEYWORD or ZONE NUMBER>
+
+Note: Most immortals who use it a lot create aliases for them.
+
+See Also: VSTAT
+
+#
+VSTAT
+
+    VSTAT is used to stat an object or MOB without one being loaded. There are
+two types: MOB and OBJ.
+
+Usage:
+
+    VSTAT <MOB or OBJ> <NUMBER>
+
+See Also: VNUM
+
+#
+WIZCOMMANDS
+
+    Displays a list of immortal commands available to you currently.
+
+#
+WIZHELP
+
+    If you are reading this you need professional help.
+
+#
+WIZLOCK
+
+    WIZLOCK allows you to restrict access to the game. WIZLOCK 1 prevents new
+characters from being created. WIZLOCK <#> prevents only characters of the
+specified level or higher to log on. WIZLOCK with no argument displays the 
+current WIZLOCK level.
+
+#
+WIZNET IMMTALK ;
+
+    A communication channel that only immortals can use and see. There are 
+several options available (all used by typing the command and adding the 
+particular digit for the corresponding effect after it):
+
+      @    = Shows all gods that are on and visible to you.
+      +    = Turns the wizard channel on.
+      -    = Turns the wizard channel off.
+      *    = Add a <--- to the beginning of the message you send.
+  #<level> = Shows your message only to those equal to or higher than <level>.
+
+See Also: NOWIZ
+
+#
+ZEDIT
+
+Usage  zedit vnum
+
+Z) Zone name: This is the title of your zone that will show up in show
+zones. If your zone is unfinished or untitled, you must have your builder's 
+name included. When your zone is completed, your name can be removed.
+
+L) Lifespan: This is the time between zone resets. The number you type
+in is not actually measured in minutes, but in ticks. Currently, ticks
+stand at approximately 85 seconds. The number you type in is not exact;
+it is unlikely that your zone resets exactly on the specified tick. Instead,
+it may be delayed by 20-30 seconds.
+
+T) Top of zone: This is the highest vnum reserved for your zone. Do not
+change this! While CircleMUD can quite happily cope with zones that are
+shorter or longer than 100 vnums, Oasis OLC cannot.
+
+R) Reset mode: This is the way that your zone resets. Most zones are set
+to Normal Reset. This means that your zone will reset every time the Lifespan
+(see above) runs out. You can also set your zone to Reset only when no players
+in zone, which is useful for more difficult zones, when you want players to
+have to fight their way in every time. The final option is Never reset. This  
+is fairly uncommon.
+
+F) Zone flags: These are flags that affect the entire zone. As many as neccesary
+can be set for each zone.
+
+SEE ALSO ZONES
+#
+ZONE-FLAGS
+
+NO_TELEPORT: Means that the spell 'teleport' will not transport people to this
+zone. This flag must be set on all unconnected zones.
+
+NO_PHASEDOOR: Means that the spell 'phase door' cannot be used inside this zone.
+This flag must be set on all unconnected zones. Currently, only vampires have
+this spell, and at last count, Kore only had two vampire....
+
+CHAOS: This flag means player killing is permitted in this zone. This flag is
+only used for arenas, and should not be set on any other zone.
+
+GODZONE: Zones with this flag can only be entered (via the 'goto' command) by 
+higher-level immortals (levels 59 and 60). Generally, you don't use this flag.
+
+BATTLE_OK: The command battle can only be used to enter the arena in zones
+flagged BATTLE_OK. This flag is currently only used in the city of Kore,
+and should only be set by implementors.
+
+SEE ALSO ZONES
+#
+ZONES
+
+All new zones on Heroes of Kore are made of 100 rooms, mobs, and objects. So,   
+for zone number 112, you would work with mobs 11200-11299, objects 11200-11299,
+and rooms 11200-11299. If you need more room, you will have to obtain a second
+zone.
+
+These numbers (11200-11299, in this case) are known as vnums, which is short    
+for virtual number. These never change, and are the normal way that rooms, mobs,
+and objects are referenced by builders and Kore's data files. However, it is
+occasionally important to know that internally, CircleMUD uses rnums, which
+are real numbers. Rnums will change while the MUD is running.
+
+All zone editing is done through the zedit command. Zones are created by
+implementors via zedit new nnn where nnn is the number of the zone. A     
+canonical list of exisiting zones can be obtained by the command show zones.
+The mortal command areas doesn't show all zones, just some.
+
+The zedit command actually serves a dual purpose: It can edit parameters that  
+affect the entire zone, and it can edit the commands to execute in each room   
+when the zone resets.
+
+Zedit takes no parameters. Simply type zedit in any room in your zone to enter
+the menu. If you are editing the zone-wide parameters, it doesn't matter which  
+room you are in. If you wish to edit the command list for a room, you must be   
+in that room.
+
+SEE ALSO ZONE-FLAGS ZEDIT RESETS
+#
+ZRESET
+
+    This command is used to force the target zone to reset. There are three 
+types you can use:
+
+  <zone #> = Resets the zone you specify.
+      *    = Resets all zones in the MUD.
+      .    = Resets the zone you are currently in.
+
+#~
+

@@ -1,0 +1,362 @@
+#600
+jerzeba COVEN crone witch 600~
+Jerzeba~
+A crone with long tangled hair is here hoarding over the cauldron.
+~
+   To say this woman is old would be an understatement.  She looks as if
+she has seen centuries pass, and her apparent ease of movement implies
+that she'll see centuries more.  Content with conversing with her sisters,
+she hardly notices the attention you bring.
+~
+712714 33832 0 S
+58 1 0 1d1+1 1d1+50
+15 20
+8 8 2
+#601
+selran COVEN woman witch 601~
+Selran~
+An old woman in ragged black clothes chants to herself.
+~
+   To say this woman is old would be an understatement.  She looks as if
+she has seen centuries pass, and her apparent ease of movement implies
+that she'll see centuries more.  Content with conversing with her sisters,
+she hardly notices the attention you bring.
+~
+2875466 33832 0 S
+58 1 0 1d1+1 1d1+50
+15 20
+8 8 2
+#602
+vesrin COVEN woman witch 602~
+Vesrin~
+A woman of old age huddles among her sisters.
+~
+   To say this woman is old would be an understatement.  She looks as if
+she has seen centuries pass, and her apparent ease of movement implies
+that she'll see centuries more.  Content with conversing with her sisters,
+she hardly notices the attention you bring.
+~
+2875466 33832 0 S
+58 1 0 1d1+1 1d1+50
+15 20
+8 8 2
+#603
+maedar COVEN humanoid male~
+the maedar~
+A muscular and hairless humanoid male stands with a snake around his neck.
+~
+   This humanoid's only desire is to co-exist with his medusae mate, but
+as it is told Calis bound him to endless duty in these caverns, never to
+see her again.  It is obvious he has no desire to serve anyone, yet he is
+here.
+~
+254026 33832 0 S
+50 1 0 1d1+1 1d1+50
+15 20
+8 8 1
+#604
+aide figure dark clan COVEN infravision~
+Calis' Aide~
+A figure in a dark blue robes stands quietly in the corner.
+~
+   You cannot tell much about this figure. He, at least you think it is a 'he',
+stands average height and build. His hood is drawn low over his bowed head 
+and you cannot make out any facial features. His hands are folded in his robe
+and he doesn't seem to be moving.
+~
+254026 99368 0 S
+50 1 0 1d1+1 1d1+50
+15 20
+8 8 1
+#605
+clan COVEN door portal up~
+portal_up~
+An unseen portal mob is here.
+~
+You shouldn't be reading this, go do some work.
+~
+8388682 1064 0 S
+50 1 0 1d1+1 1d1+50
+15 20
+8 8 0
+#606
+wraith COVEN essence shadow~
+the wraith~
+A translucent essence lingers in the air above.
+~
+Though this creature vaguely looks human, there can be no mistake that it 
+is not. Its lower body is cloud-like in shape and not surprisingly the thing 
+seems to hover about in the air. Red glowing coal-like eyes mark this 
+being as more than just a simple apparition.
+~
+237640 4490282 0 S
+59 1 0 1d1+1 1d1+50
+15 20
+8 8 0
+#607
+clan GENERIC receptionist woman~
+a receptionist~
+A clan receptionist sits behind a counter here.
+~
+    You see a beautiful woman hired as a receptionist by your clan. She smiles
+softly as she sees you and greets you. Behind her, keys hang on a rack. She
+seems to know which is who by sight, and she hands you the key to your room.
+~
+254027 99368 0 S
+50 1 0 1d1+1 1d1+50
+15 20
+8 8 2
+#608
+clan GENERIC cryo cryogenicist woman~
+a cryogenicist~
+A petite young woman plays with a metal can behind a counter.
+~
+   Sitting behind the counter makes her look even more petite the closer you
+get. She smiles softly ad in the process, misses the frosted metal can as she
+tosses it around. It falls the floor with a loud *clang* before it rolls
+under the desk.
+~
+2875483 4228136 0 S
+50 1 0 1d1+1 1d1+50
+15 20
+8 8 2
+#609
+imp~
+someone~
+A hidden imp is here, ready to hand out messages.
+~
+He looks like he's ready to tear someone's muthafuckin' head off.
+~
+11264011 1064 0 S
+50 1 0 1d1+1 1d1+50
+15 20
+8 8 0
+#610
+xenophobe statue COVEN black~
+the statue of Xenophobe~
+An inky black statue stands in the path of a river.
+~
+   Purely black is this statue, so much so that it's hard to even observe
+whom it is supposed to represent. The figure wears a huge depraved smile
+and its blank eyes are widely open as if it could see what was in the room
+with it and was about to start laughing.
+~
+71032842 33832 0 S
+50 1 0 1d1+1 1d1+50
+15 20
+8 8 0
+#611
+wind breeze blast EE~
+a draft of cold wind~
+A gust of wind blows through the clearing.
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#612
+fish man kuo-toan VU servant~
+a kuo-toan servant~
+A fish-man lurks in the caverns here.
+~
+  This creature looks like a cross between a fish and a human. It wears 
+only a harness for carrying weapons and a strong fish-like putrid odor. 
+It's scaly body looks like it would be very slimy if you touched it.
+~
+10 33896 0 S
+50 20 10 1d1+0 1d1+20
+0 0
+8 8 2
+#613
+goblin VU slave servant Gyuk~
+a goblin slave~
+A goblin servant grovels at your feet.
+~
+This pitiful yellowish-green creature is clad in matted clothes and
+surrounded by a putrid stench. To kill him would be doing him a
+favor.
+~
+10250 33792 0 S
+25 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#614
+VU portal mob~
+VU portal mob~
+portal mob
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+58 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#615
+drow soldier house vherin ultrin VU~
+a drow soldier~
+A drow grins evilly in your direction here.
+~
+Clothed entirely in black, his only identification to distinguish
+himself from other drow is the insignia of House Vherin'Ultrin hung
+about his neck.  His stark white hair contrasts drastically with his
+ebon features, and the pearly whites of his insane grin.
+~
+28682 361644 -350 S
+40 -30 -5 10d10+10 10d10+0
+0 0
+8 8 1 13
+#616
+llartho sergeant drow soldier vherin ultrin VU~
+Llartho~
+Llartho, the drow sergeant, stands here directing soldiers.
+~
+Broad-shouldered, even by human standards, Llharto is one of the oldest
+and most cunning soldiers possessed by House Vherin'Ultrin.  Before
+being bested by SenorNacho, Llharto was once Sword Master.  A long,
+puckered scar from his left eye to his chin blazes fiercely upon his
+cruel face.
+~
+188426 361644 -350 S
+42 -30 -5 11d11+11 11d11+0
+0 0
+8 8 1 13
+#617
+wandering drow guard vherin ultrin VU~
+a wandering drow guard~
+A drow sentry walks his patrol here.
+~
+His clothing seems to blend in with the cavern around you, making the
+sentry's route hard to trace.  He is alert, and knows that if he fails
+the matron, his life is worthless.
+~
+4172 360494 -350 S
+25 -20 -3 9d9+9 9d9+0
+0 0
+8 8 1 13
+#618
+fish man kuo-toan VU servant priest ancient~
+an ancient kuo-toan~
+An ancient fish-man stands here without purpose.
+~
+  The disgusting odor of dead fish stems from this man-like creature 
+like branches of gaseous death. It's as if its corpse has been baking in 
+the hot sun for days, and brought back here to be made to stand up and 
+operate again. Somehow this doesn't seem so unlikely.
+~
+10 33896 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#619
+ellcrys clan mob~
+ellcrys haven mob~
+a !there mob you shouldnt see
+~
+It looks, err, unfinished.
+~
+8912906 0 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#625
+gold dragon statue dragonliege~
+gold dragon statue~
+A statue of a golden dragon rests in the center of the room.
+~
+Incredible craftsmanship has wrought this magnificent statue of a golden
+dragon, with gleaming rubies for eyes and ivory claws.  The statue stands 
+nearly 15 ft tall, exuding a magical aura noticeable to anyone who comes 
+near it.
+~
+778314 0 0 S
+1 19 -7 1d1+0 1d1+0
+1 0
+8 8 0
+#626
+silver dragon statue dragonliege~
+silver dragon statue~
+A statue of a silver dragon rests in the center of the room.
+~
+Made of seemingly solid silver, this scaled down statue of a silver dragon
+glares menacingly at anything in its path.  Emeralds of the finest cut
+gleam as eyes, adding to the magical nature of this astounding work.
+~
+778250 0 0 S
+1 19 -7 1d1+0 1d1+0
+1 1
+8 8 0
+#627
+dynasty cryogenicist~
+a cryogenicist~
+she makes sure that only dynasty rents
+~
+She looks like a cryogenicist.
+~
+8388618 0 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#628
+toot cryogenicist~
+a cryogenicist~
+you shouldnt see me
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#629
+dragonliege cryogenicist~
+a cryogenicist~
+A cryogenicist
+~
+    A cryogenicist.
+~
+8388619 8389672 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#642
+TOOT shopkeep Tallon~
+the shopkeep Tallon~
+A tall man sits here collecting gold for the clan equipment he gives out.
+~
+   The shopkeep, known as Tallon, stands behind a tall counter dispensing
+his knowledge and stories to those that enter.
+~
+262154 65664 0 S
+36 20 10 1d1+0 1d1+0
+0 0
+8 8 1 1
+#650
+priestess elven cleric~
+an Elven Priestess~
+An elegant elven priestess stands before you.
+~
+  A beautiful young elven priestess gazes at you with thoughtful eyes.
+She wears a simple white robe, and her golden hair is adorned with a 
+thin silver chain that interlocks with her long braid.
+~
+10 8388736 700 S
+55 1 10 1d1+1 1d1+30
+0 0
+8 8 2
+#699
+guardian clans~
+a guardian of the clans~
+A tall man in heavy plate armor stands here, protecting the exits to the clans.
+~
+   His many years of duty appear grimly on his face. Scars in such
+disgusting manor that some wonder if he is alive or dead. His armor
+brilliant gold bares the names of the clans of Kore.
+~
+2097160 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

@@ -1,0 +1,16 @@
+>command_prog scrounge~
+  if isfight($n)
+  else
+    if class($n) == thief
+      if rand(15)
+        mpechoat $n You scrounge up a slimy key!
+        mpechoaround $n $N scrounges up a slimy key!
+        mpoload 11003
+        mpsilent drop key
+        mpgoto cleaner
+        mpstopcommand
+      endif
+    endif
+  endif
+~
+|

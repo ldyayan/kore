@@ -1,0 +1,141 @@
+>greet_prog 40~
+  if name($n) == zirnozz
+    fear zirnozz
+  else
+    if isscript($i)
+    else
+      if isimmort($n)
+      else
+        if ispc($n)
+          hide
+          if rand(50)
+            mpechoat $n All of a sudden you notice a cord being wrapped around your neck.
+            mpechoat $n You can't break it either, and it's tightening with each passing second!!
+            mpechoaround $n $I sneaks up behind $N and wraps a dark cord around $s neck!
+            mpechoaround $n $I crows maniacally as $j pulls back on the thin rope!
+            mptrigger $n strangle
+            mppose $n stun
+          else
+            mpechoat $n You quickly drop to the ground as you notice a pair of hands attempt to string a cable around your neck!
+            mpechoaround $n $I tries to strangle $N but can't get the cable around $s neck fast enough!
+            mpechoaround $n $N falls to the ground and rolls out of the way.
+            mppose $n sit
+            mpecho $I retreats back into the shadows.
+            mptransfer $i nearby
+            hide
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>rand_prog 6~
+  if isscript($i)
+  else
+    mptransfer $i nearby
+  endif
+~
+>rand_prog 12~
+  if isscript($i)
+  else
+    hide
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    if isfight($r)
+      if rand(85)
+        mpechoat $r $I flings out his clawed hand and RIPS THROUGH your flesh!!
+        mpechoaround $r $N recoils in agony as $I shreds $s skin with a clawed hand!
+        mpdamage $r 14d15+11
+      else
+        flee
+        hide
+      endif
+    endif
+  endif
+~
+>script_prog strangle~
+@
+@
+  if isfight($i)
+    mpecho The meazel growls at $N and reluctantly lets go of the rope.
+    mpstopscript
+    break
+  else
+    if isfight($n)
+      mutter
+      mpkill $n
+      mpstopscript
+      break
+    else
+      if inroom($n) == here
+        mpechoat $n You thrash about violently but the cord holds!
+        mpechoaround $n $N thrashes around but can't get away from the meazel's iron grip!
+        hide
+      else
+        mpstopscript
+      endif
+    endif
+  endif
+@
+@
+  if isfight($i)
+    mpecho The meazel growls at $N and reluctantly lets go of the rope.
+    mpstopscript
+    break
+  else
+    if isfight($n)
+      curse
+      mpkill $n
+      mpstopscript
+      break
+    else
+      if inroom($n) == here
+        mpechoat $n The cavern walls begin to become indistinguishable in the blackness that swiftly floods your vision.
+@
+@
+        if isfight($i)
+          mpecho The meazel growls at $N and reluctantly lets go of the rope.
+          mpstopscript
+          break
+        else
+         if isfight($n)
+           fume
+           mpkill $n
+           mpstopscript
+           break
+        else
+          if inroom($n) == here
+            if rand(40)
+              mpechoat $n ..the cord snaps!!
+              mpechoat $n You suck in a huge breath of air and fall to the floor in a horrible coughing fit.
+              mpechoaround $n The rope around $N's neck suddenly breaks, and $e falls to the ground while coughing uncontrollably.
+              mpechoaround $n $I curses and throws $l torn rope against the wall in disgust!
+              mpechoaround $n $I looks around hastily and then springs out of the room.
+              mpoload 15107
+              mpsilent drop cord
+              mppose $n sit
+              mpgoto 15159
+              mpstopscript
+              hide
+            else
+              mpechoat $n Everything fades away and you submit to the grip and slip into the swirling black vortex that beckons you...
+              mpechoaround $n $N's eyes roll back and then close, and $s body goes limp.
+              mpechoaround $n $I releases $l grasp on the rope and allows $N's dead body to fall to the cavern floor.
+              mpdamage $n 1000d1000
+              mpgoto 15139
+              hide
+              mpstopscript
+            endif
+          else
+            mpstopscript
+          endif
+        endif
+      endif
+    else
+      mpstopscript
+    endif
+  endif
+~
+|

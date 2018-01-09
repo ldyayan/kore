@@ -1,0 +1,54 @@
+#28100
+silver mace~
+a silver mace~
+A mace constructed of silver lies on the ground here.~
+  The mace is made of silver and is roughly a foot and a half in length.
+~
+5 0 8192
+0 4 4 5
+5 250 0
+#28101
+staff wood black~
+a black wooden staff~
+A black wooden staff is lying here.~
+~
+5 64 8193
+0 5 5 7
+5 5000 0
+A
+18 5
+#28102
+leather pouch~
+a leather pouch~
+A simple leather pouch is lying on the ground here.~
+~
+15 0 18433
+100 1 -1 0
+2 500 0
+#28103
+gold~
+a small pile of gold~
+A small pile of gold lies on the ground here.~
+~
+20 0 1
+5748 0 0 0
+5000 0 0
+#28104
+potion blue~
+a fizzing blue potion~
+A fizzing blue potion sits on the ground here.~
+~
+10 0 1
+50 39 68 0
+1 0 0
+#28199
+food~
+some food~
+Some food is here.~
+It looks like food...
+~
+19 0 1
+96 0 0 0
+1 0 0
+#99999
+$~

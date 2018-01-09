@@ -1,0 +1,204 @@
+#18601
+insane captive~
+the insane captive~
+The insane captive is here, looking at you with crazy eyes!
+~
+    You see a man in tattered clothes, his hair flying wild with a crazy 
+look in his eyes.  He sees you and ravenousness overcomes him, he sees food!!
+~
+46 33554432 0 S
+8 17 5 4d6+42 1d5+1
+0 1200
+8 8 1
+#18602
+skeleton~
+the skeleton~
+A skeleton is on guard here, animated by evil magic.
+~
+    You look in fear at the animated bones of a dead man!  Once a valiant
+warrior, now his bones are possessed and animated by an evil spirit, conjured
+into the bones and driving it with evil will to kill all enemies of Bone
+Hill.
+~
+41066 1024 -800 S
+5 19 9 2d4+16 1d4+1
+0 400
+8 8 0
+#18603
+angry bugbear~
+the angry bugbear~
+An angry bugbear is here, looking to smash things.
+~
+    The bugbear is a large beast, like a goblin only taller and hairier all 
+over.  It has big red eyes, pointed ears, a flat nose, and large pointy teeth.
+The bugbear looks at you and makes a toothy grin, for, at last, something to
+smash!!
+~
+2088 33555456 -800 S
+7 17 6 1d4+50 2d4+1
+0 1000
+8 8 1
+#18604
+matron bugbear~
+the matron bugbear~
+The matron bugbear is here, cooking up a foul stew.
+~
+    The matron bugbear is here, stirring her cauldron with a spoon as big
+as a staff.  She's big and hairy, smelly, and foul.  She's completely 
+engrossed in her work too, and sips the soup occasionally to see if it's
+ready.
+    Down below, the pit beast howls for food and attention!!
+~
+2090 1024 -500 S
+6 18 7 2d6+34 1d7+0
+0 800
+8 8 2
+#18605
+the evil mage thandgrind~
+the evil mage Thandgrind~
+A mage is here standing in a pentacle, intoning names to animate the dead.
+~
+    He is a diabolical sorceror, bent on taking over the wild lands of the
+coast with the help of his undead minions and bugbears.  He might even 
+succeed if you don't stop him!
+~
+3723 128 -900 S
+20 16 5 4d6+38 2d4+0
+0 1200
+8 8 1
+#18606
+large rat~
+the large rat~
+A large rat is here, scurrying from shadow to shadow.
+~
+    You see a vile rat.  It's not very smart but clever in it's own way,
+and you know that it and it's kind would gladly bite you.  It looks hungry.
+~
+200 33554432 -250 S
+4 20 10 1d4+8 1d4+0
+0 100
+8 8 0
+#18607
+corpse unfortunate man zombie~
+the zombie~
+The corpse of an unfortunate man is standing here.
+~
+    Wait!!  That is no ordinary corpse at all!!  It is alive and filled with
+hate!  It rises and stands, and shambles towards you, to kill!! to eat your
+flesh! to rend your life from you and free you from this mortal coil!!
+~
+108 1024 -500 S
+7 17 5 1d8+46 2d4+0
+0 600
+8 8 0
+#18608
+loathsome quasit~
+the quasit~
+A loathsome quasit is sneaking about here.
+~
+Little green, vaguely humoniod shaped creature, with a long pointed tail.
+It is hard to say because before you ever get a good look at it, it darts
+back into the shadows.
+~
+109 33555456 -800 S
+6 19 7 1d10+30 1d4+1
+0 300
+8 8 1
+#18609
+minotaur~
+the massive Minotaur~
+The Great Minotaur is wondering just what you'll taste like.
+~
+A massive man, with the head of a bull.  He looks as strong as bull too,
+but not nearly as smart.  Actually, now that you consider it... he looks
+a heck of a lot meaner than any bull you have ever seen... and he is
+coming this way!
+~
+67688 33555456 -1000 S
+10 15 5 3d5+85 2d4+1
+0 3000
+8 8 1
+#18610
+spectre ghost~
+the dark spectre~
+The dark spectre is lurking in the shadows.
+~
+The soul of a long since passed on adventurer... it lurks here waiting for
+a chance to bring death to any who cross its path.
+~
+2154 34079754 -850 S
+15 16 3 3d5+62 2d4+0
+0 1600
+8 8 0
+#18611
+wild dog~
+the wild dog~
+A wild dog is here, combing the ruins for flesh to eat.
+~
+    You see a ravenously hungry wild dog.  It whines piteously for food,
+then when it sees you it raises its hackles but keeps its distance ..
+It might warn other creatures in the place though .. better silence him
+with cold, tempered steel!!
+~
+76 0 -500 S
+5 18 10 2d4+20 1d3+1
+0 500
+8 8 0
+#18612
+black raven~
+the black raven~
+A raven is here, scavenging about the ruins.
+~
+    You see a dark black bird with a black beak.  It looks back impassively,
+neither good nor evil, just pondering you in the most mundane way.
+~
+204 0 0 S
+4 20 10 1d1+19 1d3+1
+0 220
+8 8 0
+#18613
+skeltor~
+the skeltor~
+A skeltor is here, armed and walking confidently through the ruins.
+~
+    The fear you feel inside when you see the skeltor just can't be expressed
+in mere words!!  To say you are surprised would be an understatement, for
+here, clearly is the animated bones of a hero, corrupted now by evil!!  You
+wonder, with a chill, whether when you die, you might not become a skeltor
+as well!!
+~
+41065 9216 -800 S
+8 18 8 6d5+22 1d7+1
+0 600
+8 8 0
+#18614
+ghoul~
+the ghoul~
+A ghoul is here, stalking through the ruins!
+~
+    The ghoul is tall and lanky, once human, now dead.  Its skin is green
+and putrid yet taught over its bones!  It stalks cautiously, almost without
+a sound at all!  It's face of red eyes, white hair, and yellow teeth seem
+to hold the center of your attention while its long arms reach out to 
+throttle you!!
+~
+41064 263168 -900 S
+7 17 6 8d5+20 1d6+1
+0 500
+8 8 0
+#18615
+corpse strong man zombrire~
+the zombrire~
+The corpse of a strong man is standing here.
+~
+    With fascination and horror you realize that you have disturbed the
+zombrire!!  In life, a warrior without peer, now, in death, an unholy corpse
+of great strength armed with deadly weaponry and committed to your destruction!
+Beware mortal!!  Do not disturb the dead!!
+~
+41065 1024 -800 S
+9 15 9 10d5+20 2d3+2
+0 1000
+8 8 0
+#99999
+$~

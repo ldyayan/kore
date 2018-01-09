@@ -1,0 +1,94 @@
+#21800
+holly~
+the holly tree~
+Great holly trees stand like sentinel pillars.~
+~
+13 0 1
+0 0 0 0
+99999 0 0
+#21801
+skeleton dwarf~
+a dwarf skeleton~
+A hacked and burned skeleton lies here with several broken orc arrows.~
+~
+13 4 1
+0 0 0 0
+20 1000 1000
+#21802
+deep~
+a deep covered well.~
+A dwarven well, covered sits in the centre of the room.~
+~
+13 0 0
+0 0 0 0
+100 1 1
+#21803
+spear elfkiller~
+the Spear 'Elfkiller'~
+A large spear with evil runes and a wicked looking barb.~
+~
+5 141952 1
+0 6 5 6
+19 100000 10000
+A
+1 2
+A
+19 2
+#21804
+scimitar~
+a wicked scimitar~
+A sharp, evil looking scimitar is here.~
+~
+5 640 8193
+0 5 4 3
+10 10000 1000
+A
+19 3
+A
+3 -2
+#21805
+shield eye~
+shield of the lidless eye~
+An evil looking shield lies here.~
+~
+9 10880 513
+10 0 0 0
+15 10000 1000
+A
+19 2
+A
+1 2
+#21806
+gold coins~
+a HUGE pile of coins~
+You see a HUGE stack of gold and coins.~
+~
+20 0 1
+50000 0 0 0
+50 10000 10000
+#21807
+spear flame~
+spear of flame~
+A dummy fake floats through the database here.~
+~
+5 12321 1
+0 4 4 12
+9 10000 10000
+A
+18 2
+A
+19 4
+#21808
+cruel orcish spear~
+a cruel orcish spear~
+A spear with a nasty hooked barb on it.~
+~
+5 0 8193
+0 4 5 11
+6 10000 10000
+A
+3 -3
+A
+19 4
+#99999
+$~

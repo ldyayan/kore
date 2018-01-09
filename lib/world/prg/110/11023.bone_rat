@@ -1,0 +1,11 @@
+>rand_prog 35~
+  say Dont kill me!  
+  frown
+  say I hate being undead.
+~
+>death_prog 100~
+  mpecho You hear a faint voice in the distance say, 'YES! 668!!'
+  mpgoto cleaner
+~
+|
+

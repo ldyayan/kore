@@ -1,0 +1,25 @@
+#2401
+chunin battlemaster~
+the chunin of dojo battle arena~
+A grizzled samaurai stands before you.
+~
+The saumarai spreads his feet wide apart and sizes you up.  His name is
+known to very few, most simply call him 'Master'
+~
+8362 853122 1000 S
+57 -30 -8 1d1+1000 1d1+50
+0 0
+8 8 0 3
+#2402
+warrior apprentice~
+an apprentice warrior~
+An apprentice to the master stands here.
+~
+It looks, err, unfinished.
+~
+4136 0 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 0 13
+#99999
+$~

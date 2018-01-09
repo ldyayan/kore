@@ -1,0 +1,53 @@
+>entry_prog 100~
+  if isimmort($n)
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    emote rears up all three of her heads and focuses her fury on $R!
+    mpechoaround $r $I ANNIHILATES $R with a blast from each of its mighty heads.
+    mpdamage $r 18d19+27
+  endif
+~
+>fight_prog 40~
+  if inroom($r) == here
+    mpechoat $r $I sinks its teeth into you, ripping flesh from your bones.
+    mpechoaround $r $I rears back its head and bears its wicked fangs...
+    mpechoaround $r $I sinks its teeth deep into $R!!
+    mpdamage $r 20d20+60
+  endif
+~
+>fight_prog 50~
+  if inroom($r) == here
+    if isaffected($i, blind)
+      mpecho $I looks disoriented for a moment..
+      mpsilent mpcallmagic 'cure blind' $i
+      mpecho $I's eyes widen suddenly and burn with anger as they gaze down upon you!
+    else
+      mpechoaround $r With a THUNDERING CRASH, $I swings her tail into $R, slamming $K against the wall!
+      mpechoat $r $I's enormous tail comes CRASHING into you, knocking you against the stone wall!
+      mpdamage $r 18d28
+      mppose $r sit
+    endif
+  endif
+~
+>command_prog cast~
+  if rand(50)
+    bash $n
+  endif
+~
+|

@@ -1,0 +1,74 @@
+>entry_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  endif
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  endif
+~
+>fight_prog 10~
+  cast 'dispel magic' $r
+~
+>fight_prog 20~
+  cast 'color spray' $r
+  cast 'color spray' $r
+  cast 'color spray' $r
+~
+>fight_prog 30~
+  shout DIE!
+  cast 'word of death' $r
+  cast 'word of death' $r
+  cast 'word of death' $r
+~
+>fight_prog 40~
+  shout You shall never escape!
+  cast 'curse' $r
+  cast 'curse' $r
+  cast 'curse' $r
+~
+>fight_prog 50~
+  shout Filth!  Decay!  Plague!
+  cast 'poison' $r
+  cast 'poison' $r
+  cast 'poison' $r
+~
+>fight_prog 60~
+  shout You cannot harness this power!
+  cast 'chain lightning' $r
+  cast 'chain lightning' $r
+  cast 'chain lightning' $r
+~
+>fight_prog 70~
+  shout Saidar serves me!  I am unstoppable!
+  cast 'cone of cold' $r
+  cast 'cone of cold' $r
+  cast 'cone of cold' $r
+~
+>fight_prog 80~
+  shout Not even corpses shall remain.
+  cast 'disintegrate' $r
+  cast 'disintegrate' $r
+  cast 'disintegrate' $r
+~
+>fight_prog 90~
+  shout The Earth is my tool of destruction.  Conquest is near.
+  cast 'earthquake' $r
+  cast 'earthquake' $r
+  cast 'earthquake' $r
+~
+>fight_prog 100~
+  shout The very elements obey me!
+  cast 'fist of stone' $r
+  cast 'fist of stone' $r
+  cast 'fist of stone' $r
+~
+>death_prog 100~
+  drop all
+~
+|

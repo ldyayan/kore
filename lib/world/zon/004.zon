@@ -1,0 +1,133 @@
+#4
+Olympus~
+499 30 1 35
+M 0   405     1   426            Apollo
+E 1   426    25    17                    held nectar
+M 0   411     2   426            an apprentice musician
+G 1   416    10    -1                    give a lute
+M 0   411     2   426            an apprentice musician
+O 0   499    99   401            an olive tree
+M 0   412    10   410            a serving boy
+M 0   401     1   410            Zeus
+E 1   453   101    16                    wield Zeus' Thunderbolt
+E 1   400     6    11                    shield Aegis
+M 0   423    15   478            the citizen
+M 0   423    15   478            the citizen
+M 0   430     1   478            Ascleipos
+E 1   441     4    17                    held a ^rblood-stained^n chalice
+O 0   430   101   478            the fountain
+M 0   402     1   420            Prometheus
+E 1   408     6     9                    hands a pair of ^Rfl^n^Ya^n^Wm^n^Yin^n^Rg^n gauntlets
+D 0   420     0     2            Cell door north
+M 0   426     1   418            the jailer
+G 1   427   101    -1                    give a cell key
+E 1   412    18    11                    shield a brightly glowing shield
+E 1   429    22    16                    wield a white sword
+M 0   421     1   445            Hera
+E 1   411    10     1                    left finger a ^Wdiamond^n ring
+G 1   443    99    -1                    give a golden key
+O 0   442   101   445            a golden table
+P 1   440    10   442                    put the map of Olympus in a golden table
+D 0   445     2     1            Bedroom door south
+D 0   445     3     1            Bedroom door west
+M 0   410     1   438            Deimos
+M 0   425     1   438            Phobos
+M 0   428     1   438            Eris
+M 0   427     1   438            Enyo
+M 0   406     1   438            Ares
+E 1   403    20    16                    wield a longsword covered with ^rblood^n
+E 1   452     3     7                    legs a pair of ^rblood-covered^n leggings
+D 0   438     1     1            The Room of Bloodlust  door east
+M 0   423    15   404            the citizen
+M 0   423    15   406            the citizen
+M 0   423    15   408            the citizen
+M 0   423    15   408            the citizen
+M 0   423    15   408            the citizen
+M 0   412    10   411            a serving boy
+M 0   412    10   412            a serving boy
+M 0   436     1   413            Eros
+M 0   423    15   414            the citizen
+M 0   412    10   416            a serving boy
+M 0   423    15   417            the citizen
+M 0   420     2   421            the chimera
+E 1   422    10    17                    held a hand
+D 0   421     1     2            Cell door east
+M 0   420     2   422            the chimera
+E 1   422    10    17                    held a hand
+D 0   422     3     2            Cell door west
+M 0   431     2   424            the turtle
+M 0   407     1   425            Athena
+E 1   410    10     5                    body a ^Rruby-red^n breastplate
+M 0   412    10   425            a serving boy
+G 1   414    10    -1                    give a bunch of grapes
+M 0   412    10   425            a serving boy
+G 1   414    10    -1                    give a bunch of grapes
+M 0   412    10   425            a serving boy
+G 1   414    10    -1                    give a bunch of grapes
+M 0   435     6   427            the rabbit
+M 0   423    15   428            the citizen
+M 0   412    10   431            a serving boy
+M 0   423    15   432            the citizen
+M 0   422     3   440            the roc
+M 0   413     2   441            a large hunting dog
+M 0   413     2   441            a large hunting dog
+M 0   419     1   444            Arthemis
+E 1   445    10    14                    left wrist a golden cresent shaped bracelet
+M 0   404     1   446            Poseidon
+E 1   406    10    16                    wield a huge merman's trident
+M 0   412    10   446            a serving boy
+M 0   412    10   446            a serving boy
+M 0   414     1   449            Aphrodite
+E 1   424    10    13                    waist a shiny ^Rred^n girdle
+M 0   412    10   449            a serving boy
+M 0   412    10   449            a serving boy
+D 0   449     5     1            Residence door down
+O 0   423    99   450            a wooden fruit bowl
+P 1   418    10   423                    put an apple in a wooden fruit bowl
+P 1   419    10   423                    put a pear in a wooden fruit bowl
+P 1   420    10   423                    put an orange in a wooden fruit bowl
+P 1   421    10   423                    put a kiwi in a wooden fruit bowl
+P 1   414    10   423                    put a bunch of grapes in a wooden fruit bowl
+O 0   428    99   450            a well used bed.
+P 1   413    10   428                    put a warhammer in a well used bed.
+D 0   450     3     1            Love nest door west
+D 0   450     4     1            Love nest door up
+M 0   423    15   455            the citizen
+M 0   437     1   458            Zeus' Eagle
+M 0   438     1   458            the rabbit
+M 0   424     1   459            the pegasus
+M 0   422     3   460            the roc
+M 0   424     5   461            the pegasus
+M 0   424     5   463            the pegasus
+M 0   423    15   464            the citizen
+M 0   423    15   464            the citizen
+M 0   431     2   480            the turtle
+M 0   433     4   481            the parrot
+O 0   420   120   482            an orange
+M 0   434     2   484            the snake
+M 0   432     6   485            the monkey
+G 1   421    10    -1                    give a kiwi
+M 0   432     6   486            the monkey
+G 1   421    10    -1                    give a kiwi
+O 0   420   115   487            an orange
+M 0   433     4   488            the parrot
+G 1   418    10    -1                    give an apple
+O 0   420   115   493            an orange
+M 0   433     4   494            the parrot
+G 1   418    10    -1                    give an apple
+M 0   432     6   496            the monkey
+G 1   421    10    -1                    give a kiwi
+M 0   435     5   496            the rabbit
+O 0   420   115   497            an orange
+D 0   419     1     2            Dungeon door east
+D 0   419     2     2            Dungeon door south
+D 0   419     3     2            Dungeon door west
+D 0   437     3     1            A Hall door west
+D 0   439     1     1            A Hall door east
+D 0   448     1     1            Grand Hallway door east
+D 0   448     3     1            Grand Hallway door west
+D 0   451     0     1            Private Quarters door north
+D 0   457     1     1            Hall of Zeus door east
+S
+#99999
+$~

@@ -1,0 +1,6 @@
+>fight_prog 20~
+  mpechoaround $r $I sears $R with a breath of steam!!!
+  mpechoat $r $I sears you with a breath of steam!!!
+  mpdamage $r 75
+~
+|

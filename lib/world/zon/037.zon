@@ -1,0 +1,94 @@
+#37
+Northern Kore~
+3799 20 2 33
+M 0  3720     1  3713            a gleeman
+E 1  3731     5    17                    held a flute of wonder
+E 1  3729     3    12                    about a cloak of many-colored patches
+M 0  3753     1  3712            the bulldog
+G 1  2505    20    -1                    give a large chunk of meat
+M 0  3752     2  3712            the black fly
+O 0  3730   101  3712            a pool of blood
+M 0  3707     1  3700            the commoner
+E 1  3707    15     5                    body a clean tabard
+G 1  3706    15    -1                    give a purse
+M 0  3721     1  3720            a mime
+M 0  3705     1  3711            the beermeister
+G 1  3000    99    -1                    give a barrel
+G 1  3001    99    -1                    give a bottle
+G 1 12032    99    -1                    give a mug
+G 1  3001    15    -1                    give a bottle
+G 1 12032    15    -1                    give a mug
+M 0  3700     1  3701            the stableboy
+E 1  2507    20    17                    held a straw broom
+M 0  3701     1  3703            the smiling goodwife
+G 1  5457    99    -1                    give a carrot
+G 1  5458    99    -1                    give a tomato
+G 1 12006    99    -1                    give an apple
+G 1 12007    99    -1                    give an orange
+M 0  3703     1  3706            the butcher
+E 1  5484    99    16                    wield a meat cleaver
+G 1  2505    99    -1                    give a large chunk of meat
+G 1  3015    99    -1                    give a piece of meat
+G 1  6018    99    -1                    give a large slab of meat
+M 0  3752     1  3706            the black fly
+M 0  3704     1  3710            the blacksmith
+G 1  5201    99    -1                    give an iron helm
+G 1  5204    99    -1                    give a pair of iron boots
+G 1  5206    99    -1                    give an iron girth
+G 1  5207    99    -1                    give a battered iron breast plate
+G 1  5208    99    -1                    give a sturdy iron shield
+G 1  6112    99    -1                    give an iron crown
+G 1  5487    99    -1                    give a horseshoe
+M 0  3706     1  3716            the musician
+G 1  2563    99    -1                    give a ^Ygolden^n flute
+G 1   123    99    -1                    give a kazoo
+M 0  3067     1  3707            a guard of Kore
+E 1  3022    15    16                    wield a long sword
+M 0  3067     2  3707            a guard of Kore
+E 1  3022    15    16                    wield a long sword
+M 0  3710     1  3707            the peasant
+E 1  3713    10     5                    body a grimy sackcloth shirt
+M 0  3754     1  3707            a chicken
+G 1  3702    30    -1                    give a chicken leg
+G 1  3704    30    -1                    give a chicken wing
+G 1  3703    30    -1                    give a breast of chicken
+M 0  3717     1  3707            the fat merchant
+E 1  3719    15     5                    body a purple silk robe
+E 1  3720    15     7                    legs a set of silk stockings
+M 0  3059     1  3708            the Royal Guard
+E 1  3091    10    16                    wield an obsidian longsword
+E 1  3092    10     5                    body an obsidian breastplate
+M 0  3059     2  3708            the Royal Guard
+E 1  3091    10    16                    wield an obsidian longsword
+E 1  3092    10     5                    body an obsidian breastplate
+M 0  3718     1  3708            the condemned prisoner
+G 1  2548    15    -1                    give some chain shackles
+M 0  3708     1  3704            the woman
+E 1  3710    15     5                    body a simple dress
+E 1  3712    15     8                    feet a pair of wooden shoes
+E 1  3709    15     7                    legs some striped stockings
+E 1  3711    15    14                    left wrist a flower corsage
+M 0  3709     1  3704            the child
+M 0  3751     1  3704            the pig
+G 1  3721    30    -1                    give a pigs foot
+G 1  3723    30    -1                    give a sausage
+G 1  3722    30    -1                    give a side of bacon
+M 0  3711     1  3709            the peasant woman
+E 1  3714    20     5                    body a dirty burlap dress
+M 0  3712     1  3709            the street urchin
+M 0  3716     1  3714            the director
+E 1  3716    10     5                    body a somber brown shirt
+E 1  3717    10    10                    arms a set of white silk sleeves
+E 1  3715    10     3                    neck 1 a ruffled collar
+M 0  3067     3  3717            a guard of Kore
+E 1  3022    10    16                    wield a long sword
+M 0  3067     4  3717            a guard of Kore
+E 1  3022    10    16                    wield a long sword
+M 0  3063     1  3719            a guard of Kore
+E 1  3022    10    16                    wield a long sword
+M 0  3719     1  3721            the banker
+G 1  3725    99    -1                    give a balance sheet
+O 0  3724   101  3721            an evil money changer
+S
+#99999
+$~

@@ -1,0 +1,6 @@
+>give_prog candy corn~
+ bow $n
+ c 'bless' $n
+ mpsilence junk candy
+~
+|

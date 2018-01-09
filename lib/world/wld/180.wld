@@ -1,0 +1,1800 @@
+#18000
+A trail up into the mountains~
+   You stand on a high trail through the mountains.  On either side are
+high grey mountains with tumble down sides of rough rock.  Dotted in places
+are hardy pines, straight and tall and far up the sides.  The peaks are
+horns of granite that pierce the blue sky.  The dirt trail is bordered on
+either side by beautiful mountain meadow, and the air is very clear and
+still.
+   The trail runs north-south.
+~
+180 0 4
+D0
+You look north up the trail and see the trail continue.
+~
+~
+0 0 18001
+S
+#18001
+A trail through the mountains~
+   You stand on a trail running north-south through high mountains.  On
+either side, east and west, you see the high grey granite sides of close-
+hemming peaks.  Pines dot the hillsides wherever their roots can find a 
+perch.  Sometimes you think you see a mountain goat high up the sides,
+springing from rock to rock.  The air is still and quiet.
+   The trail runs north-south.
+~
+180 0 4
+D0
+You look north and see the trail come to a high mountain vale.
+~
+~
+0 0 18002
+D2
+Looking south, you see the trail heading south between the peaks.
+~
+~
+0 0 18000
+S
+#18002
+A mountain vale and lone pine~
+   You come to a mountain meadow.  Here, hemmed in by the peaks of the
+Dragonspine mountains, you ponder the beauty of the place.  In the middle
+of the meadow is a lone pine tree, growing scraggly and small on the 
+slope of the high mountain vale.  All around you you see the high granite
+sides of the Dragonspine, peak after peak, tall and grey.
+   To the south you see a trail, and to the east you see a gully.
+~
+180 0 2
+D1
+You look east and see a gully trail.
+~
+~
+0 0 18003
+D2
+You look south and see the trail head downhill to the south.
+~
+~
+0 0 18001
+S
+#18003
+A quiet gully~
+   You stand in a very quiet gully.  The grey granite sides of the gully
+are almost too sheer to climb.  Impossibly tall sides go straight up,
+far above you you see the light of day, and way off to the east you see 
+the gully open up and widen and you see the orange light of the sun off
+the rocks.  The main gully runs east-west, but you also see, running north,
+a fairly wide broken-rock trail.
+~
+180 0 4
+D0
+You look north and see a difficult but intriguing gully trail north.
+~
+~
+0 0 18008
+D1
+You look east and see the gully open up, widen and lighten.
+~
+~
+0 0 18004
+D3
+You look west down the gully and see a high mountain vale.
+~
+~
+0 0 18002
+S
+#18004
+A gully in the mountains~
+   You stand in a gully in the mountains.  Running east-west for many miles,
+the gully here opens up.  The sides of the gully are crushed rock, sloping
+down the hillside wherever gravity carries them.  You fear for an instant
+that a landslide could come, but your fears go away when you realize that
+pine trees dot the rocky hillside, finding, somehow, a way to live.  The
+gully darkens to the west where the rocky peaks come together, but to the
+east the trail heads downhill to a bright mountain lake.
+~
+180 0 4
+D1
+You look east and see a bright mountain lake with an island in the middle.
+~
+~
+0 0 18005
+D3
+You look west and see the gully narrow.
+~
+~
+0 0 18003
+S
+#18005
+West shore of a mountain lake~
+   You stand on the west shore of a breathtaking mountain lake.  Hemmed in
+by sheer mountain peaks, the lake has filled the basin they've created.
+Roughly square in shape, you can see the lakeshore run south and west.  Far
+out on the lake is a picturesque cone-shaped island, dotted with tall pines.
+The water sparkles invitingly.
+   A trail heads west up the gully, and the lakeshore runs south.
+~
+180 0 4
+D2
+You look south and see the shore come to the southeast corner of the lake.
+~
+~
+0 0 18006
+D3
+You look west and see a bright gully and a trail.
+~
+~
+0 0 18004
+S
+#18006
+Southeast shore of a mountain lake~
+   You come to the southeast shore of a mountain lake.  The sides of the
+mountains here are treacherously steep, with terrible shifting footing, 
+for the slopes are nothing but crushed rock, tumbled down.  Here in the
+bowl made by three peaks is a mountain lake.  Glittering and bright blue,
+the lake is clear and wonderful.  Far out in the middle you see an island
+dotted with pines.
+   The lakeshore trail runs north and east around the lake.
+~
+180 0 4
+D0
+You look north and see the trail run up to the west side of the lake.
+~
+~
+0 0 18005
+D1
+You look east and see the south shore of a mountain lake.
+~
+~
+0 0 18007
+S
+#18007
+South shore of a mountain lake.~
+   You stand on the south shore of a beautiful mountain lake.  The air is
+clear and fresh and the sky a bright blue.  The bluer than blue water of 
+the lake reflects the sky and glitters and sparkles with wondrous beauty.
+Far out in the middle of the lake is an island dotted with pointed pine
+trees.  The bowl here is created by three mountain peaks, one north, one
+east, and one just west, and here in their bowl is this incredible lake.
+   The lakeshore trail runs west.
+~
+180 0 4
+D3
+You look west and see the southeast shore of the lake.
+~
+~
+0 0 18006
+S
+#18008
+A difficult gully trail~
+   You tread with difficulty along a dark gully trail.  The trail is closely
+hemmed in by the rocky and vertical sides of a mountain.  Following a 
+natural crack in the rock, it winds its way upwards.  The trail here is
+rough and shattered rock, and tough going, nearly as difficult as climbing
+a mountainside would be.
+   To the south the gully trail leads to a crosscutting gully, and to the
+north the bright light of day is seen again.
+~
+180 0 5
+D0
+You look north and see the dark gully end in a bright mountain vale.
+~
+~
+0 0 18009
+D2
+You look south and see a lighter gully face, running east-west.
+~
+~
+0 0 18003
+S
+#18009
+The vale of the giants~
+   You stand in a mountain vale, bright and clear.  To the north, you see
+an enormous timber stronghold.  A road runs from here north right up to 
+its southeast corner.  The from here, you can see that the fort is like
+an enormous log house, with a tower and entrance on its south side.  All
+around you is a beautiful mountain vale, with hills and stands of pine,
+and beyond, high mountain peaks.
+   The road leads north-south, the vale continues around the palisade west,
+and an obscure trail leads east...
+~
+180 0 2
+D0
+You look north and see the road turn and come to a door to the palisade.
+~
+~
+0 0 18010
+D1
+You look east and see a hillside stand of brush and trees.
+~
+~
+0 0 18027
+D2
+You look south and see a dark gully trail.
+~
+~
+0 0 18008
+D3
+You look west and see the south side of the giants' steading.
+~
+~
+0 0 18018
+S
+#18010
+Steading Entrance~
+   The road turns west against the log wall of the giant's palisade and
+comes to a huge door right against the side of the wall.  The door is
+framed by a lintel, giving it an A-shape to duck off water and snow, and
+above the door and back a ways is a roofed tower where giant guards can
+watch over the entrance.  All is still and quiet.
+   West is the door into the steading and south is a road.  North the 
+vale continues around to the east side of the steading.
+~
+180 4 2
+D0
+You look north and see the long log wall of the steading, and a gate.
+~
+~
+0 0 18011
+D2
+You look south down the road that leads back to the vale.
+~
+~
+0 0 18009
+D3
+~
+lintelled door~
+2 18003 18014
+S
+#18011
+The giants vale~
+   You stand in a grassy vale, just east of a huge log palisade.  On this
+side you see only a blank wall of logs running north-south and feel quietly
+thankful that no defenders can see you.  Just west you see a kind of log
+gate, and south you see the corner turn to a road into the steading.
+Beyond the gate to your west, you think you see a courtyard, but it might
+be very dangerous to go in that way.  All around you are stands of pine,
+rolling hills, and beyond the hills, the mountain sides of the vale.
+It's beautiful here, but very dangerous for you fear that at any moment,
+a giant might wander out.
+~
+180 0 2
+D0
+You look north and see a vale and the northeast corner of the steading.
+~
+~
+0 0 18012
+D2
+You look south and see a road that leads to the front door of the steading.
+~
+~
+0 0 18010
+D3
+~
+log gate~
+1 0 18056
+S
+#18012
+The giants vale~
+   You stand at the northeast corner of an enormous wooden palisade.  To
+the south you see the east side of it, a long log wall.  Just south, there
+is a log gate that would open up into a kind of courtyard.  Looking west,
+you see a similar gate in the middle of the north wall.  Past that, you see
+the other corner of the palisade; it's dimensions are enormous!  Around you
+is a beautiful mountain meadow that over distance becomes rolling hills,
+stands of pine, and granite peaks.
+~
+180 0 2
+D2
+You look south and see the east side of the log palisade.
+~
+~
+0 0 18011
+D3
+You look west and see the north side of the giants' steading.
+~
+~
+0 0 18013
+S
+#18013
+The giants vale~
+   You stand just north of the giants steading.  Here, just south of you,
+is a wooden gate into a kind of courtyard.  On the northeast and northwest
+corners, inside the palisade, are huge buildings.  On the southeast corner
+though is an enormous greathouse and entrance tower.  Looking east and west
+you can see the northern corners of the steading and gauge it's size - huge.
+All around you is a beautiful mountain meadow, with rolling hills, and stands
+of pine.
+~
+180 0 2
+D1
+You look east and see the northeast corner of the steading.
+~
+~
+0 0 18012
+D2
+~
+log gate~
+1 0 18017
+S
+#18014
+Entrance Hall~
+   The entry hall is bare with a dirt floor. The interior of the log palisade
+is about as clean as you could expect, and everything is scaled for giants.
+Huge pegs high up on the walls hold bags and skins. The floor shows the muddy
+tramp of many scores of giants. A wooden stair leads up to some sort of upper
+lookout and a set of wide double doors leads to a bigger chamber.
+~
+180 8 0
+D0
+~
+double doors~
+1 0 18016
+D1
+~
+lintelled door~
+2 18003 18010
+D4
+~
+~
+0 0 18015
+D9
+~
+door~
+1 0 18049
+S
+#18015
+Lookout~
+   From here out of the slits you can see the vale of the giants. This covered
+tower has quite a good commanding view of the door and around the side of the 
+giants fort. From here you can look up and see that north the roof peaks over
+what must be a main hall or thronghall. A set of stairs leads back down to
+the entry hall.
+~
+180 0 0
+D5
+~
+~
+0 0 18014
+S
+#18016
+Long Hall~
+   This great room has a huge ceiling, high and somewhat obscured by smoke
+from great fires. The hall is dim but in the gloom of the hall you can make
+out the great rafters. On the walls hang torches that sputter orange and make
+as much shadows as light. Still, ahead you can see a great room where the
+giants feast. To the west you see a set of great doors to a side room, and
+south a set of double doors into this long hall.
+~
+180 8 0
+D0
+~
+~
+0 0 18020
+D2
+~
+double doors~
+1 0 18014
+D3
+~
+padlocked door~
+2 0 18019
+S
+#18017
+Courtyard~
+   The open compound is dusty and reeks of dogdroppings and urine. The
+compound is so hugely large that its like a parade ground. It makes an ell,
+extending south and east to another set of log gates. The courtyard is
+enclosed by the buildings of the giants fort. You see a huge door to the
+west.
+~
+180 0 0
+D0
+~
+log gate~
+1 0 18013
+D2
+~
+~
+0 0 18055
+D3
+~
+huge door~
+1 0 18053
+S
+#18018
+The giants vale~
+   You stand in the shadow of the giants' steading's tower.  Here you can
+be easily watched by defenders of the huge log steading to your north. 
+East just a ways a road leads up to a front entrance into the place, and
+west you see the vale continue around to the other corner of the log
+palisade.  The entire scale of the place is enormous!  All around you 
+is an incredible mountain meadow that over distance becomes rolling hills
+and farther off, pine-dotted hillsides, and farther, granite peaks.
+~
+180 0 2
+D1
+You look east and see the front entrance into the giants' steading.
+~
+~
+0 0 18009
+S
+#18019
+Weapons room~
+   You see an good-sized room, outfitted with an assortment of spears, shields
+and clubs. The walls are covered with pegs and racks to hold the giants motley
+collection of arms.
+~
+180 8 0
+D0
+~
+~
+0 0 18050
+D1
+~
+padlocked door~
+2 0 18016
+S
+#18020
+Great hall~
+   You come into the great hall of the giants. The hall contains all manner
+of trestle tables, stools, benches and decorations. In a fire pit in the center
+of the room roasts a whole ox, two sheep and four pigs. All of the tables are
+loaded with food and servants bring more. The hall is of immense proportions,
+with a ceiling that goes high, high overhead. Columns show banners attesting
+to the great giants martial skill, heritage, and wealth.
+~
+180 8 0
+D1
+~
+double doors~
+1 0 18022
+D2
+~
+~
+0 0 18016
+D3
+~
+double doors~
+1 0 18039
+D5
+~
+~
+0 0 18021
+S
+#18021
+Fire pit~
+   You leap down into the pit of hot coals!!! Your skin ignites from the sudden
+heat and your eyes go black! The sudden pain is immense and you feel your body
+land on suddenly cold coals.... you feel your body turn to a foetal curl and
+enter the long night...
+~
+180 2 0
+D4
+~
+~
+0 0 18020
+S
+#18022
+Wide hallway~
+   You stand in a wide and tall giant's hallway. West are a set of double doors
+to a central room, north the hall turns up and around, east the hall opens into
+some kind of great room through an archway, and south is a single door.
+~
+180 8 0
+D0
+~
+~
+0 0 18026
+D1
+~
+~
+0 0 18023
+D2
+~
+single door~
+1 0 18031
+D3
+~
+double doors~
+1 0 18020
+S
+#18023
+Hall of the chief~
+   Walking into the room, the first thing that catches your eye are the
+gruesome hunting trophies that circle the walls... the stuffed heads of dwarves
+humans and various monsters. A great fireplace, big enough for a man to stand
+in, dominates the east wall. The shields of great knights slain by giants
+decorate the opposite wall. All about the room are nice chairs and on the
+tables are dirty dishes.
+~
+180 8 0
+D0
+~
+~
+0 0 18025
+D2
+~
+~
+0 0 18024
+D3
+~
+~
+0 0 18022
+S
+#18024
+Chamber of the chief's wife~
+   In this plain room is only a bed, a table, some chairs. You would have
+thought that the wife of a chief would live better but you suppose not.
+~
+180 8 0
+D0
+~
+~
+0 0 18023
+S
+#18025
+Chief's chamber~
+   This room is hung with rugs and skins, even the floor is carpeted in furs.
+A bed, some chairs, a dresser, common furnishings all, but the rank smell in
+here is truly disgusting. A chain with a huge neck collar is set into one
+wall.
+~
+180 8 0
+D2
+~
+~
+0 0 18023
+S
+#18026
+Wide hallway~
+   The hallway runs north then turns back west to a set of double doors. 
+Perhaps leading off to a room close to the central hall of the palisade.
+The hall runs west and south. The hall is a lot darker than the better-lit
+hall south.
+~
+180 9 0
+D0
+~
+door~
+1 0 18056
+D2
+~
+~
+0 0 18022
+D3
+~
+~
+0 0 18029
+S
+#18027
+A hillside stand of pines~
+   You stand in a hillside stand of pines.  You can see an obscure trail
+heading down to the west, and east behind some brush you think you see a
+cave...  Here in the pines the air is cool and fresh, and all around you
+you see the high granite peaks of the Dragonspine mountains.  Rolling
+hills, sparkling brooks, and mountain meadows.
+~
+180 0 4
+D1
+You look east and think you see a safe, forgotten cave.
+~
+~
+0 0 18028
+D3
+You look west down the trail and see a mountain vale.
+~
+~
+0 0 18009
+S
+#18028
+A safe cave~
+   You come into a low-ceilinged cave.  Outside you see a stand of pines,
+and through the trees you can see the log palisade of the hill giants.
+You feel certain though that here would be a safe place to rest.  The cave
+doesnt go very far back, but is spacious and comfortable, and on the ground
+you can see a black spot where others before you have cooked and camped 
+here in safety.
+~
+180 13 0
+D3
+You look west out of the cave and see a stand of pine trees.
+~
+~
+0 0 18027
+S
+#18029
+Small dining room~
+   A council room, where the chief and planners get together to hatch plots.
+A table, shelves, tables and chairs. A fireplace and other fairly normal
+furnishings are spread about the room. On one wall hangs a manticore skin.
+~
+180 8 0
+D1
+~
+~
+0 0 18026
+D3
+~
+manticore skin~
+1 0 18030
+S
+#18030
+Secret stair~
+   A secret stair leads down into the gloom... here at the upper level of the
+palisade from behind a kind of hanging skin the stairs are not as well
+concealed as they could be, careless giants.
+~
+180 9 0
+D1
+~
+manticore skin~
+1 0 18029
+D5
+~
+~
+0 0 18094
+S
+#18031
+Hallway~
+   This thinner-than-usual access hallway is quite narrow and poorly lit.
+The giants must carry torches when they head down these or something..?
+Looking north the hall ends in a door, south the hall continues, and just
+west is a common-looking but huge door.
+~
+180 8 0
+D0
+~
+single door~
+1 0 18022
+D2
+~
+~
+0 0 18033
+D3
+~
+huge door~
+1 0 18032
+S
+#18032
+Maid's chamber~
+   Giantesses live here, clearly because of the huge scale of all the 
+furnishings and the feminine touches that they leave about the room. Carefully
+made beds, partly done and overscale knitting, pretty painted bird stampings
+on carefully limed walls and so on. Small lamps gently light the room with
+a pleasant glow and the soft smell of potpourri wafts through the room.
+~
+180 8 0
+D1
+~
+huge door~
+1 0 18031
+S
+#18033
+Hallway~
+   South the hallway makes a bend, but here the hallway runs north-south.
+It's fairly dark, but also a rather slim hall for giants. Looking west you 
+see a great door and hear gruff laughter beyond.
+~
+180 8 0
+D0
+~
+~
+0 0 18031
+D2
+~
+~
+0 0 18035
+D3
+~
+great door~
+1 0 18034
+S
+#18034
+Dormitory~
+   Giant children play and cavort, sleep and romp in this more-to-human scale
+room. The beds and furnishings actually look normal! Giant-sized hobby horses
+bigger than a man and big blocks with letters huge as a mans head lie strewn
+about in a big mess of toys.
+~
+180 8 0
+D1
+~
+great door~
+1 0 18033
+S
+#18035
+Hallway~
+   The hall turns west and bends north from here. A simple door leads south.
+The hall is oddly dark.
+~
+180 8 0
+D0
+~
+~
+0 0 18033
+D2
+~
+simple door~
+1 0 18036
+D3
+~
+~
+0 0 18037
+S
+#18036
+Barracks~
+   Clearly the room where grown giant men sleep, the funishings and the smell
+of sweat fill your nostrils. Clothes and gear are pegged high on the walls
+where a pair of smouldering torches give bad lighting to a dim dank room.
+The fireplace is cold; the giants never tend them.
+~
+180 8 0
+D0
+~
+simple door~
+1 0 18035
+S
+#18037
+Hallway~
+   The hall is rather thin and dark for giants.. a door leads south and
+the hall runs back east.
+~
+180 8 0
+D1
+~
+~
+0 0 18035
+D2
+~
+door~
+1 0 18038
+S
+#18038
+Sub-chief's room~
+   This place contains a scattering of furnishings; hides on the floors,
+a bear skin on the wall, a chair, a stool, a huge chest, and a vast bed
+covered in furs. High up on a shelf are various knick-knacks.
+~
+180 8 0
+D0
+~
+door~
+1 0 18037
+S
+#18039
+Great hallway~
+   This long hallway runs a great distance north and south. East are a set of
+double doors into the great hall and west through an arch is what looks to be
+a well-furnished side room.
+~
+180 8 0
+D0
+~
+~
+0 0 18051
+D1
+~
+double doors~
+1 0 18020
+D2
+~
+~
+0 0 18049
+D3
+~
+~
+0 0 18040
+S
+#18040
+Kitchen~
+   This is a typical giant kitchen with counters along the walls,
+several tables, benches, a stool or two, and various items for cooking
+and backing. You see pots, kettles, knives, forks, spoons, ladles, spits
+and so forth. A big table occupies the center. A huge stove big as a 
+wagon takes a whole corner.
+~
+180 8 0
+D0
+~
+~
+0 0 18041
+D1
+~
+~
+0 0 18039
+D2
+~
+~
+0 0 18044
+S
+#18041
+Kitchen workroom~
+   This room looks like a storage area and an eating place for the
+servants. Three huge tables take up the floorspace. A long counter,
+sacks, boxes, barrels, and shelves take up all the space in this 
+cluttered room.
+~
+180 8 0
+D1
+~
+door~
+1 0 18051
+D2
+~
+~
+0 0 18040
+D5
+~
+floor panel~
+1 0 18042
+S
+#18042
+Dark stairs~
+  The stairs lead down to an inky darkness.. to an underground complex
+of caves and rooms below the steading.
+~
+180 9 0
+D4
+~
+ceiling panel~
+1 0 18041
+D5
+~
+~
+0 0 18043
+S
+#18043
+Marshalling area~
+   The large room is of grand size and square. Dark rock, worn by the 
+passing of many feet, leads off into darkness. Benches have been pushed
+up against the walls to sit on and sputtering torches gutter weakly above
+them. Passages of all sorts exit from this roughhewn place. A set of 
+stairs leads up.
+~
+180 8 0
+D0
+~
+~
+0 0 18087
+D1
+~
+~
+0 0 18060
+D2
+~
+~
+0 0 18069
+D4
+~
+~
+0 0 18042
+S
+#18044
+Hallway~
+   To the north is an arch into what looks like a kitchen and east and
+west are common rooms for giants. To the south the hallway ells at an
+ornate door.
+~
+180 8 0
+D0
+~
+~
+0 0 18040
+D1
+~
+~
+0 0 18046
+D2
+~
+~
+0 0 18047
+D3
+~
+~
+0 0 18045
+S
+#18045
+Common room~
+   The common room is rude, just a noisome place for giants to sleep and
+live. Filled with cots, boxes, stools and worthless odds and ends, the 
+average giant doesn't live all that well.
+~
+180 8 0
+D1
+~
+~
+0 0 18044
+S
+#18046
+Common room~
+   The common room is rude, just a noisome place for giants to sleep and
+live. Filled with cots, boxes, stools and worthless odds and ends, the 
+average giant doesn't live all that well.
+~
+180 8 0
+D3
+~
+~
+0 0 18044
+S
+#18047
+Hallway~
+   The hallway ells, running north towards another hall that has some
+kind of broad arch at the end, and a pair of doors. To the south is an
+ornately carved door, must be a special room on the other side...
+~
+180 8 0
+D0
+~
+~
+0 0 18044
+D1
+~
+~
+0 0 18049
+D2
+~
+ornate door~
+1 0 18048
+S
+#18048
+Main guest chamber~
+   These ornately carved and decorated chambers look like some kind of
+guest room. The furnishings are of really good quality and giant-sized.
+Various skins and hides cover the walls and floors, and giant sized
+garments hang on pegs. A huge huge bed takes the center of the room.
+~
+180 8 0
+D0
+~
+ornate door~
+1 0 18047
+S
+#18049
+Hallway~
+   The hallway continues north to a greater hall, but also cuts west to
+a side hallway. To the south the hallway is narrow, but seems to lead
+back to the front entrance to the steading. Guttering torchlight high on 
+the walls leaves you in shadows.
+~
+180 8 0
+D0
+~
+~
+0 0 18039
+D1
+~
+padlocked door~
+2 0 18050
+D3
+~
+~
+0 0 18047
+D7
+~
+door~
+1 0 18014
+S
+#18050
+Arsenal~
+   This room is filled with racks to hold giant sized weapons. To the 
+giants this huge room must be like a closet.  The weapons are arranged
+around the walls, a rack on each.
+~
+180 8 0
+D2
+~
+~
+0 0 18019
+D3
+~
+padlocked door~
+2 0 18049
+S
+#18051
+Great hallway~
+   The great hallway runs north and south next to the great hall. These
+side halls are sure darker than most places. The torches sputter and give
+off as much shadows as light. These passages are also kind of small for
+a giant; huge for most people obviously.
+~
+180 8 0
+D0
+~
+big door~
+1 0 18053
+D1
+~
+door~
+1 0 18052
+D2
+~
+~
+0 0 18039
+D3
+~
+door~
+1 0 18041
+S
+#18052
+Ogre quarters~
+   The room is filled with heaps of skins and trash. Cast off clothing,
+beat up shields and armor, easy-care maces that never need sharpening,
+and the like clutter up the floor.
+~
+180 8 0
+D3
+~
+door~
+1 0 18051
+S
+#18053
+Servants quarters~
+   This large common room has various sizes of cots, tables, chairs,
+stools, and the like. It is cluttered with old clothing and junk. It
+looks like a fairly plain room. It has a large fireplace in the north
+wall that looks big enough to stand in. A pile of unsplit logs makes
+for giant sized fires on cold nights.
+~
+180 8 0
+D1
+~
+huge door~
+1 0 18017
+D2
+~
+big door~
+1 0 18051
+D3
+~
+crude wooden door~
+1 0 18054
+S
+#18054
+Orc slave quarters~
+   This hall is a messy and smelly place filled with pallets and junk.
+The pallets are nothing but rude wooden slats covered with hay and blankets.
+Black stains and noxious puddles make you ponder the treatment orcs get
+at the hands of giants. A crude wooden lock normally bars the door.
+~
+180 8 0
+D1
+~
+crude wooden door~
+1 0 18053
+S
+#18055
+Courtyard~
+   The open compound is dusty and reeks of dogdroppings and urine. The
+compound is so hugely large that its like a parade ground. It makes an ell,
+extending east and north to huge log gates. The courtyard is enclosed by
+a high log wall. To the south is the large log great hall.
+~
+180 0 0
+D0
+~
+~
+0 0 18017
+D1
+~
+~
+0 0 18056
+S
+#18056
+Courtyard~
+   The open compound is dusty and reeks of dogdroppings and urine. The 
+compound is so hugely large that its like a parade ground. Extending
+east and then making an ell to the north, the courtyard bends around
+a guard tower to the north. The courtyard is completely enclosed by a high
+log wall.
+~
+180 0 0
+D0
+~
+~
+0 0 18057
+D1
+~
+log gate~
+1 0 18011
+D2
+~
+door~
+1 0 18026
+D3
+~
+~
+0 0 18055
+S
+#18057
+Guard room~
+   The guard room looks fairly spacious, but it must be a little cramped
+for giants. The huge beds and huge fireplaces make you feel kind of small.
+Everything is perfect for giants though. From slits in the log walls they
+can look out and make sure no one attacks their fort.
+~
+180 12 0
+D0
+~
+~
+0 0 18058
+D2
+~
+~
+0 0 18056
+S
+#18058
+Barracks~
+   This barracks room is fairly plain, just filled with beds and chests
+and stools to sit on, and other miscellaneous junk. There are a few hides
+on the walls and floors and some broken weapons and helmets. It looks
+deserted though.
+~
+180 8 0
+D2
+~
+~
+0 0 18057
+D3
+~
+~
+0 0 18059
+S
+#18059
+Sergeants barracks~
+   This looks like the private room of a rather more important that your
+average giants room. Just one bed in here, and a dresser and other suchlike
+stuff. Nothing amazingly interesting, and all pretty crude, but still, this
+must be the room of an important giant.
+~
+180 8 0
+D1
+~
+~
+0 0 18058
+S
+#18060
+Dank underground hall~
+   The dank hall is so badly lit, yet faintly by other galleries. Here
+in the gloom you can make out that it continues east, but has a kind of
+cell door to the south. To the north you see a door stained purple with
+some kind of ichor.
+~
+180 8 0
+D0
+~
+purple door~
+1 0 18061
+D1
+~
+~
+0 0 18090
+D2
+~
+cell door~
+1 0 18062
+D3
+~
+~
+0 0 18043
+S
+#18061
+Chamber of the Keeper~
+   This room smells ghastly! Its so awful inside, dang you cannot believe
+the mess in here too. The light is all that a pale candle can give.
+Somewhere in the dark here could be almost anything.
+What is that smell???
+~
+180 8 0
+D2
+~
+purple door~
+1 0 18060
+S
+#18062
+Cell block hall~
+   The cell hall runs north-south. You count five cells in all, each with
+a barred window to look in to the cell. The cell doors look sturdy. The
+cells smell of urine and sweat. All is dark back here. No comforts for
+prisoners seems to be the rule.
+~
+180 8 0
+D0
+~
+cell door~
+1 0 18060
+D1
+~
+cell door~
+1 0 18063
+D2
+~
+~
+0 0 18065
+D3
+~
+cell door~
+1 0 18064
+S
+#18063
+Cell one~
+   The cell is rude, a stone cold cell with a straw covered floor.
+~
+180 8 0
+D3
+~
+cell door~
+1 0 18062
+S
+#18064
+Cell five~
+   The cell is rude, a stone cold cell with a straw covered floor.
+~
+180 8 0
+D1
+~
+cell door~
+1 0 18062
+S
+#18065
+Cell block hall~
+   The cell hall runs north-south. You count five cells in all, each with
+a barred window to look in to the cell. The cell doors look sturdy. The
+cells smell of urine and sweat. All is dark back here. No comforts for
+prisoners seems to be the rule.
+~
+180 8 0
+D0
+~
+~
+0 0 18062
+D1
+~
+cell door~
+1 0 18066
+D2
+~
+cell door~
+1 0 18068
+D3
+~
+cell door~
+1 0 18067
+S
+#18066
+Cell two~
+   The cell is rude, a stone cold cell with a straw covered floor.
+~
+180 8 0
+D3
+~
+cell door~
+1 0 18065
+S
+#18067
+Cell four~
+   The cell is rude, a stone cold cell with a straw covered floor.
+~
+180 8 0
+D1
+~
+cell door~
+1 0 18065
+S
+#18068
+Cell three~
+   The cell is rude, a stone cold cell with a straw covered floor.
+~
+180 8 0
+D0
+~
+cell door~
+1 0 18065
+S
+#18069
+Rockhewn way~
+   The rockhewn way is really rudely made. Probably carved out by tunnelers
+with skill but not an eye for details. Orcs? Perhaps. Certainly this is 
+not the work of skilled dwarves. The rockhewn way is wide, even for giants,
+and off the the east you see a narrow way for something that probably is
+tallish but not giant sized. The rockhewn way runs south though, wide and
+broad deeper into the underground warrens of this place.
+~
+180 8 0
+D0
+~
+~
+0 0 18043
+D1
+~
+~
+0 0 18070
+D2
+~
+~
+0 0 18075
+S
+#18070
+Bugbear passage~
+   Here the rockhewn way cuts a squarish passage into a noisome den. This
+looks like the living quarters of bugbears and this must be the entrance.
+In typical bugbear style, intruders are warned off by the trophy heads and
+skulls the bugbears have mounted on sconces. The rockhewn way here is
+narrow and goes east into a ruddy darkness.
+~
+180 8 0
+D1
+~
+~
+0 0 18071
+D3
+~
+~
+0 0 18069
+S
+#18071
+Dingy mainchamber~
+   You stand in the roughly circular mainchamber. The bugbears arent known
+as diggers of caves, this was probably made by orcs. It's a bugbear lair
+now though. The floor here in the mainchamber is covered with refuse and
+cast-off junk. Bugbears aren't very tidy.
+~
+180 8 0
+D0
+~
+~
+0 0 18072
+D1
+~
+~
+0 0 18073
+D2
+~
+~
+0 0 18074
+D3
+~
+~
+0 0 18070
+S
+#18072
+Bugbear barracks~
+   These bugbear barracks are for the tougher veteran bugbears, not the 
+wuss bugbears who merely bully orcs around. Pallets are spread out around
+the floor, but a few have noxious blankets to sleep on.
+~
+180 8 0
+D2
+~
+~
+0 0 18071
+S
+#18073
+Chamber of the bugbear captain~
+   You come into the relatively spacious rooms of the bugbear captain.
+This bugbear takes things much more seriously than his brethren. He is
+clean and neat which is unusual for a bugbear. His equipment is neatly
+arrayed about the room and all polished and ready. On the wall you see
+sharp weapons at the ready.
+~
+180 8 0
+D3
+~
+~
+0 0 18071
+S
+#18074
+Bugbear barracks~
+   These quarters are for the even more elite bugbears who bully the 
+veteran bugbears around. The veterans spend their days wrestling and
+fighting over who might get to be chief next. It looks too like these
+bugbears train for fighting more than their compatriots. You see some
+practicing gear they use.
+~
+180 8 0
+D0
+~
+~
+0 0 18071
+S
+#18075
+Rockhewn way~
+   The rockhewn way realy tees north east and west from here, but the 
+east way is choked off by rubble as far as you can tell. It seems that
+the easy way has been barricaded by a kind of crude rock wall.
+~
+180 8 0
+D0
+~
+~
+0 0 18069
+D1
+~
+~
+0 0 18081
+D2
+~
+pegged door~
+1 0 18076
+D3
+~
+~
+0 0 18077
+S
+#18076
+Slaves quarters~
+   This room seems to be for orc slaves. A large room, with plenty of
+space for a work gang of orcs to rest up in. The room has some benches
+to sleep on and some moldy straw for beds.
+~
+180 8 0
+D0
+~
+pegged door~
+1 0 18075
+S
+#18077
+Rockhewn way~
+   The rockhewn way splits into different directions.. There seems to
+be some kind of cell area or something to the north, and larger rooms
+west and south. The hall goes back east to the tee.
+~
+180 8 0
+D0
+~
+barred door~
+1 0 18080
+D1
+~
+~
+0 0 18075
+D2
+~
+~
+0 0 18078
+D3
+~
+~
+0 0 18079
+S
+#18078
+Armory and smithy~
+   Piled here are giant stacks of arms and armor, all in need of repair.
+A forge and bellows and anvils and tools are ready to be used to fix 
+things, but with the giants never-ending battle, but pile of weapons
+needing fixing is always large. All kinds of bent spears, swords, dinged
+helmets, rumpled shields are piled up next to the forges.
+~
+180 8 0
+D0
+~
+~
+0 0 18077
+S
+#18079
+Torture chamber~
+   This room contains various implements for torturing prisoners large and
+small. There is an iron maiden, racks, thumbscrews, iron boots, chains,
+whips, branding irons, strapadoes, and more wicked things. A fire in the
+center of the room gives the place a hellish light.
+~
+180 8 0
+D1
+~
+~
+0 0 18077
+S
+#18080
+Slaves quarters~
+   These look like very bad rooms; unlit, with rotten straw and a very foul
+odor. You feel sorry for any creatures that live here.
+~
+180 8 0
+D2
+~
+barred door~
+1 0 18077
+S
+#18081
+Rubble-strewn hall~
+   A crude rock wall has been constructed here, seemingly to separate
+this section from the rest of the underground area. Very strange. The
+rough hewn wall area starts to meet up with original natural caves
+that didn't need to be cleared into galleries. The rockhewn section
+though might have started as a fissure to one of the galleries and then
+widened, which would make sense.
+~
+180 8 0
+D1
+~
+~
+0 0 18085
+D2
+~
+~
+0 0 18082
+D3
+~
+~
+0 0 18075
+S
+#18082
+Checkpoint~
+   A crude checkpoint has been constructed here as a kind of lookout or
+dedoubt against attack. Very strange that someone would build this here
+in an underground cave.
+~
+180 8 0
+D0
+~
+~
+0 0 18081
+D1
+~
+~
+0 0 18084
+D3
+~
+~
+0 0 18083
+S
+#18083
+Wierd abandoned temple~
+   This room is of faintly glowing purplish-green stone, which has been
+carved with disturbing shapes and signs which seem to stare out from the
+walls and columns, to shift position when you look away. At the far west
+end of the room is an altar of pale yellow-grey translucent stone.
+Behind it is some kind of alcove....
+~
+180 8 0
+D1
+~
+~
+0 0 18082
+S
+#18084
+Natural cavern~
+   This natural cavern seems to be in more or less pristine condition.
+It's floor is so jumbled and pitted and fissured that probably not
+even troglodytes would live here.
+~
+180 8 0
+D0
+~
+~
+0 0 18085
+D3
+~
+~
+0 0 18082
+S
+#18085
+Troglodyte cavern~
+   The north end of the great cavern is home to giant lizards that the
+lizardmen probably worship or hold in revere. The cave again is a large
+natural one, and rich in some kind of fungus which the lizards feed on.
+~
+180 8 0
+D0
+~
+~
+0 0 18086
+D2
+~
+~
+0 0 18084
+D3
+~
+~
+0 0 18081
+D5
+~
+~
+0 0 18098
+S
+#18086
+Lizards lair~
+   The north end of the great cavern is home to giant lizards that the
+lizardmen probably worship or hold in revere. The cave again is a large
+natural one, and rich in some kind of fungus which the lizards feed on.
+~
+180 8 0
+D2
+~
+~
+0 0 18085
+S
+#18087
+Hallway~
+   The hall is wide, wide for giants even. It looks recently cleared too;
+fresh marks from workmens tools show on the wall. There's no decoration
+yet, but there probably will be, the stone looks like its being prepared
+for some. You see some outlines like this might have some real importance
+in the giants future plans.
+~
+180 8 0
+D0
+~
+~
+0 0 18088
+D2
+~
+~
+0 0 18043
+D3
+~
+~
+0 0 18089
+S
+#18088
+Gallery under clearance~
+   Here you see the beginnings of a new gallery being tunnelled right out
+of the living rock. It looks like the stone giants work by boring holes
+in the rock, setting fires on the face, and then quenching the stone.
+Puddles of water, torn up rock, and a newly drilled and partly worked rock
+face give testament to their labors.
+~
+180 8 0
+D2
+~
+~
+0 0 18087
+S
+#18089
+Stone giants quarters~
+  Here the master masons, the stone giants, take residence. It is they
+who've been tunneling out the new galleries here under the steading.
+The room has a few beds and simple furnishings.
+~
+180 8 0
+D1
+~
+~
+0 0 18087
+S
+#18090
+Dank underground hall~
+   The dank hall is filled with rubble, like there has been recent
+earthquakes and only recently cleared. You shudder to think what might
+happen if you were trapped down here. The walls look so stong and fissure
+free. You wonder why the rubble is really here.
+~
+180 8 0
+D0
+~
+~
+0 0 18091
+D3
+~
+~
+0 0 18060
+D9
+~
+~
+0 0 18092
+S
+#18091
+Cistern~
+   This well-like passage is filled with a deep pool of blackish water
+that looks cool and maybe safe to drink. It looks like the pool is fed
+by natural springs that come in through fissures in the west wall. The
+pool sure looks deep.
+~
+180 8 0
+D2
+~
+~
+0 0 18090
+S
+#18092
+Storage room~
+   This room is filled with tools for digging, water in barrels, crates,
+and working gear. Its really packed with mostly useless things. Useful 
+though if you work with stone.
+~
+180 8 0
+D3
+~
+~
+0 0 18093
+D7
+~
+~
+0 0 18090
+S
+#18093
+Wine cellar~
+   This earthy storage room is filled with tuns, casks, kegs and bottles.
+The celler is just huge. Some of the barrels look like they've been moved
+recently so that some larger tuns could find space. The giants seem to be
+either getting wine as gifts or in large quantities.
+~
+180 8 0
+D1
+~
+~
+0 0 18092
+S
+#18094
+Empty Chamber~
+   You are standing inside a dummy room, which should get real.
+~
+180 0 0
+D1
+~
+~
+0 0 18095
+D2
+~
+~
+0 0 18096
+D4
+~
+~
+0 0 18030
+S
+#18095
+Chiefs treasure room~
+   You are standing inside a dummy room, which should get real.
+~
+180 0 0
+D3
+~
+~
+0 0 18094
+S
+#18096
+Prison~
+   You are standing inside a dummy room, which should get real.
+~
+180 0 0
+D0
+~
+~
+0 0 18094
+D1
+~
+~
+0 0 18097
+S
+#18097
+Treasure room~
+   You are standing inside a dummy room, which should get real.
+~
+180 0 0
+D3
+~
+~
+0 0 18096
+S
+#18098
+Underground river~
+   Its not too late to climb back out, but the rusing water certainly
+could take you away to the north and underground darkness at any moment!!
+~
+180 9 6
+D0
+~
+~
+0 0 18099
+D4
+~
+~
+0 0 18085
+S
+#18099
+Cavern of the carrion crawlers~
+   You stand in a stinky dark chamber.  Only a few feet high and strewn
+with the remains of carrion crawler repasts, the cave is difficult to move
+about in.  You hear a gurgling rush of swift-flowing water and see a wierd
+glint of crystal on the wall.  The smell in this chamber is close and awful.
+~
+180 8 0
+D2
+~
+~
+0 0 18098
+S
+#99999
+$~

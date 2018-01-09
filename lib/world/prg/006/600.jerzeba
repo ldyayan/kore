@@ -1,0 +1,60 @@
+>rand_prog 4~
+  if inroom($r) == here
+    if isaffected($r, poison)
+      cast 'remove poison' $r
+      break
+    else
+      if clan($r) == Coven
+        if hitprcnt($r) < 100
+          mpechoat $r $I pulls something out of her pocket and flings it at you.
+          mpechoat $r Blackish flames engulf your body.
+          mpechoaround $r Black flames engulf $R's body after $I throws something at $K.
+          mpsilent mpcallmagic 'cure critic' $r
+          mpsilent mpcallmagic 'cure critic' $r
+          mpechoat $r You feel much better!
+          mpechoaround $r $R looks much better!
+          break
+        endif
+      else
+        if rand(80)
+          mpremember $r
+          if clanlevel($r) == leader
+            if rand(30)
+              say You are far from home, $R. I suggest you leave before you are removed.
+            endif
+          else
+            if rand(40)
+              glare $r 
+              say What do you think you're doing in these caverns? You don't belong here!
+              say Now scat, you fool!
+            endif
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>rand_prog 6~
+  if inroom($r) == here
+    if rand(80)
+      if ismemory($r)
+        say Just can't take a hint, can you?
+        say I'll help you find your way out!
+        cast 'slow' $r
+        cast 'blind' $r
+        cast 'word of recall' $r
+        mpforget $r
+      else
+        if rand(2)
+          mpecho $I barks a word in a gruff but very feminine voice.
+          if rand(50)
+            mpecho The waters of the cauldron gurgle putridly and spill over the edge.
+          else
+            mpecho The waters of the cauldron hiss and boil as if something were being cooked within.
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+|

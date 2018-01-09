@@ -1,0 +1,11 @@
+>rand_prog 10~
+  if isfight($r)
+  else
+   mpgoto cleaner
+endif
+~
+
+>death_prog 20~
+ mpoload 6826
+~
+|

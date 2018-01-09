@@ -1,0 +1,158 @@
+#18601
+rusty sword~
+a rusty sword~
+A rusty sword is lying here forgotten.~
+~
+5 0 8193
+0 1 5 3
+4 0 0
+A
+19 1
+#18602
+tattered leather jerkin~
+a tattered leather jerkin~
+A tattered leather jerkin is lying here discarded.~
+~
+9 0 9
+4 0 0 0
+4 0 0
+E
+tattered leather jerkin~
+   A tattered leather jerkin.
+~
+#18603
+battered half helmet~
+a battered half helmet~
+A battered half helmet has been tossed here.~
+~
+9 0 17
+3 0 0 0
+4 0 0
+E
+battered half helmet~
+  A battered half helmet.
+~
+#18604
+dark tattered cloak~
+a dark tattered cloak~
+A dark tattered cloak has been left here in a heap.~
+~
+9 0 1025
+1 0 0 0
+2 10 0
+#18605
+signet ring~
+a signet ring~
+A signet ring is lying in the dust here.~
+~
+9 64 3
+0 0 0 0
+1 75 0
+E
+signet~
+You look at the signet on the ring: its carved out in the shape of a dragon
+curling and spouting fire.  Stylized arrows are being buffeted aside by its
+wings while the dragon claws the air.
+~
+A
+17 -2
+#18606
+rusty dagger~
+a rusty dagger~
+A rusty dagger is lying here forgotten.~
+~
+5 0 24577
+0 1 4 11
+1 0 0
+#18607
+spiked leather collar~
+a spiked leather collar~
+A spiked leather collar has been left here.~
+~
+9 0 5
+1 0 0 0
+1 0 0
+#18608
+thick iron key~
+a thick iron key~
+A thick iron key has been dropped here.~
+~
+18 4 1
+1 0 0 0
+1 0 0
+#18609
+uncanny stone~
+an uncanny stone~
+You see a greyish stone, with an odd rune on it, here in the dust.~
+~
+1 65 16385
+0 0 -1 0
+2 500 0
+A
+24 -1
+A
+12 15
+#18610
+horns horn minotaur~
+the horns of the Minotaur~
+The horns of the great Minotaur lie here.~
+~
+9 0 17
+5 0 0 0
+8 100 0
+A
+1 1
+#18611
+hide skin~
+the smelly hide of the Minotaur~
+The hide of the great Minotaur is lying here.~
+~
+9 0 1033
+6 0 0 0
+6 25 0
+A
+13 5
+#18612
+tattered leather leggings~
+a pair of tattered leather leggings~
+A pair of tattered leather leggings have been left here.~
+~
+9 0 33
+4 0 0 0
+4 25 0
+#18613
+tattered leather sleeves~
+a pair of tattered leather sleeves~
+A pair of tattered leather sleeves have been left here.~
+~
+9 0 257
+4 0 0 0
+3 50 0
+#18614
+simple club~
+a simple club~
+A simple club has been left here.~
+~
+5 0 8193
+0 1 6 5
+8 75 0
+#18615
+statue golem stone guard~
+the stone golem~
+A statue is here standing mute guard over the room.~
+~
+13 64 1
+0 0 0 0
+99999 0 0
+E
+statue golem stone guard~
+You look very closely at the cracked grey stone of the statue...
+The ring is a double circle enclosing a rune that has a straight back and
+two branches going up and to the right, like so:
+                              | / /
+                              |/_/
+                              |
+                              |
+~
+#99999
+$~

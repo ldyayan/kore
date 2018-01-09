@@ -1,0 +1,24 @@
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+    if isimmort($n)
+    else
+      kill $n
+    endif
+  endif
+~
+>rand_prog 20~
+    if isaffected($i, sanct)
+    else
+        cast 'sanctuary'
+    endif
+~
+>rand_prog 20~
+    if isaffected($i, haste)
+    else
+        cast 'haste'
+    endif
+~
+|

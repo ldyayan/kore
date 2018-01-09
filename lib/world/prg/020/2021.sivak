@@ -1,0 +1,21 @@
+>rand_prog 5~
+  emote hisses evilly.
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  if ispc($n)
+    kill $n
+  endif
+~
+>entry_prog 100~
+  if ispc($n)
+    kill $n
+  endif
+~
+>death_prog 100~
+  # stinking cloud
+~
+|

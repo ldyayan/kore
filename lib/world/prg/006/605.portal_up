@@ -1,0 +1,9 @@
+>command_prog up~
+  mpechoaround $n $N fades from sight as a dark mist embraces $m.
+  mptrans $n 3001
+  mpat $n mpechoat $n You feel a slight falling sensation as the air around you darkens and spins.
+  mpat $n mpechoaround $n $N slowly rises from a black haze.
+  mpforce $n look
+  mpstopcommand
+~
+|

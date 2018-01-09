@@ -1,0 +1,1837 @@
+#16600
+A small path leading to a dark forest~
+The path is dusty and dry under your feet.  As you walk the dust 
+kicks up from the trail and blows across your face. As you scan 
+your surroundings you can make out a huge dark forest to the north 
+that rises high into the cloudy sky and casts a dark shadow across
+the peacefull grasslands.
+~
+166 0 3
+D0
+~
+~
+0 0 16601
+S
+#16601
+Entering the gloomy shadow~
+The area is dark and chill, shadowed by the huge forest that engulfs
+the sunny day like a spunge and turns it into complete darkness.
+To the south the day returns and you can see sunlight beeming 
+through the clouds across the open grasslands.  It almost seems
+stupid to consider entering the forest to the north as it looks
+as though it may never let you out..
+~
+166 1 3
+D0
+~
+~
+0 0 16602
+D2
+~
+~
+0 0 16600
+S
+#16602
+Entering the gloom~
+You are consumed by the complete darkness which covers you like a
+thick soup.  You are surprised by how dark the forest really is
+and soon realise that even if you did want to leave the forest you
+don't know the way, in fact you have completely lost your bearing
+which way is out?  As your eyes slowly adjust you realise you
+are not as alone as you first thought... Maybe entering the forest
+was not such a good idea after all.
+~
+166 33 3
+D0
+~
+~
+0 0 16603
+D2
+~
+~
+0 0 16601
+S
+#16603
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D0
+~
+~
+0 0 16604
+D1
+~
+~
+0 0 16605
+D2
+~
+~
+0 0 16602
+S
+#16604
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D2
+~
+~
+0 0 16603
+D3
+~
+~
+0 0 16625
+S
+#16605
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D1
+~
+~
+0 0 16606
+D3
+~
+~
+0 0 16603
+S
+#16606
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D0
+~
+~
+0 0 16607
+D3
+~
+~
+0 0 16605
+S
+#16607
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D0
+~
+~
+0 0 16620
+D2
+~
+~
+0 0 16606
+S
+#16608
+Climbing the rotten rope ladder~
+The rope ladder is wet and slimey, you find it hard to get a good
+grip around the thick rope.  As you struggle up the ladder the
+darkness begins to lift slightly and for a second you think you 
+feel a breeze.  Without a thought for what may be up the ladder
+you scramble higher and higher.  From time to time the rope creakes
+and sways, you hope it does not give way because then there would
+be no way out of the deathly darkness that lies below.
+~
+166 229 3
+D4
+~
+~
+0 0 16609
+D5
+~
+rusty iron hatch~
+1 0 16627
+S
+#16609
+Nearing the top of the rope ladder~
+As you climb higher up the ladder the never ending darkness begins 
+to end and the trees become much less dense.  Even a small breeze
+manages to creep though the thick braches.  Above your head you
+can make out what appears to be a wooden platform built into the
+trees.   You can here voices coming from it and wonder who it could
+be that lives in such a gloomy place like this forest.
+~
+166 128 3
+D4
+~
+~
+0 0 16610
+D5
+~
+~
+0 0 16608
+S
+#16610
+A wooden platform above the rope ladder~
+Made of the finest wood the platform on which you stand holds your
+wheight without a creek or a shudder.  You stare down through the
+hole in which you came up, realising how far you had to climb to
+get to this platform.  You brush yourself down and have a quick scan
+of the area.  There is not much to see, if there is anything it
+is masked by the huge trees that still surround you.  The only
+thing you notice is a large wooden gate to the north.
+~
+166 32772 3
+D0
+~
+~
+0 0 16611
+D5
+~
+~
+0 0 16609
+S
+#16611
+The Grand Gates of Blithe~
+The wooden gates rise up above your head right to the tree tops.
+The branches that make the gates have been woven together with
+strips of bark by skilled Blithian carpenters.  Above the archway
+there is a big symbol showing a large muscular elf standing on
+what appears to be a large bear.  Guards doze in the small amount
+of sunlight there is creeping through the trees, obviously they 
+have not been overworked recently.
+~
+166 32768 3
+D0
+~
+~
+0 0 16612
+D2
+~
+~
+0 0 16610
+S
+#16612
+An intersection in the paths~
+Standing on a solid wooden platform you glance around your
+surroundings.  To the south are the main gates of Blithe standing
+tall, up into the trees.  You notice you are standing at the entrance
+to a magnificent peice of engineering.  Huge tree houses have been
+balanced skillfully on the tree tops.  Wooden rope bridges connect
+the huts and houses that are all built around a central tree. It
+is a huge tree its trunk about six foot wide.  To the east and west
+small rope bridges lead off to clusters of huts and small shacks.
+~
+166 32768 3
+D0
+~
+~
+0 0 16632
+D1
+~
+~
+0 0 16613
+D2
+~
+~
+0 0 16611
+D3
+~
+~
+0 0 16641
+S
+#16613
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 32768 3
+D1
+~
+~
+0 0 16614
+D3
+~
+~
+0 0 16612
+S
+#16614
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 32768 3
+D1
+~
+~
+0 0 16616
+D2
+~
+~
+0 0 16615
+D3
+~
+~
+0 0 16613
+S
+#16615
+A small cosey hut~
+The hut is quite bare, only the essential furniture fills the room
+but it is warm, heated by a small log fire in the far corner.  You
+begin to think how dangerous that must be in a village such as this
+when someone catches your eye.  Sitting by a small table, an old
+man rests, playing chess with himself, he looks up at you and 
+returns to his game, obviously not bothered by your presence.
+~
+166 0 0
+D0
+~
+~
+0 0 16614
+S
+#16616
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16619
+D1
+~
+~
+0 0 16617
+D3
+~
+~
+0 0 16614
+S
+#16617
+The Brithian bakeries~
+The shop is small and round, all sorts of pasteries and breads
+line the shelves that cover the walls.  A small Elf stands behind
+a large wooden counter, making the shopkeeper nearlyhiden from 
+sight.  As you approach he tries to stand tall and starts talking
+about his wide range of goods.
+~
+166 152 0
+D3
+~
+~
+0 0 16616
+S
+#16618
+Blithian bakers storage~
+You are in an unfinished room.
+~
+166 0 0
+S
+#16619
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16676
+D2
+~
+~
+0 0 16616
+D3
+~
+~
+0 0 16631
+S
+#16620
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D1
+~
+log~
+1 0 16629
+D2
+~
+~
+0 0 16607
+D3
+~
+branch~
+1 0 16623
+D4
+~
+~
+0 0 16621
+S
+#16621
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D3
+~
+~
+0 0 16622
+D5
+~
+~
+0 0 16620
+S
+#16622
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D1
+~
+~
+0 0 16621
+D2
+~
+~
+0 0 16625
+S
+#16623
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D1
+~
+branch~
+1 0 16620
+D2
+~
+~
+0 0 16624
+D3
+~
+~
+0 0 16628
+S
+#16624
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D0
+~
+~
+0 0 16623
+D5
+~
+hatch~
+1 0 16626
+S
+#16625
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D0
+~
+~
+0 0 16622
+D1
+~
+~
+0 0 16604
+D2
+~
+~
+0 0 16628
+S
+#16626
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D1
+~
+pannel~
+1 0 16627
+D2
+~
+bush~
+1 0 16628
+D4
+~
+hatch~
+1 0 16624
+S
+#16627
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D0
+~
+~
+0 0 16603
+D3
+~
+pannel~
+1 0 16626
+D4
+~
+rusty iron hatch~
+1 0 16608
+S
+#16628
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D0
+~
+~
+0 0 16625
+D1
+~
+~
+0 0 16623
+S
+#16629
+Lost and helpless in the darkness~
+You see very little, just what you occasionally bump into, with
+the very little light there is it is nearly impossible to tell
+where your going or where you've been.  As you start to think
+there is no hope you notice a pair of eyes from the bushes ahead
+glowing red and looking right at you..
+~
+166 161 3
+D0
+~
+bush~
+1 0 16626
+D3
+~
+log~
+1 0 16620
+S
+#16630
+A small wooden hut~
+The hut is small and dry, however there is no one to be seen in
+it, and the only furniture is a small table that has been tipped
+on it's side in the center of the room.
+~
+166 8 0
+D2
+~
+~
+0 0 16676
+D9
+~
+painting~
+1 0 16636
+S
+#16631
+A small wooden home~
+You step into a small home, and interupt a family having a friendly
+game of cards in the center of the room.  They look up at you as
+you eneter their small abode but soon get back on with there game.
+~
+166 0 0
+D1
+~
+~
+0 0 16619
+S
+#16632
+A small rope bridge leading to a large tree~
+The rope bridge is wider than all the others in the village.
+It is lined with soft branches from the trees of the forest and
+made of the finest wood around.  The bridge leads towards a huge
+tree to the north, its trunk about six feet wide.  You can see
+a large door has been carved into the side guarded by a huge man.
+~
+166 32768 3
+D0
+~
+~
+0 0 16633
+D2
+~
+~
+0 0 16612
+S
+#16633
+A small rope bridge leading to a large tree~
+The rope bridge is wider than all the others in the village.
+It is lined with soft branches from the trees of the forest and
+made of the finest wood around.  The bridge leads towards a huge
+tree to the north, its trunk about six feet wide.  You can see
+a large door has been carved into the side guarded by a huge man.
+~
+166 32768 0
+D0
+~
+~
+0 0 16634
+D2
+~
+~
+0 0 16632
+S
+#16634
+A small rope bridge leading to a large tree~
+The rope bridge is wider than all the others in the village.
+It is lined with soft branches from the trees of the forest and
+made of the finest wood around.  The bridge leads towards a huge
+tree to the north, its trunk about six feet wide.  You can see
+a large door has been carved into the side guarded by a huge man.
+~
+166 0 3
+D0
+~
+~
+0 0 16635
+D2
+~
+~
+0 0 16633
+S
+#16635
+Before the huge tree~
+You stand infront of a huge tree it towers above you and high
+into the trees, a door has been carved into the side, behind it
+there must be some sort of room actually built into the tree.
+A huge guardian blocks the way, grinning evily at you, he does
+not look as though he's going to let you past.
+~
+166 0 3
+D0
+~
+huge oak door~
+2 16613 16637
+D2
+~
+~
+0 0 16634
+S
+#16636
+Pickett, the Master Thief's hideout~
+The room is small and cramped yet a huge man has made it his home,
+in the center stands a table, on which is a huge magnificent chest
+that is carved with millions of runes, all of different shapes
+and sizes none of which you can make out, but you are sure you've
+seen them before somewhere..
+~
+166 9 0
+D7
+~
+painting~
+1 0 16630
+S
+#16637
+Inside the huge oak~
+The room is small and damp, it has been carved into the tree by
+skilled blithian carpenters.  The wood is damp and the room dark
+below you a small iron ladder leads down into the very base of
+the huge tree.  From below you can hear a low humming noise and
+a faint red glow works its way from the very depths of the tree.
+~
+166 41 0
+D2
+~
+huge oak door~
+2 16613 16635
+D5
+~
+~
+0 0 16638
+S
+#16638
+Inside the huge oak~
+The room is small and damp, it has been carved into the tree by
+skilled blithian carpenters.  The wood is damp and the room dark
+below you a small iron ladder leads down into the very base of
+the huge tree.  From below you can hear a low humming noise and
+a faint red glow works its way from the very depths of the tree.
+~
+166 41 0
+D4
+~
+~
+0 0 16637
+D5
+~
+~
+0 0 16639
+S
+#16639
+Inside the huge oak~
+The room is small and damp, it has been carved into the tree by
+skilled blithian carpenters.  The wood is damp and the room dark
+below you a small iron ladder leads down into the very base of
+the huge tree.  From below you can hear a low humming noise and
+a faint red glow works its way from the very depths of the tree.
+~
+166 45 0
+D4
+~
+~
+0 0 16638
+D5
+~
+stone slab~
+1 0 16640
+S
+#16640
+Kickshaw's den~
+The room is much bigger than the others that were carved into
+the tree.  The walls are made of stone and are dripping with
+water.  The room is lit up by a huge red crystal that stands
+in the center of the floor and pulsates with a bright red glow.
+Standing over the crystal a huge man wielding a huge sword
+guarding it with his life.  This must be kickshaw the guardian
+of Blithe, he raises his head slowly and looks right at you
+with glowing red eyes.
+~
+166 41 0
+D0
+~
+~
+0 0 16683
+D1
+~
+~
+0 0 16689
+D2
+~
+~
+0 0 16687
+D3
+~
+~
+0 0 16685
+D4
+~
+stone slab~
+1 0 16639
+D6
+~
+~
+0 0 16690
+D7
+~
+~
+0 0 16688
+D8
+~
+~
+0 0 16686
+D9
+~
+~
+0 0 16684
+S
+#16641
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 32768 3
+D1
+~
+~
+0 0 16612
+D3
+~
+~
+0 0 16642
+S
+#16642
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D1
+~
+~
+0 0 16641
+D3
+~
+~
+0 0 16643
+S
+#16643
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16644
+D1
+~
+~
+0 0 16642
+D2
+~
+~
+0 0 16646
+D3
+~
+~
+0 0 16648
+S
+#16644
+The small Blithian wizard shop~
+The room is small and packed with various potions and scrolls
+that line the shelves leaving little room for anything else.
+Behind a small wooden desk an old wizard stands stroking his beard
+he beams a smile at you and starts to write on a scrap of paper.
+~
+166 152 0
+D2
+~
+~
+0 0 16643
+S
+#16645
+The Blithian magic shop storage~
+I dont no how you got in here but please leave now :-P
+~
+166 0 0
+S
+#16646
+The Blithian Fletchers~
+As you walk into the fletchers shop you are amazed by how many
+different bows and weapons line the walls of the room.  Some are
+short, others wide, some are made of wood, some are crafted from
+solid gold that gleam in the little light that enters the small
+room.  A large musculer man rests in a chair behind a large wooden 
+counter, sanding down a large elm bow.
+~
+166 144 0
+D0
+~
+~
+0 0 16643
+E
+has arrived~
+Hello
+Jimbobbob
+~
+S
+#16647
+The Blithian fletchers storage~
+Uhm, why ya in here then? :-P
+~
+166 0 0
+S
+#16648
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D1
+~
+~
+0 0 16643
+D3
+~
+~
+0 0 16649
+S
+#16649
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16650
+D1
+~
+~
+0 0 16648
+S
+#16650
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16651
+D2
+~
+~
+0 0 16649
+D3
+~
+~
+0 0 16654
+S
+#16651
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16652
+D1
+~
+~
+0 0 16655
+D2
+~
+~
+0 0 16650
+S
+#16652
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16653
+D2
+~
+~
+0 0 16651
+D3
+~
+~
+0 0 16662
+S
+#16653
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D1
+~
+~
+0 0 16669
+D2
+~
+~
+0 0 16652
+D4
+~
+wooden hatch~
+1 0 16692
+S
+#16654
+A small tree house~
+As you step into the small tree house a warm breeze blows across
+your face, a small round table sits in the center of the room
+covered with all sorts of food and drink and surounded by hungry
+Blithian citizens tucking in to their feast.
+~
+166 0 0
+D1
+~
+~
+0 0 16650
+S
+#16655
+A small tree house~
+As you step into the small tree house a warm breeze blows across
+your face, a small round table sits in the center of the room
+covered with all sorts of food and drink and surounded by hungry
+Blithian citizens tucking in to their feast.
+~
+166 0 0
+D3
+~
+~
+0 0 16651
+S
+#16656
+Climbing the small chimney~
+The chimney is cramped and full of soot, that crumbles off the
+wall and falls into your face,  as you struggle to make your
+way to the top you begin to wonder why exactly you are trying to
+anyway.
+~
+166 33 13
+D4
+~
+~
+0 0 16657
+S
+#16657
+Climbing the small chimney~
+The chimney is cramped and full of soot, that crumbles off the
+wall and falls into your face,  as you struggle to make your
+way to the top you begin to wonder why exactly you are trying to
+anyway.
+~
+166 33 13
+D4
+~
+~
+0 0 16658
+D5
+~
+~
+0 0 16656
+S
+#16658
+Climbing the small chimney~
+The chimney is cramped and full of soot, that crumbles off the
+wall and falls into your face,  as you struggle to make your
+way to the top you begin to wonder why exactly you are trying to
+anyway.
+~
+166 33 0
+D4
+~
+~
+0 0 16659
+D5
+~
+~
+0 0 16657
+S
+#16659
+Climbing the small chimney~
+The chimney is cramped and full of soot, that crumbles off the
+wall and falls into your face,  as you struggle to make your
+way to the top you begin to wonder why exactly you are trying to
+anyway.
+~
+166 33 0
+D4
+~
+~
+0 0 16660
+D5
+~
+~
+0 0 16658
+S
+#16660
+Atop the chimney~
+As you climb out of the cramped chimney and brush yourself down
+you yake in some large breaths of freash air and have a quick look
+around.  You are quite high up and can look down on all the small
+Blithian villagers that are scurrying around on the small rope
+bridges.  What you find most amazing is what you are standing
+next to. To the west is a huge birds nest in which is perched the
+biggest bird you have ever seen.
+~
+166 16 0
+D3
+~
+~
+0 0 16661
+D5
+~
+~
+0 0 16659
+S
+#16661
+Standing in the eagles nest~
+As you walk into the nest the huge eagle turns its head to look
+at you, small eggs scatter the nest, some of them have cracked
+open and small little chicks scramble around scwarking to their
+mother.
+~
+166 0 0
+D1
+~
+~
+0 0 16660
+S
+#16662
+A small tree house~
+As you step into the small tree house a warm breeze blows across
+your face, a small round table sits in the center of the room
+covered with all sorts of food and drink and surounded by hungry
+Blithian citizens tucking in to their feast.
+~
+166 0 0
+D1
+~
+~
+0 0 16652
+D5
+~
+iron hatch~
+2 16629 16693
+S
+#16663
+A bright ^Bblue^n room~
+^BThe room in which you stand seems very out of place in the forest
+from which you have just came.  The walls look like they are
+made of some sort of stone and are painted with the brightest
+color blue you have ever seen.  In the center of the room a huge
+blue vortex swirls round and round inviting you into a strange
+new world.^n
+~
+166 153 0
+S
+#16664
+Standing on a cloud!~
+You find yourself standing on a small whisp of cloud floating
+through the sky.  As you look down you can just make out the city
+of Kore miles and miles below you.  You begin to wonder how
+you will be able to escape from this mid-air prison.
+~
+166 128 0
+D0
+~
+~
+0 0 16665
+D1
+~
+~
+0 0 16665
+D2
+~
+~
+0 0 16665
+D3
+~
+~
+0 0 16665
+D4
+~
+~
+0 0 16665
+D5
+~
+~
+0 0 16665
+D6
+~
+~
+0 0 16666
+D7
+~
+~
+0 0 16665
+D8
+~
+~
+0 0 16665
+D9
+~
+~
+0 0 16665
+S
+#16665
+FALLING through the clouds~
+As you step onto the small cloud you fall,
+                                          and fall,
+                                                and fall,
+                                                          to the ground
+and die!       R.I.P!!
+~
+166 2 0
+S
+#16666
+Falling through the clouds~
+Luckily you only fall about two feet before standing finding a
+solid footing on another cloud.  As you recover from the shock
+you scan the area quickly and notica a small castle to the
+north-east.
+~
+166 0 0
+D6
+~
+~
+0 0 16667
+D8
+~
+~
+0 0 16664
+S
+#16667
+The entrance hall of a small stone castle~
+As you step carefully from the cloud on which you stood you find
+yourself standing on a solid stone floor.  A small red carpet
+leads along the hallway to the north into a huge throne room.
+~
+166 0 0
+D0
+~
+~
+0 0 16668
+D1
+~
+window~
+1 0 16694
+D8
+~
+~
+0 0 16666
+S
+#16668
+The throne room of the small stone castle~
+You stand inside a quite small throne room.  An arrangement of
+green plants and beautiful flowers line the walls, and upon the
+throne sits a small green dragon puffing smoke rings out of his
+nose.
+~
+166 8 0
+D2
+~
+~
+0 0 16667
+S
+#16669
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D1
+~
+~
+0 0 16670
+D3
+~
+~
+0 0 16653
+S
+#16670
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16677
+D1
+~
+~
+0 0 16671
+D3
+~
+~
+0 0 16669
+S
+#16671
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16678
+D1
+~
+~
+0 0 16672
+D3
+~
+~
+0 0 16670
+S
+#16672
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D1
+~
+~
+0 0 16673
+D3
+~
+~
+0 0 16671
+S
+#16673
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D1
+~
+~
+0 0 16691
+D2
+~
+~
+0 0 16674
+D3
+~
+~
+0 0 16672
+S
+#16674
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16673
+D2
+~
+~
+0 0 16675
+S
+#16675
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16674
+D1
+~
+~
+0 0 16676
+S
+#16676
+On a small rope bridge~
+The rope bridge is damp and slippery, it has hand rails down both
+sides. The rope bridge is made of very sturdy wood but still sways
+in the wind and creaks under foot, however you begin to trust it
+as many Blithian villagers scuttle past not even holding on to the
+rails.  You keep reminding yourself not to look down and continue
+along the bridge.
+~
+166 0 3
+D0
+~
+~
+0 0 16630
+D2
+~
+~
+0 0 16619
+D3
+~
+~
+0 0 16675
+S
+#16677
+Entering the mayors palace.~
+This room is well furnished and made of the finest quality oak
+planks, that shine in the light.  Pictures hang on the walls
+showing previous majors of Blithe.  They are all wearing brilliant
+jewels and furs of the finest quality.  The corridor leads to the
+east into the reception.
+~
+166 152 0
+D1
+~
+~
+0 0 16679
+D2
+~
+~
+0 0 16670
+S
+#16678
+Entering the mayors palace.~
+This room is well furnished and made of the finest quality oak
+planks, that shine in the light.  Pictures hang on the walls
+showing previous majors of Blithe.  They are all wearing brilliant
+jewels and furs of the finest quality.  The corridor leads to the
+west into the reception.
+~
+166 8 0
+D2
+~
+~
+0 0 16671
+D3
+~
+~
+0 0 16679
+S
+#16679
+The mayor's reception~
+The room is huge and well furnished,  a cool breeze blows across
+your face making a nice change from the hot humid atmosphere in
+the forest.  A huge oak desk polished so you can see your face in it
+stands in the center of the room.  Behind which stands a beautiful
+woman dressed in a flowing white gown.  She beams a smile at you
+as you enter the room.
+~
+166 156 0
+D0
+~
+~
+0 0 16680
+D1
+~
+~
+0 0 16678
+D3
+~
+~
+0 0 16677
+S
+#16680
+The Mayor's front room~
+The room is lavishly furnished with polished oak benches and small
+tropical plants that stand upright in their wooden pots.  To the
+north a large oak door stands shut guarded by a huge man in dark
+robes.
+~
+166 8 0
+D0
+~
+oak door~
+2 16633 16681
+D2
+~
+~
+0 0 16679
+S
+#16681
+The Mayor of Blithe's study~
+The room is of a normal size.  Lining the walls are huge book
+cases, full of big and small leather bound books.  In the center
+of the room there is a large desk covered with peices of paper
+stacked high up to the roof.  Behind the desk is a small fat man
+wearing the finest clothes and jewels you have ever seen, he is
+madly signing the stacks of documents that litter his desk and
+appears most disturbed by your entrance.
+~
+166 8 0
+D1
+~
+bookcase~
+1 0 16682
+D2
+~
+oak door~
+2 16633 16680
+S
+#16682
+The Mayors secret portal room~
+The room is very large and round, all the way around the room are
+small one way doors leading to strange new worlds.. As you look
+through the various doors you wonder that one may be a shortcut
+back home.
+~
+166 153 0
+D0
+~
+~
+0 0 16123
+D1
+~
+~
+0 0 9532
+D2
+~
+~
+0 0 403
+D3
+~
+bookcase~
+1 0 16681
+D4
+~
+~
+0 0 6656
+D5
+~
+~
+0 0 12311
+S
+#16683
+Kickshaw's den~
+This room is dark and cold the roof drips with water that falls
+from the ceiling, somewhere in this huge cave Kickshaw lies in
+weight ready to pounce on you at any momment, you suddenly hear
+a sound behind you and turn towards it.
+~
+166 41 0
+D1
+~
+~
+0 0 16690
+D2
+~
+~
+0 0 16640
+D3
+~
+~
+0 0 16684
+S
+#16684
+Kickshaw's den~
+This room is dark and cold the roof drips with water that falls
+from the ceiling, somewhere in this huge cave Kickshaw lies in
+weight ready to pounce on you at any momment, you suddenly hear
+a sound behind you and turn towards it.
+~
+166 41 0
+D1
+~
+~
+0 0 16683
+D2
+~
+~
+0 0 16685
+D7
+~
+~
+0 0 16640
+S
+#16685
+Kickshaw's den~
+This room is dark and cold the roof drips with water that falls
+from the ceiling, somewhere in this huge cave Kickshaw lies in
+weight ready to pounce on you at any momment, you suddenly hear
+a sound behind you and turn towards it.
+~
+166 41 0
+D0
+~
+~
+0 0 16684
+D1
+~
+~
+0 0 16640
+D2
+~
+~
+0 0 16686
+S
+#16686
+Kickshaw's den~
+This room is dark and cold the roof drips with water that falls
+from the ceiling, somewhere in this huge cave Kickshaw lies in
+weight ready to pounce on you at any momment, you suddenly hear
+a sound behind you and turn towards it.
+~
+166 41 0
+D0
+~
+~
+0 0 16685
+D1
+~
+~
+0 0 16687
+D6
+~
+~
+0 0 16640
+S
+#16687
+Kickshaw's den~
+This room is dark and cold the roof drips with water that falls
+from the ceiling, somewhere in this huge cave Kickshaw lies in
+weight ready to pounce on you at any momment, you suddenly hear
+a sound behind you and turn towards it.
+~
+166 41 0
+D0
+~
+~
+0 0 16640
+D1
+~
+~
+0 0 16688
+D3
+~
+~
+0 0 16686
+S
+#16688
+Kickshaw's den~
+This room is dark and cold the roof drips with water that falls
+from the ceiling, somewhere in this huge cave Kickshaw lies in
+weight ready to pounce on you at any momment, you suddenly hear
+a sound behind you and turn towards it.
+~
+166 41 0
+D0
+~
+~
+0 0 16689
+D3
+~
+~
+0 0 16687
+D9
+~
+~
+0 0 16640
+S
+#16689
+Kickshaw's den~
+This room is dark and cold the roof drips with water that falls
+from the ceiling, somewhere in this huge cave Kickshaw lies in
+weight ready to pounce on you at any momment, you suddenly hear
+a sound behind you and turn towards it.
+~
+166 41 0
+D0
+~
+~
+0 0 16690
+D2
+~
+~
+0 0 16688
+D3
+~
+~
+0 0 16640
+S
+#16690
+Kickshaw's den~
+This room is dark and cold the roof drips with water that falls
+from the ceiling, somewhere in this huge cave Kickshaw lies in
+weight ready to pounce on you at any momment, you suddenly hear
+a sound behind you and turn towards it.
+~
+166 41 0
+D2
+~
+~
+0 0 16689
+D3
+~
+~
+0 0 16683
+D8
+~
+~
+0 0 16640
+S
+#16691
+A small wooden chapel~
+The chapel is small and made of small branches all tied together
+with strips of bark.  Behind a large alter a big man in white
+robes is resting with his hands held together on the table, praying
+to his god.  Small windows have been cut into the side of the chapel
+and tapasties hang from all the walls.
+~
+166 8 0
+D3
+~
+~
+0 0 16673
+S
+#16692
+A lavishly decorated tree house~
+The tree house has been very well looked after, the furniture is
+finely polished and gleams without a scratch in sight.  Beautiful
+tapastries hand from the walls and a dull orange light makes its way
+through the intricate curtains on to the oak paneled floorboards.
+A beautiful woman is sitting in one corner dressed in a short dress
+made from bear skin, that barely covers her body.  She smiles at
+you and welcomes you into her home.
+~
+166 13 0
+D5
+~
+wooden hatch~
+1 0 16653
+S
+#16693
+A dark room~
+It is too dark to tell....
+~
+166 33 0
+D4
+~
+iron hatch~
+2 16629 16662
+S
+#16694
+A small stone ledge~
+You stand on a small ledge, the wind whips ou across your face and
+you begin to wonder what you are doing here just before you catch a glimpse
+of a huge wooden chest that sits in the tree below your feet.  If
+only you could reach the lid so you could find out what was in it...
+~
+166 145 0
+D3
+~
+window~
+1 0 16667
+D5
+~
+~
+0 0 16695
+S
+#16695
+Atop a huge tree~
+You reach down to reach the gold and slip tumbling off the ledge
+and finding yourself held atop the tree by the huge branches, in front
+of your face stands a huge chest full of gold coins.
+As you look up you dont think you will be able to climb back, but
+that is a small price to pay for all this gold.
+~
+166 177 3
+D5
+~
+~
+0 0 16620
+S
+#99999
+$~

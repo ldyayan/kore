@@ -1,0 +1,59 @@
+>greet_prog 100~
+  if ispc($n)
+    if level($n) > 50
+      if level($n) < 58
+      say Tsk tsk tsk. You shouldn't be here, $n. Now you have to die.
+      mpechoat $n The frog shoots its tongue out, and pulls you into its mouth.
+      mpechoaround $n $N is swallowed whole by the frog.
+      mpdamage $n 1000
+      mpdamage $n 1000
+      mpdamage $n 1000
+      mpdamage $n 1000
+      mpdamage $n 1000
+      mpdamage $n 1000
+      endif
+    endif
+  endif
+else
+  if ispc($n)
+    if level($n) > 57
+      if level($n) < 60
+      say Shame on you, $n. Have a nice day.
+      mpat 1204 mptrans $n
+      endif
+    endif
+  endif
+~
+
+>rand_prog 100~
+  if ispc($n)
+    if level($n) > 50
+      if level($n) < 58
+      say Tsk tsk tsk. You shouldn't be here, $n. Now you have to die.
+      mpechoat $n The frog shoots its tongue out, and pulls you into its mouth.
+      mpechoaround $n $N is swallowed whole by the frog.
+      mpdamage $n 1000
+      mpdamage $n 1000
+      mpdamage $n 1000
+      mpdamage $n 1000
+      mpdamage $n 1000
+      mpdamage $n 1000
+      endif
+    endif
+  endif
+else
+  if ispc($n)
+    if level($n) > 57
+      if level($n) < 60
+      say Shame on you, $n. Have a nice day.
+      mpat 1204 mptrans $n
+      endif
+    endif
+  endif
+~
+
+>fight_prog 100~
+  mpdamage $n 1000
+~
+|
+

@@ -1,0 +1,237 @@
+#220
+Grey Marshes~
+22099 25 2 35
+M 0 22047     4 22079            a soldier of the light infantry
+M 0 22020     8 22078            a heavy soldier
+E 1 22056    25     8                    feet a pair of bloody boots
+E 1 22028    25    10                    arms azure batwing vambraces
+E 1 22024    50    16                    wield a short axe
+E 1 22055    25     7                    legs azure steel leg plates
+E 1 22024    50    19                    wield 2 a short axe
+M 0 22047     4 22078            a soldier of the light infantry
+M 0 22047     4 22075            a soldier of the light infantry
+M 0 22047     4 22032            a soldier of the light infantry
+E 1 22036     7     9                    hands a pair of archers gloves
+D 0 22029     0     1            An Archers' Sconce door north
+M 0 22024     2 22029            an archer
+E 1 22036    10     9                    hands a pair of archers gloves
+M 0 22014     1 22021            Spag the boatman
+D 0 22000     5     2            The Overlook door down
+D 0 22030     4     1            Beneath The Stone Turret door up
+D 1 22030     1     2            Beneath The Stone Turret door east
+M 0 22068     1 22030            rampart_archer_invisible
+M 0 22013     2 22030            a porter
+M 0 22046     3 22041            a musician
+M 0 22046     3 22041            a musician
+M 0 22046     3 22041            a musician
+E 1 22042    25    16                    wield a bass drum
+M 0 22032     1 22041            the conductor
+E 1 22009   101    17                    held a large brass key
+M 0 22026     1 22041            a wizened old man
+M 0 22055     1 22096            the Viceroy
+E 1 22079    15     6                    head the viceroys onyx studded crown
+E 1 22077     6     1                    left finger onyx and nickel ring
+M 0 22017     4 22089            a ceremonial guard
+E 1 22073    12     5                    body a nickel ceremonial breastplate
+D 0 22083     4     1            The Front Landing door up
+M 0 22017     4 22090            a ceremonial guard
+E 1 22073    50     5                    body a nickel ceremonial breastplate
+M 0 22004     4 22019            the dense reeds
+M 0 22004     4 22018            the dense reeds
+D 0 22077     5     1            The Stone Turret door down
+M 0 22061     1 22077            the signalman
+E 1 22049    25     0                    light a signalmans lamp
+E 1 22048    25    16                    wield a clarion
+D 0 22076     2     1            Upon the Ramparts door south
+M 0 22020     8 22076            a heavy soldier
+E 1 22024    50    16                    wield a short axe
+E 1 22028    25    10                    arms azure batwing vambraces
+E 1 22055    25     7                    legs azure steel leg plates
+E 1 22024    50    19                    wield 2 a short axe
+E 1 22056    25     8                    feet a pair of bloody boots
+M 0 22068     4 22076            rampart_archer_invisible
+M 0 22013     2 22076            a porter
+M 0 22068     4 22074            rampart_archer_invisible
+M 0 22020     8 22074            a heavy soldier
+E 1 22028    25    10                    arms azure batwing vambraces
+E 1 22030    25    16                    wield a shimmering violet shortsword
+E 1 22056    25     8                    feet a pair of bloody boots
+E 1 22030    25    19                    wield 2 a shimmering violet shortsword
+E 1 22055    25     7                    legs azure steel leg plates
+M 0 22068     2 22080            rampart_archer_invisible
+M 0 22020     8 22080            a heavy soldier
+E 1 22024    50    16                    wield a short axe
+E 1 22056    25     8                    feet a pair of bloody boots
+E 1 22055    25     7                    legs azure steel leg plates
+E 1 22028    25    10                    arms azure batwing vambraces
+D 0 22051     0     2            The Hourglass door north
+M 0 22021     1 22051            a battle seasoned warrior
+E 1 22006    99    14                    left wrist a small brass key
+E 1 22053    25    16                    wield nickel studded war club
+E 1 22056    25     8                    feet a pair of bloody boots
+M 0 22025     4 22051            a master soldier
+E 1 22024    50    16                    wield a short axe
+E 1 22037    25    14                    left wrist an azure spined bracelet
+E 1 22029    50     6                    head a winged helm
+M 0 22049     1 22092            the beautiful maiden
+E 1 22032    99    16                    wield a bung mallet
+E 1 22040    25    17                    held a tap handle
+E 1 22041    25     6                    head several pink and ^Ygold^n ribbons
+M 0 22004     4 22017            the dense reeds
+M 0 22004     6 22017            the dense reeds
+D 0 22052     0     2            The Manager's Office door north
+M 0 22039     2 22052            a Bodyguard
+M 0 22039     2 22052            a Bodyguard
+M 0 22040     1 22052            the zahlmeister
+M 0 22043     1 22052            the Raiders Chief
+E 1 22061    25    16                    wield a double bitted battle axe
+E 1 22063    25    14                    left wrist a pair of black iron gauntlets
+E 1 22088    25     5                    body a greed filled heart
+M 0 22067     5 22064            an invisible archer
+M 0 22067     4 22071            an invisible archer
+M 0 22019     3 22071            the portal sentry
+E 1 22025    25     5                    body an azure breastplate
+E 1 22024    25    16                    wield a short axe
+M 0 22028     4 22047            the guard
+M 0 22044     8 22047            the raider
+E 1 22060    25    16                    wield a large warhammer
+E 1 22062    25     6                    head a rag soaked in blood
+M 0 22042     3 22047            the drunken guard
+M 0 22029     5 22047            the guard
+D 0 22046     2     1            Rough Trade door south
+M 0 22038     1 22046            a guide
+M 0 22044     2 22046            the raider
+E 1 22062    25     6                    head a rag soaked in blood
+E 1 22060    25    16                    wield a large warhammer
+M 0 22045     1 22046            a hound dog
+E 1 22064    99     5                    body some dog meat
+M 0 22006     5 22013            lightning_bolt generator
+M 0 22005     6 22013            the grey snapper tortoise
+M 0 22006     5 22012            lightning_bolt generator
+M 0 22003     9 22012            the cloud of assorted flying insects
+M 0 22002     9 22012            the swarm of biting flies
+M 0 22007     6 22012            the arrow toad
+M 0 22001     4 22003            the marsh rat
+M 0 22002     8 22003            the swarm of biting flies
+M 0 22003     8 22003            the cloud of assorted flying insects
+M 0 22048     2 22025            a snatcher_harridan
+M 0 22048     1 22024            a snatcher_harridan
+M 0 22012     3 22024            a cloud of caustic fumes
+M 0 22009     5 22024            a grey harridan
+M 0 22012     3 22023            a cloud of caustic fumes
+M 0 22009     5 22023            a grey harridan
+E 1 22017    99     7                    legs an enormous drumstick
+M 0 22012     3 22022            a cloud of caustic fumes
+M 0 22009     5 22022            a grey harridan
+E 1 22017    99     5                    body an enormous drumstick
+E 1 22019    10    10                    arms a harridan's feather
+M 0 22002     6 22010            the swarm of biting flies
+M 0 22003     7 22010            the cloud of assorted flying insects
+M 0 22016     1 22010            an enormous crawdad
+E 1 22015    99     5                    body a chunk of crawdad
+E 1 22015    99    13                    waist a chunk of crawdad
+E 1 22015    99    10                    arms a chunk of crawdad
+E 1 22014    25    16                    wield a crawdads claw
+M 0 22006     5 22009            lightning_bolt generator
+M 0 22001     4 22009            the marsh rat
+E 1 22018    25     5                    body a grey rat pelt
+M 0 22007     1 22009            the arrow toad
+M 0 22003     6 22009            the cloud of assorted flying insects
+M 0 22008     3 22008            the blinder snake
+M 0 22002     4 22008            the swarm of biting flies
+M 0 22003     4 22008            the cloud of assorted flying insects
+M 0 22006     5 22006            lightning_bolt generator
+M 0 22005     1 22006            the grey snapper tortoise
+E 1 22013    25    12                    about a tortoise shell
+M 0 22002     3 22006            the swarm of biting flies
+M 0 22001     2 22005            the marsh rat
+M 0 22008     1 22005            the blinder snake
+M 0 22003     3 22005            the cloud of assorted flying insects
+M 0 22002     2 22004            the swarm of biting flies
+M 0 22003     2 22004            the cloud of assorted flying insects
+M 0 22001     1 22004            the marsh rat
+E 1 22018    50     5                    body a grey rat pelt
+M 0 22002     1 22002            the swarm of biting flies
+M 0 22003     1 22002            the cloud of assorted flying insects
+M 0 22058     3 22059            a slave driver
+E 1 22057    50    16                    wield an overseers flail
+M 0 22064     1 22059            the coal pusher
+M 0 22064     2 22059            the coal pusher
+M 0 22064     3 22059            the coal pusher
+M 0 22064     4 22059            the coal pusher
+M 0 22064     5 22059            the coal pusher
+D 0 22094     1     1            The Anteroom door east
+M 0 22062     2 22094            a cermonial guard
+E 1 22073    25     5                    body a nickel ceremonial breastplate
+E 1 22075    25     3                    neck 1 a shimmering violet cape
+E 1 22074    25     7                    legs nickel mesh leggings
+M 0 22062     2 22094            a cermonial guard
+E 1 22073    25     5                    body a nickel ceremonial breastplate
+E 1 22075    25     3                    neck 1 a shimmering violet cape
+D 0 22039     1     2            The Liquor Closet door east
+D 0 22039     3     2            The Liquor Closet door west
+D 0 22095     3     2            The Festival Hall door west
+M 0 22022     1 22095            the Oberst
+E 1 22026    25     6                    head the obersts brass cap
+E 1 22027    25    17                    held the obersts baton
+E 1 22085    25    16                    wield a ceremonial dagger
+E 1 22080    25     8                    feet a pair of sensible shoes
+M 0 22066     1 22095            the steward
+E 1 22078    99    17                    held a nickel plated corkscrew
+E 1 22071    25    16                    wield nickel plated ice tongs
+M 0 22000     1 22068            the Huge Forge Master
+E 1 22045    25    17                    held a spur hook and chain
+E 1 22007    25     0                    light a red-hot steel rod
+E 1 22008    25    19                    wield 2 a large hammer
+D 0 22053     2     2            Top Of The Hourglass door south
+D 0 22053     3     1            Top Of The Hourglass door west
+D 0 22053     1     1            Top Of The Hourglass door east
+M 0 22067     5 22053            an invisible archer
+M 0 22020     5 22053            a heavy soldier
+E 1 22056    25     8                    feet a pair of bloody boots
+E 1 22028    25    10                    arms azure batwing vambraces
+E 1 22030    25    16                    wield a shimmering violet shortsword
+E 1 22055    25     7                    legs azure steel leg plates
+D 0 22072     1     1            The Muster Room door east
+M 0 22020     4 22072            a heavy soldier
+E 1 22056    25     8                    feet a pair of bloody boots
+E 1 22028    25    10                    arms azure batwing vambraces
+E 1 22030    25    16                    wield a shimmering violet shortsword
+E 1 22029    25     6                    head a winged helm
+E 1 22055    25     7                    legs azure steel leg plates
+M 0 22030     1 22072            the martinet
+E 1 22031    25    13                    waist a martinets belt and shoulder strap
+E 1 22066    25    17                    held a claspboard
+P 1 22067    25 22066                    put orders of the watch in a claspboard
+O 0 22086    99 22045            a hollow log
+M 0 22063     1 22084            the foreign dignitary
+E 1 22051    25    16                    wield the rod of the golden rule
+E 1 22050    25    12                    about ^Ygolden^n brocaded robes
+M 0 22060     1 22084            the arms merchant
+M 0 22018     1 22084            the Master of Arms
+M 0 22035     4 22054            the slumbering slave
+M 0 22058     3 22054            a slave driver
+E 1 22057    25    16                    wield an overseers flail
+M 0 22006     5 22015            lightning_bolt generator
+O 0 22011    99 22098            lever
+O 0 22058    99 22097            the lever
+O 0 22010    99 22069            lever
+O 0 22004    99 22027            a hollow log
+O 0 22022   101 22026            the tiller
+M 0 22033     1 22026            a sleek grey cat
+M 0 22029     5 22087            the guard
+D 0 22050     2     2            A Small Blockhouse door south
+D 0 22050     0     1            A Small Blockhouse door north
+M 0 22041     1 22050            the receptionist
+E 1 22002    99     3                    neck 1 a long ^Wsilver^n key
+E 1 22065    25    13                    waist a khaki skirt
+E 1 22039    35    16                    wield a black iron fist
+M 0 22031     1 22086            the boy
+M 0 22027     3 22086            the guard
+E 1 22030    25    16                    wield a shimmering violet shortsword
+E 1 22056    25     8                    feet a pair of bloody boots
+M 0 22028     4 22086            the guard
+E 1 22030    25    16                    wield a shimmering violet shortsword
+S
+#99999
+$~

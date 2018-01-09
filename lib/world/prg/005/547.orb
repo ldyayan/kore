@@ -1,0 +1,6 @@
+>rand_prog 18~
+  if inroom($r) == here 
+  cast 'armor' $r
+  endif
+~
+|

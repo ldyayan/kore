@@ -1,0 +1,462 @@
+#100
+skeleton~
+a skeleton~
+A skeleton is here, brought to un-life by unholy magic.
+~
+   You look and see a tattered skeleton, armored with crude weapons and armor,
+it walks - teeters actually - on shaky bones and in the black pupils of its
+grinning skull you see a red unholy flame.
+~
+40970 1024 0 S
+2 16 6 4d8+8 1d1+1
+0 0
+8 8 0
+#101
+zombie~
+a zombie~
+A zombie is here, taking orders from its master.
+~
+You see a foul and rotting thing, an animated corpse, a disgusting dark magic
+creation!  It moves with deathly slowness and hideous strength in the service
+of its master!
+~
+40970 132096 -500 S
+3 14 6 8d10+10 1d1+1
+0 0
+8 8 0
+#102
+ghoul~
+a ghoul~
+A ghoul is here, stalking about.
+~
+   You look at this ghastly creature and feel your skin crawl at the sight
+of this malignant creature.  Animated from the corpse of a dead thing, the
+ghoul stalks about, gibbering to itself in a language of its own diseased
+undead mind.
+~
+40970 1024 -600 S
+5 12 6 10d8+8 1d1+1
+0 0
+8 8 0
+#103
+ghast~
+a ghast~
+A ghast is here, crouched and sniffing the air for the scent of victims.
+~
+   You look at this ghastly ghoulish-looking creature and realize that it
+is stronger and more wicked than any ghoul you've seen.  Once a thing of evil
+it now in unlife is strong and it shambles about, looking for prey to feed
+on.
+~
+40970 1024 -650 S
+7 10 6 10d8+8 1d1+1
+0 0
+8 8 0
+#104
+wraith~
+a wraith~
+A wraith is here, filled with evil purpose.
+~
+   You look through this dark apparition and feel your soul grow cold.  Here
+in material form is revealed a tormented soul, here brought to un-life and
+eager to serve then be damned again.
+~
+40970 4457472 -750 S
+9 8 4 10d8+8 1d1+1
+0 0
+8 8 0
+#105
+ghost~
+a ghost~
+A ghost is here in chains, lamenting its fate and hating the living.
+~
+   You look at this apparition in chains and feel your hair go white, for here
+is an ordinary spirit, bound in chains and forced to serve an unholy master.
+Your soul shudders inside with the fear that you might have a similar fate
+one day...
+~
+40970 4456448 -750 S
+11 6 2 10d8+8 1d1+1
+0 0
+8 8 0
+#110
+air elemental~
+the air elemental~
+An air elemental is here, whirling dust up and obscuring vision.
+~
+   You look upon a swirling tornado of dust.  Somewhere in the center you
+see a pair of eyes that peep out.  The air elemental is gleefully tossing
+things about up and inside itself, whirling trash and garbage up and into
+its vortex.
+~
+65550 4325376 0 S
+13 5 5 5d10+10 1d1+-10
+0 0
+8 8 0
+#111
+fire elemental~
+the fire elemental~
+A fire elemental is here, gleefully setting fire to combustibles.
+~
+   You see a huge flame, with flames for eyes, brightly shining out through
+the darkness.  It seems to be playing with fire like a toy, and is completely
+unafraid of you.
+~
+10 132096 0 S
+13 5 5 5d10+10 1d1+20
+0 0
+8 8 0
+#112
+water elemental~
+the water elemental~
+A water elemental is here, drawn up like a tidal wave and ready to crash down.
+~
+   You look and see a standing tidal wave!  Drawn up and looking angry, it
+surges forward, wanting to drown everything in its way!  In the center of 
+the wave you see a pair of dark eyes and for hands is a powerful surf to 
+crush you.
+~
+65546 131136 0 S
+13 5 5 5d10+10 1d1+1
+0 0
+8 8 0
+#113
+earth elemental~
+the earth elemental~
+An earth elemental is here, pounding rocks to pieces with his fists.
+~
+   You see a creature much like a man, with glittering gems for eyes and
+rocky skin.  Huge and muscular in its way, it stomps about, gaping with its
+mouth and pounding into the air with its stony fists.
+~
+10 131072 20 S
+13 5 5 5d10+10 1d1+1
+0 0
+8 8 0
+#120
+aerial servant~
+an aerial servant~
+An aerial servant is here, doing the bidding of its master.
+~
+   You see a bird-like man, squaking at having to do the bidding of its 
+master.  It crouches on birdlegs and holds its arms out, letting the feathers
+fall like the hem of a cloak.  It seems frightened and only wishes to do as
+it's told.
+~
+40970 4194304 100 S
+2 10 5 5d10+10 1d1+1
+0 0
+8 8 0
+#121
+wriggling snake serpent~
+the wriggling snake~
+A wriggling serpent is here, hissing evilly.
+~
+   You see an immense serpect, large enough to be a python, yet clearly its
+markings show it to be a deadly snake! Behind its eyes you sense an unfeeling
+alien mind ... this beast, that only moments ago was a mere stick!
+~
+40970 0 0 S
+6 10 5 3d8+10 1d1+1
+0 0
+8 8 0
+#122
+shimmering phantasm phantom~
+the phantasm~
+A shimmering phantasm is here, like a ghostly shade from a wierd nether hell.
+~
+   You see a huge green cloak-like phantasm, floating eerily its mouth wide
+and agape... it seems to be reaching in to cloak you and then bite with its
+vicious teeth. Never before did an apparition seem so real!
+~
+40970 4194304 0 S
+1 10 5 5d10+10 1d1+1
+0 0
+8 8 0
+#125
+elemental earth~
+the earth elemental~
+A massive chunk of earth and stone stands here in silence.
+~
+The earth elemental is large and clumsy in appearance.  It has a face
+of granite that shows no emotion whatsoever.  The body of the beast
+stands fifteen feet high, and it is half as broad.  You would guess
+that the weight of one of these creatures could crush several men.
+~
+65544 131072 0 S
+15 20 20 20d20+1 6d6+10
+0 0
+8 8 0 7
+#126
+elemental water~
+the water elemental~
+A standing whirlpool of seawater takes a rough shape before you.
+~
+Looking into the whirlpool you see floating bits of seaweed and other
+things you don't recognize.  The swirling waters shift and churn
+and seem to turn to orient on you.
+~
+1638408 131072 0 S
+18 20 10 1d1+60 1d1+10
+0 0
+8 8 0 12
+#127
+elemental air~
+the air elemental~
+A misty cloud of vapor coalesces before you.
+~
+The air elemental is formed of mist and vapor, yet it has the ability to
+solidify. A strange whirring sounds emenates from the center of the
+mass.
+~
+65544 196608 0 S
+19 20 10 1d1+0 1d1+5
+0 0
+8 8 0 1
+#128
+elemental fire~
+the fire elemental~
+A mass of molten fire swells up in the center of the room.
+~
+The fire elemental emits a tremendous ammount of heat.  The flames
+twist and crackle across it's form.  Two spots of brilliance you
+assume to be it's eyes orient on you and seem to stare straight
+through you.
+~
+8 65536 0 S
+18 20 10 1d1+0 1d1+20
+0 0
+8 8 0 3
+#130
+goblin~
+the goblin~
+A goblin is here, following orders.
+~
+  You look at the goblin and see it is crudely armed and not very
+wary. It looks dully about itself to see what might be going on, but
+not with much success.
+~
+10 1024 -500 S
+6 5 5 5d10+10 1d1+1
+0 0
+8 8 1
+#131
+ogre~
+the ogre~
+An ogre is here, dully looking about.
+~
+   You see a tall and fattish man, with dirty skins for clothes.  He wields
+a stone tipped spear and growls feircely at his enemies.  He uses a simple
+leather shield and wears a worm-eaten fur around his waist, held up by a
+crude skull buckle.  He walks about on taloned feet and snarls at you.
+~
+10 1024 -500 S
+9 5 5 5d10+10 1d1+1
+0 0
+8 8 1
+#132
+hill giant~
+the hill giant~
+A hill giant is here, looking confused but wary.
+~
+   You see a large and stupid hill giant holding a tree limb for a club.
+Wearing badly-tanned furs and some leather armor, he looks badly prepared
+to do any useful work.  He looks a little dazed but wary for any danger,
+and he hefts his club as if to smash it down.
+~
+8202 1024 -500 S
+12 5 5 5d10+10 1d1+1
+0 0
+8 8 0
+#140
+vrock demon~
+the vrock~
+A bird-like demon stands here, in a rage over being summoned.
+~
+The vrock is a powerful demon from the abyss.  It looks
+somewhat birdlike, but it's body is scaley, not covered
+in feathers.
+~
+174090 4195328 -900 S
+14 5 20 5d10+10 1d1+12
+0 0
+8 8 0
+#141
+hezrou demon~
+the hezrou~
+A toad-like demon is here, angry to be pulled from his plane.
+~
+The hezrou is a demon from the abyss.  It has a shape like
+a toad, with a large mouth and powerful jaws.
+~
+174090 1088 -900 S
+16 5 10 5d10+10 1d1+16
+0 0
+8 8 0
+#142
+glabrezou demon dog~
+the glabrezou~
+A dog-like demon from the nether planes stands ready to turn on it's master.
+~
+The glabrezou is among the most feared demons of the abyss.  It has
+a broad, dog-like head, and fierce slashing teeth.  Of the demons
+most feared in the abyss, none stands above this mighty beast.
+~
+174090 1024 -950 S
+18 5 0 5d10+10 1d1+20
+0 0
+8 8 0
+#145
+demon vrock~
+the vrock~
+A bird-like demon is here in a rage.
+~
+This one when you succeed.
+~
+8 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#146
+demon hezrou~
+the hezrou~
+A toad-like demon is furious he was called from his home.
+~
+This is success gate two.
+~
+8 0 0 S
+18 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#147
+demon glabrezou dog~
+the glabrezou~
+A large, dog-like demon is here writhing in fury.
+~
+success for gate three
+~
+8 0 0 S
+21 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#150
+clone~
+the clone~
+A clone is here, a mere husk of a living thing.
+~
+Except for the vacant stare of its eyes, it could easily be mistaken
+for you... Gosh, are you really that ugly?
+~
+40970 0 0 S
+6 10 5 5d10+10 1d1+1
+0 0
+8 8 0
+#160
+insect plague insects~
+the insect plague~
+A huge carpet of insects of all types, fly, buzz, bite and creep in a plague.
+~
+   You see a crawling mass of insects of all types!  There are biting flies,
+midges, wasps, bees, scorpions, beetles, giant ants, dragonflies, all 
+scurrying, flying, buzzing and biting in a massive plague; they move with
+a single-minded purpose.
+~
+40970 4260864 0 S
+8 10 5 5d10+10 1d1+1
+0 0
+8 8 0
+#170
+invisible stalker~
+the invisible stalker~
+An invisible stalker is here, on an errand for its master.
+~
+You see a wisp of living shadow, flittering about aimlessly.
+~
+40970 2 0 S
+1 10 5 5d10+10 1d1+1
+0 0
+8 8 0
+#180
+wart toad~
+a wart toad~
+A wart toad is here, croaking loudly, but unnoticed.
+~
+You see a wet and slimey but great looking toad. It sits somewhat quietly 
+and seems to be watching surrounding events with a bit of interest. You
+always thought that frogs were at best, of lowly intellect, but behind this
+one's eyes you sense power, and ... some unnameable presence.
+~
+10 96 0 S
+1 16 10 2d6+3 1d1+1
+0 0
+8 8 0
+#181
+raven crow bird~
+a raven~
+A raven is here, cawing loudly and eyeing passersby.
+~
+You see a large black bird that watches you with its black eyes. It looks
+about itself, supremely aware of who you are. It rustles its feathers when
+you look at it and regards you with an uncanny intellect...
+~
+10 4194336 0 S
+1 16 10 2d6+6 1d1+1
+0 0
+8 8 0
+#182
+black cat~
+a black cat~
+A black cat is here, crossing your path with a meow.
+~
+You see a really uncanny black cat. Its fur is a bright glossy black, and its
+eyes are wondrously lusterous. It arches its back when it sees you look at it
+and runs across your path.
+~
+10 65560 0 S
+1 16 10 2d6+1 1d1+1
+0 0
+8 8 0
+#183
+wise owl~
+a wise owl~
+A wise owl is here hooting and moving with almost supernatural silence.
+~
+You see a grand old owl. It peers over its nose back and you and hoots. It
+regards you almost as if you were a mouse to eat it is so intent. The owl
+looks around quietly and seems to notice more than an owl should, clearly
+regarding you with an uncanny intelligence.
+~
+10 4456448 0 S
+1 16 10 2d3+1 1d1+1
+0 0
+8 8 0
+#184
+black rat~
+a black rat~
+A black rat is here, peeping about, twitching its whiskers.
+~
+You see a sleek black rat peeping back at you. It scurries about in a manner
+that is not quite right for a rat. It seems to have more intellect behind its
+manner and it watches you with a keen interest. Its whiskers twitch as if to
+signify an intelligence far beyond that of a mere rat...
+~
+10 263168 0 S
+1 16 10 2d3+1 1d1+1
+0 0
+8 8 0
+#185
+snake~
+a snake~
+A snake is here, coiled and flicking its tongue with interest.
+~
+You see a beautifully patterned snake, watching you with uncommon interest.
+It begins to dawn on you that this snake is no mere snake for it seems to 
+understand its surroundings far better than it should, and it seems to be
+considering you, sizing you up.
+~
+10 1024 0 S
+1 16 10 2d6+3 1d1+1
+0 0
+8 8 0
+#99999
+$~

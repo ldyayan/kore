@@ -1,0 +1,70 @@
+#48
+Bardic Colleges~
+4899 30 2
+O 0  4803 10  4805		a pewter mug of ale
+O 0  4804 10  4806		a small tuning fork
+O 0  4805 10  4807		a coiled cello string
+O 0  4806 10  4811		a metronome
+O 0  4807 10  4812		a musical note
+O 0  4808 10  4815		a block of resin
+O 0  4809 10  4816		a crumpled piece of sheet music
+O 0  4810 10  4817		a singer's pitch-pipe
+O 0  4811 10  4818		a guitar pick
+O 0  4812 10  4819		a small reed
+M 0  4805  1  4822		the vampire bat
+M 0  4805  1  4823		the vampire bat
+M 0  4805  1  4824		the vampire bat
+O 0  4813 10  4824		a magic carpet
+M 0  4805  1  4826		the vampire bat
+M 0  4805  1  4826		the vampire bat
+M 0  4805  1  4830		the vampire bat
+M 0  4805  1  4830		the vampire bat
+M 0  4805  1  4830		the vampire bat
+M 0  4805  1  4831		the vampire bat
+M 0  4805  1  4835		the vampire bat
+M 0  4806  1  4838		the bad note
+M 0  4806  1  4841		the bad note
+M 0  4807  1  4843		the Thunder Drum
+M 0  4806  1  4843		the bad note
+M 0  4806  1  4846		the bad note
+M 0  4806  1  4848		the bad note
+M 0  4806  1  4851		the bad note
+M 0  4808  1  4853		the Animated Recorder
+M 0  4809  1  4855		the Will o' Wisp
+M 0  4809  1  4857		the Will o' Wisp
+M 0  4809  1  4859		the Will o' Wisp
+M 0  4809  1  4861		the Will o' Wisp
+M 0  4809  1  4863		the Will o' Wisp
+M 0  4809  1  4865		the Will o' Wisp
+M 0  4810  1  4866		Big-Daddy Will o' Wisp
+M 0  4811  1  4869		the Harpy
+M 0  4811  1  4870		the Harpy
+M 0  4811  1  4871		the Harpy
+M 0  4811  1  4872		the Harpy
+M 0  4811  1  4873		the Harpy
+M 0  4811  1  4874		the Harpy
+M 0  4811  1  4875		the Harpy
+M 0  4811  1  4876		the Harpy
+M 0  4811  1  4877		the Harpy
+M 0  4811  1  4878		the Harpy
+M 0  4811  1  4879		the Harpy
+M 0  4811  1  4880		the Harpy
+M 0  4811  1  4881		the Harpy
+M 0  4811  1  4882		the Harpy
+M 0  4811  1  4883		the Harpy
+M 0  4811  1  4884		the Harpy
+M 0  4812  1  4891		Ilwar's bodyguard
+M 0  4813  1  4892		Ilwar
+M 0  4814  1  4893		the office person
+M 0  4815  1  4894		the Master of the Dagger
+M 0  4816  1  4895		the Master of the Staff
+M 0  4817  1  4896		the Master of the Short Sword
+M 0  4818  1  4897		the Master of the Long Sword
+M 0  4819  1  4898		the Master of the Mace
+M 0  4820  1  4899		the Master of the Bastard Sword
+D 0  4801  0  2			Turning Point Door North
+D 0  4801  1  2			Turning Point Door East 
+D 0  4801  2  2			Turning Point Door South
+S
+#99
+$~

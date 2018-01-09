@@ -1,0 +1,1892 @@
+#22000
+The Overlook~
+  Down below narrow channels twist through the dense clumps of reeds
+and cattails. Soot-laden mists waft like a slow motion sandstorm. Now
+and again the mists subside for a moment, revealing a overcast. 
+~
+220 0 5
+D5
+A pane of shatter-proof glass blocks your entry into the Grey Marshes.
+~
+Unbreakable Glass~
+2 22086 22001
+S
+#22001
+The Grey Marsh~
+   Narrow channels twist through the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Now and again the mists subside
+for a moment, revealing a backlit overcast sky.  They return an instant
+later and resume their dizzy aimless wandering.
+~
+220 20 6
+D0
+~
+~
+2 0 22002
+D1
+~
+~
+2 0 22003
+D2
+~
+~
+0 0 2230
+S
+#22002
+The Grey Marsh~
+   Narrow channels twist between the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Now and again the mists subside
+for a moment, revealing a backlit overcast sky.  They return an instant
+later and resume their dizzy aimless wandering.
+~
+220 0 6
+D0
+~
+~
+0 0 22002
+D1
+~
+~
+0 0 22002
+D2
+~
+~
+0 0 22002
+D3
+~
+~
+0 0 22004
+S
+#22003
+The Grey Marsh~
+   Narrow channels weave between the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Swarms of insects infest the watery
+pathways, filling the air with a constant angry drone.
+~
+220 64 6
+D0
+~
+~
+0 0 22012
+D1
+~
+~
+0 0 22003
+D2
+~
+~
+0 0 22003
+D3
+~
+~
+0 0 22001
+S
+#22004
+The Grey Marsh~
+   Narrow channels twist between the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Now and again the mists subside
+for a moment, revealing a backlit overcast sky.  They return an instant
+later and resume their dizzy aimless wandering.
+~
+220 0 6
+D0
+~
+~
+0 0 22005
+D1
+~
+~
+0 0 22004
+D2
+~
+~
+0 0 22002
+D3
+~
+~
+0 0 22002
+S
+#22005
+The Grey Marsh~
+   Narrow channels twist between the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Now and again the mists subside
+for a moment, revealing a backlit overcast sky.  They return an instant
+later and resume their dizzy aimless wandering.
+~
+220 0 6
+D0
+~
+~
+0 0 22005
+D1
+~
+~
+0 0 22005
+D2
+~
+~
+0 0 22002
+D3
+~
+~
+0 0 22006
+S
+#22006
+The Grey Marsh~
+   Ripples tread across the grey filmed water.  A constant low-pitched
+buzz pulses from the north where a black disc appears to hover, mid-air.
+The reeds quiver.  A cattail pops like a tiny firework, releasing
+a bloom of downy seeds.  The black disc gyrates languidly as a coin
+cast hastily upon a bartop in the empty moment between leavetaking
+and departure.
+~
+220 0 6
+D0
+~
+~
+0 0 22007
+D1
+~
+~
+0 0 22006
+D2
+~
+~
+0 0 22008
+D3
+~
+~
+0 0 22004
+E
+north~
+To the north lies a rock, completely blackened and charred by the violent
+electrical storm that rages in that direction.  It would be suicidal to
+try and traverse the area.
+~
+S
+#22007
+THE DEADLY BLACKENED ROCK~
+   This big slab of rock must have a high iron content, because it sure does
+attract lightning!!!  It's dotted with the blackened carcasses of other hap-
+less creatures who sought a dry, safe haven.  In an instant yours will join
+them!
+~
+220 14 0
+S
+#22008
+The Grey Marsh~
+   Narrow channels twist between the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Now and again the mists subside
+for a moment, revealing a backlit overcast sky.  They return an instant
+later and resume their dizzy aimless wandering.
+~
+220 0 6
+D0
+~
+~
+0 0 22008
+D1
+~
+~
+0 0 22005
+D2
+~
+~
+0 0 22006
+D3
+~
+~
+0 0 22009
+S
+#22009
+The Grey Marsh~
+   Narrow channels twist between the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Now and again the mists subside
+for a moment, revealing a backlit overcast sky.  They return an instant
+later and resume their dizzy aimless wandering.
+~
+220 0 6
+D0
+~
+~
+0 0 22010
+D1
+~
+~
+0 0 22007
+D2
+~
+~
+0 0 22009
+D3
+~
+~
+0 0 22006
+S
+#22010
+The Grey Marsh~
+   Narrow channels twist between the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Now and again the mists subside
+for a moment, revealing a backlit overcast sky.  They return an instant
+later and resume their dizzy aimless wandering.
+~
+220 0 6
+D0
+~
+~
+0 0 22011
+D1
+~
+~
+0 0 22009
+D2
+~
+~
+0 0 22010
+D3
+~
+~
+0 0 22006
+S
+#22011
+The Grey Marsh~
+   A foul bronzegreen odor arrives on the breeze that sweep away
+the confounding mists.  A series of tall sheer cliffs rise to the 
+north and east, their crests undistinguishable against the mottled
+overcast sky.  Large jagged rocks stud the landscape like broken eggs
+in a looted nest.  The rocks form a trail that leads north and west
+to a narrow strand that lies between the cliffs and a nameless 
+body of water.
+~
+220 84 4
+D2
+~
+~
+0 0 22010
+D9
+~
+~
+0 0 22022
+S
+#22012
+The Grey Marsh~
+   Ripples tread across the grey-filmed water.  A constant low-pitched
+buzz pulses from the north where a black disc appears to hover, mid-air.
+The reeds quiver.  A cattail pops like a tiny firework, releasing
+a bloom of downy seeds.  The black disc gyrates languidly as a coin
+cast hastily upon a bartop in the empty moment between leavetaking
+and departure.
+~
+220 64 6
+D0
+~
+~
+0 0 22007
+D1
+~
+~
+0 0 22013
+D2
+~
+~
+0 0 22003
+D3
+~
+<no name>~
+0 0 22012
+S
+#22013
+The Grey Marsh~
+  Ripples tread across the grey-filmed water.  A constant low-pitched
+buzz pulses from the north where a black disc appears to hover, mid-air.
+The reeds quiver.  A cattail pops like a tiny firework, releasing
+a bloom of downy seeds.  The black disc gyrates languidly as a coin
+cast hastily upon a bartop in the empty moment between leavetaking
+and departure.
+~
+220 64 16
+D0
+~
+~
+0 0 22007
+D1
+~
+~
+0 0 22003
+D2
+~
+~
+0 0 22014
+D3
+~
+~
+0 0 22012
+S
+#22014
+The Grey Marsh~
+   Narrow channels weave between the dense clumps of reeds and cattails.
+Soot-laden mists waft like a slow motion sandstorm transforming the
+spiny landscape into a grey maze.  Swarms of insects infest the watery
+pathways, filling the air with a constant angry drone.
+~
+220 64 6
+D0
+~
+~
+0 0 22013
+D1
+~
+~
+0 0 22015
+D2
+~
+~
+0 0 22014
+D3
+~
+~
+0 0 22012
+S
+#22015
+The Grey Marsh~
+   Ripples tread across the gery-filmed water.  A constant low-pitched
+buzz pulses from the north where a black disc appears to hover, mid-air.
+The reeds quiver.  A cattail pops like a tiny firework, releasing
+a bloom of downy seeds.  The black disc gyrates languidly as a coin
+cast hastily upon a bartop in the empty moment between leavetaking
+and departure.
+~
+220 64 6
+D0
+~
+~
+0 0 22007
+D1
+~
+~
+0 0 22016
+D2
+~
+~
+0 0 22003
+D3
+~
+~
+0 0 22012
+S
+#22016
+The Grey Marsh~
+   Rotted planks and timbers rest in a half-submerged jumble between
+five stone pilings.  Reeds and cattails grow in sparse clumps upon
+the wreckage.  A line of algae-slick, squared off stones extends
+north and south into the dense marsh growth.  It descends downward
+into blackness.
+~
+220 64 6
+D0
+~
+~
+0 0 22016
+D2
+~
+~
+0 0 22016
+D3
+~
+~
+0 0 22012
+D5
+~
+~
+0 0 22017
+S
+#22017
+An Overgrown Canal~
+   The old stone walls are crumbling.  The old high-water mark is barely
+visible.  Moss sprouts between each stone creating a cargo-net web
+of green.  The floor of the canal is firm and slick with mud.
+The reeds thrive.  They grow dense as bread rising in an earthenware
+bowl forming a chinkless barrier, impenetrable without a great deal
+of effort.
+~
+220 321 6
+D0
+~
+<NONE>~
+0 0 22018
+D4
+~
+~
+0 0 22016
+S
+#22018
+An Overgrown Canal~
+The old stone walls are crumbling.  The old high-water mark is barely
+visible.  Moss sprouts between each stone creating a cargo-net web
+of green.  The floor of the canal is firm and slick with mud.
+The reeds thrive.  They grow dense as bread rising in an earthenware
+bowl forming a chinkless barrier, impenetrable without a great deal
+of effort.
+~
+220 321 6
+D0
+~
+<NONE>~
+0 0 22019
+D2
+~
+<NONE>~
+0 0 22017
+S
+#22019
+An Overgrown Canal~
+The old stone walls are crumbling.  The old high-water mark is barely
+visible.  Moss sprouts between each stone creating a cargo-net web
+of green.  The floor of the canal is firm and slick with mud.
+The reeds thrive.  They grow dense as bread rising in an earthenware
+bowl forming a chinkless barrier, impenetrable without a great deal
+of effort.
+~
+220 321 6
+D0
+~
+<none>~
+0 0 22020
+D2
+~
+<NONE>~
+0 0 22018
+S
+#22020
+Fallen Stone Gates~
+   Rust colored water pools between two stacks of stone slabs heaped like
+fractured ivory tiles.  An iron catwalk juts from the center of the pool
+another dangles like a skeletal pendant from the lip of the stone wall.
+A narrow stone stairway protrudes from the eastern wall ascending half
+way where they cease.  A series of square holes, each bearded with a streak
+of rust, complete the ascent.  A gutted stone house looms over the tableau
+it's twin gables framing nothing but sky like a pair of hands illustrating
+the dimensions of an escaped prize.
+~
+220 64 5
+D2
+~
+~
+0 0 22019
+D4
+~
+~
+0 0 22021
+S
+#22021
+Fractured Stone Slabs~
+   The slab, when intact, are the width of the canal.  Windows in the stone
+house frame the curve of large gears and other machinery.  Icy winds arrive
+from the canal to the east.  A grotesquely twisted steel girder corkscrews
+out of the water at the base of the heap like the headless neck of a
+water bourne leviathan.  A wreath of expertly coiled ropes hangs upon the
+end of the twisted girder.
+~
+220 0 6
+D1
+~
+~
+0 0 22035
+D5
+~
+~
+0 0 22020
+S
+#22022
+Jagged Rocks And Scree~
+   Large jagged rocks and scree form a narrow strand cramped between
+a flat expanse of grey water and a series of high uneven cliffs that run
+north and east.  A putrid, bronzegreen odor arrives on the breezes
+that fan across the water.  The water itself froths and seethes as it laps
+against the rocky shoreline.  The strand winds north and west toward
+a squat rocky butte.
+~
+220 64 5
+D0
+~
+~
+0 0 22023
+D3
+~
+~
+0 0 22061
+D7
+~
+~
+0 0 22011
+S
+#22023
+Jagged Rocks And Scree~
+  The strand dwindles to a narrow trail butted against a sheer cliff
+its crest an indistinct smear of grey against the overcast sky.  The
+trail begins to peter out to the northwest, reduced to a series of
+widely spaced stones.  The stones rise like a broken stairway, ascending
+toward the squat butte that rises from the foul water.
+~
+220 64 5
+D2
+~
+~
+0 0 22022
+D5
+~
+~
+0 0 22061
+D9
+~
+~
+0 0 22024
+S
+#22024
+A Perilous Trek~
+   A crowd of large birds, grey as the rocks, glide and wheel like ashes
+twirled up from a smouldering fire.  Their persistant calls, a flinty
+shriek, echo off the cliffs.  Tremendously irritating.  One of the birds
+suddenly plummets from its lazy glide toward certain collision with
+the rocky shore.  Then it reappears, aloft, the limp form of some hapless
+creature clasped in its talons.
+   The stones that form the broken stairway to the butte are slick with
+bird droppings.  One slip means instant death in the foul waters below.
+~
+220 64 5
+D1
+~
+~
+0 0 22061
+D3
+~
+~
+0 0 22061
+D4
+~
+~
+0 0 22025
+D5
+~
+~
+0 0 22061
+D7
+~
+~
+0 0 22023
+S
+#22025
+A Rugged Path~
+   The trail drives upward at a nearly vertical pitch.  The ledge 
+at its base, tiny as the stoop of a dowager's cottage, is littered
+with loose jagged stones.  Low swift clouds sail along the crest
+like a gauzy, endless winding sheet.
+~
+220 64 5
+D4
+~
+~
+0 0 22027
+D5
+~
+~
+0 0 22024
+S
+#22026
+Aboard The Packet Boat~
+   The broad-beamed shallow draft boat is little more than a small
+barge with a raked, angular prow.  A rusty saw-toothed blade, bolted
+to the bowspirit, extends down into the water.  A single mast carries
+a sail decorated in the fashion of a carnival tent.  The boats' cat
+occupies the only seat aboard.
+~
+220 0 1
+S
+#22027
+Atop The Butte~
+   Low, fast moving clouds sail past the crestline but do not obscure
+the view from the butte.  Green foothills rise above the line of cliffs
+to the east and behind the foothills, a range of white mountains.
+The tabletop of the butte is clean of debris, save a large hollow log.
+A mackarel sky, shot through with streaks of crimson, orange and the
+amethyst of royalty, arcs high above and points west.  An enchanted
+road, cobbled with excitement and comradarie.  But not without peril.
+~
+220 64 5
+D5
+~
+~
+0 0 22025
+S
+#22028
+Trail Through The Ferns~
+  The tang of woodsmoke, a commotion of grunts, shrieks of terror,
+rough laughter punctuated by the certain thumping chop of slaughter
+arrive from the south.  The enchanted trail dissolves.  An unfathomable
+maze of fronds.  A clearing lies to the south.
+~
+220 148 3
+D2
+~
+~
+0 0 22046
+S
+#22029
+An Archers' Sconce~
+   Four firing slits, each three hands wide, arc from the pine-planked floor
+to the raked ceiling of the blood-blister like sconce.  Thin steel cones
+nest in iron racks between each slit.  A bouquet of flights blooms from each
+of the cones like a spray of deadly irises.
+~
+220 9 1
+D0
+~
+iron door~
+1 0 22076
+E
+slit~
+  Imagine the seat in a grandstand with the widest and clearest vantage
+of the parade ground beneath it.  A competent archer could strike down
+any figure loitering far out on the stony spine of the causeway or loose
+a hail of death upon invaders storming the gate directly beneath.  Both
+with total impunity.
+~
+S
+#22030
+Beneath The Stone Turret~
+   Two footlamps cast a pool of dim orange light illuminating the base
+of an iron ladder that ascends the inner wall.  Three slats of light 
+seem to float upon the outer wall from knee height to the stone ceiling
+revealing the weather but nothing else.  Sounds of merriment, thin strains
+of music and broken choruses of laughter arrive from a source unseen
+and fade mid-echo like the face of a stranger illuminated for the moments
+he passes beneath a lamp on a night-darkened street.
+~
+220 9 1
+D0
+~
+~
+0 0 22078
+D1
+iron grating
+~
+iron grating~
+2 22032 22039
+D2
+~
+~
+0 0 22079
+D4
+~
+iron trapdoor~
+1 0 22077
+S
+#22031
+Grievious Bodily Harm~
+  You step from the safety of the nest into mid-air.  Suddenly the ground
+rises to meet you!
+~
+220 128 1
+E
+slit~
+   The azure waters spread like an open bolt of taffeta across a vast table.
+The pennants atop the masts supporting the pavillion below crack against
+the slim breezes.
+~
+S
+#22032
+Upon The Ramparts~
+   A series of footlamps set in the crotch of the inner wall broadcast pools
+of dim orange light describing the arc of the ramparts north and south.
+Twin firing slits reveal the weather.  The meager light they admit illuminates
+the tops of steel cones filled with crossbow bolts.
+~
+220 9 1
+D0
+~
+~
+0 0 22080
+D2
+<NONE>
+~
+~
+0 0 22074
+S
+#22033
+Upon The Ramparts~
+   A single firing slit rises from knee height to the stone ceiling in the
+outer wall revealing a slat of landscape like a strip of a shredded fabic
+but provides no illumination.  Footlamps broadcast pools of dim orange that
+ride the crotch of the inner wall like paper lanterns set adrift on calm
+darkened waters describing an arc south.
+~
+220 0 1
+D2
+~
+~
+0 0 22034
+S
+#22034
+Upon The Ramparts~
+  A single firing slit rises from knee height to the stone ceiling in the
+outer wall revealing a slat of landscape like a strip of a shredded fabic
+but provides no illumination.  Footlamps broadcast pools of dim orange that
+ride the crotch of the inner wall like paper lanterns set adrift on calm
+darkened waters describing an arc north and south.
+~
+220 0 1
+D0
+~
+~
+0 0 22033
+D2
+~
+~
+0 0 22074
+S
+#22035
+A Narrow Channel~
+   Ranks of skeletal trees, their shadeless limbs a tangled silhouette of
+umber against the overcast sky, bracket the canal.  Immense stone slabs
+and twisted iron structures jut from the water like monuments in a neglected
+cemetary.  The scum of clouds arches north above a shallow dome of azure
+grey where they meld into a blur; the entrance to a vast tract of water
+without apparent limits.
+~
+220 0 12
+D0
+  The mouth of the channel opens onto a vast pane of open water.
+~
+~
+0 0 22036
+D3
+~
+~
+0 0 22021
+S
+#22036
+Sailing Upon Open Waters~
+   A thin smear of grey and a squal line to the south are the only indications
+of dry land.  A scum of grey hovers in a great arch above the shallow dome
+of azure-grey water like the lid of a cauldron stack atop another.  An endless
+cordouroy of waves tread before an icy wind.  Bitter cold without respite.
+~
+220 0 12
+D0
+~
+~
+0 0 22037
+D2
+~
+~
+0 0 22035
+S
+#22037
+Sailing Upon Open Waters~
+   An endless cordouroy of waves tread before an icy wind; bitter cold
+without respite.  A scum of overcast hovers above the shallow dome of
+azure grey water like the lid of a cauldron resting atop another.  Night
+is depthless as a coma.
+~
+220 0 12
+D0
+~
+~
+0 0 22043
+D2
+~
+~
+0 0 22036
+S
+#22038
+Curtained Portal~
+  The curtained portal is well hidden. With only on way in, but two
+different ways out. The room is mostly bare other then the rows of
+candles that light the room up. There is a draft coming up from the
+storage chamber below.
+~
+220 0 0
+D3
+~
+velvet curtain~
+1 0 22081
+D5
+~
+~
+0 0 22073
+S
+#22039
+The Liquor Closet~
+   Bottles and flagons containing a multi-colored array of liquors stand
+in ranks on the shelves that rise above a small cupboard on the northern
+wall.  Several large wooden kegs stand in a pool of beer at the southern
+wall.
+~
+220 9 0
+D1
+~
+panel~
+2 22078 22095
+D3
+~
+iron grating~
+2 22032 22030
+S
+#22040
+The Armoury~
+   A menacing array of weapons rest in wooden bays flanking the western
+portal.  Deeper into the room a revolving iron rack bears complete kits
+of armour.  Each arrival turns the rack until he locates his kit, suits
+up then marches out, grabbing his weapons as he exits.
+~
+220 0 0
+D1
+~
+~
+0 0 22072
+S
+#22041
+A Floating Pavillion~
+   Flagstaffs rise from the twin conical peaks of the azure striped canvas
+pavillion.  A variety of ensigns, mostly unfamiliar, snap against the breeze.
+Inside, a small band plays martial music.  A wizened old man steps from
+behind a small hardwood lecturn and greets the newly arrived guests.
+~
+220 192 6
+D4
+~
+~
+0 0 22083
+D8
+~
+~
+0 0 22043
+S
+#22042
+Across The Causeway~
+   A spine of jagged rocks, topped with hard-packed earth, rides 
+across a narrow crescent of water toward twin blooms of black smoke.
+Strong winds buffet the azure grey water.  Whorls of dust rise from
+the causeway, revolving like wagon wheels.  The smoke is unaffected
+by the wind, it ascends and ascends, black trunks supporting a canopy
+of overcast sky.
+~
+220 68 5
+D1
+~
+~
+0 0 22049
+D3
+~
+~
+0 0 22044
+S
+#22043
+Sailing Upon Open Waters~
+   A purplish dot appears far away to the northeast.  The dot hovers
+then ducks.  The dot becomes a hand grasping a thin staff that waves
+a black pennant.  Not a hand, a ship, perched on the cusp of the
+horizon, belching smoke.  Could it be in distress?  No.  Twin chimneys
+tower above mottled grey castle.  A small structure, tents, hover
+before the castle...
+~
+220 64 12
+D2
+~
+~
+0 0 22037
+D6
+~
+~
+0 0 22041
+S
+#22044
+Across The Causeway~
+   Gusts of wind scoop up dust from the hard packed earth, hurl it
+into the air.  Waterspouts lurch jerkily about the narrow sound,
+disintegrating in a wet firework bloom as they collide with the rocky
+spine.  A scrap of parchment crawls across the road bed until it lies
+plastered against a rock.  A second gust snaps it into the water.
+Twin chimneys rise from a grey blob to the west.
+~
+220 64 5
+D1
+~
+~
+0 0 22042
+D3
+~
+~
+0 0 22064
+S
+#22045
+A Quiet Place~
+   Stout brown trunks rise like columns in an arboreal cathedral roofed
+with a canopy of deep greens.  A sweet fecundity perfume the air. Aeons
+of needles carpet the forest floor, comfortable to rest upon as 
+a favorite upholstered chair.  A bank of ferns to the west parts,
+revealing a trail.
+~
+220 84 6
+D3
+~
+~
+0 0 22028
+S
+#22046
+Rough Trade~
+  A dome of thin grey clouds, shot through with the putrid yellows of
+a half healed bruise, hovers over the clearing.  The tang of woodsmoke
+charred meat and unwashed bodies worms through the air.  Bands of slave
+takers arrive with captives in tow; trail-weary, their countenances blank
+as stumps.  A clean, lightly-armed soldier greets the chief of each band,
+takes charge of the captives.  He leads them to a pen where a hairless giant
+presides.  The giant scrutinizes each captive and swiftly beheads those
+presenting a glimmer of spirit.  The raiders mix and trade booty.  The
+surviving captives are lead down a rough trail toward a rocky shore.
+~
+220 0 2
+D0
+~
+~
+0 0 22047
+D1
+~
+~
+0 0 22048
+D2
+~
+iron banded~
+1 0 22050
+D3
+~
+~
+0 0 22049
+S
+#22047
+A Rude Log Hutment~
+   A pall of smoke loiters in the rafters.  Guards and raiders bray
+about their exploits as they gamble.  They pour a river of liquor
+down their throats.  They bicker over the outcome of their dice and
+peg games.  Fights erupt.  The winners of these contests resume their
+bragging, gaming and smoking.  The losers bleed profusely.
+
+~
+220 0 0
+D2
+~
+rough plank~
+0 0 22046
+S
+#22048
+SCRUTINIZED AND BEHEADED~
+  You wander into the holding pen.  The hairless giant takes one look at you
+and instantly senses you'd make a lousy slave. You have too much charisma,
+you'd most likely incite your fellow captives to rise up and overthrow the
+masters!  We can't have that, now, can we? The giant beheads you with one,
+swift, practiced motion...
+~
+220 10 0
+D3
+~
+~
+0 0 22046
+S
+#22049
+Trail To The Causeway~
+  A wide, hard-packed rut worn by the shuffle of a thousand souls drives
+west and down toward a rocky shore.  The forest thins to a few stands
+of scraggely conifers, their tops hobbled the direction of the wind.
+A faded paisely shift caught in the limbs of a lone fire like a snagged
+kite balloons, inflated by a sudden gust, then goes lax.  Here and there
+on the trail: a flattened pink slipper, a well-gnawed rib bone and
+the neck of a blue bottle.  A scattering of shards ground into the dirt.
+~
+220 64 3
+D1
+~
+~
+0 0 22046
+D3
+~
+~
+0 0 22042
+S
+#22050
+A Small Blockhouse~
+  Grey linens imprinted with a pattern of batwinged eagles drape the walls.
+A flight of steps with a rough-hewn bannister ascends along the eastern
+wall below a slot in the ceiling.  A young woman, clad in crisp Kahkis
+sits at a small maple desk.  A large portrait of a man, distinguished
+from the neck up and flanked by two slim wulfhounds, hangs behind her.
+A door just larger than the painting leads south.
+~
+220 8 0
+D0
+~
+iron banded door~
+1 0 22046
+D2
+~
+iron door~
+2 22002 22052
+S
+#22051
+The Hourglass~
+   The room transforms from a gaping maw to a narrow throat.  The walls
+pitch inward and the ceiling downward where they meet at an iron door
+to the north.  The floor is paved with skull-shaped tiles, fired with
+a slick azure glaze.  A five-headed gargoyle juts from the raked ceiling
+like a nightmare poised to devour its hapless dreamer.
+~
+220 9 0
+D0
+~
+iron door~
+2 22006 22053
+D2
+~
+~
+0 0 22071
+S
+#22052
+The Manager's Office~
+   Creature comforts borne of privilege adorn the rough quarters.
+A maple desk bearing enough fretwork to keep a craftsman occupied for
+a month acts as a centerpiece.  A red enamel teakettle steams quietly
+atop a small cast-iron stove.  A plain sideboard bears fruits and
+a freshly roasted capon as well as several decanters which certainly
+contain the finest of liquors.
+
+~
+220 8 0
+D0
+~
+iron door~
+2 22002 22050
+S
+#22053
+Top Of The Hourglass~
+   Sheer granite walls, seven arms high, flair out and northward from the 
+iron door like the funnel shaped chamber of an hourglass.  A blank wall caps
+the northern end of the chamber.  Archers, armed with crossbows, take aim
+from the gallery atop each wall.  A shaft of white light descends from
+the open mouth of a gargoyle suspended on a chain from the shallow domed
+ceiling.
+~
+220 0 1
+D1
+~
+barred gate~
+2 0 22056
+D2
+~
+iron door~
+2 22006 22051
+D3
+~
+iron door~
+2 0 22072
+S
+#22054
+Slaves Quarters~
+   Rows of bunks fill the room.  Guards patrol the aisles and roughly dis-
+cipline anyone talking, or doing anything but sleeping.  Every 6 hours a gong
+sounds, rousing the sleepers.  They roll out of bed and shuffle south toward
+the stairway.  Another group, bone weary, file up from the factory rooms
+below.  They collapse into their bunks and fall into merciful oblivion.
+~
+220 137 0
+D2
+~
+~
+0 0 22055
+S
+#22055
+Circular Stone Stairway~
+   The wide stone steps vibrate with the clank and rumbles of heavy metal
+fabrication, deep in the bowels of the fortress. Groups of slaves, eyes down
+cast, shuffle in both directions under the close scrutiny of their masters.
+~
+220 9 0
+D0
+~
+~
+0 0 22054
+D4
+~
+~
+0 0 22056
+D5
+~
+~
+0 0 22057
+S
+#22056
+The Branding Room~
+   Oil lamps suspended from the arched whitewashed ceiling cast a jaundiced
+glare on the proceedings: slave drivers march fresh captures past a series
+of stations where each is stripped of the last of his possessions, issued
+a rough tunic and a pair of sandals then marched in front of the chief driver.
+The chief assesses each and assigns him a duty.  A driver wielding a red
+hot iron steps forward.  Two other drivers take the slave roughly by the arms
+while the mark of the batwinged eagle is branded into his forehead.
+~
+220 8 0
+D3
+~
+barred gate~
+2 0 22053
+D5
+~
+~
+0 0 22055
+S
+#22057
+Circular Stone Stairway~
+   The steps, pie shaped stone slabs rooted to a central pillar, descend
+the round stone shaft like a line of huge dominos, each toppling the next.
+The steps vibrate with the clanks and rumbles of heavy metal fabrication
+deep in the bowels of the fortress.  Another sound, a rattling whoosh,
+constant as a river, arrives from below.
+~
+220 9 0
+D0
+~
+~
+0 0 22088
+D4
+~
+~
+0 0 22055
+D5
+~
+~
+0 0 22058
+S
+#22058
+Above The Coal Screws~
+   A gritty black haze rises from a trench filled by a stream of coal
+rushing toward the mouth of the furnace.  A group of men, black with dust
+toil on a ramp to the south; hefting scoopfuls of coal from a large pile
+into the screws.  To the north the staiway continues its descent into
+the shrieking bowels of the fortress.
+~
+220 8 0
+D0
+~
+~
+0 0 22062
+D2
+~
+~
+0 0 22059
+D4
+~
+~
+0 0 22057
+D5
+~
+~
+0 0 22060
+S
+#22059
+Coal Stokers' Ramp~
+   A whip cracks and three slaves haul on a stout chain.  A gout of coal 
+pours through an open hatch. A gang of slaves, armed with big wooden shovels,
+lay into the new pile. Black dust clings to their sweaty bodies and sweat-
+stained garments.  They work at a furious pace. The pile is barely gone
+before another arrives.  The screws below look like a final, lethal exit...
+~
+220 8 0
+D0
+~
+~
+0 0 22058
+D5
+~
+~
+0 0 22060
+S
+#22060
+CRUSHED IN THE SCREWS~
+   You arrive, for reasons unknown, and you are instantly pulverized between
+the screws.  Your remains are fed into the furnace and converted to ash which
+fly up a chimney and descend upon other adventurers. Hopefully they have more
+sense than you!
+~
+220 2 0
+D0
+~
+~
+0 0 22059
+D4
+~
+~
+0 0 22058
+S
+#22061
+A CAUSTIC POOL~
+   The thoroughly poisoned water instantly disinetgrates your armor.
+A bolt of excruciating pain smashes you senseless.  An oily spot on
+the water marks your final resting place.
+~
+220 2 0
+S
+#22062
+A Narrow Stone Staircase~
+   A set of steps descends a narrow slot between the solid living rock and
+the river of coal.  The racket is deafening: the muffled roar of the furnace,
+shrieks of the screws churning the rattling river of coal and the clanks
+thuds and wraith-like screams of twisting metal.  Sparks pop and sigh as
+clouds of coal dust waft behind the gritty glass of a small sconce at the head
+of the stairway.
+~
+220 72 0
+D2
+~
+~
+0 0 22058
+D5
+~
+~
+0 0 22063
+S
+#22063
+Dark Rumbling Tunnel~
+   A grimy sconce emits feeble light, just enough to illuminate the curve
+of the tunnel as it winds around the furnace.  The floor and walls rumble
+and shake like a barrel on a wagon travelling a bumpy road.  Gouts of hot
+air waft from the northwest.
+~
+220 9 0
+D4
+~
+~
+0 0 22062
+D9
+~
+~
+0 0 22065
+S
+#22064
+Across The Causeway~
+   Twin chimneys tower over a squat grey fortress that occupies all
+but a tiny seam of an elliptically shaped island.  A shaft of light
+pulses across the expanse of water from a turret perched like a sconce
+on the northern wall.  A weak yellow spark winks twice from the cusp
+of the horizon.  Another glimmer beckons for an instant to the west.
+~
+220 4 5
+D1
+~
+~
+0 0 22044
+D3
+~
+~
+0 0 22071
+S
+#22065
+Dark Rumbling Tunnel~
+   Blasts of hot air buffet the tunnel.  An acrid foul odor rides each gust
+and remains like an unwelcome houseguest.  A door to the northeast frames
+a ghoulish shadow puppet show, illuminated by orange and blue flashes.
+Gouts of sparks crawl across the grimy floor from the room beyond. They
+scintillate like phosphenes in an obsidian sea.
+~
+220 265 0
+D6
+~
+~
+0 0 22068
+D7
+~
+~
+0 0 22063
+S
+#22066
+Wide Stone Dock~
+   The dark fortress bows inward north and south.  The dock juts like a fat
+lip; long enough for two trade ships to tie up.  The salty tang brewed only
+where oceans meet landfall flavor the winds that gust from the limitless
+expanse of azure water.  Olive mackarel clouds tinged with crimson and the
+amethyst of royalty arc high above and eastward.  The beginning of a long
+road that leads finally home.
+~
+220 20 1
+D3
+~
+~
+0 0 22098
+S
+#22067
+STRANGLED BY THE LIFT CABLES~
+   The lift begins to rise as you attempt to ascend the cables.  The cables
+pull you upward toward a large pulley.  The machinery lags a moment as you
+are pulled up and over the top, your neck wedged between the cables and
+the face of the pulley.  Your corpse plunges to the bottom of the shaft
+where it is quickly devoured by rats.
+~
+220 10 0
+D2
+~
+~
+0 0 22065
+D5
+~
+~
+0 0 22069
+S
+#22068
+The Forge~
+   A festoon of quivering chains descends from a pall of grit and smoke that
+obscures the full height of the ceiling.  Superheated gouts blast from an
+array of forges that splay like the spokes of a wheel from the furnace.
+Gangs of scorched slaves toil at each forge, inserting steel bands or pulling
+them out and handing them to others who beat upon them repeatedly.  A hair-
+less giant, clad only by a tiny leather apron presides over the sweating
+orange-glow.
+~
+220 40 0
+D0
+~
+~
+0 0 22069
+D8
+~
+~
+0 0 22065
+S
+#22069
+The Lift~
+   The gate jams closed!  Layers of blades, worked into their basic forms,
+rest upon cords of dunnage forming bonfire-shaped stacks.  A square pane
+of light frames the lifts denstination above.  The cables dangle slack and
+lanquid from pulleys on either side.  You get a really bad feeling when
+the idea of climbing them pops up.  The cables look really dangerous.  A lever
+protrudes from a slot in the wall.  An arrow pointing upwards decorates
+the vacant end of the slot.
+~
+220 200 0
+D4
+~
+~
+0 0 22067
+S
+#22070
+The Harridan's Nest~
+   The view is stunning.  You can see the top of the butte and beyond to
+the curve of the horizon.  But what a racket!  The nest, constructed of
+reeds, branches, bones and bits of metal you recognize as shards of armor
+contains a clutch of hungry harridan chicks.  What if their mother returns?
+Will you be pecked to bits a la carte?  Heh, al fresco. 
+~
+220 0 5
+D0
+~
+~
+0 0 22031
+S
+#22071
+The Service Portal~
+  A glimmer beckons you as you enter into the service portal. The floor
+is paved with skull-shaped tiles, fired with a slice azure glaze. To
+the north is the Hourglass and the Causeway is to the west.
+~
+220 64 0
+D0
+~
+<NONE>~
+0 0 22051
+D1
+~
+~
+0 0 22064
+S
+#22072
+The Muster Room~
+   Five claspboards hang on pegs above a shelf-like desk on the south wall.
+The aroma of food and tobacco smoke rides the wake of men arriving from below.
+A gnomish man barks at each arrival like a traffic cop maintaining order
+at a bustling intersection.  Sleepy-eyed men march east, return clad in armor
+and brandishing weapons, then march off to their posts.  Torches illuminate
+a corridor of stairs that ascends toward an eerie orange glow.
+~
+220 8 0
+D1
+~
+iron door~
+2 0 22053
+D3
+~
+~
+0 0 22040
+D4
+~
+~
+0 0 22074
+D5
+~
+~
+0 0 22086
+S
+#22073
+Storage Chamber~
+   A multitude of oil lamps, suspended from the white washed low-domed ceiling
+on narrow chains, broadcast a sallow jaundiced glare.  Grotesque shadows
+lattice the aisles bracketed by ranks of axes and halberds standing against
+their wooden racks.  Teams of slaves pushing wheeled tables patrol the aisles,
+either removing a weapon from one of the racks, or replenishing a vacant slot.
+Another team, directed by an overseer, pack the weapons for shipment, then
+shove the heavy crates onto a lift.
+~
+220 8 0
+D1
+~
+~
+0 0 22097
+D2
+~
+~
+0 0 22091
+S
+#22074
+Upon the Ramparts~
+   A single firing slit rises from knee height to the stone ceiling in the
+outer wall revealing a slat of landscape like a strip of a shredded fabic
+but provides no illumination.  Footlamps broadcast pools of dim orange that
+ride the crotch of the inner wall like paper lanterns set adrift on calm
+darkened waters describing an arc north and south.
+~
+220 9 0
+D0
+~
+~
+0 0 22032
+D2
+~
+~
+0 0 22075
+D5
+~
+~
+0 0 22072
+S
+#22075
+Upon the Ramparts~
+   Footlamps set in the crotch of the inner wall broadcast dim pools of 
+orange light describing the arc of the ramparts north and west.  A single 
+firing slit reveals the weather and a strip of ocean, but admits little
+illumination.
+~
+220 9 0
+D0
+~
+~
+0 0 22074
+D3
+~
+~
+0 0 22076
+S
+#22076
+Upon the Ramparts~
+   Footlamps set in the crotch of the inner wall broadcast pools of dim
+orange light defining the gentle arc of the ramparts north and east. 
+A small sconce, set hip-high, in the outer wall illuminates an iron door
+handle.  The silence is broken only by the footfalls of guards and the snick
+of nocked arrows.
+~
+220 9 0
+D0
+~
+~
+0 0 22079
+D1
+~
+~
+0 0 22075
+D2
+~
+iron door~
+1 0 22029
+S
+#22077
+The Stone Turret~
+   A huge convex disk of polished metal is fixed on the ledge of the slit in
+the west wall, a large lantern rests inside. A staff runs from the floor
+through a hatch in the ceiling. A waist-high box with a hinged lid rests to
+the right of the staff. Gated portals lead east and south to the ramparts.
+~
+220 9 0
+D5
+~
+iron trapdoor ~
+1 0 22030
+S
+#22078
+Upon the Ramparts~
+   Twin firing slits seem to float upon the outer wall from knee height
+to stone ceiling, admitting the fecund tang of salt water air but meager
+light. The footlamps set in the crotch of the inner wall flicker with
+the breeze; the beams of orange light they broadcast are narrow and
+shift like the needle of a spectral compass.
+~
+220 9 0
+D1
+~
+~
+0 0 22080
+D2
+~
+~
+0 0 22030
+S
+#22079
+Upon The Ramparts~
+   Footlamps set in the crotch of the inner wall broadcast dim pools
+of orange light.  Twin slats seem to float upon the inner wall from knee
+height to the stone ceiling, revealing the weather.  Shadowy figures
+drift in and out of view between the pools of meager illumination, the source
+of their footfalls lost in echoes.
+~
+220 9 0
+D0
+~
+~
+0 0 22030
+D2
+~
+~
+0 0 22076
+S
+#22080
+Upon the Ramparts~
+   A single firing slit provides a secret view of the stone slab at the front
+gate.  A single skilled archer could easily thin, with total impugnity,
+a large assault force gathered below.  Meanwhile a series of footlamps set
+in the crotch of the inner wall describes the arc of the tunnel-like ramparts
+as they continue south and west.
+~
+220 9 0
+D2
+~
+~
+0 0 22032
+D3
+~
+~
+0 0 22078
+S
+#22081
+A Low Domed Rotunda~
+   The floor is a sprawling mosaic in the shape of a compass, huge swords
+describing the four main directions and smaller swords the rest.  A wide
+marble stairway winds upwards along the walls to a mezzanine.  A low dome
+adorned with a mosaic of a huge army on the march looms overhead.
+~
+220 8 0
+D4
+~
+~
+0 0 22089
+D5
+~
+~
+0 0 22082
+S
+#22082
+Six Wide Steps~
+   Gargoyle shaped sconces, thier eyes illuminated by an eerie orange glow,
+ascend along the walls with each of the steps.  A portal above frames 
+shafts of azure and golden light descending from an unseen source.  A trio
+of guards stand at attention on the front landing below.
+~
+220 12 0
+D4
+~
+~
+0 0 22081
+D5
+~
+~
+0 0 22083
+S
+#22083
+The Front Landing~
+  Dragon shaped sconces line the four walls. Their eyes illuminate
+a red glow that lights up the room. From below you hear the chatter
+and music from the pavillion. 
+~
+220 64 1
+D4
+~
+azure steel gate~
+2 0 22082
+D5
+~
+~
+0 0 22041
+S
+#22084
+A Glass-Roofed Atrium~
+   Dignitaries clad in splendid regalia, warrior chieftains, some in mufti
+but their trade unconcealed, and merchants mill about the blonde panelled
+room, inspecting the products of the factory below.  Tables laden with a feast
+of swords, racks of brutal axes ring the room.  A mansard style roof of stained
+glass caps the hall like a top hat.  Alternating panes of azure and violet
+slope upward supporting a single crystal pane.  A seasoned warrior performs
+in the box of light that decsends the effect of what is for sale.
+~
+220 8 0
+D3
+~
+~
+0 0 22095
+D4
+~
+~
+0 0 22085
+S
+#22085
+Azure Carpeted Stairway~
+   Frosted glass sconces set in the mahogany panelled walls broadcast a soft
+white light upon the ascending corridor.  Batwing crests, woven into the
+thick wool carpet, appear to fly in formation toward the room above.
+~
+220 8 0
+D4
+~
+~
+0 0 22094
+D5
+~
+~
+0 0 22084
+S
+#22086
+The Guards' Mess~
+   Wavering planes of tobacco smoke shift above the commotion of laughter
+and conversation.  An ant-like procession of ward boys, each burdened with
+a feast-laden or ort-covered platter, marches between the crowded tables.
+The guards eat their fill.  Then they lean back, smacking their greasy chops.
+Some of the guards haul out decks of cards, pipes and fat black cigars or
+peg games.  Others wander off towards the sleeping quarters, to write a letter
+home or simply drift, sated, into sleep.
+~
+220 0 0
+D3
+~
+~
+0 0 22087
+D4
+~
+~
+0 0 22072
+S
+#22087
+Sleeping Quarters~
+   Ranks of iron bunks line the dim room.  Here and there a soldier reposes,
+reading a book or composing a letter home, his hands and face illuminated
+by the sharply focused golden beam of his personal lamp.  Now and again
+a gout of snoring or a fitful murmur fractures the calm.  Then silence
+overcomes surprise, closes around the solitary figures piloting their little
+iron boats toward daybreak.
+~
+220 33 0
+D1
+~
+~
+0 0 22086
+S
+#22088
+The Grindstones~
+   A shower of sparks arc over the grinders' heads and cascade to the rough
+stone floor where they dance and exstinguish. When the grinders finish they
+place each blade on a cart which is wheeled into the finishing rooms.
+Crude blades arrive on a lift, stacked between dunnage like a bonfire.
+~
+220 72 0
+D0
+~
+~
+0 0 22091
+D2
+~
+~
+0 0 22055
+S
+#22089
+Winding Marble Stairway~
+  The stairway winds upward to the mezzanine.  Music and laughter lilt from
+above.  Two soldiers, clad in shiny armour, flank the portal from whence
+the gay sounds emerge.
+~
+220 8 0
+D4
+~
+~
+0 0 22090
+D5
+~
+~
+0 0 22081
+S
+#22090
+The Mezzanine~
+   The low dome with its sprawling mosaic of a huge army looms over the 
+marble-floored balcony; close and oppressive.  Two guards clad in nickel
+plated armour flank a set of double doors that lie wide open to the south.
+The sounds of merriment, music and laughter, arrive from there.
+~
+220 8 0
+D2
+~
+~
+0 0 22095
+D5
+~
+~
+0 0 22089
+S
+#22091
+The Finishing Room~
+   The components for each of the weapons arrive on carts pushed by slaves.
+Apprentices toil under the watchful eyes of the masters, assembling the
+components.  The finished weapons are inspected with great scrutiny.  The 
+masters demand even the tiniest flaws corrected before the weapon is sent
+along to the storage chamber.
+~
+220 0 0
+D0
+~
+~
+0 0 22073
+D2
+~
+~
+0 0 22088
+S
+#22092
+A Wood Lined Smoke Room~
+   Loud talk and slurred laughter crowd the pipe smoke and tang of hops in
+the dim, low-ceilinged room.  Dark stained wood panels the walls.  Small
+round tables crowd toward the bar like pebbles on a beach.  A blonde maiden
+cheerfully hands huge steins of beer to all takers.
+~
+220 8 0
+D0
+~
+~
+0 0 22095
+S
+#22093
+Sezzno's Construction Trailer~
+   Maps and blueprints adorn the long walls of the rectangular trailer.
+A long work table, strewn with over-size diagrams and objects in various
+stages of completion dominates the center of the room.  A window set in the
+south wall looks out upon a partially completed area.  The desk resting 
+beneath the window is littered with empty take-out cartons, delivery pizza
+boxes, flagons of beer and an overflowing ashtray.
+~
+220 8 0
+D0
+~
+~
+0 0 1204
+S
+#22094
+The Anteroom~
+   Large paintings illustrating fierce battles hang in golden frames upon
+the mahogany panelled walls.  A plush setee stands on the thick carpet 
+beneath each painting.  Two gaurds clad in nickel-plated armor flank the
+mahogany door at the far east end of the room.
+~
+220 8 0
+D1
+~
+mahogany door~
+1 0 22096
+D5
+~
+~
+0 0 22085
+S
+#22095
+The Festival Hall~
+   Banners and ensigns bearing the crests of current visitors hang from the
+stout rafters.  Tapestries depicting great battles, contests and feasts adorn
+the walls. The south side of this large hall is crowded with large round
+tables. A long table sits atop a dais that  runs half the length of the
+southwest wall. A circular platform sits in the northwest corner; a bandstand
+perhaps. Customers are feted here each night during their stay; filled with
+excellent food and wines, and entertained until the wee hours of the morning.
+~
+220 8 0
+D0
+~
+~
+0 0 22090
+D1
+~
+~
+0 0 22084
+D2
+~
+~
+0 0 22092
+D3
+liquor closet
+~
+liquor closet~
+2 22078 22039
+S
+#22096
+The Viceroy's Office~
+   An assortment of paintings adorn the mahogany panelled walls of the
+office.  Several pieces of statuary rest on the acre of carpet between
+the entry.  A clay pipe burns idly in a crystal ashtray that rests atop
+a dark hardwood desk the size of a small boat.
+~
+220 72 0
+D3
+~
+mahogany door~
+1 0 22094
+S
+#22097
+The Lift~
+   Lines of steel rollers, set in the scarred plank floor, ease the workmens'
+burden.  The bulky silhouette of machinery looms above the slatted plank
+wall to the north.  A lever rises from a slot next to the south wall.  A stone
+wall, scored and chafed, blocks passage east.
+~
+220 0 0
+D3
+~
+~
+0 0 22073
+S
+#22098
+The Lift~
+   The doorway opens onto a stone platform.  The shallow dome of an apparently
+limitless expanse of azure water rises beyond.  Slack cables plummet from
+a pane of light high above to the west.
+~
+220 0 0
+D1
+~
+~
+0 0 22066
+S
+#99999
+$~

@@ -1,0 +1,134 @@
+#10116
+ice elemental~
+the ice elemental~
+An irridescent blue ice elemental bringing forth a blizzard.
+~
+This is the raw essence of air and water combined.
+~
+155690 65536 0 S
+21 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10117
+steam elemental~
+the steam elemental~
+A misty steam elemental drenching the room with a searing dew.
+~
+This is the raw essence of fire and water combined.
+~
+155690 65536 0 S
+21 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10118
+air elemental~
+the air elemental~
+A whirling air elemental coalesceses from the surrounding air.
+~
+This is the raw essence of air.
+~
+155690 65536 0 S
+22 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10119
+water elemental~
+the water elemental~
+A titanic water elemental surges forth from the water.
+~
+This is the raw essence of waater.
+~
+155690 65536 0 S
+22 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10120
+lightning elemental~
+the lightning elemental~
+A sizzling lightning elemental promises to give you a shocking experience.
+~
+This is the raw essence of air and fire combined.
+~
+155690 65536 0 S
+23 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10121
+magma elemental~
+the magma elemental~
+The searingly hot magma elemental seeks to curl your flesh.
+~
+This is the raw essence of earth and fire combined.
+~
+155690 65536 0 S
+23 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10122
+earth elemental~
+the earth elemental~
+The stony earth elemental will crush all who enter his domain.
+~
+This is the raw essence of earth.
+~
+155690 65536 0 S
+24 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10123
+fire elemental~
+the fire elemental~
+The fire elemental forms a mouth and grins at its new prey.
+~
+This is the raw essence of fire.
+~
+155690 65536 0 S
+24 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10124
+chaos elemental~
+the chaos elemental~
+The dreaded ever changing Chaos Elemental is here blocking your path.
+~
+This is the raw essence of CHAOS!
+~
+155690 65664 0 S
+26 1 0 1d1+1 1d1+1
+0 10000000
+8 8 0
+#10125
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#10126
+shade~
+Shade~
+Shade is here, waiting for you!
+~
+Shade
+~
+8234 5833738 -1000 S
+34 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#10127
+cabe bedlam~
+Cabe Bedlam~
+Cabe Bedlam is here.
+~
+Imprisoned by magic, he is now free.
+~
+8328 132104 1000 S
+33 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#99999
+$~

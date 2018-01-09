@@ -1,0 +1,64 @@
+>greet_prog 50~
+  if rand(50)
+   mpecho The face of $I turns bright red with fury.
+   say You have violated the sanctity of my temple, prepare for death!
+   mpkill $r
+  else
+   mpkill $r
+  endif
+~
+>fight_prog 10~
+   mpechoat $r $I locks eyes with you and emits an ear-splitting battle cry!
+   mpchoaround $r $I shrieks a battle cry at $R.
+   mpechoaround $r $R falls to his knees in fear!
+   mpechoat $r You fall to your knees in fear!
+   mppose $r sit
+   mpdamage $r 150
+~
+>fight_prog 10~
+  mptrigger $r choke
+~
+>fight_prog 22~
+  bash
+~
+>script_prog choke~
+  if sex($n) == male
+    spit $n
+    say Find your proper place male scum!
+    mpechoat $n $I grabs your neck and chokes the life from you!
+    mpechoaround $n $I grabs the neck of $R and chokes the hell out of him!
+    mpdamage $n 100
+  endif
+@
+  if sex($n) == male
+    mpechoat $n $I continues to choke the life out of you...
+    mpechoaround $n $N is turning really %Mpurple%n...
+    mpdamage $n 100
+  endif
+@
+  if sex($n) == male
+    mpdamage $n 100
+    mpechoat $n Boy, its getting really hard to breathe...
+    mpechoaround $n $N is turning really %Mpurple%n...
+  endif
+@
+  if sex($n) == male
+    spit $n
+    mpdamage $n 100
+    mpsilent open trapdoor
+    mpechoaround $n $I tosses $N out of the room by his neck.
+    mpechoat $n $I has tossed you out of the room.
+    mpechoat $n At least now you can breathe...
+    mptransfer $n nearby
+    mpsilent close trapdoor
+  endif
+~
+>death_prog 90~
+  mpecho $I utters a dying prayer!
+  mpecho A bright gold light erupts from her body, searing your flesh.
+  mpdamage all 300
+~
+>fight_prog 20~
+  mpsilent close trapdoor
+~
+|

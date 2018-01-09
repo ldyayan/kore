@@ -1,0 +1,277 @@
+#12300
+karride barkeep waiter~
+Karride the barkeep~
+Karride, a tall burly man stands here, spewing forth gossip and rumor.
+~
+   Despite his many scars you know this man will stand for causes
+right. Fight with him not for it will be to your end.
+~
+3055624 32768 0 S
+30 -20 -5 1d1+20000 1d1+10
+0 0
+8 8 1
+#12301
+banker teller man~
+an exchange teller~
+A short man in expensive clothing stands behind bars and dispenses money.
+~
+Though he could be easily taken you doubt that taking the gold behind
+the bars, within the vault could easily be taken.
+~
+2793480 1064 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#12302
+banker teller~
+a short bank teller~
+Another man in a business suit sits here counting coins into large piles.
+~
+   Another short man in business attire sits here counting his money
+and dealing with people attempting to make withdrawals.
+~
+36347912 0 0 S
+60 -30 10 1d1+0 1d1+0
+0 0
+8 8 0
+#12303
+Markus clothier tailor~
+Markus the clothier~
+Markus, a tall elf in fine woven garments stands here sewings new stock.
+~
+   His tall slick appearance gives away his profession.
+~
+3055624 0 0 S
+60 -30 -10 1d1+30000 10d10+20
+50000 0
+8 8 0
+#12304
+Screed blacksmith~
+Screed the blacksmith~
+A short dwarf works a razor fine edge on the spike of a breastplate.
+~
+Short even for a dwarf, his stout appearance and brazen word is
+backed by many years of fighting.
+~
+3055624 32768 0 S
+60 -30 -10 1d1+30000 10d10+20
+50000 0
+8 8 0
+#12305
+Jan apothecary~
+Jan, the apothecary~
+Jan, a tall human woman works the counter selling her masters creations.
+~
+   Beautiful is one way to describe her. Though you know that deadly
+is another. In her belt you can barely make out the halt of a dagger.
+~
+3055624 32768 0 S
+60 -30 -10 1d1+30000 10d10+20
+50000 0
+8 8 0
+#12306
+Neva wizard magician~
+the wizard, Neva~
+A short, grey haired elven mage named Neva stands here conjuring.
+~
+   Despite his short stance, wrinkled face and greyed hair this
+shopkeep looks a worthy fighter, though the guards aren't likely
+to allow a fight to start.
+~
+3055624 32768 0 S
+60 -30 -10 1d1+30000 10d10+20
+50000 0
+8 8 0
+#12307
+Drayson fletcher~
+Drayson, the fletcher~
+A short man, stands here drawing a bow string, testing the bow.
+~
+   Standing just before him you'd swear him human, though the eyes
+tend to make you believe otherwise.
+~
+3055624 32768 0 S
+60 -30 -10 1d1+30000 10d10+20
+50000 0
+8 8 0
+#12308
+derlin city guard cityguard~
+a Derlin cityguard~
+A guard of the city of Derlin walks about surveying the crowd.
+~
+   Tall and muscular, he looks as though he could take much abuse.
+He wields a compound axe and holds a torch for light.
+~
+4232 65536 750 S
+23 20 10 1d1+0 1d1+0
+0 0
+8 8 1 15
+#12309
+derlin city gate guard~
+a city of Derlin gateguard~
+A guard tall and muscular stands here watching over the gates.
+~
+   Taller and stronger then the massive cityguards, this guard wields
+the standard gold and titanium axe and holds a light, you notice a small
+titanium ring on his finger.
+~
+4106 65664 1000 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 1 15
+#12310
+dwarven miner~
+a dwarven miner~
+A stout dwarf walks amongst the crowd here, covered in dirt.
+~
+   A small mining pick flung over his shoulder reveals his occupation.
+Several pouches, you assume carrying bars, or nuggets of gold and
+silver are hung from his belt.
+~
+8 0 250 S
+25 20 10 1d1+0 1d1+0
+0 0
+8 8 1 9
+#12311
+elven receptionist~
+an elven receptionist~
+Long, and beautify and elven woman stands here directing people to their room.
+~
+   Her tattered rags betray he beauty.
+~
+11 0 0 S
+1 20 10 1d1+0 1d1+0
+1 0
+8 8 2
+#12312
+young peasant boy~
+a young peasant boy~
+A boy no more then twelve walks past you in tattered rags.
+~
+   Muscular and fit, this boy will probably work till his death in the mine.
+~
+140 0 350 S
+15 20 10 1d1+0 1d1+0
+2 0
+8 8 1
+#12313
+large ox cart~
+a large ox and cart~
+A large ox pulls a cart full of soil from the mine.
+~
+   A brute for an ox, this one is whipped constantly to keep it
+moving.
+~
+8 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 10
+#12314
+furnace blast loader~
+the blast furnace loader~
+A tall black man works to put wood and coal into the furnace.
+~
+   He sweats profusely and works hard despite it. He knows the old
+addage. The hotter the furnace, the better the gold.
+~
+17371146 98432 800 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#12315
+crix guard mine~
+Crix, the guard of the mine~
+Crix, a tall unwieldly thri-kreen moves about infront of the gate.
+~
+   His massive arms and legs make him an unwieldly opponent. His
+massive axe takes, even for him 2 hands to wield and you wonder
+if this axe could lob a head off in one swing.
+~
+534542 98464 750 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#12316
+serving girl~
+a serving girl~
+A serving girl runs to fetch things for her master.
+~
+   Very none descript she looks as though her days are numbered.
+~
+8 0 250 S
+12 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#12317
+tall miner~
+a miner~
+A large miner stands here attempting to free gold from the walls.
+~
+His face is covered in dirt. Occasionally he checks on the canary
+in the corner.
+~
+40 0 0 S
+36 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#12318
+large thrikreen miner~
+a large thrikreen miner~
+A large thrikreen works with all it's arms and legs freeing gold.
+~
+   Not as large as Crix at the mine gate, this Thrikreen nevertheless
+looks powerful and deadly.
+~
+40 0 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 0 3
+#12319
+ox runner~
+a puller ox~
+A ox, tied to the line pulls hard on the rope to move the platform.
+~
+He's a brute.
+~
+10 40 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 10
+#12320
+resting miner~
+a resting miner~
+Lying back in his chair, the miner attempts to catch a short nap.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+21 20 10 1d1+0 1d1+0
+0 0
+4 4 1
+#12321
+cleric gond healer~
+a cleric~
+A cleric here in the name of gond moves about healing the wounded.
+~
+   His elaborate robes let everyone acknowledge his true powers.
+He moves quickly from person to person and proceeds to heal them,
+cure their poison, and remove their temporary blindness.
+~
+10 0 0 S
+55 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#12322
+gold pourer~
+a gold pourer~
+A man with a large pail and extended handle walks slowly to the furnace.
+~
+   His arms bulge against his shirt, and sweat runs down his face.
+He looks nervous as you approach.
+~
+10 0 0 S
+15 20 10 1d1+0 1d1+0
+15 0
+8 8 1
+#99999
+$~

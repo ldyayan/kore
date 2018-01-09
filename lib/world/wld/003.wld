@@ -1,0 +1,1719 @@
+#302
+Training Barracks~
+   Welcome to the training barracks.  The room is filled with roughly made cots
+and small card tables.  There is a light coating of dust on the floor.  To the
+west there appears to be a practice room.  Out before you to the north is a
+drill yard.
+~
+3 0 0
+D0
+~
+~
+0 0 304
+D1
+~
+~
+0 0 3054
+D3
+~
+~
+0 0 303
+S
+#303
+The Practice Room~
+   There are serveral practice dummies in the middle of the room.  They are 
+coverred with slashes and burns from long hours of practice with weapons and
+spells.  The walls are scorched in places, and the floor is well-worn.
+~
+3 24 0
+D1
+~
+~
+0 0 302
+S
+#304
+The Practice Yard~
+   The practice yard is strewn with old weapons and eq.  There is a small 
+well in the center of the yard.  Behind you is the Training Barracks.  Before
+you is a small copse of elm trees.
+~
+3 0 0
+D0
+~
+~
+0 0 307
+D1
+~
+~
+0 0 309
+D2
+~
+~
+0 0 302
+D3
+~
+~
+0 0 305
+S
+#305
+The Practice Yard~
+   The practice yard is strewn with old weapons and eq.  There is a small 
+well in the center of the yard.  Behind you is the Training Barracks.  Before
+you is a small copse of elm trees.
+~
+3 0 0
+D0
+~
+~
+0 0 306
+D1
+~
+~
+0 0 304
+S
+#306
+The Practice Yard~
+   The practice yard is strewn with old weapons and eq.  There is a small 
+well in the center of the yard.  Behind you is the Training Barracks.  Before
+you is a small copse of elm trees.
+~
+3 0 0
+D0
+~
+~
+0 0 310
+D1
+~
+~
+0 0 307
+D2
+~
+~
+0 0 305
+S
+#307
+The Practice Yard~
+   The practice yard is strewn with old weapons and eq.  There is a small 
+well in the center of the yard.  Behind you is the Training Barracks.  Before
+you is a small copse of elm trees.
+~
+3 0 0
+D0
+~
+~
+0 0 311
+D1
+~
+~
+0 0 308
+D2
+~
+~
+0 0 304
+D3
+~
+~
+0 0 306
+S
+#308
+The Practice Yard~
+   The practice yard is strewn with old weapons and eq.  There is a small 
+well in the center of the yard.  Behind you is the Training Barracks.  Before
+you is a small copse of elm trees.
+~
+3 0 0
+D0
+~
+~
+0 0 312
+D2
+~
+~
+0 0 309
+D3
+~
+~
+0 0 307
+S
+#309
+The Practice Yard~
+   The practice yard is strewn with old weapons and eq.  There is a small 
+well in the center of the yard.  Behind you is the Training Barracks.  Before
+you is a small copse of elm trees.
+~
+3 0 0
+D0
+~
+~
+0 0 308
+D3
+~
+~
+0 0 304
+S
+#310
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D0
+~
+~
+0 0 313
+D1
+~
+~
+0 0 311
+D2
+~
+~
+0 0 306
+S
+#311
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D0
+~
+~
+0 0 314
+D1
+~
+~
+0 0 312
+D2
+~
+~
+0 0 307
+D3
+~
+~
+0 0 310
+S
+#312
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D0
+~
+~
+0 0 315
+D2
+~
+~
+0 0 308
+D3
+~
+~
+0 0 311
+S
+#313
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D0
+~
+~
+0 0 317
+D1
+~
+~
+0 0 314
+D2
+~
+~
+0 0 310
+S
+#314
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D0
+~
+~
+0 0 317
+D1
+~
+~
+0 0 315
+D2
+~
+~
+0 0 311
+D3
+~
+~
+0 0 313
+S
+#315
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D0
+~
+~
+0 0 318
+D2
+~
+~
+0 0 312
+D3
+~
+~
+0 0 314
+S
+#316
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D1
+~
+~
+0 0 317
+D2
+~
+~
+0 0 313
+D3
+~
+~
+0 0 319
+S
+#317
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D1
+~
+~
+0 0 318
+D2
+~
+~
+0 0 314
+D3
+~
+~
+0 0 316
+S
+#318
+A Shady Grove of Trees~
+   You are standing inside a shady grove of trees.  There are some small birds
+high up in the elms, but they are of no consequence.  Some animal tracks lead into the forest.  You don't fell particularly threatened here, but it may be wise 
+to be wary.
+~
+3 0 3
+D2
+~
+~
+0 0 315
+D3
+~
+~
+0 0 317
+S
+#319
+Entering a Small Cave~
+   You have entered a small cave of what appears to be goblins or kobolds. 
+There are some scattered bones of small animals lying in piles around the
+mouth of the cave.  From further in the cave you can hear the shuffling of
+small feet.
+~
+3 0 3
+D1
+~
+~
+0 0 316
+D3
+~
+~
+0 0 320
+S
+#320
+Inside the Cave~
+   Here in the cave you can see that it is a goblin home.  There are rough,
+dirty mats scattered about and a few pieces of flesh here and there.  There is
+more of the cave to the south, and the sounds are a bit louder there.
+~
+3 0 3
+D1
+~
+~
+0 0 319
+D2
+~
+~
+0 0 321
+S
+#321
+Inside the Cave~
+   At the end of the cave is apparently where the older goblins sleep.  There
+is food lying about, and a mat large enough to be considerred a bed in the
+center of the floor.  There is a small hole in the roof that allows smoke
+from the fire pit to pass out of the dwelling.  Somewhere you can hear water
+trickling down through a crack in the stone.
+~
+3 0 3
+D0
+~
+~
+0 0 320
+S
+#322
+The Gauntlet~
+   You have prepared for many years. Are you ready?
+~
+3 1141 0
+D0
+~
+~
+0 0 323
+S
+#323
+Meditation Room~
+   You hear a voice say, 'Be ready, for the gauntlet begins.'
+~
+3 1141 0
+D0
+~
+~
+0 -1 324
+D2
+~
+~
+0 0 322
+S
+#324
+Level of the Nexus~
+   You hear a voice say, 'Defend yourself, mortal!'
+~
+3 1121 0
+D0
+   You see a star-filled black gate. You see a bloody sign which states,
+
+   'Beyond this gate lies the Nexus. Weep now for nobody shall weep for you.'
+~
+gate~
+2 309 325
+D2
+~
+~
+0 0 323
+S
+#325
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 326
+D1
+~
+~
+0 0 327
+D2
+~
+~
+0 0 328
+D3
+~
+~
+0 0 329
+D4
+~
+~
+0 0 330
+D5
+~
+~
+0 0 331
+D6
+~
+~
+0 0 332
+D7
+~
+~
+0 0 331
+D8
+~
+~
+0 0 341
+D9
+~
+~
+0 0 333
+S
+#326
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 339
+D1
+~
+~
+0 0 335
+D2
+~
+~
+0 0 325
+D3
+~
+~
+0 0 337
+D4
+~
+~
+0 0 326
+D5
+~
+~
+0 0 338
+D6
+~
+~
+0 0 341
+D7
+~
+~
+0 0 334
+D8
+~
+~
+0 0 334
+D9
+~
+~
+0 0 337
+S
+#327
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 335
+D1
+~
+~
+0 0 336
+D2
+~
+~
+0 0 338
+D3
+~
+~
+0 0 325
+D4
+~
+~
+0 0 339
+D5
+~
+~
+0 0 325
+D6
+~
+~
+0 0 335
+D7
+~
+~
+0 0 331
+D8
+~
+~
+0 0 332
+D9
+~
+~
+0 0 341
+S
+#328
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 325
+D1
+~
+~
+0 0 337
+D2
+~
+~
+0 0 337
+D3
+~
+~
+0 0 335
+D4
+~
+~
+0 0 338
+D5
+~
+~
+0 0 339
+D6
+~
+~
+0 0 341
+D7
+~
+~
+0 0 335
+D8
+~
+~
+0 0 337
+D9
+~
+~
+0 0 332
+S
+#329
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 337
+D1
+~
+~
+0 0 325
+D2
+~
+~
+0 0 335
+D4
+~
+~
+0 0 326
+D5
+~
+~
+0 0 340
+D6
+~
+~
+0 0 337
+D7
+~
+~
+0 0 340
+D8
+~
+~
+0 0 331
+D9
+~
+~
+0 0 335
+S
+#330
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 326
+D1
+~
+~
+0 0 327
+D2
+~
+~
+0 0 328
+D3
+~
+~
+0 0 329
+D4
+~
+~
+0 0 339
+D5
+~
+~
+0 0 325
+D6
+~
+~
+0 0 331
+D7
+~
+~
+0 0 337
+D8
+~
+~
+0 0 330
+D9
+~
+~
+0 0 326
+S
+#331
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 326
+D1
+~
+~
+0 0 327
+D2
+~
+~
+0 0 328
+D3
+~
+~
+0 0 329
+D4
+~
+~
+0 0 325
+D5
+~
+~
+0 0 325
+D6
+~
+~
+0 0 329
+D7
+~
+~
+0 0 333
+D8
+~
+~
+0 0 330
+D9
+~
+~
+0 0 327
+S
+#332
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 326
+D1
+~
+~
+0 0 327
+D2
+~
+~
+0 0 328
+D3
+~
+~
+0 0 329
+D4
+~
+~
+0 0 330
+D5
+~
+~
+0 0 331
+D6
+~
+~
+0 0 327
+D7
+~
+~
+0 0 328
+D8
+~
+~
+0 0 325
+D9
+~
+~
+0 0 325
+S
+#333
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 326
+D1
+~
+~
+0 0 327
+D2
+~
+~
+0 0 328
+D3
+~
+~
+0 0 329
+D4
+~
+~
+0 0 330
+D5
+~
+~
+0 0 331
+D6
+~
+~
+0 0 332
+D7
+~
+~
+0 0 325
+D8
+~
+~
+0 0 337
+D9
+~
+~
+0 0 331
+S
+#334
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 326
+D1
+~
+~
+0 0 327
+D2
+~
+~
+0 0 328
+D3
+~
+~
+0 0 329
+D4
+~
+~
+0 0 330
+D5
+~
+~
+0 0 331
+D6
+~
+~
+0 0 332
+D7
+~
+~
+0 0 337
+D8
+~
+~
+0 0 341
+D9
+~
+~
+0 0 333
+S
+#335
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 329
+D1
+~
+~
+0 0 328
+D2
+~
+~
+0 0 327
+D3
+~
+~
+0 0 326
+D4
+~
+~
+0 0 337
+D5
+~
+~
+0 0 327
+D6
+~
+~
+0 0 326
+D7
+~
+~
+0 0 333
+D8
+~
+~
+0 0 330
+D9
+~
+~
+0 0 329
+S
+#336
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 326
+D1
+~
+~
+0 0 327
+D2
+~
+~
+0 0 328
+D3
+~
+~
+0 0 327
+D4
+~
+~
+0 0 325
+D5
+~
+~
+0 0 337
+D6
+~
+~
+0 0 329
+D7
+~
+~
+0 0 333
+D8
+~
+~
+0 0 330
+D9
+~
+~
+0 0 327
+S
+#337
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 328
+D1
+~
+~
+0 0 326
+D2
+~
+~
+0 0 329
+D3
+~
+~
+0 0 328
+D4
+~
+~
+0 0 336
+D5
+~
+~
+0 0 335
+D6
+~
+~
+0 0 333
+D7
+~
+~
+0 0 326
+D8
+~
+~
+0 0 329
+D9
+~
+~
+0 0 334
+S
+#338
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 327
+D1
+~
+~
+0 0 338
+D2
+~
+~
+0 0 338
+D3
+~
+~
+0 0 339
+D4
+~
+~
+0 0 326
+D5
+~
+~
+0 0 328
+D6
+~
+~
+0 0 335
+D7
+~
+~
+0 0 334
+D8
+~
+~
+0 0 331
+D9
+~
+~
+0 0 330
+S
+#339
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1024 0
+D0
+~
+~
+0 0 340
+D1
+~
+~
+0 0 338
+D2
+~
+~
+0 0 326
+D3
+~
+~
+0 0 340
+D4
+~
+~
+0 0 328
+D5
+~
+~
+0 0 327
+D6
+~
+~
+0 0 340
+D7
+~
+~
+0 0 340
+D8
+~
+~
+0 0 340
+D9
+~
+~
+0 0 340
+S
+#340
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 341
+D1
+~
+~
+0 0 339
+D2
+~
+~
+0 0 339
+D3
+~
+~
+0 0 341
+D4
+~
+~
+0 0 329
+D5
+~
+~
+0 0 341
+D6
+~
+~
+0 0 339
+D7
+~
+~
+0 0 339
+D8
+~
+~
+0 0 339
+D9
+~
+~
+0 0 339
+S
+#341
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 342
+D1
+~
+~
+0 0 340
+D2
+~
+~
+0 0 340
+D3
+~
+~
+0 0 341
+D4
+~
+~
+0 0 340
+D5
+~
+~
+0 0 339
+D6
+~
+~
+0 0 325
+D7
+~
+~
+0 0 327
+D8
+~
+~
+0 0 326
+D9
+~
+~
+0 0 328
+S
+#342
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+3 1121 0
+D0
+~
+~
+0 0 337
+D1
+~
+~
+0 0 335
+D2
+~
+~
+0 0 341
+D3
+~
+~
+0 0 334
+D4
+~
+~
+0 0 343
+D5
+~
+~
+0 0 329
+D6
+~
+~
+0 0 329
+D7
+~
+~
+0 0 334
+D8
+~
+~
+0 0 331
+D9
+~
+~
+0 0 328
+S
+#343
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+   You see a glowing portal that radiates strongly of magic.
+~
+3 1125 0
+D0
+~
+~
+0 0 344
+D4
+~
+~
+0 0 342
+S
+#344
+Portal of Doom~
+*F
+**L
+***A
+****S
+*****H
+******!
+
+You feel your body rematerializing from the portal. You touch yourself
+frantically to see if you are still alive. Fortunately, you are.
+~
+3 1141 0
+D0
+~
+~
+0 0 345
+S
+#345
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D0
+~
+~
+0 0 348
+D1
+~
+~
+0 0 346
+D2
+~
+~
+0 0 352
+D3
+~
+~
+0 0 347
+D4
+~
+~
+0 0 350
+D5
+~
+~
+0 0 349
+S
+#346
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1269 0
+D1
+~
+~
+0 0 353
+D3
+~
+~
+0 0 345
+S
+#347
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1269 0
+D1
+~
+~
+0 0 345
+D3
+~
+~
+0 0 354
+S
+#348
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1269 0
+D0
+~
+~
+0 0 351
+D2
+~
+~
+0 0 345
+S
+#349
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1269 0
+D4
+~
+~
+0 0 345
+D5
+~
+~
+0 0 355
+S
+#350
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D0
+~
+~
+0 0 357
+D5
+~
+~
+0 0 345
+S
+#351
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D0
+You see a red door with a huge single eye in the center.
+~
+door~
+2 310 345
+S
+#352
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1269 0
+D0
+~
+~
+0 0 345
+D2
+~
+~
+0 0 356
+S
+#353
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D1
+You see a yellow door with a skull in the center.
+~
+door~
+2 313 345
+S
+#354
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D3
+You see a huge blue door with a tongue in the middle.
+~
+door~
+2 311 345
+S
+#355
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D5
+You see a white door with a bloody tooth in the middle
+~
+door~
+2 312 345
+S
+#356
+Codex of Doom~
+You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D2
+You see a huge green door with a naked woman on it. What is behind the green door?
+~
+door~
+2 314 345
+S
+#357
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D0
+You see a red door with a huge single eye in the center.
+~
+door~
+2 310 358
+D2
+~
+~
+0 0 350
+S
+#358
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D1
+You see a yellow door with a skull in the center.
+~
+door~
+2 313 359
+D2
+~
+~
+1 0 357
+S
+#359
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D0
+~
+~
+0 0 358
+D3
+You see a huge blue door with a tongue in the middle.
+~
+door~
+2 311 360
+S
+#360
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D1
+~
+~
+0 0 359
+D5
+You see a white door with a bloody tooth in the middle
+~
+door~
+2 312 361
+S
+#361
+Codex of Doom~
+You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+3 1121 0
+D2
+You see a huge green door with a naked woman on it. What is behind the green door?
+~
+door~
+2 314 362
+D3
+~
+~
+0 0 360
+S
+#362
+Near the black pit of the Codex~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking. You see the huge black pit of pure darkness. You hear spine-chilling
+screams and hideous lustful laughter echoing throughout the pit.
+~
+3 1141 0
+D5
+You can see nothing below. You hear only screams.
+~
+~
+0 0 363
+S
+#363
+The Pit of the Codex of DOOM~
+A
+AA
+AAA
+AAAA
+IIIII
+IIIIII
+IIIIIIIII
+IIIIIIIIII
+EEEEEEEEEEE
+EEEEEEEEEEEE
+EEEEEEEEEEEEE
+EEEEEEEEEEEEEE
+EEEEEEEEEEEEEEE
+!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!
+
+You fall
+  You fall
+    You fall
+      You fall
+        You fall
+      You fall
+    You fall
+  You fall
+You fall
+
+You scream uncontrolably as you plunge to the jagged rocks below. You see
+many bloody corpses and equipment scattered across the rocky floor.
+Just before you hit the bottom, you feel your body being teleported.
+You black out.
+You awake.
+You see a light coming from the north.
+~
+3 1141 0
+D0
+~
+~
+0 0 364
+S
+#364
+Heart of the Codex~
+     You are in the heart of the corruption. You see mutilated corpses hanging from the
+ceiling and walls. You hear the silent rattle of the chains hanging the corpses. You
+hear grunting and howling noises coming closer and closer to YOU!
+~
+3 1269 0
+D0
+~
+~
+0 0 365
+S
+#365
+Liar of the Cyberdaemon~
+      You better run. NOW!
+~
+3 1121 0
+D0
+~
+~
+0 0 368
+D1
+~
+~
+0 0 366
+D2
+~
+~
+0 0 364
+D3
+~
+~
+0 0 367
+S
+#366
+Liar of the Cyberdaemon~
+     You better run. NOW!
+~
+3 1121 0
+D3
+~
+~
+0 0 365
+S
+#367
+Liar of the Cyberdaemon~
+     You better run. NOW!
+~
+3 1121 0
+D1
+~
+~
+0 0 365
+S
+#368
+Liar of the Cyberdaemon~
+     You better run. NOW!
+~
+3 1121 0
+D2
+~
+~
+0 0 365
+S
+#99999
+$~

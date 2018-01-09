@@ -1,0 +1,1050 @@
+#500
+clan GENERIC banker~
+the banker~
+A banker has set up his shop here, and you notice a glint in his eye.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#501
+house bulletin board auction~
+a house auction bulletin board~
+A board for bidding on houses floats in the air here.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#502
+clan DOLERE table counter granite~
+a granite counter~
+A polished granite counter rests just in front of several pillars.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+table counter granite~
+   Its surface is like a foggy mirror, the smatterings of gray and black 
+through the polished white marble reflect your likeness back to you. Its
+oval shape going well with the halls outside.
+~
+#503
+clan DOLERE fountain water sculpture~
+a marble fountain~
+A solid piece of carved marble rests in the grass, spouting clear water.~
+~
+23 0 0
+999999 999999 15 0
+1 1 1
+E
+fountain water sculpture~
+   This was once a solid block of white marble, however, with the aid of a
+master sculptor it has become one of the most stunning fountains you have
+ever seen. Its center is a very intricate rendition of a elven lyre. Strings
+and the bridge are even included. From the tip of the head, water gushes 
+upwards and down into a multi-level basin below.
+~
+#504
+clan ETERNITY keyrack rack~
+a small keyrack~
+A little box hangs here, attached to the wall, covered in keys.~
+~
+15 0 0
+2000 5 -1 0
+1 1 1
+#505
+clan GENERIC berries food ~
+a handful of small red berries~
+A little branch of small red berries protrudes from a nearby shrub.~
+~
+19 0 1
+24 0 0 0
+1 1 1
+#506
+portal vortex rift tear temple house vherin ultrin~
+a shimmering vortex~
+A flickering portal of a temple hangs in the air, humming softly.~
+~
+27 0 0
+16123 0 0 0
+0 0 0
+E
+portal vortex rift tear temple EE~
+Not unlike a tear in worn fabric, the gap in the area above the circle of
+stones is dark, and the other side's destination is concealed by it.
+~
+#507
+house stone circle eerie vherin ultrin~
+a circle of stones~
+A circle of eerie stones set ominously on the cold floor.~
+~
+0 0 1
+0 0 0 0
+10000 0 0
+E
+stones circle rocks ring~
+Measuring near twenty feet in height, it remains a mystery how such huge
+monuments of stone could be moved to form a circle, or much less be moved
+at all.  Regardless, they're here, and it's not hard to tell that they
+are magical in origin.
+~
+#508
+clan DAEMONS fridge icebox~
+Daemon Icebox~
+You see the Canadian Daemons Icebox.~
+~
+15 0 0
+2000 5 -1 0
+1 1 1
+E
+fridge icebox~
+   It appears to be well built. Fine craftsmanship, good sturdy walls. Somehow
+it is even colder inside than in this room. A small label on the back says:
+"Proudly Made in Canada."
+~
+#509
+clan DYNASTY fountain pool blood~
+a granite fountain~
+A fountain, made of the finest shaped granite dominates the room.~
+~
+23 0 0
+999999 999999 13 0
+1 1 1
+E
+fountain blood granite pool~
+   A pool surrounded by a large circular wall of pure granite. High
+above blood flows from an invisible source into the pool where it
+settles, and waits to be drank.
+~
+#510
+clan GENERIC waybread bread~
+a waybread~
+A piece of crusty bread is here looking scrumptious.~
+~
+19 0 1
+24 0 0 0
+1 1 1
+#511
+clan GENERIC slab meat rack~
+a slab of meat~
+A large slab of meat sets on a rack here, looking bloody.~
+~
+19 0 1
+24 0 0 0
+1 1 1
+#512
+clan GENERIC whiskey bottle~
+a bottle of whiskey~
+A bottle of dingy brown liquid lies unopened here.~
+~
+17 0 1
+5 5 5 0
+1 1 1
+#513
+pizza pie clan GENERIC~
+a slice of pizza~
+A slice of pizza rests here on a table.~
+~
+19 0 1
+24 0 0 0
+1 1 1
+#514
+clan GENERIC vodka bottle~
+a bottle of vodka~
+A bottle of crystal clear liquid taunts you from a corner.~
+~
+17 0 1
+5 5 8 0
+1 1 1
+#515
+clan GENERIC barrel beer~
+a barrel of beer~
+A large barrel stands on its end, untapped.~
+~
+17 0 1
+25 25 1 0
+1 1 1
+#516
+clan DAEMONS desk counter~
+a large counter~
+A large counter stands between you and One Eyed Jack.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#517
+clan DAEMONS barstool stool~
+a wooden stool~
+A sturdy wooden stool stands next to the counter.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#518
+clan DAEMONS jukebox stereo~
+a daemon jukebox~
+A bright red box stands four feet off the floor, playing music loudly.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#519
+clan DAEMONS bear polar statue~
+a polar bear statue~
+A sculpture of a mighty polar bear is here, glowing softly in the light.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#520
+clan MADMEN statue founders spock raptor~
+a statue of the Madmen~
+You see an intricately carved statue depicting two mad men.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+statue founders spock raptor~
+   You see, before you, a statue of Spock and Raptor in fierce battle. You
+gaze in awe at the fine detail, recalling the legends of the mighty deeds
+performed by these legendary founders of the MadMen. Your heart thrills as
+you realize that you are one of the few heroes deemed good enough to be a
+part of their famous clan.
+~
+#521
+clan TOOT sofa couch~
+a sea blue couch~
+Resting in a corner, flanked by plants, you see a sea blue couch.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+sofa couch~
+   Your eyes are drawn to the deep blue color of the soft velvet covering
+the couch. You are quickly lost in the depths of the color and you could
+swear that you hear the waves of the Sea of Tyress lapping onto a distant
+shore.
+~
+#522
+clan TOOT fountain spring~
+a granite spring~
+Running swiftly between the lush trees, a little spring is here.~
+~
+23 0 0
+999999 999999 15 0
+1 1 1
+E
+fountain spring~
+   You look at your reflection in this clear spring and marvel at the
+pureness of the water. You can clearly see the rocks that make up the bed 
+of the creek; all smooth from the constant erosion from the flowing waters,
+varying in shape and color. A drink from here would certainly be refreshing.
+~
+#523
+clan TOOT statue founder ship~
+a statue of Ship~
+A mighty sculpture of your clan founder resting on a marble dias.~
+~
+13 1 0
+0 0 0 0
+1 1 1
+E
+statue founder ship~
+   This statue portrays the mighty Ship, founder of the clan in which you 
+are a member and pay tribute. Ship is the largest dwarf you have ever seen
+and he seems to smile at you as you look upon him. His face shows a 
+compassion that is long lost in the world of Kore, yet the bulging muscles
+under his armor show that he was definately the largest cleric ever to walk
+among us. Around his neck are artifacts of legend, the Amulets of Valar.
+Millions have searched for them... but only he ever possessed these marvels
+of magic. You study the statue and beam with pride. He is what we all want
+to be like. He is your founder and mentor, and he is missed.
+~
+#524
+clan TOOT keyrack rack~
+a small keyrack~
+A little box hangs here, attached to the wall, covered in keys.~
+~
+15 0 0
+2000 5 -1 0
+1 1 1
+E
+keyrack rack~
+   Crafted from the finest, richest mahogany, the deep stain of the wood
+gives the keyrack a distinct and memorable appearance. Reaching out to it,
+your fingers brush along its side, tenatively you pull back, it is alive.
+~
+#525
+clan TOOT fishtank tank~
+a fishtank~
+A clear tank filler with water and lobster sets on a table.~
+~
+15 0 0
+2000 5 -1 0
+3 1 1
+E
+lobster tank~
+   This is one of the largest tanks you have ever seen. The sides are made
+of crystal and rise a good four feet up. You stare inside the tank and see
+the distinct outline of supper float by. YUM YUM!
+~
+#526
+clan GENERIC lobster~
+a lobster~
+A bright red lobster, claws tied, ready to eat.~
+~
+19 0 1
+24 0 0 0
+1 1 1 200
+#527
+clan DAEMONS keyrack rack~
+a small keyrack~
+A little box hangs here, attached to the wall, covered in keys.~
+~
+15 0 0
+2000 5 -1 0
+1 1 1
+#528
+clan X social bulletin board~
+a social bulletin board~
+A social bulletin board hangs here, displaying your clan colors.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#529
+clan LONER social bulletin board~
+a social bulletin board~
+A social bulletin board hangs here, displaying your clan colors.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#530
+clan GENERIC headstone grave epitaph~
+a headstone~
+The headstone of a grave bears a strange epitaph in the pale moonlight.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+headstone grave epitaph~
+          _____________
+         /             \
+        /               \
+        |  Here lies an |
+        |  Athiest, all |
+        |  dressed up   |
+        |  and nowhere  |
+        |  to go.       |
+        |               |
+        |               |
+        |     R.I.P.    | 
+        |               |
+        |               |
+________|_______________|_______
+~
+#531
+clan dynasty social board bulletin~
+a social bulletin board~
+A social bulletin board hangs here, displaying your clan colors.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#532
+roleplaying social bulletin board~
+a roleplaying bulletin board~
+A large in-character board hangs on the wall here.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#533
+clan TOOT social board bulletin weathered~
+a weathered board~
+A weathered board is here, with notes in various scrawls tacked to it.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#534
+clan MADMEN social bulletin board~
+a social bulletin board~
+A social bulletin board hangs here, displaying your clan colors.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#535
+board bulletin trade~
+a trade bulletin board~
+A board with trade notices attached stands here.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#536
+clan GENERIC apple apples fruit~
+an apple~
+A bright red fruit has fallen from a nearby tree to rest in the grass.~
+~
+19 0 1
+24 0 0 0
+1 1 1
+#537
+clan DOLERE dais podium granite~
+a granite dais~
+A large granite dais lies in the center of the ampitheatre.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+E
+dais podium granite~
+   An immense granite dais lays stretched out across 15 feet of the 
+ampitheatre. It has notbeen polished and has been well loved by its users
+and by the elements over the years. Its flat top shows scuff marks and slight
+scratches, still its radiant beauty reaches and begs tobe touched. Heeding
+its request, you tenatively reach out a hand, and find it warm, and pulsing
+with tremndous power.
+~
+#538
+mushroom phosphorescent VU clan~
+a phosphorescent mushroom~
+A small phosphorescent mushroom grows in the dark here.~
+~
+19 0 1
+24 0 0 0
+1 0 0
+#539
+************ BULLETIN BOARD~
+a social bulletin board~
+A social bulletin board hangs here, displaying your clan colors.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#540
+clan social bulletin board~
+a clan bulletin board~
+A social bulletin board hangs here, for all clans to post on.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#541
+clan GENERIC fountain water basin~
+an ornate rock fountain~
+An orante rock fountain spouts water into a shallow tiled basin.~
+~
+23 0 0
+999999 999999 0 0
+1 1 1
+#542
+clan GENERIC conference table circular~
+a circular conference table~
+A large circular conference table dominates the center of the room.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#543
+clan GENERIC leather couch posh~
+a posh leather couch~
+A shining couch of the finest soft leather rests against a wall.~
+~
+13 0 0
+0 0 0 0
+1 1 1
+#544
+clan X fountain dragon head~
+a dragon fountain~
+A golden dragon's head pours forth clear water into a large basin.~
+~
+23 0 0
+999999 999999 0 0
+1 1 1
+#545
+clan ETERNITY fountain water well~
+a solid rock well~
+A gentle flow of water is here, bubbling up from the well of the ages.~
+~
+23 0 0
+999999 999999 0 0
+1 1 1
+#546
+clan DOLERE keyrack rack box~
+a wooden keyrack~
+A simple wooden keyrack has been hung to a pillar behind the counter.~
+~
+15 0 0
+9999 5 -1 0
+1 1 1
+#547
+clan dynasty portal orb~
+a portal into clan Dynasty~
+A large portal offers a glimpse into a wonderous world.~
+~
+27 0 0
+554 0 0 0
+1 1 1
+E
+portal~
+The portal looks fairly safe to enter...
+~
+#548
+clan TOOT portal painting derlin~
+a painting of the city of Derlin~
+A painting of a small town, with men carrying bricks of gold on it.~
+~
+27 0 0
+12311 0 0 0
+1 1 1
+#549
+clan TOOT portal olympus picture painting~
+the painting of Mount Olympus~
+A large, beautiful oil painting of Mount Olympus hangs here.~
+~
+27 0 0
+404 0 0 0
+0 0 0
+E
+painting olympus picture mount~
+   Before you hung with meticulous care is a perfect likeness of Mount Olympus.
+Looking carefully, you can see the citizens milling around, going about there
+business. Suddenly, some movement within the painting draws your eye and you see
+Zeus looking down on his people and smiling.  This is a painting isnt it??
+
+~
+#550
+clan TOOT mural Shrok Morath portal~
+the mural of Shrok Morath~
+A huge mural covering the wall depicts a ruin inhabited by orcs.~
+~
+27 0 0
+9532 0 0 0
+0 0 0
+E
+mural orc wall ~
+   The mural is painted by one of Kore's finest artist's, and shows clearly
+the ruin now known as Shrok Morath.  The once lovely elven fortress fell
+to the orc raiders years ago and the constant neglect and abuse that it shows
+is typical of orcish inhabitation.  You peer curiously at a fire in a tower window
+that is flickering within the mural and wonder if it is a trick of the light
+or a trick of magic..
+
+~
+#551
+clan TOOT painting city portal~
+a painting of the city New Thalos~
+With a huge solid gold frame, this painting shows a thriving city.~
+~
+27 0 0
+5406 0 0 0
+0 0 0
+E
+painting city new thalos~
+ This city seems to be a hive of activity, with vendors peddling their wares
+and guards patrolling the streets.  Slowly, you see a thief known as Gord
+materialize from a shadowy alley, rob a merchant, and disappear back where
+he came.  The realism of it all makes you doubt that this painting is all it
+appears to be.
+~
+#552
+clan TOOT painting temple portal~
+a painting of the Temple of Vulmarta~
+A cheerful painting showing the peaceful Vulmarta attending the wounded.~
+~
+27 0 0
+3001 0 0 0
+2 0 0
+E
+painting temple vulmarta~
+  The painting shows the serene and beautiful Vulmarta moving amongst the wounded
+within her sacred Temple, helping those in need.  Her face shows a compassion
+long lost within the realms of Kore.  She glances up and faces you with a smile?
+Maybe you ought to go see her?
+~
+#553
+box clan TOOT~
+a golden enlayed ballot box~
+A heavily decorated box rests in the middle of the table.~
+~
+15 0 0
+5000 1 -1 0
+0 0 0
+E
+ballot box~
+   In the center of the table rests a golden enlayed mahogany box.
+The box is used to contain the votes cast by the members of the
+clan to decide issues such as membership and policies.  The age of the
+wood and it's strength remind you of your clans long and powerful
+history.
+~
+#554
+clan TOOT table oak council~
+a huge oak table~
+A huge oak table rests here on a block of marble.~
+~
+15 1 0
+5000 0 -1 0
+0 0 0
+E
+huge oak table~
+  Cut from a single piece of oak, this huge center piece is astonishing
+to behold.  The grain of the wood pulsates with life and power as you 
+place your hands upon it's smooth varnished surface.  The top of the
+table is embedded with a variety of maps used in planning daily 
+excursions in the realms of Kore.  You notice that the head of the table
+does not have a chair placed by it.  The spot is reserved for the day
+Ship may return.
+~
+#555
+ballot paper clan TOOT~
+a ballot~
+A voting ballot for clan TOOT is laying on the table.~
+~
+16 0 1
+0 0 0 0
+1 0 0
+#556
+pen clan TOOT~
+a voting pen~
+A pen lies on the table waiting to be used.~
+~
+21 4 16385
+0 0 0 0
+0 0 0
+E
+pen~
+An ordinary pen that was provided by your clan leaders so you may vote.
+You may want to think about finding one that you can rent with :)
+~
+#557
+bar rosewood clan TOOT~
+a black-rosewood bar~
+A glossy black-rosewood bar is here, covered with bottles.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+black rosewood bar~
+   A highly polished black-rosewood bar at the far end of the room
+is covered with a variety of beverages, both alcoholic and non.
+~
+#558
+pool table marble clan TOOT~
+a pool table~
+A large marble pool table, covered in the finest felt.~
+test
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+pool table marble~
+   The marble for this table seems to have come from the mines of Valinor.
+The table seems to be made from one piece and is strong and sturdy.
+The plush red felt is meticulous and well cared for, perfect for a good
+game.  Shall we?
+~
+#559
+citadel gates X~
+the gates of the steel citadel~
+The fabled gates of the Citadel X lay before you.~
+~
+27 0 0
+515 0 0 0
+0 0 0
+#560
+granite gargoyle statue dog demon~
+a granite gargoyle~
+A stone statue of a winged dog-like demon rests here in the gloom.~
+~
+13 0 1
+0 0 0 0
+100000 0 0
+E
+granite gargoyle statue dog demon~
+Standing a massive eight feet tall, this gargoyle stands out from
+the rest of the room. Made of a granite, it is in stark contrast to the
+black brimstone of the room that contains it. The eyes draw your attention
+as you watch their slow flicker from red to light red, to a blood-like
+color that defies description. While watching the eyes, you can faintly make
+out the sounds of people screaming, as if they are a long way off.
+~
+#561
+fountain drink brew clan TOOT~
+a large fountain~
+Attached to the eastern wall, there is a large fountain.~
+~
+23 0 1
+10000000 10000000 4 0
+10000 0 0
+E
+plaque bronze~
+To Delimar
+
+Don't drink to much!  Well... at least when you aren't
+adding the books.  Take care and blessings my friend.
+
+Gargon
+~
+E
+fountain~
+  Driven by some magical force, possibly even an electrical
+current, a constant stream of dark liquid pours from the top
+of this ornately formed, golden fountain to a large basin
+attached to the wall below, filling the room with a sound of
+a trickling waterfall. The center of the fountain is in the 
+form of a twisted column and surrounding the basin are embossed
+figures of nymphs and flowering leaves. You see a large 
+bronze plaque attached to the wall above this masterpiece.
+~
+#562
+case display clan TOOT~
+a large display case~
+Dominating the center of the room, stands a large golden display case.~
+~
+15 0 1
+0 14 -1 0
+1000000 0 0
+E
+silver placcard~
+ Behold the Orsus Mace - During the second age of Kore,
+                         Delimar was the only mortal to
+                         wield its power.
+~
+E
+case display golden~
+ Enormous! The one word that comes to mind when you look at
+this case. You doubt that the room is large enough to contain 
+the number of people required to lift it's incredible mass. 
+The windows are far too sturdy to be glass, leading you to 
+believe that they are most likely quartz. The inside of the case
+appears to be lined with a padded, scarlet velvet and resting 
+in it's center, upon a platinum pedestal, lays the legendary 
+Orsus Mace. A silver placcard is at the bottom of the window.
+
+~
+#563
+fountain blood TOOT~
+a fountain~
+A small fountain filled with blood, gurgling in the corner.~
+~
+23 64 1
+100000000 100000000 13 0
+1000000000 0 0
+E
+fountain blood~
+  During the current era of Kore, Cret's closest brother took a 
+daring risk and asked the gods to make him undead. His new found
+power is truly awe inspiring, however with this power comes an 
+unfortunate situation. His body no longer thrives on water but
+now craves the blood of the living. To stave this desire for blood,
+Cret had the gods create this fountain.
+~
+#564
+key carnage~
+the key to Carnage storage~
+A large key marked Carnage storage sits here.~
+~
+18 67108864 1
+0 0 0 0
+2 0 0
+#565
+house stone basin vherin ultrin~
+a hollowed out stone basin~
+A small stone basin rests unobtrusively in a corner here.~
+~
+15 0 0
+1000 0 -1 0
+800 1 1
+E
+hole hardwood tree oak EE~
+It appears as if there might be something in the hollow portion of the
+tree..
+~
+#566
+board VU~
+clan board~
+Some notes appear to have been etched into the wall.~
+~
+13 16 0
+0 0 0 0
+0 0 0
+E
+mystical leaves~
+The leaves seem to call out, 'looooook at the booooard.'  No, you really
+shouldn't have indulged in that extra goblet of wine..
+~
+#567
+moss dingy brown VU clan~
+some dingy brown moss~
+Some dingy brown moss clings lifelessly to a nearby rock.~
+~
+19 0 1
+24 0 0 0
+1 0 0
+#568
+house water pool vherin ultrin shallow~
+a shallow pool~
+Water dripping from a stalactite forms a shallow pool of water here.~
+~
+23 0 0
+999999 999999 0 0
+1 0 0
+E
+clan spring water~
+The slowly moving water is frigid to the touch, and flows to the south
+in a very small creek from here.
+~
+#569
+clan GENERIC lobster~
+a lobster~
+A lobster is here, claws tied, swimming around inside a fishtank.~
+~
+19 0 1
+24 0 0 0
+1 1 1 30
+#570
+RE-USE!~
+a high ledge~
+A high ledge looms many feet above your head.~
+~
+27 0 1
+580 6 0 0
+9999999 0 0
+E
+high ledge shelf~
+   While it does hold a slight possibility of danger, the ledge does look
+climbable.  It is nearly twenty feet up, and you cannot see what lies
+beyond.
+~
+#571
+clan fountain Millenium~
+a fountain~
+A huge flowing fountain is here, bubbling a clear liquid.~
+~
+23 0 0
+100000000 100000000 0 0
+0 0 0
+E
+fountain~
+  This is a very large fountain. It is Millenium's very own.
+~
+#572
+shield navigation clan TOOT~
+the shield of ^GNavigation^n~
+A shield with a large map imprinted on it sits here~
+~
+9 67108929 513
+8 0 0 0
+8 33334 0
+E
+original~
+sapphire shield
+~
+E
+navigation toot shield clan~
+Carved into the steel of the shield, a map of some age shows the
+places where members of clan TOOT have been and are. Seemingly magic
+stars on the shield change every second.
+~
+A
+19 5
+A
+13 40
+A
+2 2
+A
+1 2
+A
+4 2
+A
+12 40
+#573
+clan TOOT painting Aesir portal~
+a painting of the city of Aesir~
+An exquisite painting of the city Aesir suspends on the wall.~
+~
+27 0 0
+26603 0 0 0
+2 0 0
+#574
+clan TOOT mural Eli portal~
+a mural of the city of Eli~
+A colorful mural of an elven city covers a large part of the wall.~
+~
+27 0 0
+25510 0 0 0
+1 0 0
+#575
+shard DYNASTY clan heavenly~
+a Heavenly Shard of ^WDynasty^n~
+You see a brightly lit shard of light.~
+~
+1 67108864 1
+0 0 -1 0
+1 33334 0
+E
+original~
+golden sceptre
+~
+E
+shard DYNASTY clan heavenly~
+Everyone should own a little piece of heaven to carry around.
+~
+A
+13 40
+A
+2 2
+A
+9 5
+A
+18 3
+A
+19 3
+#576
+searaiser harpoon nosferatu kris~
+the Harpoon, '^BSea^n^Wraiser^n'~
+A harpoon sits in the dirt glowing faintly with the symbol of clan TOOT.~
+~
+5 67108928 16385
+3 11 3 11
+10 33334 18750
+E
+original~
+kris Nosferatu
+~
+E
+searaiser harpoon kris nosferatu TOOT clan~
+Standing in the tradition of TOOT, days after killing the Ghenna
+Swordmistress a famous warrior of TOOT crafted her kris 'Nosferatu'
+into a mighty harpoon and enchanted it with the power of the sea.
+~
+A
+19 5
+A
+2 5
+A
+18 5
+A
+5 -3
+A
+13 40
+A
+1 2
+#577
+catapult dynasty~
+a catapult~
+An exsquisitely crafted catapult gleams brightly in the golden sunlight.~
+~
+13 268435456 0
+0 0 0 0
+0 0 0
+E
+catapult~
+An immense mechanical construct crafted in the finest platinum burnishes
+in the sun. Various mechanical devices protrude in odd places throughout
+the catapult, creating a hodge podge convoluted device.  Emblazoned on
+the gigantic arm lies the mark of Dynasty, an intricately engraved peach
+blossom tree, shining brighter than the brightest sun. Rumours abound
+that this mechanized catapult was created by the great gnomish inventor,
+Gnimsh.
+~
+#578
+sign dynasty~
+a sign~
+A large sign hovering in the air.~
+~
+13 268435456 0
+0 0 0 0
+0 0 0
+E
+sign~
+Catapult operating instructions.
+ 
+To operate, simply say, in full, the destination you wish to go to.
+Available destinations are:
+TEMPLE of Vulmarta
+OLYMPUS
+SHROK Morath
+DERLIN
+AESIR
+ELI
+New THALOS
+~
+#579
+clan TOOT fishtank tank~
+a fishtank~
+A clear tank filled with water and lobsters sits on a table.~
+~
+15 0 1
+400 5 -1 0
+10000000 0 0
+#580
+swirling aura mist translucent cloud torrent~
+swirling aura of mist~
+A translucent cloud of mist swirls in a torrent here.~
+A torrent of swirling mist lurks in the room, seemingly shielding the
+sleeping guardian.
+~
+13 0 0
+0 0 0 0
+1000 0 0
+E
+translucent aura mist swirling cloud torrent~
+A torrent of swirling mist lurks in the room, seemingly shielding the
+sleeping guardian.
+~
+#581
+chalice kings ornate~
+Chalice of Kings~
+An ornate chalice lies here in the dust.~
+~
+23 0 0
+10000 10000 0 0
+0 0 0
+E
+chalice kings ornate~
+This ancient relic, passed down from generation to generation seems to
+catch your eye. Upon further inspection you see a collection of enigmatic
+gems embossed into the metal, and you wonder, how old can it be?
+~
+#582
+silver wings heavenly might dynasty~
+Silver Wings of ^WHeavenly^n Might~
+A pair of silver wings lies discarded in the dust here.~
+~
+9 67108864 9
+12 0 0 0
+10 33334 0
+E
+silver wings heavenly might dynasty~
+A pair of silver wings unfurl and catch the wind, billowing around you.
+You feel safe and protected by the awesome celestial power of Dynasty.
+As the wind blows through the feathers you can hear softly, "Brotherhood,
+Friendship, Always and Forever".
+~
+A
+1 2
+A
+2 4
+A
+5 3
+A
+13 40
+A
+12 40
+A
+19 4
+B
+40960 0
+#99999
+$~

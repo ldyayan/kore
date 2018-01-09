@@ -1,0 +1,100 @@
+#12200
+shiv dagger knife~
+a nasty shiv~
+A nasty-looking shiv lies on the ground here.~
+~
+5 0 8193
+0 2 4 14
+9 50 10
+#12201
+bottle rum~
+a dirty bottle of rum~
+A bottle of rum in a paper bag lies here.~
+~
+17 0 1
+2 2 5 0
+1 1 1
+#12202
+key ~
+a key to the front door~
+A small key lies on the ground here.~
+~
+18 0 1
+0 0 0 0
+1 1 1
+#12203
+cudgel~
+a heavy cudgel~
+A heavy-looking cudgel lies on the ground here.~
+~
+5 0 8193
+0 3 4 6
+15 10 0
+#12204
+tsang pipe~
+a Tsang pipe~
+A Tsang pipe lies here, smoking quietly.~
+~
+3 0 1
+5 2 2 4
+5 1 1
+A
+3 -6
+A
+6 -6
+#12205
+tsang root~
+a piece of Tsang root~
+A small, brown root lies in the dirt here.~
+~
+10 0 1
+10 4 4 4
+1 1 0
+#12206
+gutrot wine~
+Gutrot Wine~
+A glass of Gutrot Wine lies here.~
+~
+10 0 1
+0 0 0 0
+1 5 1
+A
+23 2
+#12207
+veteran short sword~
+a veterans shortsword~
+A functional-looking shortsword lies here.~
+~
+5 0 8193
+0 4 2 3
+11 350 1
+A
+19 2
+#12208
+frying pan~
+a greasy frying pan~
+A greasy frying pan smells like fish here.~
+~
+5 0 8193
+0 3 3 5
+10 1 1
+#12209
+broken bottle~
+a Broken Bottle~
+A broken bottle lies on the ground here.~
+~
+5 4 24577
+0 10 1 14
+2 1 1
+A
+19 2
+#12236
+dummy fake~
+a dummy fake~
+A dummy fake floats through the database here.~
+~
+13 0 1
+0 0 0 0
+1 1 1
+#99999
+$~

@@ -1,0 +1,30 @@
+#249
+The City of Etorg (Saulot)~
+24999 30 0 3
+D 0 24907     6     1            A Dead End door northeast
+D 0 24997     8     1            Inside the Large Oak Tree door southwest
+D 0 24995     2     1            ? Road door south
+D 0 24996     0     1            Inside the Stone Temple door north
+D 0 24951     0     1            Inside the Great Tower door north
+D 0 24970     9     1            Inside the Southeastern Tower at Ground Level door northwest
+D 0 24945     7     1            Wall Road Below the Southeastern Tower door southeast
+M 0 24901     2 24902            nofly !there mustfly mob
+D 0 24952     2     1            The Lower Docks door south
+M 0 24901     2 24954            nofly !there mustfly mob
+M 0 24902     3 24957            fall !there mob
+M 0 24902     3 24956            fall !there mob
+M 0 24903     1 24955            fall n smash !there mob
+M 0 24902     3 24958            fall !there mob
+D 0 24917     5     1            Atop the Southern Gate door down
+R 0 24917 24904    -1            remove a giant crossbow
+O 0 24904   101 24917            a giant crossbow
+D 0 24903     1     1            Inside the Southern Gate door east
+M 0 24900     1 24903            the Huge Gate Guard
+G 1 24900     3    -1                    give an iron gate key
+D 0 24925     6     1            Inside the Great Tower at Street Level door northeast
+D 0 24924     8     1            Overlook Avenue at Southern Wall Road door southwest
+D 0 24915     4     1            Stairway Landing door up
+D 0 24912     3     1            Small Guard Alcove door west
+S
+#99999
+$~

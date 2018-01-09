@@ -1,0 +1,35 @@
+>greet_prog 30~
+  if isnpc($n)
+  else
+    if hasworn($n) == 16636
+      snarl $n
+      say NO! Not the crucifix!
+      flee
+    else
+      kill $n
+    endif
+  endif
+~
+>fight_prog 30~
+  if hasworn($n) == 16636
+    say I will not fight you!
+    flee
+  endif
+~
+>kill_prog 80~
+  mpecho A spirit rises from the corpse of $N!
+  mpsilent mpmload 16624
+~
+>death_prog 100~
+  if rand(50)
+    mpecho The spirit splits in half and TWO spirits leap to attack!
+    mpsilent mpmload 16624
+    mpsilent mpmload 16624
+    mpgoto cleaner
+  else
+    mpecho The spirit wails a loud cry and vanishes without a trace!
+    mpgoto cleaner
+  endif
+~
+|
+

@@ -1,0 +1,918 @@
+#3300
+A Small Side Street~
+You are standing on a side street.  The gutters are full with trash
+and sewage.  You notice a grate over on one side of the street leading
+down.
+~
+33 0 0
+D5
+A grate leading down.
+~
+grate~
+1 0 3301
+S
+#3301
+The entrance to the sewers~
+You are standing knee deep in water, and the air is thick
+and musty.  Looking south, you will have to stoop a little
+while exploring down here.
+~
+0 9 0
+D2
+A tunnel leading south.
+~
+~
+0 0 3302
+D4
+A grate is here.
+~
+grate~
+1 0 3300
+S
+#3302
+A Four Way Intersection.~
+You have entered a four way intersection.  You can barely
+peer through the darkness, but you believe you can see a 
+light from the north.  You may go north, east or west.
+~
+0 9 0
+D0
+~
+~
+0 0 3301
+D1
+~
+~
+0 0 3311
+D2
+~
+~
+0 0 3308
+D3
+~
+~
+0 0 3303
+S
+#3303
+A Three Way Intersection.~
+You have come to a three-way intersection.  You begin to notice
+that the water has become a little more stagnant and smelly.
+there is an inset to the north and the tunnel continues east
+and west.
+~
+0 9 0
+D0
+~
+~
+0 0 3304
+D1
+~
+~
+0 0 3302
+D3
+~
+~
+0 0 3305
+S
+#3304
+A small inlet~
+You have entered an small inlet.  The water here is very stagnant, and
+there is a layer of algae growing on the water here.  The only exit is
+south.
+~
+0 9 0
+D2
+~
+~
+0 0 3303
+S
+#3305
+A bend in the tunnel.~
+The tunnel takes a bend here.  You can travel both 
+south and east from here.
+~
+0 9 0
+D1
+~
+~
+0 0 3303
+D2
+~
+~
+0 0 3306
+S
+#3306
+A Long Tunnel~
+The water is getting a little deeper here.  There does not
+appear to be any water flow along this section of tunnel.
+You may travel north and south.
+~
+0 9 0
+D0
+~
+~
+0 0 3305
+D2
+~
+~
+0 0 3307
+S
+#3307
+A Dead End.~
+You have come to a dead end.  The only way out is back to
+the north.
+~
+0 0 0
+D0
+~
+~
+0 0 3306
+S
+#3308
+A Bend in the Tunnel.~
+The tunnel is dark and quite, only the driping of water
+breaks the silence.  Your footsteps echo from the splashing
+water. you may go north or east.
+~
+0 9 0
+D0
+~
+~
+0 0 3302
+D1
+~
+~
+0 0 3309
+S
+#3309
+A Long Tunnel.~
+You are walking down a long tunnel.  Only your footsteps and the
+constant dripping of water break the silence.  The water swirls
+behind every step you take.  The tunnel leads west to east.
+You believe you can make out a light to the east.
+~
+0 9 0
+D1
+~
+~
+0 0 3310
+D3
+~
+~
+0 0 3308
+S
+#3310
+temp~
+You are in an unfinished room.
+~
+0 9 0
+D3
+~
+~
+0 0 3309
+D4
+~
+~
+0 0 3029
+S
+#3311
+A Three-Way Intersection.~
+~
+0 9 0
+D0
+~
+~
+0 0 3314
+D1
+~
+~
+0 0 3312
+D3
+~
+~
+0 0 3302
+S
+#3312
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3313
+D3
+~
+~
+0 0 3311
+S
+#3313
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D3
+~
+~
+0 0 3312
+S
+#3314
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D2
+~
+~
+0 0 3311
+D3
+~
+~
+0 0 3315
+S
+#3315
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3316
+D1
+~
+~
+0 0 3314
+S
+#3316
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3329
+D1
+~
+~
+0 0 3320
+D2
+~
+~
+0 0 3315
+D3
+~
+~
+0 0 3317
+S
+#3317
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3316
+D2
+~
+~
+0 0 3319
+D3
+~
+~
+0 0 3318
+S
+#3318
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3317
+S
+#3319
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3317
+S
+#3320
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3321
+D3
+~
+~
+0 0 3316
+S
+#3321
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3322
+D3
+~
+~
+0 0 3320
+S
+#3322
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3326
+D1
+~
+~
+0 0 3324
+D2
+~
+~
+0 0 3323
+D3
+~
+~
+0 0 3321
+S
+#3323
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3322
+S
+#3324
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D2
+~
+~
+0 0 3325
+D3
+~
+~
+0 0 3322
+S
+#3325
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3324
+S
+#3326
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3328
+D2
+~
+~
+0 0 3322
+D3
+~
+~
+0 0 3327
+S
+#3327
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3326
+S
+#3328
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3362
+D3
+~
+~
+0 0 3326
+S
+#3329
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D2
+~
+~
+0 0 3316
+D3
+~
+~
+0 0 3330
+S
+#3330
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3329
+D3
+~
+~
+0 0 3331
+S
+#3331
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3332
+D1
+~
+~
+0 0 3330
+S
+#3332
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3333
+D2
+~
+~
+0 0 3331
+S
+#3333
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3334
+D2
+~
+~
+0 0 3332
+S
+#3334
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3337
+D1
+~
+~
+0 0 3335
+D2
+~
+~
+0 0 3333
+S
+#3335
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3336
+D3
+~
+~
+0 0 3334
+S
+#3336
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D3
+~
+~
+0 0 3335
+S
+#3337
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3342
+D2
+~
+~
+0 0 3334
+D3
+~
+~
+0 0 3338
+S
+#3338
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3340
+D1
+~
+~
+0 0 3337
+D2
+~
+~
+0 0 3339
+S
+#3339
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3338
+S
+#3340
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3341
+D2
+~
+~
+0 0 3338
+S
+#3341
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D2
+~
+~
+0 0 3340
+S
+#3342
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3343
+D2
+~
+~
+0 0 3337
+S
+#3343
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3344
+D1
+~
+~
+0 0 3346
+D2
+~
+~
+0 0 3342
+S
+#3344
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3345
+D2
+~
+~
+0 0 3343
+S
+#3345
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D3
+~
+~
+0 0 3344
+S
+#3346
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3347
+D3
+~
+~
+0 0 3343
+S
+#3347
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3356
+D1
+~
+~
+0 0 3348
+D3
+~
+~
+0 0 3346
+S
+#3348
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D2
+~
+~
+0 0 3349
+D3
+~
+~
+0 0 3347
+S
+#3349
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3348
+D1
+~
+~
+0 0 3351
+D3
+~
+~
+0 0 3350
+S
+#3350
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3349
+S
+#3351
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3352
+D3
+~
+~
+0 0 3349
+S
+#3352
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3353
+D1
+~
+~
+0 0 3357
+D2
+~
+~
+0 0 3351
+S
+#3353
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3354
+D2
+~
+~
+0 0 3352
+D3
+~
+~
+0 0 3355
+S
+#3354
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D3
+~
+~
+0 0 3353
+S
+#3355
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3353
+D3
+~
+~
+0 0 3356
+S
+#3356
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3355
+D2
+~
+~
+0 0 3347
+S
+#3357
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D2
+~
+~
+0 0 3358
+D3
+~
+~
+0 0 3352
+S
+#3358
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3357
+D1
+~
+~
+0 0 3359
+S
+#3359
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3360
+D2
+~
+~
+0 0 3361
+D3
+~
+~
+0 0 3358
+S
+#3360
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D2
+~
+~
+0 0 3359
+S
+#3361
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D0
+~
+~
+0 0 3359
+D3
+~
+~
+0 0 3362
+S
+#3362
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+33 0 0
+D1
+~
+~
+0 0 3361
+D2
+~
+~
+0 0 3328
+S
+#99999
+$~

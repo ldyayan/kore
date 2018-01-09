@@ -1,0 +1,22 @@
+>greet_prog 30~
+  if ispc($n)
+    smile
+    say Welcome to the Mayors palace, I don't think I've seen you here before.
+    say What's your name?
+    mpforce $n say $N
+    say Ah, nice to meet you then.
+  endif
+~
+>command_prog rent~
+  say Sorry, I can't let you stay here, you're not on the list.
+  apologize $n
+  mpstopcommand
+~ 
+>rand_prog 1~
+  if sex($r) == male
+    smile $r
+    emote plays with her hair and looks into your eyes.
+  endif
+~
+|
+

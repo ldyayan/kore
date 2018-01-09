@@ -1,0 +1,324 @@
+#18300
+key cross~
+a cross shaped Key~
+A key lays here, its end is shaped like a small cross.~
+~
+18 4 5
+18300 0 0 0
+1 1 1
+#18301
+iron cast swordbreaker notched~
+a cast iron swordbreaker~
+A long piece of notched iron sits here in the corner.~
+~
+5 8401474 8193
+0 11 3 4
+19 105000 1
+A
+19 4
+A
+17 -20
+#18302
+amulet silver virmene~
+a ^Wsilver^n amulet of Virmene~
+A ^Wsilver^n amulet twirls in the sunlight; embossed on it is a large eye.~
+~
+11 209489 5
+0 0 0 0
+3 1 1
+A
+19 1
+A
+13 35
+A
+1 2
+#18303
+shard bone horror jagged~
+a jagged bone shard of the Horror~
+A jagged looking piece of bone is here, splintered off the Horror itself.~
+~
+3 78355 16385
+50 10 10 120
+5 1 1
+A
+19 3
+A
+3 -2
+#18304
+symbol eye virmene sign~
+the Eye of Virmene~
+The Eye of Virmene is floating here, its presence shakes your soul.~
+~
+13 0 0
+0 0 0 0
+9999 1 1
+E
+eye symbol sign virmene~
+   The Eye of Virmene, even its name evokes fear from most of the worlds
+population. Hundreds of years ago, a stupid Mage was tricked by an odd
+cultist to open a portal to a strange and distant meta-plane. The plane was
+the home of the powerful entity Virmene. The Horror Virmene then wandered the
+world for years,killing thousands of people, spreading countless diseases and
+driving thousands more insane. It took a huge group of heroes to eventually
+drive Virmene back to his plane and seal the portal. Even now, hundreds of
+years later, his name is uttered only in hushed tones. The sight of this
+symbol means that a cult may be down here, you just hope that they have not
+found a way to open a portal to his plane.
+~
+#18305
+short rod steel key~
+a short steel rod~
+A short steel rod is stuck here in the ground.~
+~
+18 66061 16385
+18305 0 0 0
+1 1 1
+#18306
+torment implements tools~
+the implements of Torment~
+A set of torture tools are here in a handy carrying case.~
+~
+5 8464963 8193
+0 1 26 3
+1 1 1
+A
+19 4
+A
+5 -5
+#18307
+anvil maker~
+the Anvil of the Maker~
+An enormous Anvil is here, it looks as though it has been heavily used.~
+~
+5 65611 8193
+0 6 6 7
+18 1 1
+E
+anvil maker~
+   This huge black anvil seems very awkward to wield, but the amount of
+power you feel surging through your body while holding it makes any
+amount of uncomfort quite bareable.  The mystic runes glow in some unknown
+arcane tongue, seemlingly blinding to all those around you.
+~
+A
+13 75
+A
+4 3
+#18308
+effigy flaming virmene~
+a flaming effigy of Virmene~
+A glowing effigy of a beetle covered head is resting here in the corner.~
+~
+9 12817 17
+4 0 0 0
+12 0 1
+A
+19 2
+A
+13 20
+B
+8 0
+#18309
+claws despair~
+the Claws of Despair~
+A set of long black claws lay here, blood slowly drips off the tips.~
+~
+9 49666 3
+2 0 0 0
+1 1 1
+A
+19 1
+A
+12 35
+A
+13 -15
+A
+6 -1
+#18310
+claws suffering~
+the Claws of Suffering~
+A pair of nasty black claws lays here in the dirt.~
+~
+9 115201 3
+2 0 0 0
+1 1 1
+A
+19 1
+A
+13 35
+A
+12 -15
+A
+6 -1
+#18311
+shackles spirit bracelet~
+spirit shackles~
+A heavy set of shackles lay here, bound to the wrists of some invisible force.~
+~
+9 4704 4129
+-2 0 0 0
+10 1 1
+A
+19 1
+A
+1 1
+#18312
+dagger thin sacrificial~
+a sacrificial dagger~
+A thin dagger is stuck in into the table.~
+~
+5 66050 24577
+0 3 5 11
+2 1 1
+A
+19 2
+A
+3 1
+#18313
+sash virmene rune~
+a rune covered sash of Virmene~
+A sash, covered in runes, lays here on the ground.~
+~
+11 0 5
+0 0 0 0
+5 1 1
+A
+12 15
+A
+3 2
+#18314
+oricalcum coin~
+an oricalcum coin~
+A coin made of a strange bronze metal spins on its end.~
+~
+18 36 16385
+18314 3 0 0
+1 1 1
+#18315
+robe elemental air~
+a robe woven from elemental air~
+A robe hovers a few feet off the ground.~
+~
+9 57376 9
+8 0 0 0
+5 1 1
+A
+13 15
+A
+12 15
+#18316
+tome summoning mystic~
+a darkbound leather tome~
+An old tome sits here in the dirt, it glows softly.~
+~
+2 9217 16385
+50 109 109 109
+1 1 1
+#18317
+manual bindings elemental~
+a Manual of Elemental Bindings~
+A leather bound manual is here, humming softly~
+~
+2 8738 16385
+50 65 60 17
+1 1 1
+#18319
+thin knife dissection~
+a thin dissection knife~
+A thin dissection knife is stuck in a putrid lump of flesh.~
+~
+5 8464960 8193
+0 4 9 3
+1 1 1
+A
+19 3
+A
+6 -6
+#18320
+ball blue glowing~
+a glowing blue ball~
+A glowing blue ball floats a few feet above the ground here.~
+~
+18 65709 16385
+18320 1 0 0
+1 1 1
+#18321
+miasma pestilence cloak~
+a Miasma of Pestilence~
+A cloak made of foul vapors and swarming flies lets off a horrendous odor.~
+~
+9 8507969 1025
+6 0 0 0
+6 1 1
+E
+cloak miasma pestilence~
+   A cloak of some unknown materals that is letting off a 
+noxious cloud of diseased stinkin gases.
+~
+A
+12 60
+A
+19 2
+#18322
+eye golden virmene unblinking helmet~
+the unblinking Eye of Virmene~
+A golden helmet is here, an unblinking eye emblazoned on the top~
+~
+9 49666 17
+3 0 0 0
+7 1 1
+A
+12 30
+A
+13 30
+#18323
+glaive demon's blood~
+a glaive forged in demon's blood~
+A huge glaive is here, dripping black demon's blood all over the floor.~
+~
+5 189010 8193
+0 4 9 15
+15 1 1
+A
+12 35
+A
+9 5
+#18324
+cloak genocide~
+a Genocide Cloak~
+A black cloak lays here, its presence means impending doom.~
+~
+9 8643216 1025
+5 0 0 0
+10 1 1
+A
+13 -75
+A
+12 125
+A
+12 25
+#18325
+stick withered~
+a withered stick~
+A little brown stick is here, stuck deep in da dirt.~
+~
+3 642 16385
+50 5 5 65
+1 1 1
+#18326
+portal yellow orange~
+an opening to a distant meta-plane~
+A yellow and orange portal hovers here a foot above the ground.~
+~
+27 16 0
+18369 0 0 0
+9999 0 0
+E
+portal yellow orange~
+   The portal is constanly shifing in shape and size.  The yellow
+and orange colors that make it up are constantly melding into
+each other.  From what little you can see through it, it looks as
+if there is a large marble floor on the other side.
+~
+#99999
+$~

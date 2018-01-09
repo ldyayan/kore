@@ -1,0 +1,61 @@
+#172
+Unnamed (Faramir)~
+17299 40 2 3
+M 0 17213     8 17249            a male dryad
+M 0 17212     8 17249            a female dryad
+M 0 17213     8 17248            a male dryad
+M 0 17212     8 17248            a female dryad
+M 0 17213     8 17247            a male dryad
+M 0 17212     8 17247            a female dryad
+D 0 17246     5     2            The chamber of magic door down
+M 0 17212     8 17246            a female dryad
+M 0 17213     8 17246            a male dryad
+M 0 17211     1 17250            Druellae, queen of the dryads
+E 1 17214    10     6                    head a glowing ^Goak-leaf^n wreath
+E 1 17215    35     3                    neck 1 an amber studded ^Ygolden^n medallion
+E 1 17216    25    12                    about a cloak of ^Ygolden^n oak leaves
+D 0 17245     4     2            Druellae's personal quarters door up
+D 0 17244     0     2            Greicha's private room door north
+M 0 17210     1 17244            Greicha
+E 1 17212    10    16                    wield a bramble whip
+E 1 17209    15    13                    waist an amber studded belt of bark
+D 0 17236     3     2            A private chamber door west
+M 0 17207     1 17236            the captain of the dryad guard
+E 1 17213     3    14                    left wrist a ^Wsilver^n circlet
+D 0 17243     2     2            Phiessla's quarters door south
+M 0 17209     1 17243            Phiessla
+E 1 17211     8     7                    legs thorny rosewood leg plates
+E 1 17210    20    10                    arms a set of rosewood arm plates
+D 0 17238     0     2            The glowing hallway door north
+D 0 17238     2     2            The glowing hallway door south
+D 0 17242     3     2            Druellae's private guard chamber door west
+M 0 17208     2 17242            Druellae's private guard
+E 1 17208     5     6                    head a glowing acorn-cup helm
+D 0 17241     1     2            Before a huge doorway door east
+M 0 17206     3 17232            a powerful he-dryad guard
+E 1 17207   100    17                    held a dark oak key
+E 1 17206    20    13                    waist an oak-leaf loincloth
+M 0 17204     4 17213            the thick bramble bushes
+M 0 17204     4 17209            the thick bramble bushes
+D 0 17235     1     2            A short hallway door east
+O 0 17204   100 17226            the enchanted tree
+D 0 17234     5     2            A spiral staircase door down
+D 0 17233     4     2            The base of the staircase door up
+M 0 17205     1 17230            a vast swarm of hornets
+E 1 17205     5    16                    wield a sharp hornets sting
+M 0 17203     1 17225            a huge rock creature
+E 1 17203   100    16                    wield a huge boulder
+E 1 17203   100    19                    wield 2 a huge boulder
+M 0 17202     2 17212            the dense undergrowth
+M 0 17200     1 17208            Branch
+E 1 17200   101    17                    held a prickly key
+E 1 17201    75     0                    light an enchanted twig
+D 0 17208     2     1            Within a huge tree door south
+D 0 17222     2     1            A ledge behind the waterfall door south
+D 0 17220     0     1            Next to the falls door north
+D 0 17207     0     1            Beneath a huge tree door north
+D 0 17217     2     2            Beside a river door south
+D 0 17216     0     2            Following a tiny path door north
+S
+#99999
+$~

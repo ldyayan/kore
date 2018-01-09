@@ -1,0 +1,9 @@
+>greet_prog 100~
+  if ispc($n)
+    if race($n) == dwarf
+      mpechoaround $n $I salutes $N.
+      mpechoat $n $I gives you a salute.
+    endif
+  endif
+~
+|

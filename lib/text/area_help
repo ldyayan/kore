@@ -1,0 +1,660 @@
+AREA GUIDELINES
+ 
+     These guidelines are designed to be read by people wishing to write an
+area (or domain, etc).  They are intended to be general, and nothing in them is
+final; however, they should be considered final until an exception is made.
+Exceptions to these rules are made frequently as people come up with unique
+ideas/concepts that have both advantages, and drawbacks.  As usual, the
+decision of the highest level admin who decides to intervene in any particular
+issue is the final decision in that particular issue.  If you think you have an
+idea for an object or situation that will violate one or more of the below
+items, feel free to mail approval (or an admin) about it.
+
+THEME...
+ 
+     Each area should have an overall theme, which must take place in
+approximately the 0-1600 AD time period.  Note that this doesn't make the theme
+requirements strictly "medieval", but does, of course, exclude anything modern,
+futuristic, and most likely, prehistoric.
+
+     Areas based on books or music are fine, but the author may not assume that
+the players exploring the area have read the book, or are in any way familiar
+with parts of the area except those explicitly introduced or explained.
+
+     The theme should be consistent, and any "portals" to new and different
+sections of the area should be well-explained and used sparingly.  Also, in
+rooms which mark a significant change of atmosphere (example: leaving a swamp,
+and entering a village) it should be noted in the long description of the room
+that a change will occur if you move in that direction.  On the other hand,
+rooms which describe adjacent rooms to excess and do not adequately describe
+their own contents are unacceptable.
+ 
+
+ROOMS...
+ 
+     The long description of an individual room should be readable and
+understandable, even if it is the only room a person visits.  The author cannot
+assume that the player is traveling through the room in a certain direction, or
+that he has just come from another part of the area.  Rooms should, for the
+most part, be able to
+** TRUNCATED **
+> more /doc/Genocide/areas
+AREA GUIDELINES
+ 
+     These guidelines are designed to be read by people wishing to write an
+area (or domain, etc).  They are intended to be general, and nothing in them is
+final; however, they should be considered final until an exception is made.
+Exceptions to these rules are made frequently as people come up with unique
+ideas/concepts that have both advantages, and drawbacks.  As usual, the
+decision of the highest level admin who decides to intervene in any particular
+issue is the final decision in that particular issue.  If you think you have an
+idea for an object or situation that will violate one or more of the below
+items, feel free to mail approval (or an admin) about it.
+
+THEME...
+ 
+     Each area should have an overall theme, which must take place in
+approximately the 0-1600 AD time period.  Note that this doesn't make the theme
+requirements strictly "medieval", but does, of course, exclude anything modern,
+futuristic, and most likely, prehistoric.
+
+     Areas based on books or music are fine, but the author may not assume that
+the players exploring the area have read the book, or are in any way familiar
+with parts of the area except those explicitly introduced or explained.
+
+     The theme should be consistent, and any "portals" to new and different
+sections of the area should be well-explained and used sparingly.  Also, in
+rooms which mark a significant change of atmosphere (example: leaving a swamp,
+and entering a village) it should be noted in the long description of the room
+that a change will occur if you move in that direction.  On the other hand,
+rooms which describe adjacent rooms to excess and do not adequately describe
+their own contents are unacceptable.
+ 
+
+ROOMS...
+ 
+     The long description of an individual room should be readable and
+understandable, even if it is the only room a person visits.  The author cannot
+assume that the player is traveling through the room in a certain direction, or
+that he has just come from another part of the area.  Rooms should, for the
+most part, be able to stand alone, though some area atmosphere is allowed for.
+Key items mentioned in the long description should be supported as items in the
+room code, and in most cases have descriptions which are complete sentences (ie
+a subject and a verb).  If the room contains special actions (ie a "search"
+command), then those commands must be alluded to in the room's description, or
+in the description of a prominent item.  Unusual command structures should be
+suggested verbatim (ie "You see a hole in the wall--perhaps you could
+\"{c}enter{/c} hole\".").  The author should not make any assumptions on the
+player's gender or equipment in room descriptions.  Over-repetition of nouns
+and verbs in a long description is very poor form.  If the author does not make
+an effort to enjoy the luxury of synonyms and pronouns, a room may be deemed
+unacceptable.  As mentioned above, rooms which rely too heavily on descriptions
+of the surrounding rooms to fill space are unacceptable.  Long or short
+descriptions which repeat from room to room are not OK.  Variety is required.
+
+     Areas should be mappable on paper, with sub-outrageous difficulty.  Simply
+put, if you're in a room and move east, you should then be able to return to
+the room by moving west.  This should be true in all cases unless a special
+command sends you to some distant room, in which case a special command or
+route may be needed to get back.  It is allowable to have larger sub-maps
+inside of outer maps, such as a 15-room house surrounded by a 5-room yard, but
+areas which either deliberately attempt to foil mappers or are simply too
+complex to be drawn will likely be turned down for approval.  Mazes are
+basically not allowed, though "maze" is a loose term.  Areas should not be
+overly harsh to players who blunder by hunting other players, etc.  In other
+words, a player should be able to leave an area that he does not want to be in
+without having to have previous knowledge of it.
+ 
+     It is not OK to have a large part of your area which can only be accessed
+by a single item (including locked doors).  If an item is needed to pass a
+certain point it must be either available for free or in a shop so other
+players can get through too.  Locked doors should not be the only way in or out
+of any section of your area over 4 rooms.
+ 
+
+TEXT STANDARDS...
+ 
+     For the most part, standard English typing standards apply, for example:
+there should be two spaces after end-of-sentence punctuation, a dash is "--"
+(with no space before or after it), etc.  Unless there is some special reason
+to do so, do not hyphenate words across lines.  Any numbers less than 10 should
+be written out (ie 6 should be six).  For dialogue and other situations that
+require quoting, double quotes (") should be used, not apostrophes (').  Colons
+(:) should only be followed by one space generally.
+
+     There should be no indentation for paragraphs in room descriptions.  If
+you wish to divide long descriptions (or whatever) into paragraphs, use blank
+lines inbetween paragraphs.  The same indentation standard applies to item
+descrips and all displayed text.
+
+     There should be consistency throughout the area.  If a name or phrase is
+capitalized in one part of the area, it should be so area-wide.  Similarly, if
+a word has more than one spelling (example: color, colour), its spelling should
+be uniform throughout the area.  If some words use the British spelling, all
+words with that option should use it.
+
+     In short descriptions, the first word should always be capitalized; but,
+in general, only proper nouns should be capitalized in the remainder.  Short
+descriptions must not end with a punctuation mark.  Short descriptions should
+begin with a definite or indefinite article in most cases, ie "A suit of
+leather armor" vs "Leather armor"--the former should be used.
+
+     Long descriptions and rooms' item descriptions should consist of complete
+sentences and not fragments (except where a fragment is desirable for effect).
+They should stand alone and not begin with a pronoun.  For example,
+unacceptable: "look at closet", "It contains clothing."; acceptable: "look at
+closet", "The closet contains clothing.".
+
+     All multi-line text that's displayed in an area should be formatted for 80
+column displays (no characters should appear in the 80th column, however).  For
+long descriptions and /std/room item descriptions, text is run through the
+parse_long() function automatically in order to format them, interpret tagging
+codes in them (see below), etc.  In these situations, newlines (\n) should not
+appear in the text (not at the end of the text, either) unless it's for a
+specific line-break effect.  Whenever you are displaying custom text (in an
+add_action()'ed command, for example), you must format it properly--in general,
+you would use format() or parse_long() to do so.
+
+     In description text (in particular, all long descriptions and items in
+rooms), any phrases that can be looked at more closely (ie, have item entries)
+should be "tagged". This is done with {i} (or {item}) at the beginning of the
+word/phrase, and {/i} (or {/item}) at the end.
+
+     Command tagging is also required in all descriptions; the tagging is done
+just as it is for items, but the code for commands is {c} (or {cmd}) and {/c}
+(or {/cmd}).  For commands that have an effect, you must also use quotes to
+delineate the command's syntax, and any argument specifier should use standard
+help file convention (ie: angle brackets for required arguments, and brackets
+for optional arguments).  Note that quotes-inside-quotes in LPC must be escaped
+with a backslash (ie: write("She said, \"Fear.\"\n")).  Examples:
+
+      Correct form:
+          To use this item, "{c}travel{/c} <player>".
+      Situation where necessary argument is casually mentioned:
+          You might wish to "{c}search{/c}" the grass here.
+           (note: as always, when you "search" without an argument in this type
+            of situation, you should see "Search what?", not simply "What?")
+      The above, with an item description for "grass":
+          You might wish to "{c}search{/c}" the {i}grass{/i} here.
+      Similar to above, but necessary argument is formally mentioned:
+          You might wish to "{c}search{/c} grass" here.
+      The above, with an item description for "grass":
+          You might wish to "{c}search{/c} {i}grass{/i}" here.
+      When the command is simply atmosphere (with "lake" item description):
+          It would be refreshing to {c}swim{/c} in this {i}lake{/i}, but...
+
+     Note that item and command tagging is only supported automatically in two
+situations: long descriptions (ie: the strings set by set_long() and returned
+by query_long()), and /std/room's item descriptions (ie: the strings set by
+set_items()).  There might be some other situations where these tags would be
+preferable, and in that case, you'll have to parse your string via parse_long()
+manually (usage: parse_long(string str, object player)); but in general, these
+two situations are the only places you need to use these tags.  Quotes around
+command names/syntax are used in most all places where the command is
+specified, however.
+
+MELEE WEAPONS...
+
+     Weapons must have appropriate weights for their type, and appropriate
+damages for their weight.  In general, damage will scale up with weight in
+Genocide's system because of the way strength is handled.
+
+     "Excellent" weapons are the top weapons that people actually want to
+obtain and use.  A chart of suggested damage numbers for such weapons is below.
+"Normal" weapons should do at least 33% damage less than these.  Any
+non-standard damage (ie: poison) should be taken into account for both the
+maximum and average.  Suggested weapon values are also provided, both for
+"normal" and "excellent" versions.  Any special features that go beyond damage
+should add slightly more to the price of the "excellent" versions.
+
+     All of the following should have variable hand requirements, depending on
+weight (set_slot(W_STR_BASED)).
+
+weapon               weight avg dmg max dmg  value: normal  excellent
+-------------------- ------ ------- --------        ------- ---------
+knife                   0.5       8      12              50      1000
+dagger, dirk            1        10      18             150      1500
+scourge, whip           1.5      12      20             200      2000
+club, staff             2        15      30             250      2100
+sickle                  2.5      16      30             300      2200
+short sword             2.5      18      35             350      2400
+trident, pick           3        20      35             400      2600
+hand axe, warhammer     3.5      20      40             420      2700
+broad/long sword,   
+scimitar                4        22      45             440      2800
+battle axe              5        25      45             450      3000
+glaive, guisarme,
+fauchard, etc           5.5      25      60             500      3300
+mace, flail             6        28      55             520      3500
+bardiche, lochaber axe  6.5      30      60             550      3600
+morning star,
+lucern hammer           7.5      30      70             600      3800
+bastard sword           8        35      80             700      4500
+great (2H) sword        9        46      90             750      5000
+halberd                 9.5      42      100            750      5000
+-------------------- ------ ------- --------        ------- ---------
+
+     In general, for special weapons of 10 weight or above, the following
+formulas should be used: average damage = 8 + 4 * weight, maximum damage =
+average * 2, normal value = 80 * weight, excellent value = 1000 + 500 * weight.
+Note that the weight of a weapon must be a multiple of 0.5.
+
+     In general, the stamina cost for weapons should be set as per the
+following formula: (avgdmg/4)+(maxdmg/8).  Increase the cost by 33% if the
+weapon is wide range.  Round decimal results to the nearest integer.  If a
+weapon has a special effect beyond normal damage (ie poison, make enemy
+visible, etc), it should cost extra stamina.  You can either add this to the
+base stamina cost, or check and subtract from the player's stamina inside your
+weapon_effect function.
+
+     The damage that weapons do should be spread as evenly as possible
+throughout its overall damage range.
+
+     Wide-range weapons can do the same maximum and average damage as normal
+weapons.  Being able to toggle between modes is OK on "excellent" weapons, but
+it must be explained satisfactorily (ie: no dagger that for some unknown reason
+is able to hit everyone in the room).  For a weapon that is togglable in this
+fashion, 1000 value should be added; also, there should be a maximum of one per
+area.
+
+     An area of at least 20,000 coins value may have 2 excellent weapons.  An
+area of at least 40,000 value may have 3.  An area of at least 70,000 may have
+4, and an area of 90,000 or more value may have 5.
+
+
+RANGED WEAPONS...
+
+     For ranged weapon combat, there are two components: launchers and ammo.
+Some ammo do not require launchers (can/must be thrown), some can be used with
+or without a launcher.
+
+     Launchers have a "multiplier" value, which is used to multiply ammo damage
+by when the ammo is fired from that launcher; a "range" value, which is used to
+determine the max range; a "str_required" flag, which determines whether or not
+a player's strength will help/hinder his usage of that particular launcher; a
+"reload_rounds" setting, which sets how many rounds are required to reload the
+launcher (default is 1); and an "ammo_type" setting, which determines which
+ammo can be fired from the launcher (valid ammo_type settings are listed
+below).
+
+     Ammo has a thrown range (the number of rooms it can be launched when not
+using a launcher, 0 means it can't be launched without a launcher), an ammo
+type (a keyword meaning the type of launcher it requires--see below), and an
+ammo effect.  The ammo effect determines how much damage the ammo does.  See
+/doc/Genocide/equip.doc for information on how to use it.
+
+     "Excellent" launchers and ammo are the best ones that people actually want
+to obtain and use.  A chart of suggested damage numbers for such weapons is
+below.  "Normal" weapons should do at least 33% damage less than these. Any
+non-standard damage (ie: poison) should be taken into account for both the
+maximum and average.  Suggested weapon values are also provided, both for
+"normal" and "excellent" versions.  Any special features that go beyond damage
+should add even more to the price of the "excellent" versions.
+
+     All of the following should be set to require two hands.
+
+                                                  .....value......
+launcher       weight dmg mult range str? reload  normal excellent  stamina
+-------------- ------ -------- ----- ---- ------  ------ ---------  -------
+sling          1         2       3   yes    1        200      1500  5
+blowgun        1.5       1       2   no     1        300      1500  3
+short bow      3         1       3   yes    1        500      2500  6
+light crossbow 4         1       3   no     1        600      3000  6
+long bow       5         1.5     4   yes    1        700      4000  9
+heavy crossbow 7         2       5   no     2        800      4500  13
+-------------- ------ -------- ----- ---- ------  ------ ---------  -------
+
+     The following ammos should all be set to require variable hands, depending
+on weight.  Unlike the above charts, the damage numbers and values given are
+for normal ammo.  "Excellent" ammo (with special features or more damage)
+should cost more, be rare, and specially approved.
+
+ammo type      weight thrown range avg dmg max dmg value
+-------------- ------ ------------ ------- ------- -----
+blowgun dart     0.2       0            10      30    40
+bolt, arrow      0.3       0            25      50    80
+stone            0.6       1            10      20    30
+-------------- ------ ------------ ------- ------- -----
+throwing dart    0.5       1             6      10    10
+shuriken         0.5       2             8      20    15
+throwing knife   0.5       1            10      15    20
+throwing hammer,
+throwing axe     3         1            20      40    50
+spear            3         1            15      45    50
+-------------- ------ ------------ ------- ------- -----
+
+     Valid ammo_type strings: "arrow", "blowgun dart", "bolt", "stone".  For
+items that don't have an appropriate launcher, leave the ammo_type field at 0.
+
+     In general, the stamina cost for ammo should be set as per the following
+formula: (avgdmg/8)+(maxdmg/16).  Round decimal results to the nearest integer.
+If ammo has a special effect beyond normal damage (ie poison, make enemy
+visible, etc), it should cost extra stamina.  You should check and subtract
+from the player's stamina inside your ammo_effect function.  The stamina
+required for ammo only comes into play when the ammo is thrown, not when it's
+fired from a launcher.
+
+     Any area under 50,000 coins value may have 2 excellent ranged weapons.
+Areas of 50,000 coins or more may have 3, and areas with 90,000 coins value or
+above may have 4.  Excellent ammo must be specially approved and most likely of
+limited quantity.
+
+
+ARMOR...
+
+     All armor has a strength value, and a deflection value.  The strength
+value decreases as the armor absorbs damage, and when it reaches 0, the armor
+will absorb no more damage (it will "break").  The deflection value is a
+percentage value--the average percentage of damage done on the player that the
+armor will absorb.
+
+     Below are deflection and weight values for "excellent" armor.  No base
+value is required on normal armor, value changes according to strength.  The
+following names for slots are the S_ values in /include/equip.h.  Common combos
+are available as W_ values in /include/equip.h.  Combinations should add the
+weight and deflection of each individual item.  For example, an excellent pair
+of gloves would have 6 deflection and weigh 2.0.
+
+type          deflection weight
+------------- ---------- --------------
+torso         9          2.5
+leg           2          0.5
+head          7          1.5
+foot          2          0.5
+ghand         3          1.0
+neck          3          0.5
+waist         3          1.0
+finger        1          0.0
+hand (shield) 1-20       deflection/3.0 (should use W_STR_BASED slot)
+------------- ---------- --------------
+
+     Armors with special features will usually have extra value and/or extra
+weight.  Armor with the maximum deflection should have appropriate names, ie no
+"leather armor" that protects for as much as the best armor in the game.
+
+     The availability of excellent armor is not limited.
+
+
+MAGIC ITEMS...
+
+     Items that provide spells to players via /std/magic_item will be approved
+and priced on an individual basis.
+
+
+STAT-ENHANCING ITEMS...
+
+     Objects that enhance players' stats should in general require a slot (ie
+must be readied to get the effect).  There are some exceptions, but usually
+they have drawbacks as well.  They should use /std/equip's set_bonus() function
+when possible.
+
+     An area may have a maximum of 1/15th its value in standard stat-enhancing
+items.  One point of each stat has a specific assigned value, as seen in the
+following chart.  Stat-enhancing items' base value should be set to the proper
+value from the chart.  All the stat-enhancing value of an area may be contained
+in a single item if desired, or there may be multiple items.  Each item must
+require a slot, however, except in special cases. Items must take a pair of
+slots if using the legs/feet/hands.
+
+stat value per point
+---- ---------------
+str  3250
+dex  1500
+int  1500
+acc  1500
+con  3500
+
+     So, for example, an area whose total value was 60,000 coins could have a
++2 intelligence item, or a +1 strength item, but not a +3 dexterity item.
+
+
+ITEMS...
+
+     In general, an area shouldn't have more than 6 teleport charges available
+(either in the area, or for sale in the area) per reset.  No more than 3 of the
+6 charges should be charges that can teleport you to the location of another
+player (as opposed to simply into a room somewhere). Each charge of a teleport
+device that teleports a player to the location of another player should be
+valued at 3000 coins.  Teleport devices that take a player to a specific room
+should be valued at 500 coins per charge.
+
+     If an item is designed not to be picked up, use the set_non_gettable()
+function from /std/object.  Don't use high weights just because it's convenient
+or because you don't know about set_non_gettable().
+
+     Unless an item is cursed or undroppable, it shouldn't have a value of 0.
+All items should have at least a value of 1 at all times.
+
+     Objects should _not_ inherit the standard objects and perform a few simple
+functions.  ie:
+ 
+/*
+ * A pencil
+ */
+ 
+inherit "/std/object";
+ 
+void create()
+{
+  ::create();
+  set_name("pencil");
+  set_short("A pencil");
+  set_long("This is a writing pencil--unsharpened.");
+  set_weight(4);
+  set_value(750);
+}
+ 
+     Instead, for that object above, the following should have been done in the
+room (or whatever) that cloned the object:
+ 
+  ...
+  object o;
+  ...
+  o = new("/std/object");
+  o->set_name("pencil");
+  o->set_short("A pencil");
+  o->set_long("This is a writing pencil--unsharpened.");
+  o->set_weight(4);
+  o->set_value(750);
+  o->move(this_object());  // or whereever
+  ...
+ 
+     The _only_ time you should not _clone_ standard objects for your objects
+(that is, either write an object from scratch, or inherit standard objects), is
+when the item requires unique code it to give it a special feature.
+
+     A common source of confusion is the proper set_name() value.  The value
+you set as the name of an object should, in most cases, be the subject of the
+short description.  It should be not capitalized (unless the first word happens
+to be a proper noun, in which case, the non-capitalized version of it should be
+a set_alias()).  For example, an item with the short "A loaf of bread" would
+have the name "loaf" or "loaf of bread" (at your discretion), not "bread",
+since "bread" is an object of the preposition "of", not the subject of the
+phrase.
+
+
+CONTAINERS...
+ 
+     The standard price for a 20 capacity container is 500 coins.
+Coincidentally, 20 is the maximum capacity for a container.  All containers
+must weight at least 1.
+ 
+ 
+LIGHT...
+
+     Torches (or other similar light sources) that weigh 1 can be sold in
+unlimited quantity for 40 coins apiece.  Any other light (or darkness) sources
+must be specially approved.
+
+     Dark rooms should be light 0, and light rooms should be light 1.  Any
+rooms with light different from these two values must be specially approved,
+and such rooms should appear in an area owner's area_info file (see below).
+
+
+MISCELLANEOUS...
+
+     Shops, stores, etc should be inherited from /std/shop and /std/seller
+whenever possible.
+
+     "Monsters" in a room should, in general, be limited to three to prevent
+needless scrolling of players.  Of course, monster msgs should make grammatical
+sense.  Use set_full_monsters() instead of set_monsters() if you need to write
+a complete sentence (see /doc/Genocide/room.doc for information).
+
+     Rooms can be made non-teleport by using the set_no_teleport() function in
+/std/room.  Such rooms, however, are discouraged and will require special
+approval.  All objects that "teleport" players must do a query_no_teleport()
+check on the destination and source rooms to make sure that the teleport is OK.
+
+     Rooms/objects that allow players to easily "suicide", especially ones
+where a player does not get the kill, should be avoided.
+
+     The rooms and items composing an area should not be in a developers'
+"closed" directory, since this directory is protected from general reading. If
+you have some special need to do this, it can be approved on a case-by-casis
+basis.
+
+     Items should not id to commonly-used words just because they're
+convenient.  For example, a pair of wings that allow you to fly to another
+player should not id to "goto".  An axe should not id to "sword".  Certain
+standard id's _are_ supported, and they are listed in the "syntax" help file,
+but they are done automatically and you shouldn't need to concern yourself with
+them.
+
+INVISIBILITY ITEMS...
+
+     Invisibility items should be priced at 3000 coins per minute of
+invisibility they provide.  Their availability must also be restricted.  The
+normal maximum seconds of invisibility available in an area should be the value
+of the area divided by 1000 (ie an area with 100K value would be able to
+contain 100 seconds of invisibility available on the ground or in a shop, and
+of course it should be valued/priced at 5K).
+ 
+
+VALUE...
+ 
+     The maximum value for an area is 100,000 coins.  The maximum value for the
+contents of an individual room (on average) is 10000 coins.  Any item which is
+valued at more than 10000 coins (on average) should therefore not be available
+anywhere but a shop.  The maximum average value of coins/room throughout an
+area is 350.  Therefore, any area with more than 285 rooms must have an average
+value per room of under 350, or it will be over the 100,000 coin area value
+limit.
+
+     The proper value will automatically be set by the standard objects'
+query_value() function on armors and heals (for armor, additional base value
+can be set with set_value()).  Each is 25 coins per unit of strength/healing.
+
+     Occassionally invincibility-like items are allowed to be sold in an area,
+and when they are, their value should be considerably more than the equivalent
+amount of healing.
+
+     The value of an area should be spread out somewhat evenly throughout the
+entire area.
+
+ 
+AREA UNIQUENESS...
+
+     No area on Genocide may exist in whole or part on another similar Internet
+game.  If you use your area somewhere else, it will be closed here.
+
+
+CODE "THEFT"...
+ 
+     Copying the code of complex or unique items and rooms without the original
+author's permission is forbidden.  When permission is given, make sure to
+include the proper credits at the top of the new file(s).
+
+ 
+AREA INFORMATION FILE...
+ 
+
+     An "area information" file is required of all area owners.  This file must
+always be kept up to date.  The file is a text file that contains the
+following:
+        (1) A list of all rooms in the area (including empty rooms), with
+            the total (average) coin value assigned to each room listed.
+        (2) A totals line, listing the total number of rooms from part 1,
+            along with the total coin value of all rooms, and the average
+            coins per room.
+        (3) A list of all items in the area that are subject to specific
+            limits imposed by the guidelines.  This includes excellent
+            melee weapons, excellent ranged weapons, invisibility,
+            teleport items, and stat-enhancing items.  The list must include
+            which room the items are obtained in.  Minimal information on 
+            the items should also be included, ie what stat they increase
+            and by how much, or how many charges they have, etc.
+        (4) A list of all items in the area that required specific approval
+            such as magic items, excellent ammo, special objects, special 
+            rooms, etc.  This can overlap some items from part 3.  For 
+            example, a normal excellent weapon would not be required in this
+            list, but an excellent weapon that can also make your opponents
+            become visible when invisible would.  For each item, the name of 
+            the developer that approved the item should be listed.  The list
+            must include which room the items are obtained in.
+        (5) The entrance room of the area.
+       
+     All potential area owners need to have an area information file prepared
+before submitting the area for approval.  This file must be called "area_info"
+and must be in your home directory (not a subdirectory).  For an example, see
+/doc/Genocide/area_info.example.
+ 
+ 
+APPROVAL OF NEW AREAS/CHANGES TO AREAS...
+
+     All areas are contained within domains, and all domains are attached to 
+the special "Genocide" domain.  It is generally the responsibility of the new 
+area creator to find a domain which will allow him to locate his area within 
+(you can do this before or during the approval process).
+ 
+     To get an area in the game, one must get it approved.  Send mail to 
+"(approval)" to submit your area for approval, or to get a new object or 
+expansion to an existing area approved.  For additions/changes to an area, 
+mail the proposal, along with any of the necessary information on the 
+item/expansion, etc.  For large expansions, the best thing to do would be to 
+prepare a separate "area_info" file (under a different name) for the new 
+part, then mail approval with information about the filename of the 
+expansion's information file; then, when the expansion is approved, merge the 
+expansion's information file into your "area_info" file.
+
+     An entrance module must be created for an area--see the example in 
+/doc/Genocide/entrance.c.
+
+     New domains can be created (if there is a need for more), generally by 
+having a unique purpose or theme, and at least 2 people with completed, or 
+nearly-completed areas.  To do this, you must seek admin approval.
+ 
+
+ADMIN REQUESTS AND AREA MAINTENANCE...
+
+     Proper maintenance is a very important part of keeping your area open on 
+Genocide.  No one is being paid for any facet of Genocide area-writing or 
+game maintenance, so everyone must do their part.  If you cannot properly 
+maintain your area (or enlist the aid of others to do so), it will have to be 
+closed.  Reasonable time to fix a bug in an area (or domain) is defined as a 
+week or less.  Reasonable time to fix a typo/spelling error/grammar error is 
+two weeks.
+
+     Whenever reports (via the "remark" command) are made in an area, they 
+are saved in the /adm/approval/reports directory.  This directory serves as a 
+log of problems that haven't been fixed; occasionally an administrator will 
+go through and check on what has and hasn't been taken care of, cleaning out 
+old entries.
+ 
+     If your area is closed, and at a later time you do decide to continue 
+actively maintaining it, you may have to go through the entire approval 
+process again.  Generally, if you make the appropriate repairs in under a 
+week no action will be taken.  If you will need longer than a week for some 
+reason, send mail to that effect.
+[37m> [36mPudding regs: cheer.[37m
+quit
+#SESSION 'hrm' DIED.
+#THERE'S NO ACTIVE SESSION NOW.
+> 
+Your fireball hits TINTIN with full force, causing an immediate death.
+TINTIN is dead! R.I.P.
+Your blood freezes as you hear TINTIN's death cry.
+chaos /usr/home/brians $ exit
+exit
+
+Script done on Fri Apr 23 17:10:36 1999

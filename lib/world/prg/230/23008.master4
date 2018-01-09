@@ -1,0 +1,19 @@
+>script_prog aggro-warning~
+  #
+  say There's an aggressive mob around here, you should watch out for him.
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ismemory($n)
+    else
+      mptrigger $n aggro-warning
+      mpremember $n
+  endif
+~
+>fight_prog 100~
+  if isscript($i)
+    mpstopscript
+  endif
+~
+|

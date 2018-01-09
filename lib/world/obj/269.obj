@@ -1,0 +1,386 @@
+#26900
+iron key~
+a small iron key~
+A small funny shaped iron key is lying on the ground here.~
+~
+18 12 1
+26900 0 0 0
+1 1 0 20
+#26901
+bat guano~
+some bat guano~
+Some bat guano has dried up into a small pile on the ground here.~
+It's not too fresh which is why you can pick it up and handle it.  Its dark green in color
+and seems to have lost any smell it might have had.  From what you can see, it formed into
+a small puddle and dried up.
+~
+19 0 1
+1 0 0 1
+1 1 0
+#26902
+small house key~
+a small house key~
+A small ordinary looking house key has been dropped on the ground here.~
+Its a small iron house key.
+~
+18 12 1
+26902 1 0 0
+1 1 0
+#26903
+dwarven dwarven spirits mug~
+a mug of dwarven spirits~
+An untouched mug of dwarven spirits is sitting on the table here.~
+~
+17 8 1
+6 6 27 0
+1 203 0 15
+#26904
+ale ale mug~
+a mug of ale~
+A large mug of Ale is sitting on a table here.~
+~
+17 8 1
+10 10 3 0
+1 87 0 15
+#26905
+guiness guiness mug~
+a mug of guiness~
+A large mug of dark ale is sitting on the counter here.~
+~
+17 0 1
+10 10 4 0
+1 96 0 15
+#26906
+whiskey whiskey glass~
+a glass of whiskey~
+A small glass of whiskey is on the table here.~
+~
+17 0 1
+2 2 5 0
+0 140 0 15
+#26907
+milk milk glass~
+a glass of milk~
+A large glass of milk is sitting on the table here.~
+~
+17 0 1
+10 10 10 1
+1 54 0 15
+#26908
+bastard sword~
+a bastard sword~
+A large well crafted bastard sword has been left on the ground here.~
+~
+5 8548352 8193
+1 2 12 0
+16 6503 0
+#26909
+short sword~
+a short sword~
+A well crafted short sword is sitting on the ground here.~
+~
+5 8396800 8193
+1 2 6 0
+9 1204 0
+#26910
+long sword~
+a long sword~
+A well crafted long sword has been left here.~
+~
+5 8400896 8193
+1 2 10 0
+4 2043 0
+#26911
+brown tunic~
+a brown tunic~
+A rather plain looking brown tunic is on the ground here.~
+~
+11 0 9
+0 0 0 0
+1 340 0
+#26912
+green tights leggings~
+a pair of green tights~
+A pair of green leggings have been rolled up into a ball and left here.~
+~
+11 0 33
+0 0 0 0
+1 402 0
+#26913
+tan robe~
+a robe~
+A tan colored robe has been folded up and left on the ground here.~
+~
+11 0 9
+0 0 0 0
+2 430 0
+#26914
+blue dress~
+a blue dress~
+A lovely blue dress has been laid out on the ground before you.~
+~
+11 0 9
+0 0 0 0
+3 760 0
+#26915
+leather boots~
+a pair of leather boots~
+A pair of new leather boots are sitting on the ground here.~
+~
+11 0 65
+0 0 0 0
+2 1032 0
+#26916
+battle axe~
+a battle axe~
+A well crafted battle axe is lying on the ground here.~
+~
+5 667648 8193
+2 4 10 3
+18 4603 0
+#26917
+bat wing 26917~
+a bat wing~
+A piece of the giant bats wing is now lying on the ground.~
+~
+13 0 1
+0 0 0 0
+1 0 0 25
+E
+bat wings~
+It looks a lot like leather.  In fact its probably more durable than leather.
+~
+#26918
+bat wing 26918~
+a bat wing~
+A piece of the giant bats wing is now lying on the ground.~
+~
+13 0 1
+0 0 0 0
+1 0 0 25
+E
+bat wings~
+It looks a lot like leather.  In fact its probably more durable than leather.
+~
+#26919
+sign~
+a sign~
+A small sign has been fastend to the counter here.~
+~
+16 0 0
+0 0 0 0
+0 0 0
+E
+sign~
+One hour wait for repairs on torn clothing.
+
+Two hour wait if you wish to have something fashioned out of your own material
+that you bring to us.  We even have the tools to make boots out of the thickest
+of leather like materials.
+~
+#26920
+grass brown tall~
+tall brown grass~
+The ground is covered with tall brown grass that hasn't been cut in awhile.~
+~
+15 0 0
+500 0 -1 0
+0 0 0
+#26921
+bat wing boots~
+a pair of bat wing boots~
+A pair of dark brown bat wing boots is sitting here.~
+~
+9 0 65
+16 0 0 0
+10 12000 0
+A
+19 2
+A
+13 10
+A
+2 -2
+A
+18 -2
+A
+14 -40
+#26922
+coins gold treasure~
+a small pile of gold coins~
+A small pile of gold coins is sitting on the counter here.~
+~
+20 0 1
+300 0 0 0
+0 0 0
+#26923
+platinum plated ring~
+a platinum plated ring~
+A platinum colored ring has been left on the ground here.~
+~
+11 64 3
+0 0 0 0
+0 20539 0
+A
+2 1
+A
+13 10
+#26924
+diamond necklace studded~
+a diamond studded necklace~
+An expensive looking diamond necklace is here.~
+~
+11 65536 5
+0 0 0 0
+0 7084 0
+A
+2 -2
+B
+8
+#26925
+gold ring~
+a gold ring~
+A shiny gold ring is lying in the dust here.~
+~
+11 0 3
+0 0 0 0
+0 4023 0
+#26926
+silver ring~
+a silver ring~
+An ordinary silver ring is sitting in the dust here.~
+~
+11 0 3
+0 0 0 0
+0 2032 0
+#26927
+ring silver gold~
+a ^wsilver^n and ^Ygold^n ring~
+A ^wsilver^n and ^Ygold^n ring is resting on the ground here.~
+~
+11 0 3
+0 0 0 0
+0 204933 0
+A
+1 2
+A
+19 2
+A
+18 1
+A
+2 -2
+#26928
+day old bread~
+a chunk of day old bread~
+A large chunk of bread is sitting on the ground here.~
+~
+19 0 1
+8 0 0 1
+0 4 0
+#26929
+bread chunk fresh~
+a chunk of fresh bread~
+A large chunk of freshly baked bread is lying on the ground here, still warm.~
+~
+19 0 1
+12 0 0 0
+0 21 0
+#26930
+fruit bread~
+a loaf of fruit bread~
+A small loaf of fruit bread is lying here.~
+~
+19 0 1
+20 0 0 0
+0 46 0
+#26931
+bread loaf fresh~
+a loaf of fresh bread~
+A small loaf of fresh bread is lying here.~
+~
+19 0 1
+24 0 0 0
+0 39 0
+#26932
+note paper~
+note - evergreen forest~
+A note about this room or area of the zone is on the ground here.~
+~
+16 12 1
+0 0 0 0
+0 0 0
+E
+note~
+In this wooded area, players will get messages about the trees movements, and shadows
+zipping by in the corner of their eyes.  Mobs in the woods will be evergreen trees come
+to life.. Mobs will be invisible to everyone until they attack, (even with detect invis)
+Basically the trees around them are alive, and very aggro.. when they enter the middle
+of the woods they get attacked by the trees around them.. the sides of the woods (area
+is three rooms long) are where the messages are displayed..
+~
+#26933
+note paper~
+note - mineshaft, bats~
+A note about this room or area of the zone is on the ground here.~
+~
+16 12 1
+0 0 0 0
+0 0 0
+E
+note~
+mineshaft will be full of aggro bats. Little ones. Room farthest south has trapdoor
+above it, making people walking above fall through with a weight above 1. Thus causing
+the unsuspecting to fall into the room full of bats, and put into the seated position.
+Allowing the bats to have a few rounds of attacks before they realize they should stand
+and berserk or cast a spell. Northern room is giant bat that loads the bat wing.
+~
+#26934
+note paper~
+note - clothiers, batwingboots~
+A note about this room or area of the zone is on the ground here.~
+~
+16 12 1
+0 0 0 0
+0 0 0
+E
+note~
+Lady accepts bat wing that loads on gigantic bat. Bat loads one of two wings, either
+a useless one, or one that can be mended into batwing boots by the clothiers.  Giving
+either wing to the lady starts the program.
+~
+#26935
+note paper~
+note - backdoor to bar~
+A note about this room or area of the zone is on the ground here.~
+~
+16 12 1
+0 0 0 0
+0 0 0
+E
+note~
+Undecided on whats happening here.. Either the panel will be hidden, or there will be
+a key that loads somewhere... or perhaps even a keyword that needs to be told to the
+barkeep.. something in the lines of help, or escape, or something.. then she comes back
+and lets the person out the back door and locks it behind them..
+~
+#26999
+thing~
+a thing~
+A thing is sitting here.~
+~
+9 0 17
+50 0 0 0
+0 0 0
+A
+1 6
+A
+2 6
+A
+18 8
+A
+19 30
+A
+6 15
+A
+13 100
+#99999
+$~

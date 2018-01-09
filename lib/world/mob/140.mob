@@ -1,0 +1,67 @@
+#14000
+jaguar cat beast~
+a large jaguar.~
+You see a large black cat here, waiting to attack.
+~
+4
+Before you eyes is a large, black, evil-looking cat.  He eyes you up and down
+deciding if you would be a good meal for him and his
+kittens.  You think you should run!!!
+~
+100408 0 0 S
+15 8 -5 1d1+1 1d1+1
+0 16666
+8 8 1 8
+#14003
+wolf mangy old scruffy~
+a large mangy wolf~
+Here you see a large wolf, searching for a meal.
+~
+Your eyes have fallen upon a large wolf with mangy fur and bright blue eyes.
+He appears very hungry, and looks as if he will eat anything that crosses his
+path.
+~
+18492 44 30 S
+20 2 0 1d1+0 1d1+0
+0 18888
+8 8 0 4
+#14005
+phantom ghost man ~
+the Phantom~
+You see a dark and gloomy phantom, evading you glances.
+~
+You see a man dressed all in black.  You can barly catch a glimse of him 
+at all, for he blends into the shadows.  He appears to be very angry, yet you cant
+quite make out all of the mysteries that surround this mystical man.
+~
+2211960 67962042 100 S
+35 -5 -5 1d1+0 1d1+0
+10000 350000
+8 8 1 13
+#14007
+Evil destroyer~
+an Evil Destroyer.~
+You see a HUGE Bbeast. Don't come close.
+~
+Here is the largest guard doge you have ever seen, but he is almost invisible
+because of the shadows.
+~
+3057784 0 -1000 S
+50 -30 5 1d1+0 1d1+0
+1000000 1000000
+8 8 1 6
+#14008
+korey treasure hunter man~
+An old treasure hunter named Korey.~
+An old man is here, hunting treasure.
+~
+You see a small old man with wrinkled skin.  He seems to 
+be very intent on his job, maybe he has found some treasure here in the mountain.
+You know that if he is disturbed he will be very angry, and may go into a fit of rage.
+~
+2645338 33621180 100 S
+30 0 -3 1d1+0 1d1+0
+40000 250000
+8 8 1 12
+#99999
+$~

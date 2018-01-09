@@ -1,0 +1,24 @@
+#28000
+Sacred chamber~
+   Shadows prance on the wall mischievously as a large blue fire emanating
+from a brazier in the center of the room rages on, and arcane runes etched
+into the ebony floor suggest the true meaning of the eerie room.
+~
+280 8 0
+D1
+~
+~
+0 0 28001
+S
+#28001
+An unfinished room.~
+It looks unfinished.
+~
+807423242 0 0
+D3
+~
+~
+0 0 28000
+S
+#99999
+$~

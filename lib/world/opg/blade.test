@@ -1,0 +1,10 @@
+get_prog
+  echoat %1 As you reach for the blade, it shimmers and disappears!
+  echoaround %1 As $name(%1) reaches for the Blade of the Hobbit, it disappears!
+  poof
+  stopaction
+~
+identify_prog
+  echoat %1 This is the sole property of Culvan the Mad Coder.
+~
+~

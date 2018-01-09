@@ -1,0 +1,11 @@
+>rand_prog 4~
+ if inroom($r) == here
+ if sex($r) == female
+ mpechoaround $r $I nods in the direction of $R.
+mpechoat $r $I nods in your direction.
+  mpcallmagic 'inspire' $r
+    say Fight bravely my sister.
+   endif
+ endif
+~
+|

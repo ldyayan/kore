@@ -1,0 +1,214 @@
+#1800
+umb~
+a black umbrella~
+An umbrella~
+~
+5 0 24577
+0 10 5 11
+0 0 0
+A
+18 20
+A
+19 20
+B
+83984512
+S
+72 50 50
+#1801
+tie~
+a conservative silk necktie~
+A silk necktie~
+~
+11 0 5
+0 0 0 0
+0 0 0
+A
+13 100
+A
+13 100
+A
+13 100
+A
+13 100
+A
+17 -100
+A
+17 -100
+#1802
+suit armani black sport coat~
+a black Armani sport coat~
+A black suit~
+~
+11 0 9
+0 0 0 0
+0 0 0
+#1803
+black armani pants~
+black Armani pants~
+Black pants~
+~
+5 0 8225
+0 0 0 0
+0 0 0
+S
+128 60 100
+S
+128 60 100
+S
+128 60 100
+#1804
+shoes~
+shiny black shoes~
+Undefined~
+~
+0 0 65
+0 0 0 0
+0 0 0
+#1805
+ring~
+glittering diamond ring~
+An unfinished object is lying here.~
+~
+0 0 3
+0 0 0 0
+0 0 0
+#1806
+watch~
+golden wrist watch~
+An unfinished object is lying here.~
+~
+0 0 4097
+0 0 0 0
+0 0 0
+#1807
+cash gold~
+a wad of gold~
+A freakin' huge wad of cash~
+~
+20 0 1
+10000 0 0 0
+0 0 0
+#1808
+brief case~
+a briefcase~
+A briefcase has been left here.~
+~
+15 0 16385
+100 5 -1 0
+5 50000 10000
+#1809
+black armani sport coat red rose lapel~
+a black Armani sport coat^\<worn on lapel>             a ^rred^n rose~
+You see a black Armani sport coat lying here.~
+~
+9 0 9
+10 0 0 0
+0 100000 20000
+#1810
+bronze chalice~
+a bronze challice~
+A bronze chalice rests on its podium.~
+  The swirling vortex of mist wistles by your ear as you look into the mouth of
+the challice. A hazy orange light glows through the dense fog churning within
+the cup
+~
+27 0 0
+1810 0 0 0
+0 0 0
+E
+challice crystal~
+  The swirling vortex of mist wistles by your ear as you look into the mouth of
+the challice. A hazy orange light glows through the dense fog churning within
+the cup.
+~
+#1820
+path opening~
+path to citadel~
+A path is barely visable through the mist~
+A small path is here, almost completely concealed in the mist.
+~
+27 0 0
+1826 0 0 0
+0 0 0
+#1822
+__warp_north~
+__warp_north~
+A path to the north is momentarily visible through the mist.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+#1823
+__warp_north_flag~
+__warp_north_flag~
+__warp_north_flag~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#1824
+__warp_east~
+__warp_east~
+A path to the east is momentarily visible through the mist.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+#1825
+__warp_east_flag~
+__warp_east_flag~
+Undefined~
+~
+0 0 0
+0 0 0 0
+0 0 0
+#1826
+__warp_south~
+__warp_south~
+A path to the south is momentarily visible through the mist.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+#1827
+__warp_south_flag~
+__warp_south_flag~
+Undefined~
+~
+0 0 0
+0 0 0 0
+0 0 0
+#1828
+__warp_west~
+__warp_west~
+A path to the west is momentarily visible through the mist.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+#1829
+__warp_west_flag~
+__warp_west_flag~
+Undefined~
+~
+0 0 0
+0 0 0 0
+0 0 0
+#1860
+window citadel~
+a window~
+A sturdy glass window with iron cross-grating~
+~
+27 0 1
+1800 6 0 0
+0 0 0
+#1867
+house greenhouse citadel north~
+the citadel greenhouse~
+Entrance to the citadel greenhouse~
+~
+27 0 1
+1868 0 0 0
+0 0 0
+#99999
+$~

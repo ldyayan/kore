@@ -1,0 +1,35 @@
+>rand_prog 12~
+  fol zaras
+~
+>fight_prog 3~
+  mpechoat $r $I tells a dumb joke.  You reel and nearly fall asleep!
+  mpechoaround $r $I tells a dumb joke.  $R reels and nearly falls asleep!
+  mpdamage $r 30
+  mpdrainmove $r 3d6
+~
+>fight_prog 1~
+  mpecho A snow raven has arrived to help $I!
+  mpmload 8828
+  mpforce 8828 kill $r
+~
+>fight_prog 3~
+  mpechoat $r You slip, scream, and fall of the Eastern Ruby Wall to the geyser!
+  mpechoaround $r $R slips, screams, and falls off the Eastern Ruby Wall to the geyser!
+  mpdamage $r 350
+  mpdrainmove $r 100
+  mptrans $r 8680
+  mppose $r sit
+~
+>fight_prog 3~
+  cast 'mirror image' $i
+~
+>fight_prog 3~
+  cast 'word of death' $r
+~
+>fight_prog 3~
+  cast 'scare' $r
+~
+>fight_prog 3~
+  cast 'slow' $r
+~
+|

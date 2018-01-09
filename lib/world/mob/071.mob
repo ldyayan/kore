@@ -1,0 +1,224 @@
+#6600
+demon statue~
+The Demon Statue~
+The Demon Statue.
+~
+It is a horrifying thing, a statue of the mighty fiend from the Pit of the
+Abyss.  It glares down at you through blood-red eyes, and bares his huge
+white fangs and his razor-sharp talons.  It is the diety worshiped in this
+temple, and according to the prophecy, is destined to rule the world once
+raised from the depths of the Abyss.
+~
+8202 130 -500 S
+31 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#6601
+wraith~
+A Wraith~
+A Wraith is here, hungering for human flesh.
+~
+A black mist in the form of a man, can drain a mortal of all life force with
+but one touch.
+~
+41 524288 -500 S
+10 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#6602
+specter spectre~
+A Spectre~
+A Spectre is here, floating eerily.
+~
+The specter is a misty vapor in the shape of a human head.  Usually people     
+of high status in life are turned into specters in death.  Specters, like
+wraiths, can drain a mortal of all their life energy.
+~
+32 786562 0 S
+8 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#6603
+gargoyle fierce~
+The Gargoyle~
+The Fierce Gargoyle is glaring at you, and he looks hungry.
+~
+The gargoyle is a large demon that looks much like a fiend, with hard red skin a
+nd huge demon-like wings.  He isn't too happy about your intruding into his
+lair.
+~
+2214 263168 0 S
+32 1 0 1d1+1 1d1+10
+15 20
+8 8 0
+#6604
+zombie undead~
+A Zombie~
+A Zombie slowly rises from the ground and attacks!
+~
+This zombie is simply the corpse of a soldier killed in a battle, taken by a
+fiend and brought into unlife by foul magic.
+~
+32 262144 0 S
+12 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#6605
+wight~
+A Wight~
+A disgusting Wight leaps out of nowhere.
+~
+The wight is a disgusting creature.  With long grey hair, big yellow fangs,
+rotted clothes and sharp talons ready to tear you limb from limb.
+~
+40 0 0 S
+11 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#6606
+dracolich dragon lich~
+The Dracolich~
+The dracolich leaps out of the pile and attacks.
+~
+This was a mighty gold dragon in life, now a mighty dracolich in unlife.
+~
+2106 1160 -500 S
+30 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#6607
+demon imp~
+A Demon Imp~
+A Demon Imp
+~
+You see a minor demon of the abyss. Minor, but with great evil and
+cunning.
+~
+2200 786560 0 S
+13 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#6608
+hydro daemon demon hydrodaemon~
+The HydroDaemon~
+The HydroDaemon slowly rises out of the pool.
+~
+It is a very powerful demon that possesses this pool, you can see
+through its foul waterous form to the back of the cave.
+~
+10282 1160 0 S
+31 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#6609
+erinyes~
+The Erinyes~
+The seductive Erinyes licks her lips and smiles at you.
+~
+This beautiful creature has the figure of a tall, slender woman, wearing only
+a shirt and skirt made of white fiend hide.  She licks her lips with her long
+blood-red tongue and smiles seductively at you.
+~
+2570 128 -500 S
+25 1 0 1d1+1 1d1+1
+15 20
+8 8 2
+#6610
+vampire vlad impaler~
+Vlad da Impaler~
+A Vampire rises slowly out of a coffin.
+~
+You see the infamous vampire Vlad da Impaler. Be very afraid.
+~
+10410 128 -600 S
+27 1 0 1d1+0 1d1+10
+15 20
+8 8 0
+#6611
+pit fiend~
+The Pit Fiend~
+The Pit Fiend, ruler of the abyss, sits here on his throne.
+~
+This is the ruler of the Abyss, who is destined to rule the entire world, once
+released by its worshipers from this Pit made to entrap him.  His skin is
+harder than tempered steel, and hit talons are longer than a man's hand.  He
+bears a vague resemblence to a gargoyle, only his skin is black and his fangs
+drip an acidic green ichor when he opens his mouth.  It is said that only a
+god can match magical power with a Pit Fiend, but he can be controlled by any
+mortal that speaks his name.
+~
+2219 1160 -600 S
+33 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#6620
+malebranche~
+A Malebranche~
+A Malebranche is here, holding his pitchfork.
+~
+You see a winged, green-skinned demon holding a pitchfork.  He looks at you
+with fiery sinister eyes and slobbers over his fangs.  His breath reeks of
+vomit and he laughs, 'Ha ha mortal!!  Your doom is at hand!!'
+~
+246 1378304 -1000 S
+16 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#6695
+skeleton~
+A skeleton~
+A skeleton rises from a pile of a bones.
+~
+You see the bones of some poor unfortunate adventurer like yourself,
+animated by some foul sorcery.
+~
+40 0 0 S
+7 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#6696
+black abishai~
+The Black Abishai~
+The Black Abishai spreads its wings and grins at you.
+~
+The Abishai bears a slight resemblence to the pit fiend, but is nowhere near
+as powerful.  It is still a very powerful fighter, with talons longer than a
+man's finger, and sharper than a paladin's sword.  The black Abishai is the
+weakest of the three, and also the most stupid of them.
+~
+8234 132232 -799 S
+30 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#6697
+red abishai~
+The Red Abishai~
+The Red Abishai spreads its wings and grins at you.
+~
+The Abishai bears a slight resemblence to the pit fiend, but is nowhere near
+as powerful.  It is still a very powerful fighter, with talons longer than a
+man's finger, and sharper than a paladin's sword.  The red Abishai is the most
+powerful of the Abishai, and one of the most powerful of all lesser fiends.
+the red Abishai is in excellent condition.
+~
+10282 66696 -1000 S
+30 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#6698
+green abishai~
+The Green Abishai~
+The Green Abishai spreads its wings and grins at you.
+~
+The Abishai bears a slight resemblence to the pit fiend, but is nowhere near
+as powerful.  It is still a very powerful fighter, with talons longer than a
+man's finger, and sharper than a paladin's sword.  The green Abishai is much
+stronger than the black Abishai, but still far weaker than the red.
+the green Abishai is in excellent condition.
+~
+8234 1152 -900 S
+30 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#99999
+$~

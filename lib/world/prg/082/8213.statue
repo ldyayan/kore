@@ -1,0 +1,27 @@
+>greet_every_prog 70~
+  if isevil($n)
+    peer $n
+  else
+    if race($n) == gnome
+      smile $n
+      say Welcome $N, and may the blessing of Segojan shine upon you!
+      cast 'bless' $n
+    endif
+  endif
+~
+>rand_prog 6~
+  if inroom($r) == here
+    if isevil($r)
+      break
+    else
+      if class($r) == cleric
+        break
+      else
+        if hitprcnt($r) < 100
+          cast 'cure critic' $r
+        endif
+      endif
+    endif
+  endif
+~
+|

@@ -1,0 +1,7 @@
+>greet_prog 30~
+  if ispc($n)
+    say Welcome to my tavern, $N!
+  endif
+~
+|
+

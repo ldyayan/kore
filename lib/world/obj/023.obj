@@ -1,0 +1,234 @@
+#2300
+piece waybread bread~
+a piece of waybread~
+A piece of home made waybread sits here.~
+
+~
+19 0 1
+24 0 0 0
+1 0 0
+#2301
+basin water bowl~
+a basin of water~
+A basin, full of water, sits here.~
+~
+17 0 0
+100000 10000 0 0
+0 0 0
+#2302
+bottle canadian molson~
+a huge bottle of Molson Canadian~
+A large dark botte of beer sits on the floor here.~
+~
+23 0 0
+100000 100000 0 0
+0 0 0
+#2303
+beaver tails~
+some beaver tails~
+The tail of a now dead beaver sits here.~
+~
+19 0 1
+24 0 0 0
+2 0 0
+#2304
+ring undead mastery~
+a dull iron ring~
+An unfinished object is lying here.~
+~
+9 0 3
+15 0 0 0
+2 10000 0
+A
+19 10
+A
+18 10
+A
+13 100
+B
+5079208 0
+#2305
+diamond sparkling ring~
+a sparkling ^Wdiamond^n ring~
+An unfinished object is lying here.~
+~
+11 159745 3
+0 0 0 0
+8 15000 0
+A
+19 2
+A
+1 1
+#2306
+skull staff undead~
+a skull staff~
+A long withered stick with a skull atop the end lies on the ground~
+~
+5 180224 8193
+0 5 7 7
+6 24000 0
+A
+1 1
+A
+6 -2
+A
+9 5
+A
+12 25
+B
+1024 0
+#2307
+wand azalin ~
+the wand of Azalin~
+A beautiful sapphire studded golden rod has carelessly been left here.~
+~
+3 8445954 16385
+50 5 5 7
+3 4500 0
+#2308
+bracers life~
+bracers of life~
+A pair of silver bracers inset with 4 perfect diamonds lies here.~
+~
+11 513 257
+0 0 0 0
+7 2000000 0
+A
+17 -20
+A
+19 2
+A
+13 20
+B
+1048576 0
+#2309
+decaying bow wooden~
+a decaying wooden bow~
+A wooden bow that looks too decayed to use lies here.~
+~
+6 0 32769
+10 3 6 11
+2 0 0
+#2310
+disk blue glowing ~
+a blue glowing disk~
+A small blue disk is here discarded on the floor.~
+~
+18 0 16385
+0 0 0 0
+1 0 0
+#2311
+blood red iron key~
+a ^rblood red^n iron key~
+A hunk of blood red iron lies here glowing with a faint aura.~
+~
+18 0 16385
+0 0 0 0
+2 0 0
+#2312
+throne silver gold azalin~
+a ^Wsilver^n lined ^Ygolden^n throne~
+A monstrous golden throne lined with silver rests here for Azalin.~
+~
+0 0 0
+0 0 0 0
+100000 0 0
+#2313
+whip black flaming~
+a flaming black whip~
+A flaming long black whip lies here ready to hurt someone.~
+~
+5 1 1
+0 6 6 2
+3 1000 0
+A
+19 3
+A
+18 3
+A
+5 -2
+#2314
+key ring~
+a key ring~
+A large metal ring which holds keys sits here abandoned~
+~
+15 0 16385
+0 0 0 0
+1 0 0
+#2315
+flaming red key~
+a flaming ^rRed^n key~
+A red key with flames about it lies here.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#2316
+key deep blue~
+a deep ^bBlue^n key~
+A large blue key sits in the corner discarded.~
+~
+18 0 1
+0 0 0 0
+1 0 0
+#2317
+hide blackmane chimera~
+the hide of Blackmane~
+The powerful skin of the fabled chimera sits here decaying.~
+
+~
+11 12801 1025
+0 0 0 0
+3 0 0
+A
+19 3
+A
+1 2
+A
+13 10
+#2318
+sword unholy power~
+the Sword of Unholy Power~
+A jet-black longsword rests here waiting to possess another soul.~
+~
+5 16779969 8193
+10 8 7 3
+0 0 0
+A
+19 7
+A
+18 4
+A
+13 25
+A
+1 1
+A
+2 2
+B
+512 0
+#2319
+st croix fishing rod~
+a St. Croix Fishing rod~
+It won't be on the ground so it dont matter.~
+~
+5 0 8193
+40 1000 20 2
+1 0 0
+A
+2 20
+A
+1 20
+A
+19 50
+A
+18 40
+B
+-1999522584 0
+S
+142 50 100
+S
+72 50 100
+S
+159 50 100
+#99999
+$~

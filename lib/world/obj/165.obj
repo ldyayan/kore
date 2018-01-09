@@ -1,0 +1,585 @@
+#16500
+garbage~
+garbage~
+A sword sits here.~
+~
+5 98 57345
+0 0 0 3
+1 1 1
+#16501
+circlet bracelet devastation devestation~
+a circlet of devastation~
+A shimmering circlet is glowing here.~
+~
+9 143457 4097
+0 0 0 0
+1 1 0
+E
+circlet bracelet~
+   The intricate design of the circlet is beautifully crafted.  As you
+slide it over your wrist, your arms seem to enlarge and fill the whole
+space inside the bracelet.  A surge of power overcomes you, but as your
+vision clears you feel more powerful.
+~
+A
+19 1
+A
+17 -5
+A
+13 10
+#16502
+necklace, glowing,~
+a glowing necklace~
+A glowing necklace lays here.~
+~
+11 86017 5
+0 0 0 0
+1 1 0
+A
+24 5
+A
+4 2
+#16503
+cowl, binding~
+a cowl of binding~
+A cowl sits here gathering dust.~
+~
+9 29249 17
+6 0 0 0
+1 100000 1
+E
+cowl binding~
+   This cowl has been used in many spirit raisings, and because of this
+it has been imbued with energies which course through the wearer's body.
+~
+A
+1 1
+A
+3 1
+#16504
+robe cloak star star-spun starspun~
+a star-spun robe~
+A robe woven with stars lays here.~
+   It's a robe, with stars woven into it.
+~
+9 57857 5
+3 0 0 0
+1 100000 1
+A
+12 15
+A
+9 2
+#16505
+key, blood, red~
+a blood red key~
+A key that seems to be solid blood.~
+~
+18 36 1
+1 0 0 0
+1 10 10
+#16506
+tattered skin demon cloak~
+the tattered skin of a demon~
+A piece of shredded skin lays here.~
+
+~
+9 49217 5
+7 0 0 0
+1 10000 0
+E
+tattered skin demon cloak~
+   It looks to be the remnants of a demon's hide, possibly cut off
+during battle.  It seems to glow with an unholy light, as if the 
+presence of the demon was not totally gone.
+~
+A
+13 5
+A
+12 20
+#16507
+pulsing light eerie heart vampire throbbing~
+the throbbing heart of a vampire~
+A crimson stained heart lights the room.~
+
+~
+1 37441 16385
+0 0 -1 0
+1 100000 0
+E
+heart throbbing vampire~
+   You hold the still-beating heart of the dead vampire Monchira in your
+hands.  As your fingers close around it you feel the dead souls of those
+she vanquished pulsing and permeating your body.
+~
+A
+13 10
+A
+19 2
+#16508
+sword blade rune singer~
+the lost rune singer~
+The blade of the demons lays here.~
+
+~
+5 28930 8193
+5 6 5 3
+2 20000 0
+E
+sword blade rune singer~
+   You wrap your hand around the hilt of this demon sword, feeling the trapped
+power unleash itself as you attack your enemies.  You stare at the blade,
+entranced by it's runic markings.  You realize with a start that this is the
+lost blade 'Albion', which the demon master Ranthas forged to kill his
+enemies.
+~
+A
+19 4
+A
+5 -8
+A
+18 3
+S
+117 50 1
+#16509
+kris, knife, Soulstealer~
+the kris 'Soulstealer'~
+An intricately designed knife lays here.~
+   This rune carved kris was forged centuries ago by those of Tanalos.
+It is said to have the power to suck the life from it's enemies, but 
+most have forgotten it's existence and it uses.
+~
+5 8434499 8193
+4 6 6 11
+3 5000000 0
+E
+kris knife soulstealer~
+   This rune carved kris was forged centuries ago by those of Tanalos.
+It is said to have the power to suck the life from it's enemies, but
+most have forgotten it's existence and it uses.
+~
+A
+19 6
+A
+18 3
+#16510
+garbage~
+garbage~
+A large rock sits here.~
+~
+12 0 0
+0 0 0 0
+25 0 0
+#16511
+mace tanalos~
+a Tanalos mace~
+A glowing mace hangs here on the wall.~
+~
+5 3585 0
+4 6 6 5
+9 0 0
+E
+mace~
+   On the wall hangs a glowing steel mace, covered in runes.  It glows with
+a red and blue fire, pulsing like a heartbeat.  You tug at it, trying to
+remove it from the wall with no avail; but as your fingers touch it
+something like an electrical current courses through your body.
+~
+#16512
+key, dirty, wooden~
+a dirty wooden key~
+A dirty wooden key lays here.~
+   It's dirty, it's wooden, it's a dirty wooden key.
+~
+18 4 1
+0 0 0 0
+1 0 0
+#16513
+bamboo, staff~
+a bamboo staff~
+A bamboo staff lays here.~
+~
+5 102400 8193
+4 4 4 10
+1 10000 2000
+A
+18 2
+A
+2 2
+#16514
+hat straw~
+a straw hat~
+A hat made of straw lays here.~
+   It's a hat made of straw.
+~
+11 188416 17
+0 0 0 0
+1 0 0
+A
+3 -1
+A
+4 -4
+#16515
+key, steel, woven~
+a woven steel key~
+A steel key lays here.~
+It looks like someone of great power wove this steel like it was yarn.
+~
+18 4 1
+0 1 0 0
+1 0 0
+#16516
+cube chunk rock~
+a cube of rock~
+A chunk of rock lays here.~
+   It's a chunk of stone.
+~
+18 4 1
+0 0 0 0
+1 0 0
+#16517
+gold, treasure~
+a large treasure~
+A large treasure lays here.~
+~
+20 0 1
+5000 0 0 0
+0 5000 0
+#16518
+mace shadows~
+a shadow mace~
+A mace blends into the shadows here.~
+~
+5 21539 8193
+5 5 4 5
+2 0 0
+E
+mace shadows~
+   A mace lays here, seemingly pulling the shadows around it to hide it's
+presence from you.  You pick it up and test it's heft and swing, noticing
+that as you swing it fades from view, only to appear the moment it hit's
+the target.
+~
+A
+13 20
+A
+19 1
+S
+4 50 2
+#16519
+runic sword broadsword glowing~
+a runic broadsword~
+A glowing broadsword lays here.~
+
+~
+5 8482913 8193
+5 5 4 3
+3 0 0
+E
+runic sword broadsword glowing~
+   The sword glows with a reflective light.  As your hands grasp the pommel,
+you feel a sudden adeptness enter your body, as if a warrior-born has
+possessed you.  You feel quickness in your limbs, and an uncanny sense of
+what your opponent's next move will be.
+~
+A
+2 3
+A
+18 4
+S
+65 50 1
+#16520
+dagger, blade, swiftkill~
+the dagger 'SwiftKill'~
+A humming dagger rests here.~
+~
+5 8434250 24577
+5 5 4 14
+5 0 0
+E
+dagger blade swiftkill~
+   Your vision seems to blur as you look at the blade, but you realize
+it is the power and speed of the blade that make it move faster than the
+eye can see.  Subtle lines of power run underneath the steel, and the
+comfort of the hilt in your hand is reassuring.
+~
+A
+19 3
+A
+2 4
+B
+262144 0
+#16521
+flute, wooden, instrument~
+a wooden flute~
+A wooden flute lays here.~
+   The wooden flute of the faerie lord has been reported to have charmed
+a legion of orcs.  It is one of the most powerful magic items in the
+world and has been sought after for centuries.  Many will seek to possess
+it again.
+~
+24 8451138 40961
+0 0 0 0
+1 0 0
+A
+19 1
+A
+18 2
+A
+12 10
+#16522
+robe, order, tanalos~
+the Robe of the Order of Tanalos~
+A robe with the emblem of Tanalos hangs here.~
+   Upon the right chest rests the emblem of Tanalos, showing the power 
+inherent in this garment.  It's ebony material is soft on the inside, but
+to an attacker it is like a brick wall.
+~
+9 180803 1025
+10 0 0 0
+1 0 0
+E
+robe order tanalos~
+   Upon the right chest rests the emblem of Tanalos, showing hte power
+inherent in this garment.  It's ebony material is soft on the inside, but
+to an attacker it is like a brick wall.
+~
+A
+12 30
+A
+3 1
+A
+13 20
+#16524
+sceptre translucent pure~
+a translucent sceptre~
+A translucent sceptre lies deserted here.~
+~
+1 135168 24577
+2 4 3 8
+1 10000 0
+A
+1 1
+A
+5 2
+#16525
+parchment, scroll, sign~
+a scroll~
+A scroll hovers in midair here.~
+   Here begins the home of the Order of the Tanalos.  Born ages ago, we
+came together to aid in the preparation of magical weapons and other items
+for the good of the world.  In this process we became very powerful at
+all kinds of magic.  To this end, some of us left the path of the light,
+choosing instead to stride towards the lust of power and darkness which led
+to the eventual corruption of our Order.  Behold, the remnants.
+
+~
+16 0 0
+0 0 0 0
+0 0 0
+#16526
+seal, hyraenecus, broach, necklce~
+the Seal of Hyraenecus~
+A glowing broach lays here half covered in dirt.~
+   The broach of the infamous cleric Hyraenecus, who disappeared 400 years
+ago lays here.  It was said to have been made after he imprisoned the demon
+Uryate inside a globe of sealing.  He placed this seal on it to contain the
+demon always.
+~
+11 180801 5
+0 0 0 0
+1 0 0
+E
+seal broach necklace hyraenecus~
+   The broach of the infamous cleric Hyraenecus, who disappeared 400 years
+ago lays here.  It was said to have been made after he imprisoned the demon
+Uryate inside a globe of sealing.  He placed this seal on it to contain the
+demon always.
+~
+A
+12 30
+A
+4 -1
+A
+13 10
+#16527
+sleeves silver~
+^Wsilver^n sleeves~
+A set of ^Wsilver^n sleeves lies here.~
+They are the sleeves of the great warrior Mordox.
+~
+9 4096 257
+5 0 0 0
+2 0 0
+E
+silver sleeves~
+  Sleeves of the great warrior Mordox.
+~
+A
+4 1
+A
+6 3
+#16528
+belt, dragon, teeth~
+a belt of dragons teeth~
+A belt with teeth tied to it hangs here.~
+   This is the belt that was made by Mordox the Dragonslayer out of the teeth
+of the dragon he killed.  It is said to be magical in some way and to grant
+the possesser extra abilities.
+~
+9 8392769 2049
+6 0 0 0
+1 0 0
+A
+1 1
+A
+19 1
+A
+6 -2
+A
+2 -1
+#16529
+key, glowing ~
+a glowing key~
+A glowing key lays here.~
+It's a key......and it glows.
+~
+18 4 1
+0 0 0 0
+1 0 0
+#16530
+pool, crimson, portal~
+a crimson pool~
+A crimson pool of blood is here.~
+   You look into the waters and see a monk praying while walking through
+the passage way of Tanalos.
+~
+27 0 0
+16541 0 0 0
+99999 0 0
+E
+pool crimson~
+You look into the waters and see a monk praying while walking through
+the passage way of Tanalos.
+~
+#16531
+helm, dragon, skull~
+a dragon skull helm~
+A helm made out of bone lays here.~
+~
+9 29186 17
+5 0 0 0
+1 0 0
+A
+1 3
+A
+5 2
+#16532
+table desk work wooden design~
+a wooden table~
+A wooden table covered with blueprints is here.~
+~
+12 1 0
+0 0 0 0
+9 0 0
+E
+table design wooden~
+   The table has sheets of designs covering it.  The design on the top
+sheet of paper is of the well-known steel mace.  On these blueprints
+are the secrets to the magic-imbued power the mace has.  You attempt
+to take the papers off of the table, but they seem to be unmoveable, as
+if a stasis spell held them in place.
+~
+#16533
+throne blood crimson flowing~
+a throne of blood~
+A throne of flowing crimson supports Raczon.~
+~
+0 3 0
+0 0 0 0
+0 0 0
+E
+throne crimson blood flowing~
+   It's form seems to be composed of deep crimson blood; but it is not
+frozen in place but seems to be continuously flowing.  Only a feat of
+incredible magical power could accomplish this.  It's rivulets of blood
+course down the sides of the throne, never soaking into or staining the
+person who sits on it.
+~
+#16534
+rat corpse~
+a rat corpse~
+A bloated rat corpse lays here.~
+~
+13 0 1
+0 0 0 0
+1 0 0
+E
+rat corpse~
+   A bloated rat's corpse lays here, half decayed from decomposure.
+~
+#16535
+portal shimmering~
+a shimmering portal~
+A shimmering portal floats here in mid-air.~
+haha
+~
+27 1 0
+3001 0 0 0
+0 0 0
+E
+portal shimmering~
+   You stare into the depths of the portal, glimpsing different areas of
+the city of Kore as the portal slides between destinations.  You realize
+that this is how Monchira plucks her helpless victims from their lives
+to feed on their bodies.
+~
+#16536
+pile leaves~
+a pile of leaves~
+A pile of leaves is here in front of the house.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+E
+pile leaves~
+   The leaves look old, shredded and wet.  There seem to be small insects
+crawling in between the leaves, hiding under their wet covering.
+~
+#16537
+table~
+a table~
+A table is against the wall to your left.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+E
+table~
+   Different perfumes and make-up articles cover the top of the table.
+Every type imaginable is here, along with a scarf draped across it.
+~
+#16538
+couch heavenly~
+a heavenly couch~
+A heavenly couch is against the wall to your right.~
+~
+0 0 0
+0 0 0 0
+0 0 0
+E
+couch heavenly~
+   The couch is made of an ebony colored material that is smooth and soft
+to the touch.  It looks new and large enough to accomidate four people,
+or maybe two laying down...
+~
+#16599
+fluff round small piece~
+a piece of fluff~
+A small round piece of fluff~
+~
+8 0 1025
+0 0 0 0
+1 0 0 1
+#99999
+$~

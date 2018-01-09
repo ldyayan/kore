@@ -1,0 +1,103 @@
+#82
+Blingdenstone~
+8299 35 1 35
+M 0  3200     1  8298            Arthur, King of the Britons
+M 1  3201     1  8298            Dennis the peasant
+M 1  3202     1  8298            an ugly peasant woman
+M 1  3203     1  8298            the minstrel
+M 0  8288     1  8200            Tywong
+E 1  8205   101    16                    wield a dragon tooth staff
+E 1  8201     5    15                    right wrist a small rat skull chain
+M 0  8212     5  8200            a common male svirfneblin
+E 1  8223    50    17                    held a small ruby
+M 0  8260     7  8200            a svirfneblin guardsman
+E 1  8261     5    17                    held a small blue sapphire
+M 0  8225     1  8225            Belwar Dissengulp
+E 1  8245   101    17                    held a shoddy iron key
+E 1  8204   101    16                    wield a mithril pickaxe
+E 1  8275   101    19                    wield 2 a mithril hammer
+E 1  8203    10     8                    feet a pair of rotha hide boots
+E 1  8207    10     2                    right finger a mithril runed ring
+M 0  8260     7  8225            a svirfneblin guardsman
+O 0  8209   101  8273            a summoning fire
+M 0  8290     1  8273            a gnome summoner
+R 0  8273  8282    -1            remove a dried-out corpse
+R 0  8273  8262    -1            remove a pile of rubble
+M 0  8201     1  8209            a female gnome chef
+D 0  8209     4     1            "The Stone's Drop" door up
+M 0  8213     1  8284            a statue of Segojan
+M 0  8212     8  8241            a common male svirfneblin
+M 0  8212     8  8241            a common male svirfneblin
+M 0  8212     8  8241            a common male svirfneblin
+M 0  8260     7  8241            a svirfneblin guardsman
+M 0  8260     7  8241            a svirfneblin guardsman
+E 1  8223    10    17                    held a small ruby
+M 0  8227     2  8241            a common female svirfneblin
+M 0  8272     2  8271            a cleric of Segojan
+M 0  8272     2  8271            a cleric of Segojan
+M 0  8227     7  8224            a common female svirfneblin
+D 0  8240     4     1            The west gate of the inner wall door up
+D 0  8240     3     1            The west gate of the inner wall door west
+M 0  8227     7  8240            a common female svirfneblin
+D 0  8245     1     1            Torlin street at the river door east
+M 0  8227     7  8245            a common female svirfneblin
+D 0  8272     2     2            A large platform door south
+D 0  8269     0     2            Along the hallway door north
+M 0  8260     7  8243            a svirfneblin guardsman
+O 0  8214     1  8287            a bejeweled throne
+M 0  8214     1  8287            King Schnicktick
+E 1  8260   101     4                    neck 2 a shiny ruby pendant-key
+E 1  8215    10     7                    legs some hook horror leggings
+E 1  8216    50     6                    head a platinum facemask
+E 1  8208    40     5                    body a ^wmithril^n chainlink vest
+D 0  8287     1     1            The throne door east
+M 0  8299     1  8262            a clerical advisor of Segojan
+E 1  8270   101     3                    neck 1 a small symbol of ^Gemerald^n and ^wmithril^n
+D 0  8262     3     1            Advisor's room door west
+M 0  8246     3  8234            a guard of the highreach
+M 0  8246     3  8234            a guard of the highreach
+M 0  8246     3  8234            a guard of the highreach
+E 1  8212     5     9                    hands rotha hide gloves
+M 0  8262     3  8230            a svirfneblin archer
+M 0  8262     3  8230            a svirfneblin archer
+M 0  8262     3  8230            a svirfneblin archer
+E 1  8211     5    18                    ready a mushroom stalk bow
+D 0  8230     5     1            The archers nook door down
+O 0  8261   101  8206            a small blue sapphire
+O 0  8223   101  8206            a small ruby
+D 0  8285     7     2            A curve in the cave door southeast
+M 0  8296     3  8286            a ceremonial guard
+M 0  8296     3  8286            a ceremonial guard
+M 0  8296     3  8286            a ceremonial guard
+E 1  8213     5    11                    shield a silver shield of Segojan
+D 0  8286     9     2            The base of the throne door northwest
+M 0  8268     2  8268            a svirfneblin gateguard
+M 0  8268     2  8268            a svirfneblin gateguard
+D 0  8268     1     1            Outside the western gate door east
+D 0  8293     4     2            A large cavern door up
+M 0  8297     1  8292            a lone svirfnebli guard
+E 1  8240   101    17                    held a mithril key
+E 1  8230   101    16                    wield a stone hammer
+D 0  8292     5     2            Guard post door down
+M 0  8250     3  8251            a rotha beast
+D 0  8270     2     1            Entrance to the clerical halls of Segojan door south
+D 1  8270     2     2            Entrance to the clerical halls of Segojan door south
+D 0  8214     0     1            A side street to the square door north
+D 1  8214     0     2            A side street to the square door north
+M 0  8208     1  8295            the svirfnebli clerical apothecary
+O 0  8220   101  8296            a steel grey potion
+O 0  8221   101  8296            a pearl white potion
+O 0  1503   101  8297            a spring of fresh water
+M 0  8265     1  8205            Grepo the gemist
+D 0  8235     3     1            DEATH in cold water door west
+D 0  8274     5     1            The reception door down
+M 0  8205     1  8274            the receptionist
+M 0  8212     3  8247            a common male svirfneblin
+M 0  8206     1  8227            T'Grel, the diving master
+G 1  3060    99    -1                    give a raft
+G 1  3061    99    -1                    give a canoe
+M 0  8289     1  8231            the pet shop boy
+M 0  8203     1  8211            the weaponsmith
+S
+#99999
+$~

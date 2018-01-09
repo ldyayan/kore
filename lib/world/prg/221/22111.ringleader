@@ -1,0 +1,71 @@
+>rand_prog 20~
+  hide
+~
+>entry_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+    flee
+  else
+    if ispc($n)
+      if ischarhere(22112)
+        if sex($n) == female
+          mpforce 22112 say Be easy with me an' I promise I'll make it quick..
+          mpechoat $n A bandit slowly approaches you.
+        else
+          mpforce 22112 say Hand over your gold, buffoon!
+          mpechoat $n The bandit peers at you through hardened eyes.
+        endif
+        mpechoat $n Suddenly you feel a sharp blow to the back of your head.
+        mpechoaround $n $I whacks $N hard over the head with a black club!
+        mpechoat $n Everything fades to black as you fall..
+        mpsilent mpforce $n drop all.coin
+        mpsilent get all.gold
+        mpechoaround $n $I quickly grabs a pouch of coins from the body of $N.
+        mppose $n stun
+        mpsilent flee
+        hide
+      endif
+    endif
+  endif
+~
+>greet_prog 20~
+  if isimmort($n)
+  else
+    if ispc($n)
+      trip $n
+    endif
+  endif
+~
+>greet_prog 100~
+  if isimmort($n)
+  else
+    if ispc($n)
+      steal coins $n
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if isfight($r)
+      stun $r
+    endif
+  endif
+~
+>kill_prog 75~
+  if rand(20)
+    get belt corpse
+  else
+    if rand(30)
+      get brac corpse
+    else
+      if rand(40)
+        get gaunt corpse
+      else
+        if rand(100)
+          get ring corpse
+        endif
+      endif
+    endif
+  endif
+~
+|

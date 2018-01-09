@@ -1,0 +1,448 @@
+#1700
+Yeer Path~
+   You stand inside a dummy room.
+~
+17 0 3
+D0
+~
+~
+0 0 1701
+S
+#1701
+Yeer Path~
+You are in an unfinished room.
+~
+17 0 3
+D0
+~
+~
+0 0 1702
+D2
+~
+~
+0 0 1700
+S
+#1702
+Yeer Path~
+You are in an unfinished room.
+~
+17 0 3
+D0
+~
+~
+0 0 1703
+D2
+~
+~
+0 0 1701
+S
+#1703
+Yeer Path~
+You are in an unfinished room.
+~
+17 0 3
+D2
+~
+~
+0 0 1702
+D3
+~
+altar~
+1 0 1704
+D6
+~
+~
+0 0 1705
+S
+#1704
+Dlthu's Altar~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+altar~
+1 0 1703
+S
+#1705
+Hall of Glow Slugs~
+You are in an unfinished room.
+~
+17 265 0
+D1
+~
+~
+0 0 1706
+D8
+~
+~
+0 0 1703
+S
+#1706
+Hall of Glow Slugs~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1707
+D3
+~
+~
+0 0 1705
+S
+#1707
+Hall of Glow Slugs~
+You are in an unfinished room.
+~
+17 0 0
+D0
+~
+~
+0 0 1721
+D1
+~
+~
+0 0 1708
+D3
+~
+~
+0 0 1706
+D6
+~
+~
+0 0 1709
+D9
+~
+~
+0 0 1722
+S
+#1708
+Forever Forest~
+You are in an unfinished room.
+~
+17 131236 0
+D0
+~
+~
+0 0 1708
+D1
+~
+~
+0 0 1708
+D2
+~
+~
+0 0 1708
+D3
+~
+~
+0 0 1708
+D6
+~
+~
+0 0 1708
+D7
+~
+~
+0 0 1708
+D8
+~
+~
+0 0 1708
+D9
+~
+~
+0 0 1708
+S
+#1709
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 4
+D0
+~
+~
+0 0 1710
+D8
+~
+~
+0 0 1707
+S
+#1710
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 4
+D0
+~
+~
+0 0 1711
+D2
+~
+~
+0 0 1709
+S
+#1711
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 4
+D0
+~
+~
+0 0 1712
+D2
+~
+~
+0 0 1710
+S
+#1712
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 4
+D0
+~
+~
+0 0 1713
+D1
+~
+~
+0 0 1736
+D2
+~
+~
+0 0 1711
+S
+#1713
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 4
+D0
+~
+~
+0 0 1714
+D2
+~
+~
+0 0 1712
+S
+#1714
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 0
+D0
+~
+~
+0 0 1715
+D2
+~
+~
+0 0 1713
+S
+#1715
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 4
+D0
+~
+~
+0 0 1716
+D2
+~
+~
+0 0 1714
+S
+#1716
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 4
+D0
+~
+~
+0 0 1717
+D2
+~
+~
+0 0 1715
+S
+#1717
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 0
+D0
+~
+~
+0 0 1718
+D2
+~
+~
+0 0 1716
+S
+#1718
+Valley of Golgotha~
+You are in an unfinished room.
+~
+17 0 0
+D1
+~
+~
+0 0 1719
+D2
+~
+~
+0 0 1717
+D3
+~
+~
+0 0 1720
+S
+#1719
+Dead End of Valley~
+You are in an unfinished room.
+~
+17 0 4
+S
+#1720
+Dead End of Valley~
+You are in an unfinished room.
+~
+17 0 4
+S
+#1721
+Cave of Ennui~
+You are in an unfinished room.
+~
+17 133 1
+D0
+~
+~
+0 0 1721
+D1
+~
+~
+0 0 1721
+D2
+~
+~
+0 0 1721
+D3
+~
+~
+0 0 1721
+S
+#1722
+Crag of Innocence~
+You are in an unfinished room.
+~
+17 131202 0
+S
+#1723
+Labyrinth of Darkness~
+You are in an unfinished room.
+~
+17 131337 0
+S
+#1736
+Entranceway to Lake Gollum~
+You are in an unfinished room.
+~
+17 0 0
+D3
+~
+the bone wall~
+1 0 1712
+D6
+~
+~
+0 0 1737
+S
+#1737
+Dewy Incline~
+You are in an unfinished room.
+~
+17 131561 16
+D1
+~
+~
+0 0 1738
+D8
+~
+~
+0 0 1736
+S
+#1738
+Dewy Incline~
+You are in an unfinished room.
+~
+17 131437 16
+D3
+~
+~
+0 0 1737
+D6
+~
+~
+0 0 1739
+S
+#1739
+Drippy Chamber~
+You are in an unfinished room.
+~
+17 131561 16
+D1
+~
+~
+0 0 1740
+D8
+~
+~
+0 0 1738
+S
+#1740
+Drippy Chamber~
+You are in an unfinished room.
+~
+17 131561 16
+D3
+~
+~
+0 0 1739
+D7
+~
+~
+0 0 1741
+S
+#1741
+Bloody Sewer Chute~
+You are in an unfinished room.
+~
+17 131561 16
+D5
+~
+~
+0 0 1742
+D6
+~
+~
+0 0 1740
+S
+#1742
+Lake Gollum~
+You are in an unfinished room.
+~
+17 131177 6
+D4
+~
+~
+0 0 1741
+S
+#99999
+$~

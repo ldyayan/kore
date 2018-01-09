@@ -1,0 +1,48 @@
+>entry_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  endif
+~
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  endif
+~
+>fight_prog 5~
+  cast 'dispel magic' $r
+~
+>fight_prog 20~
+  cast 'color spray' $r
+~
+>fight_prog 30~
+  cast 'word of death' $r
+~
+>fight_prog 40~
+  cast 'curse' $r
+~
+>fight_prog 50~
+  cast 'poison' $r
+~
+>fight_prog 60~
+  cast 'chain lightning' $r
+~
+>fight_prog 70~
+  cast 'cone of cold' $r
+~
+>fight_prog 80~
+  cast 'disintegrate' $r
+~
+>fight_prog 90~
+  cast 'earthquake' $r
+~
+>fight_prog 100~
+  cast 'fist of stone' $r
+~
+>death_prog 100~
+  drop all
+~
+|

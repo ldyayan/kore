@@ -1,0 +1,218 @@
+#255
+City of Eli~
+25599 25 2 32
+M 0 25519     2 25540            elven mother
+M 0 25514     5 25540            a small elven child
+M 0 25520     2 25540            elven farmer
+M 0 25513    10 25540            a citizen of Eli
+M 0 25515     7 25540            a cute little sparrow
+M 0 25521     1 25540            squirrel
+M 0 25521     2 25540            squirrel
+M 0 25502    11 25540            the guard of Eli
+O 0 25542   102 25540            a hand full of nuts
+O 0 25542   103 25540            a hand full of nuts
+O 0 25542   104 25540            a hand full of nuts
+M 0 25501     1 25513            the elven apothecary
+G 1 25503     0    -1                    give a luminous potion
+G 1 25504     0    -1                    give a sparkling potion
+G 1 25505     0    -1                    give a humming potion
+G 1 25506     0    -1                    give a ^Wsilvery^n ^cblue^n potion
+G 1 25507     0    -1                    give an aspen potion
+M 0 25502     3 25513            the guard of Eli
+M 0 25513     1 25513            a citizen of Eli
+M 0 25502     4 25513            the guard of Eli
+M 0 25541     1 25580            Anna Eutheris of the Elven Bards
+E 1 25553   101    16                    wield an ornate pen
+E 1 25552    10    17                    held a ^Wsilvery^n lute
+M 0 25540     1 25578            Naris Thalis, Grandmaster of the Elven Clerics
+E 1 25551    10    16                    wield the torrential staff of the ^CVortex^n
+M 0 25537     1 25572            Tarin Surric the Archmage
+E 1 25548    10    16                    wield a gleaming ivory staff
+M 0 25538     1 25574            Master Tanthas of the Elven Guild of Warriors
+E 1 25549    10    16                    wield a huge black longsword
+M 0 25539     1 25576            Altheas Jarles, Grandmaster Thief
+E 1 25550    10    16                    wield a black dragon's talon
+M 0 25502     1 25510            the guard of Eli
+M 0 25502     2 25510            the guard of Eli
+O 0 25502   101 25514            a vallenwood fountain
+M 0 25503     1 25516            the statuette dealer
+G 1 25524     0    -1                    give a griffon figurine
+G 1 25525     0    -1                    give a marble phoenix
+M 0 25513     2 25516            a citizen of Eli
+M 0 25514     1 25516            a small elven child
+M 0 25504     1 25515            a dry goods vendor
+G 1 25521     0    -1                    give a sack of Quith-Pa
+G 1 25522     0    -1                    give a granite flask
+G 1 25556     0    -1                    give a raft
+G 1 25557     0    -1                    give a canoe
+G 1 25559     0    -1                    give a canteen
+G 1 25560     0    -1                    give a lantern
+G 1 25561     0    -1                    give a torch
+G 1 25562     0    -1                    give a brown cloth bag
+G 1 25563     0    -1                    give a tough leather backpack
+M 0 25502     5 25515            the guard of Eli
+M 0 25513     3 25515            a citizen of Eli
+M 0 25505     1 25517            a befuddled looking mage
+G 1 25532     0    -1                    give a scroll of recall
+G 1 25533     0    -1                    give a scroll of modify
+G 1 25534     0    -1                    give a shimmering blue wand
+G 1 25536     0    -1                    give a ^Wsilver^n wand
+G 1 25537     0    -1                    give a hard granite wand
+M 0 25516     1 25517            an elven minstrel
+M 0 25518     1 25517            a small cooshee
+M 0 25506     1 25519            an elven baker
+G 1 25508     0    -1                    give a piece of flat bread
+G 1 25509     0    -1                    give a vegetable pocket
+G 1 25510     0    -1                    give a piece of sweet bread
+G 1 25511     0    -1                    give an apple pastry
+G 1 25512     0    -1                    give a Lunitari cookie
+G 1 25513     0    -1                    give a Solinari cookie
+G 1 25514     0    -1                    give a Nuitari cookie
+M 0 25513     4 25519            a citizen of Eli
+M 0 25514     2 25519            a small elven child
+M 0 25516     2 25519            an elven minstrel
+M 0 25507     1 25518            an elven bard
+G 1 25515     0    -1                    give a ^Wsilver^n flute
+G 1 25516     0    -1                    give a wooden flute
+G 1 25517     0    -1                    give a vallenwood lyre
+G 1 25569     0    -1                    give a wooden harmonica
+G 1 25570     0    -1                    give a wooden fife
+M 0 25502     6 25518            the guard of Eli
+M 0 25513     5 25518            a citizen of Eli
+M 0 25515     1 25518            a cute little sparrow
+M 0 25516     3 25518            an elven minstrel
+M 0 25508     1 25521            an elven money changer
+M 0 25502     7 25521            the guard of Eli
+M 0 25513     6 25521            a citizen of Eli
+M 0 25509     1 25520            the elven weaponmaster
+G 1 25528     0    -1                    give a granite dagger
+G 1 25501     0    -1                    give a vallenwood sword
+G 1 25564     0    -1                    give a dinky dagger
+G 1 25565     0    -1                    give a shortsword
+G 1 25566     0    -1                    give a longsword
+G 1 25567     0    -1                    give a two-handed sword
+M 0 25513     7 25520            a citizen of Eli
+M 0 25514     3 25520            a small elven child
+M 0 25511     1 25535            an elven sergeant
+M 0 25502     8 25535            the guard of Eli
+M 0 25502     9 25535            the guard of Eli
+M 0 25510     1 25535            an elven captain
+E 1 25526   101    17                    held a dull iron key
+E 1 25538    20     8                    feet boots of the wind
+E 1 25539    25    16                    wield a runed vallenwood longsword
+D 0 25535     2     2            Plush Living Quarters door south
+M 0 25512     1 25536            Phelac Laurana
+E 1 25541    20     5                    body a suit of ^Wsilver^n chainmail
+E 1 25540    25    16                    wield a ^Wsilver^n spina
+M 0 25513     8 25512            a citizen of Eli
+M 0 25515     2 25500            a cute little sparrow
+M 0 25515     3 25503            a cute little sparrow
+M 0 25517     1 25505            a swift and gentle deer
+D 0 25543     0     1            Crystalline Entranceway door north
+M 0 25515     4 25561            a cute little sparrow
+D 0 25561     0     1            Northwest Corner door north
+M 0 25515     5 25539            a cute little sparrow
+M 0 25518     2 25539            a small cooshee
+M 0 25519     1 25539            elven mother
+M 0 25514     4 25539            a small elven child
+M 0 25520     1 25539            elven farmer
+M 0 25513     9 25539            a citizen of Eli
+M 0 25515     6 25539            a cute little sparrow
+M 0 25502    10 25539            the guard of Eli
+O 0 25542   101 25539            a hand full of nuts
+O 0 25543   101 25539            an apple
+O 0 25544   101 25539            a pear
+O 0 25545   101 25539            an orange
+M 0 25518     3 25541            a small cooshee
+M 0 25519     3 25541            elven mother
+M 0 25520     3 25541            elven farmer
+M 0 25513    11 25541            a citizen of Eli
+M 0 25513    12 25541            a citizen of Eli
+M 0 25515     8 25541            a cute little sparrow
+M 0 25515     9 25541            a cute little sparrow
+M 0 25502    12 25541            the guard of Eli
+M 0 25522     1 25559            Master Talik
+E 1 25546    15    17                    held an ornate shrub
+D 0 25559     2     1            Chamber of the Master Talik door south
+M 0 25523     1 25548            elven audience member
+M 0 25523     2 25548            elven audience member
+M 0 25523     3 25548            elven audience member
+M 0 25524     1 25548            little girl
+M 0 25524     2 25548            little girl
+M 0 25525     1 25548            elven mother
+M 0 25525     2 25548            elven mother
+M 0 25523     4 25550            elven audience member
+M 0 25523     5 25550            elven audience member
+M 0 25523     6 25550            elven audience member
+M 0 25523     7 25550            elven audience member
+M 0 25524     3 25550            little girl
+M 0 25524     4 25550            little girl
+M 0 25525     3 25550            elven mother
+M 0 25526     1 25552            a citizen of Eli
+M 0 25526     2 25552            a citizen of Eli
+M 0 25521     3 25552            squirrel
+M 0 25521     4 25552            squirrel
+M 0 25521     5 25552            squirrel
+M 0 25524     5 25552            little girl
+M 0 25526     3 25551            a citizen of Eli
+M 0 25526     4 25551            a citizen of Eli
+M 0 25526     5 25551            a citizen of Eli
+M 0 25521     6 25551            squirrel
+M 0 25521     7 25551            squirrel
+M 0 25524     6 25551            little girl
+M 0 25524     7 25551            little girl
+M 0 25526     6 25553            a citizen of Eli
+M 0 25526     7 25553            a citizen of Eli
+M 0 25526     8 25553            a citizen of Eli
+M 0 25515    10 25553            a cute little sparrow
+M 0 25515    11 25553            a cute little sparrow
+M 0 25527     1 25555            elven noble
+M 0 25527     2 25555            elven noble
+M 0 25527     3 25555            elven noble
+M 0 25527     4 25555            elven noble
+M 0 25527     5 25555            elven noble
+M 0 25527     6 25555            elven noble
+M 0 25528     1 25557            elven actor
+M 0 25528     2 25557            elven actor
+M 0 25528     3 25557            elven actor
+M 0 25528     4 25557            elven actor
+M 0 25533     1 25557            elven actress
+M 0 25533     2 25557            elven actress
+M 0 25533     3 25557            elven actress
+M 0 25515    12 25562            a cute little sparrow
+M 0 25515    13 25562            a cute little sparrow
+M 0 25515    14 25562            a cute little sparrow
+M 0 25515    15 25560            a cute little sparrow
+M 0 25515    16 25560            a cute little sparrow
+M 0 25515    17 25558            a cute little sparrow
+M 0 25515    18 25558            a cute little sparrow
+D 0 25558     2     1            Southeast Corner door south
+M 0 25542     1 25585            the Guardian of the Vortex
+E 1 25554    10     3                    neck 1 a ^ggreen^n and ^Ygold^n enlayed amulet
+O 0 25555   101 25570            a small painted sign
+D 0 25570     4     1            Vortex Chamber door up
+M 0 25543     1 25565            Elven Guildguard
+E 1 25573   101    17                    held a staff-shaped key
+D 0 25565     0     2            Guardian Chamber of the Mages Guild door north
+M 0 25550     1 25567            Elven Guildguard
+E 1 25576   101    17                    held a mace-shaped key
+D 0 25567     3     2            Guardian Chamber of the Clerics Guild door west
+M 0 25548     1 25569            Elven Guildguard
+E 1 25572   101    17                    held a sword-shaped key
+D 0 25569     1     2            Guardian Chamber of the Fighters Guild door east
+M 0 25549     1 25566            Elven Guildguard
+E 1 25574   101    17                    held a dagger-shaped key
+D 0 25566     2     2            Guardian Chamber of the Thieves Guild door south
+M 0 25551     1 25568            Elven Guildguard
+E 1 25575   101    17                    held a lute-shaped key
+D 0 25568     4     2            Guardian Chamber of the Bards Guild door up
+D 0 25533     5     1            Floating Amongst the Stars door down
+D 0 25573     3     2            Hall of the Heroes door west
+D 0 25571     2     2            Pentacle Chamber door south
+D 0 25575     0     2            Shadow Hall door north
+D 0 25579     5     2            Bardic Court door down
+D 0 25577     1     2            Meditation Sanctum door east
+D 0 25529     0     2            Floating Amongst the Stars door north
+S
+#99999
+$~

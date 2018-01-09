@@ -1,0 +1,51 @@
+>greet_prog 35~
+  if ispc($n)
+    mpechoat $n $I bares $k teeth and emits a deep growl.
+    mpechoaround $n $I bares $k teeth and growls at $N.
+    mpechoat $n $I leaps at you bowling you over!
+    mpechoaround $n $I leaps at $N knocking $M off $S feet!
+    mpforce $n sit
+    mpechoat $n $I clamps her huge jaws around your head!  OW!
+    mpechoaround $n $I seems to swallow $N's head!  You hear something crack!
+    mpdamage $n 10d10+10
+    kill $n
+  endif
+~
+>give_prog meat~
+  if isfight($i)
+  else
+    mpechoat $n $I snatches the meat from your hand then trots away.
+    mpechoaround $n $I snatches the meat from $N's hand then trots away.
+    mpsilent flee
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoat $r $I leaps upon your chest, knocking you over!
+    mpechoaround $r $I leaps upon $R's chest knocking $L over.
+    mpdamage 10d10+15
+    mpforce $r sit
+    berserk
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoat $r $I leaps up and clasps your arm between $l jaws!
+    mpechoaround $r $I leaps up and clasps $R's arm between $l jaws!
+    mpdamage $r 8d8+16
+    mpsilent disarm $r
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    if isaffected($r, fly)
+      mpechoat $r $I leaps at you and bites your foot!
+      mpechoaround $r $I leaps at $R and bites $L foot!
+      mpechoat $r $I OWWWW!  $I ripped a piece of flesh from your foot!!!
+      mpechoaround $r $R lets out a bloodcurdling scream as $I rips a piece of flesh from $L foot!
+      mpdrainmove $r 10d8+10
+      mpdamage $r 8d8+16
+    endif
+  endif
+~
+|

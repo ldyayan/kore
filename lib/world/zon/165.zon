@@ -1,0 +1,91 @@
+#165
+The Order of Tanalos~
+16599 45 2 35
+O 0 16535   101 16528            a shimmering portal
+M 0 16502     1 16528            Monchira the Bloodless
+E 1 16507    15     0                    light the throbbing heart of a vampire
+E 1 16503    40     6                    head a cowl of binding
+D 0 16505     2     1            A design room door south
+O 0 16511   101 16505            a Tanalos mace
+O 1 16532   101 16505            a wooden table
+M 0 16508     1 16505            a playful imp
+G 1 16516   101    -1                    give a cube of rock
+O 0 16533   101 16578            a throne of blood
+M 0 16511     1 16578            Raczon the demon sorcerer
+E 1 16509    15    16                    wield the kris 'Soulstealer'
+E 1 16522    40    12                    about the Robe of the Order of Tanalos
+O 0 16525   101 16509            a scroll
+O 0 16525   101 16508            a scroll
+O 1 16525   100 16508            a scroll
+M 0 16501     1 16510            Torasch, the demon sentinel
+E 1 16506    26     3                    neck 1 the tattered skin of a demon
+E 1 16501    43    14                    left wrist a circlet of devastation
+E 1 16508    42    16                    wield the lost rune singer
+D 0 16503     1     1            A Small Building door east
+D 1 16503     1     2            A Small Building door east
+M 0 16506     1 16503            a grizzly old man
+E 1 16512   100    17                    held a dirty wooden key
+E 1 16514    35     6                    head a straw hat
+M 0 16514     1 16582            Hyraenecus the Mad
+G 1 16515   100    -1                    give a woven steel key
+E 1 16527    20    10                    arms ^Wsilver^n sleeves
+E 1 16526    20     4                    neck 2 the Seal of Hyraenecus
+D 0 16507     5     1            Tapestry room door down
+D 1 16507     0     1            Tapestry room door north
+M 0 16504     1 16524            a warped woman
+E 1 16524    30    16                    wield a translucent sceptre
+M 0 16503     1 16512            a warped man
+G 1 16505   100    -1                    give a blood red key
+E 1 16513    80    16                    wield a bamboo staff
+M 0 16500     1 16575            Yaxcor the Untouchable
+E 1 16531    32     6                    head a dragon skull helm
+E 1 16518    30    16                    wield a shadow mace
+M 0 16509     1 16576            Sonaris Quickfingers
+E 1 16528    30    13                    waist a belt of dragons teeth
+E 1 16520    25    16                    wield the dagger 'SwiftKill'
+O 0 16530   100 16581            a crimson pool
+D 0 16580     1     1            Under the Crust of the Earth door east
+D 1 16580     1     2            Under the Crust of the Earth door east
+D 0 16546     0     1            End of a Passageway door north
+M 1 16512    14 16546            a robed monk of power
+D 0 16579     3     1            Room of Holding door west
+D 1 16579     3     2            Room of Holding door west
+M 1 16513     1 16579            an old, drained mage
+G 1 16529   100    -1                    give a glowing key
+D 0 16548     5     1            The Hall of the Ensorceled door down
+M 0 16512    14 16543            a robed monk of power
+M 0 16512    14 16557            a robed monk of power
+M 0 16512    14 16556            a robed monk of power
+M 0 16512    14 16535            a robed monk of power
+M 0 16510     1 16577            Katrae Tuneweaver
+E 1 16521    10    16                    wield a wooden flute
+M 0 16505     1 16565            Darpac the Invincible
+E 1 16519    10    16                    wield a runic broadsword
+D 0 16506     4     1            A dark entrance door up
+D 0 16570     6     1            Farther down the well door northeast
+D 0 16574     8     1            A Hidden Alcove door southwest
+O 1 16517   100 16574            a large treasure
+D 0 16561     3     1            The Hall of the Ruler door west
+D 1 16561     3     2            The Hall of the Ruler door west
+D 0 16560     1     1            A Dead End door east
+D 1 16560     1     2            A Dead End door east
+M 0 16507     1 16551            an old elven mage
+E 1 16504    70    12                    about a star-spun robe
+E 1 16502    70     3                    neck 1 a glowing necklace
+D 0 16541     0     1            Deeper into the Mystery door north
+D 0 16555     2     1            The Hall of Remorse door south
+D 0 16550     2     1            The Walk of the Demon-Handler door south
+M 0 16509     1 16599            Sonaris Quickfingers
+D 0 16504     3     1            The Inside of the Shack door west
+D 0 16504     0     1            The Inside of the Shack door north
+D 0 16504     2     1            The Inside of the Shack door south
+D 0 16504     3     2            The Inside of the Shack door west
+D 0 16504     5     1            The Inside of the Shack door down
+D 0 16504     5     2            The Inside of the Shack door down
+D 0 16517     2     1            The Residence of Monchira door south
+D 1 16517     2     2            The Residence of Monchira door south
+D 0 16516     0     1            A passage door north
+D 1 16516     0     2            A passage door north
+S
+#99999
+$~

@@ -1,0 +1,64 @@
+>greet_prog 100~
+  if ismemory($n)
+    growl $n
+  else
+    if ispc($n)
+      say Welcome to the mine. Your papers, please?
+      emote holds out his hands expectantly.
+      mpremember $n
+    endif
+  endif
+~
+>fight_prog 4~
+  if isaffected($i, blind)
+  else
+    if inroom($r) == here
+      mpecho $I takes a brillant yellow wand from his pouch.
+      mpsilent mpoload 12340
+      hold wand
+      use wand $r
+      remove wand
+      mpsilent mpjunk all.wand
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I charges into the fray, arms and axe flying!
+    berserk
+    berserk
+    berserk
+  endif
+~
+>death_prog 100~
+  mpsilent remove all.claw
+  mpsilent junk all.claw
+~
+>command_prog cast~
+  if rand(10)
+    laugh $n
+    if rand(20)
+      mpechoat $n A large claw crosses your face and you lose your concentration!
+      mpdrainmana $n 11d11
+      mpstopcommand
+    endif
+  endif
+~
+>command_prog block~
+  if rand(20)
+    mpechoat $n The force of Crix's swing blows through your weapon!
+    mpechoaround $n The force of Crix's swings blows through the weapon of $N!
+    mpdamage $n 12d12
+    mpstopcommand
+  endif
+~
+>command_prog riposte~
+  if rand(20)
+    mpechoat $n The force of Crix's swing blows through your weapon!
+    mpechoaround $n The force of Crix's swings blows through the weapon of $N!
+    mpdamage $n 12d12
+    mpstopcommand
+  endif
+~
+|
+

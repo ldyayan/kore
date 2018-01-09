@@ -1,0 +1,624 @@
+#23500
+wizard elven grey gandalf~
+Gandalf the Grey~
+Gandalf the Grey stands here, the Maia of great power.
+~
+   This Maia has seen much of the past, and apparently will see much of
+the future. he wears a cloak of silvery fabric, and a staff of many
+swirling colors is held by him. His humanly features bely his deadly powers.
+~
+157962 4259976 900 S
+50 -10 -100 2500d10+5000 10d10+25
+0 200000
+8 8 1
+#23501
+youth halfling~
+a halfling youth~
+A halfling youth is standing here, enjoying the company of his friends.
+~
+This young halfling wanders about aimlessly, trying to avoid his mother's
+chores and still have time to be around his friends. A grin on his face, 
+he walks off to participate in something.
+~
+16460 32768 150 S
+5 10 90 2d10+4 3d4+3
+0 135
+8 8 1
+#23502
+halfling shopkeeper~
+the shopkeeper~
+The halfling shopkeeper is here, eyeing you watchfully.
+~
+   A stout halfling, he is lifting 200 pounds of supplies, not even 
+breakinga a sweat. He doesn't like riff-raff in his store, and will do
+anything to keep them out.
+~
+522314 32776 500 S
+55 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23503
+mill worker~
+a mill worker~
+A mill attendant is here making things work.
+~
+You see a burly halfling working, making sure everything works right
+so he can be paid the most by the miller. He carries several hundred
+pounds with ease, and works non-stop so he can keep his job.
+~
+16462 0 100 S
+8 8 70 1d1+1 5d1+5
+0 20
+8 8 1
+#23504
+miller~
+the mill attendant~
+The miller is here watching the workers work.
+~
+This is the lead guy in the milling operations here, and he is making
+sure that all the workers do their fair share. He also gets paid the most.
+~
+2062 0 350 S
+25 -5 50 1d1+1 1d1+10
+0 20
+8 8 1
+#23505
+madman man~
+a madman~
+The madman sits here, babbling to himslelf and playing with knives.
+~
+   A human, or at least former human, sits here, talking to himself.
+Obviously insane, you keep a little distance. In his hands he holds
+a set of knives, which even in his madness he seems to know how to
+use quite well. Before this madness overtook him he was probably a
+very skilled thief, but now he is quite insane, and looks like he's
+about to kill you...
+~
+57454 623744 0 S
+34 1 0 1d1+1 7d5+20
+0 20
+8 8 1
+#23506
+beggar thief~
+the silent beggar~
+A beggar awaits for you in the shadows, hiding from mankind.
+~
+   An ugly looking beggar sits here, hiding in the shadows. Upon 
+looking closer, you realize she is actually quite beautiful, and just
+hides in order to stay low. Daggers by the score are hidden beneath
+her cloak, and a short sword, glowing at that, hangs at her waist.
+~
+34894 591018 -333 S
+25 -5 0 1d1+1 1d1+12
+0 20
+8 8 2
+#23507
+thief petty~
+a petty thief~
+A petty thief wanders here, gawking over petty steals.
+~
+This small-time thief will never make it to large burglaries or becoming
+even an underling killer...why, he is gawking at petty things so much,
+he'll never even make it up to stealing an old ladies purse.
+~
+78 1024 -200 S
+6 1 10 1d1+1 1d1+3
+0 20
+8 8 1
+#23508
+confident thief~
+the confident thief~
+A thief stands here, looking at the latest robberies loot.
+~
+This thief, obviously one who knows what he is doing, has just roobbed
+a house, and is looking over his theft, seeing what he should keep
+and what he should throw away.
+~
+45070 1024 -400 S
+12 7 50 1d1+1 1d1+6
+0 20
+8 8 1
+#23509
+killer thief~
+a hired killer~
+A hired killer stands here, fingering the blade of his knife.
+~
+You see standing before you a thief that has killed many people before.
+However strong he looks though, he obviously is no match in hand to hand
+combat, as he was trained in the arts of trickery and sneakery.
+~
+6158 525312 -600 S
+18 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23510
+assassin thief~
+a deadly assassin~
+A skilled assassin silently moves around here, waiting for the next kill.
+~
+A lethal looking assassin stands before you, his quick eye darting from
+left to right in search of familiar enemies. He has killed many people,
+and not just through trickery, also in hand to hand combat. He has earned
+much respect among the thieves, more out of physical threat than actual
+mental respect.
+~
+2078 525320 -800 S
+24 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23511
+guard thief assassin~
+a bodyguard assassin~
+An obviously lethal assassin hides here, guarding the Guild Master.
+~
+This assassin wields a blade than shines dully with an inner light. It is
+magical, a gift from the Guildmaster. He is one of the best in the Shire,
+and the guildmaster has hired him to guard himself. Silently but surely,
+this assassin makes all his kills.
+~
+260110 623626 0 S
+30 -2 -20 1d1+1 1d1+1
+0 20
+8 8 1
+#23512
+shiriff halfling hobbit~
+a halfling shiriff~
+An aspiring halfling shiriff sits here, listening to the battlemaster.
+~
+  The halfling aspires to rid the Shire of crime.
+~
+2062 8 500 S
+15 1 0 1d1+1 1d1+1
+0 20
+6 6 1
+#23513
+battlemaster battle master halfling~
+the battlemaster~
+The battlemaster stands here, talking to her pupils.
+~
+In this basically male dominated town, you are suprised to see a female
+battlemaster talking to the pupils about battle. She stands tall and proud,
+and you can't help but notice her shapely and muscular form. You'd hate to
+run into her on, or off, the battlefield.
+~
+18446 136 0 S
+49 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#23514
+guard halfling~
+a halfling guard~
+A very strong halfling guard stands here, guarding the way to the Thain.
+~
+The halfling guard looks immensely loyal, he eyes you with suspicion.
+~
+83982 0 500 S
+20 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#23515
+grandmaster master thief~
+the Grand Master of Thieves in the Shire~
+The Grandmaster of Thieves in the Shire is here, pacing the room.
+~
+Before you stands Death, silent and vigilant. Well, close enough. Its the
+Grand Master of Thieves of the Shire. In his hands he holds a weapon. It
+looks like it could easily win him any fight, and apparently, from the
+way he holds it, it has. He glares at you with bright eyes, and calls
+his bodyguards forward upon you.
+~
+260156 4554986 0 S
+45 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23516
+shiriff halfling ~
+the halfling shiriff~
+The halfling shiriff is here, awaiting you to break the law.
+~
+The halfling shiriff wants nothing more than to rid the Shire of all the 
+crime and injustice that takes place.
+~
+157710 0 500 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#23517
+thain halfling shiriff~
+the Thain of the Shire~
+The Thain of the Shire sits at his desk, annoyed by your intrusion.
+~
+The Thain of the Shire is large for a halfling.  He peers at you over 
+some papers he's looking at and asks you what it is you need.
+~
+190734 0 500 S
+40 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23518
+mage lesser halfling~
+the halfling mage~
+A halfling mage spell-casts here, obviously of lesser powers.
+~
+This is a mage of the lesser powers. He hasn't even chosen the robes
+he shall wear. He is casting spells at the trarget before him.
+~
+2058 0 0 S
+17 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23519
+mage guildmaster master halfling~
+the Halfling Mage Guildmaster~
+The Mages Guildmaster stands here, a halfling with power.
+~
+The guildmaster is a slight man, wearing blue robes.
+~
+239630 99466 0 S
+38 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23520
+bard halfling~
+a halfling bard~
+A halfling bard is here, practicing his singing.
+~
+    Before you stands a halfling bard, slightly out of tune, but still
+sounding like a great bard. His music fills your soul, and you are just
+lifted away by the sound, until a bard hits a bad note, and you are most
+rudely jerked back to reality.
+~
+145422 0 0 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23522
+priest cleric guildmaster master~
+Guildmaster of the Red Robes~
+A powerful looking halfing priest stands here, all dressed in red.
+~
+       Short in stature, but powerful in spells and his faith in his god.
+~
+190474 5309672 0 S
+38 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23524
+cleric~
+a cleric~
+A cleric stands here, still not sure of his faith.
+~
+  This cleric has decided to follow a god, but he is still deciding which
+one to follow. Apparently lost in thought, he looks to the heavens, hoping
+for an answer.
+~
+26634 0 0 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23525
+wife~
+the mayor's wife~
+The mayor's mentally challenged wife sits here, sewing.
+~
+Shes stupid, dumb, can't sew, and just sits there, but she's still the 
+mayor's wife.
+~
+10 128 0 S
+18 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#23526
+cook~
+a cook~
+The cook is here, cooking to his best.
+~
+This cook has food splattered all over his apron, and his food smells
+like total junk, but apparently the mayor likes it so they make it
+constantly for him.
+~
+4110 0 0 S
+11 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#23527
+chef~
+the chef~
+The chef is here, ordering to cooks around while he gets to try the food.
+~
+The chef is spic and span, clean as a whistle, whatever. The cooks do the
+work, and he sits back and watches, yet he gets paid more. (go figure!)
+~
+6158 128 0 S
+22 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#23528
+baker halfling~
+the halfling baker~
+The halfling baker is here, lifting flour and baking bread.
+~
+He is baking pipeweed, a savored favorite, and really looks like he doesn't
+want you to steal it from him.
+~
+518154 128 0 S
+35 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23530
+guard~
+the Wife's Guard~
+The guard of the mayor's wife stands here, tall and strong.
+~
+There's not much to see here, except he's big and mean, and doesn't want
+the wife hurt.
+~
+178186 0 0 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23533
+bard guildmaster master~
+the Bard Guildmaster~
+The Bard Guildmaster plays a tune on an ancient lyre.
+~
+The Guildmaster is a very nice man, and sings quite well. His Lyre
+is ancient, a gift given to him by a god. Many would choose to be in his
+place, although most just want his Lyre.
+~
+190478 65664 0 S
+40 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23534
+tavern-goer halfling~
+a halfling tavern-goer~
+A halfling tavern-goer sits here, sipping ale and enjoying the music.
+~
+This man is drunk stiff, and yet enjoying himself with the music.
+~
+10 0 0 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23540
+secretary~
+the mayor's secretary~
+The Mayor's Private Secretary sits at desk here, filing some papers.
+~
+She isn't very hot, and looks kinda old. She doesn't even notice you, and
+you wonder if she can even hear...
+~
+256014 128 0 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#23541
+mayor gamgee~
+Mayor Gamgee~
+Mayor Gamgee is at his desk here, talking with someone.
+~
+A very well dressed halfling, Mayor Gamgee is also big and strong,
+and it make you wonder how he became mayor. He also seems to be busy,
+buy he can always be interrupted.
+~
+256010 65664 0 S
+40 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23542
+halfling representative~
+a halfling representative~
+A Halfling Representative stands here, voting on a new law.
+~
+This halfling represents his clan, and votes on new laws according to what
+the clan wants. This guy lives by true politics.
+~
+260106 0 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23543
+halfling senator~
+a halfling senator~
+A halfling Senator stands here, voting on new laws.
+~
+This halfling represents his clan, and votes on new laws according to what
+the clan wants. This guy lives by true politics.
+~
+260106 0 0 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23545
+shopkeeper blacksmith~
+the blacksmith~
+The halfling blacksmith is here, displaying his weaponry.
+~
+   A stout halfling, he is lifting 200 pounds of supplies, not even 
+breaking a sweat. He doesn't like riff-raff in his store, and will do
+anything to keep them out.
+~
+456714 32776 500 S
+32 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23546
+halfling armourer armorer~
+the halfling armourer~
+The halfling armourer is here, watching your movements.
+~
+   A stout halfling, he is lifting 200 pounds of supplies, not even 
+breaking a sweat. He doesn't like riff-raff in his store, and will do
+anything to keep them out.
+~
+522254 32776 500 S
+32 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#23565
+businessman man business halfling~
+a halfling businessman~
+The halfling business man waits here for his meeting.
+~
+An important business man who was late to arrive, but his meeting hasn't
+even begun yet. He carries a brief case and doesn't look too happy
+that his meeting is late.
+~
+133134 0 300 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23566
+businesswoman woman business halfling~
+a halfling businesswoman~
+The halfling businesswoman is in a meeting, do not disturb her.
+~
+An important business woman who is in a meeting. She is intent upon what
+the speaker is saying, and is paying no attention to you. You really don't
+like that very much.
+~
+133134 0 300 S
+14 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#23567
+speaker business woman businesswoman~
+the speaker, a business woman~
+The speaker, a business woman of much power, talks here.
+~
+You see a woman taking on the lead role and speaking for her gender here.
+~
+141326 65664 0 S
+18 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#23568
+businessman man business halfling~
+a halfling businessman~
+The halfling business man waits here for his meeting.
+~
+An important business man, he doesn't like delays, but the Mayor is just
+too busy today he'll have to wait. However, he's still complaining, as he
+ought to.
+~
+133134 0 300 S
+13 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23570
+elf elven~
+an elf~
+An elf sits here, enjoying the festival.
+~
+This is an elf from Eli, come here invited by Gandalf to enjoy in the
+partying and feasting. 
+~
+174094 0 500 S
+16 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#23571
+dwarf dwarven~
+a dwarf~
+A dwarf of the Kandelspire is here, sent by Gimli to accompany Gandalf.
+~
+A stocky dwarf, Gimli offered him actually as his personal guard, but also
+because he was a dwarf, and all dwarven kind were friends.
+~
+75790 0 500 S
+18 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23572
+human~
+a human~
+A human is here, invited along for his valiant defense of Kore.
+~
+Battlescarred and still healing, this man made it hear by a long trek just
+to participate in the celebrations here and escapee sleeping in the 
+fields another night. 
+~
+2062 0 500 S
+19 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23573
+hobbit halfling~
+a halfling~
+This halfling is a member of the Shire, and is here to honor Gandalf.
+~
+Playing little part in the wars, this halfling still enjoys good times
+with others, and has come here to celebrate the arrival of Gandalf.
+~
+108558 0 500 S
+19 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#23575
+thief young hobbit~
+a young, hobbit thief~
+A young hobbit thief roams here, praticing his art.
+~
+A young hobbit in the prime of his youth, he has devoted his life to the
+art of thievery. Not only stealing, but killing and murdering as well. He
+appears to be quite good at them all, and looking at the short spear he
+wields, it appears he is quite efficient too.
+~
+157710 557066 -25 S
+30 1 0 1d1+549 1d1+1
+15 20
+8 8 1
+#23596
+mage adventurer~
+Nelyr of the Magi~
+Nelyr of the Magi stands here, preparing to cast word of death at you.
+~
+   Before you stands a powerful Magi, Nelyr Canarbian. She is preparing
+to kill you with a spell, although she doesn't know your real identity.
+GOD
+~
+256012 0 0 S
+1 20 100 7d7+7 0d0+0
+0 0
+8 8 2
+#23597
+thief adventurer assassin~
+Eudas, Master Assassin and Thief~
+Eudas, Master Assassin and Thief, waits here to backstab you.
+~
+Before you is Eudas, Assassin and Thief, deadly and lethal, and if you
+do kill him you still find all of your gold in HIS pockets. He stands
+with his trident of death poised, ready to kill you, but you doubt he
+will since he doesn't know what you really are. GOD
+~
+256012 0 0 S
+1 20 100 7d7+7 0d0+0
+0 0
+8 8 1
+#23598
+fighter warrior adventurer~
+Arkham, Master Warrior~
+Arkham, Master Warrior, waits for you here so he can hack you to bits.
+~
+You see a dummy Monster.~
+256012 0 0 S
+1 20 100 7d7+7 0d0+0
+0 0
+8 8 1
+#23599
+cleric priestess priest adventurer~
+Karma Soulcutter, Master Priestess and Cleric~
+Karma Soulcutter, Master Priestess and Cleric, ready to dispel your soul.
+~
+Karma Soulcutter, Master Priestess and Cleric, stands before you, arms
+raised to dispel your soul from your body. What she doesn't know, is she
+can't because she doesn't realize what you are.
+GOD
+~
+256012 0 0 S
+1 20 100 7d7+7 0d0+0
+0 0
+8 8 2
+#99999
+$~

@@ -1,0 +1,2154 @@
+#8300
+North-West Gate to Carpacia~
+   You stand before the north-west gate of Carpacia, you see the grand walls 
+are made of some sort of glittering substance that withstands the water. To 
+the east is a Guard post. 
+~
+83 0 0
+D1
+~
+~
+0 0 8301
+S
+#8301
+North-West corner of Water Street and Seashell Lane~
+   This is the North Western corner of the village, where Water street and 
+Seashell lane meet. Water street continues to the south, and Seashell lane 
+continues to the east. THere is a guard post here. 
+~
+83 0 1
+D1
+~
+~
+0 0 8303
+D2
+~
+~
+0 0 8302
+D3
+~
+~
+0 0 8300
+E
+Guard post~
+There is a Gate-guard posted here.~
+S
+#8302
+Along Water street~
+   You are walking down Water street, which follows the western wall all the 
+way to the southern corner. To the east is the wall of the Monastary, over 
+which you can hear monks chanting. 
+~
+83 0 1
+D0
+~
+~
+0 0 8301
+D2
+~
+~
+0 0 8304
+S
+#8303
+Along Seashell Lane~
+   You are walking next to the north wall along Seashell lane. To the south 
+is the wall of the Monastary, over which chanting can be heard. To the west 
+id the intersection of Water street and Seashell lane. Seashell lane 
+continues all the way east. 
+~
+83 0 1
+D1
+Along Seashell lane. ~
+~
+0 0 8329
+D3
+North Western corner. ~
+~
+0 0 8301
+S
+#8304
+Along Water street~
+   You are walking down Water street, which follows the western wall all the 
+way to the southern corner. To the east is the wall of the Monastary, over 
+which you can hear monks chanting. 
+~
+83 0 1
+D0
+Along Water street.~
+~
+0 0 8302
+D2
+Along Water street.~
+~
+0 0 8305
+S
+#8305
+Along Water street~
+   You are walking down Water street, which follows the western wall all the 
+way to the southern corner. To the east is the wall of the Monastary, over 
+which you can hear monks chanting. 
+~
+83 0 1
+D0
+Along Water street.~
+~
+0 0 8304
+D2
+Along Water street.~
+~
+0 0 8306
+S
+#8306
+Intersection of Water street and Monastary row.~
+   You are standing at the intersection of Water street and Monastary row. To 
+the east is the entrance of the fabled Gangland. Water street continues to 
+the south and north. 
+~
+83 0 1
+D0
+Along Water street.~
+~
+0 0 8305
+D1
+Entrance to Gangland.~
+~
+0 0 8319
+D2
+Along Water street.~
+~
+0 0 8307
+S
+#8307
+Along Water street~
+   You are walking along Water street, which follows the western wall all hte 
+way south and north. To the east is the wall of the Projects and to the north 
+is the intersection of Water street and Monastary row. 
+~
+83 0 1
+D0
+Intersection of Water street and Monastary row.~
+~
+0 0 8306
+D2
+Along Water street.~
+~
+0 0 8308
+S
+#8308
+Along Water street~
+   You are walking along Water street, which follows the western wall all the 
+way north and south. To the east is the wall of the Projects, and to the 
+south is the intersection of Waterstreet and the Dead-End Alley 
+~
+83 0 1
+D0
+Along Water street. ~
+~
+0 0 8307
+D2
+Intersection of Water street and the Dead-end alley ~
+~
+0 0 8309
+S
+#8309
+Intersection of Water Street and the Dead-End alley~
+   You are standing at the intersection of Water Street and the Dead-end 
+alley. The Dead-end alley is not a nice place to be, it didn't get it's name 
+from being a hangout for Girlscouts, If you catch my drift... Dead-end Alley 
+continues a ways east. Water street continues north and south. 
+~
+83 0 1
+D0
+Along Water street~
+~
+0 0 8308
+D1
+West end of the Dead-end alley~
+~
+0 0 8322
+D2
+Along Water street. ~
+~
+0 0 8310
+S
+#8310
+Along Water street~
+You are walking along Water street behind the west wall of the Palace, thee walls are too high to see over, but you notice that they are made of the same Sand like material as the rest of the buildings. Water street continues to the south and north.
+~
+83 0 1
+D0
+Intersection of Water street and the Dead-end alley~
+~
+0 0 8309
+D2
+Along Water street. ~
+~
+0 0 8311
+S
+#8311
+Along Water street~
+   You are walking along Water street behind the west wall of the Palace, 
+thee walls are too high to see over, but you notice that they are made of the 
+same Sand like material as the rest of the buildings. Water street continues 
+to the south and north. 
+~
+83 0 1
+D0
+Along Water street. ~
+~
+0 0 8310
+D2
+Along Water street. ~
+~
+0 0 8312
+S
+#8312
+Along Water street~
+   You are walking along Water street behind the west wall of the Palace, 
+thee walls are too high to see over, but you notice that they are made of the 
+same Sand like material as the rest of the buildings. Water street continues 
+to the south and north. 
+~
+83 0 1
+D0
+Along Water street. ~
+~
+0 0 8311
+D2
+Along Water street. ~
+~
+0 0 8313
+S
+#8313
+Along Water street~
+   You are walking along Water street behind the west wall of the Palace, 
+thee walls are too high to see over, but you notice that they are made of the 
+same Sand like material as the rest of the buildings. Water street continues 
+to the south and north. 
+~
+83 0 1
+D0
+Along Water street. ~
+~
+0 0 8312
+D2
+Along Water street. ~
+~
+0 0 8314
+S
+#8314
+Along Water street~
+   You are walking along Water street behind the west wall of the Palace, 
+thee walls are too high to see over, but you notice that they are made of the 
+same Sand like material as the rest of the buildings. Water street continues 
+to the south and north. 
+~
+83 0 1
+D0
+Along Water street. ~
+~
+0 0 8313
+D2
+South Western corner.~
+~
+0 0 8315
+S
+#8315
+South Western corner.~
+   You are standing in the south western corner of the village, where Water 
+street and Sandcastle stretch meet. Water street continues to the north and 
+Sandcastle stretch continues to the east. There is a Guard post here. 
+~
+83 0 1
+D0
+Along Water street. ~
+~
+0 0 8314
+D1
+Along Sandcastle stretch. ~
+~
+0 0 8328
+S
+#8316
+Inside Monastary~
+You are standing inside the monastary, there are monks meditating everywhere, and paupers mill about looking for a handout. The monastary's souvenir shoppe is to the south.
+~
+83 24 0
+D1
+Inside the Monastary~
+~
+0 0 8330
+D2
+Monastary Souvenir Shoppe.~
+Heavy Curtain~
+1 0 8317
+S
+#8317
+The Monastary "Souvenir Shoppe"~
+Here is the Monastary's souvenir shoppe, it sells all kinds of trinkets and baubles at Low, Low, Low prices. To the south is the Grandmaster of the Monastary, who will heal you if you ask.
+There is a shopkeeper here.
+~
+83 152 0
+D0
+Inside the Monastary~
+Heavy Curtain~
+1 0 8316
+D2
+Grandmaster's Room ~
+Heavy Curtain~
+1 0 8318
+S
+#8318
+Grandmaster's Room~
+You stand before the Grandmaster of the Monastary. The room in which he lives is sparsly decorated, with only a futon for him to sleep on. He has found a higher plane of conciousness, but will heal you if you are hurt.
+~
+83 668 0
+D0
+Monastary "Souvenir Shoppe"~
+Heavy Curtain~
+1 0 8317
+S
+#8319
+Entrance to Gangland~
+   This is the entrance to the area of Carpacia known only as Gangland. The 
+Gang members and other scum of the city dwell here, so try not to stay too 
+long. There is a large portion of the Monastary wall that is covered in 
+Grafitti here. The intersection of Water street and Monastary row is to the 
+west, while Monastary row continues deeper into Gangland to the east 
+~
+83 0 1
+D1
+Deeper into Gangland~
+~
+0 0 8333
+D3
+Intersection of Water street and Monastary row.~
+~
+0 0 8306
+E
+grafitti sign~
+There is Grafitti scrawled on the wall here, it reads:
+"Yo Honky, you has breached the Turf o' da Reds, and if you wanta stay Breathin', you betta Leave now, before we Ventilate you. You only get one warnin'. "
+~
+E
+dummy~
+This is a Dummy, please make me valid!!~
+S
+#8320
+Before the Gangleaders Crib~
+   You stand at the end of the wrteched hallway. You hardly know how you 
+managed to survive the journey from one end of this Stinking, dirty hallway 
+to the other. This end of the hallway looks cleaner and more well kept. It is 
+also Painted in the Myriad of Gang Colors. Ther is a Very Large Sign here. 
+~
+83 8 0
+D1
+Before the Whoreing Room~
+~
+0 0 8334
+D2
+Gangleaders Crib~
+Door Marked DEATH~
+1 0 8321
+E
+Large sign~
+There is a sign here, it reads: Yo, Stay outta Da Gangleaders Crib. We is in da Middle of making secret plans, so if you enter you DIE, capishe?
+~
+S
+#8321
+Gangleaders Crib~
+   Boy are you a glutton for Punishment. Not only did you Invade gang 
+territory, but you just surprised the Gangleader and his Retinue as they were 
+planning to kill the other Gangleaders and then rule all the Gangs as one. 
+Before you can do anything, they all turn and point at you with Outstretched 
+hands. It seems that Half of them have just hit you with Rays of 
+Disintegration, and the other half hit you with Words Of Death. The 
+Gangleader just stood there, Chuckling. He then comes over and Spits on your 
+Remains. He says one word. "Stoopid". You are now Ashes on the carpet. In 
+other words, You are DEAD. Have a Nice Day. /^_^\ 
+~
+83 526 0
+D0
+Before the Gangleaders Crib~
+Door Marked DEATH~
+1 0 8320
+S
+#8322
+West end Of the Dead-end Alley~
+   Welcome to the Dead-end alley, prepare to get robbed. This place is only 
+slightly less dangerous than wandering around in Gangland. All the Thieves, 
+Rapists and Murderers Hang out here looking for their next victim, which is 
+YOU!!! 
+~
+83 1 1
+D1
+Deep into the Dead-end alley~
+~
+0 0 8336
+D3
+Intersection of Water street and the Dead-end alley~
+~
+0 0 8309
+S
+#8323
+Palace Courtyard~
+This is the very end of the Palaces courtyard, with walls all around you. There is now no escape from the animals of the Kings Menagerie, so you have to tand and fight them, or be eaten.
+Unluckily for you, this is where one of the Kings Prize Giant Lobsters resides. It has just gone past its feeding time, so it mistakes you for its lunch. Sushi anyone?
+~
+83 0 1
+D1
+Palace Coutryards~
+~
+0 0 8337
+S
+#8324
+Treasure Vault~
+   You now stand inside the King's Treasure Vault, you splendour at the 
+amount of treasure there is in here (but won't be for long). You also notice 
+that the walls Glow instead of glitter like the other walls. 
+~
+83 136 0
+D2
+King's Chamber~
+Wall Vault door~
+2 0 8325
+S
+#8325
+King's Chamber and Harem~
+   Here are the King's Chambers, in the corner is a well used bed with 
+several Tired Harem girls lounging upon it. There are harem girls all around 
+the chamber, all in various stages of undress. Unfortunately for you the 
+Eunuch Guards that guard the kings life do not appreciate your Intrusion, and 
+so immediately attack! 
+~
+83 8 0
+D0
+King's Treasure Room~
+Wall Vault door~
+2 0 8324
+D1
+Throne Room~
+Double Brass Doors~
+1 0 8339
+D2
+Royal Toilet Room~
+Heavy Smell Proof Curtain~
+1 0 8326
+S
+#8326
+The Royal Toilet~
+   Welcome to the Royal Toilet. Phee-yew This Proves it, Royalty smells just 
+as bad as the common folk. This is by far the least impressive room in the 
+Palacewith a small tub, a sink, a ventilation window, and the King sitting on 
+his royal "Throne". The king is not amused at being Interrupted at this 
+moment and so Launches himself at you. 
+~
+83 8 0
+D0
+Kings Chamber and Harem~
+Heavy Smell Proof Curtain~
+1 0 8325
+S
+#8327
+Palace Courtyard~
+   This is the very end of the Palaces courtyard, with walls all around you. 
+There is now no escape from the animals of the Kings Menagerie, so you have 
+to tand and fight them, or be eaten. Unluckily for you, this is where one of 
+the Kings Prize Giant Lobsters resides. It has just gone past its feeding 
+time, so it mistakes you for its lunch. Sushi anyone? 
+~
+83 0 1
+D1
+Palace Coutryards~
+~
+0 0 8341
+S
+#8328
+Along Sandcastle stretch~
+   You are standing at the western end of Sancastle stretch, so named for the 
+Palace which is to the north. A closer look at the wall of the Palace 
+courtyard shows that it is indeed somehow made of Sand. Sandcastle stretch 
+continues to the east, the South-western corner of the city is to the west. 
+~
+83 0 1
+D1
+Along Sandcastle stretch.~
+~
+0 0 8342
+D3
+South-western Corner.~
+~
+0 0 8315
+S
+#8329
+Along Seashell Lane~
+   You are walking along Seashell lane. To the south is the north wall of the 
+Monastary, over which chanting can be heard. Seashell lane continues to the 
+east and west. 
+~
+83 0 1
+D1
+Along Seashell lane. ~
+~
+0 0 8343
+D3
+Along Seashell lane~
+~
+0 0 8303
+S
+#8330
+Inside Monastary~
+   You are standing inside the Monastary. Monks are meditating all over the 
+place, and paupers mill about looking for a handout. The Courtyard of the 
+monastary is to the south. 
+~
+83 24 0
+D1
+Inside the Monastary~
+~
+0 0 8344
+D2
+Monastary Courtyard~
+Curtained Archway~
+1 0 8331
+D3
+Inside the Monastary.~
+~
+0 0 8316
+S
+#8331
+Monastary Courtyard~
+You now stand in a safe place in Gangland. The Gang Members will not attack you here. The courtyard is full of Wandering, Chanting Monks who are attempting to attain a Higher State of Conciousness. They are ignoring you.
+The entrance to the Interior of the Monastary is to the north, the Courtyard continues south and east.
+~
+83 16 0
+D0
+Interior of the Monastary.~
+Curtained Archway~
+1 0 8330
+D1
+Courtyard of the Monastary of the Quiet Sea. ~
+~
+0 0 8345
+D2
+Courtyard of the Monastary of the Quiet Sea.~
+~
+0 0 8332
+S
+#8332
+Monastary Courtyard~
+You now stand in a safe place in Gangland. The Gang members will not attack you here. The courtyard is full of Wandering, Chanting monks, who are attempting to attain a higher state of conciousness. The will ignore you.
+Gangland is to the south, and the Monastary Courtyard continues North and east.
+~
+83 16 0
+D0
+Courtyard of the Monastary of the Quiet Sea.~
+~
+0 0 8331
+D1
+Courtyard of the Monastary of the Quiet Sea.~
+~
+0 0 8346
+D2
+Gangland Before the Monastary.~
+Gates~
+0 0 8333
+S
+#8333
+Gangland Before the Monastary~
+   Stepping deeper into gangland, you are amazed that you are still alive. To 
+the north are the Open gates of the Monastary of the Quiet Sea. You are quite 
+amazed to see that the monks can wander Gangland with no Ill effects. The 
+Monastary opens to the north, Monastary row continues through Gangland to the 
+east and west. 
+~
+83 0 1
+D0
+Monastary Courtyard.~
+Gates~
+1 0 8332
+D1
+Gangaland Before the Monastary.~
+~
+0 0 8347
+D3
+Entrance to Gangland.~
+~
+0 0 8319
+S
+#8334
+Before the Pimps room~
+   Yuck. As you progress along the hallway, it may become cleaner and smell 
+better, But here it is disgusting. There are Whipped and Battered fishmen and 
+fishladies lying here bleeding and moaning. But for some reason each one of 
+them has a Beatific grin on their face, as if each one just had a dream 
+fufilled... The hallway continues east and west 
+~
+83 8 0
+D1
+Before the Junkies Haunt~
+~
+0 0 8348
+D2
+Pimps Room ~
+Bloodied Door~
+1 0 8335
+D3
+Before the Gangleaders crib~
+~
+0 0 8320
+S
+#8335
+Pimps Room~
+   You have entered the Pimps room just as he was "Disciplining his 
+Beauties". He is outraged that you would dare barge in before your 
+Appointment, so he has decided to discipline You instead. So he leaps at you 
+waving his Red Hot Pimp Stick (tm). 
+~
+83 8 0
+D0
+Before Pimps Room~
+Bloodied door~
+1 0 8334
+S
+#8336
+Deep into the Dead-end alley~
+   It's getting darker and dingier in here, and You have the distinct feeling 
+that you are being watched. The walls seem to be closing in on you, and It's 
+gettinng Harder to breathe. Or is it just you? 
+~
+83 1 1
+D1
+Even Deeper into the Dead-end alley~
+~
+0 0 8350
+D3
+West end of the Dead-end alley~
+~
+0 0 8322
+S
+#8337
+Palace Courtyard~
+You are wandering around in the Palaces Courtyard. The King uses the courtyard as his personal Menagerie, and so the place is full of wandering beasties. You hear the squawks of several Parrotfish, the roars of some Lionfishes, and Seahorses Neighing.
+Unfortunately, the Animal keeper is off at the pub getting drunk, and so has missed the animals feeding times. The animals are Wandering around in the Courtyard looking for things to eat, and you Could count as such a thing.
+~
+83 0 1
+D1
+~
+~
+0 0 8351
+D3
+~
+~
+0 0 8323
+S
+#8338
+The Princes Antechamber~
+   Stepping through the curtain, you come into the abode of Crown Prince 
+Tsuriops. The room makes your eyes water, it is that Purple. You cannot make 
+out any corners or edges due to the fact that EVERYTHING in the room is a 
+shade of purple. The only object in the room that isn't purple is a large 
+Gold statue of the Prince, nude, with a sword held point down covering his 
+nether areas. There is a sign on the base. Prince Tsuriops is not pleased 
+with your intrusion, as he is plotting the assassinations of both his father 
+King Stenos, and his mother Queen Spathis. But as he is a coward of the 
+Highest degree, he orders the assassin he was hiring to kill you Fast. The 
+throne room is to the south. 
+~
+83 8 0
+D2
+Opulent Throne Room~
+Heavy Purple Curtain~
+1 0 8339
+E
+sign statue~
+Ladies and Gentlemen, I would like to thank you for your patience while I have been In my Purple room. Here in my Purple Room, I have missed you all so, and I would like to thank each and Every one of you... For this Oscar!
+OHh! I'll never forget it..
+Thank You!
+~
+S
+#8339
+The Throne Room~
+   You have entered an opulent Throne Room. The walls are covered in 
+tapestries made of seaweed, The floor is paved in pearls, And the ceiling is 
+covered in Sprawling Murals of the most exquisite design. The throne itself 
+seems to be a giant Gilt oyster shell, encrusted with Prcious jewels. It is, 
+therefore, too heavy for even ten of the strongest men to carry, so don't 
+even try. This is where the King rules his kingdom from. Taking this to mind, 
+you notice there is a definate Lack of such a King, and the guards that would 
+accompany him. There are Haevy curtains to the North, south and west. There 
+is also an Opulent sign herer. 
+~
+83 8 0
+D0
+Princes antechamber.~
+Heavy Purple Curtain~
+1 0 8338
+D1
+Grand Hall~
+~
+0 0 8353
+D2
+Queens Antechamber.~
+Heavy Plush Curtain~
+1 0 8340
+D3
+Kings Harem.~
+Double Brass Doors~
+1 0 8325
+E
+sign opulent~
+The King is in his Harem. Anyone found disturbing his Majesty during his activities will be Executed on sight. Any grievances or such things may be taken up with the royal Vizier.
+Signed The Prints of Wails.
+~
+S
+#8340
+The Queens Antechamber~
+   The first thing you notice upon entering the room, is the Floor. It feels 
+like you are standing on a cloud, it's that soft. In fact the entire room is 
+done in soft colors with Plush trimmings. You wonder if a cotton plant 
+exploded in here. A Rather soft-hearted looking lady looks up from her 
+embroidery as you enter. "Oh, You must be looking for my husband the King." 
+says she "Well unfortunately, he is busy in his Military council at the 
+moment, so while you are waiting come sit and have a cookie and some tea." 
+You can't help but stay for one cookie. The throne room is to the north. 
+~
+83 24 0
+D0
+Opulent throne room~
+Heavy Plush Curtain~
+1 0 8339
+S
+#8341
+Palace Courtyard~
+   You are wandering around in the Palaces Courtyard. The King uses the 
+courtyard as his personal Menagerie, and so the place is full of wandering 
+beasties. You hear the squawks of several Parrotfish, the roars of some 
+Lionfishes, and Seahorses Neighing. Unfortunately, the Animal keeper is off 
+at the pub getting drunk, and so has missed the animals feeding times. The 
+animals are Wandering around in the Courtyard looking for things to eat, and 
+you Could count as such a thing. 
+~
+83 0 1
+D1
+~
+~
+0 0 8355
+D3
+~
+~
+0 0 8327
+S
+#8342
+Along Sandcastle stretch~
+   You are walking along Sancastle stretch, so named for the Palace which is 
+to the north. A closer look at the wall of the palace courtyard shows that it 
+is indeed somehow made of Sand. Sandcastle stretch continues to the west and 
+east. 
+~
+83 0 1
+D1
+Along Sandcastle stretch.~
+~
+0 0 8356
+D3
+Along Sandcastle strecth.~
+~
+0 0 8328
+S
+#8343
+Along Seashell Lane~
+   You are walking along Seashell lane. To the south is the north wall of the 
+Monastary, over which chanting can be heard. Seashell lane continues to the 
+east and west. 
+~
+83 0 1
+D1
+Along Seashell lane. ~
+~
+0 0 8357
+D3
+Along Seashell lane~
+~
+0 0 8329
+S
+#8344
+Inside Monastary~
+   You are standing inside the Monastary. Monks are meditating all over the 
+place, and paupers mill about looking for a handout. The Courtyard of the 
+monastary is to the south. 
+~
+83 24 0
+D1
+Monastary Soup Kitchen~
+~
+0 0 8358
+D2
+Monastary Courtyard~
+Curtained Archway~
+1 0 8345
+D3
+Inside the Monastary.~
+~
+0 0 8330
+S
+#8345
+Monastary Courtyard~
+   You now stand in a safe place in Gangland. the Gang Members will not 
+attack you here. The courtyard is Full of Wandering, Chanting Monks, who are 
+attempting to atain a higher state of conciousness. They are ignoring you. 
+The entrance to the interior of the Monastary is to the north, The courtyard 
+continues to the west and South. 
+~
+83 16 0
+D0
+Interior of the Monastary.~
+Curtained Archway~
+1 0 8344
+D2
+Courtyard of the Monastary of the Quiet Sea.~
+~
+0 0 8346
+D3
+Courtyard of the Monastary of the Quiet Sea.~
+~
+0 0 8331
+S
+#8346
+Monastary Courtyard~
+   You now stand in a safe place in Gangland. The Gang members will not 
+attack you here. The courtyard is Full of Wandering, chanting Monks, who are 
+attenpting to attain a higher state of conciousness. They are ignoring you. 
+Gangland is to the south, and the Monastary Courtyard continues north and 
+west. 
+~
+83 16 0
+D0
+Courtyard of the Monastary of the Quiet Sea.~
+~
+0 0 8345
+D2
+Gangland Before the Monastary.~
+Gates~
+0 0 8347
+D3
+Courtyard of the Monastary of the Quiet Sea.~
+~
+0 0 8332
+S
+#8347
+Gangland Before the Monastary~
+   Stepping deeper into gangland, you are amazed that you are still alive. To 
+the north are the Open gates of the Monastary of the Quiet Sea. You are quite 
+amazed to see that the monks can wander Gangland with no Ill effects. The 
+Monastary opens to the north, Monastary row continues through Gangland to the 
+east and west. 
+~
+83 0 1
+D0
+Monastary Courtyard.~
+Gates~
+1 0 8346
+D1
+Dangerous Dark area of Gangland.~
+~
+0 0 8361
+D3
+Gangland before the Monastary.~
+~
+0 0 8333
+S
+#8348
+Before the Junkies Haunt~
+   Eww. This part of the Hallway is almost totally covered in Wall to Wall 
+vomit. It seems that someone has decided to Paint this part of the hallway in 
+Yellow, Green, Brown and other puke related colours. It looks, Oh I dunno, 
+SOrt of Trippish. The hallway continues west and east 
+~
+83 8 0
+D1
+Beginning of the Hallway~
+~
+0 0 8362
+D2
+Junkies Haunt~
+Bead Curtain~
+1 0 8349
+D3
+Before the Pimps room~
+~
+0 0 8334
+S
+#8349
+The Junkies Haunt~
+As you enter this room, you are assaulted. Not by anybody, But by the Purple Haze that is filling the room. You can make out a few prone figures through the haze, and Someone is Mumbling to the strange music you can hear.
+You are becoming light headed and the haze is swirling and making strange shapes before your eyes. You better leave before you get hooked to it.
+~
+83 8 0
+D0
+Before the Junkies haunt~
+Bead Curtain~
+1 0 8348
+S
+#8350
+Even deeper into the Dead-end Alley~
+   You weren't just thinking it, it's true. You *ARE* being followed! They 
+are everwhere! They want your stuff! They can be anybody, even your closest 
+friend! Yes, you see now, your "friends" are about to jump you and take your 
+stuff! Better get them First. You get ahold of yourself. This alley is really 
+tripping you out, The walls seem to close in on all directions, and you are 
+becoming Dangerously paranoid from the Eyes you see watching you. Best leave 
+before you snap. 
+~
+83 1 1
+D1
+The Mugging~
+~
+0 0 8364
+D3
+Deep into the Dead-end alley~
+~
+0 0 8336
+S
+#8351
+Palace Courtyard~
+You are wandering around in the Palaces Courtyard. The King uses the courtyard as his personal Menagerie, and so the place is full of wandering beasties. You hear the squawks of several Parrotfish, the roars of some Lionfishes, and Seahorses Neighing.
+Unfortunately, the Animal keeper is off at the pub getting drunk, and so has missed the animals feeding times. The animals are Wandering around in the Courtyard looking for things to eat, and you Could count as such a thing.
+~
+83 0 1
+D1
+~
+~
+0 0 8365
+D3
+~
+~
+0 0 8337
+S
+#8352
+Grand Hall~
+   This is a Hall so grand that it leaves you in Awe. It seems that the best 
+mosaics have been inlaid into the floor, and the best painters in all the 
+realms have painted exquisite reliefs on the walls and ceiling. There is also 
+a glittering sand statue of King Stenos standing triumphantly over his slain 
+enemies. You guess it can only be held together by Magic of some sort. It's 
+eyes eerily follow you around, or could the statue be actually watching you? 
+There are other statues to the east. 
+~
+83 8 0
+D1
+Grand hall~
+~
+0 0 8366
+D2
+Grand Hall~
+~
+0 0 8353
+S
+#8353
+Grand Hall~
+   This is a Hall so grand that it leaves you in Awe. It seems that the best 
+mosaics have been inlaid into the floor, and the best painters in all the 
+realms have painted exquisite reliefs on the walls and ceiling. The throne 
+room it to the west, and there are statues to the North and south. 
+~
+83 8 0
+D0
+Statue of King Stenos~
+~
+0 0 8352
+D1
+Grand hall~
+~
+0 0 8367
+D2
+Statue of The Queen~
+~
+0 0 8354
+D3
+Opulent throne Room~
+~
+0 0 8339
+S
+#8354
+Grand Hall~
+   This is a Hall so grand that it leaves you in Awe. It seems that the best 
+mosaics have been inlaid into the floor, and the best painters in all the 
+realms have painted exquisite reliefs on the walls and ceiling. There is a 
+statue of Queen Spathis here, Made entirely out of marshmallow. The queen is 
+doing what she is always doing, Embroidering. Yet she looks so Happy. There 
+are statues to the east. 
+~
+83 8 0
+D0
+Grand Hall~
+~
+0 0 8353
+D1
+Grand hall~
+~
+0 0 8368
+S
+#8355
+Palace Courtyard~
+   You are wandering around in the Palaces Courtyard. The King uses the 
+courtyard as his personal Menagerie, and so the place is full of wandering 
+beasties. You hear the squawks of several Parrotfish, the roars of some 
+Lionfishes, and Seahorses Neighing. Unfortunately, the Animal keeper is off 
+at the pub getting drunk, and so has missed the animals feeding times. The 
+animals are Wandering around in the Courtyard looking for things to eat, and 
+you Could count as such a thing. 
+~
+83 0 1
+D1
+~
+~
+0 0 8369
+D3
+~
+~
+0 0 8341
+S
+#8356
+Along Sandcastle stretch~
+   You are walking along Sancastle stretch, so named for the Palace which is 
+to the north. A closer look at the wall of the palace courtyard shows that it 
+is indeed somehow made of Sand. Sandcastle stretch continues to the west and 
+east. 
+~
+83 0 1
+D1
+Along Sandcastle stretch.~
+~
+0 0 8370
+D3
+Along Sandcastle strecth.~
+~
+0 0 8342
+S
+#8357
+Along Seashell Lane~
+   You are walking along Seashell lane. To the south is the north wall of the 
+Monastary, over which chanting can be heard. To the east is the intersection 
+of Monastary row and Seashell lane. Seashell lane continues west and east. 
+~
+83 0 1
+D1
+Intersection of Seashell lane and Monastary row~
+~
+0 0 8371
+D3
+Along Seashell lane~
+~
+0 0 8343
+S
+#8358
+Monastary Soup Kitchen~
+   You have entered the Monastary's Soup Kitchen, where the less fortunate 
+come to get meals. There are monks behind a large buffet table, serving out 
+soup to thelarge line of poor Carpacians who need it. The Kitchen itself is 
+to the south, and wondrous smells are coming from it. 
+~
+83 24 0
+D2
+Monastary Kitchen~
+Swinging Door~
+1 0 8359
+D3
+Inside Monastary~
+~
+0 0 8344
+S
+#8359
+Monastary Kitchen~
+   This is the Monastary's Kitchen. Here is where the Monastary's Chef makes 
+meals for all the monks and the less fortunate people who come to the Soup 
+Kitchen. Unfortunately for you, the Chef and his Underlings have mistaken you 
+for today's meat delivery. They attack you immediately in order to Butcher 
+the Meat while it's still Fresh. 
+~
+83 8 0
+D0
+Monastary Soup Kitchen~
+Swinging Door~
+1 0 8358
+D2
+Monastary Pantry~
+Swinging Door~
+1 0 8360
+S
+#8360
+Monastary Pantry~
+   This is the Monastary's Pantry. Here is where all the ingredients for the 
+Meals are stored. There is all sorts of food all around. Seaweed is hanging 
+from drying pegs attached to the Rafters, Cheese sits ripening in the corner, 
+and vegetables abound. The Sous-chef is also here, and Unfortunately for you, 
+He has mistaken you for today'smeat delivery. He attacks you immediately in 
+order to Butcher the Meat while you're still Fresh. 
+~
+83 8 0
+D0
+Monastary Kitchen~
+Swinging Door~
+1 0 8359
+S
+#8361
+Dangerous dark area of Gangland.~
+   Oh, You've done it now. You stepped too far into Gang territory, and 
+they've come out to Show their HOSPITALity to you. In the form of large 
+spiked clubs. Monastary row continues through Gangland to the west and east. 
+~
+83 0 1
+D1
+Gangland before the Projects.~
+~
+0 0 8375
+D3
+Gangland Before the Monastary.~
+~
+0 0 8347
+S
+#8362
+Beginning of the Hallway~
+   You are standing at the beginning of the hallway that courses the entire 
+legnth of The Projects. Here it is dirty and vile, but it seems to get better 
+the further down the hallway you go. The Way out is to the east, the Hallway 
+continues through The Projects to the west, and the Death Trap is to the 
+south. 
+~
+83 8 0
+D1
+Inside the Projects~
+~
+0 0 8376
+D2
+The Death Trap~
+Neon Door~
+1 0 8363
+D3
+Before the Junkies Haunt~
+~
+0 0 8348
+S
+#8363
+The Death Trap~
+Upon entering this room, you are surprised to see that it is not, as you had assumed, a Death Trap, But a small and cozy Bar.
+Setsac the Bartender sits behing his bar, wiping away at a shotglass. One or two drunk patrons are sitting sobbing into their beer on their barstools. Whatever you want, Setsac will get it for you. Just ask.
+~
+83 24 0
+D0
+Beginning of th Hallway~
+Neon Door~
+1 0 8362
+S
+#8364
+Shadowed Part of Alley~
+   Looks like your fears of being attacked were well founded, for as soon as 
+you step into this Shadowy part of the Alley, five figurs step out from the 
+shadows. They are all holding small crossbows in your direction. The largest 
+one steps forward and announces "Gentlemen, We are pleased to announce that 
+*YOU* have been chosen to be the Recipients of a Large and Painful Beating if 
+you do not immediately hand over all your money to us, the Giddy Guys." "You 
+only have five seconds to decide, or we take it from you by force. Oh well, 
+Times up!" And with that they leap at you. 
+~
+83 1 1
+D1
+The Flower Garden~
+~
+0 0 8378
+D3
+Even deeper into The Dead-end alley~
+~
+0 0 8350
+S
+#8365
+Palace Courtyard~
+You are wandering around in the Palaces Courtyard. The King uses the courtyard as his personal Menagerie, and so the place is full of wandering beasties. You hear the squawks of several Parrotfish, the roars of some Lionfishes, and Seahorses Neighing.
+Unfortunately, the Animal keeper is off at the pub getting drunk, and so has missed the animals feeding times. The animals are Wandering around in the Courtyard looking for things to eat, and you Could count as such a thing.
+~
+83 0 1
+D1
+~
+~
+0 0 8379
+D3
+~
+~
+0 0 8351
+S
+#8366
+Grand Hall~
+   This is a Hall so grand that it leaves you in Awe. It seems that the best 
+mosaics have been inlaid into the floor, and the best painters in all the 
+realms have painted exquisite reliefs on the walls and ceiling. There is also 
+a Glittering statue of King stenos, carved from a single Huge Salt crystal. 
+It depicts the king in one of his More Explicit poses with a harem girl. It 
+is so explicit in fact, that your nose begins to bleed and you blush so hard 
+yur head nearly bursts. Boy is he.... Limber ... There are other statues to 
+the west. 
+~
+83 8 0
+D2
+Grand Hall~
+~
+0 0 8367
+D3
+Grand Hall~
+~
+0 0 8352
+S
+#8367
+Grand Hall~
+   This is a Hall so grand that it leaves you in Awe. It seems that the best 
+mosaics have been inlaid into the floor, and the best painters in all the 
+realms have painted exquisite reliefs on the walls and ceiling. The Palace 
+courtyard is through the Double door to the east, and there are statues to 
+the north and south. 
+~
+83 8 0
+D0
+Statue of King Stenos~
+~
+0 0 8366
+D1
+Palace Courtyard~
+Bronze double doors~
+1 0 8381
+D2
+Statue of the Prince~
+~
+0 0 8368
+D3
+Grand Hall~
+~
+0 0 8353
+S
+#8368
+Grand Hall~
+   This is a Hall so grand that it leaves you in Awe. It seems that the best 
+mosaics have been inlaid into the floor, and the best painters in all the 
+realms have painted exquisite reliefs on the walls and ceiling. There is a 
+glowing statue of Crown Prince Tsuriops here, made of a strange glowing 
+purple stone. The statue depicts him in a pose of almost Comical heroics. The 
+statue notices your peasant-self staring like a peasant at the Grandeur of 
+his Royal Majesty. It does not like the way your peasant eyes marr its 
+surface with your peasantness, so it climbs of its pedestal to whip your 
+peasant butt. There are statues to the west 
+~
+83 8 0
+D0
+Grand Hall~
+~
+0 0 8367
+D3
+Statue of the queen~
+~
+0 0 8354
+S
+#8369
+Palace Courtyard~
+   You are wandering around in the Palaces Courtyard. The King uses the 
+courtyard as his personal Menagerie, and so the place is full of wandering 
+beasties. You hear the squawks of several Parrotfish, the roars of some 
+Lionfishes, and Seahorses Neighing. Unfortunately, the Animal keeper is off 
+at the pub getting drunk, and so has missed the animals feeding times. The 
+animals are Wandering around in the Courtyard looking for things to eat, and 
+you Could count as such a thing. 
+~
+83 0 1
+D1
+~
+~
+0 0 8383
+D3
+~
+~
+0 0 8355
+S
+#8370
+Along Sandcastle stretch~
+   You are walking along Sancastle stretch, so named for the Palace which is 
+to the north. A closer look at the wall of the palace courtyard shows that it 
+is indeed somehow made of Sand. Sandcastle stretch continues to the west and 
+east. 
+~
+83 0 1
+D1
+Along Sandcastle stretch.~
+~
+0 0 8384
+D3
+Along Sandcastle strecth.~
+~
+0 0 8356
+S
+#8371
+Intersection of Seashell lane and Monastary row~
+   Here is the intersection of Seashell lane and Monastary row. Seashell lane 
+continues west and east, and Monastary row continues to the south through 
+Gangland. 
+~
+83 0 1
+D1
+Along Seashell lane~
+~
+0 0 8385
+D2
+Gangland~
+~
+0 0 8372
+D3
+Along Seashell lane~
+~
+0 0 8357
+S
+#8372
+Entrance to Gangland~
+   This is the entrance to the area of Carpacia know only as Gangland. The 
+Gang members and other scum of the city dwell here, so try not to stay too 
+long. There is a large portion of the Monastary wall covered in Grafitti 
+here. The intersection of Seashell lane and Monastary row is to the north, 
+while monastary row continues deeper into Gangland to the south. 
+~
+83 0 1
+D0
+Intersection of Seashell lane and Monastary row~
+~
+0 0 8371
+D2
+Deeper into Gangland.~
+~
+0 0 8373
+E
+dummy~
+This is a Dummy, please make me valid!!~
+E
+grafitti sign~
+There is Grafitti scrawled on the wall here, it reads:
+"Yo Honky, you has breached the Turf o' da Reds, and if you wanta stay Breathin', you betta Leave now, before we Ventilate you. You only get one warnin'. "
+~
+S
+#8373
+Deeper into Gangland.~
+   Stepping deeper into Gangland, you are amazed that you are still alive. 
+You also realize that if you continue Even deeper into Gangland, you won't be 
+alive for very much longer. Monastary row continues through Gangland to the 
+South and North. 
+~
+83 0 1
+D0
+Entrance to Gangland.~
+~
+0 0 8372
+D2
+Before an Abandoned Residence.~
+~
+0 0 8374
+S
+#8374
+Before An Abandoned Residence.~
+   You are really deep into Gangland now. So deep in fact, that If you were 
+caught, you would be the subject of many a tale told to the newest Gang 
+members about "Real Stoopid People". You are surprised to se that there is an 
+Abandoned Residence here. You can understand why the people Left their house, 
+but you wonder Why they would live here in the first place. Monastary row 
+continues through Gangland to the North and South. 
+~
+83 0 1
+D0
+Deeper into Gangland.~
+~
+0 0 8373
+D1
+Inside an Abandoned residence.~
+Broken door~
+1 0 8388
+D2
+Gangland Before "the Projects".~
+~
+0 0 8375
+S
+#8375
+Gangland Before the Projects.~
+   You are so deep into Gangland now, that if you were caught.... Well lets 
+just say Don't get caught. To the south of you is a Dank, Dirty, Smelly place 
+known only as "the Projects". It's where the People of Gangland live. The 
+entrance of "The Projects" is to the south, and Monastary Row continues 
+through Gangland to the North and West. 
+~
+83 0 1
+D0
+~
+~
+0 0 8374
+D2
+Entrance of "the Projects".~
+Arched Door~
+1 0 8376
+D3
+Dangerous Dark area of Gangland.~
+~
+0 0 8361
+S
+#8376
+Inside The Projects~
+   PHEEE-YEEEEWW!!!! Boy does it stink in here! is seems that the vagrants 
+have been using this not only as the doorway to their home, but as the 
+Latrine as well. There are things in the corners and all over the floor that 
+just makes you want to Puke. There are even some drunks asleep in their own 
+Vomit here. Monastary road is to the north, and the hallway continues to the 
+west. Pee Yew! 
+~
+83 8 0
+D0
+Gangland Before "the Projects"~
+Arched Door~
+1 0 8375
+D3
+Hallway in the Projects~
+~
+0 0 8362
+S
+#8377
+Guard post #3~
+   This is one of the four guard posts that form the corners of the town 
+square. It is sparsly decorated, with only one desk, and three chairs. In one 
+corner however, there are toilet facilities (a latrine), and it smells. 
+Perhaps that is why the guards are all out in the Town Square. 
+~
+83 512 0
+D1
+~
+~
+0 0 8391
+D2
+~
+Half-door~
+2 0 8378
+S
+#8378
+A small Garden~
+   You are amazed to find a small Garden growing at this end of the Dead-end 
+Alley. In this bright spot in an otherwise dark place, there is a small piece 
+of joy. There is a variety of Herbs and vegetables that look ready to be 
+picked. There is also a Half-door to the north that leads to Guard post #3, 
+perhaps this is the Guards little Hash-Stash? 
+~
+83 0 1
+D0
+Guard Post #3~
+Half-door~
+1 0 8377
+D3
+~
+~
+0 0 8364
+S
+#8379
+North Corner of Palace Courtyard~
+You are wandering around in the Palaces Courtyard. The King uses the courtyard as his personal Menagerie, and so the place is full of wandering beasties. You hear the squawks of several Parrotfish, the roars of some Lionfishes, and Seahorses Neighing.
+Unfortunately, the Animal keeper is off at the pub getting drunk, and so has missed the animals feeding times. The animals are Wandering around in the Courtyard looking for things to eat, and you Could count as such a thing.
+~
+83 0 1
+D2
+~
+~
+0 0 8380
+D3
+~
+~
+0 0 8365
+S
+#8380
+Palace Courtyard~
+You are wandering around in the Palaces Courtyard. The King uses the courtyard as his personal Menagerie, and so the place is full of wandering beasties. You hear the squawks of several Parrotfish, the roars of some Lionfishes, and Seahorses Neighing.
+Unfortunately, the Animal keeper is off at the pub getting drunk, and so has missed the animals feeding times. The animals are Wandering around in the Courtyard looking for things to eat, and you Could count as such a thing.
+~
+83 0 1
+D0
+~
+~
+0 0 8379
+D2
+~
+~
+0 0 8381
+S
+#8381
+The Palace Courtyard ~
+   Upon entering the palaces courtyards, you are struck with awe. The King 
+has converted the courtyards into a large Menagerie where the animals are 
+allowed to walk freely. There are a wide range of animals living in the 
+Menagerie, but they are all fish. There are Seahorses, Lion fishes, Porcupine 
+fish, Cowfishes, Elephant seals, you name it, and it's here. There is one 
+Hitch though. The Animal keeper has gone off to get drunk at the pub, and 
+missed the animals feeding times. They now wander the Menagerie eating each 
+other, and as it would happen, You if you are caught. The Palace proper is to 
+the west, Palace Boulevard is out the gates to the east. 
+~
+83 0 1
+D0
+~
+~
+0 0 8380
+D1
+~
+Great Gold Gates~
+2 1 8395
+D2
+~
+~
+0 0 8382
+D3
+~
+Bronze Double doors~
+1 0 8367
+S
+#8382
+Palace Courtyard~
+   You are wandering around in the Palaces Courtyard. The King uses the 
+courtyard as his personal Menagerie, and so the place is full of wandering 
+beasties. You hear the squawks of several Parrotfish, the roars of some 
+Lionfishes, and Seahorses Neighing. Unfortunately, the Animal keeper is off 
+at the pub getting drunk, and so has missed the animals feeding times. The 
+animals are Wandering around in the Courtyard looking for things to eat, and 
+you Could count as such a thing. 
+~
+83 0 1
+D0
+~
+~
+0 0 8381
+D2
+~
+~
+0 0 8383
+S
+#8383
+South Corner of Palace Courtyard~
+   You are wandering around in the Palaces Courtyard. The King uses the 
+courtyard as his personal Menagerie, and so the place is full of wandering 
+beasties. You hear the squawks of several Parrotfish, the roars of some 
+Lionfishes, and Seahorses Neighing. Unfortunately, the Animal keeper is off 
+at the pub getting drunk, and so has missed the animals feeding times. The 
+animals are Wandering around in the Courtyard looking for things to eat, and 
+you Could count as such a thing. 
+~
+83 0 1
+D0
+~
+~
+0 0 8382
+D3
+~
+~
+0 0 8369
+S
+#8384
+Along Sandcastle stretch~
+   You are walking along Sandcastle stretch, so named for the Palace to the 
+north. A closer look at the wall of the Palace courtyard shows that it is 
+indeed somehow made of Sand. The intersection of Palace boulevard and 
+Sandcastle stretch is to the east, Sandcastle strecth continues to the west. 
+~
+83 0 1
+D1
+Intersection of Palace Blvd. and Sandcastle stretch.~
+~
+0 0 8398
+D3
+Along Sandcastle strecth.~
+~
+0 0 8370
+S
+#8385
+Along Seashell Lane~
+   You are walking along Seashell lane. To the south are some Middle class 
+residences. To the west is the intersection of Seashell lane and Monastary 
+row, and to the east is the intersection of Seashell lane and Scaley chase. 
+Seashell lane continues east and west. 
+~
+83 0 1
+D1
+~
+~
+0 0 8399
+D3
+Intersection of Seashell lane and Monastary row~
+~
+0 0 8371
+S
+#8386
+Ye Olde Thwack-me Joke Emporium~
+   As you enter this establishment, you set off a Booby-trap. A large Sharp, 
+jagged, spear dripping with poison, Flies toward you so fast that you have no 
+means of escape.... Until it hits you and harmlessly bounces off as it is a 
+rubber spear. Ha ha ha. On your way to the strangely Slanted counter, you 
+step in some dogfish excrement, Ha ha ha, funny as that is; yand you have Ice 
+cold water dumped on your head, ha ha ha. Upon reaching the counter, the 
+Clownfish at the counter sprays ink in your face, ha ha ha, apologizes, 
+offers you his hanky which just happens to be coated in sneezing powder, ha 
+ha ha, and you then sit down on a cream pie he placed in your chair, ha ha. 
+You wonder how funny it would be for him If you fed him his own lower 
+intestines. Ha Ha ha. It would be a laugh riot for you to do so to him... 
+~
+83 24 0
+D1
+~
+~
+0 0 8400
+D2
+~
+~
+0 0 8387
+S
+#8387
+Clownfish's room~
+   This room confuses you as soon as you enter. All the furniture is on the 
+ceiling, the window looks out into the bedroom that you are in, which looks 
+out to the bedroom you are in, etc, etc, etc, and there are fish swimming 
+through the air. Also the exit you just came through has disappeared, and in 
+it's place are 10 new ones, all leading to different places. Ha ha ha. It 
+seems that this is the biggest joke of them all. 
+~
+83 25 0
+D0
+~
+~
+0 0 8309
+D1
+~
+~
+0 0 8330
+D2
+~
+~
+0 0 8483
+D3
+~
+~
+0 0 8497
+D4
+~
+~
+0 0 8431
+D5
+~
+~
+0 0 8340
+D6
+~
+~
+0 0 8363
+D7
+~
+~
+0 0 8378
+D8
+~
+~
+0 0 8395
+D9
+~
+~
+0 0 8429
+S
+#8388
+Inside an Abandoned Residence~
+   You stand inside what used to be a very nice house. It is now in terrible 
+disrepair. Thre is a tattered old couch upon which sleeps an old wino. Trash 
+is strewn all about the place, but you can still see what the house must have 
+looked like inhabited. There is a sagging set of stairs up to the bedroom 
+area. 
+~
+83 8 0
+D3
+Before an Abandoned Residence~
+Broken door~
+1 0 8374
+D4
+Second floor~
+~
+0 0 8389
+S
+#8389
+Second Floor~
+   You climb the stairs to the second floor, only to find that the Floor has 
+rotted. It gives way the instant you step on it, Plunging you down Behind the 
+stairs. The room is barren, except for pieces of timber and lots of termites. 
+T The Floor you fell from is much too high for you to climb back up, and 
+there re no other exits that you can see. Looks like you're stuck in here. 
+~
+83 9 0
+S
+#8390
+Guard post #1~
+   This is one of the four guard posts that form the corners of the town 
+square. It is sparsly decorated, with only one desk, and three chairs. In one 
+corner however, there are toilet facilities (a latrine), and it smells. 
+Perhaps that is why the guards are all out in the Town Square. 
+~
+83 512 0
+D1
+~
+~
+0 0 8404
+D2
+~
+~
+0 0 8391
+S
+#8391
+Town Square~
+   Welcome to the Town Square. This is the exact center of Carpacia, and as 
+such each of the main streets radiate from it. Scaley chase is north, the 
+Concourse is east, Palace boulevard is south, and the Brick wall that is the 
+Dead end alley is west. Much is happening here in the Square. There are 
+street vendors selling whatever they want to, buskers trying to make a few 
+gold pieces performing tricks, a few streetwalkers, many guards Guarding 
+things, and the general day to day bustle. But beware, Pickpocets roam the 
+busy square as well. 
+~
+83 0 1
+D0
+~
+~
+0 0 8390
+D1
+~
+~
+0 0 8405
+D2
+~
+~
+0 0 8392
+D3
+~
+~
+0 0 8377
+S
+#8392
+Town Square~
+   Welcome to the Town Square. This is the exact center of Carpacia, and as 
+such each of the main streets radiate from it. Scaley chase is north, the 
+Concourse is east, Palace boulevard is south, and the Brick wall that is the 
+Dead end alley is west. Much is happening here in the Square. There are 
+street vendors selling whatever they want to, buskers trying to make a few 
+gold pieces performing tricks, a few streetwalkers, many guards Guarding 
+things, and the general day to day bustle. But beware, Pickpocets roam the 
+busy square as well. 
+~
+83 0 1
+D0
+~
+~
+0 0 8391
+D1
+~
+~
+0 0 8406
+D2
+~
+~
+0 0 8393
+S
+#8393
+Northern end of Palace boulevard~
+   You are walking along Palace Boulevard, so named for the palace of King 
+Stenos, which is to the west. Upon having a closer look at the walls, you are 
+amazed to see that they are in fact made entirely out of sand. You can also 
+hear many Strange animal calls coming from behind those very walls, and you 
+can but wonder what they could be coming from. 
+~
+83 0 1
+D0
+~
+~
+0 0 8392
+D1
+~
+~
+0 0 8407
+D2
+~
+~
+0 0 8394
+S
+#8394
+Intersection of Market lane and Palace Boulevard~
+   You are walking alon Palace Boulevard, so named for the Palace to the 
+west. upon closer examination, you are amazed to see that the walls are 
+indeed somehow made out of Sand. To the east is the entrance to the bustling 
+market area of Carpacia. Many sounds and smells waft from the area, causing a 
+great sensation of curiosity within you. Maybe you should have a look see 
+what they have to offer. Market lane curves to the east, Palace boulevard 
+continues both North and south. 
+~
+83 0 1
+D0
+~
+~
+0 0 8393
+D1
+~
+~
+0 0 8408
+D2
+~
+~
+0 0 8395
+S
+#8395
+Before the Palace Gates~
+   You stand before the Grand gates of the Palace. The gates catch your eye 
+immediately, as they seem to be made entirely out of gold. Beyond the gates 
+You can see the minarets of the palace and the great Bronze doors of the 
+Palace proper. You can hear many different animal sounds coming from the 
+courtyards of the Palace, and wonder what they could be. You try and ask the 
+Gate fguard, but in true Gate guard fashion, he Ignores you. The palace gates 
+are to the west, and the Weapon Shop is to the east. 
+~
+83 0 1
+D0
+~
+~
+0 0 8394
+D1
+~
+~
+0 0 8409
+D2
+~
+~
+0 0 8396
+D3
+~
+Great Gold Gates~
+2 1 8381
+S
+#8396
+Along Palace Boulevard~
+   You are walking along Palace Boulevard, so named for the palace of King 
+Stenos, which is to the west. Upon having a closer look at the walls, you are 
+amazed to see that they are in fact made entirely out of sand. You can also 
+hear many Strange animal calls coming from behind those very walls, and you 
+can but wonder what they could be coming from. 
+~
+83 0 1
+D0
+~
+~
+0 0 8395
+D2
+~
+~
+0 0 8397
+S
+#8397
+Southern End of Palace boulevard~
+   You are walking along Palace Boulevard, so named for the palace of King 
+Stenos, which is to the west. Upon having a closer look at the walls, you are 
+amazed to see that they are in fact made entirely out of sand. You can also 
+hear many Strange animal calls coming from behind those very walls, and you 
+can but wonder what they could be coming from. 
+~
+83 0 1
+D0
+~
+~
+0 0 8396
+D2
+~
+~
+0 0 8398
+S
+#8398
+Intersection of Palace boulevard and Sandcastle stretch.~
+   You stand at the intersection of Sandcastle stretch and Palace boulevard. 
+Palace boulevard continues north, while Sandcastle stretch continues east and 
+west. 
+~
+83 0 1
+D0
+South end of Palace Blvd.~
+~
+0 0 8397
+D1
+Along Sandcastle stretch.~
+~
+0 0 8412
+D3
+Along Sandcastle stretch.~
+~
+0 0 8384
+S
+#8399
+Intersection of Seashell lane and Scaley Chase.~
+   You stand at the intersection of Seashell lane, and Scaley chase. Seashell 
+lane follows the north wall both east and west, and Scaley chase leads south 
+to the Town square. 
+~
+83 0 1
+D1
+~
+~
+0 0 8413
+D2
+~
+~
+0 0 8400
+D3
+~
+~
+0 0 8385
+S
+#8400
+Before the Executioners Block~
+   This is the entrance to Scaley chase, you are surprised by something that 
+you would not have suspected to see here in Carpacia. There is an 
+Executioners block to the east, where the people of Carpacia can Cheer the 
+execution of known criminals. Something else that blows your mind is that the 
+"Ye olde Thwack-me Joke Emporium" is to the west, with an excellent view of 
+the execution area. AS funny as that is. 
+~
+83 0 1
+D0
+~
+~
+0 0 8399
+D1
+~
+~
+0 0 8414
+D2
+~
+~
+0 0 8401
+D3
+~
+~
+0 0 8386
+S
+#8401
+Along Scaley chase~
+   You are walking along the street known as Scaley Chase. No one knows why 
+it is called that, it just is. It is a normal street, nothing interesting 
+ever happens here. If you continue to the south, you will enter the town 
+square, filled with vendors and the like. 
+~
+83 0 1
+D0
+~
+~
+0 0 8400
+D2
+~
+~
+0 0 8402
+S
+#8402
+Along Scaley chase~
+   You are walking along the street known as Scaley Chase. No one knows why 
+it is called that, it just is. It is a normal street, nothing interesting 
+ever happens here. If you continue to the south, you will enter the town 
+square, filled with vendors and the like. 
+~
+83 0 1
+D0
+~
+~
+0 0 8401
+D2
+~
+~
+0 0 8403
+S
+#8403
+Before the Communal Pond~
+   Walking along Scaley chase, you now stand in front of Carpacia's Communal 
+Pond. The Pond is a place where all Carpacians, no matter of their financial 
+standing or class, come to bathe, swim, and generally get wet. The Fishmen 
+and Fishwomen of Carpacia have no qualms about their naked bodies, but as 
+there are sometimes visitors, it is suggested that the nudity and Open mating 
+be kept to the Communal pond. They do not like Naked outsiders, however. 
+~
+83 0 1
+D0
+~
+~
+0 0 8402
+D1
+~
+~
+0 0 8417
+D2
+~
+~
+0 0 8404
+S
+#8404
+Before Guard post #1~
+   You have come to the end of Scaley chase as it terminates to the south in 
+the Town Square. What a bland and featureless street. Guard post #1 is to the 
+east, and as such there are a few guards wandering in and out of its doors. 
+What a Bland street. 
+~
+83 0 1
+D0
+~
+~
+0 0 8403
+D1
+~
+~
+0 0 8390
+D2
+~
+~
+0 0 8405
+S
+#8405
+Town Square~
+Welcome to the Town Square. This is the exact center of Carpacia, and as such each of the main streets radiate from it. Scaley chase is north, the Concourse is east, Palace boulevard is south, and the Brick wall that is the Dead end alley is west.
+Much is happening here in the Square. There are street vendors selling whatever they want to, buskers trying to make a few gold pieces performing tricks, a few streetwalkers, many guards Guarding things, and the general day to day bustle.
+But beware, Pickpocets roam the busy square as well.
+~
+83 0 1
+D0
+~
+~
+0 0 8404
+D1
+~
+~
+0 0 8419
+D2
+~
+~
+0 0 8406
+D3
+~
+~
+0 0 8391
+S
+#8406
+Town Square~
+   Welcome to the Town Square. This is the exact center of Carpacia, and as 
+such each of the main streets radiate from it. Scaley chase is north, the 
+Concourse is east, Palace boulevard is south, and the Brick wall that is the 
+Dead end alley is west. Much is happening here in the Square. There are 
+street vendors selling whatever they want to, buskers trying to make a few 
+gold pieces performing tricks, a few streetwalkers, many guards Guarding 
+things, and the general day to day bustle. But beware, Pickpocets roam the 
+busy square as well. 
+~
+83 0 1
+D0
+~
+~
+0 0 8405
+D1
+~
+~
+0 0 8420
+D2
+~
+~
+0 0 8407
+D3
+~
+~
+0 0 8392
+S
+#8407
+Guard post #4~
+   This is one of the four guard posts that form the corners of the town 
+square. It is sparsly decorated, with only one desk, and three chairs. In one 
+corner however, there are toilet facilities (a latrine), and it smells. 
+Perhaps that is why the guards are all out in the Town Square. 
+~
+83 512 0
+D0
+~
+~
+0 0 8406
+D1
+~
+~
+0 0 8421
+D2
+~
+~
+0 0 8408
+D3
+~
+~
+0 0 8393
+S
+#8408
+Market Lane~
+   This is the entrance to Market lane. Market lane is the market area of 
+Carpacia, with many shops and such lining it's winding street. Guard posts #2 
+and #4 open out onto Market lane, to keep the Thieves and such miscreants at 
+Bay. Have a nice time shopping, but keep all receipts, Just in case... 
+~
+83 0 1
+D0
+~
+~
+0 0 8407
+D1
+~
+~
+0 0 8422
+D3
+~
+~
+0 0 8394
+S
+#8414
+Unfinished executioners Block~
+   You are standing inside a dummy room, which should get real. 
+~
+83 0 0
+D0
+~
+~
+0 0 8413
+D1
+~
+Guarded Door~
+1 0 8428
+D3
+~
+~
+0 0 8400
+S
+#8420
+Guard post #2~
+   This is one of the four guard posts that form the corners of the town 
+square. It is sparsly decorated, with only one desk, and three chairs. In one 
+corner however, there are toilet facilities (a latrine), and it smells. 
+Perhaps that is why the guards are all out in the Town Square. 
+~
+83 512 0
+D0
+~
+~
+0 0 8419
+D1
+~
+~
+0 0 8434
+D2
+~
+~
+0 0 8421
+D3
+~
+~
+0 0 8406
+S
+#99999
+$~

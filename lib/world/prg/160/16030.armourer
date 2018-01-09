@@ -1,0 +1,8 @@
+>greet_prog 3~
+  say It's free to try the stuff on!
+~
+>rand_prog 2~
+ say You break it, you bought it.
+~
+|
+

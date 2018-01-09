@@ -1,0 +1,235 @@
+#22
+Mahn-Tor~
+2299 40 2 32
+M 0  2231     1  2299            Belrak
+E 1  2230    50     2                    right finger a carved wooden ring
+E 1  2231    50    17                    held a severed minotaur horn
+E 1  2232    40    13                    waist a thick leather belt
+G 1  2233    45    -1                    give a blood red stone
+D 0  2299     1     2            Belrak's Green Room door east
+M 0  2223     1  2295            the minotaur butler
+M 0  2229     1  2290            Sumaron
+E 1  2220    30    12                    about a heavy woolen robe
+E 1  2222    45    17                    held a manual of healing arts
+E 1  2223    25    16                    wield a huge mithril mace
+E 1  2221    35     3                    neck 1 an ^Wivory^n broach
+E 1  2224    40     4                    neck 2 a ^Ygolden^n holy symbol
+D 0  2290     3     2            Sumaron's Sanctum door west
+M 0  2233     1  2296            Mahn-Tor
+E 1  2243    85     1                    left finger a studded ring
+E 1  2240    70    12                    about a major globe of invulnerability
+E 1  2241    60     5                    body a suit of minotaur chainmail
+E 1  2244    50     6                    head a horned minotaur helm
+E 1  2242    40    11                    shield a spiked buckler
+E 1  2245    20    16                    wield Mahn-Tor's Great Axe 'Death'
+M 0  2211     1  2250            the ogre chieftain
+E 1  2291    50    16                    wield a massive club
+E 1  2290    10     9                    hands gauntlets of ogre power
+M 0  2227     1  2274            Tyrgoth
+E 1  2210    50     6                    head a ^Ygolden^n helm and visor
+E 1  2211    50     5                    body a gilded gold breast plate
+E 1  2212    40     4                    neck 2 a billowing white cape
+E 1  2213    65    11                    shield a huge tower shield
+E 1  2214    45    16                    wield a hefty mace of gold
+D 0  2274     1     2            Tyrgoth's Inner Sanctum door east
+M 0  2230     1  2294            Nasturn
+E 1  2225    60     1                    left finger a thick ^wmar^n^Wble^n ring
+E 1  2226    40    15                    right wrist a thick ^Wmar^n^wble^n bracelet
+E 1  2227    40     8                    feet boots of striding
+E 1  2228    65    12                    about an icy white cloak
+E 1  2229    42    16                    wield the ice staff, 'Frigid'
+D 0  2294     3     2            Nasturn's Humble Abode door west
+M 0  2226     1  2273            Darkoth
+E 1  2205    50    12                    about an ebony cloak
+E 1  2206    50     4                    neck 2 iron collar
+E 1  2207    35    15                    right wrist a pair of spiked gauntlets
+E 1  2208    65    11                    shield a dark shield
+E 1  2209    45    16                    wield a jagged black shortsword
+D 0  2273     1     2            Darkoth's Dark Study door east
+M 0  2228     1  2291            Amyrok
+E 1  2215    40     6                    head a pair of wire rimmed spectacles
+E 1  2217    70    12                    about a shimmering globe
+E 1  2219    35    13                    waist a girdle of many pouches
+E 1  2216    35     2                    right finger a banded ring
+E 1  2218    65    16                    wield a gnarled staff
+D 0  2291     3     2            Amyrok's Arcane Study door west
+M 0  2225     1  2272            Gorak
+E 1  2202    40     7                    legs a pair of chain minotaur greaves
+E 1  2203    40    10                    arms a pair of chain minotaur vambraces
+E 1  2200    46     9                    hands a pair of minotaur combat gloves
+E 1  2201    50     5                    body a suit of spiked garde armor
+E 1  2204    55    16                    wield a short metal rod
+D 0  2272     1     2            Gorak's Training Room door east
+M 0  2232     1  2298            Dorgar
+E 1  2236    30     6                    head a black leather hood
+E 1  2237    20    10                    arms a pair of spiked leather sleeves
+E 1  2238    25     7                    legs a pair of brown leather pants
+D 0  2298     3     2            Dorgar's Dismal Domicile door west
+D 0  2297     1     2            The end of the guarded hall door east
+D 0  2297     3     2            The end of the guarded hall door west
+M 0  2200     1  2207            the dark ethereal knight
+E 1  2246    30     5                    body a suit of black-furred platemail
+E 1  2247    10     6                    head a skullhelm
+E 1  2248     5    16                    wield a black greatsword
+M 0  2201     1  2214            the old treant
+M 0  2202     1  2216            the cave dweller
+M 0  2203     4  2211            the rock toad
+M 0  2203     4  2212            the rock toad
+M 0  2203     4  2213            the rock toad
+M 0  2203     4  2219            the rock toad
+M 0  2204     1  2230            the weeping willow
+G 1  2249    20    -1                    give a willow branch
+M 0  2205     3  2232            the mistling
+M 0  2205     3  2237            the mistling
+M 0  2205     3  2233            the mistling
+M 0  2206     1  2236            the swamp wraith
+M 0  2207     5  2246            the ogre villager
+E 1  2285    99    13                    waist a belt pouch
+M 0  2208     4  2246            the ogre warrior
+E 1  2286    99    16                    wield an ogre spear
+M 0  2207     5  2243            the ogre villager
+E 1  2285    99    13                    waist a belt pouch
+M 0  2207     5  2245            the ogre villager
+M 0  2207     5  2248            the ogre villager
+M 0  2208     4  2248            the ogre warrior
+E 1  2286    99    16                    wield an ogre spear
+M 0  2209     4  2248            the ogre guard
+E 1  2287    99    16                    wield an ogre war club
+M 0  2207     5  2244            the ogre villager
+M 0  2208     4  2247            the ogre warrior
+E 1  2286    99    16                    wield an ogre spear
+M 0  2208     4  2242            the ogre warrior
+E 1  2286    99    16                    wield an ogre spear
+M 0  2209     4  2242            the ogre guard
+E 1  2287    99    16                    wield an ogre war club
+M 0  2209     4  2241            the ogre guard
+E 1  2287    99    16                    wield an ogre war club
+M 0  2209     4  2241            the ogre guard
+M 0  2210     1  2249            the ogre shaman
+E 1  2288    30    12                    about a bearskin cloak
+E 1  2289    20     6                    head a pair of feathered earrings
+M 0  2212     3  2251            the plains barbarian
+E 1  2292    60     4                    neck 2 a thick fur cape
+E 1  2293    50     5                    body a fur lined tunic
+E 1  2260    20     8                    feet a pair of fur lined boots
+M 0  2212     3  2254            the plains barbarian
+E 1  2292    60     4                    neck 2 a thick fur cape
+E 1  2293    50     5                    body a fur lined tunic
+E 1  2260    20     8                    feet a pair of fur lined boots
+M 0  2214     3  2254            the ice worm
+M 0  2212     3  2259            the plains barbarian
+E 1  2292    60     4                    neck 2 a thick fur cape
+E 1  2293    50     5                    body a fur lined tunic
+E 1  2260    20     8                    feet a pair of fur lined boots
+M 0  2213     3  2259            the white yeti
+E 1  2261    30    12                    about the white pelt of a yeti
+M 0  2213     3  2257            the white yeti
+E 1  2261    30    12                    about the white pelt of a yeti
+M 0  2213     3  2255            the white yeti
+E 1  2261    30    12                    about the white pelt of a yeti
+M 0  2214     3  2252            the ice worm
+M 0  2214     3  2256            the ice worm
+M 0  2215     5  2263            the minotaur citizen
+E 1  2262    40    16                    wield a curved shortsword
+M 0  2215     5  2267            the minotaur citizen
+E 1  2262    40    16                    wield a curved shortsword
+M 0  2217     3  2267            the minotaur warrior
+E 1  2266    50     5                    body a steel breast plate
+E 1  2267    50     6                    head a steel helm
+E 1  2268    40    16                    wield a huge halberd
+M 0  2215     5  2265            the minotaur citizen
+E 1  2262    40    16                    wield a curved shortsword
+M 0  2215     5  2264            the minotaur citizen
+E 1  2262    40    16                    wield a curved shortsword
+M 0  2215     5  2270            the minotaur citizen
+E 1  2262    40    16                    wield a curved shortsword
+M 0  2216     3  2268            the minotaur guard
+E 1  2263    50    10                    arms a pair of steel vambraces
+E 1  2264    50     7                    legs a pair of steel greaves
+E 1  2265    20    16                    wield a battle axe
+M 0  2216     3  2266            the minotaur guard
+E 1  2263    50    10                    arms a pair of steel vambraces
+E 1  2264    50     7                    legs a pair of steel greaves
+E 1  2265    20    16                    wield a battle axe
+M 0  2216     3  2262            the minotaur guard
+E 1  2263    50    10                    arms a pair of steel vambraces
+E 1  2264    50     7                    legs a pair of steel greaves
+E 1  2265    20    16                    wield a battle axe
+D 0  2262     2     1            Before the Gates of Mahn-Tor door south
+M 0  2217     3  2276            the minotaur warrior
+E 1  2266    50     5                    body a steel breast plate
+E 1  2267    50     6                    head a steel helm
+E 1  2268    40    16                    wield a huge halberd
+M 0  2217     3  2278            the minotaur warrior
+E 1  2266    50     5                    body a steel breast plate
+E 1  2267    50     6                    head a steel helm
+E 1  2268    40    16                    wield a huge halberd
+M 0  2218     1  2277            the minotaur gatekeeper
+E 1  2250   101    17                    held the keep key
+D 0  2277     1     2            Before the Keep of Mahn-Tor door east
+M 0  2219     2  2280            the High Minotaur Guard
+E 1  2269    50     6                    head a ^bblue^n steel helm and visor
+E 1  2270    50     7                    legs a pair of ^bblue^n steel greaves
+E 1  2271    50    10                    arms a pair of ^bblue^n steel vambraces
+E 1  2266    50     5                    body a steel breast plate
+E 1  2272    40    16                    wield a two-handed sword
+M 0  2219     2  2279            the High Minotaur Guard
+E 1  2269    50     6                    head a ^bblue^n steel helm and visor
+E 1  2270    50     7                    legs a pair of ^bblue^n steel greaves
+E 1  2271    50    10                    arms a pair of ^bblue^n steel vambraces
+E 1  2266    50     5                    body a steel breast plate
+E 1  2272    40    16                    wield a two-handed sword
+D 0  2279     3     2            The Entryway to the Keep of Mahn-Tor door west
+M 0  2220     2  2283            the Royal Minotaur Guard
+E 1  2273    40     6                    head a ^Rred^n steel helm and visor
+E 1  2274    40     7                    legs a pair of ^Rred^n steel greaves
+E 1  2275    40    10                    arms a pair of ^Rred^n steel vambraces
+E 1  2266    40     5                    body a steel breast plate
+E 1  2276    40    16                    wield a minotaur glaive
+M 0  2220     2  2282            the Royal Minotaur Guard
+E 1  2273    40     6                    head a ^Rred^n steel helm and visor
+E 1  2274    40     7                    legs a pair of ^Rred^n steel greaves
+E 1  2275    40    10                    arms a pair of ^Rred^n steel vambraces
+E 1  2266    40     5                    body a steel breast plate
+E 1  2276    40    16                    wield a minotaur glaive
+M 0  2221     2  2285            the Elite Minotaur Guard
+E 1  2277    40     6                    head a ^rcrimson^n steel helm and visor
+E 1  2278    40     7                    legs a pair of ^rcrimson^n steel greaves
+E 1  2279    40    10                    arms a pair of ^rcrimson^n steel vambraces
+E 1  2266    40     5                    body a steel breast plate
+E 1  2280    40    16                    wield a huge morningstar
+M 0  2221     2  2285            the Elite Minotaur Guard
+E 1  2259   101    17                    held a runed key
+E 1  2277    40     6                    head a ^rcrimson^n steel helm and visor
+E 1  2278    40     7                    legs a pair of ^rcrimson^n steel greaves
+E 1  2279    40    10                    arms a pair of ^rcrimson^n steel vambraces
+E 1  2266    40     5                    body a steel breast plate
+E 1  2280    40    16                    wield a huge morningstar
+E 1  2259   101    17                    held a runed key
+D 0  2285     1     2            The secret hallway door east
+M 0  2222     5  2293            the harem girl
+M 0  2222     5  2293            the harem girl
+M 0  2222     5  2293            the harem girl
+M 0  2222     5  2293            the harem girl
+M 0  2222     5  2293            the harem girl
+M 0  2224     1  2287            the Minotaur Ring-Keeper
+E 1  2282   101    13                    waist a multi-colored key ring
+P 1  2251   101  2282                    put a red key in a multi-colored key ring
+P 1  2252   101  2282                    put an indigo key in a multi-colored key ring
+P 1  2253   101  2282                    put a white key in a multi-colored key ring
+P 1  2254   101  2282                    put a brown key in a multi-colored key ring
+P 1  2255   101  2282                    put a yellow key in a multi-colored key ring
+P 1  2256   101  2282                    put a maroon key in a multi-colored key ring
+P 1  2257   101  2282                    put a green key in a multi-colored key ring
+P 1  2258   101  2282                    put a grey key in a multi-colored key ring
+E 1  2283    15    16                    wield a huge wooden maul
+D 0  2286     3     2            Entry to the Royal Chambers door west
+D 0  2288     1     2            The guarded hall door east
+D 0  2288     3     2            The guarded hall door west
+D 0  2289     1     2            The guarded hall door east
+D 0  2289     3     2            The guarded hall door west
+D 0  2292     1     2            The guarded hall door east
+D 0  2292     3     2            The guarded hall door west
+S
+#99999
+$~

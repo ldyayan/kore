@@ -1,0 +1,83 @@
+#1100
+rat~
+a rat~
+You see a rat here.
+~
+You see a large black rat, with deep red eyes. There is
+blood dripping from the corner if it's mouth.
+~
+140 1024 -250 S
+10 20 10 1d1+0 1d1+0
+2000 0
+8 8 0 4
+#1101
+skeleton~
+a skeleton~
+You see a skeleton here.
+~
+You see a bunch of bones made into a skeleton. You can
+still see some of the tissues attached to the bones.
+~
+8 1024 -300 S
+14 20 10 1d1+0 1d1+0
+1000 0
+8 8 0
+#1102
+ghoul~
+a ghoul~
+You see a ghoul here.
+~
+You see an evil spirit which plunders graves and
+feeds on corpses.
+~
+12 1536 -500 S
+16 20 10 1d1+0 1d1+0
+1000 0
+8 8 0 4
+#1103
+shadow~
+a shadow~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+67592 66560 -300 S
+17 20 10 1d1+0 1d1+0
+1000 0
+8 8 0
+#1104
+wight~
+a wight~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 -500 S
+18 20 10 1d1+0 1d1+0
+1000 0
+8 8 0
+#1105
+spectre~
+a spectre~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 -500 S
+19 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#1106
+ghost~
+a ghost~
+There is a ghost floating here.
+~
+You see a ghost floating in front of you. From the looks of him
+he might be the ghost of the unknown warrior.
+~
+74 4718592 -500 S
+20 20 10 1d1+0 1d1+0
+1000 0
+8 8 1
+#99999
+$~

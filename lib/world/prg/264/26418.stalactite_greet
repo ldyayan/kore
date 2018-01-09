@@ -1,0 +1,45 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      mptrigger $n stalactite-story
+    endif
+  endif
+~
+>script_prog stalactite-story~
+  #
+@
+  mpecho You quickly round a corner and see a wall right in front of you!
+@
+  if inroom($n) == here
+    mpecho You try to stop short before you run right into the dead end!
+    mpecho WHAM!  You slam into the wall and knock the wind out of yourself.
+    mppose $n stun
+  else
+    mpstopscript
+  endif
+@
+@
+  mpsilent mpcallmagic 'dispel sanc' $n
+@
+@
+  mpsilent wake $n
+@
+  mpecho You lay on the ground for several moments trying to catch your breath.
+@
+  mpecho You look up and see a stalactite swaying and shaking.
+@
+  if inroom($n) == here
+    mpecho You quickly try to jump to your feet but it is too late.
+    mpecho The stalactite falls straight and true, impales you through your abdomen and stakes you to the floor.
+    mpdamage $n 450
+    mpmload 26417
+    mpoload 26451
+    mpsilent drop stalactite
+    mpgoto cleaner
+    mpstopscript 
+  else
+    mpstopscript
+  endif
+~
+|

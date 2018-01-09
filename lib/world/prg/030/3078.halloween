@@ -1,0 +1,18 @@
+>rand_prog 2~
+ if inroom($r) == here
+  mpecho A strong wind whips around you!
+endif
+~
+
+>rand_prog 2~
+ if inroom($r) == here
+  mpecho A large bird watches your every move, then fades away!
+endif
+~
+
+>rand_prog 2~
+ if inroom($r) == here
+  mpecho A few leaves blow about. 
+endif
+~
+|

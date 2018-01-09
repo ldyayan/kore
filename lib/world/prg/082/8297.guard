@@ -1,0 +1,28 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    grovel zirnozz
+  else
+    if race($n) == drow
+      say Wha!?
+      say Begone, drow intruder!
+      mpkill $n
+    endif
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    if race($r) == drow
+      switch $r
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if rand(50)
+      bash $r
+    else
+      trip $r
+    endif
+  endif
+~
+|

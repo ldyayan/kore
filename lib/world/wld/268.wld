@@ -1,0 +1,123 @@
+#26800
+Chamber of the Knight~
+  A hooded fies out of the shadows and slowly examines you, and then
+sits down again.  Behind it lies an opening followed by a rather long corridor
+which, as far as you can tell, doesn't seem to end.  Strange snarls, along 
+with an occasional scream, eminate from within the depths of the corridor, not
+only causing your curiousity to become interested, but also giving you a sense
+of death and destruction.  The arch that was to your south has now been 
+replaced by a wall of solid granite, making it apparent that there is only
+one way out from here.
+~
+268 41 0
+S
+#26801
+Chamber of Arches~
+  Five arches, eached inscribed with a different symbol at the top, sit in
+the northern wall, giving exit to five different hallways.  Just inside of
+each arch you can see a figure, but their is not enough light to tell what
+exactly they are at this distance.  Outside of the five arches the only exit
+is to the south, through a dark hallway towards a small chamber.
+~
+268 40 1
+D0
+~
+~
+0 0 26800
+D2
+~
+~
+0 0 26802
+S
+#26802
+Dark Hallway~
+  Each step you take seems to be incredibly loud as you walk about the dim
+expanse of the hallway.  Only two candles hang from either wall of the
+corridor as it reaches north to a larger chamber, and south towards a 
+circular room, causing you to walk slowly, lest you miss something in the
+shadows and fall.  No sound whatsoever comes to your ears, except for your
+own footsteps, giving you a chilling sense of desolation and solitude.
+~
+268 0 1
+D0
+~
+~
+0 0 26801
+D2
+~
+~
+0 0 26803
+S
+#26803
+Entrance Chamber~
+  Small candles flicker gently from the walls, lighting the circular room
+with an eerie glow.  The walls are made from solid granite, rising up from
+the floor to peak at the mid-point of the cieling.  A lone hall opens up
+behind an obsidian arch to the north, providing the only exit from the quiet
+solitude of this room.
+~
+268 60 0
+D0
+~
+~
+0 0 26802
+S
+#26804
+Ironsmith's Shop~
+  Smoke combined with sulfur permeate the shop of the ironsmith, letting you
+know that he makes his own wares, so you don't have to worry about quality.
+His apprentice stands behind a wooden counter polishing a new breastplate,
+but as you walk in, he sets down the metal and offers to show you any of the
+items in the shop.  The only exit out of the shop is east, back onto the main
+village road.
+~
+268 8 0
+D1
+~
+~
+0 0 26802
+S
+#26805
+Wooden House~
+  A small table sits in the middle of this one room home, creating the central
+place where the family who lives here meets, eats, and sleeps.  As you walk
+in to the house, the family inside smile at you, and offer you some bread at
+their humble table.
+~
+268 8 0
+D1
+Wood Door
+~
+door~
+1 0 26801
+S
+#26806
+Wooden House~
+  The sweet smell of fresh baking bread nearly makes you drool as you enter
+the home of this humble family.  Two small children run about the room as
+the mother stands at a wood oven and bakes fresh bread for their dinner.
+The only exit out of this warm home is through a wood door to the west.
+~
+268 8 0
+D3
+Wood Door
+~
+door~
+1 0 26801
+S
+#26807
+Wooden House~
+  A warm fireplace sits in the east wall, sending delightful heat down through
+your body.  A man dressed in the simple clothing of peasants, notices you and
+beckons you to come join him by the fire and smoke from his pipe.  A wooden
+door leads out of the room to the west, and back to the main village road.
+~
+268 8 0
+D3
+Wood Door
+~
+door~
+1 0 26802
+S
+#99999
+$~

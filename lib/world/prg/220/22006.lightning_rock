@@ -1,0 +1,10 @@
+>greet_prog 100~
+  if ispc($n)
+   mpecho A bolt of lightning strikes the deadly blackened rock!
+   mpasound The mists glow with a chalky white brilliance!
+   mpdamage all 10d10+15
+   mpecho A pulse of electricty surges through the water.  You are stunned!
+   mpasound A tongue of light darts forward then recedes.
+  endif
+~
+|

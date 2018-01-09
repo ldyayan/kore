@@ -1,0 +1,82 @@
+>greet_prog 100~
+  if isimmort($n)
+    say Welcome, $N.
+  else
+  if ispc($n)
+    if inroom($i) == 1098
+      say You poor fool, you have just sealed your fate.
+      say Say your prayers...
+      kill $n
+    else
+      say Why must you insist on disturbing me?!
+      if rand(50)
+        cast 'color spray' $n
+      endif
+    endif
+  endif
+~
+>rand_prog 4~
+  if inroom($i) == 1098
+    if ischarhere(1016)
+      if rand(50)
+        pounce 1016
+      else
+        grin 1016
+      endif
+    endif
+  else
+    cackle
+  endif
+~
+>fight_prog 5~
+  if inroom($r) == here
+    mpecho $I makes a sweeping gesture with his arms.
+    mpechoat $r You are thrown backwards by a powerful gust of wind.
+    mpechoaround $r $R is thrown backwards roughly by some unseen force.
+    mptransfer $r nearby
+    mppose $r sit
+    mpechoaround $r A slight breeze ruffles your hair and $R comes flying into the room!
+    mpdamage $r 11d10+40
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I closes his eyes and chants softly for several moments.
+    mpmload 1002
+    mpecho A gnome warrior appears in a puff of smoke and bows before Dh'vral.
+    mpforce gnome kill $r
+  endif
+~
+>fight_prog 17~
+  if inroom($r) == here
+    mpechoat $r $I throws a fistful of green powder into your face!
+    mpechoaround $r $R coughs and gasps as a green cloud surrounds $L head.
+    mpcallmagic 'poison' $r
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    mpecho $I slashes his arm across in front of him dramatically.
+    mpecho A blast a frigid cold air envelops you, chilling you to the bone!
+    mpsilent mpcallmagic 'cone of cold' $r
+    mpsilent mpcallmagic 'cone of cold' $r
+    mpsilent mpcallmagic 'cone of cold' $r
+  endif
+~
+>fight_prog 25~
+  if inroom($r) == here
+    if isaffected($r, slow)
+      bash $r
+    else
+      mpechoat $r $I pounds you with the palm of his hand!
+      mpechoat $r You feel very weak.
+      mpechoaround $r $I hits $R hardly with the palm of his hand.
+      mpcallmagic 'slow' $r
+      mpdamage $r 11d13+20
+    endif
+  endif
+~
+>death_prog 100~
+  shout Curse you $N! I shall have my revenge!
+~
+|

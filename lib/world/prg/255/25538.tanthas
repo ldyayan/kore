@@ -1,0 +1,52 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+  endif
+~
+>rand_prog 4~
+  if rand(20)
+    rage
+  else
+    up
+  endif
+~
+>fight_prog 3~
+  if inroom($r) == here
+    if isfight($r)
+      growl $r
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if isaffected($i, haste)
+    else
+      if hasworn($i) == 25549
+        mpecho A huge black longsword vibrates angrily in the hands of Master Tanthas!
+        mpcallmagic 'haste' tanthas
+      endif
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if class($r) == cleric
+      if rand(50)
+        mpechoaround $r $I snarls something to $R through clenched teeth.
+        tell $r Leave this battle, fool! You cannot hope to win!
+        switch $r
+        kick $r
+      else
+        switch $r
+      endif
+    else
+      if class($r) == warrior
+        disarm $r
+        disarm $r
+      else
+        riposte
+      endif
+    endif
+  endif
+~
+|

@@ -1,0 +1,55 @@
+#50
+the great Eastern Desert~
+5099 30 2 32
+D 0  5001     3     1            A Long Tunnel door west
+M 0  5005     1  5065            the brass dragon
+G 1  5024    99    -1                    give an arabesque key
+G 1  5022    30    -1                    give an encrypted scroll
+M 0  5015     3  5039            the dustdigger
+M 0  5015     3  5033            the dustdigger
+M 0  5000     5  5033            the dervish
+E 1  7211    99    16                    wield a short sword
+M 0  5015     3  5049            the dustdigger
+O 0  5006   101  5049            a small cactus cup
+M 0  5017     1  5058            the rabid camel
+M 0  5000     5  5047            the dervish
+E 1  7211    99    16                    wield a short sword
+M 0  5001     8  5040            the dervish
+E 1  3022    99    16                    wield a long sword
+M 0  5002     5  5031            the coral snake
+O 0  5006   101  5031            a small cactus cup
+M 0  5003     5  5050            the small scorpion
+M 0  5004     1  5036            the sand worm
+E 1  5021    10    17                    held a ^Ygolden^n bow
+G 1  5019    99    -1                    give a steel grey potion
+G 1  5020    99    -1                    give a platinum wand
+M 0  5006     1  5061            the nomad leader
+E 1  5016    99    16                    wield a long, curved sabre
+O 0  5008   101  5061            a small wicker basket
+P 1  5014    99  5008                    put a thick padded turban in a small wicker basket
+O 0  5009   101  5061            a small wicker basket
+O 0  5010   101  5061            a small wicker basket
+P 1  5013    99  5010                    put an old, tattered map in a small wicker basket
+M 0  5007     1  5060            the nomad commander
+E 1  5017    99    16                    wield a curved scimitar
+O 0  5007   101  5060            a small wicker basket
+P 1  5012    99  5007                    put a bunch of stakes in a small wicker basket
+P 1  5011    99  5007                    put a coil of rope in a small wicker basket
+M 0  5008     5  5059            the nomad warrior
+E 1  5018    99    16                    wield a long, pointed cutlass
+M 0  5009    10  5057            the slave
+M 0  5010     1  5011            the dracolich
+E 1  5001    30     5                    body a glowing suit of banded mail
+E 1  5002    99    16                    wield a halberd
+O 0  5005   101  5011            a large leg bone
+M 0  5011     3  5009            the drider
+E 1  3022    99    16                    wield a long sword
+M 0  5012     3  5014            the dark dwarf
+E 1  5000    99    16                    wield a small mining pick
+M 0  5013     4  5021            the myconoid
+M 0  5014     1  5021            the myconoid shaman
+E 1  5003    40     3                    neck 1 a ^ymushroom^n amulet
+O 0  5006   101  5044            a small cactus cup
+S
+#99999
+$~

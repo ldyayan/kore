@@ -1,0 +1,50 @@
+>greet_prog 35~
+   Say Foolish mortals! You dare challenge me!
+~
+>fight_prog 7~
+ if inroom($r) == here
+   if hasworn($r) == 11040
+     if rand(75)
+       mpechoat $r $I points a clawwed finger at you and you feel very light ..but then a bright blue light flashes from your amulet and the magic is dispelled!
+       mpechoaround $r $I points a clawwed finger at $R and $J becomes less tangible...  but then bright blue light flashes from $L amulet and $R regains substance.
+     else
+       mpechoat $r $I points a clawwed finger at you and you suddenly feel very light!
+       mpechoat $r You become mere shadow of yourself and are sent to the Nether Void!
+       mpechoaround $r $I points a clawwed finger at $R and $J becomes less tangible!
+       mpechoaround $r $I claps $L hands together and $R is swallowed up by a Nether Vortex!
+       mptrans $r 11099
+     endif
+   else
+     mpechoat $r $I points a clawwed finger at you and you suddenly feel very light!
+     mpechoat $r You become mere shadow of yourself and are sent to the Nether Void!
+     mpechoaround $r $I points a clawwed finger at $R and $J becomes less tangible!
+     mpechoaround $r $I claps $L hands together and $R is swallowed up by a Nether Vortex!
+     mptrans $r 11099
+   endif
+ endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+   mpecho $I throws a pinch of sulfur in the air!
+   mpecho A gigantic flame shoots up from the depths of hell as a fiend arrives!
+   mpmload 11020
+   mpforce 11020 kill $r
+  endif
+~
+>fight_prog 18~
+  if inroom($r) == here
+   mpechoat $r $I swoops $L wings together mightly and the gust blows you out of the room!!
+   mpechoaround $r $I brings $L wings together with a mighty clap and blows $R out of the room!!!
+   mptransfer $r nearby
+  endif
+~
+>fight_prog 28~
+  if inroom($r) == here
+   cast 'fireball'
+  endif
+~
+>death_prog 100~
+   mpecho $I screams loudly at you, 'I cannot die!  I will be back when my banishment is done!
+~
+|
+

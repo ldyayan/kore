@@ -1,0 +1,22 @@
+>script_prog welcome-back~
+  #
+@
+  say Wow, you're not dead yet?
+  laugh
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ismemory($n)
+    else
+      mptrigger $n welcome-back
+      mpremember $n
+    endif
+  endif
+~
+>fight_prog 100~
+  if isscript($i)
+    mpstopscript
+  endif
+~
+|

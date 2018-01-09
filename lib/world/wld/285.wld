@@ -1,0 +1,2646 @@
+#28500
+Entrance to Jitter Park~
+  Jitter Park was planted in commemoration of the founding of the city
+some hundreds of years ago. Some of the tallest of trees in the realms
+of Kore can be found here. The citizens of Kore come here to relax and
+take in the fresh air. There is tall building a few feet from the park.
+Entrance to the park is to the northeast.
+~
+285 4 1
+D6
+~
+gate~
+1 0 28501
+D8
+~
+~
+0 0 3081
+S
+#28501
+Southwest corner of Jitter Park.~
+   Jitter Park was planted in commemoration of the founding of the city some
+hundreds of years ago.  Some of the tallest of trees in the realms of Kore
+Springs can be found here.  The citizens of Kore Springs come here to relax and
+take in the fresh air.  Off to the north east you will find a big lake where
+some come to fish.
+~
+285 0 1
+D0
+~
+~
+0 0 28532
+D1
+~
+~
+0 0 28502
+D8
+ Entrance and exit to Jitter Park.
+~
+gate~
+1 0 28500
+S
+#28502
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28533
+D1
+~
+~
+0 0 28503
+D3
+~
+~
+0 0 28501
+S
+#28503
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28534
+D1
+~
+~
+0 0 28504
+D3
+~
+~
+0 0 28502
+S
+#28504
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28535
+D1
+~
+~
+0 0 28505
+D3
+~
+~
+0 0 28503
+S
+#28505
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28536
+D1
+~
+~
+0 0 28506
+D3
+~
+~
+0 0 28504
+S
+#28506
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28537
+D1
+~
+~
+0 0 28507
+D3
+~
+~
+0 0 28505
+S
+#28507
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28538
+D1
+~
+~
+0 0 28508
+D3
+~
+~
+0 0 28506
+S
+#28508
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28539
+D1
+~
+~
+0 0 28509
+D3
+~
+~
+0 0 28507
+S
+#28509
+Southeast corner of Jitter Park.~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28510
+D3
+~
+~
+0 0 28508
+S
+#28510
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28511
+D2
+~
+~
+0 0 28509
+D3
+~
+~
+0 0 28539
+S
+#28511
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28512
+D2
+~
+~
+0 0 28510
+D3
+~
+~
+0 0 28540
+S
+#28512
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28513
+D2
+~
+~
+0 0 28511
+D3
+~
+~
+0 0 28541
+S
+#28513
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28514
+D2
+~
+~
+0 0 28512
+D3
+~
+~
+0 0 28542
+S
+#28514
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28515
+D2
+~
+~
+0 0 28513
+D3
+~
+~
+0 0 28543
+S
+#28515
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28516
+D2
+~
+~
+0 0 28514
+D3
+~
+~
+0 0 28544
+S
+#28516
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28517
+D2
+~
+~
+0 0 28515
+D3
+~
+~
+0 0 28545
+S
+#28517
+Northeast corner of Jitter Park.~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D2
+~
+~
+0 0 28516
+D3
+~
+~
+0 0 28518
+S
+#28518
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D1
+~
+~
+0 0 28517
+D2
+~
+~
+0 0 28545
+D3
+~
+~
+0 0 28519
+S
+#28519
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D1
+~
+~
+0 0 28518
+D2
+~
+~
+0 0 28546
+D3
+~
+~
+0 0 28520
+S
+#28520
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D1
+~
+~
+0 0 28519
+D2
+~
+~
+0 0 28547
+D3
+~
+~
+0 0 28521
+S
+#28521
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D1
+~
+~
+0 0 28520
+D2
+~
+~
+0 0 28548
+D3
+~
+~
+0 0 28522
+S
+#28522
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D1
+~
+~
+0 0 28521
+D2
+~
+~
+0 0 28549
+D3
+~
+~
+0 0 28523
+S
+#28523
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D1
+~
+~
+0 0 28522
+D2
+~
+~
+0 0 28550
+D3
+~
+~
+0 0 28524
+S
+#28524
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D1
+~
+~
+0 0 28523
+D2
+~
+~
+0 0 28551
+D3
+~
+~
+0 0 28525
+S
+#28525
+Northwest corner of Jitter Park.~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D1
+~
+~
+0 0 28524
+D2
+~
+~
+0 0 28526
+S
+#28526
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28525
+D1
+~
+~
+0 0 28551
+D2
+~
+~
+0 0 28527
+S
+#28527
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28526
+D1
+~
+~
+0 0 28552
+D2
+~
+~
+0 0 28528
+S
+#28528
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28527
+D1
+~
+~
+0 0 28553
+D2
+~
+~
+0 0 28529
+S
+#28529
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28528
+D1
+~
+~
+0 0 28554
+D2
+~
+~
+0 0 28530
+S
+#28530
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28529
+D1
+~
+~
+0 0 28555
+D2
+~
+~
+0 0 28531
+S
+#28531
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28530
+D1
+~
+~
+0 0 28556
+D2
+~
+~
+0 0 28532
+S
+#28532
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28531
+D1
+~
+~
+0 0 28533
+D2
+~
+~
+0 0 28501
+S
+#28533
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28556
+D1
+~
+~
+0 0 28534
+D2
+~
+~
+0 0 28502
+D3
+~
+~
+0 0 28532
+S
+#28534
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28557
+D1
+~
+~
+0 0 28535
+D2
+~
+~
+0 0 28503
+D3
+~
+~
+0 0 28533
+S
+#28535
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28558
+D1
+~
+~
+0 0 28536
+D2
+~
+~
+0 0 28504
+D3
+~
+~
+0 0 28534
+S
+#28536
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28559
+D1
+~
+~
+0 0 28537
+D2
+~
+~
+0 0 28505
+D3
+~
+~
+0 0 28535
+S
+#28537
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28560
+D1
+~
+~
+0 0 28538
+D2
+~
+~
+0 0 28506
+D3
+~
+~
+0 0 28536
+S
+#28538
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28561
+D1
+~
+~
+0 0 28539
+D2
+~
+~
+0 0 28507
+D3
+~
+~
+0 0 28537
+S
+#28539
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28540
+D1
+~
+~
+0 0 28510
+D2
+~
+~
+0 0 28508
+D3
+~
+~
+0 0 28538
+S
+#28540
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28541
+D1
+~
+~
+0 0 28511
+D2
+~
+~
+0 0 28539
+D3
+~
+~
+0 0 28561
+S
+#28541
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28542
+D1
+~
+~
+0 0 28512
+D2
+~
+~
+0 0 28540
+D3
+~
+~
+0 0 28562
+S
+#28542
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28543
+D1
+~
+~
+0 0 28513
+D2
+~
+~
+0 0 28541
+D3
+~
+~
+0 0 28563
+S
+#28543
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28544
+D1
+~
+~
+0 0 28514
+D2
+~
+~
+0 0 28542
+D3
+~
+~
+0 0 28564
+S
+#28544
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28545
+D1
+~
+~
+0 0 28515
+D2
+~
+~
+0 0 28543
+D3
+~
+~
+0 0 28565
+S
+#28545
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28518
+D1
+~
+~
+0 0 28516
+D2
+~
+~
+0 0 28544
+D3
+~
+~
+0 0 28546
+S
+#28546
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28519
+D1
+~
+~
+0 0 28545
+D2
+~
+~
+0 0 28565
+D3
+~
+~
+0 0 28547
+S
+#28547
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28520
+D1
+~
+~
+0 0 28546
+D2
+~
+~
+0 0 28566
+D3
+~
+~
+0 0 28548
+S
+#28548
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28521
+D1
+~
+~
+0 0 28547
+D2
+~
+~
+0 0 28567
+D3
+~
+~
+0 0 28549
+S
+#28549
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28522
+D1
+~
+~
+0 0 28548
+D2
+~
+~
+0 0 28568
+D3
+~
+~
+0 0 28550
+S
+#28550
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28523
+D1
+~
+~
+0 0 28549
+D2
+~
+~
+0 0 28569
+D3
+~
+~
+0 0 28551
+S
+#28551
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28524
+D1
+~
+~
+0 0 28550
+D2
+~
+~
+0 0 28552
+D3
+~
+~
+0 0 28526
+S
+#28552
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28551
+D1
+~
+~
+0 0 28569
+D2
+~
+~
+0 0 28553
+D3
+~
+~
+0 0 28527
+S
+#28553
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28552
+D1
+~
+~
+0 0 28570
+D2
+~
+~
+0 0 28554
+D3
+~
+~
+0 0 28528
+S
+#28554
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28553
+D1
+~
+~
+0 0 28571
+D2
+~
+~
+0 0 28555
+D3
+~
+~
+0 0 28529
+S
+#28555
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28554
+D1
+~
+~
+0 0 28572
+D2
+~
+~
+0 0 28556
+D3
+~
+~
+0 0 28530
+S
+#28556
+Park~
+   At night the moon rises free of the towers in Kore Springs.  It bathes
+Jitter Park in silver and grey and the blackest of black.  The rising moon
+reflects midnight sihouettes against all the cities walls.  During the day 
+the sun rises free of shadows and it's rays of light reflect off the ripples 
+of currents in the lake sending a rainbow of colors shimmering through out 
+the park.
+~
+285 0 1
+D0
+~
+~
+0 0 28555
+D1
+~
+~
+0 0 28557
+D2
+~
+~
+0 0 28533
+D3
+~
+~
+0 0 28531
+S
+#28557
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28572
+D1
+~
+~
+0 0 28558
+D2
+~
+~
+0 0 28534
+D3
+~
+~
+0 0 28556
+S
+#28558
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax. There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28573
+D1
+~
+~
+0 0 28559
+D2
+~
+~
+0 0 28535
+D3
+~
+~
+0 0 28557
+S
+#28559
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28574
+D1
+~
+~
+0 0 28560
+D2
+~
+~
+0 0 28536
+D3
+~
+~
+0 0 28558
+S
+#28560
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.    
+~
+285 4 1
+D0
+~
+~
+0 0 28575
+D1
+~
+~
+0 0 28561
+D2
+~
+~
+0 0 28537
+D3
+~
+~
+0 0 28559
+S
+#28561
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28562
+D1
+~
+~
+0 0 28540
+D2
+~
+~
+0 0 28538
+D3
+~
+~
+0 0 28560
+S
+#28562
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28563
+D1
+~
+~
+0 0 28541
+D2
+~
+~
+0 0 28561
+D3
+~
+~
+0 0 28575
+S
+#28563
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28564
+D1
+~
+~
+0 0 28542
+D2
+~
+~
+0 0 28562
+D3
+~
+~
+0 0 28576
+S
+#28564
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28565
+D1
+~
+~
+0 0 28543
+D2
+~
+~
+0 0 28563
+D3
+~
+~
+0 0 28577
+S
+#28565
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28546
+D1
+~
+~
+0 0 28544
+D2
+~
+~
+0 0 28564
+D3
+~
+~
+0 0 28566
+S
+#28566
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28547
+D1
+~
+~
+0 0 28565
+D2
+~
+~
+0 0 28577
+D3
+~
+~
+0 0 28567
+S
+#28567
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28548
+D1
+~
+~
+0 0 28566
+D2
+~
+~
+0 0 28578
+D3
+~
+~
+0 0 28568
+S
+#28568
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28549
+D1
+~
+~
+0 0 28567
+D2
+~
+~
+0 0 28579
+D3
+~
+~
+0 0 28569
+S
+#28569
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28550
+D1
+~
+~
+0 0 28568
+D2
+~
+~
+0 0 28570
+D3
+~
+~
+0 0 28552
+S
+#28570
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28569
+D1
+~
+~
+0 0 28579
+D2
+~
+~
+0 0 28571
+D3
+~
+~
+0 0 28553
+S
+#28571
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28570
+D1
+~
+~
+0 0 28580
+D2
+~
+~
+0 0 28572
+D3
+~
+~
+0 0 28554
+S
+#28572
+Path around the lake.~
+   The path runs around the border of Jitter Lake.  Throughout the path,
+benches are placed for all to have a seat and relax.  There is always a breeze
+blowing through the park.  The relaxing sounds of the leaves blowing in the
+breeze, along with the chatter of all the animals and the fresh scent of the
+outdoors puts your mind at ease.
+~
+285 4 1
+D0
+~
+~
+0 0 28571
+D1
+~
+~
+0 0 28573
+D2
+~
+~
+0 0 28557
+D3
+~
+~
+0 0 28555
+S
+#28573
+Lake~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.
+~
+285 0 6
+D0
+~
+~
+0 0 28580
+D1
+~
+~
+0 0 28574
+D2
+~
+~
+0 0 28558
+D3
+~
+~
+0 0 28572
+D5
+~
+~
+0 0 28586
+D6
+~
+~
+0 0 28581
+S
+#28574
+Lake~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.
+~
+285 0 6
+D0
+~
+~
+0 0 28581
+D1
+~
+~
+0 0 28575
+D2
+~
+~
+0 0 28559
+D3
+~
+~
+0 0 28573
+D5
+~
+~
+0 0 28587
+S
+#28575
+Lake~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.
+~
+285 0 6
+D0
+~
+~
+0 0 28576
+D1
+~
+~
+0 0 28562
+D2
+~
+~
+0 0 28560
+D3
+~
+~
+0 0 28574
+D5
+~
+~
+0 0 28588
+D9
+~
+~
+0 0 28581
+S
+#28576
+Lake~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.
+~
+285 0 6
+D0
+~
+~
+0 0 28577
+D1
+~
+~
+0 0 28563
+D2
+~
+~
+0 0 28575
+D3
+~
+~
+0 0 28581
+D5
+~
+~
+0 0 28589
+S
+#28577
+Lake~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.
+~
+285 0 6
+D0
+~
+~
+0 0 28566
+D1
+~
+~
+0 0 28564
+D2
+~
+~
+0 0 28576
+D3
+~
+~
+0 0 28578
+D5
+~
+~
+0 0 28590
+D8
+~
+~
+0 0 28581
+S
+#28578
+Lake~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.
+~
+285 0 6
+D0
+~
+~
+0 0 28567
+D1
+~
+~
+0 0 28577
+D2
+~
+~
+0 0 28581
+D3
+~
+~
+0 0 28579
+D5
+~
+~
+0 0 28583
+S
+#28579
+Lake~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.
+~
+285 0 6
+D0
+~
+~
+0 0 28568
+D1
+~
+~
+0 0 28578
+D2
+~
+~
+0 0 28580
+D3
+~
+~
+0 0 28570
+D5
+~
+~
+0 0 28584
+D7
+~
+~
+0 0 28581
+S
+#28580
+Lake~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.
+~
+285 0 6
+D0
+~
+~
+0 0 28579
+D1
+~
+~
+0 0 28581
+D2
+~
+~
+0 0 28573
+D3
+~
+~
+0 0 28571
+D5
+~
+~
+0 0 28585
+S
+#28581
+Center of Lake Jitter~
+   Along the lake you note the water is cold and clear, the color of dark
+amethyst.  The sun has now retired for the night only to let the moon reflect
+off of the purple cresents of the lake.  The weight of the water pulls at you
+as you try to stay afloat.  A owl is off in the near distance sitting on a
+tree.  The center of the lake, a spring of water gushes from the depths of
+the lake.
+~
+285 20 6
+D0
+~
+~
+0 0 28578
+D1
+~
+~
+0 0 28576
+D2
+~
+~
+0 0 28574
+D3
+~
+~
+0 0 28580
+D5
+~
+~
+0 0 28582
+D6
+~
+~
+0 0 28577
+D7
+~
+~
+0 0 28575
+D8
+~
+~
+0 0 28573
+D9
+~
+~
+0 0 28579
+S
+#28582
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D0
+~
+~
+0 0 28583
+D1
+~
+~
+0 0 28589
+D2
+~
+~
+0 0 28587
+D3
+~
+~
+0 0 28585
+D4
+~
+~
+0 0 28581
+D5
+~
+~
+0 0 28591
+D6
+~
+~
+0 0 28590
+D7
+~
+~
+0 0 28588
+D8
+~
+~
+0 0 28586
+D9
+~
+~
+0 0 28584
+S
+#28583
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D1
+~
+~
+0 0 28590
+D2
+~
+~
+0 0 28582
+D3
+~
+~
+0 0 28584
+D4
+~
+~
+0 0 28578
+D5
+~
+~
+0 0 28592
+S
+#28584
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D1
+~
+~
+0 0 28583
+D2
+~
+~
+0 0 28585
+D4
+~
+~
+0 0 28579
+D5
+~
+~
+0 0 28593
+D7
+~
+~
+0 0 28582
+S
+#28585
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D0
+~
+~
+0 0 28584
+D1
+~
+~
+0 0 28582
+D2
+~
+~
+0 0 28586
+D4
+~
+~
+0 0 28580
+D5
+~
+~
+0 0 28594
+S
+#28586
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D0
+~
+~
+0 0 28585
+D1
+~
+~
+0 0 28587
+D4
+~
+~
+0 0 28573
+D5
+~
+~
+0 0 28595
+D6
+~
+~
+0 0 28582
+S
+#28587
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D0
+~
+~
+0 0 28582
+D1
+~
+~
+0 0 28588
+D3
+~
+~
+0 0 28586
+D4
+~
+~
+0 0 28574
+D5
+~
+~
+0 0 28596
+S
+#28588
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D0
+~
+~
+0 0 28589
+D3
+~
+~
+0 0 28587
+D4
+~
+~
+0 0 28575
+D5
+~
+~
+0 0 28597
+D9
+~
+~
+0 0 28582
+S
+#28589
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D0
+~
+~
+0 0 28590
+D2
+~
+~
+0 0 28588
+D3
+~
+~
+0 0 28582
+D4
+~
+~
+0 0 28576
+D5
+~
+~
+0 0 28598
+S
+#28590
+Underwater~
+   The turbulance of the lake helps pull you down within the depths of the
+lake.  Looking above, you can still make out what looks to be the shadows of
+lights from far above.  The water swirls around you in the strangest of ways,
+pulling you farther within the depths of the lake and the unknown.
+~
+285 8 8
+D2
+~
+~
+0 0 28589
+D3
+~
+~
+0 0 28583
+D4
+~
+~
+0 0 28577
+D5
+~
+~
+0 0 28599
+D8
+~
+~
+0 0 28582
+S
+#28591
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D0
+~
+~
+0 0 28592
+D1
+~
+~
+0 0 28598
+D2
+~
+~
+0 0 28596
+D3
+~
+~
+0 0 28594
+D4
+~
+~
+0 0 28582
+D6
+~
+~
+0 0 28599
+D7
+~
+~
+0 0 28597
+D8
+~
+~
+0 0 28595
+D9
+~
+~
+0 0 28593
+S
+#28592
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D1
+~
+~
+0 0 28599
+D2
+~
+~
+0 0 28591
+D3
+~
+~
+0 0 28593
+D4
+~
+~
+0 0 28583
+S
+#28593
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D1
+~
+~
+0 0 28592
+D2
+~
+~
+0 0 28594
+D4
+~
+~
+0 0 28584
+D7
+~
+~
+0 0 28591
+S
+#28594
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D0
+~
+~
+0 0 28593
+D1
+~
+~
+0 0 28591
+D2
+~
+~
+0 0 28595
+D4
+~
+~
+0 0 28585
+S
+#28595
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D0
+~
+~
+0 0 28594
+D1
+~
+~
+0 0 28596
+D4
+~
+~
+0 0 28586
+D6
+~
+~
+0 0 28591
+S
+#28596
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D0
+~
+~
+0 0 28591
+D1
+~
+~
+0 0 28597
+D3
+~
+~
+0 0 28595
+D4
+~
+~
+0 0 28587
+S
+#28597
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D0
+~
+~
+0 0 28598
+D3
+~
+~
+0 0 28596
+D4
+~
+~
+0 0 28588
+D9
+~
+~
+0 0 28591
+S
+#28598
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D0
+~
+~
+0 0 28599
+D2
+~
+~
+0 0 28597
+D3
+~
+~
+0 0 28591
+D4
+~
+~
+0 0 28589
+S
+#28599
+Underwater~
+   Farther down within the depths of the lake you can no longer see the shadows
+of the lights from above.  The water moves in swirling motions around your body
+trying to pull you in all directions.  Only to make you not know which way to
+go at this point.  Farther below you can make out what looks to be whats left
+of a ruin city.
+~
+285 8 8
+D2
+~
+~
+0 0 28598
+D3
+~
+~
+0 0 28592
+D4
+~
+~
+0 0 28590
+D8
+~
+~
+0 0 28591
+S
+#99999
+$~

@@ -1,0 +1,600 @@
+#25501
+apothecary~
+the elven apothecary~
+Standing behind his booth, an apothecary doesn't seem to notice you.
+~
+   This short little elf regards you as cooly as you regard him. He wears a
+long red robe that blows freely in the wind.
+~
+712794 65664 500 S
+59 1 -100 1d1+1 1d1+50
+0 20
+8 7 1
+#25502
+guard~
+the guard of Eli~
+With endless vigil, a guard of Eli stands watch over the city.
+~
+   With tireless devotion to the Speaker of the Sky, a Guard of Eli stands here.
+His thin and lithe form camoflauge him extremely well against the tree.
+~
+20554 4260864 600 S
+14 1 4 1d1+1 1d1+1
+0 20
+8 8 1
+#25503
+dealer~
+the statuette dealer~
+A dealer in fine statuettes is here, displaying his carvings.
+~
+   Standing here, a nimble looking elf tends a stand filled with little wooden
+statues.
+~
+778330 65664 500 S
+59 1 -100 1d1+1 1d1+50
+0 20
+8 7 1
+#25504
+vendor~
+a dry goods vendor~
+A dry goods vendor is standing here, displaying various herbs and items.
+~
+   You see a lithe elf, who seems to be VERY talented at his trade, you're
+not exactly sure you trust him completely.
+~
+778330 65664 500 S
+59 1 -100 1d1+1 1d1+50
+0 20
+8 7 1
+#25505
+mage~
+a befuddled looking mage~
+Arguing with a post, an old elven mage stands here.
+~
+   You see a short little man with a long gray beard. He is dressed in silver
+robes that have a satiny appearance. He seems to be losing the argument with
+the post.
+~
+778330 65664 500 S
+59 1 -100 1d1+1 1d1+50
+0 20
+8 7 1
+#25506
+baker~
+an elven baker~
+An elven baker sits here behind his stand, selling breads.
+~
+   Sitting before you, a humble looking man is here, COVERED in flour. He sees
+you and smiles happily.
+~
+778330 65664 500 S
+59 1 -100 1d1+1 1d1+50
+0 20
+6 7 1
+#25507
+bard~
+an elven bard~
+A beautiful elven bard stands here, singing to herself.
+~
+   Looking at this heavenly creature you are dazzled by the sight you behold.
+She has a beautiful pair of crystal blue eyes that seem to draw you in. She
+notices you and offers a shy smile before turning away.
+~
+778330 65664 500 S
+59 1 -100 1d1+1 1d1+50
+0 20
+8 7 2
+#25508
+banker~
+an elven money changer~
+An elven money changer sits here, waiting for your transaction.
+~
+   You see a poor, under-paid little man, who looks fed up with his job.
+~
+778330 65664 500 S
+59 1 -100 1d1+1 1d1+50
+0 20
+6 7 1
+#25509
+weaponmaster~
+the elven weaponmaster~
+The elven weaponmaster has set up shop to help pay for his expenses.
+~
+   Standing before you is a powerful looking elf with a very SHARP looking 
+wooden sword. He seems very proud of his work.
+~
+778330 65664 500 S
+59 1 -100 1d1+1 1d1+50
+0 20
+8 7 1
+#25510
+captain guard~
+an elven captain~
+An elven captain is here, handling the larger affairs of the troops.
+~
+   Rising a mere five and a half feet before you, this lithe and nimble elf
+sees you and smiles. Underneath that smile, however, you can feel his eyes
+following your every move.
+~
+30810 1115264 750 S
+35 1 -5 1d1+1 1d20+17
+0 20
+8 7 1
+#25511
+sergeant guard~
+an elven sergeant~
+An elven sergeant stands before you organizing his warriors.
+~
+   This middle aged elf looks as though hes seen his share of combat. His eyes
+are crystal clear, but seem weighed down by sadness. He glances at you for
+only a moment before he turns back to straighten out his troops.
+~
+30810 99328 650 S
+30 1 -3 1d1+1 17d1+15
+0 20
+8 7 1
+#25512
+phelac guard~
+Phelac Laurana~
+The Phelac of the Elven Guard is here, binding her weapon with spells.
+~
+   You see a woman of tremendous beauty and grace. Her cheeks are chiseled high
+and definite, and her deep green eyes complement her unusual black hair. She
+wears it short allows in to hang free. She looks up at you and smiles, giving
+you a tingling feeling throughout your body.
+~
+129114 4297856 1000 S
+40 1 -7 1d1+1 1d1+23
+0 20
+8 7 2
+#25513
+citizen~
+a citizen of Eli~
+A citizen of Eli goes about his daily business.
+~
+You see a citizen of this wonderful city, going about his daily business.
+~
+8 0 350 S
+12 8 9 1d1+1 1d1+1
+0 20
+8 7 1
+#25514
+child~
+a small elven child~
+A small elven child is playing here, dodging between peopls's legs.
+~
+   You observe a small elven child. She looks about 4 in human years, but is
+probably older than you.
+~
+8 0 120 S
+6 15 10 1d1+1 1d1+1
+1 20
+8 7 2
+#25515
+sparrow bird~
+a cute little sparrow~
+A small little bird is here, chirping happily.
+~
+   You see a small little bird chirping happily in the warmth of the day.
+~
+8 0 20 S
+3 19 10 1d1+1 1d1+1
+0 20
+8 7 0
+#25516
+musician~
+an elven minstrel~
+Playing a quaint little tune, an elven minstrel sits here.
+~
+   You see a happy looking fellow with a sparkle in his eye. He seems to be
+watching the shopkeeper with particular interest.
+~
+10 0 400 S
+15 8 9 1d1+1 1d1+1
+0 20
+8 7 1
+#25517
+deer~
+a swift and gentle deer~
+Drinking the cool water, a deer is here, looking quite timid.
+~
+   You see a beautiful deer with a sleek supple looking fur. It watches you 
+nervously.
+~
+8 0 0 S
+1 19 10 1d1+1 1d1+1
+0 20
+8 7 0
+#25518
+cooshee dog~
+a small cooshee~
+A small cooshee is here, froclicking in the shade.
+~
+   You see a beautiful white dog with black spots. It regards you with 
+startling intelligence, and looking at its teeth and hind legs, you begin to
+think angering this creature would not be wise.
+~
+2072 4199424 750 S
+1 19 9 1d1+1 1d1+1
+0 20
+8 7 0
+#25519
+woman mother~
+elven mother~
+An elven woman is here, herding her children back home.
+~
+   You see a middle-aged elf will twinling green eyes. She notices you and
+offers a shy smile before turning her attentions back to her children.
+~
+18568 33792 475 S
+14 8 10 1d1+1 1d1+1
+0 20
+8 8 2
+#25520
+gatherer woman farmer~
+elven farmer~
+An elven farmer is here, gathering food for her family.
+~
+   Dressed in an ankle-length dress, this timid and beautiful creature does
+not seem to notice you watching her.
+~
+18568 1056 500 S
+10 13 10 1d1+1 1d1+1
+0 20
+6 8 2
+#25521
+squirrel chipmunk rat~
+squirrel~
+A small bushy tailed, tree dwelling rodent is here, munching happily.
+~
+   You see a small little woodland creature munching away on small grains.
+~
+156 0 0 S
+1 19 10 1d1+1 1d1+1
+0 20
+8 8 1
+#25522
+master talik gardener herbalist~
+Master Talik~
+A smiling elf carefully trims a healthly looking plant.
+~
+   Looking at this elf, you begin to think happy thoughts. Thinking to
+yourself... "Here is a man that truly enjoys what he does." He snips and cuts
+away at an ornate looking shrub. You have never seen its like. It almost seems
+as if it glows.
+~
+256026 1148040 1000 S
+45 1 -9 1d1+1 1d1+30
+0 20
+6 8 1
+#25523
+citizen audience peasant~
+elven audience member~
+Entranced by the play before him, the peasant doesn't notice you.
+~
+   You see a humble looking peasant who seems to enjoy the finer things in life.
+~
+18442 0 355 S
+10 12 10 1d1+1 1d1+1
+0 20
+6 7 1
+#25524
+girl child~
+little girl~
+A little girl is here, giggling at the exploits of here favorite character.
+~
+   You seen an entranced little girl who never takes her eyes off the stage.
+~
+10 0 1000 S
+4 17 10 1d1+1 1d1+1
+0 20
+5 8 2
+#25525
+mom mother woman lady~
+elven mother~
+An elven mother is setting up a picnic for during the play.
+~
+   You see a young elf woman, who looks overstressed and tired from a long days 
+work.
+~
+10 0 1000 S
+6 14 10 1d1+1 1d1+1
+0 20
+6 7 2
+#25526
+citizen~
+a citizen of Eli~
+A citizen of Eli stares dreamily at the female actors on stage.
+~
+   You see a love-struck citizen of Eli, admiring natural beauty.
+~
+10 0 350 S
+12 12 100 1d1+1 1d1+1
+0 20
+6 7 1
+#25527
+noble nobleman royalty~
+elven noble~
+You see an elven noble smiling happily, relieved for escaping palace life.
+~
+   Before you is a man who knows how to carry himself. He has been taught to
+be respectful and honest in the elven tradition.
+~
+2058 65536 750 S
+27 1 0 1d1+1 1d1+14
+0 20
+6 7 1
+#25528
+bard actor~
+elven actor~
+You see an elven actor displaying his repetoire of talents to the crowd.
+~
+   Looking this elf up and down, makes you chuckle. His ridiculous attire
+seems to be quite natural on him. He has several small bells attached to his
+costume.
+~
+2056 1049600 505 S
+18 6 8 1d1+1 1d1+1
+0 20
+8 7 1
+#25529
+bard actor~
+elven actor~
+You see an elven actor displaying his repetoire of talents to the crowd.
+~
+   Looking this elf up and down, makes you chuckle. His ridiculous attire
+seems to be quite natural on him. He has several small bells attached to his
+costume.
+~
+2056 1049600 505 S
+18 5 8 1d1+1 1d1+1
+0 20
+8 7 1
+#25530
+bard actor~
+elven actor~
+You see an elven actor displaying his repetoire of talents to the crowd.
+~
+   Looking this elf up and down, makes you chuckle. His ridiculous attire
+seems to be quite natural on him. He has several small bells attached to his
+costume.
+~
+2056 1049600 505 S
+18 5 8 1d1+1 1d1+1
+0 20
+8 7 1
+#25531
+bard actor~
+elven actor~
+You see an elven actor displaying his repetoire of talents to the crowd.
+~
+   Looking this elf up and down, makes you chuckle. His ridiculous attire
+seems to be quite natural on him. He has several small bells attached to his
+costume.
+~
+2056 1049600 505 S
+18 6 8 1d1+1 1d1+1
+0 20
+8 7 1
+#25532
+bard actor~
+elven actor~
+You see an elven actor displaying his repetoire of talents to the crowd.
+~
+   Looking this elf up and down, makes you chuckle. His ridiculous attire
+seems to be quite natural on him. He has several small bells attached to his
+costume.
+~
+2120 1049600 505 S
+18 5 8 1d1+1 1d1+1
+0 20
+8 7 1
+#25533
+bard actress~
+elven actress~
+An elven actress is here, ready to play her death scene.
+~
+   You see a pretty little elf with honey blond hair in a pink silk gown. She
+curtseys, thens falls back cutching her chest.
+~
+2056 1049600 570 S
+18 5 8 1d1+1 1d1+1
+0 20
+8 7 2
+#25534
+bard actress~
+elven actress~
+An elven actress is here, ready to play her death scene.
+~
+   You see a pretty little elf with honey blond hair in a pink silk gown. She
+curtseys, thens falls back cutching her chest.
+~
+2056 1049600 570 S
+18 5 8 1d1+1 1d1+1
+0 20
+8 7 2
+#25535
+bard actress~
+elven actress~
+An elven actress is here, ready to play her death scene.
+~
+   You see a pretty little elf with honey blond hair in a pink silk gown. She
+curtseys, thens falls back cutching her chest.
+~
+2056 1049600 570 S
+18 5 80 1d1+1 1d1+1
+0 20
+8 7 2
+#25536
+bard actress~
+elven actress~
+An elven actress is here, ready to play her death scene.
+~
+   You see a pretty little elf with honey blond hair in a pink silk gown. She
+curtseys, thens falls back cutching her chest.
+~
+2056 1049600 570 S
+18 5 8 1d1+1 1d1+1
+0 20
+8 7 2
+#25537
+master mage elf tarin surric~
+Tarin Surric the Archmage~
+An elf in crystal blue robes sits in his throne, watching your every move.
+~
+   Sitting on his wooden throne, this guildmaster of the mages watches you
+with unnerving interest. His eyes seem to look straight through your body,
+piercing your very soul and opening it like a book that he may read.
+~
+182303 4261032 0 S
+52 1 -9 1d1+1 1d1+30
+0 20
+8 8 1
+#25538
+master elf tanthas fighter~
+Master Tanthas of the Elven Guild of Warriors~
+An elf in jet black armor stands here, sword in hand.
+~
+   You see a very tall elf, over 6 feet, dressed in the darkest black armor
+you have ever seen. The material is unearthly and his muscles are huge. His 
+eyes hide a soul that roils with power and strength. A heavily muscled arm
+holds a black sword made of the same strange material.
+~
+153627 1152 0 S
+53 1 -9 1d1+1 1d1+30
+0 20
+8 8 1
+#25539
+grandmaster thief altheas jarles elf~
+Altheas Jarles, Grandmaster Thief~
+A very thin and frail elf is here, looking indifferent to everything.
+~
+   Rising a mere four and a half feet before you, this small lithe elf sees
+you and smiles warmly, you are wary however, because you thought you caught
+a glimpse of a dagger hidden in his tunic.
+~
+186379 66728 0 S
+54 1 -9 1d1+1 1d1+30
+0 20
+8 8 1
+#25540
+naris elf man cleric grandmaster~
+Naris Thalis, Grandmaster of the Elven Clerics~
+A man in shimmering white robes kneels here with his head bowed to an altar.
+~
+   You see a venerable elf with many wrinkles in his face. He doesn't seem to
+be aware of your presence within the room. His is chanting softly to himself
+and you feel uneasy looking at him. His entire body seems to be cloaked in
+a thin black mist, and the entire room, especially the altar, radiates with
+power.
+~
+186395 5248136 0 S
+57 1 -9 1d1+1 9d1+30
+0 20
+8 8 1
+#25541
+elf bard woman anna eutheris~
+Anna Eutheris of the Elven Bards~
+A beautiful elven woman stands here humming to herself.
+~
+   Standing almost five and a half feet before you, you stand looking into the
+eyes of the most beautiful creature to ever live. She is a petite woman,
+especially for her height, and she has short golden brown/blond hair. Her
+deep aquamarine eyes twinkle as you looks at you, filling her heart with
+a joy even the gods cannot imagine. She looks at you and smiles.
+~
+186395 4228264 0 S
+52 1 -9 1d1+1 1d1+30
+0 20
+8 8 2
+#25542
+vortex beast evil incarnate death chimera~
+the Guardian of the Vortex~
+A TREMENDOUSLY HUGE black beast is here, snarling in deadly rage.
+~
+   You see the most terrifying sight you have ever beheld. You, a hardened
+veteran of countless battles nearly pee your pants looking at this monster. 
+It stands over 25 feet high at the shoulders and walks catlike on all fours.
+From deep within its throat you can hear the dull growl that sounds like a
+cross between a dragon and a cats hiss. Sharp fangs several feet long adorn
+the front of its mouth, and a complete set of razor claws threaten to tear
+your head off in a second.
+~
+256042 5354666 0 S
+57 1 -10 1d1+1 40d1+50
+0 20
+8 8 2
+#25543
+guard guildguard elf~
+Elven Guildguard~
+   An Elven guard is here, doing his duty to by blocking your path.
+~
+   You see a more heavily armed, and muscular elf with a few battle scars.
+He gives you an indifferent look as you approach him.
+~
+780379 5321896 0 S
+40 1 -7 1d1+1 1d1+20
+0 20
+8 7 1
+#25544
+guard guildguard elf~
+Elven Guildguard~
+   An Elven guard is here, doing his duty to by blocking your path.
+~
+   You see a more heavily armed, and muscular elf with a few battle scars.
+He gives you an indifferent look as you approach him.
+~
+780379 5321896 0 S
+40 1 -7 1d1+1 1d1+20
+0 20
+8 7 1
+#25548
+guard guildguard elf~
+Elven Guildguard~
+   An Elven guard is here, doing his duty to by blocking your path.
+~
+   You see a more heavily armed, and muscular elf with a few battle scars.
+He gives you an indifferent look as you approach him.
+~
+780379 5321896 0 S
+40 1 -7 1d1+1 1d1+20
+0 20
+8 7 1
+#25549
+guard guildguard elf~
+Elven Guildguard~
+   An Elven guard is here, doing his duty to by blocking your path.
+~
+   You see a more heavily armed, and muscular elf with a few battle scars.
+He gives you an indifferent look as you approach him.
+~
+780379 5321896 0 S
+40 1 -7 1d1+1 1d1+20
+0 20
+8 7 1
+#25550
+guard guildguard elf~
+Elven Guildguard~
+   An Elven guard is here, doing his duty to by blocking your path.
+~
+   You see a more heavily armed, and muscular elf with a few battle scars.
+He gives you an indifferent look as you approach him.
+~
+780379 5321896 0 S
+40 1 -7 1d1+1 1d1+20
+0 20
+8 7 1
+#25551
+guard guildguard elf~
+Elven Guildguard~
+   An Elven guard is here, doing his duty to by blocking your path.
+~
+   You see a more heavily armed, and muscular elf with a few battle scars.
+He gives you an indifferent look as you approach him.
+~
+780379 5321896 0 S
+40 1 -7 1d1+1 1d1+20
+0 20
+8 7 1
+#99999
+$~

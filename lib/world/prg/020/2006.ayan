@@ -1,0 +1,57 @@
+>greet_prog 100~
+  if rand(50)
+    mpecho Ayan calls upon her magic and attempts to seduce $N.
+    mpsilent mpcallmagic 'charm' $n
+    mpsilent mpcallmagic 'charm' $n
+    mpsilent mpcallmagic 'charm' $n
+    order fol rem all
+    order fol drop all
+    get all
+    wear all
+  else
+    if name($n) == karn
+      bow karn
+      break
+    else
+      if isnpc($n)
+	break
+      else
+        kill $n
+      endif
+    endif
+  endif
+~
+>rand_prog 20~
+    if isaffected($i, sanct)
+    else
+        cast 'sanctuary'
+    endif
+~
+>fight_prog 6~
+ if inroom($r) == here
+  mpecho Ayan looks at $R and screams, 'BEGONE, and do not return!'
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mpcallmagic 'curse' $r
+  mptrans $r 3001
+ endif
+~
+>fight_prog 20~
+  cast 'dispel magic'
+~
+>fight_prog 40~
+ if inroom($r) == here
+  cas 'blind' $r
+ endif
+~
+>fight_prog 70~
+ if inroom($r) == here
+  cas 'fireball'
+ endif
+~
+>fight_prog 90~
+  cas 'heal'
+~
+|

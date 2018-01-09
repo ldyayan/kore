@@ -1,0 +1,16 @@
+>greet_prog 80~
+  if isimmort($n)
+  else
+    if ispc($n)
+      mpechoat $n You notice something wrapping around your leg...
+      mpechoat $n No matter how hard you try, you can't move an inch!
+      mpechoaround $n The ground rises up and wraps around $N's leg!
+      mpdrainmove $n 100d100
+      mpmload 28004
+      mpforce 28004 mpremember $n
+      mpforce 28004 mpkill $n
+      mpgoto cleaner
+    endif
+  endif
+~
+|

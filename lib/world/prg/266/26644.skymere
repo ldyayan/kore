@@ -1,0 +1,91 @@
+>greet_prog 100~
+  if ispc($n)
+    if inroom($i) == 26650
+      stand
+      say My Liege, we have unwelcomed guests.
+      growl
+    else
+      if sex($n) == male
+        mpecho $I regards you cautiously, a concerned look crosses her face.
+        mptrigger $n goto-sigyn
+      endif
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    if isfight($r)
+      if rand(20)
+        say You won't be needing these.
+        mpforce $r junk all.bish
+      else
+        if rand(30)
+          say You won't be needing these.
+          mpforce $r junk all.scroll
+        else
+          if rand(30) 
+            say You won't be needing these.
+            mpforce $r junk all.potion
+          else
+            spit $r
+            mpechoat $r $I turns your attacks away!
+            mpechoaround $r $I skillfully turns the attacks of $R.
+            switch $r
+            riposte
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoat $r $I kicks you in the stomach with a furred boot!
+      mpechoaround $r $I puts her boot deep in the stomach of $R!
+      mpdamage $r 10d10
+    endif
+  endif
+~
+>fight_prog 15~
+  mpecho $I lets out a furious battle cry and spin in a whirlwind!
+  berserk $r
+  berserk $r
+~
+>fight_prog 10~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoat $r $I uses her axe to fend away your attacks! 
+      mpechoaround $r $I uses her axe to fend the attacks of $R!
+      riposte
+      mpdamage $r 10d10
+    endif
+  endif
+~
+>fight_prog 20~
+  bash
+~
+>script_prog defend-sigyn~
+  mpecho $I shouts 'Asleif, protect me!'
+  mpecho $I throws herself inbetween you and the Jarl.
+  defend sigyn
+~
+>script_prog goto-sigyn~
+ #
+@
+ #
+@
+  if inroom($i) == 26650
+    say My Liege, we have intruders in the Great Hall!
+    emote kneels down before the Jarl.
+    mpsilent follow sigyn
+    mppose $i sit
+    mpstopscript
+  else
+   mpecho $I sprints off to find the Jarl.
+   mptrackto QQQQQ
+   mptrigger $i goto-sigyn
+  endif  
+~ 
+|
+

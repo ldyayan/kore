@@ -1,0 +1,18 @@
+>rand_prog 6~
+ mpecho The healer reaches for some herbs.
+  if inroom($r) == here
+   if hitprcnt($r) < 100
+    mpecho $I moves his hands over $R body!
+    mpcallmagic 'cure critical' $r
+    mpechoaround $r $R looks alot better!
+    smile
+   endif
+  endif
+~
+
+>greet_prog 50~
+  say Welcome, I will be with you shortly.
+~
+|
+
+

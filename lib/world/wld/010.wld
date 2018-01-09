@@ -1,0 +1,2044 @@
+#1000
+Forest Entrance~
+   A sense of foreboding eminates from the dark forest ahead.  The
+magnificent trees which once commanded the countryside now cower
+near the ground twisted together in a macabre struggle for survival.
+Off in the distance, there is a large structure towering over the
+foliage.
+~
+10 4 2
+D0
+More forest.
+~
+~
+0 0 1001
+D2
+~
+~
+0 0 15082
+S
+#1001
+The Forest~
+  Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1003
+D1
+Deeper into the forest.
+~
+~
+0 0 1002
+D2
+The forest entrance.
+~
+~
+0 0 1000
+D3
+Deeper into the forest.
+~
+~
+0 0 1004
+S
+#1002
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1005
+D3
+Deeper into the forest.
+~
+~
+0 0 1001
+S
+#1003
+Base of an Ancient Tree~
+   A monsterous tree rises over the forest.  The massive trunk is at
+least twenty paces in diameter and seems to touch the heavens.  Near
+the top branches there seems to be some sort of tower protruding from
+the rough bark; wooden pegs bored into the wood provide access to the
+lofty watchtower.
+~
+10 0 3
+D2
+Approaching the entrance.
+~
+~
+0 0 1001
+D4
+~
+~
+0 0 1023
+S
+#1004
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1001
+D3
+Deeper into the forest.
+~
+~
+0 0 1043
+S
+#1005
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1007
+D2
+Deeper into the forest.
+~
+~
+0 0 1006
+D3
+Deeper into the forest.
+~
+~
+0 0 1002
+S
+#1006
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1005
+S
+#1007
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1008
+D1
+Deeper into the forest.
+~
+~
+0 0 1009
+D2
+Deeper into the forest.
+~
+~
+0 0 1005
+S
+#1008
+Along the River~
+   The tree line ends abruptly on a muddy shore.  The black water seems
+to have killed most of the fauna and flora immediately around the river.
+Piles of decaying fish line the shore, filling the air with a putrid
+odor that clings to the back of your throat.  
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1011
+D1
+Deeper into the forest.
+~
+~
+0 0 1010
+D2
+Deeper into the forest.
+~
+~
+0 0 1007
+S
+#1009
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+~
+~
+0 0 1010
+D3
+Deeper into the forest.
+~
+~
+0 0 1007
+S
+#1010
+Along the River~
+   The tree line ends abruptly on a muddy shore.  The black water seems
+to have killed most of the fauna and flora immediately around the river.
+Piles of decaying fish line the shore, filling the air with a putrid
+odor that clings to the back of your throat.  
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1014
+D1
+Deeper into the forest.
+~
+~
+0 0 1015
+D2
+Deeper into the forest.
+~
+~
+0 0 1009
+D3
+Deeper into the forest.
+~
+~
+0 0 1008
+S
+#1011
+On the River~
+   Large bubbles slowly rise to the oily surface of the tainted river
+and pop loudly all around you providing evidence of the large marine
+life that abounds below.  The rapids are to the east, while there is
+the sound of crashing water westward.
+~
+10 0 7
+D1
+Toward the rapids.
+~
+~
+0 0 1014
+D2
+Deeper into the forest.
+~
+~
+0 0 1008
+D3
+Toward the waterfall.
+~
+~
+0 0 1013
+S
+#1012
+A Clearing~
+   The faint sound of chanting fills the clearing.  As you look around,
+your ears tell you that the chanting seems to be eminating from the earth
+itself!  
+~
+10 0 3
+D3
+Deeper into the forest.
+~
+~
+0 0 1033
+D5
+A ladder provides access to the pit below.
+~
+~
+0 0 1018
+S
+#1013
+On the River~
+   Large bubbles slowly rise to the oily surface of the tainted river
+and pop loudly all around you providing evidence of the large marine
+life that abounds below.  The rapids are to the east, while there is
+the sound of crashing water westward.
+~
+10 0 7
+D1
+Toward the rapids.
+~
+~
+0 0 1011
+D3
+Toward the waterfall.
+~
+~
+0 0 1035
+S
+#1014
+On the River~
+   Large bubbles slowly rise to the oily surface of the tainted river
+and pop loudly all around you providing evidence of the large marine
+life that abounds below.  The rapids are to the east, while there is
+the sound of crashing water westward.
+~
+10 0 7
+D1
+Toward the rapids.
+~
+~
+0 0 1016
+D2
+Deeper into the forest.
+~
+~
+0 0 1010
+D3
+Towards the waterfall.
+~
+~
+0 0 1011
+S
+#1015
+Along the River~
+   The tree line ends abruptly on a muddy shore.  The black water seems
+to have killed most of the fauna and flora immediately around the river.
+Piles of decaying fish line the shore, filling the air with a putrid
+odor that clings to the back of your throat.  
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1016
+D3
+Deeper into the forest.
+~
+~
+0 0 1010
+S
+#1016
+On the River~
+   Large bubbles slowly rise to the oily surface of the tainted river
+and pop loudly all around you providing evidence of the large marine
+life that abounds below.  The rapids block the way east, while there
+is the sound of crashing water westward.
+~
+10 0 7
+D0
+Deeper into the forest.
+~
+~
+0 0 1017
+D2
+Deeper into the forest.
+~
+~
+0 0 1015
+D3
+Deeper into the forest.
+~
+~
+0 0 1014
+S
+#1017
+Along the River~
+   The tree line ends abruptly on a muddy shore.  The black water seems
+to have killed most of the fauna and flora immediately around the river.
+Piles of decaying fish line the shore, filling the air with a putrid
+odor that clings to the back of your throat.  
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1019
+D2
+Deeper into the forest.
+~
+~
+0 0 1016
+S
+#1018
+Sacrifice Pit~
+   The followers of the evil druid Dh'vral dance around in circles,
+contorting themselves in zealous frenzy.  The high priest chants in
+an ancient language while burning bloody sacrifices to a large black
+statue.  Suddenly everything goes quiet as they notice your entry into
+their rite.
+~
+10 1 3
+D4
+A wooden ladder provides access to the top of the pit.
+~
+~
+0 0 1012
+S
+#1019
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1020
+D3
+Deeper into the forest.
+~
+~
+0 0 1017
+S
+#1020
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1021
+D2
+The forest entrance.
+~
+~
+0 0 1019
+S
+#1021
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D2
+Deeper into the forest.
+~
+~
+0 0 1020
+D3
+Deeper into the forest.
+~
+~
+0 0 1022
+S
+#1022
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1021
+D3
+Deeper into the forest.
+~
+~
+0 0 1024
+S
+#1023
+The Watchtower~
+   Bits of broken weaponry and armor lay scattered across the rotting
+planks.  Scorch marks reveal the horrific battle that must have raged
+within this room when Dh'vral's forces overthrew the ancient druidic
+empire which once claimed this entire forest as home.
+~
+10 0 0
+D5
+The base of the tree.
+~
+~
+0 0 1003
+S
+#1024
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1025
+D1
+Deeper into the forest.
+~
+~
+0 0 1022
+D3
+Deeper into the forest.
+~
+~
+0 0 1026
+S
+#1025
+Gnome Camp~
+   Animal bones lay scattered about the camp where they were tossed from
+last night's feast.  Heavy snoring comes from the filthy huts scattered
+around the campsite.  It seems these gnome warriors love to celebrate as
+much as to kill.
+~
+10 0 3
+D2
+Deeper into the forest.
+~
+~
+0 0 1024
+S
+#1026
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1027
+D1
+Deeper into the forest.
+~
+~
+0 0 1024
+S
+#1027
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1025
+D2
+Deeper into the forest.
+~
+~
+0 0 1026
+S
+#1028
+The Inner Courtyard~
+   The courtyard is devoid of any vegetation or life.  A few wooden
+stumps serve as burial markers for those grand trees which were once
+the pride and joy of druid society.  Bit and pieces of tattered leather
+and metal lay as testiment to the ferocity of the druid's struggle 
+against certain extinction against Dh'vral and his forces so many
+centuries before.
+~
+10 4 2
+D0
+A passage outside.
+~
+gate~
+1 1028 1068
+D1
+A guard room.
+~
+door~
+1 -1 1064
+D2
+The main hall.
+~
+~
+0 0 1063
+D3
+A guard room.
+~
+door~
+1 -1 1029
+S
+#1029
+A Guard Building~
+   The outside walls are speckeled with long arrow slits designed
+to hold off the deadliest of attacks while an assortment of carefully
+polished weaponry line the stone walls.  The room itself is sparsely
+furnished except for a rough wooden table and a few chairs around it
+where the guards regularly hold their gambling games.
+~
+10 0 0
+D1
+The entrance to the Keep.
+~
+~
+0 0 1028
+D2
+The Barracks.
+~
+~
+0 0 1058
+D4
+The Western Watchtower.
+~
+trapdoor~
+1 -1 1072
+S
+#1030
+The Forest~
+   There is a sharp cracking sound behind you.  As you turn around to 
+look, you see that the trees have rearranged themselves blocking the
+path behind you. The only way out is east.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1027
+S
+#1031
+The Forest~
+   There is a sharp cracking sound behind you.  As you turn around to 
+look, you see that the trees have rearranged themselves blocking the
+path behind you. The only way out is east.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1026
+S
+#1032
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D2
+Deeper into the forest.
+~
+~
+0 0 1033
+S
+#1033
+Before the Clearing~
+   Through gaps in the trees, you can see a clearing of some sort to
+the east.  The forest grows thicker to the north and to the west.  And
+you can hear the faint crash of running water southward.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1032
+D1
+There is a clearing.
+~
+~
+0 0 1012
+D3
+Deeper into the forest.
+~
+~
+0 0 1034
+S
+#1034
+Along the River~
+   The tree line ends abruptly on a muddy shore.  The black water seems
+to have killed most of the fauna and flora immediately around the river.
+Piles of decaying fish line the shore, filling the air with a putrid
+odor that clings to the back of your throat.  
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1033
+D2
+Deeper into the forest.
+~
+~
+0 0 1035
+D3
+Deeper into the forest.
+~
+~
+0 0 1037
+S
+#1035
+On the River~
+   Large bubbles slowly rise to the oily surface of the tainted river
+and pop loudly all around you providing evidence of the large marine
+life that abounds below.  The rapids are to the east, while there is
+the sound of crashing water westward.
+~
+10 0 7
+D0
+Deeper into the forest.
+~
+~
+0 0 1034
+D1
+Toward the rapids.
+~
+~
+0 0 1013
+D3
+Toward the waterfall.
+~
+~
+0 0 1036
+S
+#1036
+On the River~
+   Large bubbles slowly rise to the oily surface of the tainted river
+and pop loudly all around you providing evidence of the large marine
+life that abounds below.  The rapids are to the east, while there is
+the sound of crashing water westward.
+~
+10 0 7
+D0
+Deeper into the forest.
+~
+~
+0 0 1037
+D1
+Toward the rapids.
+~
+~
+0 0 1035
+D3
+Toward the waterfall.
+~
+~
+0 0 1040
+S
+#1037
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1038
+D1
+Deeper into the forest.
+~
+~
+0 0 1034
+D3
+Deeper into the forest.
+~
+~
+0 0 1039
+S
+#1038
+A Swirling Black Vortex~
+   As you go forward, the ground gives way beneath you and opens
+up into a massive vortex, which dashes your mortal body on a bed
+of sharpened stakes.  The last words you hear are, "Another fitting
+sacrifice to Dh'vral.  He shall be pleased."
+~
+10 10 3
+S
+#1039
+The Drow Camp~
+   The camp hums with activity.  The ringing of metal on metal can be heard
+across the compound as the drows continually hone their bodies and minds 
+for a lifetime of war and bloodshed in the name of Dh'vral.  Even the 
+few women and children who can be seen walking through the camp are garbed
+in full battle regalia.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1037
+S
+#1040
+On the River~
+   Large bubbles slowly rise to the oily surface of the tainted river
+and pop loudly all around you providing evidence of the large marine
+life that abounds below.  The rapids are to the east, while there is
+the sound of crashing water westward.
+~
+10 0 7
+D1
+Rapids lie to the east.
+~
+~
+0 0 1036
+D2
+Deeper into the forest.
+~
+~
+0 0 1041
+D3
+There is a large waterfall.
+~
+~
+0 0 1048
+S
+#1041
+Along the River~
+   The tree line ends abruptly on a muddy shore.  The black water seems
+to have killed most of the fauna and flora immediately around the river.
+Piles of decaying fish line the shore, filling the air with a putrid
+odor that clings to the back of your throat.  
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1040
+D2
+Deeper into the forest.
+~
+~
+0 0 1042
+D3
+Deeper into the forest.
+~
+~
+0 0 1046
+S
+#1042
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1041
+D2
+Deeper into the forest.
+~
+~
+0 0 1043
+D3
+Deeper into the forest.
+~
+~
+0 0 1045
+S
+#1043
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1042
+D1
+Deeper into the forest.
+~
+~
+0 0 1004
+D2
+Deeper into the forest.
+~
+~
+0 0 1044
+S
+#1044
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1043
+S
+#1045
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1046
+D1
+Deeper into the forest.
+~
+~
+0 0 1042
+S
+#1046
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1041
+D2
+Deeper into the forest.
+~
+~
+0 0 1045
+D3
+Deeper into the forest.
+~
+~
+0 0 1047
+S
+#1047
+The Stick-Creature Camp~
+   Neat mud huts create a straight path through the campsite.  There don't
+seem to be any creatures about though.  In fact why would stick creatures
+need dwellings at all?  The insanity of the scene before you draws you to
+the conclusion that this forest is not what it seems at all.  The forest
+that was once natural has been twisted into an evil mockery of its former
+self.
+~
+10 4 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1046
+S
+#1048
+The Waterfall~
+   Oily water cascades from a high embankment above the river drowning
+out the sounds of the forest.  There seems to be a worn path leading
+to the waterfall along the bank which abruptly stops at its base.
+The forest continues to the south.
+~
+10 0 7
+D1
+Deeper into the forest.
+~
+~
+0 -1 1040
+D3
+A large stone blocks your way west.
+~
+stone~
+1 -1 1049
+S
+#1049
+Secret Passage~
+   The massive cavern glows phosphorescently from the thousands of blind
+maggots that coat the walls and floors.  Off in the corner are large 
+piles of bones whitened with age with bits of cloth still clinging to 
+them.  As you peer closer, you notice that they seemed to be arranged in
+some sort of pattern...
+~
+10 1 0
+D0
+A crack in the stone of the cave reveals more forest northward.
+~
+~
+0 -1 1052
+D1
+The entrance to the passage.
+~
+stone~
+1 -1 1048
+S
+#1050
+A Weapons Storeroom~
+   Shelves upon shelves of gleaming blades and spikes hang on pegs 
+centered about six feet off of the floor ready for immediate use.
+A few new recruits pass in and out seeing to the mundane cleaning
+chores that seem endless.
+~
+10 0 0
+D0
+The barracks.
+~
+~
+0 0 1058
+D5
+A dark dungeon.
+~
+grate iron~
+1 -1 1075
+S
+#1051
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1053
+D1
+Deeper into the forest.
+~
+~
+0 0 1052
+S
+#1052
+Outside Cave~
+   The forest thins at the entrance to a cave.  The sound of crashing 
+water seems to reverberate throughout the stone formation.  The thick
+forest continues to the north and fills you with a sense of adventure
+laced with pangs of dread.
+~
+10 0 3
+D2
+Deeper into the forest.
+~
+~
+0 0 1049
+D3
+Deeper into the forest.
+~
+~
+0 0 1051
+S
+#1053
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1054
+D2
+Deeper into the forest.
+~
+~
+0 0 1051
+S
+#1054
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1055
+D2
+Deeper into the forest.
+~
+~
+0 0 1053
+S
+#1055
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1056
+D3
+Deeper into the forest.
+~
+~
+0 0 1054
+S
+#1056
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.  You sense Danger nearby...
+~
+10 0 3
+D0
+A deadly ambush.
+~
+~
+0 0 1059
+D1
+Deeper into the forest.
+~
+~
+0 0 1057
+D3
+Deeper into the forest.
+~
+~
+0 0 1055
+S
+#1057
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1060
+D3
+Deeper into the forest.
+~
+~
+0 0 1056
+S
+#1058
+The Barracks~
+   Despite the rundown appearance in the rest of the Keep, the barracks
+are free of dirt.  The canvas cots are neatly spaced and symmetrically
+placed around the room.  A nondescript trunk lies at the foot of each
+cot, each locked tightly with regulation locks.
+~
+10 0 0
+D0
+A guard room.
+~
+~
+0 0 1029
+D2
+A weapons storeroom.
+~
+~
+0 0 1050
+S
+#1059
+AMBUSH!~
+   Frenzied war cries fill the air as you enter the ambush.  From atop
+the trees, the warriors of Dh'vral hurl boulders upon you crushing you
+beneath their mass.  Then all you know is blackness...
+~
+10 10 3
+D2
+~
+~
+0 0 1056
+S
+#1060
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1062
+D2
+Deeper into the forest.
+~
+~
+0 0 1057
+D3
+A deadly ambush.
+~
+~
+0 0 1059
+S
+#1061
+The Forest~
+   There is a sharp cracking sound behind you.  As you turn around to
+look, you see that the trees have rearranged themselves blocking the
+path behind you.  The only way out is west.
+~
+10 0 3
+D3
+Deeper into the forest.
+~
+~
+0 0 1057
+S
+#1062
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1066
+D3
+Deeper into the forest.
+~
+~
+0 0 1060
+S
+#1063
+The Grand Hall~
+   The grand hall of the Keep speaks of ancient greatness and power
+to the casual glance.  But a deeper inspection reveals decay and
+evil have tainted the purity it once housed.  The druid council once
+ruled this eerily silent hall, now it rests solidly in the clutches
+of Dh'vral who once was a druid himself before betraying his society
+and serving evil.
+   A grand staircase provides access to the rest of the tower.  A
+closer inspection reveals that no physical supports seem to have been
+implemented in the staircase's design.  But it is solid, held by some
+ancient magic.
+~
+10 0 0
+D0
+The entrance to the Keep.
+~
+~
+0 0 1028
+D1
+The Grand Dining Hall.
+~
+~
+0 0 1065
+D2
+The Druidic Council Chambers.
+~
+~
+0 0 1069
+D4
+A sprial staircase leads the way up.
+~
+~
+0 0 1073
+S
+#1064
+A Guard Building~
+   The outside walls are speckeled with long arrow slits designed
+to hold off the deadliest of attacks while an assortment of carefully
+polished weaponry line the stone walls.  The room itself is sparsely
+furnished except for a rough wooden table and a few chairs around it
+where the guards regularly hold their gambling games.
+~
+10 0 0
+D3
+The entrance to the Keep.
+~
+~
+0 0 1028
+D4
+The Eastern Watchtower
+~
+trapdoor~
+1 -1 1071
+S
+#1065
+The Dining Hall~
+   Once the largest dining hall in all of the realm, the dining
+chambers are now doomed to be forever silent.  Some of the magnificent
+stained-glass windows still remain intact.  They depict forest scenes
+and abundant wildlife that has long been extinct.  Perhaps Dh'vral
+wished to keep a part of what he was whole by sparing those breath-
+taking pictures, but the devestation around you tells you that they
+were probably just high enough to escape destruction.
+   Cave-ins along the north and east walls bar entrace to the fabled
+ballroom of the Keep.  In that ballroom, it is said that songbirds of
+all species came at the call of the druid's to perform intricate
+melodies for the dancers.
+~
+10 0 0
+D2
+The kitchen.
+~
+~
+0 0 1070
+D3
+The main hall.
+~
+~
+0 0 1063
+S
+#1066
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D1
+Deeper into the forest.
+~
+~
+0 0 1030
+D2
+Deeper into the forest.
+~
+~
+0 0 1067
+D3
+Deeper into the forest.
+~
+~
+0 0 1062
+S
+#1067
+The Forest~
+   Thick foliage surrounds the trail and in places the trail vanishes
+beneath the rotting humus.  Faint light falls from the treeline faintly
+illuminating the trail, but the thick branches prevent more than just a
+glimmer from touching the ground.  The forest seems to go on for miles 
+and miles.
+~
+10 0 3
+D0
+Deeper into the forest.
+~
+~
+0 0 1066
+D1
+Deeper into the forest.
+~
+~
+0 0 1031
+D2
+The Keep.
+~
+~
+0 0 1068
+D3
+Deeper into the forest.
+~
+~
+0 0 1061
+S
+#1068
+Before the Tower~
+   The trees suddenly open up to reveal a crumbling structure rising
+over a clearing.  Burns blacken the myriad limestone blocks used to 
+build this once grand tower.  The blocks wear the scars of the countless
+centuries of neglect and the encroaching vines are slowly reclaiming
+the walls.  Although the gigantic iron gate which provides entrance to
+the tower seems to be solid enough.
+~
+10 0 2
+D0
+Deeper into the forest.
+~
+~
+0 0 1067
+D2
+The Keep.
+~
+gate~
+1 1028 1028
+S
+#1069
+Druidic Council Chambers~
+   The stone circle which once was the prized centerpiece for the
+chambers is now a crumbled reminant of its former self.  Banners and
+tapestries of a shapes and sizes lay in ruins.  A layer of finger-deep
+dust clings to everything, since no footprints have marred this floor
+in many centuries. 
+   The vast chamber is blocked by fallen rock to the south, west, and
+east permanently sealing the private rooms of the council members
+forever.  It is fabled that those rooms are the final resting places 
+of the last druid council.
+~
+10 4 0
+D0
+The Main Hall.
+~
+~
+0 0 1063
+S
+#1070
+The Kitchen~
+   Large cockroaches and rats fight and scurry over each other in
+a futile attempt to search for one last scrap of food hidden in
+the oak cupboards.  A few pots and pans lay scattered and broken
+across the floorboards, rusty from unuse.
+~
+10 1 0
+D0
+The dining hall.
+~
+~
+0 0 1065
+S
+#1071
+The Eastern Watchtower~
+   From this height, all of the surrounding forest can be easily viewed.
+You realize that your enemies have seen your arrival in the tower by now.
+Your shackles rise and you know that the element of surprise was never 
+there.  If you thought the fight to enter was difficult, what horror can
+await?
+~
+10 0 1
+D5
+A guard room.
+~
+trapdoor~
+1 -1 1064
+S
+#1072
+The Western Watchtower~
+   From this height, all of the surrounding forest can be easily viewed.
+You realize that your enemies have seen your arrival in the tower by now.
+Your shackles rise and you know that the element of surprise was never 
+there.  If you thought the fight to enter was difficult, what horror can
+await?
+~
+10 0 1
+D5
+A guard room.
+~
+trapdoor~
+1 -1 1029
+S
+#1073
+On the Spiral Staircase~
+   Smooth marble steps compose the length of the magical staircase.
+Each stair hangs in the air suspended by invisible cables of power.
+They do not wobble or move as your weight presses on them.  Truely,
+the druid's were a powerful people once.
+~
+10 0 0
+D1
+Down the hallway.
+~
+~
+0 0 1079
+D3
+Down the Hallway.
+~
+~
+0 0 1080
+D4
+The third level.
+~
+~
+0 0 1085
+D5
+~
+~
+0 0 1063
+S
+#1074
+The Dungeon~
+   Hooks and chains provide an odd wallpaper for the dungeon.  Bits
+and pieces of rotting flesh still adorn more than a few of the barbs.
+Whips and other unmentionable attrocities pepper those spaces left
+uncovered by the chains.  Mad laughter floats from the cells; the
+torturers are quick to break even the strongest of prisoners.
+~
+10 8 0
+D0
+A cell.
+~
+cell door~
+1 1014 1075
+D1
+A cell.
+~
+cell door~
+1 1050 1076
+D2
+A cell.
+~
+cell door~
+1 1050 1078
+D3
+~
+cell door~
+1 1050 1077
+S
+#1075
+Dungeon Entrance~
+   Heavy torches shroud the room in a cloud of thick smoke.  Water drips
+in a steady stream from the wooden supports across the ceiling stones and
+forms small pools on the granite floor.  Tortured shrieks resound from
+deep in the dungeon speaking of horrific misery and suffering.  Above 
+the desperate screaming, you can hear chains scraping and whips cracking
+in cadence.  The smell of unwashed bodies overwhelms the senses and
+stings at your eyes and throat.
+~
+10 1 0
+D2
+~
+door entrance~
+2 1014 1074
+D4
+~
+grate iron~
+1 -1 1050
+S
+#1076
+A Cell~
+   There are no furnishings in the cell except for a frayed grass mat
+in the corner soiled with rat feces.  The smell of death and sweat
+overwhelms and chokes the unprotected throat.
+~
+10 0 0
+D3
+~
+cell door~
+1 1050 1074
+S
+#1077
+A Cell~
+   There are no furnishings in the cell except for a frayed grass mat
+in the corner soiled with rat feces.  The smell of death and sweat
+overwhelms and chokes the unprotected throat.
+~
+10 0 0
+D1
+~
+cell door~
+1 1050 1074
+S
+#1078
+A Cell~
+   There are no furnishings in the cell except for a frayed grass mat
+in the corner soiled with rat feces.  The smell of death and sweat
+overwhelms and chokes the unprotected throat.
+~
+10 1 0
+D0
+~
+cell door~
+1 1050 1074
+S
+#1079
+The Hallway~
+   This hallway once circled the entire tower and provided access to 
+the myriad of rooms which housed the Keep's visiting dignitaries and
+their retainers.  Tattered woven rugs still carpet the marble floors
+and a few tapestries flutter in a cold draft rising from the holes
+in the surrounding walls, where weapons have gouged deep holes in
+the mortar.
+   The hallway is blocked to the east by a cave-in of granite rubble.
+Although two wooden doors, one to the north and one to the south seem
+to be in reasonable shape.
+~
+10 0 0
+D0
+A guest room.
+~
+door wooden~
+1 -1 1083
+D2
+A guest room.
+~
+door wooden~
+1 -1 1084
+D3
+The staircase.
+~
+~
+0 0 1073
+S
+#1080
+The Hallway~
+   This hallway once circled the entire tower and provided access to 
+the myriad of rooms which housed the Keep's visiting dignitaries and
+their retainers.  Tattered woven rugs still carpet the marble floors
+and a few tapestries flutter in a cold draft rising from the holes
+in the surrounding walls, where weapons have gouged deep holes in
+the mortar.
+   The hallway is blocked to the west by a cave-in of granite rubble.
+Although two wooden doors, one to the north and one to the south seem
+to be in reasonable shape.
+~
+10 0 0
+D0
+A guest bedroom.
+~
+door wooden~
+2 1014 1082
+D1
+The hallway.
+~
+~
+0 0 1073
+D2
+A guest bedroom.
+~
+door wooden~
+1 -1 1081
+S
+#1081
+A Guest Bedroom~
+   Despite the filth and dust clinging to the furniture, it doesn't
+take much imagination to reconstruct the beauty of this ruined 
+apartment.  The weave of the carpeting is simple yet elegant , as are
+the wall hangings and furniture.  A stone fireplace on the south 
+wall completes the cozy atmosphere.
+~
+10 1 0
+D0
+The main hallway.
+~
+door wooden~
+1 -1 1080
+S
+#1082
+A Guest Bedroom~
+   Despite the filth and dust clinging to the furniture, it doesn't
+take much imagination to reconstruct the beauty of this ruined 
+apartment.  The weave of the carpeting is simple yet elegant , as are
+the wall hangings and furniture.  A stone fireplace on the north
+wall completes the cozy atmosphere.
+~
+10 1 0
+D2
+The main hallway.
+~
+door wooden~
+1 -1 1080
+D5
+There is a trapdoor beneath the rug.
+~
+trapdoor~
+1 -1 1091
+S
+#1083
+A Guest Bedroom~
+   Despite the filth and dust clinging to the furniture, it doesn't
+take much imagination to reconstruct the beauty of this ruined 
+apartment.  The weave of the carpeting is simple yet elegant , as are
+the wall hangings and furniture.  A stone fireplace on the north
+wall completes the cozy atmosphere.
+~
+10 1 0
+D2
+The main hallway.
+~
+door wooden~
+1 -1 1079
+S
+#1084
+A Guest Bedroom~
+   Despite the filth and dust clinging to the furniture, it doesn't
+take much imagination to reconstruct the beauty of this ruined 
+apartment.  The weave of the carpeting is simple yet elegant , as are
+the wall hangings and furniture.  A stone fireplace on the south
+wall completes the cozy atmosphere.
+~
+10 1 0
+D0
+The main hallway.
+~
+door wooden~
+1 -1 1079
+S
+#1085
+On Spiral Staircase~
+   Smooth marble steps compose the length of the magical staircase.
+Each stair hangs in the air suspended by invisible cables of power.
+They do not wobble or move as your weight presses on them.  Truely,
+the druid's were a powerful people once.
+~
+10 0 0
+D3
+The entrance to the library.
+~
+~
+0 0 1086
+D5
+The spiral staircase.
+~
+~
+0 0 1073
+S
+#1086
+The Library~
+   A solid stack of books covers every spare patch of the fifteen
+span high granite walls.  Colorful tomes draw your eye closer.  A
+quick glance at a few titles such as "The Tidal Plains of Southern
+Kore" name this section as the geography wing of the library.
+   Small alcoves pit the walls.  There are small tables which once
+served as study corrals for the novices who frequented this grand
+learning center.  But now, there are no novices and the tables slowly
+rot away under the onslaught of boring insects.
+~
+10 1 0
+D0
+The Geography section.
+~
+~
+0 0 1087
+D1
+The spiral staircase.
+~
+~
+0 0 1085
+S
+#1087
+The Library~
+      A solid stack of books covers every spare patch of the fifteen
+span high granite walls.  Colorful tomes draw your eye closer.  A
+quick glance at a few titles such as "The Origins of Kore" name this
+this section as the history wing of the library.
+   Small alcoves pit the walls.  There are small tables which once
+served as study corrals for the novices who frequented this grand
+learning center.  But now, there are no novices and the tables slowly
+rot away under the onslaught of boring insects.
+~
+10 1 0
+D1
+The science section of the library.
+~
+~
+0 0 1088
+D2
+The library entrance.
+~
+~
+0 0 1086
+S
+#1088
+The Library~
+   A solid stack of books covers every spare patch of the fifteen
+span high granite walls.  Colorful tomes draw your eye closer.  A
+quick glance at a few titles such as "The Anatomy of the Angry
+Bugbear" name this section as the science wing of the library.
+   Small alcoves pit the walls.  There are small tables which once
+served as study corrals for the novices who frequented this grand
+learning center.  But now, there are no novices and the tables slowly
+rot away under the onslaught of boring insects.
+~
+10 1 0
+D1
+The history section of the library.
+~
+~
+0 0 1089
+D3
+The geography section of the library.
+~
+~
+0 0 1087
+S
+#1089
+The Library~
+   A solid stack of books covers every spare patch of the fifteen
+span high granite walls.  Colorful tomes draw your eye closer.  A
+quick glance at a few titles such as "The Daily Rituals of the 
+Modern Druid" name this section as the religious wing of the library.
+   Small alcoves pit the walls.  There are small tables which once
+served as study corrals for the novices who frequented this grand
+learning center.  But now, there are no novices and the tables slowly
+rot away under the onslaught of boring insects.
+~
+10 1 0
+D2
+The druid's archives.
+~
+~
+0 0 1090
+D3
+The science section of the library.
+~
+~
+0 0 1088
+S
+#1090
+The Library~
+   A solid stack of books covers every spare patch of the fifteen
+span high granite walls.  Colorful tomes draw your eye closer.  A
+quick glance at a few titles such as "Index to the Minutes of the
+Druid Council: An Overview" name this section as the archive wing
+of the library.
+   Small alcoves pit the walls.  There are small tables which once
+served as study corrals for the novices who frequented this grand
+learning center.  But now, there are no novices and the tables slowly
+rot away under the onslaught of boring insects.
+~
+10 1 0
+D0
+The history section of the library.
+~
+~
+0 0 1089
+D2
+A seemingly solid wall.
+~
+secret door~
+2 1090 1093
+S
+#1091
+A Secret Passageway~
+   A dark stairwell leads the way down into the lowest level of
+the tower.  Suddenly, you notice that the stairs behind you are   
+disappearing as soon as you leave them.  There is no way out
+above you, so you must continue downward.
+~
+10 1 0
+D5
+Another trapdoor.
+~
+trapdoor~
+1 -1 1074
+S
+#1092
+A Secret Passageway~
+   A dark stairwell leads the way down into the second level of 
+the tower.  Suddenly, you notice that the stairs behind you are
+disappearing as soon as you leave them.  There is no way out
+above you, so you must continue downward.
+~
+10 1 0
+D5
+A guest bedroom.
+~
+trapdoor~
+1 -1 1084
+S
+#1093
+The Secret Lab~
+   Once the office of the Master Librarian, this room serves as
+Dh'vral's personal study and laboratory.  Bubbling liquids drip
+through bits of intestinal tubing and drip into dozens of thick
+glass beakers.  Scrolls clutter the floor so thickly, that one
+step forward crushes no less than three.  Acrid smoke lingers
+in the air, perhaps Dh'vral's magic isn't as dependable as most
+adventurers would have you believe?
+~
+10 0 0
+D0
+The archive section of the library.
+~
+secret door~
+2 1090 1090
+D4
+Ascending a small staircase.
+~
+~
+0 0 1094
+S
+#1094
+On the Secret Staircase~
+   A rickety old staircase leads the way to the top-most heights
+of the Keep and to Dh'vral's personal apartments.
+~
+10 0 0
+D4
+The top of the staircase.
+~
+~
+0 0 1095
+D5
+The secret lab.
+~
+~
+0 0 1093
+S
+#1095
+The Top of the Secret Staircase~
+   A brightly burnished bronze door heads the top of the staircase.  The
+door provides access to the uppermost section of the Keep.  Very few are
+permitted entrance and even fewer ever leave alive.
+~
+10 1 0
+D0
+The entrance to Dh'vral's chambers.
+~
+oak door~
+2 1095 1096
+D5
+Down the staircase.
+~
+~
+0 0 1094
+S
+#1096
+The Reception~
+   Posh luxury fills the entire apartment.  Expensive carpets cover the
+marbled floor and intricate weavings hang from polished oak rafters in
+the cathedral ceilings.  Exotic perfumes waft through the air mixing 
+with the aroma of finely prepared dishes worthy of an emperor.  The sound
+of singing seems to be coming from the west and the master bedroom is
+eastward.
+~
+10 4 0
+D1
+Dh'vral's bedchambers.
+~
+~
+0 0 1097
+D2
+Exiting Dh'vral's chambers.
+~
+door oak~
+2 1095 1095
+D3
+The royal baths.
+~
+~
+0 0 1098
+D5
+The Treasury.
+~
+vault~
+2 1096 1099
+S
+#1097
+The Bedchambers~
+   The largest bed in Kore rises like a gargantuan love-pen above the
+height of the average human.  Kinky sex toys squeak underfoot and
+whips and chains hang from the bedposts.  All sorts of jellies and
+massage oils stand apart on a clinical metal stand ready to be dished
+at a moments notice.
+~
+10 1 0
+D3
+The reception.
+~
+~
+0 0 1096
+D5
+A secret passageway.
+~
+secret~
+1 -1 1092
+S
+#1098
+The Royal Baths~
+   Soapy bubbles fill the room.  A towel rack off to one side holds
+two towels both are embroidered with the name "Dh'vral" in pink
+bubble letters on a neon green background.  The air is so thick with
+perfumes that most vistors leave in a uncontrolable fit of sneezing.
+~
+10 0 0
+D1
+The reception.
+~
+~
+0 0 1096
+S
+#1099
+Dh'vral's Treasury~
+   Despite the treasures in this room, the room is more like a cubicle
+than a vault.  Treasures from around the world lay scattered in large
+heaps.  Tiaras, sceptres, and gems have just been thrown around as if
+they were junk and not priceless treasures.  But the coins are arranged
+in neatly counted stacks.
+~
+10 393217 0
+D4
+The Reception.
+~
+vault~
+2 1096 1096
+S
+#99999
+$~

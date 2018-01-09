@@ -1,0 +1,11 @@
+>rand_prog 2~
+ mpecho $I shuffles through the flooded streets, looking for anything to eat.
+~
+>rand_prog 3~
+ mpecho $I reaches into a pile of refuse and returns with a human leg!
+ mpoload 11032
+ cheer
+ eat 11032
+~
+|
+

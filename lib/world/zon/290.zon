@@ -1,0 +1,144 @@
+#290
+Hadrian's Zone~
+29099 10 2 3
+M 0 29020     1 29069            Idolpho
+M 0 29044     1 29092            Mopono
+O 0 29097   100 29092            a giant, glowing orb
+M 0 29012    10 29026            a Djabarim villager
+E 1 29016    12     5                    body a dirty animal hide
+M 0 29043     1 29089            Iago
+E 1 29086    20     7                    legs dragonscale leggings
+M 0 29042     1 29086            Teera
+E 1 29088    15     2                    right finger a dragonscale ring
+E 1 29088     3     1                    left finger a dragonscale ring
+M 0 29041     1 29083            Plasostro
+E 1 29085    15    15                    right wrist a dragonscale bracer
+E 1 29085     3    14                    left wrist a dragonscale bracer
+M 0 29040     1 29080            Kray
+E 1 29087    20     6                    head a dragonscale helmet
+D 0 29077     0     2            The End of the Grand Hall door north
+M 0 29034     1 29077            Ackularn
+E 1 29089   100    16                    wield Ackularn's spellbook
+E 1 29084    20    11                    shield a ^Ygold dragonscale^n shield
+E 1 29099    25    17                    held the mazemaster's key
+O 0 29065   100 29076            a small dragon statue
+D 0 29076     1     2            An Alcove off the Grand Hall door east
+M 0 29033     1 29076            Reyenoord
+E 1 29078   100    12                    about ^Wsilver^n wings of the dragoon
+E 1 29082    10    16                    wield a dragon knight's spear
+E 1 29073   100     3                    neck 1 a ^Wsilver^n amulet of dragon power
+O 0 29065   100 29075            a small dragon statue
+D 0 29075     3     2            An Alcove off the Grand Hall door west
+M 0 29032     1 29075            Naserena
+E 1 29077   100    12                    about ^Ygold^n wings of the dragoon
+E 1 29081    10    18                    ready a peacemaker's longbow
+E 1 29072   100     3                    neck 1 a ^Ygold^n amulet of dragon power
+M 0 29001     2 29005            a bandit
+O 0 29065   100 29073            a small dragon statue
+D 0 29073     3     2            An Alcove off the Grand Hall door west
+M 0 29030     1 29073            Vonovesk
+E 1 29075   100    12                    about ^mpurple^n wings of the dragoon
+E 1 29080    10    16                    wield a ^Mpoisoned^n dagger
+E 1 29070   100     3                    neck 1 a ^mpurple^n amulet of dragon power
+O 0 29065   100 29072            a small dragon statue
+D 0 29072     1     2            An Alcove off the Grand Hall door east
+M 0 29031     1 29072            Balamande
+E 1 29076   100    12                    about ^cturqoise^n wings of the dragoon
+E 1 29083    10    16                    wield a katana with a carved dragon hilt
+E 1 29071   100     3                    neck 1 a ^cturquoise^n amulet of dragon power
+M 0 29014     2 29029            a Djabarim hunter
+E 1 29015    25    16                    wield a large stone axe
+E 1 29013     5     5                    body a brown wolf hide
+M 0 29014     2 29029            a Djabarim hunter
+E 1 29015    25    16                    wield a large stone axe
+E 1 29014     4    12                    about a ^rred^n fox hide
+M 0 29012    10 29019            a Djabarim villager
+E 1 29017    33    17                    held a small water jug
+M 0 29012    10 29019            a Djabarim villager
+E 1 29016     5     5                    body a dirty animal hide
+M 0 29010     5 29018            a Djabarim boy
+M 0 29012    10 29021            a Djabarim villager
+E 1 29016    10     5                    body a dirty animal hide
+M 0 29010     5 29021            a Djabarim boy
+M 0 29011     4 29021            a Djabarim girl
+M 0 29010     5 29024            a Djabarim boy
+M 0 29011     4 29022            a Djabarim girl
+M 0 29012    10 29023            a Djabarim villager
+E 1 29017    80    17                    held a small water jug
+E 1 29016    10     5                    body a dirty animal hide
+O 0 29005   100 29023            a well
+O 0 29006    25 29025            a large, roasted pig
+P 1 29007   106 29006                    put a roasted rib in a large, roasted pig
+M 0 29012     1 29025            a Djabarim villager
+G 1 29017    50    -1                    give a small water jug
+M 0 29013     3 29025            a Djabarim hunter
+E 1 29012    10    18                    ready a lightweight bola
+E 1 29016    50     5                    body a dirty animal hide
+M 0 29015     1 29030            the Djabarim chief
+E 1 29009    75    17                    held an old, brass key
+E 1 29018    20    18                    ready a sturdy longbow
+E 1 29019    75     2                    right finger a ring of bone
+E 1 29020    25     8                    feet bearskin boots
+M 0 29002     1 29014            a black bear
+E 1 29010    10    16                    wield a tooth of the black bear
+M 1 29003     1 29014            a grizzly bear
+E 1 29011    25     5                    body the hide of a grizzly bear
+D 0 29055     0     2            The Heart of the Maze door north
+D 0 29055     1     2            The Heart of the Maze door east
+D 0 29055     2     2            The Heart of the Maze door south
+O 0 29060   100 29055            a glowing chest
+P 1 29074   100 29060                    put a colorless amulet in a glowing chest
+D 0 29090     2     2            A Large Cave door south
+D 0 29087     3     2            Another Cave door west
+D 0 29084     1     2            Another Cave door east
+D 0 29081     3     2            Another Cave door west
+D 0 29078     1     2            Another Cave door east
+D 0 29064     2     2            Inside the Maze door south
+O 0 29066   100 29071            the fountain
+D 0 29067     3     2            Inside the Maze door west
+O 0 29064   100 29067            a mirror
+O 0 29063   100 29060            a mirror
+D 0 29060     2     2            Inside the Maze door south
+O 0 29062   100 29056            a mirror
+D 0 29056     0     2            Inside the Maze door north
+D 0 29056     1     2            Inside the Maze door east
+O 0 29061   100 29046            a mirror
+D 0 29057     3     2            Inside the Maze door west
+D 0 29063     2     2            Inside the Maze door south
+D 0 29066     2     2            Inside the Maze door south
+D 0 29066     1     2            Inside the Maze door east
+D 0 29061     2     2            Inside the Maze door south
+D 0 29061     0     2            Inside the Maze door north
+D 0 29058     0     2            Inside the Maze door north
+D 0 29058     2     2            Inside the Maze door south
+D 0 29059     2     2            Inside the Maze door south
+D 0 29059     0     2            Inside the Maze door north
+D 0 29054     3     2            Inside the Maze door west
+D 0 29054     0     2            Inside the Maze door north
+D 0 29053     0     2            Inside the Maze door north
+D 0 29053     2     2            Inside the Maze door south
+D 0 29051     1     2            Inside the Maze door east
+D 0 29051     2     2            Inside the Maze door south
+D 0 29052     3     2            Inside the Maze door west
+D 0 29045     0     2            Inside the Maze door north
+D 0 29048     0     2            Inside the Maze door north
+D 0 29048     3     2            Inside the Maze door west
+D 0 29049     2     2            Inside the Maze door south
+D 0 29049     1     2            Inside the Maze door east
+D 0 29050     0     2            Inside the Maze door north
+D 0 29044     0     2            Inside the Maze door north
+D 0 29032     2     2            A Small Cave door south
+O 0 29008   100 29031            a bookshelf
+D 0 29031     0     2            In the Cellar door north
+O 0 29004   100 29017            a small roadsign
+E 1 29010    15    16                    wield a tooth of the black bear
+E 1 29011    33     5                    body the hide of a grizzly bear
+D 0 29009     2     1            A Tiny Opening in the Tangled Undergrowth door south
+D 0 29006     0     1            An East-West Path Through the Forest door north
+O 0 29003   100 29008            a huge, fallen tree
+O 0 29000   100 29002            an old, broken-down wagon
+P 1 29001    50 29000                    put dirty clothes in an old, broken-down wagon
+P 1 29002    10 29000                    put a tarnished brass ring in an old, broken-down wagon
+S
+#99999
+$~

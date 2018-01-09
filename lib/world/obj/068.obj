@@ -1,0 +1,437 @@
+#6800
+statue shards marble~
+a thousand shards~
+A thousand shards, the remains of a statue, decorate the ground.~
+~
+13 0 0
+0 0 0 0
+1000 0 0
+E
+statue marble shards~
+   A thousand shards of green and black marble, the remains of a statue,
+decorate the ground.
+~
+#6801
+fountain dragon~
+a fountain~
+A crystal fountain in the shape of a dragon.~
+~
+23 0 0
+5000 5000 15 1
+1000 0 0
+E
+fountain dragon~
+   A large crystal fountain in the shape of a five headed dragon. Each
+head has clear water coming from it.
+~
+#6802
+wooden desk~
+a wooden desk~
+A wooden desk is here.~
+~
+15 0 0
+200 1 -1 0
+0 0 0
+E
+wooden desk~
+   A wooden desk with papers and pencils inside.
+~
+#6803
+paper writing~
+writing paper~
+A sheet of paper is lying here.~
+~
+16 65548 1
+0 0 0 0
+0 0 0
+E
+writing paper~
+   A sheet of off white paper used for writing notes.
+~
+#6804
+pencil~
+a pencil~
+A pencil is lying here.~
+~
+21 65548 1
+0 0 0 0
+0 0 0
+E
+pencil~
+   A pencil used for writing on paper.
+~
+#6805
+book identify~
+a book~
+A book entitled identify is lying here.~
+~
+2 0 1
+50 113 0 0
+0 0 0 500
+E
+book identify~
+  A paperback book entitled identify. Whats left of the book, the
+pages are falling out and turning to dust. A few words can still 
+be made out on one of the pages. "Recite identify (object)"
+~
+#6806
+oven~
+an oven~
+A half open oven is here.~
+~
+15 0 0
+200 1 -1 0
+0 0 0
+E
+oven~
+   A half open oven. Once used to cook the daily specials.
+~
+#6807
+rock bread mold~
+a loaf of rock hard bread~
+A rock hard loaf of bread covered with mold.~
+~
+13 0 1
+0 0 0 0
+1 0 0
+E
+rock bread mold~
+   No telling how long this loaf of bread has been in the oven.
+It is rock hard and covered with mold.
+~
+#6808
+sword rusty old~
+a rusty old sword~
+Tarnished with age this rusty old sword still looks in good shape.~
+~
+5 65540 1
+2 4 6 0
+5 0 0
+E
+sword rusty old~
+A old tarnished sword. Still in good shape.
+~
+A
+19 2
+#6809
+statue goddess magic~
+a statue of the goddess~
+A statue made of the finest marble, radiates life.~
+~
+8 1 0
+0 0 0 0
+0 1000000 0
+E
+statue goddess magic~
+   A statue of the Goddess of Magic. She has long black hair that
+reaches to her waist. Gold gleams from her neck to the single gold
+band on her finger. A black silk dress flows over her body. She
+is known to have worshipers the realms over.
+~
+#6810
+tree~
+a tree~
+A large tree that has grown to the reaches of the skyline.~
+~
+13 0 0
+0 0 0 0
+500 0 0
+E
+tree~
+   A large tree that is well over a few 100 years. It's branches
+have leaves year around. A carving can be seen on the tree.
+~
+E
+carving~
+    Ayana was here.
+~
+#6811
+barrel large wooden~
+a large wooden barrel~
+A large wooden barrel used to hold water.~
+~
+23 0 0
+10000 10000 15 0
+2000 0 0
+E
+wooden barrel large~
+    A large wooden barrel filled to the top with clear water.
+~
+#6812
+rack wooden~
+a wooden rack~
+A wooden rack hangs above the bar filled with bottles of wine.~
+~
+15 0 0
+1000 0 -1 0
+0 0 0
+E
+wooden rack~
+    A wooden rack hangs above the bar. It used to house a selection
+of fine wines in the realms. Some bottles still remain in the rack
+unbroken and sealed with a cork.
+~
+#6813
+wine fine white bottle~
+a bottle of fine white wine~
+A bottle of white wine.~
+~
+17 0 1
+20 20 2 0
+0 0 0
+E
+fine white bottle wine~
+   A bottle of a fine white wine. 
+~
+#6814
+chest wooden small~
+a small wooden chest~
+A small wooden chest engraved with scarabs.~
+~
+15 0 0
+1000 1 -1 0
+0 0 0
+E
+wooden small chest~
+   A small wooden chest engraved with scarabs. Use to keep worms
+for fishing.
+~
+#6815
+worm worms~
+a worm~
+A worm.~
+~
+19 0 1
+15 0 0 0
+0 0 0
+E
+worm worms~
+   A long black worm used to fish with. Or if one is hungry it is
+a good source of protein.
+~
+#6816
+carton wooden~
+a wooden carton~
+The remains of a wooden carton is lying here.~
+~
+15 0 0
+100 0 -1 0
+1000 0 0
+E
+carton wooden~
+   The remains of a wooden carton that once held artwork.
+~
+#6817
+artwork pieces~
+pieces of artwork~
+Crumbled pieces of artwork.~
+~
+13 0 1
+0 0 0 0
+5 0 0
+E
+artwork pieces~
+   The remains of artwork crumbled into alot of pieces.
+~
+#6818
+dagger black shady~
+a black shady dagger~
+A black shady dagger is lying here.~
+~
+5 8401408 8193
+2 6 5 11
+0 0 0
+E
+shady black dagger~
+   A fine crafted dagger. Black with a slick shadowy look. 
+~
+A
+18 2
+A
+2 1
+A
+19 2
+A
+3 -2
+#6819
+boots shady black~
+a pair of shady black boots~
+An unfinished object is lying here.~
+~
+9 8401408 65
+5 0 0 0
+4 1000 0
+E
+black shady boots~
+   A pair of black shady boots. Light in weight and made of the 
+toughes leather.
+~
+A
+13 20
+A
+2 2
+A
+12 -10
+#6820
+black shady belt~
+a black shady belt~
+A black belt is lying here.~
+~
+9 8434176 2049
+3 0 0 0
+0 0 0
+E
+black shady belt~
+   A black belt made of leather. Black onyx gems are enlayed into
+the belt giving it a shady look.
+~
+A
+24 -4
+A
+13 25
+A
+4 -3
+A
+19 1
+A
+18 1
+#6821
+sleeves wasteland gold~
+wasteland warrior sleeves~
+A pair of gold sleeves.~
+~
+9 188416 257
+6 0 0 0
+3 0 0
+E
+sleeves wasteland gold~
+    Solid gold sleeves with the mark of the Wasteland Warriors. 
+~
+A
+17 -10
+A
+24 -2
+A
+1 2
+A
+5 -2
+A
+19 1
+#6822
+sword wasteland warrior~
+a sword of a wasteland warrior~
+A sword is lying here.~
+~
+5 28672 8193
+4 5 5 0
+10 0 0
+E
+sword wasteland warrior~
+   A sword made of the finest metal. Made for the wasteland warrior. 
+~
+A
+19 3
+A
+12 -20
+A
+22 -3
+#6823
+safe~
+a safe~
+A sturdy safe used to hold ones gold and coins.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+#6824
+potion detect_invisible vial~
+potion of detect invisible~
+A glass vial is lying here.~
+~
+10 0 1
+60 19 0 0
+0 0 0 20
+E
+potion vial~
+  A small vial filled with a liquid so one can detect the invisible. This potion should be taken
+right away as it is starting to fade into nothing.
+~
+#6825
+red cloak flowing~
+a ^Rred^n flowing ^Rcloak^n~
+A long ^Rred^n flowing ^Rcloak^n is lying here.~
+~
+9 1088 1025
+10 0 0 0
+0 0 0
+E
+red cloak flowing~
+   A long flowing red cloak made of a extra strong fabric but with the feel of satin.
+~
+A
+1 1
+A
+19 2
+A
+5 1
+A
+4 -2
+A
+17 -10
+A
+6 -3
+#6826
+halo energy~
+a glowing halo of energy~
+A glowing halo is lying here.~
+~
+9 50497 17
+5 0 0 0
+0 0 0
+E
+glowing energy halo~
+   A circular glowing form of energy makes up this halo. Once worn by a very powerful cleric. The
+engery that radates from the halo covers the wearer in a golden light of truth.
+~
+A
+2 -2
+A
+4 3
+A
+3 1
+A
+12 10
+A
+1 -1
+#6827
+crystal ball~
+a crystal ball~
+A small crystal ball is lying here.~
+~
+9 1 16385
+4 0 0 0
+1 100 0
+E
+crystal ball~
+   A small crystal ball used to look into ones future.
+~
+A
+4 1
+A
+3 2
+#6828
+diamond earring~
+a ^Wdiamond^n earring~
+A diamond earring is lying here.~
+~
+9 1 131073
+3 0 0 0
+0 0 0
+E
+diamond earring~
+   A small diamond earring sparkles different colors.
+~
+A
+2 2
+#99999
+$~

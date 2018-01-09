@@ -1,0 +1,1342 @@
+#23500
+Entrance to Shire~
+   You stand now at the entrance to the Shire, home of the halflings.
+To the west you see the commerce section, with all its stores and such.
+To the north, you see the residential section, with peoples homes.
+To the south, you see a forest, which brought you here, and to the east
+you see the governmental section of the city.
+~
+235 32768 1
+D0
+~
+~
+0 0 23502
+D1
+~
+~
+0 0 23503
+D2
+~
+~
+0 0 23504
+D3
+~
+~
+0 0 23501
+E
+sign~
+     You read the sign:
+
+     Welcome to the Shire. Illegal activities will not be tolerated.
+~
+S
+#23501
+On Bywater Street, West Side~
+   You stand at the begginning of the besubusiness section of town.
+Halflings bustle this way and that going to work, chores, and play.
+To the north is the bakery and beyon thd that the mill.
+To the south is the general store. The road continues west.
+~
+235 32768 1
+D0
+~
+~
+0 0 23507
+D1
+~
+~
+0 0 23500
+D2
+~
+~
+0 0 23505
+D3
+~
+~
+0 0 23510
+S
+#23502
+By the River~
+   Before you is a bridge over the river Brandywine. Fast currents
+flow everywhere in the river, making the bridge the only way over
+the wide and deep river. In the distance you hear womnen bathing, and
+wonder how they don't just float away in the current.
+~
+235 32768 1
+D0
+~
+~
+0 0 23536
+D2
+~
+~
+0 0 23500
+S
+#23503
+On Bywater Street, East EndSide~
+   Well dressed, by thier own standards, adult halflings scramble
+left and right from meeting to meeting, group to group, and job to
+job. This is the political section, and you see plenty of politics.
+~
+235 32768 1
+D0
+~
+~
+0 0 23515
+D1
+~
+~
+0 0 23517
+D2
+~
+~
+0 0 23516
+D3
+~
+~
+0 0 23500
+S
+#23504
+A Path to the City~
+   You are walking along a path in a lightly forested area. Halflings
+pass by you occasionally, paying no attention to you. They seem to not
+notice the lack of birds here, as they are busy with thier chores and
+jobs.
+   To the nothrth is a halfling city, and to the south is the path by
+which you came.
+~
+235 32768 3
+D0
+~
+~
+0 0 23500
+D2
+~
+~
+0 0 23577
+S
+#23505
+The general store~
+   You are standing in the general store for all of the Shire.
+Halflings com and go, buying and selling with the short man
+behind the counter. Looking right at you, he asks, "May I help
+you?"
+~
+235 32920 0
+D0
+~
+~
+0 0 23501
+S
+#23506
+General store storage room~
+   Players found in this room will be *FROZEN*  This is the storage room
+for the general store.
+~
+235 1032 0
+S
+#23507
+The Bakery~
+   The smell of fresh bread fills your lungs, making your mouth
+water in anticipation of the sweet tasting bread.
+~
+235 32920 0
+D0
+~
+~
+0 0 23509
+D2
+~
+~
+0 0 23501
+S
+#23508
+Bakery shop storage room~
+   This is the bakery storage room; players found in this room will be
+*FROZEN*.  This is a shop room where all things on the floor are sold
+by the baker.
+~
+235 1032 0
+S
+#23509
+The Mill~
+   You can barely hear youself think in this deafening noise. Huge
+grindstones crush pipeweed into flour for the baker to make his
+deliscious bread with. The miller stands here, watching over the work.
+~
+235 32776 0
+D2
+A solid oak door, with a sign saying "to the bakery"
+~
+oak door~
+0 0 23507
+S
+#23510
+On Bywater Street~
+   Halflings walk back and forth between the shops here, trading and
+selling thier goods. Children play in the street alleys, and the adults
+watch them, talking amongst themselves. To the north is the blacksmith,
+to the south is the armourer.
+~
+235 32768 1
+D0
+~
+~
+0 0 23578
+D1
+~
+~
+0 0 23501
+D2
+~
+~
+0 0 23511
+D3
+~
+~
+0 0 23513
+S
+#23511
+The Armourers Shop~
+   Splendidly fashioned armours of leather, chain, and steel line
+the walls of this building, a display of the fine wares this man
+has accumulated during his many years as an armourer. The wares for
+sale are along the shelves that you can reach, and they are still of
+a fine quality.
+~
+235 32912 0
+D0
+~
+~
+0 0 23510
+S
+#23512
+Armorors storage room~
+   Players found in this room will be *FROZEN*. This is the armorers storage
+room.
+~
+235 1032 0
+S
+#23513
+End of Bywater Street~
+   This is the end of the road, although it turns north to go over
+the river Brandywine via a bridge. A few run down buildings, the only
+sign of poverty in this fair scity, lie to the south, and it seems 
+like there are only two of them.
+~
+235 32768 1
+D0
+~
+~
+0 0 23514
+D1
+~
+~
+0 0 23510
+D2
+A crack is in the wall to the south, and it looks as if you could tear
+out the stone beside it, like it has been so many times.
+~
+crack wall~
+1 -1 23527
+S
+#23514
+By the Bridge~
+   You stand beside the only other bridge crossing the BrandyWwine.
+There is little noise here but the constant singing rush of the river.
+North of here, past the bridge, seems to be the residential section.
+~
+235 32768 0
+D0
+~
+~
+0 0 23529
+D2
+~
+~
+0 0 23513
+S
+#23515
+Entrance Hall to Meeting Rooms ~
+   Important looking halflings wander around, trying to make
+themselves look like they are doing something important, although
+you can tell most of the m are just running around. A receptionist
+sticks her head throught  the window and calls, "Group 235!" A
+large group of halflings walks off to the meeting room.
+~
+235 32840 0
+D0
+~
+~
+0 0 23523
+D2
+~
+~
+0 0 23503
+S
+#23516
+Senate Room~
+   This room seems to be evidently quiter than the Parliment, as
+the halflings here are more dignified and solmemn. Already in session
+the speaker is talkigng about developments he plans to make for the
+city. Everyone is listening too.
+~
+235 32776 0
+D0
+~
+~
+0 0 23503
+S
+#23517
+Eastern End of Bywater Street~
+   Some of the noise here has subsided, although alot can still
+be heard to the north, apparently the guardhouse. To the south is
+the Parlimentary building. Laws are being formed right nwow, and
+you wonder if you'll get in trouble for some new law you didn't know
+about...
+~
+235 32768 1
+D0
+~
+~
+0 0 23518
+D1
+~
+~
+0 0 23520
+D2
+~
+~
+0 0 23519
+D3
+~
+~
+0 0 23503
+S
+#23518
+Shiriff's Guardhouse~
+   Halfling shiriffs are standing around, gambling with dice and
+talking to each other. Every once in a while, a burly looking guard
+pokes his head through the door and calls out some name, apparently
+someone who has a new assignment, or maybe something else...
+~
+235 32776 0
+D1
+~
+~
+0 0 23525
+D2
+~
+~
+0 0 23517
+S
+#23519
+The Parliament~
+   Representatives of different halfling clans run around here, yelling
+and calling out to each other about important matters. Suddenly a gavel
+comes down, and silence follows. The Speaker stands up, and begins a 
+session by saying...
+"My fellow halflings, welcome. We have many matters to discuss, so letus begin." Pointless and thorough, people start mumbling to each other.
+~
+235 32776 0
+D0
+~
+~
+0 0 23517
+S
+#23520
+The Mayor's Waiting Room~
+   You stand within the waiting room of the Mayor of this (fair)?) city.
+His secretary sparadically sticks her head through the door to call for
+visitors to see the mayor. You notice she left the fdoor open...
+~
+235 32904 0
+D1
+~
+~
+0 0 23521
+D3
+~
+~
+0 0 23517
+S
+#23521
+The Mayor's Secretary~
+   The Mayor's secretary sits at the desk, apparently buried in work.
+She doesn't even notice you as you enter, and apparently isn't going
+to. You could easily slip right into the Mayor's office...
+~
+235 32840 0
+D1
+~
+~
+0 0 23522
+D3
+~
+~
+0 0 23520
+S
+#23522
+The Mayor's Office~
+   WOW! It's Mayor Gamgee, and you are standing face to face with
+him. He gives you a reproachful look, apparently disgusted at your
+presence. You just smile back, and sit down in a chair against the wall
+wall to wait for him to be done with his current meeting.
+~
+235 32968 0
+D0
+~
+~
+0 0 23524
+D3
+~
+~
+0 0 23521
+S
+#23523
+The Meeting Room~
+   You enter quickly but quietly, since someone is apparently giving
+a speech about what should be dnone with the thieves in this city.
+From what you gather, tehe thieves here have completely terrorized
+the city, and the citizen s are tired of it, and want it fixed.
+~
+235 33000 0
+D2
+~
+~
+0 0 23515
+S
+#23524
+The Mayor's Files and Papers~
+   This is the room where the Mayor keeps all of his important papers
+behind locks in filing cabinets. This room is immense, with cabinets
+reaching up to the roof, and too both ends of the room.
+~
+235 32840 0
+D2
+~
+~
+0 0 23522
+S
+#23525
+Guardroom for the Thain~
+   Before you stands six VERY strong and powerful looking guards.
+They form a wall before oyou, blocking the way to the Thain, as
+you have no schedulerd appointment with him. It looks like you'll
+have to kill them or put them to sleep to get to the Thain, who 
+might not be too happy about it either...
+~
+235 32840 0
+D0
+~
+~
+0 0 23526
+D1
+~
+~
+0 0 23553
+D3
+~
+~
+0 0 23518
+S
+#23526
+The Thain's oOffice~
+   Before you stands the Thain of the Shire, a human-sized halfling
+with huge mucscles and an even bigger brain. He keeps peace and 
+order (at least he tries to), with the help of his shiriffs, and many
+halflings look up to him...although that might be because of his height.
+~
+235 32968 0
+D2
+~
+~
+0 0 23525
+S
+#23527
+A run-dorwn old building~
+   It is obvious nobody lives here, but if noone lives here, then 
+how would that explain the footprints in th e dust of human-like
+feet. They seem to follow justo one path, the one to the south to
+the other building.
+~
+235 32845 0
+D0
+A crac k is here in the wall, and it looks like you could tear
+it open and go inside it, as it has been done like that before.
+~
+crack wall~
+1 -1 23513
+D2
+~
+~
+0 0 23528
+S
+#23528
+A beggar's home~
+   You barely notice the silent beggar in the corner. He sits there
+patiently awatiiting someone (or something) to come. You notice a
+tapestry on the far wall...it is of two nasty looking daggers crossed
+in an X beneath a lock and lockpick...
+~
+235 32845 0
+D0
+~
+~
+0 0 23527
+D5
+~
+floor~
+1 -1 23544
+S
+#23529
+Over the poor bridge~
+   You are above the river, standing on a bridge that could fall
+at any given moment. It no longer has any real flooring and it has 
+no rails to keep you on it...
+~
+235 32768 1
+D0
+~
+~
+0 0 23531
+D2
+~
+~
+0 0 23514
+D3
+~
+~
+0 0 23530
+S
+#23530
+Drowning in the Brandywine~
+   Ack! You feel from the bridge right onto some rocks in the river.
+You think you are safe whe n a large surge of water sweeps you from the
+the rock...you hit your heasd...red fading to cblack...you lose
+consiousnessciousness...
+~
+235 33166 6
+D1
+~
+~
+0 0 23529
+S
+#23531
+Past the bridge~
+   You are well past the birdge now, but your heart is still beating
+hard. Here, halflings walk along the road, but only on the part the
+farthest from the bridge. It makes you realize crossing the bridge
+was very rsisky.
+~
+235 32768 1
+D1
+~
+~
+0 0 23532
+D2
+~
+~
+0 0 23529
+S
+#23532
+The Beginnings of the Residence~
+   This is obviously the Residence of the shire. HAalflings wander about,
+doing chorses or talking to friends. Off to the north can be seen many
+houses that these people live in...under hills to be exact.
+~
+235 32768 1
+D0
+~
+~
+0 0 23533
+D1
+~
+~
+0 0 23534
+D3
+~
+~
+0 0 23531
+S
+#23533
+Along Westdale SRoad~
+   Apparently this is the area of town for the working class. Houses line
+the streets and a church is off to the northwest. The halflings here smile
+at you as you walk by, and out of courtesy you smile back. A few shady
+looking characters walk around, but seem to stay clear of you. You notice
+one of them slip through a building, and lloking ooking indiside you see no one there.
+~
+235 32768 1
+D0
+~
+~
+0 0 23562
+D1
+~
+~
+0 0 23566
+D2
+~
+~
+0 0 23532
+S
+#23534
+Path by the River~
+   This place is simply peaceful. Little noise permeates seemingly
+magical barries, and none gets out. This is where clerics and mages 
+come for peace and quiet, and druids for time to become one with the
+woods again.
+~
+235 32820 3
+D1
+~
+~
+0 0 23535
+D3
+~
+~
+0 0 23532
+S
+#23535
+Path along the River~
+   Just like the room to the west, this rooms is quiet and peaceful.
+The only difference being this rooms is for warriors to practice their
+fighting undisturbed by the pressures of the outside world, and even
+undisturbed by the people around them.
+~
+235 32928 3
+D1
+~
+~
+0 0 23537
+D3
+~
+~
+0 0 23534
+S
+#23536
+Bridge over the Brandywine~
+   You stand on a well made bridge, apparently designed for much use.
+A few halfling pass by you, apparently on thier own business. The river
+rushing swiftly beneath you, raises fears in your mind, even though the
+railings and flooring of the bridge are sound.
+~
+235 32768 1
+D0
+~
+~
+0 0 23537
+D2
+~
+~
+0 0 23502
+S
+#23537
+The Beginning of Elenias Avenue~
+   This is the beginning of the residential section of town. Being the
+only Entrance into this part of town, it is overly busy. Halflings
+run back and forth, some also walking, going from one place to another.
+A few children play in the street while some old gfaaffers talk of days
+long past.
+~
+235 32772 1
+D0
+~
+~
+0 0 23539
+D1
+~
+~
+0 0 23538
+D2
+~
+~
+0 0 23536
+D3
+~
+~
+0 0 23535
+S
+#23538
+Path by the River~
+   Along the bank of a river you walk, surrounded by lush tall grasses.
+Thwe water rushes by you, calming your soul, and the animals sounds are
+music to a broken heart. Although this path seems to be used alot, you
+seem to be the only one here.
+~
+235 32788 3
+D1
+~
+~
+0 0 23540
+D3
+~
+~
+0 0 23537
+S
+#23539
+Along Elenias Avenue~
+   This is the richer part of town. Halflings walk by, an air of pride
+around them. Thier noses are smelling the sun, and their clothes are of the
+finest make. They look at you with disgust, and apparently you don't belong
+here.
+~
+235 32768 1
+D0
+~
+~
+0 0 23546
+D1
+~
+~
+0 0 23543
+D2
+~
+~
+0 0 23537
+S
+#23540
+A forested path by the river~
+   This lightly forested path seems to be the place you should go to escape
+your problems. Its quiet, secluded, and actually quite beautiful. .
+The waters of the brandywine rush by you to the south, calming youre nerves.
+To the east is a very dense forest, apparently not having been travelled
+in for some time now.
+~
+235 32768 3
+D1
+~
+~
+0 0 23541
+D3
+~
+~
+0 0 23538
+S
+#23541
+A thickly forested path~
+   The trees here are incredibly dense, making it impossible to see more
+than a few yards ahead of you. Although it is hard to see, you can still
+see the clearing to your south and the tree there. You hear sounds from
+the tree...no, from behind the tree trunk. Sounds like a madman's ravings.
+~
+235 32768 3
+D2
+~
+~
+0 0 23542
+D3
+~
+~
+0 0 23540
+S
+#23542
+A Madman's Home~
+   There isn't much here, to tell the truth. A hole in the ground,
+a partially broken wooden bench, and a tree in the middle of the
+clearing. Upon closer inspection of the tree, you realize it has
+lots of daggers embedded in the tree, however they are able to be
+taken out of the tree very easily, as if they were repeatedly used.
+~
+235 32833 3
+D0
+~
+~
+0 0 23541
+S
+#23543
+A Hobbit Hole~
+   You are standing inside a halflings home, apparently during a time of
+extreme mistfortune. This is the noble's section of town, but this noble
+seems to have had a bad run-in with Lady Luck. This house is somewhat run
+down, not quite what you'd expect from a noble.
+~
+235 32768 0
+D3
+~
+~
+0 0 23539
+S
+#23544
+An Underground Passage~
+   In the center of the room is a table with a single candle on it, and
+some loot in the middle. Several thieves stand around it, sorting out the
+loot from thier latest burglary. Otherwise, the room eis completly barren,
+except for the same sighn of a dagger crosedssed sed by another, in front
+of a lockpick.
+~
+235 32809 0
+D2
+~
+~
+0 0 23545
+D4
+~
+floor~
+1 -1 23528
+S
+#23545
+The Antechamber~
+    This room is an antechamber to the main meeting hall. Usually used t
+to converse in, it has been changed into a small gaming room for today,
+and many thieves are playing dice games, knife throwing games, or
+even hand to hand combat skill games. The noise level is high, and
+it doesn't seem like you can be heard.
+~
+235 32873 0
+D0
+~
+~
+0 0 23544
+D2
+~
+~
+0 0 23550
+S
+#23546
+Along Elenias Avenue~
+   More stuck up halflings walk by you, still full of self-pride. It makes
+you want to kill a few, just to show them they aren't so important, and that
+the sword is mightyier than the pen, contrary to poplular belief.
+~
+235 32768 1
+D0
+~
+~
+0 0 23547
+D1
+~
+~
+0 0 23555
+D2
+~
+~
+0 0 23539
+D3
+~
+~
+0 0 23554
+S
+#23547
+Along Elenias Avenue~
+   It appears you have gone pretty far into the nobles section. Farther
+north is the Mayor's house, and a few burly looking nobles eye you with
+intense scrutnyiny, even though th e mayor isnt at home right now. As you
+walk past, you feel thier eyes on you, and wonder if they think you are
+a thief, coming to steal from the mayor. oh wOh well, who cares?
+~
+235 32768 1
+D0
+~
+~
+0 0 23548
+D2
+~
+~
+0 0 23546
+S
+#23548
+Before the Mayor's House~
+   You stand before the mayor's house, a place that was intended to be
+quite elegant, but actually is quite drab. The double french doors in
+the front are wide open, with guards all around them. Inside you see the
+maoyor's wife sitting in a chair and sewing. Seems like a boring life, until
+you notice the shadowy person climbing the side of the estate, with a
+nasty looking weapon nin his hand.
+~
+235 32768 1
+D0
+~
+~
+0 0 23572
+D2
+~
+~
+0 0 23547
+S
+#23549
+A Well Traversed Path~
+    You are walking along a path that has seen quite a few travellers,
+or halflings as the cast may be.  A few of them acknowledge you with
+a brief nod but are otherwise silent as they enjoy the natural sounds
+of the forest.  You can barely hear sounds of activities in the distance
+that mark a settlement here in the forest.  To the south, a small
+footpath fades into stands of poplar trees.
+~
+235 32768 3
+D0
+~
+~
+0 0 23577
+D2
+~
+~
+0 0 225
+S
+#23550
+The Thieves' Hideout~
+   This is the main room for the Thieves of the Shire to meet in.
+Used quite often, it has longs rows rows of stolen tables and chairs
+for the thieves to sit on and listen to the Guildmaster or other 
+thieves talk. A number of thieves are still here, talking amonsgst
+themselves.
+~
+235 32809 0
+D0
+~
+~
+0 0 23545
+D1
+~
+~
+0 0 23552
+D3
+~
+~
+0 0 23551
+S
+#23551
+The Thieves' Stroreroom~
+   Within this room are piles of boxes and crates, stacked to the
+ceiling. Within these are all of the dues the thieves pay to stay in
+the guild and extra loot from bigger jobs. A few crates even contain
+stuff for beginning thieves to use.
+~
+235 32809 0
+D1
+~
+~
+0 0 23550
+S
+#23552
+The Thieves' Lair~
+   This is the most important room in all of the thieves hideout. The
+Guildmaster is here, planning a huge burglary and assassination, most
+liekkely of the mayor. Oh well, the mayor is a fairly stupid man anyways.
+He only got to be mayor by physical threat...
+~
+235 32809 0
+D3
+~
+~
+0 0 23550
+S
+#23553
+Shiriff Training Grounds~
+   Standing in the center of a field is a very tall halfling, wielding
+a nasty looking broadsword. Around him stands a group of aspiring shirriffs
+for the Shire. All of them hold shortswords, and appear to be listening
+intently to what the Battlemaster is saying.
+~
+235 32768 2
+D3
+~
+~
+0 0 23525
+S
+#23554
+Entrance to the Tower~
+   This room is a small extentsion to the tower, used more for simple
+security than anything else. Why they woudld need sucecurity, you have no
+idea, but apparently they do. You don't see anyone, but they are probably
+still here. Look harder, or maybe use some flour.
+~
+235 32776 0
+D1
+~
+~
+0 0 23546
+D2
+~
+~
+0 0 23556
+S
+#23555
+A noble's hole~
+   For a noble, this hole isn't so great, but by halfling standards, this
+hole is wonderful. A few tapestries hang, depicting scenes of great heroism
+or cataclysms. A humongous pantry is in a side room.
+~
+235 32776 0
+D3
+~
+~
+0 0 23546
+S
+#23556
+The Main room of the Tower~
+   This is the main room of the Tower of High Sorcery in the Shire. It 
+leads to all the other rooms in the Tower, and the portal to the west
+leasds to a place not in the tower, the Bard's Guildhouse. Above you
+is your Shire Guildmaster Mage, and to the south is the Spellcasting
+chamber, where mages can practice thier spells.
+~
+235 32808 0
+D0
+~
+~
+0 0 23554
+D2
+~
+~
+0 0 23558
+D4
+~
+~
+0 0 23557
+S
+#23557
+The Mage Guildmaster Chanmbers~
+    The Guildmaster of the Shire Mages himself cast a permanent "Dispel
+Magicx" Spell upon this room, to protect himself. He wields a staff
+given to him by the Ggod Raleon, not the god of mages, but who was pleased
+by his deeds. This rooms serves as a meeting room and the private chambers
+of the Guoildmaster, or Head of the Enclave of Mages.
+~
+235 32968 0
+D5
+~
+~
+0 0 23556
+S
+#23558
+The Spellcasting Chamber~
+   Within this room, less powerful mages are casting spells at magical
+targets within the room, practicing for battle. The targets absorb the
+spells so no one gets hurt. A few walls a charred in spots where it
+semms ems a mage missed the traget arget and hit the wall.
+~
+235 32808 0
+D0
+~
+~
+0 0 23556
+S
+#23559
+Entrance to the Bard's Guild~
+   Off from the mages, this is the place where all the mages and in fact 
+most halflings in general come to relax and enjoy themselves. In tohe room
+to the north, you can hear some mages prbards practicing, and to the south you can 
+hear some performing in the tavern.
+~
+235 32776 0
+D0
+~
+~
+0 0 23560
+D2
+~
+~
+0 0 23561
+S
+#23560
+The Bard's Practice rRoom~
+   This is about the only place in the world you can ever hear a bard that
+is out of tune. Many of them are practicing here, and some qsound quite
+good, while others, well, sound like crap. 
+~
+235 32776 0
+D2
+~
+~
+0 0 23559
+D4
+~
+~
+0 0 23576
+S
+#23561
+The Barding Tavern~
+   Within the tavern the Bard Guildmaster sits, playing a tune on a
+magical harp and lyre, given to him be the god Raleon, who was most
+pleased by his barding, and decided he should be made more than
+other bards where, the Master Bard. 
+   The Tavern is alight with fires in fireplaces, and many guests
+idly drink ale as they listen to the Master Bard's singing.
+~
+235 32808 0
+D0
+~
+~
+0 0 23559
+D3
+~
+~
+0 0 23562
+S
+#23562
+Along Westdale rRoad~
+   Calming singing comes from the Tavern to the east, and prayers can be
+heard off to the west, in the Church of All Gods. Halflings wander about 
+on the street, doing their own thing, and you wonder just what you should
+be doing.
+~
+235 32768 1
+D0
+~
+~
+0 0 23565
+D1
+~
+~
+0 0 23561
+D2
+~
+~
+0 0 23533
+D3
+~
+~
+0 0 23563
+S
+#23563
+The Entrance and Main Hall~
+   Many religions are being preached here, from evil to neutral to good.
+The three orders of clerics, the Black, Red, and White Proiests, have all
+settled thier problems and become friend.ss. They have realized that to
+have a perfect world, everything, evien comflicting forces, must be in true
+harmony.
+~
+235 32768 0
+D1
+~
+~
+0 0 23562
+D4
+~
+~
+0 0 23564
+S
+#23564
+The Prayer Room of the Church of All Gods~
+   Within this room are only three clerics, on of each priesthood. Each
+wields a hammer from his god, and prasyys right beside the other two.
+They have found harmony amongst thier fdifferences. Have you?
+~
+235 32984 0
+D5
+~
+~
+0 0 23563
+S
+#23565
+Near the End of Westdale Road~
+   North of here the road ends at what seems to be a feeststival. Around
+you halfling walk, going from jobs to houses to entertainment. What appears
+to be some apartments lie to the west, and a house is to the est.ast.
+~
+235 32768 1
+D0
+~
+~
+0 0 23567
+D1
+~
+~
+0 0 23568
+D2
+~
+~
+0 0 23562
+D3
+~
+~
+0 0 23569
+S
+#23566
+A hobbit hole~
+   This is the home of a simple hobbit, one who cares not for big, fancy
+things, but enjoys the simpler things in life. A bed, a stove, and a nice
+couch.
+~
+235 32776 0
+D3
+~
+~
+0 0 23533
+S
+#23567
+The End of Westdale Road~
+   This is the end of the roasd...or is it? No more houses are around, but
+a pavilion is set up to your west, and some very important looking people
+are there...maybe you should go look?
+~
+235 32768 2
+D2
+~
+~
+0 0 23565
+D3
+~
+~
+0 0 23570
+S
+#23568
+An Olfd Gaffer's home~
+   Within this home are relics of the past. Old memories are stoerred within
+the items and trinkets in the house. Prized by the gaffer is a rusted long
+sword over the fireplace, on he says he used to kill a minotaur with.
+~
+235 32776 0
+D3
+~
+~
+0 0 23565
+S
+#23569
+Entracnce to the Apartments~
+   You try to go thgorough the door way, but a magical field pushes you back.
+Apparently there is a guard to the door, and it doesn't want to let you pass.
+Apparently, you're not getting through.
+~
+235 32768 0
+D1
+~
+~
+0 0 23565
+S
+#23570
+Inside the Pavilion~
+   You stand within a tall pavilion tent, and seated beneath are people
+having a festival. Elves, Humans, ahalflings, and drwravarves all sit and eat
+at the same tables.
+~
+235 32768 0
+D0
+~
+~
+0 0 23571
+D1
+~
+~
+0 0 23567
+S
+#23571
+The Head Table~
+   You have made your way to the head table of the festival. The table
+before you has only a few select people sitting at it, who appear to be
+the closest of friends. They talk and laugh merriyly with each other, and
+you feel inclined to sit down and join them.
+~
+235 32768 0
+D2
+~
+~
+0 0 23570
+S
+#23572
+The Main Room~
+   You stand within the main entracnnce room of the Mayor's House. To
+the East is the Kitchen, the other west is the Living Room, and upstairs
+is the bedroom. The mayor's mentally-challenged wife sits here, sewing, as
+lots of guards mill about the  place, looking for thieves.
+~
+235 32776 0
+D1
+~
+~
+0 0 23573
+D2
+~
+~
+0 0 23548
+D3
+~
+~
+0 0 23574
+D4
+~
+~
+0 0 23575
+S
+#23573
+The Kitchen~
+   This is the Kitchen, where the food i s being cooked right now. Chefs
+and cooks mull over thier works, and mill about trying to find ingredients
+to thier meals. It spmells rather sickening.
+~
+235 32776 0
+D3
+~
+~
+0 0 23572
+S
+#23574
+The Living Room~
+   This is the living room, where the family (what family?) comes and
+talks to each other, . Brilliant tapestries cover the walls, and the
+entire room is quite beautiful.
+~
+235 32776 0
+D1
+~
+~
+0 0 23572
+S
+#23575
+The bedroom~
+     A bed of immense proportions lays within this room, big enough to fit
+six or seven people in at once. The Enitities are painted upon the north
+wall, a huge glass window is upon the southern wall, and a nice little
+family tree is upon the eastern wall. The western wall is an off-white.
+~
+235 32776 0
+D5
+~
+~
+0 0 23572
+S
+#23576
+The Guild of the Singing Bard~
+     The room is nicely decorated and feels quite comfy. The air has the 
+cherry sweet smoke of pipeweed. You feel like taking a nice long nap in this
+peaceful, warm place.
+~
+235 32912 0
+D5
+~
+~
+0 0 23560
+S
+#23577
+A Well Traversed Path~
+   You are walking along a path that has seen quite a few travellers,
+or halflings as the cast may be.  A few of them acknowledge you with
+a brief nod but are otherwise silent as they enjoy the natural sounds
+of the forest.  You can barely hear sounds of activities in the
+distance that mark a settlement here in the forest.
+~
+235 32768 3
+D0
+~
+~
+0 0 23504
+D2
+~
+~
+0 0 23549
+S
+#23578
+The Blacksmiths Shop~
+   Clang clang! The sound of a hammer hitting red hot steel repeatedly
+is overwhelming. A stocky halfling stnads behind the forge, hammer in
+hand. He wipes the sweat from his brow and then glances over at you,
+seeing you for the first time. He lays down the hammer and walk over
+to the counter.
+~
+235 32920 0
+D2
+~
+~
+0 0 23510
+S
+#23579
+Blacksmiths storage room~
+   Players found in this room will be *FROZEN*. This is the blacksmiths
+storage room.
+~
+235 1032 0
+S
+#99999
+$~

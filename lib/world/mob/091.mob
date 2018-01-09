@@ -1,0 +1,86 @@
+#9100
+Mole Guard~
+a mole guard~
+A mole stands here, guarding the door.
+~
+In front of you stands a ugly creature, it appears to be a mole. It looks at
+you with its squinted eyes, you do not want anything to do with it.
+~
+188510 138424320 -20 S
+20 10 0 4d5+1400 4d5+10
+2000 66000
+8 8 1 7
+#9101
+hobbit mage~
+a hobbit mage~
+A hobbit stands here, practicing his lesser powers.
+~
+In front of you stands a small hobbit. His eyes gleam with curiosity and he
+stares you over continuously. You feel like an intruder, as he looks you
+over.
+~
+192638 139474058 -20 S
+25 5 0 4d5+2700 5d5+15
+2500 200000
+8 8 1
+#9102
+tree old~
+an old tree~
+An old tree rests here, its roots planted into the ground.
+~
+A tree, of massive size, engulfs this peculiar forest. You look at it, and
+it seems to show facial expressions, but you cannot tell.
+~
+180250 150996152 0 S
+22 10 -1 4d3+1850 3d3+14
+2500 100000
+8 8 0
+#9103
+beaver~
+a beaver~
+A beaver is here, humbly working on its home.
+~
+In front of you stands a small beaver, very short in length. It swims to
+and fro, gathering shrapnel for its home.
+~
+1069070 155190392 0 S
+16 10 -1 4d5+550 3d3+6
+2200 66666
+8 8 1 4
+#9104
+beaver large animal~
+a rabid beaver~
+Some species of a beaver is here, foaming at the mouth.
+~
+A beaver, foaming at the mouth. Not a pretty sight.
+~
+1077342 139462112 10 S
+27 9 -2 5d5+5420 5d5+17
+2200 100000
+8 8 0
+#9105
+muskrat rat~
+a muskrat~
+A muskrat stands here, resting in its quarters.
+~
+A muskrat, you never knew they looked so ugly.
+~
+1067102 1032 0 S
+18 10 0 4d4+500 4d4+10
+1500 66666
+5 5 0
+#9106
+Kelanxakak King Muskrat~
+Kelanxakak, King of the Muskrats~
+Kelanxakak, King of the Muskrats sits here, yelling at his servants.
+~
+He looks powerful. Servants scurry around him at his biddings. He is dressed
+in what looks like junk collected at random throughout his life. From the
+bamboo tinsil decorating his head to the cork shoes on his feet.
+~
+1071134 1049736 0 S
+28 10 0 5d5+80 4d4+12
+3000 66666
+8 8 0 4
+#99999
+$~

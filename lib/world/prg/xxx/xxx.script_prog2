@@ -1,0 +1,22 @@
+>social_prog tease~
+  mptrigger $n test
+~
+>script_prog test~
+  say Dylath-Leen?
+  say never been there myself
+  say but by all accounts, a horrid place
+@
+  say dark and windswept with famously spired black towers
+  say a port city, full of sailors and cultists
+@
+  if hitprcnt($n) < 50
+    say hey you're hurt!
+  else
+    say aw you look fine... not hurt at all
+  endif
+@
+  say its easy to lose your way in Dylath-Leen
+  say hey if you're planning on going there tho, would you get me some thagweed?
+  grin
+~
+|

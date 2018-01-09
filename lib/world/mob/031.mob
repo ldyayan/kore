@@ -1,0 +1,152 @@
+#3100
+baghtru orc guard~
+Baghtru~
+Baghtru the Orc, Head of the Palace Guard is here.
+~
+He looks really mean, and you fear for your life.. you have visions of
+BLEEDING and suffering.
+~
+10251 128 0 S
+30 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#3101
+palace guard~
+a Palace Guard~
+A Palace Guard stands here.
+~
+The Palace Guard is a great honor, they are handpicked from the best of
+the army of the Kore.
+~
+4250 1048576 600 S
+20 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#3102
+tyrant kore man~
+the Tyrant~
+The Tyrant of Kore.
+~
+You see the Tyrant of Kore, and you understand now how hes preserved himself
+through the millenia.  You shiver with fear and look for the exit.
+~
+141455 1115272 -500 S
+55 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#3103
+tree guardian treant~
+a Treant Guardian~
+A large tree animates and attacks!
+~
+A very large tree that has been animated by magic.
+~
+172090 722056 0 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#3104
+golem statue stone~
+a Stone Golem~
+A strange stone statue is here.
+~
+A large stone statue, roughly man-shaped.
+~
+11 524288 0 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#3105
+clay golem~
+a Clay Golem~
+A Clay Golem animates and attacks!
+~
+A huge hunk of clay, animated by evil magic.
+~
+43 0 0 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#3106
+iron golem~
+an Iron Golem~
+An Iron Golem animates and attacks!
+~
+A huge hunk of iron, animated by evil magic.
+~
+43 0 0 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#3107
+lord aramon~
+Lord Aramon~
+Lord Aramon is here directing his pieces.
+~
+You see a typical Lord of the Realm, hes busy concentrating on his
+chess game with Lord Raphael.
+~
+2186 131200 0 S
+28 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#3108
+lord raphael~
+Lord Raphael~
+Lord Raphael is here thinking of his next move.
+~
+Lord Raphael is a typical Lord of the Realm, distant and aloof.
+~
+10250 1114112 -200 S
+27 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#3109
+rat~
+a rat~
+A rat scurries here in the darkness.
+~
+Uggghh, its a rat, kill it!
+~
+12 0 0 S
+1 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#3110
+skeleton~
+a skeleton~
+A skeleton rises from a pile of old bones.
+~
+Animated by unholy magic, the humanoid skeleton gazes around itself
+with blood-red eye sockets.
+~
+10 0 0 S
+2 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#3111
+skeleton guard~
+Skeleton Guard~
+A Skeleton of the Guard is here.
+~
+A guard who was unlucky enough not to make it out alive when whatever
+happened to close down the dungeon.
+~
+10 0 0 S
+4 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#3112
+stone gargoyle~
+the Stone Gargoyle~
+A large Stone Gargoyle sits here overlooking Kore.
+~
+You see a large Stone Gargoyle, carved from a huge block of granite into
+a frightening but strangely life-like form.
+~
+172042 64 0 S
+45 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#99999
+$~

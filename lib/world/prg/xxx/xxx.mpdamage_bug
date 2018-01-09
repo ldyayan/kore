@@ -1,0 +1,18 @@
+>speech_prog beat~
+  say Beating you!
+  mpdamage $n 100d100+100
+  say Beating you again!
+  mpdamage $n 100d100+100
+~
+>speech_prog gentle~
+  say be gentle
+  mpdamage $n 10d10
+~
+>command_prog purge~
+  mptrigger $r purge-prog
+~
+>script_prog purge-prog~
+  #
+  mpdamage $n 100d100+10000
+~
+|

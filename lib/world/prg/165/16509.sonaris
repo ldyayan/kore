@@ -1,0 +1,11 @@
+>fight_prog 9~
+  mpechoat $r Sonaris takes two throwing knives from the brace on his hip and PINS YOU TO THE WALL!!!!!
+  mpechoaround $r Sonaris pull two throwing knives from their brace and throws them at $R.
+  mpdamage $r 9d20
+~
+>fight_prog 8~
+  mpechoat $r Sonaris melts into the shadows only to reappear behind you and BACKSTAB you!!!!!
+  mpechoaround $r Sonaris melts into the shadows, reappearing behind $R to BACKSTAB $K!!!!
+  mpdamage $r 13d21
+~
+|

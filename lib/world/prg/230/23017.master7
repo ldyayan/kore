@@ -1,0 +1,33 @@
+>script_prog you-again~
+  #
+@
+  say WHAT YOU AGAIN...
+@
+@
+@
+  say WHAT DO I HAVE TO DO TO GET RID OF YOU?
+@
+  smile
+@
+  say Just kidding...
+@
+  say The barracks is under attack, stand and fight boy.
+@
+  say And watch out for the holes in the floor.
+~
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ismemory($n)
+    else
+      mptrigger $n you-again
+      mpremember $n
+    endif
+  endif
+~
+>fight_prog 100~
+  if isscript($i)
+    mpstopscript
+  endif
+~
+|

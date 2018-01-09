@@ -1,0 +1,20 @@
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoat $r Fear inside you makes you want to flee!
+    mpechoaround $r $R looks panicked....and runs!
+    mpforce $r flee
+    mpforce $r flee
+  endif
+~
+
+>fight_prog 22~
+ if inroom($r) == here
+  cast 'word of death' $r
+ endif
+~
+
+>rand_prog 5~
+  get all all.corpse
+  wear all
+~
+|

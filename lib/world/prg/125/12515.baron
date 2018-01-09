@@ -1,0 +1,79 @@
+>command_prog west~
+  if isimmort($n)
+  else
+    if ispc($n)
+      if rand(66)
+        mpechoat $n $I stares at you with eerily glowing eyes and you lose your will!
+        mpechoaround $n $I stares at $N with eerily glowing eyes and $s face grows blank while lifeforce drains out of $m!
+        mppose $n sit
+        mpdamage $n 12d30+40
+        mpstopcommand
+      else
+        peer $n
+      endif
+    endif
+  endif
+~
+>fight_prog 6~
+  mpecho $I roars out a word of command and a pair of stone golems arrive to assist him!
+  mpmload 12516
+  mpmload 12516
+  mpforce golem rescue $i
+  mpforce 2.golem assist $i
+~
+>fight_prog 11~
+  if inroom($r) == here
+    cast 'area word of death' $r
+    mpcallmagic 'dispel sanc' $r
+  endif
+~
+>fight_prog 18~
+  if inroom($r) == here
+    mpecho $I opens his jaws wide and you feel your life forced drawn into his gaping jaw!
+    mpdamage all 12d10+50
+    mpcallmagic 'heal' $i
+    mpecho $I's pallid skin begins to glow with unholy life!
+  endif
+~
+>fight_prog 28~
+  if inroom($r) == here
+    switch $r
+  endif
+~
+>give_prog waybread food~
+  junk all.waybread
+~
+>give_prog ball light~
+  junk all.ball
+~
+>rand_prog 10~
+  get all all.corpse
+  if rand(50)
+    wear agrametto
+    wear agrametto
+    wear enlayed
+    wear enlayed
+  else
+    if rand(40)
+      junk agrametto
+      junk agrametto
+      junk enlayed
+      junk enlayed
+    else
+      wear all
+    endif
+  endif
+~
+>rand_prog 5~
+  if inroom($i) == 12580
+  else
+    east
+  endif
+~
+>rand_prog 4~
+  if hasworn($i) == 12558
+    stand
+    cast 'restore' $i
+  endif
+~
+| 

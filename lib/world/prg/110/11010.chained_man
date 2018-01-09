@@ -1,0 +1,13 @@
+>greet_prog 15~
+  scream
+  mpecho $I looks at you with pleading eyes.
+  mpecho $I blubbers, 'Please end it! Don't let me live through this horror!'
+  sob
+~
+>rand_prog 10~
+  moan
+  sob
+~
+|
+
+

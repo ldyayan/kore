@@ -1,0 +1,2331 @@
+#25500
+Sunny Glade~
+   A sweet wind blows down off the cliffs, continuing its journey by blowing
+through the treetops, causing the delicate aspen leaves to quake with each
+breath. Warm sunshine filters through the treetops, illuminating your
+surroundings in a bright light. In the distance you can hear the unmistakeable
+sound of water pouring off the granite cliffs. Animal life abounds in this 
+lush enviroment. Everything seems perfect.
+~
+255 32912 3
+D3
+~
+~
+0 0 25501
+D4
+Gates of Eli
+~
+~
+0 0 25510
+S
+#25501
+Narrow Path~
+   The path you travel is hardly a path at all. It seems more like an animal
+trail. Still it does seem to be leading you somewhere. Looking to the East,
+you can seem a small open glade. South you can see that the path continues 
+for a little bit before turning West and disappearing from sight. A cool
+breeze blows past. Birds chirp loudly in the trees, serenading as the rest
+of the woodland creatures go about their daily business.
+~
+255 32784 3
+D1
+~
+~
+0 0 25500
+D2
+Narrow Path~
+~
+0 0 25502
+S
+#25502
+Narrow Path~
+   You're standing on a small animal trail. To the north you can see the trail
+continues a littles ways before turning east. To the south you can see the
+trail continues a short distance before turning west. In the distance you can
+hear the babbling of a brook.
+~
+255 32784 0
+D0
+Narrow Path~
+~
+0 0 25501
+D2
+Narrow Path~
+~
+0 0 25503
+S
+#25503
+Narrow Path~
+   You're standing on a small animal trail. To the north you can see the trail
+continues much farther. To the west, the trail continues a little ways before
+turning south. You can clearly hear the babbling of a brook nearby. Life near
+the water is much more abundant than on the path. You can hear birds singing
+songs of the forest.
+~
+255 32768 3
+D0
+~
+~
+0 0 25502
+D3
+Narrow Path at the Brook~
+~
+0 0 25504
+S
+#25504
+Narrow Path at the Brook~
+   Babbling in front of you is a wide, but shallow, brook. Birds chirp and
+sing at the forest. Most of the forest animals seem to come here for water.
+Fresh hoof, paw, and claw prints show in the mud at the waters edge. The water
+look cool and refreshing. Looking across to the other side, you can see that
+the path continues winding its way through the forest. Looks like you're
+going to have to get your feet wet. Scanning some more, you see that the
+brook runs east to west, and seems to be going quite fast. The path on the
+other side continues south, while the portion you are on continues east.
+~
+255 32768 3
+D1
+Narrow Path~
+~
+0 0 25503
+D2
+Middle of the Brook~
+~
+0 0 25505
+S
+#25505
+Middle of the Brook~
+   You're standing in the middle of a wide, babbling brook. All around, life
+flourishes. Looking up stream, you can see a powerful waterfall thundering
+off the granite cliffs of the valley. The path to the north is more like a
+small animal trail than a path. To the south you can see a slightly 
+overgrown trail winding its way up out of the valley. Looking down, you can
+see a few fish swimming around.
+~
+255 32848 3
+D0
+Narrow path at a Brook~
+~
+0 0 25504
+D2
+Overgrown Trail
+~
+~
+0 0 25506
+E
+fish~
+Wow! Those fish are really moving!~
+S
+#25506
+Overgrown Trail~
+   You're standing on the edge of a beautiful babbling brook. The water does
+not appear very deep, but the rocks look somewhat treacherous. A few small
+fish swim around in the brook. Wildlife abounds in this lush enviroment,
+and aside from the thundering waterfall, this appears to be the source of
+fresh water for the entire valley. To the south, the trail begins it arduous
+journey to the valley's edge. To the north is the brook. On the other side
+you can see that the trail continues. It is, however, much smaller than the
+one you're on now.
+~
+255 32768 3
+D0
+Middle of a Brook~
+~
+0 0 25505
+D2
+Trail up the Wall~
+~
+0 0 25507
+S
+#25507
+Start of a Steep Trail~
+   Surveying your surroundings, you see that the valley even more lush than
+it seemed from the edge of the valley. Wildlife is present in enormous
+amounts. The waterfall that you saw from the edge, has been blocked from 
+sight by the quaking aspen trees that the forest seems comprised of. Lush
+ground cover helps to fill the space between the floor and the canopy. In
+spite of the high canopy, you can only see about 4 feet off each side of you.
+Squirrels and birds banter back and forth, enjoying the day. Over the roar
+of the waterfall, you can make out the babbling of a brook nearby. To the 
+north you can see the trail continues a ways before turning downward slightly.
+Behind you, the trail works its way up the valley wall.
+~
+255 32768 5
+D0
+Overgrown Trail~
+~
+0 0 25506
+D4
+Trail up the Wall~
+~
+0 0 25508
+S
+#25508
+Up the wall~
+   You're standing on a steep trail that leads down into the valley. Because
+you're still above the canopy, you can still see the powerful waterfall that
+pours off the granite cliffs on the northern end of the valley. The canopy
+is generally the same level throughout the valley. Except for one section
+on the north-eastern portion of the valley. The canopy seems to belong to 
+some of the largest trees you've ever encountered. A small cut in the canopy
+close by, suggests a small stream or brook. On the western end of the valley,
+you can see a thin trail of smoke. The forest appears to be teeming with life.
+Looking around, you can see the trail disappears below the canopy in about 
+30 feet. Up the wall, you can see the trail winding its way to the valley's
+edge.
+~
+255 32836 5
+D4
+~
+~
+0 0 25509
+D5
+Bottom of the Wall~
+~
+0 0 25507
+S
+#25509
+Edge of the Valley~
+   Standing on the edge a lush valley, you gain a new sense of perspective. 
+Before you is one of the most beautiful sights one could ever imagine. 
+Thundering off the granite cliffs, is a beautiful waterfall. A canopy of the
+purest emerald blankets the valley. A sea of green with a slight swell in the
+Eastern portion of the valley. A shimmering crystal brook flows towards the 
+western end of the valley. A strong wind ruffles through your hair, carrying
+the sweet scent of wildflowers across your face. A quaking spectacle awaits in
+the valley below. To your south, a dirt trail continues across a seemingly 
+endless plain. Below you, a rocky path leads you down into the valley.
+~
+255 32784 5
+D2
+~
+~
+0 0 5610
+D5
+Up the Wall~
+~
+0 0 25508
+S
+#25510
+Gates of Eli~
+   Rising before you, in all its splendor, are the gates of the mythical Elven
+city Eli. Behind them the flourishing elven city lies, suspended from the 
+mighty vallenwood trees on which you currently stand. The gate has been 
+cleverly designed so that it is completely natural, and blends perfectly with
+its surroundings. The immense vallenwoods thrive in this lush valley. The 
+branch you are currently on stretches more than 30 feet across. And goes on
+for about 100 feet behind you. You're standing in front of the tremendous
+trunk of the mighty tree, the gate is made of vines twisting and formed into
+an intertwined gate. Below you is the beautiful glade from which you emerged.
+The city in the trees stretches for miles before disappearing from sight.
+~
+255 32772 3
+D2
+Inside the Gates of Eli
+~
+~
+0 0 25511
+D5
+Sunny Glade
+~
+~
+0 0 25500
+S
+#25511
+Inside the Gates of Eli~
+   As you pass through the gate, you are presented with an entirely different
+world. Moss and vines drape from the mighty branches, making a beautiful
+canopy that conceals the city from below. This is truly a wonder of the world.
+Wonderful scents assault you, as you stand observing your surroundings. As odd
+as it seems there are trees on this walkway. Smaller branches sprout from the
+huge branch, upon which you stand, at regular intervals. To the south the walk
+continues. Farther south you can see a beautiful open marketplace.
+~
+255 32772 3
+D0
+Gates of Eli
+~
+~
+0 0 25510
+D1
+~
+~
+0 0 25534
+D2
+~
+~
+0 0 25538
+S
+#25512
+Walk of the Wind~
+   Birds chirp and flutter from branch to branch. The magical sprouted trees 
+line your way towards the marketplace. Sweet smells assault your nostrils. 
+The branch upon which you walk is getting much wider. Up ahead to the south it
+forms into the nook of the tree. The great canopy above you quakes with every
+breeze. The original sense of awe has begun to fade as though by magic. You
+are amazed at the amount of life that has been kept secret for so long. To
+the north the walk begins just inside the gates of the city. To the south, 
+the marketplace abounds.
+~
+255 32768 3
+D0
+~
+~
+0 0 25522
+D2
+~
+~
+0 0 25513
+S
+#25513
+Northern Marketplace~
+   As you enter the northern portion of the marketplace, a sense of peace 
+fills you. All about you, Elves go about their daily business. The branch on
+which you walked upon before has melded into the central body of the tree.
+What you now stand upon is the tremendous cleft of the tree. The "ground" 
+stretches in all directions. To the south you see the central marketplace,
+to your east and west the marketplace continues. Many stands line the path
+in all directions.
+~
+255 32768 3
+D0
+~
+~
+0 0 25512
+D1
+~
+~
+0 0 25518
+D2
+Central Marketplace
+~
+~
+0 0 25514
+D3
+~
+~
+0 0 25519
+S
+#25514
+Central Marketplace~
+   Standing in the center of the marketplace, your sense of awe returns.
+Standing you look at the canopy of the tree, more than 150 feet above your 
+head. Looking around again, you see a large fountain dominating the 
+marketplace. It appears to have been magically sculpted from the living tree.
+A shimmering silver liquid pours forth from it. A sweet scent resembling a
+mixture of Redwood and Cedar emanates from it. The marketplace continues
+in all directions.
+~
+255 32788 3
+D0
+~
+~
+0 0 25513
+D1
+~
+~
+0 0 25515
+D2
+~
+~
+0 0 25516
+D3
+~
+~
+0 0 25517
+D6
+~
+~
+0 0 25518
+D7
+~
+~
+0 0 25521
+D8
+~
+~
+0 0 25520
+D9
+~
+~
+0 0 25519
+S
+#25515
+Eastern Marketplace~
+   You're standing in the eastern section of the marketplace. The original
+hustle and bustle is relatively non-existant here. Before you there is an
+opening in the wall which surrounds the marketplace. Through it you can see
+and odd looking enclosed room. To the north, west, and south the marketplace
+continues. The smell of herbs emanates from a nearby dry goods stand, brought
+past you by a cool breeze.
+~
+255 32768 3
+D0
+~
+~
+0 0 25518
+D1
+~
+~
+0 0 25539
+D2
+~
+~
+0 0 25521
+D3
+~
+~
+0 0 25514
+S
+#25516
+Southern Marketplace~
+   Glancing around the area, your eyes behold an incredible sight. Standing
+before you is an incredible intricate, and stunningly beautiful statue of a
+Griffon. The powerful head and razor beak look just as they should, sharp and
+very dangerous. The body is even more impressive with rippled muscles carved
+into it. Looking around a little wider, you see that a small stand has been
+erected to sell small copies of the statue, along with several other different
+statues. Giving the Griffon one last look, you turn your gaze to the trees,
+and you cannot help but wonder if such creatures still roam the skies. You
+can see the marketplace continuing to the east, west, and north.
+~
+255 32768 3
+D0
+~
+~
+0 0 25514
+D1
+~
+~
+0 0 25521
+D3
+~
+~
+0 0 25520
+S
+#25517
+Western Marketplace~
+   WHOA!!!! Walking into this portion of the marketplace you are shocked by
+incredible numbing coldness. An old and befuddled looking elven mage is having
+a heated (if possible here) argument with a magically sculpted wooden post.
+Standing next to the western wall is a man making a coin dance on his hand for
+the dozens of children who crowd around him. Not surprisingly, the leaves of
+the mighty vallenwood tree have been magically moved so as not to be damaged
+by the magical spells going off here. People scatter to avoid the twirling
+cone of cold which spins in the center of the area. The befuddled mage stands
+behind a stand which is attached to the offending post. You can see the 
+marketplace continues to the north, south, and east.
+~
+255 32768 3
+D0
+~
+~
+0 0 25519
+D1
+~
+~
+0 0 25514
+D2
+~
+~
+0 0 25520
+D3
+~
+~
+0 0 25601
+S
+#25518
+Northeastern Marketplace~
+   Looking around you see a wonderous sight... music. All around you, muscians
+play and smile, reveling in their wonderful talent. A small crowd has gathered
+to listen to the enchanting medley. The birds in the lower branches sing the
+soprano wordless tune to the music. The music is so beautiful! Looking around
+you see tears in the eyes of many of the onlookers, you are starting to feel a
+little misty yourself. An Elven Bard is running an instrument stand, he looks
+quite happy with what he is doing. You can see the mnarketplace continuing to
+the west and the south.
+~
+255 32768 3
+D2
+~
+~
+0 0 25515
+D3
+~
+~
+0 0 25513
+D8
+~
+~
+0 0 25514
+S
+#25519
+Northwestern Marketplace~
+   What once seemed like a mystic and magical city is now starting to become
+a normal township. Elves hustle and bustle to and fro, shopping in the brisk
+air. You're right next time a magical looking wooden wall that rises a good
+30 feet straight up. It appears to be more for camoflauge than defense. You
+look around and decide you are in the Northwestern Marketplace. A baker has
+set up shop here, and the smell of all kinds of bread assault your nose. You
+can see the marketplace continues to the east and south.
+~
+255 32768 3
+D1
+~
+~
+0 0 25513
+D2
+~
+~
+0 0 25517
+D7
+~
+~
+0 0 25514
+S
+#25520
+Southwestern Marketplace~
+   As near as you can tell, this is the southwesterrn section of the market.
+Compared to the rest of the marketplace, this area is very quiet. A few Elven
+warriors are here tending what seems to be a weapons stand. And here you
+thought Elves didn't use weapons. The selection of weapons seems limited, and
+they are all made of wood. It is fairly dark in this section, as the branches
+have been magically turned from the north, and have collected above the branch
+here. For elves, this place is somewhat dreary, yet the smell of bread is
+carried very well by the wind from different portion of the market. You can
+see the marketplace continues to the north and east.
+~
+255 32768 3
+D0
+~
+~
+0 0 25517
+D1
+~
+~
+0 0 25516
+D6
+~
+~
+0 0 25514
+D8
+~
+~
+0 0 25564
+S
+#25521
+Southeastern Marketplace~
+   This is quite puzzling. After looking around and observing the rest of the
+marketplace, which is open to the air and sun, this room has the distinct 
+feeling of being enclosed. Looking to the ceiling, you see that you were right.
+Smaller branches have been magically twisted together and bent down to form
+a tight canopy that blocks out the light. The odor of vallenwood is MUCH 
+stronger in here than outside as a result. A feeling of great peace spreads
+throughout your body, filling your soul with joy and laughter. A VERY tall
+elf dressed in ceremonial robes sits cross legged behind a magical wooden
+bench. You can see the marketplace to the north and west.
+~
+255 32960 3
+D0
+~
+~
+0 0 25515
+D3
+~
+~
+0 0 25516
+D9
+~
+~
+0 0 25514
+S
+#25522
+Walk of the Wind~
+   Birds chirp and flutter from branch to branch. The magical sprouted trees 
+line your way towards the marketplace. Sweet smells assault your nostrils. 
+The branch upon which you walk is getting much wider. Up ahead to the south it
+forms into the nook of the tree. The great canopy above you quakes with every
+breeze. The original sense of awe has begun to fade as though by magic. You
+are amazed at the amount of life that has been kept secret for so long. To
+the north the walk begins just inside the gates of the city. To the south, 
+the marketplace abounds.
+~
+255 32768 3
+D0
+~
+~
+0 0 25538
+D2
+~
+~
+0 0 25512
+S
+#25523
+Floating Amongst the Stars~
+   Closing your eyes, you walk straight into the silvery blue portal and are
+astounded at what you see. All about you, you see nothing but stars. A black
+night sky filled with stars engulfs you. You cannot feel, hear, or smell
+anything in this strange new world. Turning behind you, you are extremely
+greatful to see the portal you stepped through is still there. You can see
+exits in all directions. In this emptiness, however, you can feel a distinct
+consciousness surrounding you, it leaves you cold, and afraid.
+~
+255 32964 6
+D0
+~
+~
+0 0 25524
+D1
+~
+~
+0 0 25525
+D2
+~
+~
+0 0 25523
+D3
+~
+~
+0 0 25526
+D4
+~
+~
+0 0 25526
+D5
+~
+~
+0 0 25528
+S
+#25524
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 32964 6
+D0
+~
+~
+0 0 25529
+D1
+~
+~
+0 0 25530
+D2
+~
+~
+0 0 25523
+D3
+~
+~
+0 0 25531
+D4
+~
+~
+0 0 25532
+D5
+~
+~
+0 0 25533
+S
+#25525
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 32964 6
+D0
+~
+~
+0 0 25525
+D1
+~
+~
+0 0 25525
+D2
+~
+~
+0 0 25525
+D3
+~
+~
+0 0 25523
+D4
+~
+~
+0 0 25525
+D5
+~
+~
+0 0 25525
+S
+#25526
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 32980 6
+D0
+~
+~
+0 0 25526
+D1
+~
+~
+0 0 25523
+D2
+~
+~
+0 0 25526
+D3
+~
+~
+0 0 25526
+D4
+Floating Amongst the Stars
+~
+~
+0 0 25526
+D5
+Floating Amongst the Stars
+~
+~
+0 0 25526
+S
+#25527
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 244 6
+D0
+   Floating Amongst the Stars
+~
+~
+0 0 25527
+D1
+   Floating Amongst the Stars
+~
+~
+0 0 25527
+D2
+   Floating Amongst the Stars
+~
+~
+0 0 25527
+D3
+   Floating Amongst the Stars
+~
+~
+0 0 25527
+D4
+   Floating Amongst the Stars
+~
+~
+0 0 25527
+D5
+Floating Amongst the Stars
+~
+~
+0 0 25523
+S
+#25528
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 33012 6
+D0
+   Floating Amongst the Stars
+~
+~
+0 0 25528
+D1
+   Floating Amongst the Stars
+~
+~
+0 0 25528
+D2
+   Floating Amongst the Stars
+~
+~
+0 0 25528
+D3
+   Floating Amongst the Stars
+~
+~
+0 0 25528
+D4
+Floating Amongst the Stars
+~
+~
+0 0 25523
+D5
+   Floating Amongst the Stars
+~
+~
+0 0 25528
+S
+#25529
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 32852 6
+D0
+~
+cell gate door~
+2 25526 25535
+D1
+Floating Amongst the Stars
+~
+~
+0 0 25530
+D2
+Floating Amongst the Stars
+~
+~
+0 0 25523
+D3
+Floating Amongst the Stars
+~
+~
+0 0 25531
+D4
+Floating Amongst the Stars
+~
+~
+0 0 25532
+D5
+Floating Amongst the Stars
+~
+~
+0 0 25533
+S
+#25530
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 32964 6
+D0
+Floating Amongst the Stars
+~
+~
+0 0 25529
+D1
+~
+~
+0 0 25530
+D2
+Floating Amongst the Stars
+~
+~
+0 0 25523
+D3
+Floating Amongst the Stars
+~
+~
+0 0 25531
+D4
+Floating Amongst the Stars
+~
+~
+0 0 25532
+D5
+Floating Amongst the Stars
+~
+~
+0 0 25533
+S
+#25531
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 32964 6
+D0
+Floating Amongst the Stars
+~
+~
+0 0 25529
+D1
+Floating Amongst the Stars
+~
+~
+0 0 25530
+D2
+~
+~
+0 0 25524
+D3
+~
+~
+0 0 25531
+D4
+Floating Amongst the Stars
+~
+~
+0 0 25532
+D5
+Floating Amongst the Stars
+~
+~
+0 0 25533
+S
+#25532
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 32964 6
+D0
+Floating Amongst the Stars
+~
+~
+0 0 25529
+D1
+Floating Amongst the Stars
+~
+~
+0 0 25530
+D2
+Floating Amongst the Stars
+~
+~
+0 0 25523
+D3
+Floating Amongst the Stars
+~
+~
+0 0 25531
+D4
+Floating Amongst the Stars
+~
+~
+0 0 25532
+D5
+Floating Amongst the Stars
+~
+~
+0 0 25533
+S
+#25533
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 32964 6
+D0
+Floating Amongst the Stars
+~
+~
+0 0 25529
+D1
+Floating Amongst the Stars
+~
+~
+0 0 25530
+D2
+Floating Amongst the Stars
+~
+~
+0 0 25523
+D3
+Floating Amongst the Stars
+~
+~
+0 0 25531
+D4
+Floating Amongst the Stars
+~
+~
+0 0 25532
+D5
+Trapdoor
+~
+trapdoor~
+1 0 25570
+S
+#25534
+Foyer of the Eli Barracks~
+   Stepping off the walk of the wind, you walk into a large foyer of the guard
+barracks. Positioned so it is close to the only entrance to the city, the
+barracks house the garrison of guards who are not on duty. Working in shifts,
+the guards patrol the city and watch over it. To the east is the main sleeping
+quarters of the guards. The west is the start of the walk of the wind. A
+smoky vanilla scent, favored by the elves, hangs over the room, helping to
+relax the guards after a hard days work.
+~
+255 32772 1
+D1
+~
+~
+0 0 25535
+D3
+~
+~
+0 0 25511
+S
+#25535
+Plush Living Quarters~
+   This is a stunningly beautiful room! As near as you can tell, this beautiful
+and warm room are the barracks! It seems as though you are inside the canter
+of one of the mighty vallenwood trees. The room itself is immense, stretching
+more than 250 feet across, and roughly 100 deep. Dozens of plush feather beds
+line the walls and plants sprout from the walls, floor, and ceiling. They are
+not vallenwood, but seem to have been taken from the valley and magically
+transported directly into the wood. The seem to thrive and ivy lines the walls.
+The smeel of vanilla incense fills you nostrils, bringing calmness to your
+soul. And wooden archway opens to the north into a smaller room, while the
+Den of Teleportation lies to the south.
+~
+255 32832 3
+D0
+Chamber of the Phelac
+~
+~
+0 0 25536
+D2
+You see a closed gate.
+~
+gate door cell~
+2 25526 25529
+D3
+~
+~
+0 0 25534
+S
+#25536
+Chamber of the Phelac~
+   Walking into this room you around are awed. A sense of power radiates from
+the all around you. This room is lavishly decorated with cushions, couches,
+a table created from the tree, and a large feather filled canopy bed. On the
+northen wall, a beautiful mural picturing a fierce battle between dragons
+fills the wall. Green, Black, Blue, White, and Red dragons clash into battle
+against the Brass, Bronze, Copper, Silver, and Gold dragons. A bowl of
+smoldering incense fills the rooms with its Vanilla scented smoke. Beautifully
+scuplted weapons and armor adorn the walls in between the ivy. The only exit
+you can see is to the south.
+~
+255 32832 3
+D2
+Plush Living Quarters
+~
+~
+0 0 25535
+S
+#25537
+Floating Amongst the Stars~
+   Continuing along, the portal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as 
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as though you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 196 6
+D0
+Floating Amongst the Stars
+~
+~
+0 0 25529
+D1
+Floating Amongst the Stars
+~
+~
+0 0 25530
+D2
+~
+~
+0 0 25524
+D3
+~
+~
+0 0 25531
+D4
+Floating Amongst the Stars
+~
+~
+0 0 25532
+D5
+Floating Amongst the Stars
+~
+~
+0 0 25533
+S
+#25538
+Walk of the Wind~
+   Birds chirp and flutter from branch to branch. The magical sprouted trees 
+line your way towards the marketplace. Sweet smells assault your nostrils. 
+The branch upon which you walk is getting much wider. Up ahead to the south it
+forms into the nook of the tree. The great canopy above you quakes with every
+breeze. The original sense of awe has begun to fade as though by magic. You
+are amazed at the amount of life that has been kept secret for so long. To
+the north the walk begins just inside the gates of the city. To the south, 
+the marketplace abounds.
+~
+255 32768 3
+D0
+~
+~
+0 0 25511
+D2
+~
+~
+0 0 25522
+S
+#25539
+Path of the Chosen~
+   Exiting the pristine Den, you encounter a totally different world. Elves
+are everywhere going about their daily chores. Children and cooshee laugh and
+frolick playfully in their peaceful, secluded lifestyle. Sweet smells of
+muffins and pastrys tickle your nose, while a brisk, chilled breeze blows off
+the snow capped peaks to the north. Bathed in the warm sunlight, you cannot
+help but to think of the family you left so long ago. Turning back to the
+reality before you, you watch mothers gather fruits and nuts from the trees
+that line the path. They seem to have been magically transferred into their
+current position embedded in the stout vallenwood branch.
+~
+255 32768 3
+D0
+~
+~
+0 0 25586
+D3
+~
+~
+0 0 25515
+S
+#25540
+Path of the Chosen~
+   Continuing on your way down the path, you are completely and utterly 
+dazzled by the size and appearance of all the various types of fruit that line
+the path. Pomegranates, Apples, Oranges, Pears, Grapes, even papaya grow in
+extreme abundance here. In addition, certain portions of the branch's surface
+are covered in a blanket of large nuts of all kinds. Walnuts, pecans, almonds,
+cashews, plus a large vine with peanuts lays strewn across the branch. This is
+truly a natural wonder! You never imagined such beauty could exit! Singing and
+merriment reach your ears from somwhere to the north. The temperature here is
+much warmer than it was before. Squirells and other small woodland creatures
+gorge themselves on the juicy fruits and nuts. You can see that the path
+continues on its way to the north and south.
+~
+255 32768 3
+D0
+Path of the Chosen
+~
+~
+0 0 25541
+D2
+~
+~
+0 0 25587
+S
+#25541
+Path of the Chosen~
+   Here is where the path ends. All about you, you see a literal sea of grains
+and wheats. Barley and other plants thrive in this setting. They grow strong,
+lush, and full, making the grains of other cities pale in comparison. A musky
+smell emanates from all around you, filling your sense with flavor and life.
+The children have quieted considerably and seem to stay to the south of here.
+Everyone now and then you catch a glimpse of a bushy tail popping in and out
+amongst the grass. Turning your gave to the north you behold a most wonderous
+site, a very unusal wonderous sight. Rising before you in all its splendor is
+a beautiful crystal structure. All about it, ferns and moss' thrive and grow.
+A beautiful archway guards the entrance with shining glory. Looking to your
+west you see the entrance to a small pavillion-like garden. You can hear some
+music coming from the pavillion, and singing and laughter filters through to
+your ears. The path continues to the south, while the crystalline structure 
+lies to the north. To your west is the pavillion.
+~
+255 32768 3
+D0
+   Crystalline Archway
+~
+~
+0 0 25543
+D2
+Path of the Chosen
+~
+~
+0 0 25540
+D3
+   Entrance to the Garden Pavillion
+~
+~
+0 0 25542
+S
+#25542
+Pavillion Entrance~
+   Walking towards the entrance, your steps begin to slow, and soon you stop.
+Standing in place, you stare, your eyes transfixed on the beautifully crafted
+entryway to a lush garden pavillion. Ivy of the deepest green entwines itself
+without aid, to form a beautiful natural archway before you. Entwined within
+the ivy are beautiful blue dawn flowers, lightening the continuous green of the
+ivy. Tall bushes guard the sides of the pavillion, acting like walls. Laughter
+and music are quite audible from somewhere past the archway. Just inside the
+entrance, marble of the purest white, form into steps leading up before you.
+You can see the steps leading up and an exit back to the Path of the Chosen to
+your east.
+~
+255 32772 3
+D1
+Path of the Chosen
+~
+~
+0 0 25541
+D4
+~
+~
+0 0 25544
+S
+#25543
+Crystalline Entranceway~
+   Continuing your way along the Path of the Chosen, you come to stand before
+a beautiful crystalline building. It stands at least 30 feet high at the peak,
+and has a roughly pyramid shape. A heavy crystalline door stands before you,
+twinkling with the warm rays of the sun. All up around the edges, ferns and
+mosses grow, covering the base of the pyramid in a beautiful green wall. Upon
+closer examination, you find the structure to be made of amber. Extremely 
+strong and durable it seems. It has been polished to an incredible sheen, and
+glows brightly in the afternoon sun. The amber door before you is closed.
+You can see the Path of the Chosen to your south.
+~
+255 32789 3
+D0
+~
+Amber Door~
+2 -1 25558
+D2
+Path of the Chosen
+~
+~
+0 0 25541
+S
+#25544
+Ascending the Marble Steps~
+   Passing through the ivy woven archway, you look up at the prim, beautiful
+white marble steps. Taking in a breath, you begin to ascend. Stepping lightly
+so as not to announce your arrival, you make your way up the steps. Small 
+trenches have been made on the sides and filled in with dirt. Beautiful 
+fragrant flowers of all sorts fill the trenches creating a soft groundcover
+that stretches out all around the marble structure. Smells of sweet pastries
+assault your nose, bringing dreams of the past back to the surface. Looking 
+out behind you, you can see the mighty trunk of this vallenwood tree stretching
+mightily into the vast expanses of blue sky. As you get closer to the top,
+you begin to make out voices more clearly and can even understand a few words.
+The music is getting softer, but is still as beautiful as ever. The stairs 
+end in about fifteen steps. You can see the top of the stairs above you, and
+the base of the steps below you.
+~
+255 32768 3
+D4
+~
+~
+0 0 25545
+D5
+~
+~
+0 0 25542
+S
+#25545
+Top of the Marble Steps~
+   After a short climb, you step off the last step, you glance around and
+take in the full wonder of this beautiful city. Looking around, you see 
+another trench carved into the marble. This one however is filled with crystal
+clear water. Several different kinds of fish swim about here, living life to
+its fullest, as only they know how to do. Offshoots of the water filled trench 
+are roughly circular holes, filled with earth and ferns of all kinds. They grow
+unhibited and thrive in this lush enviroment. Smells of damp earth fill your
+being putting you at peace. Looking out to the south, you can see the market
+you passed through on your way here. It is still bustling with activity. Just
+to the east, and slighty north, you can see the large crystalline structure
+that you passed getting here. And stretching out to your west, you can see the
+trunk of one of the mighty vallenwood trees has been sculpted to resemble a
+large tower of some sort. You can hear gentle music playing softly to the
+~
+255 32852 3
+D0
+~
+~
+0 0 25546
+D5
+~
+~
+0 0 25544
+S
+#25546
+Standing before the Pavillion~
+    Continuing on your way along the summit of the pavillion, you are dazzled
+by the beauty of your surroundings, birds and wildlife enjoy the music and sit
+engorged in listening to the beautiful notes. Sweet earthly smells tease your
+senses, dancing an ever increasing crescendo of life. The music grows stronger
+as you approach the edge a roughly spherical depression. Walking up to it you
+look down into it and are pleasantly surprised. The music and voices you have
+been hearing belong to a troupe of bards performing a play. Dozens of onlookers
+laugh and cry at the exploits of their favorite characters, who end up in
+some peculiar and amusing situations. Three musicians provide musical 
+scores for each scene. There are two exits, one to the south back towards the
+steps, and some steps leading down into the pavillion. There are several
+cushions and benches around the pavillion on which you can sit.
+~
+255 32788 3
+D2
+~
+~
+0 0 25545
+D5
+~
+~
+0 0 25547
+S
+#25547
+Nose Bleed Section~
+    Descending several steps down, you come to the first row of seating. On
+this row, there are several benches lined in a neat order, going around about
+twenty five feet each way. This area of seats seems to be where most of the
+common citizens like to sit. Looking around, you see people from all walks of
+life sitting and enjoying themselves. Smiling with careless abandon, they 
+laugh and watch the goings-on down stage. Looking to the sky, you see the 
+tremendous canopy of the vallenwood tree towering above you. The musicians
+begin to play a merry jig that puts your mind at ease. Several of the
+characters onstage seem to be getting into a heated argument. You can see 
+that the benches stretch out to the east and west, while desceding the stairs
+takes you to the next row of seats. Above you, the stairs continue to edge
+of the bowl.
+~
+255 32800 3
+D1
+~
+~
+0 0 25548
+D3
+Top Row of Seating
+~
+~
+0 0 25550
+D4
+~
+~
+0 0 25546
+D5
+~
+~
+0 0 25549
+S
+#25548
+Top Row of Seating~
+    Scuffling your way along in front of people and and benches, you make your
+way to the center of the row. People around you are slightly annoyed at your
+passage in front of them, but soon forget about you when they see an actress
+fall desperately in love with a tree. Still spread out above you, the towering
+tree upon which you stand protects the Pavillion from any harsh weather that
+might threaten to cancel any performances. Several couples are here sharing
+a small picnic with each other. The play is progressing well, and people are
+falling into the rythmn of the action. Engrossed in what is happening below you
+, they do not seem to pay you any attention.
+~
+255 32800 0
+D3
+~
+~
+0 0 25547
+S
+#25549
+Main Seating Area~
+    Descending yet more beautifully crafted steps, you arrive at the second
+row of seating. Colorfully padded benches adorn this section of the seating.
+This area isn't too full, however it seems to be the place that all the 
+merchants and lesser royalty sit. Bowls of smoldering incense are scattered
+about, giving off a wonderful vanilla fragrance. Several small birds have
+set down here, to listen to the music and pick scraps off the ground. Straying
+around, you are shocked out of your reverie by a pick up in the volume of the
+music, you seem to be entering the musical solo of the play. You can see the
+stairs leading back up behind you, however they also continue their way down
+into the bottom seating section. To the north, east and west, this section
+continues.
+~
+255 32800 0
+D0
+~
+~
+0 0 25553
+D1
+~
+~
+0 0 25551
+D3
+~
+~
+0 0 25552
+D4
+~
+~
+0 0 25547
+D5
+~
+~
+0 0 25554
+S
+#25550
+Top Row of Seating~
+    Scuffling your way along in front of people and and benches, you make your
+way to the center of the row. People around you are slightly annoyed at your
+passage in front of them, but soon forget about you when they see an actress
+fall desperately in love with a tree. Still spread out above you, the towering
+tree upon which you stand protects the Pavillion from any harsh weather that
+might threaten to cancel any performances. Several couples are here sharing
+a small picnic with each other. The play is progressing well, and people are
+falling into the rythmn of the action. Engrossed in what is happening below you
+, they do not seem to pay you any attention.
+~
+255 32800 0
+D1
+Nose Bleed Section
+~
+~
+0 0 25547
+S
+#25551
+Central Seating Section~
+   Continuing off to the side of the Main Seating Area, you enter the finely
+crafted rows of padded benches. Sweet smell tickle your senses, bringing a
+sense of peace to your very being. Several merchants and their families have
+set up small picnics here to watch the play. They stare in easeful contentment
+at the story unfolding down on the stage. Half-mindedly the nibble on fruits
+and nuts they take from a woven aspen leaf basket. Glancing around, you can
+see many more families, and up above you, poorer families sit. Below you,
+the wealthiest citizens and the royalty sit and watch the talents of the
+infamous Elven Bards. You can see an exit on your left.
+~
+255 32800 0
+D3
+~
+~
+0 0 25549
+S
+#25552
+Central Seating Section~
+   Continuing off to the side of the Main Seating Area, you enter the finely
+crafted rows of padded benches. Sweet smell tickle your senses, bringing a
+sense of peace to your very being. Several merchants and their families have
+set up small picnics here to watch the play. They stare in easeful contentment
+at the story unfolding down on the stage. Half-mindedly the nibble on fruits
+and nuts they take from a woven aspen leaf basket. Glancing around, you can
+see many more families, and up above you, poorer families sit. Below you,
+the wealthiest citizens and the royalty sit and watch the talents of the
+infamous Elven Bards. You can see an exit on your left.
+~
+255 32800 0
+D1
+~
+~
+0 0 25549
+S
+#25553
+Crafted Balcony~
+   Walking to the north, you step onto a marble balcony, suspended by nothing
+but air. From here, you can look out over the stage below, and watch the
+actors and actresses perform their humorous roles with practiced skill. From
+this small vantage point, you can feel a cool wind blowing down off the cliffs
+that border the north end of the valley. Sweet smells of Aspen and Vallenwood
+tantalize the senses. The music from the stge picks up and the actors launch
+into a frenzy of waltzing and dancing. You can see the only exit is back the
+way you came.
+~
+255 32800 0
+D2
+~
+~
+0 0 25549
+S
+#25554
+Base of the Pavillion~
+   Descending down the stairs, you can clearly see that the seats are much
+finer quality than those in the levels above you. Not many people are here
+currently. The nobility seems to prefer the evening shows. The breeze
+from the the valley's edge blows by, creating a small cyclone, picking up
+what little dust is here. A faint scent of cinnamon carries through the breeze
+as it blows past. Looking about, you notice you can now clearly head and
+understand the words of the bards on the stage. Off to your west, they have 
+set up a small base camp where they eat and sleep when not performing. To your
+east, the box seats where the royalty sit stretches out before you. To your 
+north, the small marble walk you are on, leads up to the stage.
+~
+255 32800 0
+D0
+~
+~
+0 0 25557
+D1
+~
+~
+0 0 25555
+D3
+~
+~
+0 0 25556
+D4
+~
+~
+0 0 25549
+S
+#25555
+Royal Booth~
+   You slip under the little red chain and slide into the royal box, did they
+really expect those things to keep you out? Thinking to yourself... "Self,that wasn't too bad." After patting yourself on the back, you take a moment to
+look around. Dazzling the eyes are fourteen beautifully crafted, and lusciously
+padded chairs. In the center of them, on the bottom row, are two, seemingly
+his and her thrones. The have been magically crafted from entwined leaves of
+Aspen and Vallenwood. The other chairs seem to be smaller copies of the two
+larger ones. Bowl of leaves and wood lay around, giving off a musky natural
+smell. You can see one exit to your west. It leads back to the base of the
+pavillion.
+~
+255 32800 0
+D3
+~
+~
+0 0 25554
+S
+#25556
+Small Complex~
+   Looking to your west, you see a small curtain covering a portion of the
+Pavillion. Stepping up to it, you slip through the opening and take in the 
+sights before you. Strewn about on the ground are about a dozen bedrolls set
+out in now particular pattern. In the center of the little "clearing" is
+the remnants of a now cold campfire. Several pots and pans have been hung on
+a line strung across the makeshift camp. Dirty clothes lie in a pile in one
+corner of the camp, while its sister pile of costumes lays in the opposite
+corner. Two curtains make up the the changing rooms. Suddenly from outside 
+the curtain, the entire pavillion erupts in roaring laughter, quickly poking
+your head outside the curtain, you catch the last of the laughter dieing down.
+DAMN! Looks like you just missed the best part. You can see a single exit to
+the east.
+~
+255 32820 1
+D1
+~
+~
+0 0 25554
+S
+#25557
+Up on the Stage~
+   Stepping lightly so as not to alert the audience members and the actors up
+on stage, you slowly creep up toward the three steps leading up to it. So far
+so good. Making your way farther along the narrow walk, you start to feel more
+and more conspicuous. Hunching down even lower, you sneak stealthily up to the
+first step. Cautiously, you place one foot on it, then another. Collecting
+your nerve, you place one, then two feet on the second step. Tilting your head
+down, you place your foot as carefully as possible on the final step, followed
+shortly by your other foot. Phew! You made it! Suddenly, you notice something
+very strange... the only sound you hear is your breathing. Wait a minute. 
+Uh-oh... looking up, you notice everyone on the stage is looking at you. 
+Glancing behind you, you see every eye in the pavillion turned on you. Thinking
+fast, you give the classic, "Anyone lose a watch?" line, as you casually make
+your way to the far corner of the stage. Looking back, the bards take up their
+roles again, starting where they were before they were rudely interrupted.
+~
+255 32800 0
+D2
+~
+~
+0 0 25554
+S
+#25558
+Southeast Corner~
+   Walking up to the amber door, you pull it open and are hit by a blast of
+warm air. Your nostrils tingle at the smell of moisture and damp earth. Musky
+scents of plants mingle with the sweet scents of herbs and flowers. Stepping
+inside, you close the door behind you and the wind dies. Immediately you can
+feel that it is at least ten degrees warmer in here than it is outside. In
+addition, the humidity has increase three fold. Still, it is surprisingly
+pleasant, and a sense of peace spreads throughout your body. Looking around,
+you see several trees reaching towards the top of the pyramid. All about the
+ground, in no apparent pattern, are a large assortment of herbs, flowers, and
+ferns. You are standing on a small dirt path that is edged with small chunks
+of granite. There is a hole in the earth off the path, with a pile of dirt
+to its side. The hole has been recently created, and is about 8 inches in
+diameter. The dirt path on which you stand continues to the west and north.
+~
+255 32993 3
+D0
+~
+~
+0 0 25562
+D2
+~
+Amber Door~
+2 -1 25543
+D3
+~
+~
+0 0 25560
+S
+#25559
+Chamber of the Master Talik~
+   Slipping in between the the Amber, you emerge into a beautiful amber room.
+The outside of the amber room is almost completely covered in some sort of
+ivy, and very little sunlight filters in. The source of light for the room
+is a large glowing ball of light. Looking around some more, you see several 
+work benches along the walls. Pots and planters lay all over the place. A 
+large basin of crystal clear water dominates the center of the room. A very
+sweet odor fills this room. Looking around, you find the source to be patches
+of drying herbs hung from the western wall. Several gardening tools lay 
+around, seemingly very well kept for. A pile of soil sits off in one corner,
+waiting to be used. The only visible exit is back out the crack to the south.
+~
+255 32865 3
+D2
+~
+Crack in the Amber~
+2 -1 25561
+S
+#25560
+Southwest Corner~
+   This portion of the pyramid is much the same as the other three. The dirt
+path continues weaving its way in a very irregular fashion always staying 
+about 7 feet from the place where the ground and pyramid meet. Several small
+vallenwood benches have sprouted up for people to sit and watch. You didn't
+notice it before, but there are several small birds inside the pyramid, as
+well as bugs. The birds chirp in the trees quite happily and gorge themselves
+on the plentiful supply of bugs. The path continues along the edge,
+disappearing around a corner before long.
+~
+255 32992 3
+D0
+~
+~
+0 0 25561
+D1
+~
+~
+0 0 25558
+S
+#25561
+Northwest Corner~
+   This portion of the pyramid is much the same as the other three. The dirt
+path continues weaving its way in a very irregular fashion always staying 
+about 7 feet from the place where the ground and pyramid meet. Several small
+vallenwood benches have sprouted up for people to sit and watch. You didn't
+notice it before, but there are several small birds inside the pyramid, as
+well as bugs. The birds chirp in the trees quite happily and gorge themselves
+on the plentiful supply of bugs. The path continues along the edge,
+disappearing around a corner before long.
+~
+255 32993 3
+D0
+~
+Crack in the Amber~
+2 -1 25559
+D1
+~
+~
+0 0 25562
+D2
+~
+~
+0 0 25560
+S
+#25562
+Northeast Corner~
+   This portion of the pyramid is much the same as the other three. The dirt
+path continues weaving its way in a very irregular fashion always staying 
+about 7 feet from the place where the ground and pyramid meet. Several small
+vallenwood benches have sprouted up for people to sit and watch. You didn't
+notice it before, but there are several small birds inside the pyramid, as
+well as bugs. The birds chirp in the trees quite happily and gorge themselves
+on the plentiful supply of bugs. The path continues along the edge,
+disappearing around a corner before long.
+~
+255 32992 3
+D2
+~
+~
+0 0 25558
+D3
+~
+~
+0 0 25561
+S
+#25563
+Floating Amongst the Stars~
+   Continuing along the prtal you entered quickly fades from view behind you.
+You can feel the roots of terror and insanity slowly creep into your soul.
+Eternal night extends in all directions, and wherever you are, you feel as
+though you are not supposed to be here. The consciousness which you felt
+earlier is growing stronger and stronger, you feel as thought you are being
+pulled to some specific location, though you cannot figure out where or what.
+You are getting very afraid now.
+~
+255 212 6
+D0
+~
+~
+0 0 25524
+D1
+~
+~
+0 0 25531
+D2
+~
+~
+0 0 25524
+D3
+~
+~
+0 0 25563
+D4
+~
+~
+0 0 25524
+D5
+~
+~
+0 0 25524
+S
+#25564
+Chamber of the Guilds~
+   You step out the southwestern corner of the marketplace and onto a fairly
+large treebranch. You are standing in the center of a courtyard of some sorts.
+Five sturdy looking buildings surround the yard, and each has a sign hanging
+above its entranceway. The signs seem to represent each of the five guilds,
+bards, mages, warriors, thieves, and clerics. Each has its own little atrium,
+and there seem to be guards in each of them. A slight mist hang over everything
+here, giving it a slightly eerie quality. You get a little jittery, but do
+feel safe here. The marketplace lies back to the northeast. 
+~
+255 32997 1
+D0
+~
+~
+0 0 25565
+D1
+~
+~
+0 0 25569
+D2
+~
+~
+0 0 25566
+D3
+~
+~
+0 0 25567
+D4
+~
+~
+0 0 25568
+D6
+~
+~
+0 0 25520
+S
+#25565
+Guardian Chamber of the Mages Guild~
+   Walking north from the courtyard, you quickly pass through an archway and
+come upon a second archway, more impressive than the first. It is made of 
+beautifully entwined vines and seems to glow with a bright, silvery glow. 
+Looking around a little more, you see the shape of the room you are in is an
+almost perfect square. A feeling of peace and power radiates from beyond the
+archway, and you feel uneasy being here. Your entire body tingles as you feel
+magical energy leaping around, permeating your very being. There are only two
+exits, north through the archway, and south back to the courtyard.
+~
+255 32801 0
+D0
+~
+secret door~
+2 25573 25571
+D2
+~
+~
+0 0 25564
+S
+#25566
+Guardian Chamber of the Thieves Guild~
+   You step away from the courtyard and into a very dark room. You can't see
+anything except two faint glimmers of light. One north and one south. You feel
+a sinister force at work here, and even infravision has trouble breaking
+through the inky blackness. You walk a little deeper into the room and can
+barely make out a flurry of movement behind you. You start approach the far
+end of the room, towards the light. You are almost there when a hand is placed 
+on your chest, and you are pushed down into your back. In little more than a
+whisper someone hisses, "The sign or your life."
+~
+255 32801 1
+D0
+~
+~
+0 0 25564
+D2
+~
+secret door~
+2 25574 25575
+S
+#25567
+Guardian Chamber of the Clerics Guild~
+   Stepping off the smooth stones of the pavillion, you tread softly into a
+white marble room. Everything glistens with cleanliness and beauty. A robed
+figure stands in front of a marble archway and smiles at you. The ceiling
+rises about 20 feet above you and forms an inverted bowl above you. A crystal
+mobile hangs from the center of the ceiling, twinkling in the magical light.
+The room is otherwise barren, and behind the guard, you can see a second,
+more lavishly decorated chamber. You think you can hear chanting, but are not
+quite sure. Being in this room brings a feeling of peace and calm. There are
+two exits, the west, and east where you came in.
+~
+255 32801 1
+D1
+~
+~
+0 0 25564
+D3
+~
+secret door~
+2 25576 25577
+S
+#25568
+Guardian Chamber of the Bards Guild~
+   Heading up into the corner of the pavillion, you ascend the stairway up
+and into the bard's guild. Reaching the top of the steps, you are surprised
+to find a large brick building, ABOVE you. A lavishly dressed man with a
+large feathered hat sits on the stairs just above you, he smiles at you
+and strums his lute happily and begins to whistle a little tune. There 
+really isn't much around this level of the stairway, but until you prove
+your worthiness, the only way to go is down. Looking back up, you can here
+beautiful music emanating from within the guild.
+~
+255 32805 0
+D4
+~
+secret door~
+2 25575 25579
+D5
+~
+~
+0 0 25564
+S
+#25569
+Guardian Chamber of the Fighters Guild~
+   Stepping away from the courtyard, you are approached by two very large
+elves with very sharp swords. Taking the few seconds you have before they
+reach you, you glance around at the room into which you stepped. You see
+that the room is very plain, and uniform. Straight corners and granite 
+pillars supporting a roof. Scenes of elves fighting enemies of all sorts
+adorn the walls of the room, and in each, the elves are visciously defeating
+all their opponents. A slightly smokey smell hangs in the air, remenants of
+a recent campfire. Behind the two approaching guards is a large chamber,
+however, you cannot make out much detail. The fighters have reached you now,
+and are unwilling to let you pass until you prove you are one of them.
+~
+255 32801 1
+D1
+~
+door secret~
+2 25572 25573
+D3
+~
+~
+0 0 25564
+S
+#25570
+Vortex Chamber~
+   Carefully you open the trapdoor and ease your way down into the black.
+There is nothing underneath you so just just drop and find yourself hovering
+in amongst an endless night sky. There are a few glowing points of light
+in each direction, and the trapdoor far above you. You seem to be able to move 
+by willing yourself to move. There is no smell, no sound, and hearing in this
+strange new world. You feel out of control, and afraid of what awaits you
+here.
+~
+255 32881 6
+D0
+~
+~
+0 0 25582
+D1
+~
+~
+0 0 25584
+D2
+~
+~
+0 0 25581
+D3
+~
+~
+0 0 6380
+D4
+Trapdoor
+~
+trapdoor door trap~
+1 0 25533
+D5
+~
+~
+0 0 25585
+S
+#25571
+Pentacle Chamber~
+   The guard for the guild steps aside and allows you to pass into the main
+chamber of the Mages Guild. You cautiously make your way through the archway,
+and enter into a most incredulous place. It is like a bowl, with several 
+chairs placed around the edge. In the bottom of the "bowl" is a giant 
+Pentagram, easily ten feet in diameter. Small flames crackle along the lines
+which form it. You count the chairs: Nine all together. They are all currently
+empty, and aside from that, this room is barren. A spiraling staircase on the
+north wall leads up and out of sight. The faint smell of charred wood and 
+burnt earth fill this chamber, making you feel right at home. The only exits
+are to the south, into the Guardian Chamber, and up into the second floor.
+~
+255 33013 1
+D2
+~
+secret door~
+2 25573 25565
+D4
+~
+~
+0 0 25572
+S
+#25572
+Lush Garden~
+   Stepping swiftly upu the stairs, you slow and look up from your feet and
+inhale sharply. By walking up these steps, you seem to have been transported
+into an entirely different world. Looking down however, you quickly regain 
+your sense as you see the Pentacle Chamber. Turning back to the sights around
+you, you discover a beautiful wooded glade. Lush grass surrounds you, and trees
+line the glade forming a rough circle around the glade. The undergrowth is 
+thick but very luscious, and life carries its wonderous symphony on about you.
+Small bits of light filter through the canopy treetops, making a mesmerizing
+pattern of light and shadow on the ground before you. Looking towards the far
+end of the glade, you see a beautiful throne sculpted from the living tree
+behind it. On it, sits a figure dressed beautiful blue robes. His eyes follow
+your every move, and you get the feeling, you are in the presence of the a
+true master of the Art. The only exit is to the north, down a small path.
+~
+255 32873 3
+D5
+~
+~
+0 0 25571
+S
+#25573
+Hall of the Heroes~
+   After proving yourself, you step past the two guards and enter a bright
+hall. The walls are covered in weapons of all sorts, as well as some pieces
+of armor. Lining the walls, on the floor, are suits of empty armor, set to
+stand as though someone was in them. Looking up and down the hall some more,
+you see that the end has been set up to serve as some sort of practice area.
+Rapiers and other swords that can be used without risk are laid around, 
+waiting to be used. Padding and upright wooden poles serve as protection and
+dummies, respectively. At the far end of the hall, is a metal stairway, 
+spiraling upwards.
+~
+255 33012 1
+D3
+~
+secret door~
+2 25572 25569
+D4
+~
+~
+0 0 25574
+S
+#25574
+Chamber of the Master~
+   You ascent the tempered steel stairs, your boots clanking loudly against
+the metal. Steping up off the last step, the trapdoor swings shut behind you
+leaving you alone in the room except for a large grizzled elf sitting on a
+throne made if iron. Propped underneath his relaxed hand is a very long, 
+longsword. It is made of a strange black rock and looks VERY sharp. The elf
+is dressed in jet black armor, the same material as the sword, and regards
+you warily, as you approach. His grip tightens around the grip of the sword
+and you take his meaning by stopping in your tracks. The room is covered in
+weapons and armor of all kinds. Eachblade is well kept, and each armor is
+well oiled. The only exit is a blue portal to the north.
+~
+255 32840 1
+D5
+~
+~
+0 0 25573
+S
+#25575
+Shadow Hall~
+   Miraculously, you manage to get past the guards, by showing them the 
+thieves sign. Stepping from the dark room you enter a fairly bright room,
+compared to the last, filled with all sorts of strange contraptions. Several
+types of harnesses hang from the wall, as well as small filled pouch, daggers
+and dirks, shortswords, and some clothes made of the inkiest black. There
+are several targets and dummys with targets on them posistioned all about
+the room. Some of the dummys have daggers sticking out of their backs, while
+some have daggers placed in various pressure points. A wooden stairway in
+the northeast corner of the room leads up to a second room, above this one.
+~
+255 32996 1
+D0
+~
+secret door~
+2 25574 25566
+D4
+~
+~
+0 0 25576
+S
+#25576
+Stylish Living Room~
+   Clambering up the stairs as quitely as possible, you realy have no idea
+what to expect. Up the stairs you go, and in no time, you reach the top and
+step out into... a living room. Stepping off the last step, the trapdoor 
+swings shut behind you, leaving you staring directly at a very imposing 
+figure. You think to yourself, with a start, that this could be the 
+Grandmaster Thief of the Elves! Quickly you fall to one knee and bow your
+head down before him. Finishing, your rise and look around. The room looks
+just like you'd expect a living room to look like. Potted plants sit around,
+a few padded chairs and cushions adorn the room, as well as a small table
+capable of seating four, against the eastern wall. A small meal has been
+set on the table, for any company that might drop by. The only exit is
+through a glowing portal to the south.
+~
+255 32873 5
+D5
+~
+~
+0 0 25575
+S
+#25577
+Meditation Sanctum~
+   Smiling to the guard as you walk past him, you step into a room that
+carries the smell of sweet roses and freshly cut grass. The room is in the 
+shape of a circle, with and spiraling white marble stairway leading up from
+the exact center. The diameter of the room has to be at least 30 feet, and
+every foot or so around the rim, there is a seating cushion placed for 
+people to meditate and pray too. The sanctum has no source of light save
+for the fifty or so candles burning around the room. This entire room 
+radiates an aura of pure peace, and standing within its walls causes your
+sould to lighten and raise to a new height of self-consciousness. The only
+exits are the way you came and a stairway in the center.
+~
+255 33013 1
+D1
+~
+secret door~
+2 25576 25567
+D4
+~
+~
+0 0 25578
+S
+#25578
+The Altar of the Vortex~
+   Stepping smoothly and quietly up the stairs, you step off the last, and
+find that they have disappeared behind you. This room is empty except for
+a beautiful silver altar. At first glance you had thought you were back in
+amongst the stars, however closer observation reveals that the walls are
+actually painted to resemble the stars. On each end of the altar, a bowl
+sits out, apparently for offerings to whatever god this is an altar to.
+~
+255 32873 3
+D5
+~
+~
+0 0 25577
+S
+#25579
+Bardic Court~
+   After proving yourself, the guard hops off the stairs and lets you ascend
+up the stairs past him, and into the bard's guild. All about you, there
+are beautiful morning glories, in full bloom, and covering the walls. 
+Nestles in amongst them on benches, chairs, and cushions are a myriad of
+different instruments. Some glow, others waver in and out of view, and yet
+others just sit there. Flutes, lyres, lutes, piccolos, violins, violas, and
+tons of other instruments fill the room. The scent of flowering flowers and
+freshly cut wood fill your nostrils. Being here is one of the few places
+that can ever be considered a home for you. You are with your own kind, and
+the beauitful music you heard before echoes through the rooms, bringing a
+flood of tears to your eyes.
+~
+255 33013 1
+D0
+~
+~
+0 0 25580
+D5
+~
+secret door~
+2 25575 25568
+S
+#25580
+The Master's Workshop~
+   Literally forcing yourself, you manage to tear yourself away from the 
+beauty of the Court, and walk north into the Master's Workshop. This room
+is rather large and roomy, and seems to serve as both a bedroom and workshop.
+A workbench sets on the northern wall, and a bed on the western. To the east
+are a few music stands, with open sheet music on them. A softly glowing 
+sphere of light floating above the center of the room provides light. Sitting
+at her workbench, one of the most beautiful women you have ever seen is 
+crafting a beautiful wooden flute. The only exit is a portal to the south.
+~
+255 32873 1
+D2
+~
+~
+0 0 25579
+S
+#25581
+The "MUCH" Faster Way Down~
+   I aint scared of no exit you say chuckling as you walk off the solid ground
+and into: nothing. Oh dear.
+ 
+       Y <   >
+       E >   <
+       E <   >
+       E >   <
+       E <   >
+       E >   <
+       A <   >
+       A >   <
+       A <   >
+       A >   <
+       H <   >
+       H >   <
+          OOF
+       O >   <
+       O <   >
+       O >   <
+       O <   >
+       O >   <
+       O >   <
+       H <   >
+       H >   <
+       H <   >
+       H >   <
+       H <   >
+       H >   <
+          ACK
+       C <   >
+       R >   <
+       A <   >
+       A >   <
+       A >   <
+       A <   >
+       A >   <
+       A <   >
+       P >   <
+       P <   >
+       P >   <
+       ! <   >
+       ! >   <
+       ! <   >
+       ! >   <
+       ! <   >
+          DOH
+       M >   <
+       O <   >
+       O >   <
+       T <   >
+       H >   <
+       E <   >
+       E >   <
+       E <   >
+       R >   <
+       R <   >
+          ARF
+       W >   <
+       A <   >
+       A >   <
+       A <   >
+       S >   <
+       S <   >
+          ICK
+       R >   <
+       I <   >
+       I >   <
+       I <   >
+       G >   <
+       H <   >
+       T >   <
+You can see your house from here!
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+         <   >
+         >   <
+ 
+ 
+         /\  /\
+        /  | | \     /\
+       |   \_|  |   |  \
+   /\ /         \  /    \
+  /  ||          |/      |
+ |   \/                  \
+/                         \
+ 
+  Phew, good thing those sharp pointy rocks were there to ease your fall.
+Thank you for your patronage, please call again.
+~
+255 32822 5
+S
+#25582
+Lost Forever Amongst the Stars~
+   This looks like a nice little place to get lost. Stepping out away from the
+REALNESS of the vortex, you heroicaly charge in to meet whatever new and
+dazzling adventures may await you. Turning around to see the world you loved
+and left, you find the exit has gone. You are alone in this nothingness,
+stranded in an endless nightsky, you can hardly move, and can only watch as
+you float aimlessly for all eterenity.
+~
+255 32822 5
+S
+#25584
+Deadly Distraction~
+   Totally absorbed in yourself, you have failed to noticed that you have
+walked into a room unlike you any you have ever seen. Why just look over there
+are those flowers, and over there at the painting, oh and look at the pottery!
+The food! The glorius food! Isn't that Helen, your ex-wife? And look!
+A silver chessboard! And is that what I think it is over there... and oh I've
+looked everywhere for one of these, and thos..................................
+................................................................................
+...........................
+~
+255 32822 0
+S
+#25585
+Chamber of the Vortex Beast~
+   Willing yourself to descend, you slowly and steadily begin to descend down
+into the inky blackness. It is not long before you hit solid ground. 
+Glancing around you see nothing but darkness. An endless sea of black. Only a
+small pinhole of light above you penetrates this unearhtly darkness. From
+somwhere out in the darkness you hear a low growl and snort, followed by a
+hissing of some sort, suddenly two brightly gleaming eyes appear less than
+a foot away from your face, and you can feel the creatures hot breath, fogging
+your face. You want to run in terror but find yourself unable to.
+~
+255 32865 6
+D4
+~
+~
+0 0 25570
+S
+#25586
+Path of the Chosen~
+   Exiting the pristine Den, you encounter a totally different world. Elves
+are everywhere going about their daily chores. Children and cooshee laugh and
+frolick playfully in their peaceful, secluded lifestyle. Sweet smeels of
+muffins and pastrys tickle your nose, while a brisk, chilled breeze blows off
+the snow capped peaks to the north. Bathed in the warm sunlight, you cannot
+help but to think of the family you left s long ago. Turning back to the
+reality before you, you watch mothers gather fruits and nuts from the trees
+that line the path. They seem to have been magically transferred into their
+current position ebedded in the stout vallenwood branch.
+~
+255 32768 3
+D0
+~
+~
+0 0 25587
+D2
+~
+~
+0 0 25539
+S
+#25587
+Path of the Chosen~
+   Exiting the pristine Den, you encounter a totally different world. Elves
+are everywhere going about their daily chores. Children and cooshee laugh and
+frolick playfully in their peaceful, secluded lifestyle. Sweet smeels of
+muffins and pastrys tickle your nose, while a brisk, chilled breeze blows off
+the snow capped peaks to the north. Bathed in the warm sunlight, you cannot
+help but to think of the family you left s long ago. Turning back to the
+reality before you, you watch mothers gather fruits and nuts from the trees
+that line the path. They seem to have been magically transferred into their
+current position ebedded in the stout vallenwood branch.
+~
+255 32768 3
+D0
+~
+~
+0 0 25540
+D2
+~
+~
+0 0 25586
+S
+#99999
+$~

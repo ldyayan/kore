@@ -1,0 +1,1523 @@
+#1400
+The Gauntlet of Advancement~
+   You have prepared for many years. Are you ready?
+~
+14 1136 0
+D0
+~
+~
+0 0 1401
+S
+#1401
+The trial of body~
+   Before one can advance, the body must be purified and proven.
+~
+14 131168 0
+D0
+~
+portal~
+2 1401 1402
+S
+#1402
+The trial of body~
+You are in an unfinished room.
+~
+14 131169 0
+D0
+~
+portal~
+2 1402 1403
+S
+#1403
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1403 1404
+S
+#1404
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1404 1405
+S
+#1405
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1405 1406
+S
+#1406
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1406 1407
+S
+#1407
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1407 1408
+S
+#1408
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1408 1409
+S
+#1409
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1409 1410
+S
+#1410
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1410 1411
+S
+#1411
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1411 1412
+S
+#1412
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1412 1413
+S
+#1413
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1413 1414
+S
+#1414
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+D0
+~
+portal~
+2 1414 1415
+S
+#1415
+The trial of body~
+You are in an unfinished room.
+~
+14 131168 0
+S
+#1416
+dummy room~
+You are in an unfinished room.
+~
+14 0 0
+S
+#1417
+dummy room~
+You are in an unfinished room.
+~
+14 0 0
+S
+#1418
+dummy room~
+You are in an unfinished room.
+~
+14 0 0
+S
+#1419
+dummy room~
+You are in an unfinished room.
+~
+14 0 0
+S
+#1420
+dummy room~
+You are in an unfinished room.
+~
+14 0 0
+S
+#1421
+dummy room~
+You are in an unfinished room.
+~
+14 0 0
+S
+#1422
+dummy room~
+You are in an unfinished room.
+~
+14 0 0
+S
+#1423
+Meditation Room~
+   You hear a voice say, 'Be ready, for the gauntlet begins.'
+~
+14 1141 0
+D0
+~
+~
+0 -1 1424
+D2
+~
+~
+0 0 1400
+S
+#1424
+Level of the Nexus~
+   You hear a voice say, 'Defend yourself, mortal!'
+~
+14 1121 0
+D0
+   You see a star-filled black gate. You see a bloody sign which states,
+
+   'Beyond this gate lies the Nexus. Weep now for nobody shall weep for you.'
+~
+gate~
+2 1409 1425
+D2
+~
+~
+0 0 1423
+S
+#1425
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1426
+D1
+~
+~
+0 0 1427
+D2
+~
+~
+0 0 1428
+D3
+~
+~
+0 0 1429
+D4
+~
+~
+0 0 1430
+D5
+~
+~
+0 0 1431
+D6
+~
+~
+0 0 1432
+D7
+~
+~
+0 0 1431
+D8
+~
+~
+0 0 1441
+D9
+~
+~
+0 0 1433
+S
+#1426
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1439
+D1
+~
+~
+0 0 1435
+D2
+~
+~
+0 0 1425
+D3
+~
+~
+0 0 1437
+D4
+~
+~
+0 0 1426
+D5
+~
+~
+0 0 1438
+D6
+~
+~
+0 0 1441
+D7
+~
+~
+0 0 1434
+D8
+~
+~
+0 0 1434
+D9
+~
+~
+0 0 1437
+S
+#1427
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1435
+D1
+~
+~
+0 0 1436
+D2
+~
+~
+0 0 1438
+D3
+~
+~
+0 0 1425
+D4
+~
+~
+0 0 1439
+D5
+~
+~
+0 0 1425
+D6
+~
+~
+0 0 1435
+D7
+~
+~
+0 0 1431
+D8
+~
+~
+0 0 1432
+D9
+~
+~
+0 0 1441
+S
+#1428
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1425
+D1
+~
+~
+0 0 1437
+D2
+~
+~
+0 0 1437
+D3
+~
+~
+0 0 1435
+D4
+~
+~
+0 0 1438
+D5
+~
+~
+0 0 1439
+D6
+~
+~
+0 0 1441
+D7
+~
+~
+0 0 1435
+D8
+~
+~
+0 0 1437
+D9
+~
+~
+0 0 1432
+S
+#1429
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1437
+D1
+~
+~
+0 0 1425
+D2
+~
+~
+0 0 1435
+D4
+~
+~
+0 0 1426
+D5
+~
+~
+0 0 1440
+D6
+~
+~
+0 0 1437
+D7
+~
+~
+0 0 1440
+D8
+~
+~
+0 0 1431
+D9
+~
+~
+0 0 1435
+S
+#1430
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1426
+D1
+~
+~
+0 0 1427
+D2
+~
+~
+0 0 1428
+D3
+~
+~
+0 0 1429
+D4
+~
+~
+0 0 1439
+D5
+~
+~
+0 0 1425
+D6
+~
+~
+0 0 1431
+D7
+~
+~
+0 0 1437
+D8
+~
+~
+0 0 1430
+D9
+~
+~
+0 0 1426
+S
+#1431
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1426
+D1
+~
+~
+0 0 1427
+D2
+~
+~
+0 0 1428
+D3
+~
+~
+0 0 1429
+D4
+~
+~
+0 0 1425
+D5
+~
+~
+0 0 1425
+D6
+~
+~
+0 0 1429
+D7
+~
+~
+0 0 1433
+D8
+~
+~
+0 0 1430
+D9
+~
+~
+0 0 1427
+S
+#1432
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1426
+D1
+~
+~
+0 0 1427
+D2
+~
+~
+0 0 1428
+D3
+~
+~
+0 0 1429
+D4
+~
+~
+0 0 1430
+D5
+~
+~
+0 0 1431
+D6
+~
+~
+0 0 1427
+D7
+~
+~
+0 0 1428
+D8
+~
+~
+0 0 1425
+D9
+~
+~
+0 0 1425
+S
+#1433
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1426
+D1
+~
+~
+0 0 1427
+D2
+~
+~
+0 0 1428
+D3
+~
+~
+0 0 1429
+D4
+~
+~
+0 0 1430
+D5
+~
+~
+0 0 1431
+D6
+~
+~
+0 0 1432
+D7
+~
+~
+0 0 1425
+D8
+~
+~
+0 0 1437
+D9
+~
+~
+0 0 1431
+S
+#1434
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1426
+D1
+~
+~
+0 0 1427
+D2
+~
+~
+0 0 1428
+D3
+~
+~
+0 0 1429
+D4
+~
+~
+0 0 1430
+D5
+~
+~
+0 0 1431
+D6
+~
+~
+0 0 1432
+D7
+~
+~
+0 0 1437
+D8
+~
+~
+0 0 1441
+D9
+~
+~
+0 0 1433
+S
+#1435
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1429
+D1
+~
+~
+0 0 1428
+D2
+~
+~
+0 0 1427
+D3
+~
+~
+0 0 1426
+D4
+~
+~
+0 0 1437
+D5
+~
+~
+0 0 1427
+D6
+~
+~
+0 0 1426
+D7
+~
+~
+0 0 1433
+D8
+~
+~
+0 0 1430
+D9
+~
+~
+0 0 1429
+S
+#1436
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1426
+D1
+~
+~
+0 0 1427
+D2
+~
+~
+0 0 1428
+D3
+~
+~
+0 0 1427
+D4
+~
+~
+0 0 1425
+D5
+~
+~
+0 0 1437
+D6
+~
+~
+0 0 1429
+D7
+~
+~
+0 0 1433
+D8
+~
+~
+0 0 1430
+D9
+~
+~
+0 0 1427
+S
+#1437
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1428
+D1
+~
+~
+0 0 1426
+D2
+~
+~
+0 0 1429
+D3
+~
+~
+0 0 1428
+D4
+~
+~
+0 0 1436
+D5
+~
+~
+0 0 1435
+D6
+~
+~
+0 0 1433
+D7
+~
+~
+0 0 1426
+D8
+~
+~
+0 0 1429
+D9
+~
+~
+0 0 1434
+S
+#1438
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1427
+D1
+~
+~
+0 0 1438
+D2
+~
+~
+0 0 1438
+D3
+~
+~
+0 0 1439
+D4
+~
+~
+0 0 1426
+D5
+~
+~
+0 0 1428
+D6
+~
+~
+0 0 1435
+D7
+~
+~
+0 0 1434
+D8
+~
+~
+0 0 1431
+D9
+~
+~
+0 0 1430
+S
+#1439
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1024 0
+D0
+~
+~
+0 0 1440
+D1
+~
+~
+0 0 1438
+D2
+~
+~
+0 0 1426
+D3
+~
+~
+0 0 1440
+D4
+~
+~
+0 0 1428
+D5
+~
+~
+0 0 1427
+D6
+~
+~
+0 0 1440
+D7
+~
+~
+0 0 1440
+D8
+~
+~
+0 0 1440
+D9
+~
+~
+0 0 1440
+S
+#1440
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1441
+D1
+~
+~
+0 0 1439
+D2
+~
+~
+0 0 1439
+D3
+~
+~
+0 0 1441
+D4
+~
+~
+0 0 1429
+D5
+~
+~
+0 0 1441
+D6
+~
+~
+0 0 1439
+D7
+~
+~
+0 0 1439
+D8
+~
+~
+0 0 1439
+D9
+~
+~
+0 0 1439
+S
+#1441
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1442
+D1
+~
+~
+0 0 1440
+D2
+~
+~
+0 0 1440
+D3
+~
+~
+0 0 1441
+D4
+~
+~
+0 0 1440
+D5
+~
+~
+0 0 1439
+D6
+~
+~
+0 0 1425
+D7
+~
+~
+0 0 1427
+D8
+~
+~
+0 0 1426
+D9
+~
+~
+0 0 1428
+S
+#1442
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+~
+14 1121 0
+D0
+~
+~
+0 0 1437
+D1
+~
+~
+0 0 1435
+D2
+~
+~
+0 0 1441
+D3
+~
+~
+0 0 1434
+D4
+~
+~
+0 0 1443
+D5
+~
+~
+0 0 1429
+D6
+~
+~
+0 0 1429
+D7
+~
+~
+0 0 1434
+D8
+~
+~
+0 0 1431
+D9
+~
+~
+0 0 1428
+S
+#1443
+Nexus of Doom~
+   The blood red sky looms over the bleak landscape. You see no vegetation
+or signs of life. The air has an acrid smell of sulfur and brimstone. You
+see jagged mountains to the far distance.
+   You see a glowing portal that radiates strongly of magic.
+~
+14 1125 0
+D0
+~
+~
+0 0 1444
+D4
+~
+~
+0 0 1442
+S
+#1444
+Portal of Doom~
+*F
+**L
+***A
+****S
+*****H
+******!
+
+You feel your body rematerializing from the portal. You touch yourself
+frantically to see if you are still alive. Fortunately, you are.
+~
+14 1141 0
+D0
+~
+~
+0 0 1445
+S
+#1445
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D0
+~
+~
+0 0 1448
+D1
+~
+~
+0 0 1446
+D2
+~
+~
+0 0 1452
+D3
+~
+~
+0 0 1447
+D4
+~
+~
+0 0 1450
+D5
+~
+~
+0 0 1449
+S
+#1446
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1269 0
+D1
+~
+~
+0 0 1453
+D3
+~
+~
+0 0 1445
+S
+#1447
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1269 0
+D1
+~
+~
+0 0 1445
+D3
+~
+~
+0 0 1454
+S
+#1448
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1269 0
+D0
+~
+~
+0 0 1451
+D2
+~
+~
+0 0 1445
+S
+#1449
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1269 0
+D4
+~
+~
+0 0 1445
+D5
+~
+~
+0 0 1455
+S
+#1450
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D0
+~
+~
+0 0 1457
+D5
+~
+~
+0 0 1445
+S
+#1451
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D0
+You see a red door with a huge single eye in the center.
+~
+door~
+2 1410 1445
+S
+#1452
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1269 0
+D0
+~
+~
+0 0 1445
+D2
+~
+~
+0 0 1456
+S
+#1453
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D1
+You see a yellow door with a skull in the center.
+~
+door~
+2 1413 1445
+S
+#1454
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D3
+You see a huge blue door with a tongue in the middle.
+~
+door~
+2 1411 1445
+S
+#1455
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D5
+You see a white door with a bloody tooth in the middle
+~
+door~
+2 1412 1445
+S
+#1456
+Codex of Doom~
+You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D2
+You see a huge green door with a naked woman on it. What is behind the green door?
+~
+door~
+2 1414 1445
+S
+#1457
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D0
+You see a red door with a huge single eye in the center.
+~
+door~
+2 1410 1458
+D2
+~
+~
+0 0 1450
+S
+#1458
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D1
+You see a yellow door with a skull in the center.
+~
+door~
+2 1413 1459
+D2
+~
+~
+1 0 1457
+S
+#1459
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D0
+~
+~
+0 0 1458
+D3
+You see a huge blue door with a tongue in the middle.
+~
+door~
+2 1411 1460
+S
+#1460
+Codex of Doom~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D1
+~
+~
+0 0 1459
+D5
+You see a white door with a bloody tooth in the middle
+~
+door~
+2 1412 1461
+S
+#1461
+Codex of Doom~
+You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking.
+~
+14 1121 0
+D2
+You see a huge green door with a naked woman on it. What is behind the green door?
+~
+door~
+2 1414 1462
+D3
+~
+~
+0 0 1460
+S
+#1462
+Near the black pit of the Codex~
+     You are in a blood red room with horrible disfigured creatures in the
+walls, screaming and pleading for mercy. You feel the presence of unspeakable
+evil lurking. You see the huge black pit of pure darkness. You hear spine-chilling
+screams and hideous lustful laughter echoing throughout the pit.
+~
+14 1141 0
+D5
+You can see nothing below. You hear only screams.
+~
+~
+0 0 1463
+S
+#1463
+The Pit of the Codex of DOOM~
+A
+AA
+AAA
+AAAA
+IIIII
+IIIIII
+IIIIIIIII
+IIIIIIIIII
+EEEEEEEEEEE
+EEEEEEEEEEEE
+EEEEEEEEEEEEE
+EEEEEEEEEEEEEE
+EEEEEEEEEEEEEEE
+!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!
+
+You fall
+  You fall
+    You fall
+      You fall
+        You fall
+      You fall
+    You fall
+  You fall
+You fall
+
+You scream uncontrolably as you plunge to the jagged rocks below. You see
+many bloody corpses and equipment scattered across the rocky floor.
+Just before you hit the bottom, you feel your body being teleported.
+You black out.
+You awake.
+You see a light coming from the north.
+~
+14 1141 0
+D0
+~
+~
+0 0 1464
+S
+#1464
+Heart of the Codex~
+     You are in the heart of the corruption. You see mutilated corpses hanging from the
+ceiling and walls. You hear the silent rattle of the chains hanging the corpses. You
+hear grunting and howling noises coming closer and closer to YOU!
+~
+14 1269 0
+D0
+~
+~
+0 0 1465
+S
+#1465
+Liar of the Cyberdaemon~
+      You better run. NOW!
+~
+14 97 0
+D0
+~
+~
+0 0 1468
+D1
+~
+~
+0 0 1466
+D2
+~
+~
+0 0 1464
+D3
+~
+~
+0 0 1467
+S
+#1466
+Liar of the Cyberdaemon~
+     You better run. NOW!
+~
+14 1121 0
+D3
+~
+~
+0 0 1465
+S
+#1467
+Liar of the Cyberdaemon~
+     You better run. NOW!
+~
+14 1121 0
+D1
+~
+~
+0 0 1465
+S
+#1468
+Liar of the Cyberdaemon~
+     You better run. NOW!
+~
+14 1121 0
+D2
+~
+~
+0 0 1465
+S
+#99999
+$~

@@ -1,0 +1,144 @@
+#28800
+small green frog~
+a small green frog~
+A small green frog hops around croaking happily.
+~
+You see your average happy frog. Its skin is green, shiny and moist.
+It seems to be smiling with an ear to ear grin.
+~
+2056 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#28801
+jack irons giant~
+Jack in Irons~
+A grotesque giant stumbles towards you with fiery eyes.
+~
+  Before you rises a tall being. His shape resembles that of a human,
+but his hands and feet are grotesquely deformed into animal paws.
+From his hunched back hang a multitude of heavy rusty chains, from
+which he has hung several human heads. From under his filthy mane,
+you get a glimpse of two glowing red eyes glaring at you with a
+stupid expression, crowning a drooling toothless mouth.
+~
+600104 8454144 -500 S
+40 -18 -4 0d0+19000 5d8+20
+806 0
+8 8 1 6
+#28802
+blue frog~
+a small spotted blue and green frog~
+A curiously spotted frog hops around making splashing sounds.
+~
+  This frog would look like a normal frog if it wasn't for its peculiar
+blue and green coloration. It placidly regards you with yellow eyes.
+~
+32904 0 0 S
+10 17 1 0d0+200 1d1+5
+5 0
+8 8 0 4
+#28803
+frog woman lady faerie~
+the Lady frog~
+A small woman rests here on a toadstool. There is something curious about her...
+~
+  A beautiful woman with long drooping breasts bats her eyelashes and
+laughs at you. It looks as though she is kneeling, but as you take a
+more careful look under her white flowing dress, you discover that from
+the waist down her shape is that of a frog!
+~
+2188 128 0 S
+35 0 0 0d0+6000 7d7+0
+43 0
+8 8 2 8
+#28804
+pixie~
+a mischivievous pixie~
+A mischivieous pixie rolls on the ground laughing at you.
+~
+  A little creature giggles and laughs as he stares at you
+with watery eyes. Its body is that of a small child, but 
+covered with light greenish fuzz. Its face reminds you of
+that of a mouse, with its dark gleaming eyes, and huge 
+ears. On its head, rests a long conical hat made out of some
+bark.
+~
+2188 4521984 0 S
+20 10 0 0d0+850 5d6+8
+15 0
+8 8 0
+#28805
+bogle goblin~
+a bogle~
+A small bogle watches you with menacing yellow eyes.
+~
+  You see a small goblin like creature, its furry back
+covered with filth. A pair of yellow eyes under bushy 
+eyebrows reveals the evil nature of the bogle.
+~
+2572 8650752 -300 S
+15 10 0 0d0+850 5d5+8
+14 0
+8 8 0 4
+#28806
+asrai faerie~
+the asrai~
+A diminute girl hides from the sunlight under a tree branch.
+~
+  The asrai is a small and delicate female faerie who melts
+away into a pool of water when captured or exposed to sunlight.
+~
+136 4980866 0 S
+30 13 0 0d0+1021 5d7+5
+5 0
+8 8 2 13
+#28807
+emhain faerie queen woman lady~
+Emhain~
+A young woman rests on a rock surrounded by the glow of her own skin.
+~
+  You can't stop staring at the apparition before you. The most
+beautiful woman rests on a rock under the apple tree, showered
+by the white flowers that pour endlessly from its branches. Her
+skin and flowing hair are completely white, so white that they
+glow with blinding light, blending with a long pair of wings
+that flutter distractedly.
+~
+700426 8388736 0 S
+50 -10 20 0d0+25000 8d8+32
+1047 0
+8 8 2 12
+#28808
+apple tree~
+The apple tree~
+A tall apple tree sheds its white flowers endlessly.
+~
+  A tall apple tree extends its handsome branches trying to
+reach the sky. Delicate white flowers fall like snow from its
+arms, covering its feet with a soft white glowing carpet.
+Readable in the delicate markings in the bark, are the symbols
+that mark the tree as the soul of a dryad. The faerie and the
+tree so intimately linked, that one cannot live without the 
+other.
+~
+700426 8388736 0 S
+50 -10 0 0d0+25000 8d7+30
+500 0
+8 8 0 6
+#28809
+birch tree~
+The birch tree~
+The birch tree extends its skinny branches towards you, like long fingers.
+~
+  Despite the delicacy of its long gray branches, the knots and 
+twists of its trunk resemble an ugly face, like that of an old 
+witch. Slowly a branch extends towards your head, and you shiver
+as the leaves whisper the sweet murmur of death.
+~
+604170 8388608 0 S
+35 10 0 0d0+15000 5d5+20
+230 0
+8 8 0 2
+#99999
+$~

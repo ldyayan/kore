@@ -1,0 +1,122 @@
+#182
+Guild of Demariv~
+18299 34 2 32
+O 0 18226   100 18287            altar of storms
+M 0 18227     1 18287            Damodred, the white dragon
+G 1 18227    40    -1                    give orb of protection
+E 1 18229     7    17                    held a crystal chalice
+M 0 18229     1 18287            Damodred's scribe
+M 0 18226     4 18209            keeper of the tower
+E 1 18200   100    16                    wield a keeper's blade
+O 0 18201   100 18209            a small wooden sign
+M 0 18208     1 18258            Greed
+G 1 18234   101    -1                    give a small scroll
+G 1 18210   101    -1                    give the third advancement disc
+E 1 18236    30    17                    held blur wand
+E 1 18237    16     9                    hands the Gauntlets of Night
+D 0 18258     0     2            The Third Trial door north
+D 0 18258     2     2            The Third Trial door south
+M 0 18209     1 18235            keeper of the trials
+E 1 18207   101    17                    held the trial key
+D 0 18235     0     2            Entrance to the Trials door north
+M 0 18207     1 18257            Sickness
+E 1 18209   101    17                    held the second advancement disc
+D 0 18257     0     2            The Third Trial door north
+D 0 18257     2     2            The Third Trial door south
+M 0 18206     1 18256            Fear
+E 1 18208   101    17                    held the first advancement disc
+D 0 18256     2     2            The Third Trial door south
+M 0 18232     1 18296            Lim's librarian
+M 0 18214     1 18276            Lim, the grand master
+E 1 18219    16    10                    arms a pair of ^ggreen glowing^n armbands
+E 1 18218    35    12                    about the robes of Lim
+E 1 18222    18    16                    wield a power focus
+M 0 18215     1 18276            Simba, member of the council
+M 0 18217     1 18276            Trulaim, member of the council
+D 0 18276     0     1            The Dais of Lim door north
+O 0 18216   108 18268            a loaf of bread
+O 0 18239   102 18268            a cask of wine
+D 0 18268     2     1            Hall of the Council of Lim door south
+O 0 18239   100 18269            a cask of wine
+O 0 18216   105 18269            a loaf of bread
+D 0 18269     2     1            Hall of the Council of Lim door south
+O 0 18216   400 18259            a loaf of bread
+O 0 18217   100 18259            a water basin
+D 0 18259     0     2            Completion of the Trials door north
+M 0 18205     1 18221            Noest, master of the chamber
+E 1 18204   100    16                    wield the staff of Noest
+E 1 18221     1    12                    about a flickering globe of radiating power
+O 0 18203   100 18221            the altar of life
+D 0 18221     0     1            Upon the Altar door north
+M 0 18201     1 18216            keeper of the watch
+E 1 18200   100    16                    wield a keeper's blade
+E 1 18220     5    11                    shield the shield of the ages
+O 0 18214   100 18216            a huge desk
+D 0 18216     3     1            Keeper of the Watch's Quarters door west
+M 0 18212     1 18293            the guardian
+G 1 18213   100    -1                    give the passage key
+D 0 18293     0     2            A Tunnel door north
+M 0 18213     5 18295            a woodlock beast
+M 0 18210     3 18206            a band of thieves
+M 0 18221     5 18225            a peddler
+G 1 18228   100    -1                    give a ^Ygold^n ring
+D 0 18283     4     2            A Stairwell door up
+O 0 18212   100 18283            a small sign
+O 0 18232   100 18245            a metal plaque
+O 0 18223   100 18249            a metal plaque
+D 0 18277     2     1            The Chambers of Lim door south
+M 0 18223     5 18215            an off-duty keeper of the tower
+E 1 18200   100    16                    wield a keeper's blade
+D 0 18215     1     1            Guards Quarters door east
+D 0 18215     3     1            Guards Quarters door west
+M 0 18216     1 18275            Uladir, member of the council
+M 0 18217     1 18275            Trulaim, member of the council
+M 0 18218     1 18275            Sarrod, member of the council
+M 0 18219     1 18275            Tabas, member of the council
+M 0 18220     1 18275            Brunna, member of the council
+O 0 18230   100 18275            the table of the council
+M 0 18204     6 18222            guardian of the keep
+E 1 18200    99    16                    wield a keeper's blade
+E 1 18205    99     3                    neck 1 a steel key
+D 0 18222     3     2            A Side Hallway door west
+M 0 18204     6 18223            guardian of the keep
+E 1 18200    99    16                    wield a keeper's blade
+G 1 18206    99    -1                    give a copper key
+D 0 18223     1     2            A Side Hallway door east
+D 0 18266     0     1            A Hallway door north
+D 0 18267     0     1            A Hallway door north
+D 0 18290     4     1            A Tunnel door up
+D 0 18289     5     1            A Copse of Trees door down
+D 0 18260     2     1            Secret Passage door south
+D 0 18260     0     1            Secret Passage door north
+D 0 18261     0     2            Noest's Study door north
+D 0 18261     1     1            Noest's Study door east
+D 0 18261     2     1            Noest's Study door south
+D 0 18278     2     2            A Stone Stairwell door south
+O 0 18238   100 18250            a metal plaque
+O 0 18299   120 18297            a piece of VP pie pizza
+M 0 18299     1 18297            Osa, the attack Rottwieler
+D 0 18210     1     1            The Entrance Chamber door east
+O 0 18235   100 18288            a lab table
+M 0 18233     1 18288            Lim's lab assistant
+D 0 18288     2     2            Lim's Laboratory door south
+D 0 18284     5     2            Top of the Tower door down
+M 0 18221    10 18220            a peddler
+M 0 18231     8 18220            a refugee from the northern lands
+M 0 18230     5 18252            a sleeping Demariv cleric
+M 0 18228     2 18202            a deer
+M 0 18203     1 18214            a demariv cleric
+G 1 18225   100    -1                    give herbs of soothing
+M 0 18202     2 18214            a sick peasant
+M 0 18203     2 18212            a demariv cleric
+G 1 18225   100    -1                    give herbs of soothing
+M 0 18202     1 18212            a sick peasant
+M 0 18222    10 18230            a Leper
+M 0 18226    10 18230            keeper of the tower
+E 1 18200   100    16                    wield a keeper's blade
+M 0 18225     5 18231            the traveling merchant
+D 0 18254     3     2            The Inner Keep door west
+D 0 18233     1     2            Inner Keep door east
+S
+#99999
+$~

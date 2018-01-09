@@ -1,0 +1,69 @@
+>greet_prog 100~
+  if isimmort($n)
+    bow $n
+  else
+    if ispc($n)
+      kill $n
+    endif
+  endif
+~
+>rand_prog 30~
+  if hitprcnt($i) < 80
+    cast 'heal'
+    mpsilent mpcallmagic 'remove poison'
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    cast 'curse' $r
+  endif
+~
+>fight_prog 20~
+ if inroom($r) == here
+    cast 'petrify'
+ endif
+~
+>fight_prog 45~
+  if inroom($r) == here
+    mpechoat $r $I drains your life with a vampiric touch!
+    mpechoaround $r $I drains $R's life away with a vampiric touch.
+    mpecho $I looks much better.
+    mpdamage $r 20d10+30
+    mpsilent mpcallmagic 'heal' $i
+    mpsilent mpcallmagic 'heal' $i
+    mpsilent mpcallmagic 'heal' $i
+  endif
+~
+>fight_prog 55~
+  if inroom($r) == here
+    emote summons forth the elements upon you!!
+    cast 'earthquake'
+    cast 'chain lightning'
+    cast 'cone of cold'
+    cast 'fireball'
+  endif
+~
+>fight_prog 80~
+  if inroom($r) == here
+    emote surrounds the area with dancing flames.
+    mpcallmagic 'faerie fire' all
+  endif
+~
+>fight_prog 90~
+  if inroom($r) == here
+    if class($r) == cleric
+      mpechoat $r $I screams at you, 'Back to Hell!'
+      mpechoaround screams at $R, 'Back to Hell!'
+      mpsilent mpcallmagic 'word of recall' $r
+    else
+      cast 'heal'
+    endif
+  endif
+~
+>fight_prog 100~
+  if inroom($r) == here
+    mpecho Your body tingles with magical energy.
+    mpcallmagic 'dispel magic' all
+  endif
+~
+|

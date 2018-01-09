@@ -1,0 +1,13 @@
+>greet_prog 10~
+  if ispc($n)
+    if isgood($n)
+      if level($n) > 20
+        mpechoat $n $I gives you a curt nod of greeting.
+        mpechoaround $n $I gives $N a curt nod of greeting.
+      else
+        glare $n
+      endif
+    endif
+  endif
+~
+|

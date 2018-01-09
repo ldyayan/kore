@@ -1,0 +1,17 @@
+>greet_prog 100~
+  if ispc($n)
+    say Who are you, and why are you here? This gold is claimed!
+    say Leave now!
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if hitprcnt($r) < 20
+      switch $r
+      bash
+      bash
+    endif
+  endif
+~
+|
+

@@ -1,0 +1,54 @@
+>greet_prog 4~
+   emote hops up and down!
+~
+>give_prog red jellybean jelly bean~
+   say I want more red beans!
+ if rand (40)
+  mpsilent junk bean
+  mpoload 1236
+  give gold $n
+ else
+  mpsilent junk bean
+  mpoload 2162
+  give potion $n
+ endif
+~
+>give_prog purple jellybean jelly bean~
+  say I got a Barney bean!
+  bonk $n
+ if rand (10)
+  mpsilent junk bean
+  mpoload 2198
+  give token $n
+ else
+  mpsilent junk bean
+  mpoload 4050
+  give potion $n
+ endif
+~
+>give_prog green jellybean jelly bean~
+  say I got bean!
+  wedgie $n
+ if rand (30)
+  mpsilent junk bean
+  mpoload 1236
+  give gold $n
+ else
+  mpsilent junk bean
+  mpoload 2161
+  give potion $n
+ endif
+~ 
+>give_prog yellow jellybean jelly bean~
+   say I got bean!
+ if rand (10)
+  mpsilent junk bean
+  mpoload 2198
+  give token $n
+ else
+  mpsilent junk bean
+  mpoload 2163
+  give potion $n
+ endif
+~
+|

@@ -1,0 +1,355 @@
+#30200
+A White Marble Aquaduct~
+   You enter a glowing marble hallway filled with water.  As the water caresses your
+body you seem to float with no feeling.  To the south the hallway continues, lit by
+glowing runes etched into the walls.
+~
+302 268 8
+D0
+~
+~
+0 0 3001
+D2
+~
+~
+0 0 30201
+S
+#30201
+Continuing along the Aquaduct~
+     You continue to float along with the current of the water.  The water seems as breathable as air.
+The runes etched on the walls continue to ignite with fire as you float past
+them.  Ahead you see a shimmering, almost like a wall.  Beyond that you see something glowing.
+~
+302 264 8
+D0
+~
+~
+0 0 30200
+D2
+~
+~
+0 0 30202
+S
+#30202
+A White Marble Hallway~
+   Miraculously the water seems to end abruptly, forming a flowing wall 
+behind you.  As you step out from the water you notice that you are completely dry.
+The walls glow with a fierce zeal, almost bright enough to purify the darkest soul.  Ahead
+you see a marble dias.
+~
+302 8 0
+D0
+~
+~
+0 0 30201
+D2
+~
+~
+0 0 30203
+S
+#30203
+A Glowing Antechamber~
+   You enter a room washed white with the glow of the man in the center.  He stands, 
+ready to help anyone who asks.  The walls are inscribed on every inch in what seems
+like ages old scrawl, possibly even the Old Tongue.  As your eyes take in everything,
+you see runes flash into existance on the wall and then disappear again.  
+~
+302 24 0
+D0
+~
+~
+0 0 30202
+S
+#30204
+A path leading towards a town~
+   You appear with a thunder of power on the outskirts of a town.  To the east you see the
+buildings and huts of a small but burgeoning town growing with economic fervor.
+You gaze back at the portal you stepped through just in time to see it closing.  You have no
+where to go but east.
+~
+302 128 0
+D1
+~
+~
+0 0 30205
+S
+#30205
+Path to the Town~
+   You trudge through the high grass and shrubs, heading towards the Town ahead.  From
+a distance the town seems to be lifeless, not even the trees close to it sway when the
+wind picks up.  You glance around to search the greenery for an intruder or a watcher.
+~
+302 0 2
+D1
+~
+~
+0 0 30206
+D3
+~
+~
+0 0 30204
+S
+#30206
+The outskirts of town~
+   You are close to the town now.  The weariness seems to leave your bones the closer 
+you get to this unknown town.  To your left is an old, run down house that seems to
+have fallen into disuse.  The door is wide open, hanging on it's last hinge.  It is
+dark inside.
+~
+302 1048648 0
+D0
+~
+~
+0 0 30207
+D3
+~
+~
+0 0 30205
+S
+#30207
+The entrance to town~
+   The air here seems to have a restful quality.  You glance around at the huts and 
+buildings that begin this town and wonder in amazement how they are still standing. 
+Many are seemingly just being held up by the mud packed on the sides, but most seem
+to be ready to fall.  A road leads north into the town.
+~
+302 20 0
+D0
+~
+~
+0 0 30208
+D2
+~
+~
+0 0 30206
+S
+#30208
+Crossroads of Worship and Providence Roads~
+   You come to a mostly deserted intersection.  The roads cross here, the dirt
+and brick from the roads barely rustling at your passing.  To your left and
+to your right you can see old and new shops alike line the streets as far
+as the eye can see.  Occasionally someone passes you, but no one makes eye
+contact.
+~
+302 1048576 1
+D0
+~
+~
+0 0 30209
+D2
+~
+~
+0 0 30207
+S
+#30209
+Providence Road~
+   The road is made partially of brick and dirt.  The occasional person passes 
+you without much of a glance.
+One or 2 stores seem to be open on this road, but the vendors are no where
+to be seen.
+~
+302 0 1
+D2
+~
+~
+0 0 30208
+S
+#30210
+A Tunnel Entrance~
+   It's dark, with stagnant air permeating the whole entrance.  It smells as if this
+area has not been disturbed in a millenia.  Cobwebs brush your head and remnants of
+old bones snap as you walk forward.  The walls feel dry and brittle underneath your
+hands and you worry about a cave-in.
+~
+302 9 0
+S
+#30250
+Koroc's room~
+    This is Koroc's personal room.  The walls are decorated in a deep blue carpet.  The lights are
+dim.  In the corner you can see a glowing sword as well as a wooden staff.  A comfortable chair
+is sitting directly in front of a blazing fire.
+~
+0 1441871 0
+D0
+~
+~
+0 0 555
+S
+#30280
+An unfinished room~
+You are in an unfinished room.
+~
+302 0 0
+S
+#30290
+An unfinished room~
+You are in an unfinished room.
+~
+302 9 0
+D4
+~
+trap door~
+1 0 30294
+S
+#30291
+An unfinished room~
+You are in an unfinished room.
+~
+302 0 0
+D0
+~
+~
+0 0 30292
+D3
+~
+~
+0 0 30294
+S
+#30292
+An unfinished room~
+You are in an unfinished room.
+~
+302 0 0
+D0
+~
+~
+0 0 30293
+D2
+~
+~
+0 0 30291
+D3
+~
+~
+0 0 30295
+S
+#30293
+A Dark War Room~
+   It's still really dark.  The footsteps get closer and you seem to sweat more.  A
+shadow looms on the wall, with nothing there to make the shadow.
+~
+302 8 0
+D2
+~
+~
+0 0 30292
+D3
+~
+~
+0 0 30296
+S
+#30294
+An unfinished room~
+You are in an unfinished room.
+~
+302 0 0
+D0
+~
+~
+0 0 30295
+D1
+~
+~
+0 0 30291
+D3
+~
+~
+0 0 30297
+D5
+~
+trap door~
+1 0 30290
+S
+#30295
+An unfinished room~
+You are in an unfinished room.
+~
+302 0 0
+D0
+~
+~
+0 0 30296
+D1
+~
+~
+0 0 30292
+D2
+~
+~
+0 0 30294
+D3
+~
+~
+0 0 30298
+S
+#30296
+A Dark War Room~
+   It's still really dark.  The footsteps get closer and you seem to sweat more.  A
+shadow looms on the wall, with nothing there to make the shadow.
+~
+302 8 0
+D1
+~
+~
+0 0 30293
+D2
+~
+~
+0 0 30295
+D3
+~
+~
+0 0 30299
+S
+#30297
+A Dark War Room~
+   It's still really dark.  The footsteps get closer and you seem to sweat more.  A
+shadow looms on the wall, with nothing there to make the shadow.
+~
+302 8 0
+D0
+~
+~
+0 0 30298
+D1
+~
+~
+0 0 30294
+S
+#30298
+A Dark War Room~
+  It's still really dark.  The footsteps get closer and you seem to sweat more.  A 
+shadow looms on the wall, with nothing there to make the shadow.  
+~
+302 8 0
+D0
+~
+~
+0 0 30299
+D1
+~
+~
+0 0 30295
+D2
+~
+~
+0 0 30297
+S
+#30299
+A Dark War Room~
+   It's a dark room, and in the distance it looks like you can see no escape in any
+direction.  You hear footsteps in the distance and look around.  Shivers climb your
+spine as you feel the end of life approaching.  Shadows dance as your torch flickers.
+~
+302 393224 0
+D1
+~
+~
+0 0 30296
+D2
+~
+~
+0 0 30298
+S
+#99999
+$~

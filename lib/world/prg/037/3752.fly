@@ -1,0 +1,8 @@
+>social_prog newspaper~
+  mpechoaround $n $n smacks a black fly with $s newspaper!
+  mpechoat $n You smack a black fly with a rolled-up newspaper!
+  mpstopcommand
+  mpdamage self 10000
+~
+|
+

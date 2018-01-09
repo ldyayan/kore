@@ -1,0 +1,216 @@
+>rand_prog 6~
+  if isscript($i)
+  else
+    if isfight($i)
+    else
+      if inroom($r) == here
+        say Well, I don't have all day.
+        say Come back later when you have decided.
+        mptransfer all 22000
+      endif
+    endif
+  endif
+~
+>command_prog use~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog recite~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog kill~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog hit~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog cast~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog order~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog backstab~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog bash~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog berserk~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog kick~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog trip~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog disarm~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog steal~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>command_prog gauge~
+  if isscript($i)
+    mptrigger $n shutup
+  endif
+~
+>script_prog shutup~
+  mpstopcommand
+@
+  mpechoat $n $I notices your aggressive behavior and SNAPS your neck with a MASSIVE backhand!
+  mpechoaround $n $I notices $N's aggressive behavior and SNAPS $s neck with a MASSIVE backhand!
+@
+  mpechoat $n Your semi-decapitated body flails about like a headless chicken before falling down in a lifeless heap... too bad!
+  mpechoaround $n $N's semi-decapitated body flails about like a headless chicken before falling down in a lifeless heap!
+  mpsilent mpdamage $n 10000
+@
+  say Poor fool, he will no longer interrupt us.
+@
+  mpstopscript
+  say Now where was I?  Oh yes.
+  mptrigger $n greets
+  endif
+~
+>greet_prog 100~
+  if ispc($n)
+    emote turns from the mouth of the forge and looks down at you.
+    mptrigger $n greets
+  endif
+~
+>script_prog greets~
+#
+  sigh
+#
+  say So you have come to kill me?
+#
+  say Many others have.  But they failed.
+#
+  say They are in hell, where I sent them...
+#
+  emote points to the mouth of the forge.
+#
+  say or enslaved, and here they remain!
+#
+#
+  emote makes a sweeping gesture.
+#
+  say Still interested in death?  My death?  A simple yes or no will suffice.
+~
+>speech_prog yes~
+  if isfight($i)
+  else
+    mptrigger $n agree
+  endif
+~
+>script_prog agree~
+#
+  say Very well. But first allow me to prepare for battle...
+#
+  mpcallmagic 'dispel magic' all
+  mpcallmagic 'curse' all
+  emote makes a few simple gestures and you feel subtly different...
+#
+  nod
+#
+  say I am ready... But are you? 
+~
+>speech_prog no~
+  if isfight($i)
+  else
+    mptrigger $n refuse
+~
+>script_prog refuse~
+@
+  say No?
+@
+  say Pretenders!!
+@
+  mpecho $I bellows a mighty roar of anger that shakes the heavens, sending you tumbling towards the blazing forge!!!!!!
+  mpecho In your mad scramble to avoid a fiery death, items in your inventory are shaken loose! 
+  mpforce all drop all
+  mpsilent mpforce all sit
+@
+  say Begone, you pitiful excuses calling yourself "heroes."
+  mptransfer all 3001
+~
+>command_prog southwest~
+  if isfight($i)
+  else
+    say You will leave when I am done with you.
+    mpstopcommand
+  endif
+~
+>command_prog sw~
+  if isfight($i)
+  else
+    say You will leave when I am done with you.
+    mpstopcommand
+  endif
+~
+>command_prog north~
+  if isfight($i)
+  else
+    say You're not going anywhere.
+    say Yet...
+    mpstopcommand
+  endif
+~
+>fight_prog 8~
+  mpecho $I reaches into the forge...
+  mpecho ... and glows with ruddy light as $j eats a handful of glowing coals!
+  mpcallmagic 'heal' $i
+  mpcallmagic 'heal' $i
+  mpcallmagic 'heal' $i
+~
+>fight_prog 10~
+  say Feeling lonely?
+  mpechoaround $r $I reaches into the mouth of the forge!
+  mpechoaround $r $j scoops up a handful of glowing coals.
+  mpechoaround $r Three assistants rise from the scattered coals!
+  mpmload 22069
+  mpmload 22069
+  mpmload 22069
+  say Gather near your new friends!
+  mpforce 1.animated berserk
+  mpforce 2.animated berserk
+  mpforce 3.animated berserk
+~
+>fight_prog 15~
+  if inroom($r) == here
+    say Try this on for size...
+    mpechoat $r $I scoops a handful of smoldering coals from the forge and flings them at you!
+    mpechoaround $r $I scoops a handful of smoldering coals from the forge and flings them at $R!
+    mpechoat $r You scream horribly as some of the cinder fall into your eyes!!!
+    mpechoaround $r $R screams horribly as some of the cinder fall into $L eyes!!!
+    mpcallmagic 'blind' $r
+    mpdamage $r 20d8+50
+  endif
+~
+|

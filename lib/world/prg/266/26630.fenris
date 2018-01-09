@@ -1,0 +1,78 @@
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r $I picks you up in his mouth and shakes you relentlessly!
+    mpechoat $r $I tosses you out of his den!
+    mpechoaround $r $R gets picked up in the jaws of $I!
+    mpechoaround $r $R gets shook violently and tossed from the room!
+    mpdamage $r 22d22
+    mppose $r sit
+    if rand(30)
+      mpechoat $r You hit the ground so hard your clothes fly off!
+      mpforce $r remove all
+      mptransfer $r nearby
+    else
+      mptransfer $r nearby
+    endif
+  endif 
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r $I opens his huge jaws and exhales on you!
+    mpechoaround $r  $I opens his huge jaws and exhales on $R!
+    mpechoat $r His breath makes you somehow feel....different....
+    mpechoaround $R the breath of $I cleanses the aura of $R.
+    mpcallmagic 'dispel magic' $r
+  endif
+~
+>fight_prog 2~
+  if inroom($r) == here
+    mpechoat $r $I engulfs you with his massive jaws...
+    mpechoat $r ...and ^Rcrunches^N you into little pieces...
+    mpechoaround $r $I picks up $R in his massive jaws!
+    mpechoaround $r $R gets ^Rcrunched^N into itty bitty pieces! Yuck!
+    mpdamage $r 30d20
+    mpecho $I smacks his lips and lets out a little belch.
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r $I stares at you with glowing red eyes..
+    mpechoat $r Geez, you feel like running!
+    mpechoaround $r $I stares at $R and makes $K panic in fear!
+    if rand(50)
+      mpforce $r flee
+      mpforce $r flee
+      mpforce $r flee
+    else
+      mpforce $r recite recall
+      mpforce $r flee
+    endif
+  endif
+~
+>fight_prog 25~
+  if inroom($r) == here
+    mpecho $I lets out a bellowing howl that shakes the earth!
+    mpdamage all 20d20
+  endif
+~
+>fight_prog 35~
+  bash
+~
+>greet_prog 100~
+  if isfight($r)
+    growl $r
+  else
+    mptrigger $r greetz
+  endif
+~
+>script_prog greetz~
+  mpecho $I blinks and raises his head.
+@
+  mpecho $I looks you over with intelligent eyes.
+@
+  say Hmm...Mortals...
+  say and just in time for dinner.
+@
+  mpecho $I smacks his lips a little and grins.
+~
+|

@@ -1,0 +1,12 @@
+>fight_prog 20~
+  mpechoat $r You shudder and feel weak as a wispy limb rakes your skin!
+  mpechoaround $r A wispy limb rakes $R's skin !!
+  mpdamage $r 1d10+50
+  mpdrainmana $r 30
+  mpdrainmove $r 30
+~
+>fight_prog 5~
+  mpsilent cast 'fireball' $r
+  cast 'fireball' $r
+~
+|

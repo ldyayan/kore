@@ -1,0 +1,63 @@
+>greet_prog 100~
+  if ispc($n)
+    if rand(33)
+      say Oooh, preeeeetty...
+      wield pick
+      backstab $n
+    else
+      if rand(50)
+        emote sharpens the edge of his knife with his tongue.
+        emote smiles rather bloodily.
+      else
+        scream
+        flee
+        sneak
+        sneak
+        hide
+      endif
+    endif
+  endif
+~
+>entry_prog 100~
+  if ispc($n)
+    if rand(25)
+      say Hello.  Having fun yet?
+      wield pick
+      backstab $n
+    else
+      if rand(50)
+        say Nice to see you.
+      else
+        whistle $n
+        flee
+      endif
+    endif
+  endif
+~
+>fight_prog 25~
+  flee
+  flee
+  sneak
+  hide
+~
+>fight_prog 8~
+  say Hey!  That's a low blow!
+~
+>fight_prog 8~ 
+  say Come on, you pansy!
+~
+>fight_prog 8~
+  say Is this a knife which I see before me?
+~
+>fight_prog 8~
+  say I have not yet begun to fight.
+~
+>death_prog 75~
+  mpecho I am slain...
+  mpecho Life is but a shadow, a poor player, that struts and frets his hour upon
+  mpecho the stage and then is heard no more.  It is...  *URK*
+  mpjunk dagger
+~
+|
+
+ 

@@ -1,0 +1,126 @@
+>greet_prog 50~
+  if ispc($n)
+    mpecho $I chuckles at the sight of mortals on his home plane.
+    say It was very foolish for you to come here.
+    say You will, however, make very good servants.
+    mpecho $I loudly claps his hands together.
+    mpcallmagic 'dispel magic' all
+  endif
+~
+>command_prog circle~
+  if ispc($n)
+    if isfight($n)
+     if rand(40)
+      mpstopcommand
+      mpechoat $n $I grabs your arm and flashes a wry grin.
+      mpechoaround $n $I violently grabs the arm of $N.
+      mpechoat $n $I whaps you upside your head with a slimy tentacle!
+      mpechoaround $n $N gets whapped by a slimy tentacle of $I!
+      mpdamage $n 7d10
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpcallmagic 'word of death' $r
+      endif
+    endif
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpcallmagic 'disintegrate' $r
+      endif
+    endif
+  endif
+~
+>fight_prog 25~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpcallmagic 'lightning bolt' $r
+      endif
+    endif
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpecho Virmene shouts, 'Feel the true power of Virmene!'
+        mpecho A cloud of beetles flies off of $I.
+        mpecho The beetles crawl all over your body! The Horror!!
+        mpdamage all 5d25
+      endif
+    endif
+  endif
+~
+>fight_prog 35~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpcallmagic 'color spray' $r
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpecho $I makes a wrenching motion with his hands.
+        mpechoat $r You shriek in terror as your skin shifts off your bones.
+        mpechoaround $r $R screams in agony as $L muscle and skin are ripped from $L body.
+        mpdamage $r 200d2+100
+        mpechoat $r You stumble over your feet as you scramble out of the room.
+        mpforce $r flee
+      endif
+    endif
+  endif
+~
+>fight_prog 60~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpechoaround $r $I SLICES $R with a bladed arm!
+        mpechoat $r $I slices your belly open with a bladed arm!!
+        mpechoaround $r $R screams as $J grabs $L lacerated stomach!
+        mpechoat $r You wince in pain as your guts spill out onto the floor.
+        mpdamage $r 11d10
+      endif
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    if ispc($r)
+      if isfight($r)
+        mpechoat $r $I claps his hands and you are consumed by a bright light.
+        mpechoat $r $I has banished you from his plane!
+        mpechoaround $r $I clasps his hands and $R is consumed by a bright light.
+        mpechoaround $r $I has banished $R from his plane!
+        mptransfer $r 18367
+      endif
+    endif
+  endif
+~
+>rand_prog 6~
+  mpasound A deep booming laughter shakes your very soul.
+~
+
+>death_prog 100~
+  mpecho $I topples over as his physical form dies.
+  mpecho Vapourous forms spew from his corpse, shreiking and wailing.
+  mpecho A few spirits flit away into the yellow sky, a few stay...
+  mpmload 18330
+  mpmload 18330
+  mpmload 18330
+  mpmload 18330
+  mpmload 18330
+~
+|

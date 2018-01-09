@@ -1,0 +1,39 @@
+#17100
+baron sengir seng vampire vamp vlad vladimir~
+Baron Sengir~
+A large vampire stands nobely before you.
+~
+sadf
+~
+714859 5612718 1000 S
+52 -23 0 30d1+0 30d1+0
+0 0
+8 8 1
+#17101
+guard sleep sleeping vamp vampire~
+a sleeping guard~
+A sleeping guard lays here.
+~
+  A lazy looking guard is slumped in a corner of the room not
+giving any care to his duties. He looks as though he is in a
+deep sleep and would not like to be disturbed.
+~
+147978 -2147220422 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+4 4 1 4
+#17102
+guard sleep sleeping vamp vampire~
+a sleeping guard~
+A sleeping guard lays here.
+~
+  A lazy looking guard is slumped in a corner of the room not
+giving any care to his duties. He looks as though he is in a
+deep sleep and would not like to be disturbed.
+~
+147978 -2147220438 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+4 4 0
+#99999
+$~

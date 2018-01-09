@@ -1,0 +1,48 @@
+>rand_prog 6~
+  mpasound You hear a terrible howl rise up from somewhere ahead.
+~
+>greet_prog 100~
+  if isimmort($n)
+  else
+    if ispc($n)
+      grin
+      say You have violated the sanctity of my tomb! Prepare to join me in damnation!!
+    endif
+  endif
+~
+>fight_prog 8~
+  if inroom($r) == here
+    cast 'word of death' $r
+  endif
+~
+>fight_prog 14~
+  if inroom($r) == here
+    mpecho $I throws a bag into the center of the room where it explodes in a cloud of dust!
+    mpecho The force of the explosion hurls you against cavern wall!
+    mppose all sit
+    mpdamage all 8d14+10
+  endif
+~
+>fight_prog 19~
+  bash
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I shimmers and disappears...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent drop all
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  if rand(15)
+    mpecho You watch in horror as $I reappears and throws his eye into your hand!
+    mpoload 26403
+    mpsilent give eye $r
+    mpsilent drop eye
+  endif
+  mppose $i dead
+  mpgoto cleaner
+~
+|

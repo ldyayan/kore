@@ -1,0 +1,10 @@
+>greet_prog 15~
+  mpecho $I tosses as she tries to sleep with the low fire under her still licking at her flesh!
+  mpecho The acrid smell of charred flesh fills the room.
+~
+>rand_prog 15~
+  moan
+  mpecho $I cries softly to herself.
+~
+|
+

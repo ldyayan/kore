@@ -1,0 +1,96 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    fear zirnozz
+  endif
+~
+>fight_prog 3~
+  if inroom($r) == here
+    emote screams 'Magga cammara!' and dances around excitedly.
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    if isfight($r)
+      if class($r) == warrior
+        tell $r You have much to learn, the art of warfare is my domain!
+        riposte
+      else
+        if class($r) == mage
+          mpechoaround $r $I hits $R so hard that they stumble around dazed!
+          mpechoat $r $I hits you so hard that you see stars!!
+          mpsilent mpcallmagic 'feeble' $r
+          mpdamage $r 9d13
+        else
+          berserk $r
+          berserk $r
+          berserk $r
+        endif
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if isscript($i)
+  else
+    if inroom($r) == here
+      if isfight($r)
+        mpechoaround $r Belwar sweeps his pickaxe-hand in a roundhouse arc that smashes $R right in $L face!
+        mpechoat $r You barely catch a preliminary glance of the mithril pickaxe-hand of $I before it SMASHES INTO YOUR FACE!
+        mpdamage $r 9d20+11
+      endif
+    endif
+  endif
+~
+>fight_prog 20~
+  if isscript($i)
+  else
+    if inroom($r) == here
+      if isfight($r)
+        mpechoaround $r $I plants his hammer-hand solidly in the chest of $R, forcing $K hurtling backwards with an electrical shock!
+        mpechoat $r $I SMACKS you with his hammer-hand!
+        mpechoat $r Oww, an explosive shock careens through your body!!
+        mpdamage $r 8d18+9
+      endif
+    endif
+  endif
+~
+>fight_prog 70~
+  if isscript($i)
+  else
+    if isaffected($i, inspire)
+    else
+      mpecho $I begins chanting in an arcane tongue.
+      mptrigger $i enchantment
+    endif
+  endif
+~
+>script_prog enchantment~
+@
+@
+  mpecho $I's voice raises as he nears the completion of his spell.
+@
+  mpecho $I finally screams out, 'Bivrip!' and his weapon-hands glow intensely!
+  mpcallmagic 'inspire' belwar
+~
+>kill_prog 10~
+  if inroom($r) == here
+    mpsilent get corpse
+    mpecho $I raises the body of $R above his head mightily.
+    say From the earth you came, and to the earth you return!
+    mpecho $I hurls the corpse so hard at the ground that it virtually disintegrates!
+    mpsilent get all corpse
+    mpsilent junk corpse
+    mpsilent drop all
+  endif
+~
+>death_prog 5~
+  mpecho $I is dead!  R.I.P.
+  mpecho As Belwar sucks in his dying breath the hammer on his hand separates and falls with a loud clang to the floor.
+  mpasound Your blood freezes as you hear someone's death cry.
+  mpoload 8202
+  mppose $i stand
+  mpsilent drop hammer
+  mppose $i dead
+~
+|
+

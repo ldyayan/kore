@@ -1,0 +1,5 @@
+>rand_prog 100~
+  mpecho Seeing no more intruder, $i returns to his normal post.
+  mpgoto cleaner
+~
+|

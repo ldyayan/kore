@@ -1,0 +1,149 @@
+#26900
+graazin old man mage~
+Graazin~
+An obviously insane old man is sitting here talking to himself.
+~
+Its not hard to tell that the man has lived a long and hearty life.  His skin is
+wrinkled and sagging, and his face is covered with what might be some old battle
+wounds.  What were probably deep gauging cuts beforehand, were pourly stitched together
+leaving his wrinkled old face rather displeasing to look at.  One eye is almost pure
+white and the pupil within is barely visible.  He appears to be mumbling to himself as
+he rocks back and forth in his chair.
+~
+696330 1048 0 S
+40 15 2 10d10+100 2d4+4
+243 500000
+8 8 1
+#26901
+Delcina dwarf lady~
+Delcina~
+Delcina Forgehammer is here serving drinks to her customers.
+~
+She's unusually tall for a dwarf, standing about half a foot taller than most of the other
+dwarves in the room.  She happily runs around serving her drinks to the locals, and she
+even stops to serve on the visitors from out of town.  Her has is tied back into a long
+pony tail, getting it out of her face and probably to help prevent hair from getting into
+the few plates of food that shes serving to some out of town customers.
+~
+262154 1024 0 S
+0 -10 0 10d8+8 2d4+4
+270 10000
+8 8 2
+#26902
+Flint Fireforge~
+Flint Fireforge~
+Flint Fireforge, renowned metal smith is here pounding away before the forge.
+~
+A large scruffy beard hides the wrinkled face of this well aged dwarf.  His clothes, face
+and arms are covered in black soot, and his shirt is soaked with sweat.  He pounds furiously
+at a long piece of steel working it slowly into what will most likely be a magnificent
+sword.  He looks up as you enter the shop, lowers his hammer, and offers his assistance
+~
+262154 1024 400 S
+50 -30 0 20d20+1000 5d10+5
+557 500000
+8 8 1
+#26903
+dwarf old lady~
+the old lady~
+An old dwarven lady is sitting on a chair here, repairing a torn tunic.
+~
+She sits quietly in her chair stitching away at some torn clothing.  She has long grey
+hair that has been tied up to form a pony tail that hangs down the back of her neck almost
+down to the seat of the chair that she is sitting on.
+~
+262154 1024 800 S
+10 18 10 1d1+0 2d1+0
+20 100
+6 6 2
+#26904
+Kaulin Forgehammer~
+Kaulin Forgehammer~
+The owner of the bakery, Kaulin Forgehammer is standing here.
+~
+His beard and brow have turned grey as he's aged over the years making him look older
+than he is.  His beard covers his smiling face and it appears that he's in a good mood
+from that slight smile peeking through his beard, and the cheerful song that he hums while
+taking some fresh bread out of the oven.
+~
+262154 1024 900 S
+30 0 0 30d200+200 5d20+10
+207 10000
+8 8 1
+#26905
+Greltz Gravehopper~
+Greltz Gravehopper~
+Greltz Gravehopper the skinnest dwarf you've ever laid eyes upon is standing here.
+~
+His pupils are rather large even for a mountain dwarf.  Dark black nothingness stares back
+at you through his pupils.  He's probably the skinnest dwarf you've ever laid eyes upon.
+In fact, if it weren't for his wrinkled skin and large dwarven beard, you might think
+him a child upon first glance.
+~
+10 1024 -200 S
+20 13 0 30d200+500 2d10+4
+113 50000
+8 8 1
+#26906
+stone gargoyle~
+the gargoyle~
+A stone gargoyle is perched on a rock in front of the door here.
+~
+It looks to have been carved out of one solid piece of rock.  Its features haven't been
+carved in too much detail, and consist of a large protruding nose, two small eyes, and
+a mouth that is wide open revealing two very large fangs.
+~
+256010 20972584 0 S
+20 10 0 30d100+5 8d6+0
+0 240000
+8 8 0 4
+#26907
+giant bat~
+a giant bat~
+A giant bat is clinging to the ceiling here, feeding its young.
+~
+If the bat were standing upright on the ground it would probably stand at about
+six feet tall.  It's enormous and it doesn't look like it would be to friendly to
+any unwanted vistors, and judging by the apparent lack of use in this mine shaft
+anything wandering around would be an unwanted visitor.  It seems to have grown
+acustom to being so alone down here and it sleeps in the open, along with all the
+smaller bats.  Its covered in black wirey hair, and has massive thick leather like wings.
+~
+778282 4195384 0 S
+20 5 -8 30d80+0 10d8+0
+0 600000
+8 8 0 4
+#26908
+statue dwarf~
+the statue~
+A life size statue of a fat balding dwarf stands on a pedestal here.
+~
+The life size statue is so realistic looking its scary.  It's been carved from
+what looks to have been a solid piece of white marble.  The dwarf in which it
+represents appears to have been some kind of figure head.  The delicate hand work
+done to create the beard alone on the scraggly looking dwarf must have taken months
+to get right.  There's a small plaque posted below his feet on the pedestal on which
+he stands.
+~
+36347914 8389672 500 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#26909
+Russ Gemcutter~
+Russ Gemcutter~
+Russ Gemcutter is standing here behind the counter.
+~
+From passing by a lot of dwarves within the city, you happend to notice that pretty
+much all of the men had long bushy beards.  This man however seems to have taken
+a razor to his beard and trimmed it into a neat goatee.  His black goatee and short
+black hair seem nothing like the other dwarves you know of and have seen in the city.
+He has a sly smile on his face and he eyes you suspiciously when you walk into the
+door.
+~
+1040394 1064 -800 S
+50 2 -10 30d200+200 20d100+50
+1024 1000000
+8 8 1
+#99999
+$~

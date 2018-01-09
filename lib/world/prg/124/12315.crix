@@ -1,0 +1,34 @@
+UUUUUUUUUUUUUUUU>all_greet_prog 100~
+ if ispc($n)
+  say Before me stands but little mortals.
+  say You know not what you have stumbled upon.
+ endif
+~
+>fight_prog 10~
+  mpecho $I unleashes massive flames in all directions.
+  mpdamage all 10d6+10
+~
+>command_prog bash~
+  mpechoat $r $I flickers greatly as your weapon passes through.
+  mpechoaround $r $I flickers greatly as a weapon passes through him.
+  mpstopcommand
+~
+>fight_prog 7~
+ mpecho $I charges into the crowd his arms and axe flying.
+ berserk
+ berserk
+ berserk
+~
+>fight_prog 4~
+ mpecho $I takes a brillant yellow wand from his pouch.
+ say A gift from Neva, the shopkeep
+ mpsilent mpoload 12340
+ hold wand
+ use wand $r
+~
+>death_prog 100~
+ mpsilent remove all.claw
+ mpsilent junk all.claw
+~
+|
+

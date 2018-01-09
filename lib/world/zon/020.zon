@@ -1,0 +1,125 @@
+#20
+avernus~
+2199 40 1 35
+M 0  2007     1  2093            Amduscias
+E 1  2019   101    17                    held a copper tablet
+M 0  2010     1  2045            a black dragon
+M 0  2001     1  2045            Tiamat
+M 0  2011     1  2045            a red dragon
+M 0  2012     1  2045            a green dragon
+M 0  2013     1  2045            a blue dragon
+M 0  2014     1  2045            a white dragon
+M 0  2023    25  2001            the baaz draconian
+E 1  2062    10    16                    wield a draconian war axe
+E 1  2083    10     3                    neck 1 a tattered leather cape
+M 0  2024    25  2001            the bozak draconian
+E 1  2061    10    16                    wield a draconian spear
+E 1  2081    10     5                    body draconian leather armor
+M 0  2103     1  2117            Titivilus
+E 1  2100   101    17                    held an elaborately carved iron wrought key
+D 0  2117     0     2            Before the Gates of Dis door north
+M 0  2008     1  2085            Grunchuk
+E 1  2018   100    17                    held a small red disk
+E 1  2026    18    11                    shield a lapis tower shield
+D 0  2087     3     2            A shadowy gallery door west
+M 1  2070     1  2087            door_southeast
+M 0  2051    10  2084            a soul
+M 0  2051    10  2084            a soul
+M 0  2051    10  2084            a soul
+M 0  2050     1  2099            Charon
+M 0  2051    10  2099            a soul
+M 0  2051    10  2099            a soul
+M 0  2051    10  2099            a soul
+O 0  2095   101  2092            the tiller
+M 0  2003     1  2030            Yeenoghu, Demon lord of Gnolls
+E 1  2003    12    16                    wield the Flail of Yeenoghu
+M 0  2072    12  2072            random fireball generator
+M 0  2072    12  2070            random fireball generator
+M 0  2072    12  2068            random fireball generator
+M 0  2072    12  2066            random fireball generator
+M 0  2072    12  2051            random fireball generator
+M 0  2072    12  2058            random fireball generator
+M 0  2072    12  2060            random fireball generator
+M 0  2072    12  2055            random fireball generator
+M 0  2072    12  2054            random fireball generator
+M 0  2072    12  2050            random fireball generator
+M 0  2072    12  2002            random fireball generator
+D 0  2080     1     2            A darkened hallway door east
+D 0  2091     4     2            A waiting room door up
+D 0  2090     5     2            A narrow hallway door down
+D 0  2083     4     2            Beneath the iron ladder door up
+D 0  2082     5     2            A shadowy hallway door down
+M 0  2006     1  2089            Ayan
+E 1  2017   101    17                    held a massive ^Ygold^n key
+E 1  2015    15     1                    left finger a hematite ring
+M 0  2004     1  2044            Grahl
+E 1  2009    15    16                    wield a blood-encrusted longspear
+O 0  2014   101  2088            a stone table
+O 0  2013   101  2096            a pool of radiance
+M 1  2071     1  2096            portalmob_down
+O 0  2033   101  2098            an obsidian stalagmite
+D 0  2095     0     2            A darkened hallway door north
+D 0  2086     2     2            A darkened hallway door south
+O 0  2004   101  2049            an underground spring
+M 0  2015    10  2006            the lemure blob
+M 0  2024    25  2006            the bozak draconian
+E 1  2061    10    16                    wield a draconian spear
+E 1  2081    10     5                    body draconian leather armor
+M 0  2024    25  2006            the bozak draconian
+E 1  2061    10    16                    wield a draconian spear
+E 1  2081    10     5                    body draconian leather armor
+D 0  2006     1     1            The floor of the canyon door east
+D 0  2007     3     1            A secret room door west
+M 0  2016    12  2010            the succubus
+E 1  2085    10    16                    wield a small silver dagger
+M 0  2015    10  2010            the lemure blob
+M 0  2002     1  2008            the darkenbeast
+M 0  2016    12  2043            the succubus
+M 0  2015    10  2043            the lemure blob
+O 0  2010   101  2043            the bronze statue
+M 0  2016    12  2032            the succubus
+M 0  2016    12  2016            the succubus
+M 0  2024    25  2003            the bozak draconian
+E 1  2064    10    16                    wield a draconian hammer
+M 0  2015    10  2004            the lemure blob
+M 0  2020    25  2004            the aurak draconian
+E 1  2062    10    16                    wield a draconian war axe
+E 1  2084    10     6                    head a draconian battle helm
+M 0  2015    10  2012            the lemure blob
+M 0  2016    12  2018            the succubus
+M 0  2015    10  2078            the lemure blob
+M 0  2016    12  2029            the succubus
+M 0  2015    10  2031            the lemure blob
+M 0  2017     1  2022            Nalfeshnee
+M 0  2018     1  2023            Warfishner
+M 0  2021    20  2062            the sivak draconian
+E 1  2082    10     8                    feet draconian marching boots
+E 1  2063    10    16                    wield a draconian whip
+M 0  2021     0  2062            the sivak draconian
+D 0  2062     0     1            The base of the mountain door north
+M 0  2020    15  2061            the aurak draconian
+E 1  2062    10    16                    wield a draconian war axe
+E 1  2084    10     6                    head a draconian battle helm
+M 0  2021    15  2061            the sivak draconian
+E 1  2082    10     8                    feet draconian marching boots
+E 1  2063    10    16                    wield a draconian whip
+M 0  2022    15  2061            the kapak draconian
+E 1  2064    10    16                    wield a draconian hammer
+E 1  2082    10     8                    feet draconian marching boots
+E 1  2084    10     6                    head a draconian battle helm
+D 0  2061     2     1            Trail around the mountain door south
+D 0  2118     2     2            Inside the gates of Dis door south
+O 0  2028   101  2116            a portal to the iron city of Dis
+D 0  2116     0     2            A quiet place door north
+M 0  2005     1  2108            Malphas
+E 1  2011    10    16                    wield a heavy ^Wsilver^n bastard sword
+D 0  2108     0     1            The glittering cave door north
+D 0  2108     2     2            The glittering cave door south
+M 0  2033     1  2100            an astral deva
+O 0  2066   101  2100            a shadowy field
+D 0  2107     2     1            A darkened entryway door south
+D 0  2121     1     1            Main street before the temple door east
+D 0  2132     3     1            Entrance to the Temple of Dispater door west
+S
+#99999
+$~

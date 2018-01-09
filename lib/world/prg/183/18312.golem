@@ -1,0 +1,10 @@
+>greet_prog 5~
+   if ispc($r)
+    sigh
+    say Go ahead and kill me, I'll fix your alignment.
+    grumble
+    wait
+   endif
+~
+|
+

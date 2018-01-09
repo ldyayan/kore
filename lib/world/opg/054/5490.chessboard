@@ -1,0 +1,6 @@
+use_prog
+  echoat %1 A chessboard suddenly grows to gigantic proportions as you walk into it!
+  echoaround %1 A chessboard begins to vanish as $name(%1) magically walks into it.
+  poof
+~
+~

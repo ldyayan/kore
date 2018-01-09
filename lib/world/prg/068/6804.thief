@@ -1,0 +1,27 @@
+>entry_prog 50~
+  if name($n) == ayana
+    bow ayana
+  else
+    if isimmort($n)
+    else
+      if ispc($n)
+       hide
+       if rand(40)
+         steal coins $n
+      endif
+    endif
+  endif
+endif
+~
+
+>rand_prog 5~
+  emote darts into the shadows!
+  hide
+~
+>fight_prog 10~
+  flee
+  flee
+  flee
+  hide
+~
+|

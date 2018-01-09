@@ -1,0 +1,1099 @@
+#13000
+End of the highway~
+   The road arriving from the east ends abruptly as the wood encroaches
+on both sides and swallows it up.  However, there is a narrow well-used
+path that continues through the dense forest leading northwest.
+~
+130 32772 3
+D1
+~
+~
+0 0 18118
+D9
+~
+~
+0 0 13001
+S
+#13001
+A winding path through the wood~
+   Beams of light stream down from the treetops, filtered through many
+layers of thick foliage, to shine down on the forest floor.  There's too
+many diverse calls of wildlife and rustlings of underbrush to truly know
+all that surrounds you, yet it's not hard to feel alone out here.  The
+trail either continues to the west or the southeast.
+~
+130 32772 3
+D3
+~
+~
+0 0 13002
+D7
+~
+~
+0 0 13000
+S
+#13002
+A winding path through the wood~
+   Beams of light stream down from the treetops, filtered through many
+layers of thick foliage, to shine down on the forest floor.  There's too
+many diverse calls of wildlife and rustlings of underbrush to truly know
+all that surrounds you, yet it's not hard to feel alone out here.  The
+trail leads to the east, or deeper into the forest to the northwest.
+~
+130 32768 3
+D1
+~
+~
+0 0 13001
+D9
+~
+~
+0 0 13003
+S
+#13003
+A split in the road~
+   Moving along the well-trodden path through the forest, a few things are
+noticeable.  The trail continues on its meandering path, but a small
+portion of it forks off to the west where a breeze passes through the
+trees.  The wood doesn't seem as dark there, but the sounds of wildlife
+are strangely absent.  You can stay on the trail or venture out into the
+vast forest from here.
+~
+130 32768 3
+D0
+~
+~
+0 0 13004
+D3
+~
+~
+0 0 13024
+D7
+~
+~
+0 0 13002
+S
+#13004
+A twisting path through the forest~
+   Towering evergreens mark every part of the outskirts of this narrow
+dirt trail.  An occasional squirrel can be viewed darting around for
+whatever reason, be it stock-piling nuts for its hoard or simply watching
+your own passing.
+~
+130 32768 3
+D0
+~
+~
+0 0 13005
+D2
+~
+~
+0 0 13003
+S
+#13005
+A twisting path through the forest~
+   Towering evergreens mark every part of the outskirts of this narrow
+dirt trail.  An occasional squirrel can be viewed darting around for
+whatever reason, be it stock-piling nuts for its hoard or simply watching
+your own passing.
+~
+130 32768 3
+D2
+~
+~
+0 0 13004
+D3
+~
+~
+0 0 13006
+S
+#13006
+A twisting path through the forest~
+   Towering evergreens mark every part of the outskirts of this narrow
+dirt trail.  An occasional squirrel can be viewed darting around for
+whatever reason, be it stock-piling nuts for its hoard or simply watching
+your own passing.
+~
+130 32768 3
+D0
+~
+~
+0 0 13007
+D1
+~
+~
+0 0 13005
+D8
+~
+~
+0 0 13026
+S
+#13007
+A twisting path through the forest~
+   Surveying the trail you're on, a set of wagon tracks are noticable.
+Images of a merchant caravan traveling through this area aren't hard to
+conjure up, but the same could be said about a band of thieves hiding in
+the wood to assault them.
+~
+130 32768 3
+D1
+~
+~
+0 0 13033
+D2
+~
+~
+0 0 13006
+D9
+~
+~
+0 0 13008
+S
+#13008
+A winding path through the wood~
+   Surveying the trail you're on, a set of wagon tracks are noticable.
+Images of a merchant caravan traveling through this area aren't hard to
+conjure up, but the same could be said about a band of thieves hiding in
+the wood to assault them.
+~
+130 32768 3
+D3
+~
+~
+0 0 13009
+D6
+~
+~
+0 0 13031
+D7
+~
+~
+0 0 13007
+S
+#13009
+Fork in the road~
+   The most obvious way to take, if going by the tracks, lies heading north
+or towards an overgrown portion of the trail leading east.  It is possible
+to take a route directly into the forest to the southwest; however, it
+wouldn't be the wisest choice for a weary traveler.
+~
+130 32768 3
+D0
+~
+~
+0 0 13010
+D1
+~
+~
+0 0 13008
+D8
+~
+~
+0 0 13012
+S
+#13010
+A well-trodden path~
+   The trees grow thin around this narrow trail.  Wagon and horse tracks
+are clear to even the untrained eye, and the direction from which they
+extend is off northward, where there looks to be activity of some sort.
+~
+130 32768 3
+D2
+~
+~
+0 0 13009
+D9
+~
+~
+0 0 13011
+S
+#13011
+A well-trodden path~
+   The trees grow thin around this narrow trail.  Wagon and horse tracks
+are clear to even the untrained eye, and the direction from which they
+extend is off northward, where there looks to be activity of some sort.
+~
+130 32768 3
+D7
+~
+~
+0 0 13010
+S
+#13012
+Walking among the trees~
+   Standing timbers soar above even the tallest wayfarer of this forest
+path, if you could call the dense and overgrown surrounding area that.
+Plant and tree growth brush aside you from every angle, making passage
+for most a difficult and even painful undertaking.
+~
+130 32768 3
+D2
+~
+~
+0 0 13013
+D6
+~
+~
+0 0 13009
+S
+#13013
+Walking among the trees~
+   Standing timbers soar above even the tallest wayfarer of this forest
+path, if you could call the dense and overgrown surrounding area that.
+Plant and tree growth brush aside you from every angle, making passage
+for most a difficult and even painful undertaking.
+~
+130 32768 3
+D0
+~
+~
+0 0 13012
+D1
+~
+~
+0 0 13027
+D2
+~
+~
+0 0 13014
+D3
+~
+~
+0 0 13028
+S
+#13014
+Walking among the trees~
+   Standing timbers soar above even the tallest wayfarer of this forest
+path, if you could call the dense and overgrown surrounding area that.
+Plant and tree growth brush aside you from every angle, making passage
+for most a difficult and even painful undertaking.
+~
+130 32768 3
+D0
+~
+~
+0 0 13013
+D7
+~
+~
+0 0 13025
+D8
+~
+~
+0 0 13015
+S
+#13015
+Standing over an immense ravine~
+   The forest dilutes quickly as you approach the narrow embankment of
+this deep gorge.  The bottom looks unreachable from this high up, and
+the other side is perhaps miles away.
+~
+130 32768 3
+D3
+~
+~
+0 0 13030
+D6
+~
+~
+0 0 13014
+D7
+~
+~
+0 0 13016
+S
+#13016
+Looking over an immense ravine~
+   The forest trail ends here at the edge of a chasm which descends as
+far as the eye can see.  The other side is miles away, and impossible to
+reach by a direct route.  A way around the gorge proceeds downward to
+the south.
+~
+130 32768 3
+D1
+~
+~
+0 0 13022
+D2
+~
+~
+0 0 13017
+D9
+~
+~
+0 0 13015
+S
+#13017
+A rocky passage~
+   Below the lip of the chasms edge the steep rocky cliff looks ominous
+indeed.  The jagged trail angling down was obviously not meant for travel,
+and now would be the time, if any, to turn around.
+~
+130 32768 5
+D0
+~
+~
+0 0 13016
+D8
+~
+~
+0 0 13018
+S
+#13018
+Descending the chasm~
+   Stones and rock rubble clutter all portions of this deep canyon.
+Continuing along this path is far from safe, and the only way to move
+lies to the southwest or back whence you came, as all other directions
+are either blocked off or unreachable.
+~
+130 32772 5
+D6
+~
+~
+0 0 13017
+D8
+~
+~
+0 0 13019
+S
+#13019
+Descending the chasm~
+   The rock debris and shelf is extremely treacherous on this sheer wall
+of the chasm.  Not willing to support any weight, rockslides are hazardly
+commonplace here, and those who are left standing are either extremely
+lucky, or held above ground by some magical force.
+~
+130 32768 5
+D5
+~
+~
+0 0 13020
+D6
+~
+~
+0 0 13018
+S
+#13020
+Descending the chasm~
+   The rock debris and shelf is extremely treacherous on this sheer wall
+of the chasm.  Not willing to support any weight, rockslides are hazardly
+commonplace here, and those who are left standing are either extremely
+lucky, or held above ground by some magical force.
+~
+130 32768 5
+D5
+~
+~
+0 0 13021
+S
+#13021
+Floor of the gorge~
+   The sides of this enclosed chasm are steep on all flanks.  To try to
+scale one would be an exercise in futility for most, and highly dangerous
+for all.  There is a fast running stream here, flowing from northwest to
+southeast.
+~
+130 32768 5
+D9
+~
+~
+0 0 13038
+S
+#13022
+A meager trail~
+   The encompassing trees look as if they were opening before your very
+eyes to the direct west.  Light filters through the many hollows in the
+canopy above and the in turn path isn't hard to follow, even being as
+sparse as it is.  The wood gets more dense heading north.
+~
+130 32768 3
+D0
+~
+~
+0 0 13025
+D1
+~
+~
+0 0 13023
+D3
+~
+~
+0 0 13016
+S
+#13023
+A meager trail~
+   The encompassing trees look as if they were opening before your very
+eyes to the direct west.  Light filters through the many hollows in the
+canopy above and the in turn path isn't hard to follow, even being as
+sparse as it is.
+~
+130 32768 3
+D3
+~
+~
+0 0 13022
+D6
+~
+~
+0 0 13024
+S
+#13024
+A meager trail~
+   The encompassing trees look as if they were opening before your very
+eyes to the direct west.  Light filters through the many hollows in the
+canopy above and the in turn path isn't hard to follow, even being as
+sparse as it is.
+~
+130 32768 3
+D1
+~
+~
+0 0 13003
+D8
+~
+~
+0 0 13023
+S
+#13025
+Crossing a dim woodland~
+   The overhead light level is nearly non-existent as a result of the
+canopy of lush tree tops.  Vines grow from the forest floor around
+whatever they can find to get closer to the splotches of light that do
+make it through the leafy awning.
+~
+130 32768 3
+D2
+~
+~
+0 0 13022
+D6
+~
+~
+0 0 13026
+D9
+~
+~
+0 0 13014
+S
+#13026
+A dim woodland~
+   The overhead light level is nearly non-existent as a result of the
+canopy of lush tree tops.  Vines grow from the forest floor around
+whatever they can find to get closer to the splotches of light that do
+make it through the leafy awning.
+~
+130 32768 3
+D6
+~
+~
+0 0 13006
+D8
+~
+~
+0 0 13025
+D9
+~
+~
+0 0 13027
+S
+#13027
+Passing through a dim forest~
+   The overhead light level is nearly non-existent as a result of the
+canopy of lush tree tops.  Vines grow from the forest floor around
+whatever they can find to get closer to the splotches of light that do
+make it through the leafy awning.
+~
+130 32768 3
+D3
+~
+~
+0 0 13013
+D6
+~
+~
+0 0 13037
+D7
+~
+~
+0 0 13026
+S
+#13028
+Walking among the trees~
+   Standing timbers soar above even the tallest wayfarer of this forest
+path, if you could call the dense and overgrown surrounding area that.
+Plant and tree growth brush aside you from every angle, making passage
+for most a difficult and even painful undertaking.
+~
+130 32768 3
+D1
+~
+~
+0 0 13013
+D4
+~
+~
+0 0 649
+D8
+~
+~
+0 0 13029
+S
+#13029
+Standing over an immense ravine~
+   The forest dilutes quickly as you approach the narrow embankment of
+this deep gorge.  The bottom looks unreachable from this high up, and the
+other side is perhaps miles away.
+~
+130 32768 3
+D2
+~
+~
+0 0 13030
+D6
+~
+~
+0 0 13028
+S
+#13030
+Standing over an immense ravine~
+   The forest dilutes quickly as you approach the narrow embankment of
+this deep gorge.  The bottom looks unreachable from this high up, and the
+other side is perhaps miles away.
+~
+130 32768 3
+D0
+~
+~
+0 0 13029
+D1
+~
+~
+0 0 13015
+S
+#13031
+Off of the trail~
+   Rustlings of the nearby foliage imply that you're not alone here,
+that most likely eyes follow your every move.  Movements to the east
+draw inconspicuous pictures of deer indulging in the forest wildnerness,
+or perhaps a boar burrowing through the underbrush.
+~
+130 32768 3
+D7
+~
+~
+0 0 13032
+D8
+~
+~
+0 0 13008
+S
+#13032
+Off of the trail~
+   Rustlings of the nearby foliage imply that you're not alone here,
+that most likely eyes follow your every move.  Movements to the east
+draw inconspicuous pictures of deer indulging in the forest wildnerness,
+or perhaps a boar burrowing through the underbrush.
+~
+130 32768 3
+D1
+~
+~
+0 0 13034
+D2
+~
+~
+0 0 13033
+D9
+~
+~
+0 0 13031
+S
+#13033
+Off of the trail~
+   Rustlings of the nearby foliage imply that you're not alone here,
+that most likely eyes follow your every move.  Movements to the east
+draw inconspicuous pictures of deer indulging in the forest wildnerness,
+or perhaps a boar burrowing through the underbrush.
+~
+130 32768 3
+D0
+~
+~
+0 0 13032
+D3
+~
+~
+0 0 13007
+S
+#13034
+A misty path~
+   Moist condensation gathers about on your face as you make way on this
+makeshift path.  A reverberating sound originates from the southeast,
+where the drizzle also seems to grow greater.
+~
+130 32768 3
+D3
+~
+~
+0 0 13032
+D7
+~
+~
+0 0 13035
+S
+#13035
+A watery hole~
+   Straining from a bluff above flows a stream of clear water to eventually
+find its place in the small pond and stream at the bottom.  The crashing
+sound of water hitting water is very loud.
+~
+130 32768 3
+D9
+~
+~
+0 0 13034
+S
+#13036
+A musty cave~
+   Concealed by the waterfall and heavy shrubs, this cave is well hidden.
+A dry odor commands the air, giving the appearance that no one has been
+here in a while.
+~
+130 45 0
+D1
+~
+~
+0 0 13040
+D2
+~
+~
+0 0 13035
+S
+#13037
+A clearing in the forest~
+   The stands of oak and sycamore that make up the Sylvan Woods thin out
+until you can see the open sky from this clearing in the woods.  Strangely,
+the sky directly above is obscured by a solid seeming bank of swollen
+cumulus clouds.  You suddenly recall a piece of adventuring lore and realize
+that you have found the fabled gateway to Beanstalk Castle.
+~
+130 32768 1
+D8
+~
+~
+0 0 13027
+S
+#13038
+Floor of the gorge~
+   The sides of this enclosed chasm are steep on all flanks.  To try to
+scale one would be an exercise in futility for most, and highly dangerous
+for all.  There is a fast running stream here, flowing from northwest to
+southeast.
+~
+130 32768 5
+D7
+~
+~
+0 0 13021
+D9
+~
+~
+0 0 13039
+S
+#13039
+Floor of the gorge~
+   The sides of this enclosed chasm are steep on all flanks.  To try to
+scale one would be an exercise in futility for most, and highly dangerous
+for all.  There is a fast running stream here, flowing from northwest to
+southeast.
+~
+130 32768 5
+D7
+~
+~
+0 0 13038
+S
+#13040
+A mossy passageway~
+   Years exposure to water has made this cavern literally covered with 
+moss. It's very dark and damp in here, and the sound of running water 
+resounds.
+~
+130 9 0
+D3
+~
+~
+0 0 13036
+D6
+~
+~
+0 0 13041
+S
+#13041
+A mossy passageway~
+   Years exposure to water has made this cavern literally covered with 
+moss. It's very dark and damp in here, and the sound of running water 
+resounds.
+~
+130 9 0
+D1
+~
+~
+0 0 13042
+D8
+~
+~
+0 0 13040
+S
+#13042
+A mossy passageway~
+   Years exposure to water has made this cavern literally covered with 
+moss. It's very dark and damp in here, and the sound of running water 
+resounds.
+~
+130 9 0
+D3
+~
+~
+0 0 13041
+D5
+~
+~
+0 0 13043
+S
+#13043
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area 
+is dark and foreboding. Leading up is a trail of moss and the sound of 
+water.
+~
+130 264 0
+D2
+~
+~
+0 0 13044
+D4
+~
+~
+0 0 13042
+S
+#13044
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D0
+~
+~
+0 0 13043
+D7
+~
+~
+0 0 13045
+S
+#13045
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D1
+~
+~
+0 0 13046
+D2
+~
+~
+0 0 13047
+D9
+~
+~
+0 0 13044
+S
+#13046
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D1
+~
+~
+0 0 13060
+D3
+~
+~
+0 0 13045
+S
+#13047
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D0
+~
+~
+0 0 13045
+D3
+~
+~
+0 0 13048
+S
+#13048
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D1
+~
+~
+0 0 13047
+D5
+~
+metal grate~
+1 0 619
+S
+#13049
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D3
+~
+~
+0 0 13061
+D7
+~
+~
+0 0 8292
+S
+#13050
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of the
+deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D1
+~
+~
+0 0 13051
+D2
+~
+~
+0 0 13057
+S
+#13051
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of the
+deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D1
+~
+~
+0 0 13052
+D2
+~
+~
+0 0 13058
+D3
+~
+~
+0 0 13050
+S
+#13052
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of the
+deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D2
+~
+~
+0 0 13053
+D3
+~
+~
+0 0 13052
+S
+#13053
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of the
+deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D0
+~
+~
+0 0 13052
+D2
+~
+~
+0 0 13054
+D3
+~
+~
+0 0 13058
+S
+#13054
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of the
+deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D0
+~
+~
+0 0 13053
+D3
+~
+~
+0 0 13055
+S
+#13055
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of the
+deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D0
+~
+~
+0 0 13058
+D1
+~
+~
+0 0 13054
+D3
+~
+~
+0 0 13056
+S
+#13056
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of the
+deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D0
+~
+~
+0 0 13057
+D1
+~
+~
+0 0 13055
+S
+#13057
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of 
+the deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D0
+~
+~
+0 0 13050
+D1
+~
+~
+0 0 13058
+D2
+~
+~
+0 0 13056
+S
+#13058
+The water vein~
+   Wooden planks strapped tightly together make up the top portion of the
+deck that you now stand on. It floats freely over the water and slightly 
+bobs up and down as you move around on it.
+~
+130 9 0
+D0
+~
+~
+0 0 13051
+D1
+~
+~
+0 0 13053
+D2
+~
+~
+0 0 13055
+D3
+~
+~
+0 0 13057
+S
+#13059
+Dark lake-waters~
+   Murky black water makes up this part of the lake, and you can only
+wonder what lies below. The water is icy.
+~
+130 9 6
+D0
+~
+~
+0 0 13054
+S
+#13060
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D3
+~
+~
+0 0 13046
+D5
+~
+~
+0 0 13061
+S
+#13061
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D1
+~
+~
+0 0 13049
+D2
+~
+~
+0 0 13062
+D4
+~
+~
+0 0 13060
+S
+#13062
+Darker domain~
+   Broken floor and a high ceiling characterize this tunnel. The area is 
+dark and foreboding.
+~
+130 9 0
+D0
+~
+~
+0 0 13061
+S
+#99999
+$~

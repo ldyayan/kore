@@ -1,0 +1,45 @@
+>social_prog poke~
+  shout All units report!
+  mpbroadcast 10800 $n report
+  mpstopcommand
+~
+>social_prog boot~
+  shout GET HIM!
+  mpbroadcast 10800 $n help
+  mpstopcommand
+~
+>social_prog die~
+  mpstopcommand
+  shout All units dispatch themselves!
+  mpbroadcast 10800 $n die
+~
+>script_prog die~
+  shout Aye-aye, sir!
+  mpgoto cleaner
+~
+>script_prog report~
+  shout Yes, Sir $N, I am here!
+  #
+  shout still here...
+~
+>fight_prog 100~
+  if isscript($i)
+    mpstopscript
+  endif
+  mpbroadcast 10800 $n help
+~
+>script_prog help~
+      shout Moving out...$N shall die!
+      mptrigger $n killem
+~
+>script_prog killem~
+  if inroom($n) == here
+    shout I found $m!
+    mpstopscript
+  else
+    shout I'm tracking $N...
+    mptrackto $n
+  endif
+  mptrigger $n killem
+~
+|

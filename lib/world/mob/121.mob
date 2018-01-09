@@ -1,0 +1,200 @@
+#12101
+stone gargoyle~
+a decrepit Stone Gargoyle~
+A decrepit Stone Gargoyle peers at you from heavy-lidded eyes.
+~
+A three-foot-tall Stone Gargoyle with bits ccrumbling off of him. ~
+18523 1024 0 S
+7 10 20 9d3+10 3d7+5
+0 0
+8 8 0
+#12102
+homonculus king~
+the Homonculus King~
+A huge clay Homonculus glares in mad fury about the room.
+~
+You see a homonculus King.
+~
+10362 128 -1000 S
+25 4 40 1000d1+10 6d3+2
+0 20000
+6 8 1
+#12103
+string homonculus~
+a small string homonculus~
+A small homonculus made of bits of string shuffles around here.
+~
+You see a small string homonculus.
+~
+12 0 0 S
+10 10 0 50d1+10 5d3+6
+15 20
+8 8 0
+#12104
+skeleton cat~
+a skeletal Cat~
+A skeletal cat hisses at you.
+~
+You see the walking bones of a domestic cat.
+~
+2154 0 -100 S
+10 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#12105
+salt golem~
+a Salt Golem of a Footman~
+A Salt Golem sits on a stool polishing a boot.
+~
+You see a Salt Golem.
+~
+2318 128 0 S
+15 20 60 1d1+1 1d1+1
+15 20
+8 8 1
+#12106
+zombie horse~
+a Zombie Horse~
+A Zombie Horse nibbles at rotten hay here.
+~
+You see a horse with rotting flesh dangling off of it.
+~
+138 0 0 S
+10 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#12107
+shadow weasel~
+a Shadow Weasel~
+A Weasel made of the substance of shadows glares at you.
+~
+You see a Shadow Weasel.
+~
+42 0 -1000 S
+12 6 60 1d1+1 1d1+1
+0 20
+8 8 1
+#12108
+shadow lord wizard~
+the Shadow Wizard~
+The Lord of the Shadows is here, deep in incantation.
+~
+You see a Shadow Wizard
+~
+190478 128 0 S
+30 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#12109
+prince pavlo~
+Prince Pavlo~
+The animated ghoul of the Castle's young Prince Pavlo sits here,
+playing with his rattle.
+~
+You see Prince Pavlo.
+~
+10314 0 -200 S
+20 1 0 1d1+1 1d1+1
+0 20
+6 8 1
+#12110
+head princess claire~
+the Floating Head of Princess Claire~
+The Floating Head of Princess Claire bobs in the air here, drooling.
+~
+You see the floating head of Princess Claire.
+~
+172074 4194304 -1000 S
+25 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#12111
+playmate~
+Princess Claire's Playmate~
+The dismembered corpse of one of Princess Claire's playmates is here.
+~
+You see the dismembered corpse of one of Princess Claire's playmates.
+~
+42 0 0 S
+12 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#12112
+high guard vade~
+the Skeleton of the Castle Guard Vade~
+The Skeleton of the Castle Guard Vade stands here, shivering.
+~
+You see the skeleton of the Castle Guard Vade.
+~
+2074 32 0 S
+15 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#12113
+Aerik jester death~
+Aerik, the Jester of Death~
+Aerik, the black-clad Jester of Death is here, painting his face.
+~
+You see Aerik, the Jester of Death.
+~
+10282 168 -1000 S
+30 1 0 1d1+1 1d1+1
+800 20
+8 8 1
+#12114
+rust golem~
+the Rust Golem~
+A huge, hulking golem made of rust stands here.
+~
+You see a Rust Golem.
+~
+172042 0 0 S
+15 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#12115
+dessicated spider~
+a large, dessicated spider~
+A large, dessicated Spider scuttles around the room, clicking its mandibles.
+~
+You see a dessicated spider.
+~
+62 0 -300 S
+8 1 0 1d1+1 9d2+0
+0 20
+8 8 0
+#12116
+black widow queen~
+the Black Widow Queen~
+A half-woman, half spider stands here---The Black Widow Queen!
+~
+You see the Black Widow Queen.
+~
+2586 132 -500 S
+25 1 0 5d6+4000 1d1+1
+0 20
+8 8 2
+#12117
+husk guard~
+the dry husk of a guard~
+A dry Husk of a Guard lies here, only its eyes moving.
+~
+You see a dry husk of a guard.
+~
+2106 2560 -200 S
+12 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#12118
+small ermine~
+a Small Brown Ermine~
+A Small Brown Ermine has set up a home in the rubble of this shelter.
+~
+You see a small brown ermine.
+~
+26 0 0 S
+5 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#99999
+$~

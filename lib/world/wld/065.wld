@@ -1,0 +1,1212 @@
+#6500
+Before the Gates of Kandelspire~
+    Standing before the mithril gates of Kandelspire, last fortress to the 
+grand city of Thorbardin, city of hammer and anvil. The huge towering granite 
+walls are actually carved out of the mountain which surrounds the city. Many 
+wars and battles have come before these very gates. Never have these gates 
+been breached by the foes of the dwarves. It has been legened that Aule, the 
+creator of the dwarves, had personally blessed and magicked these gates to 
+withstand any blows. It is said if these gates are ever breached the age of 
+the dwarves will have passed. You see dwarven soldiers on the walls looking 
+out for orcs. In each corner, you see a tower that seems impossible for any 
+enemy to scale. 
+~
+65 5 5
+D0
+~
+gates mithril~
+2 6521 6501
+D2
+~
+~
+0 0 14136
+S
+#6501
+Inside the gates of Kandelspire~
+   There is towering walls of granite that surround the last
+dwarven fortress called Kandelspire. There are many heavily armed
+and armored dwarven guards on the walls and towers, looking
+put for invaders. There are guard barracks and another building
+in the center of this fortress. There are soldiers marching and
+drilling to improve their battle readiness off to the far west.
+To the far east is a group of dwarves working on a catapult. A
+walled gate with figures walking back and forth is off to the
+north.
+~
+65 0 1
+D0
+~
+~
+0 -1 6508
+D1
+~
+~
+0 -1 6503
+D2
+~
+gates mithril~
+1 -1 6500
+D3
+~
+~
+0 -1 6502
+S
+#6502
+Drill and Training Yard~
+   Training equiptment and attack dummies litter the ground. There
+are many dwarven soldiers honing their battle skills knowing that
+they must prepare to defend their city against all dwarven enemies.
+The inner gates of Kandelspire is off to the east.
+~
+65 0 1
+D0
+~
+~
+0 -1 6510
+D1
+~
+~
+0 -1 6501
+D3
+~
+~
+0 0 6551
+S
+#6503
+Dwarves at Work~
+    There are some dwarves wearing bright yellow helmets working on a weird
+looking seige device. It looks like a big spoon with wheels. You see various
+tools, wood, and sawdust lying around it. You see stairs that go up to the
+towers of Kandelspire. To the west, you see the inner gates. To the north, you
+see soldiers marching around.
+~
+65 0 1
+D0
+~
+~
+0 -1 6511
+D1
+~
+~
+0 0 6557
+D3
+~
+~
+0 -1 6501
+S
+#6504
+Southwest Tower of Kandelspire~
+   The majestic view of the Thorbardin mountains are inspired more by
+the purity and beauty of the snow-capped mountains covered with white
+frosted evergreens. The lush green valley below glows under the whispers
+of clouds. The walls that surround the fortress are unpenetrable by thoses
+who are follish enough to assail them. The stairs lead up to a trapdoor
+or back down,
+~
+65 9 1
+D4
+~
+trapdoor~
+1 -1 6544
+D5
+~
+~
+0 0 6557
+S
+#6505
+Southeast Tower of Kandelspire~
+   The majestic view of the Thorbardin mountains are inspired more
+by the purity and beauty of the snow-capped mountains covered with
+white frosted evergreens. The lush green valley below glows under
+the whispers of clouds. The walls that surround the fortress are
+unpenetrable by thoses who are foolish enough to assail them. The
+stairs lead up to a trapdoor or back down.
+~
+65 9 1
+D4
+~
+trapdoor~
+1 -1 6529
+D5
+~
+~
+0 0 6557
+S
+#6506
+On the Southern Wall of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D1
+~
+~
+0 -1 6540
+D3
+~
+~
+0 -1 6544
+E
+tree trees~
+They hang over the road in the most ominous of ways.
+~
+S
+#6507
+On the Southern Walls of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+Below, you see the gates of Kandelspire.
+~
+65 0 1
+D1
+~
+~
+0 -1 6529
+D3
+~
+~
+0 -1 6540
+S
+#6508
+Central Square of Kandelspire~
+   A beautiful carved granite fountain spews out clean clear water
+from an unknown source. A flagpole with the royal colors of gold
+and silver of Thorbardin flys high. The soldiers come for line up
+in the morning and evening roll call. They all stand surrounding
+the fountain as they await there orders.
+~
+65 0 1
+D0
+~
+door wooden~
+1 -1 6514
+D1
+~
+~
+0 -1 6511
+D2
+~
+~
+0 -1 6501
+D3
+~
+~
+0 -1 6510
+S
+#6509
+Preparation Room~
+     This room is quite empty. It is used as the preparation room for the High
+Priest of Kandlespire. You see a mediatation rug in the middle of the room.
+~
+65 29 1
+D0
+~
+~
+0 0 6517
+D1
+~
+~
+0 0 6562
+S
+#6510
+Drill and Training Yard~
+   Training equipment and attack dummies litter the drill and training
+grounds. Many dwarven soldiers honing their battle skills come to the
+drill and training yard to prepare to defend their city against all
+dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6555
+D1
+~
+~
+0 -1 6508
+D2
+~
+~
+0 -1 6502
+D3
+~
+~
+0 0 6549
+S
+#6511
+Drill and Training Yard~
+   Training equipment and attack dummies litter the drill and training
+grounds. Many dwarven soldiers honing their battle skills come to the
+drill and training yard to prepare to defend their city against all
+dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6559
+D1
+~
+~
+0 0 6558
+D2
+~
+~
+0 -1 6503
+D3
+~
+~
+0 -1 6508
+S
+#6512
+On the Western Wall of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D0
+~
+~
+0 -1 6546
+D2
+~
+~
+0 -1 6560
+S
+#6513
+On the Eastern Walls of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D0
+~
+~
+0 -1 6531
+D2
+~
+~
+0 -1 6535
+S
+#6514
+Dwarven Barracks of Kandelspire~
+   Laughter and rough play bounces off the walls of the dwarven
+barracks of Kandelspire. There is a stair case that leads upwards.
+~
+65 9 0
+D0
+~
+door~
+1 -1 6520
+D1
+You see a picture of a bloody severed head of an orc on the door.
+~
+orc-head door~
+1 -1 6521
+D2
+~
+door wooden~
+1 -1 6508
+D3
+You see a picture of a beautiful, mighty oak made of silver on the door.
+~
+silvertree door~
+1 -1 6522
+D4
+~
+~
+0 -1 6530
+S
+#6515
+Kandelspire Forge~
+   Overwhelmed by the heat and black smoke from the dwarven forge of
+Fandagnir, son of Baruk, you can make out a hugh furnace heated by
+some unknown magic. Many weapons, armors, and shields hang proudly
+near the furnance. The smiths work on their masterful creations on a
+huge anvil. The forge is reknown for its hightest quality of weapons
+and armor.
+~
+65 8 0
+D2
+~
+~
+0 0 6561
+S
+#6516
+Blacksmiths Shop Storage Room~
+   This is where the objects sold by the blacksmith are kept.  Players 
+found in here will be *FROZEN*.  This description is your only warning.
+~
+65 394248 0
+S
+#6517
+Room of the High Priest of Kandlespire~
+     This room is sparsely furnished. You see a bed, table, chair and dresser.
+However, this room seems very warm and comfortable. You feel quite safe and
+protected in this room.
+~
+65 28 1
+D2
+~
+~
+0 0 6509
+S
+#6518
+Northwest Tower of Kandelspire~
+   The majestic view of the Thorbardin mountains are inspired more by
+the purity and beauty of the snow-capped mountains covered with white
+frosted evergreens. The lush green valley below glows under the whispers
+of clouds. The walls that surround the fortress are unpenetrable by thoses
+who are follish enough to assail them. The stairs lead up to a trapdoor
+or back down,
+~
+65 9 1
+D4
+~
+trapdoor~
+1 -1 6546
+D5
+~
+~
+0 0 6553
+S
+#6519
+Northeast Tower of Kandelspire~
+   The majestic view of the Thorbardin mountains are inspired more by
+the purity and beauty of the snow-capped mountains covered with white
+frosted evergreens. The lush green valley below glows under the whispers
+of clouds. The walls that surround the fortress are unpenetrable by thoses
+who are follish enough to assail them. The stairs lead up to a trapdoor
+or back down,
+~
+65 9 0
+D4
+~
+trapdoor~
+1 -1 6531
+D5
+~
+~
+0 0 6561
+S
+#6520
+Rec Room~
+   Many off-duty dwarves come here to relax. Laughing, drinking, gambling,
+and wrestling are just are few things that go on in the rec room. Kegs of
+honey mead line up against the fall wall.
+~
+65 9 0
+D0
+~
+door~
+1 -1 6538
+D1
+~
+door iron~
+1 -1 6523
+D2
+~
+door~
+1 -1 6514
+D3
+~
+door~
+1 -1 6524
+D5
+~
+trapdoor~
+1 999 6526
+S
+#6521
+Orc-slayers Barracks~
+    Rows and rows of bunks, chairs, lockers, and other furniture lines
+the walls in the Orc-Slayers barracks. Various weapons, armors, and
+other equipment of war hang on pegs in the walls. Most of the armor and
+weapons well-worned and well-used, but are still in perfect condition.
+A door to the east leads outside to the yard. 
+~
+65 9 0
+D1
+~
+door~
+1 -1 6559
+D2
+~
+door bathroom~
+1 -1 6533
+D3
+~
+door~
+1 -1 6514
+S
+#6522
+Silvertree Barracks~
+    Rows and rows of bunks, chairs, lockers, and other furniture lines
+the walls in the Orc-Slayers barracks. Various weapons, armors, and
+other equipment of war hang on pegs in the walls. Most of the armor and
+weapons well-worned and well-used, but are still in perfect condition.
+The front entrance is to the east.
+~
+65 9 0
+D1
+~
+door~
+1 -1 6514
+D2
+~
+door bathroom~
+1 -1 6548
+D3
+~
+~
+0 0 6555
+E
+poster~
+There is a wall poster of a nude Minne Pearl.
+~
+S
+#6523
+Weapons Room~
+   Many racks filled with weapons line the walls. This room is used in
+times of emergency as a spare weapons room. Most of the weapons have
+been used at one time or another but are still in excellent condition.
+~
+65 9 0
+D3
+~
+door iron~
+1 -1 6520
+S
+#6524
+Mess Hall~
+    Rows of tables and benches fill the room. Kegs of honey mead and
+water fill the back wall. Trays filled with left overs are scattered 
+on different tables through out the room.
+~
+65 9 0
+D1
+~
+door~
+1 -1 6520
+D3
+~
+door kitchen~
+1 -1 6554
+S
+#6525
+Officers' Mess Hall~
+    The dining hall for the officers of Kandlespire is well decorated with
+paintings and tapestries. Kegs of the finest wines and liqour are kept on
+the far wall. Royal honey mead is stocked on the opposite wall.
+~
+65 9 0
+D3
+~
+door mess~
+1 -1 6530
+S
+#6526
+Stockade Room~
+      The area is very musty and damp. This room is for the dwaven guards who
+have been drunk or sleeping while on duty. You can hear the noise and laughter
+coming from above. This is to remind the offender that they have risked the
+safety and welfare of his fellow comrades. Almost always, the offending dwarf
+never comes back to be punished again.
+~
+65 9 0
+D3
+~
+cell door~
+2 6516 6528
+D4
+~
+trapdoor~
+1 -1 6520
+S
+#6527
+Captain's Quarters~
+    The Captain's Quarters is almost completely empty all but a hard looking
+bed, dresser, and a chair which sits in the middle of the room. 
+~
+65 9 0
+D3
+~
+door~
+1 -1 6536
+S
+#6528
+Jail Cell~
+  As you look in the room, you notice chains on all the walls, some
+with the bones of orcs and criminals still left in them. Then your
+eyes turn to the right side of the cell, in the far corner.
+~
+65 9 0
+D1
+~
+cell door~
+2 6517 6526
+S
+#6529
+Top of the Southeast Tower of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D0
+~
+~
+0 -1 6535
+D3
+~
+~
+0 -1 6507
+D5
+~
+trapdoor~
+1 -1 6505
+S
+#6530
+Second Floor~
+   The second floor of the barracks is where all the officers and the
+Caption of the Watch reside.
+~
+65 8 0
+D0
+~
+door oak~
+1 -1 6536
+D1
+~
+door mess~
+1 -1 6525
+D3
+~
+door~
+1 -1 6532
+D5
+~
+~
+0 -1 6514
+S
+#6531
+Top of the Northeast Tower of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D2
+~
+~
+0 -1 6513
+D5
+~
+trapdoor~
+1 -1 6519
+S
+#6532
+Officers' Quarters~
+   Many comfortable feather beds are against the walls. The room is well
+furnished and decorated with rather expensive furnishings.
+~
+65 9 0
+D0
+~
+door louge~
+1 -1 6534
+D1
+~
+door~
+1 -1 6530
+D2
+~
+door bathroom~
+1 -1 6542
+S
+#6533
+Bathroom~
+     As you enter the dwarven bathroom, you are almost overhelmed by the
+stench. You see stalls and urinals lining the walls. However, you see no
+shower stalls. To the north, you see the barracks.
+~
+65 9 0
+D0
+~
+door bathroom~
+1 -1 6521
+S
+#6534
+Officers' Louge~
+    A roaring fire is lit in the fireplace. The room is very tastefully
+furnished. A huge sofa and large chairs are near the fireplace. Kegs of
+royal honey mead and fine tulaberry wine are stocked along the wall.
+~
+65 9 0
+D2
+~
+door louge~
+1 -1 6532
+S
+#6535
+On the Eastern Wall of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D0
+~
+~
+0 -1 6513
+D2
+~
+~
+0 -1 6529
+S
+#6536
+Office of the Captain of the Watch~
+     This room is nicely decorated and furnished. You see a huge silverwood
+desk in the middle of the room. Also, you see many shelves full of books and
+scrolls. On the walls, you see many maps depicting the surrounding area and
+Kandlespire. 
+~
+65 9 0
+D1
+~
+door~
+1 -1 6527
+D2
+~
+door oak~
+1 -1 6530
+S
+#6537
+Granite Walls of Thorbardin~
+    The walls of Thorbardin rise to over a hundred feet. They are made of
+solid granite, reinforced with mithril and adamantite. These wall appear
+very unbreachable.
+~
+65 0 1
+D1
+~
+~
+0 0 6541
+D2
+~
+~
+0 0 6555
+S
+#6538
+Before the Gates of Thorbardin~
+    The walls of Thorbardin rise to over a hundred feet. They are made of
+solid granite, reinforced with mithril and adamantite. These walls appear
+very unbreachable.
+~
+65 0 1
+D0
+~
+~
+0 0 6545
+D1
+~
+~
+0 0 6539
+D2
+~
+door~
+1 -1 6520
+D3
+~
+~
+0 0 6541
+S
+#6539
+Granite Walls of Thorbardin~
+    The walls of Thorbardin rise to over a hundred feet. They are made of
+solid granite, reinforced with mithril and adamantite. These walls appear
+very unbreachable.
+~
+65 0 1
+D1
+~
+~
+0 0 6543
+D3
+~
+~
+0 0 6538
+S
+#6540
+On the Southern Wall of the Gates of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D1
+~
+~
+0 -1 6507
+D3
+~
+~
+0 -1 6506
+S
+#6541
+Granite Walls of Thorbardin~
+    The walls of Thorbardin rise to over a hundred feet. They are made of
+solid granite, reinforced with mithril and adamantite. These walls appear
+very unbreachable.
+~
+65 0 1
+D1
+~
+~
+0 0 6538
+D3
+~
+~
+0 0 6537
+S
+#6542
+Officers' Bathroom~
+    Toilets, sinks, and shower stalls fill the Officers' bathroom. For the
+amount of used this place receives it is very clean and orderly.
+~
+65 9 0
+D0
+~
+door bathroom~
+1 -1 6532
+S
+#6543
+Granite Walls of Thorbardin~
+    The walls of Thorbardin rise to over a hundred feet. They are made of
+solid granite, reinforced with mithril and adamantite. These walls appear
+very unbreachable.
+~
+65 0 1
+D2
+~
+~
+0 0 6559
+D3
+~
+~
+0 0 6539
+S
+#6544
+Top of the Southwest Tower of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D0
+~
+~
+0 -1 6560
+D1
+~
+~
+0 -1 6506
+D5
+~
+trapdoor~
+1 -1 6504
+S
+#6545
+Gates of Thorbardin~
+    The Gates of Thorbardin are closed due to consruction. 
+~
+65 1 0
+D2
+~
+~
+0 0 6538
+S
+#6546
+Top of the Northwest Tower of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D2
+~
+~
+0 -1 6512
+D5
+~
+trapdoor~
+1 -1 6518
+S
+#6547
+Armor & Weapon Shoppe of Kandlespire~
+    Inside the shoppe of the Fandagnir, son of Baruk there are many wondrous
+and beautiful weapons for sale. Fandagnir's is at the forge busy creating new
+objects along with his staff of experienced smiths. Here though the lighter
+and intricate detail work is done by craftsmen.
+~
+65 156 0
+D3
+~
+~
+0 0 6561
+S
+#6548
+Bathroom~
+     As you enter the dwarven bathroom, you are almost overhelmed by the 
+stench. You see stalls and urinals lining the walls. However, you see no
+shower stalls. To the north, you see the barracks.
+~
+65 9 0
+D0
+~
+door bathroom~
+1 -1 6522
+D3
+~
+stall door~
+1 -1 6550
+S
+#6549
+Drill and Training Yard~
+    Training equipment and attack dummies litter the Drill and Training Yard
+grounds. Dwarven soldiers practice their battle skills knowing that they must
+prepare to defend their city against all dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6553
+D1
+~
+~
+0 0 6510
+D2
+~
+~
+0 0 6551
+S
+#6550
+Smelly Latrine~
+     EEWWHH!! You gag from the stench of the latrine. You wonder how in the 
+blazes they can stand this horrible odor. You want to flee east out of here.
+~
+65 9 0
+D1
+~
+stall door~
+1 -1 6548
+D5
+You see a bottomless pit full of shit
+~
+~
+0 -1 6552
+S
+#6551
+Drill and Training Yard~
+    Training equipment and attck dummies litter the Drill and Training Yard
+grounds. Dwarven soldiers practice their battle skills knowing that they must
+prepare to defend their city against all dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6549
+D1
+~
+~
+0 0 6502
+D4
+~
+~
+0 0 6504
+S
+#6552
+Bottomless PIT of Shit~
+ A
+  I
+   I
+    I
+     E
+      E
+     E
+    E
+   E
+  E
+ E
+E
+
+SPLASH!!! 
+(blub) (blub) (blub)
+
+You slowly sink into waste as you past out from the horrible smell. *blip*
+~
+65 159 0
+D4
+~
+~
+0 0 6550
+S
+#6553
+Drill and Training Yard~
+    Training equipment and attck dummies litter the Drill and Training Yard
+grounds. Dwarven soldiers practice their battle skills knowing that they must
+prepare to defend their city against all dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6562
+D1
+~
+~
+0 0 6555
+D2
+~
+~
+0 0 6549
+D4
+~
+~
+0 0 6518
+S
+#6554
+Kitchen~
+    Stoves and other cooking utensiles fill this room. The table counters are
+stacked with various breads, vegetables, and meats. A rack of aprons line the
+far wall suggesting that there is alot of workers here.
+~
+65 9 1
+D1
+~
+door kitchen~
+1 -1 6524
+D2
+~
+door storage~
+1 -1 6556
+S
+#6555
+Drill and Training Yard~
+    Training equipment and attack dummies litter the Drill and Training Yard
+grounds. Dwarven soldiers practice their battle skills knowing that they must
+prepare to defend their city against all dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6537
+D2
+~
+~
+0 0 6510
+D3
+~
+~
+0 0 6553
+S
+#6556
+Storage Room~
+    Many sacks of flour, salt, and sugar are lying on the floor. Shelves line
+the walls and hold jars of various foods. There is enough food in this room to
+feed an army.
+~
+65 9 0
+D0
+~
+door storage~
+1 -1 6554
+S
+#6557
+Drill and Training Yard~
+    Training equipment and attack dummies litter the Drill and Training Yard
+grounds. Dwarven soldiers practice their battle skills knowing that they must
+prepare to defend their city against all dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6558
+D1
+~
+~
+0 0 6564
+D3
+~
+~
+0 0 6503
+D4
+~
+~
+0 0 6505
+S
+#6558
+Drill and Training Yard~
+    Training equipment and attack dummies litter the Drill and Training Yard
+grounds. Dwarven soldiers practice their battle skills knowing that they must
+prepare to defend their city against all dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6561
+D1
+~
+~
+0 0 6563
+D2
+~
+~
+0 0 6557
+D3
+~
+~
+0 0 6511
+S
+#6559
+Drill and Training Yard~
+    Training equipment and attack dummies litter the Drill and Training Yard
+grounds. Dwarven soldiers practice their battle skills knowing that they must
+prepare to defend their city against all dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6543
+D1
+~
+~
+0 0 6561
+D2
+~
+~
+0 0 6511
+D3
+~
+door~
+1 -1 6521
+S
+#6560
+On the Western Walls of Kandelspire~
+     As the soft breeze whispers gently through your hair, you stand at the top
+of Kandelspire. You are inspired by the purity and beauty of the snow-capped
+mountains covered with white frosted evergreens. You see the lush green valley
+below under the whispers of clouds. You realize that this fortress is
+unpenetrable by thoses who are foolish enough to assail these mighty walls.
+~
+65 0 1
+D0
+~
+~
+0 -1 6512
+D2
+~
+~
+0 -1 6544
+S
+#6561
+Drill and Training Yard~
+    Training equipment and attack dummies litter the Drill and Training Yard
+grounds. Dwarven soldiers practice their battle skills knowing that they must
+prepare to defend their city against all dwarven enemies.
+~
+65 0 1
+D0
+~
+~
+0 0 6515
+D1
+~
+~
+0 0 6547
+D2
+~
+~
+0 0 6558
+D3
+~
+~
+0 0 6559
+D4
+~
+~
+0 0 6519
+S
+#6562
+Temple of Aule, the Lord-Fatherer~
+    The hallowed grounds of Aule, the Lord-Fatherer of the dwarves, has rows of
+worn benches where worshippers pray daily. The holy altar is before the benches.
+It is beautifully carved out of granite and enlayed with metals and precious
+gems. Only a fool would try to steal these treasures for it means instant death
+for the infidels.
+~
+65 8 1
+D2
+~
+~
+0 0 6553
+D3
+~
+~
+0 0 6509
+S
+#6563
+The Kandelspire Bank~
+    The Kandelspire Bank is housed in one of the smaller building in the city.
+The wall in the back of the building is made of stone and houses a safe in the
+center of the wall where all the money is put for safe keeping.
+~
+65 156 0
+D3
+~
+~
+0 0 6558
+S
+#6564
+The Kandelspire General Store~
+   The Kandelspire General Store sells all your general needs. There are shelves
+that line all the walls. They are filled with supplies for everyone needs.
+~
+65 156 0
+D3
+~
+~
+0 0 6557
+S
+#99999
+$~

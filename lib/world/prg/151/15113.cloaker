@@ -1,0 +1,86 @@
+>spell_prog color~
+  if isanycharat(15180)
+    mpat 15180 mpecho ^rA sudden burst of colors sends you reeling!^n
+    mpat 15180 mpdamage all 14d14
+  endif
+~
+>spell_prog word~
+  if isanycharat(15180)
+    mpat 15180 mpecho ^rYou hear a muffled word that shakes your inner being!^N
+    mpat 15180 mpdamage all 16d16
+  endif
+~
+>fight_prog 15~
+  if isanycharat(15180)
+  else
+    if inroom($r) == here
+      if isfight($r)
+        mpechoat $r $I rushes in and smothers you with its cloak-like body!
+        mpechoaround $r $I quickly advances on $R and smothers $K in its contorting cloak body!
+        mptransfer $r 15180
+        mpforce $n look
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if isanycharat(15180)
+    mpecho The cloaker struggles with someone it has ensnared!
+    if isfight($r)
+      if rand(70)
+        mpechoat $r The cloaker lashes out with its tail and stings you!!
+        mpechoaround $r The cloaker sends out its tail and jabs it into $R's unsuspecting face!
+        mpdamage $r 10d9
+        mpcallmagic 'poison' $r
+      else
+        mpecho Screams are escaping from within the cloaker!
+      endif
+    endif
+  else
+    if inroom($r) == here
+      # moaning, etc
+      mpecho The cloaker emits a horrible moan that fills the cavern like liquid horror.
+      if rand(30)
+        mpecho Your eyes widen in dismay!
+        mpforce all flee
+      else
+        if rand(60)
+          mpsilent mpcallmagic 'calm' $r
+          mpforce all puke
+        else
+          if rand(100)
+            mpechoat $r You are held motionless as the moan enters your mind!
+            mppose $r stun
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpecho The cloaker manipulates the shadows to create duplicate images of itself!
+    mpcallmagic 'mirror image' $i
+  endif
+~
+>death_prog 100~
+  mpecho $I is dead! R.I.P.
+  if isanycharat(15180)
+    mpecho Something beaten and contorted falls from the cloaker's now lifeless body.
+    mpbroadcast 15115 $r expulsion
+    mpoload 15111
+    mppose $i stand
+    mpsilent drop cloak
+    mppose $i dead
+    mpgoto cleaner
+  else
+    mpecho The cloaker's ragged remains fall and settle on the floor in a pile.
+    mpoload 15111
+    mppose $i stand
+    mpsilent drop cloak
+    mppose $i dead
+    mpgoto cleaner
+  endif
+~
+|
+

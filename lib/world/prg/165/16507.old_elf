@@ -1,0 +1,31 @@
+>greet_prog 25~
+  speak Get out! Im busy with my spells!
+  mpforce all west
+~
+>fight_prog 15~
+  say Feel the Wrath of my power!!
+  mpecho Lightning shoots forth from the elven mages hands and strikes you in the chest.
+  cast 'chain lightning' $r
+~
+>fight_prog 5~
+  say Your attempts to destroy me are futile!!!
+  cackle
+  cast 'word of death' $r
+~
+>fight_prog 7~
+  say Burn with the Fire of Hell!!!!
+  grin
+  cast 'fireball' $r
+~
+>death_prog 100~
+  cackle
+  say I will finish you even in death.
+  mpecho The mage opens a rift and 3 Hounds of Hell step through and attack.
+  mpmload 16515
+  mpmload 16515
+  mpmload 16515
+  mpforce 1.16515 mpkill $r
+  mpforce 2.16515 mpkill $r
+  mpforce 3.16515 mpkill $r
+~
+|

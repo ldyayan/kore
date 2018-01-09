@@ -1,0 +1,265 @@
+#120
+Rome~
+12099 20 2 32
+M 0 12000     3 12001            the adjudicator
+E 1  3022    10    16                    wield a long sword
+E 1  3042    10    11                    shield a leather shield
+G 1 12038    10    -1                    give an opal key
+M 0 12000     3 12001            the adjudicator
+E 1  3022    10    16                    wield a long sword
+E 1  3042    10    11                    shield a leather shield
+M 0 12000     3 12001            the adjudicator
+E 1  3022    10    16                    wield a long sword
+E 1  3042    10    11                    shield a leather shield
+M 0 12001     1 12001            the scorekeeper
+E 1  3021    10    16                    wield a small sword
+E 1  3042    10    11                    shield a leather shield
+D 0 12001     5     2            The Judging Booth door down
+M 0 12005    10 12006            the slave
+E 1  3023    10    16                    wield a wooden club
+M 0 12011     1 12006            Titus' shopkeeper
+G 1 12034    99    -1                    give a double sided key
+E 1  3022    10    16                    wield a long sword
+E 1 12008    10     8                    feet a pair of leather sandals
+G 1  3020    10    -1                    give a dagger
+G 1  3021    10    -1                    give a small sword
+G 1  3022    10    -1                    give a long sword
+G 1  3023    10    -1                    give a wooden club
+G 1  3024    10    -1                    give a warhammer
+G 1  3025    10    -1                    give a flail
+G 1 12008    10    -1                    give a pair of leather sandals
+G 1 12034    10    -1                    give a double sided key
+M 0 12019    15 12006            the soldier
+E 1  3021    10    16                    wield a small sword
+E 1 12008    10     8                    feet a pair of leather sandals
+D 0 12006     2     2            Swords 'R  Us door south
+M 0 12005    10 12049            the slave
+E 1  3023    10    16                    wield a wooden club
+M 0 12025     1 12049            Froboz
+E 1 12014    20     5                    body Froboz' robe
+G 1 12025    50    -1                    give an ornate scroll
+G 1 12026    50    -1                    give a plain scroll
+G 1 12029    50    -1                    give a prototype wand
+D 0 12049     3     2            Froboz's Workshop door west
+M 0 12004    10 12043            the nobleman
+E 1  3022    10    16                    wield a long sword
+E 1 12000    10     1                    left finger a pewter ring
+M 0 12013     2 12043            the page
+E 1  3020    10    16                    wield a dagger
+E 1 12008    10     8                    feet a pair of leather sandals
+M 0 12023     1 12043            the master scheduler
+G 1 12035    99    -1                    give a ^Wdiamond^n studded key
+G 1 12036    99    -1                    give a key with a pearl handle
+E 1  3022    99    16                    wield a long sword
+E 1 12008    99     8                    feet a pair of leather sandals
+E 1 12013    10     4                    neck 2 a ^Gjade^n pendant
+D 0 12043     3     2            The Waiting Room door west
+M 0 12007     4 12016            the chariot driver
+E 1  3021    10    16                    wield a small sword
+E 1 12008    10     8                    feet a pair of leather sandals
+M 0 12007     4 12016            the chariot driver
+E 1  3021    10    16                    wield a small sword
+E 1 12008    10     8                    feet a pair of leather sandals
+M 0 12007     4 12016            the chariot driver
+E 1  3021    10    16                    wield a small sword
+E 1 12008    10     8                    feet a pair of leather sandals
+M 0 12003    10 12003            the spectator
+M 0 12003    10 12003            the spectator
+M 0 12003    10 12004            the spectator
+M 0 12003    10 12004            the spectator
+M 0 12016     3 12004            the stadium vendor
+G 1 12010    10    -1                    give a hotdog
+M 0 12003    10 12008            the spectator
+M 0 12003    10 12008            the spectator
+M 0 12016     3 12008            the stadium vendor
+G 1 12010    10    -1                    give a hotdog
+M 0 12003    10 12022            the spectator
+M 0 12003    10 12022            the spectator
+M 0 12003    10 12023            the spectator
+M 0 12003    10 12023            the spectator
+M 0 12016     3 12023            the stadium vendor
+G 1 12010    10    -1                    give a hotdog
+M 0 12004    10 12002            the nobleman
+E 1  3042    10    11                    shield a leather shield
+E 1  3022    10    16                    wield a long sword
+G 1 12033    10    -1                    give a rusted key
+D 0 12002     4     2            Caesar's Private Box door up
+M 0 12004    10 12028            the nobleman
+E 1  3022    10    16                    wield a long sword
+E 1 12001    10    13                    waist a bronze belt
+M 0 12005    10 12021            the slave
+E 1  3023    10    16                    wield a wooden club
+M 0 12005    10 12021            the slave
+E 1  3023    10    16                    wield a wooden club
+M 0 12005    10 12021            the slave
+E 1  3023    10    16                    wield a wooden club
+M 0 12017    30 12021            the citizen
+M 0 12006     5 12010            the gladiator
+E 1  3022    10    16                    wield a long sword
+M 0 12006     5 12010            the gladiator
+E 1  3022    10    16                    wield a long sword
+M 0 12006     5 12010            the gladiator
+E 1  3022    10    16                    wield a long sword
+M 0 12006     5 12009            the gladiator
+E 1  3022    10    16                    wield a long sword
+M 0 12006     5 12009            the gladiator
+E 1  3022    10    16                    wield a long sword
+E 1 12002    10     6                    head a Roman combat helmet
+M 0 12007     4 12009            the chariot driver
+E 1  3021    10    16                    wield a small sword
+E 1 12008    10     8                    feet a pair of leather sandals
+M 0 12008     1 12009            the coach
+E 1  3021    10    16                    wield a small sword
+E 1  3043    10     5                    body a leather jacket
+G 1 12003    50    -1                    give a coach's whistle
+M 0 12009     1 12011            the healer
+E 1  3022    99    16                    wield a long sword
+E 1  3043    99     5                    body a leather jacket
+E 1  3042    99    11                    shield a leather shield
+E 1 12004    14     3                    neck 1 a stethoscope
+G 1 12028    10    -1                    give a Kodarta staff
+M 0 12010     1 12011            the herbalist
+E 1  3021    99    16                    wield a small sword
+E 1  3043    99     5                    body a leather jacket
+E 1 12005    30     6                    head a hairpin
+G 1 12027    15    -1                    give a bag of herbs
+M 0 12012     1 12032            the peddler
+E 1 12008    10     8                    feet a pair of leather sandals
+G 1 12006    10    -1                    give an apple
+G 1 12007    10    -1                    give an orange
+M 0 12017    30 12032            the citizen
+M 0 12017    30 12032            the citizen
+M 0 12013     2 12037            the page
+E 1  3020    10    16                    wield a dagger
+E 1 12008    10     8                    feet a pair of leather sandals
+M 0 12027     2 12037            the senator
+E 1  3021    10    16                    wield a small sword
+E 1  3044    10     5                    body a studded leather jacket
+G 1 12037    10    -1                    give an aquamarine key
+M 0 12027     2 12037            the senator
+E 1  3021    10    16                    wield a small sword
+E 1  3044    10     5                    body a studded leather jacket
+G 1  3050    10    -1                    give a scroll of identify
+D 0 12037     0     2            The Senate Chambers door north
+D 0 12037     1     2            The Senate Chambers door east
+D 0 12037     2     2            The Senate Chambers door south
+M 0 12014     1 12050            the plaintiff
+E 1  3022    50    16                    wield a long sword
+E 1 12011    20    15                    right wrist a ^Wsilver^n and ^Ygold^n bracelet
+M 0 12028     1 12050            the bailiff
+E 1  3022    99    16                    wield a long sword
+E 1  3042    99    11                    shield a leather shield
+G 1 12039    30    -1                    give a steel key
+M 0 12029     1 12050            the defendant
+E 1  3024    10    16                    wield a warhammer
+E 1  3043    10     5                    body a leather jacket
+D 0 12050     1     2            The Courtroom door east
+M 0 12015     3 12025            the ticket master
+E 1  3022    10    16                    wield a long sword
+M 0 12015     3 12025            the ticket master
+E 1  3022    10    16                    wield a long sword
+M 0 12015     3 12025            the ticket master
+E 1 12015    25    16                    wield a tempered sword
+M 0 12017    30 12012            the citizen
+M 0 12017    30 12031            the citizen
+M 0 12017    30 12018            the citizen
+M 0 12017    30 12045            the citizen
+M 0 12019    15 12045            the soldier
+E 1  3021    99    16                    wield a small sword
+E 1 12008    99     8                    feet a pair of leather sandals
+E 1 12018    20     5                    body a Roman combat breast plate
+M 0 12017    30 12034            the citizen
+M 0 12017    30 12039            the citizen
+M 0 12017    30 12040            the citizen
+M 0 12017    30 12046            the citizen
+M 0 12017    30 12033            the citizen
+M 0 12017    30 12019            the citizen
+M 0 12017    30 12024            the citizen
+M 0 12017    30 12013            the citizen
+M 0 12018     5 12051            the gateguard
+E 1  3022    10    16                    wield a long sword
+M 0 12018     5 12051            the gateguard
+E 1  3022    10    16                    wield a long sword
+M 0 12018     5 12029            the gateguard
+E 1  3022    10    16                    wield a long sword
+M 0 12018     5 12035            the gateguard
+E 1  3022    10    16                    wield a long sword
+M 0 12018     5 12005            the gateguard
+E 1  3022    10    16                    wield a long sword
+M 0 12019    15 12042            the soldier
+E 1  3021    10    16                    wield a small sword
+E 1 12019    10     8                    feet a pair of Roman combat boots
+M 0 12034     1 12042            Froboz' shopkeeper
+E 1  3022    10    16                    wield a long sword
+E 1 12008    10     8                    feet a pair of leather sandals
+G 1  3050    10    -1                    give a scroll of identify
+G 1  3051    10    -1                    give a yellow potion of see invisible
+G 1  3052    10    -1                    give a scroll of recall
+G 1  3053    10    -1                    give a grey wand of invisibility
+G 1  3054    10    -1                    give a gnarled staff
+G 1 12030    10    -1                    give a flask
+D 0 12042     1     2            The Mage's Shop door east
+M 0 12020     1 12036            Julius Caesar
+E 1  3022    40    17                    held a long sword
+E 1 12017    10     7                    legs a pair of Moorish leggings
+M 0 12021     2 12036            the royal bodyguard
+E 1  3022    10    17                    held a long sword
+E 1  3042    10    11                    shield a leather shield
+E 1  3046    10     5                    body a bronze breast plate
+M 0 12021     2 12036            the royal bodyguard
+E 1  3022    10    17                    held a long sword
+E 1  3042    10    11                    shield a leather shield
+E 1  3046    10     5                    body a bronze breast plate
+D 0 12036     1     2            The Emperor's Private Office door east
+D 0 12036     2     2            The Emperor's Private Office door south
+M 0 12022     1 12055            the judge
+E 1  3022    10    16                    wield a long sword
+E 1 12012    10     2                    right finger a ^Csapphire^n ring
+D 0 12055     3     2            The Judge's Chambers door west
+M 0 12024    10 12041            the slimeball
+M 0 12024    10 12048            the slimeball
+M 0 12024    10 12054            the slimeball
+M 0 12024    10 12054            the slimeball
+M 0 12024    10 12057            the slimeball
+M 0 12024    10 12057            the slimeball
+G 1 12030    10    -1                    give a flask
+M 0 12026     1 12007            Titus Andronicus
+E 1 12016    30    16                    wield a quenched sword
+E 1  3022    30    18                    ready a long sword
+E 1  3042    10    11                    shield a leather shield
+E 1  3046    10     5                    body a bronze breast plate
+E 1 12008    10     8                    feet a pair of leather sandals
+D 0 12007     0     2            The Back Room door north
+M 0 12030     1 12047            Jupiter
+E 1 12020    10    16                    wield Jupiter's Thunderbolt
+M 0 12031     1 12052            Venus
+E 1 12022    10     3                    neck 1 a crystal necklace
+M 0 12032     1 12056            Mars
+E 1 12016    10    16                    wield a quenched sword
+E 1 12021    15    13                    waist a red loincloth
+M 0 12033     1 12059            Mercury
+E 1 12023    10     8                    feet a pair of winged sandals
+M 0 12035     1 12061            the executioner
+G 1 12031    10    -1                    give an executioner's mace
+M 0 12036     1 12062            the baker
+E 1  3022    10    16                    wield a long sword
+G 1  3000    10    -1                    give a barrel
+G 1  3001    10    -1                    give a bottle
+G 1  3009    10    -1                    give a waybread
+G 1  3010    10    -1                    give a bread
+G 1  3011    10    -1                    give a cracker
+G 1 12006    10    -1                    give an apple
+G 1 12007    10    -1                    give an orange
+M 0 12037     1 12063            the grocer
+E 1  3022    10    16                    wield a long sword
+G 1  3030    10    -1                    give a torch
+G 1  3031    10    -1                    give a lantern
+G 1  3032    10    -1                    give a bag
+G 1  3033    10    -1                    give a box
+G 1  3036    10    -1                    give a cashcard
+G 1 12003    10    -1                    give a coach's whistle
+D 0 12038     0     2            The House Of Commons door north
+D 0 12044     3     2            The Entrance Foyer door west
+S
+#99999
+$~

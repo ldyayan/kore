@@ -1,0 +1,57 @@
+#85
+Ice Caves of Atavia~
+8599 30 2
+M 0  8502  3  8502		a blood snake
+M 0  8502  3  8502		a blood snake
+M 0  8500  1  8504		a brown bear
+E 1  8500 10 13				waist a shaggy fur pelt
+M 0  8502  3  8505		a blood snake
+M 0  8501  2  8506		a wild man
+E 1  8501 10 13				waist a fur loincloth
+M 0  8501  2  8509		a wild man
+E 1  8501 10 13				waist a fur loincloth
+M 0  8505  4  8514		an ice sloth
+M 0  8503  5  8514		a killer penguin
+M 0  8505  4  8516		an ice sloth
+M 0  8504  1  8519		a snow zombie
+M 0  8506  9  8520		a snowman
+M 0  8505  4  8523		an ice sloth
+M 0  8506  9  8524		a snowman
+M 0  8505  4  8524		an ice sloth
+M 0  8503  5  8524		a killer penguin
+M 0  8503  5  8525		a killer penguin
+M 0  8506  9  8526		a snowman
+E 1  8503 10 17				hold a snowball
+M 0  8503  5  8526		a killer penguin
+M 0  8506  9  8527		a snowman
+M 0  8503  5  8528		a killer penguin
+M 0  8507  7  8531		an iceman
+M 0  8506  9  8531		a snowman
+M 0  8509  6  8533		some ice cubes
+M 0  8507  7  8533		an iceman
+M 0  8506  9  8533		a snowman
+M 0  8507  7  8534		an iceman
+E 1  8502 10 16				wield an icicle
+M 0  8510  1  8535		the yeti
+M 0  8509  6  8535		some ice cubes
+M 0  8506  9  8537		a snowman
+E 1  8503 10 17				hold a snowball
+M 0  8506  9  8538		a snowman
+M 0  8509  6  8540		some ice cubes
+M 0  8509  6  8540		some ice cubes
+M 0  8506  9  8540		a snowman
+M 0  8509  6  8543		some ice cubes
+M 0  8507  7  8543		an iceman
+M 0  8507  7  8544		an iceman
+M 0  8509  6  8545		some ice cubes
+M 0  8507  7  8546		an iceman
+M 0  8508  1  8548		the ice king
+E 1  8504 10 16				wield a gleaming sword of ice
+E 1  8505 10  6				head a crown of ice
+E 1  8506 10  3				neck1 an ice cape
+M 0  8507  7  8548		an iceman
+D 0  8541  1  2			A Frozen Room of Snow and Ice Door East 
+D 0  8542  3  2			A Frozen Ice Corridor Door West 
+S
+#99999
+$~

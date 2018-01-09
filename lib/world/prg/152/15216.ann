@@ -1,0 +1,47 @@
+>greet_prog 25~
+  if ispc($n)
+    say Depart now before I change my mind.
+  endif
+~
+>greet_prog 33~
+  if ispc($n)
+    growl
+  endif
+~
+>greet_prog 50~
+  if ispc($n)
+    say Prepare to die!
+    kill $n
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    mpecho $I charges you with frightening swiftness and sends you flying!
+    mpecho You land ungracefully on the floor, rubbing your rear!
+    mppose all sit
+    mpdamage all 15d5+10
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoat $r $I's hand descends upon you and you are enveloped in PAIN!
+    mpechoaround $r $I places her hand on $R's head and crushes $L skull with a CRUNCH!
+    mpdamage $r 11d10+25
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r $I's leg connects solidly with your chin and knocks you out!
+    mpechoaround $r $I lashes out at $R with her lag and flattens $K!
+    mppose $r sit
+    mpdamage $r 6d16+20
+    mpechoat $r $I whacks you so soundly that you fly out of the room!
+    mpechoaround $r $I whacks $R so soundly that $R flies out of the room!
+    mptransfer $r nearby
+  endif
+~
+>fight_prog 20~
+  mpecho The metal exoskeleton creaks in an agony of protest!
+~
+|
+ 

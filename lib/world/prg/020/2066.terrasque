@@ -1,0 +1,87 @@
+>greet_prog 100~
+  if name($n) == karn
+    bow karn
+    break
+  else
+  if isimmort($n)
+    sneer
+    break
+  else
+  if isnpc($n)
+    break
+  else
+      kill $n
+  endif
+~
+>entry_prog 100~
+  if isimmort($n)
+    bow $n
+  else
+      kill $n
+  endif
+~
+>rand_prog 5~
+  gossip Fear me mortals, for I walk amongst you.  Send me your champions so that I might feed.
+~
+>rand_prog 15~
+ if hitprcnt($i) < 50
+   cast 'restore' $i 
+ endif
+~
+>rand_prog 25~
+  get all all.corpse
+  wear all
+  remove many
+  put all many
+  get all.many many
+  put all 2.many
+  get all.many many
+  get all.many 2.many
+  put all 3.many
+  get all.many many
+  get all.many 2.many
+  get all.many 3.many
+  put all 4.many
+  get all.many many
+  get all.many 2.many
+  get all.many 3.many
+  get all.many 4.many
+~
+>fight_prog 40~
+  if isaffected($i, blind)
+    emote looks disoriented for a moment.
+    mpsilent mpcallmagic 'dispel magic' $i
+    emote opens its eyes wide and glares at you.
+  else
+    berserk
+  endif
+~
+>fight_prog 60~
+  bash
+~
+>fight_prog 80~
+  emote kicks up a storm of dirt and sand.
+  mpcallmagic 'blind' all
+~
+>fight_prog 100~
+  riposte
+~
+>command_prog cast~
+  if rand(35)
+    switch $n
+  endif
+~
+>command_prog sing~
+  if rand(35)
+    switch $n
+  endif
+~
+>command_prog pray~
+  if rand(35)
+    switch $n
+  endif
+~
+>death_prog 100~
+   gos I shall return in 100 years.  Enjoy your peace mortals.
+~
+|

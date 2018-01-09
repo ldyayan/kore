@@ -1,0 +1,87 @@
+>greet_prog 100~
+  if isimmort($n)
+  else
+    if ischarhere(8298)
+      if rand(30)
+        say Gah! Leave here!
+        cast 'dispel magic' $n
+        mpkill $n
+      endif
+    else
+      if inroom($i) == 8262
+        say Back so soon?
+        mpkill $n
+      else
+        if ispc($n)
+          say Well Ho! You weren't called for, and I didn't ask to see anyone!
+          say You are an uninvited guest, but I know how to deal with you!
+          mpecho $I starts chanting and waving his hands.
+          mpecho A globe of silence descends upon you.
+          mpkill $n
+          mpmload 8298
+        endif
+      endif
+    endif
+  endif
+~
+>rand_prog 3~
+  if inroom($i) == 8262
+    if hitprcnt($i) < 100
+      if rand(60)
+        cast 'restore'
+      endif
+    endif 
+  endif
+~
+>fight_prog 8~ 
+  if inroom($r) == here
+    if isfight($r)
+      mpecho $I motions furiously with his hands.
+      mpmload 8259
+      mpecho A royal guard charges up into the throne room to defend his king!
+      mpforce royal berserk $r
+      mpforce royal berserk $r
+    endif
+  endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+    if isfight($r)
+      if isaffected($r, blind)
+      else
+        mpecho $I takes a diamond from his pocket and smashes it in his hands!
+        mpecho A bright light illuminates the room!
+        mpcallmagic 'blindness' all
+      endif
+    endif
+  endif
+~
+>fight_prog 50~
+  if inroom($i) == 8287
+    if inroom($r) == here
+      if hitprcnt($i) < 20
+        mptrans 8299
+        mpecho The King's advisor bursts through the door and rushes to protect $I!
+        mpforce 8299 emote says 'Flee, my king! I shall occupy these fools!'
+        mpforce 8299 kill $r
+        open door
+        flee
+        flee
+        flee
+        flee
+        if inroom($i) == 8262
+          close door
+        else
+          up
+          east
+          close door
+        endif
+      endif
+    endif
+  endif
+~
+>death_prog 100~
+  mpat 8287 mppurge 8298
+~
+|
+

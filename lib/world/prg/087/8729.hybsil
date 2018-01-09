@@ -1,0 +1,6 @@
+>fight_prog 25~
+  mpecho $I fires a poison arrow! $R is struck...
+  mpcallmagic 'poison' $r
+  mpdamage $r 40
+~
+|

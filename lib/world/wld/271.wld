@@ -1,0 +1,896 @@
+#27100
+At the eastern gate~
+You stand at the guarded gate to what looks like a small, trading village.
+Through the sturdy gate to the west you can make out the townspeople going
+about their business, bickering with eachother, even the occasional fight
+breaking out.
+~
+271 8 2
+D3
+~
+gate~
+2 27100 27101
+E
+gate~
+Looking through the gate, you can see the modest town the drow have set up on
+the surface so the merchant class can carry on the distasteful but necessary
+business with other races who daren't venture below.
+~
+S
+#27101
+Inside the eastern gate~
+You are just inside the eastern gate to the town.  The residents eye you up
+carefully, but don't make any particular motions towards you.  You can see a
+small set of stairs leading up to a walkway above the gate itself.
+~
+271 0 0
+D1
+~
+gate~
+1 0 27100
+D4
+~
+~
+0 0 27102
+D7
+~
+~
+0 0 27103
+S
+#27102
+A small walkway over the gate.~
+This is a small walkway over the gate.  It can't be built for defense, as it
+has no military design at all.  However, it does give a nice view of the
+village and the path to the east.  Perhaps you might notice something of use
+for yourself, from here.
+~
+271 0 0
+D5
+~
+~
+0 0 27101
+E
+path east~
+To the east, you see how the main path quickly splits into several smaller
+and less travelled paths leading in several directions.  The drow obviously
+don't move large caravans of goods back and forth, and the other races certainly
+don't come in any large numbers to do business here.
+~
+E
+village~
+You can make out a good bit of the eastern half of the village from here.  To
+the north, you see how the wall is run straight into a stone outcropping.
+Also in the north side of town you can make out a well built building which
+actually has what must be 2 floors to it, unlike anywhere else in town.
+~
+S
+#27103
+A stone road~
+This is a rather normal road for the town.  Worn stone.
+~
+271 0 0
+D0
+~
+~
+0 0 27104
+D6
+~
+~
+0 0 27101
+D7
+~
+~
+0 0 27113
+S
+#27104
+A small side alley.~
+It looks unfinished.
+~
+271 0 0
+D2
+~
+~
+0 0 27103
+D3
+~
+~
+0 0 27112
+S
+#27105
+An unfinished room~
+It looks unfinished.
+~
+271 0 0
+S
+#27106
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+S
+#27107
+The entrance to the inn.~
+You are standing in the entrance to the inn.  It's a small, dark place with little
+decoration or furnishing.  It doesn't seem to have much in the way of customers
+that you can see from here, but must still do well, since it's also the largest
+building you've seen on this side of town - actually having an upstairs which you
+can get to from a rickety stairway in this room.  The main room is off to the south,
+from which you can hear some signs of life, but not the usual raucous noise you
+get from most other taverns.
+~
+271 8 0
+D2
+~
+~
+0 0 27108
+D3
+~
+~
+0 0 27117
+D4
+~
+~
+0 0 27109
+S
+#27108
+The main room of the inn.~
+This is the main room of the inn.  There are only a couple tables, and the owner
+is nowhere to be seen.  The patrons sitting around here pay you no attention other
+than a stray glance, which gives you the idea it would be best to leave them alone.
+(more to come)
+~
+271 0 0
+D0
+~
+~
+0 0 27107
+E
+patron drow~
+It's a rather odd sight in this dimly lit room.  Before your eyes can fully adjust
+to the barely lit darkness of the room, it almost appears to be just a collection
+of disembodied eyes, mouths, and hair as you look around the room.  Then as your
+eyes adjust, you can make out the ebony faces of the drow in the room a bit better.
+They are all either alone or with a very small group, and each group warily eyes
+themselves and eachother.  The only other thing in common is the looks of hatred
+~
+S
+#27109
+An upstairs room~
+This is apparently a storeroom, judging from the collection of casks and
+crates lying about.  Strangely, there's a fairly sturdy door leading to the
+south.
+~
+271 157 0
+D2
+~
+sturdy door~
+1 27101 27110
+D5
+~
+~
+0 0 27107
+S
+#27110
+A Hideout~
+This inn must deal with a number of shady characters to have a secure hideout
+such as this here.  It's a very spartan room, but it must serve its purpose
+to those who need to stay hidden for a while.  The only feature you notice in
+the room is an oddly placed bed placed in the middle of the room.
+~
+271 41 0
+D0
+~
+door~
+1 0 27109
+D5
+~
+bed~
+2 27102 27111
+E
+bed~
+This small, rectangular object only passes for a bed by the broadest of definitions.
+It's sitting, oddly, in the middle of the floor, as if put there on purpose.
+as you move the dirty blanket and sheet to look at it, you notice some floorboards
+at the edge of it are loose, and there's a well-disguised hole to one side which
+looks almost too perfect to be a knothole.
+~
+S
+#27111
+Hidden backroom~
+This must be where the people the assassin was working for operated from.  There
+are some remnants of notes, some hastily drawn maps, and the like scattered around
+the room.
+In one corner is something or other that I'll put in later.
+~
+271 73 0
+D4
+~
+door~
+1 0 27110
+S
+#27112
+A dark nook~
+This is just a small alcove off the side street.  Perfect for some of the "behind
+the back" dealings that go on, or even the quick mugging of unwise travellers.
+~
+271 9 0
+D1
+~
+~
+0 0 27104
+S
+#27113
+A well traveled roadway.~
+well traveled road, leads to inn.
+~
+271 0 1
+D3
+~
+~
+0 0 27114
+D9
+~
+~
+0 0 27103
+S
+#27114
+Intersection, s to inn.~
+It looks unfinished.
+~
+271 0 1
+D1
+~
+~
+0 0 27113
+D3
+~
+~
+0 0 27115
+S
+#27115
+Well travelled roadway, leads to inn, west hidden door to guard~
+south to inn
+~
+271 0 0
+D1
+~
+~
+0 0 27114
+D2
+~
+~
+0 0 27116
+D3
+~
+~
+0 0 27118
+S
+#27116
+well travelled roadway~
+well travelled roadway, leads to inn.
+~
+271 0 0
+D0
+~
+~
+0 0 27115
+D2
+~
+~
+0 0 27117
+S
+#27117
+Outside the Inn.~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27116
+D1
+~
+~
+0 0 27107
+S
+#27118
+north of guards, 2e of fountain~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27115
+D3
+~
+~
+0 0 27119
+S
+#27119
+n of guards, w of fount~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27118
+D8
+~
+~
+0 0 27120
+S
+#27120
+n to fount, s to "slum" nw towards bazaar~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27121
+D2
+~
+~
+0 0 27124
+D6
+~
+~
+0 0 27119
+D9
+~
+~
+0 0 27122
+S
+#27121
+Fountain room~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27139
+D2
+~
+~
+0 0 27120
+S
+#27122
+s to "store"~
+It looks unfinished.
+~
+271 0 0
+D2
+~
+~
+0 0 27123
+D3
+~
+~
+0 0 27129
+D7
+~
+~
+0 0 27120
+S
+#27123
+General Store of sorts.~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27122
+S
+#27124
+A road leading to the slums~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27120
+D2
+~
+~
+0 0 27125
+S
+#27125
+between guard houses~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27124
+D1
+~
+~
+0 0 27126
+D2
+~
+~
+0 0 27128
+D3
+~
+~
+0 0 27127
+S
+#27126
+eastern guard barracks~
+It looks unfinished.
+~
+271 0 0
+D3
+~
+~
+0 0 27125
+S
+#27127
+western guard barracks~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27125
+S
+#27128
+Outside the city, in the slums.~
+It looks unfinished.
+~
+271 4 0
+D0
+~
+~
+0 0 27125
+D2
+~
+~
+0 0 27140
+S
+#27129
+A split in the path~
+Large outcropping of rock west, road splits around it.
+~
+271 0 0
+D1
+~
+~
+0 0 27122
+D8
+~
+~
+0 0 27130
+D9
+~
+~
+0 0 27134
+S
+#27130
+by auction block~
+It looks unfinished.
+~
+271 0 0
+D2
+~
+~
+0 0 27131
+D3
+~
+~
+0 0 27133
+D6
+~
+~
+0 0 27129
+S
+#27131
+The auction pen~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27130
+D3
+~
+~
+0 0 27132
+S
+#27132
+the Slave pen~
+Some hidden exit down where the slaves were tunneling out over time..
+hidden somehow in the description.
+~
+271 0 0
+D1
+~
+~
+0 0 27131
+S
+#27133
+North of the slave pen.~
+North of the slave pen.  some scratching noises from the south.
+~
+271 0 0
+D1
+~
+~
+0 0 27130
+D9
+~
+~
+0 0 27136
+S
+#27134
+Outside of residence to east.~
+It looks unfinished.
+~
+271 0 0
+D3
+~
+~
+0 0 27135
+D7
+~
+~
+0 0 27129
+S
+#27135
+nearing west gate.~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27134
+D8
+~
+~
+0 0 27136
+S
+#27136
+Inside the Western Gate.~
+It looks unfinished.
+~
+271 0 0
+D3
+~
+~
+0 0 27138
+D6
+~
+~
+0 0 27135
+S
+#27137
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27136
+S
+#27138
+Outside the Western Gate~
+It looks unfinished.
+~
+271 4 0
+D1
+~
+~
+0 0 27136
+D3
+~
+~
+0 0 27151
+S
+#27139
+The Temple of Vhaerun~
+It looks unfinished.
+~
+271 0 0
+D2
+~
+~
+0 0 27121
+S
+#27140
+In the slums~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27128
+D2
+~
+~
+0 0 27143
+D3
+~
+~
+0 0 27141
+S
+#27141
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27140
+D3
+~
+~
+0 0 27142
+S
+#27142
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27141
+S
+#27143
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27140
+D1
+~
+~
+0 0 27144
+D2
+~
+~
+0 0 27145
+S
+#27144
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D3
+~
+~
+0 0 27143
+S
+#27145
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27143
+D3
+~
+~
+0 0 27146
+D7
+~
+~
+0 0 27149
+S
+#27146
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27145
+D8
+~
+~
+0 0 27147
+S
+#27147
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27148
+D6
+~
+~
+0 0 27146
+S
+#27148
+An unfinished room.~
+It looks unfinished.
+~
+271 0 0
+D2
+~
+~
+0 0 27147
+S
+#27149
+Sorta hidden room.~
+Thief hides here, someone walks in steal something, then head east.
+~
+271 0 0
+D1
+~
+~
+0 0 27150
+D9
+~
+~
+0 0 27145
+S
+#27150
+Thieve's Lair~
+It looks unfinished.
+~
+271 0 0
+D3
+~
+~
+0 0 27149
+S
+#27151
+Along the wall in the bazaar~
+It looks unfinished.
+~
+271 0 0
+D1
+~
+~
+0 0 27138
+D2
+~
+~
+0 0 27152
+S
+#27152
+In the bazaar~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27151
+D2
+~
+~
+0 0 27154
+D8
+~
+~
+0 0 27153
+S
+#27153
+In the bazaar~
+It looks unfinished.
+~
+271 0 0
+D2
+~
+~
+0 0 27155
+D6
+~
+~
+0 0 27152
+S
+#27154
+In the bazaar~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27152
+D1
+~
+~
+0 0 27160
+D2
+~
+~
+0 0 27158
+S
+#27155
+In the bazaar~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27153
+D3
+~
+~
+0 0 27156
+S
+#27156
+In the bazaar~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27157
+D1
+~
+~
+0 0 27155
+S
+#27157
+A shop in the bizarre~
+It looks unfinished.
+~
+271 0 0
+D2
+~
+~
+0 0 27156
+S
+#27158
+In the bazaar~
+It looks unfinished.
+~
+271 0 0
+D0
+~
+~
+0 0 27154
+D1
+~
+~
+0 0 27159
+S
+#27159
+A shop in the bazaar~
+It looks unfinished.
+~
+271 0 0
+D3
+~
+~
+0 0 27158
+S
+#27160
+A shop in the bazaar~
+It looks unfinished.
+~
+271 0 0
+D3
+~
+~
+0 0 27154
+S
+#99999
+$~

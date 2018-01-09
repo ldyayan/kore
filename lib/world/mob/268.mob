@@ -1,0 +1,46 @@
+#26800
+guard village~
+the Village Guard~
+A village guard stands before the gates.
+~
+  With a quaint smile, the guard sends the warmth and kindness this village
+has to offer right down to your soul.  He wields a simple longsword, one he
+will not use unless something were to infringe upon the safety of anyone in
+the village.  It is as though he would rather play a game of cards with you
+rather than fight.
+~
+6155 536870916 500 S
+25 5 5 1d1+2500 3d3+5
+25000 100000
+8 8 1
+#26801
+guard village~
+the Village Guard~
+A village guard walks about, looking for criminals.
+~
+  With a quaint smile, the guard sends all the warmth and kindness this 
+village has to offer right into your soul.  He is here to protect the village
+from any violence whatsoever, and would rather shake your hand than hit you,
+but he will do what he must.
+~
+6216 536870916 500 S
+25 5 5 1d1+2500 3d3+4
+25000 100000
+8 8 1
+#26899
+apprentice ironsmith~
+the Ironsmith's Apprentice~
+A young boy stands to show you the items in the shop.
+~
+  Before you stands a ruddy young boy who has found his way in to a life of
+ironsmithing.  Already he has begun to learn the fine arts of working raw
+iron in to the priceless gifts of armor and weapons.  He gladly points out
+all of the best pieces of work, and thus the most expensive, in the shop, 
+hoping to convince you in to buying something.
+~
+262158 128 45 S
+45 0 -10 1d1+15000 1d1+50
+5000000 0
+8 8 1
+#99999
+$~

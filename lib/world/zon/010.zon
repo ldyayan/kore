@@ -1,0 +1,90 @@
+#10
+the Tower of Dh'Vral~
+1099 35 1 32
+O 0  1000   101  1000            a rotting sign
+M 0  1008     3  1095            a druid guard
+E 1  1095   101    17                    held a gnomish ^wsilver^n key
+M 0  1008     3  1095            a druid guard
+D 0  1095     0     2            The Top of the Secret Staircase door north
+M 0  1008     3  1068            a druid guard
+G 1  1028   101    -1                    give a gnomish iron key
+D 0  1068     2     2            Before the Tower door south
+M 0  1018     1  1075            a druid guard
+D 0  1075     2     2            Dungeon Entrance door south
+D 0  1075     4     2            Dungeon Entrance door up
+D 0  1080     0     2            The Hallway door north
+D 0  1080     2     1            The Hallway door south
+M 0  1016     3  1098            a servant girl
+E 1  1011    20    12                    about a black robe
+M 0  1016     3  1098            a servant girl
+E 1  1011    20    12                    about a black robe
+M 0  1016     3  1098            a servant girl
+E 1  1011    20    12                    about a black robe
+M 0  1017     1  1098            Dh'vral
+G 1  1014   101    -1                    give a decrepit key
+E 1  1016     4    16                    wield the steel mace of Dh'vral
+E 1  1096    70     3                    neck 1 a soap on a rope
+D 0  1093     0     2            The Secret Lab door north
+M 0  1012     1  1074            the Master Torturer
+E 1  1007    15    16                    wield sharp steel pincers
+E 1  1015    30    19                    wield 2 a barbed meat hook
+M 0  1013     1  1074            the torturer's apprentice
+D 0  1074     0     2            The Dungeon door north
+D 0  1074     1     2            The Dungeon door east
+D 0  1074     2     2            The Dungeon door south
+D 0  1074     3     2            The Dungeon door west
+M 0  1001     4  1037            a drow warrior
+E 1  1003    30    16                    wield a drow sword
+M 0  1009     3  1029            a drow guard
+M 0  1010     3  1064            a gnome guard
+O 0  1010   101  1099            a large stack of coins
+D 0  1099     4     2            Dh'vral's Treasury door up
+M 0  1015     1  1097            a whore
+E 1  1013    25    12                    about a whisper-thin robe
+D 0  1097     5     1            The Bedchambers door down
+R 0  1090  1009    -1            remove a large red book
+O 0  1009   101  1090            a large red book
+P 1  1090   101  1009                    put a gnomish ^Ygolden^n key in a large red book
+D 0  1090     2     2            The Library door south
+M 0  1000     1  1004            a stick creature
+M 0  1005     1  1018            a black statue
+E 1  1005    30     3                    neck 1 an ebony medallion
+M 0  1003     1  1018            a gnome priest
+M 0  1004     1  1018            a drow priestess
+E 1  1004    10    16                    wield a sacrificial knife
+M 0  1000     2  1002            a stick creature
+M 0  1000     3  1009            a stick creature
+M 0  1000     4  1008            a stick creature
+M 0  1006     1  1039            a drow guard
+E 1  1003    33    16                    wield a drow sword
+M 0  1007     1  1025            a gnome guard
+E 1  1002    33    16                    wield a gnome sword
+M 0  1002     1  1024            a gnome warrior
+E 1  1002    33    16                    wield a gnome sword
+M 0  1002     2  1027            a gnome warrior
+E 1  1002    33    16                    wield a gnome sword
+D 0  1077     1     2            A Cell door east
+O 0  1008   100  1078            a skeleton
+D 0  1078     0     2            A Cell door north
+M 0  1014     1  1076            a prisoner
+D 0  1076     3     2            A Cell door west
+M 0  1011     1  1050            a new recruit
+D 0  1050     5     2            A Weapons Storeroom door down
+D 0  1028     0     2            The Inner Courtyard door north
+D 0  1049     1     1            Secret Passage door east
+D 0  1048     3     1            The Waterfall door west
+D 0  1079     0     1            The Hallway door north
+D 0  1079     2     1            The Hallway door south
+D 0  1083     2     1            A Guest Bedroom door south
+D 0  1084     0     1            A Guest Bedroom door north
+D 0  1081     0     1            A Guest Bedroom door north
+D 0  1082     2     1            A Guest Bedroom door south
+D 0  1082     5     1            A Guest Bedroom door down
+M 0  1001     2  1058            a drow warrior
+M 0  1002     3  1058            a gnome warrior
+D 0  1092     5     1            A Secret Passageway door down
+D 0  1096     2     2            The Reception door south
+D 0  1096     5     2            The Reception door down
+S
+#99999
+$~

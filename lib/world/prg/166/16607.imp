@@ -1,0 +1,14 @@
+>command_prog north~
+  if isnpc($n)
+    if isimmort($n)
+      if name($n) == zirnozz
+        bow zirnozz
+      else
+        mptrans $n nearby 
+        mpechoat $n Strange, you feel as though you have gone the wrong way..
+        mpstopcommand
+      endif
+    endif
+  endif
+~
+|

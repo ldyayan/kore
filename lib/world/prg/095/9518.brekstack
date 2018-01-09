@@ -1,0 +1,131 @@
+>script_prog grab-smack-toss~
+  mpechoaround $n Brekstack picks $N up....
+  mpechoat $n Brekstack grabs you by your neck and lifts you up...
+@
+  mpechoaround $n Brekstack SMACKS $N stupid!!
+  mpechoat $n Brekstack swings a huge fist at you and SMACKS YOU STUPID!!
+  mpdamage $n 10d20
+@  
+  mpechoaround $n Brekstack punts $N out of the room!
+  mpechoat $n Brekstack throws you up in the air and DROPKICKS you out of the room!
+  mptransfer $n nearby
+  laugh
+~
+>greet_prog 100~
+  if name($n) == zirnozz
+    bow zirnozz
+  endif
+~
+>rand_prog 50~
+  if inroom($i) == 9582
+  else
+    mpecho $I fades back into the shadows.
+    mptransfer $i 9582
+  endif
+~
+>fight_prog 4~
+    mptrigger $r grab-smack-toss
+~
+>fight_prog 8~
+  if inroom($r) == here
+    if hitprcnt($r) < 20
+      switch $r
+      riposte
+      riposte
+    else
+      if class($r) == cleric
+        switch $r
+        riposte
+        riposte
+        speak You worship false gods!!
+      else
+        riposte
+        riposte
+        disarm $r
+      endif
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I calls for his guards!
+    mpechoat $r $I points his grubby finger at you and the guards pin you to the ground!!
+    mpechoaround $r $I points his finger at $R and the guards pin $K to the ground!! 
+    mpechoat $r $I saunters over to you, places his foot on your neck...
+    mpechoaround $r Brekstack walks over to his guards, places his foot on $R's neck... 
+    mpechoat $r ... and the last thing you hear is ..... FORE!!!!
+    mpechoaround $r Brekstack picks up a heavy stick, yells 'FORE!!' and SMACKS $R over the horizon.
+    mpechoat $r You fly through the air at a breathtaking height and land extremely hard.
+    mpdamage $r 10d10 + 10
+    mpechoat $r You aren't in Kansas anymore...
+    mptransfer $r 9520
+  endif
+~
+>fight_prog 18~
+  if inroom($r) == here
+    if sex($r) == male
+      mpechoaround $r Brekstack kicks $R right in the nuts!!
+      mpechoat $r Brekstack kicks you right in the nuts!!
+      mpechoaround $r $R falls to the ground in immense pain!!
+      mpechoat $r ...and you fall to the ground in immense pain!!
+      mpdamage $r 10d15
+      mppose $r sit
+    else
+      riposte
+      riposte
+    endif
+  endif
+~
+>command_prog quaff~
+  mpechoaround $n Brekstack ROARS and smacks the potion from $N's lips!!
+  mpechoat $n Brekstack ROARS and smacks the potion from your lips!!
+  mpdamage $n 10d15
+  mpstopcommand
+~
+>command_prog recite~
+  mpechoaround $n $N unrolls a scroll and begins to read it!
+  mpechoat $n You began to read the scroll.
+  mpechoaround $n Brekstack exhales in $N's face!
+  mpechoaround $n $N turns white and falls to the ground!
+  mpechoat $n Brekstack exhales his foul breath in your face!
+  mpechoat $n Your vision blurs as you fall to the ground!
+  mppose $n sit
+  mpstopcommand
+~
+>command_prog backstab~
+  mpechoat $n Brekstack gazes at you with full contempt!
+  mpechoaround $n Brekstack growls at $N!
+  speak Why dont you try to fight me like a warrior!!
+  mpstopcommand
+~
+>spell_prog blind~
+  mpechoat $n $I's eyes glaze over with a milky white film upon the casting of your spell..
+  mpechoat $n $I hits you hard across the face and sends you reeling back to the adjoining room!
+  mpechoaround $n $N stares at $I and utters some words.
+  mpechoaround $n $I's eyes glaze over with a milky white film...
+  mpechoaround $n $I smiles widely and strikes $N solidly across the face, sending $m sprawling backwards!
+  mptransfer $n nearby
+  mppose $n sit
+  mpdamage $n 10d9+20
+  tell $n Brekstack has shamans of his own! Next time you try that, you die!
+  laugh
+~
+>spell_prog sunray~
+  mpechoat $n $I's eyes glaze over with a milky white film upon the casting of your spell..
+  mpechoat $n $I hits you hard across the face and sends you reeling back to the adjoining room!
+  mpechoaround $n $N stares at $I and utters some words.
+  mpechoaround $n $I's eyes glaze over with a milky white film...
+  mpechoaround $n $I smiles widely and strikes $N solidly across the face, sending $m sprawling backwards!
+  mptransfer $n nearby
+  mppose $n sit
+  mpdamage $n 10d9+20
+  tell $n Brekstack has shamans of his own! Next time you try that, you die!
+  laugh
+~
+>rand_prog 10~
+  mpsilent rem pike
+  mpsilent wield mace
+  mpsilent junk pike
+~
+|
+

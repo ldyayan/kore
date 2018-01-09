@@ -1,0 +1,503 @@
+#26600
+fountain pool water~
+an Elegantly Sculpted Fountain~
+A fountain is here, a sculpted dragon sits in the middle spewing water.~
+~
+23 0 0
+5000 5000 15 0
+5000 1 1
+#26601
+ball flames fire blue~
+a brilliant ball of ^Bblue^n fire~
+A mass of blue flames is here, floating a few feet above the ground.~
+~
+1 0 0
+0 0 0 0
+9999 1 1
+E
+blue flames fire ball mass~
+   About as bright as a hundred torches, this large mass of blue flames swirls
+in front of you.  Surprisingly, it puts out very little heat.  Nothing seems
+to be containing the blue sphere, it simply floats in place here about two
+paces above the ground.  Its aura can be seen for miles, and is often used by
+the Aesir to guide them to safety during the wicked winter storms that ravage
+this area.
+~
+#26602
+pendant hematite~
+a glistening hematite pendant~
+A silvery pendant lies here in the dirt.~
+~
+11 21569 5
+0 0 0 0
+3 0 1
+E
+hematite pendant~
+   A large hematite sphere dangles from a thin silver chain before you.  The
+piece of hematite is as big as your fist and would catch a good price even
+if it wasnt enchanted.
+~
+A
+1 3
+A
+13 35
+B
+4096 0
+#26603
+quicksilver mercury vial~
+a vial of mercury~
+A vial filled with a viscous silver liquid lies here.~
+~
+10 65568 1
+50 63 39 64
+3 1 1
+#26604
+key gold ornate~
+an ornate ^Ygold^n key~
+An ornate ^Ygold^n key sits here.~
+~
+18 65540 1
+26604 0 0 0
+5 1 1
+#26605
+garou halberd mighty canis power death wicked axe~
+the mighty halberd '^gGarou^n'~
+A six foot long axe with a wicked spearpoint on the end sits in the dirt.~
+~
+5 269709403 8193
+5 15 3 15
+11 1 1
+E
+canis halberd~
+   The mighty halberd 'Canis' has a six foot long shaft ending with a large
+axe blade topped off with a spear point.  A running wolf is etched into the
+axe blade, which glows with a pulsing red light.
+~
+A
+18 2
+A
+19 8
+A
+1 3
+A
+6 3
+#26606
+helm golden winged~
+a ^Ygolden^n winged helm~
+A ^Ygolden^n winged helm is sitting here shining brightly.~
+~
+9 9663552 17
+10 0 0 0
+3 1 1
+E
+helm golden winged~
+   The helm is in very good condition, despite the fact that it has been used
+in countless battles.  Two small gold wings attach to the helm right above 
+where your ears are.
+~
+A
+14 25
+A
+13 10
+B
+4194304 0
+#26607
+hide silver wolf~
+a ^Wsilver^n wolf hide~
+A beautiful ^Wsilver^n wolf pelt lies in a heap.~
+~
+11 5185 1025
+0 0 0 0
+5 0 1
+A
+19 2
+A
+14 20
+A
+13 10
+#26608
+staff wolf fang~
+a Wolf Fang staff~
+An odd looking staff embedded with wolves teeth is lying here.~
+~
+5 1098818 8193
+0 2 2 4
+4 6000 1
+E
+staff fang wolf~
+   A four foot section of hard oak sits in front of you.  All along its edges,
+razor sharp wolf teeth are embedded into it.  A large canine tooth tops the
+end of the staff, which is always cold to the touch and covered in frost.
+~
+A
+9 5
+A
+12 15
+#26609
+gloves fur~
+fur-trimmed gloves~
+A pair of fur trimmed gloves are sitting here.~
+~
+11 115808 129
+0 0 0 0
+1 1 1
+E
+fur gloves~
+  A pair of heavy gloves lined with fur. 
+~
+A
+9 3
+A
+12 25
+A
+13 10
+#26610
+boots hide wolf~
+a pair of wolf hide boots~
+A pair of grey furry boots are sitting here.~
+~
+9 50240 65
+5 0 0 0
+4 5000 1
+E
+wolf hide boots~
+  A pair of boots made out of the hide of a wolf. Crafted
+by a very good tailor.
+~
+A
+12 25
+A
+13 10
+A
+3 2
+#26611
+crown raven~
+a crown of raven feathers~
+A crown of glossy black feathers sits here.~
+~
+11 65616 17
+0 0 0 0
+1 1 1
+A
+5 2
+A
+4 2
+#26612
+broadsword small~
+a small broadsword~
+A non-descript looking broadsword is lying here.~
+~
+5 0 8193
+0 3 3 3
+5 400 1
+A
+18 2
+#26613
+harp golden~
+a delicate ^Ygolden^n harp~
+A delicate ^Ygolden^n harp sits here in the dirt.~
+~
+13 65613 1
+0 0 0 0
+3 5000 1 50
+#26614
+spear aesir~
+an Aesir spear~
+A slender spear is resting here.~
+~
+6 12352 32769
+0 4 4 12
+10 700 1
+#26615
+axe aesir war~
+an Aesir War Axe~
+A hand axe with a wolf's head carved in the haft rests here.~
+~
+5 74752 24577
+0 3 5 15
+5 1 1
+#26616
+roll dense~
+a dense roll~
+A dense roll is sitting here, smelling delicious.~
+~
+19 0 1
+24 0 0 0
+1 70 1
+#26617
+recall scroll~
+a scroll of recall~
+A scroll has been carelessly left here.~
+~
+2 0 1
+40 42 0 0
+1 1200 1
+#26618
+potion yellow~
+a yellow potion~
+A yellow potion is sitting here.~
+~
+10 64 1
+35 19 0 0
+2 450 1
+#26619
+boat rowboat~
+a small rowboat~
+A one man rowboat is sitting here.~
+~
+22 65540 1
+0 0 0 0
+1 1500 1
+#26620
+meat reindeer hock~
+a large reindeer hock~
+A large hock of cured meat is sitting here.~
+~
+19 0 1
+36 0 0 0
+4 80 1
+#26621
+figurine stone wolf~
+a stone wolf figurine~
+A small figurine of a wolf is resting here.~
+~
+18 65557 1
+26621 3 0 0
+4 1 1
+#26622
+horn great mead~
+a great mead horn~
+A horn filled with a sweet golden liquid is here.~
+~
+17 66625 5
+99999 99999 15 0
+15 1 1
+#26623
+bonds fijir bracelet cord wolf~
+the bonds of Fijir~
+A silken cord with tufts of wolf fur stuck to it sits here in the dirt.~
+~
+9 8467521 4097
+7 0 0 0
+3 1 1
+E
+bonds~
+   A fine silken cord is all that held the mighty wolf in place for ages.  The
+cord itself is made up of many different things.  Supposedly the bonds were
+created by the Gods to hold down the mighty Fijir Wolf, and its components are
+the things that Fijir himself is vulnerable to.
+~
+A
+19 3
+A
+1 -3
+A
+2 -4
+#26624
+tyr hand~
+the hand of Tyr~
+A mightly gauntleted hand rests here, emiting a golden aura.~
+~
+1 8459329 16385
+0 0 -1 0
+4 1 1
+E
+hand~
+   A glowing gauntleted hand floats above your hand.  It is closed into a tight
+fist and the bones and muscle of Tyr can be seen hanging out the end of the
+gauntlet.  Tyr sacrificed his own hand to convince Fijir to sit down while the
+other Gods bound him for eternity.
+~
+A
+19 3
+A
+13 -5
+B
+5120 0
+#26625
+hammer golden tyr~
+the ^Ygolden^n hammer of Tyr~
+A ^Ygolden^n throwing hammer is resting here.~
+~
+6 218177 32769
+0 5 3 10
+12 1 1
+E
+hammer~
+ This huge battle hammer must weigh at least 40 pounds.  It is made of a 
+] extremely hard metal, which seems to glow with power and purity.
+~
+A
+19 2
+A
+13 30
+#26626
+key oak~
+a key carved of oak~
+A key made carved from wood is resting on the ground.~
+~
+18 65604 1
+0 1 0 0
+1 1 1
+#26627
+limb severed bloody~
+a ^Rbloody^n severed limb~
+A severed limb lays here in a pool of blood.~
+~
+19 65548 1
+10 0 0 1
+30 1 1 7
+#26628
+hide wolf fijir~
+the hide of Fijir Wolf~
+A huge grey wolf hide lays here, covering the entire floor.~
+~
+9 1053200 9
+10 0 0 0
+20 0 0
+E
+hide~
+   This grey wolf hide must have belonged to one huge creature.  It stretches
+at least twenty paces from end to end.  The fur of the hide is thick and matted.
+Streaks of grey can be seen in the hide, as if the creature it belonged to was
+very old.
+~
+A
+13 75
+A
+19 1
+B
+32768 0
+#26629
+trough wooden~
+a wooden trough~
+An old wooden trough is here, full of grains for the reindeer.~
+~
+15 0 0
+900 0 -1 0
+1 1 0
+#26630
+feather raven huge black power~
+a huge ravens feather~
+A three foot long ravens feather is here.~
+~
+11 9613888 17
+0 0 0 0
+5 100 0
+E
+feather~
+   This pace long black feather almost shines in the light here.  Its color
+is so dark, it seems to absorb light that gets near it.
+~
+A
+5 -2
+A
+2 -2
+A
+13 -30
+A
+19 3
+#26631
+sfart hard hardwood wood staff pine~
+a huge hardwood staff~
+A pine staff about six feet tall lays here against the wall.~
+~
+5 66572 0
+0 10 10 12
+5 0 0
+A
+19 10
+#26632
+spap~
+Fijir's eternal lockpick~
+A shard of glass~
+~
+18 44 1
+26621 0 0 0
+5 0 0 2
+#26633
+splinter sliver afterlife kris~
+a ^Cs^Gp^Rl^Yi^Bn^Mt^ce^rr^N of the afterlife~
+A shimmering sliver of reality spins here in a mesmerizing circle.~
+~
+5 1024 24577
+5 8 3 11
+1 0 0
+E
+splinter~
+   This weapon is about ten thumbs long.  It is roughly shaped like a short
+sword or long dagger, yet it lacks a pommel.  The 'blade' of the object is
+made of what looks like fog, although the colors inside it are constantly
+shifting.  In fact, it often looks as if the weapon itself grows and shrinks
+on its own will.
+~
+A
+19 3
+A
+4 2
+B
+4128 0
+S
+92 50 3
+S
+10 50 5
+S
+22 50 5
+#26634
+bladder blood~
+a ^Rblood^n filled bladder~
+A huge bladder lays here on the ground, filled to the rim with fresh red blood.~
+~
+23 64 5
+99999 99999 13 0
+10 0 0
+#26635
+pine staff section shattered~
+a section of a shattered pine staff~
+A three foot section of a broken staff sits here.~
+~
+4 1 16385
+35 10 10 65
+5 100000 0
+A
+19 3
+A
+13 25
+A
+12 25
+A
+9 -3
+#26636
+trinket~
+a copper trinket~
+A lousy copper trinket lays here~
+~
+8 0 17
+0 0 0 0
+1 55 0
+A
+22 -2
+#26637
+cloak wolf hide~
+a wolf hide cloak~
+A large, warm wolf pelt is warming here by the fireplace.~
+~
+9 16 1025
+7 0 0 0
+7 2500 0
+A
+23 -3
+#26638
+spear hunting fine aesir~
+a finely crafted Aesir hunting spear~
+A finely crafted spear made of bone lays here in the snow.~
+~
+5 8192 8193
+5 5 4 11
+5 1 0
+A
+18 3
+A
+19 2
+#99999
+$~

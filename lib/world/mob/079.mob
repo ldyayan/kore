@@ -1,0 +1,201 @@
+#7900
+paladia immortal~
+Paladia~
+Paladia, immortal defender of clan Vaporia, stands here barring your path.
+~
+Paladia, once ruler of Vaporia as a mortal, spent his immortality trying to
+maintain its greatness.  He stares back at you with sad eyes, knowing that he
+has become his minions.
+~
+26638 8393896 450 S
+55 -30 -7 10d10+550 2d6+16
+90000 170000
+8 8 1
+#7901
+rat large~
+the large rat~
+There is a large rat here, poking through the foodstuffs lying around.
+~
+The large rat is about two feet long from head to tail and has claws the
+size of your fingers, looking very nasty.  It seems to be quite occupied
+with all the chewed open foodstuffs lying about the room.
+~
+42 1024 -800 S
+12 9 2 1d10+150 2d6+2
+2513 13000
+8 8 0
+#7902
+morgus~
+Morgiose~
+Morgiose stands before you, preparing his demon fires.
+~
+Morgiose, twisted into undead form by hate and rage from a troubled childhood
+peers at you through glowing red embers.  Once mighty, this evil cleric fell
+from grace with the rest of his clan with the passing of the mighty Phaeton.
+~
+256090 33928 0 S
+44 3 -3 5d8+340 8d6+4
+4500 65000
+8 8 1 13
+#7903
+tranz~
+Tranz~
+Trans the Redeemed stands before you in wraithform.
+~
+Tranz the Good, the only member of Vaporia to escape their fate, spends his
+eternity warning others of the dangers of greed and hate.  His eyes are sad
+as he looks out at you, and he warns you to beware.
+~
+256090 33928 1000 S
+48 3 -6 5d5+340 8d4+4
+2000 65000
+8 8 1
+#7904
+phaeton grey~
+Phaeton the Grey~
+Phaeton the Grey, founder of Vaporia, spends all of time writhing in anguish.
+~
+Once a powerful warrior, this vampire-like creature hovers before you in more
+anguish than he alone caused others.  Feeling responsible for the ways of his
+followers, Phaeton gave himself for those he could save.  Only the cleric
+Tranz managed to escape fate, even with his sacrifice.
+~
+681998 5244072 0 S
+60 0 -7 10d8+550 8d8+16
+31570 170000
+8 8 1 13
+#7905
+kirin~
+Kirin~
+Kirin, evil tyrant of Vaporia slumps in the corner, fearing your light.
+~
+Kirin was an evil spawn of the dark Lich Baphomet when Phaeton was bringing
+Vaporia to power.  When he later assumed control of Vaporia upon Phaeton's
+departure, his foulness stagnated the once powerful organization and perverted
+it into a den of thieves.
+~
+256090 33960 0 S
+60 -15 -5 5d8+340 8d4+4
+2000 65000
+8 8 1
+#7906
+farkor~
+Farkor~
+Farkor the Small stands before you with spellbook open to guard the treasure.
+~
+Farkor was drawn to Vaporia under the rule of Kirin.  Lured by the promise of
+great riches, he was the first to discover the dissolution of the clan's wealth.
+When he confronted Kirin about the lack of gold he was banished from the hall
+until death, when he was cursed to dwell forever in the treasure chamber.
+~
+256090 33928 0 S
+45 3 -3 5d8+340 8d6+4
+2000 65000
+8 8 1 13
+#7907
+vigilante sly~
+Vigilante the Sly~
+Vigelanne is here, sparring with a clanmate.
+~
+This is the thief that could never escape from the shadow of Kirin.  Vigilante
+struggled his whole life to achieve greatness, but in the end only achieved
+an early grave.  Stabbed in the heart by Kirin in a fight over a prostitute,
+he haunted the greater thief until his death.
+~
+256122 33928 0 S
+26 3 -1 5d8+340 8d4+4
+2000 65000
+8 8 1
+#7908
+deathwalker~
+Dethwalker~
+The dark priest Dethwalker attempts to hide as you enter the room.
+~
+Dethwalker was much like Vigilante, always second cleric to Morgiose.  All of
+his acquired skill could never compare to the enormous force of his opponents.
+It is said after he was killed in a clan war his body was never found.
+~
+256122 33928 0 S
+27 3 -1 5d8+340 8d4+4
+2000 65000
+8 8 1 13
+#7909
+krone~
+Krone~
+The vile Krone, traitor to Omerta is here serving Vaporia.
+~
+Krone was never a member of Vaporia, but instead ferried infomation to the
+clan in return for safety and objects of power.  Inevitably it was he who
+brought about the downfall of the clan he left, Omerta.
+~
+256218 33928 0 S
+45 18 -1 5d8+340 8d9+15
+2000 65000
+8 8 1 13
+#7910
+Tetsuko~
+Tetsuko~
+Tetsuko the Dragon Knight is meditating calmly here.
+~
+Dressed in the traditional Kimono of all warriors in the Far East, Tetsuko's
+body blends in and out with the rotting wooden walls behind him.  He rests
+uopn his knees, with his head bowed and eyes shut.  Even in this position,
+you sense a keen awareness of a trained assassin.  His face is very pale and
+thin, and you are almost certain that he is dead.
+~
+647242 66600 200 S
+50 1 -4 6d8+350 5d7+4
+6000 300000
+5 5 1
+#7996
+drow assassin~
+a drow assassin~
+Silent death stands here.
+~
+An ebon face snarls, 'Time to die, human!'
+~
+17473546 35496168 0 S
+50 -15 -4 1d1+1 20d8+20
+0 0
+8 8 1 11
+#7997
+nervous merchant~
+a nervous merchant~
+A nervous-looking merchant stands here, eyes darting to the shadows.
+~
+This small pudgy man's eyes dart about the room, constantly searching
+for the shadow that kills him.
+~
+10 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#7998
+mangy scruffy dog dogmeat~
+a scruffy dog~
+A scruffy dog stands here, snarling at you.
+~
+This dog looks like a mutt.  He's kinda small, but you're pretty sure
+he can hold his own.  One of his ears is half gone, and his patchy fur
+looks like he has seen alot of fights.
+
+On his collar a small iron disc proclaims, 'Dogmeat'
+
+~
+761866 4980780 0 S
+55 -15 -6 30d100+400 10d10+10
+0 0
+8 8 1 4
+#7999
+mr t tough~
+Mr. T~
+The world's most helluva tough individual stands here.
+~
+Mr. T will throw you helluva far if you keep staring at him!
+~
+18604076 180716712 0 S
+60 -30 -7 30d100+0 5d10+50
+0 0
+8 8 1 13
+#99999
+$~

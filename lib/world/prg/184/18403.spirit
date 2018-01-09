@@ -1,0 +1,33 @@
+>greet_prog 100~
+  if ispc($n)
+    mpecho Something in the air moans quietly.
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I whispers 'Leave this wretched place...'
+    mpcallmagic 'area scare' $r
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoat $r You feel something inside you that makes you want to run!
+    mpechoaround $r $R looks panicked....and runs!
+    mpforce $r flee
+    mpforce $r flee
+  endif
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho A grey fog lifts up from the ground, with it, a sigh of relief...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent drop all
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mpgoto cleaner
+  mppose $i dead
+~
+|

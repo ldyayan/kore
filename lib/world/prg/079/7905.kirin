@@ -1,0 +1,58 @@
+>all_greet_prog 100~
+  mptrigger $n KirinSpeak
+~
+>script_prog KirinSpeak~
+  say Ahh, the Heroes of Kore have arrived!
+   @
+  say So nice of you to visit, it's a pity you won't be sticking around!
+  emote grins wickedly.
+   @
+  emote draws back a ragged breath, and begins to smirk with unholy glee!
+    if inroom($r)==here
+      mpkill $r
+    else
+    endif
+~
+>fight_prog 5~    
+  if inroom($r) == here
+    mpecho Kirin grins evilly and disappears in a puff of smoke!
+    mpechoat $r Suddenly appears behind your and stabs you in the back!
+    mpechoaround $r $r cries out in pain as Kirin stabs $K in the back!
+    mpdamage $r 650
+  endif
+~
+>fight_prog 6~
+  if inroom($r) == here
+    mpechoat $r Kirin suddenly shrieks and points directly at you!
+    mpechoat $r Your eyes glaze over and the world goes dark..
+    mpechoaround $r You watch helplessly as $r falls victim to Kirin's unholy attack!
+    mpsilent mpcallmagic 'poison' $r
+    mpsilent mpcallmagic 'blind' $r
+    mpdamage $r 200
+    mppose $r sleep
+  endif
+~
+>fight_prog 6~
+  if inroom($r) == here
+    mpechoat $r Kirin ruthlessly claws at your eyes and stabs you in the stomach!
+    mpechoaround $r $r screams in agony and falls to the ground clutching $L gut and face!
+    mpdamage $r 350
+  endif
+~
+>death_prog 100~
+  mpecho Kirin's voice begins to change as he screams his last breath..
+  say You bastards!  I'll come back from the dead to get you!
+  mpecho A black and purple swirling portal engulfs Kirin!
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpsilent remove all
+     if rand(8)
+       mpsilent drop all
+       mpsilent drop all.coins
+       mpecho All that remains of Kirin are his earthly coins and a mysterious dagger..
+     else
+     mppose $i dead
+     mpgoto cleaner
+     endif
+~
+|

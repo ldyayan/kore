@@ -1,0 +1,12 @@
+>command_prog cast~
+  mpechoat $n There's absolutely NO way you could cast a spell in this confined space.
+  mpechoaround $n $N struggles in vain to cast a spell.
+  mpstopcommand
+~
+>command_prog recite~
+  mpechoat $n You can't even move your hands! Forget about that scroll..
+  mpechoaround $n $N tries to reach for a scroll.. Hah! Who does $e think $e's fooling?
+  mpstopcommand
+~
+|
+

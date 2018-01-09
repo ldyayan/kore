@@ -1,0 +1,34 @@
+#91
+The Mountains Of Icewendale~
+9199 30 2 3
+M 0  9106     1  9159            Kelanxakak, King of the Muskrats
+M 0  9100     1  9138            a mole guard
+E 1  9100     2    17                    held a dirty key
+D 0  9138     3     2            The Tunnels End door west
+M 0  9105    12  9161            a muskrat
+M 0  9105    12  9161            a muskrat
+M 0  9105    12  9161            a muskrat
+M 0  9105    12  9162            a muskrat
+M 0  9105    12  9162            a muskrat
+M 0  9105    12  9162            a muskrat
+M 0  9105    12  9163            a muskrat
+M 0  9105    12  9163            a muskrat
+M 0  9105    12  9163            a muskrat
+M 0  9105    12  9160            a muskrat
+M 0  9105    12  9160            a muskrat
+M 0  9105    12  9160            a muskrat
+M 0  9104     1  9146            a rabid beaver
+M 0  9103     4  9145            a beaver
+M 0  9103     4  9145            a beaver
+M 0  9103     4  9145            a beaver
+M 0  9103     4  9145            a beaver
+M 0  9102     1  9122            an old tree
+E 1  9102  1000    17                    held a curved walking stick
+M 0  9101     1  9139            a hobbit mage
+E 1  9101 100000     2                    right finger a ring of smite
+D 0  9139     1     2            A Small Chamber door east
+D 0  9135     4     1            A Hole door up
+D 0  9134     5     1            The Gloomy Forest door down
+S
+#99999
+$~

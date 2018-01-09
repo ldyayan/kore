@@ -1,0 +1,717 @@
+#10200
+Drow House Eilservs~
+   the houses are:
+1st house       eilservs        copper staff
+2nd house       kilsek          mithril sword
+3rd house       despana         adamantite mace
+4th house       noquar          bronze nightmare's head
+   the plan is to devote blocks of 25 rooms per house and then reattach the
+houses to the drow zone 51
+
+~
+102 1024 0
+S
+#10201
+Entrance to House Eilservs~
+   A great curving iron arch looms overhead, lit by an unholy light. In
+Here underneath it you feel a chill and sense that you are being watched.
+High up in the center of the arch is a swirling red and blue sphere and
+in it an inner circle of darkness that you sense is watching you. A path
+runs north to an exposed stairway and a lawn of black moss curves around
+east and west. The house Eilservs looms large in front of you, a heaped up
+castle and manor house. Limited to a small acreage it has grown upwards,
+and its shape reminds you of a black fire, with its turrets and flame-licked
+look.
+~
+102 0 0
+D0
+~
+~
+0 0 10202
+S
+#10202
+Crumbled bone pathway~
+   Here you stand on an eerie white path. The gravel crunches beneath your
+feet strangely, and powders a little underfoot. The edges of the path are
+lit by skulls with glowing eyes. Beyond the path east and west curves a
+great black moss lawn. Ahead is a rising stair that looks a little dangerous
+for it has no guardrails and is wide enough for only one person at a time
+to try climbing. At the top of it is a peaked door. You feel a chill here
+in front of the house.
+~
+102 0 0
+D1
+~
+~
+0 0 10203
+D2
+~
+~
+0 0 10201
+D3
+~
+~
+0 0 10204
+D4
+~
+~
+0 0 10205
+S
+#10203
+Black moss lawn~
+   The high hedge of curling thorny blackbriars curves around here, making
+the wall nigh impassible. The walls of the manor house curve around here and
+make a dead end. Above you you see a flying turret, curving up away and
+dangerously from the house. From its higher vantage the tower defenders can
+spy  on this whole side of the lawn and over the hedges too.
+~
+102 0 0
+D0
+~
+~
+0 0 10238
+D3
+~
+~
+0 0 10202
+S
+#10204
+Black moss lawn~
+   The high hedge of curling thorny blackbriars curves around here, making
+the wall nigh impassible. To the north you see the high walls of an inner
+bailey or court, with the manor house holding down the east and towers on
+this west end covering the flanks of the house. A curtain wall rises to the
+north spiked with ragged black iron shaped to look like flames. The tower
+watching the southwest corner watches you.
+~
+102 0 0
+D1
+~
+~
+0 0 10202
+D9
+~
+~
+0 0 10243
+S
+#10205
+Exposed Stair~
+   You are on an exposed stair, you have the sense that the drow can see 
+you and fire on you and you feel pretty defenseless. You also feel like you
+are being held up and examined. The door is a peaked double door and the
+niches hold living flames. Maybe there could be a minor fire elemental on
+each side of the door, something like that. The door is a large black
+metal-clad one, that looks like it might be rivetted steel or adamantium,
+but smoked black.
+~
+102 0 0
+D0
+~
+peaked door~
+1 0 10206
+D5
+~
+~
+0 0 10202
+S
+#10206
+Entry hall~
+   The entry hall has a simple table in the center, and on the table are
+a vase of dead flowers. The floor is not the usual spiderweb tracery but
+instead a black mirror. The archways are like gilt pictureframes.
+~
+102 0 0
+D0
+~
+glass double doors~
+1 0 10242
+D1
+~
+~
+0 0 10207
+D2
+~
+peaked door~
+1 0 10205
+D3
+~
+~
+0 0 10209
+D9
+~
+~
+0 0 10210
+S
+#10207
+A narrow crawlway~
+   The narrow crawlway has a tube like feeling to it that leads up to a 
+trapdoor and this is the overhanging watch tower visible from the black
+moss lawn below.
+~
+102 0 0
+D3
+~
+~
+0 0 10206
+D4
+~
+trapdoor~
+1 0 10208
+S
+#10208
+A suspended turret~
+   This room is cup shaped and not very large; from inside you realize that
+the pointed cap on the tower is actually an illusion and that instead of
+having limited vision you can easily see through the illusion on this side
+and fire through it and defend the house.
+~
+102 0 0
+D5
+~
+trapdoor~
+1 0 10207
+S
+#10209
+Adjoining chamber~
+   The adjoining chamber is separated from the main one by an open archway
+and the predominant theme in this room is one of grotesque creatures in
+bas relief and dark elves sacrificing victims to a black flame.
+~
+102 0 0
+D0
+~
+~
+0 0 10228
+D1
+~
+~
+0 0 10206
+D8
+~
+stout door~
+1 0 10218
+D9
+~
+~
+0 0 10222
+S
+#10210
+The Throne Room~
+   The throne room of the house Eilservs is so horrifying it is almost
+beautiful.
+~
+102 0 0
+D1
+~
+red leather door~
+1 0 10242
+D3
+~
+heavy velvet curtains~
+1 0 10222
+D4
+~
+~
+0 0 10211
+D7
+~
+~
+0 0 10206
+S
+#10211
+Up along a staircase~
+You are in an unfinished room.
+~
+102 0 0
+D4
+~
+~
+0 0 10212
+D5
+~
+~
+0 0 10210
+S
+#10212
+An upper hall~
+You are in an unfinished room.
+~
+102 0 0
+D1
+~
+~
+0 0 10214
+D2
+~
+~
+0 0 10240
+D3
+~
+~
+0 0 10213
+D4
+~
+~
+0 0 10216
+D5
+~
+~
+0 0 10211
+S
+#10213
+Upper room 1~
+You are in an unfinished room.
+~
+102 0 0
+D1
+~
+~
+0 0 10212
+S
+#10214
+Upper room 2~
+You are in an unfinished room.
+~
+102 0 0
+D3
+~
+~
+0 0 10212
+S
+#10215
+Matron Mother's room~
+You are in an unfinished room.
+~
+102 0 0
+D0
+~
+~
+0 0 10240
+S
+#10216
+Up along a staircase~
+You are in an unfinished room.
+~
+102 0 0
+D4
+~
+~
+0 0 10217
+D5
+~
+~
+0 0 10212
+S
+#10217
+A private attic~
+You are in an unfinished room.
+~
+102 0 0
+D5
+~
+~
+0 0 10216
+S
+#10218
+Along the battlements~
+You are in an unfinished room.
+~
+102 0 0
+D6
+~
+stout door~
+1 0 10209
+D8
+~
+~
+0 0 10219
+S
+#10219
+Southwest tower room~
+You are in an unfinished room.
+~
+102 0 0
+D0
+~
+~
+0 0 10220
+D4
+~
+~
+0 0 10229
+D5
+~
+~
+0 0 10226
+D6
+~
+~
+0 0 10218
+S
+#10220
+Along the battlements~
+You are in an unfinished room.
+~
+102 0 0
+D0
+~
+~
+0 0 10221
+D2
+~
+~
+0 0 10219
+S
+#10221
+Northwest tower room~
+You are in an unfinished room.
+~
+102 0 0
+D1
+~
+~
+0 0 10223
+D2
+~
+~
+0 0 10220
+D4
+~
+~
+0 0 10230
+D5
+~
+~
+0 0 10224
+S
+#10222
+A private balcony~
+You are in an unfinished room.
+~
+102 0 0
+D1
+~
+heavy velvet curtains~
+1 0 10210
+D3
+~
+~
+0 0 10223
+D7
+~
+~
+0 0 10209
+S
+#10223
+Along the battlements~
+You are in an unfinished room.
+~
+102 0 0
+D1
+~
+~
+0 0 10222
+D3
+~
+~
+0 0 10221
+S
+#10224
+Bottom northwest tower~
+You are in an unfinished room.
+~
+102 0 0
+D4
+~
+~
+0 0 10221
+D5
+~
+barred door~
+1 0 10232
+D7
+~
+~
+0 0 10225
+S
+#10225
+A small inner courtyard~
+You are in an unfinished room.
+~
+102 0 0
+D1
+~
+~
+0 0 10227
+D3
+~
+~
+0 0 10239
+D5
+~
+~
+0 0 10237
+D8
+~
+~
+0 0 10226
+D9
+~
+~
+0 0 10224
+S
+#10226
+Bottom southwest tower~
+You are in an unfinished room.
+~
+102 0 0
+D4
+~
+~
+0 0 10219
+D6
+~
+~
+0 0 10225
+S
+#10227
+Grand lower hall~
+You are in an unfinished room.
+~
+102 0 0
+D0
+~
+~
+0 0 10228
+D1
+~
+secret door~
+1 0 10231
+D3
+~
+~
+0 0 10225
+S
+#10228
+Small stairwell~
+You are in an unfinished room.
+~
+102 0 0
+D4
+~
+~
+0 0 10209
+D5
+~
+~
+0 0 10227
+S
+#10229
+Top southwest tower~
+You are in an unfinished room.
+~
+102 0 0
+D5
+~
+~
+0 0 10219
+S
+#10230
+Top northwest tower~
+You are in an unfinished room.
+~
+102 0 0
+D5
+~
+~
+0 0 10221
+S
+#10231
+A secret shrine~
+You are in an unfinished room.
+~
+102 0 0
+D3
+~
+secret door~
+1 0 10227
+S
+#10232
+Donjon stairs~
+You are in an unfinished room.
+~
+102 0 0
+D4
+~
+barred door~
+1 0 10224
+D5
+~
+~
+0 0 10233
+S
+#10233
+Donjon hall~
+You are in an unfinished room.
+~
+102 0 0
+D0
+~
+creaky door~
+1 0 10234
+D1
+~
+barred door~
+1 0 10235
+D2
+~
+~
+0 0 10236
+D4
+~
+~
+0 0 10232
+S
+#10234
+Storage room~
+You are in an unfinished room.
+~
+102 0 0
+D2
+~
+creaky door~
+1 0 10233
+S
+#10235
+A small cell~
+You are in an unfinished room.
+~
+102 0 0
+D3
+~
+barred door~
+0 0 10233
+S
+#10236
+Inside the furnace!~
+You are in an unfinished room.
+~
+102 0 0
+D0
+~
+~
+0 0 10233
+S
+#10237
+Cistern~
+You are in an unfinished room.
+~
+102 0 0
+D4
+~
+~
+0 0 10225
+S
+#10238
+Black moss lawn~
+   The black moss lawn comes to a dead end. The high hedge of thorny
+blackbriars makes escape well nigh impossible. Around to the south and west
+the lawn turns towards its iron entrance. The main house looms over the
+lawn, throwing errie shadows.
+~
+102 0 0
+D2
+~
+~
+0 0 10203
+S
+#10239
+A dark shed~
+You are in an unfinished room.
+~
+102 0 0
+D1
+~
+~
+0 0 10225
+S
+#10240
+An upper hall~
+You are in an unfinished room.
+~
+102 0 0
+D0
+~
+~
+0 0 10212
+D2
+~
+~
+0 0 10215
+D3
+~
+~
+0 0 10241
+S
+#10241
+Counselors chambers~
+You are in an unfinished room.
+~
+102 0 0
+D1
+~
+~
+0 0 10240
+S
+#10242
+Study~
+   Books line the walls. There is a divan. The drow in this room relax
+and smoke hookah pipes. The room is mostly red with sumptuous curtains,
+and the divans are all a garish purple. The ceiling is lit with globes
+of purplish and green continual lights.
+~
+102 0 0
+D2
+~
+glass double doors~
+1 0 10206
+D3
+~
+red leather door~
+1 0 10210
+S
+#10243
+Black moss lawn~
+   The high hedge of curling thorny blackbriars curves around here, making
+the wall nigh impassible. To the east you see the high walls of an inner
+bailey or court, with the manor house holding down the east and towers on
+this west end covering the flanks of the house. A curtain wall rises to the
+north spiked with ragged black iron shaped to look like flames. The tower
+watching the southwest corner watches you.
+~
+102 0 0
+D0
+~
+~
+0 0 10244
+D7
+~
+~
+0 0 10204
+S
+#10244
+Black moss lawn~
+   The black moss lawn comes to a dead end. The high hedge of thorny
+blackbriars makes escape well nigh impossible. The east is a high wall
+of the inner bailey, capped by jagged iron flames. Around to the south 
+and east the lawn turns towards its iron entrance. The main house looms
+over the lawn, throwing errie shadows.
+~
+102 0 0
+D2
+~
+~
+0 0 10243
+S
+#99999
+$~

@@ -1,0 +1,133 @@
+>greet_prog 100~
+  if ispc($n)
+    if ismemory($n)
+      sneer $n
+    endif
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    cast 'blindness' $r
+  endif
+~
+>fight_prog 13~
+  if inroom($r) == here
+    if isfight($r)
+      mpecho $I gestures gracefully with circular-type arm movements and then barks a command word sternly.
+      mpechoat $r A great fear floods your mind and your lose all will to fight!
+      mpsilent mpforce $r remove sword
+      mpsilent mpforce $r remove mace
+      mpsilent mpforce $r remove axe
+      mpsilent mpforce $r remove dagger
+      mpsilent mpforce $r drop sword
+      mpsilent mpforce $r drop mace
+      mpsilent mpforce $r drop axe
+      mpsilent mpforce $r drop dagger
+      mpechoaround $r $R's eyes widen in terror as $I finishes her spell.
+      mpechoaround $r You look in amazement as $R removes $L weapons and attempts to flee!
+      mptransfer $r nearby
+      mpechoat $r You flee to a nearby room!
+      mpcallmagic 'sleep' $r
+      mpcallmagic 'sleep' $r
+      if rand(50)
+        mpecho $I quickly grabs something off of the ground.
+        mpsilent get sword
+        mpsilent get mace
+        mpsilent get axe
+        mpsilent get dagger
+        mpsilent wield dagger
+        mpsilent wield axe
+        mpsilent wield mace
+        mpsilent wield sword
+      endif
+    endif
+  endif
+~
+>fight_prog 16~
+  if inroom($r) == here
+    cast 'area word of death' $r
+    mpcallmagic 'area word of death' $r
+  endif
+~
+>command_prog flee~
+  if rand(50)
+    mptrigger $n summon-back
+  else
+    mpremember $n
+  endif
+~
+>spell_prog word of recall~
+  if rand(50)
+    mptrigger $n summon-back
+  else
+    mpremember $n
+  endif
+~
+>command_prog recite~
+  if rand(50)
+    mptrigger $n summon-back
+  else
+    mpremember $n
+  endif
+~
+>command_prog bash~
+  mpechoat $n The mere thought of bashing this woman makes you shiver. You refrain.
+  mpstopcommand
+~
+>rand_prog 3~
+  if hitprcnt($i) < 100
+    cast 'restore' $i
+  endif
+~
+>rand_prog 4~
+  if ismemory($r)
+    if inzone($r) == 10
+      if isfight($i)
+      else
+        if rand(30)
+          shout Next time I shall send you to Lolth, $R!
+          mpforget $r
+        endif
+      endif
+    else
+      if rand(30)
+        tell $r I can kill you at any time. Do NOT disturb me again!
+        mpforget $r
+      endif
+    endif
+  endif
+~
+>rand_prog 30~
+  if inroom($i) == 18379
+  else
+    mpecho $I looks around.
+    mpecho $I sneers and exits the room.
+    mptransfer $i 18379
+  endif
+~
+>script_prog summon-back~
+@
+@
+@
+  if inroom($n) == here
+    speak Trying to flee so soon, $N? You cannot escape me!!
+    cackle
+    switch $n
+    mpkill $n
+    break
+  else
+    mpat $n mpechoat $n You fall backwards as you feel a strong draw on your soul!
+    mpat $n mpechoat $n A thick cloud overcomes you...
+    mpat $n mpechoaround $n $N is pulled through a portal that appears right behind $m!
+    mpecho $I points to a place on the ground in front of her.
+    mpecho A swirling cloud of smoke spurts out and when it clears $N is standing there!
+    mptransfer $n
+    mpforce $n look
+    if rand(60)
+      tell $n You aren't leaving this fight alive, peasant!
+      mppose $n stun
+    endif
+    mpkill $n
+  endif
+~
+|

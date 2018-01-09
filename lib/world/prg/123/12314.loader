@@ -1,0 +1,32 @@
+>greet_prog 20~
+  if ispc($n)
+    chuckle $n
+    say Welcome to the blast furnace, $N. Warm enough for you?
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    mpechoat $r $I places his shovel into the coals and throws some at your face!
+    mpechoaround $r $I places his shovel in the furnace and throws hot coals at $R!
+    mpdamage $r 8d9+40
+    mpcallmagic 'blindness' $r
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    if hitprcnt($r) < 30
+      switch $r
+      bash
+      riposte
+    endif
+  endif
+~
+>fight_prog 11~
+  if inroom($r) == here
+    mpechoat $r $I throws some wood at you then follows with a swift blow to the stomach!
+    mpechoaround $r $I throws some wood at $R and then follows with a blow to the stomach!
+    mpdamage $r 11d7+20
+  endif
+~
+|
+

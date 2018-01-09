@@ -1,0 +1,751 @@
+#5800
+Gangplank~
+   You come onto the gangplank of the 'Ar-Pharazon', a great galley of the
+Tyrant of Kore. With this great ship he aims to break the kingdoms around
+Kore. You marvel at its sleek lines, its banks of oars, the spears of elite
+marines and wonder if the Tyrant may yet succeed in conquering the lands of the 
+world... above you you see the decks of the ship. From here you could
+^Cdisembark^n and leave the ship.
+~
+58 4 0
+D4
+~
+~
+0 0 5801
+S
+#5801
+Main Deck~
+   You stand on the decks of the great trireme 'Ar-Pharazon'. The wooden
+hull is long and sleek, streamlined for speed on the waters and seas. 
+Looking out over the wales of the ship, you see the waters about the ship.
+Looking up you see the tall mast of the ship and leading down and off the 
+ship is a gangplank, also used to board enemy ships.
+~
+58 0 0
+D1
+~
+~
+0 0 5807
+D3
+~
+~
+0 0 5811
+D4
+~
+~
+0 0 5806
+D5
+~
+~
+0 0 5800
+S
+#5802
+Forecastle~
+   Standing at the prow of the boat, you look out over the water on watch.
+Here you have a commanding view of the waters the fast ship plys on its urgent
+missions. From here the view ahead is marvelous and the power of the catapult
+to sink enemy vessels and to lay siege to port cities makes you smile with
+pride for Kore. A ladder leads back down to the main deck.
+~
+58 0 0
+D5
+~
+~
+0 0 5809
+S
+#5803
+Command Deck~
+   Standing here on the command deck you have a wide view of the surroundings
+and a good hold on the tiller that steers the mighty vessel. Looking from
+here you can see right down onto the decks. The decks below are crowded with
+marines and sailors, so much so that you can see no clear space.
+~
+58 0 0
+D3
+~
+~
+0 0 5821
+D5
+~
+~
+0 0 5813
+S
+#5804
+Galley~
+   The ships galley is a combination kitchen, storage room and aisle. Really
+there's no room to prepare food properly but the stacks of ingredients are
+stowed out in the open mostly. Soup boils in hot caudrons and a proper oven
+provides the men with baked bread. The kitchen makes slop for the slaves
+below and roman meal for the marines.
+~
+58 8 0
+D1
+~
+~
+0 0 5828
+D3
+~
+~
+0 0 5829
+S
+#5805
+Crow's Nest~
+   From high up here you can look out of the water. Your mind of course drifts
+off, but you smile inside and admire the great beauty from up here. Far down
+below you see the deck of the Ar-Pharazon and all around, the water.
+~
+58 4 0
+D5
+~
+~
+0 0 5806
+S
+#5806
+Mast Stand~
+   Here, halfway up the mast is a stand. Looking out along the edges you can
+see how sailors use the stand to raise the sails, and to furl them. Problems
+in raising and lowering the sails and tilting the sail for the wind can
+usually be solved by a smart sailor right here, giving directions to sailors
+holding the ends of the ropes on the deck. The view is not bad either but
+a little precarious.
+~
+58 4 0
+D4
+~
+~
+0 0 5805
+D5
+~
+~
+0 0 5801
+S
+#5807
+Main Deck~
+   You stand on the decks of the great trireme 'Ar-Pharazon'. The wooden
+hull is long and sleek, streamlined for speed on the waters and seas. 
+Looking out over the wales of the ship, you see the waters about the ship.
+A ventilation grating reeks of sweat and worse from below.
+~
+58 0 0
+D1
+~
+~
+0 0 5808
+D3
+~
+~
+0 0 5801
+S
+#5808
+Main Deck~
+   You stand on the decks of the great trireme 'Ar-Pharazon'. The wooden
+hull is long and sleek, streamlined for speed on the waters and seas. 
+Looking out over the wales of the ship, you see the waters about the ship.
+On the deck is a ladder down into the dark hold of the ship.
+~
+58 0 0
+D1
+~
+~
+0 0 5809
+D3
+~
+~
+0 0 5807
+D5
+~
+~
+0 0 5824
+S
+#5809
+Main Deck~
+   You stand on the decks of the great trireme 'Ar-Pharazon'. The wooden
+hull is long and sleek, streamlined for speed on the waters and seas. 
+Looking out over the wales of the ship, you see the waters about the ship.
+A ladder leads up to a platform for the ships catapult.
+~
+58 0 0
+D1
+~
+~
+0 0 5810
+D3
+~
+~
+0 0 5808
+D4
+~
+~
+0 0 5802
+S
+#5810
+Prow~
+   You stand at the prow of the great trireme 'Ar-Pharazon'. The wooden
+hull is long and sleek, streamlined for speed on the waters and seas. 
+Looking out over the bow of the ship, the feeling of power is heady.
+~
+58 0 0
+D3
+~
+~
+0 0 5809
+S
+#5811
+Main Deck~
+   You stand on the decks of the great trireme 'Ar-Pharazon'. The wooden
+hull is long and sleek, streamlined for speed on the waters and seas. 
+Looking out over the wales of the ship, you see the waters about the ship.
+A ventilation grating reeks of sweat and worse from below.
+~
+58 0 0
+D1
+~
+~
+0 0 5801
+D3
+~
+~
+0 0 5812
+S
+#5812
+Main Deck~
+   You stand on the decks of the great trireme 'Ar-Pharazon'. The wooden
+hull is long and sleek, streamlined for speed on the waters and seas. 
+Looking out over the wales of the ship, you see the waters about the ship.
+On the deck is a ladder down into the dark hold of the ship.
+~
+58 0 0
+D1
+~
+~
+0 0 5811
+D3
+~
+~
+0 0 5813
+D5
+~
+~
+0 0 5828
+S
+#5813
+Main Deck~
+   You stand on the decks of the great trireme 'Ar-Pharazon'. The wooden
+hull is long and sleek, streamlined for speed on the waters and seas. 
+Looking out over the wales of the ship, you see the waters about the ship.
+On the deck is a ladder up to the stern decks which overlook the main deck.
+~
+58 0 0
+D1
+~
+~
+0 0 5812
+D3
+~
+~
+0 0 5814
+D4
+~
+~
+0 0 5803
+S
+#5814
+Hallway~
+   You stand in a short cramped hallway. The wood panelling is unusually
+fine, better than you would have expected in a purely military ship. Doors
+lead north and south to quarters and the hallway continues west. A door
+closes off the command area to the ships deck, east.
+~
+58 8 0
+D0
+~
+~
+0 0 5819
+D1
+~
+~
+0 0 5813
+D2
+~
+~
+0 0 5820
+D3
+~
+~
+0 0 5815
+S
+#5815
+Hallway~
+   You stand in a short cramped hallway. The wood panelling is unusually
+fine, better than you would have expected in a purely military ship. Doors
+lead north and south to quarters and the hallway ends west at a door. The
+hallway continues west.
+~
+58 8 0
+D0
+~
+~
+0 0 5817
+D1
+~
+~
+0 0 5814
+D2
+~
+~
+0 0 5818
+D3
+~
+~
+0 0 5816
+S
+#5816
+Chart Room~
+   The chart room is actually used on the ship to coordinate the activities
+of the marines and sailors through the staff meetings that the high ranking
+officers, the captain, and the general share. Some nights the petty officers
+use the room for parties but most nights the room is packed with staff
+planning raids and missions.
+~
+58 8 0
+D1
+~
+~
+0 0 5815
+S
+#5817
+Captain's Cabin~
+   The captain's cabin is wide and fine. Decorated in a crisp style of fine
+polished wood and burnished brass. The quarters reflect the captains efficent
+military personality very strongly. The bed, desk and the nautical funishings
+fit a person of simple and direct but somewhat rustic tastes.
+~
+58 8 0
+D2
+~
+~
+0 0 5815
+S
+#5818
+General's Quarters~
+   The general is clearly a man that spares no expense for comfort.
+~
+58 8 0
+D0
+~
+~
+0 0 5815
+S
+#5819
+Officer's Quarters~
+   The officer's quarters are wide and spacious, with ample room to spread
+out and to relax. Portholes to the north offer ample light and oil lamps
+and good and useful funishings like beds and desks and dressers are here
+to give the officers some comforts.
+~
+58 8 0
+D2
+~
+~
+0 0 5814
+S
+#5820
+Petty Officer's Quarters~
+   The petty officers here are somewhat cramped but the conditions are
+better than those of the crew and marines below. Portholes to the south offer
+ample light and oil lamps and good and useful funishings like beds and
+lockers are here to give the petty officers some amenities.
+~
+58 8 0
+D0
+~
+~
+0 0 5814
+S
+#5821
+Command Deck~
+   Standing here on the command deck you have a wide view of the
+surroundings. Looking from here you can see all around the ship and watch
+the progress of any battle in relative safety.
+~
+58 0 0
+D1
+~
+~
+0 0 5803
+S
+#5822
+Guard Room~
+   This room is strategically positioned on the ship to guard against slave
+revolts on the lower decks. The room is cramped but not so much so that the
+marines can't efficiently perform their duties. In some ways it is spacious.
+A ladder leads down the the brig.
+~
+58 8 0
+D3
+~
+~
+0 0 5823
+D5
+~
+~
+0 0 5831
+S
+#5823
+Arsenal~
+   The arsenal holds weapons in racks for the large squads of marines that
+the ship carries to repel boarders, board enemy ships and to supress slave
+riots below. Here racks on both walls and the center hold ready spears and
+spare armor for marines.
+~
+58 8 0
+D1
+~
+~
+0 0 5822
+D3
+~
+~
+0 0 5824
+S
+#5824
+Marine's Quarters~
+   The marines quarters are not spacious, in fact the lowest ranking marines
+have to sleep above on the open main deck. It toughens the marines but it
+also makes them resentful of the sailors. Here racks on both walls are used
+to bunk marines. A ladder leads up to the main deck.
+~
+58 8 0
+D1
+~
+~
+0 0 5823
+D3
+~
+~
+0 0 5825
+D4
+~
+~
+0 0 5808
+S
+#5825
+Crew's Quarters~
+   The sailor's quarters are not spacious. Stacked like sardines, the sailors
+get only fitful sleep. People turning over elbow the men above them, but
+sailors bunking on the lowest bunks get climbed over. Due to the lack of
+extra space, sailors hot bunk and share with others who are on duty now.
+~
+58 8 0
+D1
+~
+~
+0 0 5824
+D3
+~
+~
+0 0 5826
+S
+#5826
+Carpenter's Workshop~
+   The carpenter of the ship keeps the ship in good repair. The workshop can
+turn out any number of items, usually block and tackle for the sailors above
+decks who need wooden items repaired, remanufactured, or crafted from scratch.
+Here tables abut the mast that runs through the deck floor to ceiling, and on
+these tables are works in progress by the craftsmen.
+~
+58 8 0
+D1
+~
+~
+0 0 5825
+D3
+~
+~
+0 0 5827
+S
+#5827
+Crew's Quarters~
+   The sailor's quarters are not spacious. Stacked like sardines, the sailors
+get only fitful sleep. People turning over elbow the men above them, but
+sailors bunking on the lowest bunks get climbed over. Due to the lack of
+extra space, sailors hot bunk and share with others who are on duty now.
+~
+58 8 0
+D1
+~
+~
+0 0 5826
+D3
+~
+~
+0 0 5828
+S
+#5828
+Mess~
+   The mess is a great hall of tables, always full of men who love a hot meal.
+The mess is a rowdy boisterous hall, where some gamble, others eat, some have
+a smoke. This is a place to pen letters, swap sea stories, and carve
+scrimshaw. A ladder leads up to the main deck.
+~
+58 8 0
+D1
+~
+~
+0 0 5827
+D3
+~
+~
+0 0 5804
+D4
+~
+~
+0 0 5812
+S
+#5829
+Crew's Quarters~
+   The sailor's quarters are not spacious. Stacked like sardines, the sailors
+get only fitful sleep. People turning over elbow the men above them, but
+sailors bunking on the lowest bunks get climbed over. Due to the lack of
+extra space, sailors hot bunk and share with others who are on duty now.
+~
+58 8 0
+D1
+~
+~
+0 0 5804
+D3
+~
+~
+0 0 5830
+S
+#5830
+Storage~
+   The storage room is a simple room, but essential for storing goods that the
+sailors would surely filch, such as the wine, salt, and meat that the kitchen
+uses. A door leads east to the quarters and ship's galley.
+~
+58 8 0
+D1
+~
+~
+0 0 5829
+S
+#5831
+Brig~
+   The brig holds those sailors and marines who have been disorderly. Without
+a lot of extra space on the ship, the brig is very small. The cells are
+practically shipping crates barely big enough for a dog but they hold
+broken men. The stink here in the lower decks is intense and hot.
+~
+58 8 0
+D0
+~
+~
+0 0 5841
+D1
+~
+~
+0 0 5842
+D2
+~
+~
+0 0 5843
+D3
+~
+~
+0 0 5832
+D4
+~
+~
+0 0 5822
+S
+#5832
+Storage~
+   The storage room is a simple room, but essential for storing goods that the
+marines use in their duties, such as the dissembled catapults and ballista
+for sieges and the vital and heavy fresh water barrels stored below for a
+kind of ballast. The stink here in the lower decks is intense and hot.
+~
+58 8 0
+D1
+~
+~
+0 0 5831
+D3
+~
+~
+0 0 5833
+S
+#5833
+Guard Room~
+   This room is strategically positioned on the ship to guard against slave
+revolts on the lower decks. The room is cramped but not so much so that the
+marines can't efficiently perform their duties. In some ways it is spacious.
+The stink here in the lower decks is intense and hot.
+~
+58 12 0
+D1
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 5834
+S
+#5834
+Slave's Benches~
+   Here in the darkness stacked in staggered rows are the benches of slaves
+at the oars of the great galley. Here in the dark, hot and humid bowels of
+the ship the slaves toil at the banks of oars. Running down the aisle is a
+narrow row the taskmasters walk whipping encouragement. The stink here in 
+the lower decks is intense and hot.
+~
+58 8 0
+D1
+~
+~
+0 0 5833
+D3
+~
+~
+0 0 5835
+S
+#5835
+Slave's Benches~
+   Here in the darkness stacked in staggered rows are the benches of slaves
+at the oars of the great galley. Here in the dark, hot and humid bowels of
+the ship the slaves toil at the banks of oars. Running down the aisle is a
+narrow row the taskmasters walk whipping encouragement. The stink here in 
+the lower decks is intense and hot.
+~
+58 8 0
+D1
+~
+~
+0 0 5834
+D3
+~
+~
+0 0 5836
+S
+#5836
+Slave's Benches~
+   Here in the darkness stacked in staggered rows are the benches of slaves
+at the oars of the great galley. Here in the dark, hot and humid bowels of
+the ship the slaves toil at the banks of oars. Running down the aisle is a
+narrow row the taskmasters walk whipping encouragement. The stink here in 
+the lower decks is intense and hot.
+~
+58 8 0
+D1
+~
+~
+0 0 5835
+D3
+~
+~
+0 0 5837
+S
+#5837
+Slave's Benches~
+   Here in the darkness stacked in staggered rows are the benches of slaves
+at the oars of the great galley. Here in the dark, hot and humid bowels of
+the ship the slaves toil at the banks of oars. Running down the aisle is a
+narrow row the taskmasters walk whipping encouragement. The stink here in 
+the lower decks is intense and hot.
+~
+58 8 0
+D1
+~
+~
+0 0 5836
+D3
+~
+~
+0 0 5838
+S
+#5838
+Slave's Benches~
+   Here in the darkness stacked in staggered rows are the benches of slaves
+at the oars of the great galley. Here in the dark, hot and humid bowels of
+the ship the slaves toil at the banks of oars. Running down the aisle is a
+narrow row the taskmasters walk whipping encouragement. The stink here in 
+the lower decks is intense and hot.
+~
+58 8 0
+D1
+~
+~
+0 0 5837
+D3
+~
+~
+0 0 5839
+S
+#5839
+Guard Room~
+   This room is strategically positioned on the ship to guard against slave
+revolts on the lower decks. The room is cramped but not so much so that the
+marines can't efficiently perform their duties. In some ways it is spacious.
+The stink here in the lower decks is intense and hot.
+~
+58 8 0
+D1
+~
+~
+0 0 5838
+D3
+~
+~
+0 0 5840
+S
+#5840
+Storage~
+   The storage room is a simple room, but essential for storing goods that the
+marines use in their duties, such as the dissembled catapults and ballista
+for sieges and the vital and heavy fresh water barrels stored below for a
+kind of ballast. The stink here in the lower decks is intense and hot.
+~
+58 12 0
+D1
+~
+~
+0 0 5839
+S
+#5841
+Cell~
+   You squat inside a tiny box and feel nauseously claustrophobic. The stink
+here in the lower decks is intense and hot.
+~
+58 13 0
+D2
+~
+~
+0 0 5831
+S
+#5842
+Cell~
+   You squat inside a tiny box and feel nauseously claustrophobic. The stink
+here in the lower decks is intense and hot.
+~
+58 13 0
+D3
+~
+~
+0 0 5831
+S
+#5843
+Cell~
+   You squat inside a tiny box and feel nauseously claustrophobic. The stink
+here in the lower decks is intense and hot.
+~
+58 13 0
+D0
+~
+~
+0 0 5831
+S
+#99999
+$~

@@ -1,0 +1,360 @@
+#18000
+eagle brown~
+the brown eagle~
+A brown eagle soars high overhead on the updrafts.
+~
+You see a majestic brown eagle; just seeing it soar makes you wish you
+had its grace on the wing.
+~
+72 4194304 0 S
+7 20 10 1d1+0 1d1+0
+0 0
+8 8 0 11
+#18001
+giant guard~
+the giant guard~
+A giant is here standing guard at the entrance.
+~
+The giant guard looks plump and a little bit tired. His job guarding the
+gate is really boring...Zzzz
+~
+65546 0 -500 S
+20 20 10 1d1+0 1d1+0
+200 0
+4 8 1
+#18002
+giant crossbowman bowman guard~
+the giant crossbowman~
+A giant stands watch over the lintel door, crossbow ready.
+~
+You see a huge swarthy giant. He looks not as dumb as most giants you've
+seen, and keen with his crossbow.
+~
+10 0 -550 S
+20 20 10 1d1+0 1d1+0
+200 0
+8 8 1 12
+#18003
+young giant child~
+the young giant~
+A giant child is here, big as a man already.
+~
+The kid is already pretty big.. as tall as a normal man but chubbier and
+more full of energy..!
+~
+136 0 100 S
+10 20 10 1d1+0 1d1+0
+100 0
+8 8 0
+#18004
+giantess maid~
+the giantess~
+A giantess maid is here, thinking about life.
+~
+She seems like a fairly decent giantess. But she has a certain meanness
+to her, like she has cares past her years.
+~
+202 0 -250 S
+18 20 10 1d1+0 1d1+0
+180 0
+8 8 2
+#18005
+matron giantess nasty~
+the nasty matron giantess~
+The nasty old matron is here, scolding someone.
+~
+The nasty giantess matron sure looks sour, she looks like she could beat
+the stuffing out of you with her big wooden spoon.
+~
+10 0 -400 S
+25 20 10 1d1+0 1d1+0
+250 0
+8 8 2 7
+#18006
+bear cave pet~
+the cave bear~
+A cave bear is here, growling at you!
+~
+This is a huge cave bear, but it looks like its a trained pet too.
+It must be, since its here in the fort.  It doesnt seem too tame though,
+like it looks like it would bite you really bad, maybe maul you!
+~
+74 0 0 S
+26 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#18007
+giant chief nosra~
+Chief Nosra~
+Chief Nosra is here, feasting and drinking.
+~
+Chief Nosra is a large rotund giant, who obviously likes to feast.
+If everything you've heard about him is true though, he is a cunning
+giant. He's no idler, but instead a scheming warlord among giants.
+He dresses as befits his station, in furs, studded leather armor,
+and armed with steel weapons...
+~
+524362 0 -600 S
+33 20 10 1d1+0 1d1+0
+330 0
+8 8 1 11
+#18008
+wife giantess grelda~
+Chieftess Grelda~
+The chief's wife is here, smirking.
+~
+Grelda has goldilocked hair and a smirk that strikes you as cunningly evil.
+She may just be the power behind the chief...
+~
+10 0 -650 S
+28 20 10 1d1+0 1d1+0
+280 0
+8 8 2 7
+#18009
+cloud giant sharussh~
+Sharussh~
+A cloud giant looks on, disinterestedly.
+~
+The cloud giant, in his toga robes looks very out of place amongst these
+rabble rousing hill giants. It looks like he's come to pay a visit to this
+able leader of giants, Chief Nosra.
+~
+74 0 -300 S
+33 20 10 1d1+0 1d1+0
+330 0
+8 8 1 5
+#18010
+stone giant~
+the stone giant~
+A stone giant is here, watching things warily.
+~
+These stone giants look large and bold, but they sure are wary and aloof.
+They watch over things somewhat coldly, and don't really blend in all that
+well.
+~
+74 0 -700 S
+27 20 10 1d1+0 1d1+0
+270 0
+8 8 1
+#18011
+hill giant~
+the hill giant~
+A hill giant is here, feasting and revelling.
+~
+The hill giant sure is ugly. Loud, brash, uncouth, but also a veteran.
+This one probably knocked a man to the ground and cut him in half with
+an axe and laughed.
+~
+10 0 -700 S
+22 20 10 1d1+0 1d1+0
+220 0
+8 8 1 3
+#18012
+ogre~
+the ogre~
+An ogre is here, laughing and eating.
+~
+The ogre, a smaller companion to his hill giant friend, is here eating
+and laughing right along with him. This band, this mob, are all veterans
+together and love to share a good laugh.
+~
+10 0 -700 S
+16 20 10 1d1+0 1d1+0
+160 0
+8 8 1 13
+#18013
+orc slave~
+the orc slave~
+An orc slave is here, carrying food for the feast.
+~
+The orc slave looks vaguely like man, but with twisted and cruel features.
+Still, you almost feel sorry for him. He must have been captured by these
+giants. How the giants ever cowed savage orcs though, that's beyond you.
+~
+10 0 -500 S
+6 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#18014
+giantess serving maid~
+the giantess serving maid~
+A giantess is here, cooking up the food for the feast.
+~
+She stands in here dress and apron, armed with nothing but a kitchen
+knife and a frying pan. She sure is huge though. She has all that and
+a short temper too.
+~
+10 0 -400 S
+19 20 10 1d1+0 1d1+0
+190 0
+8 8 2
+#18015
+giantess~
+the giantess~
+A giantess is here, just relaxing.
+~
+She sure looks happy to be relaxing after a long day..
+~
+10 0 -200 S
+17 20 10 1d1+0 1d1+0
+170 0
+8 8 2
+#18016
+giant warrior~
+the giant warrior~
+A handsome giant warrior is here, strutting.
+~
+He looks handsome enough for a giant. He has a thing for black armor,
+and whips, interesting...
+~
+10 0 -700 S
+27 20 10 1d1+0 1d1+0
+270 0
+8 8 1 2
+#18017
+giant guard sleeper~
+the giant~
+A giant is here, snoring soundly.
+~
+The giant looks happily asleep, ZZZzzz...
+~
+10 0 -600 S
+23 20 10 1d1+0 1d1+0
+230 0
+8 8 1
+#18018
+injured orc~
+the injured orc~
+An injured orc is here, too hurt to work.
+~
+This poor orc looks too hurt to work, it looks like giant kicks break bones.
+~
+10 0 -200 S
+7 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#18019
+ogre scout~
+the ogre scout~
+An ogre is here, laughing gruffly.
+~
+This ogre looks like a ruddy country sort of ogre, up from the Trollshaws
+or thereabouts. He seems to have a keen eye and an uncommon intelligence.
+~
+10 0 -500 S
+15 20 10 1d1+0 1d1+0
+150 0
+8 8 1
+#18020
+ogre messenger~
+the ogre messenger~
+An ogre is here, looking at a piece of paper.
+~
+This ogre obviously can't read, but he sure is curious about the message
+he's supposed to carry.
+~
+10 0 -400 S
+15 20 10 1d1+0 1d1+0
+150 0
+8 8 1
+#18021
+dire wolf dog~
+the dire wolf~
+A dire wolf is here, looking hungry!
+~
+The dire wolf is larger than any wolf you've seen.. with long sharp fangs
+and deep red eyes and a shaggy brown coat. It's a giant sized dog and
+definitely evil!
+~
+8 0 -800 S
+9 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#18022
+hill giant keeper~
+the Keeper~
+You see a ghastly hill giant, twisted, hunchbacked, with one good eye.
+~
+The Keeper is an ugly formorian, a hunchbacked brute, blinded by a knife
+scar across the face.  Ugly and scabby, he pants hideosly over a mouth of
+rotten black teeth.  Dressed to kill in chain shirt and his axe, he pants
+and has a cruel laugh at the thought of butchering you.
+~
+104 17047588 -800 S
+40 5 -5 1d1+0 1d1+0
+1000 0
+8 8 1 3
+#18023
+shaggy ape carnivorous~
+the carnivorous ape~
+A shaggy ape is here, howling and beating its chest!
+~
+You see a red-eyed ape with a foul stench and a fouler temper. He beats his
+chest and charges!
+~
+108 0 -500 S
+25 10 5 1d1+0 1d1+0
+0 0
+8 8 1 13
+#18024
+bugbear guard~
+the bugbear guard~
+A bugbear guard is here guarding the cells.
+~
+You see a snaggle-toothed bugbear guard, looking brutal and cowardly.
+~
+106 0 0 S
+0 20 2 1d1+0 1d1+0
+0 0
+8 8 1 7
+#18025
+insane merchant man prisoner~
+the insane merchant~
+An insane merchant is here, shivering and shrieking.
+~
+This poor human prisoner has gone completely insane from the brutal torture.
+Now he's reduced to a shivering shrieking wreck.
+~
+232 0 0 S
+10 15 7 1d1+0 1d1+0
+0 0
+8 8 1 8
+#18026
+human prisoner man engineer~
+the engineer~
+A human prisoner is here pacing.
+~
+This man looks like he's kept some home. The guards have kept him relatively
+well fed, but the captivity has obviously profoundly affected him. His skills
+have kept him alive until now, but he sure would like a chance to escape!
+~
+136 0 600 S
+15 13 7 1d1+0 1d1+0
+0 0
+8 8 1 13
+#18027
+elf man prisoner~
+the elven man~
+An elf is here, bloodied but unbowed, chained to the wall.
+~
+He seems to have something special in his eyes. Maybe you could free him,
+and he could help you...
+~
+10 0 800 S
+20 10 5 1d1+0 1d1+0
+0 0
+8 8 1
+#18028
+skeleton undead~
+the skeleton~
+A skeleton is here, animated by evil magic!
+~
+You see a skeleton.. normal in every respect save that it has a wicked
+light in its eyes, and a burning desire to kill living creatures!
+~
+40 0 0 S
+20 5 3 1d1+0 1d1+0
+50 0
+8 8 0 3
+#99999
+$~

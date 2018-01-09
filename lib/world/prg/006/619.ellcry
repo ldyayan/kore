@@ -1,0 +1,11 @@
+>command_prog up~
+  if isimmort($n)
+  else
+    if clan($n) == ellcrys haven
+    else
+      mpechoat $n You seem unable to go that direction.
+      mpstopcommand
+    endif
+  endif
+~
+|

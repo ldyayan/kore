@@ -1,0 +1,9 @@
+>command_prog rent~
+  if clan($n) == dynasty
+    else
+      say You don't belong here!
+      mptransfer $n 3001
+      mpstopcommand
+  endif
+~
+|

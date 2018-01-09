@@ -1,0 +1,12 @@
+>command_prog up~
+  if isimmort($n)
+  else
+    if isaffected($n, fly)
+    else
+      mpechoat $n It appears to be a little to far to jump.
+      mpechoaround $n $N flaps $s arms and attemps to fly into the air!
+      mpstopcommand
+    endif
+  endif
+~
+|

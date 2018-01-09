@@ -1,0 +1,164 @@
+#7500
+deer~
+a deer~
+A deer looks at you with fear in its eyes.
+~
+   That's one nice looking deer!
+~
+128 0 0 S
+3 0 0 1d1+1 1d1+1
+0 350
+8 8 0
+#7501
+rabbit~
+a rabbit~
+A small rabbit nibbles at a leaf here.
+~
+   It's a small, furry rodent with big ears.
+~
+128 0 0 S
+1 0 0 1d1+1 1d1+1
+0 25
+8 8 0
+#7502
+squirrel~
+a squirrel~
+A squirrel spots you and runs around a tree!
+~
+   It is a small, brown squirell. Kind of like a fuzzy high-tension spring.
+~
+128 0 0 S
+2 0 0 1d1+1 1d1+1
+0 10
+8 8 0
+#7503
+orc hunter~
+the orc hunter~
+An orc hunter looks at you with hateful eyes.
+~
+   He looks angry, desperate, and maybe a little sick. His green skin is
+definately mottled, and he seems to limp a little bit...
+~
+32 0 -350 S
+7 0 0 1d1+1 1d1+1
+0 2250
+8 8 1
+#7504
+orc chief~
+the orc chief~
+An orc chief growls at you!
+~
+   He wears a crown of oak leaves to show hes a leader. He carriers a club to
+show hes a warrior. You wonder how good he is at both.
+~
+34 0 -600 S
+10 0 0 1d1+1 1d1+1
+17 9000
+8 8 1
+#7505
+orc woman~
+an orc woman~
+An orc woman stands here, frightened of you.
+~
+   As you stare her down, she raises her hands slowly, as if to say, 'Don't
+kill me.'
+~
+128 0 -50 S
+5 0 0 1d1+1 1d1+1
+0 900
+8 8 2
+#7506
+orc child~
+an orc child~
+An orc child frantically searches for her mother.
+~
+   She's raggedy, and seems to be covered with sores.
+~
+128 0 50 S
+3 0 0 1d1+1 1d1+1
+0 350
+8 8 2
+#7507
+orc woman~
+an orc woman~
+A pregnant orc woman tries to stand to flee from you.
+~
+   She's too far gone to move very quickly. You could killl her easily.
+~
+130 0 -50 S
+5 0 0 1d1+1 1d1+1
+0 750
+6 6 2
+#7508
+orc mutant mutated~
+the mutant orc~
+A mutant orc lies here, barely alive.
+~
+   Its body has been twisted beyond all hope. It is dying, and nothing will
+stop that.
+~
+0 0 0 S
+6 0 0 1d1+1 1d1+1
+0 1
+5 5 1
+#7509
+orc mutant mutated~
+the mutant orc~
+A horribly mutated orc stands here, gibbering.
+~
+   It doesn't appear to ahve registered your arrival... it is just talking to
+itself. Its body is a twisted wreck of orc, man, beast, and what-not.
+~
+0 0 0 S
+6 0 0 1d1+1 1d1+1
+0 10
+8 8 1
+#7510
+wizard elf elven Elstar~
+Elstar~
+An elven wizard is here.  He looks angry.
+~
+   He looks at you archly as he wonders why you've invaded his domain. No
+matter... it shouldn't be too hard for him to destory you, no?
+~
+34 8 -1000 S
+15 0 0 1d1+1 1d1+1
+10000 21000
+8 8 1
+#7511
+child elf elven apprentice~
+the elven child~
+An elven child casts his fishing pole into the river.
+~
+   He looks young and innocent. You wonder what he is doing here.
+~
+2 0 600 S
+3 0 0 1d1+1 1d1+1
+0 400
+8 8 1
+#7512
+Mutant thing~
+the mutant thing~
+A mutant...thing rushes at you!
+~
+   It might have been an orc, once. Now its a living terror, pusing everything
+out of its way to get at you.
+~
+32 0 -800 S
+12 0 0 1d1+1 1d1+1
+0 15000
+8 8 0
+#7513
+Mutant thing~
+a mutant thing~
+A mutant...thing tries to get you, but cannot move into range!
+~
+   It might've been an orc once. Now its a living terror, pushing everything
+out of its way to get at you.
+~
+2 0 -800 S
+12 0 0 1d1+1 1d1+1
+0 15000
+8 8 0
+#99999
+$~

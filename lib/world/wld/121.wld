@@ -1,0 +1,449 @@
+#12100
+Outside of the Castle Gates~
+    You are standing outside the rotting gates of the legendary castle of the
+Mad King Kyrellia, who killed and ate his family in an insane quest for power.
+Legends say that it is haunted with the tormented ghosts of his family and his
+retainers. 
+~
+121 0 2
+D0
+~
+~
+0 0 12119
+D1
+~
+~
+0 0 12126
+D3
+~
+gates~
+2 12100 12101
+S
+#12101
+The Foyer of the Mad King's Castle~
+   You stand on the crumbling marble floor of the Castle's once-grand foyer, 
+which now is covered in dust and broken rock.
+~
+121 32 0
+D0
+~
+~
+0 0 12102
+D1
+~
+gates~
+2 12100 12100
+S
+#12102
+The Hallway south of the Throne Room~
+   You stand in a once-grand hallway which leads to the throne room of the 
+Mad King Kyrellia. The crumbled mosaic on the east wall shows a great battle
+where King Kyrellia defeated the raging hordes of orks which once laid siege
+to his great Castle.
+~
+121 40 0
+D0
+~
+~
+0 0 12103
+D1
+A rotten wooden door.
+~
+east door~
+1 0 12104
+D2
+~
+~
+0 0 12101
+D3
+A Crumbling wooden door.
+~
+west door~
+1 0 12105
+E
+door~
+door~
+S
+#12103
+The Great Throne of the Mad King Kyrellia~
+    You stand before the decayed throne of the Mad King Kyrellia. All the 
+valuable jewels have been pried from its remains many centuries previously.
+You give an involuntary shudder as a stale draft, like one of the grave,
+passes you.
+~
+121 8 0
+D2
+~
+~
+0 0 12102
+D5
+A small trapdoor.
+~
+trapdoor~
+1 12103 12115
+S
+#12104
+The East Hall~
+    You are standing in the hallway leading to the Eastern wing of the Castle.
+~
+121 8 0
+D1
+~
+~
+0 0 12106
+D3
+A Crumbling wooden door.
+~
+hallway door~
+1 0 12102
+S
+#12105
+The West Hall~
+    You are standing in the Hallway which leads to the West wing of the Castle.
+~
+121 8 0
+D0
+~
+~
+0 0 12114
+D1
+A Crumbling wooden door.
+~
+hallway door~
+1 0 12102
+D2
+A door with cracked, peeling paint.
+~
+south door~
+1 0 12113
+D3
+~
+~
+0 0 12116
+S
+#12106
+A small courtyard~
+    You are standing in a small courtyard, where the bones of the Castle's
+domestic animals lie strewn about you in disarray.
+~
+121 0 2
+D0
+A small, ivy gate. 
+~
+ivy gate~
+1 0 12107
+D1
+~
+~
+0 0 12110
+D2
+The Wormwood Gate.
+~
+gate~
+1 0 12108
+D3
+~
+~
+0 0 12104
+S
+#12107
+The Footman's Chambers~
+    These chambers are the private quarters of the Mad King's footman, who cared
+for the animals, kept the carriages in repair, and did various other odd jobs
+for the King.
+~
+121 8 0
+D2
+A small, ivy gate.
+~
+ivy gate~
+1 0 12106
+S
+#12108
+The Royal Stables~
+   You are standing in an ancient stables surrounded by rotting hay bales and
+the stink of ancient death. The trap door beneath you has suspicious rusty s
+stains on it.
+~
+121 9 0
+D0
+~
+~
+0 0 12106
+D5
+A rusted trap door.
+~
+trapdoor~
+2 12106 12109
+S
+#12109
+The Torture Room~
+    You are surrounded by implements of torture....Meant for YOU!!!
+~
+121 14 0
+D4
+~
+~
+0 0 12108
+S
+#12110
+Base of Tower~
+    You stand at the base of a shattered tower. Above you is pitch blackness.
+~
+121 264 0
+D3
+~
+~
+0 0 12106
+D4
+~
+~
+0 0 12111
+S
+#12111
+Inside the Shattered Tower~
+   You stand in a room halfway up the Shattered Tower. It only gets darker
+as you go up.
+~
+121 264 0
+D4
+~
+~
+0 0 12112
+D5
+~
+~
+0 0 12110
+S
+#12112
+The Top of the Shattered Tower~
+   You stand in a room cluttered with ancient books. Small chittering noises
+can be heard from about the room, and you could swear you see red eyes peer at
+you from bookshelves.
+~
+121 9 0
+D5
+~
+~
+0 0 12111
+S
+#12113
+Prince Pavlo's Chambers~
+   You stand in a room cluttered with ancient toys. A large bed sits in the
+corner, one of its legs eaten away by termites. A strange sense of mad glee
+permeates the room.
+~
+121 136 0
+D0
+The inside of a door with cracked paint.
+~
+~
+1 0 12105
+S
+#12114
+Princess Claire's Playroom~
+    You are standing in the blood-spattered playroom of the Castle's young
+Princess Claire. Broken toys and shredded dolls lie about you in disarray.
+~
+121 136 0
+D2
+~
+~
+0 0 12105
+S
+#12115
+A Small Room~
+    You stand in a small room underneath the throne. A sense
+of jovial evil comes over you.
+~
+121 9 0
+D4
+~
+trapdoor~
+0 0 12103
+S
+#12116
+The Base of the Broken Tower~
+   You stand at the base of the Broken Tower. There are blood stains on the
+ground here and an odor reminiscent of sulpher in the air.
+~
+121 264 0
+D1
+~
+~
+0 0 12105
+D4
+~
+~
+0 0 12117
+S
+#12117
+Inside the Broken Tower~
+    You stand halfway up the Broken Tower. Dusty cobwebs cover the walls here,
+getting thicker as you rise.
+~
+121 264 0
+D4
+~
+~
+0 0 12118
+D5
+~
+~
+0 0 12116
+S
+#12118
+The Queen's Chambers~
+     You are standing in a musty room. Cobwebs cover the floor and walls, and
+what appear to be rags dangle in tatters from the large bed in the corner. On
+second inspection, you notice that some of these hangings have scars, while
+others bear faded tattoos.
+~
+121 264 0
+D5
+~
+~
+0 0 12117
+S
+#12119
+The Barren Fields North of the Castle~
+   You are standing in what were once fertile wheat fields. Now all there is
+is blackened earth with small tufts of sickly weeds here and there. South of
+here you see a dark, ruined castle with the Mountains of Damnation rising
+above it.
+~
+121 0 2
+D0
+~
+~
+0 0 12120
+D2
+~
+~
+0 0 12100
+S
+#12120
+The Barren Fields~
+    You are standing in what were once fertile wheat fields. Now all there is
+is blackened earth with small tufts of sickly weeds here and there. You see a
+black cloud above a tall spire to your northeast.
+~
+121 0 2
+D0
+~
+~
+0 0 12121
+D2
+~
+~
+0 0 12119
+S
+#12121
+The Barren Fields~
+    You are standing in what were once fertile wheat fields. Now all there is
+is blackened earth with small tufts of sickly weeds here and there. A charred
+house lies to your west.
+~
+121 0 2
+D0
+~
+~
+0 0 12122
+D2
+~
+~
+0 0 12120
+D3
+~
+~
+0 0 12123
+S
+#12122
+The Barren Fields~
+    You are standing in what were once fertile wheat fields. Now all there is
+is blackened earth with small tufts of sickly weeds here and there. A sign by
+the side of the track reads "Lands of Our Kind Lord Kyrellia. Trespassers shall
+be punished."
+~
+121 0 2
+D0
+~
+~
+0 0 12121
+D2
+~
+~
+0 0 12121
+S
+#12123
+A ruined farmhouse~
+    You stand in the burned ruins of what was once a farmer's home. The walls 
+are, at best, just above your head. Small, twisted animals scuttle about the
+twisted floorboards. You can descend to a storm shelter down rickety stairs
+which, surprisingly, still seem functional.
+~
+121 0 0
+D1
+~
+~
+0 0 12121
+D5
+~
+~
+0 0 12124
+S
+#12124
+A Ruined Storm Shelter~
+    You stand in a ruined storm shelter. The nibbled remains of dried foods
+lie scattered on the ground, dried to rock-hardness. Shafts of light from 
+above allow you to see fairly well.
+~
+121 8 0
+D4
+~
+~
+0 0 12123
+S
+#12125
+Barren Fields~
+     You are standing in what were once fertile wheat fields. Now all there is
+is blackened earth with small tufts of sickly weeds here and there. You see a
+black cloud above a tall spire to your southwest.
+~
+121 0 2
+D0
+~
+~
+0 0 3899
+D3
+~
+~
+0 0 12126
+S
+#12126
+Barren Fields~
+     You are standing in what were once fertile wheat fields. Now all there is
+is blackened earth with small tufts of sickly weeds here and there. West of
+here you see a dark, ruined castle with the Mountains of Damnation rising.
+~
+121 0 2
+D1
+~
+~
+0 0 12125
+D3
+~
+~
+0 0 12100
+S
+#12199
+Tellas's Previously Used Equipment~
+The shelves of this room are covered with old, dusty equipment from
+adventurers from all over the lands. Some of it is obviously junk, while
+another corner holds the promise of high-quality supplies at a bargain
+price. Truly, this is a place where the buyer must beware.
+~
+121 24 0
+S
+#99999
+$~

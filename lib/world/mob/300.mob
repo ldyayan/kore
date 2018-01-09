@@ -1,0 +1,246 @@
+#30000
+mountain goat~
+a mountain goat~
+A spritely mountain goat hops around here.
+~
+  The goat looks clean and white.  It hops amongst the large
+rocks on the steep hill sides, occasionally stopping to chew grass.
+On its head stand two short knobbles of horn which appear to have
+only recently started growing.
+~
+2314 0 450 S
+15 10 10 5d10+100 2d3+4
+0 12333
+8 8 2 4
+#30001
+verla guardian man~
+the Verla Guardian~
+A large guardian is here blocking your passage to the north.
+~
+   The large guardian stands here.  His skin is rough and scaly.  He
+breathes heavily and appears to be guarding the way north.  In his right
+hand the guardian wields a thick, powerful looking whip.  His attire
+consists mostly of thick leather armor and a dusty pair of thick boots.
+~
+129290 4261000 500 S
+50 -30 -5 10d10+15000 10d10+50
+1024 500000
+8 8 1 6
+#30002
+fluffy white bunny~
+a fluffy white bunny~
+A fluffy white bunny frolics here in the grass.
+~
+   You see a small white bunny rabbit nibbling on the fresh grass 
+shoots.  It ocassionally hops to a fresh patch being careful 
+not to get too close to you.  The bunny has a white tufty tail and
+long pink ears.
+~
+10 4227072 0 S
+8 11 10 5d5+75 2d2+4
+0 4000
+8 8 1 8
+#30003
+veteran miner elderly man~
+a veteran miner~
+An elderly miner rocks back and forth in his chair.
+~
+   This man looks fairly old, he must be retired by now.  His hair 
+is grey but he has an experienced look about him, maybe hes not so weak.
+He is comfortably sat in a large wooden rocking chair, rocking slowly
+back and forth.
+~
+12554 66728 500 S
+29 -10 10 10d10+3000 2d3+10
+1027 123333
+8 8 1 11
+#30004
+man tall dark director 30004~
+the mine director~
+The director of Verla Mines is here struting proudly around the room.
+~
+   The man is tall and dark, he struts around the room wearing his
+best suit.  In his right hand he carries a large walking stick which
+he leans on as he paces across the room.  He does not look too
+pleased with your intrusion into his house.
+~
+253962 4260996 650 S
+39 -30 10 10d10+9000 5d5+30
+1051 400000
+8 8 1 10
+#30005
+artisk mighty warlock~
+Artisk, the mighty warlock~
+Artisk, the mighty warlock stands here practising his powers.
+~
+   Artisk the warlock is a powerful looking man.  His clothing is
+worn and tattered by the years spent in this dingy cell. He looks
+powerful as he stands here testing various spells and brewing
+potions on a work bench in his cell.
+~
+781930 8487096 -500 S
+60 -30 -5 10d10+28000 5d5+40
+2204 600000
+8 8 1 2
+#30006
+jailor man prison~
+the prison jailor~
+The prison jailor is here pacing around the room.
+~
+   The prison jailor is a big man, he towers over you as you
+enter the room keeping an eye on your business.  He is pacing
+quickly around the room carrying a key on his belt.  From his back
+pocket a large pair of steel handcuffs dangles.
+~
+778250 5309568 500 S
+35 -30 0 10d10+19000 5d5+20
+1204 250000
+8 8 1 10
+#30007
+destel dragonslayer slayer~
+Destel, the dragonslayer~
+Destel the dragonslayer stands here alert.
+~
+   Destel is a powerful man, he stands nearly seven feet high. His
+clothing is smart and armors shiney.  He seems to be wearing various
+skins of animals and scales of dragons as his armors.  In his left
+hand he wields a sharp looking serrated dragon claw.
+~
+781834 5342382 -500 S
+59 -30 -15 10d10+28000 6d6+50
+3034 500000
+8 8 1 8
+#30008
+verlan man guard 30008~
+a guard of the mines~
+A guard of the mines peers at you suspiciously.
+~
+   This is a tall, broad shouldered guard.  He wanders around the mines
+keeping an eye out for trouble and protecting the valuable mines from intrusion.
+He is wearing tough leather armors with a thick metal breastplate.  He glares at
+you suspiciously when you look at him.
+~
+30792 33960 600 S
+25 -10 -2 5d5+550 3d3+20
+102 19333
+8 8 1 12
+#30009
+verlan miner man~
+a miner~
+A miner strolls past you heading for home.
+~
+   This short, although strong looking man appears to be a miner from
+Verla.  He strolls past you looking tired and run down after a hard shift
+in the mines.  In his left hand he carries a small bag, his right supports
+a large metal mining pick which is slung on his right shoulder.
+~
+206956 0 600 S
+21 -15 0 10d10+1200 5d3+28
+230 123333
+8 8 1 15
+#30010
+Sapho captain mines man~
+Sapho, Captain of the mines~
+Sapho, Captain of the mines paces around whiping the lazy miners.
+~
+   Sapho the Captain of the Mines towers over you.  He is stood here
+ordering and directing the Verlan miners.  He wears a collection of fine
+animal furs and leathers.  In his right hand he wields a thick leather
+whip.
+~
+784458 99496 -700 S
+60 -30 -10 10d10+30000 6d6+50
+4529 600000
+8 8 1 2
+#30011
+hooded suspicious man~
+a suspicious hooded man~
+A suspicious hooded man wanders past you.
+~
+   He is a tall dark skinned man who doesn't appear to be local to this
+area.  He is dressed in dark clothing and wears a pair of dark pointed
+leather boots.  He wanders around strangly and seems to be avoiding the
+guards.  His head is hidden by a dark woven hood.
+~
+780366 105218088 0 S
+0 20 -5 10d10+3000 5d5+20
+121 123333
+8 8 1 13
+#30012
+lavamob~
+lavamob~
+The !there lava prog mob
+~
+The !there lava prog mob needs no description ;-)
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30013
+cockroach roach~
+a cockroach~
+A cockroach crawls around looking for food.
+~
+   This cockroach is black and well armoured, it has a long body
+which crawls around in the dust on the floor of the tunnel looking
+scraps of food left by miners.
+~
+72 33920 -250 S
+7 15 0 5d5+65 2d2+1
+0 0
+8 8 0 4
+#30014
+a sapphire miner~
+a sapphire miner~
+A miner works hard to chip the walls away.
+~
+   This miner is big and strong.  He carries a huge mining pick
+in his hands which he is using to demolish the hard stone walls of
+the mines.  He is working hard to avoid the wrath of the mines
+captain, Sapho.
+~
+718862 13730984 500 S
+26 -30 0 30d10+3000 2d2+17
+458 163333
+8 8 1 12
+#30015
+small rat~
+a small rat~
+A small rat scutters around looking scraps from the miners lunches.
+~
+   The small rat scutters around looking scraps from the miners lunches.
+It is brown with a dark black tail and its eyes shimmer in the light
+from the oil lamps on the walls.
+~
+2056 4457512 -450 S
+12 -5 0 5d5+200 2d2+5
+32 16666
+8 8 0 4
+#30016
+gemstone cutter stone man short~
+the gemstone cutter~
+A short man is stood here chipping away at a chunk of sapphire.
+~
+   The short man is here chipping at some sapphire gemstones.
+He has a rough grey beard and long grey hair.  His face has become
+somewhat wrinkled with age and he peers at you over a black pair
+of spectacles as you wander around his workshop.
+~
+565322 33960 500 S
+25 -10 3 10d15+6000 3d3+20
+0 0
+8 8 1
+#30099
+spacer mob~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

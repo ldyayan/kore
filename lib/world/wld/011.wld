@@ -1,0 +1,2106 @@
+#1100
+Tunnel~
+You are in an unfinished room.
+~
+11 257 0
+D0
+~
+~
+0 0 1101
+D4
+~
+~
+0 0 1996
+S
+#1101
+Tunnel~
+You are in an unfinished room.
+~
+11 257 0
+D2
+~
+~
+0 0 1100
+D3
+~
+~
+0 0 1102
+S
+#1102
+Tunnel~
+You are in an unfinished room.
+~
+11 257 0
+D1
+~
+~
+0 0 1101
+D8
+~
+~
+0 0 1103
+S
+#1103
+Tunnel~
+You are in an unfinished room.
+~
+11 257 0
+D4
+~
+~
+0 0 1987
+D6
+~
+~
+0 0 1102
+S
+#1104
+Hallway~
+As you walk down the hallway you see pictures that line the
+walls. There are also a few wall sconces. To the north is the
+summoning room. To the south is the torture chamber. East the
+hallway continues.
+~
+11 128 0
+D0
+~
+~
+0 0 1105
+D1
+~
+~
+0 0 1106
+D2
+~
+~
+0 0 1108
+D3
+~
+~
+0 0 1987
+S
+#1105
+Summoning Room~
+You are in the summoning room. This room is pretty much empty.
+As all it is used for is summoning. To the south is the hallway.
+~
+11 128 0
+D2
+~
+~
+0 0 1104
+S
+#1106
+Hallway~
+You are walking in the hallway. You see a few pictures hanging
+along the walls. There is a dragon chandelier hanging from above.
+To the northeast is the gate room. To the east there are cells of
+some sort. The hallway continues to the west.
+~
+11 128 0
+D1
+~
+~
+0 0 1107
+D3
+~
+~
+0 0 1104
+D6
+~
+~
+0 0 1109
+S
+#1107
+Cells~
+You are in a room with a few dank cells. The air is damp and
+cold, with the stink of corruption. This place looks like some
+thing out of a nightmare. To the east is the back entrance. To
+the west is a hallway.
+~
+11 128 0
+D1
+~
+~
+0 0 1110
+D3
+~
+~
+0 0 1106
+S
+#1108
+Torture Chamber~
+You have entered the torture chamber. Along the wall are dragon
+wall sconces. There is a dragon coat of arms on one wall. This is
+like a nightmare in here. With all kinds of torture devices. Also
+it is very damp and musty in here. You hear the movements of rats
+within the walls. To the north is a hallway.
+~
+11 128 0
+D0
+~
+~
+0 0 1104
+S
+#1109
+Gate Room~
+You are in an unfinished room.
+~
+11 132 0
+S
+#1110
+Back Entrance~
+You are in the back entrance of Lord Orgauth's Complex. No one
+is allowed to enter here without the express permission from Lord
+Orgauth himself. Out the back door to the east is a dirt path. To
+your west is a room with a few dank cells.
+~
+11 128 0
+D1
+~
+door~
+1 0 1170
+D3
+~
+~
+0 0 1107
+S
+#1111
+Barracks~
+You are in the barracks. Some of the guards sleep here when they
+are tired and have to pull a double. There are a few bunks lined up
+alone two sides of the walls. You see a few guards sleeping.
+~
+11 0 0
+D1
+~
+~
+0 0 1982
+S
+#1112
+Row~
+You are in an unfinished room.
+~
+11 0 0
+D0
+~
+~
+0 0 1113
+D2
+~
+~
+0 0 1114
+D3
+~
+~
+0 0 1115
+D4
+~
+~
+0 0 1982
+S
+#1113
+Cell~
+You are in an unfinished room.
+~
+11 0 0
+D2
+~
+~
+0 0 1112
+S
+#1114
+Cell~
+You are in an unfinished room.
+~
+11 0 0
+D0
+~
+~
+0 0 1112
+S
+#1115
+Row~
+You are in an unfinished room.
+~
+11 0 0
+D0
+~
+~
+0 0 1116
+D1
+~
+~
+0 0 1112
+D2
+~
+~
+0 0 1117
+S
+#1116
+Cell~
+You are in an unfinished room.
+~
+11 0 0
+D2
+~
+~
+0 0 1115
+S
+#1117
+Cell~
+You are in an unfinished room.
+~
+11 0 0
+D0
+~
+~
+0 0 1115
+S
+#1118
+Huge Doors~
+You are at the entrance to the graveyard. There are a pair of huge
+doors made of black iron carved with death's heads, hourglasses, winged
+creatures, and setting suns. Atop the gate is a glyph which supposedly
+seals the cemetery, preventing undead from entering or leaving. To the
+east you see a sign on the door of what used to be the caretakers house.
+There is no caretaker of the cemetery now only a priest would feel the
+need to attempt to make the place a bit more presentable-and to lay to
+rest any roaming undead creatures encountered. You really should look
+at the door to your east before you enter.
+~
+11 0 2
+D0
+~
+gate~
+1 0 1122
+D2
+~
+~
+0 0 1168
+E
+door~
+Our Day Begins When Yours Ends.
+~
+S
+#1119
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1126
+D1
+~
+~
+0 0 1120
+S
+#1120
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1127
+D1
+~
+~
+0 0 1121
+D3
+~
+~
+0 0 1119
+S
+#1121
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all, studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1128
+D1
+~
+~
+0 0 1122
+D3
+~
+~
+0 0 1120
+S
+#1122
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all, studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1129
+D1
+~
+~
+0 0 1123
+D2
+~
+door~
+1 0 1118
+D3
+~
+~
+0 0 1121
+S
+#1123
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1130
+D1
+~
+~
+0 0 1124
+D3
+~
+~
+0 0 1122
+S
+#1124
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirk next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1131
+D1
+~
+~
+0 0 1125
+D3
+~
+~
+0 0 1123
+S
+#1125
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1132
+D3
+~
+~
+0 0 1124
+S
+#1126
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1133
+D1
+~
+~
+0 0 1127
+D2
+~
+~
+0 0 1119
+S
+#1127
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1134
+D1
+~
+~
+0 0 1128
+D2
+~
+~
+0 0 1120
+D3
+~
+~
+0 0 1126
+S
+#1128
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1135
+D1
+~
+~
+0 0 1129
+D2
+~
+~
+0 0 1121
+D3
+~
+~
+0 0 1127
+S
+#1129
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1136
+D1
+~
+~
+0 0 1130
+D2
+~
+~
+0 0 1122
+D3
+~
+~
+0 0 1128
+S
+#1130
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1137
+D1
+~
+~
+0 0 1131
+D2
+~
+~
+0 0 1123
+D3
+~
+~
+0 0 1129
+S
+#1131
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1138
+D1
+~
+~
+0 0 1132
+D2
+~
+~
+0 0 1124
+D3
+~
+~
+0 0 1130
+S
+#1132
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1139
+D2
+~
+~
+0 0 1125
+D3
+~
+~
+0 0 1131
+S
+#1133
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1140
+D1
+~
+~
+0 0 1134
+D2
+~
+~
+0 0 1126
+S
+#1134
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1141
+D1
+~
+~
+0 0 1135
+D2
+~
+~
+0 0 1127
+D3
+~
+~
+0 0 1133
+S
+#1135
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1142
+D1
+~
+~
+0 0 1136
+D2
+~
+~
+0 0 1128
+D3
+~
+~
+0 0 1134
+S
+#1136
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground likd hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1143
+D1
+~
+~
+0 0 1137
+D2
+~
+~
+0 0 1129
+D3
+~
+~
+0 0 1135
+S
+#1137
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1144
+D1
+~
+~
+0 0 1138
+D2
+~
+~
+0 0 1130
+D3
+~
+~
+0 0 1136
+S
+#1138
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1145
+D1
+~
+~
+0 0 1139
+D2
+~
+~
+0 0 1131
+D3
+~
+~
+0 0 1137
+S
+#1139
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the groung like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1146
+D2
+~
+~
+0 0 1132
+D3
+~
+~
+0 0 1138
+S
+#1140
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1147
+D1
+~
+~
+0 0 1141
+D2
+~
+~
+0 0 1133
+S
+#1141
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1148
+D1
+~
+~
+0 0 1142
+D2
+~
+~
+0 0 1134
+D3
+~
+~
+0 0 1140
+S
+#1142
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1149
+D1
+~
+~
+0 0 1143
+D2
+~
+~
+0 0 1135
+D3
+~
+~
+0 0 1141
+S
+#1143
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1150
+D1
+~
+~
+0 0 1144
+D2
+~
+~
+0 0 1136
+D3
+~
+~
+0 0 1142
+S
+#1144
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1151
+D1
+~
+~
+0 0 1145
+D2
+~
+~
+0 0 1137
+D3
+~
+~
+0 0 1143
+S
+#1145
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1152
+D1
+~
+~
+0 0 1146
+D2
+~
+~
+0 0 1138
+D3
+~
+~
+0 0 1144
+S
+#1146
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1153
+D2
+~
+~
+0 0 1139
+D3
+~
+~
+0 0 1145
+S
+#1147
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1154
+D1
+~
+~
+0 0 1148
+D2
+~
+~
+0 0 1140
+S
+#1148
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1155
+D1
+~
+~
+0 0 1149
+D2
+~
+~
+0 0 1141
+D3
+~
+~
+0 0 1147
+S
+#1149
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1156
+D1
+~
+~
+0 0 1150
+D2
+~
+~
+0 0 1142
+D3
+~
+~
+0 0 1148
+S
+#1150
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1157
+D1
+~
+~
+0 0 1151
+D2
+~
+~
+0 0 1143
+D3
+~
+~
+0 0 1149
+S
+#1151
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1158
+D1
+~
+~
+0 0 1152
+D2
+~
+~
+0 0 1144
+D3
+~
+~
+0 0 1150
+S
+#1152
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1159
+D1
+~
+~
+0 0 1153
+D2
+~
+~
+0 0 1145
+D3
+~
+~
+0 0 1151
+S
+#1153
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1160
+D2
+~
+~
+0 0 1146
+D3
+~
+~
+0 0 1152
+S
+#1154
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1161
+D1
+~
+~
+0 0 1155
+D2
+~
+~
+0 0 1147
+S
+#1155
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1162
+D1
+~
+~
+0 0 1156
+D2
+~
+~
+0 0 1148
+D3
+~
+~
+0 0 1154
+S
+#1156
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1163
+D1
+~
+~
+0 0 1157
+D2
+~
+~
+0 0 1149
+D3
+~
+~
+0 0 1155
+S
+#1157
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1164
+D1
+~
+~
+0 0 1158
+D2
+~
+~
+0 0 1150
+D3
+~
+~
+0 0 1156
+S
+#1158
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1165
+D1
+~
+~
+0 0 1159
+D2
+~
+~
+0 0 1151
+D3
+~
+~
+0 0 1157
+S
+#1159
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1166
+D1
+~
+~
+0 0 1160
+D2
+~
+~
+0 0 1152
+D3
+~
+~
+0 0 1158
+S
+#1160
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D0
+~
+~
+0 0 1167
+D2
+~
+~
+0 0 1153
+D3
+~
+~
+0 0 1159
+S
+#1161
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D1
+~
+~
+0 0 1162
+D2
+~
+~
+0 0 1154
+S
+#1162
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D1
+~
+~
+0 0 1163
+D2
+~
+~
+0 0 1155
+D3
+~
+~
+0 0 1161
+S
+#1163
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D1
+~
+~
+0 0 1164
+D2
+~
+~
+0 0 1156
+D3
+~
+~
+0 0 1162
+S
+#1164
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D1
+~
+~
+0 0 1165
+D2
+~
+~
+0 0 1157
+D3
+~
+~
+0 0 1163
+S
+#1165
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D1
+~
+~
+0 0 1166
+D2
+~
+~
+0 0 1158
+D3
+~
+~
+0 0 1164
+S
+#1166
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D1
+~
+~
+0 0 1167
+D2
+~
+~
+0 0 1159
+D3
+~
+~
+0 0 1165
+S
+#1167
+South Cemetery~
+You are in the South Cemetery. You see a few splintered coffins,
+their broken halves spilling out into the air. As you look down you
+see a arm bone sticking out of the dirt next to your feet. All over
+you see them all studding the ground like hands reaching up through
+a river of rust.
+~
+11 1 2
+D2
+~
+~
+0 0 1160
+D3
+~
+~
+0 0 1166
+S
+#1168
+Dirt Path~
+You are on a dirt path. There are bushes on both sides of the
+path. To the north you see the entrance to the cementry. It is
+very quiet out here. All but some noises coming from the north.
+~
+11 1 2
+D0
+~
+~
+0 0 1118
+D2
+~
+~
+0 0 1169
+S
+#1169
+Dirt Path~
+You are on a dirt path. There are bushes all around you. The
+path continues to the north and west.
+~
+11 1 2
+D0
+~
+~
+0 0 1168
+D3
+~
+~
+0 0 1170
+S
+#1170
+Dirt Path~
+You are standing on a dirt path outside of some complex to
+your west. The dirt path continues to your east.
+~
+11 1 2
+D1
+~
+~
+0 0 1169
+D3
+~
+door~
+1 0 1110
+S
+#1171
+Entrance~
+You have entered the tomb of some unknown warrior. There is a
+coffin in the middle of the tomb. The carvings are worn down due
+to the time and elements. It is very cold and damp in here. It's
+believed that the ghost of the unknown warrior lurks here.
+~
+11 1 0
+D2
+~
+~
+0 0 1143
+S
+#1172
+SMALL HOUSE~
+As you enter the small house you realize that now it is to late.
+Next time you should really read posted signs. Hmm next time. Not.
+Wave. The world fades to black.
+~
+11 2 0
+S
+#1173
+River Trail Gate~
+Durning the Razing this gate was sealed up. Due to not enough
+forces to defend the gate that could be open by an invader. It's
+spiked shut from the inside with great iron spikes. Huge beams
+are laid across the gate to bar it. A large mound of debris is
+pushed up against it. There are two glyphs called "Doas" are on
+the gates.
+~
+11 0 1
+D6
+~
+~
+0 0 1919
+S
+#1174
+The Tesh Trail~
+You are on the Tesh Trail. Though it is located outside the city
+walls, it is still technically part of Zhentil Keep. Along with the
+few small buildings along the trail. North is a dirt path. East you
+see a hole. As you look through it, you can see inside the city.
+~
+11 0 2
+D0
+~
+~
+0 0 1175
+D3
+~
+~
+0 0 4300
+S
+#1175
+dirt path~
+You are on a dirt path. The path is not traveled on lots. As you
+can see from all the weeds growing down the middle of the path. It
+continues to the north.
+~
+11 0 2
+D0
+~
+~
+0 0 1176
+D2
+~
+~
+0 0 1174
+S
+#1176
+dirt path~
+You are on a dirt path. There is weeds growing down the middle
+of the path. Not many come this way. The path continues south. To
+the north is the dump.
+~
+11 0 2
+D0
+~
+fence~
+1 0 1177
+D2
+~
+~
+0 0 1175
+S
+#1177
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is
+a collection ground for toxic chemicals, failed experiments, animal
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1178
+D2
+~
+fence~
+1 0 1176
+D3
+~
+~
+0 0 1184
+S
+#1178
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1179
+D1
+~
+~
+0 0 1199
+D2
+~
+~
+0 0 1177
+D3
+~
+~
+0 0 1183
+S
+#1179
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1180
+D1
+~
+~
+0 0 1198
+D2
+~
+~
+0 0 1178
+D3
+~
+~
+0 0 1182
+S
+#1180
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D1
+~
+~
+0 0 1197
+D2
+~
+~
+0 0 1179
+D3
+~
+~
+0 0 1181
+S
+#1181
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D1
+~
+~
+0 0 1180
+D2
+~
+~
+0 0 1182
+D3
+~
+~
+0 0 1188
+S
+#1182
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1181
+D1
+~
+~
+0 0 1179
+D2
+~
+~
+0 0 1183
+D3
+~
+~
+0 0 1187
+S
+#1183
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1182
+D1
+~
+~
+0 0 1178
+D2
+~
+~
+0 0 1184
+D3
+~
+~
+0 0 1186
+S
+#1184
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1183
+D1
+~
+~
+0 0 1177
+D3
+~
+~
+0 0 1185
+S
+#1185
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1186
+D1
+~
+~
+0 0 1184
+D3
+~
+~
+0 0 1192
+S
+#1186
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1187
+D1
+~
+~
+0 0 1183
+D2
+~
+~
+0 0 1185
+D3
+~
+~
+0 0 1191
+S
+#1187
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1188
+D1
+~
+~
+0 0 1182
+D2
+~
+~
+0 0 1186
+D3
+~
+~
+0 0 1190
+S
+#1188
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D1
+~
+~
+0 0 1181
+D2
+~
+~
+0 0 1187
+D3
+~
+~
+0 0 1189
+S
+#1189
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D1
+~
+~
+0 0 1188
+D2
+~
+~
+0 0 1190
+D3
+~
+~
+0 0 1196
+S
+#1190
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1189
+D1
+~
+~
+0 0 1187
+D2
+~
+~
+0 0 1191
+D3
+~
+~
+0 0 1195
+S
+#1191
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1190
+D1
+~
+~
+0 0 1186
+D2
+~
+~
+0 0 1192
+D3
+~
+~
+0 0 1194
+S
+#1192
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1191
+D1
+~
+~
+0 0 1185
+D3
+~
+~
+0 0 1193
+S
+#1193
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1194
+D1
+~
+~
+0 0 1192
+S
+#1194
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1195
+D1
+~
+~
+0 0 1191
+D2
+~
+~
+0 0 1193
+S
+#1195
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1196
+D1
+~
+~
+0 0 1190
+D2
+~
+~
+0 0 1194
+S
+#1196
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D1
+~
+~
+0 0 1189
+D2
+~
+~
+0 0 1195
+S
+#1197
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D2
+~
+~
+0 0 1198
+D3
+~
+~
+0 0 1180
+S
+#1198
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secerted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1197
+D2
+~
+~
+0 0 1199
+D3
+~
+~
+0 0 1179
+S
+#1199
+Dump~
+The dump is a vast tract of land with numerous mounds of garbage
+resting on moist soil. Besides being a normal garbage dump, it is a
+collection ground for toxic chemicals, failed experiments, animals
+and monster carcasses, and the secreted corpses of the murdered. A
+horrendous stench emanates from the area, even in winter time.
+~
+11 0 2
+D0
+~
+~
+0 0 1198
+D3
+~
+~
+0 0 1178
+S
+#99999
+$~

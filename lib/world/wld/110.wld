@@ -1,0 +1,2043 @@
+#11000
+Before the Gates~
+   The city of Trokair, or what is left of it, appears as a shadow in the
+dark mists that rise from the marshes.  The swollen banks of the River
+Quiavel have engulfed the lower town, and even the upper landward quarters
+bear foul evidence of the constant floods.  Fungi and mosses cover fallen
+walls and the square below the shadows of the crumbling turrets of the gate
+is sa steaming, knee-deep slough, stretching as far as the your eyes can
+penetrate the chill pearlescent fog.  In this filthy shrouded world, the 
+only sounds seem to be the distant drip of water and the cries of unseen
+dead, quarreling over horrid prey.
+~
+110 5 4
+D0
+~
+~
+0 0 11026
+D2
+~
+~
+0 0 11045
+S
+#11001
+The Edge of a Smelly Bog~
+   The stench of the air is stifiling, suffocating with its humid
+weight.  The lack of life in the area hints to the evilness that
+lingers in the area.  To the north, the remains of a paved road
+reveals itself through a break in the vegetation.
+~
+110 1 3
+D0
+~
+~
+0 0 11045
+D1
+~
+~
+0 0 11004
+D3
+~
+~
+0 0 11003
+S
+#11002
+Summoning Chamber~
+   A pentagram surrounded by a circle has been painted in white paint
+on the floor in the middle of this room.  An amber colored candle burns
+at each point of the pentagram, filling the room with a mild, smokey
+haze.  There is movement in the darkness in the center of the pentagram 
+and you see something you wish you hadnt.
+~
+110 9 0
+D0
+~
+~
+0 0 11047
+D5
+~
+~
+0 -1 11078
+S
+#11003
+By the Murky Waters~
+   The fog shrouded waters at the edge of the swamp are murky and deep,
+bringing certain death to one that cannot swim.  A light, the source
+is uncertain, creeps from above the tree line, illuminating the bog in
+an eerie glow that shows the dangers of the bog more clearly.
+~
+110 1 3
+D1
+~
+~
+0 0 11001
+D2
+~
+~
+0 0 11008
+D3
+~
+~
+0 0 11012
+S
+#11004
+In the Bog~
+   Seeing no other alternative, you step reluctantly into the foul smelling
+bog.  You quickly sink to your knees in clinging mud, and the murky water
+chills you through your cloth.  Small insects buzz around you like hungry
+beggars at a feast, and your flailing arms quickly become too tired to dispute
+their claim.  You simply want to escape from this unbearable place.
+~
+110 5 0
+D1
+~
+~
+0 0 11005
+D3
+~
+~
+0 0 11001
+S
+#11005
+In the Bog~
+   Seeing no other alternative, you step reluctantly into the foul smelling
+bog.  You quickly sink to your knees in clinging mud, and the murky water
+chills you through your cloth.  Small insects buzz around you like hungry
+beggars at a feast, and your flailing arms quickly become too tired to dispute
+their claim.  You simply want to escape from this unbearable place.
+~
+110 1 0
+D0
+~
+~
+0 0 11006
+D3
+~
+~
+0 0 11004
+S
+#11006
+In the Bog~
+   Seeing no other alternative, you step reluctantly into the foul smelling
+bog.  You quickly sink to your knees in clinging mud, and the murky water
+chills you through your cloth.  Small insects buzz around you like hungry
+beggars at a feast, and your flailing arms quickly become too tired to dispute
+their claim.  You simply want to escape from this unbearable place.
+~
+110 1 0
+D2
+~
+~
+0 0 11005
+D3
+~
+~
+0 0 15099
+S
+#11007
+In the Bog~
+   Seeing no other alternative, you step reluctantly into the foul smelling
+bog.  You quickly sink to your knees in clinging mud, and the murky water
+chills you through your cloth.  Small insects buzz around you like hungry
+beggars at a feast, and your flailing arms quickly become too tired to dispute
+their claim.  You simply want to escape from this unbearable place.
+~
+110 0 0
+D0
+~
+~
+0 0 11006
+S
+#11008
+A Hidden Path~
+   Parting the rushes that line the shore, there is barely a hint
+of a twisting path.  In the dim half-light, it is little more than
+a line connecting two blocks of darkness.  Traveling along the
+path seems to be the only alternative.
+~
+110 1 0
+D0
+~
+~
+0 0 11003
+D1
+~
+~
+0 0 11009
+S
+#11009
+Before a Hut~
+   You stand before a run-down hut that looks totally uninhabitable.
+But the eerie screams and wails coming from the hut tell you otherwise.
+~
+110 1 0
+D2
+~
+wooden door~
+1 -1 11010
+D3
+~
+~
+0 0 11008
+S
+#11010
+Eerie Wail~
+  Upon entering the ramshakle hut, all your senses are immediately assaulted.
+The hut is extremely filthy, the floor is covered by large mounds of trash and
+refuse, and reeks of death and decay.
+~
+110 64 1
+D0
+~
+wooden door~
+1 -1 11009
+D5
+~
+trapdoor~
+2 11003 11011
+S
+#11011
+Knowledge Vault~
+   Stacked to the ceiling are row upon row of tomes and books containing
+the history of this now ruined land.  The musty smell and the abundance
+of cobwebs hint that this room has been all but forgotten.  Interesting
+information and long lost knowledge undoubtedly resides in this vast
+library stored on the many bookcases that fill this room.
+~
+110 57 0
+D0
+A moving bookcase
+~
+bookcase~
+1 0 11013
+D4
+A trapdoor leading up.
+~
+trapdoor~
+2 11003 11010
+E
+bookcase bookcases case~
+This bookcase is overflowing with books!  Unknown
+masterpieces by long forgotten authors are stacked here
+and sorted by subject and era.  There is a row of books
+that seem pecular in their positioning and further
+examination reveals a hidden panel containing a lock.
+
+~
+S
+#11012
+The QUAGMIRE!~
+   As you walk deeper into the bog, you begin to lose all sense of direction.
+When you stop to ponder your location, you suddenly sink down to your knees!
+You struggle vainly to escape it's gooey grip, but the more you struggle, the
+further you sink down
+            down
+                down
+
+SUDDENLY! A gust of wind picks up and a tree branch breaks free and falls
+from a nearby tree...... Just within your reach!!
+
+You reach for it..... almost got it....
+GOT IT!!!!!   YOUR SAFE!!!!!
+
+That is the last thought that crosses your mind as your and the tree branch
+become one with the swamp.
+                  
+                  THE END
+~
+110 182 2
+D1
+~
+~
+0 0 11003
+S
+#11013
+A Small Study~
+   This room is small, yet cozy.  A small desk resides along the
+far wall covered in books.  The room hasn't been disturbed in quite
+some time, which is evident by the amount of dust piled high on the
+books awaiting patiently for the return of the hand that last 
+handled them.  The sweet smell of incense is still barely
+evident, though it is quickly being overrun by the unmistakeable
+stench of mildew.  Not a sound can be heard from the outside
+world, making this small room a perfect place to study.
+~
+110 61 0
+D2
+A large bookcase rests against the wall.
+~
+bookcase~
+1 -1 11011
+E
+desk~
+   The desk is cluttered with a variety of books and
+notes.  A quick scan of the pile of papers reveals
+a plethora of formula written in some arcane script.
+~
+S
+#11014
+A Rotting Pier~
+   You carefully walk across this half rotten pier, steeping warily across
+the slick moss-covered wood and hopping gingerly over the corroded planks.
+The fog here is extremely thick, rising from the swamp like a soul reaching
+for salvation, cutting your visibility down to two or three feet, hiding the
+foul creatures that you can only hear in this white darkness.
+~
+110 84 1
+D0
+~
+~
+0 0 11015
+D1
+~
+~
+0 0 11015
+D2
+~
+~
+0 0 11015
+D3
+~
+~
+0 0 11040
+S
+#11015
+In Thick Fog~
+   You float along, helplessly lost in the fog, craning your neck in every
+direction, searching for any clues that might tell you of your whereabouts.  You
+strain your eyes, trying to pierce the endless fog bank to no avail.  You begin
+to wonder if you will ever step on land again.
+~
+110 4 6
+D0
+~
+~
+0 0 11025
+D1
+~
+~
+0 0 11016
+D2
+~
+~
+0 0 11017
+D3
+~
+~
+0 0 11016
+S
+#11016
+In Thick Fog~
+   You float along, helplessly lost in the fog, craning your neck in every
+direction, searching for any clues that might tell you of your whereabouts.  You
+strain your eyes, trying to pierce the endless fog bank to no avail.  You begin
+to wonder if you will ever step on land again.
+~
+110 4 6
+D0
+~
+~
+0 0 11016
+D1
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11016
+D3
+~
+~
+0 0 11016
+S
+#11017
+In Thick Fog~
+   You float along, helplessly lost in the fog, craning your neck in every
+direction, searching for any clues that might tell you of your whereabouts.  You
+strain your eyes, trying to pierce the endless fog bank to no avail.  You begin
+to wonder if you will ever step on land again.
+~
+110 4 6
+D0
+~
+~
+0 0 11018
+D1
+~
+~
+0 0 11019
+D2
+~
+~
+0 0 11017
+D3
+~
+~
+0 0 11016
+S
+#11018
+In Thick Fog~
+   You float along, helplessly lost in the fog, craning your neck in every
+direction, searching for any clues that might tell you of your whereabouts.  You
+strain your eyes, trying to pierce the endless fog bank to no avail.  You begin
+to wonder if you will ever step on land again.
+~
+110 4 6
+D0
+~
+~
+0 0 11017
+D1
+~
+~
+0 0 11016
+D2
+~
+~
+0 0 11015
+D3
+~
+~
+0 0 11018
+S
+#11019
+In Thick Fog~
+   You float along, helplessly lost in the fog, craning your neck in every
+direction, searching for any clues that might tell you of your whereabouts.  You
+strain your eyes, trying to pierce the endless fog bank to no avail.  You begin
+to wonder if you will ever step on land again.
+~
+110 4 6
+D0
+~
+~
+0 0 11020
+D1
+~
+~
+0 0 11016
+D2
+~
+~
+0 0 11016
+D3
+~
+~
+0 0 11017
+S
+#11020
+In Thick Fog~
+   You float along, helplessly lost in the fog, craning your neck in every
+direction, searching for any clues that might tell you of your whereabouts.  You
+strain your eyes, trying to pierce the endless fog bank to no avail.  You begin
+to wonder if you will ever step on land again.
+~
+110 4 6
+D0
+~
+~
+0 0 11021
+D1
+~
+~
+0 0 11020
+D2
+~
+~
+0 0 11019
+D3
+~
+~
+0 0 11020
+S
+#11021
+Entering the Fog~
+   Your trip down the river has been pretty uneventful... up until now!
+Straight ahead lies a fog bank so immense that it obstructs the view of
+everything beyond.  Now the question remains. Should you enter the vast unknown?
+~
+110 4 6
+D0
+~
+~
+0 0 11022
+D2
+~
+~
+0 0 11020
+S
+#11022
+Branch of the River~
+   After an endless moment, you find yourself drifting toward a branch of
+the winding river.  A curtain of fog masks your way, while the dark river
+rambles along in another direction.  You stir reluctantly, knowing that
+you must decide before the river ever so slowly carries you off into oblivion.
+~
+110 16 6
+D0
+~
+~
+0 0 11023
+D2
+~
+~
+0 0 11021
+S
+#11023
+The River~
+   You drift slowly on the river, carried along by the sluggish current of
+the dark water.  Rotting driftwoods entangle themselves on the low hanging
+branches of gnarled trees.  Unknown creatures stare at you with glittering
+eyes before they flee for the cover of the thick brambles.  The atmosphere
+is eerily peaceful, luring you into a sense of endless lethargy.
+~
+110 128 6
+D2
+~
+~
+0 0 11022
+S
+#11024
+A Hallway~
+   The hallway is damp and chill. An old and terrible quiet rules the
+halls, as though stunned by the past -- by something unspeakable that
+happened here.
+~
+110 9 0
+D0
+~
+~
+0 0 11079
+D1
+~
+~
+0 0 11036
+D3
+~
+~
+0 0 11047
+S
+#11025
+In Thick Fog~
+   You float along, helplessly lost in the fog, craning your neck in every
+direction, searching for any clues that might tell you of your whereabouts.  You
+strain your eyes trying to pierce the endless fog bank to no avail.  You begin
+to wonder if you will ever step on land again.
+~
+110 4 6
+D0
+~
+~
+0 0 11014
+D1
+~
+~
+0 0 11016
+D2
+~
+~
+0 0 11017
+D3
+~
+~
+0 0 11016
+S
+#11026
+The Ruins of the Gates to Trokair~
+   The fog that blankets the land in misty darkness parts suddenly, and with
+a start you behold the fabled gate of Trokair.  Sorcery shaped these granite
+blocks into a seamless wall stretching to the sky.  Its sheer immensity
+dares the gods to challenge its power.  But time, implacably patient, is 
+slowly winning the battle.  Mottled vines, like living tendrils of the swamp,
+covers the entire wall in many layers.  As you watch, a section of the wall,
+weakened by the vines' probing and the weight of their riotous mass, comes 
+crashing.  The persistent dampness from the swamp has eaten away the sturdy
+oaken gates long ago, and a maw of darkness awaits you.
+~
+110 0 1
+D0
+~
+~
+0 0 11028
+D1
+~
+~
+0 0 11027
+D2
+~
+~
+0 0 11000
+S
+#11027
+Trokair Guard Barracks~
+   This small sleeping area is all that remains of the Trokair guard barracks.
+The thick vegetation growing in here outlines curious human shapes around the
+skeletons of cots and tables.  Strewn about the room are rusty suits of armor
+and weapons.  It appears that all signs of life have long since departed this
+place, but you cannot shake the conviction that something--else--is watchin...
+~
+110 1 0
+D3
+~
+~
+0 0 11026
+S
+#11028
+Main Thoroughfare~
+   You travel along a wide cobble-stoned road, artery of an once thriving
+city.  But now, centuries after the fall of Trokair, rubble litters the
+surface, weeds decorate the numerous potholes and cracks, and the remains
+of various empty buildings stare back like empty eye sockets.  Only the
+chittering of mysterious creatures, hidden within the enveloping fog,
+interrupts the oppressive spell of silence.
+~
+110 0 1
+D0
+~
+~
+0 0 11030
+D2
+~
+~
+0 0 11026
+D3
+~
+~
+0 0 11029
+S
+#11029
+The Drowning Fish Tavern~
+   You discover a tavern that still stands even after centuries of neglect.  A
+bar is set against the southern wall, but its contents were looted long ago.
+Empty torch holders line the walls.  Half-rotten chairs and tables are knocked
+over, as if their owners had left in a hurry.  And judging from the fine layer
+of dust covering everything, they did not come back.  A whiff of the musty
+air, full of the scent of corruption and decay, almost makes you retch.  You 
+decide to leave before it does any more damage.
+~
+110 0 0
+D1
+~
+~
+0 0 11028
+S
+#11030
+Central Square~
+   You stand in the middle of a great open air plaza at the center of Trokair.
+A bone-chilling wind swirls around the whole area, battering you unexpectedly
+with its fury.  Paradoxically, the fog thickens, blinding you in a solid wall
+of whiteness.  Four shadowy pools of darkness mark the exits from the plaza,
+and an indistinct shadow of some tall structure dominates the skyline.
+~
+110 0 1
+D0
+~
+~
+0 0 11037
+D1
+~
+~
+0 0 11031
+D2
+~
+~
+0 0 11028
+D3
+~
+~
+0 0 11032
+S
+#11031
+Street of Nobility~
+   You find yourself walking in what had once been a safe and quiet
+residential district within the city.  Now, partially shielded by the thick
+fog, shapes of abandoned mansions loom like hunchbacked behemoths along the
+street.  Rubble and vegetation block the access to these buildings, and so
+their dark secrets will remain shrouded for another day.
+~
+110 0 1
+D3
+~
+~
+0 0 11030
+S
+#11032
+Street of Nobility~
+   You walk west along the Street of Nobility, gazing at the remains of
+opulant mansions, once the residences of nobility and the rich.  You 
+suddenly notice an opening through the vegetation and rubble, cut with a
+supernatural precision, that leads into pitch darkness to the north.
+~
+110 1 1
+D0
+~
+~
+0 0 11033
+D1
+~
+~
+0 0 11030
+S
+#11033
+Lost in the Hallway~
+   You are lost!  The impenetrable fog and the criss-crossing hallways of
+the sprawling mansion have muddled your sense of direction completely, and you
+now wander the dusty rooms, searching for an escape.
+~
+110 5 0
+D0
+~
+~
+0 0 11034
+D1
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11033
+D3
+~
+~
+0 0 11033
+S
+#11034
+Lost in the Hallway~
+   You are lost!  The impenetrable fog and the criss-crossing hallways of
+the sprawling mansion have muddled you sense of direction completely, and you
+now wander the dusty rooms, searching for an escape.
+~
+110 1 0
+D0
+~
+~
+0 0 11033
+D1
+~
+~
+0 0 11034
+D2
+~
+~
+0 0 11032
+D3
+~
+~
+0 0 11035
+S
+#11035
+Before the Shadow Wall~
+   Emerging from the maze of hallways, you come upon a sight awesome to
+behold, the Inner Keep of Trokair.  Not even the white miasma can hide the
+magical wall of shadows, a band of unholy darkness surrounding the keep.
+Even the sound of the swamp creatures has ceased, almost as if they are also
+fearful of this display of power.  You hesitate as well, but determined to
+conquer these ruins permeated with evil, you continue on.
+~
+110 1 0
+D0
+~
+~
+0 0 11044
+D1
+~
+~
+0 0 11034
+S
+#11036
+Before the Throne Room~
+   You stand in a great foyer before the throne room of the keep.  The great
+golden doors elude to the wealth and treasure to be found within.  Along the
+walls are black marble benches with plush velvet cushions spread along the
+length of each bench, to make the wait more comfortable for the courtiers
+that come to the keep.  Apparently, no one has come to visit her in quite
+awhile, for the cushions and pillows have tufts of stuffing sticking out of
+the seams and the benches are covered in dust.  The gold leaf trim on the
+supports and columns in this room are peeling with age.  The teak walls show
+bad weathering for lack of oil. Neglect is the only prevalent theme you can 
+see.
+~
+110 8 0
+D2
+~
+fading door~
+2 11007 11080
+D3
+~
+~
+0 0 11024
+S
+#11037
+Main Thoroughfare~
+   The mists hold thicker here, stirring faintly about your feet like pallid
+ground fog.  You seem to blend in with the gloom, melting indistinguishably
+into the thicker shadows of the broken archways.  You glance across the
+moss-splotchened court, seeing its smeared and dirty pavements all but hidden
+beneath the soapy scum of mud, ash, and leaves.
+~
+110 65 1
+D0
+~
+~
+0 0 11038
+D2
+~
+~
+0 0 11030
+S
+#11038
+Intersection~
+   The mists shift back and forth fluidly, revealing the remains of
+countless buildings on both sides of the street.  What businesses these
+structures housed you can not tell, since the flooding has marred and 
+destroyed these once beautiful shops beyond recognition.  The buildings
+that line this street have toppled against one another, forming a rough
+arch of marble slabs over the cobblestone street.
+~
+110 64 1
+D1
+~
+~
+0 0 11040
+D2
+~
+~
+0 0 11037
+D3
+~
+~
+0 0 11039
+S
+#11039
+Merchant's Row~
+   You finally breach the clinging fog to find weed-hung colonades and
+shopping arcades whose denser shadow lends cover from seeking eyes.  Tangled
+mats of vines run riot over the charred commingling of stones and human bones
+scattered about, down flooded alleys whose walls are thick with pullulant
+green-black moss.  Twice, as the milky vapors around you lighten, you glimpse
+little bands of undead, slipping through the vine-tangled side streets, half
+obscured by fog.
+~
+110 68 1
+D0
+~
+~
+0 0 11041
+D1
+~
+~
+0 0 11038
+S
+#11040
+Merchant's Row~
+   Your voice dissipates like a thread of mist in the stillness of 
+Merchant's Row.  Vapor and shadow cloak the world outside, and the light
+here is gray and sickly.  The runners of many vines criss-cross their
+way across your path, slowing you down considerably.
+~
+110 1 4
+D1
+~
+~
+0 0 11014
+D2
+Double doors of tarnished gold close off the entrance to the building.
+Runes of a long dead language are scrawled into the door.  Maybe you
+should have paid better attention in class.
+~
+double golden door~
+1 -1 11046
+D3
+~
+~
+0 0 11038
+S
+#11041
+In a Dark Alley~
+  You cross another court and turn down a dark alley between the crumbled
+remains of some unknown businesses. The alley is choked with the vines that
+seem to have overtaken whole districts of the city so that you move with
+maddingly slowness through the persistently tangling mat.
+~
+110 65 4
+D1
+~
+~
+0 0 11042
+D2
+~
+~
+0 0 11039
+S
+#11042
+Ruined Courtyard~
+   Here the ruin is greater, as if this courtyard had been transformed into
+a kind of borderland of darkness.  The vines here grow thicker, festooning the
+burned rafters in impenetrable curtains, insolently forcing apart the stones
+of the walls.  Darkness seems to lurk in every corner; the walls and ground
+have a slimy glitter, and the fetid stink of netherworld vegetation clogs your
+nostrils and collects like a film on your tongue.  You find yourself prey to
+a growing uneasiness, a feeling of being snared; the vines and the paving
+stones they have tilted seem to snag at your feet deliberately.  You wonder
+how quickly a man could run from this place.  Half hidden by the mats of
+vegetation a doorway gapes, black and terrible, over a bone-littered
+threshold.
+~
+110 160 1
+D0
+~
+vines~
+1 -1 11043
+D3
+~
+~
+0 0 11041
+S
+#11043
+The Ritual Feast~
+   Inured as you are to manifestations of evil during your adventures, you
+can't help but stare at the tableau within with horrified fascination.
+Defying the darkness that permeates the gloomy room, a mat of unnatural vine
+covers the entire area.  Dangling on its trembling tendrils are human bones.
+A large group of restless undead gathers in a circle, jerking their lifeless
+bodies in a parody of a savage, primal dance.  Despite the swaying corpses,
+you can still sense an emanation of pure blackness within the unholy circle.
+~
+110 73 0
+D2
+~
+vines~
+1 -1 11042
+S
+#11044
+Before the Dark Wall~
+   You stand before a wall of shimmering grey stretching into the gloomy
+clouds.  Although it seems no more substancial than shadow, when you try
+to lay a hand upon its substance, you are thrown back like a rag doll by
+an invisible giants' hand.  
+~
+110 0 0
+D2
+~
+~
+0 0 11035
+S
+#11045
+The Road to Trokair~
+   All around, the bog is a deathly silent save for the trickle of the
+wind through the charred trunks of what had once been woods on either
+side of the road.  Half-hidden in the weeds near the scorched paving
+stones of the road are the blackened bones of fugitives of the the 
+rivers first flood, mixed with the shattered cooking vessels and the
+silver coins that had been dropped in flight.  The coins lay in the
+mud still, for no one has ventured this close to the ruined town to
+retrieve them.
+~
+110 1 3
+D0
+~
+~
+0 0 11000
+D2
+~
+~
+0 0 11001
+E
+bones bone remains~
+   The remains of the dead are scattered about the area,
+The rags remaining from their clothing ravaged by time is
+the only indication of their age.
+~
+E
+coins coin silver~
+   The coins buried in the mud bear the sigil of the Trokair
+mint.  The surface, though worn smooth by the passage of time,
+bears the royal seal clearly.  An unearthly glow seems to
+radiate from each coin examined, give the impression that they
+are best to be left alone
+~
+S
+#11046
+Temple of Mishakal~
+  The golden doors open into the Temple of Mishakal.  Blue oval
+archways rise to a tremendous dome high above the delicate tile floor.
+It seems that time has stilled in this room, for no evidence of the
+flood and the fall of the city can be found.  A feeling of warmth and
+love abides here, which seems to be centrally radiating from
+a polished statue in the middle of the room.
+~
+110 1048701 0
+D0
+You see a pair of huge goldne double doors.... too bad you cant take them.
+~
+double golden door~
+1 -1 11040
+S
+#11047
+A Hallway~
+   The hallway is damp and chill. An old and terrible quiet rules the
+halls, as though stunned by the past -- by something unspeakable that
+happened here.
+~
+110 9 0
+D1
+~
+~
+0 0 11024
+D2
+~
+~
+0 0 11002
+D3
+~
+~
+0 0 11096
+S
+#11048
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 53 0
+D1
+~
+~
+0 0 11049
+D2
+~
+~
+0 0 11044
+D3
+~
+~
+0 0 11067
+S
+#11049
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 17 0
+D1
+~
+~
+0 0 11050
+D3
+~
+~
+0 0 11048
+S
+#11050
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11051
+D3
+~
+~
+0 0 11049
+S
+#11051
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D1
+~
+~
+0 0 11052
+D2
+~
+~
+0 0 11050
+S
+#11052
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11053
+D3
+~
+~
+0 0 11051
+S
+#11053
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11054
+D1
+~
+~
+0 0 11048
+D2
+~
+~
+0 0 11052
+S
+#11054
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11055
+D2
+~
+~
+0 0 11053
+D3
+~
+~
+0 0 11049
+S
+#11055
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11051
+D2
+~
+~
+0 0 11054
+D3
+~
+~
+0 0 11056
+S
+#11056
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D1
+~
+~
+0 0 11055
+D3
+~
+~
+0 0 11057
+S
+#11057
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D1
+~
+~
+0 0 11056
+D2
+~
+~
+0 0 11052
+D3
+~
+~
+0 0 11058
+S
+#11058
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11059
+D1
+~
+~
+0 0 11057
+S
+#11059
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11060
+D2
+~
+~
+0 0 11058
+S
+#11060
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D1
+~
+~
+0 0 11061
+D2
+~
+~
+0 0 11059
+D3
+~
+~
+0 0 11057
+S
+#11061
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11066
+D1
+~
+~
+0 0 11062
+D3
+~
+~
+0 0 11060
+S
+#11062
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D2
+~
+~
+0 0 11063
+D3
+~
+~
+0 0 11061
+S
+#11063
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11062
+D2
+~
+~
+0 0 11064
+S
+#11064
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some magical force has made exiting through the sides
+impossible.  Your only choice is to continue walking through the murky depths
+of the unknown.
+~
+110 49 0
+D0
+~
+~
+0 0 11063
+D2
+~
+~
+0 0 11058
+D3
+~
+~
+0 0 11065
+S
+#11065
+Wandering in the Wall~
+   You wander aimlessly in a sheet of solid grey.  You attempt to pierce
+the veil of shadow, but some mmagical force has made exiting through the sides
+impossible.  Upon further inspection, you notice a crack in the wall of shadow.
+You wonder if you can get out through the crack and escape this oppressive
+silence.
+~
+110 53 0
+D0
+~
+~
+0 0 11062
+D1
+~
+~
+0 0 11063
+S
+#11066
+Gaping jaws of DEATH~
+   Like the trusting lamb, you have offered yourself into the jaws of
+wolves.  With deliberate solemnity that could not hide the glowering eyes
+or the slavering mauls, they accept your sacrifice.
+   May your final dream be sweet.
+~
+110 2 0
+D2
+~
+~
+0 0 11061
+S
+#11067
+ETERNAL Darkness~
+   Taking a narrow branchoff on a whim, you stroll down a seemingly endless
+path.  Lulled by the monotony of your surrounding, you trudge aimlessly along.
+After an eternity, you lift your weary eyes by chance and noticed something
+unexpected.  Around you, the twin curtains of grey have faded imperceptibly
+until they became featureless darkness.  For that matter, the ceiling, the
+path--everthing has grown dull and faded away.  A small thing tugs
+frantically at your consciousness, but you flick it away like an annoying fly,
+and it falls silent without protest.  Somehow, without your notice, you have
+curled up into a tight ball, floating along in a dimensionless, endless
+space.  Uttering a silent sigh of contentment, you fall asleep, blending
+into the eternal darkness.
+~
+110 2 0
+D1
+~
+~
+0 0 11048
+D3
+~
+~
+0 0 11050
+S
+#11068
+Entering the Inner Keep~
+   You breach the wall of shadow with an audible sigh of relief.  You quicky
+scan your surroundings and search the shadows for unseen observers.  A court
+lays bare and empty before you, a mud smeared expanse of broken green and
+scarlet inlays, half sheeted with water and already infected by the long,
+searching runners of the vines.
+~
+110 262145 1
+D1
+~
+~
+0 0 11069
+S
+#11069
+Darkening of the Fog~
+   You blink, frowning into the mists.  After a moment, you realize that what
+you had taken for a darkening in the fog is the opaque bulk of some vast
+building, a suggestion of broken roof lines, sagging towers, and decay.  Winds
+stir at the billowing veils, smelling of water, corruption, and wet earth.  The
+fog becomes infused with the weak light of the reluctant sun; watery colors
+become slowly visable through the shimmering gauze.  Edges seem to step forth
+from obscurity.  Piece by piece, pillar and pavement and stone, the Keep of
+Trokair manifests itself to you, like the many colored corpse of a dead dragon,
+its bare ribs arching high into the milky air.
+~
+110 262177 1
+D2
+~
+~
+0 0 11070
+D3
+~
+~
+0 0 11068
+S
+#11070
+The Ruins~
+   The silence that hangs over the ruins is frightning.  Fog covers it like a 
+pewter darkness, masking the broken walls and fallen columns in opal veils of
+mystery.  But it is not a dead silence.  It is a silence that lives and
+observes.
+~
+110 262177 0
+D0
+~
+~
+0 0 11069
+D2
+~
+~
+0 0 11071
+S
+#11071
+Before the Door~
+   You are standing before the main entrance of the Keep.  The archway over
+the large oaken doors has collapsed with the passage of time, completely
+making the entrance impassable.  Any attempt to move the large stone blocks 
+would be futile and just result in many hours lost.
+~
+110 262177 0
+D0
+~
+~
+0 0 11070
+D1
+~
+~
+0 0 11072
+S
+#11072
+Trail Around the Keep~
+   You follow the sound around the east side of the keep.  Stepping warily
+over loose rocks and fallen stones, you quietly move closer and closer.  As
+you approach the noise, the shape of a stable clearly becomes visible through
+the fog to the south.
+~
+110 32821 0
+D2
+~
+~
+0 0 11073
+D3
+~
+~
+0 0 11071
+S
+#11073
+Inside the Stable~
+   You quietly open the door of the stable, the pungent smell of hay
+and alfalfa wafts by your nose.  At first glance, the stable appears
+to be your run-of-the-mill farm stable with your normal black horses,
+but there is something different about them.
+~
+110 294924 0
+D0
+~
+~
+0 0 11072
+D5
+You move the hay that covers this door and examine the lock carefully.
+The edges of the lock have been burned by intense heat. The fire key looks like
+it should fit.
+~
+trapdoor~
+2 -1 11074
+S
+#11074
+Spiral Staircase~
+   As you descend the spiral staircase of amber flowstone, an
+overpowering stench rolls from the north, the stink of a slaughterhouse
+and a sewer that make you gag.  You carefully creep forward, stepping
+warily on the moss-covered steps for fear of falling and attracting
+attention.
+~
+110 32813 0
+D0
+~
+~
+0 0 11075
+D4
+~
+trapdoor~
+2 -1 11073
+S
+#11075
+Dungeon~
+   You quietly step off the slime-covered stairs and look about.  You
+are horrified at the spectacle around you.  Various contraptions of
+insidious torture and necromatic experiment are in this large room.
+Everywhere you look you see an innocent person being put to some test;
+some disgusting experiment designed to try to find a way of making the
+evil queens life eternal.  All of the prisoners are more dead then alive
+and hang quietly, but most seem to be aware of what is happening to them
+and live in an unending nightmare they can not escape.
+~
+110 8 0
+D0
+~
+~
+0 0 11078
+D1
+~
+~
+0 0 11077
+D2
+~
+~
+0 0 11074
+D3
+~
+~
+0 0 11076
+S
+#11076
+Dungeon~
+   You see a young human girl chained to a table.  There is a low fire
+burning under her, charring her skin on one side of her body.  The other
+side of her body is extrememly raw from previous burns, and is
+covered in what smells like sulfur and mineral oil.  Not to heal, you 
+realize, but to intensify the pain.  Even with the fire burning her 
+terribly and the sulfur coated burns, she is still nodding off.
+~
+110 41 0
+D0
+~
+~
+0 0 11078
+D1
+~
+~
+0 0 11075
+D3
+~
+~
+0 0 11077
+S
+#11077
+Dungeon~
+   A man hangs in chains from the wall.  His face is ashen, his body limp.
+He would have died long ago if not for the sorceress' magic.  The skin of
+his chest has been peeled back, ribs sawn through.  He hangs alive and 
+suffereing so that the Queen might study the beating of his heart.  Fastened
+with copper rivets to his ribs above the gaping hole is a small beaker filled
+with nasty smelling chemicals.  Tubes from the beaker just touch his heart,
+and the direct contact of the heart with the chemicals is causing irregular
+beats as his body tries to fight the poisons.  As you shuffle closer, the
+man wimpers, anticipating still more pain.
+~
+110 41 0
+D0
+~
+~
+0 0 11078
+D1
+~
+~
+0 0 11076
+D3
+~
+~
+0 0 11075
+S
+#11078
+Dungeon~
+   This room is equipped somewhat like a laboratory, though most of
+the equipment looks unfamiliar. There are a number of knives, scissors and
+other surgical tools laid out on a large metal table in the middle of the
+room.  There are also a number of large metal vats and cauldrons, sone of 
+which contain irridescent, frothy liquids.  Magical symbols are engraved
+on each vat and cauldron,  There are also many shelves holding flasks
+and vials of various liquids, solids, or powders.  There is a large 
+oak desk next to the east wall, and it looks like someone is there.
+~
+110 12 0
+D2
+~
+~
+0 0 11075
+S
+#11079
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddles with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D0
+~
+~
+0 0 11088
+D1
+~
+~
+0 0 11090
+D2
+~
+~
+0 0 11024
+D3
+~
+~
+0 0 11089
+D6
+~
+~
+0 0 11091
+D9
+~
+~
+0 0 11092
+S
+#11080
+The Throne Room~
+   Dozens of shades of purple meet and mix in this room, from bright violet
+to shadowy midnight blue. The entire room seems to be filled with a weird
+lambent glow. Exotic and rare tapestries adorn the walls, and a great map
+of Kore is the most dominate one. In the center of the room is a throne
+of bones, and sitting on it is the cause of all this lands desolation.
+~
+110 8 0
+D0
+~
+fading door~
+2 11007 11036
+D1
+~
+~
+0 0 11082
+D3
+~
+~
+0 0 11081
+S
+#11081
+Dining Room~
+   Magnificent windows gaze out over the bleak landscape below. This chamber
+is a great dining room, with a long table of smaky gray crystal in the center
+of the room and elegant cabinets containing china along the walls. Nearly
+fifty chairs of polished wood are drawn up to the table. Another wall holds
+an impressive rack of wine bottles. The floor is rosy, translucent marble and
+the walls are a rich, golden topaz.
+~
+110 8 0
+D1
+~
+~
+0 0 11080
+D2
+~
+~
+0 0 11083
+S
+#11082
+Private Chambers~
+   Someone with a bad sense of style has decided to decorate this room with
+black velvet and taffeta.  The velvet drapes along the walls, while a hideous
+taffeta canopy broods over a small bed. Four pedestals, at the corners of the
+room, hold four skulls, each with a black candle stuck on top of it. A desk
+strewn with papers stands against the northern wall. For the moment, it appears
+that no one is present.
+~
+110 8 0
+D2
+~
+~
+0 0 11085
+D3
+~
+~
+0 0 11080
+S
+#11083
+Cooking Quarters~
+   You enter the kitchen that prepares the food for the might queen. As soon
+as you enter the room you are taken aback by the wonderous aroma of cooking
+food. The delicasies spread out on the counter make your mouth water in
+anticipation. A large hearth dominates the far wall, making this room a 
+little too warm to be comfortable.
+~
+110 8 0
+D0
+~
+~
+0 0 11081
+D1
+~
+~
+0 0 11084
+S
+#11084
+Briefing Room~
+   This small chamber is incredibly austere like all the other rooms
+you have entered so far. This chamber is furnished with only a trestle
+table surrounded by six chairs. To the south is a crudely cut hallway,
+leading into darkness.
+~
+110 8 0
+D1
+~
+~
+0 0 11085
+D2
+~
+secret panel~
+1 -1 11086
+D3
+~
+~
+0 0 11083
+S
+#11085
+Private Lab~
+   Long tables of various pieces of weird glassware and alchemical devices
+identify this room as the queens private laboratory. Strange tomes and texts,
+odd components and supplies, and other oddities lend the room a mysterious air.
+The walls of this room are a deep ebony, and the room is filled with an eeire 
+glow. Against the east wall you notice a rack containing several odd bottles.
+~
+110 8 0
+D0
+~
+~
+0 0 11082
+D3
+~
+~
+0 0 11084
+S
+#11086
+A Quiet Hall~
+   This hallway is barren, with no decorative trimmings or pictures to
+be found.  The unevenness of the floor and the crude craftsmanship of the
+walls and supports shows that this was added after the Keep of Trokair
+fell into the Queens hands. A large steel door is to your south, and you hear
+murmers of someone talking behind it.
+~
+110 9 0
+D0
+~
+secret panel~
+1 -1 11084
+D2
+A large steel door blocks your way, murmers of voices can be heard from behind.
+~
+large steel door~
+1 -1 11087
+S
+#11087
+The War Chamber~
+   You have entered the War room of the evil Queen. Hung from walls are
+various maps of the surrounding lands, giving accurate defense reports,
+troop positions, and supply lines. The most dominating map of the lot is
+a map of Kore itself. It seems she is planning on a little coup de' etat'
+against the Tyrant, her brother. Spread out on a large table is an
+enlarged map of Kore, with markers positioned to show location of her
+undead army positions to be and location of probable defensive lines.
+Standing behind the table is a huge undead, a Deathknight. He radiates
+an aura of fear and evil, and your heart races as you looks at you and
+laughs.
+~
+110 8 0
+D0
+~
+large steel door~
+1 -1 11086
+S
+#11088
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddles with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D0
+~
+~
+0 0 11093
+D1
+~
+~
+0 0 11091
+D2
+~
+~
+0 0 11079
+D3
+~
+~
+0 0 11092
+D6
+~
+~
+0 0 11095
+D7
+~
+~
+0 0 11090
+D8
+~
+~
+0 0 11089
+D9
+~
+~
+0 0 11094
+S
+#11089
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddles with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D0
+~
+~
+0 0 11092
+D1
+~
+~
+0 0 11079
+D6
+~
+~
+0 0 11088
+S
+#11090
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddled with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D0
+~
+~
+0 0 11091
+D3
+~
+~
+0 0 11079
+D9
+~
+~
+0 0 11088
+S
+#11091
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddles with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D0
+~
+~
+0 0 11095
+D2
+~
+~
+0 0 11090
+D3
+~
+~
+0 0 11088
+D8
+~
+~
+0 0 11079
+D9
+~
+~
+0 0 11093
+S
+#11092
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddles with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D0
+~
+~
+0 0 11094
+D1
+~
+~
+0 0 11088
+D2
+~
+~
+0 0 11089
+D6
+~
+~
+0 0 11093
+D7
+~
+~
+0 0 11079
+S
+#11093
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddles with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D1
+~
+~
+0 0 11095
+D2
+~
+~
+0 0 11088
+D3
+~
+~
+0 0 11094
+D7
+~
+~
+0 0 11091
+D8
+~
+~
+0 0 11092
+S
+#11094
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddles with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D1
+~
+~
+0 0 11093
+D2
+~
+~
+0 0 11092
+D7
+~
+~
+0 0 11088
+S
+#11095
+Drill Hall~
+   This chamber is obviously a training room. Wooden targets with concentric
+black circles painted on them hang against the outside wall. Many targets
+are riddles with throwing spikes, crossbow bolts, and daggers.  The chamber
+is clear of furniture, but a black square has been painted on the floor in
+the center of the room. The smooth stone floor of this practice area is 
+flecked with black drops of dried blood.
+~
+110 8 0
+D2
+~
+~
+0 0 11091
+D3
+~
+~
+0 0 11093
+D8
+~
+~
+0 0 11088
+S
+#11096
+Entry Way~
+   The streaked walls of this room lie buried under tapestries and decorations
+almost too gaudy to be believed. The tapestries hang everywhere, some upside
+down or sideways. Fraying gold cloth drapes between tremendous forty foot 
+statues of ancient kings. Their deeply carved features are masked in shadwos, 
+but they seem to watch you. To the south is where the quarters of the nobles
+used to be located, but the tower had collapsed many years ago, destroying
+everything those rooms contained. To the north are huge double doors. There
+seems to be just enough room to squeeze through...
+~
+110 13 0
+D0
+~
+~
+0 0 11071
+D1
+~
+~
+0 0 11047
+S
+#11099
+Nether Void~
+   You slowly materialize in an alternate plane of existance. Looking around 
+you, all you can see is a dark gray blanket of nothingness. The
+distant cries of demons and fiends can be heard as a disturbance from within
+the void draws their attention. You hope it is not you.
+~
+110 262365 0
+S
+#99999
+$~

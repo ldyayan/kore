@@ -1,0 +1,74 @@
+>script_prog santa-song~
+  emote sings, 'Oh, you better not shout, you better not cry..'
+  emote sings, 'You better not pout, I'm telling you why...'
+  emote sings, 'Santa Claws is coming to town.'
+  emote sings, 'He sees you when you're sleeping,'
+  emote sings, 'He knows when you're awake..'
+  emote sings, 'He knows if you you've been bad or good,'
+  emote sings, '..so be good for goodness sake!'
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+~
+>script_prog santa-story~
+  say Let me tell you a story ...
+  say Twas the Night Before Christmas
+  say and all through the house
+  say not a creature was stirring
+  say not even a mouse
+  say The stockings were hung
+  say by the chimney with care
+  say with a hope the soon Santa, soon would be there
+  wink
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+  #
+~
+>rand_prog 2~
+  say Ho! ho! ho! Merry Christmas everybody..
+~
+>rand_prog 2~
+  if inroom($n) == here
+    mptrigger $n santa-song
+  endif
+~
+>rand_prog 1~
+  if inroom($n) == here
+    mptrigger $n santa-song
+  endif
+~
+>greet_prog 35~
+  mpecho Santa looks at $N with a twinkle in his eye..!
+  if sex($n) == female
+    say and what would you like for Christmas little girl?
+    emote pulls $N into Santa's lap.
+  else
+    say and what would you like for Christmas little boy?
+    emote pulls $N into Santa's lap.
+  endif
+~
+>speech_prog would like~
+  if isevil($n)
+    say You have been very naughty this year though..!
+  else
+    say I'm sure Santa will bring you something nice.
+    wink $n
+    mpoload 3200
+    give candycane $n
+  endif
+~
+|

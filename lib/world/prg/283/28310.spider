@@ -1,0 +1,11 @@
+>rand_prog 2~
+mpecho $I slides down from a silk strand of web.
+~
+
+>fight_prog 25~
+ if inroom($r) == here
+  mpcallmagic 'poison' $r
+  mpcallmagic 'poison' $r
+ endif
+~
+|

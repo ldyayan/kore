@@ -1,0 +1,14 @@
+>rand_prog 4~
+  if inroom($r) == here
+    if isaffected($r, poison)
+      cast 'remove poison' $r
+    else
+      if hitprcnt($r) < 100
+        cast 'cure critic' $r
+        cast 'cure critic' $r
+      endif
+    endif
+  endif
+~
+|
+

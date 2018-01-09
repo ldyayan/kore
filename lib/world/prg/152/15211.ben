@@ -1,0 +1,74 @@
+>greet_prog 100~
+  if ispc($n)
+    if rand(25)
+      say Think, think... oh bother.
+      sigh
+    else
+      if rand(25)
+        say EUREEEEEEEKA!  I've got it!
+        hop
+        hug $n
+        emote begins to scribble furiously... on the wall.
+      else
+        mutter
+        say Can't you see I'm thinking?  Get out!
+        mutter
+      endif
+    endif
+  endif
+~
+>entry_prog 50~
+  if ispc($n)
+    say mumble jumble mumble mumble jumble jumble...
+    sneeze
+    say Gesundheit!
+  endif
+~
+>entry_prog 10~
+  if inroom($n) == here
+    if ispc($n)
+      say mumble mumble jumble mumble mumble jumble...
+      mpecho $n suddenly flashes and disappears!
+      mptransfer $n nearby
+      clueless
+    endif
+  endif
+~
+>fight_prog 15~
+  say Waaaaah! Mommy, they're hurting me!!!
+  flee
+~
+>fight_prog 15~
+  if inroom($r) == here
+    cast 'fireball' $r
+    say KABOOM!!!
+    cackle
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    cast 'color spray' $r
+    grin $r
+  endif
+~
+>fight_prog 6~
+  if inroom($r) == here
+    mpechoat $r $I screams, "DIE DIE DIEDIEDIEDIE" and aims for you!
+    mpechoaround $r $I screams, "DIE DIE DIEDIEDIEDIE" at $R and attacks!
+    cast 'word of death' $r 
+  endif
+~
+>fight_prog 100~
+  if inroom($r) == here
+    if class($r) == cleric
+      slap $r
+      emote screams, "HEAL ME you slow-witted ox!"
+    endif
+    if hitprnct($i) < 20
+      cast 'heal' $i
+      say Ahh, that hit the spot.
+    endif
+  endif
+~
+|
+

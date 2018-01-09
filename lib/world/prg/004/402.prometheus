@@ -1,0 +1,19 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+   fear zirnozz
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    if isfight($r)
+      if hasworn($i) == 408
+        mpechoat $r A lick of flame suddenly rises from $I's gauntlets and ENGULFS YOUR BODY!!
+        mpechoaround $r $I raises his hands into the air and fire gushes out toward $R!
+        mpechoaround $r You watch helplessly as flames eat at $R's body!
+        mpdamage $r 14d14+44
+      endif
+    endif
+  endif
+~
+|
+

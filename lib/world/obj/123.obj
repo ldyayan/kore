@@ -1,0 +1,399 @@
+#12300
+lever large~
+a large lever~
+A large red brake lever stands attached firmly to the wall.~
+~
+27 0 0
+12377 3 0 0
+50 0 0
+#12301
+large lever~
+a large lever~
+A large brake lever keeps the platform from falling to the bottom of the shaft.~
+~
+27 0 0
+12378 3 0 0
+0 0 0
+#12302
+large lever~
+a large lever~
+A large brake lever keeps the platform from falling to the next level~
+~
+27 0 0
+12379 3 0 0
+0 0 0
+#12303
+large lever~
+a large lever~
+A large red brake lever sits here seemingly useless.~
+~
+27 0 0
+12380 3 0 0
+0 0 0
+#12304
+chunk gold massive~
+a massive chunk of gold~
+A glimmering chunk of gold sits here held tightly by the rock.~
+~
+13 0 1
+0 0 0 0
+15 0 0
+#12305
+blast furnace~
+the blast furnace~
+The stone blast furnace glows red hot, melting the gold taken from the mine.~
+~
+15 0 0
+99999 15 12307 0
+2000 0 0
+#12306
+gold pouring pail~
+a gold pouring pail~
+A long handled gold pouring pail sits here in the dirt, full of water.~
+~
+17 0 16385
+25 25 0 0
+5 250 0
+#12307
+chain key~
+a small key~
+A long key chain attached to a small key sits here in the dust.~
+~
+18 4 1
+1 1 0 0
+2 0 0
+#12308
+hot coal chunk~
+a hot chunk of coal~
+A hot looking chunk of coal~
+~
+1 42086401 16385
+0 0 -1 0
+2 5000 0
+A
+19 3
+A
+13 20
+A
+2 2
+#12309
+gold steel dagger~
+a ^Ygold^n and steel dagger~
+A large gold and steel dagger sits here on the ground.~
+~
+5 9465856 24577
+7 6 5 15
+8 10000 0
+A
+19 4
+A
+5 -3
+A
+2 1
+#12310
+gold steel compound axe~
+a gold and steel compound axe~
+An axe made of an odd gold and steel compound sits here.~
+~
+5 1 24577
+4 4 5 15
+8 1000 0
+A
+19 2
+#12311
+gold steel compound broadsword~
+a gold and steel compound broadsword~
+A large gold and steel compound broadsword sits here in the dust.~
+~
+5 1 24577
+4 4 5 15
+8 1500 0
+A
+5 2
+#12312
+large compound bow~
+a large compound bow~
+A large compound bow drawn and loaded sits here awaiting an archer~
+~
+6 0 32769
+3 3 4 1
+12 1000 0
+#12313
+bolo large~
+a large set of bolo balls~
+A set of bolo balls sit here on the ground~
+
+~
+6 1048576 40961
+4 3 5 2
+4 1500 0
+S
+60 50 50
+#12314
+staff vulnerability~
+a staff of vulnerability~
+A staff of vulnerability quivers with power~
+~
+4 65536 16385
+50 2 2 142
+10 15000 0
+#12315
+scroll color~
+a scroll of color~
+A colorful scroll sits here on the ground~
+~
+2 0 1
+30 10 10 0
+1 2000 0
+#12316
+scroll recall~
+a scroll of recall~
+A scroll of recall has been carelessly left here.~
+~
+2 0 1
+50 49 42 0
+1 100 0
+#12317
+identify scroll~
+a scroll of identify~
+A scroll of identify has been carelessly left on the ground here~
+~
+2 0 1
+50 113 0 0
+1 150 0
+#12318
+vial bubbling black liquid~
+a vial of bubbling black liquid~
+A vial of bubbling black liquid sits on the ground here.~
+~
+10 0 1
+50 15 15 0
+3 700 0
+#12319
+lift platform~
+the lift platform~
+A lift platform sits here at the top of its run.~
+~
+27 0 0
+12375 1 0 0
+1 0 0
+#12320
+shovel~
+a shovel~
+A miners shovel has fallen to the ground here.~
+~
+5 67108864 0
+5 4 10 15
+5 90 0
+A
+1 2
+A
+19 5
+#12321
+pick miners~
+a large miners pick~
+A large miners pick has fallen to the ground here.~
+~
+13 0 16385
+0 0 0 0
+5 100 0
+A
+19 1
+#12322
+small gold brick~
+a small gold brick~
+A small gold brick sits here on the ground.~
+~
+13 0 16385
+0 0 0 0
+10 0 0
+#12323
+large gold brick~
+a large gold brick~
+A large gold brick sits here on the ground awaiting exchange.~
+~
+13 0 1
+0 0 0 0
+15 0 0
+#12324
+flowing black cloak~
+a long flowing black cloak~
+A flowing black cloak hangs here awaiting an owner.~
+~
+11 0 1025
+0 0 0 0
+1 5 0
+#12325
+a leather jacket~
+a leather jacket~
+A leather jacket sits here in the dirt.~
+~
+11 0 9
+0 0 0 0
+2 10 0
+#12326
+bowl stew~
+a bowl of chicken stew~
+A steaming bowl of chicken stew sits here.~
+~
+19 0 1
+24 0 0 0
+1 5 0 24
+#12327
+a loaf of waybread~
+a loaf of waybread~
+A loaf of waybread sits here in the dirt.~
+~
+19 0 1
+36 0 0 0
+1 6 0
+#12328
+large mug of warm coffee~
+a large mug of warm coffee~
+A large mug of coffee sits here steaming away.~
+~
+17 0 1
+20 1 12 0
+1 15 0
+#12329
+large vial of liquid silicon~
+a large vial of liquid silicon~
+A large vial of a semi clear liquid sits here.~
+~
+10 0 1
+40 29 0 0
+2 650 0
+#12330
+large vial of dragons blood~
+a large vial of dragons blood~
+A vial of a thick red blood, not human sits here.~
+~
+10 65536 1
+50 28 147 0
+2 17500 0 500
+#12331
+small yellow vial~
+a small yellow vial~
+A small yellow vial sits here in the dust.~
+~
+10 0 1
+50 19 0 0
+1 100 0
+#12332
+a gold and titanium compound shield~
+a gold and titanium compound shield~
+A shield made of a strange compound sits on the ground.~
+~
+9 0 513
+15 0 0 0
+5 750 0
+B
+4096
+#12333
+fountain~
+a large granite fountain~
+A massive granite and gold fountain spews water into the air above the crowd.~
+~
+23 0 0
+999999 999999 0 0
+0 0 0
+#12334
+a gold lantern~
+a gold lantern~
+A golden lantern sits here on the ground.~
+~
+1 1 16385
+0 0 -1 0
+3 0 0
+A
+1 1
+A
+2 2
+#12335
+fine steel gold key~
+a fine steel and gold key~
+A fine key of gold and steel sits here in the dust.~
+~
+18 4 16385
+1 1 0 0
+1 0 0
+#12336
+pill crushed black~
+a black pill~
+A black pill sits here.~
+~
+25 65536 1
+50 134 64 33
+2 6500 0 200
+#12337
+sack coins~
+a small sack of coins~
+A small sack of coins sit here.~
+~
+20 0 1
+400 0 0 0
+0 0 0
+#12338
+sack coins large~
+a large sack of coins~
+A large sack of coins sit here.~
+~
+20 0 1
+1000 0 0 0
+0 0 0
+#12339
+large bag coins~
+a large bag of coins~
+A large bag of coins sit here.~
+~
+20 0 1
+200000 0 0 0
+0 0 0
+#12340
+yellow wand~
+a yellow wand~
+A delicate yellow wand glows here like an early morning sunray.~
+~
+3 0 16385
+50 4 4 150
+2 0 0
+#12341
+thrikreen claw~
+a thrikreen claw~
+The large claw of a thrikreen is here.~
+~
+5 67108864 8192
+12 9 9 15
+7 0 0
+#12342
+wagon large~
+a large wagon~
+A large wagon sits here ready to make it's way to the mine.~
+~
+27 0 0
+12372 1 0 0
+0 0 0
+#12343
+large wagon~
+a large wagon~
+A large wagon sits here ready to make it's way to the city.~
+~
+27 0 0
+12371 1 0 0
+0 0 0
+#12399
+quest cloak deathjunk~
+a cloak of the city of Derlin~
+A cloak covered in dirt maked with the symbol of the city of Derlin on it sits here.~
+~
+11 67108928 1025
+0 0 0 0
+0 0 0 3000
+A
+2 3
+A
+19 3
+A
+13 15
+#99999
+$~

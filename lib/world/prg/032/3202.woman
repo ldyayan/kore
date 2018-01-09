@@ -1,0 +1,61 @@
+>script_prog test26~
+say Dennis, there's some lovely filth down here. Oh! How d'you do?
+mpforce 3200 mptrigger $n test27
+~
+>script_prog test28~
+mptrigger $n pause
+~
+>script_prog pause~
+@
+@
+say King of the who?
+mpforce 3200 mptrigger $n test29
+~
+>script_prog test30~
+@
+@
+say Who are the Britons?
+mpforce 3200 mptrigger $n test31
+~
+>script_prog test32~
+@
+@
+say I didn't know we had a king. I thought we were an autonomous collective.
+mpforce 3201 mptrigger $n test33
+~
+>script_prog test34~
+@
+say Oh, there you go bringing class into it again.
+mpforce 3201 mptrigger $n test35
+~
+>script_prog test37~
+say No one lives there.
+mpforce 3200 mptrigger $n test38
+~
+>script_prog test39~
+say We don't have a lord.
+mpforce 3200 mptrigger $n test40
+~
+>script_prog test49~
+@
+@
+@
+say Order, eh? Who does he think he is? Heh.
+mpforce 3200 mptrigger $n test50
+~
+>script_prog test53~
+@
+@
+@
+say Well, how did you become King, then?
+mpforce 3200 mptrigger $n test54
+~
+>script_prog test51~
+@
+@
+say Well.. I didn't vote for you.
+mpforce 3200 mptrigger $n test52
+~
+|
+
+

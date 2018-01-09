@@ -1,0 +1,45 @@
+>script_prog win~
+mpecho $I takes the mirror from $N.
+@ 
+mpecho The mirror glows in its hands.
+@
+mpecho $I tries in vain to let go of the mirror, but it cannot!
+@
+mpecho $I screams in pain as yellow smoke rises from its skin!
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26296
+mpsilent mpoload 26292
+mpsilent mpoload 26293
+mpsilent get all
+mpsilent put all scuttle
+mpsilent get all
+mpsilent put all scuttle
+@
+@
+mpecho Acrid yellow smoke fills the room.  It burns your eyes.
+mpsilent mpmload 3754
+mpsilent give scuttle chicken
+@
+@
+mpecho The screams cease, replaced with insistant clucking...
+@
+@
+mpecho A small chicken struts from the thinning yellow cloud.
+mppose $i dead
+mpgoto 26275
+~
+>give_prog 26297~
+  if isscript($i)
+  else
+    mptrigger $n win
+  endif
+~
+|

@@ -1,0 +1,38 @@
+>greet_prog 75~
+  if ispc($n)
+    say These mines are restricted! How did you get in here?
+    say You're either lost or stupid. NOW GET OUT!
+  endif
+~  
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho Sapho smashes his fist against the tunnel wall!
+    mpecho Large chunks of rock fall from the ceiling and SMACK you on the head!
+    mpdamage all 60d5+20
+    emote roars with anger!
+  endif
+~
+>fight_prog 10~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoat $r Sapho lashes you around the back with his whip!
+      mpechoaround $r Sapho strikes $R extremely hard with his enormous whip!
+      mpdamage $r 40d6+30
+      mpechoaround $r $R cries out in pain!
+    endif
+  endif
+~ 
+>fight_prog 15~
+  if inroom($r) == here
+    if isfight($r)
+      mpechoat $r Sapho picks up a huge chunk of rock and hurls it at you.
+      mpechoaround $r Sapho picks up a huge boulder and hurls it at $R.
+      mpechoat $r The rock rolls over you and you fall helplessly to the ground!
+      mpechoaround $r The rock smashes into $R, knocking $K to the ground!
+      mpdamage $r 50d7+40
+      mppose $r sit
+    endif
+  endif
+~
+|
+

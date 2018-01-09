@@ -1,0 +1,329 @@
+#28500
+butterfly~
+a butterfly~
+A butterfly is here.
+~
+  A multi-colored small butterfly with transparent wings
+is flying around.
+~
+8264 4194304 0 S
+3 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28501
+fish~
+a fish~
+A fish is here.
+~
+A small brownish colored fish. It looks good enough to eat if
+you can catch it first.
+~
+8264 64 0 S
+4 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#28502
+guard~
+a guard~
+A guard is maintaining the entrance to the park.
+~
+  A guard stands here making sure all is well within Jitter
+Park. Even thou the park is open all the time, the guard is
+looking like he wants to close up the gates.
+~
+8266 1052712 1000 S
+35 20 0 5d10+550 2d8+5
+0 0
+8 8 1
+#28503
+fly~
+a fly~
+A fly is here.
+~
+   A small black fly is buzzing around and just being
+very annoying.
+~
+72 4194304 0 S
+2 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#28504
+mouse~
+a mouse~
+A mouse is here.
+~
+  A small brown mouse is here looking for leftovers from
+a picnic. 
+~
+72 0 0 S
+3 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28505
+boy~
+a boy~
+A little boy is here.
+~
+  A little boy is minding his manners. Every now and then he
+plays with a wooded yoyo.
+~
+72 0 0 S
+16 20 7 3d9+233 2d6+4
+0 0
+8 8 1
+#28506
+girl~
+a girl~
+A little girl is here.
+~
+  A little girl is playing here. Dressed very pretty her
+silver earrings stand out. 
+~
+72 0 0 S
+15 17 8 3d9+208 2d6+3
+50 0
+8 8 2
+#28507
+cat~
+a cat~
+A black cat is here.
+~
+  A black cat is sneaking aroung looking for it's next
+prey. With her claws extended you wouldn't want to be
+on the other side.
+~
+76 0 0 S
+5 20 9 1d1+0 1d1+0
+0 0
+8 8 2 8
+#28508
+frog~
+a frog~
+A frog is here.
+~
+  A small greenish color frog is swimming around the lake.
+It looks as thou he still has his lilly pad with him.
+~
+72 0 0 S
+4 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#28509
+bird~
+a bird~
+A bird is here.
+~
+ This blue bird reminds you of something from a time long ago.
+It's size is very large with a wing span of eight fight.
+~
+72 4194304 0 S
+4 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28510
+dog~
+a dog~
+A dog is here.
+~
+  A small mangy looking dog is wandering around the
+park.
+~
+8268 1024 0 S
+8 18 9 1d1+0 1d1+0
+0 0
+8 8 1 4
+#28511
+rabbit~
+a rabbit~
+A rabbit is here.
+~
+  A small light brown baby rabbit.
+~
+72 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#28512
+ant~
+a ant~
+A ant is here.
+~
+A small ant is wandering around.
+~
+72 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28513
+squirrel~
+a squirrel~
+A squirrel is here.
+~
+A small brown squirrel with a fuzzy tail looks to be
+eatting something.
+~
+72 0 0 S
+3 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#28550
+man bill_gates~
+Bill Gates~
+Bill Gates is busy ploting his take over.
+~
+  Born in Seattle, Washington in 1955. He founded Microsoft Corp with
+Paul Allen. 
+~
+57352 33653800 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28551
+male elvis~
+Elvis~
+Elvis is playing Heartbreak Hotel.
+~
+  Born Jan 1935. Heartbreak Hotel was his first gold record.
+~
+57352 99368 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28552
+man george_bush~
+George Bush~
+George Bush turns red as he screws up another speach.
+~
+  Not enough space to write everything he hasn't done.
+~
+57352 99368 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28553
+women janet_reno~
+Janet Reno~
+Janet Reno is preaching about safe sex.
+~
+    Born in 1938. She became the attorney general of the United States  
+in 1993. The first women to hold the office.
+~
+57352 99368 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28554
+man ross_perot~
+Ross Perot~
+Ross Perot hears everything you say.
+~
+  Born in Texas in 1930. He ran unsuccessfully for U.S. president as  
+an independent in 1992.
+~
+57352 99368 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28555
+man carl_sagan~
+Carl Sagan~
+Carl Sagan is looking to the sky for ET.
+~
+    Born in NYC in 1934. Known for his research on ET's.
+~
+57352 99368 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28556
+man colin_powell~
+Colin Powell~
+Colin Powell has spoken.
+~
+    Born in NYC in 1937. A U.S. army general.
+~
+57352 99368 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28557
+man Martin_luther_king~
+Martin Luther King~
+Dr. Martin Luther King Jr. says, I have a dream.
+~
+    An advocate of non-violent social change strategies.
+~
+57354 99368 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28558
+barney purple~
+Barney~
+Off tune a purple dino sings.
+~
+   I love you, you love me, don't you want to kill me!
+~
+57352 99368 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28559
+poe teletubbie~
+Poe~
+Poe waddles around looking at the TV in his stomach.
+~
+    A big red teletubbie!
+~
+57352 99368 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28560
+man greb~
+Greb~
+Greb is standing here.
+~
+    Long believed to have disapeared into the cracks of life, he
+has found his way back to the realms.
+~
+57352 8488104 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0 6
+#28561
+meatball ~
+a meatball~
+A meatball is looking confused.
+~
+    A meatball is looking confused and wants to know if you will
+give him some eq.
+~
+57352 99368 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28569
+monkey~
+a monkey~
+A monkey is looking around.
+~
+   What you looking at? Never seen a monkey before?
+~
+57352 99368 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#28570
+rugrat~
+a rugrat~
+A rugrat is up to no good.
+~
+    A rugrat!
+~
+57352 99368 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

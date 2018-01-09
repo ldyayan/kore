@@ -1,0 +1,19 @@
+>fight_prog 5~
+if inroom($r) == here
+  say I need assistance.
+  mpecho $I utters an ancient incantation and an elemental appears.
+  mpmload 2234
+  mpforce 2234 assist Amyrok
+endif
+~
+>fight_prog 25~
+if inroom($r) == here
+  say You are good but not good enough!
+  if level($r) > 39
+    mpcallmagic 'word of death' $r
+  else
+    mpcallmagic 'disintegrate' $r
+  endif
+endif
+~
+|

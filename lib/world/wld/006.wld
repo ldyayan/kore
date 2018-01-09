@@ -1,0 +1,975 @@
+#600
+A dark cubbyhole~
+   Silence is forgotten as you fluster across the dry leaves guarding 
+entrance to this shady cavern. A chill rushes through the room as you 
+turn to regard the unusual quietness and profundity of the darkness that 
+looms ahead.
+~
+6 76 0
+D4
+~
+~
+0 0 4030
+S
+#601
+Entering the gloom~
+   Something ancient and compelling deep within this tunnel beckons you
+to move quickly downward, although you must remind yourself that is is
+never too late to turn back...
+~
+6 8 0
+D1
+~
+~
+0 0 602
+D3
+~
+~
+0 0 600
+S
+#602
+The gathering~
+   Piercing through the ever-present darkness, a light from some unseen
+source animates this cavern before your very eyes. Light dances off of
+a crystal in the cavern wall only to be bounced right into another,
+creating a beautiful rainbow effect that encompasses most of the huge
+room. Distracting attention from the inspiring sight sits many old
+witches, crowded around a huge black cauldron. They note your arrival
+with venomous glances.
+~
+6 1048600 3
+D0
+~
+~
+0 0 603
+D1
+~
+~
+0 0 608
+D2
+~
+alcove in the rock~
+2 0 604
+D3
+~
+~
+0 0 601
+D5
+~
+~
+0 0 605
+S
+#603
+A smooth corridor~
+   From the caverns to the south, this chamber evolves into a vast hall
+rock polished smooth. The hall is extremely large and vacant and there
+are many slots positioned in the walls, some of which contain pieces
+of mail.
+~
+6 32776 0
+D1
+~
+~
+0 0 609
+D2
+~
+~
+0 0 602
+S
+#604
+The oracle of the coven~
+   You can only hear your heartbeat and footsteps as you walk into this
+pitch-black quietness that engulfs you on all sides here.  While the light
+level is almost non-existent, there is a glistening haze coming from the
+far wall that makes it possible to drink in a dim picture of the cavern.
+~
+6 108 0
+D0
+~
+alcove in the rock~
+2 0 602
+S
+#605
+The crypt~
+   Emerging from the small tunnel, you find yourself in the dreary
+resting chambers of the witches. The walls are bedecked with opulent
+tapestries, plush chairs sit everywhere, candelabras stand tall, and
+golden chandeliers hang from the high rock ceiling. Raised upon a dais
+in the center of the room rests a dark-wooden coffin, with inscriptions
+etched all about it. Everything in the room is dusted over and strewn
+with hundreds of cobwebs.
+~
+6 32792 0
+D1
+~
+~
+0 0 606
+D4
+~
+~
+0 0 602
+S
+#606
+The T-intersection~
+   Moving down the constricting passage, you come to a branching of
+tunnels. To the east there is just darkness, but coming from the north
+is the rotten scent of decomposing bodies.
+~
+6 32776 0
+D0
+~
+~
+0 0 612
+D1
+~
+~
+0 0 611
+D3
+~
+~
+0 0 605
+S
+#607
+A chasm in the rock~
+   A profound and forlorn darkness greets your senses after making the
+plunge downward from the catacombs above. The sound of streaming water
+echoes softly around, and there is a dim outline of a deteriorated
+door in the north wall.
+~
+6 32777 0
+D0
+~
+rickety door~
+1 0 638
+D4
+~
+~
+0 0 612
+S
+#608
+A narrow grotto~
+   Little more than a hole in the wall, this chamber is just big enough
+to house a number of select things deemed important by the witches.  On
+each side of you narrow racks laden with bizarre and alien items extend
+up to the ceiling.  Some of the substances look safe to eat, while others
+are simply repulsive.
+~
+6 8 0
+D3
+~
+~
+0 0 602
+S
+#609
+A hall of dark rock~
+   You stand in an immense chamber of smooth dark rock. In contrast to
+the rest of the caverns, this room has an ornate semblance. A series of
+stairs leads downward into musty silence and darkness.
+~
+6 32776 0
+D3
+~
+~
+0 0 603
+D5
+~
+~
+0 0 612
+S
+#610
+Beside a Peaceful Lake~
+   You find yourself standing before a crystal clear mountain lake.  The
+sun refracts off the mirrored surface in a glittering display of lights.  A
+cry overhead draws your attention and you look up in time to see an eagle
+pass overhead.  He dives toward the surface of the lake and emerges with
+a large trout clutched in his talons.  As you watch him wing his way across
+the water you drift in to a state of complete peace.
+~
+6 16 0
+D1
+~
+~
+0 0 4200
+S
+#611
+A dark cavern~
+   Suspended in this unlit and empty area of the catacombs, numerous rifts
+are noticeable, and their destinations are unknown. They resemble massive
+tears in the very essence of space, and you approach each with much caution,
+lest be pulled into one accidentally. The surrounding air is still and
+pungent, making it appear that not many have seen this place, and the only
+secure route out lies to the west which leads back into the catacombs.
+~
+6 32780 0
+D0
+~
+~
+0 0 3507
+D1
+~
+~
+0 0 18600
+D2
+~
+~
+0 0 5406
+D3
+~
+~
+0 0 606
+D4
+~
+~
+0 0 403
+D5
+~
+~
+0 0 9532
+D6
+~
+~
+0 0 726
+D8
+~
+~
+0 0 26603
+D9
+~
+~
+0 0 12311
+S
+#612
+The catacombs~
+   On all sides extend death. Countless numbers of half-decayed bodies
+and skeletons hang from the many shelves and others simply gather about
+on the floor. A rickety stairway stands directly before you in this
+corner of the tombs.
+~
+6 32776 0
+D0
+~
+~
+0 0 613
+D1
+~
+~
+0 0 614
+D2
+~
+~
+0 0 606
+D4
+~
+~
+0 0 609
+D5
+~
+~
+0 0 607
+D6
+~
+~
+0 0 620
+S
+#613
+The catacombs~
+   On all sides extend death. Countless numbers of half-decayed bodies
+and skeletons hang from the many shelves and others simply gather about
+on the floor.
+~
+6 32776 0
+D1
+~
+~
+0 0 620
+D2
+~
+~
+0 0 612
+D7
+~
+~
+0 0 614
+S
+#614
+The catacombs~
+   On all sides extend death. Countless numbers of half-decayed bodies
+and skeletons hang from the many shelves and others simply gather about
+on the floor.
+~
+6 32776 0
+D0
+~
+~
+0 0 620
+D3
+~
+~
+0 0 612
+D9
+~
+~
+0 0 613
+S
+#615
+The chapel~
+   This chapel is formed from a massive stalagmite, which provides for
+a very tall domed ceiling. Many rows of elegant hand-carved benches lead
+up to the altar.
+~
+6 9 0
+D2
+~
+~
+0 0 616
+D3
+~
+~
+0 0 633
+D9
+~
+~
+0 0 597
+S
+#616
+The chapel~
+   This chapel is formed from a massive stalagmite, which provides for
+a very tall domed ceiling. Many rows of elegant hand-carved benches lead
+up to the altar.
+~
+6 9 0
+D0
+~
+~
+0 0 615
+D3
+~
+~
+0 0 617
+S
+#617
+The chapel~
+   This chapel is formed from a massive stalagmite, which provides for
+a very tall domed ceiling. Many rows of elegant hand-carved benches lead
+up to the altar.
+~
+6 9 0
+D0
+~
+~
+0 0 633
+D1
+~
+~
+0 0 616
+D2
+~
+double doors~
+1 0 634
+D3
+~
+~
+0 0 618
+S
+#618
+The chapel~
+   This chapel is formed from a massive stalagmite, which provides for
+a very tall domed ceiling. Many rows of elegant hand-carved benches lead
+up to the altar.
+~
+6 9 0
+D0
+~
+~
+0 0 632
+D1
+~
+~
+0 0 617
+S
+#619
+A stone-worked cavern~
+   The air about you is chilled and musty, but a faint lingering of
+incense hangs about the room as well. Examining the stone walls tells
+you that others have spent hours chiseling away to make this room almost
+square.
+~
+6 9 3
+D4
+~
+metal grate~
+1 0 13048
+D9
+~
+~
+0 0 596
+S
+#620
+The catacombs~
+   On all sides extend death. Countless numbers of half-decayed bodies
+and skeletons hang from the many shelves and others simply gather about
+on the floor. There is a faint crack in the ceiling here, noticeable
+only by a thin ray of light.
+~
+6 32776 0
+D2
+~
+~
+0 0 614
+D3
+~
+~
+0 0 613
+D4
+~
+crack~
+1 0 621
+D8
+~
+~
+0 0 612
+S
+#621
+A hidden crevice~
+   Rubble and other rock debris clutter the cavern floor of this narrow
+tunnel.  It is very dusky here, but stretching off further down the
+passage is a gleam of flickering light.
+~
+6 32777 0
+D0
+~
+~
+0 0 622
+D5
+~
+crack~
+1 0 620
+S
+#622
+The sacred pool~
+   Hanging opposite on the walls is two scones, perpetually flaming.
+Considering the extended use of light in the room, it is clear that this
+is an important place of the clan.  In the center of the wide room lies
+large fountain, filled with a deep-red liquid.
+~
+6 32776 0
+D2
+~
+~
+0 0 621
+S
+#623
+Cave~
+   As you enter the cave you notice the walls are shaped from
+hardened lava despite the complete lack of volcanic activity.
+Wizards of Dragonleige cast variant wall of stone spells that
+created walls of lava instead of the typical granite. A narrow
+ledge atop the walls shielded on the outer edge by the low
+battlement connects the entrance to the clanhall.
+~
+6 16 5
+D0
+~
+~
+0 0 535
+S
+#624
+Entrance~
+   The grand entrance hall is simple yet elegant in appearance.
+Overhanging balconies line the length of the hall, and a semi-
+cylindrical vaulted ceiling soars 30 feet above the passageway.
+The walls and overhanging balconies are lined with relatively
+inconspicuous arrow slits and murder holes, but otherwise the
+emphasis is on beauty rather than defense.
+~
+6 24 0
+D0
+~
+~
+0 0 623
+D2
+~
+~
+0 0 625
+S
+#625
+Grand Hall~
+   The grand hall is illuminated by the light of a thousand
+individual flames. Flame flowers, a rare plant species native
+to the Elemental Plane of Fire and composed entirely of flames
+are lovingly cultivated into a unique garden in a bed of cooled
+lava. The open space serves as a lounge and place for quiet
+conversations by members of Dragonleige. Comfortable chairs
+and benches are scattered throughout the area, and a informal
+protocol recognizes no rank while within the demesne.
+~
+6 24 0
+D0
+~
+~
+0 0 624
+D1
+~
+~
+0 0 627
+D2
+~
+~
+0 0 626
+D3
+~
+~
+0 0 628
+S
+#626
+Great Minds~
+   Great minds is a meeting hall for all Dragonleige clan members.
+Its walls are completely lined with books from floor to ceiling.
+Stored lengthwise on the crammed shelves are ornate tubes of ivory
+and bone which hold maps of nearly every know land and city in the
+realms.
+~
+6 56 0
+D0
+~
+~
+0 0 625
+S
+#627
+Dragonliege Inn~
+   The Dragonleige Inn is dominated by a massive mahogany counter
+The walls are paneled with teak and other rare woods. The entire
+room is bathed in moonlight, although there is no apparent source
+of the light. The curtain between this room and the grand hall is
+enchanted to deaden any sounds passing between the two rooms so
+you can get a good night sleep.
+~
+6 24 0
+D3
+~
+~
+0 0 625
+S
+#628
+Room of other Lands~
+   The room of other lands is a semitranslucent hemisphere of
+emerald marble and glassteeled emerald panes atop a forest of
+columns carved to resemble intertwined dragons. Mirrors line
+the wall serving as portals to other parts of the realm.
+~
+6 24 0
+D1
+~
+~
+0 0 625
+D4
+~
+~
+0 0 629
+S
+#629
+Under the ^WMoon^N~
+   Within the walls of the Dragonleige Clanhall is a lush, humid
+forest with countless varieties of plants shrouded in a steamy
+mist that never seems to dissipate. It's highly magical in nature.
+A giant dragon carved from serpentine stone stands in the middle
+of the forest as a continuous fountain of high water spits into
+the air from the highest point of the dragon. All capped by a
+magical hemisphere of moonlight.
+~
+6 16 3
+D2
+~
+~
+0 0 630
+D5
+~
+~
+0 0 628
+S
+#630
+Terrace~
+   You have entered a grand square terrace capped by a magical
+hemisphere of moonlight. The four corners of the rooftop are
+constructed from fantastically interlocking white marble tiles
+carved to resemble various phases of the moon and surrounded by
+a low stone wall. All causing a shimmering, permeable tapestry 
+of a swirling, pearl-white force.
+~
+6 24 0
+D0
+~
+~
+0 0 629
+S
+#631
+The Asylum's Closet~
+You have entered the huge walk-in closet that holds all the personal
+possesions of the inmates. Miscellaneous junk clutters the floor and
+shelves, and as you walk around, more items fall off of the shelves.
+~
+6 923656 0
+D2
+~
+~
+0 0 523
+S
+#632
+The chapel~
+   This chapel is formed from a massive stalagmite, which provides for
+a very tall domed ceiling. Many rows of elegant hand-carved benches lead
+up to the altar.
+~
+6 9 0
+D1
+~
+~
+0 0 633
+D2
+~
+~
+0 0 618
+D6
+~
+~
+0 0 597
+S
+#633
+The chapel~
+   This chapel is formed from a massive stalagmite, which provides for
+a very tall domed ceiling. Many rows of elegant hand-carved benches lead
+up to the altar.
+~
+6 9 0
+D0
+~
+~
+0 0 597
+D1
+~
+~
+0 0 615
+D2
+~
+~
+0 0 617
+D3
+~
+~
+0 0 632
+S
+#634
+Front door to the chapel~
+   Mammoth ornate double doors covered with spider carvings stand
+between you and the place of worship within. They look as though they
+would take great strength to move.
+~
+6 9 0
+D0
+~
+double doors~
+1 0 617
+D1
+~
+~
+0 0 636
+D2
+~
+~
+0 0 635
+D3
+~
+~
+0 0 637
+S
+#635
+A moss courtyard~
+   The air reeks of the aroma of fungi spores, but it is oddly appealing.
+The scent almost seems to call out to you, as if it yearned to be savored. 
+You could easily take a rest and let your mind wander here.
+~
+6 9 0
+D0
+~
+~
+0 0 634
+D4
+~
+~
+0 0 596
+S
+#636
+A moss courtyard~
+   The air reeks of the aroma of fungi spores, but it is oddly appealing.
+The scent almost seems to call out to you, as if it yearned to be savored. 
+You could easily take a rest and let your mind wander here.
+~
+6 9 0
+D3
+~
+~
+0 0 634
+D4
+~
+~
+0 0 639
+S
+#637
+A moss courtyard~
+   The air reeks of the aroma of fungi spores, but it is oddly appealing.
+The scent almost seems to call out to you, as if it yearned to be savored. 
+You could easily take a rest and let your mind wander here.
+~
+6 9 0
+D1
+~
+~
+0 0 634
+S
+#638
+A musty chamber~
+   Many bodies, in various stages of decomposition are scattered about
+on the floor and a pungent odor lingers in the air.  They all look to have
+died in pain, as if they were snared in a nasty trap at the time of their
+death.  Not surprisingly, many items of worth are also lying in the room.
+~
+6 563209 0
+D2
+~
+rickety door~
+1 0 607
+S
+#639
+A moss courtyard~
+   The air reeks of the aroma of fungi spores, but it is oddly appealing.
+The scent almost seems to call out to you, as if it yearned to be savored. 
+You could easily take a rest and let your mind wander here.
+~
+6 9 0
+D1
+~
+~
+0 0 640
+D5
+~
+~
+0 0 636
+S
+#640
+Outside the mound~
+   Towering above you a massive stalagmite juts into the air, soaring 
+completely high enough to connect with the cavern ceiling. It's an 
+impressive sight, even for a giant. An entrance to the mound lies to the 
+southeast.
+~
+6 9 0
+D3
+~
+~
+0 0 639
+D7
+~
+~
+0 0 641
+S
+#641
+A spiral staircase~
+   A magnificent obsidian staircase bordered in faerie fire commands this
+circular chamber. It spirals around itself and leads directly up through the
+ceiling, to places reserved to the higher ranking persons of the house.
+~
+6 25 0
+D4
+~
+~
+0 0 646
+D7
+~
+~
+0 0 644
+D8
+~
+~
+0 0 645
+D9
+~
+~
+0 0 640
+S
+#642
+A Small Dark Room~
+   Within this small room several men work to create works of art for
+clan TOOT. Many of them former warriors turned weaponsmiths. Several
+shelves carry their booty of shields and sleeves that the clan has
+selected.
+~
+6 149 0
+D3
+~
+~
+0 0 528
+S
+#643
+TOOT shopkeep storage~
+You are in an unfinished room.
+~
+6 394249 0
+S
+#644
+Slaves' quarters~
+   You stand inside a dull room constructed only for slaves. Little more
+than a few grimy doormats lie in different places on the floor, no doubt
+places for the servants to sleep.
+~
+6 9 0
+D9
+~
+~
+0 0 641
+S
+#645
+Slaves' quarters~
+   You stand inside a dull room constructed only for slaves. Little more
+than a few grimy doormats lie in different places on the floor, no doubt
+places for the servants to sleep.
+~
+6 1048585 0
+D6
+~
+~
+0 0 641
+S
+#646
+A spiral staircase~
+   A magnificent obsidian staircase bordered in faerie fire commands this
+circular chamber. It spirals around itself and leads directly up through the
+ceiling, to places reserved to the higher ranking persons of the house.
+~
+6 9 0
+D3
+~
+~
+0 0 647
+D4
+~
+~
+0 0 648
+D5
+~
+~
+0 0 641
+S
+#647
+Scribes' quarters~
+   A candle burns on a desk positioned against the wall opposite to the 
+door. The candle is a curious sight since no drow need light to see, but 
+considering this area is reserved for penning documents, perhaps the 
+scribes could well use it. There appears to be no desire to keep the room 
+neat and orderly - papers are strewn about everywhere.
+~
+6 8 0
+D1
+~
+~
+0 0 646
+S
+#648
+A spiral staircase~
+   A magnificent obsidian staircase bordered in faerie fire commands this
+circular chamber. It spirals around itself and leads directly up through the
+ceiling.
+~
+6 9 0
+D5
+~
+~
+0 0 646
+S
+#649
+A big tree house~
+Send this discription to Maerlyn with the room name as the first line.
+~
+6 92 0
+D0
+~
+~
+0 0 661
+D1
+~
+~
+0 0 651
+D3
+~
+~
+0 0 650
+D5
+~
+~
+0 0 13028
+S
+#650
+The lounge~
+Send this discription to Maerlyn with the room name as the first line.
+~
+6 24 0
+D1
+~
+~
+0 0 649
+S
+#651
+Portal Room~
+Send this discription to Maerlyn with the room name as the first line.
+~
+6 24 0
+D3
+~
+~
+0 0 649
+S
+#652
+Dynasty Reception~
+You are in an unfinished room.
+~
+6 24 0
+D2
+~
+~
+0 0 554
+S
+#660
+Main Hall of the Citadel~
+As you make you're way down the main corridor, your steps create a low
+pounding echo throughout the stainless steel fortress.  Even though the
+Citadel was created to withstand even the harshest of attacks, the
+glowing steel has many intricately carved designs, and ornate rugs
+giving it a softer look to the eyes.  This room is the main gathering
+room for all of the Citadel defenders, hovering in the middle of the
+room is the command table where all the high echelon come to meet and
+plan the fate of our great clan.
+~
+6 131164 0
+D5
+~
+~
+0 0 726
+S
+#661
+A Tranquil Hideaway Within the Tree~
+  A large portion of the tree has been carved out for a peaceful resting
+area. Pieces of wood carved from the tree have been crafted into various
+structures, such as bunkbeds, the receptionist's desk, and whittled 
+ornaments of forest creatures. An array of leaves are naturally placed
+outside the cove, allowing vines to crawl downward and along the wall,
+creating a small stream of constant waterfall from the leaves. The water
+falls through a circular hole in the floor that has been extracted
+manually by an elven craftsman.
+~
+6 131224 0
+D2
+~
+~
+0 0 649
+S
+#99999
+$~

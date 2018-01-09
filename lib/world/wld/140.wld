@@ -1,0 +1,473 @@
+#14000
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+140 0 5
+D1
+~
+~
+0 0 14001
+S
+#14001
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+140 0 0
+D1
+~
+~
+0 0 14002
+D3
+~
+~
+0 0 14000
+D4
+~
+~
+0 0 14017
+S
+#14002
+At the Bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountian.  Its snow covered peack looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+140 0 5
+D1
+~
+~
+0 0 14003
+D3
+The bottom of Mt Seriba
+~
+~
+0 0 14001
+D4
+~
+~
+0 0 14018
+D5
+Spawn's Personal Workshop
+~
+Death Spawn~
+1 0 14007
+S
+#14003
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+140 0 5
+D1
+~
+~
+0 0 14004
+D3
+~
+~
+0 0 14002
+D4
+~
+~
+0 0 14020
+S
+#14004
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14005
+D3
+~
+~
+0 0 14003
+S
+#14005
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14006
+D3
+~
+~
+0 0 14004
+S
+#14006
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14009
+D3
+~
+~
+0 0 14005
+S
+#14007
+Spawn's Secret Workshop.~
+You are in a large carpentry shop, and you feel as if you are not wanted.
+Maybe you should LEAVE,  no matter who you are.  Out of the shadows you
+feel eyes upon you, and you know they aren't friendly to strangers.
+~
+140 131873 0
+D4
+The bottom of mount Seriba
+~
+Death Spawn ~
+1 0 14002
+E
+Spawn Death Workshop~
+Spawn's Personal Workshop.
+~
+S
+#14008
+A deep, dark cave.~
+You are in a cave deep in Mt Seriba.  You sense a feeling of great achevment
+yet you dont know why.  The cave is very dark, and you feel as if there may be
+something hiding in the shadows.
+~
+0 321 0
+D4
+~
+~
+0 0 14007
+S
+#14009
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14010
+D3
+~
+~
+0 0 14006
+S
+#14010
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14011
+D3
+~
+~
+0 0 14009
+S
+#14011
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14012
+D3
+~
+~
+0 0 14010
+S
+#14012
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14013
+D3
+~
+~
+0 0 14011
+S
+#14013
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14014
+D3
+~
+~
+0 0 14012
+S
+#14014
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14015
+D3
+~
+~
+0 0 14013
+S
+#14015
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D1
+~
+~
+0 0 14016
+D3
+~
+~
+0 0 14014
+S
+#14016
+At the bottom of Mt. Seriba.~
+You are standing at the bottom of a huge mountain.  Its snow covered peak looms
+above, and you wonder why anyone would want to attempt to climb it.
+~
+0 0 5
+D3
+~
+~
+0 0 14015
+S
+#14017
+Climbing Mt. Seriba.~
+You are climbing up the enormous mountain called Seria.  You begin to 
+wonder if you will ever reach the top.
+~
+0 0 5
+D1
+~
+~
+0 0 14018
+D5
+~
+~
+0 0 14001
+S
+#14018
+Climbing Mt. Seriba.~
+You are climbing up the enormous mountain called Seria.  You begin to
+wonder if you will ever reach the top.
+~
+0 0 5
+D1
+~
+~
+0 0 14019
+D3
+~
+~
+0 0 14017
+D5
+~
+~
+0 0 14002
+S
+#14019
+Climbing Mt. Seriba.~
+You are climbing up the enormous mountain called Seria.  You begin to
+wonder if you will ever reach the top.
+~
+0 0 0
+D1
+~
+~
+0 0 14020
+D3
+~
+~
+0 0 14018
+D5
+~
+~
+0 0 14004
+S
+#14020
+Climbing Mt. Seriba~
+You are climbing up the enormous mountain called Seria.  You begin to
+wonder if you will ever reach the top.
+~
+0 0 5
+D1
+~
+~
+0 0 14021
+D3
+~
+~
+0 0 14019
+D5
+~
+~
+0 0 14005
+S
+#14021
+Climbing Mt. Seriba.~
+You are climbing up the enormous mountain called Seria.  You begin to
+wonder if you will ever reach the top.
+~
+0 0 5
+D1
+~
+~
+0 0 14022
+D3
+~
+~
+0 0 14020
+D5
+~
+~
+0 0 14006
+S
+#14022
+Climbing Mt. Seriba.~
+You are climbing up the enormous mountain called Seria.  You begin to
+wonder if you will ever reach the top.
+~
+0 0 5
+D1
+~
+~
+0 0 14023
+D3
+~
+~
+0 0 14021
+D5
+~
+~
+0 0 14009
+S
+#14023
+Climbing Mt. Seriba~
+You are climbing up the enormous mountain called Seria.  You begin to
+wonder if you will ever reach the top.
+~
+0 0 5
+D1
+~
+~
+0 0 14024
+D3
+~
+~
+0 0 14022
+D5
+~
+~
+0 0 14010
+S
+#14024
+Climbing Mt. Seriba.~
+You are climbing up the enormous mountain called Seria.  You begin to
+wonder if you will ever reach the top.
+~
+0 0 5
+D1
+~
+~
+0 0 14025
+D3
+~
+~
+0 0 14023
+D5
+~
+~
+0 0 14011
+S
+#14025
+Climbing Mt. Seriba.~
+You are climbing up the enormous mountain called Seria.  You begin to
+wonder if you will ever reach the top.
+~
+0 0 5
+D1
+~
+~
+0 0 14026
+D3
+~
+~
+0 0 14024
+D5
+~
+~
+0 0 14012
+S
+#14026
+Climbing Mt. Seriba.~
+You are in an unfinished room.
+~
+0 0 0
+D1
+~
+~
+0 0 14025
+D3
+~
+~
+0 0 14027
+D5
+~
+~
+0 0 14013
+S
+#14027
+Climbing Mt. Seriba.~
+You are in an unfinished room.
+~
+0 0 0
+S
+#14028
+Climbing Mt. Seriba~
+You are in an unfinished room.
+~
+0 0 0
+S
+#14075
+A Dark Room~
+You are here.  You can't see anything.
+~
+140 225 0
+D4
+~
+~
+0 0 14007
+S
+#99999
+$~

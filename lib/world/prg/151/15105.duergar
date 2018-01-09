@@ -1,0 +1,78 @@
+>rand_prog 14~
+  if isscript($i)
+  else
+    if ismemory($r)
+      mptrigger $r hunt-em-down
+    endif
+  endif
+~
+>rand_prog 6~
+  if isaffected($i, invis)
+  else
+    mpecho $I closes $l eyes and collects $kself.
+    mpcallmagic 'invis' $i
+    break
+  endif
+  if hitprcnt($i) < 100
+    cast 'heal'
+  endif
+~
+>fight_prog 30~
+  if inroom($r) == here
+    if isfight($r)
+      if race($r) == dwarf
+      or race($r) == duergar
+        mpechoat $r $I deftly cracks you in the head with his $l hammer!
+        mpechoaround $r $I chuckles harshly as $l hammer cracks $R solidly in the head!
+        if rand(50)
+          mpforce $r laugh $i
+        endif
+        mpdamage $r 9d9
+        mpremember $r
+      else
+        mpechoat $r $I slings out $l hammer and connects painfully with your ribcage!
+        mpechoaround $r $I pulverizes $R with a gruesome hammer-shot to the ribs!
+        mpdamage $r 19d9
+        mpremember $r
+      endif
+    endif 
+  endif
+~
+>script_prog hunt-em-down~
+@
+@
+@
+  if inroom($n) == here
+    if rand(50)
+      cackle
+    else
+      emote roars with hoarse laughter.
+      if rand(30)
+        die $n
+      endif
+    endif
+    bash $n
+    mpstopscript
+    mpforget $n
+  else
+    if rand(40)
+      mpecho $I sniffs the air.
+      mpecho $I grumbles and then leaves in search of someone.
+    else
+      if rand(5)
+        mpecho $I fills the room with his boisterous shouting.
+        if rand(50)
+          shout Stop running, you fool! There is no escape!
+        else
+          shout Come meet yer fate, $N.
+        endif
+        if rand(30)
+          emote snorts and trudges on.
+        endif
+      endif
+    endif
+    mptrackto $n
+    mptrigger $n hunt-em-down
+  endif
+~
+|

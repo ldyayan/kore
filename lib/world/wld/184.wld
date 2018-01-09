@@ -1,0 +1,1995 @@
+#18400
+A Winding Dirt Path~
+  This narrow dirt path heads east and north.  It is not a very
+straight path, so its hard to tell where it is leading to. You notice 
+that the surrounding growth is devoid of any animal life, not even 
+insects. You start to think that maybe you should head back to the 
+safety of the city.
+~
+184 4 0
+D0
+~
+~
+0 0 22130
+D1
+~
+~
+0 0 18401
+D3
+~
+~
+0 0 18494
+S
+#18401
+A Winding Dirt Path~
+   You continue down the dusty path, which gets harder to follow as roots
+and brush obscure it.  The undergrowth here is very heavy, and it appears
+that neither man nor beast have travelled upon this path in quite some time.
+~
+184 0 3
+D1
+~
+~
+0 0 18402
+D3
+~
+~
+0 0 18400
+S
+#18402
+A Winding Dirt Path~
+   The path widens a little here, and is split in two by the trunk of a 
+large tree trunk.  Moss hangs heavily off its branches. To the east you can
+see the dull glint of something shiny.
+~
+184 0 3
+D1
+~
+~
+0 0 18403
+D3
+~
+~
+0 0 18401
+S
+#18403
+The Gates before the Estate~
+   Two huge iron gates stop the progression of the winding dirt path. 
+The gates are very rusted, and seem to be locked in a permanetly open 
+position. Two stone platforms on either side of the gates have large 
+gargoyles atop them. The stone guardians are shaped into the forms of
+dogs, which seem to regard you with lifeless eyes
+~
+184 4 0
+D0
+~
+~
+0 0 18404
+D1
+~
+huge iron gate~
+1 -1 18412
+D2
+~
+~
+0 0 18408
+D3
+~
+~
+0 0 18402
+S
+#18404
+A Path in front of the Estate~
+   You are walking around the estate of the Artificer. A tall iron fence 
+seperates you from the grounds before the huge house. The estate is in a 
+pretty heavy state of ruin, apparently not much upkeep has gone on since the 
+death of the reclusive wizard. 
+~
+184 0 0
+D0
+~
+~
+0 0 18405
+D2
+~
+~
+0 0 18403
+S
+#18405
+A Path in front of the Estate~
+   You are walking around the estate of the Artificer. A tall iron fence
+seperates you from the grounds before the huge house. The estate is in a
+pretty heavy state of ruin, apparently not much upkeep has gone on since the
+death of the reclusive wizard.
+~
+184 1 0
+D0
+~
+~
+0 0 18406
+D2
+~
+~
+0 0 18404
+S
+#18406
+A Path in front of the Estate~
+   You are walking around the estate of the Artificer. A tall iron fence
+seperates you from the grounds before the huge house. The estate is in a
+pretty heavy state of ruin, apparently not much upkeep has gone on since the
+death of the reclusive wizard.
+~
+184 1 0
+D0
+~
+~
+0 0 18407
+D2
+~
+~
+0 0 18405
+S
+#18407
+A Path in front of the Estate~
+   You are walking around the estate of the Artificer. A tall iron
+fence seperates you from the grounds before the huge house. The estate
+is in a pretty heavy state of ruin, apparently not much upkeep has
+gone on since the death of the reclusive wizard. A boarded door can
+be seen here, right on the other side of a small gap in the fence.
+~
+184 1 0
+D1
+~
+Boarded Door~
+2 -1 18459
+D2
+~
+~
+0 0 18406
+S
+#18408
+A Path in front of the Estate~
+   You are walking around the estate of the Artificer. A tall iron fence
+seperates you from the grounds before the huge house. The estate is in a
+pretty heavy state of ruin, apparently not much upkeep has gone on since the
+death of the reclusive wizard.
+~
+184 0 0
+D0
+~
+~
+0 0 18403
+D2
+~
+~
+0 0 18409
+S
+#18409
+A Path in front of the Estate~
+   You are walking around the estate of the Artificer. A tall iron fence
+seperates you from the grounds before the huge house. The estate is in a
+pretty heavy state of ruin, apparently not much upkeep has gone on since the
+death of the reclusive wizard.
+~
+184 0 0
+D0
+~
+~
+0 0 18408
+D2
+~
+~
+0 0 18410
+S
+#18410
+A Path in front of the Estate~
+   You are walking around the estate of the Artificer. A tall iron fence
+seperates you from the grounds before the huge house. The estate is in a
+pretty heavy state of ruin, apparently not much upkeep has gone on since the
+death of the reclusive wizard.
+~
+184 1 0
+D0
+~
+~
+0 0 18409
+D2
+~
+~
+0 0 18411
+S
+#18411
+A Path in front of the Estate~
+   You are walking around the estate of the Artificer. A tall iron
+fence seperates you from the grounds before the huge house. The estate
+is in a pretty heavy state of ruin, apparently not much upkeep has
+gone on since the death of the reclusive wizard. A boarded door can
+be seen here, right on the other side of a small gap in the fence.
+~
+184 1 0
+D0
+~
+~
+0 0 18410
+D1
+~
+Boarded Door~
+2 -1 18476
+S
+#18412
+The Foyer of Malchot's Estate~
+   You are standing in the foyer of a huge estate.  A large collapsed
+stairway leads to the second floor.  This is the home of Malchot the Artificer,
+the strange and reclusive wizard who recently died here.  It is rumored that
+he created an immense amount of magically animated creatures to serve and
+entertain him.  Apparently the things he created are not doing that great
+of a job keeping the estate in good shape.
+~
+184 12 0
+D1
+~
+~
+0 0 18413
+D3
+~
+huge iron gate~
+1 -1 18403
+S
+#18413
+The Anteroom~
+   You are standing in the main hall of the Estate. Its huge open ceiling 
+vaults at least fifty feet high, ending in a stained glass dome which throws 
+down all kinds of different colors. A set of busted up stairs go to a second 
+floor landing. A wide hallway runs north and south here, leading around the 
+estate. A small stone door on the east wall looks suspiciously hidden. 
+~
+184 12 0
+D0
+~
+~
+0 0 18417
+D1
+~
+stone door~
+1 -1 18416
+D2
+~
+~
+0 0 18420
+D3
+~
+~
+0 0 18412
+D4
+~
+~
+0 0 18465
+S
+#18414
+The Resting Place of the Artificer~
+   This room is very dark and dusty. No light comes from anywhere, except the 
+locked door that you just enetered through. A huge bed, with silk sheets and 
+tall posts sits in the middle of the room. Upon the bed is the skeletal 
+remains of a human, dressed in fine nightclothes. You assume that these are 
+the remains of Malchot the Artificer, the owner of the estate and the creator 
+of all the creatures that roam in and around his house. 
+~
+184 393225 0
+D2
+~
+Double Doors~
+2 18401 18465
+S
+#18415
+The Center of the Battleground~
+   This is an huge stone cavern, almost in a dome shape. A huge hole in the
+ceiling looks up to a balcony, probably where Malchot watched the creatures
+he made do battle. The battles of the Halfmen is famous throughout the land.
+The semi intelligent golems fight an endless war, while Malchot and some of
+his friends wagered on battles that take place in this large domed room.
+~
+184 9 0
+D0
+~
+~
+0 0 18466
+D1
+~
+~
+0 0 18469
+D2
+~
+~
+0 0 18467
+D3
+~
+~
+0 0 18468
+D4
+~
+~
+0 0 18416
+S
+#18416
+A Balcony~
+   Now this is a tad strange. The small stone door opens to reveal a wide 
+marble balcony that overlooks a large hole in the ground. A shimmering blue 
+wave spans the top of the hole, and a few figures can be seen through it, 
+possibly moving around on the ground below the blue mist. Apparently Malchot 
+used this balcony to look over something, but you are not too certain what he 
+was watching over. 
+~
+184 13 0
+D3
+~
+stone door~
+1 -1 18413
+D5
+~
+~
+0 0 18415
+S
+#18417
+A Hall in the Estate~
+   You are walking down a wide hallway. Thick blue carpet lines the center of 
+the hall, and a dull hardwood shows from the other side of the carpet. A few 
+planters line the wall every so often, many of the plants that were in them 
+are withered away and their pots broken. Large stained glass windows line the 
+outside wall, throwing multi-colored shapes across the dark hallway. 
+~
+184 8 0
+D0
+~
+~
+0 0 18418
+D2
+~
+~
+0 0 18413
+S
+#18418
+A Hall in the Estate~
+  Chunks of wood, strips of fabric and shattered stained glass lay all over
+the blue carpet here.  A large piece of the wall paneling has been torn down
+and propped up against the tall stained glass windows.  Holes that appear
+to have been punched in the windows let rays of bright light shoot forth
+into the dark hall.
+~
+184 8 0
+D0
+~
+~
+0 0 18419
+D2
+~
+~
+0 0 18417
+S
+#18419
+A Hall in the Estate~
+   You are walking down a wide hallway. Thick blue carpet lines the center of
+the hall, and a dull hardwood shows from the other side of the carpet. A few
+planters line the wall every so often, many of the plants that were in them
+are withered away and their pots broken. Large stained glass windows line the
+outside wall, throwing multi-colored shapes across the dark hallway.
+~
+184 8 0
+D1
+~
+~
+0 0 18423
+D2
+~
+~
+0 0 18418
+S
+#18420
+A Hall in the Estate~
+  You kick a large piece of marble out of your way and almost slip on
+a slimy smear of clay that streams down from the wall and accumulates 
+in a small pile on the hardwood floor.  You imagine that this estate 
+must have been very attractive at one time, although now it is in 
+serious shambles.
+~
+184 0 0
+D0
+~
+~
+0 0 18413
+D2
+~
+~
+0 0 18421
+S
+#18421
+A Hall in the Estate~
+   You are walking down a wide hallway. Thick blue carpet lines the center of
+the hall, and a dull hardwood shows from the other side of the carpet. A few
+planters line the wall every so often, many of the plants that were in them
+are withered away and their pots broken. Large stained glass windows line the
+outside wall, throwing multi-colored shapes across the dark hallway.
+~
+184 0 0
+D0
+~
+~
+0 0 18420
+D2
+~
+~
+0 0 18422
+S
+#18422
+A Hall in the Estate~
+  Chunks of wood, strips of fabric and shattered stained glass lay all
+over the blue carpet here.  A large piece of the wall paneling has 
+been torn down and propped up against the tall stained glass windows. 
+Holes that appear to have been punched in the windows let rays of 
+bright light shoot forth into the dark hall.
+~
+184 0 0
+D0
+~
+~
+0 0 18421
+D1
+~
+~
+0 0 18431
+S
+#18423
+A Hall in the Estate~
+  You kick a large piece of marble out of your way and almost slip on a 
+slimy smear of clay that streams down from the wall and accumulates in a
+small pile on the hardwood floor.  You imagine that this estate must have
+been very attractive at one time, although now it is in serious shambles.
+~
+184 8 0
+D0
+~
+~
+0 0 18432
+D1
+~
+~
+0 0 18424
+D3
+~
+~
+0 0 18419
+S
+#18424
+A Hall in the Estate~
+   You are walking down a wide hallway. Thick blue carpet lines the center of
+the hall, and a dull hardwood shows from the other side of the carpet. A few
+planters line the wall every so often, many of the plants that were in them
+are withered away and their pots broken. Large stained glass windows line the
+outside wall, throwing multi-colored shapes across the dark hallway.
+~
+184 8 0
+D1
+~
+~
+0 0 18425
+D3
+~
+~
+0 0 18423
+S
+#18425
+A Hall in the Estate~
+  Chunks of wood, strips of fabric and shattered stained glass lay all
+over the blue carpet here.  A large piece of the wall paneling has 
+been torn down and propped up against the tall stained glass windows. 
+Holes that appear to have been punched in the windows let rays of 
+bright light shoot forth into the dark hall.
+~
+184 0 0
+D2
+~
+~
+0 0 18426
+D3
+~
+~
+0 0 18424
+S
+#18426
+A Hall in the Estate~
+  You kick a large piece of marble out of your way and almost slip on
+a slimy smear of clay that streams down from the wall and accumulates 
+in a small pile on the hardwood floor.  You imagine that this estate 
+must have been very attractive at one time, although now it is in 
+serious shambles.
+~
+184 0 0
+D0
+~
+~
+0 0 18425
+D2
+~
+~
+0 0 18427
+S
+#18427
+A Hall in the Estate~
+   You are walking down a wide hallway. Thick blue carpet lines the center of
+the hall, and a dull hardwood shows from the other side of the carpet. A few
+planters line the wall every so often, many of the plants that were in them
+are withered away and their pots broken. Large stained glass windows line the
+outside wall, throwing multi-colored shapes across the dark hallway.
+~
+184 0 0
+D0
+~
+~
+0 0 18426
+D1
+~
+~
+0 0 18434
+D2
+~
+~
+0 0 18428
+S
+#18428
+A Hall in the Estate~
+  Chunks of wood, strips of fabric and shattered stained glass lay all
+over the blue carpet here.  A large piece of the wall paneling has 
+been torn down and propped up against the tall stained glass windows. 
+Holes that appear to have been punched in the windows let rays of 
+bright light shoot forth into the dark hall.
+~
+184 0 0
+D0
+~
+~
+0 0 18427
+D2
+~
+~
+0 0 18429
+S
+#18429
+A Hall in the Estate~
+   You are walking down a wide hallway. Thick blue carpet lines the center of
+the hall, and a dull hardwood shows from the other side of the carpet. A few
+planters line the wall every so often, many of the plants that were in them
+are withered away and their pots broken. Large stained glass windows line the
+outside wall, throwing multi-colored shapes across the dark hallway.
+~
+184 0 0
+D0
+~
+~
+0 0 18428
+D3
+~
+~
+0 0 18430
+S
+#18430
+A Hall in the Estate~
+  You kick a large piece of marble out of your way and almost slip on
+a slimy smear of clay that streams down from the wall and accumulates 
+in a small pile on the hardwood floor.  You imagine that this estate 
+must have been very attractive at one time, although now it is in 
+serious shambles.
+~
+184 0 0
+D1
+~
+~
+0 0 18429
+D2
+~
+~
+0 0 18433
+D3
+~
+~
+0 0 18431
+S
+#18431
+A Hall in the Estate~
+   You are walking down a wide hallway. Thick blue carpet lines the center of
+the hall, and a dull hardwood shows from the other side of the carpet. A few
+planters line the wall every so often, many of the plants that were in them
+are withered away and their pots broken. Large stained glass windows line the
+outside wall, throwing multi-colored shapes across the dark hallway.
+~
+184 0 0
+D1
+~
+~
+0 0 18430
+D3
+~
+~
+0 0 18422
+S
+#18432
+The Northern Wing~
+   The walls here have been completely stripped of all their wood,revealing 
+the bare stone beneath it. All of the screws and nails have been carefully 
+removed. The domed ceiling, that was once lined with thick copper plates, are 
+now bare. A whirring sound can be heard from all directions, and the clacking 
+sounds of metal tools accompany them. 
+~
+184 12 0
+D0
+~
+~
+0 0 18456
+D2
+~
+~
+0 0 18423
+S
+#18433
+The Southern Wing~
+  This wing of the estate is very dusty and stuffy. Broken wood and long
+strips of fabric lay all over the plush carpet. The hardwood walls are
+almose entirely covered in dried mud, which flies up in small clouds with
+every step you take on the creaky floors.
+~
+184 8 0
+D0
+~
+~
+0 0 18430
+D2
+~
+~
+0 0 18462
+S
+#18434
+Before the Garden~
+   You are standing underneath a huge marble archway. A small wooden deck 
+juts out from behind the estate, and leads to a thin cobblestone path that 
+leads into a magnificent garden. All kinds of wonderful plants and animals 
+live in the garden. It looks very different from the estate, and the feeling 
+here is much more livley. Obviously the natural state of the garden requires 
+less upkeep than the house, and maybe Malchot didn't use too many of his 
+enchantments out here, since they seem to be wearing off on the creatures 
+inside the house. 
+~
+184 4 0
+D1
+~
+~
+0 0 18435
+D3
+~
+~
+0 0 18427
+S
+#18435
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18436
+D1
+~
+~
+0 0 18442
+D2
+~
+~
+0 0 18439
+D3
+~
+~
+0 0 18434
+S
+#18436
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18437
+D1
+~
+~
+0 0 18443
+D2
+~
+~
+0 0 18435
+S
+#18437
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18438
+D1
+~
+~
+0 0 18444
+D2
+~
+~
+0 0 18436
+S
+#18438
+The Snap Dragon~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D1
+~
+~
+0 0 18445
+D2
+~
+~
+0 0 18437
+S
+#18439
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18435
+D1
+~
+~
+0 0 18446
+D2
+~
+~
+0 0 18440
+S
+#18440
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18439
+D1
+~
+~
+0 0 18447
+D2
+~
+~
+0 0 18441
+S
+#18441
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18440
+D1
+~
+~
+0 0 18448
+S
+#18442
+The Center of the Garden~
+      All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.A large fountain sits here in the center of
+the garden. It appears to be made of highly polished marble, with sculpted
+animals and nymphs running along the bottom edge.  Suprisingly, water still
+pours out of the sculpted fish, and fills the basin with crystal clear water.
+~
+184 16 3
+D0
+~
+~
+0 0 18443
+D1
+~
+~
+0 0 18449
+D2
+~
+~
+0 0 18446
+D3
+~
+~
+0 0 18435
+S
+#18443
+The Weeping Willow~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18444
+D1
+~
+~
+0 0 18450
+D2
+~
+~
+0 0 18442
+D3
+~
+~
+0 0 18436
+S
+#18444
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18445
+D1
+~
+~
+0 0 18451
+D2
+~
+~
+0 0 18443
+D3
+~
+~
+0 0 18437
+S
+#18445
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D1
+~
+~
+0 0 18452
+D2
+~
+~
+0 0 18444
+D3
+~
+~
+0 0 18438
+S
+#18446
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18442
+D1
+~
+~
+0 0 18453
+D2
+~
+~
+0 0 18447
+D3
+~
+~
+0 0 18439
+S
+#18447
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18446
+D1
+~
+~
+0 0 18454
+D2
+~
+~
+0 0 18448
+D3
+~
+~
+0 0 18440
+S
+#18448
+The Patch of Sawgrass~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18447
+D1
+~
+~
+0 0 18455
+D3
+~
+~
+0 0 18441
+S
+#18449
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18450
+D2
+~
+~
+0 0 18453
+D3
+~
+~
+0 0 18442
+S
+#18450
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18451
+D2
+~
+~
+0 0 18449
+D3
+~
+~
+0 0 18443
+S
+#18451
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18452
+D2
+~
+~
+0 0 18450
+D3
+~
+~
+0 0 18444
+S
+#18452
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D2
+~
+~
+0 0 18451
+D3
+~
+~
+0 0 18445
+S
+#18453
+A Wall Covered in Tangle Briar~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18449
+D2
+~
+~
+0 0 18454
+D3
+~
+~
+0 0 18446
+S
+#18454
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have
+been magically altered to be huge, bear large fruit or bloom enormous
+flowers. It is rumored that Malchot spent a good deal of time in this garden
+in his later years, admiring the living creations that he altered. The sun
+can be seen peeking over the tall stone walls, and it is a very peaceful
+sight in this magnificent garden.
+~
+184 0 0
+D0
+~
+~
+0 0 18453
+D2
+~
+~
+0 0 18455
+D3
+~
+~
+0 0 18447
+S
+#18455
+The Garden~
+   All around you are beautiful flowers and plants. Some of the plants have 
+been magically altered to be huge, bear large fruit or bloom enormous 
+flowers. It is rumored that Malchot spent a good deal of time in this garden 
+in his later years, admiring the living creations that he altered. The sun 
+can be seen peeking over the tall stone walls, and it is a very peaceful 
+sight in this magnificent garden. 
+~
+184 0 0
+D0
+~
+~
+0 0 18454
+D3
+~
+~
+0 0 18448
+S
+#18456
+A Domed Hallway~
+   The walls here have been completely stripped of all their wood,revealing
+the bare stone beneath it. All of the screws and nails have been carefully
+removed. The domed ceiling, that was once lined with thick copper plates, are
+now bare. A whirring sound can be heard from all directions, and the clacking
+sounds of metal tools accompany them.
+~
+184 8 0
+D0
+~
+~
+0 0 18457
+D1
+~
+~
+0 0 18460
+D2
+~
+~
+0 0 18432
+D3
+~
+~
+0 0 18461
+S
+#18457
+A Domed Hallway~
+   The walls here have been completely stripped of all their wood,revealing
+the bare stone beneath it. All of the screws and nails have been carefully
+removed. The domed ceiling, that was once lined with thick copper plates, are
+now bare. A whirring sound can be heard from all directions, and the clacking
+sounds of metal tools accompany them.
+~
+184 8 0
+D1
+~
+~
+0 0 18458
+D2
+~
+~
+0 0 18456
+D3
+~
+~
+0 0 18459
+S
+#18458
+Chamber of the Steam Device~
+   The majority of this room is devoted to a large device that stands at
+least ten feet tall and five feet wide.  It spews forth steam and constantly
+churns away at its gears and cogs.  It doesn't seem to be producing or
+repairing anything, but it does not stop working.  The heat and humidity,
+not to mention the noise, makes the room very uncomfortable.
+~
+184 8 0
+D3
+~
+~
+0 0 18457
+S
+#18459
+A Construction Room~
+   Short wooden tables are spaced evenly around the room. On top of each 
+table is a varity of oddities. Small metal cogs, small pieces of wood and 
+metal, iron springs and other gadgets. Little gnome like creatures scamper 
+around the room, each completely made out of gears and cogs. They move in a 
+very machine like manner as they continue to work on, and build other 
+mechanical creations. 
+~
+184 9 0
+D1
+~
+~
+0 0 18457
+D3
+~
+Boarded Door~
+2 -1 18407
+S
+#18460
+A Construction Room~
+   Short wooden tables are spaced evenly around the room. On top of each
+table is a varity of oddities. Small metal cogs, small pieces of wood and
+metal, iron springs and other gadgets. Little gnome like creatures scamper
+around the room, each completely made out of gears and cogs. They move in a
+very machine like manner as they continue to work on, and build other
+mechanical creations.
+~
+184 8 0
+D3
+~
+~
+0 0 18456
+S
+#18461
+A Construction Room~
+   Short wooden tables are spaced evenly around the room. On top of each
+table is a varity of oddities. Small metal cogs, small pieces of wood and
+metal, iron springs and other gadgets. Little gnome like creatures scamper
+around the room, each completely made out of gears and cogs. They move in a
+very machine like manner as they continue to work on, and build other
+mechanical creations.
+~
+184 8 0
+D1
+~
+~
+0 0 18456
+S
+#18462
+Outside the Servant's Quarters~
+   This circular room has a tall domed ceiling.  The top of the dome is lined
+with copper, but it seems a piece of copper plating has fallen down to the
+dirty blue carpet below.  A large wooden bird cage is on the ground here, all
+smashed into little pieces.
+~
+184 8 0
+D0
+~
+~
+0 0 18433
+D1
+~
+~
+0 0 18463
+D2
+~
+~
+0 0 18476
+D3
+~
+~
+0 0 18464
+S
+#18463
+The Clay Room~
+   What a mess, the whole hardwood floor here is covered in a thick layer of
+red clay.  Seeming to morph out of the ground, a few humanoid blobs move
+around here.  These squat forms don't appear to have any real function, maybe
+in Malchot's heyday they were more solid and actually served a purpose.
+~
+184 9 0
+D3
+~
+~
+0 0 18462
+S
+#18464
+The Fabric Room~
+   Pieces of fabric lay all around the room. Different sizes and colors lay
+all around here.  A few of the pieces are shambled together into roughly
+humanoid shapes, walking around the room rubbing their bodies along any
+surface to apparently clean them.  Many of the fabric golems just wander
+in circles, apparently the magics used to animate these creatures is wearing
+off.
+~
+184 9 0
+D1
+~
+~
+0 0 18462
+S
+#18465
+Up the Broken Stairway~
+   You can barely get up these old run down stairs. Your foot goes through a 
+rotted board that used to be a step. Huge cobwebs cover the doorway ahead of 
+you, and a huge set of oak double doors can be seen behind the webs. Looking 
+down, your not so sure how easy it'll be to get down to the first floor. 
+~
+184 13 0
+D0
+~
+Double Doors~
+2 18401 18414
+D5
+~
+~
+0 0 18413
+S
+#18466
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run 
+about, seeking cover and trying to gain a tactical advantage on the other 
+side. The Halfmen can be told apart by the red and blue paint that is 
+splashed on their bodies, right now it looks like the red battalion is making 
+a move towards the blue sides bunkers. 
+~
+184 9 0
+D0
+~
+~
+0 0 18489
+D1
+~
+~
+0 0 18472
+D2
+~
+~
+0 0 18415
+D3
+~
+~
+0 0 18470
+S
+#18467
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18415
+D1
+~
+~
+0 0 18473
+D2
+~
+~
+0 0 18492
+D3
+~
+~
+0 0 18471
+S
+#18468
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18470
+D1
+~
+~
+0 0 18415
+D2
+~
+~
+0 0 18471
+D3
+~
+~
+0 0 18475
+S
+#18469
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18472
+D2
+~
+~
+0 0 18473
+D3
+~
+~
+0 0 18415
+S
+#18470
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18488
+D1
+~
+~
+0 0 18466
+D2
+~
+~
+0 0 18468
+S
+#18471
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18468
+D1
+~
+~
+0 0 18467
+D2
+~
+~
+0 0 18493
+S
+#18472
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18490
+D2
+~
+~
+0 0 18469
+D3
+~
+~
+0 0 18466
+S
+#18473
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18469
+D2
+~
+~
+0 0 18491
+D3
+~
+~
+0 0 18467
+S
+#18474
+A Wide Crack in the Stone~
+   You are standing in a large crack in the stone, which looks like it was 
+made naturally when the stone under the estate shifted. It is very dark, and 
+the uneven ground makes the terrain a little treacherous. Sounds of battle 
+can be heard from the west, accompanied by the sreams of various battle 
+cries. Movement to the east indicates that something must be further down the 
+wide crack. 
+~
+184 13 0
+D1
+~
+~
+0 0 18477
+D3
+~
+~
+0 0 18491
+S
+#18475
+A Tall Passage~
+   This appears to be a large hallway that has been carved into the stone. 
+Wooden support beams hold the walls and ceiling in a tight right angle. 
+Moisture hangs heavy in the air, and water droplets are formed on the 
+ceiling. The sounds of battle can be heard from the west. 
+~
+184 13 0
+D1
+~
+~
+0 0 18468
+D3
+~
+~
+0 0 18478
+S
+#18476
+The Wood Room~
+   Large stumps and planks of all kinds of wood lay around this room.  Some
+of the wood is finished and stained, but most of the pieces are rotting,
+splintered and warped.  A few skinny wooden forms shamble around this room
+in a strange matter, the wooden golems move in a very odd manner, maybe their
+enchantment was wearing off also.
+~
+184 9 0
+D0
+~
+~
+0 0 18462
+D3
+~
+Boarded Door~
+2 -1 18411
+S
+#18477
+A Wide Crack in the Stone~
+   You are standing in a large crack in the stone, which looks like it was
+made naturally when the stone under the estate shifted. It is very dark, and
+the uneven ground makes the terrain a little treacherous. Sounds of battle
+can be heard from the west, accompanied by the sreams of various battle
+cries. Movement to the east indicates that something must be further down the
+wide crack.
+~
+184 9 0
+D1
+~
+~
+0 0 18482
+D3
+~
+~
+0 0 18474
+S
+#18478
+A Tall Passage~
+   This appears to be a large hallway that has been carved into the stone.
+Wooden support beams hold the walls and ceiling in a tight right angle.
+Moisture hangs heavy in the air, and water droplets are formed on the
+ceiling. The sounds of battle can be heard from the west.
+~
+184 9 0
+D1
+~
+~
+0 0 18475
+D3
+~
+~
+0 0 18479
+S
+#18479
+A Small Domed Chamber~
+   The presence of the Red banner indicates that this must be the stronghold
+of the Halfman Red army.  These Halfmen all have thick red lines of paint
+splashed on their torsoes.  Being created to be fiercly loyal to Voldov
+and the Red army, the Halfmen fight. They do not fight for any apparent
+reason, except that they were created to fight.
+~
+184 9 0
+D0
+~
+~
+0 0 18480
+D1
+~
+~
+0 0 18478
+D2
+~
+~
+0 0 18487
+S
+#18480
+The Guard Room~
+   This small room is empty except for a large pillar like object.  Standing
+next to a bright red door, the pillar is carved to look like some sort of
+ancient animal, like drawings that are sometimes seen inside caves.  This
+pillar is carved into the shape of a raven, its sharp beak and claws included.
+As you approach the red door, you see the pillar shift as the stone raven
+jumps down and fiercely blocks the door.
+~
+184 9 0
+D1
+~
+Red Door~
+2 18424 18481
+D2
+~
+~
+0 0 18479
+S
+#18481
+Voldov's Command Post~
+   This large carved room is lit by large torches that hang from the wall. 
+The only thing in this room is a large oak table, which looks very old and 
+worn. A large parchment sits on the table, it appears to be a crude map of 
+the battleground. A huge Halfman stands over the table, his body is made of 
+pure steel. This is Voldov, the leader of the Red army. He looks like he 
+could easily destroy dozens of the strong stone halfmen. Chunks of wax and 
+straw are matted to the huge siege hammer he holds in one of his massive 
+fists. 
+~
+184 393224 0
+D3
+~
+Red Door~
+2 18424 18480
+S
+#18482
+A Wide Crack in the Stone~
+   You are standing in a large crack in the stone, which looks like it was
+made naturally when the stone under the estate shifted. It is very dark, and
+the uneven ground makes the terrain a little treacherous. Sounds of battle
+can be heard from the west, accompanied by the sreams of various battle
+cries. Movement to the east indicates that something must be further down the
+wide crack.
+~
+184 9 0
+D3
+~
+~
+0 0 18477
+D7
+~
+~
+0 0 18483
+S
+#18483
+Bunker of Milsik's Forces~
+   This room seems to be the main bunker of the Blue Halfman Army. Halfmen 
+scramble about, many of them look as though they have been wounded in a 
+recent battle. A Stone Halfman walks around, looking for any intruders that 
+would possibly ambush Milsik, the Blue forces commander. The hustle and 
+bustle here maybe indicates that the Blue army has been recently attacked by 
+the opposing Red army. 
+~
+184 9 0
+D1
+~
+~
+0 0 18486
+D2
+~
+~
+0 0 18484
+D9
+~
+~
+0 0 18482
+S
+#18484
+Under the Blue Portal~
+   A squat little creature, stacked on a short pillar sits here. His wooden
+hand is curled around a bright blue key.  A shimmering blue door floats
+about ten feet above the ground here.  The little totem creature seems to
+be following you with its eyes, like most things in this estate, it was
+probably created by Malchot.
+~
+184 9 0
+D0
+~
+~
+0 0 18483
+D4
+~
+Blue Window~
+2 18423 18485
+S
+#18485
+Milsik's Study~
+   A tall thin halfman made entirely of steel is here. He sits behind a large
+desk, which is the only thing in this room.  The Halfman wears a bright blue
+surcoat, and a pair of highly polished bronze colored sleeves cover his
+entire arms.  His rigid face glows from an orb that he holds in his hands.
+The crystalline ball pulses with warmth and magic. This is apparently Milsik,
+the leader of the Halfman army. He is rumored to be a magician, having 
+learned arcane arts, which is something the automaton Halfmen should not
+be able to do.
+~
+184 393224 0
+D5
+~
+Blue Window~
+2 18423 18484
+S
+#18486
+The Barracks~
+   This is where the Halfmen go to rest and repair themselves between 
+battles. A few broken stone men stumble around in here, Straw men with most 
+of thier hay missing, and wax men missing many appendages. All of them are 
+repairing themselves and others. A careful equilibrium has to be kept in the 
+Halfmen battles, since Malchot has died no more Halfmen are being created. A 
+Stone Halfman patrols the halls protecting his leader from invasions. 
+~
+184 9 0
+D3
+~
+~
+0 0 18483
+S
+#18487
+Resting Quarters~
+   This is where the Halfmen go to rest and repair themselves between 
+battles. A few broken stone men stumble around in here, Straw men with most 
+of thier hay missing, and wax men missing many appendages. All of them are 
+repairing themselves and others. A careful equilibrium has to be kept in the 
+Halfmen battles, since Malchot has died no more Halfmen are being created. 
+~
+184 9 0
+D0
+~
+~
+0 0 18479
+S
+#18488
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run 
+about, seeking cover and trying to gain a tactical advantage on the other 
+side. The Halfmen can be told apart by the red and blue paint that is 
+splashed on their bodies, right now it looks like the red battalion is making 
+a move towards the blue sides bunkers. 
+~
+184 9 0
+D1
+~
+~
+0 0 18489
+D2
+~
+~
+0 0 18470
+S
+#18489
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run 
+about, seeking cover and trying to gain a tactical advantage on the other 
+side. The Halfmen can be told apart by the red and blue paint that is 
+splashed on their bodies, right now it looks like the red battalion is making 
+a move towards the blue sides bunkers. 
+~
+184 9 0
+D1
+~
+~
+0 0 18490
+D2
+~
+~
+0 0 18466
+D3
+~
+~
+0 0 18488
+S
+#18490
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run 
+about, seeking cover and trying to gain a tactical advantage on the other 
+side. The Halfmen can be told apart by the red and blue paint that is 
+splashed on their bodies, right now it looks like the red battalion is making 
+a move towards the blue sides bunkers. 
+~
+184 9 0
+D2
+~
+~
+0 0 18472
+D3
+~
+~
+0 0 18489
+S
+#18491
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18473
+D1
+~
+~
+0 0 18474
+D3
+~
+~
+0 0 18492
+S
+#18492
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18467
+D1
+~
+~
+0 0 18491
+D3
+~
+~
+0 0 18493
+S
+#18493
+The Battleground~
+   Pieces of stone, small and large, lay all around the room. Halfmen run
+about, seeking cover and trying to gain a tactical advantage on the other
+side. The Halfmen can be told apart by the red and blue paint that is
+splashed on their bodies, right now it looks like the red battalion is making
+a move towards the blue sides bunkers.
+~
+184 9 0
+D0
+~
+~
+0 0 18471
+D1
+~
+~
+0 0 18492
+S
+#18494
+Dirt Road~
+   This narrow dirt path heads west and east.  It is not a very clear path, so its 
+hard to tell where it is leading to. The surrounding growth is devoid of any animal
+life, not even insects. 
+~
+0 0 3
+D1
+~
+~
+0 0 18400
+D3
+~
+~
+0 0 18495
+S
+#18495
+Dirt Road~
+   This narrow dirt path heads west and east.  It is not a very clear path, so its 
+hard to tell where it is leading to. The surrounding growth is devoid of any animal
+life, not even insects.
+~
+0 0 3
+D1
+~
+~
+0 0 18494
+D3
+~
+~
+0 0 18496
+S
+#18496
+Dirt Road~
+   This narrow dirt path heads west and east.  It is not a very clear path, so its 
+hard to tell where it is leading to. The surrounding growth is devoid of any animal
+life, not even insects. 
+~
+0 0 3
+D1
+~
+~
+0 0 18495
+D3
+~
+~
+0 0 18497
+S
+#18497
+Dirt Road~
+   This narrow dirt path heads west and east.  It is not a very clear path, so its 
+hard to tell where it is leading to. The surrounding growth is devoid of any animal
+life, not even insects. 
+~
+0 0 3
+D1
+~
+~
+0 0 18496
+D3
+~
+~
+0 0 18498
+S
+#18498
+Dirt Road~
+   This narrow dirt path heads west and east.  It is not a very clear path, so its 
+hard to tell where it is leading to. The surrounding growth is devoid of any animal
+life, not even insects. Winds howl as tumble weeds blow off in the west.
+~
+0 0 3
+D1
+~
+~
+0 0 18497
+D3
+~
+~
+0 0 6870
+S
+#18499
+FORMAT ROOM~
+   Wax Halfmen are the second most common halfmen used in the battles below 
+the Estate. Made of hardened wax of various colors, these halfmen are fat and 
+short. They seem to be the main offensive power of the Halfmen armies. 
+~
+184 0 0
+S
+#99999
+$~

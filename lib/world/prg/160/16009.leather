@@ -1,0 +1,22 @@
+>greet_prog 15~
+  if ispc($n)
+    if level($n) > 20
+      smile $n
+      say Good day to you friend! Could I perhaps interest you in some leathers?
+    endif
+  endif
+~
+>rand_prog 5~
+  say Leather works for sale! The finest leathers in the realm!
+~
+>rand_prog 5~
+  say Waterskins, boots, cloaks, all at half-price!
+~
+>rand_prog 5~
+  say All made from the finest doe skin. Even the king wears my wares!
+~
+>rand_prog 5~
+  say You'll not find better prices or leathers anywhere!
+~
+|
+

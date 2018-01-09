@@ -1,0 +1,84 @@
+#27000
+small key ring~
+a small key ring~
+A small key ring has been left lying on the ground here.~
+~
+15 0 2049
+20 0 -1 0
+0 0 0
+#27001
+bronze key small shiny~
+a small shiny bronze key~
+A small bronze key lies here collecting dust.~
+~
+18 0 1
+0 0 0 0
+0 0 0
+#27002
+dark robe obe~
+the dark robes of Obe~
+A set of dark robes have been descarded here on the floor.~
+~
+11 525312 1025
+0 0 0 0
+10 30000 0 1000
+E
+dark robe obe~
+The robes are dark and made of a heavy black material, unlike any
+you have seen before.  As you hold them in your hands you feel a rush
+of power pulsate through your body and feel drawn into putting them
+on.
+~
+A
+13 35
+A
+19 3
+#27003
+small gold plaque~
+a small gold plaque~
+A shiney ^ygold^n plaque is set into the far wall here.~
+Welcome brave traveler to a gauntlet unlike any you have ever run.
+Ahead lays your trial.  If you are clever and use your head your muscles may be
+spared. If you want to start your run the wall  is not as solid as it seems.  At any
+time you want to leave show your feelings and you may be spared. Greed, pride,
+gluttony, wrath, envy, sloth, lust, if shown will be our end.
+~
+16 0 0
+0 0 0 0
+0 0 0
+#27004
+gluttony plaque small~
+a small plaque engraved 'Gluttony'~
+A small plaque is attached to the wall here.~
+Thou shalst not eat nor drink. If you are strong willed you may pass.
+~
+16 0 0
+0 0 0 0
+0 0 0
+#27005
+plaque small greed~
+a small plaque engraved 'Greed'~
+A small plaque is attached to the wall here.~
+Thou shalst not be greedy if thou wishes to pass.
+~
+16 0 0
+0 0 0 0
+0 0 0
+#27006
+fake~
+a sword named, '^bStorm^n ^WBringer^n'~
+A magnificent sword lies here on the ground.~
+~
+5 67112448 8193
+10 2 4 15
+10 0 0
+#27007
+gold~
+a huge mountain of gold~
+A huge MOUNTAIN of ^YGOLD^n coins sits in the centre of the room reaching high up to the roof.~
+~
+8 0 0
+0 0 0 0
+10 2000000 0
+#99999
+$~

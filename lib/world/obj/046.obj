@@ -1,0 +1,85 @@
+#4600
+key small~
+a small key~
+A small key of red rock lies here on the ground.~
+~
+18 0 1
+2 0 0 0
+1 10 1
+#4601
+pick mining~
+a mining pick~
+A small pick lies here on the ground.~
+~
+5 0 8193
+0 1 6 11
+10 100 20
+#4602
+helm dwarven~
+a dwarven helm~
+A large dwarven helm lies here on the ground.~
+~
+9 0 17
+6 0 0 0
+10 1000 100
+#4603
+plate dwarven breast~
+a dwarven breast plate~
+A dwarven breast plate lies here on the ground.~
+~
+9 8388608 9
+10 0 0 0
+15 1500 150
+#4604
+shield large dwarven~
+a large dwarven shield~
+A large dwarven shield lies here on the ground.~
+~
+9 1 513
+4 0 0 0
+7 2000 200
+A
+17 -2
+A
+24 4
+#4605
+coins large pile~
+a large pile of coins~
+A large pile of coins are piled here.~
+~
+20 0 1
+30000 0 0 0
+0 0 0
+#4606
+dwarven battle axe~
+a large dwarven battle axe~
+A large battle axe lies here on the ground.~
+~
+5 320 8193
+0 2 12 1
+5 10000 100
+E
+dwarven battle axe~
+It is engraved with beautiful dwarven runes.~
+A
+18 1
+A
+19 1
+#4607
+large stone sarcophagus~
+a large stone sarcophagus~
+A large stone sarcophagus lies here, the lid fallen on the floor.~
+~
+15 0 0
+1000 1 -1 0
+1000 0 0
+#4608
+staff ruling large~
+the staff of ruling~
+A large and intricate staff rests here.~
+~
+4 2 16385
+25 5 5 7
+10 10000 100
+#99999
+$~

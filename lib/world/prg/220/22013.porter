@@ -1,0 +1,51 @@
+>greet_prog 50~
+  if ispc($n)
+    mpechoaround $n $I notices $N's presence and shouts in alarm... and hurls a flask of boiling tea in $N's face!
+    mpechoat $n $I notices your presence and shouts in alarm... and hurls a flask of boiling tea in your face!
+    mpdamage $n 4d10+50
+    mpcallmagic 'blind' $n
+    mpechoaround $n $N rubs $S eyes, trying desperately to wipe away the scalding liquid!
+    mpechoat $n You rub your eyes, trying desperately to wipe away the scalding liquid!
+  endif
+~
+>command_prog open~
+  mpechoat $n The porter slaps your hand away from the door handle.
+  mpechoaround $n The porter slaps $N's hand as $E tries to open the door.
+  say You can't go in there!
+  mpstopcommand
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpecho $I calls out for assistance!
+    mpmload 22020
+    mpecho A hauptstreitkraafte charges into the room and rescues $I!
+    mpforce hauptstreitkraafte rescue $i
+    mpforce hauptsteritkraafte rescue $i
+    mpforce hauptsteritkraafte rescue $i
+    mpforce hauptsteritkraafte rescue $i
+    mpforce hauptsteritkraafte rescue $i
+    mpforce hauptsteritkraafte rescue $i
+    mpforce hauptsteritkraafte rescue $i
+    mpforce hauptsteritkraafte rescue $i
+    kill $r
+  endif
+~
+>fight_prog 12~
+  if inroom($r) == here
+    mpechoat $r $I kicks you in the shins, tripping you!
+    mpechoaround $r $I kicks $R in $K shins, tripping $L!
+    mpdamage $r 8d8+20
+    mppose $r sit
+  endif
+~
+>fight_prog 20~
+  if inroom($r) == here
+    mpechoat $r $I hurls a flask of boiling tea in your face!
+    mpechoaround $r $I  hurls a flask of boiling tea in $R's face!
+    mpdamage $r 4d10+50
+    mpcallmagic 'blind' $r
+    mpechoaround $r $R rubs $K eyes, trying desperately to wipe away the scalding liquid!
+    mpechoat $r You rub your eyes, trying desperately to wipe away the scalding liquid!
+  endif
+~
+|

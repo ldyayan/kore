@@ -1,0 +1,680 @@
+#9700
+dao yen sage king~
+Dao Yen~
+Dao Yen sits on his throne here, his head in his hands.
+~
+MouseRider is the greatest mortal sage ever.  He is also a most
+troubled man, knowing things you couldn't even guess at.  You wonder
+how he could have all that knowledge and not want power.
+~
+2 0 1000 S
+1 20 100 1d4+2 1d4+0
+20 1
+6 6 1
+#9701
+Sentinel Beast~
+the Sentinel Beast~
+The Sentinel Beast's eyes glow chaotically as it attacks!
+~
+The Sentinel Beast is somewhat reminiscent of a wolf if you ignore the
+multi-colored glowing eyes, the horns, the six inch long claws...
+~
+34 8 0 S
+20 0 -20 5d10+300 5d6+0
+0 60000
+8 8 0
+#9702
+Leonna~
+Leonna~
+Leonna, guildmaster of the Mages' Guild of Kerofk, greets you.
+~
+Leonna seems to be a nice, fun-loving woman.  Obviously she became
+guildmaster due more to her personality than her wizardly power.  Her
+powers are no small matter, however; she is still one of the best
+mages in the city.
+~
+2 0 700 S
+24 0 -40 5d10+600 2d6+10
+10000 100000
+8 8 2
+#9703
+Bookstore Owner~
+the Bookstore Owner~
+The Bookstore Owner looks up from a paperback as you come in.
+~
+The Bookstore Owner looks very bored in his job here.  From the way
+his fingers twitch and his eyes dart, you wonder if he really is what
+he appears...
+~
+2 0 -500 S
+23 2 20 6d10+390 1d8+10
+7000 75000
+8 8 1
+#9704
+Seobagn Thieves Thief Guildmaster~
+Seobagn~
+The Thieves' Guildmaster, Seobagn, watches you with narrowed eyes.
+~
+Seobagn snickers at you while he spins a coin around his fingers with
+practised ease.  You wonder if its your coin.
+~
+2 0 -800 S
+24 0 -40 3d10+490 3d6+10
+15000 85000
+8 8 1
+#9705
+bartender~
+the bartender~
+The Bartender pours drinks several at a time to keep up with the rush.
+~
+The Bartender looks harried as he tries to keep up with several
+different orders at the same time.  Maybe you should bother him
+later...
+~
+2 0 250 S
+14 8 20 4d4+160 2d8+2
+4577 16000
+8 8 1
+#9706
+barmaid~
+the barmaid~
+The barmaids rush about delivering drinks and taking orders.
+~
+The barmaid looks at you with a tired glance as she struggles to keep
+up with the thirsty populace.  
+'What do you want?' she asks while pulling out an order pad.
+~
+130 0 100 S
+5 16 60 1d10+60 2d4+0
+50 800 
+8 8 2
+#9707
+drunk person~
+the drunk~
+A drunk person is here, babbling about something incessantly.
+~
+The drunk person looks at you and slurs, 'Whatre you lookin' at,
+bozo?'
+~
+2 0 0 S
+4 19 60 5d10+50 1d6+1
+300 750 
+8 8 1
+#9708
+lucky gambler~
+the gambler~
+A lucky gambler is here, striking it rich!
+~
+The lucky gambler looks at you and snickers.  Poor Boy!
+~
+6 0 0 S
+12 6 30 3d4+147 2d8+0
+3500 7500
+8 8 1
+#9709
+dealer~
+the Dealer~
+The dealer sets out a new hand for all to play.
+~
+The dealer looks at you flatly and says, 'Are you in or out?'  He
+really doesn't seem to care one way or another.
+~
+2 0 200 S
+23 2 20 6d10+390 1d8+12
+2000 80000
+8 8 1
+#9710
+Ben Benzaldehyde~
+Ben~
+Ben counts his money, ignoring you completely.
+~
+Benzaldehyde is a big man, reminding you of some elephants you've
+seen.  His eyes light up while he counts his money--a man possessed by
+his greed.
+~
+130 0 -785 S
+24 0 -20 10d10+400 2d6+4
+20000 80000
+6 6 1
+#9711
+Ginger shopkeeper~
+the shopkeeper~
+The shopkeeper smiles at you as you enter her store.
+~
+The shopkeeper here is the legendary Bob's wife Ginger.  She welcomes
+you to her establishment and invites you to browse as long as you
+wish.
+~
+2 0 900 S
+23 0 20 6d10+390 1d8+12
+5000 80000
+8 8 2
+#9712
+unlucky gambler~
+the gambler~
+An unlucky gambler struggles to hold back tears as his money disappears.
+~
+The unlucky gambler just doesn't say a word, he just keeps putting the
+money down, hoping to at least break even.  It doesn't even look like
+he's got a chance.
+~
+6 0 0 S
+12 12 50 10d10+100 2d7+0
+100 10000
+8 8 1
+#9713
+citizen~
+the citizen of Kerofk~
+A citizen is here, debating politics with anyone who will listen.
+~
+The citizen seems very upset about something.  You're not sure exactly
+what, but he seems anxious to tell you.  The more he talks, the more
+your attention wanders until you're ready to go.
+~
+130 0 350 S
+8 13 30 3d4+95 2d4+2
+500 3750
+8 8 1
+#9714
+receptionist wife~
+the receptionist~
+The receptionst smiles and offers you a room.
+~
+Myrama is all smiles as you look at her.  She is bright, witty, and
+the only reason why Kell is so successful.  Myrama is truly marvelous!
+~
+2 0 1000 S
+1 20 100 1d4+0 1d4+0
+0 1
+8 8 2
+#9715
+herbalist shopkeeper~
+the herbalist~
+The herbalist is here, reading to her plants.
+~
+The herbalist is an ancient woman, but she still seems spry and
+sharp-minded when it comes to plants.  You've no doubt this woman is
+an expert in her field.
+~
+2 0 500 S
+23 0 20 6d10+390 1d8+12
+5000 80000
+8 8 2
+#9716
+lawyer~
+the lawyer~
+The lawyer is here, ready to lie his tongue out.
+~
+The lawyer looks at you, ready to spot anything he can sue you for.
+This has got to be one of the most loathesome mobs in the whole mud!
+~
+130 0 -1000 S
+14 3 60 3d10+150 2d8+3
+10000 17000
+8 8 1
+#9717
+secretary~
+the secretary~
+The secretary pops his gum and asks you what you want.
+~
+The secretary is a bored, out-of-place looking man, until you spot the
+hidden daggers in his sleeve, boot, shirt, down his back, etc.  (not
+too good at hiding them, is he?).  Obviously, this man is here more to
+protect the mayor than to do office work.
+~
+2 0 0 S
+24 0 -40 5d10+450 1d8+12
+20000 120000
+6 6 1
+#9718
+mayor kell~
+Kell~
+Mayor Kell greets you into his office with a welcoming hand.
+~
+The mayor seems happy to see you, even though you interrupted his
+putting practice.  He sits you down, offers you a drink, and asks what
+he can do for you.
+~
+2 0 1000 S
+1 20 100 1d6+3 1d4+3
+500 50
+8 8 1
+#9719
+council guard~
+the council guard~
+The council guards look ready to rip you apart if you disturb the meeting.
+~
+The council guards are impressive.  As you look upon their pikes and
+plate armor, a little part of your brain start screaming about how
+you'd be crazy to mess with them.
+~
+2 8 0 S
+23 0 -50 10d10+390 3d8+5
+1000 100000
+8 8 1
+#9720
+council members~
+the Council Member~
+The council member looks quite upset as you interrupt them!
+~
+The council member is not just another politician...he can fight, too!
+~
+130 0 350 S
+15 6 10 3d6+180 2d8+2
+8000 21000
+8 8 1
+#9721
+jailer~
+the jailer~
+The jailer reads his newspaper while sitting in his chair.
+~
+The jailer looks bored, as if he was in a Fortran class.  That
+bored...really!
+~
+2 0 100 S
+10 11 20 3d5+120 2d6+1
+3000 9000
+6 6 1
+#9722
+prisoner~
+the prisoner~
+A prisoner here has given up all hopes of escape.
+~
+The prisoner looks up at you weakly and mumbles, 
+'I am not a number!'  He gasps and looks dejected again.
+~
+2 0 -500 S
+2 19 80 3d5+20 1d6+0
+0 200
+6 6 1
+#9723
+innguard guard~
+the innguard~
+A innguard is here, ready to fight off some marauding hordes.
+~
+The innguard looks fearless and ready to defend the patrons of the
+Fortress at a moments notice.
+~
+2 0 600 S
+25 0 -50 6d10+490 4d6+4
+20000 130000
+8 8 1
+#9724
+Jenk~
+Jenk~
+Jenk is here, ready to sell you anything!
+~
+Jenk is a lowdown no good shopkeeper who'll sell anything to make a
+gold!  He's corrupt, greedy, and you're kind of man!
+~
+2 0 -500 S
+25 0 0 6d10+590 1d8+18
+5000 80000
+8 8 1
+#9725
+black marketeer~
+the black marketeer~
+The black marketeer is here ready to sell you anything you want.
+~
+The black marketeer has set up shop in Jenk's place to sell just what
+you need...  Now what is it that you need?
+~
+2 0 -750 S
+25 0 0 7d10+700 2d6+15
+5000 80000
+8 8 1
+#9726
+priestess~
+the priestess~
+A priestess is here, performing her absolutions.
+~
+The priestess looks like a kind young woman who has seen too much suffering for
+one life.  She now devotes his life to Vulmarta, hoping to one day ascend to
+immortality.
+~
+130 0 0 S
+7 14 40 3d5+83 2d4+1
+10 2250
+8 8 2
+#9727
+high priest guildmaster~
+the High Priestess~
+The High Priestess of Vulmarta is here, glowing benevolence.
+~
+The High Priestess will be ascending to Vulmarta soon, and now her entire
+body glows with the same light as her soul.
+~
+2 128 1000 S
+24 0 -30 4d6+483 3d8+4
+10000 155000
+8 8 2
+#9728
+sergeant recruiting~
+the sergeant~
+The recruiting sergeant tries to make you sign his forms.
+~
+The recruiting sergeant has seen the world.  Now he's trying to make
+you do the same.  ARGH!!! Resist!  Resist!!
+~
+2 0 0 S
+23 0 -20 6d10+390 1d8+12
+2000 80000
+8 8 1
+#9729
+captain guard~
+the Captain~
+The Captain of the Guard salutes you with his epee.
+~
+The Captain has a true love of civilized fighting.  He raises his
+eyebrow to you...shall we have a go at it?
+~
+2 0 200 S
+25 0 -40 6d10+490 4d6+4
+20000 130000
+8 8 1
+#9730
+beggar~
+the beggar~
+A beggar sits here, waiting for handouts.
+~
+The beggar looks up at you with sad eyes.  However, you notice
+something shiny clenched in his hand...  What is he hiding?
+~
+192 0 900 S
+1 20 100 1d4+1 1d4+0
+10 25
+6 6 1
+#9731
+citizen~
+the citizen of Kerofk~
+A citizen is here, waiting in line.
+~
+The citizen looks at you with a flat stare.  You can see he's
+wondering if you'll butt in line.
+~
+2 0 100 S
+9 12 30 2d6+109 2d5+1
+500 6000
+8 8 1
+#9732
+citizen~
+the citizen of Kerofk~
+A citizen of Kerofk is here, going about his business.
+~
+This citizen really doesn't have time to fool around with adventurers;
+he has too much to do.
+~
+64 0 100 S
+9 12 30 2d6+109 2d5+1
+500 6000
+8 8 1
+#9733
+militia guard militiaman~
+the militiaman~
+A militia guard is here keeping the peace.
+~
+The militia guardsman looks very well trained, for a citizen.
+~
+64 0 500 S
+13 8 0 2d12+130 2d8+1
+2000 16000
+8 8 1
+#9734
+Kervin~
+Kervin~
+Kervin the wandering mage is well, ...wandering here.
+~
+Kervin is very odd looking....  He has a big unkempt shock of white
+hair that stick straight up and wears an electric blue robe to hide
+the rest of his features.
+~
+64 8 700 S
+25 0 -40 5d10+600 3d8+6
+35000 150000
+8 8 1
+#9735
+gateguard~
+the gateguard of Kerofk~
+The gateguard is here, guarding the gate.
+~
+The guard guard looks at you and enunciates very clearly,
+'Guard guard guard guard guard guard guard guard guard.'
+	(looks like he got the right job!)
+~
+2 0 400 S
+15 6 10 3d6+180 2d8+2
+5000 21000
+8 8 1
+#9736
+bright light~
+the Bright Light~
+A bright shining light here nearly blinds you!
+~
+You try to look closer at the light and nearly burn your retinas clear
+off.  That wasn't too bright now, was it?
+~
+34 8 0 S
+18 3 0 1d1+400 3d6+2
+0 30000
+8 8 0
+#9737
+guardian wisp~
+the guardian wisp~
+Some guardian wisps here attack!
+~
+The wisp is made up of clammy, misty air, and a bad attitude.
+~
+34 1048576 0 S
+18 0 0 1d1+199 1d1+19
+0 30000
+8 8 0
+#9738
+orb~
+the Orb~
+The orb glows with a pure white light.
+~
+The orb is pure crystal and shines with a bright aura.  This is surely
+the object of your quest!
+~
+2 8 1000 S
+28 0 -80 1d1+1200 4d6+6
+0 310000
+8 8 0
+#9739
+liche mouserider~
+the Lich~
+The lich that was Dao Yen curses you horribly!
+~
+This liche was once the troubled sage Dao Yen.  Now he has finally
+lunged for power and achieved it, making him immortal.  Will you be
+able to stop him?
+~
+34 128 -1000 S
+30 0 -100 1d1+1499 4d8+5
+200000 800000
+8 8 0
+#9740
+storm demon~
+the Storm Demon~
+The storm demons attack on the Lich's order!
+~
+The demons are spindly with great bats wings and glowing blue eyes.
+They are twisted things not of nature.  They attack!
+~
+34 8 -900 S
+10 0 50 1d1+199 2d6+1
+0 9000
+8 8 0
+#9741
+Tiersten vampire~
+Tiersten~
+Tiersten looks at you with angry eyes and bared fangs!
+~
+Tiersten, the patriarch of this odd, odd, family, turns out to be a
+vampire.  And a demonologist to boot!  He growls incoherently at you
+as he attacks!
+~
+34 136 -1000 S
+26 0 -60 1d1+499 4d6+4
+100000 160000
+8 8 1
+#9742
+Edimmu~
+the Edimmu~
+A mist-like being stabs at you with a tendril!
+~
+There doesn't seem to be much to look at, besides the coiling mist
+attacking you!
+~
+34 1573002 0 S
+20 0 -100 1d1+249 4d6+0
+0 60000
+8 8 0
+#9743
+Sosivia~
+Sosivia~
+Sosivia stands here, lost in daydreams.
+~
+Sosivia struggles to hold onto her artist's soul, in spite of her
+family.  She is a beautiful woman that you wish you could take away
+from all this.
+~
+18 0 1000 S
+12 9 20 1d1+149 2d7+1
+10000 13000
+8 8 2
+#9744
+Celia~
+Celia~
+Celia sneers at you...Sneer!  Sneer!
+~
+Celia is Talbot and Korino's sister, and Sosivia's mother.  She is the
+head of the household as far as you can tell, and leeches onto the
+power with a death-grip.  What a horrible woman!
+~
+6 0 -600 S
+16 5 10 1d1+199 2d8+2
+20000 24000
+8 8 2
+#9745
+Talbot~
+Talbot~
+Talbot spars with his brother Korino here.
+~
+Talbot has a permanent sneer on his face.  He barely glances at you as
+he beats his brother's sword back to take a vicious swipe...
+~
+2 0 0 S
+15 6 10 1d1+189 2d8+2
+15000 21000
+8 8 1
+#9746
+Korino~
+Korino~
+Korino spars with his brother Talbot here.
+~
+Korino looks at you with barely disguised contempt as he parries
+Talbot's blow and ripostes around...
+~
+2 0 0 S
+15 6 10 1d1+189 2d8+2
+15000 21000
+8 8 1
+#9747
+Fleecem Bungle~
+Bungle Fleecem~
+Bungle Fleecem, esquire, looks at you expectantly.
+~
+He smiles, leans back, and tries to look bored to cover that vulturous
+attitude.  He doesn't quite succeed; he IS a lawyer, after all.
+~
+130 0 -600 S
+14 7 10 3d5+170 2d8+1
+8000 8000
+6 6 1
+#9748
+digger gravedigger~
+the gravedigger~
+A gravedigger works away the nightshift here.
+~
+He looks tired and dirty.  A glare out of the corner of his eye, and
+he dismisses you easily.  He doesn't seem to care one whit about you.
+~
+2 0 200 S
+9 12 40 3d5+108 2d7+2
+300 6500
+8 8 1
+#9749
+citizen~
+the citizen of Kerofk~
+A citizen of Kerofk is here, going about her business.
+~
+This citizen really doesn't have time to fool around with adventurers;
+she has far too much to do.
+~
+64 0 100 S
+9 12 30 2d6+109 2d5+1
+500 6000
+8 8 2
+#9750
+hellhounds hounds hell hell-hounds~
+a hellhound~
+A hellhound looks at you with hunger.
+~
+It's hide is a deep brownish-red hue, but its eyes are the most
+noticeable about this magnificent beast.  Red within red eyes, with
+tiny pupils of black in the center.
+~
+34 40 -500 S
+18 13 -30 3d5+220 3d8+0
+0 30000
+8 8 0
+#9751
+goblin~
+a goblin~
+A goblin launches into a frenzied attack!
+~
+You see the bloodlust in its eyes, and know there's no reasoning with
+this creature...
+~
+34 40 -600 S
+10 5 10 3d5+120 2d5+3
+0 9000
+8 8 0
+#9752
+farmer~
+the farmer~
+The farmer sells her lackluster with all the excitement it warrants.
+~
+She looks wearied, but keeps hanging in there!
+~
+2 0 200 S
+18 13 20 3d5+220 3d6+2
+6000 30000
+8 8 2
+#9753
+receptionist~
+the receptionist~
+A receptionist stands in front of you, waiting to help you.
+~
+She looks at you happily, and pushes a ledger at you.
+~
+2 0 0 S
+18 13 0 3d5+250 3d5+2
+4000 25000
+8 8 2
+#9754
+bartender~
+the bartender~
+The bartender pours drinks several at a time to keep up with the rush.
+~
+The bartender looks harried as he tries to keep up with several
+different orders at the same time.  Maybe you should bother him
+later...
+~
+2 0 250 S
+14 8 20 4d4+160 2d8+2
+4577 16000
+8 8 1
+#99999
+$~

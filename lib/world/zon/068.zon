@@ -1,0 +1,144 @@
+#68
+City of Orchha (Ayana)~
+6899 20 2 32
+M 0  6810    10  6837            a spirit citizen
+M 0  6810    10  6837            a spirit citizen
+E 1  6828     5    21                    ears a diamond earring
+M 0  6836    12  6822            a lost spirit
+M 0  6836    12  6822            a lost spirit
+E 1  6827    15    17                    held a crystal ball
+R 0  6834  6812    -1            remove a wooden rack
+O 0  6812   100  6834            a wooden rack
+P 1  6813   100  6812                    put a bottle of fine white wine in a wooden rack
+P 1  6813   100  6812                    put a bottle of fine white wine in a wooden rack
+M 0  6817     9  6874            a not there mob tumbleweed
+M 0  6836    12  6874            a lost spirit
+M 0  6836    12  6878            a lost spirit
+M 0  6836    12  6877            a lost spirit
+M 0  6836    12  6820            a lost spirit
+M 0  6800     6  6818            a black cat
+M 0  6817     9  6818            a not there mob tumbleweed
+M 0  6836    12  6818            a lost spirit
+M 0  6836    12  6815            a lost spirit
+O 0  6808    75  6816            a rusty old sword
+M 0  6836    12  6816            a lost spirit
+O 0  6809   100  6812            a statue of the goddess
+M 0  6836    12  6812            a lost spirit
+M 0  6801     6  6813            a spirit
+M 0  6836    12  6813            a lost spirit
+M 0  6801     6  6800            a spirit
+M 0  6836    12  6800            a lost spirit
+M 0  6803     2  6817            a spirit of a wasteland warrior
+E 1  6821    10    10                    arms wasteland warrior sleeves
+E 1  6822    20    16                    wield a sword of a wasteland warrior
+M 0  6803     2  6817            a spirit of a wasteland warrior
+M 0  6802     2  6870            a spirit of a wasteland warrior.
+E 1  6821    10    10                    arms wasteland warrior sleeves
+E 1  6822    20    16                    wield a sword of a wasteland warrior
+M 0  6802     2  6870            a spirit of a wasteland warrior.
+M 0  6817     9  6870            a not there mob tumbleweed
+O 0  6801   100  6814            a fountain
+M 0  6801     6  6814            a spirit
+M 0  6816     1  6814            a nothere mob fountain
+M 0  6812     8  6832            a spirit of a dockworker
+M 0  6814     3  6832            seasounds_1
+R 0  6872  6823    -1            remove a safe
+O 0  6823   100  6872            a safe
+M 0  6813     1  6872            Cadilari
+M 0  6808     4  6833            a seagull
+M 0  6815     3  6833            seasounds_2
+M 0  6812     8  6831            a spirit of a dockworker
+M 0  6815     3  6831            seasounds_2
+M 0  6812     8  6828            a spirit of a dockworker
+M 0  6814     3  6828            seasounds_1
+M 0  6812     8  6829            a spirit of a dockworker
+M 0  6815     3  6829            seasounds_2
+M 0  6808     4  6830            a seagull
+M 0  6814     3  6830            seasounds_1
+R 0  6806  6800    -1            remove a thousand shards
+O 0  6800   100  6806            a thousand shards
+M 0  6801     6  6806            a spirit
+M 0  6827     1  6806            statue_8
+R 0  6805  6800    -1            remove a thousand shards
+O 0  6800   100  6805            a thousand shards
+M 0  6826     1  6805            statue_7
+R 0  6804  6800    -1            remove a thousand shards
+O 0  6800   100  6804            a thousand shards
+M 0  6825     1  6804            statue_6
+R 0  6803  6800    -1            remove a thousand shards
+O 0  6800   100  6803            a thousand shards
+M 0  6824     1  6803            statue_5
+R 0  6807  6800    -1            remove a thousand shards
+O 0  6800   100  6807            a thousand shards
+M 0  6823     1  6807            statue_4
+R 0  6808  6800    -1            remove a thousand shards
+O 0  6800   100  6808            a thousand shards
+M 0  6822     1  6808            statue_3
+R 0  6809  6800    -1            remove a thousand shards
+O 0  6800   100  6809            a thousand shards
+M 0  6821     1  6809            statue_2
+R 0  6810  6800    -1            remove a thousand shards
+O 0  6800   100  6810            a thousand shards
+M 0  6801     6  6810            a spirit
+M 0  6820     1  6810            statue_1
+M 0  6804     1  6821            a thief
+E 1  6819    20     8                    feet a pair of shady black boots
+E 1  6820    20    13                    waist a black shady belt
+E 1  6818    20    16                    wield a black shady dagger
+M 0  6800     6  6824            a black cat
+M 0  6812     8  6824            a spirit of a dockworker
+M 0  6812     8  6825            a spirit of a dockworker
+M 0  6812     8  6826            a spirit of a dockworker
+M 0  6812     8  6827            a spirit of a dockworker
+M 0  6811     6  6841            a spirit of a child
+M 0  6811     6  6859            a spirit of a child
+M 0  6811     6  6861            a spirit of a child
+M 0  6811     6  6862            a spirit of a child
+M 0  6811     6  6863            a spirit of a child
+M 0  6811     6  6864            a spirit of a child
+M 0  6810    10  6839            a spirit citizen
+M 0  6810    10  6845            a spirit citizen
+M 0  6810    10  6848            a spirit citizen
+M 0  6810    10  6848            a spirit citizen
+M 0  6810    10  6851            a spirit citizen
+M 0  6810    10  6851            a spirit citizen
+M 0  6810    10  6854            a spirit citizen
+M 0  6810    10  6854            a spirit citizen
+O 0  6816   100  6823            a wooden carton
+P 1  6817   100  6816                    put pieces of artwork in a wooden carton
+M 0  6819     1  6801            a spirit healer
+M 0  6809     4  6886            a butterfly
+M 0  6809     4  6886            a butterfly
+M 0  6809     4  6890            a butterfly
+M 0  6809     4  6890            a butterfly
+M 0  6817     9  6879            a not there mob tumbleweed
+M 0  6817     9  6865            a not there mob tumbleweed
+M 0  6817     9  6866            a not there mob tumbleweed
+M 0  6817     9  6867            a not there mob tumbleweed
+M 0  6817     9  6868            a not there mob tumbleweed
+M 0  6817     9  6869            a not there mob tumbleweed
+O 0  6814   100  6835            a small wooden chest
+P 1  6815   100  6814                    put a worm in a small wooden chest
+P 1  6815   100  6814                    put a worm in a small wooden chest
+P 1  6815   100  6814                    put a worm in a small wooden chest
+P 1  6815   100  6814                    put a worm in a small wooden chest
+O 0  6811   100  6876            a large wooden barrel
+O 0  6810   100  6891            a tree
+M 0  6807     2  6888            a small rabbit
+M 0  6807     2  6888            a small rabbit
+M 0  6806     4  6889            a small yellow bird
+M 0  6806     4  6889            a small yellow bird
+M 0  6805     6  6895            a fish
+M 0  6805     6  6895            a fish
+M 0  6805     6  6896            a fish
+M 0  6805     6  6896            a fish
+O 0  6806   100  6873            an oven
+P 1  6807   100  6806                    put a loaf of rock hard bread in an oven
+O 0  6805    70  6875            a book
+O 0  6802   100  6871            a wooden desk
+P 1  6803   100  6802                    put writing paper in a wooden desk
+P 1  6804   100  6802                    put a pencil in a wooden desk
+M 0  6801     6  6802            a spirit
+S
+#99999
+$~

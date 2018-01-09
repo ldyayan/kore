@@ -1,0 +1,1457 @@
+#15200
+Near the Base of the Beanstalk~
+   You stand near the base on an incredibly giant beanstalk.  Twenty grown men
+would have a tough time trying to encircle the verdant monstrosity.  As you
+crane your neck further and further backward, all you can see is a living line
+of green stretching into the distant clouds.  You have a sudden urge to chop
+down the beanstalk and fulfill some half-understood childhood urges, but this
+is not that kind of story.  Instead, you decide to go up the beanstalk and see
+what lie beyond.
+~
+152 0 3
+D4
+~
+~
+0 0 15201
+S
+#15201
+On the Trunk of the Beanstalk~
+   Picking your way through the intertwined vines, you come upon a veritable
+jungle of... bean.  The thick matting of plant growth cocoons the interior
+space, plunging it into near total darkness.  The soft rustling of gossamer
+wings and the muffled scuttling of segmented legs tell you that you're not
+alone.  Giant insects of all kinds have chosen this place to be their home,
+and they do not take kindly to strangers.
+~
+152 1 3
+D0
+~
+~
+0 0 15201
+D1
+~
+~
+0 0 15200
+D2
+~
+~
+0 0 15200
+D3
+~
+~
+0 0 15201
+D4
+~
+~
+0 0 15202
+D5
+~
+~
+0 0 15200
+D6
+~
+~
+0 0 15201
+D7
+~
+~
+0 0 15201
+D8
+~
+~
+0 0 15201
+D9
+~
+~
+0 0 15200
+S
+#15202
+Higher Up on the Beanstalk~
+   As you climb up the beanstalk, the growth of vines gradually becomes
+sparse, and diffuse sunlight begins to filter through the cracks.  The
+susurration of a gentle breeze carries the faint fragrance of pea blossoms
+that are almost as large as your body. Pea pods that can double as canoes
+hang heavy from the vines with their rotund treasure.  Huge insects, tall as
+a fully grown human, scuttle about in their natural habitat.  The vines twist
+and turn in unexpected directions, forming paths into the unknown.
+~
+152 0 3
+D0
+~
+~
+0 0 15201
+D1
+~
+~
+0 0 15202
+D3
+~
+~
+0 0 15203
+D4
+~
+~
+0 0 15202
+D5
+~
+~
+0 0 15201
+D6
+~
+~
+0 0 15203
+S
+#15203
+Higher Up on the Beanstalk~
+   After what seemed to be hours of climbing, you reach a small clearing
+between the vines, and you collapse on the ground in exhaustion.  You feel
+light-headed from breathing the too-thin air, and you wonder exactly how far
+up you have come.  A small break between the vines offers you a view of the
+outside world.  You peer out and gasps again, this time in wonder.  Directly
+above you looms a seething mass of grey clouds that seems solid as granite.
+And far, far below you lies Kore, looking like an incredibly lifelike map.
+A sudden gust of howling wind coming from above threatens to bowl you over,
+and you quickly retreat into the relative safety at the center of the clearing.
+~
+152 64 3
+D1
+~
+~
+0 0 15204
+D2
+~
+~
+0 0 15204
+D3
+~
+~
+0 0 15203
+D4
+~
+~
+0 0 15205
+D5
+~
+~
+0 0 15202
+D6
+~
+~
+0 0 15202
+D9
+~
+~
+0 0 15204
+S
+#15204
+WAAAAAYYYY out on a limb~
+   Entranced by the beauty of the world that extends in all directions below
+you, you wandered out onto a tender young shoot to get a better view.  Trying
+vainly to spot your house, you did not notice the shoot bending and straining
+to hold your weight.  Suddenly, with a mighty SPROING!, the shoot flipped you
+way up in the air like a springboard.  Your last coherent thought was,
+"Wow, I bet I can do a few hundred flips before I hit."  Then you screamed...
+    all
+          the
+                 way
+                        down.
+                               *SPLAT*
+~
+152 166 3
+D0
+~
+~
+0 0 15203
+D3
+~
+~
+0 0 15203
+D5
+~
+~
+0 0 15205
+D7
+~
+~
+0 0 15203
+S
+#15205
+Tip of the Beanstalk~
+   The giant beanstalk finally ends as it breaks through the gray clouds.
+The suns glares at you with sudden fury in a cloudless azure sky, and you
+have to squint your eyes to discern the features around you.  But what a sight!
+A powerful magic has molded the clouds into a semblance of a normal forest.
+But clouds are fickle things, and they shapeshift constantly from trees to
+animals to inexplicable phantasms.  The howling winds have stopped, and an
+eerie silence settles upon you, waiting for your next move.
+~
+152 0 3
+D0
+~
+~
+0 0 15205
+D1
+~
+~
+0 0 15203
+D3
+~
+~
+0 0 15206
+D4
+~
+~
+0 0 15204
+D5
+~
+~
+0 0 15203
+S
+#15206
+In Front of the Giant Mansion~
+   You are standing in front of a beautifully restored red brick colonial
+mansion.  Roman style columns guard stately double oaken doors.  Expensive
+silk curtains are drawn over the large bay windows, hiding the sights from
+within the house.  But the second floor is a full 50 feet above you.  Who would
+need something this giant?  And since when did Kore have a colony?
+~
+152 0 9
+D1
+~
+~
+0 0 15205
+D2
+These double oaken doors block your entry into the giant mansion.
+~
+oaken doors~
+2 15200 15207
+S
+#15207
+The Foyer~
+   You are standing inside a small foyer, where tired feet can rest before
+proceeding further.  The furnishings are spartan: whitewashed walls, a few
+giant-sized but dropping flowers in a vase, and replica of famous paintings
+on the wall, but the the room projects a soothing calm, helping you to relax.
+~
+152 28 0
+D0
+Double oaken doors block your exit from the mansion.
+~
+oaken doors~
+2 15200 15206
+D2
+~
+~
+0 0 15208
+S
+#15208
+The Atrium~
+   You are standing in the atrium, the traffic center of the giant mansion.
+A magnificient chandelier illuminates the way for legions of giant servants
+who are carrying piles of food, cleaning the rooms, or just acting busy.
+A delicious fragrance of fine cuisine wafts from the west and east, while the
+strong odor of disinfectants emanates from the south.  WATCH OUT!  A giant
+servant almost tramples you while hurrying by with yet another tray of food.
+Maybe you should move to a quieter area quickly.
+~
+152 8 0
+D0
+~
+~
+0 0 15207
+D1
+A set of curtains separates the foyer from the room with the food.
+~
+curtains~
+1 0 15209
+D2
+~
+~
+0 0 15225
+D3
+~
+~
+0 0 15210
+S
+#15209
+Mahogany Dining Table~
+   You are standing on a gigantic mahogany dining table that is loaded with
+delicacies from all parts of the world: a mountain of roast beef, a heap of
+tossed salads, a multitude of bread, a house-sized folded paper container
+with "sweet n sour pork" scrawled on the side, etc.  There is probably enough
+food here to feed a small third world nation.  There in an ominous sound of
+munching and chewing coming from the far end of the table...
+~
+152 0 0
+D0
+~
+~
+0 0 15211
+D1
+~
+~
+0 0 15213
+D3
+A set of curtains divides the dining room from the atrium.
+~
+curtains~
+1 0 15208
+D6
+~
+~
+0 0 15212
+S
+#15210
+Busy Hallway~
+   You are standing in a hallway bustling with activity.  The slightly dirty,
+whitewashed walls, interspaced with iron holders containing guttering torches,
+give the entire hallway a sense of pragmatic functionality.  Groups of
+giant servants rush about, carrying objects, running errands, and generally 
+making their masters and mistresses more comfortable.
+~
+152 8 0
+D0
+~
+~
+0 0 15216
+D1
+~
+~
+0 0 15208
+D2
+~
+~
+0 0 15260
+D3
+~
+~
+0 0 15217
+S
+#15211
+Mahogany Dining Table~
+   You are standing on a gigantic mahogany dining table that is loaded with
+delicacies from all parts of the world: a mountain of roast beef, a heap of
+tossed salads, a multitude of bread, a house-sized folded paper container
+with "sweet n sour pork" scrawled on the side, etc.  There is probably enough
+food here to feed a small third world nation.  There in an ominous sound of
+munching and chewing coming from the far end of the table...
+~
+152 0 0
+D1
+~
+~
+0 0 15212
+D2
+~
+~
+0 0 15209
+D7
+~
+~
+0 0 15213
+S
+#15212
+Mahogany Dining Table~
+   You are standing on a gigantic mahogany dining table that is loaded with
+delicacies from all parts of the world: a mountain of roast beef, a heap of
+tossed salads, a multitude of bread, a house-sized folded paper container
+with "sweet n sour pork" scrawled on the side, etc.  There is probably enough
+food here to feed a small third world nation.  There in an ominous sound of
+munching and chewing coming from the far end of the table...
+~
+152 0 0
+D1
+~
+~
+0 0 15215
+D2
+~
+~
+0 0 15213
+D3
+~
+~
+0 0 15211
+D7
+~
+~
+0 0 15214
+D8
+~
+~
+0 0 15209
+S
+#15213
+Mahogany Dining Table~
+   You are standing on a gigantic mahogany dining table that is loaded with
+delicacies from all parts of the world: a mountain of roast beef, a heap of
+tossed salads, a multitude of bread, a house-sized folded paper container
+with "sweet n sour pork" scrawled on the side, etc.  There is probably enough
+food here to feed a small third world nation.  There in an ominous sound of
+munching and chewing coming from the far end of the table...
+~
+152 0 0
+D0
+~
+~
+0 0 15212
+D1
+~
+~
+0 0 15214
+D3
+~
+~
+0 0 15209
+D6
+~
+~
+0 0 15215
+D9
+~
+~
+0 0 15211
+S
+#15214
+Mahogany Dining Table~
+   You are standing on a gigantic mahogany dining table that is loaded with
+delicacies from all parts of the world: a mountain of roast beef, a heap of
+tossed salads, a multitude of bread, a house-sized folded paper container
+with "sweet n sour pork" scrawled on the side, etc.  There is probably enough
+food here to feed a small third world nation.  There in an ominous sound of
+munching and chewing coming from the far end of the table...
+~
+152 0 0
+D0
+~
+~
+0 0 15215
+D3
+~
+~
+0 0 15213
+D9
+~
+~
+0 0 15212
+S
+#15215
+Mahogany Dining Table~
+   You are still standing on a gigantic mahogany table.  There are still many
+international delicacies waiting to be sampled.  But off to one end, a vast
+quantity of food is disappearing at an alarming rate, accompanied by the sounds
+of gnawing, munching, and the occasional burping.  You have found the source of
+the mysterious noise...
+~
+152 0 0
+D2
+~
+~
+0 0 15214
+D3
+~
+~
+0 0 15212
+D8
+~
+~
+0 0 15213
+S
+#15216
+The Kitchen~
+   You stand in a cavernous and steamy kitchen full of various dishes being
+prepared.  Literally hundreds of giant-sized cooking containers gurgle, hiss,
+or just plain boil over open flames.  A multitude of aromas assault your
+nostrils.  The constant sticky heat threatens to sap your strength.  And from
+some unknown source there drifts a tinny sound of human singing in a strange
+language.
+~
+152 8 0
+D2
+~
+~
+0 0 15210
+S
+#15217
+Busy Hallway~
+   You are standing in a hallway bustling with activity.  The slightly dirty,
+whitewashed walls, interspaced with iron holders containing guttering torches,
+give the entire hallway a sense of pragmatic functionality.  Groups of
+giant servants rush about, carrying objects, running errands, and generally 
+making their masters and mistresses more comfortable.
+~
+152 8 0
+D0
+~
+~
+0 0 15223
+D1
+~
+~
+0 0 15210
+D2
+~
+~
+0 0 15261
+D3
+A swining door separates the garbage chute from the mansion.
+~
+swinging door~
+1 0 15218
+S
+#15218
+Garbage Chute~
+   You are standing in a dark, damp, and foul-smelling vertical tunnel.
+Random bits of rotting food and decaying trash decorates the side of the chute,
+and occasionally you scramble out of the way as another load of junk comes
+crashing down from above.  The stink on everything is nearly poisonous, and
+you despair about ever being able to remove that odor from your equipment.
+~
+152 105 9
+D1
+a swinging door separates the garbage chute from the mansion.
+~
+swinging door~
+1 0 15217
+D4
+~
+~
+0 0 15221
+D5
+~
+~
+0 0 15219
+S
+#15219
+Garbage Chute~
+   You are standing in a dark, damp, and foul-smelling vertical tunnel.
+Random bits of rotting food and decaying trash decorates the side of the chute,
+and occasionally you scramble out of the way as another load of junk comes
+crashing down from above.  The stink on everything is nearly poisonous, and
+you despair about ever being able to remove that odor from your equipment.
+~
+152 105 9
+D4
+~
+~
+0 0 15218
+D5
+~
+~
+0 0 15220
+S
+#15220
+The INCINERATOR~
+   Being the newest model, the In-Cin 2000 commercial grade food and trash
+incinerator achieved complete combustion of the new batch of garbage in 0.034
+seconds.
+   Damn, you didn't have the time to scream.
+~
+152 174 0
+D4
+~
+~
+0 0 15219
+D5
+~
+~
+0 0 15200
+S
+#15221
+Garbage Chute~
+   You are standing in a dark, damp, and foul-smelling vertical tunnel.
+Random bits of rotting food and decaying trash decorate the side of the chute,
+and occasionally you scramble out of the way as another load of junk comes
+crashing down from above.  The stink on everything is nearly unbearable, and
+you despair about ever being able to remove that odor from your equipment.
+~
+152 73 9
+D4
+~
+~
+0 0 15222
+D5
+~
+~
+0 0 15218
+S
+#15222
+Garbage Chute~
+   You are standing in a dark, damp, and foul-smelling vertical tunnel.
+Random bits of rotting food and decaying trash decorates the side of the chute,
+and occasionally you scramble out of the way as another load of junk comes
+crashing down from above.  The stink on everything is nearly poisonous, and
+you despair about ever being able to remove that odor from your equipment.
+~
+152 73 9
+D5
+~
+~
+0 0 15221
+S
+#15223
+Butler's Office~
+   You are standing in a spartanly furnished room that serves as the butler's
+office.  Stacks of paperwork partially hide the office table in the middle of
+the room.  Arranged more neatly on a shelf are ledgers of incomes and outlays
+for previous years.  The large bay windows to the north are tightly shuttered,
+as if the butler dislikes taking time to enjoy the scenery.  A small, nearly
+burnt down candle on the table glows feebly against the room's darkness.
+~
+152 24 0
+D2
+~
+~
+0 0 15217
+D3
+~
+~
+0 0 15224
+S
+#15224
+Butler's Bedroom~
+   You stand in the bedroom of the butler, which is even darker than the
+office.  In the lingering twilight, you can see the rough-hewn walls and the
+threadbare furniture that characterize the ascetic living style of the
+dedicated butler.  the only luxury in this place is a sturdy, comfortable bed,
+on which the butler can rest soundly for another full day's work.  You feel
+an urge to tiptoe out and not bother such a hard-working person.
+~
+152 137 0
+D1
+~
+~
+0 0 15223
+S
+#15225
+Hallway Intersection~
+   You are stanind in a T-shaped intersection of hallways.  The din and
+bustle of the servants' quarter can be felt from the north.  To east and
+west extends a hallway that is much more subdued and opulent.  Fine walnut
+planks cover the walls from floor to ceiling, and carpetted floor muffles
+your footfall.  The strong smell of medicine emanates from the west, and
+muffled noises can be heard from the east.
+~
+152 8 0
+D0
+~
+~
+0 0 15208
+D1
+~
+~
+0 0 15229
+D3
+~
+glass door~
+1 0 15226
+S
+#15226
+Healer's Office~
+   Despite the shift in size, this room looks disturbingly similar to the one
+that you desperately feared as a child.  Off in a corner, drying herbs and
+other unidentifiable objects emit a pungent, almost bitter smell.  A straggle
+of drooping flowers in a vase fails miserably in an effort to enliven the
+cheerless mood.
+~
+152 0 0
+D0
+A solid steel door blocks your way.
+~
+steel door~
+1 0 15228
+D1
+~
+glass door~
+1 0 15225
+D2
+Narrows doors block you from the goodies in the medicine cabinet.
+~
+narrow doors~
+1 15203 15227
+S
+#15227
+Walk-in Medicine Cabinet~
+   You are standing in a small cramped area piled to the ceiling with
+mecidine of all types.  Unfortunately, most of the drugs are safely stored
+in child-proof caps that can be opened only by a child.  Perhaps the healer
+may have dropped some on the ground in his carelessness--you hope.
+~
+152 393217 0
+D0
+Narrow doors prevent your escape from this room.
+~
+narrow doors~
+2 15203 15226
+S
+#15228
+Intensive Care Room~
+   You are standing in the place where patients needing the most attention
+are brought in and treated.  Next to several comfortable looking beds, strange
+magical constructs beep and hum to themselves.  Paintings and low lighting
+generate a pleasant atmosphere; whether the patients enjoy it is another
+question.
+~
+152 1 0
+D2
+A solid steel door blocks your way.
+~
+steel door~
+1 0 15226
+S
+#15229
+Fancy Hallway~
+   You are standing in a hallway that proclaims wealth and comfort with its
+lavish furnishings.  Walnut panels, skillfully carved with floral patterns,
+line the wall.  A continuous mural of some epic battle is painted on the arched
+ceiling.  Glowing balls of magical light illuminate the hallway with a gentle
+luminance.  Ornate oaken doors lead off to the north and south.
+~
+152 8 0
+D0
+~
+door~
+1 15203 15232
+D1
+~
+~
+0 0 15230
+D2
+~
+door~
+1 15203 15233
+D3
+~
+~
+0 0 15225
+S
+#15230
+Fancy Hallway~
+   You are standing in a hallway that proclaims wealth and comfort with its
+lavish furnishings.  Walnut panels, skillfully carved with floral patterns,
+line the wall.  A continuous mural of some epic battle is painted on the arched
+ceiling.  Glowing balls of magical light illuminate the hallway with a gentle
+luminance.  Ornate oaken doors lead off to the north and south.
+~
+152 8 0
+D0
+~
+door~
+1 15203 15234
+D1
+A large, plain door stands in your way.
+~
+large door~
+2 15209 15231
+D2
+~
+door~
+1 15203 15235
+D3
+~
+~
+0 0 15229
+S
+#15231
+Bottom of Spiral Stair~
+   you are standing at the bottom of an elaborate spiral stair leading up
+to the second floor of the mansion.  The constant background noise of activity
+is diminished by distance, and the second floor is ominously silent.  The
+steps are uncharacteristically covered with a fine layer of dust, and the
+lonely footprints stand as silent testimonial to the risk of going further.
+~
+152 8 0
+D3
+A large, plain door stands in your way.
+~
+large door~
+2 15209 15230
+D4
+~
+~
+0 0 15236
+S
+#15232
+Recovery Room~
+   You stand in a beautifully furnished room that would not be out of place
+as a guest room.  Aged but sturdy desk and chair stand at one corner of the
+room.  Intricately carved patterns decorate the walls, and a small mural on
+the ceiling depicts a peaceful springtime meadow.  Despite the sense of
+tranquility, a sixth sense warns you to remain alert.  Iron bars on the window
+and the locked door hint at a darker reality...
+~
+152 33 0
+D2
+~
+door~
+1 15203 15229
+S
+#15233
+Recovery Room~
+   You stand in a beautifully furnished room that would not be out of place
+as a guest room.  Aged but sturdy desk and chair stand at one corner of the
+room.  Intricately carved patterns decorate the walls, and a small mural on
+the ceiling depicts a peaceful springtime meadow.  Despite the sense of
+tranquility, a sixth sense warns you to remain alert.  Iron bars on the window
+and the locked door hint at a darker reality...
+~
+152 33 0
+D0
+~
+door~
+1 15203 15229
+S
+#15234
+Recovery Room~
+   You stand in a beautifully furnished room that would not be out of place
+as a guest room.  Aged but sturdy desk and chair stand at one corner of the
+room.  Intricately carved patterns decorate the walls, and a small mural on
+the ceiling depicts a peaceful springtime meadow.  Despite the sense of
+tranquility, a sixth sense warns you to remain alert.  Iron bars on the window
+and the locked door hint at a darker reality...
+~
+152 41 0
+D2
+~
+door~
+1 15203 15230
+S
+#15235
+Recovery Room~
+   You stand in a beautifully furnished room that would not be out of place
+as a guest room.  Aged but sturdy desk and chair stand at one corner of the
+room.  Intricately carved patterns decorate the walls, and a small mural on
+the ceiling depicts a peaceful springtime meadow.  Despite the sense of
+tranquility, a sixth sense warns you to remain alert.  Iron bars on the window
+and the locked door hint at a darker reality...
+~
+152 41 0
+D0
+~
+door~
+1 15203 15230
+S
+#15236
+Top of Spiral Stair~
+   After scaling a few hundred walls, you stand at the top of the grand old
+staircase.  The same luxury graces the elaborate furnishings, but cobwebs and
+dust tell a story of long neglect.  The giant servants apparently do not venture
+here, since the few footprints breaking up the cover of dust are normal sized.
+You can't help notice that they are all pointed in one direction only.
+~
+152 8 0
+D3
+~
+~
+0 0 15237
+D5
+~
+~
+0 0 15231
+S
+#15237
+Dilapidated Hallway~
+   You stand in the sad remains of a hallway.  It might have been beautiful
+once, looking like its brethren downstairs, but time and the elements have
+rotted away the wood and faded the murals, and the balls of light have long
+ago exhasuted their magical force.  At last you find a circuitous way through
+the field of rubble, and you pass by this lifeless place.
+~
+152 8 0
+D0
+~
+~
+0 0 15239
+D1
+~
+~
+0 0 15236
+D3
+~
+bars~
+2 15211 15238
+S
+#15238
+A Small Foyer~
+   You stand in a room that, though obviously unused, is remarkably clear of
+trash.  Giant guards are posted in this room, and the object of their duty seems
+to reside to the west, which is enveloped in a bright white glow.  Strangely,
+the guards act lackadaisically, and as you watch, one of them waves desultorily
+to his comrades, picks up some rubble, and wander off to the east.  They
+are clearly not too concerned with the mystery to the west.
+~
+152 8 0
+D1
+~
+bars~
+2 15211 15237
+D3
+~
+~
+0 0 15242
+S
+#15239
+Dilapidated Hallway~
+   You stand in the sad remains of a hallway.  It might have been beautiful
+once, looking like its brethren downstairs, but time and the elements have 
+rotted away the wood and faded the murals, and the balls of light have long
+ago exhasuted their magical force.  At last you find a circuitous way through
+the field of rubble, and you pass by this lifeless place.
+~
+152 8 0
+D0
+~
+~
+0 0 15240
+D1
+~
+rathole~
+1 0 15241
+D2
+~
+~
+0 0 15237
+S
+#15240
+Dilapidated Hallway~
+   You stand in the sad remains of a hallway.  It might have been beautiful
+once, looking like its brethren downstairs, but time and the elements have 
+rotted away the wood and faded the murals, and the balls of light have long
+ago exhasuted their magical force.  At last you find a circuitous way through
+the field of rubble, and you pass by this lifeless place.
+~
+152 8 0
+D2
+~
+~
+0 0 15239
+D3
+~
+~
+0 0 15243
+S
+#15241
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 137 0
+D0
+~
+~
+0 0 15246
+D1
+~
+~
+0 0 15245
+D3
+~
+rathole~
+1 0 15239
+D4
+~
+~
+0 0 15247
+S
+#15242
+Dazzling Brightness~
+   The brightness smashes into you like a physical blow.  As you close your
+eyes to escape from the whiteness in vain, you feel your limbs disintegrating
+into fragments... wait, you're ok.  Reopening your eyes, you realize that
+the sterile glow comes from glowing tubes of light in the ceiling.  Piles
+of paper scrawled with fevered handwriting occupy every spot of the room.
+Turning around, you discover that you are not alone.
+~
+152 8 0
+D1
+~
+~
+0 0 15238
+S
+#15243
+Dilapidated Hallway~
+   You stand in the sad remains of a hallway.  It might have been beautiful
+once, looking like its brethren downstairs, but time and the elements have 
+rotted away the wood and faded the murals, and the balls of light have long
+ago exhasuted their magical force.  At last you find a circuitous way through
+the field of rubble, and you pass by this lifeless place.
+~
+152 8 0
+D0
+~
+~
+0 0 15244
+D1
+~
+~
+0 0 15240
+D3
+~
+swinging door~
+1 0 15221
+S
+#15244
+Litter Box~
+   You enter the dimly lit room--and sink to your waist in sand.  Repressing
+an urge to struggle, you study the strange environment.  A few bluish stones
+contrast sharply with the dull drown of the sand.  The pungent smell of
+perfumes fails to mask a musky and disturbing odor.  At several spots, the
+sand has inexplicably clumped together, forming whimsical sculptures.
+~
+152 9 0
+D2
+~
+~
+0 0 15243
+S
+#15245
+Rat Maze~
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 137 0
+D0
+~
+~
+0 0 15248
+D3
+~
+~
+0 0 15241
+D4
+~
+~
+0 0 15249
+S
+#15246
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 137 0
+D1
+~
+~
+0 0 15246
+D2
+~
+~
+0 0 15241
+D4
+~
+~
+0 0 15248
+S
+#15247
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 137 0
+D0
+~
+~
+0 0 15247
+D1
+~
+~
+0 0 15247
+D5
+~
+~
+0 0 15241
+S
+#15248
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 137 0
+D2
+~
+~
+0 0 15245
+D3
+~
+~
+0 0 15251
+D4
+~
+~
+0 0 15241
+S
+#15249
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 33 0
+D0
+~
+~
+0 0 15241
+D1
+~
+~
+0 0 15249
+D2
+~
+~
+0 0 15245
+D3
+~
+~
+0 0 15252
+D4
+~
+~
+0 0 15249
+D5
+~
+~
+0 0 15245
+S
+#15250
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 129 0
+D0
+~
+~
+0 0 15252
+D1
+~
+~
+0 0 15253
+D5
+~
+~
+0 0 15249
+S
+#15251
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 137 0
+D0
+~
+~
+0 0 15246
+D3
+~
+~
+0 0 15241
+D5
+~
+~
+0 0 15247
+S
+#15252
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 129 0
+D1
+~
+~
+0 0 15249
+D2
+~
+~
+0 0 15250
+D5
+~
+~
+0 0 15246
+S
+#15253
+Rat Maze~
+   Isolated from the outside world, you stand in a maze of profound darkness.
+Your hands cringe from the numbing coldness of the shiny metallic walls.
+Tiny chittering sounds can be heard just beyond the range of your feeble lights.
+The maze bends and twists and folds on itself, and you quickly lose all sense
+of direction in its labyrinthine depth.  The hope of a way out grow dimmer
+with each step you take.
+~
+152 129 0
+D1
+~
+rathole~
+1 0 15254
+D2
+~
+~
+0 0 15249
+D3
+~
+~
+0 0 15250
+D5
+~
+~
+0 0 15253
+S
+#15254
+The Laboratory~
+   You are standing inside a room stocked with the most marvellous gadgets.
+Some hiss, some hum, and still others gurgle with bubbling liquid.  Multicolored
+lights flash in seemingly random sequence, and regular beeps puncture the din
+with their peculiar track of time.  Still, the long workbenches and the stacked
+reference volumes indicate that this room is the laboratory of a wizard with
+esoteric knowledge and fastastic powers.
+~
+152 16 0
+D0
+~
+bookcase~
+1 15216 15264
+D1
+~
+~
+0 0 15255
+D3
+~
+rathole~
+1 0 15253
+S
+#15255
+The Laboratory~
+   You are standing inside a room stocked with the most marvellous gadgets.
+Some hiss, some hum, and still others gurgle with bubbling liquid.  Multicolored
+lights flash in seemingly random sequence, and regular beeps puncture the din
+with their peculiar track of time.  Still, the long workbenches and the stacked
+reference volumes indicate that this room is the laboratory of a wizard with
+esoteric knowledge and fastastic powers.
+~
+152 1 0
+D3
+~
+~
+0 0 15254
+S
+#15256
+A Dark Hallway~
+   You stand in a dark and desolate hallway.  The walls are made of stone
+and yet they are smooth as glass.  Contrary to the luxury evident in other
+parts of the mansion, this hallway contains only unadorned rock.  Although there
+is plentiful room for you, a giant clearly cannot enter such cramped quarters.
+This hallway's existence is a mystery.
+~
+152 165 0
+D0
+~
+vault door~
+2 15216 15257
+D1
+~
+~
+0 0 15264
+S
+#15257
+A Dark Hallway~
+   You stand in a dark and desolate hallway.  The walls are made of stone
+and yet they are smooth as glass.  Contrary to the luxury evident in other
+parts of the mansion, this hallway contains only unadorned rock.  Although there
+is plentiful room for you, a giant clearly cannot enter such cramped quarters.
+This hallway's existence is a mystery.
+~
+152 1 0
+D2
+~
+vault door~
+2 15216 15256
+D3
+~
+~
+0 0 15258
+S
+#15258
+Penthouse Office~
+   You discover a well-furnished office that can be found in the house of
+a wealthy Kore resident.  Tasteful oriental rugs cover the expanse of the
+hardwood floor.  A ponderous oaken table squats in the middle of the room
+along with a worn leather chair.  However, amidst the grand scale of the giant
+mansion, a normal-sizes room like this becomes incongruous.  Who would live
+with a houseful of giants?
+~
+152 0 0
+D1
+~
+~
+0 0 15257
+D2
+~
+swinging door~
+1 0 15222
+D3
+~
+~
+0 0 15259
+S
+#15259
+Penthouse Bedroom~
+   You stand in yet another anomaly within the giant mansion.  The canopied
+bed, the antique teakwood dress cabinets, the magical lamp pouring forth
+warm yellow light--all fade to insignificance until only one mystery remains.
+And you have found the answer.
+~
+152 0 0
+D1
+~
+~
+0 0 15258
+S
+#15260
+Servants' Quarters~
+   You are standing in the servants' quarters.  The walls are of rough-hewn
+rocks and lets in too much cold wind, but at least the small cots are clean,
+and the servants are physically secure.  At a long table set against a side
+of the room, giant servants are eating, playing board games, chatting,
+mending cloth, or just relaxing.  A few loudly snoring forms lie on the cots.
+A mood of quiet contentment permeates the air.
+~
+152 8 0
+D0
+~
+~
+0 0 15210
+D2
+~
+~
+0 0 15262
+D3
+~
+~
+0 0 15261
+S
+#15261
+Servants' Quarters~
+   You are standing in the servants' quarters.  The walls are of rough-hewn
+rocks and lets in too much cold wind, but at least the small cots are clean,
+and the servants are physically secure.  At a long table set against a side
+of the room, giant servants are eating, playing board games, chatting,
+mending cloth, or just relaxing.  A few loudly snoring forms lie on the cots.
+A mood of quiet contentment permeates the air.
+~
+152 8 0
+D0
+~
+~
+0 0 15217
+D1
+~
+~
+0 0 15260
+D2
+~
+~
+0 0 15263
+S
+#15262
+Servants' Quarters~
+   You are standing in the servants' quarters.  The walls are of rough-hewn
+rocks and lets in too much cold wind, but at least the small cots are clean,
+and the servants are physically secure.  At a long table set against a side
+of the room, giant servants are eating, playing board games, chatting,
+mending cloth, or just relaxing.  A few loudly snoring forms lie on the cots.
+A mood of quiet contentment permeates the air.
+~
+152 8 0
+D0
+~
+~
+0 0 15260
+D3
+~
+~
+0 0 15263
+S
+#15263
+Servants' Quarters~
+   You are standing in the servants' quarters.  The walls are of rough-hewn
+rocks and lets in too much cold wind, but at least the small cots are clean,
+and the servants are physically secure.  At a long table set against a side
+of the room, giant servants are eating, playing board games, chatting,
+mending cloth, or just relaxing.  A few loudly snoring forms lie on the cots.
+A mood of quiet contentment permeates the air.
+~
+152 8 0
+D0
+~
+~
+0 0 15261
+D1
+~
+~
+0 0 15262
+S
+#15264
+A Dark Hallway~
+   You stand in a dark and desolate hallway.  The walls are made of stone
+and yet they are smooth as glass.  Contrary to the luxury evident in other
+parts of the mansion, this hallway contains only unadorned rock.  Although there
+is plentiful room for you, a giant clearly cannot enter such cramped quarters.
+This hallway's existence is a mystery.
+~
+152 165 0
+D2
+~
+bookcase~
+2 15216 15254
+D3
+~
+~
+0 0 15256
+S
+#15265
+A Clearing in the Silvas Woods~
+   Almost imperceptibly, the stands of oak and sycamore that make up the
+Silvas Woods thin out until you can see the open sky from this clearing
+in the woods.   Strangely, the sky directly above is obscured by a
+solid seeming bank of swollen cumulus clouds.  You suddenly recall
+a piece of adventuring lore and realize that you have found the fabled
+gateway to Beanstalk Castle.
+~
+152 0 1
+S
+#99999
+$~

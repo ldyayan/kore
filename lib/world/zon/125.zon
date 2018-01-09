@@ -1,0 +1,333 @@
+#125
+Slums of Kore~
+12599 20 2 32
+D 0 12551     3     1            Hallway door west
+M 0 12523     1 12501            the thieves' guildmaster
+M 0 12526    23 12500            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12500     1 12540            the Alm's director
+E 1 12551    10     3                    neck 1 a ^rj^n^we^n^cw^n^ye^n^gl^n encrusted ^Ygold^n medallion
+D 0 12540     3     2            Director's Office door west
+M 0 12515     1 12580            Baron Vladimir
+E 1 12558    14    12                    about a Cape of Agrametto
+E 1 12559    20     1                    left finger an ^Gemerald^n enlayed ^Ygolden^n ring
+M 0 12507     1 12510            a homeless beggar
+M 0 12507     2 12510            a homeless beggar
+M 0 12507     3 12510            a homeless beggar
+M 0 12508     1 12510            the unemployed scum
+M 0 12508     2 12510            the unemployed scum
+M 0 12509     1 12510            a prostitute
+M 0 12514     1 12510            a black lotus addict
+M 0 12524     1 12510            Angie
+M 0 12526     1 12510            the arrogant thug
+M 0 12501     1 12538            the one-eyed guard
+E 1 12501    99    17                    held a polished key
+E 1 12550    15     6                    head an eye patch
+M 0 12508     3 12538            the unemployed scum
+M 0 12508     4 12538            the unemployed scum
+M 0 12508     5 12538            the unemployed scum
+M 0 12514     2 12538            a black lotus addict
+M 0 12526     2 12538            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12526     3 12538            the arrogant thug
+D 0 12538     1     2            House of Alms door east
+M 0 12502     1 12542            the cafeteria guard
+E 1 12502    99    17                    held a dull key
+M 0 12507     4 12542            a homeless beggar
+M 0 12507     5 12542            a homeless beggar
+M 0 12507     6 12542            a homeless beggar
+M 0 12508     6 12542            the unemployed scum
+M 0 12508     7 12542            the unemployed scum
+M 0 12508     8 12542            the unemployed scum
+M 0 12514     3 12542            a black lotus addict
+M 0 12514     4 12542            a black lotus addict
+M 0 12526     4 12542            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+G 1 12565    50    -1                    give a ^rscarlet^n cloak
+M 0 12526     5 12542            the arrogant thug
+D 0 12542     1     2            Cafeteria door east
+M 0 12503     1 12544            a blonde bimbo
+M 0 12503     2 12544            a blonde bimbo
+M 0 12503     3 12544            a blonde bimbo
+M 0 12503     4 12544            a blonde bimbo
+M 0 12504     1 12544            the head waiter
+E 1 12552    40    17                    held a serving tray
+E 1 12553    10    12                    about a dirty white apron
+D 0 12544     3     2            Lavish Dining Room door west
+M 0 12505     1 12546            the cook
+E 1 12554    20    16                    wield a wooden spatula
+M 0 12505     2 12546            the cook
+M 0 12505     3 12546            the cook
+M 0 12506     1 12546            a waiter
+M 0 12506     2 12546            a waiter
+M 0 12506     3 12546            a waiter
+M 0 12507     7 12534            a homeless beggar
+M 0 12507     8 12534            a homeless beggar
+M 0 12508     9 12534            the unemployed scum
+M 0 12508    10 12534            the unemployed scum
+M 0 12508    11 12534            the unemployed scum
+M 0 12509     2 12534            a prostitute
+M 0 12509     3 12534            a prostitute
+M 0 12514     5 12534            a black lotus addict
+M 0 12514     6 12534            a black lotus addict
+M 0 12526     6 12534            the arrogant thug
+M 0 12507     9 12514            a homeless beggar
+M 0 12508    12 12514            the unemployed scum
+M 0 12508    13 12514            the unemployed scum
+M 0 12509     4 12514            a prostitute
+M 0 12509     5 12514            a prostitute
+M 0 12514     7 12514            a black lotus addict
+M 0 12514     8 12514            a black lotus addict
+M 0 12526     7 12514            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12526     8 12514            the arrogant thug
+M 0 12507    10 12509            a homeless beggar
+M 0 12507    11 12509            a homeless beggar
+M 0 12508    14 12509            the unemployed scum
+M 0 12509     6 12509            a prostitute
+M 0 12514     9 12509            a black lotus addict
+M 0 12525     1 12509            the assassin
+M 0 12526     9 12509            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12526    10 12509            the arrogant thug
+M 0 12507    12 12503            a homeless beggar
+M 0 12507    13 12503            a homeless beggar
+M 0 12508    15 12503            the unemployed scum
+M 0 12508    16 12503            the unemployed scum
+M 0 12508    17 12503            the unemployed scum
+M 0 12514    10 12503            a black lotus addict
+M 0 12526    11 12503            the arrogant thug
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+D 0 12503     3     1            Darker Alley door west
+M 0 12507    14 12502            a homeless beggar
+M 0 12507    15 12502            a homeless beggar
+M 0 12508    18 12502            the unemployed scum
+M 0 12508    19 12502            the unemployed scum
+M 0 12508    20 12502            the unemployed scum
+M 0 12514    11 12502            a black lotus addict
+M 0 12526    12 12502            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12526    13 12502            the arrogant thug
+M 0 12522     1 12505            the child
+M 0 12522     2 12505            the child
+D 0 12505     1     1            Poor Man's House door east
+M 0 12507    16 12504            a homeless beggar
+M 0 12507    17 12504            a homeless beggar
+M 0 12508    21 12504            the unemployed scum
+M 0 12508    22 12504            the unemployed scum
+M 0 12514    12 12504            a black lotus addict
+M 0 12526    14 12504            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12526    15 12504            the arrogant thug
+M 0 12507    18 12508            a homeless beggar
+M 0 12508    23 12508            the unemployed scum
+M 0 12508    24 12508            the unemployed scum
+M 0 12514    13 12508            a black lotus addict
+M 0 12526    16 12508            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12507    19 12512            a homeless beggar
+M 0 12508    25 12512            the unemployed scum
+M 0 12508    26 12512            the unemployed scum
+M 0 12514    14 12512            a black lotus addict
+M 0 12514    15 12512            a black lotus addict
+M 0 12526    17 12512            the arrogant thug
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12509     7 12516            a prostitute
+M 0 12509     8 12516            a prostitute
+M 0 12514    16 12516            a black lotus addict
+M 0 12526    18 12516            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+E 1 12565    50     3                    neck 1 a ^rscarlet^n cloak
+M 0 12509     9 12522            a prostitute
+M 0 12509    10 12522            a prostitute
+M 0 12526    19 12522            the arrogant thug
+M 0 12509    11 12530            a prostitute
+M 0 12526    20 12530            the arrogant thug
+M 0 12509    12 12532            a prostitute
+M 0 12509    13 12532            a prostitute
+M 0 12526    21 12532            the arrogant thug
+M 0 12509    14 12524            a prostitute
+M 0 12509    15 12524            a prostitute
+D 0 12524     2     2            Hallway door south
+M 0 12509    16 12520            a prostitute
+M 0 12509    17 12520            a prostitute
+M 0 12509    18 12518            a prostitute
+M 0 12526    22 12518            the arrogant thug
+E 1 12564    25    16                    wield a dirk of the Black Lotus
+M 0 12510     1 12552            a diseased leper
+M 0 12510     2 12552            a diseased leper
+M 0 12510     3 12552            a diseased leper
+M 0 12510     4 12552            a diseased leper
+M 0 12511     1 12552            a greedy chihuahua
+G 1 12555    99    -1                    give a rotten piece of meat
+M 0 12511     2 12552            a greedy chihuahua
+M 0 12511     3 12552            a greedy chihuahua
+M 0 12512     1 12552            an insane man
+M 0 12512     2 12552            an insane man
+M 0 12512     3 12552            an insane man
+M 0 12510     5 12550            a diseased leper
+M 0 12510     6 12550            a diseased leper
+M 0 12511     4 12550            a greedy chihuahua
+G 1 12555    99    -1                    give a rotten piece of meat
+M 0 12512     4 12550            an insane man
+M 0 12513     1 12554            the bloody doctor
+E 1 12503    99    17                    held a brass key
+E 1 12556    10    16                    wield a bloody scalpel
+E 1 12557    20     3                    neck 1 an Iron Cross medal
+D 0 12558     0     2            End of the Hallway door north
+D 0 12560     2     2            Secret Passage door south
+D 0 12576     2     2            Secret Passage door south
+D 0 12566     0     2            Secret Passage door north
+D 0 12568     5     1            Revolving Room door down
+D 0 12574     4     1            GARBAGE COMPACTOR door up
+M 0 12516     1 12586            the stone golem
+M 0 12516     2 12586            the stone golem
+M 0 12516     3 12586            the stone golem
+D 0 12586     0     2            Guarded Room door north
+M 0 12517     1 12588            the beautiful woman
+E 1 12504    99    17                    held an indigo key
+E 1 12560    10     5                    body a ^rr^n^yai^n^gn^n^bb^n^mow^n hued silk dress
+E 1 12563    15     8                    feet a pair of ^Ygolden^n sandals
+D 0 12588     2     2            Lavish Bedroom door south
+M 0 12518     1 12526            Gorik
+E 1 12500    99    17                    held a attic key
+D 0 12526     0     2            Secret Room in the Wall door north
+D 0 12526     4     2            Secret Room in the Wall door up
+M 0 12519     1 12528            Madam Buttafucco
+E 1 12561    20    14                    left wrist a ^Wdiamond^n studded bracelet
+D 0 12528     5     2            Attic door down
+M 0 12520     1 12507            the poor, humble man
+E 1 12562    20    16                    wield a sharp shortsword
+M 0 12522     3 12507            the child
+M 0 12521     1 12506            the poor man's wife
+M 0 12522     4 12506            the child
+M 0 12522     5 12506            the child
+M 0 12527     6 12527            the sad ghost
+M 0 12527     6 12527            the sad ghost
+D 0 12527     1     1            Another Burned Out House door east
+D 0 12529     3     1            Black Lotus Thieves's Guild door west
+M 0 12528     6 12549            the wandering guard
+M 0 12528     6 12549            the wandering guard
+M 0 12528     6 12549            the wandering guard
+D 0 12549     1     1            Underground Tunnel door east
+D 0 12593     4     1            Study door up
+D 0 12597     5     1            Secret Escape Route door down
+M 0 12529     6 12555            the initiate thief
+M 0 12529     6 12555            the initiate thief
+M 0 12529     6 12555            the initiate thief
+M 0 12529     6 12555            the initiate thief
+M 0 12529     6 12555            the initiate thief
+M 0 12529     6 12555            the initiate thief
+M 0 12529     6 12555            the initiate thief
+M 0 12527     6 12523            the sad ghost
+M 0 12527     6 12523            the sad ghost
+M 0 12527     6 12523            the sad ghost
+M 0 12527     6 12521            the sad ghost
+M 0 12527     6 12521            the sad ghost
+M 0 12527     6 12535            the sad ghost
+M 0 12527     6 12535            the sad ghost
+M 0 12527     6 12535            the sad ghost
+M 0 12527     6 12533            the sad ghost
+M 0 12527     6 12533            the sad ghost
+M 0 12528     6 12537            the wandering guard
+M 0 12528     6 12537            the wandering guard
+M 0 12528     6 12539            the wandering guard
+M 0 12528     6 12539            the wandering guard
+M 0 12528     6 12541            the wandering guard
+M 0 12528     6 12541            the wandering guard
+M 0 12528     6 12541            the wandering guard
+M 0 12528     6 12543            the wandering guard
+M 0 12528     6 12543            the wandering guard
+M 0 12528     6 12547            the wandering guard
+M 0 12528     6 12547            the wandering guard
+M 0 12530     6 12557            the thief of the 2nd circle
+M 0 12530     6 12557            the thief of the 2nd circle
+M 0 12530     6 12557            the thief of the 2nd circle
+M 0 12530     6 12557            the thief of the 2nd circle
+M 0 12530     6 12557            the thief of the 2nd circle
+M 0 12530     6 12557            the thief of the 2nd circle
+M 0 12529     6 12561            the initiate thief
+M 0 12529     6 12561            the initiate thief
+M 0 12529     6 12561            the initiate thief
+M 0 12529     6 12561            the initiate thief
+M 0 12530     6 12561            the thief of the 2nd circle
+M 0 12530     6 12561            the thief of the 2nd circle
+M 0 12530     6 12561            the thief of the 2nd circle
+M 0 12530     6 12561            the thief of the 2nd circle
+M 0 12529     6 12563            the initiate thief
+M 0 12529     6 12563            the initiate thief
+M 0 12529     6 12563            the initiate thief
+M 0 12529     6 12563            the initiate thief
+M 0 12530     6 12563            the thief of the 2nd circle
+M 0 12530     6 12563            the thief of the 2nd circle
+M 0 12530     6 12563            the thief of the 2nd circle
+M 0 12530     6 12563            the thief of the 2nd circle
+M 0 12530     6 12563            the thief of the 2nd circle
+M 0 12531     6 12567            the thief of the 3rd circle
+M 0 12531     6 12567            the thief of the 3rd circle
+M 0 12531     6 12567            the thief of the 3rd circle
+M 0 12531     6 12567            the thief of the 3rd circle
+M 0 12531     6 12567            the thief of the 3rd circle
+M 0 12531     6 12567            the thief of the 3rd circle
+M 0 12531     6 12567            the thief of the 3rd circle
+M 0 12531     6 12567            the thief of the 3rd circle
+M 0 12532     6 12569            the thief of the 4th circle
+M 0 12532     6 12569            the thief of the 4th circle
+M 0 12532     6 12569            the thief of the 4th circle
+M 0 12532     6 12569            the thief of the 4th circle
+M 0 12532     6 12569            the thief of the 4th circle
+M 0 12532     6 12569            the thief of the 4th circle
+M 0 12532     6 12569            the thief of the 4th circle
+M 0 12529     6 12579            the initiate thief
+M 0 12529     6 12579            the initiate thief
+M 0 12529     6 12573            the initiate thief
+M 0 12529     6 12573            the initiate thief
+M 0 12530     6 12573            the thief of the 2nd circle
+M 0 12530     6 12573            the thief of the 2nd circle
+M 0 12531     6 12573            the thief of the 3rd circle
+M 0 12531     6 12573            the thief of the 3rd circle
+M 0 12532     6 12573            the thief of the 4th circle
+M 0 12532     6 12573            the thief of the 4th circle
+M 0 12533     6 12575            the thief of the Black Lotus
+M 0 12533     6 12575            the thief of the Black Lotus
+M 0 12533     6 12575            the thief of the Black Lotus
+M 0 12533     6 12575            the thief of the Black Lotus
+M 0 12533     6 12575            the thief of the Black Lotus
+M 0 12533     6 12575            the thief of the Black Lotus
+M 0 12533     6 12575            the thief of the Black Lotus
+M 0 12534     1 12587            the alchemist
+M 0 12535     1 12589            the guildleader
+M 0 12528     6 12565            the wandering guard
+M 0 12528     6 12565            the wandering guard
+M 0 12528     6 12565            the wandering guard
+M 0 12528     6 12571            the wandering guard
+M 0 12528     6 12571            the wandering guard
+M 0 12528     6 12577            the wandering guard
+M 0 12528     6 12577            the wandering guard
+M 0 12528     6 12583            the wandering guard
+M 0 12528     6 12583            the wandering guard
+M 0 12528     6 12585            the wandering guard
+M 0 12528     6 12585            the wandering guard
+M 0 12528     6 12585            the wandering guard
+M 0 12536     1 12594            the guildmaster
+M 0 12537     6 12536            the guard
+M 0 12537     6 12536            the guard
+M 0 12537     6 12536            the guard
+M 0 12537     6 12517            the guard
+M 0 12537     6 12517            the guard
+M 0 12537     6 12517            the guard
+M 0 12537     6 12517            the guard
+M 0 12537     6 12515            the guard
+M 0 12537     6 12515            the guard
+M 0 12538     1 12519            the lieutenant
+S
+#99999
+$~

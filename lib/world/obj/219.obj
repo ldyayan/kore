@@ -1,0 +1,1008 @@
+#21900
+none~
+none~
+An unfinished object is lying here.~
+~
+18 0 1
+0 1 0 0
+0 0 0
+#21901
+sturmbeil~
+a sturmbeil~
+A short handled war axe lies on the ground.~
+~
+5 156 1
+5 5 7 15
+12 0 0
+A
+18 6
+A
+19 6
+S
+66 50 4
+S
+65 50 4
+#21902
+sturmbohrer drill~
+a sturmbohrer~
+A drill like weapon lies on the ground.~
+~
+5 156 1
+5 5 6 11
+9 0 0
+A
+18 5
+A
+19 5
+S
+17 50 3
+#21903
+pile grey ashes~
+a pile of grey ashes~
+A small pile of grey ashes rise from the ground.~
+~
+15 0 1
+100 0 0 0
+10 0 0 3
+#21904
+hammered silver casebook~
+a hammered silver casebook~
+A hammered silver casebook lies on the ground.~
+~
+15 9564188 16385
+15 11 21905 0
+5 0 0
+E
+hammered silver casebook book~
+   A hammered silver book two fingers deep, three palms wide and two hands
+tall.  The front is adorned with a mosaic of sapphires and small diamonds
+forming a treble clef.  A smaller clef-shaped clasp with a small slot in 
+its center locks the book closed.
+~
+B
+128 0
+#21905
+clef tiny silver key~
+a tiny silver key~
+A tiny silver key glistens in the dust.~
+~
+18 65564 1
+0 0 0 0
+1 0 0
+E
+tiny silver key~
+   A minescule notched tab extends from the bottom of the treble clef
+shaped handle.
+~
+#21906
+vellum envelope~
+a vellum envelope~
+An envelope lies on the ground.~
+~
+15 65565 1
+5 15 21907 0
+2 0 0
+E
+vellum envelope~
+   A calf skin envelope just smaller than the interior of the hammered silver
+casebook.  A large triangular flap prevents the contents from spilling.
+The flap is sealed with a glowing blue blob of wax stamped with yet another
+treble clef.
+~
+#21907
+clef handled letter opener~
+a clef-handled letter opener~
+A letter opener with a clef handle lies on the ground.~
+~
+18 65566 1
+0 0 0 0
+2 0 0
+E
+clef handled letter opener~
+   A long thin blade extends from the base of a solid silver treble clef.
+~
+#21908
+sheet music~
+a sheet of music~
+A sheet of paper adorned with unfamiliar symbols lies in the dust.~
+~
+2 0 1
+0 0 0 130
+2 0 0
+E
+sheet music~
+   A sheet of parchment adorned with symbols decipherable only by a high
+level bard.
+~
+#21909
+large wooden bucket~
+a large wooden bucket~
+A large wooden bucket hangs from a stout rope.~
+~
+27 20 0
+21924 1 0 0
+999999 0 0
+E
+large wooden bucket~
+The bucket is wide enough for one individual to sit upon and lower him or
+herself safely down to the bottom of the well.
+~
+#21910
+amber studded bark belt~
+an amber studded belt of bark~
+A belt of bark, studded with golden amber lies here.~
+You see a thick belt of dark bark, glowing with a strange aura
+and studded with many stones of a golden amber.
+~
+9 1192001 2049
+5 0 0 0
+0 0 0
+A
+19 2
+A
+2 2
+A
+13 25
+#21911
+pillowcase black silk~
+a black silk pillowcase~
+A large piece of cloth is lying here.~
+~
+15 0 1
+500 0 -1 0
+2 0 0
+E
+pillowcase~
+    A large black silk pillowcase. 
+~
+#21920
+1~
+***** These are hard quest items *****~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#21921
+spear barbed long hard quest~
+a long barbed spear~
+A long spear sits here, its tip is covered in nasty barbs.~
+~
+6 514 32769
+0 4 5 11
+3 0 0
+A
+19 4
+A
+24 -5
+B
+8192 0
+#21922
+skin molt shed shyft quest hard~
+the shed skin of Shyft~
+A giant molt of a multi-colored dragon sits here.~
+~
+9 1310720 1033
+16 0 0 0
+12 100000 0
+A
+1 -1
+A
+12 35
+A
+13 35
+A
+9 5
+A
+5 -6
+B
+8421378 0
+#21923
+ensorcelled malediction ball filth hard quest~
+an ensorcelled malediction~
+A glowing ball of filth hovers here above a small void.~
+~
+11 1050113 16385
+0 0 0 0
+10 0 0 2000
+A
+19 12
+B
+131072 0
+#21924
+nimbus blue lightning crown~
+a nimbus of crackling blue lightning~
+A oval shaped ball floats here, blue lighting pulsing through it.~
+~
+9 89 1041
+2 0 0 0
+1 0 0
+A
+9 7
+A
+12 50
+A
+3 3
+A
+19 -2
+B
+4194320 0
+#21925
+bow crossbow massive~
+a massive crossbow~
+A massive crossbow.~
+~
+5 65536 8193
+8 3 20 12
+17 0 0
+A
+19 7
+A
+14 -100
+A
+1 -3
+S
+33 50 5
+#21926
+wings proteus~
+the wings of ^RProteus^n~
+The legendary wings of ^RProteus^n.~
+~
+11 0 9
+0 0 0 0
+10 0 0
+A
+9 3
+A
+12 15
+B
+4194368 0
+#21927
+clogs clereity quest hard~
+clogs of celerity~
+A pair of boring looking grey clogs sit here.~
+~
+11 2098256 65
+0 0 0 0
+6 10 0
+A
+2 3
+A
+14 20
+A
+18 -3
+A
+19 -3
+B
+65536 0
+#21928
+shirt~
+a 'Karn ruined the mud' t-shirt~
+This shirt seems to say something, have a look.~
+~
+9 0 9
+0 0 0 0
+1 0 0
+E
+shirt~
+The shirt reads in large bold letters:
+  KARN RUINED THE MUD
+~
+#21929
+button~
+an 'I've been downgraded' button~
+This small button reads: "I've been downgraded"~
+~
+9 0 65537
+0 0 0 0
+0 0 0
+#21940
+2~
+***** These are medium difficulty quest items *****~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#21941
+mask battlemask ancient dwarven quest medium~
+an ancient dwarven battlemask~
+An engraved iron mask awaits an owner.~
+~
+9 67200 262145
+10 0 0 0
+10 100000 0
+E
+mask dwarven ancient~
+   Use long ago in the ancient wars by the dwarven armies, these masks where
+bonded to thier wearer. The warrior did not mind the curse because they had swore
+thier lives to battle. The masks supposedly gave these fierce warriors added battle
+prowess.
+~
+A
+6 -5
+A
+1 1
+A
+19 1
+A
+5 1
+#21942
+gloves loaded~
+a pair of heavy loaded gloves~
+A pair of leather gloves sit here, it looks like there may be sand in the knuckles~
+a
+~
+9 65537 129
+6 0 0 0
+10 100000 0
+A
+19 1
+A
+5 3
+A
+13 15
+A
+10 15
+#21943
+sceptre leige quest medium~
+the Sceptre of the Leige~
+A short golden rod lays here, its head is embedded with gems~
+~
+3 67072 16385
+50 25 15 7
+5 10000 0
+A
+6 3
+A
+21 -10
+A
+10 -15
+#21944
+Bow accuracy~
+the bow of accuracy~
+A finely crafted wooden bow lays here.~
+~
+6 65569 32769
+3 5 5 11
+10 0 0
+A
+18 5
+A
+2 5
+#21945
+foil razor sharp quest medium~
+a razor sharp foil~
+A long thin foil sits here on the ground, its tip is razor sharp.~
+~
+5 65624 8193
+4 5 4 14
+1 0 0
+A
+19 7
+A
+2 2
+A
+14 -15
+#21946
+stones smooth handfull quest medium~
+a handful of smooth stones~
+A small pile of smooth stones sits here on the edge of a table.~
+~
+3 65560 16385
+50 12 12 147
+3 0 0
+A
+9 3
+#21947
+cerebral focus~
+a cerebral focus~
+A cerebral focus.~
+~
+11 65633 17
+0 0 0 0
+9 0 0
+A
+3 2
+A
+4 2
+A
+12 25
+A
+13 -5
+#21960
+3~
+***** These are easy quest items *****~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#21961
+femur sun minotaur quest easy~
+a sun bleached femur of a minotaur~
+A giant bleached leg bone of a massive creature sits here in the sun.~
+~
+11 65552 16385
+0 0 0 0
+0 0 0
+A
+18 5
+A
+19 2
+A
+3 -2
+#21962
+slab oricalcum quest easy~
+a slab of oricalcum~
+A large chunk of a bronzed looking metal sits here~
+~
+8 3 1
+0 0 0 0
+10 200000 0
+#21963
+wand granite~
+a wand made from granite~
+A thin rod made of solid granite sits here, waiting to be used.~
+~
+3 2 16385
+40 8 8 149
+0 0 0
+A
+22 -10
+#21964
+lolipop power loli quest easy~
+a lolipop of power~
+A lolipop is here pulsating with power~
+~
+9 65544 16385
+3 0 0 0
+1 0 0 400
+A
+19 8
+A
+12 50
+A
+13 50
+B
+65664 0
+#21965
+boomerang black~
+a jet-black boomerang~
+A polished black boomerang.~
+~
+5 65538 40961
+5 5 5 1
+10 0 0
+A
+2 2
+A
+19 1
+S
+124 30 8
+#21966
+bib wrinkled quest easy~
+a wrinkled bib~
+A wrinkled up bib sits here in the corner~
+~
+9 1 5
+3 0 0 0
+1 0 0
+A
+4 2
+A
+5 2
+A
+3 2
+A
+9 -10
+#21967
+brace back~
+a back brace~
+A large harness lies here.~
+~
+11 65536 1025
+0 0 0 0
+0 0 0
+A
+1 4
+#21968
+red rune~
+a ^Rred^n rune~
+A rune is lying here.~
+~
+8 0 1
+0 0 0 0
+0 10000 0
+E
+rune red~
+  Word has it that the red rainbow crystal is within a city of
+minotaurs. Be sure to wear extra cloths as I hear you have to
+pass through a vast arctic wasteland to reach the city. The red
+rainbow crystal is well guarded by someone who knows you will
+be coming. He awaits your arrival into his lavish room of rich
+furnishings. He has no second throughts that you will not make
+it out alive. 
+~
+#21969
+rune orange~
+a ^yorange^n rune~
+A rune is lying here.~
+~
+8 0 1
+0 0 0 0
+0 10000 0
+E
+rune orange~
+  The beauty of this city radiates power that only a god or a
+goddess would know how to handle. Around every corner you do
+not know if you should bow or run for your life. There is a
+purple carpet that leads up to the one whom is guarding the
+orange rainbow crystal. Surrounded by his servants and family
+he has no fear of losing the orange rainbow crystal.
+~
+#21970
+rune yellow~
+a ^Yyellow^n rune~
+A rune is lying here.~
+~
+8 0 1
+0 0 0 0
+0 10000 0
+E
+rune yellow~
+  A yellow rainbow crystal is in a city filled with drows. It
+is being guarded by a red-skinned man who will give his life
+for the crystal. You can find him in a magical abode filled
+with candelabras. Watch for this red-skinned man as he is sure
+to send you to your certain death.
+~
+#21971
+rune green~
+a ^Ggreen^n rune~
+A rune is lying here.~
+~
+8 0 1
+0 0 0 0
+0 10000 0
+E
+rune green~
+  A charming temptress holds the green rainbow crystal. To get
+to the duchess you must travel through a wasteland of flammable
+gases. Once inside her chamber you will suffer from dementia.
+Watch her cruel sense of humor as she will guard this crystal
+with her life.
+~
+#21972
+rune blue~
+a ^Bblue^n rune~
+A rune is lying here.~
+~
+8 0 1
+0 0 0 0
+0 10000 0
+E
+rune blue~
+  A muffled laugh off in the near distance. A knight glaring at
+you in hatred. A great map of Kore adorns the wall. You will
+find a beautiful woman sitting on a throne of bones made from
+the death of her victims. She awaits your arrival for the blue
+rainbow crystal. She guards it with her life.
+~
+#21973
+rune purple~
+a ^mpurple^n rune~
+A rune is lying here.~
+~
+8 0 1
+0 0 0 0
+0 10000 0
+E
+rune purple~
+  Only way to reach the purple rainbow crystal is by a magical
+seed that grows. The crystal is well guarded within the walls
+of a beautifully restored red brick colonial mansion. At the
+top of the mansion a lady holds on to the purple crystal with
+her life. She fears losing it will take away the only beauty
+that she has left.
+~
+#21974
+multicolor crystal~
+a multicolor crystal~
+A multicolor crystal is floating here.~
+~
+8 67174408 131073
+0 0 0 0
+2 0 0
+E
+rainbow crystal~
+   Full of all the colors of a rainbow. This crystal
+surrounds you in a multcolored aura of light.
+~
+A
+5 2
+A
+2 2
+A
+4 2
+A
+5 2
+A
+1 2
+A
+6 2
+B
+65536 0
+#21975
+crystal power~
+a crystal of power~
+A crystal is lying here.~
+~
+8 67174408 16385
+0 0 0 0
+2 0 0
+E
+crystal power~
+  A crystal of power surrounds it's wearer in a shield
+of power.
+~
+A
+12 25
+A
+13 25
+A
+19 4
+A
+18 4
+A
+14 25
+A
+17 -10
+B
+4194304 0
+#21976
+crystal orb~
+a crystal orb~
+A orb is lying here.~
+~
+4 67174408 16385
+50 50 50 36
+0 0 0
+E
+crystal orb~
+  A crystal orb shines like sun and the moon. Power radiates
+from the orb giving the wearer a feeling of power.
+~
+A
+24 -5
+A
+19 4
+A
+22 -4
+A
+13 25
+#21977
+skull~
+a skull~
+A skull is lying here.~
+~
+5 65548 8193
+4 6 8 0
+2 0 0
+E
+skull~
+  A human skull.
+~
+A
+19 10
+A
+18 10
+#21978
+skull cracked~
+a cracked skull~
+A cracked skull is lying here.~
+~
+5 65548 8193
+4 6 8 11
+2 0 0
+E
+skull cracked~
+  A human cracked skull.
+~
+A
+19 10
+A
+18 10
+#21979
+skull long shaped~
+a long shaped skull~
+A long shaped skull is lying here.~
+~
+24 65548 8193
+0 0 0 0
+2 0 0
+E
+skull shaped long~
+   A long shaped human skull.
+~
+A
+19 12
+A
+18 12
+#21980
+small dragon talon tiamat~
+a baby dragon talon~
+A baby dragon talon is here.~
+~
+5 65 24577
+9 13 3 8
+1 0 0
+A
+18 4
+A
+19 4
+A
+3 3
+#21981
+unfinished object~
+*********** end easy quest items *****************~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#21982
+rainbow crystal~
+a ^Rred^n rainbow crystal~
+A ^Rred^n crystal is floating here.~
+~
+8 268435456 65537
+0 0 0 0
+1 0 0
+E
+red crystal rainbow~
+  This powerful crystal shines as it floats by you. It reflects
+the color of red that is so bright it forms a aura around you.
+~
+A
+1 4
+#21983
+rainbow crystal~
+a ^yorange^n rainbow crystal~
+A orange crystal is floating here.~
+~
+8 268435456 65537
+0 0 0 0
+1 0 0
+E
+orange crystal rainbow~
+  A rainbow crystal reflects the color of orange as it floats
+besides you. You can feel the power coming from the vibration
+of the crystal.
+~
+A
+5 4
+#21984
+rainbow crystal~
+a ^Yyellow^n rainbow crystal~
+A crystal is floating here.~
+~
+8 268435456 65537
+0 0 0 0
+1 0 0
+E
+yellow crystal rainbow~
+  A crystal is floating besides your body reflecting a shining
+light of yellow that engulfs your whole being. 
+~
+A
+2 4
+#21985
+rainbow crystal~
+a ^Ggreen^n rainbow crystal~
+A crystal is floating here.~
+~
+8 268435456 65537
+0 0 0 0
+1 0 0
+E
+green crystal rainbow~
+  A crystal is floating besides your body reflecting a shining
+light of green that engulfs your whole being. 
+~
+A
+4 4
+#21986
+rainbow crystal~
+a ^Bblue^n rainbow crystal~
+A crystal is lying here.~
+~
+8 268435456 65537
+0 0 0 0
+1 0 0
+E
+blue crystal rainbow~
+  A crystal is floating besides your body reflecting a shining
+light of blue that engulfs your whole being. 
+~
+A
+3 4
+#21987
+rainbow crystal~
+a ^mpurple^n rainbow crystal~
+A crystal is floating here.~
+~
+8 268435456 131073
+0 0 0 0
+1 0 0
+E
+purple crystal rainbow~
+  A crystal is floating besides your body reflecting a shining
+light of purple that engulfs your whole being. 
+~
+A
+6 4
+#21988
+portal~
+a portal~
+You see a portal hovering here.~
+You see a portal that leads to another room in the arena.
+~
+27 0 0
+21977 0 0 0
+0 0 0
+#21989
+portal~
+a portal~
+You see a portal hovering here.~
+You see a portal that leads to another room in the arena.
+~
+27 0 0
+21998 0 0 0
+0 0 0
+#21990
+bloody scrap paper~
+a bloody scrap of paper~
+A blood-flecked scrap of paper lies on the ground.~
+~
+13 28 1
+0 0 0 0
+1 0 0 150
+E
+bloody scrap paper~
+   The scrap of paper bears a messaged written in a hurried scrawl.
+Unfortunately many of the words are obscured by blood.  Here is what
+remains legible.
+
+   Rendezvous point chxnxxd frxx xxxxufuco'x tx xxm xnx xxe xax. Give
+signal to xxrxeep there. Follxx hix instxxctxonx.
+   Good Luck
+   GB
+~
+#21991
+sezzno_21991 broken bottle~
+a broken bottle~
+A broken bottle lies on the ground.~
+~
+5 0 8193
+4 5 5 3
+7 0 0 50
+A
+18 4
+A
+19 4
+#21992
+skeleton key iron~
+a skeleton key~
+A skeleton key lies on the ground.~
+~
+18 65564 1
+1 0 0 0
+3 0 0 200
+E
+skeleton key iron~
+   The iron key, worn from years of use, probably unlocks the door to the
+back room.
+~
+#21993
+severed head 21993_head~
+the severed head of Gerhardt Brukner~
+A severed head lies on the ground.~
+~
+8 0 1
+0 0 0 0
+5 0 0 200
+E
+severed head Gerhardt Brukner~
+  The pale grey eyes have not lost their animation in death and his mouth is
+twisted in a final wolfish grin.  Deliver this head to Sezzno to collect
+your reward.
+~
+#21994
+sign rules~
+a sign of rules~
+You see a sign posted here with the rules of sleep arena.~
+~
+12 0 0
+0 0 0 0
+0 0 0
+E
+sign rules~
+A-Welcome to the sleep arena. Where it's each person for themselves.
+B-The object of the game is to be the last awake.
+C-Once everyone is here you will be given a wand of sleep and a potion
+   of detect invis and sense life. Wands are to be returned when over.
+D-No one is to start until a God has given the word.
+E-Once asleep you will remain asleep until end of game.
+F-No Magic or PK is allowed in arena.
+G-Anyone not abiding by the rules will be removed.
+H-Good Luck and Good Night. :)
+~
+#21995
+portal~
+a portal ~
+You see a portal hovering here.~
+You see a portal leading to another room in the arena.
+~
+27 0 0
+21971 0 0 0
+0 0 0
+#21996
+portal~
+a portal~
+You see a portal hovering here.~
+You see a portal that takes you to another room in the arena.
+~
+27 0 0
+21992 0 0 0
+0 0 0
+#21997
+violet longsword sezzno_21997~
+a violet longsword~
+A violet longsword lies in the dust.~
+~
+5 8646668 1
+3 4 5 3
+3 0 0 150
+E
+violet longsword sezzno_21997~
+This is a quest flag. Collect enough and you might win a prize!
+~
+A
+19 3
+#21998
+grey dagger-21998~
+a grey dagger~
+A grey dagger lies on the ground.~
+~
+5 8646732 8193
+4 4 5 11
+2 0 0
+E
+grey dagger sezzno_21998~
+   This is a quest flag.  The player under level 15 with the most grey
+daggers wins a prize. Collect 'em all!
+~
+A
+19 5
+A
+2 3
+S
+10 50 4
+#21999
+amulet yari 21999~
+an amulet of Yari~
+A small silver amulet rests here, glowing with a strange aura.~
+~
+9 257 65537
+0 0 0 0
+1 300000 60000
+E
+yari amulet~
+In ages past it was said that Yari was the protector of travelers
+and innocents.  An amulet of Yari was rumored to have the power
+to ward off even certain death for those who truly believed in its
+power.
+~
+#99999
+$~

@@ -1,0 +1,17 @@
+>rand_prog 4~
+  say spare a shekel for a leper?
+~
+>bribe_prog 10~
+  thank $n
+~
+>bribe_prog 1~
+  say sheesh, 1/2 a dinarii for me bloody life-story??
+~
+>greet_prog 10~
+  emote shakes and shivers fitfully in a heap on the ground.
+  emote looks up at you with pleading eyes.
+~
+>death_prog 40~
+  cackle
+~
+|

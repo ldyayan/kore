@@ -1,0 +1,125 @@
+#2400
+happy~
+   hi, this is a description
+~
+24 0 3
+S
+#2401
+Dojo~
+The dojo has plain white walls, and a hardwood floor.
+~
+0 20 0
+D0
+~
+~
+0 0 2403
+S
+#2402
+dojo~
+The dojo has plain white walls, and a hardwood floor.
+~
+0 0 0
+D0
+~
+~
+0 0 2405
+D1
+~
+~
+0 0 2403
+S
+#2403
+dojo~
+The dojo has plain white walls, and a hardwood floor.
+~
+0 0 0
+D0
+~
+~
+0 0 2406
+D1
+~
+~
+0 0 2404
+D2
+
+~
+~
+0 0 2401
+D3
+~
+~
+0 0 2402
+S
+#2404
+dojo~
+The dojo has plain white walls, and a hardwood floor.
+~
+0 0 0
+D0
+~
+~
+0 0 2403
+D3
+~
+~
+0 0 2403
+S
+#2405
+dojo~
+The dojo has plain white walls, and a hardwood floor.
+~
+0 0 0
+D1
+~
+~
+0 0 2406
+D2
+~
+~
+0 0 2402
+S
+#2406
+dojo~
+The dojo has plain white walls, and a hardwood floor.
+~
+0 0 0
+D1
+~
+~
+0 0 2407
+D2
+~
+~
+0 0 2403
+D3
+~
+~
+0 0 2405
+S
+#2407
+dojo~
+The dojo has plain white walls, and a hardwood floor.
+~
+0 0 0
+D2
+~
+~
+0 0 2404
+D3
+~
+~
+0 0 2406
+S
+#2410
+quest central~
+You are in an unfinished room.
+~
+0 0 0
+D5
+~
+~
+0 0 3001
+S
+#99999
+$~

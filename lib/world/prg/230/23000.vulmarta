@@ -1,0 +1,38 @@
+>rand_prog 7~
+  if inroom($r) == here
+    if isaffected($r, poison)
+      cast 'remove poison' $r
+      if rand(20)
+        tell $r Next time I might just let you die! Hah!
+      endif
+    else
+      if hitprcnt($r) < 100
+        if ismemory($r)
+          if rand(30)
+            say A bit demanding, aren't you $R?
+            if rand(30)
+              say Hrmph.
+            endif
+          endif
+        mpforget $r
+        endif
+        cast 'cure critic' $r
+        mpremember $r
+      endif
+    endif
+  endif
+~
+>greet_prog 100~
+  if level($n) > 50
+    say Welcome, my master.
+    bow $n
+  else
+    if level($n) > 15
+      say You really don't belong here...
+      say Shame on you.
+      shake
+      cast 'word of recall' $n
+    endif
+  endif
+~
+|

@@ -1,0 +1,629 @@
+#16000
+bartender man~
+a bartender~
+A man in a white apron tosses bottles around merrily, serving drinks to all.
+~
+   A man dressed in a white apron and brown shirt stands behind the counter. He
+gives you a quick glance before going back to work. Tossing bottles in the air
+and pouring drinks, he seems to be a master drink mixer. His hair slicked back,
+his blue eyes to seem to watch the entire inn, though he never misses a bottle.
+Let him take your order.
+~
+3137626 1115176 -350 S
+59 1 0 1d1+1 1d1+40
+0 20
+8 8 1
+#16001
+townguard man guard ~
+a townguard of Aringill~
+A townguard of Aringill stands here, watching the gates.
+~
+    He is clad in dark blue armor with an oak tree emblazoned on the
+breastplate. His dark hair is ruffled playfully by the wind. Attached to his
+belt in a ornate scabbard is a longsword, while his right hand holds a
+poleaxe in an upright position. He sees you and gives a quick nod in greeting.
+~
+6218 4096 1000 S
+35 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16002
+townguard guard man~
+a townguard of Aringill~
+A townguard of Aringill stands here, protecting the city.
+~
+    He is clad in dark blue armor with an oak tree emblazoned on the
+breastplate. His dark hair is ruffled playfully by the wind. Attached to his
+belt in a ornate scabbard is a longsword, while his right hand holds a
+poleaxe in an upright position. He sees you and gives a quick nod in greeting.
+~
+6216 4096 1000 S
+35 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16003
+townguard captain guard~
+a townguard captain~
+A townguard captain rests here, keeping an eye out for trouble.
+~
+    This man is dressed in the same blue armor as are all the guards. He has
+no poleaxe, though he does have a sword-filled scabbard on his belt. The hilt
+and pommel of the sword are very ornately crafted. You can discern his rank
+by the golden tassle draped across his right shoulder. Countless battlescars
+mar his hands, and he eyes you carefully before turning away.
+~
+145482 5128 750 S
+40 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16004
+barmaid wench woman girl~
+a serving girl~
+A young woman runs back and forth between the patrons, taking their orders.
+~
+    With her hair falling down into her eyes and her dress ruffled, you cannot
+help but to think at how miraculous it is that she is still standing. She scurries
+from table to table delivering drinks and taking the orders of the patrons. You
+notice she glances over at the minstrel often and gives him a shy smile -- which
+he returns hastily. She looks up at you for a moment before running back into the
+kitchen.
+~
+202 131584 0 S
+6 20 0 1d1+0 1d1+0
+0 0
+8 8 2
+#16005
+farmer man patron citizen~
+a patron~
+A man in farmer's garb sits at a table strumming his fingers while he chats.
+~
+    Dressed in well-worn clothes, you see a weathered man resting a table with
+a few others. He strums his fingers on the table while he talks with them. Downing
+a mug of something, he sets it back on the table and calls for another round. He
+doesn't seem to notice you.
+~
+2250 131584 0 S
+3 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16006
+drunk dreg man~
+a drunk~
+A very drunk looking man sits on a stool by the bar.
+~
+   Dressed in black and green breeches and shirt, a very plastered young man
+sits at the bar trying to drink away his problems. He manages to glance up at
+you before he passes out. Pathetic.
+~
+2122 131584 0 S
+4 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16007
+townguard offduty guard~
+an offduty townguard~
+An offduty townguard, still dressed in his armor, sits at the bar enjoying a drink.
+~
+   His blue armor making a strange appearance in the brown wood of the bar, you
+see an offduty guard. His black hair is slicked back and his sword is unbuckled
+on his side. He, unlike everyone else, does not seem to be drunk -- yet.
+~
+6218 4096 0 S
+35 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16008
+baker vendor man~
+a baker~
+An aproned man stands behind a small table covered with baked goods.
+~
+    Standing behind a small booth is a man in a large white apron. His eyes
+are bight and alert as he sells off the fruits of his labors. Sweet pastries
+and breads sit on cooling racks and trays. From loaf to cookie, this stand
+is a sugar addicts dream.
+~
+67887114 0 50 S
+50 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16009
+man vendor leather merchant~
+a leather merchant~
+A large booth stands in front of a man dressed entirely in leather.
+~
+    Standing around six feet, you behold a man with very little fashion sense.
+He is dressed entirely in leathers -- from head to toe -- and he looks like
+a court jester. The leather he is wearing, however, looks extremely well made
+and textured. Waterskins, jerkins, and a myriad of leather goods adorn the
+booth before him.
+~
+3137626 4259880 0 S
+50 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16010
+potter man vendor~
+a potter~
+A woman with her hands covered in clay wheels, deals behind a booth.
+~
+   He is dreesed in what were once bright clothes, now spattered with clay,
+and his hands are dry and caked with clay. Before him is a set of tables
+with pottery of all kinds lain about and displayed artistically.
+~
+1040394 0 0 S
+10 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16011
+tailor shopkeeper human man~
+a tailor~
+A man has set a shop up behind a booth covered in various clothings.
+~
+    Standing behind a clothing covered booth is a human man of average height.
+He has dark brown hair that is tied into a ponytail and hung down his back. The
+top of his head is covered by a bright green cassock while he is wearing a
+blue tunic with an embroidered green surcote over it. He doesn't notice you
+as he wheels and deals with shoppers to get the best deal.
+~
+4186202 66600 0 S
+50 20 0 1d1+0 1d1+0
+0 0
+8 8 1
+#16012
+Yirenia statue goddess~
+Yirenia~
+The statue of the Goddess Yirenia stands here waiting to heal you.
+~
+   She is perhaps the finest example of a woman you have ever seen.  She
+is strong, yet delicate and ready to help.
+~
+663562 136 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#16013
+citizen man~
+a young man~
+A young man walks around the area.
+~
+   He stares at the buildings that raise high above the walls of the city.
+He stares in awe and you think perhaps this is his first trip to the "big"
+city.
+~
+72 0 750 S
+8 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16014
+wrinkled old lady woman~
+an old lady~
+A wrinkled old lady stands here not knowing which house is hers.
+~
+  Looks like the old lady lost her wait to the nursing home.  Funny
+how she constantly refers to you as sonny.  Looks like uncle Al
+finally showed up and took her mind away.
+~
+76 0 1000 S
+7 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#16015
+janitor~
+a janitor~
+A janitor sweeps up the trash here.
+~
+   Wow it looks like he has a new broom.
+~
+139340 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16016
+ox cart~
+an ox drawn cart~
+An ox labours hard to pull his cart around.
+~
+   What a brute.  He smells like something in your closet.
+~
+72 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16017
+townguard guard man~
+a townguard of Aringill~
+A townguard on the take sits here unaware of the crimes going on about him.
+~
+   Funny he looks like he's high on tsang root.  He also has a wod of cash
+hanging out of his pocket.
+~
+78 0 -200 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16018
+available mob~
+available mob~
+Ringil, Captain of the Royal Guard is here looking for trouble.
+~
+   A big tall man with bulging muscles he apparently is quite willing to
+guard the tyrant to the bloody end.
+~
+14474 327808 0 S
+30 20 10 1d1+0 6d7+0
+0 0
+8 8 1
+#16019
+available mob~
+available mob~
+A Royal Guard is here, looking for enemies of the Tyrant.
+~
+   He looks big and nasty.  I'd stay out of his way less he reduce you to
+dust.
+~
+6154 0 0 S
+25 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16020
+available mob~
+available mob~
+The Statue of the Tyrant
+~
+   The Statue of the Tyrant shows an old man not what you'd expect the tyrant
+to look like.
+~
+40970 132224 0 S
+32 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16021
+chicken~
+a chicken~
+A chicken plucks at the ground here.
+~
+Nice looking chicken.
+~
+76 4194304 0 S
+2 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16022
+wench prostitute~
+a wench~
+A sly female works the street looking for someone.
+~
+   Although she isn't the most beautiful she is probably very experienced in
+the arts.  He garments are dirty and it looks like she hasn't seen a bath in
+many days.  Perhaps that is part of her payment.
+~
+2058 0 -1000 S
+3 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#16023
+thug arrogant dealer man~
+a dealer~
+A man walks along the alley tryin to sell his goods.
+~
+   Kinda looks like his employees.  Ugly and sick.
+~
+10 0 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16024
+tsang addict~
+a tsang addict~
+A addict looks for his next buy.
+~
+   What are those? Needle marks in his arm?
+~
+138 1 -1000 S
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16025
+townguard guard aringill~
+a townguard~
+A townguard patrols the walls surrounding the city of Aringill.
+~
+   A townguard patrols the walls around the city of Aringill.
+~
+4170 0 300 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1 11
+#16026
+blackmarket man crime lord dealer peddler~
+a sword peddler~
+A man peddling his new weapons sits here on a stool.
+~
+   He's a little man but his bodyguards look big
+~
+262152 0 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16027
+barkeep man bartender~
+a barkeep~
+The barkeep stands here pouring more ale.
+~
+He looks kinda tired.  He looks back to the back room often.
+~
+10 131072 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16028
+wizard~
+a wizard~
+A wizard stand here peddling his magical goods.
+~
+   He glances about watching for customers.  His robes are quite bright
+you'd wager magical of some sort.
+~
+67108874 4194304 0 S
+35 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16029
+apothecary~
+the Apothecary~
+The Apothecary is here attempting to find a buyer for her goods.
+~
+   Nice big guy, he smiles kindly and gives you the items you ordered promptly.
+~
+67117066 0 0 S
+53 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16030
+armourer bb~
+the armourer~
+An armourer stands here displaying his new armours.
+~
+   He wears some samples of his beautiful armour.
+~
+67117066 0 0 S
+53 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16031
+captain man~
+captain~
+Captain sits here smoking his pipe contently.
+~
+  His corn pipe makes him look like some drawings you've seen of other
+sailors.  You know just by looking at him he hasn't sailed in years yet you
+realize that he'd probably not pass up the chance to do it again.
+~
+262154 0 0 S
+53 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16032
+receptionist~
+the receptionist~
+A receptionist is standing behind the counter here, smiling at you.
+~
+   You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+59403 32824 0 S
+53 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16033
+cryogenicist cryo~
+the cryogenicist~
+The cryogenicist is here, playing with a canister of liquid nitrogen.
+~
+   You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+26635 32808 0 S
+53 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16034
+postmaster post master~
+the postmaster~
+The head postmaster is standing here, waiting to help you with your mail.
+~
+  The Postmaster seems like a happy old man, though a bit sluggish.  He
+worries about the reputation of the AMS (Aringill Mail Service), as many
+people seem to think that it is slow.  Perhaps if he were to brush the
+cobwebs from his uniform it would help to make a better impression.
+~
+190475 32784 0 S
+53 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16035
+banker 16035~
+the banker~
+A banker is here, counting money on a balance book.
+~
+   You see a portly banker, a smiling happy man with fine clothes.  He
+studiously counts up a stack of gold coins into a ledger book and tallies
+them as he counts out each set of five.  His hands quake with age and the
+liver spot on them are proof of his age but he has probably counted coins
+since he was a young man and as he looks up he smiles at your deposit.
+~
+26634 32776 0 S
+53 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16036
+miner stout~
+a stout miner~
+A stout miner has travelled into the city.
+~
+  Stout yet he is sorter then the average man he carries a pick and he is
+quite knowledgable of the techniques of mining.  He walks among friends in the
+city.
+~
+2060 65576 300 S
+21 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16037
+Ogier~
+an ogier~
+An Ogier has traveled into the city.
+~
+  Somewhat short in stature he is none the less an Orgier.  Armed with a knife
+he can protect himself if the need should arise.
+~
+10248 262184 1000 S
+24 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16044
+master musician~
+the master musician~
+An elder man skilled in the art of instrument making sits here.
+~
+   Though his hands shake and he is not as strong as he once was he continues
+to craft his beautiful pieces.
+~
+442378 0 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16045
+master fletcher~
+the master fletcher~
+The fletcher sits here crafting a bow from some mahogany he has found nearby.
+~
+Though he isn't the richest man in town, he is one of them and his clothing
+and attire reveal this fact to those who enter the store.  He has trained many
+in the ways of making bows but few have ever taken to it most now work for the
+tyrant.
+~
+262154 8 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16046
+dragon~
+a small dragon~
+A small dragon stands here spouting fire and waiting for his master.
+~
+  His small red scales remind you of those found on Tiamats red dragons.  You
+find it hard to believe that this small yet obviously angry dragon would follow anyone.
+~
+10 1032 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0 1
+#16047
+pet shop boy~
+the pet shop boy~
+A small boy sits here watching the various animals carefully.
+~
+   He watches and treats the animals as his own.  He is small and wears mostly
+rags and nothing else though his parents are probably far from poor.
+~
+262154 8 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#16048
+small dog~
+a small dog~
+A small dog sits here awaiting it's master.
+~
+It looks, err, unfinished.
+~
+10 1032 0 S
+8 20 10 1d1+0 1d1+0
+0 0
+8 8 0 4
+#16049
+a large warg~
+a large warg~
+A large warg sits here it's face covered in blood.
+~
+Covered in blood this warg looks particularly mean.
+~
+10 525320 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16050
+notthere junk god mob~
+notthere !junk mob~
+stops plyrs from junk eq in dono
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#16060
+townguard guard aringill~
+a townguard of Aringrill~
+A townguard of Aringill stands here, watching the gate.
+~
+  He is clad in dark blue armor with and oak tree emblazoned on the 
+breastplate.  His dark hair is ruffled playfully by the wind.  Attached
+to his belt is an ornate scabbord and longsword, while his right hand
+holds a poleaxe in an upright position.  He sees you and gives you a 
+quick nod in greeting.
+~
+6218 4096 1000 S
+15 6 1 5d5+450 5d5+9
+0 30000
+8 8 0
+#16061
+townguard guard aringill~
+a townguard of Aringrill~
+A townguard of Aringill stands here, watching the gate.
+~
+  He is clad in dark blue armor with and oak tree emblazoned on the 
+breastplate.  His dark hair is ruffled playfully by the wind.  Attached
+to his belt is an ornate scabbord and longsword, while his right hand
+holds a poleaxe in an upright position.  He sees you and gives you a 
+quick nod in greeting.
+~
+6218 4096 1000 S
+15 6 1 5d5+450 5d5+9
+0 30000
+8 8 0
+#16062
+townguard guard aringill~
+a townguard of Aringrill~
+A townguard of Aringill stands here, watching the gate.
+~
+  He is clad in dark blue armor with and oak tree emblazoned on the 
+breastplate.  His dark hair is ruffled playfully by the wind.  Attached
+to his belt is an ornate scabbord and longsword, while his right hand
+holds a poleaxe in an upright position.  He sees you and gives you a 
+quick nod in greeting.
+~
+6218 4096 1000 S
+15 6 1 5d5+450 5d5+9
+0 30000
+8 8 0
+#16063
+available mob~
+available mob~
+Behind a small wooden desk sits Gortok the guildmaster.
+~
+   Gortok is a retired adventurer.  There are scars on his arms
+and chest, and a deep gash along his right cheek.  His arms and
+chest are still thick and powerful, though he has resided within
+the city for some time.  Since retirement he has taken over the
+adventurers guild, hiring out mercenaries and the like to do odd
+jobs for the local citizens.
+~
+167772170 0 0 S
+55 20 10 1d1+0 1d1+0
+0 0
+5 5 1 3
+#99999
+$~

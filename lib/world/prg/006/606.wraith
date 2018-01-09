@@ -1,0 +1,58 @@
+>rand_prog 3~
+  if rand(10)
+    if rand(50)
+      mpasound A rustling sound echoes into the room...
+    else
+      mpasound A lilting laugh beckons you...
+    endif
+  endif
+~
+>rand_prog 5~
+  if inroom($i) == 601
+  or inroom($i) == 602
+  or inroom($i) == 603
+  or inroom($i) == 604
+  or inroom($i) == 605
+  or inroom($i) == 606
+  or inroom($i) == 607
+  or inroom($i) == 608
+  or inroom($i) == 609
+  or inroom($i) == 611
+  or inroom($i) == 612
+  or inroom($i) == 613
+  or inroom($i) == 614
+  or inroom($i) == 620
+  or inroom($i) == 621
+  or inroom($i) == 622
+  else
+    mpecho $I suddenly vanishes, leaving a wisp of smoke in its wake.
+    mpgoto 602
+    mpstopscript
+  endif
+~
+>rand_prog 6~
+  if isscript($i)
+  else
+    if clan($r) == coven
+      if isaffected($r, fly)
+      else
+        mptrigger $r hunt-and-fly
+      endif
+    endif
+  endif
+~
+>script_prog hunt-and-fly~
+@
+@
+  if inroom($n) == here
+    mpechoaround $n $N twitches as $I slowly fades into $m.
+    mpechoat $n You feel light as air as $I passes through your body.
+    mpcallmagic 'fly' $n
+    mpstopscript
+  else
+    mpecho $I drifts through the room in search of something.
+    mptrackto $n
+    mptrigger $n hunt-and-fly
+  endif
+~
+|

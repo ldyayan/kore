@@ -1,0 +1,14 @@
+>command_prog open door~
+  if ispc($n)
+    if level($n) < 35
+      if isremort($n)
+      else
+        mpechoat $n $I steps in front of you, blocking your path.
+        mpechoaround $n $I steps in front of $N blocking $L path.
+        say Do not start what you cannot finish.
+        mpstopcommand
+      endif
+    endif
+  endif
+~
+|

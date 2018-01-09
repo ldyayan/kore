@@ -1,0 +1,128 @@
+>rand_prog 100~
+  # ^yI take that back, numbers are a bitch^N
+  if rand(30)
+    if rand(30)
+      mpmload 15104
+    else
+      if rand(30)
+        mpgoto 15160
+        mpmload 15104
+      else
+        if rand(30)
+          mpgoto 15139
+          mpmload 15104
+        else
+          if rand(30)
+            mpgoto 15131
+            mpmload 15104
+          else
+            mpgoto 15120
+            mpmload 15104
+          endif
+        endif
+      endif
+    endif
+    mpgoto cleaner
+  else
+    if rand(30)
+      if rand(30)
+        mpmload 15105
+      else
+        if rand(30)
+          mpgoto 15160
+          mpmload 15105
+        else
+          if rand(30)
+            mpgoto 15139
+            mpmload 15105
+          else
+            if rand(30)
+              mpgoto 15131
+              mpmload 15105
+            else
+              mpgoto 15120
+              mpmload 15105
+            endif
+          endif
+        endif
+      endif
+      mpgoto cleaner
+    else
+      if rand(30)
+        if rand(30)
+          mpmload 15109
+        else
+          if rand(30)
+            mpgoto 15160
+            mpmload 15109
+          else
+            if rand(30)
+              mpgoto 15139
+              mpmload 15109
+            else
+              if rand(30)
+                mpgoto 15131
+                mpmload 15109
+              else
+                mpgoto 15120
+                mpmload 15109
+              endif
+            endif
+          endif
+        endif
+        mpgoto cleaner
+      else
+        if rand(30)
+          if rand(30)
+            mpmload 15110
+          else
+            if rand(30)
+              mpgoto 15160
+              mpmload 15110
+            else
+              if rand(30)
+                mpgoto 15139
+                mpmload 15110
+              else
+                if rand(30)
+                  mpgoto 15131
+                  mpmload 15110
+                else
+                  mpgoto 15120
+                  mpmload 15110
+                endif
+              endif
+            endif
+          endif
+          mpgoto cleaner
+        else
+        if rand(100)
+          if rand(30)
+            mpmload 15105
+          else
+            if rand(30)
+              mpgoto 15160
+              mpmload 15105
+            else
+              if rand(30)
+                mpgoto 15139
+                mpmload 15105
+              else
+                if rand(30)
+                  mpgoto 15131
+                  mpmload 15105
+                else
+                  mpgoto 15120
+                  mpmload 15105
+                endif
+              endif
+            endif
+          endif
+          mpgoto cleaner
+        endif
+      endif
+    endif
+  endif
+~
+|
+

@@ -1,0 +1,38 @@
+>all_greet_prog 100~
+  if isfollower($n)
+    if isnpc($n)
+      mpechoaround $n $I makes a quaint gesture at $N, who explodes in a shower of blood!
+      mpechoat $n $I makes a quaint gesture at you, and your blood suddenly boils before exploding out of your veins!
+      mpdamage $n 50000
+      say We don't allow pets here!
+    endif
+  else
+    mpecho $I glances at a sheet of paper, then at you.
+    say I don't recognize you.  Your arrival is unscheduled.  But if you leave a small deposit with me, I will let you in... An amount of, say, a thousand coins per person should be sufficient.
+    nudge $n
+  endif
+~
+>command_prog up~
+  mpechoat $n You attempt to leave up, but a mysteriously force keeps you rooted in place.
+  mpechoaround $n $N seems to march in place for a moment, going nowhere.
+  say You need to leave a deposit with me before you can proceed.
+  mpstopcommand
+~
+>command_prog kill~
+  mpechoat $n You attempt to kill $I, but an icy glare from him, promising endless pain if you dare even try, stops you in your tracks!
+  mpechoaround $n $I glares at $N who halts in $S tracks!
+  mpstopcommand
+  say Troublemakers aren't welcome here!
+  wave $n
+  mpechat $n $I pulls a small chain, and you feel yourself disintegrating... and reforming elsewhere!
+  mpechoaround $n $I pulls a small chain.  $N vanishes suddenly!
+  mptransfer $n 22000
+~
+>bribe_prog 1000~
+  say Thank you kindly! Enjoy your stay.
+  mpechoat $n $I hustles you upwards before you can protest.
+  mpechoaround $n $I hustles $N upwards before $E can protest.
+  mptrans $n 22083
+  say Now who else would like to pay?
+~
+|

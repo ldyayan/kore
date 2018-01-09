@@ -1,0 +1,14 @@
+#130
+Sylvan Woods (Zirnozz)~
+13099 32 2 32
+M 0 28005     1 13059            random mob generator
+M 0   619     1 13028            ellcrys haven mob
+D 0 13048     5     1            Darker domain door down
+M 0 13002     5 13013            a carrion beetle
+M 0 13000     5 13006            a grey squirrel
+M 0 13001     5 13006            a spotted owl
+M 0 15219     1 13037            a scrounge_mob
+O 0 13000   101 13035            the waterfall
+S
+#99999
+$~

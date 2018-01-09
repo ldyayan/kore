@@ -1,0 +1,111 @@
+#266
+Aesir~
+26699 30 1 35
+M 0 26644     1 26638            Skymere the Watcher
+E 1 26615    99    16                    wield an Aesir War Axe
+E 1 26626    99     3                    neck 1 a key carved of oak
+G 1 26613    99    -1                    give a delicate ^Ygolden^n harp
+M 0 26614     1 26603            the Aesir Watcher
+M 0 26627     1 26650            Sigyn, the Jarl of Aesir
+E 1 26615   101    17                    held an Aesir War Axe
+E 1 26606    20     6                    head a ^Ygolden^n winged helm
+E 1 26607    20    12                    about a ^Wsilver^n wolf hide
+E 1 26605    16    16                    wield the mighty halberd '^gGarou^n'
+M 0 26628     1 26650            the giant raven Munin
+E 1 26611    12     6                    head a crown of raven feathers
+G 1 26613    75    -1                    give a delicate ^Ygolden^n harp
+E 1 26630    20    17                    held a huge ravens feather
+M 0 26630     1 26688            Fijir Wolf
+E 1 26623    13    14                    left wrist the bonds of Fijir
+E 1 26622    30     3                    neck 1 a great mead horn
+E 1 26624    22    17                    held the hand of Tyr
+E 1 26628    32     5                    body the hide of Fijir Wolf
+D 0 26688     2     2            The Eternal Prison of Fenris door south
+M 0 26629     1 26644            the Asegier
+E 1 26610    10     8                    feet a pair of wolf hide boots
+E 1 26609    20     9                    hands fur-trimmed gloves
+E 1 26608    19    16                    wield a Wolf Fang staff
+D 0 26644     3     2            The Asegier's Study door west
+M 0 26603     1 26620            the Statue of Svana
+D 0 26620     3     2            the Temple of Svana door west
+M 0 26646     1 26620            a casting of Asleif the Protector
+M 0 26647     1 26620            a sculpture of Thyre
+M 0 26645     2 26689            the receptionist
+M 0 26645     2 26695            the receptionist
+M 0 26640     2 26637            a reindeer
+O 0 26629   101 26637            a wooden trough
+P 0 26613    10 26629                    put a delicate ^Ygolden^n harp in a wooden trough
+M 0 26609     1 26633            the house mistress
+D 0 26633     2     1            Inside the Stone House door south
+O 0 26616   101 26653            a dense roll
+O 0 26617   101 26653            a scroll of recall
+O 0 26618   101 26653            a yellow potion
+O 0 26619   101 26653            a small rowboat
+O 0 26620   101 26653            a large reindeer hock
+O 0 26613     3 26653            a delicate ^Ygolden^n harp
+M 0 26613     1 26610            the Aesir Watcher
+E 1 26614    10    18                    ready an Aesir spear
+O 0 26601   101 26610            a brilliant ball of ^Bblue^n fire
+M 0 26600     1 26617            the Aesir Watcher
+O 0 26600   101 26617            an Elegantly Sculpted Fountain
+M 0 26611     1 26605            the Aesir Watcher
+E 1 26614    10    18                    ready an Aesir spear
+M 0 26612     1 26605            the Aesir Watcher
+M 0 26606     1 26624            a large wolf-like dog
+D 0 26624     0     1            Standing Before a Small House door north
+M 0 26605     1 26632            the house mistress
+D 0 26632     2     1            Inside the Stone House door south
+D 0 26621     1     2            Svana's Secret Chamber door east
+M 0 26615     2 26607            the Aesir Watcher
+E 1 26614    10    18                    ready an Aesir spear
+M 0 26616     2 26607            the Aesir Watcher
+M 0 26617     2 26607            the Aesir Watcher
+E 1 26614    10    18                    ready an Aesir spear
+M 0 26610     1 26628            a large wolf-like dog
+D 0 26628     0     1            Before the Small House door north
+D 0 26635     3     1            The Reindeer Pen door west
+D 0 26634     1     1            Austri Avenue door east
+M 0 26626     1 26630            the Aesir Elite Watcher
+E 1 26604    99    17                    held an ornate ^Ygold^n key
+G 1 26613    10    -1                    give a delicate ^Ygolden^n harp
+D 0 26630     0     2            Climbing the Stone Stairs door north
+D 0 26631     2     2            The Great Hall of The Jarl door south
+D 0 26643     1     2            The Sitting Room door east
+M 0 26602     1 26622            Svana's Berserker
+E 1 26602    10     3                    neck 1 a glistening hematite pendant
+G 1 26603    20    -1                    give a vial of mercury
+M 0 26608     1 26622            Svana's Berserker
+E 1 26602    10     3                    neck 1 a glistening hematite pendant
+G 1 26613    60    -1                    give a delicate ^Ygolden^n harp
+G 1 26603    30    -1                    give a vial of mercury
+M 0 26618     1 26618            the Aesir Watcher
+M 0 26601     2 26613            an Aesir Warrior
+M 0 26619     2 26613            an Aesir Warrior
+E 1 26615    10    16                    wield an Aesir War Axe
+M 0 26620     2 26613            an Aesir Warrior
+M 0 26621     2 26613            an Aesir Warrior
+E 1 26615    10    16                    wield an Aesir War Axe
+M 0 26622     1 26654            an Aesir Warrior
+E 1 26615    10    16                    wield an Aesir War Axe
+M 0 26623     1 26654            an Aesir Warrior
+D 0 26687     0     2            Before the Giant Boulder door north
+M 0 26604     1 26616            a man
+M 0 26624     2 26627            a man
+M 0 26625     1 26623            a man
+M 0 26635     1 26665            the weary adventurer
+E 1 26612    10    16                    wield a small broadsword
+M 0 26636     2 26665            the weary adventurer
+E 1 26612    10    16                    wield a small broadsword
+G 1 26613    10    -1                    give a delicate ^Ygolden^n harp
+M 0 26637     2 26666            a reindeer
+M 0 26638     2 26667            a reindeer
+M 0 26639     2 26636            a reindeer
+M 0 26631     2 26661            a small child
+M 0 26633     1 26661            a spotted goat
+M 0 26632     1 26660            a small child
+M 0 26634     2 26660            a spotted goat
+M 0 26641     1 26652            Skadi
+M 0 26642     1 26626            Bjorndal
+S
+#99999
+$~

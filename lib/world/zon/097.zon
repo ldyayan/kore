@@ -1,0 +1,234 @@
+#97
+Kerofk~
+9899 30 2 3
+M 0  9700     1  9700            Dao Yen
+E 1  9700    10     9                    hands a white glove
+O 0  9746   101  9700            a chest
+O 0  9747   102  9734            a well
+O 0  9747   102  9734            a well
+M 0  9701     1  9703            the Sentinel Beast
+D 0  9703     0     2            The Blue Temple door north
+M 0  9702     1  9751            Leonna
+E 1  9730    10     5                    body a magic jerkin
+E 1  9727    10    16                    wield a flaming sword
+E 1  9723    10    17                    held a guild key
+D 0  9751     2     1            Leonna's Office door south
+O 0  9729    10  9752            a chimaera cloak
+O 0  9728     3  9752            the dreamblade
+D 0  9752     1     2            Mages' Guild Storeroom door east
+M 0  9703     1  9747            the Bookstore Owner
+G 1  9702    10    -1                    give the Book of Dragons
+G 1  9708    10    -1                    give a Manual of Protection
+G 1  9709    10    -1                    give a travel brochure
+G 1  3052    10    -1                    give a scroll of recall
+G 1  3050    10    -1                    give a scroll of identify
+D 0  9747     3     1            The Bookstore door west
+M 0  9704     1  9748            Seobagn
+D 0  9748     1     1            Thieves Guild door east
+M 0  9705     1  9746            the bartender
+G 1  9748    10    -1                    give a bottle
+G 1  9749    10    -1                    give a carafe
+G 1  9750    10    -1                    give a shotglass
+M 0  9706     5  9746            the barmaid
+M 0  9706     5  9746            the barmaid
+M 0  9707     5  9746            the drunk
+M 0  9707     5  9746            the drunk
+M 0  9707     5  9746            the drunk
+M 0  9754     1  9765            the bartender
+G 1  9748    10    -1                    give a bottle
+G 1  9749    10    -1                    give a carafe
+G 1  9750    10    -1                    give a shotglass
+M 0  9706     5  9765            the barmaid
+M 0  9706     5  9765            the barmaid
+M 0  9706     5  9765            the barmaid
+M 0  9707     5  9765            the drunk
+M 0  9707     5  9765            the drunk
+M 0  9713     2  9765            the citizen of Kerofk
+M 0  9713     2  9765            the citizen of Kerofk
+M 0  9708     3  9707            the gambler
+M 0  9709     4  9707            the Dealer
+M 0  9709     4  9707            the Dealer
+M 0  9712     5  9707            the gambler
+M 0  9712     5  9707            the gambler
+M 0  9708     3  9741            the gambler
+M 0  9708     3  9741            the gambler
+M 0  9709     4  9741            the Dealer
+M 0  9709     4  9741            the Dealer
+M 0  9712     5  9741            the gambler
+M 0  9712     5  9741            the gambler
+M 0  9712     5  9741            the gambler
+M 0  9710     1  9742            Ben
+E 1  9737    10    16                    wield an axe
+M 0  9711     1  9743            the shopkeeper
+G 1  9714    10    -1                    give a tin of nightcrawlers
+G 1  9717    10    -1                    give a fly lure
+G 1  9743    10    -1                    give a breast plate
+G 1  9744    10    -1                    give a round, steel cap
+G 1  9745    10    -1                    give a pair of chain leggings
+M 0  9714     1  9764            the receptionist
+M 0  9715     1  9754            the herbalist
+G 1  9718    10    -1                    give a dusk of basil
+G 1  9719    10    -1                    give a fern seed
+G 1  9720    10    -1                    give a clump of hemlock
+G 1  9721    10    -1                    give a betony leaf
+G 1  9722    10    -1                    give a crown of elder berries
+M 0  9716     2  9758            the lawyer
+M 0  9716     2  9758            the lawyer
+M 0  9717     1  9756            the secretary
+M 0  9718     1  9757            Kell
+M 0  9719     2  9759            the council guard
+E 1  3022    10    16                    wield a long sword
+M 0  9719     2  9759            the council guard
+E 1  3022    10    16                    wield a long sword
+D 0  9759     3     1            Outer Chamber door west
+M 0  9720     7  9760            the Council Member
+M 0  9720     7  9760            the Council Member
+M 0  9720     7  9760            the Council Member
+M 0  9720     7  9760            the Council Member
+M 0  9720     7  9760            the Council Member
+M 0  9720     7  9760            the Council Member
+M 0  9720     7  9760            the Council Member
+D 0  9760     1     1            Inner Chamber door east
+M 0  9721     1  9761            the jailer
+E 1  3022    10    16                    wield a long sword
+G 1  9726    10    -1                    give a jailer's key
+D 0  9761     1     2            Jailer's Room door east
+M 0  9722     1  9762            the prisoner
+D 0  9762     3     2            Cells door west
+M 0  9723     2  9744            the innguard
+E 1  3022    10    16                    wield a long sword
+M 0  9723     2  9744            the innguard
+E 1  3022    10    16                    wield a long sword
+M 0  9724     1  9739            Jenk
+G 1  9711    10    -1                    give an arbalest
+G 1  9712    10    -1                    give a suit of target armor
+G 1  9713    10    -1                    give a quick sheathe
+G 1  9710    10    -1                    give a plate bird perch
+D 0  9739     1     1            Jenk's Place door east
+M 0  9725     1  9740            the black marketeer
+E 1  9731    10    17                    held the space-warp wand
+D 0  9740     3     1            The Back Room door west
+M 0  9726     2  9769            the priestess
+M 0  9726     2  9769            the priestess
+M 0  9727     1  9770            the High Priestess
+M 0  9728     1  9771            the sergeant
+M 0  9729     1  9772            the Captain
+E 1  9704    10    16                    wield an epee
+M 0  9730   101  9768            the beggar
+G 1  9724    10    -1                    give a blank key
+M 0  9733     6  9768            the militiaman
+E 1  3022    10    16                    wield a long sword
+M 0  9733     6  9768            the militiaman
+E 1  3022    10    16                    wield a long sword
+M 0  9733     6  9768            the militiaman
+E 1  3022    10    16                    wield a long sword
+M 0  9733     6  9768            the militiaman
+E 1  3022    10    16                    wield a long sword
+M 0  9733     6  9768            the militiaman
+E 1  3022    10    16                    wield a long sword
+M 0  9733     6  9768            the militiaman
+E 1  3022    10    16                    wield a long sword
+M 0  9734     1  9768            Kervin
+E 1  9706    10    16                    wield a war ribbon
+E 1  9739    10     5                    body a blob of living armor
+M 0  9731     4  9702            the citizen of Kerofk
+M 0  9731     4  9702            the citizen of Kerofk
+M 0  9731     4  9702            the citizen of Kerofk
+M 0  9731     4  9702            the citizen of Kerofk
+D 0  9702     2     2            Plaza of Kerofk door south
+M 0  9732     4  9750            the citizen of Kerofk
+M 0  9732     4  9750            the citizen of Kerofk
+M 0  9732     4  9750            the citizen of Kerofk
+M 0  9732     4  9750            the citizen of Kerofk
+M 0  9749     4  9750            the citizen of Kerofk
+M 0  9749     4  9750            the citizen of Kerofk
+M 0  9749     4  9750            the citizen of Kerofk
+M 0  9749     4  9750            the citizen of Kerofk
+M 0  9735     4  9776            the gateguard of Kerofk
+E 1  3022    10    16                    wield a long sword
+M 0  9735     4  9776            the gateguard of Kerofk
+E 1  3022    10    16                    wield a long sword
+M 0  9735     4  9777            the gateguard of Kerofk
+E 1  3022    10    16                    wield a long sword
+M 0  9735     4  9777            the gateguard of Kerofk
+E 1  3022    10    16                    wield a long sword
+M 0  9736     1  9804            the Bright Light
+D 0  9804     1     1            Octagonal Room door east
+M 0  9737     2  9807            the guardian wisp
+M 0  9737     2  9807            the guardian wisp
+D 0  9807     0     1            Trial door north
+D 0  9807     1     1            Trial door east
+D 0  9807     3     1            Trial door west
+M 0  9738     1  9831            the Orb
+E 1  9701    10    17                    held a crystal shard
+D 0  9831     0     1            Pedestal of the Orb! door north
+M 0  9739     1  9832            the Lich
+E 1  9703    10    12                    about the robe of the Lich
+M 0  9740     2  9832            the Storm Demon
+M 0  9740     2  9832            the Storm Demon
+D 0  9832     0     1            Temple of Dao Yen door north
+O 0  9715    15  9833            an amulet of Vulmarta
+O 0  9716    15  9833            an eagle pendant
+M 0  9741     1  9799            Tiersten
+E 1  9735    10    16                    wield a flail
+M 0  9742     1  9799            the Edimmu
+O 0  9736    20  9799            a painting
+D 0  9799     0     1            Bedroom door north
+M 0  9743     1  9784            Sosivia
+E 1  9738    10     3                    neck 1 a talisman of hope
+M 0  9744     1  9791            Celia
+E 1  9733    10     3                    neck 1 an amulet of protection
+E 1  9734    10    17                    held the memory staff
+M 0  9745     1  9788            Talbot
+E 1  9732    10    16                    wield an elite sword
+M 0  9746     1  9788            Korino
+E 1  9732    10    16                    wield an elite sword
+M 0  9747     1  9847            Bungle Fleecem
+M 0  9748     1  9850            the gravedigger
+M 0  9750     2  9816            a hellhound
+M 0  9750     2  9816            a hellhound
+D 0  9816     2     1            Passageway door south
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+M 0  9751    10  9819            a goblin
+D 0  9819     0     1            Trial of Defense! door north
+M 0  9752     1  9852            the farmer
+G 1  9705    10    -1                    give a powwee
+G 1  9707    10    -1                    give a zucchini
+G 1  9740    10    -1                    give a pale apple
+G 1  9741    10    -1                    give a potato
+G 1  9742    10    -1                    give an onion
+M 0  9753     1  9745            the receptionist
+D 0  9749     0     1            Mages' Guild, Entrance door north
+D 0  9749     1     1            Mages' Guild, Entrance door east
+D 0  9749     3     2            Mages' Guild, Entrance door west
+
+D 0  9753     3     1            The Mages' Library door west
+D 0  9796     4     1            Guest Bedroom door up
+D 0  9798     2     1            Attic door south
+D 0  9798     5     1            Attic door down
+D 0  9800     1     1            Entrance to the Blue Trials door east
+D 0  9803     2     1            Passageway door south
+D 0  9806     0     1            Passageway door north
+D 0  9808     2     1            Passageway door south
+D 0  9810     5     1            Passageway door down
+D 0  9811     5     1            Passageway door down
+D 0  9814     0     1            End of the Passageway door north
+D 0  9815     0     1            Second Trial door north
+D 0  9815     1     1            Second Trial door east
+D 0  9818     0     1            Passageway door north
+D 0  9825     0     1            Trial of Persistence door north
+D 0  9825     1     1            Trial of Persistence door east
+D 0  9825     2     1            Trial of Persistence door south
+D 0  9825     3     1            Trial of Persistence door west
+D 0  9828     0     1            Passageway door north
+S
+#99999
+$~

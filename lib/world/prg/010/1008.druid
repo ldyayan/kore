@@ -1,0 +1,50 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    bow zirnozz
+  endif
+~
+>rand_prog 6~
+  if inroom($i) == 1095
+  else
+    south
+    up
+    up
+  endif
+~
+>command_prog north~
+  if inroom($i) == 1095
+    if isimmort($n)
+    else
+      mpechoaround $n $I sluggishly raises an arm to block $N as $e tries to exit north.
+      mpechoat $n $I promptly stops your progress north with an outstretched arm.
+      mpstopcommand
+    endif
+  endif
+~
+>fight_prog 25~
+  if inroom($r) == here
+    if rand(20)
+      cast 'fist of earth' $r
+    else
+      if rand(30)
+        cast 'ice storm' $r
+      else
+        if rand(40)
+          cast 'fire storm' $r
+        else
+          if rand(50)
+            cast 'call lightning' $r
+            mpcallmagic 'call lightning' $r
+            mpcallmagic 'call lightning' $r
+          else
+            mpsilent switch $r
+            mpechoaround $r $I lurches forward at $R!
+            mpechoat $r $I disgustingly lurches forward at you!
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+|
+

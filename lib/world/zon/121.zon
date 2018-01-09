@@ -1,0 +1,78 @@
+#121
+Castle of King Kyrellia~
+12199 10 2 32
+M 0 12101     3 12100            a decrepit Stone Gargoyle
+E 1 12100    99    17                    held a gothic key
+M 0 12101     4 12100            a decrepit Stone Gargoyle
+D 0 12100     3     2            Outside of the Castle Gates door west
+M 0 12101     1 12110            a decrepit Stone Gargoyle
+M 0 12101     2 12110            a decrepit Stone Gargoyle
+M 0 12107     8 12111            a Shadow Weasel
+M 0 12107     8 12111            a Shadow Weasel
+M 0 12107     8 12111            a Shadow Weasel
+M 0 12107     8 12111            a Shadow Weasel
+M 0 12107     8 12111            a Shadow Weasel
+M 0 12107     8 12111            a Shadow Weasel
+M 0 12108     1 12112            the Shadow Wizard
+E 1 12107   101    11                    shield a shadow shield
+M 0 12107     8 12112            a Shadow Weasel
+M 0 12107     8 12112            a Shadow Weasel
+M 0 12103     8 12102            a small string homonculus
+M 0 12103     8 12102            a small string homonculus
+M 0 12103     8 12102            a small string homonculus
+M 0 12103     8 12102            a small string homonculus
+M 0 12103     8 12105            a small string homonculus
+M 0 12103     8 12105            a small string homonculus
+M 0 12103     8 12104            a small string homonculus
+M 0 12103     8 12104            a small string homonculus
+M 0 12102     1 12103            the Homonculus King
+E 1 12103    99    17                    held a key
+E 1 12101    30    16                    wield a skeletal pike
+M 0 12104     4 12106            a skeletal Cat
+M 0 12104     4 12106            a skeletal Cat
+M 0 12104     4 12106            a skeletal Cat
+M 0 12104     4 12106            a skeletal Cat
+M 0 12105     1 12107            a Salt Golem of a Footman
+E 1 12102    30    16                    wield a Footman's Boot
+M 0 12106     4 12108            a Zombie Horse
+M 0 12106     4 12108            a Zombie Horse
+M 0 12106     4 12108            a Zombie Horse
+M 0 12106     4 12108            a Zombie Horse
+O 0 12106   100 12108            a small wooden key
+M 0 12109     1 12113            Prince Pavlo
+E 1 12108    30    16                    wield a small iron rattle
+M 0 12110     1 12114            the Floating Head of Princess Claire
+E 1 12109    30     6                    head a ^rbloody^n ^Wsilver^n tiara
+M 0 12111     2 12114            Princess Claire's Playmate
+M 0 12111     2 12114            Princess Claire's Playmate
+M 0 12112     1 12101            the Skeleton of the Castle Guard Vade
+E 1 12110    20     5                    body a rusty chainmail
+E 1 12111    20    16                    wield a mace made of bone
+M 0 12113     1 12115            Aerik, the Jester of Death
+E 1 12112    40    16                    wield an ochre stick
+E 1 12104    10     2                    right finger a skeleton Ring
+M 0 12114     2 12116            the Rust Golem
+E 1 12105    30    16                    wield a Rusted Flail
+M 0 12116     1 12118            the Black Widow Queen
+E 1 12113    10    16                    wield the Ebony Claw of the Widow Queen
+M 0 12117     2 12118            the dry husk of a guard
+M 0 12117     2 12118            the dry husk of a guard
+M 0 12115     3 12117            a large, dessicated spider
+M 0 12115     3 12117            a large, dessicated spider
+M 0 12115     3 12117            a large, dessicated spider
+M 0 12118     2 12124            a Small Brown Ermine
+M 0 12118     2 12124            a Small Brown Ermine
+D 0 12101     1     2            The Foyer of the Mad King's Castle door east
+D 0 12103     5     2            The Great Throne of the Mad King Kyrellia door down
+D 0 12115     4     2            A Small Room door up
+D 0 12106     0     1            A small courtyard door north
+D 0 12107     2     1            The Footman's Chambers door south
+D 0 12106     2     1            A small courtyard door south
+D 0 12108     0     1            The Royal Stables door north
+D 0 12102     1     1            The Hallway south of the Throne Room door east
+D 0 12104     3     1            The East Hall door west
+D 0 12102     3     1            The Hallway south of the Throne Room door west
+D 0 12105     1     1            The West Hall door east
+S
+#99999
+$~

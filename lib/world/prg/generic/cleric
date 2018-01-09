@@ -1,0 +1,42 @@
+cure light		1	10
+armor			2	10
+cause light		3	10
+faerie fire		4	10
+word of recall		5	6
+cure serious		6	15
+cause serious		7	15
+bless			8	15
+cure blind		11	11
+detect invisibility	12	15
+defensive harmony	13	30
+remove poison		14	50
+poison			15	20
+protection from good	15	40
+protection from evil	16	30
+cure critic		17	20
+cause critic		18	20
+blindness		19	25
+aid			20	15
+dispel evil		23	25
+dispel good		24	25
+sanctuary		24	71
+heal			24	50
+curse			25	30
+harm			28	50
+remove curse		30	30
+summon			32	52
+prayer			33	61
+earthquake		35	26
+holy light		35	31
+control weather		36	26
+call lightning		37	26
+gate one		40	105
+petrify			41	100
+spiritual hammer	41	60
+group heal		42	90
+gate two		45	160
+restore			45	270
+relocate		48	50
+dispel sanctuary	49	100
+gate three		49	250
+group sanctuary		50	200

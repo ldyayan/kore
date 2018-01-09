@@ -1,0 +1,189 @@
+#17200
+ent tree branch~
+Branch~
+A huge ent stands here, towering above you.
+~
+You see a huge tree-like creature with powerful branch-
+like limbs and a thick trunk for a body. Its eyes
+glow brightly at you from below dense brows of lichen.
+From what you can tell, it doesn't look pleased to
+see you.
+~
+92426 16810156 200 S
+42 0 -5 2d500+14000 9d10+30
+762 1800000
+8 8 0
+#17201
+mob unfinished~
+Joe the Turner~
+Joe the Turner stands here, working on his lathe.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+10 5 0 2d10+100 2d5+10
+20 2000
+8 8 1
+#17202
+dense undergrowth bushes~
+the dense undergrowth~
+A dense clump of bushes grows here, blocking the path.
+~
+It looks, err, unfinished.
+~
+581642 8454184 0 S
+35 3 -2 2d200+8000 5d6+22
+154 100000
+8 8 0 3
+#17203
+huge stone rock creature~
+a huge rock creature~
+A towering stone-like creature glares at you angrily.
+~
+You see a towering statue of stone, moving as if
+animated by some evil magic. Its limbs are huge and
+powerful and it swings its massive fists at you
+menacingly.
+~
+124938 16908460 -400 S
+40 0 -7 4d60+10000 8d9+50
+1027 2000000
+8 8 0 6
+#17204
+thick bushes brambles thorny~
+the thick bramble bushes~
+A thorny bush of brambles grows here, blocking the path.
+~
+Looking at the bush you see a dense mass of branches,
+leaves and thorns which makes an impassable blockage
+across the path.
+~
+581642 132 0 S
+20 0 0 3d200+6000 4d6+25
+0 150000
+8 8 0 3
+#17205
+swarm hornets huge~
+a vast swarm of hornets~
+A swarm of enormous hornets bears down on you from above.
+~
+You see a vast, wide swarm of enormous yellow insects,
+flying down from the nest above. The individual hornets
+move swiftly around, making them difficult to see,
+but you can tell from the the hundreds already crawling
+all over your body that they are armed with painful stings.
+~
+122922 71368748 -100 S
+28 -10 -3 10d100+7000 7d6+24
+0 200000
+8 8 0 1
+#17206
+powerful dryad tree guard~
+a powerful he-dryad guard~
+A powerful tree-like man stands menacingly before you.
+~
+The tall humanoid figure towers above you. Its skin
+is dark and wooden and its hair green and leafy. Green
+eyes glow out from beneath mossy brows and the only
+form of clothing present seems to be a large oak leaf,
+worn as a loincloth.
+~
+110856 0 100 S
+27 0 -3 5d20+3000 7d8+30
+1003 200000
+8 8 1
+#17207
+captain dryad guard~
+the captain of the dryad guard~
+An enormous guard dryad looks up at you in surprise.
+~
+It looks, err, unfinished.
+~
+780554 65708 100 S
+50 -20 -7 6d200+20000 9d10+40
+2021 2400000
+8 8 1
+#17208
+druellae private guard dryad~
+Druellae's private guard~
+Druellae's private guard stands here defending his lady's quarters from intruders.
+~
+You see an tall, powerful he-dryad glaring angrily at
+you for your intrusion. He is clearly well trained and
+immensly strong, and seems willing to fight to the end
+for his mistress.
+~
+653354 8454316 0 S
+34 -16 -7 4d50+10000 8d8+37
+563 400000
+8 8 1
+#17209
+tall slender dryad phiessla~
+Phiessla~
+A tall slender dryad looks up at your entrance.
+~
+You see a slim-limbed she-dryad standing proudly before
+you. Although less sturdy than the he-dryads you have
+seen, there seems to be a great hidden power behind her
+glowing eyes.
+~
+188426 8454316 300 S
+40 -20 0 10d30+26000 8d9+25
+1283 2000000
+8 8 2
+#17210
+immense dryad gnarled greicha~
+Greicha~
+An immense gnarled dryad growls at you aggresively.
+~
+This dryad is enormous. His limbs are thick, twisted
+and gnarled and show immense power as he swings around
+to face you and attack. This is clearly a being built
+for fighting.
+~
+256042 50332844 -100 S
+55 -20 -8 10d10+26000 10d15+50
+1734 3000000
+8 8 1 6
+#17211
+dryad queen druellae~
+Druellae, queen of the dryads~
+A beautiful slender dryad stands here controlling the magical power.
+~
+You see a tall slender female dryad standing proudly before you. Despite her
+relatively small size you can sense an immense hidden power about her as she
+stands here controlling the dryads magic and channeling it into the portal.
+About her head sits a glowing wreath of leaves and she wears a strange
+golden medallion around her neck.
+~
+714762 8487084 300 S
+56 -20 -5 10d50+30000 10d15+40
+3425 4000000
+8 8 2
+#17212
+female dryad~
+a female dryad~
+A female dryad stands here, surprised by your entry into the chamber.
+~
+You see a beautiful female dryad standing before you, enraged by your
+intrusion into the magical chambers of the tree. She is slender and supple
+like a young sapling, yet a fierceness and power dwells deep in her glowing
+eyes.
+~
+55400 4 0 S
+30 -20 0 10d50+5000 8d8+22
+503 150000
+8 8 2
+#17213
+male dryad~
+a male dryad~
+A male dryad stands here, enraged at your intrusion.
+~
+It looks, err, unfinished.
+~
+55400 131076 0 S
+30 -20 0 10d50+3000 8d8+50
+516 150000
+8 8 1
+#99999
+$~

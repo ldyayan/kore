@@ -1,0 +1,7 @@
+drop_prog
+  echoat %1 You take out a candycane and drop it on the floor.
+  echoaround %1 $name(%1) takes a candycane out of $hisher(%1) box and throws it on the floor.
+  load obj 3200
+  stopaction
+~
+~

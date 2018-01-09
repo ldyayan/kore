@@ -1,0 +1,7 @@
+>rand_prog 6~
+if inroom($r) == here
+  c 'fly' $r
+endif
+~
+|
+

@@ -1,0 +1,90 @@
+>script_prog you-are-ugly-calm~
+  #
+  shout You
+  shout are
+  shout ugly!
+~
+>script_prog your-mother-is-ugly-calm~
+  #
+  shout Your mother
+  shout is
+  shout ugly!
+~
+>script_prog you-are-ugly-irate~
+  #
+  shout YOU
+  shout ARE
+  shout UGLY!
+~
+>script_prog your-mother-is-ugly-irate~
+  #
+  shout YOUR MOTHER
+  shout IS
+  shout UGLY!
+~
+>script_prog ugly-calm~
+  shout You are ugly...
+~
+>script_prog ugly-irate~
+  shout YOU ARE UGLY!!
+~
+>script_prog cry~
+  if rand(50)
+    cry
+  else
+    whimper
+  endif
+@
+  #
+@
+  #
+~
+>rand_prog 100~
+  if isscript($i)
+  else
+    if isfight($i)
+    or hitprcnt($i) < 90
+      if rand(20)
+        mptrigger $n cry
+      endif
+      if rand(25)
+        mptrigger $n you-are-ugly-irate
+        break
+      endif
+      if rand(33)
+        mptrigger $n your-mother-is-ugly-irate
+        break
+      endif
+      mptrigger $n ugly-irate
+    else
+      if rand(25)
+        mptrigger $n you-are-ugly-calm
+        break
+      endif
+      if rand(33)
+        mptrigger $n your-mother-is-ugly-calm
+        break
+      endif
+      mptrigger $n ugly-calm
+    endif
+  endif
+~
+>fight_prog 100~
+  if isscript($i)
+  else
+    if rand(20)
+      mptrigger $n cry
+      break
+    endif
+    if rand(25)
+      mptrigger $n you-are-ugly-irate
+      break
+    endif
+    if rand(33)
+      mptrigger $n your-mother-is-ugly-irate
+      break
+    endif
+    mptrigger $n ugly-irate
+  endif
+~
+|

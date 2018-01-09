@@ -1,0 +1,20 @@
+>fight_prog 35~
+  if ispc($r)
+    mpecho Tendrils of smoke fly from the body of $I.
+    mpecho The Tendrils wrap around $R!
+    mpcallmagic 'slow' $r
+  endif
+~
+>death_prog 100~
+  mpecho $I is dead!  R.I.P.
+  mpecho Your blood freezes as you hear $I's death cry.
+  mpecho $I shimmers and disappears...
+  mpasound Your blood freezes as you hear someone's death cry.
+  mppose $i stand
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mppose $i dead
+  mpgoto cleaner
+~
+|

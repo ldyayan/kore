@@ -1,0 +1,14 @@
+>greet_prog 80~
+  if ispc($n)
+    mpecho The black cloak hanging from the ceiling rustles as you enter.
+    mpsilent get 15108
+    mpsilent junk 15108
+    mpmload 15113
+    mpecho EGADS! The cloak has a face!!
+    mpecho A booming moan shakes the cavern as a cloaker comes to life!
+    mpasound A reverberating moan comes from somewhere very close nearby...
+    mpgoto cleaner
+  endif
+~
+|
+

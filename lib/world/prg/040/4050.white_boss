@@ -1,0 +1,21 @@
+>rand_prog 2~
+  say Come my brothers.
+  group all
+~
+>greet_prog 100~
+  if isimmort($n)
+  else
+    if ispc($n)
+      if isevil($n)
+        say I shall cleanse the earth of your evilness!
+        mpecho The leader of the warriors raises his hand...
+        mpecho ...and the fight begins!
+        kill $n
+        ord fol kill $n
+      else
+        say The path of salvation is true in you, $N.
+      endif
+    endif
+  endif
+~
+|

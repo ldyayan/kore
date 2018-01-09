@@ -1,0 +1,16 @@
+#302
+Shakar (Koroc)~
+30299 40 2 3
+M 0 30202     1 30208            a disheveled vendor wearing a turban
+M 0 30201     1 30209            Jergin the bladesmaster
+E 1 30205   100    16                    wield a bladesmasters sword
+M 0 30200     1 30203            Parthan the Caretaker
+E 1 30203   100    16                    wield an inscribed quarterstaff
+O 0 30204   100 30210            an exit to the outside
+O 0 30201   101 30205            a partially uncovered tunnel entrance
+D 0 30294     5     1            An unfinished room door down
+D 0 30290     4     1            An unfinished room door up
+O 0 30200   101 30202            a rune-scribed globe
+S
+#99999
+$~

@@ -1,0 +1,9 @@
+>command_prog east~
+  mpechoat $n You attempt to move backwards to the area from which you came..
+  mpechoat $n Something clicks and then falls into place behind you. You're trapped!!
+  mpechoaround $n A grating falls into place behind $N as $e tries to move back!
+  mpsilent close grating
+  mpsilent lock grating
+  mpgoto cleaner
+~
+|

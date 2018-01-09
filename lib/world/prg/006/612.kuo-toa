@@ -1,0 +1,33 @@
+>rand_prog 4~
+  if inroom($r) == here
+    if isaffected($r, poison)
+      cast 'remove poison' $r
+    else
+      if clan($r) == house vherin'ultrin
+        if hitprcnt($r) < 100
+          cast 'cure critic' $r
+          mpsilent mpcallmagic 'cure critic' $r
+          break
+        endif
+      else
+        if rand(10)
+          mpecho $I's stomach rumbles.
+        endif
+      endif
+    endif
+  endif
+~
+>give_prog all~
+  if objtype($o) == food
+    if rand(50)
+      say I need fresh kelp! Fresh kelp! Give me fresh kelp!
+    else
+      say It's not human flesh, but it will do!
+    endif
+    eat $o
+    if rand(10)
+      burp
+    endif
+  endif
+~
+|

@@ -1,0 +1,10 @@
+>fight_prog 5~
+  bash $n
+~
+>fight_prog 5~
+  kick $n
+~
+>fight_prog 5~
+  circle $r
+~
+|

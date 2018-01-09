@@ -1,0 +1,9 @@
+>greet_prog 20~
+  if ispc($n) 
+    mpechoat $n $I grabs a hold of your arm and looks at you with big eyes.
+    mpechoaround $n $I grabs a hold of the arm of $N.
+    say Look here, I have a fine gold ring for sale.
+    say I'll let you have it for only 500 gold!
+   endif
+~
+|

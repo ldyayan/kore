@@ -1,0 +1,1052 @@
+#10500
+Ocean Pier~
+You are on what once was a very busy ocean pier. With the advent of tele-
+portation, however, it is seldom used. Stacks of lobster crates and fishnets
+lie along the walk, and the cutting, salty smell of the ocean stings your
+nose. You feel a sense of rejuvenation as you stare out into the sea. You know
+many adventures lie ahead.
+~
+105 0 1
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10502
+E
+fishnets nets~
+The fishnets are old and are turning into dust; large holes open to the sides. They don't look sturdy enough to use.
+~
+E
+lobster crates~
+The lobster crates are old and rotting; they look as if they couldn't hold a 
+sardine.
+~
+S
+#10501
+In the Ocean~
+You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from going off-course. You realize that this will be hard work.
+Seagulls chirp above, and whales spurt water far off into the horizon. The
+wind blows constantly here. You can go your south. To your north, you notice
+a small island with a ship that appears to have been moored. It looks board-
+able.
+~
+105 0 7
+D0
+To your north you can see the entrance to a pirate's ship.
+~
+~
+0 0 25001
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10502
+S
+#10502
+In the ocean by the Ocean Pier~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows const-
+antly here. The current keeps you from going west.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10501
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10503
+D2
+To your south you can see the old ocean pier. It's rickety, but yachts and huge ships line the harbor. It's a used port, albeit rarely.
+~
+~
+0 0 10500
+S
+#10503
+In the Ocean~
+ You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constantly
+here. You can only go south and west.
+~
+105 0 7
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10504
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10502
+S
+#10504
+In the Ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+ keeping it from off-course. You realize this will be hard work. Seagulls chirp
+ above, and wales spurt water far off into the horizon. The wind blows const-
+antly here. The current allows passage only to the north and the south.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10503
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10505
+S
+#10505
+At a bend in the current on the ocean.~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current allows you to go north or east.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10504
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10506
+S
+#10506
+At another bend in the current on the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current allows passage to the west and south.
+~
+105 0 7
+D2
+To your south is the deep, wide ocean.
+~
+~
+0 0 10507
+D3
+To your west is the deep, wide ocean.
+~
+~
+0 0 10505
+S
+#10507
+At cross-currents in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. To your west, a frothy system of cross-currents makes the passage look
+too dangerous to cross; the current is impassable to your south.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10506
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10509
+D3
+The current looks way too dangerous to attempt that way. You better stay away.
+~
+~
+0 0 10508
+S
+#10508
+The Impassible Current~
+ Oh my! The current here is dragging the boat extremely hard. No matter what 
+you try to do, it won't stop churning! Oh NO! The current drags you and the 
+boat down.
+~
+105 518 1
+S
+#10509
+In the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current bends to your south. The only other way available is west.
+~
+105 0 7
+D2
+To your south is the deep, wide ocean.
+~
+~
+0 0 10510
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10507
+S
+#10510
+At cross-currents in the deep, wide ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. You can go every direction but south. To your southeast you can see a 
+huge island.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10509
+D1
+To your east is the deep, wide ocean.
+~
+~
+0 0 10518
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10511
+E
+southeast island~
+To your southeast you see a dark island with a blindingly brightly white sand beach. The island looks very interesting; perhaps you should visit it?
+~
+S
+#10511
+At a sharp turn in the current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+ keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current allowes passage only to the east and south.
+~
+105 0 7
+D1
+To your east is the deep, wide ocean.
+~
+~
+0 0 10510
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10512
+S
+#10512
+At a sharp turn in the current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current is too strong to go to the north, and a huge island lies 
+to your east.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10511
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10513
+S
+#10513
+In front of a pier at an island~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. A huge island lies to your east, and the current continues to your 
+south and west.
+~
+105 0 7
+D1
+To your east you see a pier by a blindingly bright white beach.
+~
+~
+0 0 4601
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10514
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10512
+S
+#10514
+At the beginning of a strong east-west current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. You see a huge island to your northeast; the current allows passage to
+the north and east.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10513
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10515
+S
+#10515
+On a strong east-west current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current goes east and west.
+~
+105 0 7
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10516
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10514
+S
+#10516
+At a cross-currents~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current continues east and west, and looks passable to the north.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10521
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10525
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10515
+S
+#10518
+In front of an island port~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize that this will be hard work.
+Seagulls chirp above, and wales spurt water far off into the horizon.
+The wind blows constantly here. To your north you can make out a pier high
+in the trees; the current continues to your north and west.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10519
+D2
+To your south you can see a pier into an island; it's set on stilts, and access
+to a net can be seen through high trees.
+~
+~
+0 0 4690
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10510
+S
+#10519
+At a north-south current in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10520
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10518
+S
+#10520
+At a north-south current in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10535
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10519
+S
+#10521
+At a north-south current in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10522
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10516
+S
+#10522
+At cross-currents in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current keeps you from going west.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10523
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10527
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10521
+S
+#10523
+At a sharp turn in the current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current allowes passage only to the east and south.
+~
+105 0 7
+D1
+To your east is the deep, wide ocean.
+~
+~
+0 0 10528
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10522
+S
+#10524
+At a bend in the current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here.  You can go to your north or your east.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10530
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10529
+S
+#10525
+At a cross-currents~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current looks passable to the west and north. A huge, churning 
+whirlpool lies directly to your east.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10526
+D1
+To your east is a huge, churning whirlpool. Not even the biggest ship in the 
+world could survive this one.~
+~
+0 0 10550
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10516
+S
+#10526
+At cross-currents in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current keeps you from going west.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10527
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10536
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10525
+S
+#10527
+In the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current bends to your south. The only other way available is west.
+~
+105 0 7
+D2
+To your south is the deep, wide ocean.
+~
+~
+0 0 10526
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10522
+S
+#10528
+At a cross-currents~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current continues east and west, and looks passable to the north.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10529
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10532
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10523
+S
+#10529
+In the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current bends to your south. The only other way available is west.
+~
+105 0 7
+D2
+To your south is the deep, wide ocean.
+~
+~
+0 0 10528
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10524
+S
+#10530
+At cross-currents in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current keeps you from going east.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10537
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10524
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10535
+S
+#10531
+At a north-south current in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10532
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10536
+S
+#10532
+At cross-currents in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current keeps you from going east.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10533
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10531
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10528
+S
+#10533
+At a north-south current in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10534
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10532
+S
+#10534
+In the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current bends to your south. The only other way available is west.
+~
+105 0 7
+D2
+To your south is the deep, wide ocean.
+~
+~
+0 0 10533
+D3
+To your west you can see a beautiful island with a huge rose bush around it.
+Unfortunately, it's under construction right now, so you won't get anywhere
+trying to go to it. :)
+~
+~
+0 0 10534
+S
+#10535
+At cross-currents in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current keeps you from going west.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10543
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10530
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10520
+S
+#10536
+At a bend in the current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from going off-course. You realize this will be hard work. Seagulls
+chirp above, and whales spurt water far off into the horizon. The wind blows 
+constantly here. The current bends to your west and north.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10531
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10526
+S
+#10537
+At a sharp turn in the current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current allowes passage only to the east and south.
+~
+105 0 7
+D1
+To your east is the deep, wide ocean.
+~
+~
+0 0 10538
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10530
+S
+#10538
+At a bend in the current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time 
+keeping it from going off-course. You realize this will be hard work. Seagulls
+chirp above, and whales spurt water far off into the horizon. The wind blows 
+constantly here. The current bends to your west and north.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10541
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10537
+S
+#10539
+At the harbor to Timeless Island~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here, and you can see a beautiful island to your south.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10540
+D2
+To your south you can see the beautiful Timeless Island with its rose bushes. 
+Perhaps you should come back when it's completed.
+~
+~
+0 0 10539
+S
+#10540
+At a north-south current in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10542
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10539
+S
+#10541
+At a sharp turn in the current~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here. The current allowes passage only to the east and south.
+~
+105 0 7
+D1
+To your east is the deep, wide ocean.
+~
+~
+0 0 10542
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10538
+S
+#10542
+At the entrance to a harbor~
+  You are in calmer waters here, as you see land as far as you can look. A huge
+mountain rises to your north, and the harbor seems to end at a huge cave in the
+mountain. It appears as if you have found a new continent.
+~
+105 0 7
+D0
+It would be hard to enter an unconstructed area. You might want to try again 
+when it is. Riddle Mountain and the New Continent to be delivered in about a 
+month.
+~
+~
+0 0 10542
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10540
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10541
+S
+#10543
+At a north-south current in the ocean~
+  You are on the ocean. Large waves rock the boat, and you have a hard time
+keeping it from off-course. You realize this will be hard work. Seagulls chirp
+above, and wales spurt water far off into the horizon. The wind blows constant-
+ly here.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10544
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10535
+S
+#10544
+Going around an island~
+  You are on the ocean. Large waves rock the boat, and you have a hard time 
+keeping it from going off-course. You realize this will be hard work. Seagulls
+chirp above, and whales spurt water far off into the horizon. The wind blows 
+constantly here. The current appears to be winding around a large island to 
+your north.
+~
+105 0 7
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10543
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10545
+S
+#10545
+Going around an island~
+  You are on the ocean. Large waves rock the boat, and you have a hard time 
+keeping it from going off-course. You realize this will be hard work. Seagulls
+chirp above, and whales spurt water far off into the horizon. The wind blows 
+constantly here. The current appears to be winding around a large island to 
+your northeast.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10546
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10544
+E
+northeast island~
+This is a very plain-looking island; a large mountain forms the northern half of it.
+~
+S
+#10546
+Going around an island~
+  You are on the ocean. Large waves rock the boat, and you have a hard time 
+keeping it from going off-course. You realize this will be hard work. Seagulls
+chirp above, and whales spurt water far off into the horizon. The wind blows 
+constantly here. The current appears to be winding around a large island to 
+your southeast.
+~
+105 0 7
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10547
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10545
+E
+southeast island~
+This is a very plain-looking island; a large mountain forms the northern half 
+of it.
+~
+S
+#10547
+Going around an island~
+ You are on the ocean. Large waves rock the boat, and you have a hard time 
+keeping it from going off-course. You realize this will be hard work. Seagulls 
+chirp above, and whales spurt water far off into the horizon. The wind blows 
+constantly here. The current appears to be winding around a large island to 
+your south.
+~
+105 0 7
+D1
+To your east you can see the deep, wide ocean.
+~
+~
+0 0 10548
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10546
+E
+southern island~
+This is a very plain-looking island; a large mountain forms the northern half 
+of it.
+~
+S
+#10548
+Going around an island~
+  You are on the ocean. Large waves rock the boat, and you have a hard time 
+keeping it from going off-course. You realize this will be hard work. Seagulls
+chirp above, and whales spurt water far off into the horizon. The wind blows 
+constantly here. The current appears to be winding around a large island to 
+your southwest.
+~
+105 0 7
+D2
+To your south you can see the deep, wide ocean.
+~
+~
+0 0 10549
+D3
+To your west you can see the deep, wide ocean.
+~
+~
+0 0 10547
+E
+southwest island~
+This is a very plain-looking island; a large mountain forms the northern half 
+of it.
+~
+S
+#10549
+In front of an island pier~
+   You are on the ocean. Large waves rock the boat, and you have a hard time 
+keeping it from going off-course. You realize this will be hard work. Seagulls
+chirp above, and whales spurt water far off into the horizon. The wind blows 
+constantly here. The current appears to be winding around a large island to 
+your west. An island pier lies to your west.
+~
+105 0 7
+D0
+To your north you can see the deep, wide ocean.
+~
+~
+0 0 10548
+D3
+Sorry, but the Island of Chaos is still under construction.
+~
+~
+0 0 10549
+E
+western island pier~
+This is a very plain-looking island; a large mountain forms the northern half 
+of it.
+~
+S
+#10550
+Schylla's Trap~
+105z  The water here swirls into a churning whirlpool. Try as you might, you cannot
+escape the boiling mass of water--Schylla has got you.
+~
+105 518 1
+S
+#99999
+$~

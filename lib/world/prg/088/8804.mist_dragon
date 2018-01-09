@@ -1,0 +1,7 @@
+>fight_prog 20~
+  mpecho $I sears you with a blinding cloud of mist!
+  mpdamage all 5d8+30
+  mpcallmagic 'blindness' all
+  mpcallmagic 'curse' all
+~
+|

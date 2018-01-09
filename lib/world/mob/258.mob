@@ -1,0 +1,33 @@
+#25800
+dervish man hermit wisdom mage~
+the dervish~
+A hapless ragged shell of a man sits cross-legged before you.
+~
+   A short little man sitting cross-legged sits in the shade of a tree, his
+beard must have been growing all his life, as it is twined around the tree
+almost seven feet up.
+
+  'Wise man say, life is a sport, you never know what you're going to get.'
+
+  'Wise man also say, "Did I leave the iron on?"'
+
+  'Wise man say other thing, "I should have gone before we left."'
+~
+256090 66600 0 S
+18 1 0 1d1+1 1d1+10
+0 20
+8 8 1
+#25801
+camel~
+a camel~
+A horse with odd growths on its back lumbers away as you arrive.
+~
+   TOOT! You see the ship of the desert, the camel. You have heard of the
+Burger King nomads using them for food...
+~
+256072 132136 0 S
+8 1 0 1d1+1 1d1+4
+0 20
+8 8 0
+#99999
+$~

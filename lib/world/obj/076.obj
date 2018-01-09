@@ -1,0 +1,93 @@
+#7600
+fountain pepsi ~
+a fountain~
+Pepsi is gushing through a black marble fountain.~
+~
+23 0 0
+25000 25000 17 0
+1000 10000 0
+E
+fountain black marble~
+  A black marble fountain gushes forth a spring of pepsi
+from the center.
+~
+#7601
+gateway entrance~
+a gateway~
+^WA crystal gateway to the battle ring.^n~
+~
+27 1 0
+7601 0 0 0
+2000 0 0
+E
+crystal gateway~
+   A crystal gateway that covers the whole side of the room.
+On the other side of the gateway you can see the entrance
+to the battle ring.
+~
+#7602
+crystal gateway 2~
+a gateway~
+^WA crystal gateway to level two of the battle ring.^n~
+~
+27 0 0
+7625 0 0 0
+2000 0 0
+E
+crystal gateway 2~
+  A crystal gateway will lead you to the second level of the 
+battle ring.
+~
+#7603
+crystal gateway 3~
+a gateway~
+^WA crystal gateway to the third level of the battle ring.^n~
+~
+27 0 0
+7650 0 0 0
+2000 0 0
+E
+crystal gateway 3~
+  A crystal gateway that will lead you to the third level
+of the battle ring.
+~
+#7604
+crystal gateway 4~
+a gateway~
+^WA crystal gateway to the forth and final level of the battle ring.^n~
+~
+27 0 0
+7675 0 0 0
+2000 0 0
+E
+crystal gateway 4~
+  A crystal gateway that will lead you to the forth and
+final level of the battle ring.
+~
+#7605
+gateway king~
+a gateway~
+^WA gateway to the^n ^RKING^n ^Wof the^n ^RRING^n~
+~
+27 0 0
+7699 0 0 0
+2000 0 0
+E
+gateway king~
+  The final gateway that will lead you to the King of the
+Ring. Will you be the first to claim KOR?
+~
+#7606
+potion vision~
+a potion of vision~
+A potion is lying here.~
+~
+10 1 1
+50 14 0 0
+0 20000 0
+E
+vision potion~
+A small bottle of glowing liquid.
+~
+#99999
+$~

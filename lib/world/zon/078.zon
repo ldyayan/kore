@@ -1,0 +1,38 @@
+#78
+Valley of the Wood Elves (Nashanthra)~
+7899 35 1 3
+M 0  7803     1  7884            Tyver Nalios the Mad Mage.
+E 1  7806    50    21                    ears a tiny gold earring
+E 1  7850    50    16                    wield the obsidian mace 'screaming maiden'
+E 1  7805    50    20                    floating an ^WIon^n stone
+M 0  7802     1  7885            the Elder Seer
+E 1  7899   101    18                    ready a black unicorn horn
+E 1  7804     1    16                    wield a tri-stone staff
+M 0  7806     1  7801            the ranger Corlyn G'azzar
+E 1  7818   101     3                    neck 1 a small ^Gemerald^n necklace
+E 1  7801     5    16                    wield an ebony longsword
+E 1  7811     2     8                    feet a set of crystal boots
+M 0  7813     4  7805            a small rabbit 
+M 1  7814     4  7805            A large deer
+M 0  7810     1  7891            Zirnaposia
+D 0  7891     5     1            The edge of a underground lake door down
+M 0  7809     1  7894            troll launcher
+O 0  7817   101  7887            the caves entrance.
+O 0  7816   101  7886            a small waterfall
+O 0  7815   101  7828            a thick set of bushes
+M 0  7808     1  7882            small cauldron !there
+E 1  7898   101    17                    held a shimmering pool of dust.
+O 1  7814   101  7882            a small black cauldron
+M 0  7807     5  7817            a wood elf ranger.
+M 0  7805     1  7893            Elder's assistant
+O 0  7809   101  7893            a table made of ancient oak.
+O 0  7807   100  7892            a small blue crystal
+M 0  7801     2  7812            a black unicorn
+E 1  7802     5    22                    face unicorn horn
+D 0  7878     5     2            Inside the Small Shack door down
+D 0  7878     1     2            Inside the Small Shack door east
+D 0  7870     3     2            The Small Valley door west
+M 0  7801     1  7840            a black unicorn
+S
+#99999
+$~

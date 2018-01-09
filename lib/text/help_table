@@ -1,0 +1,5389 @@
+ '
+
+  There is no help on this topic (you shouldn't be trying anyways).
+  DONT EVER DELETE THIS help
+#
+"!"
+
+! repeats exactly the last command you typed.
+
+See Also: -
+#A
+AC "ARMOR CLASS" "ARMOUR CLASS"
+
+"AC" is your armor class.  It is a number from -100 to 100, roughly
+
+  100 Naked person "Don't look!"
+    0 Rather well armored (Plate mail, shields, protective gear around) 
+ -100 Armored battle tank
+
+The score command displays your armor class as a number such as 78;
+this means 78 on a scale from -100 to 100.  That's not very good btw.
+
+See also: SCORE
+#
+"SPELL ACID BLAST" "ACID BLAST"
+
+Usage       : cast 'acid blast' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+With acid blast, the caster shoots a solid stream of acid that, if it hits,
+scorches the victim horribly.  The damage done by acid blast is dependent on
+the level of the caster.
+
+See Also: -
+#
+ADVENTURE CITY STRUCTURE TRAVEL
+
+(Adventure) (City) (Structure) and (Travel) refer to the purpose of a zone
+in the mud.
+Cities are zones where you aren't overwhelmed by agressive mobs, where there
+are shops to buy things, and where there is usually a place to rent out.
+Travel zones are routes of connection between generally cities.
+Adventure zones are places where agressive mobs, good equipment, good
+experience and good gold can be had.
+Structure zones are Adventure zones that are set indoors.
+A list of zones can be had by typing 'areas'.
+
+See Also: AREAS
+#
+"SPELL AERIAL SERVANT"
+Usage       : cast 'aerial servant'
+Accumulative: -
+Duration    : Instantaneous
+
+Aerial servant summons a weak flying servant to do your bidding.
+
+See also: FOLLOW, ORDER
+#
+AGE
+
+Age is measured in mud days where a mud day is 36 minutes real time. As your 
+character ages, they regenerate mana and hit points more quickly. Look for
+items that add to your age or just play the mud for a long time and you'll
+really notice the bonus.
+
+See also: -
+#
+"SPELL AID"
+
+Usage       : cast 'aid' <victim>
+Accumulative: -
+Duration    : 40
+
+Imbues the victim with supernatural presence, increasing hit points and
+damage done to enemies.
+
+See Also: BLESS, DAMROLL
+#
+"SPELL AIR ELEMENTAL" "SPELL EARTH ELEMENTAL" "SPELL FIRE ELEMENTAL" "SPELL WATER ELEMENTAL"
+
+Usage:        cast '[air|earth|fire|water] elemental'
+Accumulative: -
+Duration:     Instantaneous
+
+These four druid spells summon elementals from other planes of existence
+to do the bidding of the caster.  Each type of elemental has its own
+unique strengths and weaknesses.  The druid with low charisma should
+beware, for the elementals do not come willingly, and they will attack
+if not suitably impressed with your power.
+
+See Also: -
+#
+ALIAS ALIASES ALIAS
+
+An alias is a single command used to represent one or more other commands.
+The ALIAS command can be used to manipulate your character's aliases.  Type
+ALIAS alone to see a list of your currently defined aliases.
+
+> alias
+
+Type ALIAS <alias name> <command> to create a new alias.  The alias name must
+be one word.  The command can be any string.  Aliases may not be nested or
+used recursively.  Any command may be overriden by an alias (other than the
+ALIAS command itself, of course).
+
+> alias gbb get bread bag
+> alias gac get all corpse
+
+^G*^nType ALIAS <alias-name> to DELETE an alias that has already been
+defined.^G*^n
+
+> alias gbb
+
+A semicolon (";") can be used to define multiple actions to be taken with
+a single alias.
+
+> alias eat get bread bag; eat bread
+
+Note that the 'eat' contained within the eat alias is interpreted as the MUD's
+internal eat command; aliases may not be nested or used recursively.  The
+variables $1, $2, ... $9 may be used to represent arguments given with
+an alias.  For example:
+
+> alias killem cast 'fireball' $1; cast 'harm' $2
+> killem fido mage
+
+Would cast fireball on fido, followed by casting harm on mage.  Variables
+may be used repeatedly and in any order:
+
+> alias helpem cast 'heal' $1; cast 'bless' $1; cast 'armor' $1
+
+The special variable $* represents the entire input line after an alias:
+
+> alias tr tell rasmussen $*
+> tr hi there, how are you today?
+You tell Rasmussen, 'hi there, how are you today?'
+
+See also: 
+#
+ALIGNMENT GOOD EVIL NEUTRAL
+
+Alignment in the game can be very important!  Some mobs attack you based on
+whether you are good or evil or neutral!  Alignment varies from 1000 (saintly)
+to -1000 (satanic).  Good ranges from 1000 to 351, neutral from 350 to -350,
+and evil from -351 down to -1000.  Whenever you kill a mobile, you move closer
+to their alignment based on your level vs. their level.
+
+For example: You find that you are suddenly zapped by a sword thats evil only.
+You've gotta become evil again!!  ... you check 'score' and see that your
+alignment has become -324.  Why, just go kill some good creatures, something
+at least of alignment 400, and you'll be evil again. >:-> Simple no?
+
+See also: SCORE, DETECT ALIGNMENT
+#
+ALL
+
+'all' is used to refer to objects so that you can do fun things like
+> get all
+(to pick up all the items in the room)
+> get all.bread
+(to get all the bread in the room)
+
+and so on.
+
+As a side note, you can type get 2.bread to pick up the 2nd bread in the room.
+Sometimes that's a handy way to get and drop specific items that have the 
+same keywords.
+
+See Also: -
+#
+ANSI COLORS COLOURS
+
+If you have a color-capable terminal, you may enable useful color-coding
+of information with the COLOR sommand, and you may also color phrases
+for fun with ^^ (caret).
+
+>>NOTE<<
+Placing a ^^n at the end of a colored phrase is STRONGLY recommended to
+preserve the integrity of the color stack and to prevent "bleeding colors".
+If you bleed color in your title, you may be notitled until you understand
+how much this annoys other players.
+>>NOTE<<
+
+Usage for color command: color <field> <color>
+
+Colors available:
+^nnormal^n		^rred^n		^ggreen^n		^yyellow^n
+^bblue^n		^mmagenta^n		^ccyan^n		^wwhite^n
+		^Rbright red^n	^Gbright green^n	^Ybright yellow^n
+^Bbright blue^n	^Mbright magenta^n	^Cbright cyan^n	^Wbright white^n
+
+Color without any argument shows your color-coding status.
+Color on enables color-coding, color off disables color-coding.
+
+Usage for color-coding phrases: ^^<color><phrase>^^n
+
+<color> is the first-letter abbreviation of one of the available colors;
+for bold/bright colors, it is the uppercase first-letter abbreviation.
+
+^^^^ outputs as a single caret if it is ever necessary.
+
+See Also: TOGGLE
+#
+"SPELL ANIMATE DEAD"
+Usage       : cast 'animate dead' corpse
+Accumulative: No
+Duration    : Instantaneous
+
+This spell turns a corpse into a mindless undead servant. There are many kinds
+of undead servants and the more powerful you are, the greater the power of
+your undead minions (generally).
+
+See Also: -
+#
+ANONYMOUS
+
+Usage: anonymous
+
+Anonymous is a handy toggle that turns off the class and race and level 
+information in the who list.
+
+See Also: TOGGLE
+#
+"ANTI-MAGIC SHELL" ANTIMAGIC SHELL
+
+Shimmering shells of force can be seen to enclose certain individuals
+and monsters.  Rumors have it that they increase the magic resistance
+of their owners and may partly absorb the damage inflicted by a magical
+attack.  How true are these rumors?  Only one way to find out... >:)
+
+See Also: -
+#
+AQUEST AUTOQUEST
+
+Auto-questing is something available to players of any level.  You can
+get a quest from the questmasters locate in the mud.  If you complete
+the quest, you will gain questpoints and a moderate amount of cash.
+With the quest points you will be able to purchase quest items from the
+questmasters.  The commands are as follows:
+
+aquest points:     Lists your current questpoints
+aquest info:       Lists the quest you're currently on
+aquest time:       Lists the time remaining on the current quest or the
+                   time remaining before you can start a new one
+aquest request:    Starts you on a new quest
+aquest complete:   If you have completed the task given to you by the
+                   questmaster, use this command to receive your reward
+aquest list:       List the current items available for purchase
+aquest buy:        Purchase quest items by number
+aquest giveup:     Abandon your current quest
+
+See Also: - AQUEST-RULES
+#
+AQUEST-RULES
+
+- Characters are intended to be independent of one another.
+- You are not allowed to use your other chars to help with a current
+  quest. IE - Logging in another to weakin the mob. 
+- If your quest is for a object you must get the object from the room
+  you are told to get it at. DON'T get it from another room as that is
+  another players quest.
+- If your quest is for a object DO NOT log in a lower level to see if
+  you can get a quest for the same object to make it easy.
+- DO NOT make new chars over and over again trying to get a quest item
+  for your higher level char.
+
+If you are found (and you will be) breaking any of the above rules your
+char will lose all quested eq and quest points.
+
+See Also: - AQUEST
+#
+AREA-GUIDELINES
+
+These guidelines are taken from another mud and not all will apply to Kore.
+However the general idea and the amount of care and thought that goes into
+designing an area most definitely does apply.  I will tailor the specifics
+to our mud as I get time.
+ 
+     These guidelines are designed to be read by people wishing to write an
+area (or domain, etc).  They are intended to be general, and nothing in them is
+final; however, they should be considered final until an exception is made.
+Exceptions to these rules are made frequently as people come up with unique
+ideas/concepts that have both advantages, and drawbacks.  As usual, the
+decision of the highest level admin who decides to intervene in any particular
+issue is the final decision in that particular issue.  If you think you have an
+idea for an object or situation that will violate one or more of the below
+items, feel free to mail approval (or an admin) about it.
+
+THEME...
+ 
+     Each area should have an overall theme, which must take place in
+approximately the 0-1600 AD time period.  Note that this doesn't make the theme
+requirements strictly "medieval", but does, of course, exclude anything modern,
+futuristic, and most likely, prehistoric.
+
+     Areas based on books or music are fine, but the author may not assume that
+the players exploring the area have read the book, or are in any way familiar
+with parts of the area except those explicitly introduced or explained.
+
+     The theme should be consistent, and any "portals" to new and different
+sections of the area should be well-explained and used sparingly.  Also, in
+rooms which mark a significant change of atmosphere (example: leaving a swamp,
+and entering a village) it should be noted in the long description of the room
+that a change will occur if you move in that direction.  On the other hand,
+rooms which describe adjacent rooms to excess and do not adequately describe
+their own contents are unacceptable.
+ 
+
+ROOMS...
+ 
+     The long description of an individual room should be readable and
+understandable, even if it is the only room a person visits.  The author cannot
+assume that the player is traveling through the room in a certain direction, or
+that he has just come from another part of the area.  Rooms should, for the
+most part, be able to stand alone, though some area atmosphere is allowed for.
+Key items mentioned in the long description should be supported as items in the
+room code, and in most cases have descriptions which are complete sentences (ie
+a subject and a verb).  If the room contains special actions (ie a "search"
+command), then those commands must be alluded to in the room's description, or
+in the description of a prominent item.  Unusual command structures should be
+suggested verbatim (ie "You see a hole in the wall--perhaps you could
+center hole".").  The author should not make any assumptions on the
+player's gender or equipment in room descriptions.  Over-repetition of nouns
+and verbs in a long description is very poor form.  If the author does not make
+an effort to enjoy the luxury of synonyms and pronouns, a room may be deemed
+unacceptable.  As mentioned above, rooms which rely too heavily on descriptions
+of the surrounding rooms to fill space are unacceptable.  Long or short
+descriptions which repeat from room to room are not OK.  Variety is required.
+
+     Areas should be mappable on paper, with sub-outrageous difficulty.  Simply
+put, if you're in a room and move east, you should then be able to return to
+the room by moving west.  This should be true in all cases unless a special
+command sends you to some distant room, in which case a special command or
+route may be needed to get back.  It is allowable to have larger sub-maps
+inside of outer maps, such as a 15-room house surrounded by a 5-room yard, but
+areas which either deliberately attempt to foil mappers or are simply too
+complex to be drawn will likely be turned down for approval.  Mazes are
+basically not allowed, though "maze" is a loose term.  Areas should not be
+overly harsh to players who blunder by hunting other players, etc.  In other
+words, a player should be able to leave an area that he does not want to be in
+without having to have previous knowledge of it.
+ 
+     It is not OK to have a large part of your area which can only be accessed
+by a single item (including locked doors).  If an item is needed to pass a
+certain point it must be either available for free or in a shop so other
+players can get through too.  Locked doors should not be the only way in or out
+of any section of your area over 4 rooms.
+ 
+
+TEXT STANDARDS...
+ 
+     For the most part, standard English typing standards apply, for example:
+there should be two spaces after end-of-sentence punctuation, a dash is "--"
+(with no space before or after it), etc.  Unless there is some special reason
+to do so, do not hyphenate words across lines.  Any numbers less than 10 should
+be written out (ie 6 should be six).  For dialogue and other situations that
+require quoting, double quotes (") should be used, not apostrophes (').  Colons
+(:) should only be followed by one space generally.
+
+     There should be no indentation for paragraphs in room descriptions.  If
+you wish to divide long descriptions (or whatever) into paragraphs, use blank
+lines inbetween paragraphs.  The same indentation standard applies to item
+descrips and all displayed text.
+
+     There should be consistency throughout the area.  If a name or phrase is
+capitalized in one part of the area, it should be so area-wide.  Similarly, if
+a word has more than one spelling (example: color, colour), its spelling should
+be uniform throughout the area.  If some words use the British spelling, all
+words with that option should use it.
+
+     In short descriptions, the first word should always be capitalized; but,
+in general, only proper nouns should be capitalized in the remainder.  Short
+descriptions must not end with a punctuation mark.  Short descriptions should
+begin with a definite or indefinite article in most cases, ie "A suit of
+leather armor" vs "Leather armor"--the former should be used.
+
+     Long descriptions and rooms' item descriptions should consist of complete
+sentences and not fragments (except where a fragment is desirable for effect).
+They should stand alone and not begin with a pronoun.  For example,
+unacceptable: "look at closet", "It contains clothing."; acceptable: "look at
+closet", "The closet contains clothing.".
+
+     All multi-line text that's displayed in an area should be formatted for 80
+column displays (no characters should appear in the 80th column, however).  For
+long descriptions and /std/room item descriptions, text is run through the
+parse_long() function automatically in order to format them, interpret tagging
+codes in them (see below), etc.  In these situations, newlines (n) should not
+appear in the text (not at the end of the text, either) unless it's for a
+specific line-break effect.  Whenever you are displaying custom text (in an
+add_action()'ed command, for example), you must format it properly--in general,
+you would use format() or parse_long() to do so.
+
+ADMIN REQUESTS AND AREA MAINTENANCE...
+
+     Proper maintenance is a very important part of keeping your area open on 
+Genocide.  No one is being paid for any facet of Genocide area-writing or 
+game maintenance, so everyone must do their part.  If you cannot properly 
+maintain your area (or enlist the aid of others to do so), it will have to be 
+closed.  Reasonable time to fix a bug in an area (or domain) is defined as a 
+week or less.  Reasonable time to fix a typo/spelling error/grammar error is 
+two weeks.
+
+     Whenever reports (via the "remark" command) are made in an area, they 
+are saved in the /adm/approval/reports directory.  This directory serves as a 
+log of problems that haven't been fixed; occasionally an administrator will 
+go through and check on what has and hasn't been taken care of, cleaning out 
+old entries.
+ 
+     If your area is closed, and at a later time you do decide to continue 
+actively maintaining it, you may have to go through the entire approval 
+process again.  Generally, if you make the appropriate repairs in under a 
+week no action will be taken.  If you will need longer than a week for some 
+reason, send mail to that effect.
+
+Note: not all of this applies, but the general idea and the ammount of thought
+most assuredly do.
+#
+AREAS
+ 
+ ^cNAME                           LEVELS   TYPE                   CREATOR(S)^n
+ 
+ Northern Kore                  1  - 15  (City)
+ Training Area                  1  - 15  (Adventure/Structure)  Real
+*Jitter Park                    1  - 15  (City)                 Ayana
+ Abandoned House                1  - 20  (Adventure/Structure)  Puck
+ New Shire                      1  - 35  (Structure)
+ Haon-Dor                       2  - 10  (Adventure/Travel)
+ Western Slums of Kore          3  - 40  (Adventure/Structure)
+ Bone Hill                      5  - 10  (Adventure)
+ Moria                          5  - 15  (Adventure)            Proteus
+ Valley of the Wood Elves       5  - 30  (Adventure)
+ Avalon                         5  - 35  (Adventure)            Mink
+ The Great Eastern Desert       5  - 35  (Adventure/Travel)
+ New Thalos                     5  - 35  (City)
+ Shade's Tower                  5  - 40  (Structure)
+ The Chessboard of the Tyrant   6  - 30  (Adventure)
+ Gol'gorgoth                    8  - 20  (Adventure)
+ Estate of the Artificer        9  - 20  (Structure)            Shyft
+ The Sewers                     10 - 18  (Adventure)
+ Eastern Slums of Kore          10 - 25  (Adventure/Structure)
+ Drow City                      10 - 30  (Structure)
+ Tomb of the Kings              10 - 30  (Structure)
+ Rome                           10 - 30  (City)
+ Greza Ship                     10 - 40  (Ship)                 Aule   
+ Warship Ar-Pharazon            10 - 40  (Ship)                 Aule
+ City of Eli                    10 - 50  (City/Structure)       Xavier
+ Aesir                          10 - 50  (Adventure)
+ River Island Of Minos          15 - 20  (Adventure)
+ Arachnos                       15 - 28  (Adventure)
+ Kandelspire                    15 - 30  (Adventure/Structure)
+ Palace of the Tyrant           15 - 40  (Structure)
+ Shrok Morath                   15 - 45  (Adventure/City)
+ Avernus                        15 - 50  (Structure)            Karn
+ Agarost                        20 - 35  (Adventure)            Karn
+*City of Orchha                 20 - 35  (City)                 Ayana 
+ Thri-Kreen Hive                20 - 35  (Structure)
+ The High Tower Of Magic        20 - 40  (Structure)
+ The Abyss                      20 - 40  (Structure)
+ Ghenna                         25 - 40  (Structure)
+ Beanstalk Castle               25 - 40  (Structure)            Mink
+ Guild of Demariv               25 - 50  (Structure)            Proteus
+ Wicca Island                   30 - 50  (Adventure/Structure)  DirtDobber
+ The Keep of Mahn-Tor           30 - 50  (Adventure/Structure)
+ Order of Tanalos               30 - 50  (Structure)            Koroc
+ Grey Marshes                   30 - 50  (Adventure)            Sezzno
+ Tower of Dh'vral               35 - 50  (Adventure/Structure)
+ Hidden Temple of Virmene       35 - 50  (Structure)            Shyft
+ Temple of Orsus                35 - 50  (Structure)            Real
+ City of Orsus                  35 - 50  (Adventure)            Real
+ Olympus                        45 - 50  (Adventure/Structure)
+ Ruins of Trokair               45 - 50  (Adventure/Structure)  Kasmir
+ Blingdenstone                  45 - 50  (City)                 Nashanthra
+ River Quiavel                  Any      (Travel)   
+ Kore Springs                   Any      (City)
+ Dunbar's Road                  Any      (Travel)               Sezzno/Mink
+ Sylvan Woods                   Any      (Travel)               Zirnozz
+ Sea of Tyress                  Any      (Travel)
+ Aren Sea                       Any      (Travel)
+ Mining City of Derlin          Any      (City)                 Real
+*Aringill                       Any      (City)                 Real/Redone Ayana
+ Chaos Arena                    Any      (PK Zone)              Maerlyn
+ Undermountain Arena            Any      (Under Construction)   Zirnozz
+ Fort Arena                     Any      (PK Zone)              Real
+ Battle Arena                   Any      (Quest Area)           Ayana
+ 
+ *: ^cNEW AREA^n
+ 
+#
+"AREA SPELLS" "AREA AFFECT"
+
+Area affect spells blast everything in the target's room that isn't charmed
+to the caster or grouped with him.  Good examples of area affect spells can
+be found in: burning hands, fireball, and earthquake but there are many of
+them. You have to be a little careful with area affect spells and generally
+only use them on groups of mobs if you are *sure* that you can kill them all
+when they attack you.
+
+See Also: -
+#
+"SPELL ARMOR" "SPELL ARMOUR"
+
+Usage       : cast 'armor' <victim> 
+Accumulative: No
+Duration    : 24 Hours
+
+The Armor spell will improve your AC by 2, or -20 in the 100 to -100 scale.
+
+See Also: AC
+#
+ASSIST
+
+Usage: ASSIST <person in need>
+
+If Quifael is being beaten senseless by a warg and you feel brave enough
+to help him, type ASSIST QUIFAEL to hit the warg.  Note that the warg will
+keep hitting Quifael; assist only makes you start to fight whomever you're
+trying to assist.
+
+> assist quifael
+
+See also: RESCUE, FLEE
+#
+ATTRIBUTES STRENGTH INTELLIGENCE WISDOM DEXTERITY CONSTITUTION CHARISMA
+
+There is an "score" command that after 9th level lets you see your 
+attributes.  In general though, you don't need this command to really tell
+what they are (roughly).  Here's some guidelines for the major attributes,
+what they're good for, and how to tell if you have good stats:
+
+Attribute	Good for?	
+---------	---------
+Strength	+hit, +dam
+Intelligence	mage spell success
+Wisdom		cleric spell success
+Dexterity	# attacks/rnd,+hit,+ac,ability to flee
+Constitution	+hit points
+Charisma	bard spell success, number of followers
+
+See Also: -
+#
+AUCTIONS CHANNELS CSAY GOSSIP GRATS NOAUCTION NOGOSSIP NOGRATS
+These are channels reserved for specific purposes.  Messages on these
+channels reach everyone who is monitoring them.  You must be at least level
+three to use these channels.
+
+auction:
+Usage: auction <item> <starting bid>
+       auction [STAT|IDENTIFY]
+       auction [STOP|CANCEL]
+       auction TALK <message>
+       auctalk <message>
+       bid <amount>
+
+gossip <string>
+grats <string>
+
+> gossip Hey, is that a short sword on your belt or are you happy to see me?
+> grats LEVEL!!!!!!!!
+> grats GRATS!!!!!!!
+
+See also: SAY, GSAY, NOREPEAT
+#
+AUTO
+
+There are a whole series of auto-toggles: Autoassist, Autodirs, Autoexits,
+Autogold, Autoloot, Autosacrifice, and Autosplit (so far). Whether a
+particular auto-feature is on or off can be seen with the "toggle" command.
+
+See also: AUTOASSIST, AUTODIRS, AUTOEX, AUTOGOLD, AUTOLOOT, AUTOSAC,
+          AUTOSPLIT, TOGGLE, AUTOSCAN, BATTLEBRIEF
+#
+AUTOASSIST "AUTO ASSIST"
+
+Use this auto-feature if you would like to assist anyone in your group who
+starts fighting. A great feature if you are a little lagged or dont have a
+snazzy client.
+
+See also: AUTO
+#
+AUTODIRS "AUTO DIRS"
+
+This gives you a nice brief listing of the nearby exits. The format looks
+something like: { N E S U } on one line, with your prompt on the next.
+Its almost too brief though because its so easy to accidentally walk into
+a deathtrap with it.  Autoexits is more complete and shows you doornames 
+too.
+
+See also: AUTO, AUTOEXITS
+#
+AUTOEXITS "AUTO EXITS"
+
+Autoexits gives you a complete list (well fairly, heh) of all the exits 
+out of the room you are in. It's just like typing "exits" each time you 
+look in a room. It can be a little spammy but it's really good an helping
+you orient yourself and avoiding deathtraps by name.
+
+See also: AUTO, AUTODIRS
+#
+AUTOGOLD "AUTO GOLD"
+
+Autogold sets things up so that if you kill a mob you immediately take the
+gold from the corpse. Of course you have to be able to see the corpse to
+take the gold from it; details, details ...
+
+See also: AUTO
+#
+AUTOLOOT "AUTO LOOT"
+
+Autoloot sets things up so that if you kill a mob, you loot its corpse. Its
+like an instant version of "get all corpse", so fast that even people with
+smart clients can't possibly take the equipment you fought so hard for.
+
+See also: AUTO
+#
+AUTOREPORT "AUTO REPORT"
+
+Autoreport is used by clerics and other members of groups to watch the
+status of other group members during a fight. The report is automatically
+displayed after every round of combat. If you have a slow connection or
+don't like the spam, keep this disabled.
+
+See also: AUTO, Toggle
+#
+AUTOSACRIFICE "AUTO SACRIFICE"
+
+Autosac as it is more commonly called, sacrifices the corpse of a mob right
+after you slay it, but not before you've had a chance to take its gold and
+loot it for equipment (assuming you have toggled either one on) One note of
+caution - if your inventory is loaded down to the point where you can no
+longer really loot, and autosac is on, autosac will junk the corpse and
+everything in it, so BEWARE! You might *accidentally* junk the best equipment
+in the mud, *right after* you and others fought hard for it. Watch out!
+Know what you're doing when you autosac!
+
+See also: AUTO
+#
+AUTOSCAN "AUTO SCAN"
+
+Autoscan is used to automatically scan surrounding rooms when you move
+or use the look command.
+
+See also: AUTO, TOGGLE
+#
+AUTOSPLIT "AUTO SPLIT"
+
+Autosplit is a great command for someone who is grouping and to be useful,
+pretty much requires that autogold be toggled on. Autosplit makes you split
+the gold you get from mobs when they die.
+
+See also: AUTO, AUTOGOLD
+#
+AWARE
+
+Mobs that are "aware" can't be backstabbed!  Neither can mobs (and players)
+who are affected by the ESP spell.  Dang, poor thieves have it rough.
+
+See also: ESP
+#
+AWAY AFK
+
+Usage     : away
+
+Sets an (AWAY) flag in your title to let others know you're 
+away from the keyboard "AFK". They will be informed on if they 
+attempt to "TELL" you or by typing the command "WHO".
+
+See also: -
+#B
+BACKSTAB BS
+
+Thief and Bard only.
+
+Backstab is a way to sneak up on a person and attempt to place your dagger
+in his back, at exactly the point where it does most damage.  A successful
+backstab gives a damage multiplier, depending on level.
+
+The chance of successfully backstabbing depends on your stats. You can 
+always backstab sleeping people.
+
+See also: -
+#
+BANK WITHDRAW DEPOSIT BALANCE "BALANCE SHEET"
+Commands to take money out of the bank, put money in the bank, or see how
+much money you have in the bank.  Can be used at any branch of the First
+National Bank of CircleMUD (wherever you see an automatic teller machine).
+
+> deposit 400
+> withdraw 1000
+> balance
+
+See also: -
+#
+Barney
+
+SUCKZ SUCKZ SUCKZ SUCKZ SUCKS SUCKZ SUCKZ SUCKZ SUCKZ SUCKS SUCKZ SUCKZ SUCKS
+
+SUCKZ SUCKZ SUCKZ SUCKZ SUCKS SUCKZ SUCKZ SUCKZ SUCKZ SUCKS SUCKZ SUCKZ SUCKS
+
+See also: TWINK
+#
+BARDS BARDIC
+
+Bards are a class that are much like fighters and much like thieves, yet
+not quite either. Bards play instruments and use them to sing songs that
+create magical spells and bards get thier instruments by going through the
+Bardic Colleges. Bards have to wield their instrument to sing spells,
+which can be a bit of a disadvantage...
+
+Here is a list of your current skills/spells at level 50:
+
+SPELLNAME		LEVEL	COST
+kick                    1       n/a
+magic missile           1       10
+bash                    2       n/a
+block                   5       n/a
+faerie fire             6       10
+rescue                  8       n/a
+track                   9       n/a
+backstab		10	n/a
+barkskin		10	20
+disarm			10	n/a
+forget                  10      20
+fly                     12      20
+sleep                   15      25
+sticks to snakes        16      50
+feeblemind		17	11
+inspire			18	11
+meditate		20	n/a
+mirror image		20	32
+scare			21	100
+charm person		25	200
+slow			25	52
+strength		26	26
+teleport		30	26
+waterwalk		35	26
+battle hymn		38	52
+wizard lock		42	50
+word of recall          46      16
+summon                  48      75
+relocate                50      50
+word of death		50	100
+
+See Also: CLASSES, INSTRUMENT, SPELLS
+#
+"SPELL BARKSKIN"
+
+Usage       : cast 'barkskin' <self>
+Accumulative: No
+Duration    : 24
+
+This spell causes the caster's skin to take on the rough texture of bark, 
+reducing the likelihood of being struck in combat.
+
+See Also: ARMOR
+# 
+BASH
+
+Fighter and Bard only.
+
+The success of a bash depends upon how well you are learned. To bash someone
+is to attempt to 'knock' that person over. If you succeed you will inflict
+minor damage, and cause the target to fall on it's rear. The target will be
+sitting, and will take 1.5 times damage.  They will get up about 4 hits
+after they are bashed. A bash makes you unable to type commands for 2 
+rounds.  It is important to note that if you miss your bash, you will fall
+and recieve 1.5 times damage until you stand, just as if you had been
+bashed.
+
+See Also: RESCUE, KICK
+#
+BATTLE
+
+Usage: battle
+
+Battle takes you to the playerkilling arena.  In the arena you wont lose
+your equipment if you die; your corpse always goes back to the temple.
+
+See Also: DEATHMATCH
+#
+BATTLEBRIEF
+
+Usage: battlebrief
+
+Is the toggle to enable seeing yours and/or others battle messages.
+
+See Also: TOGGLE
+#
+"SPELL BATTLE HYMN"
+
+Usage       : cast 'battle hymn'
+Accumulative: -
+Duration    : Level Dependent
+
+Battle hymn casts inspire on an entire group.
+
+See Also: INSPIRE
+#
+BERSERK
+
+Warrior skill that allows them to hit every mob in the room once for one
+round, and costs 10 movement points, and keeps you from doing anything else
+for one round of 'Violence'.
+
+See Also: -
+#
+BITE
+
+Undead only.
+Usage: bite <victim>
+
+Bite is an innate skill of the undead to relieve their thirst for blood.
+If the undead is much more powerful than the bitten victim, they can even
+replenish their hit points with the lifeblood of their victim.
+
+See Also: - 
+#
+"SPELL BLESS"
+
+Usage       : cast 'bless' <victim | object>
+Accumulative: No
+Duration    : 6 Hours, permanent for objects.
+
+Bless on a target PC or NPC will improve the target's saving throw versus spells
+and improve the hitroll depending on the level of the caster.
+
+Bless on an item currently has no defined action. It is only possible
+to bless non-evil items, and the object blessed may weight no more
+than five pounds per level of caster. 
+
+See Also: AID, HITROLL 
+#
+"SPELL BLINDNESS"
+
+Usage       : cast 'blindness' <victim>
+Accumulative: No.
+Duration    : 2 hours.
+
+Blindness will blind a victim failing its saving throw.
+A blinded person will have -4 penalty to both hi
+troll and AC.
+
+See Also: AC
+#
+BLOCK
+
+Block is a fighter/bard skill that allows the player to block the attacks of
+the mob they're fighting for one round. Very handy skill.
+
+See Also: BASH
+#
+BOARD DISEMBARK SHIP STEER
+
+Ships are full-fledged areas that can also be moved through other areas
+like a vehicle.  Players generally board ship, steer around (where is
+that tiller anyway?), beat up a few mobs while aboard, and disembark
+onto a suitably dry land.
+
+See Also: -
+#
+BOTS ROBOT
+
+Bots are scripts that are run on a player's Mud client.  Bots will no
+longer be permitted here if the player is afk, and any player found using
+a bot can be frozen, disconnected, have eq or level stripped, or simply
+be warned.
+
+See Also: TWINK
+#
+"BULLETIN BOARDS" BOARDS
+
+Bulletin boards are the forum of interplayer communication on the MUD.
+There are different bulletin boards for different purposes -- for example,
+a standard mortal board, a board for immortals, a board for fun "social"
+messages, etc.  Naturally, not all players may be allowed to read all
+types of boards.
+
+Type "LOOK BOARD" to see the messages already posted on a board.  Type
+"WRITE <subject>" to post a message to a board; terminate a message with
+a '@' as the first character on a line.  Type "READ <number>" to read a
+post.  Type "REMOVE <number>" to remove your own messages.
+
+> look at board
+> write Am I using these boards correctly?
+[writes the message; terminates with a '@']
+> look at board
+> read 6
+> remove 6
+
+See Also: -
+#
+BRIEF
+
+Toggle "brief mode".  When in brief mode, you don't see the descriptions of
+the room you are in; only the name of the room and the people and objects
+there.  Unless you're very familiar with the area in which you're travelling,
+however, it is not advisable to use this command.  Frequently, you will find
+small but vital hints in the descriptions of the rooms: An extra peek at your
+surroundings could mean the difference between life and death!
+
+If you explicitly type 'look', you will always see the full room description,
+even in BRIEF mode.
+
+See Also: COMPACT, LOOK
+#
+BUG TYPO IDEA
+
+For making useful suggestions to the Powers that Be.
+
+{bug | typo | idea} <text>
+
+> bug the entire game crashes when I type 'put bag in bag'
+> idea make a restaurant in Kore
+> typo 'sence' should be spelled 'sense'
+
+See Also: -
+#
+BUGBEAR
+
+Bugbears are giant relatives of goblins that only value two things in life,
+survival and treasure. Typically they eat what they hunt, with *anything*
+being fair game. They are fierce in battle, yet not very intelligent, and
+since they can see in the dark they prefer to live either underground or in
+caves.
+
+See Also: RACE
+#
+BUILDERS
+
+Here on Heroes of Kore we're always looking for more builders and more areas.
+If you have an idea or suggestion, you can jot it down with the "idea" command.
+But if you feel that creative urge, why not grab ahold of one of the
+Implementors and talk over your idea with them? They are usually pretty busy,
+but sometimes an area idea will really catch their interest. Kore has a strong
+medieval/fantasy theme and area ideas that feature very difficult mobs and
+great rewards are perfect.
+
+See Also: - 
+#
+BUILDING-STANDARDS
+
+- Graph paper is your friend. You should always map out your areas prior to
+  building.
+- Never refer to a mob or removable object in the room desc. It looks silly
+  if the mob or object isn't there.
+- Never refer to the time of day, time passes quickly on a mud.
+- Never assume a player is coming from a certain direction.
+- Use your extras! If you refer to anything in the desc that is not a object
+  that loads in the room, make a extra for it.
+- Formatting and indenting is a must for room and mob desc. Depending on the
+  size of the desc , objects desc should also be.
+- Room length should be atleast three lines long and no more then nine long.
+- Don't tell a char what he feels emotionally. IE You are scaried. A better
+  way to say it would be - The dark and foggy atmosphere is chilling and
+  would scare even the most stalwart of adventurers.
+- Never ever start a room desc off with YOU. Never Never Never No Never. 
+  Try to limit your use of the word YOU. <--- Ayana don't like that!
+- Areas should be unique and follow the theme of the mud. Never steal a area
+  from another mud.
+- It should be possible to map your area on paper with a minimal confusion.
+- Room names should be capitalized properly. First letter of any room name
+  is capitalized no matter what. Capitalized each of the following words
+  unless they are unimportant like "a" "of" "the".
+- Don't tell the person exactly what room they are in unless it is apparent
+  from the desc. Rather then "King Karns Bedroom" say A Royal Bedroom.
+- Mobs must have desc.
+- Objects must have extra desc.
+- Gold on mobs should be set at 0 as it will automatically generated.
+- All mobs should be flaged stay zone so they don't leave the zone.
+- Any toys found in your zone will be changed. (over powered weapons and
+  objects)
+
+Above is subject to change etc... If you see a need to do something that
+should not be done etc... Ask approval prior to doing.
+
+See Also - 
+#
+"SPELL BURNING HANDS"
+
+Usage       : cast 'burning hands' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 5 magic user.
+Save        : Versus spell for half damage.
+
+This spell is not very powerful but attacks all mobs in a room.
+
+See Also: - 
+#
+BURY
+
+Bury is just like sacrifice, only with different messages. You receive 5 coins
+for every corpse you bury. You may want to set autosacrifice on if you kill
+things a lot. ;)
+
+See Also: AUTOSACRIFICE
+#
+BUY
+
+If you'd like to purchase an item from a shop and have the money, you can buy
+it.  Items can be bought by name, or by their number in the shop listing,
+and can be bought in quantity.
+ 
+Examples:
+ 
+> buy sword        (buy the first sword on the list)
+> buy #3           (buy the third item on the list)
+> buy 4.sword      (buy the fourth sword on the list)
+> buy 10 bread     (buy 10 pieces of bread)
+> buy 10 #2        (buy 10 of the second item on the list)
+ 
+See Also: SHOPS, SELL, LIST, VALUE
+#C
+"SPELL CALL LIGHTNING"
+
+Usage       : cast 'call lightning' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell will use the "force of nature" to make a lightning
+strike the victim. It is therefore only possible to call lightning
+outside, and it has to be raining (or worse).
+
+The lightning will inflict (level)d8 points of damage, up to a
+maximum of 15d8 damage points.
+
+See Also: WEATHER, CONTROL WEATHER
+#
+CAST CASTING
+
+For "magical" people. If you want to throw a spell at someone or something.
+Example : cast 'burning hands' <player>
+   Note that the name of the spell must be enclosed by "'"s.
+
+See also : help on each individual spell, for example:
+  > help cure ligh
+  > help ventri
+  > help energy drain
+
+See Also: -
+#
+CHANGES
+
+10/19/01 - Fixed bug in stock Circle code that caused you to lose
+	   gold when you died while linkdead.
+10/11/01 - Gnomes and Hobbits can now be warriors.  Thanks to
+	   Thanatos for this suggestion.
+04/15/01 - Hostile affect spells will now trigger combat.  This
+           is basically anything that can be cast in combat.
+04/15/01 - Faerie fire made hostile.
+04/13/01 - I have TEMPORARILY removed my previous change to
+           damroll.  The effects were too chaotic, so I'm going
+           to work on another solution.
+04/13/01 - Turns out acid blast was doing much more consistent
+           damage than say, color spray and word of death.  I
+           took the same formula used for acid blast and modified
+           it to work with these spells, so their damage should
+           be more consistent.
+04/13/01 - Any clan member who is above CLAN_LVL_MEMBER may now
+           initiate new members.  Only the clan leader may
+           outcast or set clan levels.
+04/13/01 - Implemented Jeshko's suggestion on languages.  To
+           understand a language is no longer based on race, but
+           on the language itself, so halfelves can now understand
+           elves, etc.
+04/09/01 - I'm in the process of adding affects to what you
+           see when you look 'at' someone.  It might get a bit
+           spammy, if so use 'diagnose' to see someone.
+04/09/01 - Took out the ranged slot.  Nothing will be replacing
+           it, and you can junk the bows for all I care.
+04/09/01 - Bug in bash and trip fixed.  Bad position check.
+04/07/01 - In the process of changing some equipment and progs.
+           Just FYI really, not going to take complaints on eq
+           changes.
+04/07/01 - Weapons with damage spells on them have lost them.  Some
+           might come back, but under different rules and toned down.
+04/06/01 - Beginning the long process of balancing spells across
+           classes.  This is going to make spell damage a bit more
+           random.  Potential damage won't change much, but average
+           will fluctuate.  This corresponds with the earlier change
+           to melee classes.
+04/06/01 - Changed the cost for mana shell in the code.  You will
+           now be charged mana for base damage before damage is
+           modified by sanc, etc.
+04/06/01 - Added mana shell.
+04/06/01 - Ranged combat has been completely removed from the game.
+04/06/01 - Melee damage has been modified somewhat to make damage
+           a bit more random, and a bit more based on average
+           damage of the weapon.
+04/06/01 - Added fireshield.
+04/06/01 - Mob saving throws lowered very slightly.
+04/06/01 - Web recoded and re-added, now mage only.
+04/04/01 - Trip and Bash both now have verbose messages.
+04/01/01 - Trip now more effective vs. players.
+04/01/01 - Stoneskin and mirror image now actually work vs. bash.
+           In addition you no longer need a weapon to bash, you
+           need a shield.  Much more logical.
+04/01/01 - MAX_ALIAS for any level is now 100
+01/14/01 - Doubled the number of possible affects in the mud, and
+	   probably added some new bugs.  But hey, we needed some.
+
+See Also: OLDCHANGES
+#
+OLDCHANGES
+
+11/19/00 - Bug in stand that allowed you to stand in combat after
+	   having been bashed or tripped and were then able to
+	   cast non-combat spells.
+09/25/00 - Initiate should be fixed.
+09/22/00 - Clan members ranked lvl 2 can now initiate new members.
+07/09/00 - Quest objects are now no locate.
+04/13/00 - Kore has changed, some of you may recognize it.  Expect
+	   the city to change quite a bit in the coming days.
+04/08/00 - Read the updated helpfile for DEATHMATCH
+03/27/00 - Took out several of the ways charm person can fail.
+03/27/00 - Quickdraw is being redone.  For the time being you
+	   will not get any attacks from quickdraw, it will
+	   still make you stand and wield a weapon.
+03/27/00 - Rewrote most of critical hit, see necessary helpfiles
+	   for changes.
+03/27/00 - Fixed the damage message for critical hits.
+03/27/00 - Mob regen has been slightly modified again.
+03/27/00 - Saving throws are now visible in score if you're level
+	   25 or higher.
+03/27/00 - Charm may no longer be cast in combat.  What's with that
+	   anyway?
+03/27/00 - Curse may now be cast in combat.
+03/27/00 - Attempting to charm a mob (and failing) is considered an
+	   act of aggression.  Also, when mobs are free of your charm
+	   they may choose to exact revenge.
+03/26/00 - Curse will now affect the target's saving throws.  I know
+	   you liked that minus 1 to their hitroll, but this might
+	   be more effective.
+03/26/00 - Charmed mobs will now keep fighting, but they might not like
+	   you so much if you leave them.
+03/26/00 - No more multiple backstabs and circles.  I know, I know, I've
+	   finally gone and ruined the mud.  Even Knife hates me.  Oh the
+	   humanity!
+03/26/00 - You should get exp when charmies get a kill if they're grouped
+	   again.
+03/26/00 - Fixed the age-old phantom damage bug in ranged combat.  Should
+	   also take care of the weird messages when a mob enters the room.
+03/26/00 - A lot of the combat skills are having the damage they do tweaked.
+	   Most were poorly written and didn't take into account damroll
+	   and other factors.
+03/26/00 - Re-scaled the damage messages.  Tweak Tweak.
+03/26/00 - Spell damage has been changed.  Spells used to do more damage to
+	   mobs.  That is no longer true.  Please refer all complaining
+	   to /dev/null.  Thank you, drive through.
+03/26/00 - Fixed problem where you'd see mpdamage.  Also changed it so you're
+	   not doing mpdamage to yourself.  You'll also no longer get damage
+	   exp for mpdamage and poison damage, and you won't gain exp for
+	   dying to poison or mpdamage.
+03/26/00 - Fixed the broken idea board.
+03/26/00 - You can no longer yank in combat.  Bad men.
+03/26/00 - Added a message to retreat that will show you which direction
+	   you take when you leave combat if you successfully retreat.
+03/26/00 - Damage messages have been recoded, yay.  Ok, so there are some
+	   bugs, but it kinda rules.
+03/24/00 - Class experience has been tweaked.  Some of the class experience
+	   modifiers were changed.  Thieves and druids were made a bit easier
+	   to level while clerics were made a bit more difficult.  This is 
+	   part of an effort to maintain class balance when remort classes
+	   are available.
+03/24/00 - Mob regen has been lowered somewhat.
+03/24/00 - Removed 40 or so unopened zones.  This should make quests a lot
+	   more consistent and cut down on mem usage of the mud.
+03/24/00 - Added a 'clanleave' command.  This will make you an outcast.  Do
+	   not use hastily, as we will not reverse this if you change your
+	   mind.
+03/24/00 - Mobs should no longer die on the pulse while you're fighting them.
+03/24/00 - Fixed some problems with shops, still working on getting these right.
+03/20/00 - Berserk now has a 2 round delay.  It was always supposed to, dunno
+	   why it was overlooked.
+- Regen has been moved from the tick and placed on the pulse.  This may
+require some tweaking over the next few days.
+- Delete has been re-enabled.  If you delete your character we will never
+ever restore it.
+- There is a new zone flag for active zones.  If you get into an inactive
+zone, you'll be told you shouldn't be there.
+- You can now customize your prompt. See 'help custprompt' for details.
+- Players can now supply an email address in case of password problems.
+  See 'help email'.
+- Poofins and Poofouts now save when you rent
+- Titles will now be given out by gods level 58 and above only.
+- Thri-kreen wear_face is fixed.  Thanks for pointing this
+out Fei.
+- Power Word Stun now gets a save.
+- There is now a high rate of failure when trying to summon 
+someone who is fighting.
+- Backstabbing while stoneskinned will now halve your chance
+for extra attacks.
+- Helper mobs will now assist mobs vs. mobs.
+- Players who are set noauction will no longer hear auctalk.
+thanks Cameron.
+- Fixed "worn on face" for thri-kreen.  Thanks Fei for pointing
+out this problem.
+- The 'score' command has been rewritten.  The old version is
+available as 'oldscore'
+- Saving throws have been rewritten.  They now work on a 25 point
+scale (instead of 100) and they are not modified for level.  So
+you'll have to wear saving throw eq if you want to make saves.
+- Autoscan has been removed.  It will be unset when you log in
+after reboot.  The "where" command is now allowed for mortals,
+but will only show other players.
+- It's been pointed out that high level players are getting quests
+with low level characters and logging on their high levels to fetch
+the items.  It has also been noted by me that people are weakening
+mobs with high level characters and logging in their low levels to
+finish them off.  Characters are intended to be independent of one
+another.  This has prompted two changes.  The autoquest token items
+are now nodrop.  Also, there has been an ammendment made to the
+MULTIPLAYING policy that includes weakening mobs for your other characters.
+- Fixed a memory leak in autoquest.  Also added an object flag for
+autoquest.
+- Fixed a couple more bugs in autoquest.  The code was returning when
+it found someone who could begin questing again instead of continuing,
+so hopefully it shouldn't skip ticks on people now.  Also there was a
+bug in quest giveup, that's fixed.  If you gave up on a quest and now
+get nothing when you type aquest time, go to Gortok and type aq fixme.
+- Added some debug code to quests, also think I found why some people
+would have a quest even though he said he didn't have one.
+- The Elemental race has been renamed Angel.  I don't have any plans
+to complete what I had planned for elemental, and the race doesn't
+really make sense without it.
+- Mob racial guessing code is back in.  That means most undead should
+actually be flagged undead again.  Sunray should actually do damage
+now.  Sorry this was disabled, not sure why.
+- Crash bug in the new wear location code fixed.  Thanks Morgus for
+finding this.
+- I spent a great deal of time today putting in an autoquest system.
+You will see an adventurers guild in Kore.  This is not open to the
+public just yet, I need to do some more testing, but it will be ready
+very soon.  You should find it quite challenging, as well as quite
+interesting.
+- I've heard a lot of confusion about why recall was changed.  The
+reason it was changed was to clear the way for racial areas.  They're
+not quite ready yet, but soon different races will start outside the
+main city of Kore.  It has long been my intention to take the focus
+off of the city of Kore as the center of the world and add some new
+interesting cities.  This is a step in that direction.
+- Bug in wild heal fixed.  Instead of just taking hitpoints if you
+get unlucky it will hit you with poison damage.  It will not cause
+you to be poisoned, just hit you with that damage type.
+- Recall will now return you to the last room from which you entered
+the game.
+- Since you now have an abundance of moves, you can expect some new
+things to cost movement.  This may mean melee takes moves, more if
+you wield a heavy weapon.  It may also mean certain skills either
+require you to have a certain number or percentage of moves, or will
+take moves when used.  Expect this, don't be surprised if it comes.
+- The remort gauntlet is going to be rewritten and you will be required
+to pass it in order to remort, look for this in the coming weeks.
+- You will now gain movement points based on dexterity when you level.
+If you're already level 50 and you feel your moves are too low, you
+can always remort.
+- Dispel magic has been rewritten.  Each spell affect that is on the
+victim will receive a saving throw.
+- Area effect spells can now be cast without an argument as long as
+there is a valid target present.
+- Mobs that are immune to skills such as bash and block will no longer
+report so, you will simply fail.  Also missing a skill will take the
+same delay as succeeding.
+- Group experience has been recoded somewhat.  See help EXPERIENCE.  Also
+level restrictions on grouping have been removed. (You can thank Maerlyn
+for this one, he chewed me out about group restrictions)
+- You will no longer autoassist when not in the same room as the fighting
+character.
+- Death has been recoded.  You should stay in your group when you die and
+pop up in the temple similar to an arena death, only your hps and mana will
+be at 1, and your corpse will be where you died.
+- The "visible" command will now dispel any remaining mirror images (Thanks
+to Hagen for this suggestion)
+- The affect portion of sunray is currently disabled while I decide how I
+want to recode it.
+- Stoneskin will no longer protect you from magical attacks, and it will now
+tickle instead of miss, since missing was misleading.
+- Stoneskin, Mirror Image, and safe rooms will no longer protect from poison
+(Thanks to Hampo for pointing this out)
+- Area effect spells will now hit all mirror images dispelling the spell
+effect (Thanks Rufus for this suggestion)
+- Some changes have been made to cursed items.  I suggest you treat cursed
+items with a fair amount of respect.
+- Cleaned up implementor-only system channel.
+- Scavenger mobs will now wear the equipment they pick up.
+- Bite will no longer take mana when your victim is not found. (Thanks to
+Hagen for pointing this out)
+- Some minor typos fixed
+- Fly will now only reduce the number of movement points needed to move
+from room to room, not nullify it completely.
+- A bug has been fixed in enchant armor.  It should never have affected
+wisdom.  The bug only affected some enchants, as there is a variation
+in the affect of enchant armor.
+- Warriors (and knights) will now do damage based on their level when
+fighting without a weapon.
+- Helpfiles on spells have all been recategorized, you now need to use
+"help spell <spellname>" to access those helpfiles
+- Locate object has been changed.  You may no longer locate objects on
+mobs that are more than 10 level greater than your level.  The spell will
+also always cast, whether it finds your target or not, whether the target
+exists or failed due to your level.
+- Clerics and thieves, you've asked for it for a long time, you got it.
+Thieves will now receive 1 exp for each gold they steal from mobs that
+are equal or greater than their level.  Clerics will now receive 1 exp
+for each point of damage they heal on players other than themselves, and
+only while that player is in combat.
+- A lot of players level mages up to 15 or so in order to get locate
+object.  To encourage the play of low level clerics, I have granted
+clerics the locate spell at level 21.
+- To compensate for the loss of wimpy to thieves, the delay on backstab
+has been slightly reduced, and you may now backstab while stoneskinned.
+- The spell 'blindness' is now considered a violent act.  Therefore it
+may not be cast upon players, but may be cast while in combat.
+- Following has been restricted.  You may only follow someone within 10
+levels of you.
+- The wimpy command has been removed.  Along with this change, the flee
+command has been modified to make it a bit easier to flee, though it's
+still based highly upon your dexterity.
+- There is now a chance to ^Rfail fleeing^n from a fight.  This chance is
+directly related to your ^YDexterity^n
+- If you die and lose enough exp to put you below your previous level,
+you will de-level. The exp loss cap has been greatly increased as
+well. This won't affect lower levels, but higher level players will
+lose a great deal more experience than previously.
+
+See also: NEWS
+#
+"SPELL CHARM PERSON"
+
+Usage       : cast 'charm person' <victim>
+Accumulative: No
+Duration    : (432/Itelligence points of person) hours
+
+Is is not possible to charm anyone that is already charmed, if
+you're charmed yourself, or if the person is higher level than
+yourself. The person will get a saving throw versus "paralysation".
+
+A charmed person will follow you, and not be able to attack you, you
+can order charmed person using the order command.
+
+See Also: FOLLOW, ORDER
+#
+"SPELL CAUSE CRITICAL"
+
+Usage       : cast 'cause critical' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Cause critical is a more powerful version of cause serious.
+
+See Also: CAUSE LIGHT, CAUSE SERIOUS 
+#
+"SPELL CAUSE LIGHT"
+
+Usage       : cast 'cause light' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Cause light is a basic offensive spell for clerics where the caster focuses
+harmful energy into his or her fists and attempt to strike the victim, causing
+damage.  Since clerics are defensive in nature, the force of this harmful
+energy isn't great.
+
+See Also: CAUSE CRITICAL, CAUSE SERIOUS 
+#
+"SPELL CAUSE SERIOUS"
+
+Usage       : cast 'cause serious' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Cause serious is a more powerful version of cause light.
+
+See Also: CAUSE CRITICAL, CAUSE LIGHT 
+#
+"SPELL CHAIN LIGHTNING"
+
+Usage       : cast 'chain lightning' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+This *IMPRESSIVE* spell does a lightning bolt over an area affect, 
+It is an extremely powerful spell, but it also tends to make a lot of
+mobs angry. :)
+
+See Also: LIGHTNING BOLT
+#
+CHAMPION
+
+The champion flag on an item requires that the wearer be at least level 42 to
+use that item.
+
+See Also: VETERAN HERO
+#
+CHAT
+
+This is a social.
+
+usage: chat <mob> <subject>
+
+> chat vulmarta jogging
+
+NOTE: not all mobs will react to this, but some will.
+
+See Also: LISTEN
+#
+"SPELL CHILL TOUCH"
+
+Usage       : cast 'chill touch' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage
+
+This spell is more powerful than the shocking grasp spell.
+A victim failing its saving throw will get its strength
+reduced by one.
+
+See Also: SHOCKING GRASP
+#
+CIRCLE
+
+Circle is a thief skill that allows a player to get half the damage of
+a backstab onto one of the mobs that they aren't fighting. It delays the
+thief just like kick delays a fighter.
+
+See Also: BACKSTAB
+#
+CIRCLEMUD
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink, for submitting a veritable mountain of excellent code.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Jean-Jack Riethoven, for porting the code to the Amiga.
+  -- Bill Bogstad and Tim Stearns, for allowing Circle to exist.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- And, of course, Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anoymous FTP:  ftp.cs.jhu.edu:pub/CircleMUD
+Author's Email:  jelson@cs.jhu.edu
+           URL:  http://www.cs.jhu.edu/other/jelson/circle.html
+  Mailing List:  circle@pvv.unit.no
+
+See Also: -
+#
+"SPELL CLAIRVOYANCE"
+
+Usage       : cast 'clairvoyance' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Clairvoyance is an useful/annoying spell that allows the caster to look
+out through the eyes of the victim.  If the victim is a PC, the caster
+must be of a higher level to be able to cast the spell on him or her.
+
+See Also: -
+#
+CLAN
+
+    The clan help file system is seperate from the normal help file system.
+To use clan helps, type CLANHELP <TOPIC>. If there is a file on the topic 
+you requested it will be displayed. Typing CLANHELP without a string will 
+show instructions and a list of the current clanhelp topics.
+
+#
+CLASSES
+
+There are essentally six main classes in Kore:
+
+Warriors:	Great hit points, multiple hits, great for tanking.
+Clerics:	Great mana, good hit points, lots of assistance spells.
+Mages:		Great spells, great mana, average hit points.
+Thieves:	Good combat abilities, pick locks, sneak, backstab.
+Bards:		Good spells, good hit points, some thief skills.
+Druids:		Great mana, good hit points, many nature-based spells.
+
+See Also: -
+#
+CLEAR CLS
+
+Clears the screen on many terminals.
+
+See Also: -
+#
+CLERICS
+Clerics have an ancient belief in not carrying sharp weapons. Hence, they can
+only wield bludgeoning weapons. This class gives you the wisdom of peace,
+blessing and healing, though it is possible to learn more violent spells.
+
+Here is a list of your spells at level 50:
+
+SPELLNAME		LEVEL	COST
+continual light		1	5
+cure light		1	10
+armor			2	10
+cause light		3	10
+create food		4	5
+faerie fire		4	10
+create water		5	5
+word of recall		5	6
+cure serious		6	15
+cause serious		7	15
+bless			8	15
+aerial servant		9	30
+meditate		10	n/a
+sticks to snakes	10	50
+cure blind		11	11
+waterwalk		11	25
+detect invisibility	12	15
+defensive harmony	13	30
+infravision		14	25
+remove poison		14	50
+poison			15	20
+protection from good	15	40
+protection from evil	16	30
+cure critic		17	20
+cause critic		18	20
+blindness		19	25
+aid			20	15
+group recall		20	16
+wild heal		20	50
+animate dead		21	51
+locate object		21	51
+dispel evil		23	25
+dispel good		24	25
+sanctuary		24	71
+heal			24	50
+curse			25	30
+insect plague		26	120
+harm			28	50
+remove curse		30	30
+summon			32	52
+prayer			33	61
+earthquake		35	26
+holy light		35	31
+control weather		36	26
+call lightning		37	26
+gate one		40	105
+petrify			41	100
+spiritual hammer	41	60
+group heal		42	90
+gate two		45	160
+restore			45	270
+relocate		47	50
+dispel sanctuary	49	100
+gate three		49	250
+group sanctuary		50	200
+
+See Also: CLASSES, SPELLS
+#
+"SPELL COLOR SPRAY" "SPELL COLOUR SPRAY"
+
+Usage       : cast 'color spray' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the chill touch spell.
+
+See Also: CHILL TOUCH
+
+For help on actual color, see: ANSI
+#
+COMBAT
+These are commands that can be used while in combat:
+
+CONSIDER What you always should do before even thinking of attacking
+KILL     Basic command to initiate combat
+FLEE     Makes you try to run away from combat
+ASSIST   Joins in a battle of a person being attacked
+TRACK    Follows the path to a mob
+CAST     Casts an (offensive) spell
+BATTLE   Takes you automatically to the PK arena
+
+LINK     Information on freezing/losing link in battle
+
+See also: PK, EXPERIENCE, DEATH, GROUP
+#
+COMMANDS
+
+The COMMANDS command gives a canonical list of all the known verbs.
+
+> commands
+
+Each command listed should have help available by typing "HELP <command>".
+
+See Also: HELP
+#
+COMM COMMUNICATING COMMUNICATION
+These commands are used to communicate with several other characters at
+once:
+
+GOSSIP      Reaches everyone in the game
+GRATS       Congratulates people in the mud. Reaches everyone
+SHOUT       Reaches your nearby area
+SAY         Reaches your whole room
+LISTEN      Listen to mobs for useful information
+CHAT        Chat with mobs for useful information
+MUSIC       Sing a song or talk about music
+GTELL       Group-tell, reaches only members of your group
+EMOTE       Expresses your feelings
+REPORT      Shows your statistics to your group
+MAIL        For use at a postmaster, send mail to anyone in the game
+
+TELL        Tell to any person in the world
+WHISPER     Whisper to a person in your current room
+SPEAK       Speak in the language of your race
+
+SOCIALS     Shows a complete list of socials
+
+See also: -
+#
+COMPACT
+
+This command toggles the extra blank line output to your screen after each
+command.  Useful if you have a small display.
+
+See also: BRIEF
+#
+COMPARE
+
+This command allows you to compare one weapon to another or one piece
+of armor to another. It's pretty vague and just tells you if the average
+dice damage (excluding possible damage bonuses) of one is greater than the 
+other (in the case of weapons) or if the base armor value of one piece of
+armor is better/worse/no different than another. Its a moderately useful
+skill, but the spell "identify" is *FAR* superior.
+
+See also: IDENTIFY, JUDGE
+#
+"SPELL CONE OF COLD"
+
+Usage       : cast 'cone of cold' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+More powerful than burning hands.  Make that MUCH more.
+
+See Also: BURNING HANDS
+#
+"SPELL CONJURE ELEMENTAL"
+
+Usage       : cast 'conjure elemental'
+Accumulative: -
+Duration    : Instantaneous
+
+This spell summons one of the elemental powers of air, earth, water or fire
+to serve you.
+
+See Also: -
+#
+CONSIDER
+
+Usage : consider <victim>
+
+Consider compares your offensive and defensive power vs the victim's power.
+Your offensive power is simply your average damage with your weapons times
+the number of attacks you get.  Your defensive power is your hit points 
+(double power if you are sancted).  Consider makes a guess at how hard or
+easy a mob might be for you to fight, but it just can't factor in everything!
+Mages and clerics especially might finds mobs a lot easier or harder depending
+on if they have mana for spells.
+
+Results of consider, from easy to difficult:
+
+Simple, extremely easy, really easy, easy, pretty easy, reasonably easy,
+sort of easy, fairly easy, somewhat easy, even, somewhat hard, fairly hard,
+sort of hard, reasonably hard, pretty hard, hard, really hard, extremely
+hard, getting impossible, impossible, unthinkable.
+
+See Also: -
+#
+CONSTITUTION
+
+Constitution is a measure of how healthy a player is in a very general sense.
+Constitution as an attribute modifies the amount of hit points a player can
+get as a bonus when they level.
+
+See Also: ATTRIBUTES
+#
+"SPELL CONTINUAL" "SPELL CONTINUAL LIGHT"
+
+Usage : cast 'continual light'
+
+This spell makes a temporary light source that can be help by the caster.
+
+See Also: CREATE FOOD, CREATE WATER
+#
+"SPELL CONTROL WEATHER"
+
+Usage       : cast 'control weather' ('better' | 'worse')
+Accumulative: Yes
+Duration    : -
+
+This spell will change the "course" of the current weather.
+Example:
+
+> cast 'control wea' worse
+
+See Also: -
+#
+CORPSE BODY
+
+Corpses are from killed mobs or mortals.
+
+See Also: DEATH
+#
+"SPELL CREATE FOOD"
+
+Usage       : cast 'create food'
+Accumulative: -
+Duration    : Instantaneous
+
+This spell instantly creates an edible waybread. The delicious waybread 
+will satisfy your hunger for 24 hours.
+
+See Also: CONTINUAL LIGHT, CREATE WATER 
+#
+"SPELL CREATE SPRING"
+
+Usage       : cast 'create spring'
+Accumulative: No
+Duration    : 10 turns
+
+This spell creates a magical spring on the ground, providing clear water
+to all for 10 turns before drying up.
+
+See Also: CREATE WATER
+#
+"SPELL CREATE WATER"
+
+Usage       : cast 'create water' <drink container>
+Accumulative: No
+Duration    : Instantaneous
+
+Expect disasterous results if cast upon a drink container which contains
+another liquid than water. Empty or water containers will be filled
+depending on the level of the caster.
+
+Double amout of water will be created if it is raining (or worse).
+
+See Also: CONTINUAL LIGHT, CREATE FOOD 
+#
+CRITICAL "CRITICAL_HIT" "CRITICAL HIT"
+
+Over time and with practice, warriors develop the ability to use their
+weapons with extreme skill.  At times they can find openings in the
+defense of their opponent and attack a vulnerable location.  These
+critical hits inflict a good deal more damage than a standard attack.
+
+See Also: BLOCK, DISARM, RIPOSTE
+#
+
+"SPELL CURE BLIND"
+
+Usage       : cast 'cure blind' <victim>
+Accumulative: No
+Duration    : Instantaneous
+
+This spell will cure a person blinded by the "blindness" spell, it
+can not remove blindness caused by for example cursed items.
+
+See Also: -
+#
+"SPELL CURE CRITIC"
+
+Usage       : cast 'cure critic' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+This spell cures 5d8 + 3 + 1/4th the clerics level in hitpoints of damage.
+
+See Also: -
+#
+"SPELL CURE LIGHT"
+
+Usage       : cast 'cure light' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+This spell cures 2d8 + 1 + 1/4th the clerics level in hitpoints of damage.
+
+See Also: -
+#
+"SPELL CURE POISON"
+
+Heh. You must mean 'remove poison'. A common mistake.
+
+See Also: REMOVE POISON
+#
+"SPELL CURE SERIOUS"
+
+Usage:      : cast 'cure serious' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+This spell cures 3d8 + 5 + 1/4th the clerics level in hitpoints of damage.
+
+See Also: -
+#
+"SPELL CURSE"
+
+Usage       : cast 'curse' <victim>
+Accumulative: No
+Duration    : Level based
+
+Curse cast on a person that fails the saving throw, will reduce the
+Damroll by one, and prevent the victim from recalling.
+
+See Also: -
+#
+CUSTPROMPT
+
+Usage: custprompt <prompt>
+
+This command allows you to customize your Heroes of Kore Prompt (tm). You
+can put any text you want in it, as well as the following codes:
+
+$h: Current hit points	    $H: Maximum hit points
+$m: Current mana            $M: Maximum mana
+$v: Current movement        $V: Maximum movement
+$g: Gold on hand            $b: Gold in the bank
+$G: Total gold              $l: Current level
+$x: Current experience      $X: Experience required for next level
+$n: Your name               $$: A dollar sign
+$f: Mob you are fighting    $c: Condition of the mob you are fighting
+$a: Age                     $p: Current position (resting etc)
+$R: Armor Class             $A: Alignment
+$S: Strength                $D: Dexterity
+$N: Constitution            $I: Intelligence
+$W: Wisdom                  $C: Charisma
+$t: Hitroll                 $d: Damroll
+
+All the color codes as well as ^^\ (for new line) also work. Typing
+'custprompt' without any parameters resets you to the default prompt.
+
+See also: ANSI
+#D
+DAMAGE
+
+The damage that you do is scaled.. each weapon type has a message and
+the damage messages rise in increments of roughly 4 to 6 hit points per range.
+It's not constant but after a while you can really tell how good or bad
+a weapon is and how much damage it's doing by its damage messages. 
+
+miss		scratch		graze		hit
+injure		wound		maul		decimate
+devastate	maim		MUTILATE	DISEMBOWEL
+EVISCERATE	MASSACRE	DEMOLISH	ANNIHILATE
+LIQUIFIES
+
+See Also: -
+#
+DAMROLL
+
+Your damroll is the amount of extra damage you do in addition to your 
+weapon damage with each hit.  You can see your damroll when you type attr 
+after 8th level.  It is added only to melee attacks.
+
+See Also : HITROLL
+#
+DAWN DAY DUSK NIGHT
+
+These times of day really dont have much affect on the game except that 
+outdoor rooms at dusk and night are dark for those without a light or infra-
+vision.
+
+See Also: -
+#
+DEAF
+
+(deaf) means that you don't hear shouts.  Toggle it with the noshout command.
+
+See Also: FLAGS, NOSHOUT
+#
+DEATH DYING RIP
+
+Death is something to be avoided at all costs.  When you die you are
+brought back to life, but you lose a portion of your experience.  If
+you lose too much experience, there is a chance you can lose a level.
+
+See Also: -
+#
+DEATHKNIGHT
+
+SPELLNAME               LEVEL  COST
+judge                    1   n/a
+kick                     1   n/a
+bash                     2   n/a
+defend                   3   n/a
+disarm                   3   n/a
+rescue                   3   n/a
+berserk                  5   n/a
+block                    5   n/a
+critical_hit             5   n/a
+quickheal                8   n/a
+switch                   9   n/a
+track                   10   n/a
+dual wield              12   n/a
+rage                    13   n/a
+quickdraw               17   n/a
+heal                    18   n/a
+riposte                 20   n/a
+avenging blow           30   n/a
+valour                  30   n/a
+
+See Also: - CLASSES
+#
+DEATHTRAP DT
+
+Deathtraps are usually obvious traps that not only kill you, but also
+destory all your equipment since they are unretrievable from the trap.
+No reimburstments are given for deathtraps. Don't even ask. However,
+you don't lose any experience for hitting a deathtrap.
+
+However, people who claim they never DT are either liars, wimps, or
+twinks.
+
+See Also: TWINK
+#
+DEATHMATCH DEATHQUEST
+
+Is a special mode in which the arena can be set by an immortal. When in
+this mode a mortal doesn't lose experience when they die. Also when in
+this mode a mortals don't actually die, they reappear in the temple
+restored and a death is added to the totals
+
+We try to run an "official" deathmatch each week.  Currently they are
+held on saturday.  The winner of this deathmatch will be flagged as
+the DQ Master for the week, and will also receive any item of their
+choice to use until the following saturday.  There are additional
+rules during these official deathmatches.  You may not follow other
+players or group.  You may not recall yourself or others.  And as
+always, you must listen and obey the immortal who is running the
+quest.
+
+* - You will no longer be dispelled before entering the arena, but
+    you will be forced to follow yourself.
+
+See Also: BATTLE, SCORES
+#
+DEFEND
+
+Defend is a skill much like rescue only better! When you rescue someone,
+you take the blows for them but the person you rescue stops fighting and
+has to start all over again, losing valuable time and lost hits. Defend
+lets the tank take the blows for someone (like rescue) but the person they
+defend gets to keep fighting!! You must be wearing a shield in order to
+defend successfully.
+
+See Also: RESCUE
+#
+"SPELL DEFENSIVE HARMONY"
+
+Usage       : cast 'defensive harmony'
+Accumulative: Yes
+Duration    : 24 hours
+
+Defensive harmony grants the powers of armor to all members of caster's
+group.
+
+See Also: ARMOR, BARKSKIN
+#
+DESCRIPTION
+
+Your description (settable on the connection menu) is what people see
+when they look at you. They'll also see the equipment you wear, and if
+they're a thief they might peek at your inventory.
+
+See Also: -
+#
+"SPELL DETECT INVISIBILITY"
+
+Usage       : cast 'detect invisibility'
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell enables you to see invisible items and players.
+
+See Also: -
+#
+"SPELL DETECT MAGIC"
+Usage       : cast 'detect magic'
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell will let you see the magical aura surrounding magical
+objects.
+
+See Also: -
+#
+DIAGNOSE
+
+diagnose
+diagnose <character>
+
+The DIAGNOSE command tells you how wounded a character looks.  If you are
+fighting someone, you can use DIAGNOSE with no arguments to diagnose the
+person you're fighting.
+
+> diagnose
+> diagnose rasmussen
+
+See Also: -
+#
+DISARM
+
+Disarm forces the mob a warrior has engaged to unwield its weapon. Disarm is
+especially valuable because mobs inflict less damage when they are bare-
+handed. Disarm will initiate combat. This skill is ineffective against mobs
+protected by Sanctuary.
+
+>disarm
+>disarm orc
+
+See Also: BLOCK, RIPOSTE, CRITICAL HIT
+#
+"SPELL DISINTEGRATE"
+
+Usage       : cast 'disintegrate' <victim>
+Accumulative: No
+Duration    : Instantaneous
+
+Disintegrate hits the victim with a massive wallop, hopefully making powder
+of their body.
+
+See Also: LIGHTNING BOLT 
+#
+"SPELL DISPEL MAGIC"
+
+Usage       : cast 'dispel magic' <victim> 
+Accumulative: -
+Duration    : Instantaneous
+
+Dispel Magic neutralizes the effects, for good or ill, of spells cast by
+mobs or other mortals.  Dispel Magic is ineffective against a mob's inherent
+magical powers.
+
+SEE ALSO: DISPEL SANCTUARY
+#
+"SPELL DISPEL EVIL"
+
+Usage       : cast 'dispel evil' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Special
+
+This spell will only affect evil creatures. An evil person of level
+equal or less than caster will suffer 100 damage points.
+
+If the victim is higher level than caster, the spell will inflict
+(caster_level)d4 damage points, saving throw versus half damage.
+
+See Also: -
+#
+"SPELL DISPEL GOOD"
+
+Usage       : cast 'dispel good' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Special
+
+This spell will only affect good creatures. An good person of level
+equal or less than caster will suffer 100 damage points.
+
+If the victim is higher level than caster, the spell will inflict
+(caster_level)d4 damage points, saving throw versus half damage.
+
+See Also: -
+#
+"SPELL DISPEL SANCTUARY"
+
+Usage       : cast 'dispel sanctuary' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+This spell removes the sanctuary from characters only. Mobiles are unaffected
+by this spell.
+
+See Also: DISPEL MAGIC 
+#
+DISPLAY PROMPT
+
+Modify your prompt to show your hit points, mana, movement points,
+and/or mob condition.
+
+> display off		Return to normal display
+> display all		Display hit, mana, move points, and mob condition
+> display color		Show the prompt in color; kinda neat, try it! :)
+> display diagnose	Show the condition of the mob you are fighting.
+
+
+The mob's condition only comes up when you are fighting. In those cases,
+it gives you a description of its condition like: "excellent", "bruised",
+"awful" - a very handy feature.
+
+Play around with the command, it's pretty self explanitory and there are
+*MANY* more options.
+
+See also:  TOGGLE
+#
+DONATE
+
+The Donate command removes an object you no longer want from your inventory
+and deposits the item in the Donation Room west of the Temple Of Vulmarta
+in Kore.  You can donate from any room in the game and there is no longer
+any chance of the item getting junked.  Donating is an easy way to assist
+new players.
+
+Examples:
+
+>donate longsword
+>donate all.bread
+>donate <number> coins
+
+See Also: JUNK, SACRIFICE, BURY
+#
+DRAGON
+
+	@@@@@@@@@@@@@@@@@@@@@**^^""~~"^@@^*@*@@**@@@@@@@@@
+	@@@@@@@@@@@@@*^^'"~   , - ' '; ,@@b. '  -e@@@@@@@@@
+	@@@@@@@@*^"~      . '     . ' ,@@@@(  e@*@@@@@@@@@@
+	@@@@@^~         .       .   ' @@@@@@, ~^@@@@@@@@@@@
+	@@@~ ,e**@@*e,  ,e**e, .    ' '@@@@@@e,  "*@@@@@'^@
+	@',e@@@@@@@@@@ e@@@@@@       ' '*@@@@@@    @@@'   0
+	@@@@@@@@@@@@@@@@@@@@@',e,     ;  ~^*^'    ;^~   ' 0
+	@@@@@@@@@@@@@@@^""^@@e@@@   .'           ,'   .'  @
+	@@@@@@@@@@@@@@'    '@@@@@ '         ,  ,e'  .    ;@
+	@@@@@@@@@@@@@' ,&&,  ^@*'     ,  .  i^"@e, ,e@e  @@
+	@@@@@@@@@@@@' ,@@@@,          ;  ,& !,,@@@e@@@@ e@@
+	@@@@@,~*@@*' ,@@@@@@e,   ',   e^~^@,   ~'@@@@@@,@@@
+	@@@@@@, ~" ,e@@@@@@@@@*e*@*  ,@e  @@""@e,,@@@@@@@@@
+	@@@@@@@@ee@@@@@@@@@@@@@@@" ,e@' ,e@' e@@@@@@@@@@@@@
+	@@@@@@@@@@@@@@@@@@@@@@@@" ,@" ,e@@e,,@@@@@@@@@@@@@@
+	@@@@@@@@@@@@@@@@@@@@@@@~ ,@@@,,0@@@@@@@@@@@@@@@@@@@
+	@@@@@@@@@@@@@@@@@@@@@@@@,,@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Dragons are a race of magical creatures.  They have the ability to use a 
+breath weapon, fly, can see in the dark, sense living things around them, 
+and are known to have tremendous strength.  Dragons are a powerful race, 
+and therefore are only available to PC's as a remort option.
+
+See Also: KNIGHT, REMORT, UNDEAD, ANGEL, THRI-KREEN, MONK
+# 
+DROP
+
+If you lose interest in a carried item, you can drop it on the ground.
+
+drop <item>
+drop all.<item>
+drop all
+drop <number> coins
+
+> drop bottle
+> drop all.bread
+> drop all
+> drop 1000 coins
+
+See also: GET, JUNK, DONATE
+#
+DROW DARK
+
+Drow are a race of underground dwelling elves. They hate surface elves,
+and many other races. They are strong in the arcane arts. They are quick, 
+but not very strong or hearty. They can see in the dark and resist magic.
+
+See Also: RACE
+#
+DRUIDS
+
+Druids are a sect of forest dwelling lore masters.  They are at one with
+nature and at home in the forest.  They possess both offensive and defensive 
+spells, though usually not as powerful as their mage or cleric counterparts.
+They also have the power to summon elementals, as well as unique spells
+not found in other classes.
+
+Here is a list of your spells at level 50:
+
+SPELLNAME		LEVEL	COST
+barkskin		1	20
+scrounge		1	n/a
+cure light		3	10
+faerie fire		4	10
+remove poison		5	50
+create food		9	5
+create spring		11	5
+sneak                   12      n/a
+cure serious		15	16
+waterwalk		17	25
+pass without trace	18	11
+mass fly		20	35
+acid blast		21	36
+hide			22	n/a
+refresh			22	20
+meditate		24	n/a
+stoneskin		25	32
+earth elemental		26	100
+track			26	n/a
+ice storm		30	50
+water elemental		32	150
+windwalk		33	50
+cure critic		35	22
+fist of earth		36	50
+summon			38	54
+air elemental		40	200
+fist of stone		41	50
+sunray			42	100
+mass refresh		43	38
+power word stun		45	46
+fire elemental		48	250
+fire storm		50	80
+
+See Also: CLASSES, SPELLS
+#
+DUALWIELD "DUAL WIELD"
+Warrior only
+
+Warriors level 25 and higher gains the ability to wield a second weapon in
+place of a shield.  The second weapon allows the warrior to have 50% more
+attacks per round, but requires more strength to wield than the primary
+weapon.
+
+See Also: WARRIOR
+#
+DUERGAR "DARK DWARF"
+
+Duergar are a race of dark dwarves, suited to living deep underground.  They
+are inherently evil and shun surface dwellers.
+
+See Also: RACE
+#
+DWARF DWARVES DWARVEN
+
+Dwarves are a short-statured race who dwell in the mountains. They are a
+strong and hearty race who loves the majestic primal beauty of the mountains
+(also the gold, silver, and gems within). They have knowledge that time can
+only bring since they are a long lived race. They are not very quick. Their
+harsh enviroment gives them very little time for personal beauty. 
+
+See Also: RACE
+#E 
+"SPELL EARTHQUAKE"
+Usage       : cast 'earthquake'
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for no damage 
+
+This spell will damage everybody except the caster by
+1d8+level_of_caster hitpoints.
+
+See Also: -
+#
+EAT DRINK SIP TASTE FOOD HUNGER THIRST
+If you're hungry or thirsty, these commands are for you!
+
+> eat bread
+> taste bread
+> drink from cup
+> sip fountain
+
+See Also: CREATE FOOD, CREATE WATER
+#
+ANGELS
+
+The angel embodies all that is holy.  These celestial beings are the agents of
+the gods of good, sometimes entering the world of men to enforce their deity's
+will.  They are rue to do this though as they surrender much of their power
+upon entering the mortal plane.  The angel does, however, retain some of its
+supernatural resistance to mortal magics.  They are also highly adept with both
+weapon and spell, rendering these holy beings extremely potent adversaries.
+
+See Also: REMORT, UNDEAD
+#
+ELF ELVES
+
+Elves are a woodland race and are quick and intuitive.  They have a 
+strong relationship with magic and are fierce when defending their homes 
+and forests. They are graceful. However, strength and stamina are not their
+main attributes.
+
+See Also: RACE
+#
+EMAIL E-MAIL
+
+If you supply a valid email address to Heroes of Kore, the immortals will
+be able to verify your identity in case you should forget your password. You
+can enter an email address via the main menu after you login. If you do not
+supply an email address, the immortals WILL NOT be able to help you if you
+forget your password.
+If you lose your password email the mud from the email you have supplied to
+kore@pro-usa.net
+
+See Also: - PASSWORDS
+# 
+EMOTE :
+
+Show people what you're feeling.  The shorthand is ":".
+
+"emote <string>" will display your name, then the string.  For example,
+if your name is "Quifael",
+
+> emote is feeling very sad today.
+
+will display:
+
+Quifael is feeling very sad today.
+
+See also: SOCIALS
+#
+"SPELL ENCHANT WEAPON"
+
+Usage       : cast 'enchant weapon' <weapon>
+Accumulative: No
+Duration    : Permanent
+
+This spell will enchant non-magical (non-modifying) weapons only.
+By non-modifying weapons we refer to weapons that might alter any
+ability such as for example damage. The only way to know if a weapon
+is suitable for enchantment is to fully identify it.
+
+The spell will modify the weapon depending on the level and int
+of the caster.  You'll have to find out exactly how yourself.
+
+See Also: ENCHANT ARMOR
+#
+"SPELL ENCHANT ARMOR"
+
+Usage       : cast 'enchant armor' <armor>
+Accumulative: No
+Duration    : Permanent
+
+This spell will enchant non-magical (non-modifying) armor only.
+By non-modifying armor we refer to armor that might alter any
+ability such as for example damage. The only way to know if a armor
+is suitable for enchantment is to fully identify it.
+
+The spell will modify the armor depending on the level and int
+of the caster.  You'll have to find out exactly how yourself.
+
+See Also: ENCHANT WEAPON
+
+#
+"SPELL ENERGY DRAIN"
+
+Usage       : cast 'energy drain' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 13 magic user.
+Save        : Versus spell for half damage.
+
+This spell does not give much damage, but victims failing their
+saving throws will loose up to 40,000 XP points. You will gain
+a quarter of this XP.
+
+Beware that this spell is evil.
+
+See Also: -
+#
+"SPELL ENERGY FLUX"
+
+Usage       : cast 'energy flux' victim
+Accumulative: -
+Duration    : Instantaneous
+Level       : Level 50 Magic user.
+
+This spell does not belong to any particular class and is
+most often found on potions and staves. It will rejuvinate
+nearly 200mana to the person used on.
+
+See Also: -
+#
+ENTER
+
+If you type 'enter' while you are outdoors, you'll enter any nearby shelter.
+You can also follow 'enter' with an argument; for example, 'enter window'.
+
+See Also: LEAVE 
+#
+EQUIPMENT
+
+Gives you a list of all the equipment you're wearing, holding, and wielding.
+
+See also: INVENTORY
+#
+EXAMINE
+
+May give you some valuable information about an item.
+
+See Also: LOOK
+#
+EXITS
+
+Gives you a list of the obvious exits from your location. Of course, the less
+obvious ones won't show up here - you have to THINK in order to locate those.
+
+See Also: -
+#
+EXPERIENCE XP
+
+Whenever you kill a monster or a player, you earn experience points. When
+enough experience points are earned, you raise a level.
+Things you should know about experience points:
+
+  * When damaging a monster, you get experience points.
+
+  * When killing a monster you get experience points.
+
+  * When grouped with someone, including a mob, experience is divded by 
+    level.  See help group for details.
+
+  NOTE: If you are 10 levels lower than the average level for your group,
+  you will gain only 1 exp per kill
+
+See Also: GROUP
+#
+"SPELL FAERIE FIRE"
+
+Usage       : cast 'faerie fire' <victim>
+Acculumative: No 
+Duration    : 1 hour
+
+This spell increases your victim's armor class, making him easier to
+hit. This spell conjures a ball of faerie so intense, that the victim
+is not aware of what the caster is doing.
+
+See Also: -
+#
+FAMOUS
+
+Make Me Famous - This will consist of mobs that don't belong. Meaning
+mobs you don't see on the mud everyday. Famous mobs and everyday pain
+in the ass mobs. Each one will have a ticket that is worth points. 
+Kill the mob get the ticket save for prizes. 
+
+Rules - 
+1) The mobs that have the orange tickets are for the low level players.
+   Level 25 and under. ANYONE with a orange ticket over level 25 will
+   be slayed. This is to give the lower levels a change to be involved
+   in the quest.
+2) Mobs will be placed randomly in the mud. You can not track them and
+   no I will not give you the names of them. You will have to go out
+   and find them. 
+3) Only one mob will have a red ticket that is worth 250 points.
+4) There will be no bitching and or complaining.
+5) Quest will run until all tickets are found or 11pm est which ever is
+   sooner.
+6) All tickets must be turned in by 11pm. If you have to leave etc it
+   is best you claim your prize prior to leaving.
+7) Top four prizes only one of each is available. Get your tickets
+   redeemed early.
+8) Above is subject to change at any time it deems fit.
+
+Tickets -
+red - 250pts    yellow - 50pts    blue - 40pts     green - 30pts 
+purple - 20pts      orange - 10pts
+
+  Points  Prize
+1) 400     blood leggings - (dam hit)
+2) 500     hematite ring - (mana wis int, svs hps) 
+3) 450     shoufa - (svp svr svp svb svs)
+4) 600     blade master gauntlets - (dex str mana hps hit dam)
+5) 250     thick leather belt (con)
+6) 200     jade ring (con)
+7) 300     pretitle
+8) 50      shiny token
+9) 30      gold token
+#
+"SPELL FEEBLEMIND"
+
+Usage       : cast 'feeblemind' <victim>
+Accumulative: No
+Duration    : 1 hour
+
+Reduces the intelligence of the victim.
+
+See Also: -
+#
+FILL
+
+If you want to fill a container you're holding with liquid from a fountain
+in the same room as you.
+
+> fill canteen fountain
+
+See also: POUR
+#
+"SPELL FIND FAMILIAR"
+
+Usage       : cast 'find familiar'
+Accumulative: -
+Duration    : Special
+
+This spell will call out and summon an animal to the caster.  The caster 
+is then able to bond with the animal and control its body.  Return to
+the original body by typing 'return'.
+
+See Also : MAGIC JAR, RETURN
+#
+"SPELL FIREBALL"
+
+Usage       : cast 'fireball' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than burning hands, and about as powerful as
+cone of cold.
+
+See Also: BURNING HANDS, CONE OF COLD 
+#
+"SPELL FIRE SHIELD" "SPELL FIRESHIELD"
+
+Usage       : cast 'fire shield'
+Accumulative: -
+Duration    : 3-6 rounds
+
+Fireshield surrounds the caster with a shield of protective fire.  Anyone
+trying to physically attack the caster will suffer damage back to themselves
+as a result.
+
+See Also:
+#
+"SPELL FIRE STORM"
+
+Usage       : cast 'fire storm' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Fire storm calls down a inferno of fire from the heavens, burning all
+nonfriendly mobs in the area.  It is the most powerful area affect
+spell for a druid.
+
+See Also: ICE STORM
+#
+"SPELL FIST OF EARTH"
+
+Usage       : cast 'fist of earth' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+This spells causes the ground to transform into a fist that crushes the
+victim mercilessly.
+
+See Also: FIST OF STONE
+#
+"SPELL FIST OF STONE"
+
+Usage       : cast 'fist of stone' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Fist of stone is a more powerful version of fist of earth.  Maybe because
+stone is harder than earth? :)
+
+See Also: FIST OF EARTH
+#
+FLAGS
+
+Players sometimes have FLAGS after their names in the WHO list.  These
+flags are always in parentheses, not brackets or braces.
+
+FLAG        MEANING
+----------- ---------------------------------------------------------
+(KILLER)    Player is trying to kill other players.  That means you
+	    can kill him/her without being flagged.  Killer never
+            hits a target.
+(THIEF)     Player is trying to steal from other players.  Fire away.
+(invis)     Player is invisible; you can see him/her because you are
+	    sensitive to the presence of invisible things.
+(writing)   Player is writing on the board; do not disturb.
+(mailing)   Player is writing mail; do not disturb.
+(deaf)	    Player has chosen not to hear shouts.
+(notell)    Player has chosen not to accept tells.
+(quest)     Player is participating in a quest currently being run by
+	    the Gods.
+(editing)   Immortal is building new areas with the online editor; do
+            not disturb.
+
+See also:  STEAL, VISIBLE, NOSHOUT, NOTELL, QUEST
+#
+FLEE
+If you are in a fight and things are beginning to get a little uncomfortable
+(maybe your are dying), just type 'flee', and presto! you are out of harm's way
+- that is, IF there is a suitable exit nearby, and IF that exit doesn't simply
+bring you from the ashes to the fire... but then, who wants to live forever?
+
+See Also: WIMPY 
+#
+"SPELL FLY"
+
+Usage       : cast 'fly' <victim>
+Accumulative: No
+Duration    : level/2 hours
+
+Causes the victim to start flying, allowing passage over water and travel at
+reduced cost to movement points.
+
+See Also: WATERWALK
+#
+FOLLOW
+
+Use FOLLOW to automatically follow someone else.  You may only follow
+someone who is within 10 levels of you.
+
+> follow ras
+> follow self
+
+See Also: GROUP
+#
+"SPELL FORGET"
+
+Usage       : cast 'forget' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Saving Throw: Versus spell for no effect
+
+You can cast forget on a mob to make it forget that you attacked it.
+
+See Also: -
+#
+FRENCH
+
+Don't you know how they kiss in France?? -- try it!
+
+See Also: SOCIALS
+#G
+"SPELL GATE ONE" "SPELL GATE TWO" "SPELL GATE THREE"
+
+Usage       : cast 'gate [one|two|three]'
+Accumulative: No
+Duration    : Instantaneous
+
+The three levels of gate, one, two and three, summon progressivly more
+powerful demons, from the lowly and cringing Vrock to the large, bold and
+fearless Glabrezu!
+A very powerful spell, but a word of caution: Clerics with low charisma may
+find that while the mob does come when called, it arrives Very Angry and
+completely out of control! And with the very mage that made it so angry
+right there in the same place as it!
+Beware! Infernal Powers are not mastered by the weak!
+
+See Also: -
+#
+GAUGE
+
+Thief skill, allows them gauge a mob's weaknesses and thus increase damroll.
+If failed the mob will sense the evil intention and attack.
+
+See Also: DAMROLL
+#
+GET TAKE
+If you find something interesting on the ground, you may use 'get' to pick
+it up.  'get' can also be used to extract items from containers.
+
+> get sword corpse
+> get all corpse
+> get all all.bag
+> get all.bread all.bag
+
+See Also: DROP, PUT
+#
+GIANT GIANTS
+
+Giants are a huge and powerful race. They resemble very tall and large 
+humans. They do not make friends easily, but once they have given their 
+friendship, they will never abandon a friend in need, no matter the danger.  
+They are very strong and very hearty race. However, they are not too
+intelligent and often lack common sense. Due to their size, they are somewhat
+slow. They can't see in the dark; they can often "feel" the presense of people
+behind them.
+
+See Also: RACE
+# 
+GIVE
+If you feel benevolent, you may give some stuff to someone in need.
+
+give <object> <victim>
+give <number> coins <victim>
+
+> give all ras
+> give bread onivel
+> give all.bronze romulus
+> give 400 coins aramina
+
+See Also: -
+#
+GNOMES
+
+Gnomes are a race of subterranean dwelling creatures.  They enjoy mining
+precious gems and working with stone.  They have the innate ability to see
+in the dark.  Their closeness with the earth and their dedicated work ethic
+allows them to make excellent clerics and mages.
+
+See Also : RACE
+#
+GAZE
+
+An undead skill where the undead attempt to gaze at a target for death.
+This is effective to varying degrees dependant on the mobs level.
+This may also have other affects on a mob other then death.
+
+See Also: UNDEAD
+#
+GRAB HOLD
+For getting a good grip on something; a torch, for example.
+
+> hold torch
+> grab stone
+
+See Also: WEAR, WIELD, EQUIPMENT, REMOVE
+#
+GRATS CONGRATS CONGRADULATIONS
+
+The grats channel lets you cheer on your friends!!
+ie:
+Superior congrats, 'Go Zippo!'
+
+See Also: -
+#
+GROUP
+
+Usage : GROUP <player>
+        GROUP all
+
+GROUP with no arguments shows the status of your group.  GROUP <player>
+adds or removes <player> from your group.  GROUP ALL adds everyone who is
+following you to your group.
+
+If you are a group member, then you will share experience points for killing
+monsters among the group. Experience points will only be shared among
+group members that are in the same location, at the time of the killing
+blow. Sharing is regardless of wherther the group members have been
+participating in the fight.
+
+When grouped experience is divided as follows:
+The levels of the people are added together to get a number.  The 
+experience gained from killing a mob is divided by the number of total 
+levels in the group to determine the value of one share of the 
+experience.  Then each group member receives one share per level.  So if 
+a level 5, a level 3, and a level 2 PC were grouped together and killed a 
+mob worth 1,000 exp, the 1,000 would be divided by 10 (the sum of levels 
+in the group 5+3+2) to equal 100.  So 100 is the value of each share.  
+Therefore the level 5 would get 500 pts. (5*100), the level 3 would get 
+300, and the level 2 would get 200.
+
+
+Group with no argument shows a list of people with whom you are grouped.
+"group all" groups all people who are following you.
+
+To make a group, a "leader" must be selected. All members of the group
+must then "follow" the leader using the follow command. The leader should
+NOT follow anyone at all! The leader can now toggle group membership for
+each player in the group, by using "group <player_name>". The leader
+should remember to include himself in the group.
+
+Example:
+
+Quifael and Redferne wishes to group with Dragon.
+
+Quifael : "follow dragon"
+Redferne: "follow dragon"
+(Dragon should be following no one but himself)
+Dragon  : "group dragon"
+Dragon  : "group redferne"
+Dragon  : "group quifael"
+
+Later when Dragon get upset at Quifael (because he is sleeping all the time)
+he types : "Group Quifael" to kick Quifael out of the group.
+
+See Also: XP, EXPERIENCE, UNGROUP
+#
+"SPELL GROUP HEAL"
+
+Usage       : cast 'group heal'
+Accumulative: -
+Duration    : Instantaneous
+
+Group Heal heals everyone in the same group (and room) of the caster. It
+heals just as much as the Heal spell does.
+
+SEE ALSO: HEAL
+#
+"SPELL GROUP RECALL"
+
+Usage       : cast 'group recall'
+Accumulative: -
+Duration    : Instantaneous
+
+Group Recall recalls every member of the casters group who occupy the room
+where the spell is cast if the caster is the leader of the group.  If the 
+caster is not the leader, only the members listed above the caster on the
+group list, and the caster, will recall.
+
+SEE ALSO: GROUP, RECALL 
+#
+"SPELL GROUP SANCTUARY"
+
+Usage       : cast 'group sanctuary'
+Accumulative:
+Duration    : 3 + level/10 hours
+
+Casts Sanctuary upon each member of the casters group.
+
+SEE ALSO: GROUP, SANCTUARY
+#
+GSAY GTELL
+
+Tell something to all the members of your group, even if they're not in the
+room.
+
+See Also: GROUP
+#H
+HALFELF HALF-ELF HALF
+
+Half-elves are a cross breed of elves and humans.  They are able to grow facial
+hair and have extended life spans.  Their elven features are unmistakable.  
+Half elves have good dexterity and their long lifespans permit them to be very
+studious.  They make fine warriors, mages, and thieves. 
+
+See Also: RACE
+#
+"SPELL HARM"
+
+Usage       : cast 'harm' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+By invoking the true name of his or her deity, a cleric can inflict
+serious physical damage on the victim.  It is one of the more powerful
+offensive spells in a cleric's arsenal.
+
+See Also: -
+#
+"SPELL HASTE"
+
+Usage       : cast 'haste' <victim>
+Accumulative: No
+Duration    : Varies
+
+Haste increases the recipients attack speed.
+
+See Also: INSTILL ENERGY, SLOW
+#
+"SPELL HEAL"
+
+Usage       : cast 'heal' <victim>
+Accumulative: No
+Duration    : Instantaneous
+
+Heal is a more powerful spell than Cure Light or Cure Critical. The 
+amount of damage heal can cure is dependent on the level of the caster,
+up to 204 hit points per heal by a level 50 cleric.
+
+See Also: -
+#
+HELP
+
+Following help is available:
+
+HELP help       - This text.
+HELP            - A list of some of the most useful commands.
+
+Help searches for a partial match of the entered word, including any
+spaces that may follow the word.
+
+Example:
+> 'help spell magic mis'
+    will find the help text for the magic missile spell.
+
+> 'help spell mag '
+   will not match anything.
+
+> 'help mag'
+   will match 'magic user'.
+
+See also: COMMANDS
+#
+HERO
+
+The hero flag on an item requires that the wearer be at least level 35 to
+use that item.
+
+See Also: VETERAN CHAMPION
+#
+HIDE
+
+Thieves Only.
+When you type hide there is a chance that you hide in the room. If hidden
+you can only be "sensed" by the "sense life" spell. Even if sensed your
+identity will remain hidden. Hide is broken by pressing return, regardless
+of wherther you typed a command or not.
+
+Example:
+
+> hide
+Ok.
+>  (you wait for ex. 5 mins and remain hidden for 5 mins)
+
+>  (You pressed enter and no longer hide)
+
+See Also: -
+#
+HITROLL
+
+Your hitroll is you bonus chance to hit with each melee strike.  The 
+hitroll is added to your roll to hit and then subtracts the opponent's AC 
+to see if you are successful.
+
+See Also : DAMROLL AC
+#
+"HIT POINT" HP
+
+Hit point is a measurement of your current health.  When hit point reaches
+zero, you die.  Fighters have excellent hit points; clerics, bards, and
+thieves have fair hit points; and mages are weak in hit points.  Hit points
+can be restored by sleeping, resting, or healing spells.  Warriors and
+thieves have the quickheal skill which enhances healing.
+
+See Also: MANA, MOVEMENT, DEATH, SLEEP, REST, HEAL, QUICKHEAL
+#
+HOBBIT 
+
+Hobbits are a small race who love creature comforts. They love good food,
+friends, and banter. They rather stay near their homes and live contently.
+The rare adventurers are considered strange and somewhat pitied. Due to their
+size and life style, they are not very strong, but however they are very
+quick and nimble. They can see in the dark; they move gracefully and quietly.
+
+See Also: RACE
+#
+"SPELL HOLY LIGHT"
+
+Usage       : cast 'holy light'
+Accumulative: No
+Duration    : Level based
+
+Holy light grants the powers of aid to all members of caster's group.
+
+See Also: AID
+#
+HOMEPAGE WEBPAGE
+
+Heroes of Kore webpage is located at :
+
+http://www.tiamats-lair.com/kore
+
+#
+HOUSES
+
+Houses will be sold by auction only. Their features change with each sale,
+so watch for those on the house auction board that will appear irregularly
+in the city of Kore.
+
+See Also: -
+#
+HOTLINE
+
+Welcome to the Immortal Hotline. If you wish to talk to a Immortal please
+listen carefully to the following directions. Then leave your message at
+the prompt.
+
+-If you have a nervous disorder, just fidget in front of the screen until
+ a Immortal becomes visable.
+
+-If you are obsessive-compulsive, press 7 repeatedly at the main meun.
+
+-If you are co-dependent, please ask someone to press 7 for you.
+
+-If you have multipe peronalities, press ctrl, alt, delete buttons.
+
+-If you are delusional, press the esc button and it will transfer you the
+ little people in zone 8.
+
+-If you are schizophrenic, listen carefully, and the voices will tell you
+ what buttons to press.
+
+-If you are paranoid, we know who you are. Stay online so we can finish
+ tracing your IP.
+
+-If you have amnesia, leave your char name, race, and class and password.
+
+BEEP
+#
+HUMAN
+
+Humans are the most common race.  They are well-rounded and able to be 
+any class.
+
+See Also: RACE
+#
+HYPER-REGEN
+
+This is a roomflag found in Kore that promotes mana regeneration and hps
+regeneration.
+
+See Also: -
+#I
+"SPELL ICE STORM"
+
+Usage       : cast 'ice storm' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Ice storm calls forth a meteoric shower of hail to strike all nonfriendly
+mobs in the area.
+
+See Also: FIRE STORM
+#
+IMMORTALS
+
+Immortals are people who assist the implementors in running the mud. They
+build areas, interact with players, and come up with ideas to improve the
+mud. They're also known to read the boards and complain a lot for no good
+reason.
+
+See Also: IMPLEMENTORS
+# 
+IMPLEMENTORS
+
+The implementors of Kore are Culvan, Karn, Kasmir and Zirnozz. They 
+are assisted by a host of immortals, all of whom are important. You should
+know though, if you really want to change the game, it helps to know how to 
+suck up to the imps.
+
+^GCulvan^n: likes anything that makes the code simpler and things that make life
+easier to administrate.
+^GKarn^n: like the immlist says (or at least it used to), he breaks things.
+^GKasmir^n: likes tricky mobs that hit hard but also awards the player with
+great equipment.
+^GZirnozz^n: likes tricky mobs that hit hard but only laughs when the players
+die repeatedly.
+
+See Also: IMMORTALS, WIZLIST
+#
+"SPELL IDENTIFY"
+
+Usage       : cast 'identify' [object]
+Accumulative: No
+Duration    : Instantaneous
+
+Identify gives information on an object, like what a potion when drunk will
+do, or what is contained on a scroll.
+
+See Also: -
+#
+NEWS POLICY CREDITS VERSION
+
+These commands show you important information about CircleMUD. It is a good
+idea to read them every once in a while.
+
+info     - useful information about the game for beginners
+news     - latest changes to the code and areas
+policy   - policies on topics like playerkilling
+credits  - the people who made CircleMUD possible!
+version  - displays the current CircleMUD version number
+
+See Also: -
+#
+INFORMATION INFO
+There is a wealth of commands that can be used to find out more about the
+world:
+
+SCORE        Shows much info about your character
+AFFECT       Shows the spells affecting your character
+WHERE        Shows players in the current area
+WHO          Shows all players in the game
+TIME         Shows the MUD time
+WEATHER      Shows the weather
+
+POLICY       Shows the current MUD policy/rules
+
+COMMANDS     Lists all available commands
+SOCIALS      Lists all available socials
+LEVELS       Lists the levels of your class and their titles
+AREAS        Lists all open game areas
+WIZLIST      Shows a list of administrators of this MUD
+IMMLIST      Shows a list of all immortals and their duties
+CHANGES      Shows a list of current code changes
+AREAHELP     Displays information on documented areas
+CLANHELP     Displays much information on various clan-related topics
+
+^BNOTE: to get help on a spell, prefix it with "spell" (e.g. HELP SPELL
+CHILL TOUCH)^n
+
+See also: RACES, REMORT
+#
+"SPELL INFRAVISION"
+
+Usage       : cast 'infravision' <victim> 
+Accumulative: No
+Duration    : 12 hours plus level
+
+Allows the caster to see as if they had a light source.
+
+See Also: -
+#
+INN INNS CRYOGENIC CRYO RECEPTION RECEPTIONIST CRYOGENICIST
+Inns are places where the weary traveler may rest while the innkeeper looks
+after his equipment and treasure.
+#
+"SPELL INSECT PLAGUE"
+Usage       : cast 'insect plague'
+Accumulative: No
+Duration    : -
+
+Insect plague summons a swarm of nasty bugs that movee to the caster's will.
+They act as if they were one unified creature in terms of combat and death.
+
+See Also: -
+#
+"SPELL INSPIRE"
+Usage       : cast 'inspire' <victim>
+Accumulative: Yes
+Duration    : -
+
+Inspire increases damroll of the inspired, allowing for harder hits.
+The higher the level of the caster, the greater the effect of inspire.
+
+See Also: BATTLE HYMN
+#
+"SPELL INSTILL ENERGY"
+
+Usage       : cast 'instill energy'
+Accumulative: No
+Duration    : Level based
+
+Instill energy grants the powers of haste to the caster's entire group.
+
+See Also: HASTE 
+#
+INSTRUMENT MUSIC
+
+Bards have to wield their instrument in order to cast spells.
+
+See Also: BARDS
+#
+INVENTORY
+
+If you're uncertain about what you're carrying, or simply want to check
+that no thieves have got to your backpack.
+
+See also: EQUIPMENT
+#
+"SPELL INVISIBLE STALKER"
+Usage       : cast 'invisible stalker'
+Accumulative: No
+Duration    : -
+
+Invisible stalker summons an invisible servant to do your bidding. Because
+you can't see the servant to give it orders (normally) you will have to make
+sure that you can see invisible in order to command the servant properly.
+
+See Also: -
+#
+"SPELL INVISIBILITY"
+
+Usage       : cast 'invisibility' <victim | object>
+Accumulative: No
+Duration    : 24 hours, permanent on objects.
+
+Self Explanatory.
+Attacking while invisible will immediately break the spell.
+
+See Also: DETECT INVISIBILITY
+#J
+JUDGE
+
+Usage       : judge <armor | weapon>
+
+Allows warriors to judge armor and weapons.
+
+See Also: COMPARE
+#
+JUNK
+
+Use JUNK instead of DROP if you want to keep the world a little cleaner.  If
+you JUNK something, it will disappear and you'll get a few coins or experience
+points, just as if you had dropped it in the dump.
+
+donate <object>
+donate <number> coins
+
+> junk cup
+> junk all.bronze
+> junk 500 coins
+
+See also: DROP, DONATE
+#K
+KEYS
+
+Keys are used to lock doors, chests, and othersuchlike objects. Most of the
+time the locks that the keys lock can be picked by a thief. Other times 
+though, the lock is pickproof and only the key can open it. 
+Keys are used to help keep areas behind doors more easily accessed by thieves,
+sometimes though, it might be easier to steal a key from the inventory of a
+mob. Other times, clever mobs will hold the key, or hold a bag with a key
+in it (arg! you can't steal from held!)
+Most keys are no-rent and have some sort of limit on the number allowed in
+the game. If you can't find a key to an area, you might ask on the gossip
+channel if someone has it. Chances are its out there... you might try
+the spell 'locate object' to find the key too. Mostly, keys that open a 
+locked door are found in the same zone the door they open is in. Unfortunately,
+there's no way to tell, short of long experience on the mud, what door a 
+given key opens.... you'll just have to try them all.
+
+See also: THIEF, PICK, LOCKS, STEAL, LOCATE OBJECT
+#
+KICK
+
+Fighters and Bards only.
+The success of a kick depends upon how well you are learned. The higher
+level you reach the harder you kick. There is one small catch -- whenever
+you kick (or miss) you will be unable to type any command for three 
+rounds of 'Violence' -- so be sure that you do not need to flee!
+
+See Also: RESCUE, BASH
+#
+KILL HIT
+A good way to start a fight. Not a good idea to hit other players.
+
+See Also: MURDER 
+#
+KING
+
+King of the Ring (battle ring) is a four level maze. At the end of each
+maze is a crystal gateway you enter it to get to the next level. On the
+fourth and last level is the gateway to King of the Ring, first clan to
+have a person to get there wins.
+
+Here is the rules of do's and don't for tonights King of the Ring quest.
+Any question not answered here ask an immortal.
+
+Do's
+
+- Clan members may group
+- You may be summoned back into the arena after death. You may not be
+  summoned back to a level higher then what you was on. If no one is left
+  alive in your clan will be transes you back to the arena, however you
+  will have to restart at level one of the battle arena.
+- You can kill other clans to keep them from reaching the top.
+- You may use different chars as long as they are in the same clan and
+  not logged in at same time. It will be ok to summon them into the arena
+  as long as it is not to a higher level then what the other char was on.
+- You may heal and spellup your clannies.
+  
+Don't
+
+- Do not sleep people in the arena.
+- You are not allowed to play for more then one clan.
+- No bitchin is allowed. You will die.
+- No track bot's are allowed. FYI rooms are !track.
+- DO NOT recall anyone unless they are in YOUR clan.
+- Unless they are in your clan DO NOT summon others back into arena.
+- DO NOT summon others from within the arena that includes your own
+  clannies. IE - You are on level 4 a clannie is on level 3. Don't
+  summon him or don't summon blah from another clan to PK him.
+- DO NOT USE relocate.
+
+Tip's
+
+- Good idea to remove all death junk eq.
+- Good idea to remove all clan eq.
+- If you die you will lose exp and may delevel. Die alot you
+  will lose levels.
+- If you are summoned back into the arena and you start over you will
+  receive a full restore.
+
+Prize will be determined by the turnout of clans/people etc..
+
+Anyone who is not in a clan may join in, however you will be on your own.
+No one is to help you and you are not allowed to help any one clan. This
+is a clan event and unless you are in a clan there will be no prize if
+you win.
+
+Anyone caught breaking any of these rules or finding something else not
+mentioned above that is wrong will have to deal with me. If you have to
+think if something is wrong. It is.
+
+#
+KISS
+Well can't you guess?
+
+See Also: SOCIALS
+#
+KNIGHTS
+
+Knights are warriors who have completed a long and difficult training
+to become truly powerful beings.  They possess superb attacks, massive hit
+points, and the ability to heal themselves and others.  They are available
+to players only as a remort option and are currently unavailable.
+
+See Also: DRAGONS, REMORT, UNDEAD, ANGEL, THRI-KREEN
+#
+"SPELL KNOCK"
+Usage       : cast 'knock'
+Accumulative: No
+Duration    : lasts until reset
+
+Knock is a powerful spell that allows mages to magically unlock all of the
+doors around them. *click*!!
+
+See Also: WIZARD LOCK
+#
+KORE
+
+Kore is a mythical place in the middle of the great continent of Arda. All
+around its edges, Kore is ringed by cities and hemmed in by danger. A Tyrant
+now rules Kore with an iron fist, having replaced and erased the memory of
+the previous king of Kore.
+
+#L
+LANGUAGE
+
+Each race except human speaks its own language, and also common.
+
+See Also: SPEAK
+#
+LAUGH
+
+No one is allowed to laugh without the express permission by an 
+Implementor.
+
+See Also: LAUGH2
+#
+LAUGH2
+
+The LAUGH helpfile is a joke, don't get too pissy with us. :P
+
+See Also:  TWINK, BARNEY, RENANDSTIMPY
+#
+LEAVE
+
+If you feel claustrophobic, typing 'leave' will make you use the nearest
+obvious exit to the outside.
+
+See Also: ENTER
+#
+LEVELS
+
+Lists the levels of your class.  See those cool titles!
+
+See Also: -
+#
+"SPELL LIGHTNING BOLT"
+
+Usage       : cast 'lightning bolt' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the color spray spell.
+
+See Also: COLOR SPRAY 
+#
+LINK
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+ I. If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you
+    will be saved by divine forces, and put in a safe place until you
+    reconnect to the game.
+
+II. If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+    Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully
+    cut your link.
+
+See Also: WIMPY
+#
+LIST
+
+If you'd like to see what items a shop has for sale, take a look at the
+list.  The list contains all of the items currently for sale and in
+what quantity.  The price for each item is also listed.  If you are
+interested in a particular type of item, you can specify which items to
+list.
+ 
+Examples:
+ 
+> list             (list all items for sale)
+> list sword       (list all swords for sale)
+ 
+See Also: SHOPS, BUY, SELL, VALUE
+#
+LISTEN
+
+This is a social.
+
+BUT, some mobs react when they know that you're listening to them!
+
+See Also: CHAT
+#
+"SPELL LOCATE OBJECT"
+Usage       : cast 'locate object' <object>
+Accumulative: -
+Duration    : Instantaneous
+
+If possible you will know exactly where an object is, or the
+name of the person using it. If more than one object by the
+same name exists, you will get a listing of several objects.
+The maximum number of objects you can simultaneously locate is
+your level divided by 2.
+
+See Also: -
+#
+LOOK
+For studying your surroundings. Examples:
+look                                      
+look AT the angel
+look IN the bag
+look to the south   (or just: look south)
+
+Note that if you LOOK AT CORPSE you will not see its inventory.
+To see what's inside a container (i.e. a corpse) use LOOK IN <OBJECT>.
+
+See Also: EXAMINE, READ
+#M
+"SPELL MAGIC JAR"
+
+Usage       : cast 'magic jar' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Magic Jar is similar to Charm Person, but more sophisticated and powerful.
+Mages who succesfully cast Magic Jar enter and control the mob from within
+while their original bodies remain out of harm's way and autoflee if attacked.
+Mages return to their original bodies when the mob they've jarred dies,
+or by typing return.  Magic Jar is ineffective against mobs protected by
+sanctuary.  Mobs of a sufficiently high level are immune to the spell.
+
+See Also: FIND FAMILIAR, POLICY, RETURN, SANCTUARY 
+#
+"SPELL MAGIC MISSILE"
+Usage       : cast 'magic missile' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This is the least powerful offensive magic user spell.
+
+See Also: -
+#
+"MAGIC USER" WIZARD MAGES "MAGIC-USER"
+This is the class of powerful and violent magic, with spells that directly
+affect the outside world, usually in the form of offensive magic that
+strikes against an enemy.  Mages also possess many spells that extend their
+senses magically.  Unfortunately, mages are not masters of the inner magic
+and therefore cannot bless, aid, or heal themselves.
+
+Here is a list of your spells at level 50:
+
+SPELLNAME		LEVEL	COST
+continual light		1	5
+magic missile		1	10
+armor			2	10
+clairvoyance		2	20
+aerial servant		3	30
+burning hands		4	15
+faerie fire		4	10
+find familiar		5	40
+detect magic		6	10
+invisibility		6	30
+feeblemind		7	10
+detect invisibility	8	15
+sense life		8	20
+strength		9	25
+meditate		10	n/a
+pass without trace	12	10
+shocking grasp		12	15
+locate object		13	30
+animate dead		15	51
+waterwalk		15	25
+chill touch		16	16
+wizard lock		17	50
+teleport		18	25
+sleep			19	25
+energy drain		20	25
+mass invis		20	41
+monster summoning one	20	50
+identify		21	25
+invisible stalker	22	50
+infravision		23	25
+forget			24	21
+fly			25	21
+color spray		26	21
+blindness		27	26
+mana shell		28	125
+curse			29	30
+enchant armor		30	77
+cone of cold		31	50
+conjure elemental	32	102
+monster summoning two	32	100
+lightning bolt		34	50
+haste			35	75
+fireball		36	50
+web			37	25
+dispel magic		38	50
+enchant weapon		38	150
+monster summoning three	39	150
+chain lightning		40	50
+disintegrate		42	60
+fireshield              43      100
+petrify			45	100
+knock                   46      80
+magic jar		48	200
+word of death		48	100
+relocate		49	50
+instill energy		50	200
+
+See Also: CLASSES, SPELLS 
+#
+SEND MAIL CHECK RECEIVE
+
+The commands used by the Kore Mail System (KMS) are MAIL, CHECK, and
+RECEIVE.  These commands can only be used while in an Official MMS Post
+Office.
+
+To write mail to Quifael:
+> mail quifael
+
+To check and see if you have any mail waiting:
+> check
+
+To ask the Postmaser to give you your mail, if you have any waiting:
+> receive
+
+Stamps cost 150 coins.
+
+See Also: -
+#
+"SPELL MANA SHELL"
+
+Usage       : cast 'mana shell'
+Accumulative: No
+Duration    : 6 rounds
+
+Mana shell is one of the more powerful spells any mage can use.  It is one
+of the rare defensive spells employed by magic users.  By channeling the
+One Power in a shield surrounding himself, a mage can actually cause it
+to absorb damage.  The effort is tiresome, and the damage absorbed will
+directly impact the mage's ability to continue to channel.
+
+See Also:
+#
+MANA MP
+
+Mana is a measurement of spell power that you currently have. Mana is only
+meaningful for spellcasters obviously. Higher level mages have more mana, but
+they also have spells that cost more mana. Mana slowly regenerates as time
+passes and regenerates faster if the caster rests and is well fed.
+
+See Also: HIT POINT, MOVEMENT, SPELL  
+#
+MINOTAUR MINOTAURS
+
+Minotaurs are a powerful race of half-man and half-bull. They are brutally
+strong and hearty, but they lack foresight and vision. Due to their horrid
+appearance, they are not easily welcomed in the human dominated world.
+They can see in the dark; they can sense creatures around them.
+
+See Also: RACE
+#
+"SPELL MASS FLY"
+
+Usage       : cast 'mass fly'
+Accumulative: No
+Duration    : Level based
+
+Casts the spell Fly on the entire group, providing they're in the same
+room of the caster.
+
+See Also: FLY
+#
+"SPELL MASS INVIS"
+Usage       : cast 'mass invis'
+Accumulative: No
+Duration    : Level based
+
+Renders an entire group invisible.
+
+See Also: INVISIBILITY
+#
+"SPELL MASS REFRESH"
+
+Usage       : cast 'mass refresh'
+Accumulative: -
+Duration    : Instantaneous
+
+Casts refresh on an entire group.
+
+See Also: REFRESH
+#
+MEDITATE
+
+Meditate increases the amount of mana clerics and mages regenerate each tick.
+Meditate is automatically implemented by the game.  Player must be 
+resting to meditate.
+
+See Also: REST 
+#
+"SPELL MIRROR IMAGE"
+
+Usage       : cast 'mirror image'
+Accumulative: No (see below)
+Duration    : Lasts until dispelled by blows in combat (see below)
+
+Mirror image summons between 6 to 10 images of the spell caster. Each image
+will absorb one blow in combat before it is dispelled. A caster can cast the
+spell again when they already have images in order to replace the number of
+images they have with perhaps a higher number.
+
+See Also: -
+# 
+"SPELL MONSTER SUMMONING ONE" "SPELL MONSTER SUMMONING TWO" "SPELL MONSTER SUMMONING THREE"
+
+Usage       : cast 'monster summoning <one|two|three>'
+Accumulative: No
+Duration    : Instantaneous
+
+These spells summon a goblin, an ogre and a minotaur respectively, to fight
+for you as a servant. They can be equipped and healed and make great
+fighting machines. Don't abandon them though! They hate that!
+
+See Also: -
+#
+MOTD
+
+The motd command allows you to reread the message of the day (the same
+message on the connection menu... didn't you read?)
+
+See Also: -
+#
+MOVEMENT MOVE MOVING
+The following commands are used to travel around in the game:
+N, NE, NW, E, S, SE, SW, W, U, D: Lets you move in that direction
+
+LOOK     Essential for examining your surroundings
+SCAN     For quickly looking into surrounding rooms
+SEARCH   Search your room for hidden items
+
+OPEN/CLOSE:  Opens a door or a container
+LOCK/UNLOCK: Locks a door or a container. Requires a key
+ENTER/LEAVE: Enter doors, portals, etc.
+
+VIS      Become visible, cancelling effects of sneak, hide, invisbility
+         etc.
+EXITS    Shows you where the exits in the current room lead to
+RENT     For use in the receptions of inns. When you re-enter, you will 
+         start where you rented
+
+STAND    Lets you wake up and stand up
+REST     Lets you sit down; resting characters regenerate faster
+SLEEP    Lets you sleep; you regenerate even faster, but have no vision
+WAKE     Lets you wake up (or wake another character)
+
+See also: -
+#
+MV
+
+Movement measures your endurance in terms of the distance you can travel
+before having to rest.  When movement reaches zero, you can no longer
+move; if you are attacked without enough movement, you cannot flee.
+Different terrains reduce movement points by different amount.  The spell
+"Fly" enables the player to move at a reduced cost to movement points.
+
+See Also: HIT POINT, MANA, FLEE, FLY
+#
+MULTIPLAYING
+
+No multiplaying. You may have multiple characters here, but they are to
+have no interaction with one another.  This includes dropping link with
+one character to log in another character. This also includes using one
+character to weaken a mob and logging in another character to kill it for
+the exp or items.  The ONLY people allowed to use two characters at the
+same time are Gods (level 58 and above). All others will be warned, dis-
+connected, frozen, or sitebanned, depending on the circumstances.
+#
+MURDER
+
+Kill command to hit another player.  To avoid accidental flagging (i.e.
+trying to type "kiss redferne" but accidentally typing "kill redferne")
+Note that it is illegal to kill other players.  If you try you will get
+a KILLER flag.  If you are flagged as a killer, you are unable to do
+damage and other players will be allowed to use the MURDER command to
+kill you without being flagged themselves.
+
+See also:  FLAGS, FORGIVE
+#N
+NAMES
+When choosing a name, please try to choose one which is both medieval
+and unique.  Good names help add to gameplay and will allow you to forge
+an identity for yourself.  Simply put, your name should NOT be:
+
+ - Nonsensical, unpronounceable or ridiculous.
+ - Profane or derogatory as interpreted in any language.
+ - Futuristic or common, such as 'Jill' or 'Laser'.
+ - Similar to that of any Heroes of Kore Immortal, major mob, or equipment.
+ - Significant in history, mythology, or any religion.
+ - Comprised of various capital letters, such as 'BrACkkA' or 'CORTO'.
+ - Comprised of ranks or titles, such as 'Lord' or 'Master'.
+ - Composed of singular descriptive nouns, adverbs or adjectives,
+   as in 'Heart', 'Big', 'Flying', 'Broken', 'Slick' or 'Tricky'.
+ - Any of the above in reverse, i.e., writing Jade as 'Edaj'.
+ - Any combination of singular descriptive nouns/adverbs or adjectives,
+   as in 'Metaljacket Heartbound Earthstone or Softheart'.
+
+If caught with a name similar to the one above, you will most likely have
+your character frozen.  There is a reason we ask you when you first create
+a character, and if you don't take the warning seriously, expect the
+consequences.
+
+See also:  POLICY
+#
+NEWBIES
+
+Admittedly, newbies have it rough in Kore. 
+Look for equipment flagged newbie in Kore, they are only usable by players
+level 15 and under.
+
+A few hints and tips for the newbie.
+
+^GNewbie Training^n - 
+   go 3 south 1 west 1 down from Temple of the Goddess of Vulmarta.
+^GRenting^n -
+   go 1 south 1 east up from Temple of the Goddess of Vulmarta.
+^GFood^n -
+   go 5 south 2 east 1 north from Temple of the Goddess of Vulmarta.
+^GBoards (social, trade)^n -
+   go 1 north 1 east from Temple of the Goddess of Vulmarta.
+^GQuesting^n -
+   go 1 north 1 west from Temple of the Goddess of Vulmarta.
+^GDonation Room^n -
+   go 1 west from Temple of the Goddess of Vulmarta.
+^GJitter Park^n -
+   go 5 south 6 east 1 north 1 northeast from the Goddess of Vulmarta
+
+^GWear commands for eq^n -
+  wear, hold, wield
+
+Make sure you read the help names file. You will be asked to make a new
+char if your name does not follow the help file. Also no levels will
+be given back if we don't catch the name right away.
+
+See also:  AREAS, TWINK
+#
+NO
+
+Means no No NO nO no. Never ever NO!!!!!!!!!!!!!!
+
+#
+NOREPEAT
+
+This command toggles whether or not you see your communication echoed
+back to you (i.e., from commands such as SAY, SHOUT, GOSSIP, etc.)
+Useful if you have a slow connection or if it just annoys you.
+
+See Also: SAY, GSAY, TELL, SHOUT, HOLLER
+#
+NORTH SOUTH EAST WEST UP DOWN
+To walk in a given direction.
+
+See Also: -
+#
+NOSHOUT
+
+NOSHOUT toggles whether or not you hear shouts.  (deaf) will appear after
+your name in the WHO list.
+
+See also: FLAGS, SHOUT, WHO
+#
+NOSUMMON
+Due to problems we've had with players killing other players by summoning
+them to Bad Places, all characters now have SUMMON PROTECTION turned on by
+default.  This prevents people from summoning you and gives you a warning
+message if someone tries.  If you want to let someone summon you (i.e. if
+someone wants to summon you for a legitamate reason), type NOSUMMON to turn
+off summon protection.  You can then type NOSUMMON again to turn protection
+back on.
+
+See Also: TOGGLE
+#
+NOTELL
+
+Use NOTELL if you wish to prevent other players from using "tell" to
+communicate with you.  (notell) will appear after your name in the WHO
+list if you have notell on.
+
+See Also: FLAGS, TELL, WHO, TOGGLE
+#O
+OBJECTS
+Following commands are used to manipulate objects:
+
+GET       Pick up something or take it out of a container
+DROP      Drops an item
+GIVE      Give gold or objects away
+DONATE    Donates an item to the Temple Donation Room
+JUNK      Recycle your items!
+WEAR      Wear an item
+HOLD      Hold an item. Wands and staves require holding to be used
+REMOVE    Removes items from your person
+SAC       Sacrifice a corpse on the ground
+
+Using objects:
+
+EAT/TASTE Eats some food
+DRINK/SIP Drinks some liquid, preferrably not rotten
+FILL      Fills a container with liquid
+QUAFF     Drinks a magical potion
+USE       Use a magical device
+RECITE    Reads a magical scroll
+POUR      Fills/empties liquid containers
+
+Buying:
+
+LIST     Shows what items a shopkeeper has for sale
+VALUE    Makes the shopkeeper tell you what he'd give for an item
+SELL     Sells an item to a shopkeeper. Not all shopkeepers buy anything.
+BUY      Buys an item from a shopkeeper
+AUCTION  Auctions an item off. Reaches everyone
+
+See also: STAFFS, WANDS, SCROLLS, POTIONS
+#
+ORC ORCS
+
+Orcs are a crude and vile race where only the strong survive and control the
+weak. They are strong and hearty, but they are not so bright. They have
+a particular hatred for elves and dwarves. They can see in the dark.
+
+See Also: RACE
+#
+RENT
+
+For use in the receptions of inns.
+When you re-enter, you will start where you rented.
+
+See also: INNS
+#
+OPEN CLOSE LOCK UNLOCK
+
+To open, close, lock, and unlock doors, of course.
+
+<open | close | lock | unlock> <door> [direction]
+
+> open portal
+> lock door
+> unlock door south
+> close gate
+
+See Also: -
+#
+ORDER
+
+Used for ordering pets and charmed people to do your evil bidding.  You
+can order everyone under your command with "order followers".
+
+order <character> <command>
+order followers <command>
+
+> order puppy eat bread
+> o fol worship striker
+
+See Also: CHARM
+#P
+PAGE
+
+Page is a lot like tell but it also beeps the paged person, maybe that'll
+get their attention!
+
+See Also: TELL
+#
+PALM
+
+Palm allows a thief to take an object without others in the room noticing.
+
+See Also: -
+#
+"SPELL PASS WITHOUT TRACE"
+
+Usage       : cast 'pass without trace' <victim>
+Accumulative: No
+Duration    : Level based
+
+This spell renders the victim untrackable.
+
+See Also: -
+#
+PASSWORDS
+
+If you lose your password you must email the mud from the email that you
+have onfile here. (Help email) If you do not have a email onfile and you
+lose your password you will not get it changed. Log your email on all of
+your chars. 
+As always it is not a good idea to SHARE passwords with ANYONE. If you do
+share your passwords and the other person gets your char frozen, mute, etc 
+We will not listen to why it is your char and it should not be frozen etc
+If you continue with the whys you will also be muted and or frozen. 
+DON'T SHARE PASSWORDS!
+
+See Also: - EMAIL
+#
+PEEK
+
+One of the advantages of being a thief is that you can automatically peek
+into the inventories of people to look for things to steal.  The skill is
+automatic.
+
+See Also: -
+#
+"SPELL PETRIFICATION"
+
+Usage       : cast 'petrify' <victim>
+Accumulation: -
+Duration    : Instantaneous
+
+Petrify is an extremely powerful offensive spell shared by clerics and 
+mages.  The spell can turn a victim into stone.  The full extent of harm 
+caused by turning one into stone is not yet known.
+
+See Also : SPELLS
+#
+PICK "PICK LOCKS"
+
+Thieves only.
+For picking locks.  Not all locks can be picked.
+
+pick <door>
+
+> pick door
+> pick safe
+
+See Also : OPEN, CLOSE, LOCK, UNLOCK
+#
+"PLAYER KILLING" PKING PLAYERKILLING
+
+This isn't a PK-mud, so playerkilling is not within the Rules. It's still
+possible but not really accepted. Eventually the mud will have wars
+and Chaos hours, but for now, PKing is not cool. We have implemented
+a system of chaos arenas and deathmatch modes that allow pk on the mud
+see and immortal for information.
+
+See Also: POLICIES
+#
+"SPELL POISON"
+
+Usage       : cast 'poison' <victim | food | drink>
+Accumulative: Yes on persons.
+Duration    : 2*level hours, or permanent on food and drinks.
+
+Casting poison on food or drink (containers) will poison it.
+Eating poisoned food/drinks will poison the person eating or
+drinking.
+
+A person who is poisoned will suffer 3 times their level in damage every
+hour, and gain less points than usual!!  POISON IN KORE IS DEADLY!!!
+
+See Also: REMOVE POISON
+#
+POOFOUT POOFIN
+
+When you get the spells relocate (mage, cleric and bard) or windwalk
+(druid) you can set your poofin/out for different messages.
+
+Usage: POOFIN HAS ARRIVED
+       POOFOUT HAS LEFT THE BUILDING
+#
+POUR
+
+Pour pours liquid from one container to another, or empties the conainter.
+
+> pour canteen cup
+> pour barrel out
+
+See Also: FILL
+#
+"SPELL POWER WORD STUN"
+
+Usage       : cast 'power word stun' [victim]
+Accumulative: -
+Duration    : Instantaneous
+
+If successful, power word of stun will cause the victim to fall down and
+be stunned.  He or she is then extremely vulnerable to attack, and any
+type of attack will do extra damage.  It is good for only one hit, however.
+
+See Also: -
+#
+"SPELL PRAYER"
+
+Usage       : cast 'prayer'
+Accumulative: No
+Duration    : Level based
+
+Prayer grants the powers of bless to all members of caster's group.
+
+See Also: BLESS 
+#
+"SPELL PROTECTION FROM EVIL"
+
+Usage       : cast 'protection from evil'
+Accumulative: No
+Duration    : 24 hours
+
+If your target is evil you take 4/5 of normal damage.
+But if you are evil, and the person you are fighting isnt, it
+works in reverse and you take 5/4 normal damage.  
+
+See Also: PROTECTION FROM GOOD
+#
+"SPELL PROTECTION FROM GOOD"
+
+Usage       : cast 'protection from good'
+Accumulative: No
+Duration    : 24 hours
+
+If your target is good you take 4/5 of normal damage.
+But if you are good, and the person you are fighting isnt, it
+works in reverse and you take 5/4 normal damage.
+
+See Also: PROTECTION FROM EVIL 
+#
+PURGE PURGING
+
+Purging is one of the most drastic steps an Immortal may take to
+discipline a player.  The act of purging junks all of a character's
+equipment and inventory, as well as all carried gold.  To be purged
+is a serious matter, and not to be taken lightly.
+#
+PUT
+
+For putting items into containers.
+
+> put bread bag
+> put all.bread bag
+> put all chest
+
+See also: GET
+#Q
+QSAY
+
+To tell something to everyone on the current Quest.
+
+See also: QUEST
+#
+QUAFF POTION POTIONS
+
+Use : Quaff <Potion>
+
+Quaff is used to "drink" a (magical) potion.
+#
+QUEST
+
+This simple toggle command merely informs the Powers that Be that you
+wish to particpate in the currently running Quest.  If an immortal
+is running a Quest and needs to know who wishes to participate, he/she
+will ask players to turn on their Quest flags using this QUEST command
+if they are interested in the Quest.  It also allows you to listen in on
+the quest channel and receive information specific to the quest.
+
+> quest
+
+See Also:  QSAY, TOKENS
+#
+QUICKDRAW
+
+Warrior skill.  An automatic skill: whenever an aggressive mob tries to 
+attack you, you will wake up, stand and wield a weapon (if you can) and
+hit the mobile before it hits you!  You can also type quickdraw while
+sleeping to make yourself wake, stand, and draw a weapon.
+
+See Also: WARRIOR
+#
+QUICKHEAL
+
+Quickheal awards thieves and warriors an additional 3 hitpoints per level
+each tick.  Players must be asleep to benefit this skill.
+
+See Also: -
+#
+QUIT
+
+If you have no equipment and wants to leave the mud immediately, quit is
+the command to go.  To prevent accidents, if you have equipment, you can 
+leave the game only by renting.
+
+See Also: INN, RENT
+#
+QUOTES
+
+Think about what you say, else you might end up here. You see, we will ALWAYS
+have the last laugh.
+*laugh*
+See?
+
+Idea: Zeroneus (Apr 14) take off aggro on mobs... They keep killing me
+^m--^n
+Tanis gossips, 'I once saw a guy shove 37 grapes into his mouth without
+chewing or squishing any of them... That was truly the most amazing thing
+I've ever seen'
+Tanis gossips, 'Until KORE came along of course..'
+^m--^n
+Juno says, 'there is such a thing as too long, despite what you pig males
+think'
+^m--^n
+[ (GC) Zirnozz compelled Poseidon to tell aduran how do I get into your
+clan? ]
+Culvan laughs.
+% tell pose I'm not in a clan
+% No-one by that name here.
+%%
+You laugh.
+% tell poseidon I'm not in a clan
+% No-one by that name here.
+%%
+Aduran gossips, 'Outcast is not a clan ok? stop asking me to join'
+^m---^n
+Noe tells you, 'are you a imp what have you for spells if you had spells but
+what does imps'
+Noe tells you, 'is it fun and dont be mad but i will ask if you had some
+good mana eq that i can get dont be mad dont kill me'
+^m---^n
+Dyrk gossips, 'can i get someone who is completely generous to give a lot of
+sweet assed eq? or is that asking too much?'
+^m---^n
+The auctioneer auctions, 'Knife bids 50000 coins on a gift certificate,
+valid for the renaming of one (1) object.'
+Cthunik auctions, 'what does that do?'
+^m---^n
+Karla clan-says, 'so how many whacks did it take to get to the center of a Cross?'
+^m---^n
+Quantim tells you, 'can you purchase something for me from tellas please? It
+isnt that expensive. #64, #65, #55, , and #2. They shoud be less then 15k all
+together. but I'm not that good at math.'
+^m---^n
+also arent thris supposed to be very very long and junk? why cant they wear
+2 things on their waste or something.
+(post from Arma)
+^m---^n
+I lent my cleric eq to my best friend's ex-girlfriend and now I DT'd and I
+need it back, except I forgot her password and she won't talk to me or my
+friend because she's spreading false rumours about us and she doesn't play
+anymore.
+(Killathrill)
+^m---^n
+If you had told me you were in fact truly offended by the character I
+created, rather than instantly freezing the character, I would have bowed to
+your wishes.
+(...)
+I like you and I'd like to continue playing here. But I won't be bullied.
+(...)
+You may have the last word here. Forebearance is critical. Restore my chars
+and we'll be fine.
+(...)
+I don't object to your hair-trigger freeze of the character because that is
+your option as in Imp.  All I object to is your intrasnagence when I
+entreated an eq reimbursement after I tended an explanation of my behavior
+as well as an aopology for my offence.
+(...)
+Yah, well forget all I asked.  Now that I think about it, you were correct.
+(RoboChrist)
+^m---^n
+i don't know why but maerlynb why did you take out my gossip i feel bad and
+im hurt by you... I thought you were my friend or are you just someone with
+a weird mood changing attitdue i just wanted to as a friend but no you
+jujust like to abuse your power and make it all hard and stuff to gossip why
+why why I LOVE YOU MAN
+(post from KIMO)
+^m---^n
+ok firstly did you do this cause i quit coven? and calis is your bro? :-P
+(...)
+could you just freeze me for a week
+(...)
+i wont say anything about it to
+anyone please please unfreeze (me), i have spent so long on this game now
+like 2years and spent about 1000 dollers getting my char that good
+(...)
+i just did it to make the game more fun for everyone and give them something
+to do because of this muds really long uptimes
+(post from Culhaven)
+^m---^n
+in the last 3 years i have been here I have never fallen into a dt, and have
+never - ever seen this one that is in the palace - south of kore, it was not
+marked as a dt - well shit - not really couldnt see it when zmud held and
+lagged...i know - im not trying to blame it - it is just that i have/had
+never seen taht one there......anything - is there anything
+even remotely possible that I could do - to get my eq back
+(post from Vermillion)
+
+See Also: -
+
+#
+RACE RACES
+
+There are help files on individual races.
+
+Angels
+Bugbear
+Dragon
+Drow
+Dwarf
+Duergar
+Elf
+Giant
+Gnome
+Half-elf
+Hobbit
+Human
+Minotaur
+Orc
+Thri-kreen
+Troll
+Undead
+
+#
+RAGE
+
+By entering a berserk rage, a warrior increases his stamina and
+attack prowess.  By doing this however, he or she chooses to fight
+to the bitter end.
+
+See Also: -
+#
+READ
+When you want to read something.
+
+READ is also used to read messages on bulletin boards; type HELP BOARDS
+for more information.
+
+> read note
+
+See Also: BOARDS
+#
+RECALL
+
+Unlike mercs, this circle like other circles does not have free recalls.
+Just buy scrolls of recall or use the spell to recall out of battle.
+The scrolls are a little spendy but you can afford it if you don't recall
+too often.
+
+See Also: -
+#
+RECITE SCROLL SCROLLS
+
+Use : Recite <Scroll> [Target]
+
+Is used to "read" a magical scroll. Target can be an object, character or
+nothing (which may be yourself).
+
+See Also: -
+#
+"SPELL REFRESH"
+
+Usage       : cast 'refresh' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+When cast, refresh restores movement to the victim, allowing the victim to
+move further without the need for rest.
+
+See Also: MASS REFRESH
+#
+REIMBURSEMENT
+
+See Also : POLICY
+#
+"SPELL RELOCATE"
+
+Usage       : cast 'relocate' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Will relocate the caster to the victim. It is essentially the opposite of
+summon.
+
+See Also: SUMMON
+#
+REMORT
+
+Remorting is something that will be available only to high-level 
+characters.  In order to be eligible for remort, a player must have
+maxed out on exp.  They must then pass the remort gauntlet, which
+will consist of a series of trials in a reserved area.
+
+Remorting consists of being set back to level 1.  You may retain your
+race and class, or choose a new race or class, so long as it is a valid
+race/class combination.  Certain races are only open to remort.  These
+are currently Thri-kreen, Undead, and Angels.
+
+Also, if a character wishes to remort and retain their race and class, they 
+can opt either for a random reroll, or to have three attribute points added
+to their attributes.  No more than two points can be added to any one attribute
+per remort.
+
+Remort restrictions:
+Undead may not be Bards or Druids
+
+See Also: ANGEL, UNDEAD, THRI-KREEN
+# 
+REMOVE 
+
+If you tire of wearing some armor or wielding a weapon.
+
+> remove boots
+> remove sword
+> remove all
+> remove all.bronze
+
+See Also: WEAR, WIELD
+#
+"SPELL REMOVE CURSE"
+
+Usage       : cast 'remove curse' <person | object>
+Accumulative: No
+Duration    : Instantaneous
+
+Will remove a curse on carried objects or any persons in the room.
+
+See Also: -
+#
+"SPELL REMOVE POISON"
+Usage       : cast 'remove poison' <victim | food | drink> 
+Accumulative: No
+Duration    : Instantaneous
+
+Will remove poison.
+
+See Also: Poison
+#
+RETURN
+
+The Return command exits magic users from jarred mobs and familiars and 
+returns them to their original bodies.
+
+See Also: FIND FAMILIAR, MAGIC JAR 
+#
+RENANDSTIMPY
+
+Renandstimpy is a social that was asked for by a player, so I thought 
+What the hell and put it in.
+   .    _  .     _____________
+   |\_|/__/|    /             \
+  / / \/ \  \  / Happy! Happy! \
+ /__|O||O|__ \ \   Joy! Joy!   /
+|/_ \_/\_/ _\ | \  ___________/
+| | (____) | ||  |/
+\/\___/\__/  // _/
+(_/         ||
+ |          ||\
+  \        //_/
+   \______//
+  __|| __||
+ (____(____)  Stimpson J. Cat [Stimpy]
+
+See Also: SOCIALS
+#
+"SPELL RESTORE"
+
+Usage       : cast 'restore' <victim> 
+Accumulative: -
+Duration    : Instantaneous
+
+Restores up to 1400 hit points per casting.
+
+See Also: HEAL, WILD HEAL 
+#
+REPEAT
+
+See Also: NOREPEAT
+#
+REPLY
+
+After someone tells to you, you can use reply <message> to send them
+back a brief message.
+
+See Also: TELL
+#
+REPORT
+
+This command sends a report of your current and max hp and mana to your
+group.  You can use this command to let potential rescuers know how
+low your hps are without forcing them to use the "group" command.  It is
+designed as a convenience for groups with members who get lag or have slow
+modems.
+
+> report
+
+See Also: GROUP, FOLLOW, GSAY
+#
+RESCUE
+
+Fighters and Bards only.
+
+This command is useful if you want to try and make an attacker hit you
+instead of your poor friend who is being pummeled.  You can only 'turn'
+one monster for each rescue attempt.  This is highly useful when playing
+in groups, of course.
+
+rescue <victim>
+
+> rescue quifael
+
+See Also: -
+#
+RETREAT
+
+Retreat is a skill that allows a thief to find a path away from a monster 
+without the monster noticing.  By doing this the character doesn't lose 
+the normal exp for fleeing.
+
+See Also: THIEF
+#
+RIPOSTE
+
+In fencing a riposte is a skillful parry quickly followed with a counter-
+thrust. Riposte blocks the mobs' attack and awards the player with an extra
+attack of his own for one round of combat.
+
+See Also: BLOCK, DISARM, CRITICAL HIT
+#
+ROLEPLAYING RP IN-CHARACTER IC
+
+Roleplaying is not required on this mud, but it is something that is smiled
+upon if you participate in it. Think of yourself as an actor when you're
+roleplaying because that's what you are. You should try to get in the head
+of your character when you're roleplaying - try to imagine what they would
+do in your current situation, and then do that. Damn drows!
+
+See Also: RACE, SPEAK
+#
+RULES
+
+Type Policy
+
+See Also: FLAGS POLICY
+#S
+SACRIFICE
+
+To sacrifice a corpse is to offer it up to the gods.  The corpse will 
+disappear and you will be given a small reward.
+
+See Also: AUTOSACRIFICE
+#
+"SPELL SANCTUARY"
+Usage       : cast 'sanctuary' <victim>
+Accumulative: no
+Duration    : 3 + level/10
+
+When protected by sanctuary you receive one half the normal damage from 
+all attacks.
+
+See Also: -
+#
+SAVE
+Save your persona.  This includes experience points, strength, gold, etc.
+Your equipment is also saved in the (unlikely?) event of a crash.  The
+game periodically auto-saves you and your equipment, so it is not necessary
+to have your client auto-save you as well.
+
+You CANNOT load a saved version if you die -- your persona still exists,
+but you will lose experience, and all your objects stay in the game, with
+your corpse.
+
+Note that the SAVE command only saves your equipment in the event of a
+crash.  If you are leaving the game normally, SAVE will NOT save your
+equipment -- you must find an Inn to store your belongings.
+
+>save
+
+See Also:  INN, RENT
+#
+"SAVING THROWS"
+
+The five types of Saving Throws and their effects are as follows:
+Save vs Poison is made for poison attacks
+Save vs Rod is made for spells cast by a device (i.e. wands)
+Save vs Petrification is made for paralysis or petrifying attacks
+Save vs Breath is made for all types of breath weapons
+Save vs Spell is made to reduce or avoid the effects of a casted spell
+
+At various times during the game, something "special" will affect, or
+attempt to affect, your character: things such as spells being cast at
+you, poisonous snakes biting you, players using wands on you, etc. In  
+these special cases, your character is allowed a SAVING THROW There are
+five kinds of saving throws: poison, rods, petrification, breath
+weapons, and spells. A successful save means you either avoid the effect 
+entirely or the damage received is reduced.                        
+
+On Kore saving throws work on a 25 point scale (instead of 100) and they 
+are not modified for level.  So you'll have to wear saving throw eq if 
+you want to make saves.
+
+Any saving throw modifier that is negative benefits the player.
+SAVING SPELL by -3 is GOOD SAVING SPELL by 1 is BAD.
+   
+#
+SAY TELL ASK WHISPER SHOUT YELL ' "
+If you consider communicating with other beings, you might be understood
+better if you start your sentences with either say, tell, whisper or shout.
+
+<say | shout > <string>
+<tell | whisper | ask> <player> <string>
+
+> say Hey, does anyone know how to get to Oz?
+> tell zirnozz hi, you know I have all of your albums.
+
+You can use ' as a shorthand for say, as in: ' hello there.
+
+Shout broadcasts your message to everyone is your geographic zone. You must
+be level 2 to use shout.
+
+See Also: GOSSIP, AUCTION, GSAY, NOREPEAT, QSAY
+#
+SCAN
+You can see the rooms around you when you scan. You can scan in one 
+direction. Thieves can scan further the higher in level they are, up to
+four rooms away when they're very high level.
+
+>scan <direction>
+(and to see in all directions...)
+>scan
+
+See Also: -
+#
+"SPELL SCARE"
+
+Usage       : cast 'scare' <victim> 
+Accumulative: -
+Duration    : Instantaneous  
+
+This spell has the power to strike unreasoning fear in the bravest heart,
+causing the victim to flee. 
+
+See Also: Flee
+#
+SCORE
+Whenever you want to check whether you're still alive and healthy
+or simply want to see how much money you have left.
+
+See Also: ATTRIBUTE 
+#
+SCORES
+
+The command used to see the number of deaths and kills for each player in
+the deathmatch.
+
+See Also: BATTLE, DEATHMATCH, DEATHQUEST
+#
+SCROUNGE
+Thief/druid skill.
+
+Scrounge lets player acquire items from the gutters of the city,
+such as scraps of food, drinks, and other garbage.  Yecch!
+
+See Also: -
+#
+SEARCH
+
+Allows you to search a room for hidden items. Typing 'search' once causes
+you to begin searching the room; type it again to stop. You may have to
+search for quite some time to find a hidden item. Obviously, if nothing's
+hidden in the room, you can search and search but not find it.
+
+See Also: -
+#
+SELL
+
+If you'd like to sell an item to a shopkeeper, trying selling it to them.
+Most shops specialize in what they will buy, so you may have to look around
+to find a buyer for your items.
+ 
+Examples:
+ 
+> sell sword       (sell the first sword in your inventory)
+> sell 3 sword     (sell the first three swords in your inventory)
+ 
+See Also: SHOPS, BUY, LIST, VALUE
+#
+"SPELL SENSE LIFE"
+Usage       : cast 'sense life' [self]
+Accumulative: No
+Duration    : 5 hours per level
+
+This spell will enable you to sense hidden life forms in a room.
+Invisible persons are also considered hidden.
+
+See Also: HIDE
+#
+"SPELL SHOCKING GRASP"
+
+Usage       : cast 'shocking grasp' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the magic missile spell.
+
+See Also: MAGIC MISSILE  
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his quests,
+and where he may sell his treasure if he should manage to survive the perils
+with his life and sanity intact. Many shops trade only in a specific type of
+merchandise. Thus, a baker may well refuse to buy your armor, even if it is of
+high quality!
+   To some people, the prospect of obtaining the entire inventory of a shop by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, surviving
+in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+SKILLS
+
+Classes like Fighters and Thieves get skills instead of spells.
+These skills generally do not cost any attributes, unlike spells
+which require mana.  You can list your skills with the spells command.
+
+See Also: SPELLS
+#
+"SPELL SLEEP"
+
+Usage       : cast 'sleep' <person>
+Accumulative: Yes (duration)
+Duration    : 4 hours + one hour per level
+
+If failing saving throw versus spell, the person will fall asleep.
+A person who is affected by sleep can only be awakened if attacked.
+
+See Also: -
+#
+"SPELL SLOW"
+
+Usage       : cast 'slow' <victim>                        
+Accumulative: No
+Duration    : Varies
+
+Slow reduces the victim's attack speed.
+
+See Also: HASTE 
+#
+SMILE
+Whenever you feel like smiling...
+
+See Also: SOCIALS
+#
+SNEAK
+
+Thieves Only.
+
+Used for sneaking (moving in and out of rooms without anyone taking notice).
+When you type sneak, there is no way to know if you're actually sneaking.
+If you sucessfully sneak, then you'll continue to sneak for a little while.
+
+> sneak
+
+See Also : HIDE
+#
+SOCIALS
+
+Socials are commands used to show your affective state to others.  The
+actor, victim and bystanders may receive different messages.  Generally,
+social commands are used only to express emotion, but it is possible that
+some mobs (or players) will take action based on the social.
+
+<social> <victim>
+
+> shake homer
+> applaud marge
+> stare 
+
+The SOCIALS command generates a canonical listing of all available socials.
+
+> socials
+
+See Also: EMOTE
+#
+SPEAK
+
+To speak in your native tongue, instead of common.
+
+Example: 
+>speak damn elves, lets kill them and take all their gold
+
+See Also: RACE
+#
+SPELLS
+
+Lists all skills and spells available to your class.
+
+For help on a particular spell see: "help spell <spellname>"
+
+See Also: SKILLS
+#
+"SPELL SPIRITUAL HAMMER"
+
+Usage       : cast 'spiritual hammer'
+Accumulative: No
+
+Creates a magical hammer which can be wielded as a potent weapon.
+However, the hammer, being spiritual in origin, will disappear in time.
+
+See Also: -
+#
+SPLIT
+
+Usage:  SPLIT <amount to split>
+
+SPLIT is used to split money among people in your group who are in the same
+room as you.  If you are in a group with 4 other people, all of whom are in
+the same room with you, and you type SPLIT 100, you will give each of the
+other 4 group members 20 coins each.  (100 coins is split 5 ways; you keep
+your share and give everyone else their share).
+
+See Also: GROUP, FOLLOW
+#
+STATS
+
+See Also : ATTRIBUTES
+#
+STEAL
+
+Thief Only.
+
+Use steal to steal gold or items from people. The chance of not getting
+caught depends on your skill.  If the person is asleep, steal always succeed.
+
+Due to misuse of the steal command, it is now illegal to steal from other
+players.  Doing so will get you a flag for your trouble.
+
+Example:
+
+> steal gold drunk
+
+See Also: -
+#
+"SPELL STICKS TO SNAKES"
+
+Usage       : cast 'sticks to snakes'
+Accumulative: No
+Duration    : Instantaneous
+
+Summons a snake and makes it follow the caster.
+
+See Also: -
+#
+"SPELL STONE SKIN" "SPELL STONESKIN"
+
+Usage       : cast 'stoneskin' <victim>
+Accumulative: No
+Duration    : Until last stony layer is destroyed
+
+When stoneskin is cast, the victim gains layers of tough stony covering
+on his/her/its skin (how many depends on the level of the caster).  Each
+layer completely absorbs one combat hit before being destroyed.  Stoneskin
+may be recast only when all layers are destroyed by hits or by time.
+
+See Also: -
+#
+"SPELL STRENGTH"
+
+Usage       : cast 'strength' <victim>
+Accumulative: No
+Duration    : Level hours
+
+A person will gain 1 strength point from spell.  Maximum strength is 25. 
+
+See Also: -
+#
+STUN "STUN TOUCH"
+
+Thief only
+
+Stun touch puts the victim in a stunned state for a moment, not allowing 
+them to attack and taking more damage from physical attacks.  The victim 
+is left unable to defend themself for a short time.  Stun touch delays
+the thief for three rounds.
+
+See Also: -
+#
+"SPELL SUMMON"
+
+Usage       : cast 'summon' <victim>
+Accumulative: -
+Duration    : Instantaneous
+
+Will summon a person of the name spoken. It is not possible to
+summon someone of three or more levels above yourself.
+If you attempt to summon a monster,it will get a saving throw.
+
+See Also: RELOCATE, POLICY
+#
+"SPELL SUNRAY"
+
+Usage        : cast 'sunray' <victim>
+Accumulative : -
+Duration     : Instantaneous
+
+Sunray beams a ray of sunlight on the victim.  It is not intense enough to
+hurt even a child, but rumors persist of situations where it is deadly...
+
+See Also: -
+#
+SWITCH
+
+Warrior skill that allows them to change targets while in combat.
+It also allows the warrior to switch to the beginning of the
+combat list, meaning they attack earlier than the mob.
+
+See Also: -
+#T
+"SPELL TELEPORT"
+
+Usage       : cast 'teleport' <self>
+Accumulative: -
+Duration    : Instant
+
+Teleport (with error) will instantly transfer you to another location
+in the world. This location is random, and thus there will always be
+a risk of landing in a fatal location.
+
+See Also: -
+#
+TELLAS PAWN PAWNSHOP
+
+A place one can try and sell equipment for a percent of the profits.
+Try not to sell any junk here. Also do not ask a price so high for
+equipment that no one will buy. IE : Mushroom rings for 50k. It will
+be removed and you will lose the object.
+
+#
+THIEF THIEVES
+Thiefs are known to have very special qualities, that no other class offers.
+They are deadly backstabbers, often sneaking in the killing blow before
+the victim can react.  They know many dirty tricks in combat to confuse
+their enemies.  They can pick locks that would frustrate the most powerful
+of warriors.
+
+Here is a list of your skills at level 50:
+
+SPELLNAME		LEVEL	COST
+scrounge		1	n/a
+sneak			1	n/a
+backstab		3	n/a
+steal			5	n/a
+pick lock		7	n/a
+hide			9	n/a
+palm			10	n/a
+quickheal		10	n/a
+scan			15	n/a
+circle			20	n/a
+stun touch		20	n/a
+retreat			22	n/a
+track			25	n/a
+gauge			30	n/a
+trip			35	n/a
+
+See Also: CLASSES, SPELLS
+#
+THRIKREEN THRI-KREEN TRI-KEEN TRI-KREEN TRI
+
+Thri-kreen are a mantis-like race who are not from this world. Their origin
+has been lost over the ages; they don't even remember where they are from.
+It has been speculated that they arrived here from some strange metal ship
+that fell from the sky. Since they are not from this world, they do not
+have the ability to cast magic spells. However, they are very strong, fast,
+and hearty. They are not very intelligent or insightful due to their 
+insect mentality. They have a particular fondness for elven flesh.
+
+They can sense-life and they also have no need for sleeping or drinking. 
+They are also capable of giving their victims venomous bites. Thri-kreen
+are also immune to the "blindness" spell.
+
+Thri-kreens are now available as a remort option, with extensive changes 
+to their equipment slots.
+
+See Also: RACE, REMORT
+# 
+TIME 
+
+Gives you the current game time.  Your initial reaction to the
+output of this command may be one of surprise, but you'll get used to it. 
+You'll have to, at any rate, since certain things in the game depend on
+this particular notion of time; the opening hours of the shops, for
+example.
+
+See Also: -
+#
+UPTIME
+
+    Displays when the game was last booted and calculates how much time has 
+passed since.
+
+#
+TITLES
+
+Titles are set through a request to the imms. Players at or under level 20
+have the generic titles. Players over level 20 may request that their title
+be changed to a suitable one of their liking (not suitable: "wetted his bed
+last night").
+Mudmail Ayana with your request for a title. It must fit the mud and not be
+stupid or offensive. No request for colors in titles. If your request does
+not fit the mud, is stupid and or asks for colors, your request will not be
+answered.
+
+See Also: FLAGS
+#
+TOGGLES
+
+TOGGLE shows you the current values of various toggles available on the MUD.
+This command CAN NOT be used to change these values (see related commands.)
+All of these toggles remain the same until you change them; i.e. they are
+saved when you quit or rent.
+
+See Also: DISPLAY, BRIEF, COMPACT, NOTELL, NOSHOUT, NOSUMMON, QUEST, REPEAT,
+          WIMP, BATTLEBRIEF
+#
+TOKENS
+
+Shiny quest tokens can be exchanged for rewards on the following scale:
+
+15 - A pretitle
+10 - An item rename certificate
+8 - an amulet of Yari
+
+Other prizes may be given out per specific quest at the perrogative of
+the quest organizer.
+
+Gold quest tokens are to be given to the gleeman for prizes.
+
+See Also: QUEST
+#
+TRIVIA
+
+Every now and then there will be trivia questions asked which you will 
+receive a trivia point for, if you are the first to answer it right. 
+You can save these points for prizes. 
+
+40 - A bag full of potions
+35 - A pretitle
+30 - An item rename certificate
+25 - An amulet of Yari
+20 - Black Sash
+15 - Shiny Quest Token
+10 - Gold Quest Token
+05 - An Karn ruin the mud t-shirt or an I love Ayana t-shirt or an
+     I been downgraded button.
+
+This is just one way a trivia quest may be handled. It will depend on
+the immortal who is running the quest.
+
+After you receive ten trivia points they can be turned in for one ten
+points trivia point. To help the pack rats to keep their loads light.
+
+^RThe Trivia Points are for the char that answers the question. They are
+not to be given away to other chars. Anyone caught doing so will lose
+all trivia points.^n
+
+#
+TROLLS
+
+Trolls are a race of large humanoid creatures.  Very strong, but not 
+exceptionally bright.  They make excellent warriors however. They can see
+in the dark.
+
+See Also: RACE
+#
+TRACK
+
+Used for finding the first step on the shortest route to a monster.
+Be aware that you may track into untenable situations.
+
+> track zeus 
+
+See Also: -
+#
+TRIP
+
+Thief only skill. It trips, you dip.
+
+See Also : BASH
+#
+TWINK
+
+Clueless person. A high level newbie.
+
+Example: Bozo is a Major Fucking Twink!
+
+See Also: NEWBIE
+#U
+UNDEAD
+
+Undead are a race of magical creatures.  They include beings such as 
+liches, ghouls, vampires, deathknights, and ghosts.  Their magical nature 
+has made them resistant to magical attacks.  They are also often very 
+intelligent and wise due to their age.  Undead are available only as a 
+remort race. Undead beings have the power of gaze and bite. They must
+drink blood either using bite or via some other source. They can also
+see invisible objects.
+
+See Also: DRAGON, KNIGHT, REMORT
+#
+UNGROUP
+
+UNGROUP can be used by group leaders to disband the entire group, or
+to kick a specific group member out of the group (and stop him/her from
+following the leader).
+
+> ungroup
+> ungroup all
+> ungroup loser
+
+See Also: GROUP
+#
+USE WAND STAFF STAFFS WANDS
+
+Use : Use <staff>
+      Use <wand> <victim>
+
+Using staff's will automatically target everybody (or everything) in a
+room, execpt yourself. Therefore staff's are naturally very powerful, and
+yet may be very dangerous to use around other players.
+
+Using wands require that you point it at a target, which can be either a
+character or an object.
+
+Both staff's and wand's must be HELD in the hand prior to use! (Use the
+grab or hold commands). You must still supply the name of the staff or
+wand to avoid confusion.
+
+See Also: -
+#
+UTILITY
+These are commands designed to make the mud a better place:
+
+TOGGLE     The top level command to view a lot of settings
+COLOR      Color-code mud output
+PROMPT     Changes your prompt
+ALIAS      Create shortcuts for used commands
+BUG        Report a bug that you know about
+IDEA       Suggest any ideas have to improve the MUD
+TYPO       Report a typo (be specific)
+SAVE       Save your character
+!          Repeats the last command you typed
+
+See also: -
+#V
+VALUE
+Before selling an item to a shop, you can ask the shopkeeper how much
+he or she is willing to pay for it.
+ 
+Example:
+ 
+> value bread
+ 
+See Also: SHOPS, BUY, SELL, LIST
+#
+VAMPIRE
+
+SPELLNAME               LEVEL  COST
+continual light          1     5
+kick                     1   n/a
+magic missile            1    10
+meditate                 1   n/a
+ventriloquate            1    10
+armor                    2    10
+aerial servant           3    30
+burning hands            4    15
+faerie fire              4    10
+floating disc            4    20
+clairvoyance             5    20
+find familiar            5    40
+bash                     6   n/a
+detect magic             6    10
+invisibility             6    30
+feeblemind               7    10
+strength                 9    25
+disarm                  10   n/a
+pass without trace      12    11
+locate object           13    30
+shocking grasp          14    15
+animate dead            15    51
+dimension door          15    25
+web                     15    25
+chill touch             16    16
+mass invis              18    41
+sleep                   18    25
+energy drain            20    25
+monster summoning one   20    50
+protection from good    20    40
+scare                   20   100
+identify                21    25
+invisible stalker       22    50
+infravision             23    25
+charm person            24    70
+forget                  24    21
+word of recall          24     6
+fly                     25    21
+color spray             26    21
+blindness               27    26
+poison                  28    21
+curse                   29    30
+enchant armor           30    78
+cone of cold            31    50
+conjure elemental       32   102
+haste                   32    75
+monster summoning two   32   100
+lightning bolt          34    50
+fireball                36    50
+dispel magic            38    50
+enchant weapon          38   150
+monster summoning three 39   150
+phase door              39    50
+chain lightning         40    50
+disintegrate            42    60
+word of death           44   100
+petrify                 45   100
+knock                   46    80
+instill energy          49   200
+magic jar               50   200
+
+See Also: - CLASSES
+#
+"SPELL VENTRILOQUATE"
+
+By using this spell you can attempt to make it appear someone else in
+the same room said something.
+
+#
+VETERAN
+
+The veteran flag on an item requires that the wearer be at least level 25 to
+use that item.
+
+See Also: HERO CHAMPION
+#
+VISIBLE
+
+Use this command to break your spell of invisibility before it expires.
+
+See Also: INVISIBILITY
+#
+VULMARTA
+
+Vulmarta is the ancient goddess of the seasons and womanhood. She's a fairly
+neutral god and somewhat dispassionate.
+
+See Also: -
+#W
+WAKE SLEEPING REST SIT STAND
+For changing your position.  If you feel weary, it's probably a good idea
+to sit and rest for a while, or maybe even take a nap.
+
+See Also: -
+#
+WARRIORS FIGHTERS
+Warriors are known to have more strength than the average player. This makes
+them better at hand-to-hand-combat, as they posess skills of violence and
+fighting unequaled by the members of any other class. However, they lack the
+ability to use magic of any sort.
+
+Here is a list of your skills at level 50:
+ 
+SPELLNAME		LEVEL  COST
+judge                      1   n/a
+kick                       1   n/a
+bash                       2   n/a
+rescue                     3   n/a
+track                      9   n/a
+disarm                    10   n/a
+quickheal                 10   n/a
+critical hit              10   n/a
+berserk                   15   n/a
+block                     15   n/a
+defend                    15   n/a
+rage                      18   n/a
+switch                    20   n/a
+dual wield                25   n/a
+quickdraw                 36   n/a
+riposte			  40   n/a
+
+See Also: CLASSES, SPELLS
+#
+"SPELL WATERWALK"
+
+Usage       : cast 'waterwalk' <victim>
+Accumulative: Yes
+Duration    : Varies
+
+Waterwalk allows the target player or mob to walk on water.  There is
+still a movement cost involved with walking.
+
+See Also: FLY, MOVEMENT
+#
+WEAR
+
+If you want to wear some clothes, armor or the likes.
+
+Also, to wear everything in your inventory (or at least try to, as wearing 
+things like loaves of bread is not a good way to win friends and influence
+people) you can type "wear all".
+
+Optionally, you can specify what part of your body to wear the equipment on.
+
+> wear boots
+> wear all.bronze
+> wear all
+> wear ring finger
+
+See Also: EQUIPMENT, REMOVE EQUIPMENT
+#
+WEATHER
+
+If you're uncertain whether the sun is shining or the rain is pouring down.
+
+See Also: CONTROL WEATHER
+#
+WHERE
+
+Tells you the location of a monster, a player or an object.
+
+Mortals can only "where" players, and only from their own zone.
+
+> where
+
+** Note that this command has been disabled and that this helpfile has
+absolutely no significance anymore.
+
+See Also: LOCATE OBJECT
+#
+"SPELL WEB"
+
+Usage       : cast 'web' <victim>
+Accumulative: Yes
+Duration    : Instant
+
+Web instantly covers the victim with icky strands of webbing. For now what
+web does is subtract about one third of the mobs movement - useful in keeping
+a mob from fleeing!
+
+See Also: -
+#
+WHO
+
+Lists the people currently in the game.  Some people may be invisible.
+Command-line options can be used to limit the listing.  The parameters
+can be specified on the command-line in any order.
+
+who [minlev[-maxlev]] [-n sname] [-c classlist] [-s] [-o] [-q] [-r] [-z]
+
+minlev, maxlev : list only people whose level is at or above minlev, and
+     optionally, at or below maxlev
+-n : list only people whose names or titles contain sname
+-c : list only people of a certain class, where classlist is any combination
+     of the letters w, m, c, and t
+-s : list names in the short form (4 columns of names, without titles or flags)
+-o : list only outlaws (i.e. people with a killer or thief flag)
+-q : list only people who are on the Quest
+-r : list only people who are in your room
+-z : list only people in your zone
+-b : list only people in your clan
+
+> who -c wc -s -l 20
+	List, in short form, warriors and clerics at or above level 20
+> who 15-25 -o -z
+	List all outlaws between levels 15 and 25 who are in your zone.
+
+See Also: -
+#
+WIELD
+
+When you get tired of bashing monsters with your fists, you might consider
+wielding a weapon.
+
+> wield sword
+
+See Also: EQUIPMENT, REMOVE EQUIPMENT
+#
+"SPELL WILD HEAL"
+
+Usage       : cast 'wild heal' <victim>
+Accumulation: -
+Duration    : Instantaneous
+
+Results of wild heal:
+ Amount Healed    Percent
+ -75              5
+ -25              15
+ 150              60
+ 175              15
+ 200              5
+
+See Also: HEAL
+#
+WIMP WIMPY
+
+There is no more wimpy on HOK. If you can't flee for yourself then die like
+the dog you are. Zirnozz will probably laugh at you.
+
+See Also: LINK
+#
+"SPELL WINDWALK"
+
+Usage       : cast 'windwalk' <victim>
+Accumulative: No
+Duration    : Instantaneous
+
+Provided that the caster is standing in a natural setting, windwalk will
+instantaneously relocate the caster to the victim.
+
+See Also: RELOCATE, SUMMON
+#
+"SPELL WIZARD LOCK"
+
+Usage       : cast 'wizard lock'
+Accumulative: No
+Duration    : Permanent (see below)
+
+This spell is used to close and lock all doors in the room. This is
+useful for locking in/out players or mobs. This spell can only be 
+reversed by the "Knock" spell or the "Pick" skill.
+
+See Also: KNOCK, PICK
+#
+WIZLIST IMMLIST
+
+Lists the most powerful beings on the MUD.
+
+See Also: -
+#
+"SPELL WORD OF RECALL"
+
+Usage       : cast 'word of recall' 
+Accumulative: -
+Duration    : Instantaneous
+
+The caster will be transferred back to his sanctuary (presently
+the Temple of Vulmarta).
+
+See Also: RECALL 
+#
+"SPELL WORD OF DEATH"
+
+Usage       : cast 'word of death' <victim>
+Accumulation: -
+Damage      : unknown
+Duration    : Instantaneous
+
+It is said that a high level mage can kill with a single word.  
+This is the most powerful spell known in the realm of Kore.  With this 
+spell dragons have been slain, kings overthrown, and mighty warriors 
+reduced to ash.
+
+See Also: MAGE
+#
+WRITE
+
+In order to write a note, you need a piece of blank paper (or similar), and
+a pen of some sort. You can then type something like "write on the paper with
+the pen", whereupon you'll be asked to type in your note at the keyboard.
+
+WRITE is also used to post messages to bulletin boards.  Type HELP BOARDS
+for more information.
+
+See Also: BOARDS
+#~
+ 

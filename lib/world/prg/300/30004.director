@@ -1,0 +1,20 @@
+>greet_prog 100~
+  say Hello, do you work in these mines?
+  say I've not seen you around before...
+  say Well, I can't let you in the mines without a pass.
+~ 
+>give_prog 30005~
+  say Bah, this isn't you on the pass, do you take me for a fool?!
+  say Get out of here before I call the guards!
+  mpecho The mine director takes a key from his bureau and grabs it in his left hand.
+  mpsilent mpoload 30006
+  mpsilent hold key
+  mpsilent junk pass
+~ 
+>fight_prog 3~
+  emote shouts,'Guards, Guards!! I'm being assaulted!'
+  mpecho A mine guard rushes in to assist the director!
+  mpsilent mpmload 30008
+  mpforce 30008 assist 30004
+~
+|

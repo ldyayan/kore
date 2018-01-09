@@ -1,0 +1,16 @@
+>command_prog down~
+  if isimmort($n)
+  else
+    if hasworn($n) == 8260
+      mpechoat $n The ruby pendant glows brightly around your neck!
+      mpechoaround $n A ruby pendant glows brightly on $N as $e enters the summoning circle.
+      mpechoat $n The field crackles and allows you to enter through it.
+    else
+      mpechoat $n OUCH! You slam into an invisible barrier!
+      mpechoaround $n $N attempts to enter the summoning circle but hits an invisible wall instead!
+      mpechoat $n Perhaps you need something to allow you to enter the circle...
+      mpstopcommand
+    endif
+  endif
+~
+|

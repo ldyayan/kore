@@ -1,0 +1,45 @@
+>greet_prog 25~
+  if ispc($n)
+    glare $n
+    say Out with you!
+    mpechoat $n $I tosses you out of the turret!  You land below with a bone-jarring thud.
+    mpechoaround $n $I tosses $N out of the turret!  You hear a muffled thud somewhere down below.
+    mpdamage $n 15d15+100
+    mptransfer $n 22030
+    mppose $n sit
+  endif
+~
+>command_prog cast~
+  mpechoat $n $I flashes his lamp in your face, breaking your concentration!
+  mpechoaround $n $I flashes his lamp in $N's face, interrupting $s spell!
+  mpcallmagic 'blind' $n
+  mpechoat $n You are dazzled by the bright light!
+  mpechoaround $n $N seems dazzled by the bright light!
+  mpstopcommand
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpechoat $r $I flashes $k lamp in your face, dazzling you!
+    mpechoaround $r $I flashes $k lamp in $R's face, dazzling $L!
+    mpdamage $r 10d10+30
+    mpcallmagic 'blind' $r
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here
+    mpechoat $r $I tosses you out of the turret!  You land below with a bone-jarring thud.
+    mpechoaround $r $I tosses $R out of the turret!  You hear a muffled thud somewhere down below.
+    mpdamage $r 15d15+100
+    mptransfer $r 22030
+    mppose $r sit
+  endif 
+~
+>death_prog 25~
+  mpecho $I reels about from the death blow and upsets the huge signal lamp!
+  mpecho Flaming oil rushes forth across the floor and turns the room into an INFERNO!!!
+  mpsilent remove all
+  mpsilent drop all
+  mpsilent drop all.coins
+  mpgoto cleaner
+~
+|

@@ -1,0 +1,1853 @@
+#6800
+Master of the Art's~
+   Plaques run along the the back wall. Rows of weapons from swords to daggers
+are half hanging.  The rest of the room is bascially empty other then a round
+glass broken counter which contains a few small black silk bags.
+~
+68 8 1
+D2
+~
+~
+0 0 6801
+S
+#6801
+Altar of Healing~
+   A room placed with hundreds of white burning candles.  Green marble makes
+the walls, with shades of black to match the black marble floor.  A aura of
+power swirls through out the room.  A large chair sits against the back wall,
+decorated with jewels.  A table sits off to the side and has filled vials and
+flasks for the ceremonies that once was offered here.    
+~
+68 24 1
+D0
+~
+~
+0 0 6800
+D2
+~
+~
+0 0 6802
+S
+#6802
+Archway~
+   Black marble reaches up to the top of the temple forming a archway.  Shades
+of off white run through the black marble off setting the white marble walls.
+Each side of the archway has a entrance way to the halls of the worship heroes
+and Immortals the Goddess deem fit to place in the halls.  To the north is the
+Altar, once to have offered services to heal the wounded in the times of need.
+~
+68 8 1
+D0
+~
+~
+0 0 6801
+D1
+~
+~
+0 0 6803
+D2
+~
+~
+0 0 6811
+D3
+~
+~
+0 0 6807
+S
+#6803
+Hall of Honor~
+   The Hall of Honor was placed within the Temple here to show thanks to
+all the Heroes and Immortals through out the different lands.  The great
+Goddess showed due respect to these Immortals and Heroes and in return she
+expected them to worship these statues if one seeked her services here..  
+White marble walls and floors bring out the craftmanship of the statues.
+~
+68 8 1
+D1
+~
+~
+0 0 6804
+D3
+~
+~
+0 0 6802
+S
+#6804
+Hall of Honor~
+   The Hall of Honor was placed within the Temple here to show thanks to
+all the Heroes and Immortals through out the different lands.  The great
+Goddess showed due respect to these Immortals and Heroes and in return she
+expected them to worship these statues if one seeked her services here..  
+White marble walls and floors bring out the craftmanship of the statues.
+~
+68 8 1
+D1
+~
+~
+0 0 6805
+D3
+~
+~
+0 0 6803
+S
+#6805
+Hall of Honor~
+   The Hall of Honor was placed within the Temple here to show thanks to
+all the Heroes and Immortals through out the different lands.  The great
+Goddess showed due respect to these Immortals and Heroes and in return she
+expected them to worship these statues if one seeked her services here..  
+White marble walls and floors bring out the craftmanship of the statues.
+~
+68 8 1
+D1
+~
+~
+0 0 6806
+D3
+~
+~
+0 0 6804
+S
+#6806
+Hall of Honor~
+   The Hall of Honor was placed within the Temple here to show thanks to
+all the Heroes and Immortals through out the different lands.  The great
+Goddess showed due respect to these Immortals and Heroes and in return she
+expected them to worship these statues if one seeked her services here..  
+White marble walls and floors bring out the craftmanship of the statues.
+~
+68 8 1
+D3
+~
+~
+0 0 6805
+S
+#6807
+Hall of Honor~
+   The Hall of Honor was placed within the Temple here to show thanks to
+all the Heroes and Immortals through out the different lands.  The great
+Goddess showed due respect to these Immortals and Heroes and in return she
+expected them to worship these statues if one seeked her services here..  
+White marble walls and floors bring out the craftmanship of the statues. 
+~
+68 8 1
+D1
+~
+~
+0 0 6802
+D3
+~
+~
+0 0 6808
+S
+#6808
+Hall of Honor~
+   The Hall of Honor was placed within the Temple here to show thanks to
+all the Heroes and Immortals through out the different lands.  The great
+Goddess showed due respect to these Immortals and Heroes and in return she
+expected them to worship these statues if one seeked her services here..  
+White marble walls and floors bring out the craftmanship of the statues.
+~
+68 8 1
+D1
+~
+~
+0 0 6807
+D3
+~
+~
+0 0 6809
+S
+#6809
+Hall of Honor~
+   The Hall of Honor was placed within the Temple here to show thanks to
+all the Heroes and Immortals through out the different lands.  The great
+Goddess showed due respect to these Immortals and Heroes and in return she
+expected them to worship these statues if one seeked her services here..  
+White marble walls and floors bring out the craftmanship of the statues.
+~
+68 8 1
+D1
+~
+~
+0 0 6808
+D3
+~
+~
+0 0 6810
+S
+#6810
+Hall of Honor~
+   The Hall of Honor was placed within the Temple here to show thanks to
+all the Heroes and Immortals through out the different lands.  The great
+Goddess showed due respect to these Immortals and Heroes and in return she
+expected them to worship these statues if one seeked her services here..  
+White marble walls and floors bring out the craftmanship of the statues.
+~
+68 8 1
+D1
+~
+~
+0 0 6809
+S
+#6811
+Temple of Worship~
+   Small black candles are placed in crystal candle holders that hang on the
+walls.  The crystal candle holders run down both sides of the walls to provide
+light so one might see during their visit here.  The black marble floor echos
+as one walks down the hallway.  The walls are a marble white with shades of
+gray.
+~
+68 8 1
+D0
+~
+~
+0 0 6802
+D1
+~
+~
+0 0 6812
+D2
+~
+~
+0 0 6814
+D3
+~
+~
+0 0 6813
+S
+#6812
+Pray Room~
+   A place once for one to say their prayers.  Be it a request for a god or a
+goddess or just a idea for the Temple to think over, this was the place to do 
+it. Once voiced no one can hear your words other then the gods and goddess of
+the realms.
+~
+68 8 1
+D3
+~
+~
+0 0 6811
+S
+#6813
+Social Hall~
+   This small room is where everyone used to read over what is happening in
+the realms.  From gossip to events this is the place to to find out what is
+happening.  The gods and goddess often use this place to voice what is going
+on. People used to make a daily visit here to see what was going on and then 
+show their worship to the Goddess.
+~
+68 8 1
+D1
+~
+~
+0 0 6811
+S
+#6814
+Temple of Worship~
+   The Temple of Worship walls are made of white marble with shades of grey.  
+Along the walls are a row of crystal candle holders, each holding a small black
+candle.  In the center of the room is a fountain in the shape of the great
+goddess herself, Tiamat.  The floor was done in black marble.  Everything seems
+to echo throughout the Temple.  There is a small room over to the west where
+others used to donate their extra weapons and armour for the needy.
+~
+68 8 1
+D0
+~
+~
+0 0 6811
+D1
+~
+~
+0 0 6815
+D2
+~
+~
+0 0 6817
+D3
+~
+~
+0 0 6816
+S
+#6815
+The Once Entrance to the Training Dungeon~
+   Weapons and armour line the walls of the Training Hall.  A dirt covered
+floor once lead down into the Training Dungeon, where the new trainees came
+to increase their skills in order to prepare themselves for the battles they
+would encounter.  Only the best ever came out alive from the dungeons.  
+~
+68 8 1
+D3
+~
+~
+0 0 6814
+E
+floor~
+Boarded up and nailed shut, this at one time used to lead to a large
+area under the temple. Used to train the warriors that followed the
+goddess of the temple.
+~
+S
+#6816
+Room for Donations~
+   A small room filled at times with alot of extra weapons and armour from the
+habitants of the realms.  At times you may find left over food or something to
+drink.  This place was made for the needy and new visiters to the city.
+~
+68 8 1
+D1
+~
+~
+0 0 6814
+S
+#6817
+Entrance to the Temple of Worship~
+   Huge iron gates lead into the Temple of Worship.  A place of worship for
+the goddess.  Followers of her where welcomed with open arms to come in and
+pray. Others also came and worshipped the great goddess of darkness.
+~
+68 4 1
+D0
+~
+gates~
+1 0 6814
+D2
+~
+~
+0 0 6818
+S
+#6818
+Center Square~
+   There was rarely a dull moment at the Central Square.  With all the hustle
+and bustle of the citizens this place was never empty of some sort of life form.
+City shops selling everything from food to potions could be found down Merchant
+Road.  A dirt road travels off to the west and leads to a small park.  A huge
+iron gate off to the north leads into the Temple of Worship, a place where you
+may worship the goddess herself.    
+~
+68 0 1
+D0
+~
+~
+0 0 6817
+D1
+~
+~
+0 0 6865
+D2
+~
+~
+0 0 6819
+D3
+~
+~
+0 0 6879
+S
+#6819
+Temple Street~
+   A small road south leads to the dock's of the city.  Just off to the north
+is the center point of the city. Grass and weeds grow off to both sides of the
+road.  A few boulders looks to have been placed on the side of the road.    
+~
+68 0 1
+D0
+~
+~
+0 0 6818
+D2
+~
+~
+0 0 6820
+S
+#6820
+Temple Street~
+   A small road south leads to the dock's of the city.  Just off to the north
+is the center point of the city. Grass and weeds grow off to both sides of the
+road.  A few boulders looks to have been placed on the side of the road.
+~
+68 0 1
+D0
+~
+~
+0 0 6819
+D2
+~
+~
+0 0 6821
+S
+#6821
+Temple Street~
+   A small road south leads to the dock's of the city.  Just off to the north
+is the center point of the city. Grass and weeds grow off to both sides of the
+road.  A few boulders looks to have been placed on the side of the road.
+~
+68 0 1
+D0
+~
+~
+0 0 6820
+D2
+~
+~
+0 0 6822
+D3
+~
+door~
+1 0 6823
+S
+#6822
+Docks~
+   A sea breeze always flows along the docks.  No one around, however a few
+dockworkers spirits can be seen every now and then.  Most of the cargo that
+came into the city was brought to a checkpoint.  Times was bad back then and
+happenings throughout the different realms had made security a must. Cartons
+apond cartons runs along the docks and was waiting at one time to be checked.
+Now the lay half open and empty. 
+~
+68 4 1
+D0
+~
+~
+0 0 6821
+D1
+~
+~
+0 0 6824
+D8
+~
+~
+0 0 6837
+S
+#6823
+Cargo Checkpoint~
+   A rather large wooden shack with cartons that line the walls.  All of the
+remaining cartons have been open.  Anything from fine artwork to cloth was
+stolen only leaving the broken remains. Dust swirls through the air from the
+dirt floor.  
+~
+68 8 1
+D1
+~
+door~
+1 0 6821
+S
+#6824
+Docks~
+   A sea breeze always flows along the docks.  No one around, however a few
+dockworkers spirits can be seen every now and then.  Most of the cargo that
+came into the city was brought to a checkpoint.  Times was bad back then and
+happenings throughout the different realms had made security a must. Cartons
+apond cartons runs along the docks and was waiting at one time to be checked.
+Now the lay half open and empty.
+~
+68 0 1
+D1
+~
+~
+0 0 6825
+D2
+~
+~
+0 0 6831
+D3
+~
+~
+0 0 6822
+S
+#6825
+Docks~
+   A sea breeze always flows along the docks.  No one around, however a few
+dockworkers spirits can be seen every now and then.  Most of the cargo that
+came into the city was brought to a checkpoint.  Times was bad back then and
+happenings throughout the different realms had made security a must. Cartons
+apond cartons runs along the docks and was waiting at one time to be checked.
+Now the lay half open and empty.
+~
+68 0 1
+D0
+~
+door~
+1 0 6834
+D1
+~
+~
+0 0 6826
+D3
+~
+~
+0 0 6824
+S
+#6826
+Docks~
+   A sea breeze always flows along the docks.  No one around, however a few
+dockworkers spirits can be seen every now and then.  Most of the cargo that
+came into the city was brought to a checkpoint.  Times was bad back then and
+happenings throughout the different realms had made security a must. Cartons
+apond cartons runs along the docks and was waiting at one time to be checked.
+Now the lay half open and empty.
+~
+68 0 1
+D0
+~
+~
+0 0 6835
+D1
+~
+~
+0 0 6827
+D3
+~
+~
+0 0 6825
+S
+#6827
+Docks~
+   A sea breeze always flows along the docks.  No one around, however a few
+dockworkers spirits can be seen every now and then.  Most of the cargo that
+came into the city was brought to a checkpoint.  Times was bad back then and
+happenings throughout the different realms had made security a must. Cartons
+apond cartons runs along the docks and was waiting at one time to be checked.
+Now the lay half open and empty.
+~
+68 0 1
+D0
+~
+door~
+1 0 6836
+D2
+~
+~
+0 0 6828
+D3
+~
+~
+0 0 6826
+S
+#6828
+Pier~
+   The city's piers each are large enough to accompany the largest of ships that
+use to dock in city.  Thick wooden planks run up and down the pier.  Nothing is
+lying around on the pier as to make room for the dock workers when they used to
+move the cargo from the ships to the check point.  Always wet and slippery here,
+one must watch their step if they walk here.
+~
+68 0 1
+D0
+~
+~
+0 0 6827
+D2
+~
+~
+0 0 6829
+S
+#6829
+Pier~
+   The city's piers each are large enough to accompany the largest of ships that
+use to dock in city.  Thick wooden planks run up and down the pier.  Nothing is
+lying around on the pier as to make room for the dock workers when they used to
+move the cargo from the ships to the check point.  Always wet and slippery here,
+one must watch their step if they walk here.
+~
+68 0 1
+D0
+~
+~
+0 0 6828
+D2
+~
+~
+0 0 6830
+S
+#6830
+Pier~
+   The city's piers each are large enough to accompany the largest of ships that
+use to dock in city.  Thick wooden planks run up and down the pier.  Nothing is
+lying around on the pier as to make room for the dock workers when they used to
+move the cargo from the ships to the check point.  Always wet and slippery here,
+one must watch their step if they walk here.
+~
+68 0 1
+D0
+~
+~
+0 0 6829
+S
+#6831
+Pier~
+   The city's piers each are large enough to accompany the largest of ships that
+use to dock in city.  Thick wooden planks run up and down the pier.  Nothing is
+lying around on the pier as to make room for the dock workers when they used to
+move the cargo from the ships to the check point.  Always wet and slippery here,
+one must watch their step if they walk here.
+~
+68 0 1
+D0
+~
+~
+0 0 6824
+D2
+~
+~
+0 0 6832
+S
+#6832
+Pier~
+   The city's piers each are large enough to accompany the largest of ships that
+use to dock in city.  Thick wooden planks run up and down the pier.  Nothing is
+lying around on the pier as to make room for the dock workers when they used to
+move the cargo from the ships to the check point.  Always wet and slippery here,
+one must watch their step if they walk here.
+~
+68 0 1
+D0
+~
+~
+0 0 6831
+D2
+~
+~
+0 0 6833
+S
+#6833
+Pier~
+   The city's piers each are large enough to accompany the largest of ships that
+use to dock in city.  Thick wooden planks run up and down the pier.  Nothing is
+lying around on the pier as to make room for the dock workers when they used to
+move the cargo from the ships to the check point.  Always wet and slippery here,
+one must watch their step if they walk here.
+~
+68 8 1
+D0
+~
+~
+0 0 6832
+S
+#6834
+Ship and Shore~
+   The Ship and Shore was a bar. A few tables and chairs are placed through out
+the room.  Empty barrels of ale line the back wall.  Bottles of wine are placed
+in a rack that hangs behind the bar.  Smashed mugs are lined up under the rack
+and at one time they used to be filled with the ale.    
+~
+68 8 1
+D2
+~
+door~
+1 0 6825
+S
+#6835
+Boats and Things~
+   Boats and Things was a small shop where one could get supplies for travels
+in the deep blue sea.  Everything from small rafts to lanterns could be found
+here. A counter covers most of the back wall with room to move from behind the
+counter.  A small chest rests on top of the counter with dead worms once used
+for ones fishing needs.    
+~
+68 8 1
+D2
+~
+~
+0 0 6826
+S
+#6836
+Casino Entrance~
+   This casino was once the most outrageous mansion in the city.  With large
+glass windows and ornate stonework.  It was a place of worship and a gambler's
+paradise.  The casino was open all day and night.    
+~
+68 8 1
+D2
+~
+door~
+1 0 6827
+S
+#6837
+Dirt Road~
+   A dirt road leads off to the village within the city. Little is left to the
+houses in the village.  Only a few where allowed to stay inside the Temple. So
+most of the homes belonged to the citizens that worked in the Temple.
+~
+68 0 1
+D2
+~
+~
+0 0 6844
+D3
+~
+~
+0 0 6838
+D6
+~
+~
+0 0 6822
+S
+#6838
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+door~
+1 0 6841
+D1
+~
+~
+0 0 6837
+D2
+~
+door~
+1 0 6843
+D3
+~
+~
+0 0 6839
+S
+#6839
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+door~
+1 0 6840
+D1
+~
+~
+0 0 6838
+D2
+~
+door~
+1 0 6842
+S
+#6840
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D2
+~
+door~
+1 0 6839
+S
+#6841
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D2
+~
+door~
+1 0 6838
+S
+#6842
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D0
+~
+door~
+1 0 6839
+S
+#6843
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D0
+~
+door~
+1 0 6838
+S
+#6844
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+~
+0 0 6837
+D2
+~
+~
+0 0 6845
+S
+#6845
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+~
+0 0 6844
+D2
+~
+~
+0 0 6856
+D3
+~
+~
+0 0 6846
+S
+#6846
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D1
+~
+~
+0 0 6845
+D2
+~
+door~
+1 0 6864
+D3
+~
+~
+0 0 6847
+S
+#6847
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D1
+~
+~
+0 0 6846
+D2
+~
+door~
+1 0 6863
+D3
+~
+~
+0 0 6848
+S
+#6848
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D1
+~
+~
+0 0 6847
+D2
+~
+~
+0 0 6849
+S
+#6849
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+~
+0 0 6848
+D2
+~
+~
+0 0 6850
+D3
+~
+door~
+1 0 6862
+S
+#6850
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+~
+0 0 6849
+D2
+~
+~
+0 0 6851
+D3
+~
+door~
+1 0 6861
+S
+#6851
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+~
+0 0 6850
+D1
+~
+~
+0 0 6852
+S
+#6852
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D1
+~
+~
+0 0 6853
+D2
+~
+door~
+1 0 6860
+D3
+~
+~
+0 0 6851
+S
+#6853
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D1
+~
+~
+0 0 6854
+D2
+~
+door~
+1 0 6859
+D3
+~
+~
+0 0 6852
+S
+#6854
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+~
+0 0 6855
+D3
+~
+~
+0 0 6853
+S
+#6855
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+~
+0 0 6856
+D1
+~
+door~
+1 0 6858
+D2
+~
+~
+0 0 6854
+S
+#6856
+Dirt Road~
+   Stones are scatter up and down the dirt road.  Wood is scattered from a few 
+of the houses.  Some of the homes remain intact and look to be able to shelter
+one for a night.
+~
+68 0 1
+D0
+~
+~
+0 0 6845
+D1
+~
+door~
+1 0 6857
+D2
+~
+~
+0 0 6855
+S
+#6857
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D3
+~
+door~
+1 0 6856
+S
+#6858
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D3
+~
+door~
+1 0 6855
+S
+#6859
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D0
+~
+door~
+1 0 6853
+S
+#6860
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D0
+~
+door~
+1 0 6852
+S
+#6861
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D1
+~
+door~
+1 0 6850
+S
+#6862
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D1
+~
+door~
+1 0 6849
+S
+#6863
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D0
+~
+door~
+1 0 6847
+S
+#6864
+House~
+   A empty house that at one time was waiting to be sold. Everything echos
+inside the house.
+~
+68 8 1
+D0
+~
+door~
+1 0 6846
+S
+#6865
+Merchant Road~
+   A very traveled street Merchant Road was.  Shops can be seen up and down 
+the road.  Each shop has is own speciality, anything from armor and wears to
+everyday supplies could be found in these shops.  Posts run along both sides 
+of the road for securing ones horse and cart.  A few small bushes with large
+leaves and flowers are growing along the road.    
+~
+68 0 1
+D1
+~
+~
+0 0 6866
+D3
+~
+~
+0 0 6818
+S
+#6866
+Merchant Road~
+   A very traveled street Merchant Road was.  Shops can be seen up and down 
+the road.  Each shop has is own speciality, anything from armor and wears to
+everyday supplies could be found in these shops.  Posts run along both sides 
+of the road for securing ones horse and cart.  A few small bushes with large
+leaves and flowers are growing along the road.
+~
+68 0 1
+D0
+~
+door~
+1 0 6871
+D1
+~
+~
+0 0 6867
+D2
+~
+door~
+1 0 6875
+D3
+~
+~
+0 0 6865
+S
+#6867
+Merchant Road~
+   A very traveled street Merchant Road was.  Shops can be seen up and down 
+the road.  Each shop has is own speciality, anything from armor and wears to
+everyday supplies could be found in these shops.  Posts run along both sides 
+of the road for securing ones horse and cart.  A few small bushes with large
+leaves and flowers are growing along the road.
+~
+68 0 1
+D0
+~
+door~
+1 0 6872
+D1
+~
+~
+0 0 6868
+D2
+~
+door~
+1 0 6876
+D3
+~
+~
+0 0 6866
+E
+post posts~
+  A wooden post used to tie one horse to.
+~
+S
+#6868
+Merchant Road~
+   A very traveled street Merchant Road was.  Shops can be seen up and down 
+the road.  Each shop has is own speciality, anything from armor and wears to
+everyday supplies could be found in these shops.  Posts run along both sides 
+of the road for securing ones horse and cart.  A few small bushes with large
+leaves and flowers are growing along the road.
+~
+68 0 1
+D0
+~
+door~
+1 0 6873
+D1
+~
+~
+0 0 6869
+D2
+~
+door~
+1 0 6877
+D3
+~
+~
+0 0 6867
+E
+bushes~
+   Always filled with flowers the bushes bloom year around.
+~
+E
+post posts~
+    Wooden posts used to tie ones horse to.
+~
+S
+#6869
+Merchant Road~
+   A very traveled street Merchant Road was.  Shops can be seen up and down 
+the road.  Each shop has is own speciality, anything from armor and wears to
+everyday supplies could be found in these shops.  Posts run along both sides 
+of the road for securing ones horse and cart.  A few small bushes with large
+leaves and flowers are growing along the road.
+~
+68 0 1
+D0
+~
+~
+0 0 6874
+D1
+~
+~
+0 0 6870
+D2
+~
+door~
+1 0 6878
+D3
+~
+~
+0 0 6868
+E
+post posts~
+   Wooden posts used to tie horses to.
+~
+E
+bushes~
+  No matter what time of the year these bushes are in bloom.
+~
+S
+#6870
+Entrance to the City of Corchha~
+   The gates to the city remain torn open all of the time now.  A very large
+engraved picture of a dragon are on both sides of the gates.  Outlined in gold
+with rubys for eyes it makes one take a double look.  The gates are attached to
+the very high wall that surrounds the city.  Guard posts run along the top of
+the wall.  
+~
+68 4 1
+D1
+~
+~
+0 0 18498
+D3
+~
+gates~
+1 0 6869
+E
+gate : gates~
+  The gates remain open for all to come and go. A engraved dragon is
+on both sides of the gates.
+~
+S
+#6871
+Bounty's -r- Us~
+   Signs upon signs line the walls with "WANTED" pictures of citizens from all
+over the different Realms.  A small wooden desk with broken pencils used to be
+where one could have a bounty put on someone.
+~
+68 8 1
+D2
+~
+door~
+1 0 6866
+S
+#6872
+Personal Touch~
+   A small overly dark shop with a single light on a large table filled with
+engraving tools.  At one time engraving was a must to be able to claim ones 
+equipment without putting up a fight to keep it. There is also rooms here
+where you can get a good nights sleep. To keep your gold safe there is also
+a safe located here.
+~
+68 8 1
+D2
+~
+door~
+1 0 6867
+S
+#6873
+General Store~
+   Walls once filled with supplies, from lights to pouches.  A glass counter
+rests in the center of the room. Once filled with the daily special the oven 
+located to the back of the room now lays open and empty.    
+~
+68 8 1
+D2
+~
+door~
+1 0 6868
+S
+#6874
+Dirt Road~
+   A small dirt road leads to a dead end.  Tumbleweeds are scattered about
+the road. Merchant Road is off to the south where the remains of the shops
+can be found.
+~
+68 0 1
+D2
+~
+~
+0 0 6869
+E
+tumbleweeds~
+   A plant broken off at its roots by the wind.
+~
+S
+#6875
+One Whom Knows All~
+   This small shop was filled with books that covered the walls from top to
+bottom.  A sign still hangs in the center of the room which reads.    
+****************************************************************************
+       ^R2000 Coins for information on objects found in the Realms!^n
+~
+68 8 1
+D0
+~
+door~
+1 0 6866
+S
+#6876
+Water Shop~
+   Buckets and buckets filled with bug unfested water run along the back 
+wall. Silver canteens hang from their straps on racks waiting to be filled 
+with water are now tarnished with age..  
+~
+68 8 1
+D0
+~
+door~
+1 0 6867
+S
+#6877
+Steel Plates and Things~
+   A shop once filled with armour, from steel plates to chainmail. Some of
+the finest metals once was sold here to make ones armour the way they want.  
+A few gem enlayed belts are still held within a glass counter.    
+~
+68 8 1
+D0
+~
+door~
+1 0 6868
+E
+counter glass~
+   A few belts are lying inside unable to be gotten due to a ward
+placed by the spirits of the Temple.
+~
+S
+#6878
+Swords to Go~
+   Anything from long swords to spears and axes was sold here.  Heat stills
+flows through the room.  A counter runs the length of the back wall with room
+enough for a person to get behind it if it wasn't filled with pieces of metal.
+A pile of unfinished swords lay scattered about the counter.    
+~
+68 8 1
+D0
+~
+door~
+1 0 6869
+E
+counter~
+  This counter runs the length of the back wall.
+~
+S
+#6879
+Dirt Road~
+   Small pebbles and weeds covers a dirt road.  Birds are flying around off to
+the west in the park.  The Central Square can be seen off to the east where at
+one time was filled with the citizens of the city.. 
+~
+68 4 1
+D1
+~
+~
+0 0 6818
+D3
+~
+~
+0 0 6880
+S
+#6880
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D1
+~
+~
+0 0 6879
+D2
+~
+~
+0 0 6883
+D3
+~
+~
+0 0 6881
+S
+#6881
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D1
+~
+~
+0 0 6880
+D2
+~
+~
+0 0 6888
+D3
+~
+~
+0 0 6882
+S
+#6882
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D1
+~
+~
+0 0 6881
+D2
+~
+~
+0 0 6889
+S
+#6883
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D0
+~
+~
+0 0 6880
+D2
+~
+~
+0 0 6884
+D3
+~
+~
+0 0 6888
+S
+#6884
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D0
+~
+~
+0 0 6883
+D2
+~
+~
+0 0 6885
+D3
+~
+~
+0 0 6887
+S
+#6885
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D0
+~
+~
+0 0 6884
+D3
+~
+~
+0 0 6886
+S
+#6886
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D0
+~
+~
+0 0 6887
+D1
+~
+~
+0 0 6885
+D3
+~
+~
+0 0 6891
+S
+#6887
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D0
+~
+~
+0 0 6888
+D1
+~
+~
+0 0 6884
+D2
+~
+~
+0 0 6886
+D3
+~
+~
+0 0 6890
+S
+#6888
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D0
+~
+~
+0 0 6881
+D1
+~
+~
+0 0 6883
+D2
+~
+~
+0 0 6887
+D3
+~
+~
+0 0 6889
+S
+#6889
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D0
+~
+~
+0 0 6882
+D1
+~
+~
+0 0 6888
+D2
+~
+~
+0 0 6890
+S
+#6890
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 0 1
+D0
+~
+~
+0 0 6889
+D1
+~
+~
+0 0 6887
+D2
+~
+~
+0 0 6891
+S
+#6891
+Park~
+   Trees that bloom flowers all year long are scattered through out the park.
+Animals dart in and out of the trees and bushes.  Grass has covered all of the
+park making a nice even layer of padding for the animals that live within the
+park.  Large nests line the branches of the trees.  A light breeze swirls
+through out the park.
+~
+68 4 1
+D0
+~
+~
+0 0 6890
+D1
+~
+~
+0 0 6886
+D8
+~
+~
+0 0 6892
+S
+#6892
+Pond~
+   Ripples cover the pond as a breeze whips around the area. Weeds are growing
+at the bottom of the water.  Some of the weeds have grown out the top of the
+pond.  A few lilly pads can be seen floating through out the pond.  Be it
+midday or midnight the light from the sun and the moon reflects off the pond
+making a rainbow of colors.    
+~
+68 0 6
+D2
+~
+~
+0 0 6893
+D3
+~
+~
+0 0 6897
+D6
+~
+~
+0 0 6891
+D7
+~
+~
+0 0 6899
+S
+#6893
+Pond~
+   Ripples cover the pond as a breeze whips around the area. Weeds are growing
+at the bottom of the water.  Some of the weeds have grown out the top of the
+pond.  A few lilly pads can be seen floating through out the pond.  Be it
+midday or midnight the light from the sun and the moon reflects off the pond
+making a rainbow of colors.
+~
+68 0 6
+D0
+~
+~
+0 0 6892
+D1
+~
+~
+0 0 6899
+D2
+~
+~
+0 0 6894
+D3
+~
+~
+0 0 6896
+S
+#6894
+Pond~
+   Ripples cover the pond as a breeze whips around the area. Weeds are growing
+at the bottom of the water.  Some of the weeds have grown out the top of the
+pond.  A few lilly pads can be seen floating through out the pond.  Be it
+midday or midnight the light from the sun and the moon reflects off the pond
+making a rainbow of colors.
+~
+68 0 6
+D0
+~
+~
+0 0 6893
+D3
+~
+~
+0 0 6895
+D6
+~
+~
+0 0 6899
+S
+#6895
+Pond~
+   Ripples cover the pond as a breeze whips around the area. Weeds are growing
+at the bottom of the water.  Some of the weeds have grown out the top of the
+pond.  A few lilly pads can be seen floating through out the pond.  Be it
+midday or midnight the light from the sun and the moon reflects off the pond
+making a rainbow of colors.
+~
+68 0 6
+D0
+~
+~
+0 0 6896
+D1
+~
+~
+0 0 6894
+D9
+~
+~
+0 0 6898
+S
+#6896
+Pond~
+   Ripples cover the pond as a breeze whips around the area. Weeds are growing
+at the bottom of the water.  Some of the weeds have grown out the top of the
+pond.  A few lilly pads can be seen floating through out the pond.  Be it
+midday or midnight the light from the sun and the moon reflects off the pond
+making a rainbow of colors.
+~
+68 0 6
+D0
+~
+~
+0 0 6897
+D1
+~
+~
+0 0 6893
+D2
+~
+~
+0 0 6895
+D3
+~
+~
+0 0 6898
+S
+#6897
+Pond~
+   Ripples cover the pond as a breeze whips around the area. Weeds are growing
+at the bottom of the water.  Some of the weeds have grown out the top of the
+pond.  A few lilly pads can be seen floating through out the pond.  Be it
+midday or midnight the light from the sun and the moon reflects off the pond
+making a rainbow of colors.
+~
+68 0 6
+D1
+~
+~
+0 0 6892
+D2
+~
+~
+0 0 6896
+D8
+~
+~
+0 0 6898
+S
+#6898
+Pond~
+   Ripples cover the pond as a breeze whips around the area. Weeds are growing
+at the bottom of the water.  Some of the weeds have grown out the top of the
+pond.  A few lilly pads can be seen floating through out the pond.  Be it
+midday or midnight the light from the sun and the moon reflects off the pond
+making a rainbow of colors.
+~
+68 0 6
+D1
+~
+~
+0 0 6896
+D6
+~
+~
+0 0 6897
+D7
+~
+~
+0 0 6895
+S
+#6899
+Pond~
+   Ripples cover the pond as a breeze whips around the area. Weeds are growing
+at the bottom of the water.  Some of the weeds have grown out the top of the
+pond.  A few lilly pads can be seen floating through out the pond.  Be it
+midday or midnight the light from the sun and the moon reflects off the pond
+making a rainbow of colors.
+~
+68 0 6
+D3
+~
+~
+0 0 6893
+D8
+~
+~
+0 0 6894
+D9
+~
+~
+0 0 6892
+S
+#99999
+$~

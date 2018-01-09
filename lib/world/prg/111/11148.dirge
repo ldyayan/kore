@@ -1,0 +1,15 @@
+>greet_prog 50~
+ say Good and evil don't impress me, I seek balance.
+ say There's more here then just the sewers.
+~
+
+>fight_prog 10~
+ if inroom($r) == here
+  cas 'blind' $r
+ endif
+~
+
+>fight_prog 50~
+  cas 'heal'
+~
+|

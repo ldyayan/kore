@@ -1,0 +1,318 @@
+#3100
+key palace~
+a palace key~
+A valuable looking key lies here in the dirt.~
+~
+18 5 1
+0 0 0 0
+4 1 1
+#3101
+axe mhamok~
+the Axe 'Mhamok'~
+A heavy axe lies here in a pool of blood.~
+~
+5 8403456 8193
+8 6 6 15
+25 7 1
+A
+1 2
+A
+18 2
+#3102
+throne tyrant platinum~
+the Platinum Throne of the Tyrant~
+An immensely huge and heavy platinum throne dominates the Dais.~
+~
+15 0 0
+100 13 3122 0
+120 1 1
+E
+throne platinum huge~
+It looks immovable.
+~
+#3103
+water bottle~
+a bottle~
+A bottle of Evian natural spring water is here.~
+~
+17 0 1
+24 24 15 0
+1 10 6
+E
+bottle~
+It is a large, clean bottle.  There is a large label pasted on the side.
+~
+E
+label~
+You've been ripped off!  It says here at the bottom of the label, in really
+really small letters, 'Bottled in the Midgaard branch of Evian Inc.  This
+water is from the natural, mostly clean River of Midgaard.'
+~
+#3104
+canteen~
+a canteen~
+A canteen has been set on the ground here.~
+~
+17 0 1
+80 80 15 0
+20 45 15
+E
+canteen~
+It is a fairly big canteen.  Looks like it can hold a lot of liquid.
+~
+#3105
+key gold~
+a wicked ^Ygold^n key~
+A wicked ^Ygolden^n key of an impaled man has been left here.~
+~
+18 4 1
+0 0 0 0
+9 0 10
+#3107
+wicked wooden key~
+a wicked wooden key~
+A wicked wooden key of a snake biting its own tail has been left here.~
+~
+18 4 1
+0 0 0 0
+1 0 10
+E
+key wooden~
+The wooden key is not special.  In fact it is just about the most boring
+key you've ever seen in your life.
+~
+#3108
+wicked brass key~
+a wicked brass key~
+A wicked brass key of two animals doing unspeakable things has been left here.~
+~
+18 4 1
+0 0 0 0
+1 0 10
+E
+key brass~
+The brass key is small and looks like it fits a very complicated lock.
+~
+#3109
+desk drawer~
+the desk~
+A desk is set against the western wall.~
+~
+15 0 0
+34 15 3107 0
+100 0 0
+E
+drawer~
+You notice a keyhole in the drawer.
+~
+E
+desk~
+The desk looks very sparse, there is a drawer in the left side.
+~
+#3110
+safe~
+the safe~
+A safe is placed in a dark corner of the room.~
+~
+15 0 0
+34 15 3108 0
+999 0 0
+E
+safe~
+The safe is very heavy and has a keyhole.
+~
+#3111
+bench~
+the Bench~
+A white-painted wooden bench is standing here.~
+~
+12 0 0
+0 0 0 0
+100 600 200
+E
+bench~
+It is a quite heavy but very comfortable bench.  It is placed with its front
+towards the river so you can sit and watch the river and the houses on the
+other side.
+~
+#3112
+key city~
+the City Key~
+The very big City Key is lying here.~
+~
+18 4 1
+0 0 0 0
+30 1 0
+E
+key city~
+It is probably the biggest key you have seen in your life.  It is made from
+polished gold and has various patterns on it along with the Midgaard Coat of
+Arms.
+~
+#3113
+fountain water~
+a fountain~
+A small white fountain is standing here, gurgling happily.~
+~
+23 0 0
+99999 99999 15 0
+500 0 0
+E
+fountain water~
+It is very nice.  Made from fine white marble.
+~
+#3114
+coins gold~
+a small pile of gold coins~
+A small pile of gold coins lies here.~
+~
+20 0 1
+37 0 0 0
+0 0 0
+#3115
+gold coins~
+the gold~
+A lot of gold is here.~
+~
+20 0 1
+32385 0 0 0
+0 32385 0
+#3116
+candlestick candle stick pewter~
+a candlestick~
+A pewter candlestick is standing here.~
+~
+1 0 16385
+0 0 24 0
+5 150 10
+E
+candlestick~
+It is a rather old-looking three-armed candlestick made from pewter.  Its
+candles are a yellowish white color.
+~
+#3117
+tree elm~
+an elm tree~
+An old elm tree grows here.~
+~
+13 0 0
+0 0 0 0
+0 0 0
+E
+elm tree~
+The fresh young leaves of the elm tree wave gently in the wind.
+~
+#3118
+long bow might~
+a Longbow of Might~
+A wicked looking longbow lies here in the dirt.~
+~
+6 64 32769
+0 4 5 11
+16 1 1
+A
+1 3
+A
+19 4
+#3119
+node sorcery~
+a sorcery node~
+A strange stone lies here.~
+~
+11 515 16385
+0 0 0 0
+15 1 1
+A
+12 50
+A
+3 3
+#3120
+large key~
+a large key~
+A huge key lies here in the dust.~
+~
+18 0 1
+0 0 0 0
+1 1 1
+#3121
+desk mahogany~
+a mahogany desk~
+A mahogany desk.~
+~
+8 0 0
+0 0 0 0
+200 10000 1
+#3122
+wicked brown key~
+a wicked brown key~
+A wicked brown key of some thing giving birth to a grinning man lies here.~
+~
+18 4 1
+0 0 0 0
+10 1 1
+#3123
+well water fountain~
+a deep well~
+A deep well, amazingly still has water in it.~
+~
+23 0 0
+0 0 0 0
+100 1 1
+#3124
+torch~
+a torch~
+A torch is burning here, mounted to the wall~
+~
+1 0 16385
+0 0 200 0
+10 200 10
+#3125
+rusty guard helmet~
+a rusty guard helmet~
+A rusty guard helmet is here.. rusting.~
+~
+9 0 17
+4 0 0 0
+9 10 0
+#3126
+shining sword~
+a shining sword~
+A shining sword is here in the dirt.~
+~
+5 0 8193
+0 3 4 3
+10 600 0
+A
+18 2
+A
+19 2
+#3127
+amulet transformation~
+an amulet of transformation(+1)~
+A strange glowing amulet lies here~
+~
+9 143360 5
+10 0 0 0
+20 1 0
+E
+amulet~
+  A amulet
+~
+A
+1 1
+#3128
+amulet transformation~
+an amulet of transformation(-1)~
+A strange glowing amulet lies here~
+~
+9 143360 5
+10 0 0 0
+20 1 0
+E
+amulet~
+  A amulet
+~
+A
+1 -1
+#99999
+$~

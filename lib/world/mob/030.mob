@@ -1,0 +1,814 @@
+#3000
+wizard~
+the wizard~
+A wizard walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard.  He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+33843211 8 900 S
+53 2 2 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3001
+baker shopkeeper~
+the baker~
+The baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker.  But you can see that he has many scars on his
+body.
+~
+33581067 8 900 S
+53 0 -10 1d1+30000 2d8+18
+100 160000
+8 8 1
+#3002
+grocer~
+the grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+33843211 8 900 S
+53 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3003
+weaponsmith~
+the weaponsmith~
+A weaponsmith is standing here.
+~
+He is a young weaponsmith, who still has lots to learn but he is still
+eager to sell you his latest implements of carnage and destruction.
+~
+33843211 8 900 S
+53 0 -10 1d1+30000 2d8+18
+30000 160000
+8 8 1
+#3004
+shopkeeper armourer~
+the armourer~
+An armourer stands here displaying his new armours.
+~
+An old but very strong armourer.  He has made more suits of armour in his
+life than you have ever seen.
+~
+33581067 8 900 S
+53 -30 -10 1d1+30000 2d8+18
+50000 160000
+8 8 1
+#3005
+receptionist~
+the receptionist~
+A receptionist is standing behind the counter here, smiling at you.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+33613851 32808 900 S
+53 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
+#3006
+captain stolar~
+Captain Stolar~
+A retired captain stands here, selling boats.
+~
+This captain has eaten more sharks than you have killed peas.
+~
+33581067 8 900 S
+53 2 2 1d1+30000 2d8+12
+2000 160000
+8 8 1
+#3007
+sailor~
+the sailor~
+A sailor stands here, waiting to help you.
+~
+He looks like a strong, fit sailor.
+~
+26634 0 900 S
+53 0 -10 1d1+30000 2d8+12
+0 160000
+8 8 1
+#3008
+apothecary shopkeeper~
+the Apothecary~
+The Apothecary is here.
+~
+He looks powerful, I wouldnt mess with him.
+~
+33843211 0 900 S
+53 0 -10 1d1+30000 2d8+18
+25000 160000
+8 8 1
+#3009
+wally watermaster~
+Wally the Watermaster~
+Wally the Watermaster is standing behind the counter.
+~
+Wally is a bit pudgy but looks very strong.  He has a glass of Midgaard
+Natural Spring Water in his hand.  When he notices you, he proudly
+displays his fine collection of contemporary waters.
+~
+33581067 8 800 S
+53 0 -10 1d1+30000 1d8+18
+1000 160000
+8 8 1
+#3010
+postmaster post master~
+the postmaster~
+The head postmaster is standing here, waiting to help you with your mail.
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He
+worries about the reputation of the MMS (Midgaard Mail Service), as many
+people seem to think that it is slow.  Perhaps if he were to brush the
+cobwebs from his uniform it would help to make a better impression.
+~
+33744907 32776 1000 S
+53 0 -10 1d1+30000 1d8+18
+2000 0
+8 8 1
+#3011
+statue goddess vulmarta~
+Vulmarta~
+The statue of the goddess Vulmarta is here, attending to people's wounds.
+~
+This is a beautiful statue, showing a goddess all in white with a serene face
+and an archaic smile, she moves mystically to tend to your wounds. Masterfully
+sculpted, she appears as an embodiment of the feminine and the resolute,
+here pouring water to the living things of Kore.  At her feet are offerings
+of flowers that the devoted have left for love of her.
+~
+57354 132224 1000 S
+34 20 10 1d6+4 1d4+0
+0 25
+8 8 2
+#3012
+statue goddess vulmarta angel noel~
+Noel~
+^\        ^y<^Y***^y>^n^\     ^W_  /^w/ \^W\  _^n^\    ^W/ \/^w(^B'^w_^B'^w)^W\/ \^n^\    ^W|  \^c/^w`-'^c\^W/  |^n^\    ^W|  ^c/  ^Y,^c  \^W  |^n^\    ^W| ^c( -.^R!^c.- )^W |^n^\    ^W|  ^c'./^w_^c\.'^W  |^n^\    ^W|   ^c|   |^W   |^n^\    ^W|   ^c|   |^W   |^n^\    ^W|  /^c|   |^W\  |^n^\    ^W|/' ^c|   |^W `\|^n^\    ^W'  ^c/     \^W  '^n^\      ^c/       \^n^\      ^c`"""""""`^n
+~
+This is a beautiful statue, showing a goddess all in white with a serene face
+and an archaic smile, she moves mystically to tend to your wounds. Masterfully
+sculpted, she appears as an embodiment of the feminine and the resolute,
+here pouring water to the living things of Kore.  At her feet are offerings
+of flowers that the devoted have left for love of her.
+~
+57354 132224 1000 S
+34 20 10 1d6+4 1d4+0
+0 25
+8 8 2
+#3013
+newbie tourguide guide~
+the guide~
+A newbie tour guide is here, to take a tour type '^Cfollow guide^n'
+~
+The guide looks friendly enough, perhaps you should 'follow' him.
+~
+712778 21049472 0 S
+60 20 -20 0d1+0 30d30+50
+0 0
+8 8 1
+#3014
+litter ~
+not there litter mob~
+litter
+~
+It looks, err, unfinished.
+~
+41943050 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#3020
+guildmaster master mage~
+the great sorceror Appleby~
+The Highest Sorcerer, your master, is here studying a spellbook.
+~
+Even though Appleby the sorcerer looks old and tired, you can clearly see the
+vast amount of knowledge he possesses.  He is wearing fine magic clothing,
+and you notice that he is surrounded by a blue shimmering aura.
+~
+59418 136 1000 S
+34 0 -10 6d10+640 1d8+24
+18794 100000
+8 8 1
+#3021
+guildmaster master priest~
+the priests' guildmaster~
+Your guildmaster is prayer to your God here.
+~
+You are in no doubt that this guildmaster is truly close to your God; he
+has a peaceful, loving look.  You notice that he is surrounded by a white
+aura.
+~
+59418 136 1000 S
+34 0 -10 6d10+640 1d8+24
+0 100000
+8 8 1
+#3022
+guildmaster master beggar thief~
+the thieves' guildmaster~
+A beggar is sitting here, could she be a guildmaster?
+~
+You realize that whenever your guildmaster moves, you fail to notice it -
+the way of the true thief.  She is to be dressed in poor clothing, having
+the appearance of a beggar.
+~
+59418 136 1000 S
+34 0 -10 6d10+640 1d8+34
+0 100000
+8 8 2
+#3023
+guildmaster master~
+the fighters' guildmaster~
+Your guildmaster is standing here sharpening an axe.
+~
+This is your master. Big and strong with bulging muscles. Several scars
+across his body proves that he was using arms before you were born. He
+has a calm look on his face.
+~
+59418 0 1000 S
+34 0 -10 6d10+740 1d8+34
+0 100000
+8 8 1
+#3024
+sorcerer~
+the sorcerer~
+A sorcerer is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat Magic.
+He is here to guard the Mage's Guild and his superior knowledge of offensive
+as well as defensive spells make him a deadly opponent.
+~
+59403 136 900 S
+53 0 -5 6d10+990 1d8+22
+2000 60000
+8 8 1
+#3025
+knight templar~
+the knight templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of the
+Faith.  His duty is to protect the faithful from persecution and infidel
+attacks and his religious devotion combined with his superior skill makes
+him a deadly opponent.
+~
+59403 136 1000 S
+53 0 -5 6d10+990 1d8+22
+2000 160000
+8 8 1
+#3026
+assassin~
+the assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as
+possible, using all sorts of weapons.  His superior knowledge of how
+and where to use them combined with his extraordinary stealth makes
+him a deadly opponent.
+~
+59403 786600 400 S
+53 0 -10 6d10+990 1d8+25
+2000 160000
+8 8 1
+#3027
+knight~
+the knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and his
+extreme skill combined with his experience in warfare makes him a deadly
+opponent.
+~
+59403 136 800 S
+53 0 -8 6d10+990 1d8+40
+2000 160000
+8 8 1
+#3034
+noname monster~
+Noname Monster~
+The Noname Monster is waiting here for nothing.~
+You see a dummy Monster.~
+8 0 0 S
+1 1 0 1d1+1 1d1+1
+15 20
+8 8 0
+#3040
+bartender~
+the bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+24587 0 900 S
+24 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3041
+waiter~
+the waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+24586 0 900 S
+23 2 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3042
+unseen servant~
+the unseen servant~
+An unseen servant moves spectrally about, doing the mages bidding.
+~
+This powerful unseen servant has been summoned from Limbo to here serve the
+mages guild for one hundred and one years one month and a day.
+~
+24586 2 0 S
+23 1 2 6d10+390 1d8+12
+0 80000
+8 8 0
+#3043
+waiter~
+the waiter~
+A waiter who seems to have reached contact with his God is standing here.
+~
+This waiter almost makes you feel like you should drop to your knees
+and begin to worship your God.  Naaah.
+~
+24586 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3044
+waiter~
+the waiter~
+A waiter who knows where all his customers keep their money is standing here.
+~
+Hmmm... wonder where he got that coin he is playing with.
+~
+24586 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3045
+waiter~
+the waiter~
+A waiter is here.
+~
+This guy looks like he could easily kill you while still carrying
+quite a few firebreathers.
+~
+24586 0 600 S
+23 1 2 6d10+390 1d8+12
+2000 80000
+8 8 1
+#3046
+guard noble~
+a Noble Guard~
+A Guard of a Noble Estate stands here.
+~
+A very competent looking guard, you get the feeling he is paid more
+than the other guards in the city.
+~
+31002 8 600 S
+28 1 -10 2d1+1 1d8+22
+0 80000
+8 8 1
+#3059
+elite royal kore guard~
+the Royal Guard~
+A Royal Guard is here, looking for enemies of the Tyrant.
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+14346 8 1000 S
+25 3 0 5d6+225 3d3+13
+0 30000
+8 8 1
+#3060
+ringil captain guard royal~
+Ringil the Royal Guard~
+Ringil, Captain of the Royal Guard is here looking for trouble.
+~
+  This man's features are hard and angular. He observes you closely,
+regarding you with a severe stare. He wears the uniform of the Royal
+Guard, displaying a multitude of medals and tassels that reflect his
+high rank. The intensity of his gaze reflects the aura of a man in
+whom goodness is not a mere passive quality.
+~
+14346 327808 -400 S
+30 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#3061
+janitor~
+the janitor~
+A janitor is walking around, cleaning up.
+~
+What a tough job he has.
+~
+33554505 0 0 S
+50 20 10 2d6+10 1d5+0
+1 100
+8 8 1
+#3062
+statue tyrant~
+the Statue of the Tyrant~
+The Statue of the Tyrant
+~
+This is a heroic statue of the Tyrant, apparently in his earlier years.
+Its huge and casts its shadow over half the city.
+~
+57354 132224 0 S
+60 20 10 1d1+0 1d1+0
+1 0
+8 8 1
+#3063
+guard kore~
+a guard of Kore~
+A guard of Kore is here.
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+6217 0 350 S
+1 20 5 2d6+60 1d6+1
+0 0
+8 8 1
+#3064
+drunk~
+the drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+10 0 400 S
+2 19 8 2d6+22 1d6+0
+53 200
+8 8 1
+#3065
+beggar~
+the beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+10 0 400 S
+1 20 9 2d6+10 1d5+0
+0 100
+8 8 2
+#3066
+odif yltsaeb~
+the odif yltsaeb~
+An odif yltsaeb is here, walking backwards.
+~
+The odif is a small god that has been reversed by some dog.
+~
+65769 32768 -200 S
+0 20 10 1d6+4 1d4+0
+0 25
+8 8 1
+#3067
+kore guard~
+a guard of Kore~
+A guard of Kore is here, guarding the gates.
+~
+A big, strong, helpful, trustworthy guard.
+~
+6219 0 350 S
+1 20 1 1d12+123 1d8+5
+0 0
+8 8 1
+#3068
+guard sergeant kore~
+a sergeant of the Guard~
+A sergeant of the Guard is here, he looks at you suspiciously.
+~
+A battle scarred veteran of battles, you might not want to mess with him.
+~
+14410 8 350 S
+2 20 0 1d11+325 3d6+5
+0 0
+8 8 0
+#3070
+guildmaster master bard~
+the Master Bard~
+The Dean of the College of Fochlucan is here composing a tune.
+~
+The master bard is here, picking out a tune on his mandolin and carefully
+writing down his findings.  He seems to be studying in order the major
+chords and comparing them to something mystical or magical.  He carefully
+watches the action of the birds in the eaves as he plays, and experiments
+happily.  He wears the clothes of a troubador - checkered black and white
+with red buttons, and he laughs in a jolly way.
+~
+59418 136 1000 S
+34 0 -10 6d10+640 1d8+24
+0 100000
+8 8 1
+#3071
+bard~
+the bard~
+A bard is guarding the entrance.
+~
+He is an experienced bard who has specialized in Poetry and Rhyme.
+He is here to guard the College and his superior knowledge of heart-breaking
+and touching songs make him a deadly opponent.
+~
+59403 136 900 S
+53 0 -5 6d10+990 1d8+22
+2000 60000
+8 8 1
+#3072
+bard~
+the bard~
+A bard is guarding the entrance.
+~
+He is an experienced bard who has specialized in Poetry and Rhyme.
+He is here to guard the College and his superior knowledge of heart-breaking
+and touching songs make him a deadly opponent.
+~
+59403 136 900 S
+53 0 -5 6d10+990 1d8+22
+2000 60000
+8 8 1
+#3073
+salvation army beggar man~
+the salvation army man~
+A salvation army man is here, jingling his bell for the holidays!
+~
+The salvation army man sure looks cheerful this season!
+Hey! Is that the thief guildmaster???
+~
+10 0 400 S
+1 20 9 2d6+10 1d5+0
+0 100
+8 8 1
+#3074
+santa claws claus~
+Santa Claws~
+Santa Claws stands here looking jolly!
+~
+'Ho ho ho!' says Santa! He spies you happily with a giggle and a twinkle..
+He looks jolly and rotund and Very happy this Christmas.
+~
+172106 1152 1000 S
+50 0 -10 10d1000+1000 10d10+50
+50000 0
+8 8 1 8
+#3075
+christmas caroler boy man~
+the Christmas caroler~
+A caroler is here, singing happy Christmas songs!
+~
+You see a young boy, wrapped up warmly, singing Christmas songs!
+~
+74 0 950 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#3076
+sleigh sleighride elf~
+the special Christmas sleigh~
+       ^W*^w               ^y--/   \--
+        ^R\`.^w  ^Mh^wo ^Mh^wo ^Mh^wo   ^y--\ /--
+         ^w(^B"^w-              ^y(^c''^y>^Ro^w
+   ^r()\\  ^R\/^w--^r()\^y   ______/ /
+      ^r\`------' )^w-^y/(  ____ )
+      ^r)________/^y    ||   ||
+  ^c-__/______/___/   ^y^^   ^^^w
+   a special ^RC^Wh^Gr^Wi^Rs^Wt^Gm^Wa^Rs ^csleigh^w ride is here to take you to ^YMahn-tor^w! ^W(jingles)^w
+   ...just ^Mfollow sleighride^n..!!
+~
+  Wow a special sleigh to Mahn-tor!! sure does look like fun!!
+The happy little elf that runs the ride waves to you and beckons you to follow
+him..!
+~
+172106 1152 1000 S
+50 0 -10 10d1000+1000 10d10+50
+50000 0
+8 8 1
+#3077
+ugly lady woman baglady xxx~
+the ugly lady~
+A bag lady with a potato face is here scowling at people.
+~
+   The ugly lady wears rumply grey clothes and points her finger at people
+and yells out, 'You are UGLY!'
+~
+163912 0 -400 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#3078
+halloween not_here dark mother~
+The Dark Mother~
+Halloween
+~
+It looks, err, unfinished.
+~
+8650762 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#3079
+sarafina shopkeeper dwarf~
+Sarafina~
+A small dwarven female sits on a stool behind the counter.
+~
+Sarafina is tall for a dwarf.  She stands approximately four feet
+high and has remarkably soft skin for her race.  Her fingers are
+long and nimble, as is normal for a seamstress of her skill.
+~
+262154 1024 0 S
+25 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#3080
+easter bunny~
+the easter bunny~
+The easter bunny is sitting here.
+~
+  The easter bunny comes but once a year and this year he plans
+to be around the realms of Kore. He likes jellybeans, red ones
+the best.
+~
+778254 8393768 0 S
+55 -30 -7 30d20+20000 5d10+10
+0 0
+8 8 0 9
+#3081
+gortok guildmaster~
+Gortok the guildmaster~
+Behind a small wooden desk sits Gortok the guildmaster.
+~
+   Gortok is a retired adventurer.  There are scars on his arms
+and chest, and a deep gash along his right cheek.  His arms and
+chest are still thick and powerful, though he has resided within
+the city for some time.  Since retirement he has taken over the
+adventurers guild, hiring out mercenaries and the like to do odd
+jobs for the local citizens.
+~
+167772170 1060 0 S
+55 -25 -9 1d1+0 1d1+0
+0 0
+8 8 1
+#3082
+judgement death dark~
+a dark figure~
+A dark figure looms here.
+~
+  One of mystery, the unknown and death. This dark figure will
+pass judgement on all whom wishes to bring him his most prized
+posessions. The rainbow crystals. Do you dare thee to judge
+you and find your most hidden secrets and possible death if
+your sins are to horrid?
+~
+516170 12582952 0 S
+58 -30 -10 1d1+30000 10d8+15
+0 0
+8 8 1
+#3088
+tywong ronk~
+Tywong~
+Tywong runs around unseen.
+~
+You see Ronk.
+~
+8345 852096 -400 S
+30 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#3089
+pet shop boy~
+the pet shop boy~
+The pet shop boy stands here cuddling something furry.
+~
+As you look at him, he opens his hands to reveal a rat!
+~
+26762 0 1000 S
+53 10 1 1d1+30000 6d8+15
+500 9000
+8 8 1
+#3090
+kitten~
+the kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+14 0 0 S
+1 20 9 1d6+11 1d4+0
+0 100
+8 8 0
+#3091
+puppy~
+the puppy~
+A small loyal puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+14 0 0 S
+1 20 9 1d6+11 1d4+0
+0 100
+8 8 0
+#3092
+beagle~
+the beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+14 0 0 S
+2 19 8 1d12+22 1d6+0
+0 200
+8 8 0
+#3093
+rottweiler~
+the rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+14 0 0 S
+3 18 7 1d12+35 1d7+0
+0 800
+8 8 0
+#3094
+wolf~
+the wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+14 0 0 S
+4 17 6 1d12+47 1d8+0
+0 1600
+8 8 0
+#3095
+cryogenicist cryo~
+the cryogenicist~
+The cryogenicist is here, playing with a canister of liquid nitrogen.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+26635 32808 900 S
+53 0 -10 1d1+30000 2d8+32
+0 0
+8 8 2
+#3096
+man master~
+the wizened old man~
+The wizened old man stands here looking old and tired.
+~
+You see a man who looks older than time.  He seems to have some strange power
+but he never actually moves.  It looks like he's been here for many, many years.
+~
+24586 0 1000 S
+45 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#3097
+boy crier~
+a crier~
+Town crier is here.
+~
+  The town crier is a young towns boy. He selling the lastest
+issue of Kore's news.
+~
+33835082 40 0 S
+50 -30 10 30d30+25000 10d10+20
+0 0
+8 8 1
+#3098
+armorer dwarf Fandagnir blacksmith smith~
+Fandagnir~
+Fandagnir the blacksmith is here, forging armor.
+~
+     Fandagnir, son of Burak, is a very respected blacksmith in Kandelspire.
+Since he is the first son of Burak, the most famous blacksmith in Kandelspire,
+he is quite skilled and talented in the art of smithery and metalworks. He is
+quite wealthy, but he still must fill very big shoes from his father.
+~
+647242 1064 0 S
+33 0 -10 1d1+30000 2d8+32
+0 0
+8 8 1
+#3099
+cleaner xterminator eraser~
+the cleaner~
+A cleaner is here, sucking up mobs in his vacuum.
+~
+Ta da... part II
+~
+8413194 0 1000 S
+45 1 0 1d1+1 1d1+1
+15 20
+8 8 1
+#99999
+$~

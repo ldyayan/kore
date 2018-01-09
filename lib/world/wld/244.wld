@@ -1,0 +1,543 @@
+#24400
+Temple Street~
+   You walk along Farmer's Row. All around are stalls and businesses, bringing
+in produce and farm animals from all around, along with village crafts and
+music. Up and down the street you see colorful shops and rustic folk selling
+their country wares. The air has a light scent of manure and good food. To
+the west you see the white pillared Temple of Vulmarta and looking east a ways
+you see the titanic North Gate.
+~
+244 0 8
+D0
+~
+~
+0 0 24401
+D1
+~
+~
+0 0 24420
+D2
+~
+~
+0 0 24354
+D3
+~
+~
+0 0 24403
+S
+#24401
+Stables~
+   You come into a clean and well kept stables. All about in the stalls are 
+magnificent riding creatures. You see chargers and thoroughbreds, ponies and
+donkeys, all manner of riding animal from magnificent to just well kept.
+Some of the horses look like bad-quality swaybacks but at least they're healthy
+and fat.
+~
+244 136 8
+D2
+~
+~
+0 0 24400
+S
+#24402
+Stable Store~
+   This is the small dark room where the stable keeps the mounts for sale.
+It is vital that this room's virtual number is one larger than the stable's
+number.
+~
+244 1032 8
+S
+#24403
+Farm Fresh Produce~
+   You come into a really well-stocked vegetable stall. Foods from far away
+places as well as locally grown food just boggles your mind. Heaped high in
+bins and attractively stacked are mounds of gorgeous vegetables. All well-
+priced, and tasty looking too.
+~
+244 136 8
+D1
+~
+~
+0 0 24400
+S
+#24404
+Temple Street~
+   You walk along Temple Street. Looking east and west up and down the street
+you see a great many little stalls and shops. North you see a little shop that
+looks to be a fletchers where bows and arrows are sold and south you see huge
+pools of blood in the street where the butcher sells fresh meat. Just east is
+the looming grey granite North Gate.
+~
+244 0 8
+D0
+~
+~
+0 0 24405
+D1
+~
+~
+0 0 24407
+D2
+~
+~
+0 0 24406
+D3
+~
+~
+0 0 24420
+S
+#24405
+Fletcher Shop~
+   You come into a wide yellow room that smells faintly of yew. Huge bows and
+delicate little bows adorn the wall. Here and there you see slings and staff-
+slings, crossbows and throwing knives. In all this profusion of weaponry, you
+see actual craftsmen at work on making new bows, carving them out of horn and
+wood, and other craftsmen at a grinder, balancing and grinding thrown knives.
+~
+244 136 8
+D2
+~
+~
+0 0 24404
+S
+#24406
+Butcher Shop~
+   You stand in an outdoor butcher shop. Blood runs in thick pools to the
+gutter. In the air is the strong sickly sweet smell of blood and corpse meat.
+Huge red slabs of meat hang on hooks around the shop. Near the back you see
+horseheads on a shelf, up front here you see mostly choice cuts of various
+meats.
+~
+244 136 8
+D0
+~
+~
+0 0 24404
+D2
+~
+~
+0 0 24412
+S
+#24407
+Gate Square~
+   You stand just south of the massive North Gate in Gate Square. Looking east
+and west up and down Farmer's Row here on Temple Street you are amazed by the
+number of little shops and baazars on the avenue. To the east you hear the
+sounds of music and revelry and see the great brick gate, entrance to the
+Bardic College campus. South you see an awful spectacle of pilloried criminals,
+and north and down a tunnel you see the lands north and out of Kore.
+~
+244 0 8
+D0
+~
+gate~
+0 3112 24418
+D1
+~
+~
+0 0 24409
+D2
+~
+~
+0 0 24408
+D3
+~
+~
+0 0 24404
+D4
+~
+~
+0 0 24419
+S
+#24408
+Public Pillories~
+   You see a huge outdoor pillory. In the stocks is a small gaggle of mostly
+men but a few women, watched over by guards. They are in various conditions
+of helplessness, each with a note pinned on them proclaiming their crime.
+North is Gate Square and the North Gate. South is the back of the Palace of
+the Tyrant and a porch patio where he decrees the punishment of major offenders
+and looking west you see some sort of slaughtering pen behind the butcher shop.
+From that way you hear hideous squeals and chopping noises.
+~
+244 0 8
+D0
+~
+~
+0 0 24407
+D1
+~
+~
+0 0 24411
+D3
+~
+~
+0 0 24412
+S
+#24409
+Temple Street~
+   Here on Temple Street you hear the sounds of revelry and the ringing of
+a blacksmith's hammer. Just north is the open blacksmith's shop. You see all
+kinds of iron objects offered for sale. Looking south you see a large outdoor
+beer garden in front of the public stage that the university puts out. Looking
+east you see a large cluster of brick buildings on the campus that must be
+the Bardic Colleges. Looming north and west just a ways is the North Gate and
+Gate Square.
+~
+244 0 8
+D0
+~
+~
+0 0 24410
+D1
+~
+~
+0 0 24415
+D2
+~
+~
+0 0 24411
+D3
+~
+~
+0 0 24407
+S
+#24410
+Blacksmith's Shop~
+   You enter the black and sooty blacksmiths shop. A huge bellows near the
+back stokes a glowing pile of orange coals. Around the room you see a massive
+anvil, a wall of tongs and other instruments for working iron, and some various
+items under construction like gates and cages. He's also got huge buckets of
+nails and horseshoes and various other odds and ends made of iron, probably
+made by his apprentices.
+~
+244 136 8
+D2
+~
+~
+0 0 24409
+S
+#24411
+Beer Gardens~
+   You come to a large and cheerful beer garden. All around you see a wild
+pavillion with chairs and places to sit and listen to music and watch play
+on the stage just east. Over that way is the Bardic College's public
+performance area where plays and music festivals run non-stop year round.
+Out here is the beer gardens where patrons may order beer and edibles and
+relax. Talking and laughter is encouraged and the atmosphere is slightly drunk.
+~
+244 128 8
+D0
+~
+~
+0 0 24409
+D1
+~
+~
+0 0 24413
+D3
+~
+~
+0 0 24408
+S
+#24412
+Slaughter Pen~
+   You come into a wild and crazy slaughter pen! Animals run amok here in the
+dirt and mud here behind the butcher shop. The pen is a nasty affair where
+the animals are usually held by the lips or snout by a dog and then roughly
+butchered where they stand. Piles of offal and innards draw flies like crazy.
+~
+244 0 8
+D0
+~
+~
+0 0 24406
+D1
+~
+~
+0 0 24408
+S
+#24413
+Outdoor Stage~
+   You come up onto a wide raised stage. There are props about and ropes and
+barrels for scenery, but all that is somewhat hidden from the audience. Up
+here you see the crowds out in the beer gardens west and sense people behind
+you backstage.
+~
+244 4 8
+D0
+~
+~
+0 0 24415
+D1
+~
+~
+0 0 24414
+D3
+~
+~
+0 0 24411
+S
+#24414
+Backstage~
+   Backstage gives you an entirely different perspective on the performance.
+It's in some ways almost more interesting. Looking around you see the ropes
+and pulleys that control the stage curtains and the various movable props like
+the sun and moon. Looking west you see out over the stage and into the beer
+gardens and the crowds.
+~
+244 8 8
+D3
+~
+~
+0 0 24413
+S
+#24415
+Temple Street~
+   Looking around the North End, you see just east the west entrance of the
+Bardic college campus. Looking north you see their public musical instruments
+shop, where magical bardic instruments are sold to raise money for the school,
+and south you see their public playhouse where most of their revenue besides
+guild fees are collected. The stage is just south but where you're standing
+isn't where the audience normally is; they usually watch the performances from
+the beer gardens just west and south. Looking west down temple street you see
+the North Gate and much farther, the white temple of Vulmarta.
+~
+244 0 8
+D0
+~
+~
+0 0 24416
+D2
+~
+~
+0 0 24413
+D3
+~
+~
+0 0 24409
+S
+#24416
+Music Shop~
+   You come into a well-lit music shop where instruments are hung around the
+wall and under display cases. You see all manner of musical instruments,
+all obviously of fine quality. Not true Bardic instruments, they are
+nonetheless very special.
+~
+244 136 8
+D2
+~
+~
+0 0 24415
+S
+#24417
+Outside the North Gate~
+   You come to a sloping cobblestone street. You stand just north of the great
+north gate. From here it is a looming edifice of solid granite, cold and
+forbidding. Strangely bedecked with dark banners, the gate looks almost
+tattered yet strong beneath like a hulking behemoth. On the upper levels you
+see row upon row of defensive arrow slits. It is easily the most massive
+gatehouse you've ever seen. A portcullis covers the north entrance which is
+little more than a tunnel that passes under it. Looking north you see the wide
+open fields of the surrounding countryside.
+~
+244 0 8
+D0
+~
+~
+0 0 24422
+D2
+~
+portcullis~
+1 3112 8292
+S
+#24418
+Under the Murder Holes~
+   You stand inside the great north gate of Kore. Surrounded by the black
+granite of the great gate you feel a chill in your soul. Above you are the
+terrifying murder holes where you could have boiling oil poured on you.
+South is Gate Square, north is the open countryside of Kore.
+~
+244 4 8
+D0
+~
+portcullis~
+1 3112 24417
+D2
+~
+gate~
+0 3112 24407
+S
+#24419
+Exposed landing~
+   You stand on an exposed landing. A stairway down leads back to the street.
+But up here all there is is a door into the gatehouse. Right next to you you
+see an arrow slit where a crossbow could peg you point-blank and next to that
+slit an intriguing array of slits that overlook the square ... to be able
+to fire on people in the square?
+~
+244 4 8
+D5
+~
+~
+0 0 24407
+S
+#24420
+Temple Street~
+   You stand on busy Temple Street. Traffic goes briskly by, with commoners
+and peasants and wealthier merchants pressing together and bustling about.
+Looking north you see a bankers shop. Kore is famous for its merchant banks
+and loans and its innovative bank book systems where a person can keep track
+of their account and make deposits and such like. Looking east and west you
+see the Temple of Vulmarta west and east you see the North Gate and far far
+east the Bardic Colleges.
+~
+244 0 8
+D0
+~
+~
+0 0 24421
+D1
+~
+~
+0 0 24404
+D2
+~
+~
+0 0 8292
+D3
+~
+~
+0 0 8292
+S
+#24421
+Bank of Kore~
+   You stand inside the marvellous white marble bank of Kore. The interior
+is hushed like a temple and oddly it is similarly decorated. Counting tables
+fill the room and large cabinets filled with counted gold set it sacks line
+the room. The bank of Kore must be very very rich.
+~
+244 8 8
+D2
+~
+~
+0 0 24420
+S
+#24422
+On a Path North of Kore~
+   You are on a dirt path leading away from Kore.  South you see the high 
+walls of Kore, and there, in the wall, is an arch that leads into the
+Temple of Vulmarta.  Strangely, the wall is open there to the coast to the
+north.  The countryside is lush and the path leads to the Dragonspine 
+Mountains far off to the north.
+~
+244 0 8
+D0
+~
+~
+0 0 24423
+D2
+~
+~
+0 0 24417
+S
+#24423
+Northern Kore Countryside~
+   You are walking on a wide dirt path through the lush, green, fresh
+Kore countryside.  You can see to the horizon to the north, east,
+and west; the busy city of Kore lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   The path you are on continues north through the field and south back
+to Kore.
+~
+244 0 8
+D0
+~
+~
+0 0 24424
+D2
+~
+~
+0 0 24422
+S
+#24424
+Northern Kore Countryside~
+   You are walking on a wide dirt path through the lush, green, fresh
+Kore countryside.  You can see to the horizon to the north, east,
+and west; the busy city of Kore lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   There is a strange structure on the eastern side of the path.  A small
+dirt path splits off of the main path and leads off to the west.
+~
+244 0 8
+D0
+~
+~
+0 0 24426
+D1
+~
+~
+0 0 8292
+D2
+~
+~
+0 0 24423
+D3
+~
+~
+0 0 24425
+S
+#24425
+A Dirt Path~
+   You are walking along a narrow dirt path north of Kore.  The little path
+leads a winding winding way into a light forest to the west.  To the east
+is a trail running back to the city.  To the north is a patch of untamed
+underbrush blocking your way... wait, there seems to be a small path just
+big enough for a single person to pass through.  Except for the rustling
+of the wind, all is quiet, and there is a sense of expectancy in the air.
+~
+244 0 8
+D0
+~
+~
+0 0 8292
+D1
+~
+~
+0 0 24424
+D3
+~
+~
+0 0 8292
+S
+#24426
+Northern Kore Countryside~
+   You are walking on a wide dirt path through the lush, green, fresh
+Kore countryside.  You can see to the horizon to the north, east,
+and west; the busy city of Kore lies to the south.  All around you
+is healthy green grass and an occasional large oak tree.  The sun feels
+wonderful on your face and a pleasant wind blows through your hair.  Birds
+chirp quietly to themselves and you can smell the faint scent of flowers
+and freshly cut grass.  You feel like you could lie down in the grass and
+stay here forever, surrounded by powerful beauty in all directions.
+   A small path lined by stands of poplar trees extends to the north.
+~
+244 0 8
+D0
+~
+~
+0 0 8292
+D2
+~
+~
+0 0 24424
+S
+#99999
+$~

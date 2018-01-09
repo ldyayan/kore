@@ -1,0 +1,149 @@
+#1200
+innkeeper keeper~
+the Immortal Innkeeper~
+The Immortal Innkeeper is organizing her books here.
+~
+She appears to be having no problem tallying things up.
+~
+11 32768 0 S
+60 0 -10 1d49+901 4d8+5
+15000 250000
+8 8 2 1
+#1201
+postmaster master post~
+the Immortal Postmaster~
+The Immortal Postmaster is hard at work here.
+~
+Scary... a postal worker... working?
+~
+11 32768 0 S
+30 0 -10 1d49+901 4d8+5
+15000 250000
+8 8 2
+#1202
+vacusuck machine 1500~
+the Vacusuck 1500~
+A Vacusuck 1500 wanders around, cleaning.
+~
+This top of the line creation is doing what it is best at...
+sucking up trash.
+~
+65613 33800 0 S
+30 0 -10 1d49+901 4d8+5
+15000 250000
+8 8 0
+#1203
+sacrificial virgin~
+a sacrificial virgin~
+A sacrifical virgin stands here, ready to die to pay homage to Xavier.
+~
+    She has been waiting all her life to die for Xavier. Perhaps now she can
+fulfill her life dream.
+~
+3923994 5616808 0 S
+59 1 0 1d1+1 1d1+90
+15 20
+8 8 2
+#1204
+bug big~
+the big bug~
+A big bug is here crawling around.
+~
+  Wow thats a big bug, 'mpstat' it!
+~
+74 1024 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#1206
+timekeeper~
+the Master Timekeeper~
+The Master Timekeeper wanders about, watch in hand, looking totally lost.
+~
+This mob should never be wandering around on the loose! Please report
+this to the imms!
+
+And *PLEASE*, for the LOVE OF MIKE, no one EVER edit this mob, do NOT load it,
+do NOT delete it or do ANYTHING too it unless you are ABSOLUTELY sure what you are doing!
+
+~
+10 0 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#1207
+doll golem~
+a doll golem~
+A stuffed doll appears to have been discarded here.
+~
+The ridiculous grin this doll wears makes it look not perpetually 
+happy, but fantastically amoral. The arms and legs resemble pliable 
+red and white candy canes.
+~
+131082 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#1250
+toad dragon~
+a dragon toad~
+A large dragon toad is here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#1251
+dragon baby tiamat~
+baby tiamat~
+A little Tiamat is resting here.
+~
+  You see before you a baby five-headed dragon. At least one of
+her five heads stays focused on you at all times. Her aura sends
+off a sense of pride and power. One day she will grow to be as
+big and strong as the Dark Lady herself. But until that time she
+will be under the care of the Goddess of Magic, Ayana.
+~
+17557512 12924072 0 S
+60 -30 -10 6d12+12000 6d10+10
+0 0
+8 8 2
+#1252
+zombie dragon~
+a zombie dragon~
+A zombie dragon is here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#1253
+cabbit~
+a cabbit~
+A cabbit is here.
+~
+Looking something like a cross between a rabbit and a cat, this gray
+furry animal is irresistably cute. As it notices your gaze, it bounces
+up to you and asks, "Meow?".
+~
+8 0 0 S
+2 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#1254
+dog pet~
+a dog~
+A dog is here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

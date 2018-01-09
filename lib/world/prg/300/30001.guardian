@@ -1,0 +1,78 @@
+>command_prog north~
+  if ispc($n)
+   if rand(50)
+     chuckle $n
+     say Sorry, this area is restricted, I can't let you pass..
+     mpstopcommand
+   else
+     say You can't come in here!! GET OUT!
+     mpstopcommand
+   endif
+  endif
+~
+>greet_prog 80~
+  if ispc($n)
+   if level($n) < 45
+     say Bah, get out of here!
+     say You're far too inexperienced for this place..
+     wave $n
+     mpecho $I utters a word of power.
+     mpsilent mpcallmagic 'word of recall' $n
+     mpat $n mpforce $n look
+     tell $n See, this is much safer.
+   endif
+  endif
+~
+>fight_prog 10~
+  laugh $r
+  say HAH! You think you're a match for me?!
+  say I could kill you blindfolded!
+  say Here, I think you could use a little help.
+  mpcallmagic 'inspire' $r
+  say Well, maybe that'll make it a bit more interesting.
+  pat $r
+~ 
+>fight_prog 10~
+  say Oh, this is getting boring, I think its time for you to die.
+  say Ah! Watch out behind you!!
+  mpdamage $r 10d10+50
+  emote sucks in a massive amount of wind and then laughs heartily.
+  say Haha, you fell for it!!!
+~ 
+>fight_prog 10~
+  if goldamt($r) > 10000
+    hop $r
+    tell $r My, we're carrying around a bit of gold, aren't we?
+    tell $r Now what do you need all that money for?
+    mpechoat $r $I slaps you on the back so hard that gold falls out of your pockets.
+    mpechoaround $r $I hits $R on the back so hard that they drop gold!
+    mpsilent mpforce $r drop 5000 coins
+    get all
+  endif
+~ 
+>fight_prog 10~
+  if isaffected($r, haste)
+    glare $r
+    say You're just too fast, we have to do something about that.
+    say I won't get dizzy just on YOUR account.
+    cast 'slow' $r
+  else
+    yawn $r
+  endif
+~ 
+>fight_prog 10~
+  if isfollow($r)
+    sulk
+    say Why must you gang up on me?!
+    mpforce all ungroup
+  endif
+~ 
+>command_prog cast~
+  mpechoaround $n $i notices that $N is about to cast a spell and whips into action!
+  say I'm having enough trouble as it is!!
+  say I'll drain some of that spare energy YOU seem to have!!
+  mpdrainmana $n 5d4+20
+  mpecho $I glows with intense light for a second.
+  mpstopcommand
+~
+|

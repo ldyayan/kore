@@ -1,0 +1,10 @@
+>rand_prog 1~
+ if inroom($r) == here
+   cast 'armor' $r
+   if isaffected ($r, infra)
+   else
+     cast 'infravision' $r
+   endif
+ endif
+~
+|

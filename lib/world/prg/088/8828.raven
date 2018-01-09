@@ -1,0 +1,7 @@
+>fight_prog 5~
+  mpecho $I rends you with its icy claws.
+  mpcallmagic 'poison' $r
+  mpdamage all 3d8
+  mpdrainmove all 20
+~
+|

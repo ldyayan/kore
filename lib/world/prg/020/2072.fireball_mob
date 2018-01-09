@@ -1,0 +1,22 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      mptrigger $n fireball-story
+    endif
+  endif
+~
+>script_prog fireball-story~
+  #
+@
+  mpecho You hear a popping sound issuing forth from the ground.
+  mpasound You hear a popping sound from someplace nearby.
+@
+  mpecho A ball of gas hovering in the air busts brightly into flame, burning you.
+  mpasound There is a brilliant flash of light from someplace nearby.
+  mpdamage all 10d10+10
+~
+>rand_prog 20~
+  mpechasound You hear a popping sound from nearby, followed by a brief flash of light.
+~
+|

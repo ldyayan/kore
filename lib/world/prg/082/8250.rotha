@@ -1,0 +1,14 @@
+>rand_prog 2~
+  moo
+~
+>death_prog 1~
+  mpecho $I is dead!  R.I.P.
+  mpecho $I drops to the ground dead!
+  mpasound Your blood freezes as you hear someone's death cry.
+  mpecho Part of the hide of the beast appears to be suitable for use.
+  mpoload 8217
+  mppose $i stand
+  mpsilent drop hide
+  mppose $i dead
+~
+|

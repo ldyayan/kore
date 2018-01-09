@@ -1,0 +1,23 @@
+>greet_prog 75~
+  if ispc($n)
+    mpechoat $n The armbrustman wheels toward you and fires!
+    mpechoaround $n The armbrustman wheels and fires point blank at $N!
+    mpforce $n sit
+    mpdamage $n 10d8+20
+    mpechoat $n You feel a dull thud and fall to your knees.
+    mpechoaround $n $N crumples to the floor as the arrow pierces $s armor.
+  endif
+~
+>fight_prog 25~
+  mpecho $I kicks over an iron rack, tripping you!
+  mpforce all sit
+  berserk
+  berserk
+~
+>death_prog 30~
+  mpsilent junk all
+  mpsilent remove bow
+  mpsilent junk bow
+  mpecho $I staggers to a firing slit and shoves his bow through it!
+~
+|

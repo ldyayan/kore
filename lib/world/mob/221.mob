@@ -1,0 +1,208 @@
+#22100
+farmboy farm boy~
+a farm boy~
+A farm boy ambles along the road, daydreaming of far-aways lands.
+~
+   The slender youth lopes along dreaming of far-ways lands.
+~
+73868 0 300 S
+5 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#22101
+woodcutter wood cutter~
+the woodcutter~
+A wood cutter toils here, putting his back into each chop.
+~
+   He labors each day, chopping up windfalls and stray branches in order to 
+put food on his family's table.
+~
+73934 0 350 S
+9 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#22102
+nasty snarling guard dog~
+the nasty snarling guard dog~
+A nasty snarling guard dog leaps out of nowhere and bites you!
+~
+   It's big and ugly and underfed.  
+~
+47230 786474 50 S
+10 1 0 1d1+1 1d1+1
+0 20
+8 8 0
+#22103
+small deer doe~
+a small doe~
+A small deer wanders out of the brush and looks at you.
+~
+One of the many gentle creatures that inhabit the verdant farm country.
+~
+140 262144 300 S
+4 1 0 1d1+1 1d1+1
+0 20
+8 8 2
+#22104
+chipmunk~
+a chipmunk~
+A cute little chipmunk yips at you annoyingly.
+~
+  Sure he's cute. All the more incentive to mercilessly slay him...
+~
+6348 262144 0 S
+5 1 0 1d1+1 1d1+1
+0 20
+8 8 1 4
+#22105
+foul smelling troll~
+a foul-smelling troll~
+A troll lurks here muttering about a curse.
+~
+   What a horrible stench!  But as your eyes map the horrible geography of
+his ugly face your gaze is met by two bright eyes.  A ditch of a smile
+creeps across his face.  A sudden calm washes your body clean of fear.
+~
+43086 9176072 -1000 S
+50 1 0 1d1+1 1d1+1
+0 20
+8 8 1
+#22106
+grey fox~
+a grey fox~
+A small grey fox trots along.
+~
+   He trots along with his bushy tail held high as if he has not a care in 
+the world.
+~
+532684 262144 0 S
+7 20 10 1d1+0 1d1+0
+0 0
+8 8 1 4
+#22107
+mountain goat~
+a mountain goat~
+A mountain goat peers at you with huge brown eyes.
+~
+It looks, err, unfinished.
+~
+77964 1024 500 S
+12 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#22108
+large angry bull~
+a large angry bull~
+An angry bull lowers his horns and charges!
+~
+   Goaded by a couple of idle, shiftless youths the bull butted down the
+rails of his pen.  Now he roams about, lost.  He snorts and traces lines
+in the dirt with a forehoof.  He's not a happy bull.
+~
+65640 1056 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 1 10
+#22109
+idle shiftless youth~
+an idle shiftless youth~
+An idle shiftless youth lurks with his slingshot.
+~
+   The skinny kid has no ambitions other than to roam about and torment
+farm animals with his slingshot and pester adventurers making their way
+along the road.  He'll most likely grow into a viscious highwayman if he
+isn't disciplined here and now.
+~
+536776 262144 0 S
+8 20 10 1d1+0 1d1+0
+0 0
+8 8 1 1
+#22110
+grackle bird~
+a grackle~
+A grackle swoops down and pecks at you.
+~
+   A medium-sized grey-brown bird.  She flies around looking for bright 
+objects to pick up and carry back to her nest as well as travellers to 
+pester.
+~
+4684 4194304 300 S
+6 20 10 1d1+0 1d1+0
+0 0
+8 8 2 14
+#22111
+chief bandit ringleader 22111~
+the chief bandit~
+The ringleader of a bandit gang waits for someone to rob.
+~
+   She's tall and muscular.  A dun-colored kerchief conceals her face.
+She and her gang attack travellers and rob them of their goods.  If her 
+victims die in the process, so much the better: one less complaint to
+the authorities.
+~
+14348 787488 -500 S
+30 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+#22112
+bandit member gang 22112~
+a bandit~
+A member of a bandit gang awaits the order to attack.
+~
+   His eyes dart from side to side in the eyeholes of his mask, probing
+for his opponents' weaknesses, looking for an opening...
+~
+6220 787712 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#22113
+songbird bird~
+a songbird~
+A songbird trills amid the leafy branches.
+~
+   A yellow finch who trills an uplifting song.
+~
+136 0 1000 S
+3 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#22114
+racoon~
+a racoon~
+A racoon peers out from behind a tree trunk.
+~
+   He's timid but a fierce fighter once engaged in combat.
+~
+526540 263168 250 S
+7 20 10 1d1+0 1d1+0
+0 0
+8 8 0 8
+#22115
+fawn ~
+a fawn~
+A fawn frolics amid the massive trees.
+~
+   He hops about, his legs still a little wobbly, between the massive trunks,
+then pauses and pricks up his ears.  Then it's back to play.
+~
+200 1024 1000 S
+5 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#22116
+stag deer~
+a stag~
+A stag bounds out from the underbrush.
+~
+   He's strong, and aggressive during the spring and fall ruts.  He rears
+his head, crowned by a massive rack of spiked antlers.  He stands ready
+to defend his harem against incursions from all challengers.  He could pin
+you easily to a tree with his many spikes.
+~
+16842824 1024 1000 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1 11
+#99999
+$~

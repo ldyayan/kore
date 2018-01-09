@@ -1,0 +1,134 @@
+#152
+Beanstalk Castle~
+15299 35 1 35
+D 0 15241     3     2            Rat Maze door west
+M 0 15201     4 15201            a giant ant
+G 1 15228    50    -1                    give a sugar cube
+M 0 15201     4 15201            a giant ant
+G 1 15228    50    -1                    give a sugar cube
+M 0 15202     2 15201            a giant ladybug
+M 0 15212     1 15219            Jack the nimble thief
+E 1 15233    99    16                    wield a generic dagger
+E 1 15215    20    17                    held a plain ^Ygold^n ring
+G 1 15231    30    -1                    give an ice pick
+E 1 15214    35    19                    wield 2 the singing harp
+D 0 15264     2     2            A Dark Hallway door south
+D 0 15254     0     2            The Laboratory door north
+D 0 15254     3     1            The Laboratory door west
+D 0 15227     0     2            Walk-in Medicine Cabinet door north
+O 0 15206    99 15227            a pop rock
+O 0 15207    99 15227            lysergic acid diethylamide
+M 0 15209     1 15226            Mauler, MD
+G 1 15203    99    -1                    give a small wooden key
+G 1 15206    40    -1                    give a pop rock
+G 1 15207    40    -1                    give lysergic acid diethylamide
+G 1 15206    99    -1                    give a pop rock
+G 1 15207    99    -1                    give lysergic acid diethylamide
+E 1 15208    20     0                    light a pen light
+E 1 15227    99    16                    wield a tiny club
+D 0 15226     0     1            Healer's Office door north
+D 0 15226     2     2            Healer's Office door south
+D 0 15226     1     1            Healer's Office door east
+D 0 15253     1     1            Rat Maze door east
+M 0 15216     1 15259            Ann, mistress of the giant mansion
+E 1 15227    99    16                    wield a tiny club
+E 1 15223    10     7                    legs a pair of mechanical legs
+E 1 15222    25    10                    arms a pair of mechanical arms
+E 1 15224    30    17                    held a black bar
+M 0 15213     1 15244            Morris the Cat
+G 1 15216    99    -1                    give a keycard
+E 1 15218    10     3                    neck 1 necklace made of kitty whiskers
+E 1 15217    30     8                    feet kitty paws
+M 0 15211     1 15242            Ben, the raving lunatic
+E 1 15227    50    16                    wield a tiny club
+E 1 15229    30     9                    hands a pair of clammy gloves
+E 1 15213    30     8                    feet a pair of slipshod sandals
+E 1 15212    30    14                    left wrist a blinking wristband
+M 0 15215     1 15255            Jon, the giant wizard
+E 1 15220    15     6                    head a pair of hard goggles
+E 1 15221    20    16                    wield the ^Wdiamond^n pipette
+E 1 15219    30    11                    shield a blast shield
+M 0 15206     1 15216            Mario, the giant chef
+E 1 15202    12     6                    head chef's hat
+E 1 15227    99    16                    wield a tiny club
+E 1 15204    20    12                    about a chef's apron
+M 0 15205    16 15263            a giant servant
+G 1 15226    25    -1                    give a piece of runed paper
+M 0 15205    16 15263            a giant servant
+G 1 15226    25    -1                    give a piece of runed paper
+M 0 15205    16 15263            a giant servant
+G 1 15226    25    -1                    give a piece of runed paper
+M 0 15205    16 15263            a giant servant
+G 1 15226    25    -1                    give a piece of runed paper
+M 0 15207     1 15224            Helen the butler
+G 1 15209    99    -1                    give a mansion key
+E 1 15227    40    16                    wield a tiny club
+E 1 15225    15    17                    held an abacus
+M 0 15204     1 15215            Albert the Fat
+G 1 15211    99    -1                    give a crude key
+G 1 15201    12    -1                    give Horn of Cornucopia
+E 1 15210     7    16                    wield Spoon of Death
+M 0 15203     1 15206            Fred, the giant doorkeeper
+G 1 15200    99    -1                    give a large copper key
+E 1 15227    40    16                    wield a tiny club
+E 1 15232    40    13                    waist a broad leather belt
+D 0 15206     2     2            In Front of the Giant Mansion door south
+M 0 15214    10 15249            a giant albino lab mouse
+G 1 15230    50    -1                    give a rat pellet
+M 0 15210     1 15238            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+M 0 15210     2 15238            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+M 0 15210     3 15238            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+M 0 15210     4 15238            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+D 0 15238     1     2            A Small Foyer door east
+M 0 15210     5 15239            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+M 0 15210     6 15239            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+D 0 15239     1     1            Dilapidated Hallway door east
+M 0 15210     7 15230            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+M 0 15210     8 15230            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+D 0 15230     0     2            Fancy Hallway door north
+D 0 15230     1     2            Fancy Hallway door east
+D 0 15230     2     2            Fancy Hallway door south
+M 0 15208    14 15228            a giant mental patient
+E 1 15205     5     8                    feet a pair of bunny slippers
+D 0 15228     2     1            Intensive Care Room door south
+M 0 15208    14 15235            a giant mental patient
+E 1 15205     5     8                    feet a pair of bunny slippers
+D 0 15235     0     2            Recovery Room door north
+M 0 15208    14 15234            a giant mental patient
+E 1 15205     5     8                    feet a pair of bunny slippers
+D 0 15234     2     2            Recovery Room door south
+M 0 15208    14 15233            a giant mental patient
+E 1 15205     5     8                    feet a pair of bunny slippers
+D 0 15233     0     2            Recovery Room door north
+M 0 15208    14 15232            a giant mental patient
+E 1 15205     5     8                    feet a pair of bunny slippers
+D 0 15232     2     2            Recovery Room door south
+M 0 15210     9 15229            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+M 0 15210    10 15229            a giant house guard
+E 1 15227    20    16                    wield a tiny club
+D 0 15229     0     2            Fancy Hallway door north
+D 0 15229     2     2            Fancy Hallway door south
+M 0 15208    14 15225            a giant mental patient
+M 0 15208    14 15225            a giant mental patient
+D 0 15225     3     1            Hallway Intersection door west
+D 0 15207     0     2            The Foyer door north
+D 0 15237     3     2            Dilapidated Hallway door west
+D 0 15217     3     1            Busy Hallway door west
+D 0 15218     1     1            Garbage Chute door east
+D 0 15243     3     1            Dilapidated Hallway door west
+D 0 15256     0     2            A Dark Hallway door north
+D 0 15257     2     2            A Dark Hallway door south
+D 0 15258     2     1            Penthouse Office door south
+D 0 15231     3     2            Bottom of Spiral Stair door west
+S
+#99999
+$~

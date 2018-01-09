@@ -1,0 +1,40 @@
+>all_greet_prog 25~
+  if ispc($n)
+    mpechoat $n Someone slashes you from behind!
+    mpechoaround $n A figure emerges from the shadows and slashes $N!
+    mpdamage $n 10d15+50
+  endif
+~
+>command_prog recite~
+  mpechoat $n $I notices you pulling a scroll out of your pocket.
+  mpechoaround $n $I notices $N pulling a scroll out of $S pocket.
+  say No funny magic while in my presence!
+  mpstopcommand
+  mpechoat $n $I laughs as $j snatches the scroll from your hands.
+  mpechoaround $n $I laughs as $j snatches the scroll from $N's hands.
+~
+>fight_prog 10~
+  if inroom($r) == here
+    mpecho $I grabs you and spins you into an ally!
+    mpforce all sit
+    berserk
+    berserk
+    disarm $r
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here 
+    mpechoat $r $I slashes you from behind!
+    mpechoaround $r $I slashes $R from behind!
+    mpdamage 9d9+30
+  endif
+~
+>fight_prog 15~
+  if inroom($r) == here 
+    disarm $r
+    mpechoat $r $I viciously headbutts you, sending you sprawling and causing you to drop your belongings!
+    mpechoaround $r $I viciously headbutts $R, sending $L sprawling and causing $L to drop $K belongings!
+    mpforce $r drop all
+  endif
+~
+|

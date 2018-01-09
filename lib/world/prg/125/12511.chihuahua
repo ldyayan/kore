@@ -1,0 +1,21 @@
+>command_prog flee~
+  mptrigger $n run-and-hide
+~
+>script_prog run-and-hide~
+@
+@
+@
+@
+  if inroom($n) == here
+    bark $n
+    follow $n
+    mpstopscript
+  else
+    if rand(30)
+      emote sniffs the ground and runs off.
+    endif
+    mptrackto $n
+    mptrigger $n run-and-hide
+  endif
+~
+|

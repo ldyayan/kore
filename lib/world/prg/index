@@ -1,0 +1,800 @@
+* Limbo
+1	000/1.jitesh
+99	xxx/xxx.mpdamage_bug
+*
+* Astral Plane
+104	generic/ghost
+105	generic/ghost
+122	generic/ghost
+*
+* Olympus
+401	004/401.zeus
+402     004/402.prometheus
+406	004/406.ares
+421	004/421.hera
+430	004/430.ascl
+439	004/439.hellhound
+440	004/440.cleaner
+*
+* Clan Zone One
+500     005/500.aule
+501	005/501.frog
+502     005/502.miranda
+503     005/503.celia
+504     005/504.rubicon
+505     005/505.selrahn
+506     005/506.eternity
+509     005/509.claw
+510     005/510.fiend
+511     005/511.mylia
+* 512	005/512.phoenix
+514     005/514.flame
+516     005/516.fear
+517     005/517.L
+518     005/518.O
+519     005/519.N
+520     005/520.E
+521     005/521.R
+522     005/522.power
+523     005/523.rage
+524     005/524.peace
+525     005/525.morale
+526     005/526.joemy
+527     005/527.emily
+528     005/528.peleus
+529     005/529.ariana
+530     005/530.feyus
+531     005/531.kasmir
+532     005/532.mink
+533     005/533.antaeus
+534     005/534.naxos
+535     005/535.parrius
+536     005/536.rhoda
+537     005/537.ledia
+538     005/538.puck
+539     005/539.xavier
+542     005/542.healer
+543     005/543.healer
+546     005/546.scintilla
+547     005/547.orb
+548     005/548.myria
+549     005/549.lysia
+550     005/550.nurse
+551     005/551.phoenix
+552     005/552.shannon
+553     005/553.zephyr
+554     005/554.suit_armor
+555     005/555.arrizel
+556     005/556.dyportal
+559     005/559.emblem
+560     005/560.saime
+561     005/561.roma
+*
+* Clan Zone Two
+600     006/600.jerzeba
+601     006/601.selran
+602     006/602.vesrin
+603     006/603.maedar
+605     006/605.portal_up
+606	006/606.wraith
+608     006/608.covrecep
+610     006/610.xenophobe
+611     006/611.wind
+612     006/612.kuo-toa
+613     006/613.slave
+614     006/614.VUportal
+615     006/615.VUsoldier
+618     006/618.kuo-toa
+619     006/619.ellcry
+625     006/625.golddragon
+626     006/626.sildragon
+627     006/627.dyrecep
+628     006/628.tootrecep
+699     006/699.guardian
+*
+* Abandoned House
+819	generic/ghost
+*
+* Forest of Dh'Vral
+1001    010/1001.drow_warrior
+1004    010/1004.priestess
+1008    010/1008.druid
+1012    010/1012.torturer
+1015    010/1015.whore
+1016    010/1016.servant_girl
+1017    010/1017.dhvral
+1018    010/1018.druid
+*
+* God Rooms
+1203    012/1203.virgin
+1207    012/1207.doll
+1251    012/1251.baby
+1253	012/1253.cabbit
+*
+* Arena
+1300    151/15116.nomagic
+*
+*
+* Gauntlet
+1400	014/1400.combatblocker
+1401    014/1401.gorstag
+1402    014/1402.hofnokkin
+1403    014/1403.dulbie
+1404    014/1404.shantalla
+1405    014/1405.blartok
+1406    014/1406.eirdon
+1407    014/1407.muldin
+1408    014/1408.slok
+1409    014/1409.vissenth
+1410    014/1410.bohn
+1411    014/1411.bogras
+1412    014/1412.shivak
+1413    014/1413.tiethelik
+1414    014/1414.pandora
+1415    014/1415.caliehl
+*
+* Avernus
+2001	020/2001.tiamat
+2003	020/2003.yeenoghu
+2004	020/2004.grahl
+2005	020/2005.malphas
+2006	020/2006.ayan
+2007	020/2007.amduscias
+2008	020/2008.grunchuk
+2010	020/2010.black_dragon
+2011	020/2011.red_dragon
+2012	020/2012.green_dragon
+2013	020/2013.blue_dragon
+2014	020/2014.white_dragon
+* 2020	020/2020.aurak
+2021	020/2021.sivak
+* 2022	020/2022.kapak
+* 2023	020/2023.baaz
+* 2024    020/2024.bozak
+2031	020/2031.kapak_adventurer
+2032	020/2032.kapak_maiden
+2033	020/2033.deva
+2036	020/2036.black_abishai
+2037	020/2037.red_abishai
+2038	020/2038.green_abishai
+2039	020/2039.blue_abishai
+2040	020/2040.white_abishai
+2050	020/2050.charon
+2051	020/2051.soul
+2066	020/2066.terrasque
+2070	020/2070.door_southeast
+2071	020/2071.portal_down
+2072	020/2072.fireball_mob
+2102	021/2102.sad_woman
+2103	021/2103.titivilus
+*
+* Mahn-Tor
+2206	generic/ghost
+2211    022/2211.chieftain
+2225	022/2225.gorak
+2226	022/2226.darkoth
+2227	022/2227.tyrgoth
+2228	022/2228.amyrok
+2229	022/2229.sumaron
+2230	022/2230.nasturn
+2231	022/2231.belrak
+2232	022/2232.dorgar
+2233	022/2233.mahntor
+*
+* High Tower
+2500	025/2500.guardian
+2503	025/2503.diamond_golem
+2512	025/2512.hands
+2513	025/2513.eyes
+2515	025/2515.apprentice
+2516	025/2516.apprentice
+2517	025/2517.apprentice
+2518	025/2518.apprentice
+2520	025/2520.student
+2522	025/2522.student
+2524	025/2524.student
+2564	025/2564.mistress
+*
+* Kore
+3011	030/3011.vulmarta
+* 3012	030/3011.vulmarta         this is noel
+3013	030/3013.guide
+3014    030/3014.litter
+3060    030/3060.ringil
+3061    030/3061.janitor
+3065    030/3065.beggar
+3067    030/3067.gate_guard
+3068    030/3068.sergeant
+3073	030/3073.salvation_army
+3074	030/3074.santa
+3075	030/3075.caroler
+3076	030/3076.sleigh
+3077	030/3077.ugly_lady
+3078    030/3078.halloween
+3080    030/3080.easter_bunny
+3082    030/3082.judgement
+3096	030/3096.old_man
+3098    030/3098.fandagnir
+3099	030/3099.cleaner
+*
+* Palace of the Tyrant
+3102	031/3102.tyrant
+*
+* Misc 32
+3200    032/3200.king
+3201    032/3201.dennis
+3202    032/3202.woman
+3203	032/3203.minstrel
+*
+* Tomb of the Kings
+3403	generic/ghost
+3404	034/3404.azul
+3405	generic/ghost
+3410	034/3410.demaliv
+3412	034/3412.king_crotus
+3415	generic/ghost
+*
+* North Kore
+* 3713    037/3713.rowdy_drunk
+ 3720 	  037/3720.gleeman
+* 3721	  037/3721.mime
+3752	037/3752.fly
+* 3754    037/3754.chicken
+* 3755	  037/3755.chick
+* 3756	  037/3756.small_hen
+* 3757	  037/3757.small_rooster
+* 3758	  037/3758.rooster
+*
+* Graveyard
+3897	generic/ghost
+*
+* Shar'han (aka Moria)
+4004    040/4004.orcboss
+4005    040/4005.orc
+4050    040/4050.white_boss
+4051    040/4051.whitey
+4055    040/4055.hob
+*
+* Avalon Mink
+4221	042/4221.lord
+*
+* Kingdom of Juargan
+*
+*
+* The Drow City
+5102	051/5102.drow_warrior
+5106	051/5106.drow_lord
+5111	051/5111.yochlol
+5112	051/5112.spider_statue
+5113	051/5113.spider_animator
+*
+* New Thalos
+5438    054/5438.gord
+5440	054/5440.daghdha
+5442	054/5442.prophet
+5466	054/5466.blacksmith
+5469	054/5469.ixitxachitl
+5491	054/5491.craftsman
+*
+* Kandelspire
+6500	065/6500.gateguard
+6503	065/6503.fandagnir
+6501	065/6501.patrol_guard
+6514	065/6514.barrack_guard
+*
+* Abyss
+6601	generic/ghost
+*
+* City
+6802     068/6802.warrior
+6803     068/6803.warrior
+6804     068/6804.thief
+6813     068/6813.cadilari
+6814     068/6814.seasounds_1
+6815     068/6815.seasounds_2
+6816     068/6816.nothere
+6817     068/6817.tumbleweed
+6819     068/6819.healer
+6820     068/6820.statue_1
+6821     068/6821.statue_2
+6822     068/6822.statue_3
+6823     068/6823.statue_4
+6824     068/6824.statue_5
+6825     068/6825.statue_6
+6826     068/6826.statue_7
+6827     068/6827.statue_8
+6828     068/6828.spirit_1
+6829     068/6829.spirit_2
+6830     068/6830.spirit_3
+6831     068/6831.spirit_4
+6832     068/6832.spirit_5
+6833     068/6833.spirit_6
+6834     068/6834.spirit_7
+6835     068/6835.spirit_8
+*
+*Battle Ring
+7600     076/7600.leveltwo
+7601     076/7601.levelthree
+7602	 076/7602.levelfour
+7603	 076/7603.levelking
+*
+* Clanhall Genocide
+*7900    079/7900.paladia
+*7902    079/7902.morgus
+*7903    079/7903.trian
+*7905    079/7905.kirin
+*7906    079/7906.farkor
+*7909    079/7909.krone
+*7996    079/7996.predator
+*7997    079/7997.merchant
+*7999    079/7999.mrt
+*
+* Blingdenstone
+8201    082/8200.shopkeeper
+8208    082/8200.shopkeeper
+8213    082/8213.statue
+8214    082/8214.king
+8225    082/8225.belwar
+8250    082/8250.rotha
+8261    082/8261.ruby_check
+8265    082/8200.shopkeeper
+8268    082/8268.gateguard
+8270    082/8270.entemoch
+8272    082/8272.cleric
+8288    082/8288.tywong
+8290    082/8290.summoner
+8296    082/8296.guard
+8297    082/8297.guard
+8298    082/8298.silence
+8299    082/8299.advisor
+*
+* Wicca Island I
+8601	086/8601.shadow_ronin
+8618	086/8618.papa_toad
+8619	086/8619.small_dragon_turtle
+8621	086/8621.ball_lightning
+8624	086/8624.gibbering
+8629	086/8629.kobold_elder
+8633	086/8633.kobold_shopkeep
+8634	086/8634.kobold_chef
+8636	086/8636.drow_guard
+8637	generic/falling_room
+*
+* Wicca Island II
+8701	087/8701.wicca
+8703	087/8703.large_dragon_turtle
+8705	087/8705.mind_flayer
+8706	087/8705.mind_flayer
+8707	087/8705.mind_flayer
+8708	087/8708.githyanki
+8709	087/8708.githyanki
+8710	087/8710.lich
+8711	087/8710.lich
+8712	087/8712.mephit
+8713	087/8712.mephit
+8714	087/8714.kobold_alchem
+8728	087/8728.luck_eater
+8729	087/8729.hybsil
+8730	087/8730.behemoth
+8731	087/8731.basidirond
+8735	087/8735.dun_pudding
+8742	087/8742.thought_eater
+8747	087/8747.ruby_statue
+8748	generic/ghost
+8752	generic/falling_room
+8753	087/8753.freezing_room
+8754	087/8754.burning_room
+*
+* Wicca Island III
+8801	088/8801.kobold_druid
+8802	088/8802.kirin
+8804	088/8804.mist_dragon
+8805	088/8805.blink_dog
+8806	088/8806.wemic
+8807	088/8807.fire_giant
+8808	088/8808.frost_giant
+8809	088/8809.hill_giant
+8811	088/8811.stone_giant
+8812	088/8812.storm_giant
+8817    088/8818.golem
+8818    088/8817.golem
+8819    088/8816.golem
+8820    088/8818.golem
+8821    088/8818.golem
+8822    088/8815.golem
+8828	088/8828.raven
+8831	088/8831.ronin_lord
+8832	088/8832.ronin_prince
+8833	088/8833.taco
+8836	088/8836.ruby_golem
+8837	088/8837.dawnfire
+8838	088/8838.covenant
+8839	088/8839.remus
+8840	088/8840.zaras
+8841	generic/falling_room
+*
+* Mountains of Chaos
+9501    095/9501.nahklug
+* 9513	095/9513.orc_woman
+9517    095/9517.chieftain
+9518	095/9518.brekstack
+*
+* Ghenna
+9902	generic/ghost
+9908	099/9908.gorgimera
+9923	099/9923.swordmistress
+*
+* Shade's Tower
+10002	100/10002.spider
+*
+* Vice Island
+*10611	generic/ghost
+* 
+* Culvan's because-he's-bored zone
+*10800   108/10800.raider
+*10850   108/10850.Izzy
+*10898   108/10898.couch-out
+*10899   108/10899.couch-in
+*
+* Ruins of Trokair
+11002	110/11002.banshee
+11003	generic/ghost
+11005	110/11005.undead_lord
+11007	110/11007.muckdweller
+11008	110/11008.mastiff
+11009	110/11009.nightmare
+11013	110/11013.doctor_caldern
+11015	generic/ghost
+11016	110/11016.assassin
+11017	110/11017.irinia
+11018	110/11018.grakos
+11019	generic/ghost
+11021	110/11021.skeleton
+11022	110/11022.large_skeleton
+11023	110/11023.bone_rat
+11010   110/11010.chained_man
+11011   110/11011.poor_soul
+11012   110/11012.mishakal
+11001   110/11001.zombie
+11003   110/11003.wraith
+11004   110/11004.ghoul
+11015   110/11015.guardian
+11020   110/11020.medium_demon
+11014   110/11014.death_demon
+11024   110/11024.essence
+11025	110/11025.scrounge_mob
+11036	110/11036.wall_reset
+11037	110/11037.trap_door
+*
+* Ayana's
+*11250   111/11250.grinch
+*11251   111/11251.santa
+*11252   111/11252.caroler
+*11253   111/11253.reindeer
+*
+*Rome
+12009   120/12009.healer
+*
+* Eastern Slums of Kore
+12236	122/12236.otto
+*
+* The Mining City of Derlin
+12300   123/12300.karride
+12301   123/12301.exchange_teller
+12308   123/12308.cityguard
+12309   123/12309.gateguard
+12314	123/12314.loader
+12315   123/12315.crix
+12317   123/12317.miner
+12318   123/12318.thrikreen_miner
+12319   123/12319.ox
+12321   123/12321.cleric
+*
+* Ackeron the Unholy Flame
+*12400   124/12400.ackeron
+*
+* Slums of Kore
+12507	125/12507.beggar
+12510	125/12510.leper
+12511	125/12511.chihuahua
+12512	125/12512.insane_man	eek he's nuts
+12515	125/12515.baron
+12516	125/12516.golem
+12526	125/12526.thug
+12527	generic/ghost
+*
+* King Welmar's Castle
+15002	generic/ghost
+*
+* Quar'Valsharess Zir'nozz' Arena
+15100   151/15100.lever_mob
+15101   151/15101.ice_skid
+15102   151/15102.fallmob_1
+15103   151/15103.fallmob_2
+15104   151/15104.wraith-kas
+15105   151/15105.duergar
+15106   151/15106.drink
+15107   151/15107.no_spells
+15108   151/15108.no_movement
+15109   151/15109.meazel
+15110   151/15110.maedar
+15111   151/15111.generator-better
+15112   151/15112.cloaker-loader
+15113   151/15113.cloaker
+15114   151/15114.illusion
+15115   151/15115.cloakermob
+15116   151/15116.fallmob_3
+15117   151/15117.illusion
+15119   151/15118.mist
+15120   151/15120.typo
+*
+* Beanstalk Castle
+15206	152/15206.mario
+15209	152/15209.mauler
+15210	152/15210.guard
+15211	152/15211.ben
+15212	152/15212.jack
+15213	152/15213.morris
+15215	152/15215.jon
+15216	152/15216.ann
+15217	152/15217.morris
+15218	152/15218.guard
+15219	152/15219.scrounge_mob
+*
+* New City of Kore
+16000   160/16000.bartender
+16001   160/16001.gateguard
+16002   160/16002.guard
+16003   160/16003.sergeant
+16004   160/16004.barmaid
+16005   160/16005.farmer
+16006   160/16006.dreg
+16007   160/16007.offduty
+16008   160/16008.baker
+16009   160/16009.leather
+16010   160/16010.potter
+16011   160/16011.tailor
+16012   160/16012.yirenia
+16013   160/16013.peasant
+16014   160/16014.elderly_lady
+16015   160/16015.janitor
+16016   160/16016.ox
+16017   160/16017.bribed_guard
+16018   030/3060.ringil
+16021   160/16021.chicken
+16022   160/16022.hooker
+16023   160/16023.thug
+16024   160/16024.addict
+16026   160/16026.sword_peddler
+16027   160/16027.barkeep
+16028   160/16028.wizard
+16029   160/16029.apothecary
+16030   160/16030.armourer
+16031   160/16031.captain_stolar
+16050   160/16050.nothere
+*
+* The Order of Tanalos
+16501	165/16501.torasch
+16502   165/16502.monchira
+16507	165/16507.old_elf
+16509	165/16509.sonaris
+16510	165/16510.katrae
+16511	165/16511.raczon
+16512	165/16512.monk
+16513   165/16513.old_mage
+16514	165/16514.hyraenecus
+*
+* Blithe
+*16600   166/16600.squirrel
+*16601   166/16601.guardian
+*16604   166/16604.baker
+*16607   166/16607.imp
+*16608   166/16608.demon
+*16610   166/16610.imp
+*16611   166/16611.imp
+*16612   166/16612.chest
+*16615   166/16615.fletcher
+*16619   166/16619.grock
+*16620   166/16620.receptionist
+*16622   166/16622.mayor
+*16624   166/16624.spirit
+*16626   166/16626.sleeper
+*16627   166/16627.awakening
+*16628   166/16628.woman
+*16629   166/16629.noflee
+*
+
+18126	181/18126.shaitan
+* Council of Demariv
+18201   182/18201.watch
+18214   182/18214.lim
+18221   182/18221.peddler
+18222   182/18222.leper
+18224   182/18224.keeper
+18227   182/18227.damodred
+*
+* The Hidden Temple of Virmene
+18301   183/18301.strom
+18306   183/18306.bone
+18307   183/18307.spirit
+18308	generic/ghost
+18309   183/18309.torment
+18310	generic/ghost
+18311   183/18311.chantrel
+18312   183/18312.golem
+18313   183/18313.demon
+18318	generic/ghost
+18319   183/18319.free
+18320   183/18320.summoner
+18321   183/18321.summoner
+18322   183/18322.summoner
+18323   183/18323.summoner
+18324   183/18324.summoner
+18330	generic/ghost
+18331   183/18331.virmene
+*
+* The Estate of Malchot the Artificer
+*18403	generic/ghost
+18403   184/18403.spirit
+18438   184/18438.straw
+18439   184/18439.straw
+18442   184/18442.wax
+18444   184/18444.stone
+18447   184/18447.voldov
+18448   184/18448.milsik
+*
+*Jitter Park
+28501   285/28501.fish
+28502   285/28502.guard
+28507   285/28507.cat
+*
+* Bone Hill
+18610	generic/ghost
+*
+* Lorien
+*19097   190/19097.cleric
+*19009	generic/ghost
+*
+* Elven Woods
+*19109   191/19109.butler
+*
+* The Park
+* 20301	203/20301.guardian
+*
+* The Grey Marshes
+22000	220/22000.forgemaster
+22002	220/22002.antimagic_bugs
+22003	220/22002.antimagic_bugs
+22004	generic/block_all_north
+22006	220/22006.lightning_rock
+22007   220/22007.toad
+22008   220/22008.snake
+22012   220/22012.cloud
+22013   220/22013.porter
+22014	220/22014.spag_boatman
+22018	220/22018.master
+22019	generic/block_north
+22021	220/22021.ober
+22025	220/22025.stollekommando
+22026   220/22026.old_man
+22030	generic/block_up
+22045   220/22045.hound
+22047	220/22047.armbrustman
+22048   220/22048.snatcher_harridan
+22055	generic/generic_warrior
+22061   220/22061.signalman
+22067	220/22067.notthere_archer
+22068	220/22068.rampart_archer_invisible
+*
+* Dunbar's Road
+* 22111   221/22111.ringleader
+* 22112   221/22112.bandit
+*
+* The Training Area
+23000	230/23000.vulmarta
+23002	230/23002.master1
+23003	230/23003.master2
+23006	230/23006.master3
+23008	230/23008.master4
+23011	230/23011.master5
+23012	230/23012.master8
+23014	230/23014.master6
+23017	230/23017.master7
+23018	230/23018.secretary
+23090   230/23090.vulmarta_spirit_quest
+23091   230/23091.vulmarta_quest
+23092   230/23092.darkfriend
+23093   230/23093.gremlin_5
+23094   230/23094.gremlin_4
+23095   230/23095.gremlin_3
+23096   230/23096.gremlin_2
+23097   230/23097.gremlin_1
+23098   230/23098.xlita
+23099   230/23099.terror
+*
+* The City of Etorg
+*24900   249/24900.gateguard
+*24901   249/24901.mustfly
+*24902   249/24902.fallmob
+*24903   249/24903.fallmob
+*
+* City of Eli
+25537   255/25537.tarin
+25538   255/25538.tanthas
+25539   255/25539.altheas
+25540   255/25540.naris
+25542	255/25542.vortex_beast
+*
+* Silver Mine -- quest only
+*26298	262/26298.achin
+*
+* The Temple of Orsus
+26400   264/26400.monument
+26401	264/26401.defender
+26405	264/26405.ordus
+26406	264/26406.ordolonus
+26410   264/26410.nothere
+26412   264/26412.hook
+26413   264/26413.scrounge_mob
+26415   264/26415.spirit
+26416	generic/ghost
+26417	264/26417.stalactite_death
+26418	264/26418.stalactite_greet
+*
+* The City of Orsus
+26509	generic/generic_warrior
+26516	generic/ghost
+26517	265/26517.monk
+26520	265/26520.animal
+*
+* Aesir
+26602	266/26602.berserker
+26603	266/26603.statue
+26608	266/26602.berserker
+26627   266/26627.sigyn
+26628	266/26628.munin
+26629   266/26629.elder
+26630	266/26630.fenris
+26642	266/26642.bragi
+26643   266/26643.wolf
+26644   266/26644.skymere
+26646   266/26646.asleif
+26647   266/26647.thyre
+*
+*
+* Tas' Zone
+*26903   269/26903.old_lady
+*26907   269/26907.bat
+*
+* Drow House - Zirnozz
+28000   280/28000.matron
+28001   280/28001.high_priestess
+28002   280/28002.assassin
+28003   280/28003.tloader
+28004   280/28004.trapper
+28005   280/28005.rmg
+28006   280/28006.bunny
+*
+* Temple - Ayana
+28302   283/28302.highpriest
+28304   283/28304.cleric
+28310   283/28310.spider
+28311   283/28311.roommob
+28390   283/28390.zombie
+*
+* Verla
+*30000   300/30000.goat
+*30001   300/30001.guardian
+*30002   300/30002.rabbit
+*30004   300/30004.mayor
+*30005   300/30005.artisk
+*30007   300/30007.destel
+*30010   300/30010.sapho
+*30012   300/30012.lavamob
+*
+* Culvan
+*10810   108/10810.thand
+*10809   108/10809.tskel
+*10806   108/10806.loader
+#99999
+$~

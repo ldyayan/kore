@@ -1,0 +1,14 @@
+>greet_prog 30~
+  if ispc($n)
+    say Welcome to Derlin, enjoy your stay.
+    open gate
+  endif
+~
+>fight_prog 7~
+  if inroom($r) == here
+    kick $r
+    disarm $r
+  endif
+~
+|
+

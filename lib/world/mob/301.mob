@@ -1,0 +1,540 @@
+#30100
+bloodspear scout ~
+a Bloodspear Scout~
+A muscular humanoid covered in war-paint charges at you from the tall grasses!
+~
+  You see a large muscular human-type being, he is covered in blue and red
+war paint.  There is not much clothing on this primitive beast, but who 
+needs clothes when he can rip your face off without even thinking.
+~
+525832 786476 -1000 S
+30 10 10 6d6+750 0d0+40
+24 0
+8 8 1 5
+#30101
+asmodian mage man ~
+Asmodian~
+A man draped in coal black robes materializes in front of you.
+~
+  The being before you appears to be very frail and weak, as the robes
+hang loosly off his bony body, but real power is in the mind.  Two 
+throbbing light blue balls glow from under the hood as he stares
+right into your thoughts.
+~
+2916362 1064 750 S
+50 10 0 30d100+20000 30d100+15
+1000000 0
+8 8 1 8
+#30102
+the !there poison ivy mob~
+poison ivy mob~
+your not supposed to see me!
+~
+Stop looking at me! im not here!
+~
+8560650 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30103
+fierce bobcat~
+a fierce Bobcat~
+An unusually large Bobcat lies here in deep slumber.
+~
+  The Bobcats who live in these parts are well fed, this one seems to
+go along with that theory.  His large limbs are thick muscle
+no fat on this monster.
+~
+540776 4 0 S
+25 -5 10 5d10+4000 4d6+15
+34 0
+4 4 1 8
+#30104
+bloodspear gate guard man gargantuan~
+the Bloodspear Gateguard~
+A gargantuan sized man stands here laughing at you and holding his spear.
+~
+  This guy is not one to mess with, he looks like he could break you
+in half without thinking.  He has muscles on muscles, he has the perfect
+job, guarding a large wooden gate.
+~
+530442 66604 -500 S
+25 10 10 1d1+3000 1d1+30
+59 0
+8 8 1 13
+#30105
+ghakis housewife~
+a Ghakis housewife~
+A strong looking woman stands here preparing dinner.
+~
+It looks, err, unfinished.
+~
+8 40 0 S
+25 0 10 1d1+0 3d6+10
+69 0
+8 8 2
+#30106
+ghakis cityguard~
+a Ghakis cityguard~
+A fully armored beast of a being stands here watching your every move.
+~
+It looks, err, unfinished.
+~
+561160 8236 -500 S
+25 0 10 1d1+0 1d1+0
+0 0
+8 8 1 13
+#30107
+smasher door guard large man human guard~
+Smasher, the door guard~
+A large muscle mass in the shape of a human sits here guarding the door.
+~
+  Smasher the door guard, probably got his name by smashing people who
+try to enter the door.  It seems as though he lives to gain muscle, his
+arms are as big as your waist, you may not want to mess with him.
+~
+720906 34604076 -100 S
+20 0 10 1d1+0 1d1+0
+30 0
+8 8 1 7
+#30108
+veld man warrior~
+Veld~
+A monstrous warrior sits in his chair examining a map of the eastern spires.
+~
+  The large monster of a man standing before you they call Veld.  He
+has claimed many dragon heads against the feared winged beasts of the eastern
+spires.  He is almost 7 foot tall and built like a rock.  His long black hair
+is pulled back in a pony tail, and a few braids fall down to his shoulders 
+holding a couple dragon teeth as decorations.  Many scars litter this 
+warriors body, he dosen't look intimidated by your entrance.
+~
+565258 13356 -1000 S
+45 20 10 1d1+0 1d1+30
+0 0
+8 8 1 6
+#30109
+vulpen evil alchemist man~
+Vulpen~
+An evil alchemist is in the corner brewing somethin vile.
+~
+  This wretched beast was once human, but the influence of the dead
+was far too powerful for his soul.  A dark hood covers his decaying face
+and  a long robe covers the rest of his bony body.  It is believed that
+he drank a potion he brewed incorrectly, consequently drying up his 
+heart and viens, unfortunately still being kept alive.  To this day
+he mixes potions endlessly to find a cure.
+~
+688138 1064 0 S
+45 20 10 1d1+0 1d1+40
+0 0
+8 8 1 8
+#30110
+skag armourer man~
+Skag the Armourer~
+A large man in dirty overalls sits in his chair contently.
+~
+  The armourer of Ghakis and veteran of the Bloodspear tribe sits here
+in his chair eyeing you up.  He is a true warrior, strong and patient.
+~
+557066 1032 0 S
+45 20 10 1d1+0 1d1+35
+0 0
+8 8 1
+#30111
+kaon sword master man~
+Kaon, Ghakis Swordmaster~
+A strong, yet slender man is in the middle of the room practicing swordfighting.
+~
+  Kaon is the greatest sword fighter to ever step foot in Ghakis.  His
+style of fighting seems to be speed, and agility, much like a fencer because
+he is not very muscular.  Kaon is not a muscle bound monster, speed
+is his game.
+~
+688266 1032 -500 S
+45 20 -10 1d1+0 1d1+40
+0 0
+8 8 1
+#30112
+chaos mage turagar man thin~
+the Chaos Mage Turagar~
+There is a tall thin man in red rune covered robes here.
+~
+  The first thing to notice about Turagar is the symbol of Tzeentch he has
+tattooed on his forehead, it seems to glow.  His face is somewhat 
+distorted from the continuous dealing with the warp, and the portal to the
+other world, the world of chaos, 5 feet away.  He wears a long red robe
+covered in unknown runes, and a sash as with what looks to be rubies
+attached.
+~
+696842 1064 0 S
+48 20 10 1d1+0 1d1+45
+0 0
+8 8 1 12
+#30113
+vorto elementalist mage~
+Vorto, the elementalist~
+A mage of the four elements sits here in deep concentration.
+~
+  The man before you wields the power of nature.  He is wearing a robe
+that is light green, and a belt made of a tough vine.  He has a long
+beard that is braided, various charms and trinkets hang from it.  Under 
+his left eye sits a wide scar, it is unnatrually yellow.
+~
+565386 8389672 0 S
+48 20 10 1d1+0 1d1+40
+0 0
+8 8 1 12
+#30114
+ashur priest man~
+Ashur the Priest~
+A man draped in white robes and pure cloths kneels here praying.
+~
+  This man looks to be the only normal looking being in this whole
+town.  His face is clean, his clothes are like new and his hands
+are uncaloused.  He appears to be a peaceful man.
+~
+696330 0 500 S
+48 20 10 1d1+0 1d1+25
+0 0
+8 8 1
+#30115
+warped beast chais canine dog w_beast~
+a warped beast of chaos~
+An extremely warped canine trembles and drools in front of you.
+~
+  The beast before you looks very unstable.  His eyes constantly shift
+between red and yellow.  His mouth hangs open with drool dripping
+to the ground, the ground sizzles with everydrop.  Each beast
+has many different horns and spikes protruding from random spots.  This is 
+not a normal dog, Turagar had some fun with these.
+~
+696842 1028 0 S
+25 20 10 1d1+0 1d1+30
+0 0
+8 8 0 4
+#30116
+necromancer ramulai man hideous~
+Ramulai~
+A hideous man wearing dark colored robes reaches for his staff at your entrance.
+~
+  Ramulais face appears to be that of an undead.  His hands are bony and
+withered and seem to wrap around perfectly around his staff.  The closer you
+get to him the brighter his eyes glow.
+~
+713226 8389672 -750 S
+48 20 10 1d1+0 1d1+35
+0 0
+8 8 1 8
+#30117
+drunk wino man~
+a drunken wino~
+A drunken wino sits against the wall mumbling to himself.
+~
+...
+~
+10 1064 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30118
+the !there magic mob~
+the !there magic mob~
+the !there magic mob
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30119
+a hatchling dragon mount~
+a hatchling dragon mount~
+A juvenile dragon fitted with a riding saddle rests here quietly.
+~
+It looks, err, unfinished.
+~
+565258 1064 0 S
+30 20 10 1d1+0 1d1+0
+0 0
+4 4 1 8
+#30120
+two headed chaos dragon draken~
+the two-headed chaos dragon, 'Draken'~
+A chaotically mutated red and blue dragon smirks at your entrance.
+~
+  This Dragon is nothing that you have ever seen before.  It has two
+heads, one that is blazing red and the other that is glowing blue.  It's
+red head burns bright red and a haze surrounds it.  The blue head 
+crackles with electricity.  It's wings are everchanging between red
+and blue, and its tail shifts with every swing.  
+~
+17475592 66732 -1000 S
+50 20 10 1d1+0 1d1+50
+0 0
+8 8 1 8
+#30121
+archmage Havok~
+the Archmage Havok~
+The Archmage of Ghakis stands here laughing at you.
+~
+  The archmage of Ghakis, Lord Havok stands here.  Havok is the greatest and
+most powerful of all Talos's Stormlords.  He stands six foot tall, not very
+muscular but not weak.  His face is strong and callous with a dark blue 
+beard streaked with white resting on his chest.  He wears a blue robe
+that crackles with electricity.  And he wields the famed Storm Star, a 
+menacing looking morning star that glows with power.
+~
+696328 80020648 1000 S
+50 20 -10 1d1+0 1d1+0
+0 0
+8 8 1 12
+#30122
+bloodspear trainee infantry man fighter ~
+a bloodspear warrior trainee~
+A fighter in an intense workout radiates the fury of a vampire in thirst.
+~
+...
+~
+10 4 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1 13
+#30123
+psychotic priest man~
+a psychotic priest~
+A raving man in priest clothing rambles as he walks by.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+15 20 10 1d1+0 1d1+0
+0 0
+8 8 1 4
+#30124
+officer training man guard ~
+an officer in training~
+A guard who looks quite dangerous with his weapon stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#30125
+bloodspear war captain bloodbane~
+BloodBane~
+A warrior of great power peers at you intently.
+~
+  Bloodbane, the Bloodspears mightiest guard stands here.  His face is
+strong and rough, littered with scars.  His arms look like arms of a
+mighty giant.  He has defeated everything in his path, and thus 
+earning the rank of War-Captain, in charge of leading the fearless
+Bloodspear to victory.
+~
+16783434 8717484 -1000 S
+52 20 -10 1d1+0 1d1+50
+0 0
+8 8 1 7
+#30126
+the prison guard~
+the Prison Guard~
+A large guard sits in his chair twirling a ring of keys around his finger.
+~
+  This man looks tired and bored. Sitting in front of this building all
+day has to take a toll on his sanity.  All he has is his chair and his keys.
+~
+567306 4 0 S
+40 20 10 1d1+0 1d1+35
+0 0
+6 6 1 7
+#30127
+fabled chimera blackmane~
+the fabled chimera, 'Blackmane'~
+A chimera with black fur stands up and roars at your entrance.
+~
+  The fabled chimera Blackmane, said to have never exsisted stands before
+you.  It appears to be a chimera everyone has learned to know, it has a goats 
+head, a serpents head and a lions head.  But Blackmane has grown a fourth
+head, but all that is left is healed stump of a neck.  
+~
+696424 66604 -500 S
+50 20 10 1d1+0 1d1+40
+0 0
+8 8 1 4
+#30128
+general malkav red eye glowing glow man figure~
+General Malkav~
+A pair of intensely glowing red eyes fix on your soul.
+~
+  General Malkav was the former General of the Bloodspear until
+he led a scout force into Turagar's portal and he was the only one
+to return.  He returned a very different man, his body was 
+deformed in small ways, and he gained many unknown supernatural
+powers, and strengths.  It took 15 men to stop his rampage through town
+and secure him to the chains you see him on right now.
+~
+237676 9241772 -750 S
+55 -30 -10 1d1+0 1d1+50
+0 0
+8 8 1 8
+#30129
+forgotten unknown beast~
+the forgotten beast~
+You see four pairs of gleaming claws slicing through your armor.
+~
+  It is hard to make out exactly what this thing is as it its body is
+constantly warping.  One minute it may be man sized and look harmless
+the next it will be 8 feet tall with four arms and 3 inch claws, blood
+dripping from its mouth in a rage.
+~
+587816 8979628 0 S
+55 -30 10 1d1+0 12d12+50
+0 0
+8 8 1 8
+#30130
+the arrow mob~
+the !there arrow mob~
+the !there arrow mob
+~
+not supposed to see me!
+~
+8388618 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30131
+citizen of ghakis~
+a citizen of Ghakis~
+A citizen of Ghakis walks by.
+~
+  You see a common citizen of this city.  They wear primitive clothes
+and carry jugs of water, and bags with food.  
+~
+4168 0 0 S
+20 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30132
+greater fire elemental fire_elem~
+a greater fire elemental~
+A large mass of fire stands here in your way.
+~
+  You are looking at a large mass of fire.
+~
+4104 66600 0 S
+25 20 10 1d1+0 1d1+35
+0 0
+8 8 0 12
+#30133
+greater air elemental air_elem~
+a greater air elemental~
+A swirling mass of air floats in front of you.
+~
+  You are looking at a swirling mass of air.
+~
+4104 66600 0 S
+25 20 10 1d1+0 1d1+35
+0 0
+8 8 0 12
+#30134
+greater water elemental water_elem~
+a greater water elemental~
+A large mass of water in the shape of a man stands here.
+~
+  You are looking at a man shaped giant made of water.
+~
+4104 66600 0 S
+25 20 10 1d1+0 1d1+35
+0 0
+8 8 0 12
+#30135
+greater earth elemental earth_elem~
+a greater earth elemental~
+A large mass of rock and dirt stands here in your path.
+~
+  You are looking at a large mass of rock and dirt.
+~
+4104 66600 0 S
+25 20 10 1d1+0 1d1+35
+0 0
+8 8 0 12
+#30136
+bazrakk~
+Bazrakk~
+A frail man in clean red robes sits here quietly.
+~
+  Bazrakk sits here quietly in his chair.  He has the face and overall
+disgusting looks of the rest of the town, but in a clean-cut sort
+of way.  His face is quite ugly but still clean, clean as it can be.  His
+long white hair and beard lay perfectly on his robe, and his hands sit
+motionless on the armrests.  His eyes stare straight at you as he speaks.
+~
+524298 1064 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+#30137
+storm surrounding echo~
+storm surrounding echo~
+storm surrounding echo
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30138
+storm echo inroom~
+storm echo inroom~
+storm echo inroom
+~
+It looks, err, unfinished.
+~
+8388618 0 0 S
+1 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30139
+lightning elemental~
+a lightning elemental~
+A crackling ball of lightning dances through the air.
+~
+  A ball of energy crackles in front of you.
+~
+4104 0 0 S
+35 20 10 1d1+0 1d1+20
+0 0
+8 8 0 1
+#30192
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#30199
+zombie dragon undead~
+the Zombie Dragon~
+A decaying form of a once great dragon pierces your soul with pure terror.
+~
+  The zombie dragon you are looking at is bound to the great necromancer
+Heinrich.  It's eyes glow with unnatrual light and it's bones peek
+through it's parchment skins.  The wings on it's back are hardly wings
+anymore yet still seem functionable.  The cloud of buzzing
+black flies that surround the dragon are very distracting and you 
+decide that it is best to leave this dragon alone.
+~
+237578 853162 0 S
+57 20 10 1d1+0 1d1+0
+0 0
+8 8 1 8
+#99999
+$~

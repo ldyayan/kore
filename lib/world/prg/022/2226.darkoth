@@ -1,0 +1,10 @@
+>fight_prog 8~
+  say CURSE YOU!!
+  mpcallmagic 'curse' all
+~
+>fight_prog 16~
+  say Some poison shall add to your fine day.
+  grin $r
+  cast 'poison' $r
+~
+|

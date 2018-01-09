@@ -1,0 +1,9 @@
+>command_prog flee~
+  if isimmort($n)
+  else
+    mpechoat $n Fleeing might not be such a good idea here..
+    mpstopcommand
+  endif
+~
+|
+

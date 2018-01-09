@@ -1,0 +1,24 @@
+#1800
+coke bottle~
+a bottle of coke~
+Coke in a 2 liter bottle
+~
+It looks, err, unfinished.
+~
+8 0 0 S
+0 20 10 1d1+0 1d1+0
+4000000 0
+8 8 0
+#1820
+mist cloud~
+heavy mist~
+a dense mist formation clouds your view
+~
+It looks, err, unfinished.
+~
+8 262144 0 S
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

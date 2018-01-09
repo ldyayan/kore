@@ -1,0 +1,36 @@
+>rand_prog 4~
+  if inroom($r) == here
+    mpecho You are jostled about as the cloaker tosses from side to side!
+  endif
+~
+>rand_prog 5~
+  if inroom($r) == here
+    if rand(50)
+      mpechoat $r You are dropped cruelly to the ground as the cloaker releases its grasp on you!
+      mptransfer $r cloaker
+      mpat $r mpforce $r look
+      mpat $r mpechoaround $r $R drops to the ground as the cloaker expels $K from its body!
+      mpat $r mppose $r sit
+    endif
+  endif
+~
+>rand_prog 6~
+  if inroom($r) == here
+    mpechoat $r You quiver as the cloaker feeds on your body...
+    if rand(50)
+      mpechoat $r You must get out of here soon!
+    endif
+    mpdamage $r 15d11
+    mpat cloaker mpcallmagic 'heal' cloaker
+  endif
+~
+>script_prog expulsion~
+  mpecho You are dropped cruelly to the ground as the cloaker releases its grasp on you!
+  mptransfer all $n
+~
+>kill_prog 100~
+  mpsilent get corpse
+  mpat cloaker drop corpse
+~
+|
+

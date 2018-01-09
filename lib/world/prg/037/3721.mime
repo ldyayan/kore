@@ -1,0 +1,54 @@
+>rand_prog 4~
+  if isscript($i)
+  or isnpc($n)
+  else
+    mptrigger $i mime
+  endif
+~
+>script_prog mime~
+emote mimes being stuck in a glass box.
+#
+#
+#
+emote pat you on your head.
+#
+#
+emote starts to juggle.
+emote drops a 'ball'.
+frown
+shrug
+emote looks at you.
+emote looks at you angrily!!
+stare
+emote mimes climbing up a wall.
+#
+#
+#
+yawn
+emote mimes juggling. (he dropped his 'ball', remember?)
+#
+#
+scream
+say damnit, what am I doing here?
+smirk
+emote slaps himself.
+emote mutters something about mimes not talking.
+#
+#
+lick man
+#
+#
+~
+>fight_prog 5~
+  emote runs in place and looks so scared!
+~
+>fight_prog 5~
+  emote makes a face like an exaggerated scream!
+~
+>fight_prog 5~
+  emote fakes like he's really hurt.
+~
+>fight_prog 5~
+  flee
+~
+|

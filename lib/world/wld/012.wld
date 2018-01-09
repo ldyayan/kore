@@ -1,0 +1,453 @@
+#1200
+The Meeting Room Of The Gods~
+   The meeting room is plain and very simple.  A circular table sits
+in the middle of the room, lit by some unseen light source.  There
+are many chairs around the table, all empty.  The Immortal Board Room
+is to the north.
+~
+12 1544 0
+D0
+The Immortal Board Room can be seen to the north.
+~
+~
+0 -1 1204
+S
+#1201
+The Inn Of The Gods~
+   The Inn of the Gods is a small room, holding only a shelf with many
+small precious stones on it.  When God comes to rent his belongings,
+his essence is stored in the stones.  The Immortal Board Room is to
+the south.
+~
+12 520 0
+D2
+The Immortal Board Room can be seen to the south.
+~
+~
+0 -1 1204
+S
+#1202
+The Ice Box Of The Gods~
+   The Ice Box is for little boys and girls that cannot play nice. Be good
+and maybe someone will come and get you.
+~
+12 184 0
+D0
+~
+~
+0 0 1223
+S
+#1203
+The Gods' Mortal Board Room~
+   Here the Gods have magically created an exact copy of the mortal board
+room.  Any God can easily post and read messages from the mortal board room
+without being seen by any mortals.  The Immortal Board Room is to the west
+and to the east is the Idea Room.
+~
+12 8 0
+D1
+~
+~
+0 0 1219
+D3
+The Immortal Board Room can be seen to the west.
+~
+~
+0 -1 1204
+S
+#1204
+The Immortal Board Room~
+   The main hang out of the Gods, the Immortal Board Room is the place to
+be.  Gods exchange messages here most every day.  The mortal board room is
+to the east and the meeting room for the gods is to the south.  To the north
+is the Gods' Inn and to the west is a post office for Gods.  There is a large
+staircase leading down to the main temple in the city of Kore.  In the
+northeast corner you spot a small staircase leading upwards.
+~
+12 8 0
+D0
+The Gods' Inn can be seen just to the north.
+~
+~
+0 -1 1201
+D1
+The Mortal Board Room can be seen just to the east.
+~
+~
+0 -1 1203
+D2
+The Gods' Meeting Room is located to the south.
+~
+~
+0 -1 1200
+D3
+The Gods' Post Office is just to the west.
+~
+~
+0 -1 1205
+D4
+There is a small stair in the corner leading up to the social room of
+the Gods.
+~
+~
+0 -1 1206
+D5
+You see the hustle and bustle of the Temple of Vulmarta at the bottom of
+the stairs.
+~
+~
+0 -1 3001
+S
+#1205
+The Post Office Of The Gods~
+   The Post Office Of The Gods is the same as most Post Offices except that
+it is not as slow.  Even the Postal service knows not to anger the Gods.
+Piles of junk mail line the walls.  I guess even Gods get on mailing lists.
+The Immortal Board Room is to the east.
+~
+12 8 0
+D1
+The Immortal Board Room is just to the east.
+~
+~
+0 -1 1204
+S
+#1206
+The Implementor's Lounge~
+   This is a place where Implementors can go to escape stupid player
+complaints. You see a sign on the door of Valinor.
+~
+12 1544 0
+D0
+You see a dark walnut stained double door.
+~
+door~
+0 -1 1209
+D1
+~
+~
+0 0 1207
+D2
+~
+~
+0 0 1221
+D3
+~
+~
+0 0 1218
+D5
+The Immortal Board Room is just down through the floor.  Funny how you
+didn't notice that exit before isn't it?
+~
+~
+0 -1 1204
+E
+sign~
+
+   You see a sign which states,
+
+   "Please wipe your feet before entering. The maid will not do muddy floors.
+    Good help is so hard to find. Sigh."
+~
+S
+#1207
+Aule's Forge~
+   Here the god of the giants smiths great weapons and armor as gifts for 
+the minor Valar that live in Valinor.
+~
+12 1032 0
+D3
+~
+~
+0 0 1206
+S
+#1208
+OLC Room~
+    This is where immortals can come to use OLC in privacy.
+~
+12 184 0
+D4
+~
+~
+0 0 1204
+E
+sign plaque bronze~
+     This is the private room of Nightsky. Please respect his privacy.
+~
+S
+#1209
+Marble Hallways of the Valinor~
+   You are in the white and gold marble hallways of Valinor. You have a
+sense of inner peace and well being. You hear beautiful music that sounds
+like delicate voices. Colorful and fragrant flowers fill the halls with
+joyous laughter and happiness. 
+~
+12 1032 0
+D0
+~
+~
+0 0 1210
+D2
+~
+door~
+0 -1 1206
+E
+sign~
+   You read the sign which states,
+
+   "Please mind the flowers."
+~
+S
+#1210
+Melkor's Bachelor Penthouse~
+     Melkor has decorated his pad to have the decor of a rustic hunting
+cabin with a modern flair. You see an original Monet and David hanging
+proudly on the wall. (You wonder how he got these masterpieces).
+You see a THX home theater in the living room. A roaring fireplace burns 
+brightly casting dancing shadows in the room. The air has the aroma of
+cherrywood and fresh baked walnut bread.
+~
+12 1032 0
+D0
+~
+~
+0 0 1212
+D1
+~
+~
+0 0 1213
+D2
+~
+~
+0 0 1209
+D3
+~
+~
+0 0 1211
+D4
+~
+~
+0 0 1214
+D5
+~
+~
+0 0 1215
+D9
+~
+~
+0 0 1216
+S
+#1211
+Balcony~
+     You can see the entire city from high above. You see the snow-capped
+mountains to the east. You can see for many miles out to sea on a clear day.
+You hear faint honking and car sounds from far below. There is a nice
+patio furniture and a gas grill.
+~
+12 1024 0
+D1
+~
+~
+0 0 1210
+S
+#1212
+Melkor's Study Room~
+This is room is nicely decorated with the finest antique furniture
+available. You see a beautifully carved desk that once belonged to
+Thomas Jefferson. On another table, you see a very powerful looking
+computer. You see a spirits cart with 100 year old brandy and other spirits.
+Also, you see a climate controlled humador with the finest Cuban cigars
+available.
+~
+12 1032 0
+D2
+~
+~
+0 0 1210
+S
+#1213
+Master Bedroom~
+A huge four poster oak oak bed is in the center of the room. It is covered in
+a fluffy goosedown comforter and pillows. The room is also decorated with
+late 18th century style antique furniture. The room is wired to the master THX
+system to have the surround sound effect to play classical and jazz music.
+~
+12 1032 0
+D3
+~
+~
+0 0 1210
+S
+#1214
+Observatory~
+     You are standing inside a glass incased dome to view the stars and
+neighbors. The dome is retractable to see the stars more clearly on a nice
+dry night. Also, you get an excellent view of the Swedish bikini team
+dressing and undressing in the next building.
+~
+12 1024 0
+D5
+~
+~
+0 0 1210
+S
+#1215
+Wine Cellar~
+     You see quite extensive and impressive wine cellar that would rival most
+four star restaurants. Separate climate controlled racks line the walls with
+the most exiquist vintages throughout the century and before. You see bottles
+of Chateau Latour and Romanee' Conte and other Grand Crue vineyards. You
+are surprised to see a few bottles of Chateau St. Michael in there also.
+This wine cellar would cost a fortune and many lifetimes to build. 
+~
+12 1032 0
+D4
+~
+~
+0 0 1210
+S
+#1216
+Gourmet Kitchen~
+     You are inside the award winning design kitchen. You see the most modern
+kitchen and cooking equipment. The kitchen has a Mediterran look and feel
+with strong Greek influence. The kitchen is centrally designed and quite
+spacious. It is often used as a test kitchen by Jeff Smith during the summer
+for his show, "Frugal Gourmet".
+~
+12 1032 0
+D7
+~
+~
+0 0 1210
+S
+#1217
+An Empty Shell of a Room~
+    Please use this room for some practical purpose.
+~
+12 1643 0
+E
+picture dragon portrait painting~
+This is a Dummy, please make me valid!!~
+S
+#1218
+Pucks Cave~
+   This huge cave is lit by a faint light far overhead... a faint breeze
+stirs the smoke-filled dragon's lair.  All around on the group in heaps
+and in sacks are gold coins and armor; jewels and crystal sparkle with a
+light and your head swims at the sight of all the lucre..
+~
+12 1032 0
+D1
+~
+~
+0 0 1206
+S
+#1219
+Idea Room~
+    Here the immortals can read and post and respond to player ideas
+and complaints that are posted in the Prayer Room of the Temple of
+Vulmarta.  The Mortal Board room is to the west.
+~
+12 8 0
+D3
+~
+~
+0 0 1203
+S
+#1220
+Timeout Room~
+  Take a break. You need to cool off and settle down.
+~
+12 393400 0
+S
+#1221
+Marble Hallways of the Valinor~
+   You are in the white and gold marble hallways of Valinor. You hear
+beautiful music that sounds like delicate voices, and colorful and fragrant 
+flowers fill the halls with joyous laughter and happiness - but there is 
+something is awry here. Behind the laughter lies an ominous snickering
+and the veined designs of the marble walls seem to shift ever so slightly
+to abstract faces that scream in silent and open-mouthed agony. Wherever
+you are, it is certainly no sanctuary. There are skittering noises coming
+from beneath you.
+~
+12 1032 0
+D0
+~
+~
+0 0 1206
+D3
+~
+~
+0 0 1224
+D5
+~
+~
+0 0 1222
+S
+#1222
+An eerie lair~
+   Spiders, spiders, everywhere. Don't step on one, it might be the
+goddess herself. There is a huge crystal shaft in the center of the room,
+and the spiders seem to avoid it.
+~
+12 1032 0
+S
+#1223
+Popsickle 2000~
+   The Popsickle room is for children that cannot play and follow
+the rules of the realms. Be good and maybe someone will come and
+thaw you out.
+~
+12 184 0
+D2
+~
+~
+0 0 1202
+S
+#1224
+Clanroom bonanza!~
+Maerlyn and Zirnozz' room for collected clan boards.
+~
+12 394256 0
+D1
+~
+~
+0 0 1221
+S
+#1225
+Casa~
+    As you enter the room you see a Persian carpet spread across the floor.  
+Two man size candelabre stand on either side of the door, filling the room with
+a moving, golden light.  The colors in the room are so bright it looks like
+stained glass.  Wall hangings cover the two longest walls.  On one wall, a
+unicorn fled from a pack of hounds.  The other hanging was a battle scene so
+dimmed with age that parts of the figures had vanished into the cloth.  Bright
+silken drapes cover the far end of the room, hung from the celing with heavy
+cords.  A door is open to the left of the drapes.   
+~
+12 1672 0
+D3
+~
+~
+0 0 1226
+S
+#1226
+Bedroom~
+  As you enter the bedroom you get the faint smell of something pleasant
+and resonating like expensive perfume that lingers in the room after the
+wearer has gone. The walls are an off-white with thin silver, gold, and
+copper designs running through it. The carpeting is black. A canopy bed
+takes up most of one side of the room. Black,gauzy curtains cover the bed
+making it indistinct, misty, like a dream. Black and crimson sheets cover
+the bed. A black couch with blood-red pillows thrown along it is against
+the fall wall. A matching love seat is against the last wall.
+~
+12 1160 0
+D1
+~
+~
+0 0 1225
+S
+#99999
+$~

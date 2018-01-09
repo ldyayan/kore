@@ -1,0 +1,129 @@
+#300
+tasty mushroom mush room~
+a mushroom~
+A tasty mushroom is growing here.~
+~
+19 0 1
+24 0 0 0
+1 1 1
+E
+mushroom mush room tasty~
+The mushroom looks edible and yummy.
+~
+#301
+well~
+a well~
+A small well is here in the center of the yard.~
+~
+23 92 0
+999999 999999 15 0
+9999 0 0
+#302
+bin~
+a small wooden bin~
+A small wooden bin stands in the center of the room.~
+~
+15 0 0
+900 0 -1 0
+1 1 1
+#303
+scroll recall newbie~
+a scroll of recall~
+A scroll of recall has been left here.~
+~
+2 0 1
+5 42 -1 -1
+1 1 1
+#304
+potion green~
+a green potion~
+A small green potion sits here.~
+~
+10 0 1
+10 16 16 -1
+1 1 1
+E
+green potion~
+Looks safe. And you'd guess the value to be about 5,000 to a player.
+~
+#305
+boots newbie~
+a pair of leather boots~
+A pair of comfortable looking leather boots sits here.~
+~
+9 0 65
+2 0 0 0
+1 1 1
+#306
+gloves newbie~
+a pair of soft leather gloves~
+A soft looking pair of gloves is lying here.~
+~
+9 0 129
+2 0 0 0
+1 1 1
+#307
+ring tarnished metal~
+a tarnished metal ring~
+A small ring of a dirty metal is lying on the ground rusting.~
+~
+9 65552 3
+3 0 0 0
+1 300 25
+E
+ring tarnished metal~
+The ring is small and dirty, made of a light metal that has been abused.
+~
+A
+1 1
+A
+13 5
+#308
+cloak brown~
+a brown cloth cloak~
+A cloak of a lightweight brown cloth is resting here.~
+~
+9 0 5
+2 0 0 0
+2 450 1
+E
+cloak brown~
+A cloak of brown cloth, lightweight, but it looks well cared for.
+~
+A
+12 5
+#309
+rabbit droppings poop shit~
+some rabbit droppings~
+Some rabbit droppings have been left here.~
+   Tiny brown balls of poop...
+~
+19 65544 65
+0 0 0 0
+0 0 0
+#310
+mushroom room mush tasty~
+a mushroom~
+A tasty mushroom is growing here.~
+~
+19 0 1
+24 0 0 0
+1 0 0
+#311
+mushroom room mush tasty~
+a mushroom~
+A tasty mushroom is growing here.~
+~
+19 0 1
+24 0 0 0
+1 0 0
+#312
+magic mush room mushroom~
+a magic mushroom~
+A magic mushroom is growing here.~
+~
+25 0 1
+10 16 16 16
+0 0 0
+#99999
+$~

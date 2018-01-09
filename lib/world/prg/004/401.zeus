@@ -1,0 +1,91 @@
+>greet_prog 100~
+  if ispc($n)
+    if isimmort($n)
+      bow $n
+    else
+      if !isgood($n)
+        say How dare you come before me evildoer!
+        kill $n
+      endif
+    endif
+  endif
+~
+>rand_prog 2~
+  eat #1
+~
+>give_prog loaf bread waybread~
+  junk all.waybread
+~
+>give_prog chocolate cookie wafer~
+  junk all.cookie
+~
+>give_prog waybread food~
+  junk all.waybread
+~
+>rand_prog 5~
+  get all all.corpse
+  sacrifice corpse
+~
+>rand_prog 15~
+ if hitprcnt($i) < 50
+   cast 'restore' $i
+ endif
+~
+>fight_prog 8~
+  mpechoat $r $I claps his hands and a thunderbolt strikes you from the heavens!
+  mpechoaround $r $I claps his hands and $R's hair stands on end as $J is struck from above by with a bolt of lightning!
+  mpcallmagic 'lightning bolt' $r 
+~
+>fight_prog 12~
+ if inroom($r) == here
+  mpechoat $r $I turns and backhands you fiercly!  You are so stunned!
+  mpechoaround $r $I turns and backhands $R, stunning them!
+  mppose $r sit
+ endif
+~
+>fight_prog 17~
+ if inroom($r) == here
+  mpecho $I raises his hands high above his head and the earth quakes from his power!
+  mpecho You are buffeted by swirling winds and slammed onto the ground.
+  mpcallmagic 'earthquake'
+  mpecho You topple over and end up on the ground.
+  mppose room sit
+ endif
+~ 
+>fight_prog 22~
+ if inroom($r) == here
+  cast 'word of death' $r
+ endif
+~
+>fight_prog 28~
+  shout Taste the wrath of the master of the heavens!
+  mpecho ^cSearing bolts of lightning cascade around you as Zeus stirs up the heavens.^n
+  cast 'chain lightning'
+~
+>fight_prog 34~
+  mpecho ^YThe heavens above part and pure sunlight comes streaming through.^n
+  cast 'sunray'
+~
+>fight_prog 40~
+  emote bellows with rage!
+  berserk
+~
+>fight_prog 55~
+  cast 'dispel magic'
+~
+>death_prog 100~
+  if rand(80)
+    mpecho $I cries out in anguish and throws his thunderbolt into the heavens!
+    mpecho Zeus' head splits open and Athena steps out!
+    mpsilent mpcallmagic 'cure blindness' zeus
+    mpsilent mptrans athena
+  else
+    mpecho $I cries out in anguish and impales himself on his thunderbolt!
+    mpecho Oh the humanity!
+    mpecho Zeus' head splits open and Athena steps out!
+    mpsilent mpcallmagic 'cure blindness' zeus
+    mpsilent mptrans athena
+    mpoload 401
+  endif
+~
+|

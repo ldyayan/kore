@@ -1,0 +1,464 @@
+#30000
+small red berries~
+some small red berries~
+A clump of small red berries grows here.~
+~
+19 4 1
+1 0 0 0
+2 99 0
+E
+small red berries~
+   They are berries, small, and red.
+~
+#30001
+small wooden key~
+a small wooden key~
+A small wooden key lies on the ground here.~
+~
+18 6 16385
+0 0 0 0
+1 100 0
+E
+small wooden key~
+   This is a small, but sturdy wooden key, it appears to be made of
+mahogany.
+~
+#30002
+small babbling brook stream water~
+a small babbling brook~
+A babbling brook trickles from a crack in the cavern wall~
+~
+23 0 1
+1000 1000 15 0
+9999999 0 0
+E
+small babbling brook stream water~
+   The water looks clean and fresh, just what you could do with.
+~
+#30003
+small oak key~
+a small oak key~
+A small wooden key lies here in the dust.~
+~
+18 4 16385
+0 0 0 0
+1 10 0
+E
+small oak key~
+   This is just a small wooden key, it has some small carvings on it
+but nothing more.
+~
+#30004
+oak small desk wooden chimney~
+a small oak desk~
+A small oak desk is here, standing against the wall.~
+~
+15 0 1
+100 15 30003 0
+99999 1000 0
+E
+oak small desk wooden chimney~
+   This is a small wooden desk with a liftable lid. It has been
+crafted skillfully from oak.  On one corner stands a small ink
+well and papers litter the desktop.
+~
+#30005
+veteran miner pass verla paper~
+the veteran's miner pass~
+A small square of paper has been carelessly dropped here.~
+~
+16 4 1
+0 0 0 0
+1 99 0
+E
+veteran miner pass verla paper~
+PASS: Verla Sapphire mines
+
+There is a small picture of the miner in the top right hand corner.
+~
+#30006
+key mines verla steel~
+a steel key~
+A small steel key has been left here.~
+~
+18 4 16385
+0 0 0 0
+1 99 0
+E
+key mines verla steel~
+   This key is moulded from hard steel.  It has been well
+crafted by an experience blacksmith.  It has letters scribed
+into it but you cannot make out what they read.
+~
+#30007
+garnet enlayed amber bracelet~
+a ^rgarnet^n enlayed ^yamber^n bracelet~
+A small colorful bracelet has been dropped here~
+~
+11 2261504 4097
+0 0 0 0
+3 10000 0
+E
+garnet enlayed amber bracelet~
+   The bracelet looks expensive, made of garnet gem stones and fine amber.
+It has been crafted with a ring of amber, enlayed upon the amber is
+small studs of garnet which shimmer as they are moved through the
+~
+A
+12 25
+A
+13 20
+A
+1 -2
+A
+3 -2
+#30008
+obsidian shell~
+an obsidian shell~
+A smokey transparent shield lies here on the ground~
+~
+9 2277891 513
+20 0 0 0
+10 10000 0
+E
+obsidian shell~
+   This is a shield made from the finest of obsidian, it is like glass
+only smokey.  There is a small arm strap on the inside which makes
+the shield easy to hold.  It feels sturdy and provides good protection.
+~
+A
+12 25
+A
+13 40
+A
+9 2
+#30009
+smokey grey cloak~
+a smokey grey cloak~
+A small pile of cloth is lying here.~
+~
+11 0 1025
+0 0 0 0
+8 9000 0
+E
+smokey grey cloak~
+   The cloak is smokey in color, it appears to be old and torn.
+The bottom has become torn and mucky as it has been dragged along
+the ground.  This cloak has obviously been worn out.
+~
+A
+12 20
+#30010
+large walnut key~
+a large walnut key~
+A large wooden key lies on the ground here.~
+~
+18 2 1
+0 5 0 0
+1 99 0
+E
+large walnut key~
+   The key has been cleverly carved from an old peice
+of walnut.
+~
+#30011
+pair steel handcuffs cuffs~
+a pair of steel handcuffs~
+A pair of steel handcuffs is lying here.~
+~
+9 536936450 129
+10 0 0 0
+15 99 0
+E
+pair steel handcuffs cuffs~
+   These are just some basic steel handcuffs, nothing fancy but
+they will surely do there job.  They are made of thick steel
+and connected by a large chain.
+~
+A
+2 -15
+A
+19 -15
+A
+14 -40
+A
+18 -10
+B
+131072
+#30012
+sapphire studded mace~
+a ^Csapphire^n studded mace~
+A mace with shiney blue studs has been left here.~
+~
+5 20480 8193
+0 5 7 10
+10 10000 0
+E
+sapphire studded mace~
+   This is a large mace, designed skillfully by the residents
+of Verla.  Its shiney sapphire studs have been fixed deep 
+into the steel body of the mace.
+~
+A
+2 2
+A
+19 3
+#30013
+pair dragonscale scale leggings~
+a pair of dragonscale leggings~
+There is a small pile of scales on the floor here.~
+~
+11 1053184 33
+0 0 0 0
+12 20000 0
+E
+pair dragonscale scale leggings~
+   These leggings have been cleverly skinned from the corpse
+of a large dragon.  The scales are hard and of a dark green
+~
+A
+19 2
+A
+13 15
+A
+2 1
+#30014
+serrated dragons claw~
+a serrated dragons claw~
+A sharp looking claw lies on the ground here.~
+~
+5 12800 24577
+2 5 6 8
+0 0 0
+E
+serrated dragons claw~
+   This claw has been ripped from the lim of a dragon.
+It has one sharp straight edge, and one edge which
+is meanly serrated.
+~
+A
+19 3
+A
+2 2
+A
+1 2
+#30015
+heavy mining pick~
+a heavy mining pick~
+A large pick lies on the ground here.~
+~
+5 1024 8193
+2 4 5 15
+8 99 0
+E
+heavy mining pick~
+   This pick has been forged from the finest of steel.
+It is quite an old pick and has been used well by the
+miners.
+~
+A
+19 2
+A
+18 2
+#30016
+sapphire ring engraved verla~
+an engraved ^Csapphire^n ring~
+A shiney blue ring has been carelessly dropped here.~
+~
+11 2097664 3
+0 0 0 0
+9 50000 0
+E
+sapphire ring engraved verla~
+   This ring has been skillfully crafted from a nugget of sapphire.
+On one side of the ring the word, 'Verla' has been engraved.  The
+ring is slightly transparent and sparkles as you move it through
+the light.
+~
+A
+19 2
+A
+13 20
+A
+2 1
+#30017
+large whip~
+a large whip~
+A large whip has been left here.~
+~
+5 377945101 8193
+10 10 10 2
+9 9999 0
+E
+large whip~
+   This is a whip, about four feet long made from a thick
+peice of leather.  Down one side is a sharp edge, used
+for striking lazy miners.
+~
+#30018
+hemp woven hood~
+a hemp wooven hood~
+A hemp woven hood has been dropped here.~
+~
+9 58882 17
+5 0 0 0
+15 99 0
+E
+hemp woven hood~
+   This hood has been skillfully woven from the fibres of a plant.
+~
+A
+6 2
+A
+19 1
+A
+12 17
+#30019
+dusty miners lantern light~
+a dusty miner's lantern~
+A small dusty lantern with a leather strap is here.~
+~
+1 1 16401
+0 0 -1 0
+6 800 0
+E
+dusty miners lantern light~
+   This is a dusty little metal lantern, powered by oil.
+It has a thin leather strap which is used to fasten the light
+to a miners head.
+~
+A
+2 1
+A
+13 5
+#30020
+rough steel file metal~
+a rough steel file~
+A rough looking steel file is here.~
+~
+5 0 24577
+3 2 3 9
+5 450 0
+E
+rough steel file metal~
+   This is a rough, sharp steel file, used for smoothing
+the edges of very hard objects.  It has a pine handle which
+has been securely fastened to the metal section using rivets.
+~
+A
+18 2
+#30021
+wide oak table~
+a wide oak table~
+A wide oak table dominates the centre of the room.~
+~
+12 0 0
+0 0 0 0
+455 400 0
+E
+wide oak table~
+   This large oak table has been crafted from fine oak wood.
+Its use as a worktop has made the surface of the table become
+scratched and stained.  On the table rest a variety of tools
+used for gemstone cutting and engraving.
+~
+#30022
+jet black shiny spectacles~
+jet-black shiny spectacles~
+A pair of dark framed spectacles has been left here.~
+~
+11 50176 262145
+0 0 0 0
+5 550 0
+E
+jet black shiny spectacles~
+   This is a pair of jet-black spectacles, they've been
+so well polished that they shine and shimmer in the light.
+The lenses are exceptionally clean, made from a clear glass.
+~
+A
+3 1
+A
+4 1
+A
+6 1
+#30023
+long walking cane brass~
+a long walking cane topped with a ^ybrass^n knob~
+A long walking cane topped with a brass knob has been left here.~
+~
+5 0 24577
+5 4 4 7
+8 2300 0
+E
+long walking cane brass~
+   This is a long, but quite thick wooden walking stick.
+On the end has been fastened a large brass knob to make
+the stick easier to keep hold of.
+~
+A
+11 1
+A
+5 2
+#30024
+glittering sapphire gemstone stone sparkling sparkles glitters~
+a sparkling ^Csapphire^n gemstone~
+A large sapphire gemstone glitters and sparkles in the light.~
+   This chunk of sapphire has been skillfully crafted into
+a small symmetrical gemstone.  Its side have been polished
+and cause it to sparkle brightly when moved through the
+light.
+~
+8 17 16385
+0 0 0 0
+6 6800 0
+E
+sparkling sapphire gemstone glitter sparkle~
+   This chunk of sapphire has been skillfully crafted into
+a small symmetrical gemstone.  Its side have been polished
+and cause it to sparkle brightly when moved through the
+light.
+~
+A
+1 2
+A
+12 25
+#30025
+mahogany bureau desk~
+a mahogany bureau~
+A large mahogany bureau is here against the eastern wall of the room.~
+~
+12 0 0
+0 0 0 0
+235 4500 0
+E
+mahogany bureau desk~
+   This large bureau has been crafted skillfully from the finest
+mahogany wood.  It has a small desk area which appears to fold out
+and four small drawers underneith that.
+~
+#30026
+comfortable bed~
+a comfortable bed~
+A comfortable looking bed is here, covered in thick animal furs.~
+~
+12 0 0
+0 0 0 0
+240 4200 0
+E
+comfortable bed~
+   This is a comfortable looking wooden bed.  It has been covered in thick
+warm animal furs and appears very cosy.  The legs of the bed have been
+skillfully crafted and joined.  At the head of the bed is a thick wooly
+pillow.
+~
+#30099
+spacer object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 1
+0 0 0 0
+0 0 0
+#99999
+$~

@@ -1,0 +1,1621 @@
+#26200
+Mine Entrance~
+   You leave the tiled floors behind. Now you are standing in the entrance to 
+a mine. Spaced along the walls are matching pairs of wooden beams. These 
+beams support the overhead beams. You hope nothing disturbs the beams, 
+Otherwise the ROOF might come CRASHING down on you. Stepping over them you 
+see a pair of rails on the floor. 
+~
+262 13 0
+D0
+~
+~
+0 0 26201
+D2
+~
+Large titanium door~
+1 26203 26246
+S
+#26201
+Mine Tunnel~
+   The tunnel continues in the same direction. Stretching as far as you can 
+see is the same set of rails. Looking at the beams on the walls you notice a 
+few of them are old and have become weak. You pray to the gods that the 
+ceiling won't fall on you. You still hear the far off sound of people 
+working, however it seems closer now. 
+~
+262 9 0
+D0
+~
+~
+0 0 26202
+D2
+~
+~
+0 0 26200
+S
+#26202
+Junction~
+   You are now in a junction of two tunnels. The rails branch off in each of 
+the four openings. Scanning the room you notice that each opening is the 
+same. Each is supported by wooden beams. Now the sound of people seems very 
+close to you. You figure they can't be far away now. 
+~
+262 9 0
+D0
+~
+~
+0 0 26205
+D1
+~
+~
+0 0 26203
+D2
+~
+~
+0 0 26201
+D3
+~
+~
+0 0 26204
+S
+#26203
+Connecting Tunnel~
+   You have entered a tunnel branching off of the main one. Even in the dark 
+you can clearly sense that this tunnel is not as near as wide as the main 
+one. You feel a slight breeze blowing toward the main tunnel. Peering at the 
+floor you see a set of rails going off in both directions. 
+~
+262 9 0
+D1
+~
+~
+0 0 26235
+D3
+~
+~
+0 0 26202
+S
+#26204
+Connecting Tunnel~
+   You have entered a dark dank tunnel. Examining the room, or at least
+trying, you decide this has to be the darkest place you've ever been.
+You are grateful you're not afraid of the dark, or are you? Quickly
+shaking off that fear you continue in your search.
+~
+262 9 0
+D1
+~
+~
+0 0 26202
+D3
+~
+~
+0 0 26224
+S
+#26205
+Main Tunnel~
+   You are standing inside the main tunnel of the mine. Along the walls are
+the tools needed to recover the ore. You can see the marks left on the walls
+by the pick axes and shovels. Taking up most of the floor space is a set of
+rails.
+~
+262 9 0
+D0
+~
+~
+0 0 26206
+D2
+~
+~
+0 0 26202
+S
+#26206
+Main Tunnel~
+   You are standing inside the main tunnel of the mine. Along the walls of 
+the mine you see several large rocks. You assume that they are probably the 
+ore mined here. As far as you can see in both directions the rails continue. 
+~
+262 9 0
+D0
+~
+~
+0 0 26207
+D2
+~
+~
+0 0 26205
+S
+#26207
+Main Tunnel~
+   You are standing in a mine tunnel. All around you hear the sound of people 
+at work. Laying everywhere are the tools needed to mine the ore. 
+~
+262 9 0
+D0
+~
+~
+0 0 26208
+D2
+~
+~
+0 0 26206
+S
+#26208
+Junction~
+   You are now in a junction of two tunnels. The rails branch off in each of 
+the four openings. Scanning the room you notice that each opening is the 
+same. Each is supported by wooden beams. All around you hear the sound of 
+people at work. They must be mining ore. 
+~
+262 9 0
+D0
+~
+~
+0 0 26211
+D1
+~
+~
+0 0 26209
+D2
+~
+~
+0 0 26207
+D3
+~
+~
+0 0 26229
+S
+#26209
+Connecting Tunnel~
+   You have entered a pitch black room. You are not able to even see the hand 
+in front of your face. Suddenly you stumble. Looking down at your feet you 
+see that one of the rail ties has broken. Feeling foolish you stand up and 
+brush yourself off. You hope eventually the rails will lead you out of this 
+mine. 
+~
+262 9 0
+D1
+~
+~
+0 0 26239
+D3
+~
+~
+0 0 26208
+S
+#26210
+Secondary Tunnel~
+   You are standing in a dark, dank, narrow tunnel. Lining both sides of the
+tunnel are the tools needed to mine the ore here. It appears that it must be
+lunch break right now, none of the workers are here. The tracks lead off in
+both directions.
+~
+262 9 0
+D0
+~
+~
+0 0 26231
+D2
+~
+~
+0 0 26230
+S
+#26211
+ Main Tunnel~
+   You are standing inside the main tunnel of a mine. Along the walls are the 
+tools needed to mine the ore. All around you is the sound of people at work. 
+You notice the rails on the floor continue in both directions. 
+~
+262 9 0
+D0
+~
+~
+0 0 26212
+D2
+~
+~
+0 0 26208
+S
+#26212
+ Main Tunnel~
+   You are standing inside the main tunnel of a mine. You notice the walls 
+show thesigns of having been worked upon. You see deep scars in the walls and 
+figure that ore must have been in those scars. You realize the sound of 
+people at work is not as loud now. You stumble upon those stupid rails on the 
+floor. 
+~
+262 9 0
+D0
+~
+~
+0 0 26213
+D2
+~
+~
+0 0 26211
+S
+#26213
+Junction~
+   As you enter the room you again notice that it is yet another junction of 
+tunnels. The wooden beams here seem to be newer than those you've seen 
+before. After stepping over the rails to stand in the middle of the room you 
+look off in all four directions and see on end to the rails. You notice all 
+the sudden that the room is very quiet. You can hear almost no sound. 
+~
+262 9 0
+D0
+~
+~
+0 0 26216
+D1
+~
+~
+0 0 26214
+D2
+~
+~
+0 0 26212
+D3
+~
+~
+0 0 26215
+S
+#26214
+Connecting Tunnel~
+   You are in a dark narrow tunnel. After travelling the main tunnel you
+wondered if anything could be darker, but you quickly conclude this tunnel
+is. You reach out with your hands for the wall as you stumble along the
+rails imbedded in the floor.
+~
+262 9 0
+D1
+~
+~
+0 0 26242
+D3
+~
+~
+0 0 26213
+S
+#26215
+Connection Tunnel~
+   You are in an extremely narrow tunnel. Its main purpose
+seems to be to connect two more important tunnels.
+Lining the walls are the tools needed to mine ore from
+these tunnels. You try carefully not to trip over the
+rails on the floor.
+~
+262 9 0
+D1
+~
+~
+0 0 26213
+D3
+~
+~
+0 0 26231
+S
+#26216
+ Main Tunnel~
+   You enter yet another part of the mine tunnel. All the rooms appear to be 
+just the same. But yet here you notice that the walls haven't been worked as 
+much. You realize this must be a newer section of the mine. This far into the 
+mine about the only sound is the sound of the earth herself. The rails here 
+don't show as much wear as those further back, yet they continue off in both 
+directions. 
+~
+262 9 0
+D0
+~
+~
+0 0 26217
+D2
+~
+~
+0 0 26213
+S
+#26217
+Main Tunnel~
+You stand inside yet another section of this mine tunnel. You begin to wonder
+if it will ever end. Looking at the walls you again notice that they show few
+signs of having been worked. Steping over the ever present rails you are amazed
+at the quietness of the area.
+~
+262 9 0
+D0
+~
+~
+0 0 26218
+D2
+~
+~
+0 0 26216
+S
+#26218
+Junction~
+You are yet again standing at an intersection of tunnels. Looking down at your feet you see that the rails split off and head into each of the openings. You have even begun to wonder how you got here and if you shall ever get out.
+~
+262 9 0
+D0
+~
+~
+0 0 26221
+D1
+~
+~
+0 0 26219
+D2
+~
+~
+0 0 26217
+D3
+~
+~
+0 0 26220
+S
+#26219
+Connecting Tunnel~
+   You are standing in a dark narrow tunnel. After the main tunnel you are
+amazed that anything could be darker than that, but you quickly decide this
+tunnel is darker. Feeling your way along the walls you pray with all your
+heart you don't stumble on the rail ties along the floor.
+~
+262 9 0
+D1
+~
+~
+0 0 26245
+D3
+~
+~
+0 0 26218
+S
+#26220
+Connecting Tunnel~
+   You are standing in an extremely narrow tunnel. Its purpose
+appears to be to connect two other tunnels. At your feet you notice
+a set of rails, perhaps they are used to move mine and equipment
+around the mine. You no longer here the dim noise of people working
+the mine. You guess that you are in a newly compeleted section that
+isn't being worked yet.
+~
+262 9 0
+D1
+~
+~
+0 0 26218
+D3
+~
+~
+0 0 26234
+S
+#26221
+Mine Tunnel~
+   You are standing in a dark tunnel. Everything is absolutely quiet. You
+have begun to wonder why you ever entered this place. You have even begun to
+think continuing forward might be dangerous. After all this is a mine, no 
+telling what dangers lie in wait for you.
+~
+262 9 0
+D0
+~
+~
+0 0 26222
+D2
+~
+~
+0 0 26218
+S
+#26222
+Mine Tunnel~
+   You are standing in a dark mine tunnel. The only sound to be heard is the
+dripping of water. You have begun to go mad from the sound. Up ahead you 
+notice a barrier that has been broken. It appears to say "Do Not En..." then
+the rest is broken off. You wonder what the sign might mean. Maybe it is not
+safe to go any further.
+~
+262 9 0
+D0
+~
+~
+0 0 26223
+D2
+~
+~
+0 0 26221
+S
+#26223
+Collapsing Tunnel~
+   You just enter the room and think, "No danger, HA HA! Nothing can stand in
+my way." Even before you can complete that thought you see that there are no
+timbers supporting the roof here. You suddenly decide to leave. But too late
+the roof is falling on you. First small pebbles hit your head. Then a large
+boulder falls and snaps your spine. "Oh god!" you scream. You suddenly
+realize that you should have listened to mother and been more careful. 
+Perhaps now you will use more caution in your explorations.
+~
+262 139 0
+D2
+~
+~
+0 0 26223
+S
+#26224
+Mine Tunnel End~
+   After running into the wall you realize that this tunnel takes a 90
+degree turn. You look around, or try to. You notice that the only light
+left is the light from your lantern. All light from the mine entrance is
+gone. Stumbling along the rails, you conclude the best option is just to
+continue your exploration.
+~
+262 9 0
+D0
+~
+~
+0 0 26225
+D1
+~
+~
+0 0 26204
+S
+#26225
+Secondary Tunnel~
+   You are in a dark narrow tunnel. Stumbling along the rails at your feet 
+has led you to wonder if this tunnel will ever end. You begin to speculate
+on the beginning of the universe, part of you feels that it began with a
+big bang and was purely random while another part feels that it was created
+by god. ARRGGHHH!!! Why am I thinking this you wonder? You begin to run 
+through the tunnels, stumbling at each step. Are you going crazy???
+~
+262 9 0
+D0
+~
+~
+0 0 26226
+D2
+~
+~
+0 0 26224
+S
+#26226
+Secondary Tunnel~
+   You are in a dark, dank, narrow tunnel. Feeling your way along the walls
+you feel something move under your hand. Quickly you jerk it away. What was
+that you wonder??? What could live in this narrow tunnel? Outloud you scream,
+"ARRGGHHH!!! Heeellp!! I don't want to die!! I'm too young to die!" Suddenly
+your face stings from being slapped. "What was that? Who was that?", you ask.
+Ashamed you realize your hand stings, obviously you slapped yourself hoping
+to return yourself to reality. Can you escape these tunnels before you go
+crazy? That is all you can think about.
+~
+262 9 0
+D0
+~
+~
+0 0 26227
+D2
+~
+~
+0 0 26225
+S
+#26227
+Secondary Tunnel~
+   While walking in this dark, narrow tunnel you begin to think about your
+fear of the dark. You think it probably began when you were rather young.
+It was probably some time before puberty, you remember your brother. Thinking
+back you remember him scaring you one day. While sleeping you awoke and found
+a snake in your bed... rather like that snake on the ground there! "Oh my
+God! Heeellp, heeelllpp! Someone save me!", you scream, You're so scared you
+don't think you can kill the snake lying between the rails on the ground.
+~
+262 9 0
+D0
+~
+~
+0 0 26228
+D2
+~
+~
+0 0 26226
+S
+#26228
+T Junction~
+   You are standing at the junction of three tunnels. Each opening leads off
+into a dark pit. You can only wonder lies at the end of those tunnels. Which
+one will you choose?
+~
+262 9 0
+D0
+~
+~
+0 0 26230
+D1
+~
+~
+0 0 26229
+D2
+~
+~
+0 0 26227
+S
+#26229
+Connection Tunnel~
+   You are in a narrow tunnel. Its main purpose seems to be
+to connect two other tunnels. This section of tunnel does
+not seem to have been worked. The timbers bracing the
+ceiling seem rather new. Hopefully it won't crash.
+~
+262 9 0
+D1
+~
+~
+0 0 26208
+D3
+~
+~
+0 0 26228
+S
+#26230
+Secondary Tunnel~
+   You are standing in a narrow tunnel. Walking along the rails you've become
+lost in your own little world. You begin to have daydreams, you start to dream
+of a tunnel. In this tunnel you are following along some rails on the floor.
+But wait! Is this real, or is this the daydream I'm in??? ARGH!!!!
+~
+262 9 0
+D0
+~
+~
+0 0 26210
+D2
+~
+~
+0 0 26228
+S
+#26231
+T Junction~
+   You are standing at the junction of two small tunnels.
+There are three entrances to this small room. Looking
+down each entrance you cannot see anything. The timbers
+supporting the roof here are rather new, hopefully they
+will last. You also notice that the rails split off
+in each direction.
+~
+262 9 0
+D0
+~
+~
+0 0 26233
+D1
+~
+~
+0 0 26215
+D2
+~
+~
+0 0 26210
+S
+#26232
+Secondary Tunnel~
+   You are in located in a very narrow tunnel. The silence
+of this part of the mine is chilling. No longer can you hear
+any sounds coming from the workers. Apparently they don't
+enter this part of the mine. Taking a look at the ground
+you notice a set of rails, they appear quite new and shiny
+still.
+~
+262 9 0
+D0
+~
+~
+0 0 26234
+D2
+~
+~
+0 0 26233
+S
+#26233
+Secondary Tunnel~
+   You are standing in a very narrow tunnel. This tunnel appears
+to be a recent addition to the mine system. Looking all around
+you spot several shovels and picks used to mine ore. Looking
+down you also see a set of rails in the floor.
+~
+262 9 0
+D0
+~
+~
+0 0 26232
+D2
+~
+~
+0 0 26231
+S
+#26234
+Mine Tunnel End~
+   You are standing inside a narrow tunnel. It appears that
+here the tunnel takes a 90 degree turn to the right. You 
+cannot see very far in either direction. The tunnel seems
+to absorb every bit of light. Glancing at your feet you
+see that the rails also turn off into the new tunnel.
+~
+262 9 0
+D1
+~
+~
+0 0 26220
+D2
+~
+~
+0 0 26232
+S
+#26235
+Mine Tunnel End~
+   After you walk into the wall you realize that the tunnel takes a 90-degree 
+turn here. Looking down at your feet you notice that the rails also turn, but 
+they are also laid right up to the wall, as if the tunnel is going to be 
+expanded. You no longer have any sense of direction, you realize finding your 
+way out will be extremely difficult. 
+~
+262 9 0
+D0
+~
+~
+0 0 26236
+D3
+~
+~
+0 0 26203
+S
+#26236
+Secondary Tunnel~
+   You are in a narrow tunnel. There is room for maybe 3 people to walk 
+abreast. You see that the tunnel must be rather new, the walls show few signs 
+of being worked. Even the timbers holding up the walls seem rather recent. 
+Taking a quick look down at your feet you see the rails again continue off in 
+both directions. 
+~
+262 9 0
+D0
+~
+~
+0 0 26237
+D2
+~
+~
+0 0 26235
+S
+#26237
+Secondary Tunnel~
+   You are in a narrow tunnel. Stumbling in the dark you almost trip over a 
+pickaxe laying on the rails. You can barely pick it up. The pickaxe is huge, 
+you immediately begin to wonder about the size of the people who work this 
+mine. Clearly they are not human. 
+~
+262 9 0
+D0
+~
+~
+0 0 26238
+D2
+~
+~
+0 0 26236
+S
+#26238
+Secondary Tunnel~
+   You are in a narrow tunnel. It is so dark you almost think you could cut 
+it with a knife. Stumbling along the rails has led you to realize you might 
+never find your way out. You feel you must just follow the rails and... hope. 
+~
+262 9 0
+D0
+~
+~
+0 0 26239
+D2
+~
+~
+0 0 26237
+S
+#26239
+T Junction~
+   You are in what appears to be a junction of three tunnels. In the dim 
+light provided by the lanterns here you see huge timbers holding up the 
+ceiling to the tunnels. The rails you have been following go into all three 
+openings. You are truely lost now, wondering which opening to go into. 
+~
+262 9 0
+D0
+~
+~
+0 0 26240
+D2
+~
+~
+0 0 26238
+D3
+~
+~
+0 0 26209
+S
+#26240
+Secondary Tunnel~
+   You are in a narrow tunnel. It is so dark you almost think you could cut
+it with a knife. Stumbling along the rails has led you to realize you might
+never find your way out. You feel you must just follow the rails... and hope.
+~
+262 9 0
+D0
+~
+~
+0 0 26241
+D2
+~
+~
+0 0 26239
+S
+#26241
+Secondary Tunnel~
+   You are in a narrow tunnel. It is so dark you almost think you could cut
+it with a knife. Stumbling along the rails has led you to realize you might
+never find your way out. You feel you must just follow the rails... and hope.
+~
+262 9 0
+D0
+~
+~
+0 0 26242
+D2
+~
+~
+0 0 26240
+S
+#26242
+T Junction~
+   You are in what appears to be a junction of three tunnels. In the dim 
+light provided by the lanterns here you see huge timbers holding up the
+ceiling to the tunnels. The rails you have been following go into all three
+openings. You are truely lost now, wondering which opening to go into.
+~
+262 9 0
+D0
+~
+~
+0 0 26243
+D2
+~
+~
+0 0 26241
+D3
+~
+~
+0 0 26214
+S
+#26243
+Secondary Tunnel~
+   You are in a narrow tunnel. It is so dark you can almost think you could
+cut it with a knife. Stumbling along the rails has led you to realize you
+might never find your way out. You feel you must just follow the rails...
+and hope.
+~
+262 9 0
+D0
+~
+~
+0 0 26244
+D2
+~
+~
+0 0 26242
+S
+#26244
+Secondary Tunnel~
+   You are in a narrow tunnel. It is so dark you almost think you could cut
+it with a knife. Stumbling along the rails has led you to realize that you
+might never find your way out. You feel you must follow the rails... and hope.
+~
+262 9 0
+D0
+~
+~
+0 0 26245
+D2
+~
+~
+0 0 26243
+S
+#26245
+Mine Tunnel End~
+   After you walk into the wall you realize that the tunnel takes a 90-degree
+turn here. Looking down at your feet you notice that the rails also turn, but
+they are also laid right upto the wall, as if the tunnel is going to be
+expanded. You no longer have any sense of direction, you realize finding your
+way out will be extremely difficult.
+~
+262 9 0
+D2
+~
+~
+0 0 26244
+D3
+~
+~
+0 0 26219
+S
+#26246
+Grand Hall~
+A large chandelier dominates the room, giving off bright light to every corner.
+A statue of some winged demon rests upon a round oak table, situated in the
+middle of the hall.  Railcar tracks begin a few feet north of the table, 
+leading north into the mines.  This hall is grand indeed, for rich tapestries
+and platforms displaying priceless sculptures line the walls.  Your image
+reflects off the expensive imported marble, and as you stare, you see the
+likeness of a masterpiece painted on the ceiling 20 feet above you.
+~
+262 8 0
+D0
+~
+Large titanium door~
+1 26299 26200
+D2
+~
+~
+0 0 26258
+D3
+~
+~
+0 0 26247
+S
+#26247
+Dark Narrow Tunnel~
+This cramped hallway leads eastward, and you can only wonder where it will
+finally end.  Even with your light you can hardly see a few feet in front,
+and you pray to your gods that this tunnel isn't caved it.  Dirt occaisionally
+falls from large cracks above, and a musty smell fills your nostrils.  The
+feeling of claustrophobia is beginning to set in, and you decide to quicken
+your pace.
+~
+262 129 0
+D1
+~
+~
+0 0 26246
+D3
+~
+~
+0 0 26248
+S
+#26248
+Dark Narrow Tunnel~
+As you quickly and carefully pick your way between cracked rocks and piles
+of fecal material, you force the sickly sounds of shuffling and raspy
+breathing out of your mind.  Almost before you know it, the endless-seeming
+corridor opens up into a deep room, of which you cannot see the end.  The
+bestial sounds are much louder, and you can see dim shapes moving about in
+the back.  You quietly thank your gods that they appear to be man-sized.
+~
+262 129 0
+D1
+~
+~
+0 0 26247
+D3
+~
+~
+0 0 26249
+S
+#26249
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26250
+D1
+~
+~
+0 0 26248
+D2
+~
+~
+0 0 26251
+D3
+~
+~
+0 0 26255
+S
+#26250
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D2
+~
+~
+0 0 26249
+D3
+~
+~
+0 0 26257
+S
+#26251
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26249
+D3
+~
+~
+0 0 26252
+S
+#26252
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26255
+D1
+~
+~
+0 0 26251
+D3
+~
+~
+0 0 26253
+S
+#26253
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26254
+D1
+~
+~
+0 0 26252
+S
+#26254
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26256
+D1
+~
+~
+0 0 26255
+D2
+~
+~
+0 0 26253
+S
+#26255
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26257
+D1
+~
+~
+0 0 26249
+D2
+~
+~
+0 0 26252
+D3
+~
+~
+0 0 26254
+S
+#26256
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D1
+~
+~
+0 0 26257
+D2
+~
+~
+0 0 26254
+S
+#26257
+Slave Quarters~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D1
+~
+~
+0 0 26250
+D2
+~
+~
+0 0 26255
+D3
+~
+~
+0 0 26256
+S
+#26258
+Grand Hall~
+   You are standing inside a dummy room, which should get real.
+~
+262 136 0
+D0
+~
+~
+0 0 26246
+D1
+~
+~
+0 0 26259
+D2
+~
+~
+0 0 26276
+S
+#26259
+Wide Spartan Hallway~
+   You are in a wide hallway. It is rather spartan in appearance. The walls
+are just smooth stone. Your footsteps echo from the simple tile lining the
+floor. The hallway stretchs off into both directions, glancing both ways
+you are unable to see the ends.
+~
+262 136 0
+D1
+~
+~
+0 0 26260
+D3
+~
+~
+0 0 26258
+S
+#26260
+Wide Spartan Hallway~
+   You are in a wide hallway. It is rather spartan in appearance. The walls
+are just smooth stone. Your footsteps echo from the simple tile lining the
+floor. The hallway stretchs off into both directions, glancing both ways
+you are unable to see the ends.
+~
+262 136 0
+D1
+~
+~
+0 0 26261
+D3
+~
+~
+0 0 26259
+S
+#26261
+Office Hallway~
+   You are standing at the end of the hallway. Doors lead off into three
+directions. The smell of food seems to be coming from the east. There is 
+a faint sound off in the distance. This sound puzzles you greatly, what
+could be the source of it. After thinking about it for awhile you realize
+that it is the sound of snoring, and its eminating from the north.
+~
+262 136 0
+D0
+~
+~
+0 0 26267
+D1
+~
+~
+0 0 26265
+D2
+~
+~
+0 0 26262
+D3
+~
+~
+0 0 26260
+S
+#26262
+Anteroom~
+   You are in a nice little waiting room. Lining the walls are neo-modern
+couches with potted plants placed around the room. A few mirrors dot the 
+walls. Looking closely at the mirrors you notice they are highly polished
+titanium.
+~
+262 28 0
+D0
+~
+~
+0 0 26261
+D1
+~
+~
+0 0 26263
+S
+#26263
+Regin's Outer Office~
+   You are standing inside a busy room with several desks. Many of the desks
+are covered with stacks of paper. You realize this room must run the mine. 
+As you look around you see many people running around appearing quite busy.
+You see three entrances to the room. One is the one you came into, another 
+appears to be a supply closets you surmise, the last is a large, thick oak
+door. You are rather curious about the supply closet, you feel there are all
+kinds of office supplies you could steal in there.
+~
+262 72 0
+D1
+~
+Thick oak door~
+2 26204 26264
+D2
+~
+supply closet door~
+1 0 26291
+D3
+~
+~
+0 0 26262
+S
+#26264
+Regin's Inner Office~
+   You are standing inside a nicely appointed room. Lining all the walls from 
+floor to ceiling is bookcases. The only thing that interrupts them is the 
+door through which you entered. You notice a large oak desk set in the middle 
+of the room with a large cushioned chair turned to face away from the door 
+behind it. In one corner of the room stands a seven foot high suit of armor. 
+Placed in its hand is a large gleaming broadsword. The suit of armor also 
+holds a large shield in one hand. 
+~
+262 393448 0
+D3
+~
+Thick oak door~
+2 26204 26263
+S
+#26265
+Mess Hall~
+   You are standing inside a dummy room, which should get real.
+~
+262 136 0
+D1
+~
+~
+0 0 26266
+D3
+~
+~
+0 0 26261
+S
+#26266
+Mess Kitchen~
+   You are standing inside a dummy room, which should get real.
+~
+262 137 0
+D3
+~
+~
+0 0 26265
+S
+#26267
+Dank Narrow Hallway~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26268
+D2
+~
+~
+0 0 26261
+S
+#26268
+Dank Narrow Hallway~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D1
+~
+~
+0 0 26270
+D2
+~
+~
+0 0 26267
+S
+#26269
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26271
+D1
+~
+~
+0 0 26273
+D3
+~
+~
+0 0 26270
+S
+#26270
+Dank Narrow Hallway~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D1
+~
+~
+0 0 26269
+D3
+~
+~
+0 0 26268
+S
+#26271
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D1
+~
+~
+0 0 26272
+D2
+~
+~
+0 0 26269
+S
+#26272
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D2
+~
+~
+0 0 26273
+D3
+~
+~
+0 0 26271
+S
+#26273
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26272
+D2
+~
+~
+0 0 26274
+D3
+~
+~
+0 0 26269
+S
+#26274
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26273
+D3
+~
+~
+0 0 26275
+S
+#26275
+A dummy room~
+   You are standing inside a dummy room, which should get real.
+~
+262 0 0
+D0
+~
+~
+0 0 26269
+D1
+~
+~
+0 0 26274
+S
+#26276
+Grand Hall~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D0
+~
+~
+0 0 26258
+D2
+~
+~
+0 0 26277
+S
+#26277
+Elevator Shaft~
+   You are standing inside the elevator shaft used to move ore up
+to the processing center. It is rather wide and very deep. The 
+elevator that tranverses this shaft must be quite large to move
+all the ore mined here. Wooden timbers line the walls, keeping the
+shaft intact. On the back wall you see a huge counterweight. It is
+used to balance the elevator, making it easier to run.
+~
+262 8 0
+D0
+~
+~
+0 0 26276
+D4
+~
+~
+0 0 26278
+S
+#26278
+Covered Entrance~
+   You have entered a covered area. Off to the north you see what appears
+to be an elevator. You have no clue what that could be. However the 
+strangest thing you notice are the rails on the floor that go off to the
+north into the elevator and off to a strange structure to your west. You
+have no idea what to make of this.
+~
+262 8 0
+D2
+~
+~
+0 0 26289
+D3
+~
+~
+0 0 26279
+D5
+~
+~
+0 0 26277
+S
+#26279
+Exposed Walkway~
+   You are now exposed to the elements. A wide well worn path leads off in
+both directions. Laid down the middle of the path are a set of rails. They
+must be used to move ore from the mine to the processing center.
+~
+262 0 4
+D1
+~
+~
+0 0 26278
+D3
+~
+~
+0 0 26280
+S
+#26280
+Magical Ore Processing~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D0
+~
+~
+0 0 26281
+D1
+~
+~
+0 0 26279
+D2
+~
+~
+0 0 26282
+D3
+~
+~
+0 0 26283
+S
+#26281
+Magical Ore Processing~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D2
+~
+~
+0 0 26280
+D3
+~
+~
+0 0 26285
+S
+#26282
+Magical Ore Processing~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D0
+~
+~
+0 0 26280
+D3
+~
+~
+0 0 26284
+S
+#26283
+Refuse Crushing Pit~
+   You are standing in what appears to be the room in which the waste ore
+is destroyed. You are quite interested in how they destroy such large 
+quanties of rock. Perhaps you will be able to see it in action. Suddenly
+you hear some motors begin to run. Wow, this should be fun you think.
+   Oh no! You quickly realize the walls are closing in on you. Quickly you
+run for the nearest exit, when you notice they are all shut. Hopefully you
+will be able to open one. Examining the door, you see that there is no 
+inside handle. How will you escape?
+   You begin to scream for help in a loud voice. But it is no help, the walls
+continue their slow march across the room. You are doomed to death in here.
+You begin to pray for help. Suddenly your prayer is cut off as you are 
+crushed to a power between the walls, now you know how the waste is disposed
+of.
+~
+262 393386 0
+S
+#26284
+Magical Ore Processing~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D0
+~
+~
+0 0 26283
+D1
+~
+~
+0 0 26282
+D3
+~
+~
+0 0 26287
+S
+#26285
+Magical Ore Processing~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D1
+~
+~
+0 0 26281
+D2
+~
+~
+0 0 26283
+D3
+~
+~
+0 0 26288
+S
+#26286
+Magical Ore Processing~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D0
+~
+~
+0 0 26288
+D1
+~
+~
+0 0 26283
+D2
+~
+~
+0 0 26287
+S
+#26287
+Magical Ore Processing~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D0
+~
+~
+0 0 26286
+D1
+~
+~
+0 0 26284
+S
+#26288
+Magical Ore Processing~
+   You are standing inside a dummy room, which should get real.
+~
+262 8 0
+D1
+~
+~
+0 0 26285
+D2
+~
+~
+0 0 26286
+S
+#26289
+Mountain Trail~
+   You are standing on a rough mountain trail. Off in the near distance you
+see a covered entrance. It appears to lead to a mine. You notice a structure
+off to the west of the entrance. This sets your curiousity running wild, you
+can't wait to see what lies ahead.
+~
+262 8 4
+D0
+~
+~
+0 0 26278
+D2
+~
+~
+0 0 26290
+S
+#26290
+Steep Mountain Trail~
+   You are standing on a steep mountain trail. Off in the distance above you
+is what you believe is a mine entrance. You can't believe that anyone would
+want to build a mine so high up. You can't even decide if you want to continue
+this steep climb to see what lies ahead.
+~
+262 0 5
+D0
+~
+~
+0 0 26289
+S
+#26291
+The END Supply Closet~
+   As you enter the room you see piles of stuff littering the room. Just as
+you glance up you shake in terror as a huge pile of typewriters fall upon 
+you. Lying under the pile of typewriters you feel a deep desire to confess
+your intended sin to steal office supplies. Now you know the pen isn't 
+mightier than the sword, its the typewriter, it weights so much more. With
+your last fleeting breath you gasp as you spy a short bald man in the corner
+laughing. Your final thought is the realization that he pushed over the
+typewriters and then failed to save you. ARRGGGGHHH!!!!!
+~
+262 393246 0
+S
+#99999
+$~

@@ -1,0 +1,1999 @@
+#500
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D2
+~
+~
+0 0 581
+D3
+~
+~
+0 0 541
+S
+#501
+Reception~
+Send description to Kasmir at earliest convenience.
+~
+5 8 1
+D2
+~
+~
+0 0 568
+S
+#502
+Mail Room~
+Send Description to Kasmir at earliest convenience.
+~
+5 8 0
+D0
+~
+~
+0 0 568
+S
+#503
+Vacant~
+Vacant
+~
+5 9 1
+D0
+~
+~
+0 0 501
+D1
+~
+~
+0 0 505
+S
+#504
+Hall of Glory~
+  Standing within these hallowed halls one cannot help but wonder
+what it were like to be here in the era before this great clan.
+Names like Gargon, Nausicaa, and SenorNacho line the walls. So 
+many great warriors have walked these halls and you are but the
+youngest among them. In this the finest era new names will emerge
+you will be one.
+~
+5 9 1
+D0
+~
+large double doors~
+1 -1 526
+S
+#505
+Hall of Glory~
+  Standing within these hallowed halls one cannot help but wonder
+what it were like to be here in the era before this great clan.
+Names like Gargon, Nausicaa, and SenorNacho line the walls. So 
+many great warriors have walked these halls and you are but the
+youngest among them. In this the finest era new names will emerge
+you will be one.
+~
+5 8 1
+S
+#506
+The Hall of the Past~
+  Standing in the gloomy hall, you notice faint lights in each
+of the rooms off to the cardinal directions. You know these rooms
+are empty as this is the Hall of the Past and those that have 
+rooms here have not been seen in many many months or even years. 
+Peering into each room you see a single small candle set on the 
+floor. A light to guide there friends home.
+~
+5 8 1
+D0
+~
+~
+0 0 505
+S
+#507
+A Terrace Overlooking Kore~
+You look out over the marble hand rail and take in the beauty of the land
+of Kore.  You can see clearly Mount Olympus and its magnificient gardens,
+the wonderful architecture of New Thalos, and the jagged peaks of the
+nearby mountains.  What a breathtaking view.  The Dynasty catapult sits
+here waiting to launch you to your destination.  There is a sign floating
+to the left of the catapult, listing the places it can toss you.  To the
+east you hear the ancients soothing whispers.
+~
+5 8 0
+D1
+~
+~
+0 0 555
+S
+#508
+Carnage Board Room~
+   Entering this room, you shiver as you feel many unseen eyes probing the very fiber of
+your being.  You glance around but see no one.  Around you mill the denizens
+of the clan Titania.
+~
+5 8 0
+D0
+~
+~
+0 0 509
+D2
+~
+~
+0 0 580
+S
+#509
+Quiet Room~
+   Around you are many doors, leading to the many rooms that this luxurious inn has to
+offer.  Before you stands a woman ready to help you into one of them.
+~
+5 8 0
+D2
+~
+~
+0 0 508
+S
+#510
+Carnage Bank~
+   Send a description of this toom to Kasmir.
+~
+5 8 0
+D8
+~
+~
+0 0 580
+S
+#511
+Carnage Cryo Center~
+   Thieves and racketeers of every kind are here, ready to hold onto your wealth in 
+exchange for a percentage of it.  The shifty eyed merchants glance greedily at your purse
+as you enter the room.
+~
+5 8 0
+D3
+~
+~
+0 0 580
+S
+#512
+The Hall of Magics~
+    Send a description of this room to Kasmir.
+~
+5 8 0
+D1
+~
+~
+0 0 508
+D2
+~
+~
+0 0 585
+S
+#513
+Paved Road to the Citadel of Clan X~
+   Before you lies a paved path to the Citadel. You can see a drawbridge to
+the east, and beyond that you can see a soft red glow coming from the 
+gleaming steel citadel.
+~
+5 64 1
+D1
+~
+~
+0 0 514
+D3
+~
+~
+0 0 532
+S
+#514
+Steel Drawbridge~
+   As you walk across the drawbridge you can hear movement coming from the
+moat below. Ahead of you is the fabled Citadel of Clan X. The steel takes on
+a faint red glow and seems to be the onyl light source around. Even the skies
+seem to darken as you approach.
+~
+5 16 1
+D3
+~
+~
+0 0 513
+E
+drawbridge~
+   The mighty drawbridge spans the moat.
+~
+S
+#515
+Entrance to the Tower of X~
+   As you make your way across the drawbridge you find your way into the main
+entrance of the tower. There is a spiral staircase that leads up into the
+tower, but the staircase seems to sprout directly out of a crack in the floor.
+As you peer further east you can see the grand hall.
+~
+5 25 0
+D1
+~
+~
+0 0 568
+D2
+~
+~
+0 0 23001
+D3
+~
+~
+0 0 514
+D4
+~
+~
+0 0 569
+D5
+~
+~
+0 0 516
+E
+staircase spiral stairs~
+   The massive staircase appears to be made out of some type of iron, and has
+strange symbols engraved into it.
+~
+S
+#516
+Center of X~
+   As you make your way down the narrow staircase, you enter a vast
+subterranean cavern of Clan X. You stand on a platform that spans over a
+huge chasm that emotes brightly with a very low hum. In the center of the
+chasm you can see a very bright blue flame. There seems to be little need
+for light here, since the cave walls seem to pulse with the reflection of
+the flame. It is here where you are able to reflect on the mysteries of life.
+~
+5 24 0
+D4
+~
+~
+0 0 515
+D5
+~
+~
+0 0 594
+D6
+~
+~
+0 0 517
+D7
+~
+~
+0 0 518
+D8
+~
+~
+0 0 519
+D9
+~
+~
+0 0 520
+S
+#517
+The Great Lake~
+   As you follow the path to the northeast you make your way onto the edge of 
+a giant underground lake. The water is very still and calm, with a very heavy 
+fog covering most of the lake. The beach is made up of a blue powdered sand 
+that is silky smooth to the touch. There are rows of torches, lit by magic, 
+that light the pathways along the beachfront. As you make your way onto one 
+of the docks you find yourself standing next to a water pump that pours forth 
+fresh water from the lake into a golden well that is in the shape of a 
+dragon's head. 
+~
+5 8 0
+D8
+~
+~
+0 0 516
+E
+water~
+   This water comes from the icy caps of Kore and is cool and refreshing.
+~
+S
+#518
+The Battle Dome~
+   As you make your way down the platforms, you enter into the Battle Dome's 
+viewing area. There are rows and rows of chairs circling the Battle pit. 
+There is a large green gem centered above the battle pit providing light for 
+the Dome. The harsh steel walls give an ominous feeling to this arena. It is 
+here where members come to cheer on their fellow clansmen as they prove 
+themselves against forces of the past. 
+~
+5 8 0
+D9
+~
+~
+0 0 516
+E
+arena battle dome~
+   There seems to be no scratches or blood anywhere in the battle pit. Hmmm...
+what could be so efficient.
+~
+S
+#519
+Temple of Guardians~
+   You feel humbled in the presence of this most holy of shrines. It is here 
+where the original guardians of Kore are buried, each with his or her own 
+personal effects. every part of the underground cavern has been decorated 
+with banners and flower arrangments that various members have brought in 
+hopes of gaining the favor of the guardians. There are seven tombstones here 
+and each each is made of two giant slabs of squared rock standing in unison 
+with a third resting on top of the two. They are all placed in a circle 
+around a giant clan emblem embedded in the center of the floor. It is said 
+that sometimes the guardians give great gifts to those who have gained their 
+favor. 
+~
+5 1080 0
+D6
+~
+~
+0 0 516
+E
+emblem~
+   The clan emblem shows and enormous gold dragon, surrounded by flames,
+holding the shattered remains of the Eye of Chaos in his left claw.
+~
+S
+#520
+Domino's~
+   As the glass doors are activated by your movement, they slide back into
+the rockface. Walking towards the counter your boots squeek on the gleaming
+linoleum. A few teenagers scurry from behind the counter as you are greeted
+by the manager.
+"Welcome to Domino's, may I take your order?" he asks with a bright smile.
+Ferns and other plant life are scattered about the room. A huge salt water
+fish tank lies in the corner with species from all over Kore contained within.
+A grand piano sits back in an alcove here. The restrooms lie off to the west.
+The glass doors peel back again to the southeast.
+~
+5 8 1
+D7
+~
+~
+0 0 516
+S
+#521
+Secret Room Deep within the Walls of X~
+   Somehow you made your way into this room, you know your not supposed to
+be here, but somehow your compeled to stay.  This room is lit by a strange
+large wall.  Near the base of the magic wall, you see alot of shiny small
+lights. Some of them twinkle like the stars in the sky do.  There are also
+many strange noises coming from the magic wall.  Unable to comprehend what
+this wall does, you begin your way out, but before you have a chance, a
+booming loud voice says,'NAME'. Out of fear, and curiousity, you tell the
+wall your name, and it responds with a loud roar saying,'INVALID, SESSION
+TERMINATED.' All the lights and noises flicker away into nothingness.
+You are left with a kind of saddened curiousity, feeling somehow closer
+to the truth about clan X.
+~
+5 9 2
+D5
+~
+~
+0 0 576
+S
+#522
+Carnage Clanroom~
+Empty~
+5 92 0
+D0
+~
+~
+0 0 580
+S
+#523
+The Asylum~
+   You have entered a large room, apparently made entirely from rubber. It 
+has an oddly clinical feel to the atmosphere. A pile of baskets in various 
+stages of construction sits in one corner, while another corner holds a 
+cupboard housing all the latest fashions in straitjackets. A variety of men 
+walk around wearing white coats and carrying clipboards. 
+~
+5 32856 1
+D0
+~
+~
+0 0 631
+D2
+~
+~
+0 0 540
+S
+#524
+The Clanhall of Clan TOOT~
+   You enter into the huge anteroom of the clan TOOT and gasp in awe. The
+room has a vaulted ceiling supported by titanic marble columns, equally
+spaced along its entirety, and the ceiling itself is a mosaic of sparkling
+colors depicting a great battle scene between a horde of dragons and the
+mighty Ship. Weapons and armor from every age line the walls beneath the
+standards and crests of a thousand long-forgotten kingdoms. Bas-relief images
+of heroes and sages, all familiar but most unknown to any but fellow members
+of the clan, stare down at you from atop the columns, their captured visages
+precise enough to emote the very characters of the men they portray. In the
+center of the room is a glorious statue of clan's founder. Carved from the
+purest diamonds, it acts as the sole lightsource for the room.
+~
+5 88 1
+D0
+~
+~
+0 0 610
+D1
+~
+~
+0 0 525
+D2
+~
+~
+0 0 526
+D3
+~
+~
+0 0 593
+D4
+~
+~
+0 0 527
+D5
+~
+~
+0 0 528
+S
+#525
+The Galley~
+   The galley is adorned with plain paneling and a floor of sturdy oak
+planks with a small rug by the entrance. A blazing hearth takes up much of
+the north wall, while copper kettles, cutlery, and vegetables of all kinds hang
+from overhead racks. The galley is furnished with a large wooden table, upon
+which a huge tank full of lobsters rests. The steam from a pot on the hearth
+wafts by your nose, and the strong odor of the cooking food brings a pang
+of hunger.
+~
+5 8 1
+D3
+~
+~
+0 0 524
+S
+#526
+The Foyer~
+  You find yourself in a large, open foyer with a number of doorways leading
+to other rooms. The floor is of polished marble and the walls are paneled
+with dark teak. Plush couches and chairs of red velvet are comfortably
+arranged in this luxurious room. Dozens of beautiful portraits, paintings,
+busts, tapestries, banners, and other objects of art adorn this magnificent
+room, softly illuminated by the clear crystal dome that allows in the light.
+~
+5 262152 1
+D0
+~
+~
+0 0 524
+D1
+~
+~
+0 0 530
+D2
+~
+large double doors~
+1 -1 504
+D3
+~
+~
+0 0 529
+D4
+~
+~
+0 0 564
+S
+#527
+Garden of Peace~
+   You arrive from the entrance of the clanhall and the contrast between
+the two rooms is startling. All around you are towering lush junipers that
+give the air the fresh scent of pine, while a babbling brook cuts through
+the rich vegetation, emitting a low gurgling sound as it runs along. Multi-
+hued fish swim lazily in the waters, rising quickly to the surface to snatch
+bits of bread that you thoughtfully share. You lay back and find yourself
+swinging quietly in a hammock, your fears and concerns of the outside world
+melt away with each rythmic sway. You feel completely at peace.
+~
+5 16 3
+D0
+~
+~
+0 0 543
+D5
+~
+~
+0 0 524
+S
+#528
+The Reception~
+   You walk down a set of spiral stairs into the lavish reception of the
+clan. A plush couch rests against the corner, offering you a spot to sit and
+relax, while pots of incense burn near the counter, giving off the sweet
+aroma of vanilla. The motiff of the room is unmistakeable, from the beautiful
+seascapes on the wall to the anchor and portraits of various ships, this room
+lends itself to the namesake of the clan. A beautiful woman looks at you
+casually from behind the counter. A flash of recognition goes across her
+face ash she smiles warmly. You relax a bit and smile; this is home.
+~
+5 262168 1
+D0
+~
+~
+0 0 565
+D1
+~
+~
+0 0 642
+D2
+~
+~
+0 0 592
+D4
+~
+~
+0 0 524
+S
+#529
+The Lounge~
+   The first thing you notice as you enter the room is the highly polished
+black-rosewood bar at the far end of the room. A solid marble pool table 
+with its deep crimson felt stands in the rooms center accompanied by a card
+table off to it's right. A dart board graces the far wall with some small 
+throwing daggers resting in the bullseye. The room is lit by softly glowing 
+elven floor lamps; ancient in years, but still burning as brightly as when 
+they were first created. Dark blue plush couches located randomly around the 
+room make the lounge a very comfortable place sit, socialize, relax and pass
+time. Various pictures are hung on the seascape motif of the wallpaper, some
+depicting huge battles on land, sea, and air while others show pictures of 
+various gods and heroes of Kore.
+~
+5 24 1
+D1
+~
+~
+0 0 526
+S
+#530
+Room of Councils~
+   You have entered the Room of Councils, the decision making chamber of
+Clan TOOT. Ornately carved pillars curve up toward a very high glowing 
+glass-like ceiling. Upon further inspection, the strange glow seems to
+emanate like sunlight on water, and you can swear that you see some fish 
+swimming up there. The floor is covered by an extremely thick plush maroon
+carpet, which you immediately sink in to. Along the walls you see a variety
+of desks and tables covered with notes, agenda's and applications. Toward
+the back of the room you see a block of marble that creates a platform for
+several high-backed chairs, and in the center of them rests a heavy oak 
+table with maps embedded in the smooth polished surface. The acoustics here 
+are fantastic, for a person standing in the middle of the room can be heard 
+by anyone else, no matter where they stand. You stop for a moment to catch 
+your breath, for the power that rises from this room is breathtaking, the 
+power of TOOT.
+~
+5 56 1
+D3
+~
+~
+0 0 526
+S
+#531
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tighter around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D0
+~
+~
+0 0 3720
+D2
+~
+~
+0 0 532
+S
+#532
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D0
+~
+~
+0 0 531
+D2
+~
+~
+0 0 533
+S
+#533
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D0
+~
+~
+0 0 532
+D2
+~
+~
+0 0 534
+S
+#534
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D0
+~
+~
+0 0 533
+D1
+~
+~
+0 0 535
+S
+#535
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D1
+~
+~
+0 0 536
+D2
+~
+~
+0 0 623
+D3
+~
+~
+0 0 534
+S
+#536
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D2
+~
+~
+0 0 537
+D3
+~
+~
+0 0 535
+S
+#537
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D0
+~
+~
+0 0 536
+D1
+~
+~
+0 0 538
+D2
+~
+~
+0 0 3042
+S
+#538
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D1
+~
+~
+0 0 539
+D3
+~
+~
+0 0 537
+S
+#539
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D1
+~
+~
+0 0 540
+D3
+~
+~
+0 0 538
+S
+#540
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D0
+~
+~
+0 0 523
+D1
+~
+~
+0 0 541
+D3
+~
+~
+0 0 539
+S
+#541
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D1
+~
+~
+0 0 500
+D3
+~
+~
+0 0 540
+S
+#542
+Carnage Store Room~
+   Standing here atop a high point in the forest, the view stretches off
+for miles in any one direction.  To the east, perhaps a weeks march away,
+a wide vale lies.  A large walled city is reachable westward, as the forest
+doesn't continue much farther in that direction.  The trees surrounding 
+the clearing in all directions are thick though, making passage extremely
+hindered.
+~
+5 68 3
+D6
+~
+~
+0 0 580
+S
+#543
+The Observatory~
+   You walk out onto the open rooftop of the clanhall. Lit by torches
+around the roof you can barely make out telescopes pointed toward the great
+constellations which are named after some of the finest members and friends
+of the clan. At the far end of the room a large stand with the sextant 
+that Ship used to navigate Kore sits. Beyond that a banner displaying 
+TOOT's logo and further beyond the banner the lights of Kore reach to the 
+horizon.
+~
+5 1310736 3
+D2
+~
+~
+0 0 527
+S
+#544
+Carnage Empty Room~
+   You enter into a lush green gardens filed with birds, flowers, trees, and 
+shrubs of all different varieties. Sweet scents of roses and orchids are 
+discernable amongst the different fragrances. With the smells assaulting your 
+nose with delectable fury, your eyes take in the beautiful combination of 
+colors that lay in slightly elevated sections on every side of you. Thankful 
+for the break in the torrential rains that plagued your arrival, beads of 
+water catch your eye as they glisten on petals and leaves everywhere. A fresh 
+crisp air floats past you, and the damp earth mingles with the smell of 
+flowers to create a delightful new scent. A walkway of patched granite slabs 
+creates a path through the gardens in several directions; chamomile creating 
+the ground cover that fills the spaces between slabs. The breeze picks up 
+sharply, ruffling your hair before settling down once again. Inhaling deeply, 
+you glance skywards to look at the patched gray clouds spread out like a 
+canopy high above your head. 
+~
+5 0 0
+D9
+~
+~
+0 0 580
+S
+#545
+Carnage Upstairs~
+   Ancient trees surround you on all sides upon this small plateau in the
+wood.  Set in the center of the clearing is a circle of three enormous
+stones; it is strangely serene standing among them.  Traces of energy in
+the air allude to the true purpose of the stones, and a wall of
+shimmering air directly above the ring reinforces this thought.  The rift
+can be seen pulsing from time to time.
+~
+5 0 0
+D0
+~
+~
+0 0 548
+D1
+~
+~
+0 0 549
+D2
+~
+~
+0 0 546
+D3
+~
+~
+0 0 551
+D5
+~
+~
+0 0 580
+S
+#546
+Carnage Bedroom~
+   Standing amidst the many densely packed trees of the grove, it's not
+easy to get a bearing on your surroundings.  The wood is dark here, as
+the thick canopy of elm treetops don't allow much light to pass through.
+To the north a glimmer of dim light is noticeable.
+~
+5 0 3
+D0
+~
+~
+0 0 545
+S
+#547
+Carnage Post Office~
+Please Send Room Description To Real As Soon As Possible.
+~
+5 69 3
+D1
+~
+~
+0 0 580
+S
+#548
+Carnage Bedroom~
+   Stepping into this room, you find yourself surprised at how neat and 
+orderly it is. Racks and tables contain neat stacks of paper, envelopes, and 
+other postal things. A few posters have been plastered onto the pillars, 
+mostly WANTED posters for members of other clans. The ceiling here is arched 
+high as it is throughout the hallways elswhere in the gardens, and the mural 
+is no exception. The mural of this room depicts a grand city, now destroyed 
+most likely, with a shining sea below it and forests to the north. Unlike the 
+rest of the halls, there are no plants here, they would just prove annoying 
+things to have to walk around. If there wasn't just one other occupant in the 
+room, you would say this place was busy. 
+~
+5 92 0
+D2
+~
+~
+0 0 545
+S
+#549
+Carnage Bedroom~
+   You enter into a lush green gardens filed with birds, flowers, trees, and 
+shrubs of all different varieties. Sweet scents of roses and orchids are 
+discernable amongst the different fragrances. With the smells assaulting your 
+nose with delectable fury, your eyes take in the beautiful combination of 
+colors that lay in slightly elevated sections on every side of you. Thankful 
+for the break in the torrential rains that plagued your arrival, beads of 
+water catch your eye as they glisten on petals and leaves everywhere. A fresh 
+crisp air floats past you, and the damp earth mingles with the smell of 
+flowers to create a delightful new scent. A walkway of patched granite slabs 
+creates a path through the gardens in several directions; chamomile creating 
+the ground cover that fills the spaces between slabs. The breeze picks up 
+sharply, ruffling your hair before settling down once again. Inhaling deeply, 
+you glance skywards to look at the patched gray clouds spread out like a 
+canopy high above your head. 
+~
+5 0 0
+D3
+~
+~
+0 0 545
+S
+#550
+Carnage Healing Room~
+Please Send Room Description To Real As Soon As Possible.
+~
+5 68 3
+D2
+Vault door
+~
+Vault door~
+2 564 552
+D4
+~
+~
+0 0 580
+S
+#551
+Carnage Bedroom~
+   You enter into a lush green gardens filed with birds, flowers, trees, and 
+shrubs of all different varieties. Sweet scents of roses and orchids are 
+discernable amongst the different fragrances. With the smells assaulting your 
+nose with delectable fury, your eyes take in the beautiful combination of 
+colors that lay in slightly elevated sections on every side of you. Thankful 
+for the break in the torrential rains that plagued your arrival, beads of 
+water catch your eye as they glisten on petals and leaves everywhere. A fresh 
+crisp air floats past you, and the damp earth mingles with the smell of 
+flowers to create a delightful new scent. A walkway of patched granite slabs 
+creates a path through the gardens in several directions; chamomile creating 
+the ground cover that fills the spaces between slabs. The breeze picks up 
+sharply, ruffling your hair before settling down once again. Inhaling deeply, 
+you glance skywards to look at the patched gray clouds spread out like a 
+canopy high above your head. 
+~
+5 0 0
+D1
+~
+~
+0 0 545
+S
+#552
+Carnage Storage Room~
+Please Send Room Description To Real As Soon As Possible.
+~
+5 0 0
+D0
+Vault door
+~
+Vault door~
+2 564 550
+S
+#553
+The Vale of Dynasty~
+   You see a beautiful vast green pasture for as far as the eyes can 
+reach. There are trees huge beyond belief, and you see creatures you 
+have never seen before roaming about freely. By a little pond you notice 
+a large dragon-like creature sipping some water as little implike beings 
+play openly around it. From out of nowhere a great flash of light appears 
+in front of you eyes, as you open them there is a bright glowing orb 
+hovering in front of you. Startled yet not afraid for there is warmth in its 
+presence you hear its voice in your mind asking you repeatedly, "Please 
+identify Yourself."
+~
+5 32860 0
+D1
+~
+~
+0 0 4031
+S
+#554
+Eternal Hall of Dynasty~
+   For a moment you are blinded by an blinding burst of intense light. As your 
+eyes become adjusted to the ancient clanhall of dynasty, immediately a sense 
+of peace overwhelms your soul. You stare in awe at its simple yet ethereal 
+quality. For as far as your eyes can see, there is but a clanboard standing 
+out amongst an emptiness of blue sky. As you look down towards your feet, you 
+notice that you are floating atop wisps of clouds. Deep inside your head, you 
+can hear the wisdom of the ancients, and know that all their knowledge 
+is imbued onto you, teaching you the ways of Dynasty. You now sense that to 
+the west is the Spiritual Meditation Room, and to the east is the portal back 
+to the Vale of Dynasty. You feel a sense of belonging and in your heart, know
+that you will always have a place among these halls for all eternity.
+~
+5 92 0
+D0
+~
+~
+0 0 652
+D1
+~
+~
+0 0 553
+D2
+~
+~
+0 0 585
+D3
+~
+~
+0 0 555
+S
+#555
+Spiritual Meditation Room~
+   Your spirit guides you to this place, within it you feel the spiritual
+breeze against your face. All statues have a wisdom unto themselves, one
+which allows them to survive and maintain their belief of helping others
+as they themselves were once helped, in doing so, they send blessings to
+the wounded amongest the room.  Against the wall, pictures of all ancestors
+who survived throughout the struggling abusive land. All of the sudden
+streams of light beam down, filling your soul with a warmth and you feel
+power of the ancients fill your body. A whisper sounds in the breeze,
+'we all are supporting you, do not give up'.
+~
+5 1048668 3
+D0
+~
+~
+0 0 558
+D1
+~
+~
+0 0 554
+D2
+~
+~
+0 0 556
+D3
+~
+~
+0 0 507
+S
+#556
+Arsenal of Heaven~
+   As you walk into the room there is a sudden chill moving down your spine
+There are instruments of destruction every which way you look. On the right
+wall there are endless racks for the holiest weapons. On the back wall are
+endless racks for armors of all sorts. On the left, there are some shelves
+set for a variety of lights which make this room bright enough to inspire.
+Upon the racks, there are weapons and armors you have never seen before.
+In the center of the room, there is a scroll that hovers above the ground
+in a continual glow. On the scroll, a message reads, This is the room in
+which Vanion, an ancient brother of Dynasty, armed himself before the task
+of slaying the evil god Torack. Now he shares his wisdom of weapons and
+armor with all his brothers of Dynasty in preparation for evil.
+~
+5 919644 0
+D0
+~
+~
+0 0 555
+S
+#557
+The Art Gallery~
+  Walking into this room, your eyes are transfixed by the abundant
+wealth stored within. Displayed here is the art collection that clan
+TOOT has amassed through their members many travels and adventures.
+Donated by clan members, paintings and sculptures of all sizes, shapes
+and topics adorn the area about you. Cared for by unseen servants and
+protected by magical stasis, these art pieces are well taken care of 
+and preserved for eternity.
+~
+5 92 1
+D0
+~
+~
+0 0 564
+S
+#558
+Dynasty's Clan Shop~
+   You stand in an empty room.
+~
+5 220 1
+D2
+~
+~
+0 0 555
+S
+#559
+Dynasty shopkeep storage~
+This is where Dynasty's shopkeeper stores his eq.
+~
+5 393225 1
+S
+#560
+Pearly Gates~
+A set of stairs gleaming silver in the sunlight reaches towards heaven. At
+the top of these stairs, wispy clouds float by in the slow steady breeze.
+Brazenly centered in the middle of the horizon, a set of gates molded by
+the fires of Vulcan, stand firmly closed, barring the way to paradise.
+~
+5 8 0
+D0
+~
+pearly gate~
+1 0 561
+D5
+~
+~
+0 0 585
+S
+#561
+Elysian Fields~
+Verdant fields, lush with life, teeming with all manner of flora and fauna,
+stretches far into the horizon. Passage into this utopian resting place is
+coveted by all, achieved by few. Only the sound of mind and pure of heart
+are permitted to remain in this paradise.
+~
+5 8 1
+D2
+~
+pearly gate~
+1 0 560
+S
+#562
+RE-USE~
+   You are in a arched and vaulted hallway carved from the purest gray 
+marble. Pillars rise along both sides to support a ceiling covered in murals 
+depicting scenes of great natural beauty. The pillars, easily five feet 
+around, stand four feet apart to allow passage out into the garden to the 
+north, or the ampitheatre to the south. Turning you head down as a cool wind 
+breezes by from the garden, you notice your reflection in the polished 
+marble, as well as the murals on the ceiling. Your booted feet clomp loudly 
+as you proceed down this hallway. With the ceiling a good 20 feet above your 
+head, and the width being at least 15 feet, any sound echoes in ripples down 
+the hallway in both directions. Potted green plants and flowers are lined 
+along every other pillar for color. Being in here gives you a sense of peace 
+you have never felt anywhere else... and a sense of being home as well. 
+~
+5 92 1
+D0
+~
+~
+0 0 553
+D1
+~
+~
+0 0 563
+D2
+~
+~
+0 0 561
+S
+#563
+RE-USE~
+   Stepping out of the marble hallways, you enter into a large open area 
+surrounded by apple trees. A large granite dais rests in the middle of the 
+clearing -- its sides carved into three steps to reach its flat smooth top. 
+Benches of patched stonework rest in the grass under the trees, and a large 
+fountain rests on the northern edge of the clearing. Here is where your clan 
+meets to conduct business and perform for its members and guests. The breeze 
+is much softer here, and the clouds in the sky high above add a grim beauty 
+to your surroundings. Surrounded on all sides by the marble hallways you feel 
+priveleged and honored to be in such a wonderful place. Relaxing yourself and 
+distancing yourself from the rushed world oustide, you inhale and smell the 
+scent of vanilla and apple blossoms, and the scent of home. 
+~
+5 116 1
+D0
+~
+~
+0 0 556
+D1
+~
+~
+0 0 558
+D2
+~
+~
+0 0 560
+D3
+~
+~
+0 0 562
+S
+#564
+The Art Gallery~
+  Walking into this room, your eyes are transfixed by the abundant
+wealth stored within. Displayed here is the art collection that clan
+TOOT has amassed through their members many travels and adventures.
+Donated by clan members, paintings and sculptures of all sizes, shapes
+and topics adorn the area about you. Cared for by unseen servants and
+protected by magical stasis, these art pieces are well taken care of 
+and preserved for eternity.
+~
+5 8 0
+D0
+~
+~
+0 0 589
+D1
+~
+~
+0 0 584
+D2
+~
+~
+0 0 557
+D3
+~
+~
+0 0 583
+D4
+~
+~
+0 0 566
+D5
+~
+~
+0 0 526
+S
+#565
+Mail Room~
+   All the mail that is to clan members is sent here.  Many bags of mail
+as yet uncollected, litter the floor.  Severald crates of undelivered
+parcels sit here collecting dust.  To the south is the reception where most
+clan members rent for the night.
+~
+5 262144 0
+D2
+~
+~
+0 0 528
+S
+#566
+The Art Gallery~
+  Walking into this room, your eyes are transfixed by the abundant
+wealth stored within. Displayed here is the art collection that clan
+TOOT has amassed through their members many travels and adventures.
+Donated by clan members, paintings and sculptures of all sizes, shapes
+and topics adorn the area about you. Cared for by unseen servants and
+protected by magical stasis, these art pieces are well taken care of 
+and preserved for eternity.
+~
+5 8 0
+D5
+~
+~
+0 0 564
+S
+#567
+Den of The Forlorn~
+Few know the tale of The Forlorn, the sword of the heavens. These legendary
+avatars have been forgotten, in the voids of time. As the ages pass, and
+wars upsurge anew, The Forlorn rise to defend the calls of the virtuous, to
+assist those only pure of heart. Here Cid, the mightiest of the avatars, 
+awaits in everlasting Sleep, only to awaken from the call of battle.
+~
+5 8 0
+D3
+~
+~
+0 0 586
+S
+#568
+The Grand Hall of Clan X~
+   As you enter into the grand hall, you can feel a powerful energy force
+overtake you.  The walls of the hall begin to sparkle with an odd magic
+you've never seen before, making the hall appear larger and more spacious
+than you know is really possible.  Yet you have no problem moving about
+the grand hall, and around it's giant X shaped table.  Toward the far
+eastern wall there is a pedastel with a column, upon wich rests the
+clans most holy scripture, encased in a magical sphere of power.
+~
+5 8 0
+D0
+~
+~
+0 0 501
+D1
+~
+hidden entrance~
+1 0 595
+D2
+~
+~
+0 0 502
+D3
+~
+~
+0 0 515
+S
+#569
+Tower of Heroes~
+  You make your way up the staircase, and come to a landing platform. There
+are signs on the wall, but you can't make out the words. The symbols seem to
+point to the different rooms of various heroes of Clan X.
+~
+5 8 0
+D0
+~
+~
+0 0 570
+D1
+~
+~
+0 0 572
+D2
+~
+~
+0 0 573
+D3
+~
+~
+0 0 571
+D4
+~
+~
+0 0 574
+D5
+~
+~
+0 0 515
+S
+#570
+Empty Room~
+   This room has been swept and cleaned, ready for a fresh new owner to arrive.
+~
+5 8 0
+D2
+~
+~
+0 0 569
+S
+#571
+Empty Room~
+   This room has been swept and cleaned, ready for a fresh new owner to arrive.
+~
+5 8 0
+D1
+~
+~
+0 0 569
+S
+#572
+Empty Room~
+  This room has been swept and cleaned, ready for a fresh new owner to arrive.
+~
+5 8 0
+D3
+~
+~
+0 0 569
+S
+#573
+Empty Room~
+   This room has been swept and cleaned, ready for a fresh new owner to arrive.
+~
+5 8 0
+D0
+~
+~
+0 0 569
+S
+#574
+Tower of Heroes~
+   You make your way up the staircase, and come to a landing platform. There
+are signs on the wall, but you can't make out the words. The symbols seem to
+point to the different rooms of various heroes of Clan X.
+~
+5 8 0
+D0
+~
+~
+0 0 575
+D1
+~
+~
+0 0 577
+D2
+~
+~
+0 0 578
+D3
+~
+~
+0 0 576
+D4
+~
+~
+0 0 579
+D5
+~
+~
+0 0 569
+S
+#575
+Niprell's Garden~
+   You step through a glimmering doorway and find yourself standing
+ankle deep in cool, lush grass. A delicate, flower strewn meador
+stretches away towards a large, complete in every ripple, and
+purple mountains behind an interesting looking foreat. A gentle
+breeze blows down from the mountains, scented with thyme and hay
+and the sky is a deep blue, shading to purple at the zenith. A
+couple of deer watch you suspiciously from the edge of the meadow
+while grazing on the lush grass. This is Niprell's timeless,
+private universe, where he can have a quiet smoke and a bit of a
+think, while avoiding the cares of the worlds.
+~
+5 136 0
+D2
+~
+~
+0 0 574
+S
+#576
+DARKLORD'S Room~
+  As you step through the door the first thing that you notice is that 
+everything in the room is completely black. The table on the far right is made
+of some kind of solid black marble. Even the bed is covered in soft silky black 
+sheets. There is a rack for armor in the corner of the room. Even though there 
+doesn't seem to be any windows, the room is filled with an eerie blue glow. On 
+the nightstand next to the bed there is a vase of oriental design. There are 
+several paintings on the walls of what appears to be dragons. You think you
+might recognize some, but you're not completely sure.
+~
+5 8 0
+D1
+~
+~
+0 0 574
+D4
+~
+hidden entrance~
+1 -1 521
+E
+painting paintings picture pictures~
+    You see on the wall several large portraits, but the largest is one of a young
+elven male, in a robe.  He is very handsome even though he appears bloodied from 
+a battle.  You see next to him a very old dragon holding what appears to be the 
+head of a medusa.  Near the bottom of the picture you see a name, but it has been 
+scratched out.
+~
+S
+#577
+Cilla's Temple~
+Mail a description to Real as soon as you have time.
+~
+5 8 0
+D3
+~
+~
+0 0 574
+S
+#578
+Bugboy's Room~
+   As you enter into the infamous warrior's room, your eyes have to re-adjust
+to the low level of light in the room.  You notice almost instantly that
+this is by no means your run of the mill room. The walls have a strange
+almost metallic shimmer to them, and there is a dank musty odor that goes
+great with the high humidity and warmth of this room.  You also notice
+that there is no bed, but in the far corner there are several large
+pods of varying size.  Knowledge of giants is very limited, and this 
+room doesn't give much away.  From what you have learned, your not sure you
+want to remember.
+~
+5 8 0
+D0
+~
+~
+0 0 574
+S
+#579
+Mogwai's Study~
+   This room appears to be the highest point in the Clan-X tower.  As you 
+look up you can see the roof ascends in a cone shape high above your head.
+The floor is made of large wooden planks with large oriental rugs covering 
+the open areas. Small circular windows are cut into the hard stone walls 
+facing in all directions out of the spire, giving you a beautiful view of 
+the city of Kore. Beyond the city walls you can see the lush green forests 
+and grasslands. The room stands large oak benches up against the walls, on 
+which stand flasks and test tubes in racks full of most unusual liquids.  
+Against the back wall rests a comfortable looking armchair. The corners of 
+the room look dusty and not particularly well kept, however the room has a
+homely and comforting spell in the air, perhaps created by the numerous 
+burning candles on the windowsills.
+~
+5 0 0
+D5
+~
+~
+0 0 574
+E
+plaque chimney~
+    On the plaque you see a picture of a large minotaur warrior.  You rub away 
+some of the grime and you can make out an inscription -- It says: SPOON!
+~
+E
+note~
+   Sorry, away fighting crime chum, just look in the direction
+you want to go, and you'll see where you'll fall.
+~
+S
+#580
+Carnage Clanhall~
+Please Send Room Description To Real As Soon As Possible.
+~
+5 68 3
+D0
+~
+~
+0 0 508
+D1
+~
+~
+0 0 511
+D2
+~
+~
+0 0 522
+D3
+~
+~
+0 0 547
+D4
+~
+~
+0 0 545
+D5
+~
+~
+0 0 550
+D6
+~
+~
+0 0 510
+D7
+~
+~
+0 0 544
+D8
+~
+~
+0 0 542
+D9
+~
+~
+0 0 507
+S
+#581
+Street of Legends~
+   Your boots make a rough scraping sound as they tread down this small side
+street. All along the street, huge buildings tower high above you. Mighty
+manor houses, some over 4 stories tall. Gazing upwards you stare a torrential
+rain in the face before you turn your head back to the ground. Large puddles
+and tiny rivers fill and flow along the street, washing into the gutters
+that eventually lead to the Sea of Tyress. Gates and arched doorways mark
+the entrances to the houses of the clans. Some you recognize, others you
+don't, but they all leave you with a trembling hand. Your cloak is getting
+soaked, and you draw it tigher around you, trying in vain to shut out the
+cold, driving rain. Your teeth chattering, you wonder if one of them will
+let you inside to warm yourself by the fire.
+~
+5 32772 1
+D0
+~
+~
+0 0 500
+S
+#582
+Hall of Glory~
+  Standing within these hallowed halls one cannot help but wonder
+what it were like to be here in the era before this great clan.
+Names like Gargon, Nausicaa, and SenorNacho line the walls. So 
+many great warriors have walked these halls and you are but the
+youngest among them. In this the finest era new names will emerge
+you will be one.
+~
+5 9 0
+D0
+~
+~
+0 0 596
+D1
+~
+~
+0 0 504
+S
+#583
+The Art Gallery~
+  Walking into this room, your eyes are transfixed by the abundant
+wealth stored within. Displayed here is the art collection that clan
+TOOT has amassed through their members many travels and adventures.
+Donated by clan members, paintings and sculptures of all sizes, shapes
+and topics adorn the area about you. Cared for by unseen servants and
+protected by magical stasis, these art pieces are well taken care of 
+and preserved for eternity.
+~
+5 8 0
+D1
+~
+~
+0 0 564
+S
+#584
+The Art Gallery~
+  Walking into this room, your eyes are transfixed by the abundant
+wealth stored within. Displayed here is the art collection that clan
+TOOT has amassed through their members many travels and adventures.
+Donated by clan members, paintings and sculptures of all sizes, shapes
+and topics adorn the area about you. Cared for by unseen servants and
+protected by magical stasis, these art pieces are well taken care of 
+and preserved for eternity.
+~
+5 8 0
+D3
+~
+~
+0 0 564
+S
+#585
+The Basilica~
+An air of reverence permeates this holy hall. It is rumoured that the walls
+of this consecrated space was constructed from the Tree of Life itself.
+Blazing sunlight from the heavens shines in through large stained glass
+windows, filling the hall with a warm glow. In a corner of this hall,
+there is a tiny fountain out of which holy water flows. There is no doubt
+in your mind that this is a place for reflection and contemplation.
+~
+5 8 0
+D0
+~
+~
+0 0 554
+D4
+~
+~
+0 0 560
+D5
+~
+~
+0 0 586
+S
+#586
+Purgatory~
+Beneath the Basilica, a long dark tunnel stretches into the shadows.
+Alcoves have been chiseled into the rock along these hallowed walls. Here
+within these consecrated alcoves lie the dark denizens of Dynasty, mis-
+understood and spurned by the populace of Kore. Living in eternal darkness,
+only venturing out into the light when commanded by the voices in their
+heads, they pass their eternity of damnation, tortured and tormented by
+the voices of their inner mind, refusing to succumb to The Madness.
+~
+5 8 0
+D1
+~
+~
+0 0 567
+D4
+~
+~
+0 0 585
+S
+#587
+RE-USE~
+    Send a description of this room to Kasmir.
+~
+5 40 0
+D0
+~
+~
+0 0 508
+S
+#588
+RE-USE~
+    You stand inside the conference room of {CLAW}. Within this room the 
+business of the clan is discussed, debates are held, and issues 
+concerning the clan are spoke. In the center of the room you see a large 
+red oak conference table with many chairs surrounding it. There is a large 
+chair at the end of the table for the leader of the clan, if he is not 
+present, his chair is filled by a loyal subject of the clan. Your clan colors 
+are presented about the room, and you feel proud to be a part of {CLAW}. The 
+only exit is west.
+~
+5 8 0
+S
+#589
+The Art Gallery~
+  Walking into this room, your eyes are transfixed by the abundant
+wealth stored within. Displayed here is the art collection that clan
+TOOT has amassed through their members many travels and adventures.
+Donated by clan members, paintings and sculptures of all sizes, shapes
+and topics adorn the area about you. Cared for by unseen servants and
+protected by magical stasis, these art pieces are well taken care of 
+and preserved for eternity.
+~
+5 8 0
+D2
+~
+~
+0 0 564
+S
+#590
+RE-USE~
+   Send a description of this room to Xavier.
+~
+5 8 0
+D5
+~
+~
+0 0 591
+S
+#591
+RE-USE~
+   Send a description of this room to Xavier.
+~
+5 8 0
+D4
+~
+~
+0 0 590
+S
+#592
+The Bank of TOOT~
+Please Send Room Description To Real As Soon As Possible.
+~
+5 262144 0
+D0
+~
+~
+0 0 528
+S
+#593
+Weapons Lockup~
+   Standing inside the weapons lockup you see weapons and armor of
+varying descriptions. Several massive halberds stand tall in the
+corner. Hung from the walls several large shelves sit covered in
+armor of various descriptions from gold to steel to iron. Many
+smaller less descript weapons sit against the walls and on tables
+scattered around the room.
+You feel it safe to leave equipment here now.
+~
+5 526344 0
+D1
+~
+~
+0 0 524
+S
+#594
+Portal room~
+   You walk into a translucent room that splits the fabric of time. In every 
+direction lies a fabled homeland of mythical proportion. You can go back into 
+time and etch your name in the history books as the conqueror of Olympus or 
+the sacker of New Thalos. The only question being whether or not you'll reach 
+your desired destination with a fully intact memory. 
+~
+5 1024 0
+D0
+~
+~
+0 0 18600
+D1
+~
+~
+0 0 726
+D2
+~
+~
+0 0 3506
+D3
+~
+~
+0 0 5406
+D4
+~
+~
+0 0 516
+D5
+~
+~
+0 0 16123
+D7
+~
+~
+0 0 404
+S
+#595
+Secret Room~
+    As your eyes adjust to the dim lighting, you notice that there are
+several large cylinders lined up againts the sides of the walls. They
+seem to contain some strange glowing liquid, but what is more horrifying
+is what's in the liquid. There seems to be a grossly mishapen form within
+each of the cylindrical tubes. As you stare more into the glowing bluish
+liquids you come to the horrifying conclusion that one of them actually
+looks like you, excluding deformations. This making you very disturbed,
+compells you to break the cylynders open, but as you pound, and pound, you
+don't even come close to scratching the strange material. You notice the
+strange glowing lights next to each pod, but just as you begin to reach
+for one, the room begins to vibrate, and a strange metallic looking hand
+pops out of the ceiling, shooting forth some kind of strange gas.
+Your head begins to feel dizzy, and all of a sudden, you fall asleep.
+Several hours later, you awaken in a completely empty room.
+~
+5 9 0
+D3
+~
+hidden entrance~
+1 0 568
+S
+#596
+Fence to the house~
+   Wiry adamantite shafts are dimly noticeable through the thick fog. At
+their tips are long and slender needle-like points, probably sharp enough
+to pass through your body without even a notice. There are two stone
+gargoyles resting on each side of the gate, and numerous magical glyphs
+no doubt ward the area as well.
+~
+5 9 0
+D5
+~
+~
+0 0 635
+D7
+~
+~
+0 0 619
+S
+#597
+The altar~
+   Encased in a layer of purplish faerie fire stands a colossal statue of 
+the drowish goddess Lolth, and it's about ten feet behind the altar. 
+Flanking the idol on both sides are opulent stained glass windows, set 
+into the back wall and each lit by magical light that probably is never 
+allowed to die. There is attention paid to detail here. The altar is raised 
+upon a dais which is covered in a velvety purple sheet and all about it 
+designs of spiders have been woven - so effectively that they seem to 
+*stand* on the rug. Yes, this is an important place indeed.
+~
+5 9 0
+D2
+~
+~
+0 0 633
+D7
+~
+~
+0 0 615
+D8
+~
+~
+0 0 632
+S
+#598
+Delimar's Abode~
+  As you enter, you are amazed to find that this is not the dark unholy place
+you thought it was going to be. Indeed, Delimar seems to prefer a rather more
+stately domicile. The walls feature a dark, oaken wainscoat below a deep red
+wallpaper with emerald-colored accents. Hanging from the paneled ceiling is a
+rather modest golden chandelier. The furniture is handcrafted dark-stained oak
+with gold hardware. The corner of the room is dominated by a large roll-top 
+desk, covered with the many ledgers which contain the wealth of TOOT. Near the
+desk a small fireplace provides heat on cold winter nights. Covering the floor
+there is a deep red, plush carpet which silences your steps and rounds out this
+grand room.
+~
+5 131084 0
+S
+#599
+Brimstone Hallow~
+  You step warily into the bleak and dark lair of Nashanthra and are taken
+aback by the sight. The room is a hideous combination of red and black that
+mixes into a sort of bright gloom, a reflection of his tortured soul. The 
+furnishings are sparce, consisting of only a bed of granite and a statue
+of a winged dog-like demon in the center. The walls are made of the rare
+black stone brimstone, which can only be found in hell, that seems to devour
+the light and warmth. The only light that can be seen is that which emits
+from the stone gargoyle's eyes and fills the room in a unearthly red glow.
+You notice a small sign in the corner.
+~
+5 25 0
+D0
+~
+~
+0 0 506
+E
+plaque plate sign~
+To my friend Nashanthra,
+
+May you find peace within your soul through our friendship and that
+of the clans.  May blessings shine upon you.
+
+Gargon
+~
+S
+#99999
+$~

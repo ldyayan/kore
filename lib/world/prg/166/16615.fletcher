@@ -1,0 +1,12 @@
+>greet_prog 30~
+  if ispc($n)
+    say Welcome, welcome, come and see my bows, they are very effective!
+  endif
+~ 
+>rand_prog 1~
+  say If you have enough gold I would recommend the Mighty Blithian Bow.
+  say It is very powerful!
+  say The Bow Master makes them, he is very skilled you know.
+~
+|
+

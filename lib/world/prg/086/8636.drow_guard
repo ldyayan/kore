@@ -1,0 +1,6 @@
+>fight_prog 33~
+  cast 'ice storm' $r
+  cast 'blind' all
+  cast 'poison' all
+~
+|

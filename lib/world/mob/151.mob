@@ -1,0 +1,247 @@
+#15100
+lever mob~
+lever-mob~
+pull lever-mob
+~
+Umm, huh.. heh, eh?
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15101
+ice skid mob~
+ice-mob~
+skid ice-mob
+~
+It looks, err, icy.
+~
+8388618 1064 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15102
+fall mob one~
+fall-mob one~
+fall-mob one
+~
+It looks, err, unfinished.
+~
+8388618 1048 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15103
+fall mob two~
+fall-mob two~
+fall-mob two
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15104
+wraith sheet ghastly~
+a ghastly wraith~
+A ghastly wraith searches for its next victim.
+~
+A transparent sheet of ragged black cloth is what this resembles. It's 
+eyes glow brightly red in contrast, like a pair of searing-hot coals. It
+floats right through the rock in its path to you.
+~
+17014888 5080106 0 S
+40 20 10 1d1+0 30d50+50
+0 0
+8 8 0
+#15105
+duergar dwarf priest~
+a duergar priest~
+A dark dwarf sees you and ATTACKS!
+~
+Short, measuring slightly over four feet tall, this slate-colored dark
+dwarf nonetheless looks imposing. His grayish-white beard almost touches
+the ground as he walks, and the huge mace strapped to his belt swings
+unhindered.
+~
+6252 1032 0 S
+40 20 10 1d1+0 1d1+50
+0 0
+8 8 1
+#15106
+drink refresh mob~
+drink-mob~
+refresh drink-mob
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+10 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15107
+no spell mob~
+no-spell mob~
+no-spell mob
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15108
+no movement mob~
+no-movement mob~
+no movement east
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15109
+ugly meazel creature~
+a meazel~
+An ugly meazel skulks about.
+~
+This creature is human-like in proportion but in no other way. Its skin is
+riddled with nasty red patches and its hair is a dark greenish-grey color.
+There's a cord that's wrapped around its left hand, and it hangs nearly
+to the ground.
+~
+131214 820264 -1000 S
+35 20 10 1d1+0 1d1+50
+0 0
+8 8 1
+#15110
+humanoid male maedar~
+a maedar~
+A strong humanoid male stands here inspecting the area.
+~
+Not many humans ever grow to be as large as this man. His muscles are
+simply enormous, so much so that they look like they might hinder some
+movement. He is wearing only a kilt, and from what you can see there
+isn't a speck of hair on his muscular body.
+~
+141416 1056 -500 S
+52 20 -10 1d1+0 4d15+50
+0 0
+8 8 1 13
+#15111
+random mob generator~
+random mob generator~
+A random mob generator.
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15112
+loader~
+the cloaker loader~
+This creates the cloaker.
+~
+It looks, err, unfinished.
+~
+8388618 1024 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15113
+cloaker demon monster~
+a cloaker~
+A oscillating cloak-like demon glares down at YOU!
+~
+Intimidating red eyes flare angrily as the monster notices you staring at
+it. Its long dagger-like teeth then chatter in anticipation of a meal and its
+tail shoots up behind its back and begins to wag back and forth. How nice..
+~
+163944 295976 0 S
+40 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15114
+illusionary door mob~
+illusionary door-mob~
+illusionary door-mob
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15115
+inside-cloaker mob 15115~
+inside-cloaker mob~
+inside-cloaker mob
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15116
+fall mob three~
+fall-mob three~
+fall-mob three
+~
+It looks, err, unfinished.
+~
+8388680 263208 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15117
+illusionary exit mob~
+illusionary exit~
+illusionary exit north
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+50 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15118
+15118~
+the cloaker trans-mob~
+You should never see this.
+~
+It looks, err, unfinished.
+~
+10 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15119
+vampiric cloud mist~
+a vampiric mist~
+A reddish cloud hangs ominously in the air.
+~
+   Thick and surging airs make up the crimson cloud, and it moves as 
+though it had a mind of its own. It's as if it was alive!
+~
+17014824 4490280 0 S
+42 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#15120
+typo~
+someone~
+Your eyes can't comprehend the brilliance of the entity before you.
+~
+It looks, err, unfinished.
+~
+8388618 1064 0 S
+60 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+#99999
+$~

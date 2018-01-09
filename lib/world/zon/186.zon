@@ -1,0 +1,70 @@
+#186
+Bone Hill~
+18699 16 2 32
+M 0 18602     3 18600            the skeleton
+E 1 18602    99     5                    body a tattered leather jerkin
+O 0 18615   101 18640            the stone golem
+M 0 18613     1 18640            the skeltor
+E 1 18602    99     5                    body a tattered leather jerkin
+E 1 18601    99    16                    wield a rusty sword
+E 1  3042    99    11                    shield a leather shield
+M 0 18602     3 18607            the skeleton
+E 1 18606    15    16                    wield a rusty dagger
+D 0 18607     3     1            East Courtyard door west
+M 0 18602     1 18648            the skeleton
+E 1 18601    99    16                    wield a rusty sword
+M 0 18601     1 18605            the insane captive
+E 1 18602    99    12                    about a tattered leather jerkin
+D 0 18605     4     2            The Dark Pit door up
+M 0 18611     1 18646            the wild dog
+E 1 18607    99     3                    neck 1 a spiked leather collar
+G 1  3015    99    -1                    give a piece of meat
+D 0 18646     3     1            A Bright Hallway door west
+M 0 18612     1 18642            the black raven
+M 0 18614     1 18604            the ghoul
+M 0 18615     1 18645            the zombrire
+E 1 18613    99    10                    arms a pair of tattered leather sleeves
+E 1 18612    99     7                    legs a pair of tattered leather leggings
+E 1 18602    99     5                    body a tattered leather jerkin
+E 1 18614    99    16                    wield a simple club
+M 0 18603     1 18602            the angry bugbear
+E 1  3042    99    11                    shield a leather shield
+E 1  3024    99    16                    wield a warhammer
+E 1 18603    99     6                    head a battered half helmet
+M 0 18606     4 18602            the large rat
+G 1  3015    99    -1                    give a piece of meat
+D 0 18602     2     1            Abandoned Courtyard door south
+M 0 18604     1 18606            the matron bugbear
+E 1 18614    99    16                    wield a simple club
+E 1 18605    99     1                    left finger a signet ring
+G 1 18608    99    -1                    give a thick iron key
+M 0 18606     4 18606            the large rat
+G 1  3015    15    -1                    give a piece of meat
+D 0 18606     0     1            Inside a Small Stone Dwelling door north
+D 0 18606     1     1            Inside a Small Stone Dwelling door east
+D 0 18606     5     2            Inside a Small Stone Dwelling door down
+M 0 18605     1 18612            the evil mage Thandgrind
+G 1 18609    99    -1                    give an uncanny stone
+M 0 18607    99 18612            the zombie
+M 0 18606     4 18609            the large rat
+G 1  3015    99    -1                    give a piece of meat
+M 0 18607     5 18620            the zombie
+M 0 18607     5 18624            the zombie
+M 0 18607     5 18637            the zombie
+M 0 18607     5 18633            the zombie
+M 0 18608     5 18627            the quasit
+M 0 18608     5 18636            the quasit
+M 0 18608     5 18638            the quasit
+M 0 18608     5 18621            the quasit
+M 0 18609     1 18629            the massive Minotaur
+E 1 18610    30     6                    head the horns of the Minotaur
+E 1 18611    30     5                    body the smelly hide of the Minotaur
+M 0 18610     1 18639            the dark spectre
+D 0 18603     0     1            The Courtyard door north
+D 0 18603     1     1            The Courtyard door east
+D 0 18644     2     1            A Bright Hallway door south
+D 0 18611     1     1            Southeast Courtyard door east
+O 0 18601   101 18601            a rusty sword
+S
+#99999
+$~

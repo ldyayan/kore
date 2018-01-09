@@ -1,0 +1,31 @@
+>greet_prog 100~
+  if name($n) == zirnozz
+    cower zirnozz
+  else
+    if isimmort($n)
+      peer $n
+    endif
+  endif
+~
+>rand_prog 4~
+  if inroom($i) == 1098
+    if rand(30)
+      mpecho A large soap bubble floats up and pops in front of your face.
+    else
+      if rand(30)
+        emote laughs and blows into her reed, creating some bubbles.
+      else
+        if rand(50)
+          mpasound You hear the sounds of a woman's laughter and splashing water.
+        else
+          if ischarhere(1017)
+            giggle 1017
+          else
+            mpecho $I washes herself with some soapy water.
+          endif
+        endif
+      endif
+    endif
+  endif
+~
+|

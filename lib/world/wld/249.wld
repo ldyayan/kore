@@ -1,0 +1,1631 @@
+#24900
+A Great Stone Roadway~
+You stand on a wide stone roadway running from due south to north. Ahead, on
+the northern horizon you can pick out a large city resting on a sheer cliff
+overlooking the ocean. Off to either side of road stretch large fields filled
+with crops of every kind. The road upon which you stand appears quite old and
+is paved with large stone blocks carefully fitted together to make a solid
+surface. An absence of grass growing between the stones leads you to believe
+that the road is well cared for, possibly buy the citizens of the city ahead.
+~
+249 0 1
+D0
+~
+~
+0 0 24901
+D2
+~
+~
+0 0 1204
+D4
+~
+~
+0 0 598
+S
+#24901
+Closer to the City~
+The stone roadway continues north to the great city posed on the edge of a 
+cliff. The road appears to pass straight through a large gate an on into the
+heart of the city. You can make out a large fountain sitting in the midst of 
+the city and beyond that, a large castle. Off to the sides of the road, the
+huge fields continue and are heavily laden with crops.
+~
+249 0 1
+D0
+~
+~
+0 0 24902
+D2
+~
+~
+0 0 24900
+S
+#24902
+Before the Great Southern Gate~
+Standing outside the southern gate to the city, you are first impressed by
+its massive size. The gate is easily large enough to pass mounted knights two
+by two. A bare dirt path extends to either direction along the outside of the
+city's great wall. Examining the wall you notice a row of arrow slits
+extending along its length, leading you to believe that it has an internal
+passageway. At the top of the gate you see a tall flagpole flying the royal
+crest of the city. Off to the west you notice a tower at the end of the wall
+appears to extend downward over the edge of the cliff possibly to the ocean
+below. To the east you see the dirt path extends to what appears to be a grove
+of trees growing right up to the edge of the wall. Above you a balcony hangs
+below the top of the gate archway, giving city defenders a place to pour
+boiling oil down upon anyone who would siege this grand entrance.
+~
+249 0 1
+D0
+~
+gate~
+1 24900 24903
+D1
+~
+~
+0 0 24904
+D2
+~
+~
+0 0 24901
+D3
+~
+~
+0 0 24908
+D4
+The balcony might provide an alternate enterance to the city if only it wasn't
+so high.
+~
+~
+0 0 24926
+S
+#24903
+Inside the Southern Gate~
+Standing under the great archway of the gate, you remain impressed by its
+massive size. A giant iron gate rests on massive hinges, ready to bar passage
+to anyone who would be denied entrance. Clumps of green moss hang on the
+giant granite blocks spanning over your head. To the east a braced door leads
+into the wall of the arch providing a possible route into the interior
+hallway. A sign mounted above the door reads, "Attention visitors - please
+note that the king has ordered the gates closed at night. Please plan your
+travels accordingly".
+~
+249 0 0
+D0
+~
+~
+0 0 24913
+D1
+~
+iron door~
+1 0 24912
+D2
+~
+gate~
+1 24900 24902
+S
+#24904
+Along the Outside of the Wall~
+As you walk along the dirt path you can't help but feeling a certain awe at
+its massive size. Its great height casts a shadow across most of the path
+and its mass seems to absorb most of the sound leaving you with a strange
+feeling of peace. Across from the path great fields of crops stretch forth
+for a great distance. Back to the west is the stone road leading through
+the south gate and to the east the path continues to a large grove of trees.
+~
+249 64 2
+D1
+~
+~
+0 0 24905
+D3
+~
+~
+0 0 24902
+S
+#24905
+Along the Outside of the Wall~
+As you continue along the dirt path, you begin to wonder why so many people
+would walk along the wall towards a grove of trees. Perhaps it is part of
+the guards patrol route or it could be some other reason altogether. Looking
+up at the wall you see an archer looking down at you from one of the many
+arrow slits built in the wall. In the field to the south you see some
+peasants tending to one of the many crops filling the fields. A slight
+breeze blows along the wall raising a cloud of dust around your feet. 
+~
+249 0 2
+D1
+~
+~
+0 0 24906
+D3
+~
+~
+0 0 24904
+S
+#24906
+Along the Outside of the Wall~
+You continue along the dirt path very near to the growth of trees. Still in
+awe of the great wall above you, you begin to examine some of its features.
+Upon careful examination you begin to notice some scars on the great stones.
+Probably the result of some siege on the city, their weathering tells you
+that they must have been created quite a few years ago. Having traveled
+some distance from the gate you feel somewhat secluded, however you can
+still feel the watching eyes of the archers above.
+~
+249 0 2
+D1
+~
+~
+0 0 24907
+D3
+~
+~
+0 0 24905
+S
+#24907
+A Dead End~
+The trail along the wall appears to have come to an end. A large grove of trees
+grows completely to the edge of the wall blocking any further progression to the
+east. You do notice that many footprints seem to lead directly to a very large
+tree growing near the edge of the grove. The Wall still looms over your head,
+casting a great shadow over much of the path. Through some of the many arrow
+slits you can occasionally see some of the city's many archers peering out
+accross the countryside.
+~
+249 0 2
+D3
+~
+~
+0 0 24906
+D6
+A large opening leads into the giant oak tree.
+~
+knot~
+1 0 24997
+E
+tree large~
+As you examine the tree you notice, by knocking on it, that the tree sounds
+hollow. The effect is especally noticeable arround a large knot.
+~
+S
+#24908
+Along the Outside of the Wall~
+Walking down the western path, you notice that this path seems quite more
+traveled than its eastern counterpart. Further to the west you can begin to
+make out the sounds of waves crashing against the rocks of the beach below.
+Looking up at the top of the southern gate tower, you can see the royal crest
+flying proudly at the top of a tall flag poll. The seal consists of a large
+griffin wielding a flaming sword against a royal blue background. Below the
+griffin the word 'Etorg' is spelled out in golden letters. Next to the flag
+poll you can see a gigantic crossbow mounted on a swivel.
+~
+249 0 2
+D1
+~
+~
+0 0 24902
+D3
+~
+~
+0 0 24909
+S
+#24909
+Along the Outside of the Wall~
+As you continue down the path, you can begin to make out more details of the
+great tower which indeed appears to extend over the edge of the cliff. A couple
+is making their way back to the road, exclaiming their awe at the view of the
+ocean. Above in one of the arrow slits, you hear an archer yawning as he peers
+out over the countryside.
+~
+249 0 2
+D1
+~
+~
+0 0 24908
+D3
+~
+~
+0 0 24910
+S
+#24910
+Along the Outside of the Wall~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24909
+D3
+~
+~
+0 0 24911
+S
+#24911
+Outside the Wall Overlooking a Tall Cliff~
+Say something about the ocean, wall, tower going down, maybe put the 
+executioner here?
+~
+249 0 0
+D1
+~
+~
+0 0 24910
+S
+#24912
+The South Gate Watch Chamber~
+You are standing in a small chamber inside of the eastern south gate pillar.
+It seems to be used by the guards as a place where they can watch the gate
+traffic without being in the way of traffic. To the north, a small staircase
+leads upward inside of the wall.
+~
+249 0 0
+D0
+~
+~
+0 0 24914
+D3
+~
+iron door~
+1 0 24903
+S
+#24913
+Southern Kings Road~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24918
+D1
+~
+~
+0 0 24940
+D2
+~
+~
+0 0 24903
+D3
+~
+~
+0 0 24921
+S
+#24914
+Bottom of a Stairway~
+You are in an unfinished room.
+~
+249 0 0
+D2
+~
+~
+0 0 24912
+D4
+~
+~
+0 0 24915
+S
+#24915
+Stairway Landing~
+You are in an unfinished room.
+~
+249 0 0
+D2
+~
+~
+0 0 24916
+D4
+~
+trap door~
+1 0 24917
+D5
+~
+~
+0 0 24914
+S
+#24916
+Inside the Southern Wall at a Landing~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24915
+D1
+~
+~
+0 0 24965
+D3
+~
+~
+0 0 24926
+S
+#24917
+Atop the Southern Gate~
+643 8979
+~
+249 0 0
+D5
+~
+trap door~
+1 0 24915
+S
+#24918
+Southern Kings Road~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24920
+D1
+~
+~
+0 0 25001
+D2
+~
+~
+0 0 24913
+S
+#24919
+Grand Fountain Plaza~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24971
+D1
+~
+~
+0 0 24960
+D2
+~
+~
+0 0 24920
+D3
+~
+~
+0 0 24933
+S
+#24920
+Southern Kings Road~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24919
+D1
+~
+~
+0 0 25000
+D2
+~
+~
+0 0 24918
+S
+#24921
+Southern Wall Road~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24913
+D3
+~
+~
+0 0 24922
+S
+#24922
+Southern Wall Road~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24921
+D3
+~
+~
+0 0 24923
+S
+#24923
+Southern Wall Road Near Overlook~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24922
+D3
+~
+~
+0 0 24924
+S
+#24924
+Overlook Avenue at Southern Wall Road~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24938
+D1
+~
+~
+0 0 24923
+D8
+~
+oak door~
+1 0 24925
+S
+#24925
+Inside the Great Tower at Street Level~
+You are in an unfinished room.
+~
+249 0 0
+D4
+~
+~
+0 0 24931
+D5
+~
+~
+0 0 24949
+D6
+~
+oak door~
+1 0 24924
+S
+#24926
+Balcony Above the South Gate~
+You are in an unfinished room.
+~
+249 1 0
+D1
+~
+~
+0 0 24916
+D3
+~
+~
+0 0 24927
+D5
+~
+~
+5 5000 24902
+S
+#24927
+Inside the Southern Wall~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24926
+D3
+~
+~
+0 0 24928
+S
+#24928
+Inside the Southern Wall~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24927
+D3
+~
+~
+0 0 24929
+S
+#24929
+Inside the Southern Wall~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24928
+D3
+~
+~
+0 0 24930
+S
+#24930
+Inside the Southern Wall~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24929
+D3
+~
+~
+0 0 24931
+S
+#24931
+Upper Level of the Great Tower~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24930
+D5
+~
+~
+0 0 24925
+S
+#24932
+An unfinished room.~
+It looks unfinished.
+~
+538976288 0 0
+D2
+~
+~
+0 0 24977
+S
+#24933
+Western Eleena's Drive Near the Fountain Plaza~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24919
+D3
+~
+~
+0 0 24934
+S
+#24934
+Western Eleena's Drive by the Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24987
+D1
+~
+~
+0 0 24933
+D3
+~
+~
+0 0 24935
+S
+#24935
+Western Eleena's Drive~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24934
+D3
+~
+~
+0 0 24936
+S
+#24936
+Western Eleena's Drive Below a Raised Dias~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24975
+D1
+~
+~
+0 0 24935
+D2
+~
+~
+0 0 24937
+D4
+~
+~
+0 0 24939
+S
+#24937
+Overlook Avenue~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24936
+D2
+~
+~
+0 0 24938
+S
+#24938
+Southern Overlook Avenue Near the South Wall~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24937
+D2
+~
+~
+0 0 24924
+S
+#24939
+The Executioner's Dias~
+You are in an unfinished room.
+~
+249 0 0
+D3
+~
+~
+0 0 24958
+D5
+~
+~
+0 0 24936
+S
+#24940
+Southern Wall Road~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24941
+D3
+~
+~
+0 0 24913
+S
+#24941
+Southern Wall Road~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24942
+D3
+~
+~
+0 0 24940
+S
+#24942
+Southern Wall Road Behind a Large Stone Temple~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24943
+D3
+~
+~
+0 0 24941
+S
+#24943
+Southern Wall Road~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24944
+D3
+~
+~
+0 0 24942
+S
+#24944
+Southern Wall Road Nearing the Southeastern Tower~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24945
+D3
+~
+~
+0 0 24943
+S
+#24945
+Wall Road Below the Southeastern Tower~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24946
+D3
+~
+~
+0 0 24944
+D7
+~
+iron door~
+1 0 24970
+S
+#24946
+Eastern Wall Road Near the Southeastern Tower~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24947
+D2
+~
+~
+0 0 24945
+S
+#24947
+Eastern Wall Road Near the Eastern Gate~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24948
+D2
+~
+~
+0 0 24946
+S
+#24948
+Eastern Eleena's Drive at the Eastern Gate~
+You are in an unfinished room.
+~
+249 0 0
+D2
+~
+~
+0 0 24947
+D3
+~
+~
+0 0 24964
+S
+#24949
+Inside the Great Tower~
+You are in an unfinished room.
+~
+249 0 0
+D4
+~
+~
+0 0 24925
+D5
+~
+~
+0 0 24950
+S
+#24950
+Inside the Great Tower~
+You are in an unfinished room.
+~
+249 0 0
+D4
+~
+~
+0 0 24949
+D5
+~
+~
+0 0 24951
+S
+#24951
+Inside the Great Tower~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+rusty iron door~
+1 0 24952
+D4
+~
+~
+0 0 24950
+S
+#24952
+The Lower Docks~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24953
+D2
+~
+rusty iron door~
+1 0 24951
+S
+#24953
+The Lower Docks~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24954
+D2
+~
+~
+0 0 24952
+S
+#24954
+The Lower Docks~
+You are in an unfinished room.
+~
+249 0 0
+D2
+~
+~
+0 0 24953
+D3
+~
+~
+0 0 24959
+D4
+~
+~
+0 0 24955
+S
+#24955
+Suspended in Mid-Air~
+You are in an unfinished room.
+~
+249 0 0
+D4
+~
+~
+0 0 24956
+D5
+~
+~
+0 0 24954
+S
+#24956
+Suspended in Mid-Air~
+You are in an unfinished room.
+~
+249 0 0
+D4
+~
+~
+0 0 24957
+D5
+~
+~
+0 0 24955
+S
+#24957
+Suspended in Mid-Air~
+You are in an unfinished room.
+~
+249 0 0
+D4
+~
+~
+0 0 24958
+D5
+~
+~
+0 0 24956
+S
+#24958
+Suspended in Mid-Air~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24939
+D5
+~
+~
+0 0 24957
+S
+#24959
+The Main Warf~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24954
+S
+#24960
+Eastern Eleena's Drive Near the Fountain Plaza~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24961
+D3
+~
+~
+0 0 24919
+S
+#24961
+Eastern Eleena's Drive~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24962
+D3
+~
+~
+0 0 24960
+S
+#24962
+Eastern Eleena's Avenue at Knife Street~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 25002
+D1
+~
+~
+0 0 24963
+D2
+~
+~
+0 0 24995
+D3
+~
+~
+0 0 24961
+S
+#24963
+Eastern Eleena's Drive~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24964
+D3
+~
+~
+0 0 24962
+S
+#24964
+Eastern Eleena's Drive Near the Eastern Gate~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24948
+D3
+~
+~
+0 0 24963
+S
+#24965
+Inside the Southern Wall~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24966
+D3
+~
+~
+0 0 24916
+S
+#24966
+Inside the Southern Wall~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24967
+D3
+~
+~
+0 0 24965
+S
+#24967
+Inside the Southern Wall~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24968
+D3
+~
+~
+0 0 24966
+S
+#24968
+Inside the Southern Wall Near the Southeastern Tower~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24969
+D3
+~
+~
+0 0 24967
+S
+#24969
+Inside the Southeastern Tower~
+You are in an unfinished room.
+~
+249 0 0
+D3
+~
+~
+0 0 24968
+D5
+~
+~
+0 0 24970
+S
+#24970
+Inside the Southeastern Tower at Ground Level~
+You are in an unfinished room.
+~
+249 0 0
+D4
+~
+~
+0 0 24969
+D9
+~
+iron door~
+1 0 24945
+S
+#24971
+Kings Road~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24972
+D2
+~
+~
+0 0 24919
+S
+#24972
+Kings Road by the Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24973
+D2
+~
+~
+0 0 24971
+D3
+~
+~
+0 0 24985
+S
+#24973
+Kings Road~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24974
+D2
+~
+~
+0 0 24972
+S
+#24974
+Anakar's Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24991
+D2
+~
+~
+0 0 24973
+D3
+~
+~
+0 0 24981
+S
+#24975
+Overlook Avenue~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24976
+D2
+~
+~
+0 0 24936
+S
+#24976
+Overlook Avenue by the Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24977
+D1
+~
+~
+0 0 24989
+D2
+~
+~
+0 0 24975
+S
+#24977
+Northern Overlook Avenue~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24978
+D2
+~
+~
+0 0 24976
+S
+#24978
+Royal Promenade~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24979
+D2
+~
+~
+0 0 24977
+S
+#24979
+Royal Promenade~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24980
+D3
+~
+~
+0 0 24978
+S
+#24980
+Royal Promenade~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24981
+D3
+~
+~
+0 0 24979
+S
+#24981
+Royal Promenade~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24974
+D3
+~
+~
+0 0 24980
+S
+#24982
+Northwestern Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24983
+D2
+~
+~
+0 0 24989
+D7
+~
+~
+0 0 24990
+S
+#24983
+Northern Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D1
+~
+~
+0 0 24984
+D2
+~
+~
+0 0 24990
+D3
+~
+~
+0 0 24982
+D7
+~
+~
+0 0 24985
+D8
+~
+~
+0 0 24989
+S
+#24984
+Northeastern Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D2
+~
+~
+0 0 24985
+D3
+~
+~
+0 0 24983
+D8
+~
+~
+0 0 24990
+S
+#24985
+Eastern Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24984
+D1
+~
+~
+0 0 24972
+D2
+~
+~
+0 0 24986
+D3
+~
+~
+0 0 24990
+D8
+~
+~
+0 0 24987
+D9
+~
+~
+0 0 24983
+S
+#24986
+Southeastern Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24985
+D3
+~
+~
+0 0 24987
+D9
+~
+~
+0 0 24990
+S
+#24987
+Southern Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24990
+D1
+~
+~
+0 0 24986
+D2
+~
+~
+0 0 24934
+D3
+~
+~
+0 0 24988
+D6
+~
+~
+0 0 24985
+D9
+~
+~
+0 0 24989
+S
+#24988
+Southwestern Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24989
+D1
+~
+~
+0 0 24987
+D6
+~
+~
+0 0 24990
+S
+#24989
+Western Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24982
+D1
+~
+~
+0 0 24990
+D2
+~
+~
+0 0 24988
+D3
+~
+~
+0 0 24976
+D6
+~
+~
+0 0 24983
+D7
+~
+~
+0 0 24987
+S
+#24990
+Central Market Square~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24983
+D1
+~
+~
+0 0 24985
+D2
+~
+~
+0 0 24987
+D3
+~
+~
+0 0 24989
+D6
+~
+~
+0 0 24984
+D7
+~
+~
+0 0 24986
+D8
+~
+~
+0 0 24988
+D9
+~
+~
+0 0 24982
+S
+#24991
+Royal Promenade~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24992
+D2
+~
+~
+0 0 24974
+S
+#24992
+Royal Promenade~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24993
+D2
+~
+~
+0 0 24991
+S
+#24993
+Royal Promenade~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24994
+D2
+~
+~
+0 0 24992
+S
+#24994
+Royal Promenade~
+You are in an unfinished room.
+~
+249 0 0
+D2
+~
+~
+0 0 24993
+S
+#24995
+Knife Street Near a Stone Temple~
+You are in an unfinished room.
+~
+249 0 0
+D0
+~
+~
+0 0 24962
+D2
+~
+wooden doorway~
+1 0 24996
+S
+#24996
+Inside the Stone Temple~
+You stand inside of a large stone temple. Huge marble columns stretch into the
+air supporting a large dome covered with mosaics of ancient heros past from
+the world of Kore. Rows of benches stand in semi-circles surrounding a large
+wooden alter, carved from a single enormous oak log.
+~
+249 1048600 0
+D0
+~
+wooden doorway~
+1 0 24995
+S
+#24997
+Inside the Large Oak Tree~
+Stepping into the large tree you notice a ladder leads downward into some
+hidden tunnel below the city. You wonder who would go to the trouble of
+hollowing out such a large tree, much less digging a tunnel under the
+giant wall.
+~
+249 265 13
+D8
+The doorway leads outside.
+~
+knot~
+1 0 24907
+S
+#99999
+$~

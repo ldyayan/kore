@@ -1,0 +1,75 @@
+>greet_prog 75~
+   mpecho Monchira grins from her position on her couch, and you see her ruby-stained lips.
+   say Come to me.
+   mpforce all bow
+~
+>fight_prog 10~
+     switch $r
+~
+>fight_prog 9~
+   wave $r
+   say Farewell, my unwelcome little guest.
+   if hasworn($r) == 11040
+     if rand(80)
+       mpechoat $r $I gestures arcanely at you, but then your amulet flashes white and counters $l spell!
+       mpechoaround $r $I gestures arcanely at $R and $J begins to fade... but then $L amulet flashes white and counters $l spell!
+       mpecho $I looks shocked recovers quickly.
+     else
+       cast 'word of recall' $r
+     endif
+   else
+     cast 'word of recall' $r
+     mpecho $I bares $l teeth in a bloodless grin of satisfaction.
+   endif
+~
+>fight_prog 8~
+   mpechoat $r Monchira fixes $l gaze on you and you flee in terror!
+   mpechoaround $r Monchira fixes $l gaze on $R and $J flees the room in terror!
+   mpforce $r flee
+~
+>fight_prog 6~
+   mpecho Monchira twirls in a dance, gestures towards the portal, and 3 lesser vampires appear.
+   mpecho $j points towards you and the vampires attack!!!!!!!!!!
+   mpmload 16516
+   mpmload 16516
+   mpmload 16516
+   mpforce 1.16516 kill $r
+   mpforce 2.16516 kill $r
+   mpforce 3.16516 kill $r
+~
+>fight_prog 11~
+   mpechoat $r $I places $l hand on your chest and shoves you flying across the room.
+   mpechoaround $r $I places $l hand on $R and shoves $K across the room.
+   mpdamage $r 10d20+10
+   mppose $r sit
+~
+>fight_prog 4~
+   mpecho At the gesture of $I, a horde of bats fly from the darkness and COVER YOUR BODIES WITH BITES!!!!!!!!
+   mpdamage all 18d20
+~
+>fight_prog 12~
+   say Your defenses are no match for my vampiric arts.
+   mpechoat $r Monchira sinks $l teeth into your aura and drains it.
+   mpechoaround $r Monchira sinks $l teeth into the aura of $R and drains it.
+   mpcallmagic 'dispel sanc' $r
+~
+>fight_prog 10~
+   say Leave me alone!!!!!!!!!!!
+   mpechoat $r Monchira shoves you towards the shimmering portal and you tumble headlong into it.
+   mpechoaround $r Monchira shoves $R towards the shimmering portal and $J tumbles through it.
+   mppose $r stand
+   mpforce $r enter portal
+~
+>death_prog 100~
+   mpecho Monchira clutches the many wounds inflicted upon $k, $l supply of blood spilling onto the floor. 
+   mpecho $j falls to the ground, shudders, and lays still.  $l body dries up, shrivels, and turns to dust.
+   mpecho A gust of wind comes from nowhere, spreading the dust over the room.
+   mpasound Your blood freezes as you hear someone's death cry.
+   mppose $i stand
+   mpsilent remove all
+   mpsilent drop all
+   mpsilent drop all.coins
+   mppose $i dead
+   mpgoto cleaner
+~
+|

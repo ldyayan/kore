@@ -1,0 +1,1694 @@
+#23000
+The Central Training Room~
+   Welcome to the central training room, this is where players new to Heroes
+of Kore MUD first start.  This wooden shack serves as the training barracks
+of all the guards throughout Kore.  It is strictly for the use of young 
+guards where they are not bugged and can gain experience without fear of 
+being killed by the big guys.  Despite its dank look the Tyrant has spared
+no expense in getting a cleric to heal the wounded.  The elder cleric 
+attempts to fill the role and does a fine job of it.  A fountain provides 
+you with water and a box contains bread to keep you hunger at bay.  Portals 
+lead off to the training rooms and a sign hangs over the portal to the north.
+~
+230 28 0
+D0
+~
+~
+0 0 23010
+D1
+~
+~
+0 0 23030
+D2
+~
+~
+0 0 23050
+D3
+~
+~
+0 0 23070
+D4
+~
+~
+0 0 23002
+D6
+~
+~
+0 0 23020
+D7
+~
+~
+0 0 23040
+D8
+~
+~
+0 0 23060
+D9
+~
+~
+0 0 23090
+E
+sign board message~
+When you start playing try to remember the following things......
+- Check the policy before you start.
+- Wield you weapons and wear your equipment.
+- Most important, Have fun
+
+                             The Immortal Management
+
+PS this training barracks was designed so you can level easily.  Try not to
+   bug other players unless you are unable to level in here first.
+~
+S
+#23001
+The Chamber of the Clan Council~
+Amongst the shadows of the room are doorways from the other clans
+of Kore. A small, eternal flame burns in the center of the table
+providing light for the room, and the board located in the corner.
+Looking around the table the chairs of the leaders of the clans are
+placed. Many have passed through these hallowed halls without incident
+let you not be the first.
+~
+230 394768 0
+D5
+~
+~
+0 0 8309
+S
+#23002
+The Office of Ringils Secretary~
+   The office of Ringils secretary is beautifully decorated with pictures of
+Ringils great battles covering the walls.  A poster of the far wall shouts at
+you.  'Join the Guard Now!  See the World!  ' you laugh at the thought because
+you know a guard rarely ever leaves the city.  Perhaps once you finish the
+training you can leave the guard and go travel the world as a warrior.  A set
+of stairs leads down into the heart of the training barracks where the rest of
+the warriors train.
+~
+230 156 0
+D1
+~
+~
+0 0 3067
+D5
+~
+~
+0 0 23000
+S
+#23010
+Training Room One~
+   As you step out of the portal you find yourself in a room similar to the
+temple yet different.  A master stands in the corner yelling at you and the
+people that surround you.  He appears to be teaching a lesson.  As you
+watch he pulls people out of the crowds one by one and beats them for the
+purpose of demonstration.
+~
+230 28 0
+D0
+~
+~
+0 0 23018
+D1
+~
+~
+0 0 23017
+D2
+~
+~
+0 0 23000
+D3
+~
+~
+0 0 23011
+S
+#23011
+Training Room One~
+   Looking around you find many training dummies are here.  They are tattered
+and beaten and look like they have probably been here for years.  You at
+first mistake this for a large open clearing then realize that you are
+actually standing in the middle of a large room which is made to look like
+the temple you just left.
+~
+230 8 0
+D0
+~
+~
+0 0 23012
+D1
+~
+~
+0 0 23010
+S
+#23012
+Training Room One~
+   Looking around you find many training dummies are here.  They are tattered
+and beaten and look like they have probably been here for years.  You at
+first mistake this for a large open clearing then realize that you are
+actually standing in the middle of a large room which is made to look like
+the temple you just left.
+~
+230 8 0
+D0
+~
+~
+0 0 23013
+D1
+~
+~
+0 0 23018
+D2
+~
+~
+0 0 23011
+S
+#23013
+Training Room One~
+   Looking around you find many training dummies are here.  They are tattered
+and beaten and look like they have probably been here for years.  You at
+first mistake this for a large open clearing then realize that you are
+actually standing in the middle of a large room which is made to look like
+the temple you just left.
+~
+230 8 0
+D1
+~
+~
+0 0 23014
+D2
+~
+~
+0 0 23012
+S
+#23014
+Training Room One~
+   Looking around you find many training dummies are here.  They are tattered
+and beaten and look like they have probably been here for years.  You at
+first mistake this for a large open clearing then realize that you are
+actually standing in the middle of a large room which is made to look like
+the temple you just left.
+~
+230 8 0
+D1
+~
+~
+0 0 23015
+D2
+~
+~
+0 0 23018
+D3
+~
+~
+0 0 23013
+S
+#23015
+Training Room One~
+   Looking around you find many training dummies are here.  They are tattered
+and beaten and look like they have probably been here for years.  You at first
+mistake this for a large open clearing then realize that you are actually
+standing in the middle of a large room which is made to look like the temple
+you just left.
+~
+230 8 0
+D2
+~
+~
+0 0 23016
+D3
+~
+~
+0 0 23014
+S
+#23016
+Training Room One~
+   Looking around you find many training dummies are here.  They are tattered
+and beaten and look like they have probably been here for years.  You at first
+mistake this for a large open clearing then realize that you are actually
+standing in the middle of a large room which is made to look like the temple
+you just left.
+~
+230 8 0
+D0
+~
+~
+0 0 23015
+D2
+~
+~
+0 0 23017
+D3
+~
+~
+0 0 23018
+S
+#23017
+Training Room One~
+   Looking around you find many training dummies here.  They are tattered
+and beaten and look like they have probably been here for years.  You at first
+mistake this for a large open clearing then realize that you are actually
+standing in the middle of a large room which is made to look like the temple
+you just left.
+~
+230 8 0
+D0
+~
+~
+0 0 23016
+D3
+~
+~
+0 0 23010
+S
+#23018
+Training Room One~
+   Looking around you find many training dummies here.  They are tattered
+and beaten and look like they have probably been here for years.  You at first
+mistake this for a large open clearing then realize that you are actually
+standing in the middle of a large room which is made to look like the temple
+you just left.
+~
+230 8 0
+D0
+~
+~
+0 0 23014
+D1
+~
+~
+0 0 23016
+D2
+~
+~
+0 0 23010
+D3
+~
+~
+0 0 23012
+S
+#23020
+Training Room Two~
+   As you step out of the portal you enter a room unlike the first you visited.
+It is largely wood planked and it looks like it too has seen the wrath of
+the ages.  Although you recognize no one else you do see a remarkable
+resemblance between the master that stands in front of you and the one in the
+last training room.  He isn't demonstrating anything right now but is yelling
+orders at the students around you.
+~
+230 28 0
+D0
+~
+~
+0 0 23028
+D1
+~
+~
+0 0 23027
+D3
+~
+~
+0 0 23021
+D8
+~
+~
+0 0 23000
+S
+#23021
+Training Room Two~
+   You enter a room similar to the one you just left.  There are people
+getting ready for battle here.  They are but young boys and girls like
+yourself you realize with a fright.  Cots line the room and weapons and
+pieces of clothing are thrown here and there.  Occasionally a man enters the
+room and checks on them, making sure they continue their training and get
+enough rest.  A sign on the wall says, 'The beating/demonstrations will
+commence at 7:00pm tonight'.
+~
+230 8 0
+D0
+~
+~
+0 0 23022
+D1
+~
+~
+0 0 23020
+S
+#23022
+Training Room Two~
+   You enter a room similar to the one you just left.  There are people
+getting ready for battle here.  They are but young boys and girls like
+yourself you realize with a fright.  Cots line the room and weapons and
+pieces of clothing are thrown here and there.  Occasionally a man enters the
+room and checks on them, making sure they continure their training and get
+enough rest.  A sign on the wall says, 'The beatings/demonstrations will
+commence at 7:00pm tonight'.
+~
+230 8 0
+D0
+~
+~
+0 0 23023
+D1
+~
+~
+0 0 23028
+D2
+~
+~
+0 0 23021
+S
+#23023
+Training Room Two~
+   You enter a room similar to the one you just left.  There are people
+getting ready for battle here.  They are but young boys and girls like
+yourself you realize with a fright.  Cots line the room and weapons and
+pieces of clothing are thrown here and there.  Occasionally a man enters the
+room and checks on them, making sure they continure their training and get
+enough rest.  A sign on the wall says, 'The beatings/demonstrations will
+commence at 7:00pm tonight'.
+~
+230 8 0
+D1
+~
+~
+0 0 23024
+D2
+~
+~
+0 0 23022
+S
+#23024
+Training Room Two~
+   You enter a room similar to the one you just left.  There are people
+getting ready for battle here.  They are but young boys and girls like
+yourself you realize with a fright.  Cots line the room and weapons and
+pieces of clothing are thrown here and there.  Occasionally a man enters the
+room and checks on them, making sure they continue their training and get
+enough rest.  A sign on the wall says, 'The beatings/demonstrations will
+commence at 7:00pm tonight'.
+~
+230 8 0
+D1
+~
+~
+0 0 23025
+D2
+~
+~
+0 0 23028
+D3
+~
+~
+0 0 23023
+S
+#23025
+Training Room Two~
+   You enter a room similar to the one you just left.  There are people
+getting ready for battle here.  They are but young boys and girls like
+yourself you realize with a fright.  Cots line the room and weapons and
+pieces of clothing are thrown here and there.  Occasionally a man enters
+the room and checks on them, making sure they continue their training and
+get enough rest.  A sign on the wall says, 'The beatings/demonstrations will
+commence at 7:00pm tonight'.
+~
+230 8 0
+D2
+~
+~
+0 0 23026
+D3
+~
+~
+0 0 23024
+S
+#23026
+Training Room Two~
+   You enter a room similar to the one you just left.  There are people
+getting ready for battle here.  They are but young boys and girls like
+yourself you realize with a fright.  Cots line the room and weapons and
+pieces of clothing are thrown here and there.  Occasionally a man enters
+the room and checks on them, making sure they continue their training and
+get enough rest.  A sign on the wall says, 'The beatings/demonstrations will
+commence at 7:00pm tonight'.
+~
+230 8 0
+D0
+~
+~
+0 0 23025
+D2
+~
+~
+0 0 23027
+D3
+~
+~
+0 0 23028
+S
+#23027
+Training Room Two~
+   You enter a room similar to the one you just left.  There are people
+getting ready for battle here.  They are but young boys and girls like
+yourself you realize with a fright.  Cots line the room and weapons and
+pieces of clothing are thrown here and there.  Occasionally a man enters
+the room and checks on them, making sure they continue their training and
+get enough rest.  A sign on the wall says, 'The beatings/demonstrations will
+commence at 7:00pm tonight'.
+~
+230 8 0
+D0
+~
+~
+0 0 23026
+D3
+~
+~
+0 0 23020
+S
+#23028
+Training Room Two~
+   You enter a room similar to the one you just left.  There are people
+getting ready for battle here.  They are but young boys and girls like
+yourself you realize with a fright.  Cots line the room and weapons and
+pieces of clothing are thrown here and there.  Occasionally a man enters the
+room and checks on them, making sure they continue their training and get
+enough rest.  A sign on the wall says, 'The beating/demonstrations will
+commence at 7:00pm tonight'.
+~
+230 8 0
+D0
+~
+~
+0 0 23024
+D1
+~
+~
+0 0 23026
+D2
+~
+~
+0 0 23020
+D3
+~
+~
+0 0 23022
+S
+#23030
+Training Room Three~
+   You enter a room not unlike the one you just left.  The battlemaster
+still stands here yet everyone else looks a little older and a little wiser.
+They seem to crowd around a small fire and on the opposite side the master
+is telling stories about the old times before starting into the next lesson.
+A sign on the far wall says, 'Blood is hard to clean up don't get it on the
+walls'.
+~
+230 28 0
+D0
+~
+~
+0 0 23031
+D1
+~
+~
+0 0 23038
+D2
+~
+~
+0 0 23037
+D3
+~
+~
+0 0 23000
+S
+#23031
+Training Room Three~
+   Again you enter a room with people getting ready for battle, they however
+look a little older and a little wiser.  Perhaps they have fought and won
+before perhaps not but the only way to tell is to challenge them.  Some of
+the warriors here stretch and warmup on a mat in the corner that has been
+ripped and now carries the blood of many warriors who failed to make it this
+far.
+~
+230 8 0
+D1
+~
+~
+0 0 23032
+D2
+~
+~
+0 0 23030
+S
+#23032
+Training Room Three~
+   Again you enter a room with people getting ready for battle, they however
+look a little older and a little wiser.  Perhaps they have fought and won
+before perhaps not but the only way to tell is to challenge them.  Some of
+the warriors here stretch and warmup on a mat in the corner that has been
+ripped and now carries the blood of many warriors who failed to make it this
+far.
+~
+230 8 0
+D1
+~
+~
+0 0 23033
+D2
+~
+~
+0 0 23038
+D3
+~
+~
+0 0 23031
+S
+#23033
+Training Room Three~
+   Again you enter a room with people getting ready for battle, they however
+look a little older and a little wiser.  Perhaps they have fought and won
+before perhaps not but the only way to tell is to challenge them.  Some of
+the warriors here stretch and warmup on a mat in the corner that has been
+ripped and now carries the blood of many warriors who failed to make it this
+far.
+~
+230 8 0
+D2
+~
+~
+0 0 23034
+D3
+~
+~
+0 0 23032
+S
+#23034
+Training Room Three~
+   Again you enter a room with people getting ready for battle, they however
+look a little older and a little wiser.  Perhaps they have fought and won
+before perhaps not but the only way to tell is to challenge them.  Some of
+the warriors here stretch and warmup on a mat in the corner that has been
+ripped and now carries the blood of many warriors who failed to make it this
+far.
+~
+230 8 0
+D0
+~
+~
+0 0 23033
+D2
+~
+~
+0 0 23035
+D3
+~
+~
+0 0 23038
+S
+#23035
+Training Room Three~
+   Again you enter a room with people getting ready for battle, they however
+look a little older and a little wiser.  Perhaps they have fought and won
+before perhaps not but the only way to tell is to challenge them.  Some of
+the warriors here stretch and warmup on a mat in the corner that has been
+ripped and now carries the blood of many warriors who failed to make it this
+far.
+~
+230 8 0
+D0
+~
+~
+0 0 23034
+D3
+~
+~
+0 0 23036
+S
+#23036
+Training Room Three~
+   Again you enter a room with people getting ready for battle, they however
+look a little older and a little wiser.  Perhaps they have fought and won
+before perhaps not but the only way to tell is to challenge them.  Some of
+the warriors here stretch and warmup on a mat in the corner that has been
+ripped and now carries the blood of many warriors who failed to make it this
+far.
+~
+230 8 0
+D0
+~
+~
+0 0 23038
+D1
+~
+~
+0 0 23035
+D3
+~
+~
+0 0 23037
+S
+#23037
+Training Room Three~
+   Again you enter a room with people getting ready for battle, they however
+look a little older and a little wiser.  Perhaps they have fought and won
+before perhaps not but the only way to tell is to challenge them.  Some of
+the warriors here stretch and warmup on a mat in the corner that has been
+ripped and now carries the blood of many warriors who failed to make it this
+far.
+~
+230 8 0
+D0
+~
+~
+0 0 23030
+D1
+~
+~
+0 0 23036
+S
+#23038
+Training Room Three~
+   Again you enter a room with people getting ready for battle, they however
+look a little older and a little wiser.  Perhaps they have fought and won
+before perhaps not but the only way to tell is to challenge them.  Some of
+the warriors here stretch and warmup on a mat in the corner that has been
+ripped and now carries the blood of many warriors who failed to make it this
+far.
+~
+230 8 0
+D0
+~
+~
+0 0 23032
+D1
+~
+~
+0 0 23034
+D2
+~
+~
+0 0 23036
+D3
+~
+~
+0 0 23030
+S
+#23040
+Training Room Four~
+   You find yourself in the middle of a dark forest.  The ground is damp
+and covered with leaves.  The ground cover breaks up enough to show the 
+trails leading to the north, east, and south.  And the portal leads back 
+to the northwest.  The battlemaster is here telling the young warriors 
+about some big aggresive monster to the north.
+~
+230 21 3
+D0
+~
+~
+0 0 23041
+D1
+~
+~
+0 0 23048
+D2
+~
+~
+0 0 23047
+D9
+~
+~
+0 0 23000
+S
+#23041
+Training Room Four~
+   The three layer foliage of the forest prevents much light from getting
+through to the ground.  The ground cover provides good hiding spots for
+little demons to run and hide.  You can see their small glowing eyes in
+the bushes peering out at you through the leaves.  Screams of pain from
+warrior and demon alike can be heard coming from all directions.
+~
+230 1 3
+D1
+~
+~
+0 0 23042
+D2
+~
+~
+0 0 23040
+S
+#23042
+Training Room Four~
+   The three layer foliage of the forest prevents much light from getting
+through to the ground.  The ground cover provides good hiding spots for
+little demons to run and hide.  You can see their small glowing eyes in
+the bushes peering out at you through the leaves.  Screams of pain from
+warrior and demon alike can be heard coming from all directions.
+~
+230 1 3
+D1
+~
+~
+0 0 23043
+D2
+~
+~
+0 0 23048
+D3
+~
+~
+0 0 23041
+S
+#23043
+Training Room Four~
+   The three layer foliage of the forest prevents much light from getting
+through to the ground.  The ground cover provides good hiding spots for
+little demons to run and hide.  You can see their small glowing eyes in
+the bushes peering out at you through the leaves.  Screams of pain from
+warrior and demon alike can be heard coming from all directions.
+~
+230 1 3
+D2
+~
+~
+0 0 23044
+D3
+~
+~
+0 0 23042
+S
+#23044
+Training Room Four~
+   The three layer foliage of the forest prevents much light from getting
+through to the ground.  The ground cover provides good hiding spots for
+little demons to run and hide.  You can see their small glowing eyes in
+the bushes peering out at you through the leaves.  Screams of pain from
+warrior and demon alike can be heard coming from all directions.
+~
+230 1 3
+D0
+~
+~
+0 0 23043
+D2
+~
+~
+0 0 23045
+D3
+~
+~
+0 0 23048
+S
+#23045
+Training Room Four~
+   The three layer foliage of the forest prevents much light from getting
+through to the ground.  The ground cover provides good hiding spots for
+little demons to run and hide.  You can see their small glowing eyes in
+the bushes peering out at you through the leaves.  Screams of pain from
+warrior and demon alike can be heard coming from all directions.
+~
+230 1 3
+D0
+~
+~
+0 0 23044
+D3
+~
+~
+0 0 23046
+S
+#23046
+Training Room Four~
+   The three layer foliage of the forest prevents much light from getting
+through to the ground.  The ground cover provides good hiding spots for
+little demons to run and hide.  You can see their small glowing eyes in
+the bushes peering out at you through the leaves.  Screams of pain from
+warrior and demon alike can be heard coming from all directions.
+~
+230 1 3
+D0
+~
+~
+0 0 23048
+D1
+~
+~
+0 0 23045
+D3
+~
+~
+0 0 23047
+S
+#23047
+Training Room Four~
+   The three layer foliage of the forest prevents much light from getting
+through to the ground.  The ground cover provides good hiding spots for
+little demons to run and hide.  You can see their small glowing eye in
+the bushes peering out at you through the leaves.  Screams of pain from
+warrior and demon alike can be heard coming from all directions.
+~
+230 1 3
+D0
+~
+~
+0 0 23040
+D1
+~
+~
+0 0 23046
+S
+#23048
+Training Room Four~
+   The three layer foliage of the forest prevents much light from getting
+through to the ground.  The ground cover provides good hiding spots for
+little demons to run and hide.  You can see their small glowing eye in
+the bushes peering out at you through the leaves.  Screams of pain from
+warrior and demon alike can be heard coming from all directions.
+~
+230 1 3
+D0
+~
+~
+0 0 23042
+D1
+~
+~
+0 0 23044
+D2
+~
+~
+0 0 23046
+D3
+~
+~
+0 0 23040
+S
+#23050
+Training Room Five~
+  Back in the training barracks away from the demons and dead warriors you
+find the master giving instructions to some other warriors.  The warriors all
+seem a little old and you take notice that some of them have slightly better
+equipment than before.  The walls of the barracks are somewhat lighter in
+color as though they had endured some years of aging and the floor boards
+creek and sway as you step upon them. He points at the board he has been 
+writing on and talks about getting enough sleep.
+~
+230 28 0
+D0
+~
+~
+0 0 23000
+D1
+~
+~
+0 0 23051
+D2
+~
+~
+0 0 23058
+D3
+~
+~
+0 0 23057
+S
+#23051
+Training Room Five~
+   You enter the small wooden barracks and see thats the cots once removed
+have been replaced.  The sign has been changed and says, 'What good is power
+if you don't abuse it? Spoken by one of our fine immortals'.  A small number
+of highly trained warriors sit here among the cots.  They show no sign of 
+being best of friends and each of them would fight to the death to make sure 
+you do not make it through to the end of the training.  They would happily 
+take your precious equipment from you.
+~
+230 8 0
+D2
+~
+~
+0 0 23052
+D3
+~
+~
+0 0 23050
+S
+#23052
+Training Room Five~
+   You enter the small wooden barracks and see thats the cots once removed
+have been replaced.  The sign has been changed and says, 'What good is power
+if you don't abuse it? Spoken by one of our fine immortals'.  A small number
+of highly trained warriors sit here among the cots.  They show no sign of 
+being best of friends and each of them would fight to the death to make sure 
+you do not make it through to the end of the training.  They would happily 
+take your precious equipment from you.
+~
+230 8 0
+D0
+~
+~
+0 0 23051
+D2
+~
+~
+0 0 23053
+D3
+~
+~
+0 0 23058
+S
+#23053
+Training Room Five~
+   You enter the small wooden barracks and see thats the cots once removed
+have been replaced.  The sign has been changed and says, 'What good is power
+if you don't abuse it? Spoken by one of our fine immortals'.  A small number
+of highly trained warriors sit here among the cots.  They show no sign of 
+being best of friends and each of them would fight to the death to make sure 
+you do not make it through to the end of the training.  They would happily 
+take your precious equipment from you.
+~
+230 8 0
+D0
+~
+~
+0 0 23052
+D3
+~
+~
+0 0 23054
+S
+#23054
+Training Room Five~
+   You enter the small wooden barracks and see thats the cots once removed
+have been replaced.  The sign has been changed and says, 'What good is power
+if you don't abuse it? Spoken by one of our fine immortals'.  A small number
+of highly trained warriors sit here among the cots.  They show no sign of 
+being best of friends and each of them would fight to the death to make sure 
+you do not make it through to the end of the training.  They would happily 
+take your precious equipment from you.
+~
+230 8 0
+D0
+~
+~
+0 0 23058
+D1
+~
+~
+0 0 23053
+D3
+~
+~
+0 0 23055
+S
+#23055
+Training Room Five~
+   You enter the small wooden barracks and see thats the cots once removed
+have been replaced.  The sign has been changed and says, 'What good is power
+if you don't abuse it? Spoken by one of our fine immortals'.  A small number
+of highly trained warriors sit here among the cots.  They show no sign of 
+being best of friends and each of them would fight to the death to make sure 
+you do not make it through to the end of the training.  They would happily 
+take your precious equipment from you.
+~
+230 8 0
+D0
+~
+~
+0 0 23056
+D1
+~
+~
+0 0 23054
+S
+#23056
+Training Room Five~
+   You enter the small wooden barracks and see thats the cots once removed
+have been replaced.  The sign has been changed and says, 'What good is power
+if you don't abuse it? Spoken by one of our fine immortals'.  A small number
+of highly trained warriors sit here among the cots.  They show no sign of 
+being best of friends and each of them would fight to the death to make sure 
+you do not make it through to the end of the training.  They would happily 
+take your precious equipment from you.
+~
+230 8 0
+D0
+~
+~
+0 0 23057
+D1
+~
+~
+0 0 23058
+D2
+~
+~
+0 0 23055
+S
+#23057
+Training Room Five~
+   You enter the small wooden barracks and see thats the cots once removed
+have been replaced.  The sign has been changed and says, 'What good is power
+if you don't abuse it? Spoken by one of our fine immortals'.  A small number
+of highly trained warriors sit here among the cots.  They show no sign of 
+being best of friends and each of them would fight to the death to make sure 
+you do not make it through to the end of the training.  They would happily 
+take your precious equipment from you.
+~
+230 8 0
+D1
+~
+~
+0 0 23050
+D2
+~
+~
+0 0 23056
+S
+#23058
+Training Room Five~
+   The cots here haven't been replaced and you stare at the walls where maps
+have been tacked.  On the floor tables dominate the room.  Scrolls of ancient
+wisdom and files of information lay all over them.  Some of the warriors flip
+through the information and some stare at the maps.  They look as though they
+are planning an attack.  The battlemaster occassionally comes in and a
+warrior will ask him a question he may nod in acceptance or shake his head
+violently realizing the error of the young warriors ways.
+~
+230 8 0
+D0
+~
+~
+0 0 23050
+D1
+~
+~
+0 0 23052
+D2
+~
+~
+0 0 23054
+D3
+~
+~
+0 0 23056
+S
+#23060
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  You see several human bodies on the floor wrapped in
+bandages and some in canvas bags for the trip home.  The breeze through the 
+pillars brings with it the smell of burning demon flesh and the corpse of the
+dead demons are burnt in a pit not far from the temple.  The breeze also
+brings with it the smell of human blood.  The battlemaster stands here leaning
+on his ornate cane covered in demon blood.  From afar you hear the wailing 
+cries of demons as they lie on their death bed.
+~
+230 28 0
+D0
+~
+~
+0 0 23061
+D2
+~
+~
+0 0 23067
+D3
+~
+~
+0 0 23068
+D6
+~
+~
+0 0 23000
+S
+#23061
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  Demons sit on the floor and taunt you to take a quick
+run and test your luck.  Warriors around you gather into small groups to take 
+on the largest of the demons while individual warriors duel with small demons.
+The severed limbs of many demons and a few warrior rest on the ground where 
+they had fallen.  The smell of blood is unmistakeable and you know that this 
+won't be the last time you smell it.
+~
+230 8 0
+D2
+~
+~
+0 0 23060
+D3
+~
+~
+0 0 23062
+S
+#23062
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  Demons sit on the floor and taunt you to take a quick
+run and test your luck.  Warriors around you gather into small groups to take 
+on the largest of the demons while individual warriors duel with small demons.
+The severed limbs of many demons and a few warrior rest on the ground where 
+they had fallen.  The smell of blood is unmistakeable and you know that this 
+won't be the last time you smell it.
+~
+230 8 0
+D1
+~
+~
+0 0 23061
+D2
+~
+~
+0 0 23068
+D3
+~
+~
+0 0 23063
+S
+#23063
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  Demons sit on the floor and taunt you to take a quick
+run and test your luck.  Warriors around you gather into small groups to take 
+on the largest of the demons while individual warriors duel with small demons.
+The severed limbs of many demons and a few warrior rest on the ground where 
+they had fallen.  The smell of blood is unmistakeable and you know that this 
+won't be the last time you smell it.
+~
+230 8 0
+D1
+~
+~
+0 0 23062
+D2
+~
+~
+0 0 23064
+S
+#23064
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  Demons sit on the floor and taunt you to take a quick
+run and test your luck.  Warriors around you gather into small groups to take 
+on the largest of the demons while individual warriors duel with small demons.
+The severed limbs of many demons and a few warrior rest on the ground where 
+they had fallen.  The smell of blood is unmistakeable and you know that this 
+won't be the last time you smell it.
+~
+230 8 0
+D0
+~
+~
+0 0 23063
+D1
+~
+~
+0 0 23068
+D2
+~
+~
+0 0 23065
+S
+#23065
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  Demons sit on the floor and taunt you to take a quick
+run and test your luck.  Warriors around you gather into small groups to take 
+on the largest of the demons while individual warriors duel with small demons.
+The severed limbs of many demons and a few warrior rest on the ground where 
+they had fallen.  The smell of blood is unmistakeable and you know that this 
+won't be the last time you smell it.
+~
+230 8 0
+D0
+~
+~
+0 0 23064
+D1
+~
+~
+0 0 23066
+S
+#23066
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  Demons sit on the floor and taunt you to take a quick
+run and test your luck.  Warriors around you gather into small groups to take 
+on the largest of the demons while individual warriors duel with small demons.
+The severed limbs of many demons and a few warrior rest on the ground where 
+they had fallen.  The smell of blood is unmistakeable and you know that this 
+won't be the last time you smell it.
+~
+230 8 0
+D0
+~
+~
+0 0 23068
+D1
+~
+~
+0 0 23067
+D3
+~
+~
+0 0 23065
+S
+#23067
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  Demons sit on the floor and taunt you to take a quick
+run and test your luck.  Warriors around you gather into small groups to take 
+on the largest of the demons while individual warriors duel with small demons.
+The severed limbs of many demons and a few warrior rest on the ground where 
+they had fallen.  The smell of blood is unmistakeable and you know that this 
+won't be the last time you smell it.
+~
+230 8 0
+D0
+~
+~
+0 0 23060
+D3
+~
+~
+0 0 23066
+S
+#23068
+Training Room Six~
+   You enter a large room with pillars to the ceilings and pots of plants on
+the floor.  The stone floor of the room is covered in the green blood of
+demons and red blood.  Demons sit on the floor and taunt you to take a quick
+run and test your luck.  Warriors around you gather into small groups to take 
+on the largest of the demons while individual warriors duel with small demons.
+The severed limbs of many demons and a few warrior rest on the ground where 
+they had fallen.  The smell of blood is unmistakeable and you know that this 
+won't be the last time you smell it.
+~
+230 8 0
+D0
+~
+~
+0 0 23062
+D1
+~
+~
+0 0 23060
+D2
+~
+~
+0 0 23066
+D3
+~
+~
+0 0 23064
+S
+#23070
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The battlemaster is standing in the middle of the
+room fighting two demons with his cane.  He looks tired and sore yet he
+continues to fight.
+~
+230 28 0
+D0
+~
+~
+0 0 23071
+D1
+~
+~
+0 0 23000
+D2
+~
+~
+0 0 23077
+D3
+~
+~
+0 0 23078
+S
+#23071
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The sounds of clashing swords of both human and
+demon echo throughout the room along with the screams of dying warriors and
+demons.  The hordes of demon seems never ending and most warrior seem to
+be withdrawing to regroup.  The floor boards have been burned out is some
+areas revealing what looks like a swirling vortex and you are sure that it
+would bring instant death to those who enter.
+~
+230 8 0
+D2
+~
+~
+0 0 23070
+D3
+~
+~
+0 0 23072
+S
+#23072
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The sounds of clashing swords of both human and
+demon echo throughout the room along with the screams of dying warriors and
+demons.  The hordes of demon seems never ending and most warrior seem to
+be withdrawing to regroup.  The floor boards have been burned out is some
+areas revealing what looks like a swirling vortex and you are sure that it
+would bring instant death to those who enter.
+~
+230 8 0
+D1
+~
+~
+0 0 23071
+D2
+~
+~
+0 0 23078
+D3
+~
+~
+0 0 23073
+S
+#23073
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The sounds of clashing swords of both human and
+demon echo throughout the room along with the screams of dying warriors and
+demons.  The hordes of demon seems never ending and most warrior seem to
+be withdrawing to regroup.  The floor boards have been burned out is some
+areas revealing what looks like a swirling vortex and you are sure that it
+would bring instant death to those who enter.
+~
+230 8 0
+D1
+~
+~
+0 0 23072
+D2
+~
+~
+0 0 23074
+S
+#23074
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The sounds of clashing swords of both human and
+demon echo throughout the room along with the screams of dying warriors and
+demons.  The hordes of demon seems never ending and most warrior seem to
+be withdrawing to regroup.  The floor boards have been burned out is some
+areas revealing what looks like a swirling vortex and you are sure that it
+would bring instant death to those who enter.
+~
+230 8 0
+D0
+~
+~
+0 0 23073
+D1
+~
+~
+0 0 23078
+D2
+~
+~
+0 0 23075
+D3
+~
+~
+0 0 23079
+S
+#23075
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The sounds of clashing swords of both human and
+demon echo throughout the room along with the screams of dying warriors and
+demons.  The hordes of demon seems never ending and most warrior seem to
+be withdrawing to regroup.  The floor boards have been burned out is some
+areas revealing what looks like a swirling vortex and you are sure that it
+would bring instant death to those who enter.
+~
+230 8 0
+D0
+~
+~
+0 0 23074
+D1
+~
+~
+0 0 23076
+S
+#23076
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The sounds of clashing swords of both human and
+demon echo throughout the room along with the screams of dying warriors and
+demons.  The hordes of demon seems never ending and most warrior seem to
+be withdrawing to regroup.  The floor boards have been burned out is some
+areas revealing what looks like a swirling vortex and you are sure that it
+would bring instant death to those who enter.
+~
+230 8 0
+D0
+~
+~
+0 0 23078
+D1
+~
+~
+0 0 23077
+D3
+~
+~
+0 0 23075
+S
+#23077
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The sounds of clashing swords of both human and
+demon echo throughout the room along with the screams of dying warriors and
+demons.  The hordes of demon seems never ending and most warrior seem to
+be withdrawing to regroup.  The floor boards have been burned out is some
+areas revealing what looks like a swirling vortex and you are sure that it
+would bring instant death to those who enter.
+~
+230 8 0
+D0
+~
+~
+0 0 23070
+D3
+~
+~
+0 0 23076
+S
+#23078
+Training Room Seven~
+   You step out into the barracks to see guards and warriors fighting demons
+in hand to hand combat.  Arrows stick out of walls where they have come
+through the window.  Through the windows you can see more warriors fighting
+the archers.  Small fires have been lite around the barracks and they burn 
+quickly through the walls.  The sounds of clashing swords of both human and
+demon echo throughout the room along with the screams of dying warriors and
+demons.  The hordes of demon seems never ending and most warrior seem to
+be withdrawing to regroup.  The floor boards have been burned out is some
+areas revealing what looks like a swirling vortex and you are sure that it
+would bring instant death to those who enter.
+~
+230 8 0
+D0
+~
+~
+0 0 23072
+D1
+~
+~
+0 0 23070
+D2
+~
+~
+0 0 23076
+D3
+~
+~
+0 0 23074
+S
+#23079
+A Deadly Swirling Black Vortex~
+   The gods frown.  No one can enter a deathtrap and survive yet you are
+lucky this once as the demons never got a chance to finish their handy work.
+You better start walking east, and try not to land in here again.
+~
+230 12 0
+D1
+~
+~
+0 0 23074
+S
+#23090
+The Final Trial~
+   Welcome to the final training room.  The land around you seems like the
+land outside the barracks, yet the barracks is not here.  The battlemaster
+is here leaning against a tree on the edge of the clearing.  He walks toward
+you with his cane in hand.  He smiles and appears to be pleased with you.
+~
+230 0 3
+D7
+~
+~
+0 0 23000
+S
+#23091
+The Depths Of Your Own Mind~
+You see nothing but the eternal darkness of your mind.
+~
+230 393245 0
+D0
+~
+~
+0 0 23093
+S
+#23092
+The Depths Of Your Own Mind~
+You see nothing but the eternal darkness of your mind.
+~
+230 393225 0
+D0
+~
+~
+0 0 23097
+D1
+~
+~
+0 0 23093
+S
+#23093
+The Depths Of Your Own Mind~
+You see nothing but the eternal darkness of your mind.
+~
+230 393225 0
+D0
+~
+~
+0 0 23096
+D1
+~
+~
+0 0 23094
+D2
+~
+~
+0 0 23091
+D3
+~
+~
+0 0 23092
+S
+#23094
+The Depths Of Your Own Mind~
+You see nothing but the eternal darkness of your mind.
+~
+230 393225 0
+D0
+~
+~
+0 0 23095
+D3
+~
+~
+0 0 23093
+S
+#23095
+The Depths Of Your Own Mind~
+You see nothing but the eternal darkness of your mind.
+~
+230 393225 0
+D2
+~
+~
+0 0 23094
+D3
+~
+~
+0 0 23096
+S
+#23096
+The Depths Of Your Own Mind~
+You see nothing but the eternal darkness of your mind.
+~
+230 393225 0
+D0
+Flaming Gates
+~
+Flaming Gates~
+2 23092 23098
+D1
+~
+~
+0 0 23095
+D2
+~
+~
+0 0 23093
+D3
+~
+~
+0 0 23097
+S
+#23097
+The Depths Of Your Own Mind~
+You see nothing but the eternal darkness of your mind.
+~
+230 393225 0
+D1
+~
+~
+0 0 23096
+D2
+~
+~
+0 0 23092
+S
+#23098
+Vulmartas Prison~
+Vulmarta stands here unprepared for what is to come.
+~
+230 393225 0
+D2
+Flaming Gates
+~
+Flaming Gates~
+2 23092 23096
+S
+#99999
+$~

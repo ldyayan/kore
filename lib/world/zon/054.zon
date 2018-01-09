@@ -1,0 +1,409 @@
+#54
+New Thalos~
+5699 30 2 32
+M 0  5438     1  5415            Gord, the Rogue
+E 1  5466   100    16                    wield a small silver dagger
+G 1  5498    15    -1                    give a kris super stabber
+M 0  5441     1  5415            Curley GreenLeaf
+M 0  5462    12  5422            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5462    12  5422            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+D 0  5422     0     2            Inside The Northern Gate Of New Thalos door north
+M 0  5491     1  5527            a skilled crafstman
+M 0  5444    24  5523            the vulture
+M 0  5479     1  5523            Elvira
+G 1  1219   100    -1                    give a potion of rejuvenation
+G 1  5470    99    -1                    give a glowing blue vial
+G 1  5471    99    -1                    give a deep-green potion
+G 1  5472    99    -1                    give a crystal clear potion
+G 1  5473    99    -1                    give an off-white potion
+G 1  5474    99    -1                    give a dark blue potion
+M 0  5433    12  5406            the nomad merchant
+M 0  5437     2  5406            the taxcollector
+G 1  5400    99    -1                    give the palace key of New Thalos
+M 0  5440     1  5406            Daghdha
+E 1  5444     8    16                    wield a sturdy oak staff
+M 0  5463     1  5406            the Chief Guard
+O 0  5402   101  5406            the large central fountain
+M 0  5400     1  5548            the guildmaster
+M 0  5401     1  5503            the guildmaster
+D 0  5503     1     1            Clerics' Sanctum door east
+M 0  5402     1  5534            the guildmaster
+D 0  5534     1     1            The Tournament And Practice Yard door east
+M 0  5403     1  5546            the guildmaster
+D 0  5546     2     1            The Secret Yard door south
+M 0  5404     1  5401            the receptionist
+M 0  5405     1  5402            the old withered man
+G 1  5467    99    -1                    give a glass
+G 1  5468    99    -1                    give a glass
+G 1  5469    99    -1                    give a bottle of grog
+M 0  5406     1  5402            Brother John
+M 0  5407     1  5403            the panhandler
+M 0  5408     1  5404            the panhandler
+M 0  5409    20  5410            the beggar
+M 0  5442    21  5410            the wandering prophet
+M 0  5410     1  5535            the baker
+G 1  5440    99    -1                    give a hunk of cheese
+G 1  5441    99    -1                    give some bread
+G 1  5442    99    -1                    give some dry rations
+G 1  5443    99    -1                    give some iron rations
+G 1  5445    99    -1                    give some nuts
+G 1  5491    99    -1                    give a sesame seed
+M 0  5411     1  5528            the shopkeeper
+G 1  5434    99    -1                    give a sack
+G 1  5435    99    -1                    give an oil lamp
+G 1  5436    99    -1                    give a backpack
+G 1  5437    99    -1                    give a basket
+G 1  5438    99    -1                    give a belt pouch
+G 1  5439    99    -1                    give a candle
+M 0  5412     1  5521            the banker
+O 0  3034   101  5521            an evil money changer
+M 0  5413     1  5514            Ahkeem the tailor
+E 1  5483    99    16                    wield a pair of sewing shears
+G 1  5446    99    -1                    give a belt
+G 1  5447    99    -1                    give a pair of hiking boots
+G 1  5448    99    -1                    give a fur cloak
+G 1  5449    99    -1                    give a girdle
+G 1  5450    99    -1                    give a pair of hose
+G 1  5451    99    -1                    give a common robe
+G 1  5452    99    -1                    give an embroidered robe
+G 1  5453    99    -1                    give a pair of sandals
+G 1  5454    99    -1                    give a sash
+G 1  5455    99    -1                    give a silk jacket
+M 0  5442    21  5514            the wandering prophet
+M 0  5443    14  5514            the alley cat
+M 0  5414     1  5515            Vera the veggie lady
+G 1  5456    99    -1                    give an egg
+G 1  5457    99    -1                    give a carrot
+G 1  5458    99    -1                    give a tomato
+G 1  5459    99    -1                    give a fig
+G 1  5460    99    -1                    give some dates
+M 0  5415     1  5522            Butch the meatcutter
+E 1  5484    99    16                    wield a meat cleaver
+G 1  5461    99    -1                    give a leg of lamb
+G 1  5462    99    -1                    give a side of beef
+G 1  5463    99    -1                    give a whole chicken
+M 0  5444    24  5522            the vulture
+M 0  5416     1  5529            Abdul the armorer
+G 1  5415    99    -1                    give a suit of banded mail
+G 1  5416    99    -1                    give a suit of brigandine
+G 1  5417    99    -1                    give a suit of field plate
+G 1  5418    99    -1                    give a suit of ringmail
+G 1  5419    99    -1                    give a suit of splintmail
+G 1  5420    99    -1                    give a wooden shield
+G 1  5421    99    -1                    give a splinted shield
+M 0  5417     1  5536            Igor the weaponsmith
+G 1  5403    99    -1                    give a morningstar
+G 1  5404    99    -1                    give an awl-pike
+G 1  5405    99    -1                    give a bardiche
+G 1  5406    99    -1                    give a bec de corbin
+G 1  5407    99    -1                    give a bill-guisarme
+G 1  5408    99    -1                    give a fauchard
+G 1  5409    99    -1                    give a glaive
+G 1  5410    99    -1                    give a guisarme
+G 1  5411    99    -1                    give a sickle
+G 1  5412    99    -1                    give a two-handed bastard sword
+G 1  5413    99    -1                    give a scimitar
+G 1  5414    99    -1                    give a rapier
+M 0  5418     1  5432            Cassandra
+G 1  5464    99    -1                    give a salted herring
+G 1  5465    99    -1                    give a mussel
+M 0  5419     1  5425            the foreman
+E 1  5485    99    16                    wield a fountain pen
+M 0  5420     2  5425            the construction worker
+E 1  5486    99    16                    wield a sledge hammer
+M 0  5420     2  5425            the construction worker
+E 1  5486    99    16                    wield a sledge hammer
+M 0  5421     1  5511            the statue of Brahman
+M 0  5422     1  5511            the statue of Siva
+M 0  5423     1  5511            the statue of Indra
+M 0  5424     1  5511            the statue of Yama
+M 0  5425     1  5516            the statue of Surya
+M 0  5426     1  5516            the statue of Kali
+M 0  5427     1  5516            the statue of Brihaspati
+M 0  5428     1  5516            the statue of Puchan
+M 0  5429     1  5466            Aziz
+M 0  5430     1  5466            Mustafah
+M 0  5431     1  5466            Fatima
+M 0  5432     1  5466            Kareem
+M 0  5433    12  5509            the nomad merchant
+M 0  5442    21  5509            the wandering prophet
+M 0  5433    12  5414            the nomad merchant
+M 0  5482    15  5414            the Royal Guard
+M 0  5433    12  5426            the nomad merchant
+M 0  5433    12  5449            the nomad merchant
+M 0  5433    12  5462            the nomad merchant
+M 0  5434     4  5589            the Sultan's Bodyguard
+M 0  5434     4  5589            the Sultan's Bodyguard
+M 0  5434     4  5589            the Sultan's Bodyguard
+M 0  5434     4  5589            the Sultan's Bodyguard
+M 0  5450     1  5589            the Sultan
+D 0  5589     0     2            The Throne Room door north
+D 0  5589     1     1            The Throne Room door east
+D 0  5589     2     1            The Throne Room door south
+M 0  5435     3  5468            the skinny kid
+M 0  5435     3  5468            the skinny kid
+M 0  5435     3  5468            the skinny kid
+M 0  5436     8  5433            the dockworker
+M 0  5436     8  5433            the dockworker
+M 0  5436     8  5433            the dockworker
+M 0  5436     8  5434            the dockworker
+M 0  5436     8  5434            the dockworker
+M 0  5436     8  5435            the dockworker
+M 0  5436     8  5443            the dockworker
+M 0  5436     8  5443            the dockworker
+M 0  5439     1  5405            Chulainn
+E 1  5415    99     5                    body a suit of banded mail
+E 1  5492    99    16                    wield Gae Bolg
+M 0  5442    21  5424            the wandering prophet
+M 0  5442    21  5508            the wandering prophet
+M 0  5442    21  5513            the wandering prophet
+M 0  5442    21  5513            the wandering prophet
+M 0  5442    21  5631            the wandering prophet
+M 0  5442    21  5631            the wandering prophet
+M 0  5443    14  5465            the alley cat
+M 0  5443    14  5467            the alley cat
+M 0  5443    14  5469            the alley cat
+M 0  5443    14  5473            the alley cat
+M 0  5443    14  5569            the alley cat
+D 0  5569     1     2            Outside The West Gate Of New Thalos door east
+M 0  5443    14  5617            the alley cat
+M 0  5444    24  5429            the vulture
+M 0  5444    24  5430            the vulture
+M 0  5444    24  5453            the vulture
+M 0  5444    24  5463            the vulture
+M 0  5444    24  5507            the vulture
+M 0  5444    24  5524            the vulture
+M 0  5480     1  5524            Braheem
+G 1  5478    99    -1                    give a scroll of recall
+G 1  5479    99    -1                    give a ^wgrey-^n^Wsilver^n wand
+G 1  5480    99    -1                    give a wand of glinting yellow
+G 1  5481    99    -1                    give an oak staff
+G 1  5482    99    -1                    give a pink wand
+M 0  5444    24  5532            the vulture
+M 0  5459     1  5532            the guildguard
+D 0  5532     3     1            Entrance To The Thieves' Guild door west
+M 0  5444    24  5549            the vulture
+M 0  5444    24  5555            the vulture
+M 0  5444    24  5567            the vulture
+D 0  5567     2     2            Outside The Northern Gate Of New Thalos door south
+M 0  5444    24  5568            the vulture
+M 0  5444    24  5692            the vulture
+M 0  5445     2  5455            the old man
+E 1  5490    99    16                    wield a chessboard
+M 0  5445     2  5455            the old man
+E 1  5490    99    16                    wield a chessboard
+M 0  5446     1  5551            Lugh the Librarian
+M 0  5447     1  5411            the dirt devil
+M 0  5448     1  5411            the lamia
+M 0  5449     1  5411            the raggety dervish
+D 0  5411     0     2            Outside The Southern Gate Of New Thalos door north
+M 0  5451     8  5587            a harem girl
+M 0  5451     8  5587            a harem girl
+M 0  5451     8  5587            a harem girl
+M 0  5451     8  5587            a harem girl
+M 0  5451     8  5587            a harem girl
+M 0  5451     8  5587            a harem girl
+M 0  5451     8  5587            a harem girl
+M 0  5451     8  5587            a harem girl
+M 0  5453     4  5587            a eunich
+M 0  5453     4  5587            a eunich
+M 0  5453     4  5587            a eunich
+M 0  5453     4  5587            a eunich
+M 0  5454     1  5587            Nichole, the Sultan's favorite
+D 0  5587     0     1            The Harem door north
+D 0  5587     1     2            The Harem door east
+M 0  5452     1  5591            the jailer
+G 1  5493    99    -1                    give the jail key
+D 0  5591     1     1            The Jailer's Room door east
+D 0  5591     4     1            The Jailer's Room door up
+M 0  5455     1  5566            Allah
+E 1  5496    10    16                    wield the wrath of Allah
+D 0  5566     2     1            The Shrine Of Allah door south
+M 0  5456     1  5525            the guildguard
+M 0  5457     1  5512            the guildguard
+M 0  5458     1  5526            the guildguard
+M 0  5460     2  5561            the servant boy
+M 0  5460     2  5561            the servant boy
+M 0  5490     1  5561            the chef
+D 0  5561     0     1            The Kitchen door north
+M 0  5461    20  5412            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5461    20  5418            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5461    20  5419            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5461    20  5420            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5461    20  5444            the Sultan's Guard
+M 0  5482    15  5444            the Royal Guard
+D 0  5444     2     2            West Casbah door south
+M 0  5461    20  5445            the Sultan's Guard
+M 0  5482    15  5445            the Royal Guard
+M 0  5461    20  5446            the Sultan's Guard
+M 0  5461    20  5447            the Sultan's Guard
+M 0  5461    20  5572            the Sultan's Guard
+D 0  5572     2     1            A Hall door south
+M 0  5461    20  5581            the Sultan's Guard
+D 0  5581     0     1            A Guest Room door north
+M 0  5461    20  5582            the Sultan's Guard
+D 0  5582     2     1            A Hall door south
+D 0  5582     3     2            A Hall door west
+M 0  5461    20  5588            the Sultan's Guard
+D 0  5588     0     1            A Small room door north
+D 0  5588     2     1            A Small room door south
+M 0  5462    12  5413            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5462    12  5413            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+D 0  5413     2     2            Inside The South Gate Of New Thalos door south
+M 0  5462    12  5423            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5462    12  5423            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+D 0  5423     3     2            Inside The West Gate Of New Thalos door west
+M 0  5462    12  5431            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5462    12  5431            the Sultan's Guard
+E 1  5413    99    16                    wield a scimitar
+E 1  5417    99     5                    body a suit of field plate
+E 1  5421    99    11                    shield a splinted shield
+M 0  5464     1  5531            the mercenary
+M 0  5465     1  5542            the shipwright
+G 1  3060    99    -1                    give a raft
+G 1  3061    99    -1                    give a canoe
+M 0  5466     1  5544            the blacksmith
+G 1  5487    99    -1                    give a horseshoe
+G 1  5488    99    -1                    give a saddle
+G 1  5489    99    -1                    give a riding crop
+M 0  5467     6  5545            the horse
+M 0  5467     6  5545            the horse
+M 0  5467     6  5545            the horse
+M 0  5467     6  5545            the horse
+M 0  5467     6  5545            the horse
+M 0  5467     6  5545            the horse
+M 0  5468     8  5427            the commoner
+M 0  5468     8  5428            the commoner
+M 0  5469     1  5699            the ixitxachitl
+D 0  5699     1     1            The Lair of the Ixitxachitl door east
+M 0  5470     1  5600            the cryohydra
+D 0  5600     2     2            The Cell door south
+M 0  5471     1  5604            the minotaur lizard
+D 0  5604     0     2            The Cell door north
+M 0  5472     5  5599            the death dog
+M 0  5472     5  5599            the death dog
+M 0  5472     5  5599            the death dog
+M 0  5472     5  5599            the death dog
+M 0  5472     5  5599            the death dog
+D 0  5599     2     2            The Cell door south
+M 0  5473     1  5603            the spotted lion
+D 0  5603     0     2            The Cell door north
+M 0  5474     1  5598            the behir
+D 0  5598     2     2            The Cell door south
+M 0  5475     1  5597            the chimera
+D 0  5597     2     2            The Cell door south
+M 0  5476     1  5602            the couatl
+D 0  5602     0     2            The Cell door north
+M 0  5477     1  5601            the giant hornet
+D 0  5601     0     2            The Cell door north
+M 0  5478     1  5583            the pegasus
+M 0  5486     1  5583            the nightmare
+M 0  5481     1  5504            the high priest
+M 0  5482    15  5407            the Royal Guard
+M 0  5482    15  5408            the Royal Guard
+M 0  5482    15  5416            the Royal Guard
+M 0  5482    15  5450            the Royal Guard
+M 0  5482    15  5452            the Royal Guard
+M 0  5483     1  5538            Patch the bartender
+G 1  5475    99    -1                    give a flaming scorpion
+G 1  5476    99    -1                    give a barrel
+G 1  5477    99    -1                    give a shot
+M 0  5484     1  5537            Stitch, the leather dude
+G 1  5422    99    -1                    give a buckler
+G 1  5423    99    -1                    give a leather jacket
+G 1  5424    99    -1                    give a pair of leather sleeves
+G 1  5425    99    -1                    give a leather cap
+G 1  5426    99    -1                    give a pair of leather pants
+G 1  5427    99    -1                    give a pair of leather gloves
+G 1  5428    99    -1                    give a pair of padded leather boots
+G 1  5429    99    -1                    give a studded leather jacket
+G 1  5430    99    -1                    give a pair of studded leather sleeves
+G 1  5431    99    -1                    give a pair of studded leather pants
+G 1  5432    99    -1                    give a pair of studded leather gloves
+G 1  5433    99    -1                    give a leather shield
+M 0  5485     1  5578            the gardener
+M 0  5487     1  5596            the wolverine
+E 1  5495    15    16                    wield a wolverine claw
+D 0  5596     3     2            The Secret Cell door west
+M 0  5488     1  5580            the mimic
+D 0  5580     2     1            The Art Exhibit door south
+M 0  5489     1  5554            the mayor
+G 1  5401    99    -1                    give the Key to the City of New Thalos
+D 0  5553     0     2            The Jail door north
+D 0  5459     5     1            Alley door down
+D 0  5475     4     1            Underground door up
+D 0  5470     5     1            Alley door down
+D 0  5478     4     1            Underground door up
+D 0  5474     5     1            Alley door down
+D 0  5481     4     1            Underground door up
+D 0  5483     3     1            River Quiavel door west
+D 0  5484     1     1            River Quiavel door east
+D 0  5487     3     1            River Quiavel door west
+D 0  5623     1     1            River Quiavel door east
+D 0  5491     4     1            A Dark Passage door up
+D 0  5517     2     1            The Base Of The Tower door south
+D 0  5530     1     1            The Mercenaries' Guild door east
+D 0  5558     3     2            The Palace Gate door west
+D 0  5550     1     2            The Grand Entrance door east
+D 0  5563     2     1            A Hall door south
+D 0  5565     0     1            A Hall door north
+D 0  5571     0     1            The Grand Dining Hall door north
+D 0  5574     0     1            A Hall door north
+D 0  5575     2     1            The Entrance To The Dungeon door south
+D 0  5575     5     1            The Entrance To The Dungeon door down
+D 0  5577     2     1            A Hall door south
+D 0  5576     0     1            A Guest Room door north
+D 0  5579     0     1            A Hall door north
+D 0  5584     0     1            A Hall door north
+D 0  5584     3     1            A Hall door west
+D 0  5585     2     1            The Guard Room door south
+D 0  5590     2     2            The Treasure Room door south
+D 0  5592     0     2            A Tunnel In The Dungeon door north
+D 0  5592     2     2            A Tunnel In The Dungeon door south
+D 0  5592     3     1            A Tunnel In The Dungeon door west
+D 0  5593     0     2            A Tunnel In The Dungeon door north
+D 0  5593     2     2            A Tunnel In The Dungeon door south
+D 0  5594     0     2            A Tunnel In The Dungeon door north
+D 0  5594     2     2            A Tunnel In The Dungeon door south
+D 0  5595     0     2            A Tunnel In The Dungeon door north
+D 0  5595     1     2            A Tunnel In The Dungeon door east
+D 0  5595     2     2            A Tunnel In The Dungeon door south
+D 0  5653     1     1            In The Mountains door east
+D 0  5698     3     1            Under the Dock door west
+D 0  5696     1     1            The Sea of Rhun door east
+S
+#99999
+$~

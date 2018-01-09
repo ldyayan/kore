@@ -1,0 +1,30 @@
+>greet_prog 100~
+  say Good day to die, wouldn't ye say?
+  mpecho $I quickly pulls a sword from his coat and lunges to attack.
+  mpoload 2239
+  wield 2239
+  backstab $r
+  mpsilent remove 2.sword
+  mpsilent junk all.sword
+~
+>fight_prog 30~
+  trip
+~
+>fight_prog 50~
+  mpcallmagic 'knock'
+  open door
+  flee
+  flee
+  flee
+~
+>death_prog 100~
+  if rand(80)
+    mpecho $I breaks his sword over his knee in a final defiant effort!
+    mpsilent remove 2239
+    mpsilent mpjunk 2239
+  else
+    mpecho $I throws his sword aside in disgust.
+    drop 2239
+  endif
+~
+|

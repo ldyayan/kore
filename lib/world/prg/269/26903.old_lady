@@ -1,0 +1,123 @@
+>greet_prog 100~
+  if isscript($i)
+  else
+    if ispc($n)
+      mpechoat $n The lady looks up from her work and smiles at you.
+      mpechoaround $n The lady looks up from her work and smiles at $N.
+      say What can I do for you today?
+    endif
+  endif
+~
+>rand_prog 100~
+  if isscript($i)
+  else
+    if hasobj($i) == 26917
+    or hasobj($i) == 26918
+      mpsilent mpjunk wing
+      mpsilent mpjunk wing
+    endif
+  endif
+~
+>give_prog 26918~
+  if isscript($i)
+  else
+    mptrigger $n accept
+  endif
+~
+>script_prog accept~
+    mpecho The old lady studies the wings with her two eyes darting all over the material and her hands exploring every inch trying to find some defects.
+@
+@
+@
+  if inroom($n) == here
+    say Wow! This is in great condition, I could make a nice pair of boots out of this.
+  else
+    mpstopscript
+  endif
+@
+@
+  if inroom($n) == here
+    say Actually my friend, you're in luck. Someone brought me some stuff just like this not too long ago.
+    say I made some boots out of it but they never came to pick them up. I could sell you that pair so you wouldn't have to wait the necessary two hours.
+#
+#
+    mpecho The lady points at the small sign on the counter.
+  else
+    mpstopscript
+  endif
+@
+@
+@
+  if inroom($n) == here
+    say Let me just go check to see if I can find them in the storage room. I'll be right back, don't go anywhere!
+    mpecho The lady turns and walks into a small room at the back of the store. You can hear her humming to herself as she rummages through some boxes.
+    mpgoto 26994
+  else
+    mpstopscript
+  endif
+@
+@
+@
+@
+  if inroom($n) == 26981
+    mpgoto 26981
+    mpecho The old lady returns from the back room, carrying a pair of boots under her arm and a smile on her face.
+    say Here we go, they're made of the same material as the wing you brought me.
+    mpechoat $n The lady looks at you and studies you up and down.
+    mpechoaround $n The lady looks at $N and studies $m up and down.
+  else
+    mpgoto 26981
+    mpstopscript
+  endif
+@
+@
+@
+  if inroom($n) == here
+    say Well, you look like a nice enough person, let's do this. I'll give you these boots for free and I'll keep the wing you gave me.
+  else
+    mpstopscript
+  endif
+@
+@
+  if inroom($n) == here
+    smile $n
+    mpoload 26921
+    give boots $n
+    drop boots
+    say Please come back again sometime!
+    mpsilent junk wing
+  else
+    mpstopscript
+  endif
+~
+>give_prog 26917~
+  if isscript($i)
+  else
+    mptrigger $n no-accept
+  endif
+~
+>script_prog no-accept~
+  mpecho The old lady studies the wings with her two eyes darting all over the material and her hands exploring every inch trying to find some defects.
+@
+@
+@
+  if inroom($n) == here
+    say Hmmm. I'm sorry friend, but it's just not in very good condition. I'll give you 300 coins for it though, I might be able to make something out of it.
+    mpoload 26922
+    mpsilent drop treasure
+    mpsilent get all.gold
+    give 300 coins $n
+    mpsilent junk wing
+    nod
+  else
+    mpstopscript
+  endif
+@
+@
+  if inroom($n) == here
+    emote shrugs her shoulders and says, 'Sorry I couldn't offer anything better for you.'
+  else
+    mpstopscript
+  endif
+~
+|
