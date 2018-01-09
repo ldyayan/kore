@@ -771,6 +771,9 @@ void do_start(struct char_data * ch)
   GET_COND(ch, FULL) = 24;
   GET_COND(ch, DRUNK) = 0;
 
+  /* Give player a bit of gold */
+  GET_GOLD(ch) = dice(5, 6) + 20;
+
   ch->player.time.played = 0;
   ch->player.time.logon = time(0);
 }
