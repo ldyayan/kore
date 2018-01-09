@@ -40,8 +40,6 @@
  *                                               - Culvan                   *
  ****************************************************************************/
 
-#include <stdlib.h>
-#include <stdio.h>
 #include "structs.h"
 #include "utils.h"
 #include "db.h"

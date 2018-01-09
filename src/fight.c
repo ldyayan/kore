@@ -330,13 +330,13 @@ void make_corpse(struct char_data * ch)
 
   corpse->item_number = NOTHING;
   corpse->in_room = NOWHERE;
-  corpse->name = str_dup("corpse");
+  corpse->name = strdup("corpse");
 
   sprintf(buf2, "The corpse of %s is lying here.", GET_NAME(ch));
-  corpse->description = str_dup(buf2);
+  corpse->description = strdup(buf2);
 
   sprintf(buf2, "the corpse of %s", GET_NAME(ch));
-  corpse->short_description = str_dup(buf2);
+  corpse->short_description = strdup(buf2);
 
   GET_OBJ_TYPE(corpse) = ITEM_CONTAINER;
   GET_OBJ_WEAR(corpse) = ITEM_WEAR_TAKE;
@@ -1494,13 +1494,13 @@ void make_pool(struct char_data * ch)
 
   pool->item_number = NOTHING;
   pool->in_room = NOWHERE;
-  pool->name = str_dup("pool blood");
+  pool->name = strdup("pool blood");
   
   sprintf(buf2, "a pool of %s's blood lies here.", GET_NAME(ch));
-  pool->description = str_dup(buf2);
+  pool->description = strdup(buf2);
 
   sprintf(buf2, "a pool of %s's blood", GET_NAME(ch));
-  pool->short_description = str_dup(buf2);
+  pool->short_description = strdup(buf2);
 
   GET_OBJ_TYPE(pool) = ITEM_FOUNTAIN;
   GET_OBJ_WEAR(pool) = 0;

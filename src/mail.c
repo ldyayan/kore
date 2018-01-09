@@ -514,9 +514,9 @@ void postmaster_receive_mail(struct char_data * ch, struct char_data *mailman,
   while (has_mail(GET_IDNUM(ch))) {
     obj = create_obj();
     obj->item_number = NOTHING;
-    obj->name = str_dup("mail paper letter");
-    obj->short_description = str_dup("a piece of mail");
-    obj->description = str_dup("Someone has left a piece of mail here.");
+    obj->name = strdup("mail paper letter");
+    obj->short_description = strdup("a piece of mail");
+    obj->description = strdup("Someone has left a piece of mail here.");
 
     GET_OBJ_TYPE(obj) = ITEM_NOTE;
     GET_OBJ_WEAR(obj) = ITEM_WEAR_TAKE | ITEM_WEAR_HOLD;
@@ -527,7 +527,7 @@ void postmaster_receive_mail(struct char_data * ch, struct char_data *mailman,
 
     if (obj->action_description == NULL)
       obj->action_description =
-	str_dup("Mail system error - please report.  Error #11.\r\n");
+	strdup("Mail system error - please report.  Error #11.\r\n");
 
     obj_to_char(obj, ch);
 

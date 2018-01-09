@@ -112,11 +112,11 @@ ACMD(do_brew) {
   }
   
   potion->in_room = NOWHERE;
-  potion->name = str_dup(potion_names[index][2]);
+  potion->name = strdup(potion_names[index][2]);
 
-  potion->description = str_dup(potion_names[index][0]);
+  potion->description = strdup(potion_names[index][0]);
 
-  potion->short_description = str_dup(potion_names[index][1]);
+  potion->short_description = strdup(potion_names[index][1]);
 
   GET_OBJ_VAL(potion, 0) = GET_LEVEL(ch);
   GET_OBJ_VAL(potion, 1) = spellnum;

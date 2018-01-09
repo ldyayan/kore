@@ -1,8 +1,3 @@
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-#include <ctype.h>
-
 #include "structs.h"
 #include "utils.h"
 #include "db.h"

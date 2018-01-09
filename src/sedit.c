@@ -112,13 +112,13 @@ void sedit_setup_new(struct descriptor_data *d)
   S_BUYPROFIT(shop) = 1.0;
   S_SELLPROFIT(shop) = 1.0;
   /*. Some default strings .*/
-  S_NOITEM1(shop) = str_dup("%s Sorry, I don't stock that item.");
-  S_NOITEM2(shop) = str_dup("%s You don't seem to have that.");
-  S_NOCASH1(shop) = str_dup("%s I can't afford that!");
-  S_NOCASH2(shop) = str_dup("%s You are too poor!");
-  S_NOBUY(shop)   = str_dup("%s I don't trade in such items.");
-  S_BUY(shop)     = str_dup("%s That'll be %d coins, thanks.");
-  S_SELL(shop)    = str_dup("%s I'll give you %d coins for that.");
+  S_NOITEM1(shop) = strdup("%s Sorry, I don't stock that item.");
+  S_NOITEM2(shop) = strdup("%s You don't seem to have that.");
+  S_NOCASH1(shop) = strdup("%s I can't afford that!");
+  S_NOCASH2(shop) = strdup("%s You are too poor!");
+  S_NOBUY(shop)   = strdup("%s I don't trade in such items.");
+  S_BUY(shop)     = strdup("%s That'll be %d coins, thanks.");
+  S_SELL(shop)    = strdup("%s I'll give you %d coins for that.");
   /*. Init the lists .*/
   CREATE(S_PRODUCTS(shop), int, 1);
   S_PRODUCT(shop, 0) = -1;
@@ -168,13 +168,13 @@ void copy_shop(struct shop_data *tshop, struct shop_data *fshop)
 
   /*. Copy notification strings over .*/
   free_shop_strings(tshop);
-  S_NOITEM1(tshop) = str_dup(S_NOITEM1(fshop));
-  S_NOITEM2(tshop) = str_dup(S_NOITEM2(fshop));
-  S_NOCASH1(tshop) = str_dup(S_NOCASH1(fshop));
-  S_NOCASH2(tshop) = str_dup(S_NOCASH2(fshop));
-  S_NOBUY(tshop)   = str_dup(S_NOBUY(fshop));
-  S_BUY(tshop)     = str_dup(S_BUY(fshop));
-  S_SELL(tshop)    = str_dup(S_SELL(fshop));
+  S_NOITEM1(tshop) = strdup(S_NOITEM1(fshop));
+  S_NOITEM2(tshop) = strdup(S_NOITEM2(fshop));
+  S_NOCASH1(tshop) = strdup(S_NOCASH1(fshop));
+  S_NOCASH2(tshop) = strdup(S_NOCASH2(fshop));
+  S_NOBUY(tshop)   = strdup(S_NOBUY(fshop));
+  S_BUY(tshop)     = strdup(S_BUY(fshop));
+  S_SELL(tshop)    = strdup(S_SELL(fshop));
 
 }
 
@@ -227,7 +227,7 @@ void copy_type_list(struct shop_buy_data **tlist, struct shop_buy_data *flist)
   do
   { (*tlist)[i].type = flist[i].type;
     if (BUY_WORD(flist[i]))
-      BUY_WORD((*tlist)[i]) = str_dup(BUY_WORD(flist[i]));
+      BUY_WORD((*tlist)[i]) = strdup(BUY_WORD(flist[i]));
     i++;
   } while(i < num_items); 
 }
@@ -417,7 +417,7 @@ void sedit_modify_string(char **str, char *new)
 
    if(*str)
      free(*str);
-   *str = str_dup(pointer);
+   *str = strdup(pointer);
 }
 
 /*-------------------------------------------------------------------*/
@@ -1045,7 +1045,7 @@ void sedit_parse(struct descriptor_data * d, char *arg)
     { struct shop_buy_data new_entry;
       BUY_TYPE(new_entry) = OLC_VAL(d);
       if(*arg)
-        BUY_WORD(new_entry) = str_dup(arg); 
+        BUY_WORD(new_entry) = strdup(arg); 
       else
         BUY_WORD(new_entry) = NULL;
       sedit_add_to_type_list(&(S_NAMELISTS(OLC_SHOP(d))), &new_entry);

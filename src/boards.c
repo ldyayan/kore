@@ -44,14 +44,6 @@ TO ADD A NEW BOARD, simply follow our easy 4-step program:
 
 */
 
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <sys/time.h>
-#include <unistd.h>
-
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"

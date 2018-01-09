@@ -9,10 +9,7 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+#include "circle.h"
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -27,7 +24,6 @@ extern char *spell_wear_off_msg[];
 extern char *spell_dispel_msg[];
 extern struct obj_data *object_list;
 extern struct char_data *character_list;
-extern struct cha_app_type cha_app[];
 extern struct int_app_type int_app[];
 extern struct index_data *obj_index;
 extern struct weather_data weather_info;
@@ -1081,9 +1077,9 @@ ASPELL(spell_portal)
   GET_OBJ_VAL(portal, 0) = world[victim->in_room].number;
   GET_OBJ_TIMER(portal) = (int) (GET_LEVEL(ch) / 10);
   CREATE(new_descr, struct extra_descr_data, 1);
-  new_descr->keyword = str_dup("portal gate gateway");
+  new_descr->keyword = strdup("portal gate gateway");
   sprintf(buf, "You can barely make out %s.\r\n", world[victim->in_room].name);
-  new_descr->description = str_dup(buf);
+  new_descr->description = strdup(buf);
   new_descr->next = portal->ex_description;
   portal->ex_description = new_descr;
   obj_to_room(portal, ch->in_room);
@@ -1097,9 +1093,9 @@ ASPELL(spell_portal)
   GET_OBJ_VAL(tportal, 0) = world[ch->in_room].number;
   GET_OBJ_TIMER(tportal) = (int) (GET_LEVEL(ch) / 10);
   CREATE(new_tdescr, struct extra_descr_data, 1);
-  new_tdescr->keyword = str_dup("portal gate gateway");
+  new_tdescr->keyword = strdup("portal gate gateway");
   sprintf(buf, "You can barely make out %s.\r\n", world[ch->in_room].name);
-  new_tdescr->description = str_dup(buf);
+  new_tdescr->description = strdup(buf);
   new_tdescr->next = tportal->ex_description;
   tportal->ex_description = new_tdescr;
   obj_to_room(tportal, victim->in_room);

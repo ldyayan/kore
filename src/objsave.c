@@ -703,9 +703,9 @@ int Crash_load(struct char_data * ch)
   - memory leak here...just a little one. Make the defualt potion
     text really small?
     
-    obj->name = str_dup(potion_names[index][2]);
-    obj->description = str_dup(potion_names[index][0]);
-    obj->short_description = str_dup(potion_names[index][1]);
+    obj->name = strdup(potion_names[index][2]);
+    obj->description = strdup(potion_names[index][0]);
+    obj->short_description = strdup(potion_names[index][1]);
 #endif    
     /* END of hack */
 

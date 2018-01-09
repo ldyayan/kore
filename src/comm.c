@@ -10,21 +10,6 @@
 
 #define __COMM_C__
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <ctype.h>
-#include <limits.h>
-#include <errno.h>
-#include <sys/types.h>
-#include <sys/socket.h>
-#include <sys/wait.h>
-#include <sys/time.h>
-#include <sys/resource.h>
-#include <netdb.h>
-#include <string.h>
-#include <fcntl.h>
-#include <signal.h>
-#include <netinet/in.h>
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"

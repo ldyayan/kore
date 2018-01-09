@@ -8,17 +8,6 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-/* #include <assert.h> */
-#include <limits.h>
-#include <time.h>
-#include <unistd.h>
-#include <sys/types.h>
-#include <arpa/telnet.h>
-#include <netinet/in.h>
-
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -81,18 +70,19 @@ int MAX(int a, int b)
 }
 
 
-
+#ifndef HAVE_STRDUP
 /* Create a duplicate of a string */
-char *str_dup(const char *source)
+char *strdup(const char *source)
 {
-  char *new;
+  char *new_z;
 
-  CREATE(new, char, strlen(source) + 1);
-  return (strcpy(new, source));
+  CREATE(new_z, char, strlen(source) + 1);
+  return (strcpy(new_z, source)); /* strcpy: OK */
 }
+#endif /* HAVE_STRDUP */
 
 
-
+#ifndef str_cmp
 /* str_cmp: a case-insensitive version of strcmp */
 /* returns: 0 if equal, 1 if arg1 > arg2, -1 if arg1 < arg2  */
 /* scan 'till found different or end of both                 */
@@ -108,8 +98,10 @@ int str_cmp(char *arg1, char *arg2)
 	return (1);
   return (0);
 }
+#endif /* str_cmp */ 
 
 
+#ifndef strn_cmp
 /* strn_cmp: a case-insensitive version of strncmp */
 /* returns: 0 if equal, 1 if arg1 > arg2, -1 if arg1 < arg2  */
 /* scan 'till found different, end of both, or n reached     */
@@ -126,7 +118,7 @@ int strn_cmp(char *arg1, char *arg2, int n)
 
   return (0);
 }
-
+#endif /* strn_cmp */
 
 
 /* log a death trap hit */
@@ -143,7 +135,7 @@ void log_death_trap(struct char_data * ch)
 
 
 /* writes a string to the log */
-void log(char *str)
+void basic_mud_log(char *str)
 {
   time_t ct;
   char *tmstr;

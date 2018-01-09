@@ -11,11 +11,6 @@
 
 #define __INTERPRETER_C__
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-
 #include "structs.h"
 #include "comm.h"
 #include "interpreter.h"
@@ -1104,9 +1099,9 @@ ACMD(do_alias)
       }
       
       CREATE(a, struct alias, 1);
-      a->alias = str_dup(arg);
+      a->alias = strdup(arg);
       delete_doubledollar(repl);
-      a->replacement = str_dup(repl);
+      a->replacement = strdup(repl);
       if (strchr(repl, ALIAS_SEP_CHAR) || strchr(repl, ALIAS_VAR_CHAR))
 	a->type = ALIAS_COMPLEX;
       else
@@ -1966,18 +1961,18 @@ void nanny(struct descriptor_data * d, char *arg)
     break;
 
   case CON_QRACE:
-    if ((GET_RACE(d->character) = parse_race(arg)) == RACE_UNDEFINED) {
+    if ((GET_PC_RACE(d->character) = parse_race(arg)) == RACE_UNDEFINED) {
       SEND_TO_Q("\r\nThat's not a race.\r\nRace: ", d);
       return;
     }
 
 /* HACKED to not let people choose dragons or undead on the connection
   menu, further hacked to not allow Orcs and Trolls. */
-    if ((GET_RACE(d->character) == RACE_DRAGON) ||
-        (GET_RACE(d->character) == RACE_ANGEL) ||
-        (GET_RACE(d->character) == RACE_BUGBEAR) ||
-        (GET_RACE(d->character) == RACE_UNDEAD) ||
-        (GET_RACE(d->character) == RACE_THRIKREEN)) {
+    if ((GET_PC_RACE(d->character) == RACE_DRAGON) ||
+        (GET_PC_RACE(d->character) == RACE_ANGEL) ||
+        (GET_PC_RACE(d->character) == RACE_BUGBEAR) ||
+        (GET_PC_RACE(d->character) == RACE_UNDEAD) ||
+        (GET_PC_RACE(d->character) == RACE_THRIKREEN)) {
       SEND_TO_Q("\r\nVery sneaky, but that is a remort race.\r\nRace: ", d);
       return;
     }

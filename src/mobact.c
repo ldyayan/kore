@@ -263,12 +263,12 @@ void mobile_activity(void)
           goto next_mobile;
         }
       }
-
     }
 
     /* Add new mobile actions here */
 
 next_mobile:			/* this MUST come last */
+    ;
   }				/* end for() */
 }
 

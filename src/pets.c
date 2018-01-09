@@ -42,10 +42,6 @@ Todo:
  *  in various ways, based on their loyalty                               *
  **************************************************************************/
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"

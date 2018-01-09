@@ -411,7 +411,7 @@ void set_title(struct char_data * ch, char *title)
   if (GET_REAL_TITLE(ch) != NULL)
     free(GET_REAL_TITLE(ch));
 
-  GET_REAL_TITLE(ch) = str_dup(title);
+  GET_REAL_TITLE(ch) = strdup(title);
 }
 
 

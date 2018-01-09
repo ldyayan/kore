@@ -103,7 +103,7 @@ void string_add(struct descriptor_data * d, char *str)
     if (STATE(d) == CON_MEDIT)
     {  if (OLC_MOB(d)->player.description)
          free(OLC_MOB(d)->player.description);
-       OLC_MOB(d)->player.description = str_dup(*d->str);
+       OLC_MOB(d)->player.description = strdup(*d->str);
        free (*d->str);
        free (d->str);
        medit_disp_menu(d);
@@ -113,7 +113,7 @@ void string_add(struct descriptor_data * d, char *str)
       case OEDIT_ACTDESC:
       if (OLC_OBJ(d)->action_description)
         free(OLC_OBJ(d)->action_description);
-        OLC_OBJ(d)->action_description = str_dup(*d->str);
+        OLC_OBJ(d)->action_description = strdup(*d->str);
       free (*d->str);
       free (d->str);
       oedit_disp_menu(d);
@@ -121,7 +121,7 @@ void string_add(struct descriptor_data * d, char *str)
       case OEDIT_EXTRADESC_DESCRIPTION:
       if (OLC_DESC(d)->description)
         free(OLC_DESC(d)->description);
-      OLC_DESC(d)->description = str_dup(*d->str);
+      OLC_DESC(d)->description = strdup(*d->str);
       free(*d->str);
       free(d->str);
       oedit_disp_extradesc_menu(d);
@@ -132,7 +132,7 @@ void string_add(struct descriptor_data * d, char *str)
       case REDIT_DESC:
       if (OLC_ROOM(d)->description)
         free(OLC_ROOM(d)->description);
-      OLC_ROOM(d)->description = str_dup(*d->str);
+      OLC_ROOM(d)->description = strdup(*d->str);
       free (*d->str);
       free (d->str);
       redit_disp_menu(d);
@@ -140,7 +140,7 @@ void string_add(struct descriptor_data * d, char *str)
       case REDIT_EXTRADESC_DESCRIPTION:
       if (OLC_DESC(d)->description)
         free (OLC_DESC(d)->description);
-      OLC_DESC(d)->description = str_dup(*d->str);
+      OLC_DESC(d)->description = strdup(*d->str);
       free(*d->str);
       free(d->str);
       redit_disp_extradesc_menu(d);
@@ -148,7 +148,7 @@ void string_add(struct descriptor_data * d, char *str)
       case REDIT_EXIT_DESCRIPTION:
       if (OLC_EXIT(d)->general_description)
         free(OLC_EXIT(d)->general_description);
-      OLC_EXIT(d)->general_description = str_dup(*d->str);
+      OLC_EXIT(d)->general_description = strdup(*d->str);
       free (*d->str);
       free(d->str);
       redit_disp_exit_menu(d);

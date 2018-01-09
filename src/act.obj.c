@@ -8,10 +8,6 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -786,7 +782,7 @@ void name_from_drinkcon(struct obj_data * obj)
   for (i = 0; (*((obj->name) + i) != ' ') && (*((obj->name) + i) != '\0'); i++);
 
   if (*((obj->name) + i) == ' ') {
-    new_name = str_dup((obj->name) + i + 1);
+    new_name = strdup((obj->name) + i + 1);
     if (GET_OBJ_RNUM(obj) < 0 || obj->name != obj_proto[GET_OBJ_RNUM(obj)].name)
       free(obj->name);
     obj->name = new_name;

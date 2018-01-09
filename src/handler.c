@@ -1643,33 +1643,33 @@ struct obj_data *create_money(int amount)
   CREATE(new_descr, struct extra_descr_data, 1);
 
   if (amount == 1) {
-    obj->name = str_dup("coin gold");
-    obj->short_description = str_dup("a gold coin");
-    obj->description = str_dup("One miserable gold coin is lying here.");
-    new_descr->keyword = str_dup("coin gold");
-    new_descr->description = str_dup("It's just one miserable little gold coin.");
+    obj->name = strdup("coin gold");
+    obj->short_description = strdup("a gold coin");
+    obj->description = strdup("One miserable gold coin is lying here.");
+    new_descr->keyword = strdup("coin gold");
+    new_descr->description = strdup("It's just one miserable little gold coin.");
   } else {
-    obj->name = str_dup("coins gold");
-    obj->short_description = str_dup(money_desc(amount));
+    obj->name = strdup("coins gold");
+    obj->short_description = strdup(money_desc(amount));
     sprintf(buf, "%s is lying here.", money_desc(amount));
-    obj->description = str_dup(CAP(buf));
+    obj->description = strdup(CAP(buf));
 
-    new_descr->keyword = str_dup("coins gold");
+    new_descr->keyword = strdup("coins gold");
     if (amount < 10) {
       sprintf(buf, "There are %d coins.", amount);
-      new_descr->description = str_dup(buf);
+      new_descr->description = strdup(buf);
     } else if (amount < 100) {
       sprintf(buf, "There are about %d coins.", 10 * (amount / 10));
-      new_descr->description = str_dup(buf);
+      new_descr->description = strdup(buf);
     } else if (amount < 1000) {
       sprintf(buf, "It looks to be about %d coins.", 100 * (amount / 100));
-      new_descr->description = str_dup(buf);
+      new_descr->description = strdup(buf);
     } else if (amount < 100000) {
       sprintf(buf, "You guess there are, maybe, %d coins.",
 	      1000 * ((amount / 1000) + number(0, (amount / 1000))));
-      new_descr->description = str_dup(buf);
+      new_descr->description = strdup(buf);
     } else
-      new_descr->description = str_dup("There are a LOT of coins.");
+      new_descr->description = strdup("There are a LOT of coins.");
   }
 
   new_descr->next = NULL;

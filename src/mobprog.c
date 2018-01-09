@@ -2483,7 +2483,7 @@ void mprog_act_trigger( char *buf, struct char_data *mob, struct char_data *ch,
       tmp_act->next = NULL;
 
     mob->mpact      = tmp_act;
-    mob->mpact->buf = str_dup( buf );
+    mob->mpact->buf = strdup( buf );
     mob->mpact->ch  = ch; 
     mob->mpact->obj = obj; 
     mob->mpact->vo  = vo; 

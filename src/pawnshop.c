@@ -2,10 +2,6 @@
  ***   A pawn shop where players can sell stuff at a price they set  ***
  ***********************************************************************/
 
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
-
 #include "structs.h"
 #include "db.h"
 #include "interpreter.h"

@@ -1,4 +1,3 @@
-
 /************************************************************************
 *   File: act.offensive.c                               Part of CircleMUD *
 *  Usage: player-level commands of an offensive nature                    *
@@ -8,9 +7,6 @@
 *  Copyright (C) 1993, 94 by the Trustees of the Johns Hopkins University *
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
-
-#include <stdio.h>
-#include <string.h>
 
 #include "structs.h"
 #include "utils.h"
@@ -1300,13 +1296,10 @@ ACMD(do_bash)
         if (IS_AFFECTED(vict, AFF_MIRROR_IMAGE))
         affect_from_char(vict, SPELL_MIRROR_IMAGE);
         GET_IMAGES(vict) = 0;
-        send_to_char("The last of your images disipates, leaving you unprotected.
-\r\n", vict);
-
+        send_to_char("The last of your images disipates, leaving you unprotected.\r\n", vict);
       }
     }
   }
-
 
   percent = number(1, 101);	/* 101% is a complete failure */
   prob = (GET_SKILL(ch, SKILL_BASH));

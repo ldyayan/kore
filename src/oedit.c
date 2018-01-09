@@ -83,9 +83,9 @@ void oedit_setup_new(struct descriptor_data *d)
 {
   CREATE (OLC_OBJ(d), struct obj_data, 1);
   clear_object(OLC_OBJ(d));
-  OLC_OBJ(d)->name = str_dup("unfinished object");
-  OLC_OBJ(d)->description = str_dup("An unfinished object is lying here.");
-  OLC_OBJ(d)->short_description = str_dup("an unfinished object");
+  OLC_OBJ(d)->name = strdup("unfinished object");
+  OLC_OBJ(d)->description = strdup("An unfinished object is lying here.");
+  OLC_OBJ(d)->short_description = strdup("an unfinished object");
   GET_OBJ_WEAR(OLC_OBJ(d)) = ITEM_WEAR_TAKE;
   OLC_VAL(d) = 0;
   oedit_disp_menu(d);
@@ -103,13 +103,13 @@ void oedit_setup_existing(struct descriptor_data *d, int real_num)
  
   /* copy all strings over */
   if (obj_proto[real_num].name)
-    obj->name = str_dup (obj_proto[real_num].name);
+    obj->name = strdup (obj_proto[real_num].name);
   if (obj_proto[real_num].short_description)
-    obj->short_description = str_dup (obj_proto[real_num].short_description);
+    obj->short_description = strdup (obj_proto[real_num].short_description);
   if (obj_proto[real_num].description)
-    obj->description = str_dup (obj_proto[real_num].description);
+    obj->description = strdup (obj_proto[real_num].description);
   if (obj_proto[real_num].action_description)
-    obj->action_description = str_dup (obj_proto[real_num].action_description);
+    obj->action_description = strdup (obj_proto[real_num].action_description);
 
   /*. Extra descriptions if necessary .*/
   if (obj_proto[real_num].ex_description)
@@ -118,9 +118,9 @@ void oedit_setup_existing(struct descriptor_data *d, int real_num)
     obj->ex_description = temp;
     for (this = obj_proto[real_num].ex_description; this; this = this->next)
     { if (this->keyword)
-	temp->keyword = str_dup (this->keyword);
+	temp->keyword = strdup (this->keyword);
       if (this->description)
-	temp->description = str_dup (this->description);
+	temp->description = strdup (this->description);
       if (this->next)
       { CREATE (temp2, struct extra_descr_data, 1);
         temp->next = temp2;
@@ -1112,19 +1112,19 @@ void oedit_parse(struct descriptor_data * d, char *arg)
   case OEDIT_EDIT_NAMELIST:
     if (OLC_OBJ(d)->name)
       free(OLC_OBJ(d)->name);
-    OLC_OBJ(d)->name = str_dup(arg);
+    OLC_OBJ(d)->name = strdup(arg);
     break;
 
   case OEDIT_SHORTDESC:
     if (OLC_OBJ(d)->short_description)
       free(OLC_OBJ(d)->short_description);
-    OLC_OBJ(d)->short_description = str_dup(arg);
+    OLC_OBJ(d)->short_description = strdup(arg);
     break;
 
   case OEDIT_LONGDESC:
     if (OLC_OBJ(d)->description)
       free(OLC_OBJ(d)->description);
-    OLC_OBJ(d)->description = str_dup(arg);
+    OLC_OBJ(d)->description = strdup(arg);
     break;
 
   case OEDIT_TYPE:
@@ -1354,7 +1354,7 @@ void oedit_parse(struct descriptor_data * d, char *arg)
   case OEDIT_EXTRADESC_KEY:
     if (OLC_DESC(d)->keyword)
       free(OLC_DESC(d)->keyword);
-    OLC_DESC(d)->keyword = str_dup(arg);
+    OLC_DESC(d)->keyword = strdup(arg);
     oedit_disp_extradesc_menu(d);
     return;
 

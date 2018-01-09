@@ -1026,7 +1026,7 @@ int read_type_list(FILE * shop_f, struct shop_buy_data * list,
       *(END_OF(ptr) - 1) = 0;
     error += add_to_list(list, LIST_TRADE, &len, &num);
     if (*ptr)
-      BUY_WORD(list[len - 1]) = str_dup(ptr);
+      BUY_WORD(list[len - 1]) = strdup(ptr);
   } while (num >= 0);
   return (end_read_list(list, len, error));
 }

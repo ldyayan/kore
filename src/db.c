@@ -1558,7 +1558,7 @@ void load_zones(FILE * fl, char *zonename)
   line_num += get_line(fl, buf);
   if ((ptr = strchr(buf, '~')) != NULL)	/* take off the '~' if it's there */
     *ptr = '\0';
-  Z.name = str_dup(buf);
+  Z.name = strdup(buf);
 
   line_num += get_line(fl, buf);
   if (sscanf(buf, " %d %d %d %d ", &Z.top, &Z.lifespan, &Z.reset_mode,
@@ -2126,7 +2126,7 @@ void reset_zone(int zone)
       if (mob_index[ZCMD.arg1].number < ZCMD.arg2) {
 	mob = read_mobile(ZCMD.arg1, REAL);
 	char_to_room(mob, ZCMD.arg3);
-	GET_RACE(mob) = get_race_guess(mob);
+	GET_MOB_RACE(mob) = get_race_guess(mob);
 	GET_CLASS(mob) = get_class_guess(mob);
 	mprog_load_trigger(mob);
 	last_cmd = 1;
@@ -2436,8 +2436,8 @@ void store_to_char(struct char_file_u * st, struct char_data * ch)
 
   ch->player.short_descr = NULL;
   ch->player.long_descr = NULL;
-  ch->player.title = str_dup(st->title);
-  ch->player.description = str_dup(st->description);
+  ch->player.title = strdup(st->title);
+  ch->player.description = strdup(st->description);
 
   ch->player.hometown = st->hometown;
   ch->player.time.birth = st->birth;
@@ -2807,7 +2807,7 @@ int file_to_string_alloc(char *name, char **buf)
   if (*buf)
     free(*buf);
 
-  *buf = str_dup(temp);
+  *buf = strdup(temp);
 
   return 0;
 }

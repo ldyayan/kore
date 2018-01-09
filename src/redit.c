@@ -71,8 +71,8 @@ void free_room(struct room_data *room);
 
 void redit_setup_new(struct descriptor_data *d)
 { CREATE(OLC_ROOM(d), struct room_data, 1);
-  OLC_ROOM(d)->name = str_dup("An unfinished room");
-  OLC_ROOM(d)->description = str_dup("You are in an unfinished room.\r\n");
+  OLC_ROOM(d)->name = strdup("An unfinished room");
+  OLC_ROOM(d)->description = strdup("You are in an unfinished room.\r\n");
   redit_disp_menu(d);
   OLC_VAL(d) = 0;
 }
@@ -88,9 +88,9 @@ void redit_setup_existing(struct descriptor_data *d, int real_num)
   *room = world[real_num];
   /* allocate space for all strings  */
   if (world[real_num].name)
-    room->name = str_dup (world[real_num].name);
+    room->name = strdup (world[real_num].name);
   if (world[real_num].description)
-    room->description = str_dup (world[real_num].description);
+    room->description = strdup (world[real_num].description);
 
   /* exits - alloc only if necessary */
   for (counter = 0; counter < NUM_OF_DIRS; counter++)
@@ -101,10 +101,10 @@ void redit_setup_existing(struct descriptor_data *d, int real_num)
       /* malloc strings */
       if (world[real_num].dir_option[counter]->general_description)
         room->dir_option[counter]->general_description =
-          str_dup(world[real_num].dir_option[counter]->general_description);
+          strdup(world[real_num].dir_option[counter]->general_description);
       if (world[real_num].dir_option[counter]->keyword)
         room->dir_option[counter]->keyword =
-          str_dup(world[real_num].dir_option[counter]->keyword);
+          strdup(world[real_num].dir_option[counter]->keyword);
     }
   }
   
@@ -115,9 +115,9 @@ void redit_setup_existing(struct descriptor_data *d, int real_num)
     room->ex_description = temp;
     for (this = world[real_num].ex_description; this; this = this->next)
     { if (this->keyword)
-        temp->keyword = str_dup (this->keyword);
+        temp->keyword = strdup (this->keyword);
       if (this->description)
-        temp->description = str_dup (this->description);
+        temp->description = strdup (this->description);
       if (this->next)
       { CREATE (temp2, struct extra_descr_data, 1);
 	temp->next = temp2;
@@ -797,7 +797,7 @@ void redit_parse(struct descriptor_data * d, char *arg)
       free(OLC_ROOM(d)->name);
     if (strlen(arg) > MAX_ROOM_NAME)
       arg[MAX_ROOM_NAME -1] = 0;
-    OLC_ROOM(d)->name = str_dup(arg);
+    OLC_ROOM(d)->name = strdup(arg);
     break;
   case REDIT_DESC:
     /* we will NEVER get here */
@@ -897,7 +897,7 @@ void redit_parse(struct descriptor_data * d, char *arg)
   case REDIT_EXIT_KEYWORD:
     if (OLC_EXIT(d)->keyword)
       free(OLC_EXIT(d)->keyword);
-    OLC_EXIT(d)->keyword = str_dup(arg);
+    OLC_EXIT(d)->keyword = strdup(arg);
     redit_disp_exit_menu(d);
     return;
 
@@ -928,7 +928,7 @@ void redit_parse(struct descriptor_data * d, char *arg)
     return;
 
   case REDIT_EXTRADESC_KEY:
-    OLC_DESC(d)->keyword = str_dup(arg);
+    OLC_DESC(d)->keyword = strdup(arg);
     redit_disp_extradesc_menu(d);
     return;
 

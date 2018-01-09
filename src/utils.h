@@ -8,16 +8,16 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-
 /* external declarations and prototypes **********************************/
+
+#include "circle.h"
 
 extern struct weather_data weather_info;
 
+#define log basic_mud_log
+
 /* public functions in utils.c */
-char	*str_dup(const char *source);
-int	str_cmp(char *arg1, char *arg2);
-int	strn_cmp(char *arg1, char *arg2, int n);
-void	log(char *str);
+void	basic_mud_log(char *str);
 int	touch(char *path);
 void	mudlog(char *str, char type, sbyte level, byte file);
 void    arealog(char *str, char type, sbyte level, byte file, int area);
@@ -31,6 +31,17 @@ void	sprinttype(int type, char *names[], char *result);
 int	get_line(FILE *fl, char *buf);
 int	get_filename(char *orig_name, char *filename, int mode);
 struct time_info_data age(struct char_data *ch);
+
+/*
+ * Only provide our versions if one isn't in the C library. These macro names
+ * will be defined by sysdep.h if a strcasecmp or stricmp exists.
+ */
+#ifndef str_cmp
+int str_cmp(const char *arg1, const char *arg2);
+#endif
+#ifndef strn_cmp
+int strn_cmp(const char *arg1, const char *arg2, int n);
+#endif
 
 /* undefine MAX and MIN so that our functions are used instead */
 #ifdef MAX
@@ -247,9 +258,9 @@ void	update_pos(struct char_data *victim);
 
 #define GET_PROMPT_STYLE(ch) (PRF_FLAGGED((ch), PRF_MERCPROMPT))
 
-/* #define GET_RACE(ch)	((ch)->player_specials->saved.race) */
-#define GET_RACE(ch)    (IS_NPC(ch) ? (ch)->mob_specials.race \
-                                    : (ch)->player_specials->saved.race)
+#define GET_MOB_RACE(ch)((ch)->mob_specials.race)
+#define GET_PC_RACE(ch)	((ch)->player_specials->saved.race)
+#define GET_RACE(ch)	(IS_NPC(ch) ? GET_MOB_RACE(ch) : GET_PC_RACE(ch))
 #define GET_ARCHFOE(ch) ((ch)->player_specials->saved.archfoe)
 #define GET_BESTKILL(ch) ((ch)->player_specials->saved.bestkill)
 #define GET_ARCHFOERANK(ch) ((ch)->player_specials->saved.archfoerank)
@@ -714,4 +725,6 @@ char	*crypt(const char *key, const char *salt);
 /*
  * having problems with stock assert, replacing it
  */
+#ifndef assert
 #define assert(x)    if ((x) == 0) {fprintf(stderr, "Assertion failed: file %s, line %d\n", __FILE__, __LINE__); exit(1);};
+#endif /* assert */

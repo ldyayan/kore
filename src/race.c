@@ -953,7 +953,11 @@ ACMD(do_speak)
 
   skip_spaces(&argument);
 
-  GET_RACE(ch) = get_race_guess(ch);
+  if (IS_NPC(ch)) {
+    GET_MOB_RACE(ch) = get_race_guess(ch);
+  } else {
+    GET_PC_RACE(ch) = get_race_guess(ch);
+  }
 
   if (GET_RACE(ch) == RACE_UNDEFINED) {
     send_to_char("Sorry, can't tell what language you speak.\r\n", ch);

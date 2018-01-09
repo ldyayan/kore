@@ -1,4 +1,3 @@
-
 /***************************************************************************
  *  Original Diku Mud copyright (C) 1990, 1991 by Sebastian Hammer,        *
  *  Michael Seifert, Hans Henrik St{rfeldt, Tom Madsen, and Katja Nyboe.   *
@@ -27,11 +26,6 @@
  *  such installation can be found in INSTALL.  Enjoy........    N'Atas-Ha *
  ***************************************************************************/
 
-#include <sys/types.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <time.h>
 #include "structs.h"
 #include "db.h"
 #include "utils.h"

@@ -1,4 +1,3 @@
-
 /* ************************************************************************
 *   File: act.movement.c                                Part of CircleMUD *
 *  Usage: movement commands, door handling, & sleep/rest/etc state        *
@@ -8,9 +7,6 @@
 *  Copyright (C) 1993, 94 by the Trustees of the Johns Hopkins University *
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
-
-#include <stdio.h>
-#include <string.h>
 
 #include "structs.h"
 #include "utils.h"

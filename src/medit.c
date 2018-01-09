@@ -79,10 +79,10 @@ void medit_setup_new(struct descriptor_data *d)
   
   GET_MOB_RNUM(mob) = -1;
   /*. default strings .*/
-  GET_ALIAS(mob) = str_dup("mob unfinished");
-  GET_SDESC(mob) = str_dup("the unfinished mob");
-  GET_LDESC(mob) = str_dup("An unfinished mob stands here.\r\n");
-  GET_DDESC(mob) = str_dup("It looks, err, unfinished.\r\n");
+  GET_ALIAS(mob) = strdup("mob unfinished");
+  GET_SDESC(mob) = strdup("the unfinished mob");
+  GET_LDESC(mob) = strdup("An unfinished mob stands here.\r\n");
+  GET_DDESC(mob) = strdup("It looks, err, unfinished.\r\n");
 
   OLC_MOB(d) = mob;
   OLC_VAL(d) = 0;   /*. Has changed flag .*/
@@ -121,16 +121,16 @@ void copy_mobile(struct char_data *tmob, struct char_data *fmob)
  
   /*. Realloc strings .*/
   if (GET_ALIAS(fmob))
-    GET_ALIAS(tmob) = str_dup(GET_ALIAS(fmob));
+    GET_ALIAS(tmob) = strdup(GET_ALIAS(fmob));
 
   if (GET_SDESC(fmob))
-    GET_SDESC(tmob) = str_dup(GET_SDESC(fmob));
+    GET_SDESC(tmob) = strdup(GET_SDESC(fmob));
 
   if (GET_LDESC(fmob))
-    GET_LDESC(tmob) = str_dup(GET_LDESC(fmob));
+    GET_LDESC(tmob) = strdup(GET_LDESC(fmob));
 
   if (GET_DDESC(fmob))
-    GET_DDESC(tmob) = str_dup(GET_DDESC(fmob));
+    GET_DDESC(tmob) = strdup(GET_DDESC(fmob));
 
 }
 
@@ -774,13 +774,13 @@ void medit_parse(struct descriptor_data * d, char *arg)
   case MEDIT_ALIAS:
     if(GET_ALIAS(OLC_MOB(d)))
       free(GET_ALIAS(OLC_MOB(d)));
-    GET_ALIAS(OLC_MOB(d)) = str_dup(arg); 
+    GET_ALIAS(OLC_MOB(d)) = strdup(arg); 
     break;
 /*-------------------------------------------------------------------*/
   case MEDIT_S_DESC:
     if(GET_SDESC(OLC_MOB(d)))
       free(GET_SDESC(OLC_MOB(d)));
-    GET_SDESC(OLC_MOB(d)) = str_dup(arg); 
+    GET_SDESC(OLC_MOB(d)) = strdup(arg); 
     break;
 /*-------------------------------------------------------------------*/
   case MEDIT_L_DESC:
@@ -788,7 +788,7 @@ void medit_parse(struct descriptor_data * d, char *arg)
       free(GET_LDESC(OLC_MOB(d)));
     strcpy(buf, arg);
     strcat(buf, "\r\n");
-    GET_LDESC(OLC_MOB(d)) = str_dup(buf); 
+    GET_LDESC(OLC_MOB(d)) = strdup(buf); 
     break;
 /*-------------------------------------------------------------------*/
   case MEDIT_D_DESC:

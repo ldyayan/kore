@@ -1,4 +1,3 @@
-
 /* ************************************************************************
 *   File: act.wizard.c                                  Part of CircleMUD *
 *  Usage: Player-level god commands and other goodies                     *
@@ -8,13 +7,6 @@
 *  Copyright (C) 1993, 94 by the Trustees of the Johns Hopkins University *
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <sys/time.h>
-#include <sys/types.h>
 
 #include "structs.h"
 #include "utils.h"
@@ -1759,7 +1751,7 @@ ACMD(do_poofset)
   if (!*argument)
     *msg = NULL;
   else
-    *msg = str_dup(argument);
+    *msg = strdup(argument);
 
   send_to_char(OK, ch);
 }
@@ -3148,7 +3140,7 @@ ACMD(do_set)
     if ((i = parse_race(val_arg)) == RACE_UNDEFINED) 
       send_to_char("That is not a race.\r\n", ch);
     else {
-      GET_RACE(vict) = i;
+      GET_PC_RACE(vict) = i;
       send_to_char(OK, ch);
     }
     break;
@@ -3814,7 +3806,7 @@ ACMD(do_rename) {
  */
  
   if (*objfield != original) free(*objfield);
-  *objfield = str_dup(argument);
+  *objfield = strdup(argument);
   
   send_to_char("Done.\r\n", ch);
 }

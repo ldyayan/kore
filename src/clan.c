@@ -5,12 +5,6 @@
  ** and restricted-access rooms.                                     **
  **********************************************************************/
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
-#include <ctype.h>
-
 #include "structs.h"
 #include "db.h"
 #include "utils.h"

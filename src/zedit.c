@@ -6,11 +6,6 @@
 *  Copyright 1996 Harvey Gilpin.                                          *
  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-
 #include "structs.h"
 #include "comm.h"
 #include "utils.h"
@@ -68,7 +63,7 @@ void zedit_setup(struct  descriptor_data *d, int room_num)
   CREATE(zone, struct zone_data, 1);
 
   /*. Copy in zone header info .*/
-  zone->name = str_dup(zone_table[OLC_ZNUM(d)].name);
+  zone->name = strdup(zone_table[OLC_ZNUM(d)].name);
   zone->lifespan = zone_table[OLC_ZNUM(d)].lifespan;
   zone->top = zone_table[OLC_ZNUM(d)].top;
   zone->reset_mode = zone_table[OLC_ZNUM(d)].reset_mode;
@@ -217,7 +212,7 @@ void zedit_new_zone(struct char_data *ch, int vzone_num)
     if(!found)
       if (i > top_of_zone_table || zone_table[i].number > vzone_num)
       { found = 1;
-        new_table[i].name = str_dup("New Zone");
+        new_table[i].name = strdup("New Zone");
         new_table[i].number = vzone_num;
         new_table[i].top = (vzone_num * 100) + 99;
         new_table[i].lifespan = 30;
@@ -360,7 +355,7 @@ void zedit_save_internally(struct descriptor_data *d)
   /*. Finally, if zone headers have been changed, copy over .*/
   if (OLC_ZONE(d)->number)
   { free(zone_table[OLC_ZNUM(d)].name);
-    zone_table[OLC_ZNUM(d)].name 	= str_dup(OLC_ZONE(d)->name);
+    zone_table[OLC_ZNUM(d)].name 	= strdup(OLC_ZONE(d)->name);
     zone_table[OLC_ZNUM(d)].top 	= OLC_ZONE(d)->top;
     zone_table[OLC_ZNUM(d)].reset_mode 	= OLC_ZONE(d)->reset_mode;
     zone_table[OLC_ZNUM(d)].lifespan 	= OLC_ZONE(d)->lifespan;
@@ -1198,7 +1193,7 @@ void zedit_parse(struct descriptor_data * d, char *arg)
   case ZEDIT_ZONE_NAME:
     /*. Add new name and return to main menu .*/
     free(OLC_ZONE(d)->name);
-    OLC_ZONE(d)->name = str_dup(arg);
+    OLC_ZONE(d)->name = strdup(arg);
     OLC_ZONE(d)->number = 1;
     zedit_disp_menu(d);
     break;
