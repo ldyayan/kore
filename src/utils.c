@@ -82,6 +82,27 @@ char *strdup(const char *source)
 #endif /* HAVE_STRDUP */
 
 
+#if !defined(HAVE_STRLCPY)
+/*
+ * A 'strlcpy' function in the same fashion as 'strdup' below.
+ *
+ * This copies up to totalsize - 1 bytes from the source string, placing
+ * them and a trailing NUL into the destination string.
+ *
+ * Returns the total length of the string it tried to copy, not including
+ * the trailing NUL.  So a '>= totalsize' test says it was truncated.
+ * (Note that you may have _expected_ truncation because you only wanted
+ * a few characters from the source string.)
+ */
+size_t strlcpy(char *dest, const char *source, size_t totalsize)
+{
+  strncpy(dest, source, totalsize - 1);
+  dest[totalsize - 1] = '\0';
+  return strlen(source);
+}
+#endif /* HAVE_STRLCPY */
+
+
 #ifndef str_cmp
 /* str_cmp: a case-insensitive version of strcmp */
 /* returns: 0 if equal, 1 if arg1 > arg2, -1 if arg1 < arg2  */
