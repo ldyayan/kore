@@ -19,6 +19,7 @@ __top_builddir__bin_circle_SOURCES=\
 	config.c \
 	constants.c \
 	creation.c \
+	data.c \
 	db.c \
 	dshop.c \
 	fight.c \
