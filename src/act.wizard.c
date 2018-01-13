@@ -19,6 +19,7 @@
 #include "screen.h"
 #include "auction.h"
 #include "olc.h"
+#include "buffer.h"
 
 /*   external vars  */
 extern FILE *player_fl;
@@ -28,7 +29,9 @@ extern struct obj_data *object_list;
 extern struct descriptor_data *descriptor_list;
 extern struct title_type titles[NUM_CLASSES][LVL_IMPL + 1];
 extern int experience_table[LVL_IMPL + 1];
+extern struct char_data *mob_proto;
 extern struct index_data *mob_index;
+extern struct obj_data *obj_proto;
 extern struct index_data *obj_index;
 extern struct int_app_type int_app[36];
 extern struct wis_app_type wis_app[36];
@@ -74,6 +77,9 @@ extern char *connected_types[];
 extern char *color_codes[];
 extern char *mobformats[];
 extern struct player_index_element *player_table;
+
+int real_zone_by_thing(int number);
+char *one_word(char *argument, char *first_arg);
 
 ACMD(do_echo)
 {
@@ -4161,4 +4167,717 @@ ACMD(do_findaff2) {
   }
   if (!found)
     send_to_char("Couldn't find any such thing.\r\n", ch);
+}
+
+#define MSEARCH_USAGE \
+  "Usage: msearch [-k keywords] [-l minlevel[-maxlevel]] [-m mobbits]\r\n" \
+  "               [-p permbits] [-z zone]\r\n"
+
+#define MSEARCH_NONE            (-1)
+#define MSEARCH_KEYWORDS        (0)
+#define MSEARCH_LEVEL           (1)
+#define MSEARCH_MOBBITS         (2)
+#define MSEARCH_PERMBITS        (3)
+#define MSEARCH_ZONE            (4)
+
+/* overflow */
+#define MSEARCH_OVERFLOW       (512)
+
+ACMD(do_msearch) {
+  skip_spaces(&argument);
+  if (*argument == '\0') {
+    send_to_char(MSEARCH_USAGE, ch);
+  } else {
+    size_t count = 0;
+    unsigned long crMobBits = 0;
+    char crKeywords[MAX_INPUT_LENGTH] = {'\0'};
+    int crLevelMin = 1;
+    int crLevelMax = LVL_IMMORT - 1;
+    unsigned long crPermBits = 0;
+    int crZone = NOWHERE;
+    ssize_t lookup = 0;
+    int opt = MSEARCH_NONE;
+
+    while (argument && *argument != '\0') {
+      char word[MAX_INPUT_LENGTH];
+      argument = any_one_arg(argument, word);
+      if (*word == '-') {
+        switch (word[1]) {
+        case 'k':
+        case 'K':
+          opt = MSEARCH_KEYWORDS;
+          break;
+        case 'l':
+        case 'L':
+          opt = MSEARCH_LEVEL;
+          break;
+        case 'm':
+        case 'M':
+          opt = MSEARCH_MOBBITS;
+          break;
+        case 'p':
+        case 'P':
+          opt = MSEARCH_PERMBITS;
+          break;
+        case 'z':
+        case 'Z':
+          opt = MSEARCH_ZONE;
+          break;
+        default:
+          send_to_char(MSEARCH_USAGE, ch);
+          argument = NULL;
+        }
+      } else if (*word != '\0') {
+        switch (opt) {
+        case MSEARCH_NONE:
+          send_to_char(MSEARCH_USAGE, ch);
+          argument = NULL;
+          break;
+        case MSEARCH_KEYWORDS:
+          if (*crKeywords != '\0') {
+            const size_t len = strlen(crKeywords);
+            snprintf(crKeywords + len, sizeof(crKeywords) - len, " ");
+          }
+          do {
+            const size_t len = strlen(crKeywords);
+            snprintf(crKeywords + len, sizeof(crKeywords) - len, "%s", word);
+          } while (0);
+          break;
+        case MSEARCH_LEVEL:
+          lookup = sscanf(word, "%d-%d", &crLevelMin, &crLevelMax);
+          if (lookup == 1) {
+            crLevelMax = crLevelMin;
+          } else if (lookup == 2) {
+            if (crLevelMax < crLevelMin) {
+              lookup = crLevelMax;
+              crLevelMax = crLevelMin;
+              crLevelMin = lookup;
+            }
+          } else {
+            argument = NULL;
+          }
+          opt = MSEARCH_NONE;
+          break;
+        case MSEARCH_MOBBITS:
+          if ((lookup = search_block(word, action_bits, FALSE)) < 0) {
+            send_to_char(MSEARCH_USAGE, ch);
+            argument = NULL;
+          } else {
+            crMobBits |= (1 << lookup);
+          }
+          break;
+        case MSEARCH_PERMBITS:
+          if ((lookup = search_block(word, affected_bits, FALSE)) < 0) {
+            send_to_char(MSEARCH_USAGE, ch);
+            argument = NULL;
+          } else {
+            crPermBits |= (1 << lookup);
+          }
+          break;
+        case MSEARCH_ZONE:
+          lookup = atoi(word);
+          if ((crZone = real_zone(lookup)) == NOWHERE) {
+            send_to_char("There is no such zone.\r\n", ch);
+            argument = NULL;
+          }
+          opt = MSEARCH_NONE;
+          break;
+        }
+      }
+    }
+    if (argument && *argument == '\0') {
+      /* output buffer */
+      char buf[MAX_STRING_LENGTH * 2] = {'\0'};
+      register size_t buflen = 0;
+
+      /* Loop over the object prototypes */
+      register int rMobile = 0;
+      for (rMobile = 0; rMobile <= top_of_mobt; ++rMobile) {
+        const size_t buflenSaved = buflen;
+
+        /* Determine which zone contains mobile */
+        const int zone = real_zone_by_thing(GET_MOB_VNUM(&mob_proto[rMobile]));
+
+        if (*crKeywords != '\0') {
+          bool found = FALSE;
+          register char *curtok = crKeywords;
+          while (!found && curtok && *curtok != '\0') {
+            char keyword[MAX_INPUT_LENGTH] = {'\0'};
+            curtok = one_word(curtok, keyword);
+            if (*keyword) {
+              if (isname(keyword, mob_proto[rMobile].player.name))
+                found = TRUE;
+              if (isname(keyword, mob_proto[rMobile].player.description))
+                found = TRUE;
+              if (isname(keyword, mob_proto[rMobile].player.short_descr))
+                found = TRUE;
+              if (isname(keyword, mob_proto[rMobile].player.long_descr))
+                found = TRUE;
+            }
+          }
+          if (!found)
+            continue;
+        }
+        if (GET_LEVEL(&mob_proto[rMobile]) < crLevelMin)
+          continue;
+        if (GET_LEVEL(&mob_proto[rMobile]) > crLevelMax)
+          continue;
+        if (crMobBits && MOB_FLAGGED(&mob_proto[rMobile], crMobBits) == 0)
+          continue;
+        if (crPermBits && AFF_FLAGGED(&mob_proto[rMobile], crPermBits) == 0)
+          continue;
+        if (crZone != NOWHERE && zone != crZone)
+          continue;
+
+        if (buflen == 0) {
+          BPrintf(buf, sizeof(buf) - MSEARCH_OVERFLOW, buflen,
+              "%s[X]-------------------------------------------------------------------------[X]%s\r\n"
+              "%s|X|   %sVnum %sLvl  %sName                                                        %s|X|%s\r\n"
+              "%s|X| ------ --- ------------------------------------------------------------ |X|%s\r\n",
+              CCYEL(ch), CCNRM(ch),
+              CCYEL(ch), CCWHT(ch), CCCYN(ch), CCWHT(ch), CCYEL(ch), CCNRM(ch),
+              CCYEL(ch), CCNRM(ch));
+        }
+
+        /* Format the item data to the buffer */
+        BPrintf(buf, sizeof(buf) - MSEARCH_OVERFLOW, buflen,
+            "%s|X| %s%6d %s%3d  %s%-59.59s %s|X|%s\r\n",
+            CCYEL(ch),
+            CCWHT(ch), GET_MOB_VNUM(&mob_proto[rMobile]),
+            CCCYN(ch), GET_LEVEL(&mob_proto[rMobile]),
+            CCWHT(ch), mob_proto[rMobile].player.short_descr,
+            CCYEL(ch), CCNRM(ch));
+
+        if (buflen == buflenSaved) {
+          /* Overflow message instead */
+          BPrintf(buf, sizeof(buf), buflen,
+              "%s|X| %s%-71.71s %s|X|%s\r\n",
+              CCYEL(ch),
+              CCRED(ch), "*OVERFLOW*",
+              CCYEL(ch), CCNRM(ch));
+
+          break;
+        }
+
+        ++count;
+      }
+
+      if (buflen == 0) {
+        send_to_char("No mobiles were found.\r\n", ch);
+      } else {
+        /* format the number of results */
+        char tbuf[MAX_INPUT_LENGTH] = {'\0'};
+        snprintf(tbuf, sizeof(tbuf), "%zu mobile%s shown.", count, count != 1 ? "s" : "");
+
+        /* search results footer */
+        BPrintf(buf, sizeof(buf), buflen,
+            "%s|X| ----------------------------------------------------------------------- |X|%s\r\n"
+            "%s|X| %s%-71.71s %s|X|%s\r\n"
+            "%s[X]-------------------------------------------------------------------------[X]%s\r\n",
+            CCYEL(ch), CCNRM(ch),
+            CCYEL(ch), CCWHT(ch), CAP(tbuf), CCYEL(ch), CCNRM(ch),
+            CCYEL(ch), CCNRM(ch));
+
+        /* Page the string to the player */
+        page_string(ch->desc, buf, TRUE);
+      }
+    }
+  }
+}
+
+
+#define OSEARCH_USAGE \
+  "Usage: osearch [-a apply] [-k keywords] [-t type] [-p permbits]\r\n" \
+  "               [-w wearbits] [-x extrabits] [-z zone]\r\n"
+
+#define OSEARCH_NONE            (-1)
+#define OSEARCH_APPLY           (0)
+#define OSEARCH_KEYWORDS        (1)
+#define OSEARCH_TYPE            (2)
+#define OSEARCH_PERMBITS        (3)
+#define OSEARCH_WEARBITS        (4)
+#define OSEARCH_EXTRABITS       (5)
+#define OSEARCH_ZONE            (6)
+
+/* overflow */
+#define OSEARCH_OVERFLOW       (512)
+
+ACMD(do_osearch) {
+  skip_spaces(&argument);
+  if (*argument == '\0') {
+    send_to_char(OSEARCH_USAGE, ch);
+  } else {
+    size_t count = 0;
+    int crApply = APPLY_NONE;
+    unsigned long crExtraBits = 0;
+    char crKeywords[MAX_INPUT_LENGTH] = {'\0'};
+    int crLevelMax = LVL_IMMORT - 1;
+    int crLevelMin = 1;
+    unsigned long crPermBits = 0;
+    int crItemType = -1;
+    unsigned long crWearBits = 0;
+    int crZone = NOWHERE;
+    ssize_t lookup = 0;
+    int opt = OSEARCH_NONE;
+
+    while (argument && *argument != '\0') {
+      char word[MAX_INPUT_LENGTH];
+      argument = any_one_arg(argument, word);
+      if (*word == '-') {
+        switch (word[1]) {
+        case 'a':
+        case 'A':
+          opt = OSEARCH_APPLY;
+          break;
+        case 'k':
+        case 'K':
+          opt = OSEARCH_KEYWORDS;
+          break;
+        case 'p':
+        case 'P':
+          opt = OSEARCH_PERMBITS;
+          break;
+        case 't':
+        case 'T':
+          opt = OSEARCH_TYPE;
+          break;
+        case 'w':
+        case 'W':
+          opt = OSEARCH_WEARBITS;
+          break;
+        case 'x':
+        case 'X':
+          opt = OSEARCH_EXTRABITS;
+          break;
+        case 'z':
+        case 'Z':
+          opt = OSEARCH_ZONE;
+          break;
+        default:
+          send_to_char(OSEARCH_USAGE, ch);
+          argument = NULL;
+        }
+      } else if (*word != '\0') {
+        switch (opt) {
+        case OSEARCH_NONE:
+          send_to_char(OSEARCH_USAGE, ch);
+          argument = NULL;
+          break;
+        case OSEARCH_APPLY:
+          if ((lookup = search_block(word, apply_types, FALSE)) < 0) {
+            send_to_char("No such apply.\r\n", ch);
+            argument = NULL;
+          } else {
+            crApply = lookup;
+          }
+          opt = OSEARCH_NONE;
+          break;
+        case OSEARCH_EXTRABITS:
+          if ((lookup = search_block(word, extra_bits, FALSE)) < 0) {
+            send_to_char(OSEARCH_USAGE, ch);
+            argument = NULL;
+          } else {
+            crExtraBits |= (1 << lookup);
+          }
+          break;
+        case OSEARCH_KEYWORDS:
+          if (*crKeywords != '\0') {
+            const size_t len = strlen(crKeywords);
+            snprintf(crKeywords + len, sizeof(crKeywords) - len, " ");
+          }
+          do {
+            const size_t len = strlen(crKeywords);
+            snprintf(crKeywords + len, sizeof(crKeywords) - len, "%s", word);
+          } while (0);
+          break;
+        case OSEARCH_PERMBITS:
+          if ((lookup = search_block(word, affected_bits, FALSE)) < 0) {
+            send_to_char(OSEARCH_USAGE, ch);
+            argument = NULL;
+          } else {
+            crPermBits |= (1 << lookup);
+          }
+          break;
+        case OSEARCH_TYPE:
+          if ((lookup = search_block(word, item_types, FALSE)) < 0) {
+            send_to_char("There is no such item type.\r\n", ch);
+            argument = NULL;
+          } else {
+            crItemType = lookup;
+            opt = OSEARCH_NONE;
+          }
+          break;
+        case OSEARCH_WEARBITS:
+          if ((lookup = search_block(word, wear_bits, FALSE)) < 0) {
+            send_to_char(OSEARCH_USAGE, ch);
+            argument = NULL;
+          } else {
+            crWearBits |= (1 << lookup);
+          }
+          break;
+        case OSEARCH_ZONE:
+          lookup = atoi(word);
+          if ((crZone = real_zone(lookup)) == NOWHERE) {
+            send_to_char("There is no such zone.\r\n", ch);
+            argument = NULL;
+          }
+	  opt = OSEARCH_NONE;
+          break;
+        }
+      }
+    }
+    if (argument && *argument == '\0') {
+      /* output buffer */
+      char buf[MAX_STRING_LENGTH * 2] = {'\0'};
+      register size_t buflen = 0;
+
+      /* Loop over the object prototypes */
+      register int rObject = 0;
+      for (rObject = 0; rObject <= top_of_objt; ++rObject) {
+        const size_t buflenSaved = buflen;
+        char bits[MAX_INPUT_LENGTH];
+
+        /* Determine which zone contains object */
+        const int zone = real_zone_by_thing(GET_OBJ_VNUM(&obj_proto[rObject]));
+
+        if (crApply != APPLY_NONE) {
+          register size_t j = (size_t) 0;
+          for (j = 0; j < MAX_OBJ_AFFECT; ++j) {
+            if (obj_proto[rObject].affected[j].location == crApply)
+              break;
+          }
+          if (j == MAX_OBJ_AFFECT)
+            continue;
+        }
+        if (crExtraBits && OBJ_FLAGGED(&obj_proto[rObject], crExtraBits) == 0)
+          continue;
+        if (*crKeywords != '\0') {
+          bool found = FALSE;
+          register char *curtok = crKeywords;
+          while (!found && curtok && *curtok != '\0') {
+            char keyword[MAX_INPUT_LENGTH] = {'\0'};
+            curtok = one_word(curtok, keyword);
+            if (*keyword) {
+              if (isname(keyword, obj_proto[rObject].name))
+                found = TRUE;
+              if (isname(keyword, obj_proto[rObject].action_description))
+                found = TRUE;
+              if (isname(keyword, obj_proto[rObject].description))
+                found = TRUE;
+              if (isname(keyword, obj_proto[rObject].short_description))
+                found = TRUE;
+            }
+          }
+          if (!found)
+            continue;
+        }
+        if (crPermBits && OBJAFF_FLAGGED(&obj_proto[rObject], crPermBits) == 0)
+          continue;
+        if (crItemType != -1 && GET_OBJ_TYPE(&obj_proto[rObject]) != crItemType)
+          continue;
+        if (crWearBits && OBJWEAR_FLAGGED(&obj_proto[rObject], crWearBits) == 0)
+          continue;
+        if (crZone != NOWHERE && zone != crZone)
+          continue;
+        if (buflen == 0) {
+          BPrintf(buf, sizeof(buf) - OSEARCH_OVERFLOW, buflen,
+              "%s[X]-------------------------------------------------------------------------[X]%s\r\n"
+              "%s|X|   %sVnum %sType          %sName                                               %s|X|%s\r\n"
+              "%s|X| ------ ------------- -------------------------------------------------- |X|%s\r\n",
+              CCYEL(ch), CCNRM(ch),
+              CCYEL(ch), CCWHT(ch), CCMAG(ch), CCWHT(ch), CCYEL(ch), CCNRM(ch),
+              CCYEL(ch), CCNRM(ch));
+        }
+        /* Format the type of item */
+        sprinttype(GET_OBJ_TYPE(&obj_proto[rObject]), item_types, bits);
+
+	/* Object name */
+	char objname[MAX_INPUT_LENGTH] = {'\0'};
+	strlcpy(objname, IF_STR(obj_proto[rObject].short_description), sizeof(objname));
+	strip_color(objname);
+	register size_t objnamelen = strlen(objname);
+
+	/* Basic object information */
+	switch (GET_OBJ_TYPE(&obj_proto[rObject])) {
+	case ITEM_ARMOR:
+	  BPrintf(objname, sizeof(objname), objnamelen, " (%dac)",
+		GET_OBJ_VAL(&obj_proto[rObject], 0));
+	  break;
+	case ITEM_FIREWEAPON:
+	case ITEM_WEAPON:
+	  BPrintf(objname, sizeof(objname), objnamelen, " (%dd%d)",
+		GET_OBJ_VAL(&obj_proto[rObject], 1),
+		GET_OBJ_VAL(&obj_proto[rObject], 2));
+	  break;
+	}
+
+	/* Object effects */
+	register size_t k = 0;
+	for (k = 0; k < MAX_OBJ_AFFECT; ++k) {
+	  if (obj_proto[rObject].affected[k].location == APPLY_NONE)
+	    continue;
+	  if (obj_proto[rObject].affected[k].modifier == 0)
+	    continue;
+	  char applyname[MAX_INPUT_LENGTH] = {'\0'};
+	  sprinttype(obj_proto[rObject].affected[k].location, apply_types, applyname);
+	  BPrintf(objname, sizeof(objname), objnamelen, " %+d %s",
+		obj_proto[rObject].affected[k].modifier,
+		applyname);
+	}
+
+        /* Format the item data to the buffer */
+        BPrintf(buf, sizeof(buf) - OSEARCH_OVERFLOW, buflen,
+            "%s|X| %s%6d %s%-13.13s %s%-50.50s %s|X|%s\r\n",
+            CCYEL(ch),
+            CCWHT(ch), GET_OBJ_VNUM(&obj_proto[rObject]),
+            CCMAG(ch), bits,
+            CCWHT(ch), *objname != '\0' ? objname : "<Undefined>",
+            CCYEL(ch), CCNRM(ch));
+
+        if (buflen == buflenSaved) {
+          /* Overflow message instead */
+          BPrintf(buf, sizeof(buf), buflen,
+              "%s|X| %s%-71.71s %s|X|%s\r\n",
+              CCYEL(ch),
+              CCRED(ch), "*OVERFLOW*",
+              CCYEL(ch), CCNRM(ch));
+
+          break;
+        }
+        ++count;
+      }
+
+      if (buflen == 0) {
+        send_to_char("No objects were found.\r\n", ch);
+      } else {
+        /* format the number of results */
+        char tbuf[MAX_INPUT_LENGTH] = {'\0'};
+        snprintf(tbuf, sizeof(tbuf), "%zu object%s shown.", count, count != 1 ? "s" : "");
+
+        /* search results footer */
+        BPrintf(buf, sizeof(buf), buflen,
+		"%s|X| ----------------------------------------------------------------------- |X|%s\r\n"
+		"%s|X| %s%-71.71s %s|X|%s\r\n"
+		"%s[X]-------------------------------------------------------------------------[X]%s\r\n",
+		CCYEL(ch), CCNRM(ch),
+		CCYEL(ch), CCWHT(ch), CAP(tbuf), CCYEL(ch), CCNRM(ch),
+		CCYEL(ch), CCNRM(ch));
+
+        /* Page the string to the player */
+        page_string(ch->desc, buf, TRUE);
+      }
+    }
+  }
+}
+
+
+#define RSEARCH_USAGE \
+  "Usage: rsearch [-k keywords] [-l linkage] [-r roombits]\r\n" \
+  "               [-s sector] [-z zone]\r\n"
+
+#define RSEARCH_NONE            (-1)
+#define RSEARCH_KEYWORDS        (0)
+#define RSEARCH_LINKAGE         (1)
+#define RSEARCH_ROOMBITS        (2)
+#define RSEARCH_SECTOR          (3)
+#define RSEARCH_ZONE            (4)
+
+/* overflow */
+#define RSEARCH_OVERFLOW       (512)
+
+ACMD(do_rsearch) {
+  skip_spaces(&argument);
+  if (*argument == '\0') {
+    send_to_char(RSEARCH_USAGE, ch);
+  } else {
+    size_t count = 0;
+    int crLinkage = NOWHERE;
+    unsigned long crRoomBits = 0;
+    int crSector = -1;
+    char crKeywords[MAX_INPUT_LENGTH] = {'\0'};
+    int crZone = NOWHERE;
+    ssize_t lookup = 0;
+    int opt = RSEARCH_NONE;
+
+    while (argument && *argument != '\0') {
+      char word[MAX_INPUT_LENGTH] = {'\0'};
+      argument = any_one_arg(argument, word);
+      if (*word == '-') {
+        switch (*(word + 1)) {
+        case 'k':
+        case 'K':
+          opt = RSEARCH_KEYWORDS;
+          break;
+        case 'l':
+        case 'L':
+          opt = RSEARCH_LINKAGE;
+          break;
+        case 'r':
+        case 'R':
+          opt = RSEARCH_ROOMBITS;
+          break;
+        case 's':
+        case 'S':
+          opt = RSEARCH_SECTOR;
+          break;
+        case 'z':
+        case 'Z':
+          opt = RSEARCH_ZONE;
+          break;
+        default:
+          send_to_char(RSEARCH_USAGE, ch);
+          argument = NULL;
+        }
+      } else if (*word != '\0') {
+        switch (opt) {
+        case RSEARCH_NONE:
+          send_to_char(RSEARCH_USAGE, ch);
+          argument = NULL;
+          break;
+        case RSEARCH_KEYWORDS:
+          if (*crKeywords != '\0') {
+            const size_t len = strlen(crKeywords);
+            snprintf(crKeywords + len, sizeof(crKeywords) - len, " ");
+          }
+          do {
+            const size_t len = strlen(crKeywords);
+            snprintf(crKeywords + len, sizeof(crKeywords) - len, "%s", word);
+          } while (0);
+          break;
+        case RSEARCH_LINKAGE:
+          lookup = atoi(word);
+          if (real_room(lookup) == NOWHERE) {
+            send_to_char("There is no such room.\r\n", ch);
+            argument = NULL;
+          }
+          crLinkage = lookup;
+          opt = RSEARCH_NONE;
+          break;
+        case RSEARCH_ROOMBITS:
+          if ((lookup = search_block(word, room_bits, FALSE)) < 0) {
+            send_to_char(RSEARCH_USAGE, ch);
+            argument = NULL;
+          } else {
+            crRoomBits |= (1 << lookup);
+          }
+          break;
+        case RSEARCH_SECTOR:
+          if ((lookup = search_block(word, sector_types, FALSE)) < 0) {
+            send_to_char("No such sector type.\r\n", ch);
+            argument = NULL;
+          } else {
+            crSector = lookup;
+          }
+          opt = RSEARCH_NONE;
+          break;
+        case RSEARCH_ZONE:
+          lookup = atoi(word);
+          if ((crZone = real_zone(lookup)) == NOWHERE) {
+            send_to_char("There is no such zone.\r\n", ch);
+            argument = NULL;
+          }
+          opt = RSEARCH_NONE;
+          break;
+        }
+      }
+    }
+    if (argument && *argument == '\0') {
+      /* output buffer */
+      char buf[MAX_STRING_LENGTH * 2] = {'\0'};
+      register size_t buflen = 0;
+
+      /* Loop over the rooms */
+      register int rRoom = 0;
+      for (rRoom = 0; rRoom <= top_of_world; ++rRoom) {
+        const size_t buflenSaved = buflen;
+        char bits[MAX_INPUT_LENGTH];
+        if (crLinkage != NOWHERE) {
+          register size_t door = (size_t) 0;
+          for (door = 0; door < NUM_OF_DIRS; ++door) {
+            if (REXIT(rRoom, door) &&
+		REXIT(rRoom, door)->to_room != NOWHERE &&
+                world[REXIT(rRoom, door)->to_room].number == crLinkage) {
+              break;
+            }
+          }
+          if (door == NUM_OF_DIRS)
+            continue;
+        }
+        if (*crKeywords != '\0') {
+          bool found = FALSE;
+          register char *curtok = crKeywords;
+          while (!found && curtok && *curtok != '\0') {
+            char keyword[MAX_INPUT_LENGTH];
+            curtok = one_word(curtok, keyword);
+            if (*keyword) {
+              if (isname(keyword, world[rRoom].name))
+                found = TRUE;
+              if (isname(keyword, world[rRoom].description))
+                found = TRUE;
+            }
+          }
+          if (found == FALSE)
+            continue;
+        }
+        if (crRoomBits && ROOM_FLAGGED(rRoom, crRoomBits) == 0)
+          continue;
+        if (crSector != -1 && world[rRoom].sector_type != crSector)
+          continue;
+        if (crZone != NOWHERE && world[rRoom].zone != crZone)
+          continue;
+        if (buflen == 0) {
+          BPrintf(buf, sizeof(buf) - RSEARCH_OVERFLOW, buflen,
+              "%s[X]-------------------------------------------------------------------------[X]%s\r\n"
+              "%s|X|   %sVnum %sSector      %sName                                                 %s|X|%s\r\n"
+              "%s|X| ------ ----------- ---------------------------------------------------- |X|%s\r\n",
+              CCYEL(ch), CCNRM(ch),
+              CCYEL(ch), CCWHT(ch), CCCYN(ch), CCWHT(ch), CCYEL(ch), CCNRM(ch),
+              CCYEL(ch), CCNRM(ch));
+        }
+        /* Format the room sector */
+        sprinttype(world[rRoom].sector_type, sector_types, bits);
+
+        /* Format the room data to the buffer */
+        BPrintf(buf, sizeof(buf) - RSEARCH_OVERFLOW, buflen,
+            "%s|X| %s%6d %s%-11.11s %s%-52.52s %s|X|%s\r\n",
+            CCYEL(ch),
+            CCWHT(ch), world[rRoom].number,
+            CCCYN(ch), bits,
+            CCWHT(ch), world[rRoom].name,
+            CCYEL(ch), CCNRM(ch));
+
+       if (buflen == buflenSaved) {
+         /* Overflow message instead */
+         BPrintf(buf, sizeof(buf), buflen,
+		"%s|X| %s%-71.71s %s|X|%s\r\n",
+		CCYEL(ch),
+		CCRED(ch), "*OVERFLOW*",
+		CCYEL(ch), CCNRM(ch));
+
+	  break;
+	}
+	count++;
+      }
+
+      if (buflen == 0) {
+	send_to_char("No rooms were found.\r\n", ch);
+      } else {
+	/* format the number of results */
+	char tbuf[MAX_INPUT_LENGTH] = {'\0'};
+	snprintf(tbuf, sizeof(tbuf), "%zu room%s shown.", count, count != 1 ? "s" : "");
+
+	/* search results footer */
+	BPrintf(buf, sizeof(buf), buflen,
+		"%s|X| ----------------------------------------------------------------------- |X|%s\r\n"
+		"%s|X| %s%-71.71s %s|X|%s\r\n"
+		"%s[X]-------------------------------------------------------------------------[X]%s\r\n",
+		CCYEL(ch), CCNRM(ch),
+		CCYEL(ch), CCWHT(ch), CAP(tbuf), CCYEL(ch), CCNRM(ch),
+		CCYEL(ch), CCNRM(ch));
+
+	/* Page the string to the player */
+	page_string(ch->desc, buf, TRUE);
+      }
+    }
+  }
 }

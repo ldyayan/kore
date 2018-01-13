@@ -3077,6 +3077,29 @@ int real_object(int virtual)
   }
 }
 
+
+int real_zone(int virtual)
+{
+  int bot, top, mid;
+
+  bot = 0;
+  top = top_of_zone_table;
+
+  /* perform binary search on obj-table */
+  for (;;) {
+    mid = (bot + top) / 2;
+
+    if ((zone_table + mid)->number == virtual)
+      return (mid);
+    if (bot >= top)
+      return (-1);
+    if ((zone_table + mid)->number > virtual)
+      top = mid - 1;
+    else
+      bot = mid + 1;
+  }
+}
+
 /* the functions */
 
 /* This routine transfers between alpha and numeric forms of the

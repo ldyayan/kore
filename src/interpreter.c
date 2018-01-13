@@ -193,6 +193,7 @@ ACMD(do_make);
 ACMD(do_map);
 ACMD(do_mount);
 ACMD(do_move);
+ACMD(do_msearch);
 ACMD(do_music);
 ACMD(do_newbie);
 ACMD(do_newwho);
@@ -203,6 +204,7 @@ ACMD(do_open);
 ACMD(do_olc);
 ACMD(do_opstat);
 ACMD(do_order);
+ACMD(do_osearch);
 ACMD(do_page);
 ACMD(do_palm);
 ACMD(do_pawnremove);
@@ -243,6 +245,7 @@ ACMD(do_restore);
 ACMD(do_return);
 ACMD(do_riposte);
 ACMD(do_romscore);
+ACMD(do_rsearch);
 ACMD(do_sacrifice);
 ACMD(do_save);
 ACMD(do_save_rooms);
@@ -576,6 +579,7 @@ const struct command_info cmd_info[] = {
   { "make"     , POS_RESTING , do_make     , LVL_IMPL, 0 },
   { "map"      , POS_RESTING , do_map      , 0, 0 },
   { "mount"    , POS_STANDING, do_mount    , 59, 0 },
+  { "msearch"  , POS_DEAD    , do_msearch  , LVL_BUILDER, 0 },
   { "music"    , POS_RESTING , do_music    , 0, 0 },
   { "mute"     , POS_DEAD    , do_wizutil  , LVL_LGOD, SCMD_SQUELCH },
   { "murder"   , POS_FIGHTING, do_hit      , 0, SCMD_MURDER },
@@ -601,6 +605,7 @@ const struct command_info cmd_info[] = {
   { "offer"    , POS_STANDING, do_not_here , 0, 0 },
   { "open"     , POS_RESTING , do_open     , 0, 0 },
   { "opstat"   , POS_DEAD    , do_opstat   , LVL_IMMORT, 0 },
+  { "osearch"  , POS_DEAD    , do_osearch  , LVL_BUILDER, 0 },
 
   { "put"      , POS_RESTING , do_put      , 0, 0 },
   { "page"     , POS_DEAD    , do_page     , LVL_IMMORT, 0 },
@@ -655,6 +660,7 @@ const struct command_info cmd_info[] = {
   { "return"   , POS_DEAD    , do_return   , 0, 0 },
   { "riposte"  , POS_FIGHTING, do_riposte  , 0, 0 },
   { "roomflags", POS_DEAD    , do_gen_tog  , LVL_IMMORT, SCMD_ROOMFLAGS },
+  { "rsearch"  , POS_DEAD    , do_rsearch  , LVL_BUILDER, 0 },
 
   { "say"      , POS_RESTING , do_say      , 0, 0 },
   { "'"        , POS_RESTING , do_say      , 0, 0 },
@@ -1273,19 +1279,18 @@ int search_block(char *arg, char **list, bool exact)
   register int i, l;
 
   /* Make into lower case, and get length of string */
-  for (l = 0; *(arg + l); l++)
-    *(arg + l) = LOWER(*(arg + l));
+  l = strlen(arg);
 
   if (exact) {
     for (i = 0; **(list + i) != '\n'; i++)
-      if (!strcmp(arg, *(list + i)))
+      if (!str_cmp(arg, *(list + i)))
 	return (i);
   } else {
     if (!l)
       l = 1;			/* Avoid "" to match the first available
 				 * string */
     for (i = 0; **(list + i) != '\n'; i++)
-      if (!strncmp(arg, *(list + i), l))
+      if (!strn_cmp(arg, *(list + i), l))
 	return (i);
   }
 

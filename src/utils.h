@@ -189,6 +189,7 @@ void	update_pos(struct char_data *victim);
 #define AFF_FLAGS(ch) ((ch)->char_specials.saved.affected_by)
 #define AFF2_FLAGS(ch) ((ch)->char_specials.saved.affected_by2)
 #define ROOM_FLAGS(loc) (world[(loc)].room_flags)
+#define SPELL_ROUTINES(spl)	(spell_info[spl].routines)
 
 #define IS_NPC(ch)  (IS_SET(MOB_FLAGS(ch), MOB_ISNPC))
 #define IS_MOB(ch)  (IS_NPC(ch) && ((ch)->nr >-1))
@@ -201,6 +202,13 @@ void	update_pos(struct char_data *victim);
 #define PRF2_FLAGGED(ch, flag) (IS_SET(PRF2_FLAGS(ch), (flag)))
 #define ROOM_FLAGGED(loc, flag) (IS_SET(ROOM_FLAGS(loc), (flag)))
 #define ZONE_FLAGGED(loc, flag) (IS_SET(zone_table[world[(loc)].zone].zone_flags, (flag)))
+
+#define EXIT_FLAGGED(exit, flag) (IS_SET((exit)->exit_info, (flag)))
+#define OBJAFF_FLAGGED(obj, flag) (IS_SET(GET_OBJ_AFFECT(obj), (flag)))
+#define OBJVAL_FLAGGED(obj, flag) (IS_SET(GET_OBJ_VAL((obj), 1), (flag)))
+#define OBJWEAR_FLAGGED(obj, flag) (IS_SET(GET_OBJ_WEAR(obj), (flag)))
+#define OBJ_FLAGGED(obj, flag) (IS_SET(GET_OBJ_EXTRA(obj), (flag)))
+#define HAS_SPELL_ROUTINE(spl, flag) (IS_SET(SPELL_ROUTINES(spl), (flag)))
 
 /* IS_AFFECTED for backwards compatibility */
 #define IS_AFFECTED(ch, skill) (AFF_FLAGGED((ch), (skill)))
@@ -404,6 +412,7 @@ void	update_pos(struct char_data *victim);
 #define GET_OBJ_TYPE(obj)	((obj)->obj_flags.type_flag)
 #define GET_OBJ_COST(obj)	((obj)->obj_flags.cost)
 #define GET_OBJ_RENT(obj)	((obj)->obj_flags.cost_per_day)
+#define GET_OBJ_AFFECT(obj)	((obj)->obj_flags.bitvector)
 #define GET_OBJ_EXTRA(obj)	((obj)->obj_flags.extra_flags)
 #define GET_OBJ_WEAR(obj)	((obj)->obj_flags.wear_flags)
 #define GET_OBJ_VAL(obj, val)	((obj)->obj_flags.value[(val)])
@@ -484,7 +493,8 @@ void	update_pos(struct char_data *victim);
 	fname((obj)->name) : "something")
 
 
-#define EXIT(ch, door)  (world[(ch)->in_room].dir_option[door])
+#define REXIT(room, door)	(world[(room)].dir_option[(door)])
+#define EXIT(ch, door)		(world[(ch)->in_room].dir_option[door])
 
 #define CAN_GO(ch, door) (EXIT(ch,door) && \
 			 (EXIT(ch,door)->to_room != NOWHERE) && \

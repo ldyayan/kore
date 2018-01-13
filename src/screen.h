@@ -192,3 +192,4 @@
 
 /* function prototypes */
 void fix_color_stack(struct char_data * ch);
+void strip_color(char *instr);

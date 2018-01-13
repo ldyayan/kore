@@ -69,6 +69,7 @@ void	boot_db(void);
 int	create_entry(char *name);
 void	zone_update(void);
 int	real_room(int virtual);
+int	real_zone(int virtual);
 char	*fread_string(FILE *fl, char *error);
 long	get_id_by_name(char *name);
 char	*get_name_by_id(long id);

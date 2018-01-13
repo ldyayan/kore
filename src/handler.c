@@ -65,32 +65,20 @@ char *fname(char *namelist)
 
 
 
-/*
- * this version of isname is based on code by Zigg
- * his code however has a flaw (which i fixed):
- * in zigg's code    tell mandrax hi   would tell man hi (a zombie usually)
- * problem!  mandrax is a player and the curtok is smaller yet matches
- * the strlen() checks in the if statement check for that case
- * and DONT let that match
- */
-#define ISNAME_WHITESPACE " \t"
-int isname(char *str, char *namelist)
-{
-  char *newlist;
-  char *curtok;
-
-  newlist = strdup(namelist); /* make a copy since strtok 'modifies' strings */
-
-  for (curtok = strtok(newlist, ISNAME_WHITESPACE); curtok;
-       curtok = strtok(NULL, ISNAME_WHITESPACE)) {
-    if(curtok && (strlen(curtok) >= strlen(str)) && is_abbrev(str, curtok)) {
-      free(newlist); 
-      return 1;
+int isname(char *input, char *namelist) {
+  if (input == NULL) {
+    log("invalid `input` string");
+  } else if (namelist && *namelist != '\0') {
+    /* Loop while words remain. */
+    register char *curtok = NULL;
+    for (curtok = (char*) namelist; curtok && *curtok != '\0'; ) {
+      char word[MAX_INPUT_LENGTH] = {'\0'};
+      curtok = any_one_arg(curtok, word);
+      if (*word != '\0' && is_abbrev(input, word))
+        return (TRUE);
     }
   }
-
-  free(newlist);
-  return 0;
+  return (FALSE);
 }
 
 #define ISEXNAME_WHITESPACE " \t"
@@ -101,8 +89,8 @@ int isexname(char *str, char *namelist)
 
   newlist = strdup(namelist); /* make a copy since strtok 'modifies' strings */
 
-  for (curtok = strtok(newlist, ISNAME_WHITESPACE); curtok;
-       curtok = strtok(NULL, ISNAME_WHITESPACE)) {
+  for (curtok = strtok(newlist, ISEXNAME_WHITESPACE); curtok;
+       curtok = strtok(NULL, ISEXNAME_WHITESPACE)) {
     if(curtok && (strlen(curtok) == strlen(str)) && is_abbrev(str, curtok)) {
       free(newlist); 
       return 1;

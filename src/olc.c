@@ -50,7 +50,7 @@ extern int free_shop(struct shop_data *shop);
 extern int free_room(struct room_data *room);
 
 /*. Internal function prototypes .*/
-int real_zone(int number);
+int real_zone_by_thing(int number);
 void olc_saveinfo(struct char_data *ch);
 
 /*. Internal data .*/
@@ -159,7 +159,7 @@ ACMD(do_olc)
   CREATE(d->olc, struct olc_data, 1);
 
   /*. Find the zone .*/
-  OLC_ZNUM(d) = real_zone(number);
+  OLC_ZNUM(d) = real_zone_by_thing(number);
   if (OLC_ZNUM(d) == -1)
   { send_to_char ("Sorry, there is no zone for that number!\r\n", ch); 
     free(d->olc);
@@ -302,7 +302,7 @@ void olc_saveinfo(struct char_data *ch)
 }
 
 
-int real_zone(int number)
+int real_zone_by_thing(int number)
 { int counter;
   for (counter = 0; counter <= top_of_zone_table; counter++)
     if ((number >= (zone_table[counter].number * 100)) &&

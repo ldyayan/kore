@@ -226,3 +226,21 @@ void fix_color_stack(struct char_data * ch)
     return;
   }
 }
+
+
+void strip_color(char *instr) {
+  register char *inptr = instr;
+  register char *outptr = instr;
+  while (inptr && *inptr != '\0') {
+    if (*inptr == '^') {
+      if (*++inptr == '^')
+	*outptr++ = *inptr;
+      if (*inptr != '\0')
+	inptr++;
+    } else {
+      *outptr++ = *inptr++;
+    }
+  }
+  if (outptr)
+    *outptr = '\0';
+}
