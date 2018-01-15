@@ -21,7 +21,7 @@
 #include "olc.h"
 
 /* externs */
-extern int restrict;
+extern int circle_restrict;
 extern int mini_mud;
 extern int no_rent_check;
 extern FILE *player_fl;
@@ -146,7 +146,7 @@ int main(int argc, char **argv)
       log("Quick boot mode -- rent check supressed.");
       break;
     case 'r':
-      restrict = 1;
+      circle_restrict = 1;
       log("Restricting game -- no new players allowed.");
       break;
     case 's':
@@ -1961,7 +1961,7 @@ void unrestrict_game()
   mudlog("Received SIGUSR2 - completely unrestricting game (emergent)",
 	 BRF, LVL_IMMORT, TRUE);
   ban_list = NULL;
-  restrict = 0;
+  circle_restrict = 0;
   num_invalid = 0;
 }
 

@@ -1421,32 +1421,35 @@ int number_argument( char *argument, char *arg )
     return 1;
 }
 
+
 /*          
  * Find a char in the world.
  */     
-struct char_data *get_char_world( struct char_data *ch, char *argument )
+struct char_data *get_char_world(struct char_data *ch, char *argument)
 {   
     char arg[MAX_INPUT_LENGTH];
     struct char_data *wch;
     int number;
     int count;
     
-    if ( ( wch = get_char_room_vis( ch, argument ) ) != NULL )
+    if ((wch = get_char_room_vis(ch, argument)) != NULL)
         return wch;
     
     number = number_argument( argument, arg );
     count  = 0;
-    for ( wch = character_list; wch != NULL ; wch = wch->next )
-    {
-        if ( wch->in_room == NULL || !can_see( ch, wch )  
-        ||   !is_name( arg, GET_NAME(wch)) )
-            continue;
-        if ( ++count == number )
-            return wch;
+    for (wch = character_list; wch; wch = wch->next) {
+      if (IN_ROOM(wch) == NOWHERE)
+	continue;
+      if (!can_see(ch, wch))
+	continue;
+      if (!is_name(arg, GET_NAME(wch)))
+	continue;
+      if (++count == number)
+	return (wch);
     }   
-            
-    return NULL;
+    return (NULL);
 }
+
 
 struct char_data *get_char_vis(struct char_data * ch, char *name)
 {

@@ -5,7 +5,10 @@ aclocal.m4
 ar-lib
 autom4te.cache
 bin/.dirstamp
+bin/.libs
 bin/circle
+bin/circle.exe
+compile
 config.guess
 config.log
 config.status

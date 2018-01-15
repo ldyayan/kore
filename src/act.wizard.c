@@ -37,7 +37,7 @@ extern struct int_app_type int_app[36];
 extern struct wis_app_type wis_app[36];
 extern struct zone_data *zone_table;
 extern int top_of_zone_table;
-extern int restrict;
+extern int circle_restrict;
 extern int top_of_world;
 extern int top_of_mobt;
 extern int top_of_objt;
@@ -1805,12 +1805,12 @@ ACMD(do_wizlock)
       send_to_char("Invalid wizlock value.\r\n", ch);
       return;
     }
-    restrict = value;
+    circle_restrict = value;
     when = "now";
   } else
     when = "currently";
 
-  switch (restrict) {
+  switch (circle_restrict) {
   case 0:
     sprintf(buf, "The game is %s completely open.\r\n", when);
     break;
@@ -1819,7 +1819,7 @@ ACMD(do_wizlock)
     break;
   default:
     sprintf(buf, "Only level %d and above may enter the game %s.\r\n",
-	    restrict, when);
+	    circle_restrict, when);
     break;
   }
   send_to_char(buf, ch);

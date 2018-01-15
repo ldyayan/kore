@@ -718,10 +718,10 @@ void generate_quest(struct char_data *ch, struct char_data *questman)
         return;
     }
 
-    if ( ( (room = victim->in_room) == NULL )
-	|| (ROOM_FLAGGED(victim->in_room, ROOM_PEACEFUL))
-	|| (ROOM_FLAGGED(victim->in_room, ROOM_GODROOM))
-	|| (!ZONE_FLAGGED(victim->in_room, ZONE_ACTIVE)) )
+    if ((room = IN_ROOM(victim)) == NOWHERE ||
+	(ROOM_FLAGGED(victim->in_room, ROOM_PEACEFUL)) ||
+	(ROOM_FLAGGED(victim->in_room, ROOM_GODROOM)) ||
+	(!ZONE_FLAGGED(victim->in_room, ZONE_ACTIVE)))
     {
 	sprintf(buf, "I'm sorry, but I don't have any quests for you at this time.");
 	do_say(questman, buf, 0, 0);
