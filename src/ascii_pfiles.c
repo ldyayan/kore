@@ -180,10 +180,6 @@ int save_ascii_data(struct char_data *ch) {
     fprintf(fl, "poofout %s\n", ch->player_specials->poofout);
   }
   fprintf(fl, "title %s\n", GET_REAL_TITLE(ch));
-  if (ch->player_specials->prompt) {
-    fprintf(fl, "prompt %s\n", ch->player_specials->prompt);
-  }
-  
   fprintf(fl, "end\n");
   fclose(fl);
   return 0;
@@ -222,10 +218,6 @@ int load_ascii_data(struct char_data *ch) {
     } else if (!str_cmp(buf1, "title")) {
       if (GET_REAL_TITLE(ch)) free(GET_REAL_TITLE(ch));
       GET_REAL_TITLE(ch) = strdup(p);
-
-    } else if (!str_cmp(buf1, "prompt")) {
-      if (ch->player_specials->prompt) free(ch->player_specials->prompt);
-      ch->player_specials->prompt = strdup(p);
 
     } else if (!str_cmp(buf1, "end")) {
       break;

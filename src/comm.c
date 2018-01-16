@@ -12,6 +12,7 @@
 
 #include "structs.h"
 #include "utils.h"
+#include "buffer.h"
 #include "comm.h"
 #include "interpreter.h"
 #include "handler.h"
@@ -668,454 +669,92 @@ void record_usage(void)
 }
 
 
-
-/* HACKED to add the diagnose option to the prompt */
 #define GET_EXP_NEEDED(ch) \
     (titles[(int) GET_CLASS(ch)][GET_LEVEL(ch) + 1].exp - GET_EXP(ch))
-#define GET_EXP_PROGRESS(ch) \
-    (GET_EXP(ch) - titles[(int) GET_CLASS(ch)][(int) GET_LEVEL(ch)].exp)
-#define GET_EXP_GAP(ch) \
-    (titles[(int) GET_CLASS(ch)][(int) GET_LEVEL(ch) + 1].exp - \
-    titles[(int) GET_CLASS(ch)][(int) GET_LEVEL(ch)].exp)
-#define DIAG(ch) diag_char_to_char_short(FIGHTING(ch))
 
-void make_custom_prompt(struct char_data *ch, char *prompt) {
-  char *src, *dest;
-  extern const char *position_types[];
-  
-  dest = prompt;
-  for (src = ch->player_specials->prompt; *src; src++) {
-    if (*src == '$') {
-      src++;
-      switch(*src) {
-        case '$':
-          *dest = '$';
-          dest++;
-          break;
-        case 'h':
-          dest += sprintf(dest, "%d", GET_HIT(ch));
-          break;
-        case 'H':
-          dest += sprintf(dest, "%d", GET_MAX_HIT(ch));
-          break;
-        case 'm':
-          dest += sprintf(dest, "%d", GET_MANA(ch));
-          break;
-        case 'M':
-          dest += sprintf(dest, "%d", GET_MAX_MANA(ch));
-          break;
-        case 'v':
-          dest += sprintf(dest, "%d", GET_MOVE(ch));
-          break;
-        case 'V':
-          dest += sprintf(dest, "%d", GET_MAX_MOVE(ch));
-          break;
-        case 'g':
-          dest += sprintf(dest, "%d", GET_GOLD(ch));
-          break;
-        case 'b':
-          dest += sprintf(dest, "%d", GET_BANK_GOLD(ch));
-          break;
-        case 'G':
-          dest += sprintf(dest, "%d", GET_GOLD(ch) + GET_BANK_GOLD(ch));
-          break;
-        case 'x':
-          dest += sprintf(dest, "%d", GET_EXP(ch));
-          break;
-        case 'X':
-          dest += sprintf(dest, "%d", GET_EXP_NEEDED(ch));
-          break;
-        case 'l':
-          dest += sprintf(dest, "%d", GET_LEVEL(ch));
-          break;
-        case 'n':
-          dest += sprintf(dest, "%s", GET_NAME(ch));
-          break;
-        case 'a':
-          dest += sprintf(dest, "%d", GET_AGE(ch));
-          break;
-        case 'R':
-          if (GET_LEVEL(ch) < 25) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_AC(ch));
-          }
-          break;
-        case 't':
-          if (GET_LEVEL(ch) < 15) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_HITROLL(ch));
-          }
-          break;
-        case 'd':
-          if (GET_LEVEL(ch) < 15) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_DAMROLL(ch));
-          }
-          break;
-        case 'S':
-          if (GET_LEVEL(ch) <= LVL_LOWBIE) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_STR(ch));
-          }
-          break;
-        case 'D':
-          if (GET_LEVEL(ch) <= LVL_LOWBIE) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_DEX(ch));
-          }
-          break;
-        case 'N':
-          if (GET_LEVEL(ch) <= LVL_LOWBIE) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_CON(ch));
-          }
-          break;
-        case 'I':
-          if (GET_LEVEL(ch) <= LVL_LOWBIE) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_INT(ch));
-          }
-          break;
-        case 'W':
-          if (GET_LEVEL(ch) <= LVL_LOWBIE) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_WIS(ch));
-          }
-          break;
-        case 'C':
-          if (GET_LEVEL(ch) <= LVL_LOWBIE) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_CHA(ch));
-          }
-          break;
-        case 'A':
-          if (GET_LEVEL(ch) < 10) {
-            dest += sprintf(dest, "?");
-          } else {
-            dest += sprintf(dest, "%d", GET_ALIGNMENT(ch));
-          }
-          break;
-        case 'r':
-          if (IS_IMMORT(ch)) {
-            dest += sprintf(dest, "%d", world[ch->in_room].number);
-          } else {
-            *dest = '?';
-            dest++;
-          }
-          break;
-        case 'i':
-          if (IS_IMMORT(ch)) {
-            dest += sprintf(dest, "%d", GET_INVIS_LEV(ch));
-          } else {
-            *dest = '?';
-            dest++;
-          }
-          break;
-        case 'L':
-          if (IS_IMMORT(ch)) {
-            if (GET_INVIS_LEV(ch) > 0) {
-              dest += sprintf(dest, "%dI ", GET_INVIS_LEV(ch));
-            }
-          } else {
-            *dest = '?';
-            dest++;
-          }
-          break;
-        case 'p':
-          dest += sprintf(dest, "%s", position_types[(int)GET_POS(ch)]);
-          break;
-        case 'f':
-          if (FIGHTING(ch)) {
-            dest += sprintf(dest, "%s ", GET_NAME(FIGHTING(ch)));
-          }
-          break;
-        case 'c':
-          if (FIGHTING(ch)) {
-            dest += sprintf(dest, "(%s) ", DIAG(ch));
-          }
-          break;
-        default:
-          *dest = '?';
-          dest++;
-          break;
-      }
-    } else if (*src == '^') {
-      src++;
-      switch(*src) {
-        case '^':
-          *dest = '^';
-          dest++;
-          break;
-        case '\\':
-          *dest = '\r';
-          dest++;
-          *dest = '\n';
-          dest++;
-          break;
-        case 'n':
-          dest += sprintf(dest, CCNRM(ch));
-          break;
-        case 'r':
-          dest += sprintf(dest, CCRED(ch));
-          break;
-        case 'g':
-          dest += sprintf(dest, CCGRN(ch));
-          break;
-        case 'y':
-          dest += sprintf(dest, CCYEL(ch));
-          break;
-        case 'b':
-          dest += sprintf(dest, CCBLU(ch));
-          break;
-        case 'm':
-          dest += sprintf(dest, CCMAG(ch));
-          break;
-        case 'c':
-          dest += sprintf(dest, CCCYN(ch));
-          break;
-        case 'w':
-          dest += sprintf(dest, CCWHT(ch));
-          break;
-        case 'R':
-          dest += sprintf(dest, CCBRED(ch));
-          break;
-        case 'G':
-          dest += sprintf(dest, CCBGRN(ch));
-          break;
-        case 'Y':
-          dest += sprintf(dest, CCBYEL(ch));
-          break;
-        case 'B':
-          dest += sprintf(dest, CCBBLU(ch));
-          break;
-        case 'M':
-          dest += sprintf(dest, CCBMAG(ch));
-          break;
-        case 'C':
-          dest += sprintf(dest, CCBCYN(ch));
-          break;
-        case 'W':
-          dest += sprintf(dest, CCBWHT(ch));
-          break;
-        default:
-          *dest = '?';
-          dest++;
-          break;
-      }
-    } else {
-      *dest = *src;
-      dest++;
-    }
-    *dest = '\0';
-  }
-}
+#define DIAG(ch) diag_char_to_char_short(FIGHTING(ch))
 
 void make_prompt(struct descriptor_data * d)
 {
-
   if (d->str)
     write_to_descriptor(d->descriptor, "] ");
   else if (d->showstr_point)
     write_to_descriptor(d->descriptor,
 			"\r\n*** Press return to continue, q to quit ***");
   else if (!d->connected) {
-    char prompt[MAX_INPUT_LENGTH];
-
-    *prompt = '\0';
+    char prompt[MAX_INPUT_LENGTH] = {'\0'};
+    register size_t promptlen = 0;
 
     /* make the prompt reset to absolute normal */
-    sprintf(prompt, KNRM);
+    BPrintf(prompt, sizeof(prompt), promptlen, "%s< ", CCNRM(d->character));
     GET_COLOR_STACK_INDEX(d->character) = -1;
     fix_color_stack(d->character);
 
-/* HACKED to improve the prompt a LOT */ 
-/* Rehacked to improve it even more (custom prompts) */
-    if (!IS_NPC(d->character) && d->character->player_specials->prompt) {
-      make_custom_prompt(d->character, prompt);
-    } else {
-      /* away flag and preprompt */
-      if (PRF2_FLAGGED(d->character, PRF2_AWAY)) {
-        if (PRF_FLAGGED(d->character, PRF_COLORPROMPT))
-          sprintf(prompt, "%s%s(AFK)%s < ", prompt, CCTRUEALERT(d->character),
-              CCNRM(d->character));
-        else
-          sprintf(prompt, "%s(AFK) < ", prompt);
-      } else {
-        sprintf(prompt, "%s< ", prompt);
-      }
-
-      /* imm-invis */
-      if (GET_INVIS_LEV(d->character))
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%dI ", prompt, GET_INVIS_LEV(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s(%di) ", prompt, GET_INVIS_LEV(d->character));
-            break;
-        }
-
-      /* hit points */
-      if (PRF_FLAGGED(d->character, PRF_DISPHP)) {
-        sprintf(prompt, "%s%s", prompt, CCTRUETHERMO(d->character,
-            GET_HIT(d->character), GET_MAX_HIT(d->character)));
-        if (!PRF_FLAGGED(d->character, PRF_DISPMINMAX))
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%dH ", prompt, GET_HIT(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%dhp ", prompt, GET_HIT(d->character));
-            break;
-        }
-        else
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%d/%dH ", prompt, GET_HIT(d->character),
-                    GET_MAX_HIT(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%d/%dhp ", prompt, GET_HIT(d->character),
-                    GET_MAX_HIT(d->character));
-            break;
-        }
-        sprintf(prompt, "%s%s", prompt, CCNRM(d->character));
-      }
-
-      /* mana */
-      if (PRF_FLAGGED(d->character, PRF_DISPMANA)) {
-        sprintf(prompt, "%s%s", prompt, CCTRUETHERMO(d->character,
-            GET_MANA(d->character), GET_MAX_MANA(d->character)));
-        if (!PRF_FLAGGED(d->character, PRF_DISPMINMAX))
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%dM ", prompt, GET_MANA(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%dma ", prompt, GET_MANA(d->character));
-            break;
-        }
-        else
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%d/%dM ", prompt, GET_MANA(d->character),
-                    GET_MAX_MANA(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%d/%dma ", prompt, GET_MANA(d->character),
-                    GET_MAX_MANA(d->character));
-            break;
-        }
-        sprintf(prompt, "%s%s", prompt, CCNRM(d->character));
-      }
-
-      /* movement */
-      if (PRF_FLAGGED(d->character, PRF_DISPMOVE)) {
-        sprintf(prompt, "%s%s", prompt, CCTRUETHERMO(d->character,
-            GET_MOVE(d->character), GET_MAX_MOVE(d->character)));
-        if (!PRF_FLAGGED(d->character, PRF_DISPMINMAX))
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%dV ", prompt, GET_MOVE(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%dmv ", prompt, GET_MOVE(d->character));
-            break;
-        }
-        else
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%d/%dV ", prompt, GET_MOVE(d->character),
-                    GET_MAX_MOVE(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%d/%dmv ", prompt, GET_MOVE(d->character),
-                    GET_MAX_MOVE(d->character));
-            break;
-        }
-        sprintf(prompt, "%s%s", prompt, CCNRM(d->character));
-      }
-
-      /* players gold */
-      if (PRF_FLAGGED(d->character, PRF_DISPGOLD))
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%dG ", prompt, GET_GOLD(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%dgo ", prompt, GET_GOLD(d->character));
-            break;
-        }
-
-      /* experience required to next level */
-      if (PRF_FLAGGED(d->character, PRF_DISPEXP)) {
-        sprintf(prompt, "%s%s", prompt, CCTRUETHERMO(d->character,
-            GET_EXP_PROGRESS(d->character),
-            GET_EXP_GAP(d->character)));
-        if (GET_LEVEL(d->character) < LVL_IMMORT)
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%dX ", prompt, GET_EXP_NEEDED(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%dex ", prompt, GET_EXP_NEEDED(d->character));
-            break;
-        }
-        else
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s%s*X ", prompt, CCNRM(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%s*ex ", prompt, CCNRM(d->character));
-            break;
-        }
-        sprintf(prompt, "%s%s", prompt, CCNRM(d->character));
-      }
-
-      /* mob condition */
-      if (PRF_FLAGGED(d->character, PRF_DISPDIAG) && FIGHTING(d->character)) {
-        sprintf(prompt, "%s%s", prompt, CCTRUETHERMO(d->character,
-            GET_HIT(FIGHTING(d->character)),
-            GET_MAX_HIT(FIGHTING(d->character))));
-        switch (GET_PROMPT_STYLE(d->character)) {
-          case PROMPT_HOLO:
-            sprintf(prompt, "%s/ %s ", prompt, DIAG(d->character));
-            break;
-          case PROMPT_MERC:
-  	default:
-            sprintf(prompt, "%s%s ", prompt, DIAG(d->character));
-            break;
-        }
-        sprintf(prompt, "%s%s", prompt, CCNRM(d->character));
-      }
-
-      /* post prompt */
-      sprintf(prompt, "%s>", prompt);
+    /* away flag and preprompt */
+    if (PRF2_FLAGGED(d->character, PRF2_AWAY)) {
+      BPrintf(prompt, sizeof(prompt), promptlen, "%s*AFK* ",
+	CCTRUEALERT(d->character));
     }
-    
+
+    /* imm-invis */
+    if (GET_INVIS_LEV(d->character) && GET_LEVEL(d->character) >= LVL_IMMORT) {
+      BPrintf(prompt, sizeof(prompt), promptlen,  "%s%dI ",
+	CCCYN(d->character),
+	GET_INVIS_LEV(d->character));
+    }
+
+    /* hit points */
+    if (PRF_FLAGGED(d->character, PRF_DISPHP)) {
+      BPrintf(prompt, sizeof(prompt), promptlen, "%s%d/%dH ",
+	CCTRUEPROMPTHIT(d->character),
+	GET_HIT(d->character),
+	GET_MAX_HIT(d->character));
+    }
+
+    /* mana */
+    if (PRF_FLAGGED(d->character, PRF_DISPMANA)) {
+      BPrintf(prompt, sizeof(prompt), promptlen, "%s%d/%dM ",
+	CCTRUEPROMPTMANA(d->character),
+	GET_MANA(d->character),
+	GET_MAX_MANA(d->character));
+    }
+
+    /* movement */
+    if (PRF_FLAGGED(d->character, PRF_DISPMOVE)) {
+      BPrintf(prompt, sizeof(prompt), promptlen, "%s%d/%dV ",
+	CCTRUEPROMPTMOVE(d->character),
+	GET_MOVE(d->character),
+	GET_MAX_MOVE(d->character));
+    }
+
+    /* players gold */
+    if (PRF_FLAGGED(d->character, PRF_DISPGOLD)) {
+      BPrintf(prompt, sizeof(prompt), promptlen, "%s%dG ",
+	CCTRUEPROMPTGOLD(d->character),
+	GET_GOLD(d->character));
+    }
+
+    /* experience to next level */
+    if (PRF_FLAGGED(d->character, PRF_DISPEXP) && GET_LEVEL(d->character) < LVL_IMMORT) {
+      BPrintf(prompt, sizeof(prompt), promptlen, "%s%dX ",
+	CCTRUEPROMPTXP(d->character),
+	GET_EXP_NEEDED(d->character));
+    }
+
+    /* mob condition */
+    if (PRF_FLAGGED(d->character, PRF_DISPDIAG) && FIGHTING(d->character)) {
+      BPrintf(prompt, sizeof(prompt), promptlen, "%s%s ",
+	CCTRUETHERMO(d->character,
+		GET_HIT(FIGHTING(d->character)),
+		GET_MAX_HIT(FIGHTING(d->character))),
+	DIAG(d->character));
+    }
+
+    /* post prompt */
+    BPrintf(prompt, sizeof(prompt), promptlen, "%s> ",
+	CCNRM(d->character));
     
     /* and absolute normal code again */
-    sprintf(prompt, "%s%s ", prompt, CCNRM(d->character));
     GET_COLOR_STACK_INDEX(d->character) = -1;
     fix_color_stack(d->character);
  
