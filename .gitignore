@@ -50,6 +50,7 @@ log/olc
 log/rentgone
 log/restarts
 log/rip
+log/syslog.*
 log/usage
 ltmain.sh
 m4
