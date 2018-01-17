@@ -1489,6 +1489,7 @@ ACMD(do_advance)
   struct char_data *victim;
   char *name = arg, *level = buf2;
   int newlevel;
+  int oldlevel;
 
   void do_start(struct char_data *ch);
   void gain_exp(struct char_data * ch, int gain);
@@ -1520,18 +1521,20 @@ ACMD(do_advance)
     send_to_char("That's not a level!\r\n", ch);
     return;
   }
-
   if (newlevel > LVL_IMPL) {
     sprintf(buf, "%d is the highest possible level.\r\n", LVL_IMPL);
     send_to_char(buf, ch);
     return;
   }
-
   if (newlevel > GET_LEVEL(ch)) {
     send_to_char("Yeah, right.\r\n", ch);
     return;
   }
-
+  if (newlevel == GET_LEVEL(victim)) {
+    send_to_char("They are already that level.\r\n", ch);
+    return;
+  }
+  oldlevel = GET_LEVEL(victim);
   if (newlevel < GET_LEVEL(victim)) {
     do_start(victim);
     GET_LEVEL(victim) = newlevel;
@@ -1552,16 +1555,20 @@ ACMD(do_advance)
 
   send_to_char(OK, ch);
 
-  sprintf(buf, "(GC) %s has advanced %s to level %d (from %d)",
-	  GET_NAME(ch), GET_NAME(victim), newlevel, GET_LEVEL(victim));
-  log(buf);
+  if (newlevel < oldlevel) {
+    snprintf(buf, sizeof(buf), "(GC) %s demoted %s from level %d to %d.", GET_NAME(ch), GET_NAME(victim), oldlevel, newlevel);
+    log(buf);
+  } else {
+    snprintf(buf, sizeof(buf), "(GC) %s has advanced %s to level %d (from %d)", GET_NAME(ch), GET_NAME(victim), newlevel, oldlevel);
+    log(buf);
+  }
+  if (oldlevel >= LVL_IMMORT && newlevel < LVL_IMMORT) {
+    REMOVE_BIT(PRF_FLAGS(victim), PRF_LOG1 | PRF_LOG2);
+    REMOVE_BIT(PRF_FLAGS(victim), PRF_NOHASSLE | PRF_HOLYLIGHT);
+    check_autowiz(victim);
+  }
   gain_exp_regardless(victim,
-/* HACKED to use new experience table */
 	 (titles[(int) GET_CLASS(victim)][newlevel].exp) - GET_EXP(victim));
-/* new code (disabled)
-         (experience_table[newlevel]) - GET_EXP(victim));
-*/
-/* end of hack */
   save_char(victim, NOWHERE);
 }
 

@@ -530,7 +530,6 @@ void raw_kill(struct char_data * ch, struct char_data * killer)
     act("$n appears in an swirling mist of colors.", TRUE, ch, 0, 0, TO_ROOM);
     look_at_room(ch, 0);
     send_to_char("You have been killed!\r\n", ch);
-    gain_exp(ch, 1); /* Trigger any delevel effects */
 /*
     do_save(ch, "", 0, SCMD_QUIET_SAVE);
 */
@@ -576,39 +575,38 @@ void die(struct char_data * vict, struct char_data * ch)
   char buf[256];
   extern struct char_data *mob_proto;
 
-  if (IN_ROOM(vict) == IN_ROOM(ch))
+  if (IN_ROOM(vict) == IN_ROOM(ch)) {
     in_same_room = TRUE;
-  else
+  } else {
     in_same_room = FALSE;
+  }
 
-  /* HACKED to track kills of PCs by NPCs */
+  /* PC killed by NPC */
   if (!IS_NPC(vict) && IS_NPC(ch)) {
     ch->mob_specials.kills++;
     mob_proto[ch->nr].mob_specials.kills++;
   }
-  if (IS_NPC(vict) && !IS_NPC(ch)) {
+
+  /* NPC killed by PC */
+  if (IS_NPC(vict) && !IS_NPC(ch))
     mob_proto[vict->nr].mob_specials.deaths++;
-  }
-  /* END of hack */
   
-  if (IS_CHAOS_ROOM(vict->in_room) && arena_deathmatch_mode) {
+  if (IS_CHAOS_ROOM(vict->in_room) && arena_deathmatch_mode)
     log_deathmatch_kill(ch, vict);
-  }
-/*  if (IS_CHAOS_ROOM(vict->in_room) && arena_deathmatch_mode && !IS_NPC(ch)) { */
+
   if (IS_CHAOS_ROOM(vict->in_room) && arena_deathmatch_mode) {
     char_from_room(vict);
     death_cry(ch);
     /* the following code up to the act() is cloned from spell_recall */
-    if ((GET_CLAN(vict) != CLAN_UNDEFINED) &&
-        (GET_CLAN(vict) != CLAN_NOCLAN) &&
-        (GET_CLAN(vict) != CLAN_PLEDGE) &&
-        (GET_CLAN(vict) != CLAN_BLACKLISTED))
+    if (GET_CLAN(vict) != CLAN_UNDEFINED &&
+        GET_CLAN(vict) != CLAN_NOCLAN &&
+        GET_CLAN(vict) != CLAN_PLEDGE &&
+        GET_CLAN(vict) != CLAN_BLACKLISTED) {
       char_to_room(vict, r_clan_start_room[(int) GET_CLAN(vict)]);
-    else {
-      if (GET_LEVEL(vict) <= LVL_LOWBIE)
-        char_to_room(vict, r_lowbie_start_room);
-      else
-       char_to_room(vict, r_race_start_room[(int) GET_RACE(vict)]);
+    } else if (GET_LEVEL(vict) <= LVL_LOWBIE) {
+      char_to_room(vict, r_lowbie_start_room);
+    } else {
+      char_to_room(vict, r_race_start_room[(int) GET_RACE(vict)]);
     }
     act("$n appears in an explosion of blood.", TRUE, vict, 0, 0, TO_ROOM);
     look_at_room(vict, 0);
@@ -626,26 +624,14 @@ void die(struct char_data * vict, struct char_data * ch)
     
     return;
   }
-   
-/* end of deathmatch hack */
 
+  long xpAtLastLevel   = titles[(int) GET_CLASS(vict)][(int) GET_LEVEL(vict) - 1].exp;
+  long xpAtLevel       = titles[(int) GET_CLASS(vict)][(int) GET_LEVEL(vict)].exp;
+  long xpLastLevelDiff = xpAtLevel - xpAtLastLevel;
 
-/* This sets gain to the exp they need from prev level to this level, and then
-	that value is modified below */
-
-  gain = (titles[(int) GET_CLASS(vict)][(int) GET_LEVEL(vict)].exp -
-	titles[(int) GET_CLASS(vict)][GET_LEVEL(vict) - 1].exp);
-
-/* Debug code
-  sprintf(buf, "Level is %d, Exp for this level is %d, Exp for previous level is %d.  Gain is %d, should lose half that.",
-	GET_LEVEL(vict),
-	titles[(int) GET_CLASS(vict)][(int) GET_LEVEL(vict)].exp,
-	titles[(int) GET_CLASS(vict)][GET_LEVEL(vict) - 1].exp,
-	gain);
-  mudlog(buf, BRF, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
-*/
-
-  gain_exp(vict, -(gain / 3));
+  /* You lose a portion of your progress to the next level only */
+  gain = MAX(MIN(GET_EXP(vict) - xpAtLevel, xpLastLevelDiff / 3), 0);
+  gain_exp(vict, -gain);
 
   if (!IS_NPC(vict))
     REMOVE_BIT(PLR_FLAGS(vict), PLR_KILLER | PLR_THIEF);
@@ -667,7 +653,6 @@ void die(struct char_data * vict, struct char_data * ch)
     do_get(ch, "all corpse", 0, 0);
   if (IS_NPC(vict) && PRF_FLAGGED(ch, PRF_AUTOSAC) && in_same_room)
     do_sacrifice(ch, "corpse", 0, 0);
-
 }
 
 
