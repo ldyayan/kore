@@ -201,8 +201,12 @@ int hit_gain(struct char_data * ch)
     if ( IS_NPC(ch) && !IS_AFFECTED2(ch, AFF2_JARRED)
 				&& !IS_AFFECTED(ch, AFF_CHARM) )
     {
-	gain = GET_MAX_HIT(ch) * 0.05;
-    }
+		if (GET_POS(ch) == POS_FIGHTING) {
+			gain = GET_MAX_HIT(ch) * 0.01;
+		} else {
+			gain = GET_MAX_HIT(ch) * 0.05;
+		}
+	}
     else
     {
 	gain = number_range( 2, UMAX(3, GET_LEVEL(ch) / 8) );
@@ -222,6 +226,7 @@ int hit_gain(struct char_data * ch)
 	   	case POS_STUNNED:  return 1;
 	   	case POS_SLEEPING: gain += GET_CON(ch) / 1.25;	break;
 	   	case POS_RESTING: gain += GET_CON(ch) / 2;	break;
+		case POS_FIGHTING: gain /= 2; break;
    		}
    	}
 
@@ -256,8 +261,6 @@ int hit_gain(struct char_data * ch)
 	gain /= 4;
 
     if (ROOM_FLAGGED(ch->in_room, ROOM_HYPERREGEN)) gain *= 1.25;
-	
-	if (GET_POS(ch) == POS_FIGHTING) gain /= 5;
 
   return (gain);
 }
