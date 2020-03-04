@@ -726,6 +726,13 @@ void do_start(struct char_data * ch)
   roll_real_abils(ch);
   ch->points.max_hit = 10;
 
+  /* Default preferences */
+  if (!IS_NPC(ch)) {
+    SET_BIT(PRF_FLAGS(ch),
+	PRF_AUTODIRS | PRF_COMPACT | PRF_DISPHP | PRF_DISPMANA |
+	PRF_DISPMOVE | PRF_DISPGOLD | PRF_DISPEXP | PRF_DISPDIAG);
+  }
+
   switch (GET_CLASS(ch)) {
 
   case CLASS_MAGIC_USER:

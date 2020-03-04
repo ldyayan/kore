@@ -73,7 +73,7 @@ void color_setup(struct char_data * ch)
   ch->player_specials->saved.color_prefs[11] = KLCYN; /* qsay */
   ch->player_specials->saved.color_prefs[12] = KLRED; /* clansay */
   ch->player_specials->saved.color_prefs[13] = KLCYN; /* roomname */
-  ch->player_specials->saved.color_prefs[14] = KLRED; /* roomdesc */
+  ch->player_specials->saved.color_prefs[14] = KLWHT; /* roomdesc */
   ch->player_specials->saved.color_prefs[15] = KLGRN; /* objects */
   ch->player_specials->saved.color_prefs[16] = KLYEL; /* players */
   ch->player_specials->saved.color_prefs[17] = KLRED; /* gods */

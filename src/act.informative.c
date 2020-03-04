@@ -645,24 +645,48 @@ int count_list_char_to_char(struct char_data * list, struct char_data * ch)
 
 
 /* HACKED to be renamed from do_auto_exits to do_auto_dirs */
-void do_auto_dirs(struct char_data * ch)
-{
-  int door;
+void do_auto_dirs(struct char_data * ch) {
+  char buf[MAX_STRING_LENGTH] = {'\0'};
+  register size_t bufpos = 0;
 
-  *buf = '\0';
+  /* Begin with this */
+  BPrintf(buf, sizeof(buf), bufpos, "%sObvious exits%s: ",
+	CCEXITS(ch),
+	CCWHT(ch));
 
-  for (door = 0; door < NUM_OF_DIRS - 1; door++) {
-    if (EXIT(ch, dir_order[door])
-        && EXIT(ch, dir_order[door])->to_room != NOWHERE
-        && !IS_SET(EXIT(ch, dir_order[door])->exit_info, EX_CLOSED)) {
-      sprintf(buf, "%s%s ", buf, dir_abbrevs[dir_order[door]]);
-    }
+  /* Loop */
+  register size_t door = 0;
+  register size_t found = 0;
+  for (door = 0; door < NUM_OF_DIRS - 1; ++door) {
+    if (EXIT(ch, dir_order[door]) == NULL)
+      continue;
+    if (EXIT(ch, dir_order[door])->to_room == NOWHERE)
+      continue;
+
+    /* Commas */
+    if (found++)
+      BPrintf(buf, sizeof(buf), bufpos, "%s, ", CCWHT(ch));
+
+    /* Indicates a closed door */
+    if (IS_SET(EXIT(ch, dir_order[door])->exit_info, EX_CLOSED))
+      BPrintf(buf, sizeof(buf), bufpos, "%s<", CCWHT(ch));
+
+    /* Direction name */
+    BPrintf(buf, sizeof(buf), bufpos, "%s%s",
+	CCEXITS(ch),
+	dir_abbrevs[dir_order[door]]);
+
+    /* Indicates a closed door */
+    if (IS_SET(EXIT(ch, dir_order[door])->exit_info, EX_CLOSED))
+      BPrintf(buf, sizeof(buf), bufpos, "%s>", CCWHT(ch));
   }
+  /* No doors found */
+  if (found == 0)
+    BPrintf(buf, sizeof(buf), bufpos, "%snone", CCEXITS(ch));
 
-  sprintf(buf2, "%s{ %s}%s\r\n", CCEXITS(ch),
-	  *buf ? buf : "- ", CCNRM(ch));
-
-  send_to_char(buf2, ch);
+  /* Finish up */
+  BPrintf(buf, sizeof(buf), bufpos, "%s.%s\r\n", CCWHT(ch), CCNRM(ch));
+  send_to_char(buf, ch);
 }
 
 
