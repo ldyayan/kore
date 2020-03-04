@@ -433,11 +433,11 @@ void check_autowiz(struct char_data * ch)
 
 
 
-void gain_exp(struct char_data * ch, int gain)
-{
+void gain_exp(struct char_data * ch, int gain) {
   int is_altered = FALSE;
+  int num_levels = 0;
 
-  if (!IS_NPC(ch) && ((GET_LEVEL(ch) < 1 || GET_LEVEL(ch) >= LVL_IMMORT)))
+  if (!IS_NPC(ch) && (GET_LEVEL(ch) < 1 || GET_LEVEL(ch) >= LVL_IMMORT))
     return;
 
   if (IS_NPC(ch)) {
@@ -446,44 +446,34 @@ void gain_exp(struct char_data * ch, int gain)
   }
 
   if (gain > 0) {
-    gain = MIN(max_exp_gain, gain);	/* put a cap on the max gain per kill */
+    gain = MIN(max_exp_gain, gain); /* put a cap on the max gain per kill */
     GET_EXP(ch) += gain;
-
-/* Exp cap */
-
-    if (GET_EXP(ch) > (titles[(int) GET_CLASS(ch)][GET_LEVEL(ch) + 1].exp) )
-    {
-	GET_EXP(ch) = (titles[(int) GET_CLASS(ch)][GET_LEVEL(ch) + 1].exp);
-    }
-
-    while ((GET_LEVEL(ch) < LVL_IMMORT - 1) &&
+    while (GET_LEVEL(ch) < LVL_IMMORT - 1 &&
       GET_EXP(ch) >= titles[(int) GET_CLASS(ch)][GET_LEVEL(ch) + 1].exp) {
-
-      send_to_char("You rise a level!\r\n", ch);
       GET_LEVEL(ch) += 1;
+      num_levels++;
       advance_level(ch);
       is_altered = TRUE;
     }
 
-    while ((GET_LEVEL(ch) < LVL_IMMORT) &&
-      (GET_LEVEL(ch) > 1) &&
-      (GET_EXP(ch) <= 
-	( titles[(int) GET_CLASS(ch)][(int) GET_LEVEL(ch)].exp -
-	(( titles[(int) GET_CLASS(ch)][(int) GET_LEVEL(ch)].exp -
-	titles[(int) GET_CLASS(ch)][GET_LEVEL(ch) - 1].exp ) / 4) )) )
-    {
-      send_to_char("You lose a level, you hang your head in shame!\r\n", ch);
-      GET_LEVEL(ch) -= 1;
-      demote_level(ch);
-      is_altered = TRUE;
-    }
-
-/* i don't want titles to change when you level
     if (is_altered) {
+      char messgbuf[MAX_INPUT_LENGTH] = {'\0'};
+      snprintf(messgbuf, sizeof(messgbuf),
+	"%s advanced %d level%s to level %d.",
+	GET_NAME(ch), num_levels, num_levels == 1 ? "" : "s",
+	GET_LEVEL(ch));
+      mudlog(messgbuf, BRF, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
+
+      if (num_levels == 1) {
+	send_to_char("You rise a level!\r\n", ch);
+      } else {
+	snprintf(messgbuf, sizeof(messgbuf), "You rise %d levels.\r\n", num_levels);
+	send_to_char(messgbuf, ch);
+      }
       set_title(ch, NULL);
-      check_autowiz(ch);
+      if (GET_LEVEL(ch) >= LVL_IMMORT)
+	check_autowiz(ch);
     }
-*/
   } else if (gain < 0) {
     gain = MAX(-max_exp_loss, gain);	/* Cap max exp lost per death */
     GET_EXP(ch) += gain;
@@ -496,6 +486,7 @@ void gain_exp(struct char_data * ch, int gain)
 void gain_exp_regardless(struct char_data * ch, int gain)
 {
   int is_altered = FALSE;
+  int num_levels = 0;
 
   GET_EXP(ch) += gain;
   if (GET_EXP(ch) < 0)
@@ -503,21 +494,30 @@ void gain_exp_regardless(struct char_data * ch, int gain)
 
   if (!IS_NPC(ch)) {
     while (GET_LEVEL(ch) < LVL_IMPL &&
-/* HACKED to use the new experience table */
 	GET_EXP(ch) >= titles[(int) GET_CLASS(ch)][GET_LEVEL(ch) + 1].exp) {
-/* new code (disabled)
-        GET_EXP(ch) >= experience_table[GET_LEVEL(ch) + 1]) {
-*/
-/* end of hack */
-      send_to_char("You rise a level!\r\n", ch);
       GET_LEVEL(ch) += 1;
+      num_levels++;
       advance_level(ch);
       is_altered = TRUE;
     }
 
     if (is_altered) {
+      char messgbuf[MAX_INPUT_LENGTH] = {'\0'};
+      snprintf(messgbuf, sizeof(messgbuf),
+	"%s advanced %d level%s to level %d.",
+	GET_NAME(ch), num_levels, num_levels == 1 ? "" : "s",
+	GET_LEVEL(ch));
+      mudlog(messgbuf, BRF, MAX(LVL_IMMORT, GET_INVIS_LEV(ch)), TRUE);
+
+      if (num_levels == 1) {
+	send_to_char("You rise a level!\r\n", ch);
+      } else {
+	snprintf(messgbuf, sizeof(messgbuf), "You rise %d levels.\r\n", num_levels);
+	send_to_char(messgbuf, ch);
+      }
       set_title(ch, NULL);
-      check_autowiz(ch);
+      if (GET_LEVEL(ch) >= LVL_IMMORT)
+	check_autowiz(ch);
     }
   }
 }
