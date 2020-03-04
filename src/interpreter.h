@@ -31,6 +31,33 @@ int	find_command(char *command);
 void	skip_spaces(char **string);
 char	*delete_doubledollar(char *string);
 
+
+/*!
+ * Prints to a static buffer.
+ * \param buf the buffer
+ * \param buflen the length of the specified buffer
+ * \param bufpos the current offset into the specified buffer
+ */
+#define BPrintf(buf, buflen, bufpos, ...) \
+  if (bufpos < buflen - 1) { \
+    const ssize_t R = snprintf( \
+	buf + bufpos, \
+	buflen - bufpos, \
+	__VA_ARGS__); \
+    if (R >= 0 && R < buflen - bufpos) { \
+      bufpos += R; \
+    } \
+    buf[bufpos] = '\0'; \
+  }
+
+/*!
+ * Returns blank if a string is null.
+ * \param str the string to check
+ * \return the specified string or the empty string ("")
+ */
+#define BLANK(str) \
+  ((str) && *(str) != '\0' ? (str) : "")
+
 /* for compatibility with 2.20: */
 #define argument_interpreter(a, b, c) two_arguments(a, b, c)
 

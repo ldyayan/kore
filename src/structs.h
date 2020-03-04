@@ -304,12 +304,12 @@
 #define PRF_DISPMOVE	(1 << 6)  /* Display move points in prompt	*/
 #define PRF_AUTOEXIT	(1 << 7)  /* Display exits in a room		*/
 #define PRF_NOHASSLE	(1 << 8)  /* Aggr mobs won't attack		*/
-#define PRF_MERCPROMPT	(1 << 9)  /* Merc-style prompt			*/
+#define PRF_UNUSED_09	(1 << 9)  /* *** RESERVED ***			*/
 #define PRF_SUMMONABLE	(1 << 10) /* Can be summoned			*/
 #define PRF_NOREPEAT	(1 << 11) /* No repetition of comm commands	*/
 #define PRF_HOLYLIGHT	(1 << 12) /* Can see in dark			*/
 #define PRF_COLOR       (1 << 13) /* Color				*/
-#define PRF_COLORPROMPT (1 << 14) /* Show the prompt in colors?		*/
+#define PRF_UNUSED_14   (1 << 14) /* *** RESERVED ***			*/
 #define PRF_NOWIZ	(1 << 15) /* Can't hear wizline			*/
 #define PRF_LOG1	(1 << 16) /* On-line System Log (low bit)	*/
 #define PRF_LOG2	(1 << 17) /* On-line System Log (high bit)	*/
@@ -324,7 +324,7 @@
 #define PRF_AUTODIRS	(1 << 26) /* Show directions (Old Style Exits)	*/
 #define PRF_DISPDIAG	(1 << 27) /* Display diagnose in the prompt	*/
 #define PRF_AUTOASSIST	(1 << 28) /* Automatically assist grouped chars */
-#define PRF_DISPMINMAX	(1 << 29) /* See min over max stats in prompt	*/
+#define PRF_UNUSED_29	(1 << 29) /* *** RESERVED ***			*/
 #define PRF_DISPGOLD	(1 << 30) /* See current gold on the prompt	*/
 #define PRF_DISPEXP	(1 << 31) /* See the amount of exps to level	*/
 
@@ -712,12 +712,6 @@
 #define RENT_CRYO       3
 #define RENT_FORCED     4
 #define RENT_TIMEDOUT   5
-
-
-/* Prompt codes - PRF_MERCPROMPT limits this to just two types */
-#define PROMPT_HOLO	0
-#define PROMPT_MERC	1
-
 
 /* other #defined constants **********************************************/
 
@@ -1232,7 +1226,6 @@ struct player_special_data {
    void *last_olc_targ;		/* olc control				*/
    int last_olc_mode;		/* olc control				*/
    char *email;			/* email address			*/
-   char *prompt;		/* custom prompt			*/
 };
 
 
@@ -1429,7 +1422,7 @@ struct descriptor_data {
    char	**str;			/* for the modify-str system		*/
    int	max_str;		/*		-			*/
    long	mail_to;		/* name for mail system			*/
-   int	prompt_mode;		/* control of prompt-printing		*/
+   int prompt_mode;            /* control of prompt-printing           */
    char	inbuf[MAX_RAW_INPUT_LENGTH];  /* buffer for raw input		*/
    char	last_input[MAX_INPUT_LENGTH]; /* the last input			*/
    char small_outbuf[SMALL_BUFSIZE];  /* standard output buffer		*/

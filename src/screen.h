@@ -129,6 +129,11 @@
 #define CCHILT(ch)	(clr((ch))?color_codes[((ch)->player_specials->saved.color_prefs[23])]:KNUL)
 #define CCPOMMEL(ch)	(clr((ch))?color_codes[((ch)->player_specials->saved.color_prefs[24])]:KNUL)
 #define CCWIZNET(ch)	(clr((ch))?color_codes[((ch)->player_specials->saved.color_prefs[25])]:KNUL)
+#define CCPROMPTHIT(ch)	(clr((ch))?color_codes[((ch)->player_specials->saved.color_prefs[26])]:KNUL)
+#define CCPROMPTMANA(ch)(clr((ch))?color_codes[((ch)->player_specials->saved.color_prefs[27])]:KNUL)
+#define CCPROMPTMOVE(ch)(clr((ch))?color_codes[((ch)->player_specials->saved.color_prefs[28])]:KNUL)
+#define CCPROMPTGOLD(ch)(clr((ch))?color_codes[((ch)->player_specials->saved.color_prefs[29])]:KNUL)
+#define CCPROMPTXP(ch)	(clr((ch))?color_codes[((ch)->player_specials->saved.color_prefs[30])]:KNUL)
 
 #define CCTRUEWARNING(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[0])]:KNUL)
 #define CCTRUEALERT(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[1])]:KNUL)
@@ -156,6 +161,11 @@
 #define CCTRUEHILT(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[23])]:KNUL)
 #define CCTRUEPOMMEL(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[24])]:KNUL)
 #define CCTRUEWIZNET(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[25])]:KNUL)
+#define CCTRUEPROMPTHIT(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[26])]:KNUL)
+#define CCTRUEPROMPTMANA(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[27])]:KNUL)
+#define CCTRUEPROMPTMOVE(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[28])]:KNUL)
+#define CCTRUEPROMPTGOLD(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[29])]:KNUL)
+#define CCTRUEPROMPTXP(ch)	(clr((ch))?true_color_codes[((ch)->player_specials->saved.color_prefs[30])]:KNUL)
 
 /* a special define for a dashboard effect:
   takes two values: a current and a max, and returns
@@ -164,18 +174,16 @@
   CCALERT if current is > than 1/4 max,
   otherwise CCWARNING!!! */
 #define CCTHERMO(ch, current, max) \
-  (!PRF_FLAGGED(ch, PRF_COLORPROMPT) ? CCNRM(ch) : \
-  (current) >= ((max)) ? CCNRM(ch) : \
-  (current) > ((max) / 2) ? CCINFO(ch) : \
-  (current) > ((max) / 4) ? CCALERT(ch) : \
-   CCWARNING(ch))
+  ((current) >= ((max) / 1) ? CCNRM(ch) : \
+   (current) >  ((max) / 2) ? CCINFO(ch) : \
+   (current) >  ((max) / 4) ? CCALERT(ch) : \
+   (CCWARNING(ch)))
 
 #define CCTRUETHERMO(ch, current, max) \
-  (!PRF_FLAGGED(ch, PRF_COLORPROMPT) ? CCNRM(ch) : \
-  (current) >= ((max)) ? CCNRM(ch) : \
-  (current) > ((max) / 2) ? CCTRUEINFO(ch) : \
-  (current) > ((max) / 4) ? CCTRUEALERT(ch) : \
-   CCTRUEWARNING(ch))
+  ((current) >= ((max) / 1) ? CCNRM(ch) : \
+   (current) >  ((max) / 2) ? CCTRUEINFO(ch) : \
+   (current) >  ((max) / 4) ? CCTRUEALERT(ch) : \
+   (CCTRUEWARNING(ch)))
 
 /*
  *  normal_color stores the value (default is 0, or KLNRM) to reset

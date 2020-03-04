@@ -119,7 +119,6 @@ ACMD(do_conceal);
 /* ACMD(do_consider); */ 
 ACMD(do_consider2);
 ACMD(do_credits);
-ACMD(do_custprompt);
 ACMD(do_date);
 ACMD(do_dc);
 ACMD(do_deathpost);
@@ -474,7 +473,6 @@ const struct command_info cmd_info[] = {
 /*  { "conceal"  , POS_RESTING , do_conceal  , LVL_IMPL, 0 },*/
   { "conceal",   POS_STANDING, do_conceal  , LVL_IMMORT, 0 },
   { "credits"  , POS_DEAD    , do_gen_ps   , 0, SCMD_CREDITS },
-  { "custprompt",POS_DEAD    , do_custprompt,0, 0 },
   { "csay"     , POS_DEAD    , do_clancomm , 0, SCMD_CLANSAY},
   { "ctalk"    , POS_DEAD    , do_clancomm , 0, SCMD_CLANSAY},
 

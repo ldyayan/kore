@@ -49,7 +49,9 @@ const char *color_fields[] = {
   "warning", "alert", "info", "holler", "shout", "gossip", "auction", "gratz",
   "tell", "page", "gsay", "qsay", "clansay", "roomname", "roomdesc", "objects",
   "players", "gods", "exits", "runes", "blade", "quillions", "jewels", "hilt",
-  "pommel", "wiznet", "\n"
+  "pommel", "wiznet", "prompthit", "promptmana", "promptmove", "promptgold",
+  "promptxp",
+  "\n"
 };
 
 
@@ -57,7 +59,6 @@ const char *color_fields[] = {
 void color_setup(struct char_data * ch)
 {
   SET_BIT(PRF_FLAGS(ch), PRF_COLOR);
-  SET_BIT(PRF_FLAGS(ch), PRF_COLORPROMPT);
   ch->player_specials->saved.color_prefs[0] = KLRED;  /* warning */
   ch->player_specials->saved.color_prefs[1] = KLYEL;  /* alert */
   ch->player_specials->saved.color_prefs[2] = KLGRN;  /* info */
@@ -84,6 +85,11 @@ void color_setup(struct char_data * ch)
   ch->player_specials->saved.color_prefs[23] = KLMAG; /* hilt */
   ch->player_specials->saved.color_prefs[24] = KLRED; /* pommel */
   ch->player_specials->saved.color_prefs[25] = KLCYN; /* wiznet */
+  ch->player_specials->saved.color_prefs[26] = KLRED; /* prompt-hit */
+  ch->player_specials->saved.color_prefs[27] = KLMAG; /* prompt-mana */
+  ch->player_specials->saved.color_prefs[28] = KLGRN; /* prompt-move */
+  ch->player_specials->saved.color_prefs[29] = KLYEL; /* prompt-gold */
+  ch->player_specials->saved.color_prefs[30] = KLBWHT; /* prompt-xp */
 }
 
 
@@ -131,15 +137,6 @@ ACMD(do_color)
   } else if (!strcmp(field, "off")) {
     REMOVE_BIT(PRF_FLAGS(ch), PRF_COLOR);
     send_to_char("Color off.\r\n", ch);
-    return;
-  } else if (!strcmp(field, "prompt")) {
-    if (PRF_FLAGGED(ch, PRF_COLORPROMPT)) {
-      REMOVE_BIT(PRF_FLAGS(ch), PRF_COLORPROMPT);
-      send_to_char("Color prompt toggled off.\r\n", ch);
-    } else {
-      SET_BIT(PRF_FLAGS(ch), PRF_COLORPROMPT);
-      send_to_char("Color prompt toggled on.\r\n", ch);
-    }
     return;
   }
 

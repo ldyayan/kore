@@ -3326,13 +3326,12 @@ ACMD(do_toggle)
 
 	  "   Mana Display: %-3s    "
 	  "         NoTell: %-3s    "
-	  "   Repeat Comm.: %-3s\r\n"
+	  " Repeat Command: %-3s\r\n"
 
           "  Diagn Display: %-3s    "
           "   Gold Display: %-3s    "
           "  Exper Display: %-3s\r\n"
 
-          "Min/Max Display: %-3s    "
           "      Away Flag: %-3s\r\n"
 
 	  " Auto Show Exit: %-3s    "
@@ -3344,9 +3343,6 @@ ACMD(do_toggle)
           "Auto Directions: %-3s\r\n"
 
           "    Auto Assist: %-3s    "
-/*
-          "      Auto Scan: %-3s    "
-*/
           "   Battle Brief: %-3s\r\n"
 
 	  "           Deaf: %-3s    "
@@ -3378,7 +3374,6 @@ ACMD(do_toggle)
           ONOFF(PRF_FLAGGED(ch, PRF_DISPGOLD)),
           ONOFF(PRF_FLAGGED(ch, PRF_DISPEXP)),
 
-          ONOFF(PRF_FLAGGED(ch, PRF_DISPMINMAX)),
           YESNO(PRF2_FLAGGED(ch, PRF2_AWAY)),
 
 	  ONOFF(PRF_FLAGGED(ch, PRF_AUTOEXIT)),

@@ -1187,7 +1187,7 @@ const char *display_options[] = {
 
 const int display_bits[] = {
   -1, -1, -1, -1, -1, -1, -1,	/* these are reserved */
-  PRF_DISPHP, PRF_DISPMANA, PRF_DISPMOVE, PRF_DISPDIAG, PRF_DISPMINMAX,
+  PRF_DISPHP, PRF_DISPMANA, PRF_DISPMOVE, PRF_DISPDIAG,
   PRF_DISPGOLD, PRF_DISPEXP
 };
 
@@ -1218,35 +1218,15 @@ ACMD(do_display)
   } else if (!strncmp(argument, "on", strlen(argument)) ||
              !strncmp(argument, "all", strlen(argument))) {
     SET_BIT(PRF_FLAGS(ch), PRF_DISPHP | PRF_DISPMANA | PRF_DISPMOVE | 
-            PRF_DISPDIAG | PRF_DISPMINMAX | PRF_DISPGOLD | PRF_DISPEXP );
+            PRF_DISPDIAG | PRF_DISPGOLD | PRF_DISPEXP );
     send_to_char("Prompt initialized.\r\n", ch);
     return;
 
   } else if (!strncmp(argument, "off", strlen(argument)) ||
              !strncmp(argument, "none", strlen(argument))) {
     REMOVE_BIT(PRF_FLAGS(ch), PRF_DISPHP | PRF_DISPMANA | PRF_DISPMOVE |
-            PRF_DISPDIAG | PRF_DISPMINMAX | PRF_DISPGOLD | PRF_DISPEXP );
+            PRF_DISPDIAG | PRF_DISPGOLD | PRF_DISPEXP );
     send_to_char("Prompt cleared.\r\n", ch);
-    return;
-
-  } else if (!strncmp(argument, "color", strlen(argument))) {
-    if (PRF_FLAGGED(ch, PRF_COLORPROMPT)) {
-      REMOVE_BIT(PRF_FLAGS(ch), PRF_COLORPROMPT);
-      send_to_char("Prompt color toggled off.\r\n", ch);
-    } else {
-      SET_BIT(PRF_FLAGS(ch), PRF_COLORPROMPT);
-      send_to_char("Prompt color toggled on.\r\n", ch);
-    }
-    return;
-
-  } else if (!strncmp(argument, "holo", strlen(argument))) {
-    REMOVE_BIT(PRF_FLAGS(ch), PRF_MERCPROMPT);
-    send_to_char("Holo-MUD style prompt set.\r\n", ch);
-    return;
-
-  } else if (!strncmp(argument, "merc", strlen(argument))) {
-    SET_BIT(PRF_FLAGS(ch), PRF_MERCPROMPT);
-    send_to_char("Merc-style prompt set.\r\n", ch);
     return;
   }
 
@@ -2257,19 +2237,4 @@ ACMD(do_yank) {
   }
   
   return;
-}
-
-ACMD(do_custprompt) {
-
-  skip_spaces(&argument);
-  delete_doubledollar(argument);
-
-  if (ch->player_specials->prompt) free(ch->player_specials->prompt);
-  if (!*argument) {
-    ch->player_specials->prompt = NULL;
-    send_to_char("Custom prompt removed.\r\n", ch);
-  } else {
-    ch->player_specials->prompt = strdup(argument);
-    send_to_char("Ok.\r\n", ch);
-  }
 }
