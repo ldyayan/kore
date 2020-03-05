@@ -1,9 +1,6 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
-#include <ctype.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "db.h"
 #include "utils.h"
@@ -953,7 +950,8 @@ ACMD(do_speak)
 
   skip_spaces(&argument);
 
-  GET_RACE(ch) = get_race_guess(ch);
+  if (IS_NPC(ch) && GET_MOB_RACE(ch) == RACE_UNDEFINED)
+    GET_MOB_RACE(ch) = get_race_guess(ch);
 
   if (GET_RACE(ch) == RACE_UNDEFINED) {
     send_to_char("Sorry, can't tell what language you speak.\r\n", ch);

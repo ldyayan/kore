@@ -26,11 +26,8 @@
  *  such installation can be found in INSTALL.  Enjoy...         N'Atas-Ha *
  ***************************************************************************/
 
-#include <sys/types.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <ctype.h>
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "interpreter.h"

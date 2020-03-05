@@ -27,11 +27,8 @@
  *  such installation can be found in INSTALL.  Enjoy........    N'Atas-Ha *
  ***************************************************************************/
 
-#include <sys/types.h>
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <time.h>
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "db.h"
 #include "utils.h"
@@ -42,7 +39,6 @@
 #include "spells.h"
 #include "boards.h"
 /* for NeXTs */
-#include <ctype.h>
 
 /* external variables */
 extern struct index_data *mob_index;
@@ -937,7 +933,7 @@ void do_mpcallmagic(struct char_data *ch, char *argument)
     return;
   }
 
-  if (argument == '\0') {
+  if (!argument || *argument == '\0') {
     bug("Mpcallmagic - No argument: vnum %d.", mob_index[ch->nr].virtual);
     return;
   }

@@ -16,10 +16,8 @@
 #define __SHOP_C__
 /* end of hack */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "comm.h"
 #include "handler.h"

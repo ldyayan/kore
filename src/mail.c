@@ -14,13 +14,10 @@ Written by Jeremy Elson (jelson@cs.jhu.edu)
 
 *************************************************************************/
 
-#include <stdio.h>
-#include <stdlib.h>
 /* #include <assert.h> */
-#include <ctype.h>
-#include <string.h>
-#include <time.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"

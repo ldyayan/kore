@@ -9,8 +9,8 @@
 ************************************************************************ */
 
 
-#include <stdio.h>
-#include <string.h>
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -24,7 +24,6 @@ extern struct obj_data *object_list;
 extern struct char_data *character_list;
 extern struct str_app_type str_app[];
 extern struct int_app_type int_app[];
-extern struct cha_app_type cha_app[];
 extern struct index_data *obj_index;
 struct index_data *mob_index; 
 

@@ -9,13 +9,9 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <sys/time.h>
-#include <sys/types.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -42,7 +38,7 @@ extern struct int_app_type int_app[36];
 extern struct wis_app_type wis_app[36];
 extern struct zone_data *zone_table;
 extern int top_of_zone_table;
-extern int restrict;
+extern int circle_restrict;
 extern int top_of_world;
 extern int top_of_mobt;
 extern int top_of_objt;
@@ -1807,12 +1803,12 @@ ACMD(do_wizlock)
       send_to_char("Invalid wizlock value.\r\n", ch);
       return;
     }
-    restrict = value;
+    circle_restrict = value;
     when = "now";
   } else
     when = "currently";
 
-  switch (restrict) {
+  switch (circle_restrict) {
   case 0:
     sprintf(buf, "The game is %s completely open.\r\n", when);
     break;
@@ -1821,7 +1817,7 @@ ACMD(do_wizlock)
     break;
   default:
     sprintf(buf, "Only level %d and above may enter the game %s.\r\n",
-	    restrict, when);
+	    circle_restrict, when);
     break;
   }
   send_to_char(buf, ch);
@@ -3148,7 +3144,7 @@ ACMD(do_set)
     if ((i = parse_race(val_arg)) == RACE_UNDEFINED) 
       send_to_char("That is not a race.\r\n", ch);
     else {
-      GET_RACE(vict) = i;
+      GET_PC_RACE(vict) = i;
       send_to_char(OK, ch);
     }
     break;

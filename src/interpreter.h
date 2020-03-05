@@ -15,11 +15,6 @@
 #define CMD_IS(cmd_name) (!strcmp(cmd_name, cmd_info[cmd].command))
 #define IS_MOVE(cmdnum) (cmdnum >= 1 && cmdnum <= 11)  /* 11 = NUM_OF_DIRS */
 
-/* necessary for CMD_IS macro */
-#ifndef __INTERPRETER_C__
-extern struct command_info cmd_info[];
-#endif
-
 
 void	command_interpreter(struct char_data *ch, char *argument);
 int	search_block(char *arg, char **list, bool exact);
@@ -48,6 +43,11 @@ struct command_info {
    sh_int minimum_level;
    int	subcmd;
 };
+
+/* necessary for CMD_IS macro */
+#ifndef __INTERPRETER_C__
+extern struct command_info cmd_info[];
+#endif
 
 /* Maximum number of socials allowed */
 #define MAX_SOCIALS 300

@@ -1,5 +1,70 @@
-bin/circle
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Patch files
+*.diff
+*.orig
+*.patch
+*.rej
+
+# Temporary files
+*~
+*.bak
+*.sw[op]
+
+# CircleMUD data files
 lib/crash/*.room
+lib/core.*
+lib/etc/badsites
 lib/etc/board.*
 lib/etc/clandata
 lib/etc/clanlevs
@@ -9,15 +74,17 @@ lib/etc/players
 lib/etc/plrmail
 lib/etc/restrict
 lib/etc/storage
+lib/etc/time
 lib/misc/bugs
-lib/misc/typos
 lib/misc/ideas
 lib/misc/mobvars
+lib/misc/typos
 lib/pets/*.pet
 lib/plrfiles/*.data
 lib/plrobjs/*.objs
 lib/plrtext/*.text
-src/*.o
+
+# CircleMUD log files
 log/badpws
 log/cheats
 log/delete
@@ -32,4 +99,60 @@ log/olc
 log/rentgone
 log/restarts
 log/rip
+log/syslog.*
 log/usage
+syslog
+syslog.CRASH
+
+# CircleMUD miscellaneous files
+.fastboot
+.killscript
+
+# CircleMUD binaries
+bin/.dirstamp
+bin/.libs
+bin/autowiz
+bin/circle
+bin/delobjs
+bin/listrent
+bin/mudpasswd
+bin/play2to3
+bin/purgeplay
+bin/shopconv
+bin/showplay
+bin/sign
+bin/split
+bin/wld2html
+
+# CircleMUD build files
+aclocal.m4
+ar-lib
+autom4te.cache
+compile
+config.cache
+config.guess
+config.log
+config.status
+config.sub
+configure
+depcomp
+install-sh
+libtool
+ltmain.sh
+m4/libtool.m4
+m4/ltoptions.m4
+m4/ltsugar.m4
+m4/ltversion.m4
+m4/lt~obsolete.m4
+missing
+
+# CircleMUD source files
+Makefile
+Makefile.in
+src/.accepted
+src/.deps
+src/Makefile
+src/Makefile.in
+src/conf.h
+src/conf.h.in
+src/stamp-h1

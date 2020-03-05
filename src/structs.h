@@ -1,7 +1,3 @@
-#ifndef DRAGONSLAVE
-#define DRAGONSLAVE
-#endif
-
 /*************************************************************************
 *   File: structs.h                                     Part of CircleMUD *
 *  Usage: header file for central structures and contstants               *
@@ -12,11 +8,10 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
+#include "conf.h"
+#include "sysdep.h"
 
 /* preamble *************************************************************/
-
-
-#include <sys/types.h> 
 
 #define NOWHERE    -1    /* nil reference for room-database	*/
 #define SOMEPLACE   0    /* someplace for room-database		*/
@@ -798,7 +793,6 @@ typedef signed char		sbyte;
 typedef unsigned char		ubyte;
 typedef signed short int	sh_int;
 typedef unsigned short int	ush_int;
-typedef char			bool;
 typedef char			byte;
 
 typedef sh_int	room_num;

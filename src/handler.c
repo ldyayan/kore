@@ -9,12 +9,10 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-#include <string.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <ctype.h>
 /* #include <assert.h> */
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -1450,7 +1448,7 @@ struct char_data *get_char_world( struct char_data *ch, char *argument )
     count  = 0;
     for ( wch = character_list; wch != NULL ; wch = wch->next )
     {
-        if ( wch->in_room == NULL || !can_see( ch, wch )  
+        if ( wch->in_room == NOWHERE || !can_see( ch, wch )  
         ||   !is_name( arg, GET_NAME(wch)) )
             continue;
         if ( ++count == number )

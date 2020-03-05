@@ -20,10 +20,9 @@ The timekeeper mob should never actually be visible to players - use mpsilent
 to prevent this if neccessary.
 * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-#include <stdlib.h>
-#include <stdio.h>
-#include <string.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "comm.h"
 #include "utils.h"

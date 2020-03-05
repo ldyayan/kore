@@ -9,14 +9,9 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <time.h>
-#include <errno.h>
-#include <sys/time.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -1740,7 +1735,7 @@ ACMD(do_affects)
 
                            /* now get all the rest of the words */
   /* could have used a while loop, whatever */
-  for (i = 0; (s = strtok(NULL, "")) != '\0'; i++) {
+  for (i = 0; (s = strtok(NULL, "")) != NULL && *s != '\0'; i++) {
     l = strlen(s);
     if ((linel + l) > 75) {     /* 75 is the max line length */
       strcat(buf, "\r\n");

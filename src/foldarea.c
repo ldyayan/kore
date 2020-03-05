@@ -8,11 +8,9 @@
 
 #define _RV_OLC_
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "interpreter.h"
 #include "comm.h"

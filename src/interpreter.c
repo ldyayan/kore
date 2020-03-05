@@ -11,11 +11,9 @@
 
 #define __INTERPRETER_C__
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "comm.h"
 #include "interpreter.h"
@@ -39,7 +37,7 @@ extern char *START_MESSG;
 extern struct char_data *character_list;
 extern struct player_index_element *player_table;
 extern int top_of_p_table;
-extern int restrict;
+extern int circle_restrict;
 extern struct index_data *mob_index;
 extern struct index_data *obj_index;
 extern struct room_data *world;
@@ -1706,7 +1704,7 @@ void nanny(struct descriptor_data * d, char *arg)
 	STATE(d) = CON_CLOSE;
 	return;
       }
-      if (restrict) {
+      if (circle_restrict) {
 	SEND_TO_Q("Sorry, new players can't be created at the moment.\r\n", d);
 	sprintf(buf, "Request for new char %s denied from %s (wizlock)",
 		GET_NAME(d->character), d->host);
@@ -1762,7 +1760,7 @@ void nanny(struct descriptor_data * d, char *arg)
 	mudlog(buf, NRM, LVL_GOD, TRUE);
 	return;
       }
-      if (GET_LEVEL(d->character) < restrict) {
+      if (GET_LEVEL(d->character) < circle_restrict) {
 	SEND_TO_Q("Site has moved to your.unreality.com 6000.\r\n", d);
 	STATE(d) = CON_CLOSE;
 	sprintf(buf, "Request for login denied for %s [%s] (wizlock)",
@@ -1966,7 +1964,7 @@ void nanny(struct descriptor_data * d, char *arg)
     break;
 
   case CON_QRACE:
-    if ((GET_RACE(d->character) = parse_race(arg)) == RACE_UNDEFINED) {
+    if ((GET_PC_RACE(d->character) = parse_race(arg)) == RACE_UNDEFINED) {
       SEND_TO_Q("\r\nThat's not a race.\r\nRace: ", d);
       return;
     }

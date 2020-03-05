@@ -10,13 +10,9 @@
 
 #define __DB_C__
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <ctype.h>
-#include <time.h>
-#include <errno.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "db.h"
@@ -72,7 +68,7 @@ int no_mail = 0;		/* mail disabled?		 */
 int mini_mud = 0;		/* mini-mud mode?		 */
 int no_rent_check = 0;		/* skip rent check on boot?	 */
 time_t boot_time = 0;		/* time of mud boot		 */
-int restrict = 0;		/* level of game restriction	 */
+int circle_restrict = 0;	/* level of game restriction	 */
 sh_int r_mortal_start_room;	/* rnum of mortal start room	 */
 sh_int r_immort_start_room;	/* rnum of immort start room	 */
 sh_int r_frozen_start_room;	/* rnum of frozen start room	 */
@@ -2126,7 +2122,7 @@ void reset_zone(int zone)
       if (mob_index[ZCMD.arg1].number < ZCMD.arg2) {
 	mob = read_mobile(ZCMD.arg1, REAL);
 	char_to_room(mob, ZCMD.arg3);
-	GET_RACE(mob) = get_race_guess(mob);
+	GET_MOB_RACE(mob) = get_race_guess(mob);
 	GET_CLASS(mob) = get_class_guess(mob);
 	mprog_load_trigger(mob);
 	last_cmd = 1;
@@ -2998,7 +2994,7 @@ void init_char(struct char_data * ch)
   for (i = 0; i < 5; i++)
     GET_SAVE(ch, i) = 0;
 
-  for (i = 0; i < 4; i++)
+  for (i = 0; i < 3; i++)
     GET_COND(ch, i) = (GET_LEVEL(ch) == LVL_IMPL ? -1 : 24);
 }
 

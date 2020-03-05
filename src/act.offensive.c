@@ -9,9 +9,9 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-#include <stdio.h>
-#include <string.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -1300,8 +1300,7 @@ ACMD(do_bash)
         if (IS_AFFECTED(vict, AFF_MIRROR_IMAGE))
         affect_from_char(vict, SPELL_MIRROR_IMAGE);
         GET_IMAGES(vict) = 0;
-        send_to_char("The last of your images disipates, leaving you unprotected.
-\r\n", vict);
+        send_to_char("The last of your images disipates, leaving you unprotected.\r\n", vict);
 
       }
     }

@@ -10,9 +10,8 @@
 ************************************************************************ */
 
 
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "comm.h"
@@ -27,7 +26,6 @@ extern char *spell_wear_off_msg[];
 extern char *spell_dispel_msg[];
 extern struct obj_data *object_list;
 extern struct char_data *character_list;
-extern struct cha_app_type cha_app[];
 extern struct int_app_type int_app[];
 extern struct index_data *obj_index;
 extern struct weather_data weather_info;

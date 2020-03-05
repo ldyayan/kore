@@ -48,11 +48,8 @@
 *  Ported to SMAUG 1.4 by Karn.                                            *
 ***************************************************************************/
 
-#include <sys/types.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "interpreter.h"
@@ -718,7 +715,7 @@ void generate_quest(struct char_data *ch, struct char_data *questman)
         return;
     }
 
-    if ( ( (room = victim->in_room) == NULL )
+    if ( ( (room = victim->in_room) == NOWHERE )
 	|| (ROOM_FLAGGED(victim->in_room, ROOM_PEACEFUL))
 	|| (ROOM_FLAGGED(victim->in_room, ROOM_GODROOM))
 	|| (!ZONE_FLAGGED(victim->in_room, ZONE_ACTIVE)) )

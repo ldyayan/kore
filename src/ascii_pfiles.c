@@ -4,14 +4,9 @@
  *                                        - Darryl Shpak / Culvan       *
  ************************************************************************/
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <sys/time.h>
-#include <ctype.h>
-#include <unistd.h>
-#include <errno.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "comm.h"
 #include "handler.h"

@@ -9,9 +9,9 @@
 *  CircleMUD is based on DikuMUD, Copyright (C) 1990, 1991.               *
 ************************************************************************ */
 
-#include <stdio.h>
-#include <stdlib.h>
 
+#include "conf.h"
+#include "sysdep.h"
 #include "structs.h"
 #include "utils.h"
 #include "db.h"
@@ -263,13 +263,13 @@ void mobile_activity(void)
           goto next_mobile;
         }
       }
-
     }
 
     /* Add new mobile actions here */
 
 next_mobile:			/* this MUST come last */
-  }				/* end for() */
+  ;				/* end for() */
+  }
 }
 
 
