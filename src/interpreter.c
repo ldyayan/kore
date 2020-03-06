@@ -193,6 +193,7 @@ ACMD(do_lock);
 ACMD(do_look);
 ACMD(do_make);
 ACMD(do_map);
+ACMD(do_mlist);
 ACMD(do_mount);
 ACMD(do_move);
 ACMD(do_music);
@@ -201,8 +202,9 @@ ACMD(do_newwho);
 ACMD(do_not_here);
 ACMD(do_not_save);
 ACMD(do_offer);
-ACMD(do_open);
 ACMD(do_olc);
+ACMD(do_olist);
+ACMD(do_open);
 ACMD(do_opstat);
 ACMD(do_order);
 ACMD(do_page);
@@ -244,6 +246,7 @@ ACMD(do_rest);
 ACMD(do_restore);
 ACMD(do_return);
 ACMD(do_riposte);
+ACMD(do_rlist);
 ACMD(do_romscore);
 ACMD(do_sacrifice);
 ACMD(do_save);
@@ -263,6 +266,7 @@ ACMD(do_shutdown);
 ACMD(do_sit);
 ACMD(do_skillset);
 ACMD(do_sleep);
+ACMD(do_slist);
 ACMD(do_smite);
 ACMD(do_sneak);
 ACMD(do_snoop);
@@ -314,6 +318,7 @@ ACMD(do_wiznet);
 ACMD(do_wizutil);
 ACMD(do_write);
 ACMD(do_yank);
+ACMD(do_zlist);
 ACMD(do_zreset);
 ACMD(do_mpstat);
 ACMD(do_mpasound);
@@ -576,6 +581,7 @@ const struct command_info cmd_info[] = {
   { "mail"     , POS_STANDING, do_not_here , 0, 0 },
   { "make"     , POS_RESTING , do_make     , LVL_IMPL, 0 },
   { "map"      , POS_RESTING , do_map      , 0, 0 },
+  { "mlist"    , POS_DEAD    , do_mlist    , LVL_BUILDER, 0 },
   { "mount"    , POS_STANDING, do_mount    , 59, 0 },
   { "music"    , POS_RESTING , do_music    , 0, 0 },
   { "mute"     , POS_DEAD    , do_wizutil  , LVL_LGOD, SCMD_SQUELCH },
@@ -597,6 +603,7 @@ const struct command_info cmd_info[] = {
   { "notitle"  , POS_DEAD    , do_wizutil  , LVL_GOD, SCMD_NOTITLE },
   { "nowiz"    , POS_DEAD    , do_gen_tog  , LVL_IMMORT, SCMD_NOWIZ },
 
+  { "olist"    , POS_DEAD    , do_olist    , LVL_BUILDER, 0 },
   { "oldscore" , POS_DEAD    , do_score    , 0, 0 },
   { "order"    , POS_RESTING , do_order    , 0, 0 },
   { "offer"    , POS_STANDING, do_not_here , 0, 0 },
@@ -655,6 +662,7 @@ const struct command_info cmd_info[] = {
   { "restore"  , POS_DEAD    , do_restore  , LVL_DEITY, 0 },
   { "return"   , POS_DEAD    , do_return   , 0, 0 },
   { "riposte"  , POS_FIGHTING, do_riposte  , 0, 0 },
+  { "rlist"    , POS_DEAD    , do_rlist    , LVL_BUILDER, 0 },
   { "roomflags", POS_DEAD    , do_gen_tog  , LVL_IMMORT, SCMD_ROOMFLAGS },
 
   { "say"      , POS_RESTING , do_say      , 0, 0 },
@@ -682,6 +690,7 @@ const struct command_info cmd_info[] = {
   { "sit"      , POS_RESTING , do_sit      , 0, 0 },
   { "skillset" , POS_SLEEPING, do_skillset , LVL_GOD, 0 },
   { "sleep"    , POS_SLEEPING, do_sleep    , 0, 0 },
+  { "slist"    , POS_DEAD    , do_slist    , LVL_BUILDER, 0 },
   { "slowns"   , POS_DEAD    , do_gen_tog  , LVL_GOD, SCMD_SLOWNS },
   { "smite"    , POS_DEAD    , do_smite	   , LVL_GRGOD, 0 },
   { "sneak"    , POS_STANDING, do_sneak    , 0, 0 },
@@ -755,6 +764,7 @@ const struct command_info cmd_info[] = {
   
   { "yank"     , POS_STANDING, do_yank     , 0, 0 },
 
+  { "zlist"    , POS_DEAD    , do_zlist    , LVL_BUILDER, 0 },
   { "zreset"   , POS_DEAD    , do_zreset   , LVL_IMMORT, 0 },
 
   /* MOBProg Foo */
@@ -1274,19 +1284,18 @@ int search_block(char *arg, char **list, bool exact)
   register int i, l;
 
   /* Make into lower case, and get length of string */
-  for (l = 0; *(arg + l); l++)
-    *(arg + l) = LOWER(*(arg + l));
+  l = strlen(arg);
 
   if (exact) {
     for (i = 0; **(list + i) != '\n'; i++)
-      if (!strcmp(arg, *(list + i)))
+      if (str_cmp(arg, *(list + i)) == 0)
 	return (i);
   } else {
     if (!l)
       l = 1;			/* Avoid "" to match the first available
 				 * string */
     for (i = 0; **(list + i) != '\n'; i++)
-      if (!strncmp(arg, *(list + i), l))
+      if (strn_cmp(arg, *(list + i), l) == 0)
 	return (i);
   }
 

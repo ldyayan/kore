@@ -107,6 +107,15 @@ const char *zone_bits[] = {
 };
 
 
+/* Reset modes */
+const char *reset_modes[] = {
+  "NEVER",
+  "EMPTY",
+  "ALWAYS",
+  "\n"
+};
+
+
 /* ROOM_x */
 const char *room_bits[] = {
   "DARK",

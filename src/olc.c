@@ -48,7 +48,8 @@ extern int free_shop(struct shop_data *shop);
 extern int free_room(struct room_data *room);
 
 /*. Internal function prototypes .*/
-int real_zone(int number);
+sh_int real_zone(const sh_int number);
+sh_int real_zone_by_thing(const sh_int vnum);
 void olc_saveinfo(struct char_data *ch);
 
 /*. Internal data .*/
@@ -157,7 +158,7 @@ ACMD(do_olc)
   CREATE(d->olc, struct olc_data, 1);
 
   /*. Find the zone .*/
-  OLC_ZNUM(d) = real_zone(number);
+  OLC_ZNUM(d) = real_zone_by_thing(number);
   if (OLC_ZNUM(d) == -1)
   { send_to_char ("Sorry, there is no zone for that number!\r\n", ch); 
     free(d->olc);
@@ -300,14 +301,41 @@ void olc_saveinfo(struct char_data *ch)
 }
 
 
-int real_zone(int number)
-{ int counter;
-  for (counter = 0; counter <= top_of_zone_table; counter++)
-    if ((number >= (zone_table[counter].number * 100)) &&
-        (number <= (zone_table[counter].top)))
-      return counter;
+sh_int real_zone(const sh_int vnum) {
+  register int bottom = 0;
+  register int top = top_of_zone_table;
 
-  return -1;
+  for (;;) {
+    /* Recompute every time */
+    const int mid = (bottom + top) / 2;
+
+    /* We found the zone */
+    if (zone_table[mid].number == vnum)
+      return (mid);
+
+    /* No more zones to search */
+    if (bottom >= top)
+      return (-1);
+
+    /* Pick the next zone to check */
+    if (zone_table[mid].number > vnum) {
+      top = mid - 1;
+    } else {
+      bottom = mid + 1;
+    }
+  }
+}
+
+
+sh_int real_zone_by_thing(const sh_int vnum) {
+  register sh_int rzone = 0;
+  for (; rzone <= top_of_zone_table; ++rzone) {
+    const sh_int bottom = zone_table[rzone].number * 100;
+    const sh_int top    = zone_table[rzone].top;
+    if (vnum >= bottom && vnum <= top)
+      return (rzone);
+  }
+  return (-1);
 }
 
 /*------------------------------------------------------------*\

@@ -1,6 +1,7 @@
 bin_PROGRAMS=$(top_builddir)/bin/circle
 __top_builddir__bin_circle_LDADD=@CRYPTLIB@
 __top_builddir__bin_circle_SOURCES=\
+	act.build.c \
 	act.comm.c \
 	act.informative.c \
 	act.movement.c \
